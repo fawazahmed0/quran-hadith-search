@@ -1,4 +1,4 @@
-const fs = require('fs')
+const fs = require('fs-extra')
 const path = require('path')
 const fetch = (...args) => import('node-fetch').then(({ default: fetch }) => fetch(...args));
 
@@ -46,7 +46,7 @@ async function test() {
     }
 
     for(let [pathToSave, dataArr] of Object.entries(bigJSON)){
-        fs.writeFileSync(pathToSave, dataArr.join('\n\n'))
+        fs.outputFileSync(pathToSave, dataArr.join('\n\n'))
     }
 
 }
