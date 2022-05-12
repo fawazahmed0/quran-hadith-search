@@ -37,7 +37,6 @@ async function test() {
                 addToBigJSON(pathToSave, languageHeading )
 
                 addToBigJSON(pathToSave, dataToSave )
-                break
             }
             
 
