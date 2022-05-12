@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5820],{3092:function(a){a.exports=JSON.parse('{"label":"docusaurus","permalink":"/quran-hadith-search/blog/tags/docusaurus","allTagsPath":"/quran-hadith-search/blog/tags","count":4}')}}]);

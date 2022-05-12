@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[338],{1090:function(a){a.exports=JSON.parse('{"label":"hola","permalink":"/quran-hadith-search/blog/tags/hola","allTagsPath":"/quran-hadith-search/blog/tags","count":1}')}}]);
