@@ -28,7 +28,7 @@ async function test() {
             let hadiths = data.hadiths
 
             for (let hadith of hadiths) {
-                fs.appendFileSync(path.join(__dirname,'mytest.txt'),getHadithCardElem(hadith, edition, dirval, lang, isocodes)+'\n')
+                fs.appendFileSync(path.join(__dirname,'mytest.txt'),getHadithCardElem(hadith, edition, dirval, lang, isocodes))
                 break
             }
             
@@ -87,7 +87,7 @@ function getHadithCardElem(hadith, editionName, dirval, lang, isocodes) {
     }
     str += `</tbody></table></div>`
 
-    return str
+    return str + '\n'
 }
 
 
