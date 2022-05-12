@@ -46,7 +46,7 @@ test()
 function getHadithCardElem(hadith, editionName, dirval, lang, isocodes) {
     let str = ''
     let lowerLang = lang.toLowerCase()
-    str += `<div dir="${dirval}" lang="${isocodes[lowerLang].iso1 ? isocodes[lowerLang].iso1 : isocodes[lowerLang].iso2}" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>${hadith.text}</div>`
+    str += `<div dir="${dirval}" lang="${isocodes[lowerLang].iso1 ? isocodes[lowerLang].iso1 : isocodes[lowerLang].iso2}" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>${(hadith.text).replace(/`/gi,"'")}</div>`
     str+=`<div style={{backgroundColor:'#f8f9fa'}}>`
     if (hadith.grades.length > 0) {
         str += `<table>
@@ -67,7 +67,7 @@ function getHadithCardElem(hadith, editionName, dirval, lang, isocodes) {
         str += `</tbody></table>`
 
 
-    if (hadith.hadithnumber) {
+    if ("hadithnumber" in hadith) {
         str += `<table>
         <thead>
           <tr>
@@ -78,11 +78,11 @@ function getHadithCardElem(hadith, editionName, dirval, lang, isocodes) {
         <tbody>`
         str += `<tr><td>Hadith No</td><td>${hadith.hadithnumber}</td></tr>`
     }
-    if (hadith.arabicnumber) {
+    if ("arabicnumber" in hadith) {
         str += `<tr><td>Arabic No</td><td>${hadith.arabicnumber}</td></tr>`
     }
 
-    if (hadith.reference) {
+    if ("reference" in hadith) {
         str += `<tr><td>Reference</td><td>${Object.entries(hadith.reference).flat().map(e => capitalize(e)).join(' ')}</td></tr>`
     }
     str += `</tbody></table></div>`
