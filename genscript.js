@@ -2,7 +2,7 @@ const fs = require('fs')
 const path = require('path')
 const fetch = (...args) => import('node-fetch').then(({ default: fetch }) => fetch(...args));
 
-let apiLinks = ["https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/", "https://raw.githubusercontent.com/fawazahmed0/hadith-api/1/"]
+let hadithLinks = ["https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/", "https://raw.githubusercontent.com/fawazahmed0/hadith-api/1/"]
 let quranLinks = ["https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/", "https://raw.githubusercontent.com/fawazahmed0/quran-api/1/"]
 let extensions = [".min.json", ".json"]
 
@@ -128,6 +128,6 @@ async function fetchWithFallback(links, obj) {
 
 // convert endpoint into multiple urls, including fallback urls
 function getURLs(endpoint, links) {
-    links = links || apiLinks
+    links = links || hadithLinks
     return extensions.map(ext => links.map(e => e + endpoint + ext)).flat()
 }
