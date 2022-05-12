@@ -47,8 +47,9 @@ function getHadithCardElem(hadith, editionName, dirval, lang, isocodes) {
     let str = ''
     let lowerLang = lang.toLowerCase()
     str += `<div dir="${dirval}" lang="${isocodes[lowerLang].iso1 ? isocodes[lowerLang].iso1 : isocodes[lowerLang].iso2}" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>${hadith.text}</div>`
+    str+=`<div style={{backgroundColor:'#f8f9fa'}}>`
     if (hadith.grades.length > 0) {
-        str += `<div style={{backgroundColor:'#f8f9fa'}}><table>
+        str += `<table>
       <thead>
         <tr>
           <th>Grade</th>
