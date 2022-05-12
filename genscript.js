@@ -5,7 +5,7 @@ const fetch = (...args) => import('node-fetch').then(({ default: fetch }) => fet
 let hadithLinks = ["https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/", "https://raw.githubusercontent.com/fawazahmed0/hadith-api/1/"]
 let quranLinks = ["https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/", "https://raw.githubusercontent.com/fawazahmed0/quran-api/1/"]
 let extensions = [".min.json", ".json"]
-
+let bigJSON = {}
 
 async function test() {
 
@@ -13,8 +13,11 @@ async function test() {
     let isocodes = await getJSON('isocodes/iso-codes', quranLinks)
     let infoJSON = await getJSON('info')
 
+    let hadithPath = path.join(__dirname, 'docs','Hadiths')
+    let quranPath = path.join(__dirname, 'docs','Quran')
+
     for (let [bareedition, value] of Object.entries(editionsJSON)) {
-        for (let collection of editionsJSON[bareedition].collection) {
+        for (let collection of editionsJSON[bareedition].collection.sort((a,b)=>a.language.localeCompare(b.language))) {
 
             let edition = collection.name;
             let lang = collection.language;
@@ -22,19 +25,28 @@ async function test() {
 
 
             let data = await getJSON(`editions/${edition}`)
-
-
+            let languageHeading = `## ${lang}`
 
             let hadiths = data.hadiths
 
             for (let hadith of hadiths) {
-                fs.appendFileSync(path.join(__dirname,'mytest.txt'),getHadithCardElem(hadith, edition, dirval, lang, isocodes))
+                let pathToSave = path.join(hadithPath,editionsJSON[bareedition].name,`${capitalize(bareedition)} - ${Math.floor(hadith.hadithnumber)}.mdx`)
+                let dataToSave = getHadithCardElem(hadith, edition, dirval, lang, isocodes)
+                // save language if doesn't exists
+                if(Array.isArray(bigJSON[pathToSave]) && !bigJSON[pathToSave].includes(languageHeading))
+                addToBigJSON(pathToSave, languageHeading )
+
+                addToBigJSON(pathToSave, dataToSave )
                 break
             }
             
 
         }
         
+    }
+
+    for(let [pathToSave, dataArr] of Object.entries(bigJSON)){
+        fs.writeFileSync(pathToSave, dataArr.join('\n\n'))
     }
 
 }
@@ -47,7 +59,7 @@ function getHadithCardElem(hadith, editionName, dirval, lang, isocodes) {
     let str = ''
     let lowerLang = lang.toLowerCase()
     str += `<div dir="${dirval}" lang="${isocodes[lowerLang].iso1 ? isocodes[lowerLang].iso1 : isocodes[lowerLang].iso2}" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>${(hadith.text).replace(/`/gi,"'")}</div>`
-    str+=`<div style={{backgroundColor:'#f8f9fa'}}>`
+    str+=`<div style={{backgroundColor:'#f8f9fa',padding:20}}>`
     if (hadith.grades.length > 0) {
         str += `<table>
       <thead>
@@ -95,7 +107,14 @@ function capitalize(words) {
     return words.toString().toLowerCase().replace(/(^\w{1})|(\s+\w{1})/g, match => match.toUpperCase()).trim()
 }
 
+function addToBigJSON(key, value) {
 
+    if(key in bigJSON)
+        bigJSON[key].push(value)
+    else
+        bigJSON[key] = [value]
+
+}
 
 // https://www.shawntabrizi.com/code/programmatically-fetch-multiple-apis-parallel-using-async-await-javascript/
 // Get links async i.e in parallel
