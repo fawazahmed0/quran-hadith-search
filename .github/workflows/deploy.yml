@@ -22,7 +22,7 @@ jobs:
         run: npm ci
       - name: Build website
         run: |
-          export NODE_OPTIONS="--max-old-space-size=12288"
+          export NODE_OPTIONS="--max-old-space-size=13824"
           npm run build
 
       # Popular action to deploy to GitHub Pages:
