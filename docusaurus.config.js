@@ -127,18 +127,16 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
-    plugins: [
-      function customWebpackConfig() {
-        return {
-          name: 'custom-webpack-config',
-          configureWebpack(config, isServer, utils) {
-            return {
-              parallelism:1,
-            };
-          },
-        };
-      },
-    ],
+    webpack: {
+      jsLoader: (isServer) => ({
+        loader: require.resolve('esbuild-loader'),
+        options: {
+          loader: 'tsx',
+          format: isServer ? 'cjs' : undefined,
+          target: isServer ? 'node12' : 'es2017',
+        },
+      }),
+    },
     themes: [
       // ... Your other themes.
       [
