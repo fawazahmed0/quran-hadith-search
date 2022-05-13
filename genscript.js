@@ -69,8 +69,10 @@ async function test() {
 
     }
 
-    for(let [pathToSave, dataArr] of Object.entries(bigJSON)){
-        fs.outputFileSync(pathToSave, dataArr.join('\n\n'))
+    let filteredKeys = Object.keys(bigJSON).filter(e=>e.includes('Quran'))
+
+    for(let pathToSave of filteredKeys){
+        fs.outputFileSync(pathToSave, bigJSON[pathToSave].join('\n\n'))
     }
 
 }
