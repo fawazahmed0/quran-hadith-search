@@ -127,18 +127,6 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
-    plugins: [
-      function customWebpackConfig() {
-        return {
-          name: 'custom-webpack-config',
-          configureWebpack(config, isServer, utils) {
-            return {
-              parallelism:1,
-            };
-          },
-        };
-      },
-    ],
     themes: [
       // ... Your other themes.
       [
