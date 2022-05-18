@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "@docusaurus/core": "2.0.0-beta.20",
+    "@docusaurus/plugin-pwa": "^2.0.0-beta.20",
     "@docusaurus/preset-classic": "2.0.0-beta.20",
     "@easyops-cn/docusaurus-search-local": "github:fawazahmed0/docusaurus-search-local#quran-hadith-search",
     "@mdx-js/react": "^1.6.22",

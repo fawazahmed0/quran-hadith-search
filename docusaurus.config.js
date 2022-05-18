@@ -123,6 +123,55 @@ const config = {
         },
       ],
     ],
+    plugins: [
+      [
+        '@docusaurus/plugin-pwa',
+        {
+          pwaHead:[
+            {
+              tagName: 'link',
+              rel: 'icon',
+              href: '/img/512x512.png',
+            },
+            {
+              tagName: 'link',
+              rel: 'manifest',
+              href: '/manifest.json', // your PWA manifest
+            },
+            {
+              tagName: 'meta',
+              name: 'theme-color',
+              content: '#007bff',
+            },
+            {
+              tagName: 'meta',
+              name: 'apple-mobile-web-app-capable',
+              content: 'yes',
+            },
+            {
+              tagName: 'meta',
+              name: 'apple-mobile-web-app-status-bar-style',
+              content: '#007bff',
+            },
+            {
+              tagName: 'link',
+              rel: 'apple-touch-icon',
+              href: '/img/512x512.png',
+            },
+            {
+              tagName: 'meta',
+              name: 'msapplication-TileImage',
+              content: '/img/512x512.png',
+            },
+            {
+              tagName: 'meta',
+              name: 'msapplication-TileColor',
+              content: '#007bff',
+            },
+          ]
+        }
+      ],
+    ],
 };
 
 module.exports = config;

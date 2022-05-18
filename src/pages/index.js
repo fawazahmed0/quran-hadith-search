@@ -17,7 +17,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Read Quran And Hadith in Multiple Languages And Gradings
+            Read Quran And Hadith
           </Link>
         </div>
       </div>
