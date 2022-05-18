@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Quran & Hadith
+# Intro
 
-Quran in Multiple Languages Available
+This website has Quran and hadiths in multiple languages
 
 
-Hadith in Multiple Languages with Multiple Gradings Available
+Also the hadiths has multiple grades
