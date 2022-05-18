@@ -6,6 +6,7 @@
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "build": "node genscript.js && docusaurus build && node copydir.js",
+    "testbuild": "docusaurus build && node copydir.js",  
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
