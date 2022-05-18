@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: Deploy test build to GitHub Pages
 
 on:
   workflow_dispatch:
