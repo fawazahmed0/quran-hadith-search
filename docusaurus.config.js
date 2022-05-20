@@ -118,7 +118,7 @@ const config = {
           hashed: true,
           // For Docs using Chinese, The `language` is recommended to set to:
           // ```
-          language: ["ar", "da", "de", "du", "es", "fi", "fr", "hi", "hu", "it", "ja", "jp", "nl", "no", "pt", "ro", "ru", "sv", "ta", "th", "tr", "vi", "zh"],
+          language: ["ar", "da", "de", "es", "fi", "fr", "hi", "hu", "it", "ja", "jp", "nl", "no", "pt", "ro", "ru", "sv", "ta", "th", "tr", "vi", "zh"],
           // ```
         },
       ],
