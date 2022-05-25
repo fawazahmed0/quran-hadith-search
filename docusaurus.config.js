@@ -109,18 +109,6 @@ const config = {
       },
     }),
     plugins: [
-      function customWebpackConfig() {
-        return {
-          name: 'custom-webpack-config',
-          configureWebpack(config, isServer, utils) {
-            return {
-              experiments: {
-                lazyCompilation: true,
-              },
-            };
-          },
-        };
-      },
       [
         '@docusaurus/plugin-pwa',
         {
