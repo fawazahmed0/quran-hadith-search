@@ -1,11 +1,11 @@
-name: Deploy to GitHub Pages
+name: Test ram usage
 
 on:
   workflow_dispatch:
 
 jobs:
   deploy:
-    name: Deploy to GitHub Pages
+    name: Test ram usage
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
