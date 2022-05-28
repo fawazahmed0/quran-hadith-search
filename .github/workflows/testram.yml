@@ -1,12 +1,12 @@
-name: Test ram usage
+name: Test real prod build
 
 on:
   workflow_dispatch:
 
 jobs:
   deploy:
-    name: Test ram usage
-    runs-on: ubuntu-latest
+    name: Test real prod build
+    runs-on: macos-12
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v3
@@ -15,10 +15,10 @@ jobs:
           cache: npm
 
       - name: Install dependencies
-        run: npm ci
+        run: npm i
       - name: Build website
         run: |
-          export NODE_OPTIONS="--max-old-space-size=12288"
+          export NODE_OPTIONS="--max-old-space-size=27648"
           npm run build
       # Popular action to deploy to GitHub Pages:
       # Docs: https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-docusaurus
