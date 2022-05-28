@@ -97,6 +97,14 @@ const config = {
                 href: 'https://fawazahmed0.github.io/islamic-project/',
               },
               {
+                label: 'Quran',
+                href: 'https://fawazahmed0.github.io/quran',
+              },
+              {
+                label: 'Hadiths',
+                href: 'https://fawazahmed0.github.io/hadiths',
+              },
+              {
                 label: 'GitHub',
                 href: 'https://github.com/fawazahmed0/quran-hadith-search',
               },
