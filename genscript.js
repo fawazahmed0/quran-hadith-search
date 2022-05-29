@@ -1,7 +1,6 @@
 const fs = require('fs-extra')
 const path = require('path')
 const fetch = (...args) => import('node-fetch').then(({ default: fetch }) => fetch(...args));
-const prettier = require("prettier");
 
 let hadithLinks = ["https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/", "https://raw.githubusercontent.com/fawazahmed0/hadith-api/1/"]
 let quranLinks = ["https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/", "https://raw.githubusercontent.com/fawazahmed0/quran-api/1/"]
@@ -80,7 +79,7 @@ async function test() {
     }
 
     for(let [pathToSave, dataArr] of Object.entries(bigJSON)){
-        fs.outputFileSync(pathToSave, prettier.format( dataArr.join('\n'), { parser: "mdx" } ))
+        fs.outputFileSync(pathToSave, dataArr.join('\n\n'))
     }
 
 }
@@ -92,7 +91,11 @@ test()
 function getHadithCardElem(hadith, dirval, lang, isocodes) {
     let str = ''
     let lowerLang = lang.toLowerCase()
-    str += `<div dir="${dirval}" lang="${isocodes[lowerLang].iso1 ? isocodes[lowerLang].iso1 : isocodes[lowerLang].iso2}" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>${cleanText(hadith.text)}</div>`
+    let mainText = `
+    <div dir="${dirval}" lang="${isocodes[lowerLang].iso1 ? isocodes[lowerLang].iso1 : isocodes[lowerLang].iso2}" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+    ${cleanText(hadith.text)}
+    </div>
+    `
     str+=`<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}>`
     if (hadith.grades.length > 0) {
         str += `<table>
@@ -133,7 +136,7 @@ function getHadithCardElem(hadith, dirval, lang, isocodes) {
     }
     str += `</tbody></table></div>`
 
-    return str
+    return mainText + str.replace(/\s+/gi, ' ')
 }
 
 
@@ -141,7 +144,11 @@ function getHadithCardElem(hadith, dirval, lang, isocodes) {
 function getQuranCardElem(quran, dirval, lang,authorName, isocodes) {
     let str = ''
     let lowerLang = lang.toLowerCase()
-    str += `<div dir="${dirval}" lang="${isocodes[lowerLang].iso1 ? isocodes[lowerLang].iso1 : isocodes[lowerLang].iso2}" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>${cleanText(quran.text)}</div>`
+    let mainText = `
+    <div dir="${dirval}" lang="${isocodes[lowerLang].iso1 ? isocodes[lowerLang].iso1 : isocodes[lowerLang].iso2}" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+    ${cleanText(quran.text)}
+    </div>
+    `
     str+=`<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}>`
 
         str += `<table>
@@ -159,7 +166,7 @@ function getQuranCardElem(quran, dirval, lang,authorName, isocodes) {
 
         str += `</tbody></table></div>`
 
-    return str
+    return mainText + str.replace(/\s+/gi, ' ')
 }
 
 
