@@ -1,11 +1,11 @@
-name: Test real prod build
+name: Deploy real prod
 
 on:
   workflow_dispatch:
 
 jobs:
   deploy:
-    name: Test real prod build
+    name: Deploy real prod
     runs-on: macos-12
     steps:
       - uses: actions/checkout@v2
