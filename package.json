@@ -6,7 +6,7 @@
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "build": "node genscript.js && docusaurus build && node copydir.js",
-    "generatetestfiles" : "npx rimraf testdocs && cross-env TEST_BUILD=true node genscript.js",
+    "generatetestfiles" : "npx rimraf testdocs && cross-env TEST_BUILD=true NODE_OPTIONS=--max-old-space-size=27648 node genscript.js",
     "testbuild": "cross-env TEST_BUILD=true node copydir.js && docusaurus build && cross-env TEST_BUILD=true node copydir.js",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
