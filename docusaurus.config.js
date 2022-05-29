@@ -52,7 +52,6 @@ const config = {
       }),
     ],
   ],
-  themes: ["mdx-v2"],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
