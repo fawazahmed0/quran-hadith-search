@@ -77,10 +77,11 @@ async function test() {
        let filteredEntries = Object.entries(bigJSON).filter((e,i)=>randomArr.includes(i))
        bigJSON = Object.fromEntries(filteredEntries)
     }
-
+    let promiseArr = [];
     for(let [pathToSave, dataArr] of Object.entries(bigJSON)){
-        fs.outputFileSync(pathToSave, dataArr.join('\n\n'))
+        promiseArr.push(fs.outputFile(pathToSave, dataArr.join('\n\n')))
     }
+    await Promise.all(promiseArr)
 
 }
 
