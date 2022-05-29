@@ -215,5 +215,5 @@ function getRandomArbitrary(max) {
 }
 
 function cleanText(str){
-    return str.replace(/`/gi,"'").replace(/\{/gi,"(").replace(/\}/gi,")")
+    return str.replace(/`/gi,"'").replace(/\{/gi,"(").replace(/\}/gi,")").replace(/\</gi,"(").replace(/\>/gi,")")
 }
