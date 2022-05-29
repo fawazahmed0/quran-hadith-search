@@ -12,13 +12,13 @@ const arabicChapters = Object.keys(chaptersJSON).map(e=>e.replace("'",""))
 const englishChapters = Object.values(chaptersJSON)
 
 async function test() {
-
+    let docsDir = process.env.TEST_BUILD ? 'testdocs' : 'docs'
     let editionsJSON = await getJSON('editions')
     let quranEditionsJSON = await getJSON('editions', quranLinks)
     let isocodes = await getJSON('isocodes/iso-codes', quranLinks)
 
-    let hadithPath = path.join(__dirname, 'docs','Hadiths')
-    let quranPath = path.join(__dirname, 'docs','Quran')
+    let hadithPath = path.join(__dirname, docsDir,'Hadiths')
+    let quranPath = path.join(__dirname, docsDir,'Quran')
 
     for (let [bareedition, value] of Object.entries(editionsJSON)) {
         for (let collection of editionsJSON[bareedition].collection.sort((a,b)=>a.language.localeCompare(b.language))) {
@@ -67,6 +67,15 @@ async function test() {
 
 
 
+    }
+    // only generate n random files if it's test builds
+    if(process.env.TEST_BUILD){
+       // number of files to generate if it's test build
+       let maxFiles = 100
+       let len = Object.keys(bigJSON).length
+       let randomArr = Array.from(Array(maxFiles).keys()).map(e=> getRandomArbitrary(len))
+       let filteredEntries = Object.entries(bigJSON).filter((e,i)=>randomArr.includes(i))
+       bigJSON = Object.fromEntries(filteredEntries)
     }
 
     for(let [pathToSave, dataArr] of Object.entries(bigJSON)){
@@ -199,4 +208,8 @@ async function fetchWithFallback(links, obj) {
 function getURLs(endpoint, links) {
     links = links || hadithLinks
     return extensions.map(ext => links.map(e => e + endpoint + ext)).flat()
+}
+
+function getRandomArbitrary(max) {
+    return Math.floor(Math.random() * max)
 }

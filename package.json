@@ -6,7 +6,8 @@
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "build": "node genscript.js && docusaurus build && node copydir.js",
-    "testbuild": "docusaurus build && node copydir.js",
+    "generatetestfiles" : "cross-env TEST_BUILD=true node genscript.js",
+    "testbuild": "docusaurus build && cross-env TEST_BUILD=true node copydir.js",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
@@ -30,6 +31,7 @@
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "2.0.0-beta.21",
+    "cross-env": "^7.0.3",
     "esbuild-loader": "^2.19.0"
   },
   "browserslist": {
