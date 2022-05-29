@@ -1,8 +1,6 @@
 const fs = require('fs-extra')
 const path = require('path')
 const fetch = (...args) => import('node-fetch').then(({ default: fetch }) => fetch(...args));
-const util = require('util')
-const exec = util.promisify(require('child_process').exec)
 
 let hadithLinks = ["https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/", "https://raw.githubusercontent.com/fawazahmed0/hadith-api/1/"]
 let quranLinks = ["https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/", "https://raw.githubusercontent.com/fawazahmed0/quran-api/1/"]
@@ -83,8 +81,6 @@ async function test() {
     for(let [pathToSave, dataArr] of Object.entries(bigJSON)){
         fs.outputFileSync(pathToSave, dataArr.join('\n\n'))
     }
-    // Prettify the generated mdx files
-    await exec(`npx prettier --write ${docsDir}`)
 
 }
 
