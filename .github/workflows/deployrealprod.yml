@@ -18,7 +18,7 @@ jobs:
         run: npm i
       - name: Build website
         run: |
-          export NODE_OPTIONS="--max-old-space-size=14336"
+          export NODE_OPTIONS="--max-old-space-size=27648"
           npm run build
       # Popular action to deploy to GitHub Pages:
       # Docs: https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-docusaurus
