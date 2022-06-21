@@ -54,6 +54,7 @@ jobs:
           node wiki.js
           git config --global user.email github-actions@github.com
           git config --global user.name github-actions
+          cd wiki
           git add -A
           git commit -m 'Update'
           git push
