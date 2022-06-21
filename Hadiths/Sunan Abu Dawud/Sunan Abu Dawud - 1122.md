@@ -1,0 +1,47 @@
+## Arabic
+
+
+<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ إِبْرَاهِيمَ بْنِ مُحَمَّدِ بْنِ الْمُنْتَشِرِ، عَنْ أَبِيهِ، عَنْ حَبِيبِ بْنِ سَالِمٍ، عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَقْرَأُ فِي الْعِيدَيْنِ وَيَوْمِ الْجُمُعَةِ بِـ ‏(‏ سَبِّحِ اسْمَ رَبِّكَ الأَعْلَى ‏)‏ وَ ‏(‏ هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ ‏)‏ قَالَ وَرُبَّمَا اجْتَمَعَا فِي يَوْمٍ وَاحِدٍ فَقَرَأَ بِهِمَا ‏.‏
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1122</td></tr><tr><td>Arabic No</td><td>1122</td></tr><tr><td>Reference</td><td>Book 2 Hadith 733</td></tr></tbody></table></div>
+
+## Bengali
+
+
+<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+কুতাইবা ইবনে সাঈদ (রহঃ) ...... নুমান ইবনে বাশীর (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দুই ঈদের নামাযে এবং জুমার নামাযে “সাব্বিহিছ্‌মা রাব্বিকাল্‌ আলা” এবং “হাল্‌ আতাকা হাদীছুল্‌ গাশিয়াহ্‌” সূরাদ্বয় তিলাওয়াত করতেন। রাবী বলেন, ঈদ ও জুমা একই দিনে অনুষ্ঠিত হলেও তিনি সূরাদ্বয় তিলাওয়াত করতেন। (মুসলিম, নাসাঈ, ইবনে মাজা)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1122</td></tr><tr><td>Arabic No</td><td>1122</td></tr><tr><td>Reference</td><td>Book 2 Hadith 733</td></tr></tbody></table></div>
+
+## English
+
+
+<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Al-Nu'man b. Bashir said:The Messenger of Allah (ﷺ) used to recite at the two 'Ids (festivals) and on Friday, "Glorify the name of your most high Lord." (87) and "Has the story of the overwhelming reached you?" (88) He said: When a festival ('Id) and a Friday coincided, he recited them both (at the two prayers)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1122</td></tr><tr><td>Arabic No</td><td>1122</td></tr><tr><td>Reference</td><td>Book 2 Hadith 733</td></tr></tbody></table></div>
+
+## Indonesian
+
+
+<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abu 'Awanah] dari [Ibrahim bin Muhammad bin Al Muntasyir] dari [ayahnya] dari [Habib bin Salim] dari [Nu'man bin Basyir] bahwa dalam shalat hari raya dan shalat Jum'at, Rasulullah shallallahu 'alaihi wasallam biasa membaca dengan: "Sabbihisma rabbikal a'la dan Hal ataaka hadiitsul ghaatsiyah." Kata Nu'man; "Apabila (hari raya dengan shalat jum'at) bertepatan dalam satu hari, maka beliau juga membaca kedua surat tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1122</td></tr><tr><td>Arabic No</td><td>1122</td></tr><tr><td>Reference</td><td>Book 2 Hadith 733</td></tr></tbody></table></div>
+
+## Turkish
+
+
+<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Nu'mân b. Beşîr (r.a.)'den rivayet edildiğine göre; “'ResûIullah (s.a.v.) cum'a ve bayramlarda [A'Iâ] ile [Ğâşiye] sürelerini okurdu." Bazan cum'a ve bayram aynı güne rastlar, Efendimiz de yine bu ikisini okurdu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1122</td></tr><tr><td>Arabic No</td><td>1122</td></tr><tr><td>Reference</td><td>Book 2 Hadith 733</td></tr></tbody></table></div>
+
+## Urdu
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+نعمان بن بشیر رضی اللہ عنہما سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم عیدین میں اور جمعہ کے روز «سبح اسم ربك الأعلى» اور«هل أتاك حديث الغاشية» پڑھتے تھے اور بسا اوقات عید اور جمعہ دونوں ایک ہی دن پڑ جاتا تو ( بھی ) انہیں دونوں کو پڑھتے تھے۔
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1122</td></tr><tr><td>Arabic No</td><td>1122</td></tr><tr><td>Reference</td><td>Book 2 Hadith 733</td></tr></tbody></table></div>

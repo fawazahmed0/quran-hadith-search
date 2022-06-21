@@ -1,0 +1,55 @@
+## Arabic
+
+
+<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+حَدَّثَنِي إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ قُلْتُ لأَبِي أُسَامَةَ حَدَّثَكُمْ إِدْرِيسُ، حَدَّثَنَا طَلْحَةُ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، ‏(‏وَلِكُلٍّ جَعَلْنَا مَوَالِيَ‏)‏ ‏(‏وَالَّذِينَ عَقَدَتْ أَيْمَانُكُمْ‏)‏ قَالَ كَانَ الْمُهَاجِرُونَ حِينَ قَدِمُوا الْمَدِينَةَ يَرِثُ الأَنْصَارِيُّ الْمُهَاجِرِيَّ دُونَ ذَوِي رَحِمِهِ لِلأُخُوَّةِ الَّتِي آخَى النَّبِيُّ صلى الله عليه وسلم بَيْنَهُمْ فَلَمَّا نَزَلَتْ ‏(‏جَعَلْنَا مَوَالِيَ‏)‏ قَالَ نَسَخَتْهَا ‏(‏وَالَّذِينَ عَقَدَتْ أَيْمَانُكُمْ‏)‏
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6747</td></tr><tr><td>Arabic No</td><td>6747</td></tr><tr><td>Reference</td><td>Book 85 Hadith 24</td></tr></tbody></table></div>
+
+## Bengali
+
+
+<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি এ আয়াত সম্বন্ধে বলেন, মুহাজিরগণ যখন মদিনায় আসলেন, তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কর্তৃক মুহাজির ও আনসারগণের মাঝে ভ্রাতৃত্ব বন্ধন জুড়ে দেয়ার কারণে আনসারগণের সঙ্গে যাদের যাবিল আরহাম-এর সম্পর্ক ছিল তাদের ছাড়াও মুহাজিরগণ আনসারগণের সম্পত্তির উত্তরাধিকার হতেন। অতঃপর - অর্থাৎ ‘যাদের সাথে তোমরা অঙ্গীকারে আবদ্ধ হয়েছ’ আয়াতটি অবতীর্ণ হলে অতঃপর আয়াতের বিধান রহিত হয়ে গেল। [২২৯২] (আধুনিক প্রকাশনী- ৬২৭৯, ইসলামিক ফাউন্ডেশন- ৬২৯১)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6747</td></tr><tr><td>Arabic No</td><td>6747</td></tr><tr><td>Reference</td><td>Book 85 Hadith 24</td></tr></tbody></table></div>
+
+## English
+
+
+<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Narrated Ibn 'Abbas:Regarding the Holy Verse:--'And to everyone, We have appointed heirs..' And:-- (4.33) 'To those also to Whom your right hands have pledged.' (4.33) When the emigrants came to Medina, the Ansar used to be the heir of the emigrants (and vice versa) instead of their own kindred by blood (Dhawl-l-arham), and that was because of the bond of brotherhood which the Prophet (ﷺ) had established between them, i.e. the Ansar and the emigrants. But when the Divine Verse:-- 'And to everyone We have appointed heirs,' (4.33) was revealed, it cancelled the other, order i.e. 'To those also, to whom Your right hands have pledged
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6747</td></tr><tr><td>Arabic No</td><td>6747</td></tr><tr><td>Reference</td><td>Book 85 Hadith 24</td></tr></tbody></table></div>
+
+## Indonesian
+
+
+<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+telah menceritakan kepadaku [Ishaq bin Ibrahim] mengatakan, aku berkata kepada [Abu Usamah], telah menceritakan kepadamu [Idris], telah menceritakan kepada kami [Thalhah] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas], mengenai ayat: "WALIKULLIN JA'ALNAA MAWAALIYA (bagi tiap-tiap harta peninggalan dari harta yang ditinggalkan ibu bapak dan karib kerabat, Kami jadikan pewaris-pewarisnya" (QS. ANnisa'; 33) "WALLADZIINA 'AAQADAT AIMAANAKUM (Dan jika ada orang-orang yang kamu telah bersumpah setia dengan mereka, maka berilah kepada mereka bagiannya" (QS. ANnisa; 33) dia berkata; 'Dahulu orang-orang muhajirin ketika datang ke Madinah, orang anshar mewarisi orang muhajirin yang bukan kerabatnya, dengan pertimbangan ukhuwah yang dibangun oleh Nabi shallallahu 'alaihi wasallam diantara mereka, maka tatkala turun ayat: "WALIKULLIN JA'ALNAA MAWAALIYA (bagi tiap-tiap harta peninggalan dari harta yang ditinggalkan ibu bapak dan karib kerabat, Kami jadikan pewaris-pewarisnya" (QS. Annisa'; 33), Allah menghapusnya dengan ayat: "WALLADZIINA 'AAQADAT AIMAANAKUM (Dan jika ada orang-orang yang kamu telah bersumpah setia dengan mereka" (QS. ANnisa; 33)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6747</td></tr><tr><td>Arabic No</td><td>6747</td></tr><tr><td>Reference</td><td>Book 85 Hadith 24</td></tr></tbody></table></div>
+
+## Tamil
+
+
+<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: “தாய் தந்தையரும் நெருங்கிய உறவினரும் விட்டுச்சென்ற (சொத்)திலிருந்து (பங்கு பெறுகின்ற) வாரிசுக்காரர்களை நாம் ஒவ்வொருவருக்கும் நிர்ணயித்துள் ளோம். நீங்கள் யாருடன் உடன்படிக்கை செய்துள்ளீர்களோ அவர்களுக்கும் அவர்களது பங்கை அளித்துவிடுங்கள்” எனும் (4:33ஆவது) வசனத்தின் விளக்கமாவது: முஹாஜிர்கள் மதீனாவுக்கு வந்த போது, அன்சாரி (ஒருவர் இறந்துவிட்டால் அவரு)க்கு அவருடைய உறவினர்கள் (தவுல் அர்ஹாம்) அன்றி (அவருடைய) முஹாஜிர் (நண்பரே) வாரிசாகிவந்தார். நபி (ஸல்) அவர்கள் முஹாஜிர்களுக்கும் அன்சாரிகளுக்கும் இடையே (இஸ்லாமிய) சகோதரத்துவத்தை ஏற்படுத்தியிருந்ததே இதற்குக் காரணம். (பின்னர்) இந்த வசனத்தின் முதல் தொடர் இறங்கியபோது, அது இரண்டாவது தொடரை மாற்றிவிட்டது.35 அத்தியாயம் : 86
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6747</td></tr><tr><td>Arabic No</td><td>6747</td></tr><tr><td>Reference</td><td>Book 85 Hadith 24</td></tr></tbody></table></div>
+
+## Turkish
+
+
+<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+İbn Abbas "(Erkek ve kadından) her biri için, ana, baba ve akrabanın bıraktığından (hisselerini alacak olan) varisler kıldık. "(Nisa 33) ayetini okumuş ve şöyle demiştir: Muhacirler Medine'ye geldikleri zaman Ensara -Nebi Sallallahu Aleyhi ve Sellem'in aralarında kurmuş olduğu kardeşlik sebebiyle- kendi hısımları değil, bunlar mirasçı olurlardı. Nihayet "(Erkek ve kadından) her biri için, ana, baba ve akrabanın bıraktığından (hisselerini alacak olan) varisler kıldık" ayeti,devamındaki "yeminlerinizin bağladığı kimselere de paylarını verin" ayetini nesh etmiştir. Fethu'l-Bari Açıklaması: İmam Buharl'nin bu başlığı atmaktaki geyesi, zevi'l-erham'ın mirastan pay alıp, alamayacaklarını açıklamaktır. Zevi'l-erham on sınıf olup şunlardır: Dayı, teyze, ananın babası, kızın oğlu, kız kardeş oğlu, erkek kardeşin kızı, amca kızı, hala, ana bir amca, ana bir erkek kardeşin oğlu ve ölene bu bunlardan herhangi biriyle bağlanan kimse. Zevi'l-erham'ın mirastan payalacağını söyleyen bilginler, bunların içerisinde en öncelikli olanın kızın oğuııarı, sonra kız kardeş oğuııarı, sonra erkek kardeş kızları, sonra sırasıyla amca, hala, dayı ve teyze olduklarını söylemişlerdir. Zevi'l-erham'dan iki kişi birbiriyle eşit olduğunda ashab-ı feraiz veya asabeye daha yakın olana öncelik verilir. Burada hadise yer verilmesinin sebebi "(Erkek ve kadından her biri için, ana, baba ve akrabanın bıraktığından (hisselerini alacak olan) varis kıldık" ayetinin "yeminlerinizin bağladığı kimselere de paylarını verin" ifadesini nesh etmiş olduğunu vurgulamaktır. İbn Battal şöyle demiştir: Müfessirlerin çoğunluğuna göre "(Erkek ve kadından) her biri için ... " ayetini nesh eden, Enfal suresindeki "Allah'ın kitabına göre yakın akrabalar birbirlerine (varis olmağa) daha uygundur"(Enfal 75) ayet-i kerimesidiL Ebu Ubeyd, enNasih ve'l-Mensuh'ta bunu kesin bir dille ifade etmektedir. Biz de şunu ekleyelim: Ebu Davud hasen bir isnadla İbn Abbas'tan bu hadisi rivayet etmitir. İbn Battal şöyle demiştir: Fıkıh bilginleri zevi'!-erham'ın mirastan payalıp, almayacağı noktasında farklı görüşler ortaya koymuşlardır. Zevi'l-erham ayette kendilerine hisse takdir edilmemiş ve asabe de olmayan kimselerdir. Hicaz ve Şam bilginleri, onların mirastan pay alamayacakları kanaatine varmışlardır. KCıfe fıkıh bilginleriyle Ahmed b. Hanbel ve İshak ise, miras alacakları hükmünü benimsemiştir. Bunlar, görüşlerini "Allah 'ın kitabına göre yakın akrabalar birbirlerine (varis olmağa) daha uygundur" ayetine dayandırmışlardır. Diğerleri ise şöyle demişlerdir: Bu.ndan maksat, Allah'ın kitabında kendilerine herhangi bir hisse ayrılan kimselerdir. Çünkü Enfal ayeti mücmeldir. Miras ayeti ise onu tefsir etmektedir. Bu bilginlerin hadisten delilleri ise "Her kim ölür de arkasında bir mal bırakırsa, o asabesine aittir." Bu bilginler ifadeyi zahiri üzere bırakma noktasında görüş birliği etmişler ve azad edilen kölenin öldüğünde geride bıraktığı malın mevlalarına (onu azad edenlere) değil, asabelerine miras kalacağını, asabeleri olmadığı takdirde zevi'l-erhamına• değil, mevlalarına intikal edeceğini ifade etmişlerdir ve zevi'l-erham'ın mirastan payalıp almayacağı noktasında ihtilaf etmişlerdir. Ebu Ubeyd şöyle demiştir: Irak bilginlerine göre ashab-ı feraiz hissesini aldıktan sonra ölenin asabesi olmadığı takdirde kalan miras ashab-ı feraize reddedilir. Asabe olduğu takdirde ise hem ashab-ı feraize ve h.em de asabeye red yapılır. Bunlarolmadığı takdirde miras zevi'l-erhama verilir. ıbn Mesud zevi'l-erhamdan her birini, ölüye kimin vasıtası ile mirasçı oluyorsa onun yerine ko'yardı. Sahih bir isnadla nakledilen bir habere göre İbn Mesud halayı baba, teyzeyi anne gibi kabul eder ve mirası aralarında ikili birli taksim ederdi. Hz. Ali'nin anne dururken kıza mirası reddetmediği nakledilir. Bu grup bilginlerin delillerinden birisi de "Dayı varisi olmayanın varisidir"(Tirmizi, Feraiz) hadisidir. Bu hadis hasen olup, Tirmizi ve başkaları tarafından nakledilmiştir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6747</td></tr><tr><td>Arabic No</td><td>6747</td></tr><tr><td>Reference</td><td>Book 85 Hadith 24</td></tr></tbody></table></div>
+
+## Urdu
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+مجھ سے اسحاق بن ابراہیم نے بیان کیا، انہوں نے کہا کہ میں نے ابواسامہ سے پوچھا کیا آپ سے ادریس نے بیان کیا تھا، ان سے طلحہ نے بیان کیا، ان سے سعید بن جبیر نے بیان کیا اور ان سے عبداللہ بن عباس رضی اللہ عنہما نے «ولكل جعلنا موالي‏» اور «والذين عقدت أيمانكم‏» کے متعلق بتلایا کہ مہاجرین جب مدینہ آئے تو ذوی الارحام کے علاوہ انصار و مہاجرین بھی ایک دوسرے کی وراثت پاتے تھے۔ اس بھائی چارگی کی وجہ سے جو نبی کریم صلی اللہ علیہ وسلم نے ان کے درمیان کرائی تھی، پھر جب آیت «جعلنا موالي‏» نازل ہوئی تو فرمایا کہ اس نے «والذين عقدت أيمانكم‏» کو منسوخ کر دیا۔
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6747</td></tr><tr><td>Arabic No</td><td>6747</td></tr><tr><td>Reference</td><td>Book 85 Hadith 24</td></tr></tbody></table></div>

@@ -1,0 +1,47 @@
+## Arabic
+
+
+<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+أَخْبَرَنَا هَنَّادُ بْنُ السَّرِيِّ، عَنْ أَبِي مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ زَيْدِ بْنِ وَهْبٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدِ رَبِّ الْكَعْبَةِ، قَالَ انْتَهَيْتُ إِلَى عَبْدِ اللَّهِ بْنِ عَمْرٍو وَهُوَ جَالِسٌ فِي ظِلِّ الْكَعْبَةِ وَالنَّاسُ عَلَيْهِ مُجْتَمِعُونَ قَالَ فَسَمِعْتُهُ يَقُولُ بَيْنَا نَحْنُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي سَفَرٍ إِذْ نَزَلْنَا مَنْزِلاً فَمِنَّا مَنْ يَضْرِبُ خِبَاءَهُ وَمِنَّا مَنْ يَنْتَضِلُ وَمِنَّا مَنْ هُوَ فِي جَشْرَتِهِ إِذْ نَادَى مُنَادِي النَّبِيِّ صلى الله عليه وسلم الصَّلاَةَ جَامِعَةً فَاجْتَمَعْنَا فَقَامَ النَّبِيُّ صلى الله عليه وسلم فَخَطَبَنَا فَقَالَ ‏ "‏ إِنَّهُ لَمْ يَكُنْ نَبِيٌّ قَبْلِي إِلاَّ كَانَ حَقًّا عَلَيْهِ أَنْ يَدُلَّ أُمَّتَهُ عَلَى مَا يَعْلَمُهُ خَيْرًا لَهُمْ وَيُنْذِرَهُمْ مَا يَعْلَمُهُ شَرًّا لَهُمْ وَإِنَّ أُمَّتَكُمْ هَذِهِ جُعِلَتْ عَافِيَتُهَا فِي أَوَّلِهَا وَإِنَّ آخِرَهَا سَيُصِيبُهُمْ بَلاَءٌ وَأُمُورٌ يُنْكِرُونَهَا تَجِيءُ فِتَنٌ فَيُدَقِّقُ بَعْضُهَا لِبَعْضٍ فَتَجِيءُ الْفِتْنَةُ فَيَقُولُ الْمُؤْمِنُ هَذِهِ مُهْلِكَتِي ثُمَّ تَنْكَشِفُ ثُمَّ تَجِيءُ فَيَقُولُ هَذِهِ مُهْلِكَتِي ثُمَّ تَنْكَشِفُ فَمَنْ أَحَبَّ مِنْكُمْ أَنْ يُزَحْزَحَ عَنِ النَّارِ وَيُدْخَلَ الْجَنَّةَ فَلْتُدْرِكْهُ مَوْتَتُهُ وَهُوَ مُؤْمِنٌ بِاللَّهِ وَالْيَوْمِ الآخِرِ وَلْيَأْتِ إِلَى النَّاسِ مَا يُحِبُّ أَنْ يُؤْتَى إِلَيْهِ وَمَنْ بَايَعَ إِمَامًا فَأَعْطَاهُ صَفْقَةَ يَدِهِ وَثَمَرَةَ قَلْبِهِ فَلْيُطِعْهُ مَا اسْتَطَاعَ فَإِنْ جَاءَ أَحَدٌ يُنَازِعُهُ فَاضْرِبُوا رَقَبَةَ الآخَرِ ‏"‏ ‏.‏ فَدَنَوْتُ مِنْهُ فَقُلْتُ سَمِعْتَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ هَذَا قَالَ نَعَمْ ‏.‏ وَذَكَرَ الْحَدِيثَ ‏.‏
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4191</td></tr><tr><td>Arabic No</td><td>4191</td></tr><tr><td>Reference</td><td>Book 39 Hadith 43</td></tr></tbody></table></div>
+
+## Bengali
+
+
+<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4191</td></tr><tr><td>Arabic No</td><td>4191</td></tr><tr><td>Reference</td><td>Book 39 Hadith 43</td></tr></tbody></table></div>
+
+## English
+
+
+<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+It was narrated that 'Abdur-Rahman bin 'Abd Rabb Al-Kabah said:" I came to 'Abdullah bin Amr bin Al-As while he was sitting in the shade of Kabah, and the people were gathered around him, and I heard him say: 'While we were with the Messenger of Allah on a journey, we stopped to camp, and some of us were pitching tents, some were competing in shooting arrows, and some were taking the animals out to race them. Then the caller of the Prophet called out: As-Salatu Jamiah (prayer is about to begin). So we gathered, and the Messenger of Allah stood up and addressed us. He said: There has a never been a prophet before me who was not obliged to tell his nation of what he knew was good for them, and to warn against that he knew was bad for them. With regard to Ummah of yours, soundness (of religious commitment) has been placed in its earlier generations, and the last of them will be afflicted with calamities and things that you dislike. Then there will come tribulations which will make the earlier ones pale into significances, and the believer will say: This will be then end of me, then relief will come. Then (more) tribulations will come and the believer will say: this will be the end of me, then relief will come. Whoever would like to be taken far away from the Fire and admitted to Paradise, let him die believing in Allah and the Last Day, and let him treat people as he would like to be treated. Whoever pledges to a ruler and gives him the grasp of his hand and the sincerity of his heart, the let him obey him as much as he can, and if another comes and challenges him, let them strike the neck of (i.e., kill) the second one."' He said: " I drew near to him and said: 'Did you hear the Messenger of Allah say that? He 'Yes, and quoted the Hadith without interruption (in the chain)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4191</td></tr><tr><td>Arabic No</td><td>4191</td></tr><tr><td>Reference</td><td>Book 39 Hadith 43</td></tr></tbody></table></div>
+
+## Indonesian
+
+
+<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Telah mengabarkan kepada kami [Hannad bin As Sarri] dari [Abu Mu'awiyah] dari [Al A'masy] dari [Zaid bin wahb] dari [Abdurrahman bin Abdu Rabbil Ka'bah], ia berkata; saya sampai kepada [Abdullah bin 'Amr] dan ia dalam keadaan duduk di bawah naungan Ka'bah dan orang-orang berkumpul mengerumuninya. Abdurrahman berkata; saya mendengar ia berkata; ketika kami bersama Rasulullah shallallahu 'alaihi wasallam dalam suatu safar kemudian kami singgah disuatu tempat, diantara kami ada yang mendirikan tenda, dan diantara kami ada yang berlomba memanah, serta diantara kami ada yang sedang mengeluarkan kuda menuju tempat merumput, tiba- tiba penyeru Rasulullah shallallahu 'alaihi wasallam menyeru; shalat berjama'ah! Maka kami berkumpul lalu Rasulullah shallallahu 'alaihi wasallam berdiri dan berkhutbah kepada kami, beliau bersabda: "Sesungguhnya sesungguhnya tidak ada seorangpun nabi sebelumku melainkan ia akan menunjukkan umatnya kepada apa yang ia ketahui sebagai kebaikan untuk mereka, dan memperingatkan mereka terhadap apa yang ia ketahui sebagai keburukan bagi mereka dan umat kalian ini dijadikan keselamatannya dari apa yang membahakan agama ada dipermulaan mereka dan orang terakhir diantara mereka akan tertimpa bencana dan perkara-perkara yang mereka ingkari. Akan datang berbagai fitnah kemudian sebagian mereka mendorong sebagian yang lain, kemudian datang sebuah fitnah lalu seorang mukmin akan mengatakan; inilah kebinasaanku, kemudian fitnah tersebut hilang kemudian datang lalu ia berkata; ini adalah kebinasaanku, kemudian fitnah tersebut hilang. Barang siapa diantara kalian yang ingin dijauhkan dari Neraka dan masuk Surga maka hendaknya kematian menjemputnya dalam keadaan beriman kepada Allah dan Hari Akhir, dan hendaknya ia memberikan kepada manusia apa yang ia senang untuk diberikan kepadanya. Barang siapa yang membai'at seorang imam kemudian ia memberikan tangannya serta buah hatinya maka hendaknya ia mentaatinya sesuai dengan kemampuannya, kemudian apabila ada orang yang merebutnya maka penggallahnya." Kemudian saya mendekat kepada beliau dan berkata; apakah engkau mendengar Rasulullah shallallahu 'alaihi wasallam mengatakan hal ini? Maka ia berkata; ya. Dan ia menyebutkan hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4191</td></tr><tr><td>Arabic No</td><td>4191</td></tr><tr><td>Reference</td><td>Book 39 Hadith 43</td></tr></tbody></table></div>
+
+## Turkish
+
+
+<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4191</td></tr><tr><td>Arabic No</td><td>4191</td></tr><tr><td>Reference</td><td>Book 39 Hadith 43</td></tr></tbody></table></div>
+
+## Urdu
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4191</td></tr><tr><td>Arabic No</td><td>4191</td></tr><tr><td>Reference</td><td>Book 39 Hadith 43</td></tr></tbody></table></div>
