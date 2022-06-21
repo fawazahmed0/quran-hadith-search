@@ -5,6 +5,9 @@ on:
     - cron: '0 0 1 * *'  # every day at midnight
 
   workflow_dispatch:
+  
+  push:
+    branches: [ main ]
 
 jobs:
   deploy:
