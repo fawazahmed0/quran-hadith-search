@@ -1,0 +1,47 @@
+## Arabic
+
+
+<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ الأَنْصَارِيُّ، قَالَ أَنْبَأَنَا حُمَيْدٌ، قَالَ سَأَلَ مَيْمُونُ بْنُ سِيَاهٍ أَنَسَ بْنَ مَالِكٍ قَالَ يَا أَبَا حَمْزَةَ مَا يُحَرِّمُ دَمَ الْمُسْلِمِ وَمَالَهُ فَقَالَ مَنْ شَهِدَ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ وَاسْتَقْبَلَ قِبْلَتَنَا وَصَلَّى صَلاَتَنَا وَأَكَلَ ذَبِيحَتَنَا فَهُوَ مُسْلِمٌ لَهُ مَا لِلْمُسْلِمِينَ وَعَلَيْهِ مَا عَلَى الْمُسْلِمِينَ ‏.‏
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3968</td></tr><tr><td>Arabic No</td><td>3968</td></tr><tr><td>Reference</td><td>Book 37 Hadith 3</td></tr></tbody></table></div>
+
+## Bengali
+
+
+<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3968</td></tr><tr><td>Arabic No</td><td>3968</td></tr><tr><td>Reference</td><td>Book 37 Hadith 3</td></tr></tbody></table></div>
+
+## English
+
+
+<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Maimun bin Siyah asked Anas bin Malik:"O Abu Hamzah, what makes the blood and wealth of a Muslim forbidden?" He said: "Whoever bears witness to La ilaha illallah (there is none worthy of worship except Allah) and that Muhammad is the Messenger of Allah [SAW], faces our Qiblah, prays as we pray, and eats our slaughtered animals, he is a Muslim, and has the same rights and obligations as the Muslims
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3968</td></tr><tr><td>Arabic No</td><td>3968</td></tr><tr><td>Reference</td><td>Book 37 Hadith 3</td></tr></tbody></table></div>
+
+## Indonesian
+
+
+<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3968</td></tr><tr><td>Arabic No</td><td>3968</td></tr><tr><td>Reference</td><td>Book 37 Hadith 3</td></tr></tbody></table></div>
+
+## Turkish
+
+
+<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3968</td></tr><tr><td>Arabic No</td><td>3968</td></tr><tr><td>Reference</td><td>Book 37 Hadith 3</td></tr></tbody></table></div>
+
+## Urdu
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3968</td></tr><tr><td>Arabic No</td><td>3968</td></tr><tr><td>Reference</td><td>Book 37 Hadith 3</td></tr></tbody></table></div>

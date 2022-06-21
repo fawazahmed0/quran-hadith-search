@@ -1,0 +1,47 @@
+## Arabic
+
+
+<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، وَمُسَدَّدٌ، قَالاَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، اخْتَصَمَ سَعْدُ بْنُ أَبِي وَقَّاصٍ وَعَبْدُ بْنُ زَمْعَةَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فِي ابْنِ أَمَةِ زَمْعَةَ فَقَالَ سَعْدٌ أَوْصَانِي أَخِي عُتْبَةُ إِذَا قَدِمْتُ مَكَّةَ أَنْ أَنْظُرَ إِلَى ابْنِ أَمَةِ زَمْعَةَ فَأَقْبِضَهُ فَإِنَّهُ ابْنُهُ ‏.‏ وَقَالَ عَبْدُ بْنُ زَمْعَةَ أَخِي ابْنُ أَمَةِ أَبِي وُلِدَ عَلَى فِرَاشِ أَبِي ‏.‏ فَرَأَى رَسُولُ اللَّهِ صلى الله عليه وسلم شَبَهًا بَيِّنًا بِعُتْبَةَ فَقَالَ ‏"‏ الْوَلَدُ لِلْفِرَاشِ وَلِلْعَاهِرِ الْحَجَرُ وَاحْتَجِبِي عَنْهُ يَا سَوْدَةُ ‏"‏ ‏.‏ زَادَ مُسَدَّدٌ فِي حَدِيثِهِ وَقَالَ ‏"‏ هُوَ أَخُوكَ يَا عَبْدُ ‏"‏ ‏.‏ ‏.‏
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari And Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2273</td></tr><tr><td>Arabic No</td><td>2273</td></tr><tr><td>Reference</td><td>Book 13 Hadith 99</td></tr></tbody></table></div>
+
+## Bengali
+
+
+<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সাঈদ ইবন মানসূর ও মুসাদ্দাদ ইবন মুসারহাদ ...... আয়েশা (রাঃ) হতে বর্ণিত। তিনি বলেন, একদা সা‘দ ইবন আবি ওয়াক্কাস ও আব্‌দ ইবন যাম্‘আ রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকটে উপস্থিত হয়ে যাম‘আর দাসীর পুত্র আবদুর রহমান সম্পর্কে ঝগড়া শুরু করেন। সা‘দ বলেন, আমার ভ্রাতা উতবা আমাকে এ মর্মে ওসীয়ত করেছেন যে, যখন আমি মক্কায় আসি তখন আমি যেন অবশ্যই যাম্‘আর দাসী পুত্রের দিকে খেয়াল রাখি। তখন তিনি তাকে ধরে ফেলেন, কেননা সে ছিল তাঁর ভাই উতবার পুত্র। অপরপক্ষে আদ ইবন যাম্‘আ বলেন, সে (আবদুর রহগমান) আমার ভাই। কেননা সে আমার পিতার (ঔরসজাত) দাসী-পুত্র, যে আমার পিতার বিছানায় জন্ম নিয়েছে। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উতবার সাথে তার স্পষ্ট মিল আছে দেখে বলেনঃ সন্তান হলো যার বিছানায় জন্ম নিয়েছে তার এবং যিনাকারীর জন্য প্রস্তর। আর তিনি বলেন, হে সাওদা! তুমি তার থেকে পর্দা করো। মুসাদ্দাদ (রহঃ) তাঁর হাদীসে অতিরিক্ত বর্ণনা করেছেন যে, নবীজীসাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ হে আবদা! সে তোমার ভাই।
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari And Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2273</td></tr><tr><td>Arabic No</td><td>2273</td></tr><tr><td>Reference</td><td>Book 13 Hadith 99</td></tr></tbody></table></div>
+
+## English
+
+
+<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+A’ishah said “Sa’d bin Abi Waqqas and ‘Abd bin Zamah disputed amongst themselves about the (relationship of the) son of the slave girl of Zam’ah and brought the case to the Apostle of Allaah(ﷺ). Sa’d said “My brother ‘Utbah enjoined me that when I came to Makkah I should see the son of the slave girl of Zam’ah and take his possession for that is his son”. ‘Abd bin Zam’ah said “He is my brother, the son of my father’s slave girl having been born on my father’s bed”. The Apostle of Allaah(ﷺ) saw his clear resemblance to ‘Utbah. So he said “The child is attributed to the one on whose bed it is born and the fornicator is deprived of any right (lit. the fornicator will have the stone). Veil yourself from him, Saudah. Musaddad added in his version “he is your brother ‘Abd”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari And Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2273</td></tr><tr><td>Arabic No</td><td>2273</td></tr><tr><td>Reference</td><td>Book 13 Hadith 99</td></tr></tbody></table></div>
+
+## Indonesian
+
+
+<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Telah menceritakan kepada kami [Sa'id bin Manshur], dan [Musaddad], mereka berkata; telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari ['Urwah] dari [Aisyah]; Sa'd bin Abu Waqqash dan 'Abdu bin Zam'ah berselisih kepada Rasulullah shallallahu 'alaihi wasallam mengenai anak budak wanita Zam'ah. Sa'd berkata; saudaraku 'Utbah memberiku wasiat apabila aku datang ke Mekkah agar melihat kepada anak budak wanita Zam'ah, kemudian mengambilnya karena ia adalah anaknya. Sedangkan Abdu bin Zam'ah berkata; ia adalah saudaraku, anak budak ayahku dan terlahir di tempat tidur ayahku. Kemudian Rasulullah shallallahu 'alaihi wasallam melihat kemiripannya yang sangat dengan 'Utbah. Kemudian beliau berkata; anak adalah mengikuti pemilik ranjang, dan orang yang berzina tidak mendapatkan sesuatu. Wahai Saudah berhijablah darinya. Musaddad menambahkan dalam haditsnya; dan beliau berkata; ia adalah saudaramu wahai 'Abdu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari And Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2273</td></tr><tr><td>Arabic No</td><td>2273</td></tr><tr><td>Reference</td><td>Book 13 Hadith 99</td></tr></tbody></table></div>
+
+## Turkish
+
+
+<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Aişe (r.anha)'den; demiştir ki: Sa'd b. Ebî Vakkas ile Abd b. Zem'a, Zema'nın cariyesinin oğlu (Abdurrahman'ın nesebinin tesbiti) hakkında (aralarında çıkan) anlaşmazlığı halletmesi için Rasûlullah (s.a.v.)'e başvurdular. Sa'd (r.a.) dedi ki: Kardeşim Utbe, Mekke'ye vardığım zaman Zem'anın cariyesinin oğluna bakmamı ve onu (yanıma) almamı bana vasiyyet etti. Çünkü o (çocuk) kardeşimin oğludur. Abdullah b. Zem'a da; (O) benim kardeşimdir, (çünkü) babamın cariyesinin oğludur (ve) babamın (firâşı) yatağı üzerinde doğmuştur, diye iddiada bulundu. Rasûlullah (s.a.v.) de (çocukta) Utbe'ye açıkça bir benzerlik gördü. Bunun üzerine; "Çocuk (üzerinde doğduğu) firaş (sahibin)'e aittir. Zina edene de mahrumiyet vardır ya Sevde! Sen bundan sonra bu çocuğa gözükme." buyurdu. Müsedded hadisine (şu cümleyi de) ilâve etti: "Ey Abd, bu (çocuk) senin kardeşindir." buyurdu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari And Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2273</td></tr><tr><td>Arabic No</td><td>2273</td></tr><tr><td>Reference</td><td>Book 13 Hadith 99</td></tr></tbody></table></div>
+
+## Urdu
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ام المؤمنین عائشہ رضی اللہ عنہا سے روایت ہے کہ سعد بن ابی وقاص اور عبد بن زمعہ رضی اللہ عنہما دونوں رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں زمعہ کی لونڈی کے بیٹے کا جھگڑا لے آئے، سعد رضی اللہ عنہ کہنے لگے: میرے بھائی عتبہ نے مجھے وصیت کی تھی کہ جب میں مکہ جاؤں تو زمعہ کی لونڈی کے بچے کو دیکھوں تو اس کو لے لوں کیونکہ وہ انہیں کا بیٹا ہے، اور عبد بن زمعہ رضی اللہ عنہ کہنے لگے: یہ میرا بھائی ہے کیونکہ میرے والد کی لونڈی کا بیٹا ہے، اور میرے والد کے بستر پر اس کی ولادت ہوئی ہے، چنانچہ رسول اللہ صلی اللہ علیہ وسلم نے عتبہ کے ساتھ کھلی مشابہت دیکھی ( اس کے باوجود ) آپ صلی اللہ علیہ وسلم نے فرمایا: بچہ بستر والے کا ہے، اور زانی کے لیے سنگساری ہے، اور سودہ! تم اس سے پردہ کرو ۔ مسدد نے اپنی روایت میں یہ الفاظ زیادہ کئے ہیں کہ آپ نے فرمایا: عبد! یہ تیرا بھائی ہے ۔
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari And Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2273</td></tr><tr><td>Arabic No</td><td>2273</td></tr><tr><td>Reference</td><td>Book 13 Hadith 99</td></tr></tbody></table></div>
