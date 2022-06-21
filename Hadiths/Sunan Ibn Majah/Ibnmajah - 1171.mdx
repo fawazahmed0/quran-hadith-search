@@ -1,0 +1,47 @@
+## Arabic
+
+
+<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو حَفْصٍ الأَبَّارُ، حَدَّثَنَا الأَعْمَشُ، عَنْ طَلْحَةَ، وَزُبَيْدٍ، عَنْ ذَرٍّ، عَنْ سَعِيدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبْزَى، عَنْ أَبِيهِ، عَنْ أُبَىِّ بْنِ كَعْبٍ، قَالَ كَانَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ يُوتِرُ بِـ ‏(سَبِّحِ اسْمَ رَبِّكَ الأَعْلَى)‏ وَ ‏(قُلْ يَا أَيُّهَا الْكَافِرُونَ)‏ وَ ‏(قُلْ هُوَ اللَّهُ أَحَدٌ‏)‏ ‏.‏
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1171</td></tr><tr><td>Arabic No</td><td>1171</td></tr><tr><td>Reference</td><td>Book 5 Hadith 369</td></tr></tbody></table></div>
+
+## Bengali
+
+
+<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+১/১১৭১। উবাই ইবনু কাব (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বিতরের সালাতে সূরাহ আলা, সূরাহ কাফিরূন ও সূরাহ ইখলাস পড়তেন।
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1171</td></tr><tr><td>Arabic No</td><td>1171</td></tr><tr><td>Reference</td><td>Book 5 Hadith 369</td></tr></tbody></table></div>
+
+## English
+
+
+<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+It was narrated that Ubayy bin Ka’b said:“The Messenger of Allah (ﷺ) used to perform Witr and recite: ‘Glorify the Name of your Lord the Most High.’, [Al-A’la (87)] ‘Say: O you disbelievers!” [Al-Kafirun (109)] and ‘Say: Allah is One.”. [Al-Ikhlas (112]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1171</td></tr><tr><td>Arabic No</td><td>1171</td></tr><tr><td>Reference</td><td>Book 5 Hadith 369</td></tr></tbody></table></div>
+
+## Indonesian
+
+
+<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Abu Hafs Al Abbar] dari [A'masy] dari [Thalhah] dan [Zaid] dari [Dzarr] dari [Sa'id bin 'Abdurrahman bin Abza] dari [Bapaknya] dari [Ubai bin Ka'b] ia berkata, "Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat witir dengan membaca; "SABBIHISMA RABBIKAL A'LAA (Sucikanlah nama Tuhanmu Yang Maha Tinggi) dan QUL YAA AYYUHAL KAAFIRUUN (Katakanlah: "Hai orang-orang kafir) serta QUL HUWAALLAHU AHAD (Katakanlah: "Dia-lah Allah yang Maha Esa)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1171</td></tr><tr><td>Arabic No</td><td>1171</td></tr><tr><td>Reference</td><td>Book 5 Hadith 369</td></tr></tbody></table></div>
+
+## Turkish
+
+
+<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ubeyy bin Ka'b (r.a.)'den: şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) vitir namazını (Fatiha’dan sonra): سبح اسم ربك الأعلى، وقل يا أيها الكافرون، وقل هو اللَّه أحد (ilk rek’atta: A’la, ikincide, Kafirun, üçüncüde, İhlas) sureleriyle kılardı." AÇIKLAMA 1173’te
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1171</td></tr><tr><td>Arabic No</td><td>1171</td></tr><tr><td>Reference</td><td>Book 5 Hadith 369</td></tr></tbody></table></div>
+
+## Urdu
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ابی بن کعب رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم وتر میں: «سبح اسم ربك الأعلى»، «قل يا أيها الكافرون»اور «قل هو الله أحد»پڑھتے تھے۔
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1171</td></tr><tr><td>Arabic No</td><td>1171</td></tr><tr><td>Reference</td><td>Book 5 Hadith 369</td></tr></tbody></table></div>

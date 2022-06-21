@@ -1,0 +1,47 @@
+## Arabic
+
+
+<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ الْمَهْرِيُّ، أَخْبَرَنِي ابْنُ وَهْبٍ، أَخْبَرَنِي أُسَامَةُ بْنُ زَيْدٍ اللَّيْثِيُّ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، قَالَ لَمَّا افْتُتِحَتْ خَيْبَرُ سَأَلَتْ يَهُودُ رَسُولَ اللَّهِ صلى الله عليه وسلم أَنْ يُقِرَّهُمْ عَلَى أَنْ يَعْمَلُوا عَلَى النِّصْفِ مِمَّا خَرَجَ مِنْهَا فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ أُقِرُّكُمْ فِيهَا عَلَى ذَلِكَ مَا شِئْنَا ‏"‏ ‏.‏ فَكَانُوا عَلَى ذَلِكَ وَكَانَ التَّمْرُ يُقْسَمُ عَلَى السُّهْمَانِ مِنْ نِصْفِ خَيْبَرَ وَيَأْخُذُ رَسُولُ اللَّهِ صلى الله عليه وسلم الْخُمُسَ وَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم أَطْعَمَ كُلَّ امْرَأَةٍ مِنْ أَزْوَاجِهِ مِنَ الْخُمُسِ مِائَةَ وَسْقٍ تَمْرًا وَعِشْرِينَ وَسْقًا شَعِيرًا فَلَمَّا أَرَادَ عُمَرُ إِخْرَاجَ الْيَهُودِ أَرْسَلَ إِلَى أَزْوَاجِ النَّبِيِّ صلى الله عليه وسلم فَقَالَ لَهُنَّ مَنْ أَحَبَّ مِنْكُنَّ أَنْ أَقْسِمَ لَهَا نَخْلاً بِخَرْصِهَا مِائَةَ وَسْقٍ فَيَكُونَ لَهَا أَصْلُهَا وَأَرْضُهَا وَمَاؤُهَا وَمِنَ الزَّرْعِ مَزْرَعَةُ خَرْصٍ عِشْرِينَ وَسْقًا فَعَلْنَا وَمَنْ أَحَبَّ أَنْ نَعْزِلَ الَّذِي لَهَا فِي الْخُمُسِ كَمَا هُوَ فَعَلْنَا ‏.‏
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3008</td></tr><tr><td>Arabic No</td><td>3008</td></tr><tr><td>Reference</td><td>Book 20 Hadith 81</td></tr></tbody></table></div>
+
+## Bengali
+
+
+<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সুলায়মান ইবন দাঊদ মাহরী (রহঃ) ..... আবদুল্লাহ্‌ ইবন উমার (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ যখন খায়বর বিজয় হয়, তখন ইয়াহূদীরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট এ মর্মে দরখাস্ত পেশ করে যে, আপনি আমাদের এ শর্তে এখানে বসবাসের অনুমতি দিন, যা আমরা উপার্জন করব, আপনি তার অর্ধেক পাবেন। তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আমি তোমাদের এখানে এ শর্তে বসবাসের অনুমতি দিচ্ছি যে, আমরা যখনই চাব, তখনই তোমাদের বহিষ্কার করতে পারব। পরে তারা এ শর্ত অনুযায়ী সেখানে বসবাস করতে থাকে। খায়বরের খেজুর দু'ভাগে বিভক্ত হতো এবং খুমুস রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গ্রহণ করতেন। আর খুমুস হতে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর সব বিবিকে একশত ওসাক খেজুর এবং বিশ ওসাক যব প্রদান করতেন। অবশেষে উমার (রাঃ) যখন ইয়াহূদীদের বহিষ্কারের সিদ্ধান্ত গ্রহণ করেন, তখন তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর বিবিদের কাছে এ মর্মে খবর পাঠান যে, আপনারা যে কেউ চাইলে, আমি তাঁকে এতগুলি খেজুর গাছ দেব, যা থেকে একশত ওসাক খেজুর পাওয়া যাবে এবং ঐ গাছ ও যমীন আপনাদের মালিকানায় থাকবে এবং তার পানিও এর শামিল থাকবে। একই রূপে কৃষিক্ষেত্র হতে এ পরিমাণ যমীন দেব, যা থেকে বিশ ওয়াক পরিমাণ যব উৎপন্ন হবে। আর আপনাদের থেকে যদি কেউ চান যে, আমি খুমুস হতে আপনাদের অংশ দেই, তবে আমি তা দেব।
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3008</td></tr><tr><td>Arabic No</td><td>3008</td></tr><tr><td>Reference</td><td>Book 20 Hadith 81</td></tr></tbody></table></div>
+
+## English
+
+
+<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Abd Allah bin ‘Umar reported that ‘Umar said “When Khaibar was conquered, the Jews asked the Apostle of Allaah(ﷺ) to confirm that they would do all the cultivation and have half the produce. The Apostle of Allaah(ﷺ) said “I shall confirm you on that condition as long as we wish. So they were confirmed on that (condition). The dates from half the produce of Khaibar were divided into a number of portions. The Apostle of Allaah(ﷺ) would take the fifth. The Apostle of Allaah(ﷺ) used to contribute from the fifth one hundred wasqs of dates and twenty wasqs of wheat to each of his wives. When ‘Umar intended to expel the Jews from Khaibar he sent a message to the wives of the Prophet (ﷺ) and said to them “If any of you wishes that I divide the palm trees for her by their assessment that amounts one hundred wasqs (of dates) and to her belongs their root, their land and their water and (likewise) twenty wasqs from the produce of the cultivated land by assessment, I shall (do that). And if any of you wishes that we take out her portion from the fifth, we shall do (that)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3008</td></tr><tr><td>Arabic No</td><td>3008</td></tr><tr><td>Reference</td><td>Book 20 Hadith 81</td></tr></tbody></table></div>
+
+## Indonesian
+
+
+<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3008</td></tr><tr><td>Arabic No</td><td>3008</td></tr><tr><td>Reference</td><td>Book 20 Hadith 81</td></tr></tbody></table></div>
+
+## Turkish
+
+
+<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Abdullah b. Ömer'den (demiştir ki:) Hayber fethedilince, yahudiler, Rasûlullah (s.a.v.)'den Hayber topraklarından çıkacak mahsulün yarısı(nın kendilerinin olması) şartıyla kendilerini orada bırakmasını istediler. Rasûlullah (s.a.v.) de "Sizi bu şartla; orada dilediğimiz zamana kadar bırakıyorum." buyurdu (Hz. Nebi'nin sağlığında ve Hz. Ebû Bekir'in halifeliği döneminde) bu şartla (orada yaşamakta) idiler Hayber'in yarı gelirinden (elde edilen) hurma ikiye bölünür ve (bunun) beşte birini Rasûlullah (s.a.v.) alır. (almış olduğu) beşte bir hisse'den yüz vesak hurma ile yirmi vesak arpayı hanımlarına yedirirdi. (babam) Ömer (r.a), yahudileri Hayber'den çıkarmak isteyince, Nebi (S.A.V.)'in hanımlarına haber gönderip onlara: "Sizden kim kendisine tahmini olarak yüz vesaklık bir hurmalığı vermemi isterse oranın ağacı da toprağı da suyu da onun olsun. Kim de kendisine tahminen yirmi vesaklık bir arpa tarlasını hisse olarak vermemi istiyorsa (onu da) yaparız. Kim de buradaki hissesini (ölçerek) ayırmamızı istiyorsa o şekilde hareket ederiz" dedi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3008</td></tr><tr><td>Arabic No</td><td>3008</td></tr><tr><td>Reference</td><td>Book 20 Hadith 81</td></tr></tbody></table></div>
+
+## Urdu
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ جب خیبر فتح ہوا تو یہودیوں نے رسول اللہ صلی اللہ علیہ وسلم سے درخواست کی کہ: آپ ہمیں اس شرط پر یہیں رہنے دیں کہ ہم محنت کریں گے اور جو پیداوار ہو گی اس کا نصف ہم لیں گے اور نصف آپ کو دیں گے، آپ صلی اللہ علیہ وسلم نے فرمایا: اچھا ہم تمہیں اس شرط پر رکھ رہے ہیں کہ جب تک چاہیں گے رکھیں گے،، چنانچہ وہ اسی شرط پر رہے، خیبر کی کھجور کے نصف کے کئی حصے کئے جاتے، رسول اللہ صلی اللہ علیہ وسلم اس میں سے پانچواں حصہ لیتے، اور اپنی ہر بیوی کو سو وسق کھجور اور بیس وسق جو ( سال بھر میں ) دیتے، پھر جب عمر رضی اللہ عنہ نے یہود کو نکال دینے کا ارادہ کر لیا تو امہات المؤمنین کو کہلا بھیجا کہ آپ میں سے جس کا جی چاہے کہ میں اس کو اتنے درخت دے دوں جن میں سے سو وسق کھجور نکلیں مع جڑ کھجور اور پانی کے اور اسی طرح کھیتی میں سے اس قدر زمین دے دوں جس میں بیس وسق جو پیدا ہو، تو میں دے دوں اور جو پسند کرے کہ میں خمس میں سے اس کا حصہ نکالا کروں جیسا کہ ہے تو میں ویسا ہی نکالا کروں گا۔
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3008</td></tr><tr><td>Arabic No</td><td>3008</td></tr><tr><td>Reference</td><td>Book 20 Hadith 81</td></tr></tbody></table></div>
