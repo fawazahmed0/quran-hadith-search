@@ -37,6 +37,7 @@ jobs:
           # docs output to publish to the `gh-pages` branch:
           publish_dir: ./docs
           publish_branch: docs
+          force_orphan: true
           # The following lines assign commit authorship to the official
           # GH-Actions bot for deploys to `gh-pages` branch:
           # https://github.com/actions/checkout/issues/13#issuecomment-724415212
