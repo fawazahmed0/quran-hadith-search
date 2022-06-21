@@ -5,7 +5,7 @@ on:
     - cron: '0 0 1 * *'  # every day at midnight
 
   workflow_dispatch:
-  
+ 
   push:
     branches: [ main ]
 
@@ -44,3 +44,16 @@ jobs:
           # You can swap them out with your own user credentials.
           user_name: github-actions[bot]
           user_email: 41898282+github-actions[bot]@users.noreply.github.com
+
+      - name: deploy to wiki
+        shell: bash
+        run: |
+          REPO="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.wiki.git"
+          git clone $REPO wiki
+          rm -rf wiki/*
+          node wiki.js
+          git config --global user.email github-actions@github.com
+          git config --global user.name github-actions
+          git add -A
+          git commit -m 'Update'
+          git push
