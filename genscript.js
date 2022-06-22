@@ -34,7 +34,7 @@ async function test() {
             let hadiths = data.hadiths
 
             for (let hadith of hadiths) {
-                let pathToSave = path.join(hadithPath,editionsJSON[bareedition].name,`${editionsJSON[bareedition].name} ${Math.floor(hadith.hadithnumber)}.md`)
+                let pathToSave = path.join(hadithPath,editionsJSON[bareedition].name,`${editionsJSON[bareedition].name}  ${Math.floor(hadith.hadithnumber)}.md`)
                 let dataToSave = getHadithCardElem(hadith, dirval, lang, isocodes)
                 // save language if doesn't exists
                 if(pathToSave in bigJSON === false ||  !bigJSON[pathToSave].includes(languageHeading))
@@ -54,7 +54,7 @@ async function test() {
 
         for(let quran of data.quran){
             let chapterName = `Chapter ${quran.chapter} ${arabicChapters[quran.chapter - 1].replaceAll('-',' ')}`
-            let pathToSave = path.join(quranPath,chapterName,`${chapterName} Verse ${quran.verse}.md`)
+            let pathToSave = path.join(quranPath,chapterName,`${chapterName} Verse  ${quran.verse}.md`)
             let dataToSave =  getQuranCardElem(quran, value.direction, value.language,value.author, isocodes) 
                             // save language if doesn't exists
                             if(pathToSave in bigJSON === false || !bigJSON[pathToSave].includes(languageHeading))
