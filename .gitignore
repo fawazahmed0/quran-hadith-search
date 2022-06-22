@@ -1,6 +1,7 @@
 # Dependencies
 /node_modules
 /checkpoint
+/wiki
 
 # Production
 /build
