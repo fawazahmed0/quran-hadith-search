@@ -1,3 +1,17 @@
+[Arabic](#arabic)
+
+[Bengali](#bengali)
+
+[English](#english)
+
+[Indonesian](#indonesian)
+
+[Tamil](#tamil)
+
+[Turkish](#turkish)
+
+[Urdu](#urdu)
+
 ## Arabic
 
 
