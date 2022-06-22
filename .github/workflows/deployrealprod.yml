@@ -26,6 +26,7 @@ jobs:
         run: |
           REPO="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.wiki.git"
           git clone $REPO wiki
+          find wiki -type f -print0 | xargs -0 rm -rf --
 
       - name: Install dependencies
         run: npm i
