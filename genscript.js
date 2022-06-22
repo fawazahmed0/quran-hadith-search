@@ -79,8 +79,14 @@ async function test() {
     }
 
     for(let [pathToSave, dataArr] of Object.entries(bigJSON)){
-        fs.outputFileSync(pathToSave, dataArr.join('\n\n'))
-        fs.outputFileSync(path.join(__dirname, 'wiki',path.basename(pathToSave)), dataArr.join('\n\n'))
+        let data = dataArr.join('\n\n')
+        // max file size for code search to work in github
+        // https://docs.github.com/en/search-github/searching-on-github/searching-code#:~:text=only%20files%20smaller%20than%20384%20kb%20are%20searchable.
+        let ghFileLen = 384 * 1000  // 384 kb
+        fs.outputFileSync(pathToSave, data)
+        // Save in wiki, if not searchable in github code search
+        if(Buffer.byteLength(data, 'utf8') > ghFileLen - 2000)
+        fs.outputFileSync(path.join(__dirname, 'wiki',path.basename(pathToSave)), data)
     }
 
 }
