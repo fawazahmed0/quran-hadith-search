@@ -21,7 +21,8 @@ async function test() {
     let quranPath = path.join(__dirname, docsDir,'Quran')
 
     for (let [bareedition, value] of Object.entries(editionsJSON)) {
-        for (let collection of editionsJSON[bareedition].collection.sort((a,b)=>a.language.localeCompare(b.language))) {
+        let sortedCollections = editionsJSON[bareedition].collection.sort((a,b)=>a.language.localeCompare(b.language))
+        for (let collection of sortedCollections) {
 
             let edition = collection.name;
             let lang = collection.language;
@@ -36,8 +37,14 @@ async function test() {
             for (let hadith of hadiths) {
                 let pathToSave = path.join(hadithPath,editionsJSON[bareedition].name,`${editionsJSON[bareedition].name}  ${Math.floor(hadith.hadithnumber)}.md`)
                 let dataToSave = getHadithCardElem(hadith, dirval, lang, isocodes)
+
+                // Add table of content
+                if(pathToSave in bigJSON === false)
+                addToBigJSON(pathToSave, [...new Set(sortedCollections.map(e=> `[${e.language}](#${e.language.toLowerCase().replaceAll(' ','-')})`))].join('\n\n') )
+                
+                
                 // save language if doesn't exists
-                if(pathToSave in bigJSON === false ||  !bigJSON[pathToSave].includes(languageHeading))
+                if(!bigJSON[pathToSave].includes(languageHeading))
                 addToBigJSON(pathToSave, languageHeading )
 
                 addToBigJSON(pathToSave, dataToSave )
@@ -47,8 +54,8 @@ async function test() {
         }
         
     }
-    
-    for (let value of Object.values(quranEditionsJSON).sort((a,b)=>a.language.localeCompare(b.language))) {
+    let sortedEditionValues = Object.values(quranEditionsJSON).sort((a,b)=>a.language.localeCompare(b.language))
+    for (let value of sortedEditionValues) {
         let data = await getJSON(`editions/${value.name}`, quranLinks)
         let languageHeading = `## ${value.language}`
 
@@ -56,8 +63,13 @@ async function test() {
             let chapterName = `Chapter ${quran.chapter} ${arabicChapters[quran.chapter - 1].replaceAll('-',' ')}`
             let pathToSave = path.join(quranPath,chapterName,`${chapterName} Verse  ${quran.verse}.md`)
             let dataToSave =  getQuranCardElem(quran, value.direction, value.language,value.author, isocodes) 
-                            // save language if doesn't exists
-                            if(pathToSave in bigJSON === false || !bigJSON[pathToSave].includes(languageHeading))
+            
+            // Add table of content
+            if(pathToSave in bigJSON === false)
+            addToBigJSON(pathToSave, [...new Set(sortedEditionValues.map(e=> `[${e.language}](#${e.language.toLowerCase().replaceAll(' ','-')})`))].join('\n\n') )
+
+            // save language if doesn't exists
+                            if(!bigJSON[pathToSave].includes(languageHeading))
                             addToBigJSON(pathToSave, languageHeading )
             
                             addToBigJSON(pathToSave, dataToSave )
