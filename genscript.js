@@ -80,6 +80,7 @@ async function test() {
 
     for(let [pathToSave, dataArr] of Object.entries(bigJSON)){
         fs.outputFileSync(pathToSave, dataArr.join('\n\n'))
+        fs.outputFileSync(path.join(__dirname, 'wiki',path.basename(pathToSave)), dataArr.join('\n\n'))
     }
 
 }

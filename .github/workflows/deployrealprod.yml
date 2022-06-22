@@ -22,6 +22,12 @@ jobs:
           node-version: 18.x
           cache: npm
 
+      - name: Setup wiki
+        run: |
+          REPO="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.wiki.git"
+          git clone $REPO wiki
+          rm -rf wiki/*
+
       - name: Install dependencies
         run: npm i
       - name: Build website
@@ -48,10 +54,6 @@ jobs:
       - name: deploy to wiki
         shell: bash
         run: |
-          REPO="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.wiki.git"
-          git clone $REPO wiki
-          rm -rf wiki/*
-          node wiki.js
           git config --global user.email github-actions@github.com
           git config --global user.name github-actions
           cd wiki
