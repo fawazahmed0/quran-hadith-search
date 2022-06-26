@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Quran Hadith Search Engine</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <script>
+        window.beginSearch = function () {
+            let newparams = new window.URLSearchParams();
+            let searchquery = document.getElementById('searchquery').value
+            newparams.set('q', `${searchquery}`)
+            window.open(`https://github.com/fawazahmed0/quran-hadith-search/search?${newparams.toString()}`, '_blank');
+            window.open(`https://github.com/fawazahmed0/quran-hadith-search/search?${newparams.toString()}&type=wikis`, '_blank');
+        }
+
+    </script>
+</head>
+
+<body>
+    <div id="mycontainer" class="container mt-3">
+
+        <form class="d-flex" onsubmit="beginSearch(); return false">
+            <input id="searchquery" class="form-control mr-2" type="search" placeholder="Search" aria-label="Search" />
+            <button id="searchbtn" class="btn btn-outline-info" type="button" onclick="beginSearch(); return false">
+                <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-search" fill="currentColor"
+                    xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd"
+                        d="M10.442 10.442a1 1 0 0 1 1.415 0l3.85 3.85a1 1 0 0 1-1.414 1.415l-3.85-3.85a1 1 0 0 1 0-1.415z" />
+                    <path fill-rule="evenodd"
+                        d="M6.5 12a5.5 5.5 0 1 0 0-11 5.5 5.5 0 0 0 0 11zM13 6.5a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0z" />
+                </svg>
+            </button>
+        </form>
+
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
