@@ -2,3 +2,4 @@ This website uses [Quran-api](https://github.com/fawazahmed0/quran-api) and [Had
 
 Site:
 https://fawazahmed0.github.io/quran-hadith-search/
+
