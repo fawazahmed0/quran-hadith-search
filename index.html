@@ -13,7 +13,7 @@
             let searchquery = document.getElementById('searchquery').value
             newparams.set('q', `${searchquery}`)
             window.open(`https://github.com/fawazahmed0/quran-hadith-search/search?${newparams.toString()}`, '_blank');
-            window.open(`https://github.com/fawazahmed0/quran-hadith-search/search?${newparams.toString()}&type=wikis`, '_blank');
+            window.location.href = `https://github.com/fawazahmed0/quran-hadith-search/search?${newparams.toString()}&type=wikis`
         }
 
     </script>
