@@ -710,6 +710,12 @@ Izvesti Moite rabi [o, Mukhammad], che Az sŭm Oproshtavashtiya, Milosŭrdniya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	မိုဟမ္မဒ်၊ ငါသည် အမှန်ပင် အပြစ်လွှတ်တော်မူထသောအရှင်၊ ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူထသော အရှင်ဖြစ်တော်မူကြောင်းကို သင်သည် ငါ၏ ကျေးကျွန်တို့အား ဟောကြားကြေငြာလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ငါအရှင်မြတ်၏ကျွန်များအား ဧကန်မလွဲ ငါအရှင်မြတ်သည်သာလျှင်အလွန်တရာ လွတ်ငြိမ်းချမ်းသာခွင့် ပေးသနားတော်မူသောအရှင်၊ အလွန်တရာ သနား ကြင်နာညှာတာတော်မူသောအရှင်၊ဖြစ်တော်မူကြောင်း ပြောကြားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

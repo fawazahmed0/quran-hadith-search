@@ -710,6 +710,12 @@ I im izpratikhme pratenik izmezhdu tyakh, [koĭto reche]: “Na Allakh sluzhete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	ထို့အပြင်ထိုသူတို့ထံသို့ မိမိတို့အထဲမှ တမန်တော်တစ်ပါးကို စေလွှတ်တော်မူ၏၊ သူဟောကြားသည်မှာ အလ္လာဟ် အရှင်မြတ်အား ခဝပ်ကိုးကွယ်ကြလော့၊ သင်တို့သည် အရှင်မြတ်မှတပါး အခြားအရှင်သခင်မရှိချေ၊ သင်တို့သည် ဒုစရိုက်အပြစ်များကို ကာဆီးကြမည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် ငါအရှင်မြတ်သည် ထိုမျိုးနွယ်တို့တွင် ၎င်းတို့အနက်မှပင် ရစူလ်တမန်တော်တစ်ပါးကို စေလွှတ်တော်မူ(၍ ဤသို့မိန့်မှာတော်)မူခဲ့၏။ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ် အားသာလျှင် ခဝပ်ကိုးကွယ်ကြလေကုန်။ ထိုအရှင်မြတ်မှတစ်ပါး အသင်တို့အဖို့ ခဝပ်ကိုးကွယ်ရာအရှင်ဟူ၍ အလျှင်းမရှိပြီ၊ သို့ပါလျက် အသင်တို့သည် မကြောက်ရွံ့ ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

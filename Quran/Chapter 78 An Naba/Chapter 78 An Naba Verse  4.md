@@ -710,6 +710,12 @@ Ala ne! Te shte uznayat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။ အမှန်မှာ သူတို့သည် သိကြရလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (၎င်းတို့သည် ကိယာမတ် ဖြစ်မည်မဟုတ်ဟု ထင်မှတ်နေကြ၏။) (ထိုသို့) အလျင်းမဟုတ်၊ (ထို ကိယာမတ်သည် မုချ ဆိုက်ရောက်လာမည်ဖြစ်ရာ) ၎င်းတို့သည် မကြာမြင့်မီပင် (ယင်းကိယာမသ်ကို မျက်မြင်ဒိဋ္ဌ တွေ့မြင်)သိရှိရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

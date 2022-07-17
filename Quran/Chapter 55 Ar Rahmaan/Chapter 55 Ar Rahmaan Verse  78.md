@@ -710,6 +710,12 @@ Blagosloveno da e imeto na tvoya Gospod, Vladetelya na velichieto i pochitta
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၈။	အို-တမန်တော်၊ သင်၏ အရှင်သခင်သည် အနန္တတန်ခိုးတော်ရှင် ကျော်ဇော်ထင်ရှားသောအရှင်၏ နာမတော် သည် မင်္ဂလာအဖြာဖြာနှင့် ပြည့်စုံလှ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်)၊ အသင့်အား ဖန်ဆင်း မွေးမြူတော်မူသော တန်ခိုးတော်ရှင်၊ ကျေးဇူးတော်ရှင်၏ နာမံတော်သည် ကျက်သရေ မင်္ဂလာအပေါင်းနှင့် ပြည့်စုံပါပေသည် တကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

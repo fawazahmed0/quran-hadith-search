@@ -710,6 +710,12 @@ Knigata, koyato Nie ti razkrikhme, tya e istinata, potvŭrzhdavashta onezi [Pisa
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	အို-တမန်တော်၊ အကြင်ကျမ်းတော်ကို သင့်အား စိတ်နှလုံးတွင် ထင်ရှားစေတော်မူခြင်းဖြင့် ထုတ်ပြန်ချပေး သနားတော်မူ၏၊ ထိုကျမ်းတော်သည် မုချဧကန်မှန်ကန်သောကျမ်းတော်ဖြစ်၏၊ ၎င်းကျမ်းတော်သည် ရှေး ထုတ်ပြန်ပြီးဖြစ်သောကျမ်းတော်ဟောင်းများကို ထောက်ခံသောကျမ်းတော်ဖြစ်၏၊ စင်စစ်အားဖြင့် အလ္လာဟ် အရှင်မြတ်သည် ကျေးတော်မျိုးကျွန်တော်မျိုးတို့၏ အဖြစ်သနစ်ကို အကြွင်းမဲ့သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အသင့်ထံ ငါအရှင်မြတ် ထုတ်ပြန်တော်မူသော (ဤ)ကျမ်းဂန်သည် လုံးဝအမှန်ဖြစ်၏။ (ထိုကျမ်းဂန်သည်) မိမိအလျင်(ကျရောက်ခဲ့ဖူးသော) ကျမ်းဂန်များကိုလည်း မှန်ကန်သည်ဟု ထောက်ခံလျက်ရှိ၏။ မုချအမှန်အလ္လာဟ်အရှင်မြတ်သည် မိမိ၏ကျွန်တို့နှင့် ပတ်သက်၍အလွန်တရာ ကြားသိတော်မူသော၊ အလွန်တရာ သိမြင်တော်မူသော၊ အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

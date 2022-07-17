@@ -710,6 +710,12 @@ Znaeshtiya i skritoto, i yavnoto, Prevelikiya, Vsevishniya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	အလ္လာဟ်အရှင်မြတ်သည် မြင်ရသောအရာ၊ မမြင်ရသောအရာတို့ကို အကုန်အစင်သိတော်မူသောအရှင်၊ ကြီးမြတ် တော်မူသောအရှင်၊ အနန္တတန်ခိုးတော်အရှင် ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် (သတ္တဝါအပေါင်း) မမြင်နိုင်သောအရာများကိုလည်းကောင်း၊ မြင်နိုင်သောအရာများကိုလည်းကောင်း၊(တစ်နည်း)လျှို့ဝှက် နေသောအရာများကိုလည်းကောင်း၊ ထင်ရှား၍နေသော အရာများကိုလည်းကောင်း၊ သိတော်မူသောအရှင်၊(အလုံးစုံတို့ထက်) ကြီးကဲတော်မူသောအရှင်၊မြင့်မြတ်တော်မူသောအရှင်၊ ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

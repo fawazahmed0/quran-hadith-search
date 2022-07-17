@@ -710,6 +710,12 @@ Te zhiveekha sred razkosh predi tova
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	မှတ်သားကြလော့၊ ဤသူမိုက်တို့သည် ရှေးအတိတ်ကာလက လောကီစည်းစိမ်ကာမဂုဏ်တွင် နစ်မွန်းနေသူများ ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်ဧကန် ၎င်းတို့သည် ထိုသည့်အလျင် စည်းစိမ်ကြီးသူများပင် ဖြစ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

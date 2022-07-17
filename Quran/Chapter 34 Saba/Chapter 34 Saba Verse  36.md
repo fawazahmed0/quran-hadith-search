@@ -710,6 +710,12 @@ Kazhi: “Moyat Gospod uvelichava prepitanieto komuto pozhelae i Toĭ go namaly
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	အို-မိုဟမ္မဒ်၊ ဟောကြားလော့၊ အမှန်မှာငါ၏အရှင်သခင်သည် ရိက္ခာအာဟာရကို ကျယ်ဝန်းစေလိုတော်မူသောသူ အတွက် ကျယ်ဝန်းစေတော်မူ၏၊ ရိက္ခာအာဟာရကို ကျဉ်းကြပ်စေလိုတော်မူသောသူအတွက် ကျဉ်းကြပ်စေ တော်မူ၏၊ သို့သော်လူသားတို့အနက် အရေအတွက်များလှသောသူတို့သည် မသိကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (၎င်းတို့ အားပြောဆို)ဖြေကြားပါလေ။ (အချင်းတို့၊)ဧကန်စင်စစ် ငါ့အားဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည် မိမိအလိုရှိတော်မူသောသူအား စားနပ်ရိက္ခာကို ကျယ်ဝန်းပေါများစွာ ချီးမြှင့်ပေးသနားတော်မူ၍ (မိမိအလိုရှိတော်မူသောသူအား) ကျပ်တည်းစေတော်မူ၏။ သို့ရာတွင် အများဆုံးသောသူတို့မှာ သိရှိကြသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

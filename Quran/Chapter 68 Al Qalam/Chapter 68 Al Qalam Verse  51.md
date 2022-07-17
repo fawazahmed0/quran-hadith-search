@@ -710,6 +710,12 @@ I edva ne te srazyavat s pogledi nevernitsite, kogato slushat Napomnyaneto6, i k
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁။ အို-တမန်တော်၊ သူတို့သည် သတိပေးကျမ်းတော်မြတ်ကို ကြားနာရသောအခါ မယုံကြည်သောသူတို့သည်မိမိတို့မျက်စိအားဖြင့် သင့်အား စိတ်မတည်မငြိမ်ဖြစ်အောင် မုချဧကန်ပြုကြလတံ့၊ ထို့အပြင်သူတို့က ရှင်မုဟမ္မဒ်သည် ရူးသွပ်သူအမှန်အကန်ဖြစ်၏ဟု ဆိုကြလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ဧကန်မလွဲ ‘ကာဖိရ်’သွေဖည်ငြင်းပယ်သူတို့သည် ကုရ်အာန်ကျမ်းတော်မြတ်ကို နားထောင်ကြသောအခါ ၎င်းတို့၏ မျက်စိများဖြင့် အသင့်အား ချွတ်ချော်စေအံ့ဆဲဆဲ ဖြစ်ကြလေ၏။ ထိုမှတစ်ပါး ၎င်းတို့က ဧကန်အမှန် ဤသူသည် ရူးသွပ်နေသည်ဟု ပြောဆိုကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

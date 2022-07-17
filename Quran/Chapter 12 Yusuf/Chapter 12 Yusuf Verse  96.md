@@ -710,6 +710,12 @@ I kogato blagovestitelyat doĭde [s rizata], postavi ya vŭrkhu litseto mu i to
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၆။	ထို့နောက်သတင်းကောင်းကို ယူဆောင်လာသူရောက်ရှိလာ၏။ အကျႌကို ဖခင်၏ မျက်နှာပေါ်တွင် တင်ထားလတ် သော်၊ ဖခင်သည် မျက်စိအလင်းရောင်ကို ပြန်၍ ရရှိ၏။ သူက ငါသည် အလ္လာဟ်အရှင်မြတ်အထံတော်မှ သင်တို့မသိသောအရာကို သိရ၏ဟု ငါ သင်တို့အား မပြောဘူးလားဟု မေးမြန်း၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် ဝမ်းမြောက်ဖွယ် သတင်းကို ယူဆောင်၍လာသောသူသည် (ခမည်းတော်ထံသို့) ရောက်ရှိလာသောအခါ၊ ၎င်းသည် ယင်းအင်္ကျီကို ထိုခမည်းတော်၏ မျက်နှာပေါ်သို့ တင်ခဲ့လေသည်။ သို့ဖြစ်ပေရာ ယင်းခမည်းတော်သည်ပြန်၍ စက္ခုအလင်း ရရှိလာခဲ့လေသည်။ ထို(အခါ)ယင်းခမည်းတော်က (ဤသို့)ပြောဆိုခဲ့လေသည်။ ငါသည် အသင်တို့အားအလ္လာဟ်အရှင်မြတ်ထံတော်မှ အသင်တို့ မသိနားမလည်သောပညာကို ဧကန်စင်စစ် သိနားလည်သည်ဟု ပြောဆိုခဲ့သည်မဟုတ်ပါလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

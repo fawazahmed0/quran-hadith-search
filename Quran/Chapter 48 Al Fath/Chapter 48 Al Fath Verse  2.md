@@ -710,6 +710,12 @@ za da oprosti Allakh tvoite predishni grekhove, i sledvashtite, i za da dovŭrsh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	သို့ပေးသနားတော်မူသည်မှာ အလ္လာဟ်အရှင်မြတ်သည် သင့်အား သင်၏ အတိတ်အနာဂတ်အဖြစ်များကို ခွင့်လွှတ်တော်မူရန်၊ သင့်အား ချပေးသနားတော်မူသောကောင်းကြီးမင်္ဂလာတော်ကို စုံလင်စေတော်မူရန်၊ သင့်အား လမ်းသို့ ညွှန်တော်မူရန်အလို့ငှာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ယင်းသို့ အောင်မြင်မှု ချီးမြှင့်တော်မူခြင်းမှာ)အလ္လာဟ်အရှင်မြတ်သည် အသင်၏ရှေးကာလ ချို့တဲ့မှုများနှင့် အနာဂတ်ကာလ ချို့တဲ့မှုတို့ကို ခွင့်လွှတ်ချမ်းသာ ပေးသနားတော်မူအံ့သောငှာလည်းကောင်း၊ မိမိကျေးဇူးတော်များကို အသင့်အပေါ်၌ စုံလင်စေတော် မူအံ့သောငှာလည်းကောင်း၊အသင့်အား ဖြောင့်မတ်သော တရားလမ်းကို ညွှန်ကြားပြသတော်မူအံ့သော ငှာလည်းကောင်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

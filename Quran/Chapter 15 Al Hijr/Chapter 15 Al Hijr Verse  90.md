@@ -710,6 +710,12 @@ Kakto nizposlakhme [nakazanie] i za podelyashtite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉ဝ၊၉၁။	လူသားတို့ကို ဂိုဏ်းအမျိုးမျိုးခွဲသောသူတို့နှင့် ကုရ်အာန်ကျမ်းတော်မြတ်ကို အပိုင်းပိုင်းအစစပြုလုပ်သောသူတို့ ထံသို့ ငါအရှင်မြတ်စေလွှတ်တော်မူသောတမန်တော်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် ကျိန်တွယ်သော(ခွဲဝေသော)သူတို့အပေါ်၌ (ပြစ်ဒဏ်) ချပေးတော်မူဘိ သကဲ့သို့ပင် (၎င်းတို့အပေါ်လည်းချပေးတော်မူမည်၊)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

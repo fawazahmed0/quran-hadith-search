@@ -710,6 +710,12 @@ I vi zabludikhme, i nie samite byakhme zabludeni.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	ယင်းသို့ငါတို့သည် သင်တို့အား လမ်းမှားသို့ သွေးဆောင်ခဲ့လေ၏၊ အမှန်မှာ ငါတို့ကိုယ်ကပင် လမ်းမှားရောက်နေ သူများဖြစ်ကြသည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ကျွန်ုပ်တို့သည် အသင်တို့အား လမ်းလွဲစေခဲ့ကြကုန်၏။ ဧကန်အမှန် ကျွန်ုပ်တို့ကိုယ်တိုင်လည်း လမ်းလွဲသူများပင် ဖြစ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

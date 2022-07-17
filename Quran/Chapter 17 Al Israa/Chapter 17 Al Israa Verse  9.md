@@ -710,6 +710,12 @@ Tozi Koran napŭtva kŭm naĭ-pravoto i blagovestva vyarvashtite, koito vŭrsha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	မှတ်သားကြလော့။ ဤကုရ်အာန်ကျမ်းတော်မြတ်သည် အဖြောင့်မတ်ဆုံးသောလမ်းကို ညွှန်ပြ၏ သုစရိုက် ကောင်းမှုကို ပွားများသောယုံကြည်သူတို့အား ၎င်းတို့၏ ဝေစုသည် ဆုတော်ကြီးဖြစ်ကြောင်း သတင်းကောင်း ကိုလည်း ပေး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ဤကုရ်အာန်ကျမ်းတော်မြတ်သည်အဖြောင့်မတ်ဆုံးသော တရားလမ်းစဉ်ကို ညွှန်ကြား ပြသလေသည်။ ထို့ပြင် ယင်းကုရ်အာန်ကျမ်းတော်မြတ်သည် ကောင်းမြတ်သောအကျင့်သီလများကို ကျင့်မူဆောက်တည်ကြကုန်သော မုအ်မင်န်သက်ဝင် ယုံကြည်သူတို့အား၊ ၎င်းတို့အဖို့ ကြီးကျယ်လှစွာသောအကျိုးဆုလာဘ်သည်ရှိသည်ဟူ၍ သတင်းကောင်း ပေးလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

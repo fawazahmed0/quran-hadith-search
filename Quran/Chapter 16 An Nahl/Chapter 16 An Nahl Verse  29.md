@@ -710,6 +710,12 @@ Vlezte prez vratite na Ada, tam shte prebivavate vechno! Kolko losho e obitalish
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	ထို့ကြောင့်သင်တို့သည် အမြဲထာဝစဉ်နေထိုင်ဖို့ရာ အဝီစိငရဲထဲ ဝင်ကြလော့။ မာန်မာနထောင်လွှားသောသူတို့၏ ဗိမာန်သည် ပူဆွေးခြင်းအမှန်ပင်များပြား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (ယခုမူ) အသင်တို့သည် ဂျဟန္နမ်ငရဲဘုံ၏ တံခါးပေါက်များသို့ ထိုဂျဟန္နမ်ငရဲဘုံ၌ အမြဲထာဝစဉ်နေထိုင်သူများအဖြစ် ဝင်ကြလေကုန်။ စစ်စစ်မှာမူကား မောက်မာပလွှားသူတို့၏ ပြန်လည်ရာ ဌာနသည် အဘယ်မျှဆိုးရွားလှဘိသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

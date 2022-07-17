@@ -710,6 +710,12 @@ V Denya, kogato shte se raztsepi nebeto s oblatsite i shte bŭdat izprateni ange
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	ထိုနေ့တော်ကြီး၌ မိုးကောင်းကင်သည် တိမ်မြူနှင့်တကွပြိုကွဲပျက်စီး၍ ကောင်းကင်တမန်တော်များကို သက်ဆင်း စေတော်မူလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အကြင်နေ့တွင် မိုးကောင်းကင်သည် မိုးတိမ်(ထွက်ပေါ်လာသည့်)အတွက် ပွင့်သွားပေမည်။ မိုးတိမ်နှင့်တကွ အက်ကွဲ၍သွားပေမည်။ ထို့ပြင် "မလာအိကဟ်" ကောင်းကင်တမန်တို့သည် ဆင်းသက်၍ လာကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

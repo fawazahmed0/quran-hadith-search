@@ -710,6 +710,12 @@ Ala ne! Sŭrtsata im s rŭzhda pokriva onova, koeto sa pridobili
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။ ပုံပြင်ဝတ္ထုများမဟုတ်ချေ၊ သို့သော် ထိုသူမိုက်တို့၏ စိတ်နှလုံးတို့၌ သူတို့ကျူးလွန်မိခဲ့သောဒုစရိုက်အပြစ်သံချေး တက်နေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလျှင်းမဟုတ်၊ စင်စစ်မှာကား ၎င်းတို့သည် ဆည်းပူးလျက် ရှိခဲ့ကြသည့် (ပြစ်မှု)များသည် ၎င်းတို့၏ စိတ်နှလုံးများပေါ်၌ ဖုံးလွှမ်းခဲ့ပြီးဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

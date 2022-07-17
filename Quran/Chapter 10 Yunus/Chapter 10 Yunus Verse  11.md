@@ -710,6 +710,12 @@ I ako Allakh izbŭrzvashe sŭs zlinata za khorata, kakto te bŭrzat za dobrinata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	လူသားတို့သည် ကောင်းကျိုးကို မြန်မြန်ဆန်ဆန်သိမ်းယူသကဲ့သို့ အလ္လာဟ်အရှင်မြတ်သည် သူတို့ရထိုက်သော အပြစ်ဒဏ်ကို မြန်စေတော်မူလျှင် သူတို့၏ အပြစ်ဒဏ်ကို ရွှေ့ဆိုင်းထားသောအချိန်သည် ကုန်လွန်ပေလိမ့်မည်။ သို့သော်ငါအရှင်မြတ်သည် ငါ့အား မျက်ဝါးထင်ထင်တွေ့မြင်ဖူးမျှော်ရမည်ကို မမျှော်လင့်သောသူတို့ကို ဆင်ကန်း တောတိုးသကဲ့သို့ ၎င်းတို့၏ ထောင်ထားခြားနားခြင်း၌ တောတိုးရန် လွှတ်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်း ပြင် အကယ်၍သာ အလ္လာဟ်အရှင်မြတ်သည် လူများထံသို့ ၎င်း တို့အကောင်းကို အလျင်အမြန်တောင်းဆိုသကဲ့သို့ အဆိုးကို ပို့ဆောင်(သက်ရောက်) စေတော်မူပါလျှင် ၎င်း တို့၏သက်တမ်းသည် မုချ အဆုံးသတ်ပြီး ဖြစ်ချေမည်။ သို့ရာတွင် ငါအရှင်မြတ်သည် ငါအရှင်မြတ် နှင့်တွေ့ရမည်ကို မမျှော်လင့်သောသူများအား ၎င်း တို့၏ မောက်မာဆိုးသွမ်းမှု၌ တဝေ့လည်လည် ဖြစ်ရှိနေကြရန် စွန့်ပစ်၍ ထားတော်မူသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

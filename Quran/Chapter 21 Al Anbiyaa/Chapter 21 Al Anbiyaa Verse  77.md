@@ -710,6 +710,12 @@ I go zashtitikhme ot khorata, koito vzimakha za lŭzha Nashite znameniya. Te bya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၇။	ငါသည် သူ့အား ငါ၏တရားတော်များကို မယုံကြည်သောလူများထံမှ ကယ်တင်တော်မူ၏၊ မှတ်သားကြလော့၊ ထိုသူတို့သည် မတရားသူများဖြစ်၍ ငါသည် သူတို့အားလုံး ရေနှစ်မြုပ်သေစေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ထိုနူဟ်အားငါအရှင်မြတ်၏ သက်သေလက္ခဏာတော်များကို မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်ခဲ့ကြသော အမျိုးသားတို့ (၏ ဘေးအန္တရာယ်)မှကာကွယ်စောင့်ရှောက်တော် မူခဲ့၏။ ဧကန်မလွဲ ၎င်းတို့သည်အလွန်ဆိုးရွားသော အမျိုးသားများပင် ဖြစ်ခဲ့ကြကုန်၏။သို့ဖြစ်ပေရာ ငါအရှင်မြတ်သည် ၎င်းတို့အားလုံးကို နစ်မြုပ်စေတော် မူခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

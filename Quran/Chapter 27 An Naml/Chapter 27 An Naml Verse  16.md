@@ -710,6 +710,12 @@ I Sulaĭman nasledi [prorochestvoto ot] Daud, i reche: “O, khora, byakhme nau
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	တမန်တော်စိုလိုင်မာန်သည် တမန်တော်ဒါဝတ်(ဒ်)၏ အမွေစားအမွေခံဖြစ်၏၊ စိုလိုင်မာန်တမန်တော်ဟောကြား သည်မှာ အို-လူသားအပေါင်းတို့၊ မှတ်သားကြလော့၊ အကျွနု်ပ်တို့အား အတောင်နှစ်ဖက်ရှိ ငှက်တိရိစ္ဆာန်တို့၏ ဘာသာစကားကို သင်ကြားပေးတော်မူပြီ၊ ထို့အပြင်စည်းစိမ်ဥစ္စာအရာခပ်သိမ်းကုန်တို့၌ ပေါများကြွယ်ဝခြင်းကို ပေးသနားတော်မူ၏၊ ဤအချင်းအရာသည် ထင်ရှားသောကောင်းကြီးမင်္ဂလာအမှန်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် စုလိုင်မာန်သည် ဒါဝူဒ်၏အရိုက်အရာကိုဆက်ခံခဲ့၏။ ၎င်းပြင် ထိုစုလိုင်မာန်သည် (ဤသို့)ပြောကြားခဲ့၏။ အို-လူအပေါင်းတို့၊ ငါတို့သည် ငှက်သတ္တဝါတို့၏ ဘာသာစကားကို သင်ကြားပေးခြင်း ခံခဲ့ကြရလေသည်။ ထိုမှတစ်ပါး ငါတို့သည် (စိုးမိုးအုပ်ချုပ်မှုနှင့်စပ်လျဉ်း၍ လိုအပ်သော) အရာခပ်သိမ်းတို့ကို ချီးမြှင့်ပေးသနားတော်မူခြင်း ခံခဲ့ကြရပေသည်။ ဧကန်စင်စစ် ဤသည် ထင်ရှားလှစွာသော ကျေးဇူးတော်ပင် ဖြစ်ချေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

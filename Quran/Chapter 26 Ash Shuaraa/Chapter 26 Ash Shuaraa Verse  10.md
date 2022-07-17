@@ -710,6 +710,12 @@ I kogato tvoyat Gospod prizova Musa: “Idi pri khorata-ugnetiteli
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၊၁၁။	သင်၏အသက်သခင်ကျေးဇူးရှင်က အို--တမန်တော်မူစာ၊ သင်သည် ပြစ်မှုကျူးလွန်နေသောဖွာရောမင်း၏ လူများထံသို့ သွားလော့ဟု ဗျာဒိတ်တော်နှင့်ခေါ်တော်မူ၏၊ ထိုသူတို့သည် မကောင်းမှုကို တားဆီးကြမည် မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး တစ်ရံရောအခါဝယ် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် မူစာအား အသင်သည် (မိမိတို့ကိုယ်ကို မိမိတို့ပင်)နှိပ်စက်ညှဉ်းပန်းသူတို့ထံ သွားပါလေဟု(မိန့်ကြား)တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

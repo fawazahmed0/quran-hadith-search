@@ -710,6 +710,12 @@ Onezi, koito razdavat svoite imoti po pŭtya na Allakh i posle nito natyakvat, n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆၂။	အကြင်သူတို့သည် အလ္လာဟ်အရှင်မြတ်၏လမ်းတော်ဝယ် မိမိတို့၏ ပစ္စည်းဥစ္စာကို သုံးစွဲ၏။ ထို့နောက် ထိုအလှူပေးခြင်းကြောင့် ယူကျုံးမရလည်းမဖြစ်၊ နစ်နာဆုံးရှုံးခြင်းလည်းမဖြစ်၊ ထိုသူတို့အဖို့ အောင်ဆု မင်္ဂလာတော်သည် သူတို့ကို ဖန်ဆင်းမွေးမြူတော်မူထသော ကျေးဇူးတော်သခင် အထံတော်၌ အသင့် ရှိသူ။ သူတို့အပေါ်သို့ စိုးရိမ်ကြောင့်ကြစရာ ကျရောက်မည်မဟုတ်ပေ။ သူတို့ ပူဆွေးကြမည်လည်း မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတို့သည် မိမိတို့၏ ဥစ္စာပစ္စည်းများကို အလ္လာဟ်အရှင်မြတ်၏လမ်းတော်၌ ပေးကမ်းလှူဒါန်းသုံးစွဲကြကုန်၏။ ထိုကဲ့သို့ပေးကမ်းစွန့်ကြဲ သုံးစွဲပြီးသည့်နောက်ယင်းသူတို့သည် (မိမိတို့ စွန့်ကြဲပေးကမ်းသော သူဆင်းရဲတို့အား) ဂုဏ်ဖေါ်ခြင်းလည်းမပြုကြချေ၊ ထိုနည်းတူစွာ မည်သည့်ဒုက္ခ ရောက်စေခြင်းကိုမှလည်း မပြုကြချေ။ ထိုကဲ့သို့သောသူတို့အဖို့ ယင်းသူတို့အား မွေးမြူတော်မူသော အရှင်မြတ်၏ အထံတော်၌ ကုသိုလ်အကျိုးများရှိသည်။ ယင်း သူတို့အဖို့မည်သည့်စိုးရိမ်ကြောင့် ကြခြင်းမျှလည်းမရှိ။ ယင်းသူတို့သည်ပူဆွေးကြမည်လည်း မဟုတ်ကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ koito se skŭpyat i povelyavat skŭpernichestvo na khorata, i skrivat onova, koe
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	ထိုသူမိုက်တို့သည် ဥစ္စာပစ္စည်းကို မသုံးရက်မစွဲရက် စုဆောင်းသိုလှောင်ထားကြ၏။ သူများကို လောဘကြီးရန် တိုက်တွန်းနှိုးဆော်ကြ၏။ အလ္လာဟ်အသျှင်မြတ် ချပေးသနားတော်မူသော ကျေးဇူးတော်ကို ဖုံးကွယ်ထားကြ၏။ မိစ္ဆာဒိဌိများအတွက် အလွန်ရှက်ဖွယ်သောအပြစ်ဒဏ်ကို ငါ စီရင်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတို့သည် မိမိတို့ကိုယ်တိုင်လည်း စေးနဲကြကုန်၏။ သူတစ်ပါးတို့အားလည်း စေးနဲကြစေရန် ညွှန်ကြားကြ၏။ ထိုမျှသာမကသေး ယင်းသူတို့သည် ၎င်းတို့အား အလ္လာဟ်အရှင်မြတ်က မိမိကျေးဇူးတော်နှင့် ပေးသနားတော်မူခဲ့သော အရာများကိုလည်း (လှူဒါန်းသုံးစွဲခြင်းမပြုဘဲ) လျှို့ဝှက်ထိမ်ချန်၍ ထားရှိကြ၏။ အမှန်စင်စစ် ငါအရှင်မြတ်သည် ကျေးဇူးကန်းသောသူတို့အဖို့ ဂုဏ်အသရေ ပျက်စီးစေသော အပြစ်ဒဏ်ကို အသင့် ပြင်ဆင်ထားရှိတော်မူသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

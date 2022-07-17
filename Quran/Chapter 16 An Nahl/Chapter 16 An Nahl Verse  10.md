@@ -710,6 +710,12 @@ Toĭ e, Koĭto izsipva voda ot nebeto. Za vas ot neya ima za piene i ot neya [
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	အရှင်မြတ်သည် မိုးကောင်းကင်မှ ရေသွန်းချတော်မူ၏။ ထိုရေမှ သင်တို့သောက်ရေရကြ၏။ ထိုရေမှ သစ်ပင် ဝါးပင်များပေါက်ရောက်ကြ၏။ ထိုသစ်ပင်ဝါးပင်၏ အရွက်အလက်များကို သင်တို့သည် မိမိတို့၏ ခြေလေးချောင်း တိရိစ္ဆာန်များအား ကျွေးမွေးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(အလ္လာဟ်)အရှင်မြတ်သည်ပင်လျှင် (အသင်တို့အဖို့) မိုးကောင်းကင်မှ ရေကိုချပေးတော်မူခဲ့သော အရှင်ဖြစ်တော်မူ၏။ ထိုရေမှပင် အသင်တို့သည် သောက်သုံးကြကုန်၏။ ၎င်းပြင် ထိုရေကြောင့်ပင် (သစ်ပင်၊ မြက်ပင်စသည်ဖြင့်၊အမျိုးမျိုးသော)အပင်(များ)သည် ပေါက်ရောက်လေသည်။အသင်တို့သည် ထိုအပင်များ၌ပင်(တိရစ္ဆာန်များကို) ထိန်းကျောင်းကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

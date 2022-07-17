@@ -710,6 +710,12 @@ Vposledstvie Toĭ vlozhi v sŭrtsata im litsemerie do Denya, v koĭto shte Go 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၇။	သူတို့သည် အလ္လာဟ်ပေးသောကတိစကားကို ဖျက်ကြ၏။မုသားစကားဆိုကြ၏။ထို့ကြောင့်အရှင်မြတ်သည် သူတို့အား သူတို့သည် အရှင်မြတ်အား မျက်ဝါးထင်ထင်ဖူးမြင်ရသောနေ့တိုင်အောင် သူတို့၏ အကျိုးဆက် ကို သူတို့၏ စိတ်အတွင်းရှိ ဟန်ဆောင်ခြင်းဖြစ်စေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ထိုအရှင်မြတ်သည် ထိုသူများ၏စိတ်နှလုံးများတွင် ထိုအရှင်မြတ်နှင့်ထိုသူများ တွေ့ဆုံကြမည့်နေ့တိုင်အောင် နိဖာက် (မုစ်လင်မ်အရေခြုံမှု)ကို (ထည့်သွင်းတော်မူခြင်းအားဖြင့်) ၎င်းတို့အား ပြစ်ဒဏ်ခတ်တော်မူခဲ့လေသည်။ အဘယ်ကြောင့်ဆိုသော် ၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ်အား မိမိတို့ ပေးခဲ့ကြသောကတိဝန်ခံချက်ကို ဖောက်ခဲ့ကြသည့်ပြင်၊ မုသားပြောဆိုလေ့ ရှိခဲ့ကြသောကြောင့်ပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

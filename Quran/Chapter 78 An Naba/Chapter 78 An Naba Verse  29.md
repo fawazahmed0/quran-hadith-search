@@ -710,6 +710,12 @@ No vsyako neshto vpisakhme v kniga
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။ ငါသည် ခပ်သိမ်းကုန်သောအရာဟူသမျှတို့ကို စာရင်းစာအုပ်ကြီးတွင် ရေးတင်မှတ်သားထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ငါအရှင်မြတ်သည်(၎င်းတို့၏ အပြုအမူတို့ကို) အသီးသီး ရေးသားလျက် စေ့ငုစွာ ရေတွက်မှတ်သားတော်မူခဲ့သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

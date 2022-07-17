@@ -710,6 +710,12 @@ I ne se vŭzgordyavaĭte pred Allakh! Donesokh vi yaven dovod
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	သင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား ငါတကောမလုပ်ကြလင့်၊ မှတ်သားကြလော့၊ ငါသည် သင်တို့ထံသို့ ထင်ရှားသောသက်သေခံချက်တော်ကို ယူဆောင်လာ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်နှင့် ဆန့်ကျင်၍ ဆိုးသွမ်းသောင်းကျန်းမှုကို မပြုကြကုန်လင့်။ ဧကန်မလွဲ ငါသည် အသင်တို့ထံ ရှင်းလင်းထင်ရှားစွာသော သက်သေအထောက်အထားကို ယူဆောင်ခဲ့သည် (ဟူ၍လည်းကောင်း)၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

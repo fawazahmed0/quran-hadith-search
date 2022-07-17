@@ -710,6 +710,12 @@ A predi nego be Pisanieto na Musa - voditel i milost. A tozi [Koran] e potvŭrzh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	ကျမ်းမြတ်ကုရ်အာန်ကျမလာမီ တမန်တော်မူစာအား ကျမ်းတော်တစ်စောင်ကို ချပေးတော်မူ၏၊ ထိုကျမ်းတော် သည် လမ်းပြမီးရှုးမီးတိုင်လည်းဖြစ်၏၊ ကောင်းကြီးမင်္ဂလာတော်လည်းဖြစ်၏၊ ဤကျမ်းတော်မြတ်သည် ရှေး ကျမ်းတော်ကို ထောက်ခံသောအာရဗီဘာသာကျမ်းကြီးဖြစ်၏၊ ဤကျမ်းတော်သည် မသူတော်တို့အား သတိပေး ဆုံးမရန်၊ တရားရှိသူတို့အား သတင်းကောင်းကို ပေးရန်အလို့ငှာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ်မှာမူကား ဤကုရ်အာန်ကျမ်းတော်မြတ်အလျင် မူစာ၏ကျမ်းဂန် (တောင်ရာတ်)သည် ရှေ့ဆောင်လမ်းပြအဖြစ်လည်းကောင်း၊ ကရုဏာအဖြစ် လည်းကောင်း၊ရှိခဲ့၏။ ထို့ပြင် ဤကျမ်းဂန်မှာ(ယင်းတောင်ရာတ်ကျမ်းကို)ထောက်ခံသော ကျမ်းဂန်ဖြစ်၏။ မတရားကျူးလွန်သော (မက္ကာမြို့သား)တို့အား သတိပေးနှိုးဆော်ရန် အရဗီဘာသာစကားဖြင့် ထုတ်ပြန်ထား၏။ ၎င်းပြင် ကောင်းမှုပြုသူတို့အဖို့ သတင်းကောင်းလည်းဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

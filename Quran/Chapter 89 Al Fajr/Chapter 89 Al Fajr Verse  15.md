@@ -710,6 +710,12 @@ I ako negoviyat Gospod go podlozhi na izpitanie, kato go pochete i oblagodetelst
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။ လူသားမှာမူကား သူ၏ အရှင်သခင်သည် သူ့အား ဂုဏ်ကျက်သရေ စည်းစိမ်ဥစ္စာများဖြင့် စုံစမ်းတော်မူသောအခါ အကျွနု်ပ်၏ အရှင်သခင်သည် အကျွနု်ပ်ကို ဂုဏ်ပြုတော်မူသည်ဟု ပြောဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ပါလျက် မည်သို့ပင်ဖြစ်စေ၊ (ကာဖိရ်)လူသားမှာမူကား ၎င်း၏အရှင်မြတ်က ၎င်းအား စမ်းသပ်တော်မူသောအခါ ထိုအရှင်မြတ်သည် ၎င်းအား ဂုဏ်အသရေချီးမြှင့်တော်မူ၏။ ထို့ပြင် ၎င်းအား ကျေးဇူးပြုတော်မူ၏။ ထိုအခါ ၎င်းက ကျွန်ုပ်၏ အရှင်မြတ်သည် ကျွန်ုပ်အား ဂုဏ်အသရေ ချီးမြှင့်တော်မူခဲ့သည်ဟု ပြောဆိုလေ့ရှိ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

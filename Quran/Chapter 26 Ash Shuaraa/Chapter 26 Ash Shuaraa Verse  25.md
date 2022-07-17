@@ -710,6 +710,12 @@ Reche [Faraonŭt] na onezi okolo nego: “Chuvate li?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	ထိုအခါဖွာရောမင်းက သူ၏မှုးမတ်တို့အား လှည့်၍ သင်တို့မကြားကြဘူးလားဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုဖစ်ရ်အောင်န်က မိမိအနီးအနား၌ ရှိကြသူတို့အား(မောင်မင်းတို့၊) ကြားကြပါ၏လောဟု ဆိုခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

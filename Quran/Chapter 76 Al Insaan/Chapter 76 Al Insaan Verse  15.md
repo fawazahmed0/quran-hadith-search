@@ -710,6 +710,12 @@ Shte bŭdat obsluzhvani sŭs sŭdove ot srebro i s kristalni chashi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။ ထို့အပြင် ထိုနိဗ္ဗာန်သူနိဗ္ဗာန်သားတို့အား သောက်စရာကို ငွေခွက်နှင့် ဖန်ဖလားတို့ဖြင့် တစ်ဦးမှ တစ်ဦးသို့ လှည့်ပတ်တိုက်ကျွေးလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ၎င်းတို့ထံ ငွေပန်းကန်များသည်လည်းကောင်း၊ ဖန်ခွက်များသည်လည်းကောင်း၊ လှည့်လည် ရောက်ရှိနေပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

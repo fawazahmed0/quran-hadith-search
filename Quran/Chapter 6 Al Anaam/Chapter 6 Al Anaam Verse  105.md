@@ -710,6 +710,12 @@ Taka podrobno razyasnyavame znameniyata, che [nevernitsite] da kazhat: “Ti si 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၅။	သူတို့သည် သင့်အား အို-မိုဟမ္မဒ် သင်သည် ဗျာဒိတ်ကျမ်းတော်၌ လိမ္မာကျွမ်းကျင်ပြီဟု ပြောဆိုရန် သော်လည်းကောင်း၊ ပညာအလင်းရောင်ရသူတို့အတွက် ကျမ်းတော်ကို ထင်ရှားရှင်းလင်းစေဖို့ရန် သော်လည်းကောင်း ငါအသျှင်မြတ်သည် ငါ၏နှုတ်ကပတ်တော်များကို ပြတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ဤနည်းအတိုင်းပင် ငါအရှင်မြတ်သည် သက်သေ လက္ခဏာတော်များကို အမျိုးမျိုးအဖုံဖုံ ရှင်းလင်းပြတော်မူသည်။ (ယင်းသို့ရှင်းလင်း ပြတော်မူသည့်အခါ)ထိုကာဖိရ်များကအသင်သည်သင်ယူထားသည်ဟုပြောဆိုကြပေမည်။ ၎င်းပြင် ငါအရှင်မြတ်သည် ထို(ကုရ်အာန်)ကို အသိတရားရှိသူများအဖို့ အထူးလင်းပြတော်မူရန်အလို့ငှာဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

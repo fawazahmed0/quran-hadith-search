@@ -710,6 +710,12 @@ I izpŭlnyavaĭte obeta kŭm Allakh, shtom ste obeshtali, i ne narushavaĭte k
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၁။	သင်တို့သည် အလ္လာဟ်အရှင်မြတ်အထံတော်၌ ပြုသောဂတိသစ္စာကို ဖြည့်ကြလော့။ သင်တို့ကျိန်ဆိုချက်များကို မဖျက်ကြလင့်။ ဤကိစ္စများတွင် သင်တို့သည် အလ္လာဟ်အရှင်မြတ်ကို သင်တို့၏ အာမခံသူပြုလုပ်ကြ၏။ မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့ပြုကျင့်သမျှတို့ကို သိမြင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်နှင့်ထားရှိသော ပဋိညာဉ်ကို အသင်တို့ ပဋိညာဉ် ဖွဲ့ပြီးခဲ့ကြသောအခါ ကျေပွန်အောင်ဆောင်ရွက်ကြ လေကုန်။ ထိုမှတစ်ပါးအသင်တို့သည် ကျိန်ဆိုချက်များကို အခိုင်အမာပြုပြီးနောက်မဖောက်ဖျက်ကြကုန်လင့်။ အမှန်စင်စစ်သော်ကား အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား မိမိတို့အပေါ်၌ အာမခံသူပြုလုပ်ခဲ့ကြချေပြီ။ ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့ပြုလုပ်ခဲ့ကြသမျှတို့ကို (အကြွင်းမဲ့) သိရှိတော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

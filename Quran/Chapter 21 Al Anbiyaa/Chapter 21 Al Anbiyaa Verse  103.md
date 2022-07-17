@@ -710,6 +710,12 @@ I naĭ-golemiyat uzhas ne shte gi naskŭrbi. I angelite shte gi posreshtat: “
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၃။	မဟာကြောက်လန့်ဖွယ်ကြီးသည် သူတို့အား ပူဆွေးစေမည်မဟုတ်၊ ကောင်းကင်တမန်တို့က သူတို့အား ဤနေ့ သည် သင်တို့ကို ဂတိသစ္စာပြုထားတော်မူသောသင်တို့၏ နေ့တော်ကြီးပေတည်းဟုဆိုလျက် ခရီးဦးကြိုဆို ဧည့်ခံကြလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ထိုအကြီးဆုံးသော ထိတ်လန့်ဖွယ်(ဖြစ်သောကိယာမသ်နေ့သည်)ပင်လျှင် စိတ်ဒုက္ခရောက်စေမည်မဟုတ်။ ၎င်းအပြင်(ထိုနေ့တွင်) မလာအိကဟ်ကောင်းကင်တမန်များက ၎င်းတို့အား "ဤနေ့သည်ကား အသင်တို့အားချိန်းချက်ထားသောနေ့ ဖြစ်သည်" ဟူ၍ပင် ကြိုဆိုဧည့်ခံကြအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

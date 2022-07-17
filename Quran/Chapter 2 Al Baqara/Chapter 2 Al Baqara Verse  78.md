@@ -710,6 +710,12 @@ Nyakoi ot tyakh sa negramotni, ne poznavat Pisanieto, a samo izmislitsi. Ala te 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၈။	သူတို့အနက် စာမတတ်သူများရှိကြ၏။ ထိုသူတို့သည် ကျမ်းတော်ကို သူများထံမှတဆင့် ကြားနာရပြီး လျှင် ထင်သလို ရမ်းဆပြောဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတပါး ၎င်းတို့ အတွင်းဝယ် စာပေကျမ်းဂန် မတတ်ကျွမ်းသူများလည်း ရှိကြ၏။ ယင်းသူတို့သည် ကောလာဟလဖြစ်သော သတင်းများမှတပါး ကျမ်းဂန်များကို မသိနားမလည်ကြချေ၊ အမှန်သော်ကား ယင်းသူတို့သည် မိမိတို့ထင်မိထင်ရာ တွေးတောရမ်းဆချက်များမှတပါး (အခြားမည်သည်ကိုမျှ အတိအကျသိရှိကြသည်) မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Vsevishen e Allakh, istinskiyat Vladetel! Nyama drug bog osven Nego, Gospoda na 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၆။	ယခုအလ္လာဟ်အရှင်မြတ်သည် မြင့်မြတ်တော်မူ၏၊ ရှင်ဘုရင်အစစ်ဖြစ်တော်မူ၏၊ ကောင်းကြီးမင်္ဂလာအဖြာဖြာနှင့် ပြည့်စုံသောရာဇပလ္လင်တော်ကြီး၏ အရှင်သခင်၊ အလ္လာဟ်အရှင်မြတ်မှတပါး အခြားအရှင်သခင်မရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် (ယင်းကဲ့သို့ အချည်းနှီး ပြုလုပ်တော်မူခြင်းမှ) လုံးဝကင်းစင် မြင့်မြတ်လှတော်မူသော၊ ဘုရင်မင်းမြတ် အစစ်အမှန် ဖြစ်တော်မူ၏။ ထိုအရှင်မြတ်မှတစ်ပါး ခဝပ်ကိုးကွယ်ရာ အရှင်ဟူ၍ အလျှင်းမရှိပြီ။ (ထိုအရှင်မြတ်သည်) မြင့်မြတ်လှစွာသော "အရ်ရှ်" ပလ္လင်တော်ကို စိုးပိုင်တော် မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Dzhamiite sa samo za Allakh i zatova ne zovete nikoĭ drug zaedno s Allakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။ ဝတ်ပြုရာနေရာများသည် အလ္လာဟ်အရှင်မြတ်အား ဝတ်ပြုဖို့သာလျှင်ဖြစ်၏။ ထို့ကြောင့်အလ္လာဟ်အရှင်မြတ်နှင့် ပူးတွဲ၍ မည်သည့်တစ်စုံတစ်ရာကိုမျှ ဝတ်မပြုကြလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး (ငါ့ထံသို့ အမိန့်တော်ထုတ်ပြန် ခြင်းခံခဲ့ရလေ၏)။ ဧကန်မလွဲ ‘မတ်စ်ဂျစ်ဒ်’ပျပ်ဝပ် ဦးချရာနေရာများသည် ၎င်းအရှင်မြတ်နှင့်သာ သက်ဆိုင်ကြ၏။ သို့ဖြစ်ပေရာ အသင်တို့သည် ၎င်းအရှင်မြတ်နှင့်အတူ မည်သူတစ်ဦးတစ်ယောက်ကိုမျှပင် ဆည်းကပ်ကိုးကွယ်ခြင်း မပြုကြကုန်လင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

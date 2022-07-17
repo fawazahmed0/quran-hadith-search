@@ -710,6 +710,12 @@ I drugi [mŭcheniya] ot sŭshtiya vid
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈။	ထို့အပြင်အပူအအေးစုံတွဲရှိသကဲ့သို့့ အခြားအပြစ်ဒဏ်များလည်း စုံတွဲစုံတွဲစီ အမျိုးမျိုးအဖုံဖုံရှိသေး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ဤသည့်အမျိုးအစားထဲမှပင် အခြားသော (မြည်းစမ်းဖွယ်ရာ) အမျိုးမျိုးလည်း ရှိချိမ့်မည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

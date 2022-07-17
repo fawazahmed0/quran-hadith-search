@@ -710,6 +710,12 @@ Vizhdash li? Ako im dam oshte godini da se naslazhdavat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ၅။	ထို့ကြောင့်သင်စဉ်းစားဆင်ခြင်သလော၊ အကယ်၍ငါသည် ထိုမိစ္ဆာမိုက်တို့အား လောကီစည်းစိမ်ကာမဂုဏ်၌ နှစ်လရှည်ကြာစွာမွေ့လျော်ပျော်ပါးနေစေကာမူ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်သည် မည်သို့ယူဆပါသနည်း။ အကယ်၍ ငါအရှင်မြတ်သည် ၎င်းတို့အား နှစ်ကာလ ကြာရှည်စွာအကျိုးခံစားခွင့် ပေးတော်မူခဲ့ပါလျှင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

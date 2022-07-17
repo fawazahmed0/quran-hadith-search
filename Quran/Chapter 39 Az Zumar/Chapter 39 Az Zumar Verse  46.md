@@ -710,6 +710,12 @@ Kazhi: “O, Allakh, Tvoretso na nebesata i na zemyata, znaesht i skritoto, i ya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။	အို-တမန်တော်၊ သင်သည် ဤသို့တသချီးကျူးလော့၊ အို-မိုးကောင်းကင်နှင့် ကမ္ဘာမြေပြင်ကို ဖန်ဆင်းတော်မူ သောအရှင်၊ မမြင်ရသောအရာ၊ မမြင်စွမ်းနိုင်သောအရာများကို အကြွင်းမဲ့သိတော်မူသောအရှင်၊ အလ္လာဟ် အရှင်မြတ်၊ အရှင်မြတ်သည် မိမိ၏ ကျေးတော်မျိုး ကျွန်တော်မျိုးတို့အလယ်ကြားတွင် သူတို့ငြင်းခုံကွဲပြားလေ့ ရှိသောအမှုများကို စစ်ကြောစီရင်တော်မူပါမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်၊) အသင်သည် (ဤသို့)လျှောက်ထား ပန်ကြားပါလေ။ အို-မိုးကောင်းကင်များကိုလည်းကောင်း၊ ကမ္ဘာမြေကိုလည်းကောင်း၊ ဖန်ဆင်းတော်မူသော၊ အကွယ်၌ရှိသည်တို့ကိုလည်းကောင်း၊ ထင်ရှားသည်ကိုလည်းသိတော်မူသော အလ္လာဟ်အရှင်မြတ်သည်၊ အရှင်မြတ်သည်ပင် မိမိကျွန်တို့၏အကြားဝယ် ၎င်းတို့အချင်းချင်း သဘော ကွဲလွဲလျက်ရှိခဲ့ကြကုန်သော အရေးကိစ္စတို့နှင့်စပ်လျဉ်း၍ စီရင်ဆုံးဖြတ်တော်မူမည် ဖြစ်ပါသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

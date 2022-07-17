@@ -710,6 +710,12 @@ Shte vi napravim ravnosmetka, o, dva svyata [na dzhinove i khora]
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	အို-မှီခိုသူလူသားနှင့် ဂျင်နတ်သားနှစ်မျိုးတို့၊ ငါသည် သင်တို့ကို စစ်ကြောစီရင်တော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ဂျင်န်နှင့် လူသတ္တဝါအပေါင်းတို့၊ မကြာမြင့်မီပင် ငါအရှင်မြတ်သည် အသင်တို့ဘက်သို့ လှည့်တော်မူမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

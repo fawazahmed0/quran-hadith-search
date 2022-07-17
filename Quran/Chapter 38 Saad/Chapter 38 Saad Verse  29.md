@@ -710,6 +710,12 @@ Tova e Kniga, koyato nizposlakhme na teb [o, Mukhammad] - blagoslovena, za da ra
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	အို-တမန်တော်၊ ဤကျမ်းမြတ်ကုရ်အာန်ကို သင့်အား ငါထုတ်ပြန်ချပေးသနားတော်မူ၏၊ ဤကျမ်းတော်မြတ် သည် ကောင်းကြီးမင်္ဂလာအဖြာဖြာနှင့် ပြည့်စုံ၏၊ သို့ထုတ်ပြန်ပို့ချပေးသနားတော်မူသည်မှာ လူသားအပေါင်း တို့သည် ကျမ်းတော်မြတ်၏ ဂါထာတော်များကို စဉ်းစားဆင်ခြင်ဖို့ရာသော်လည်းကောင်း၊ အသိဉာာဏ်ရှိသူတို့ တွေးတော်သုံးသပ်ဖို့ရာသော်လည်းကောင်း ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤသည်)အသင့်ထံသို့ ငါအရှင်မြတ်ချပေးတော်မူခဲ့သော ကျမ်းဂန်တစ်စောင်ဖြစ်၏။ "ဗရ်ကတ်" မင်္ဂလာနှင့်ပြည့်စုံ၏။ (ယင်းကျမ်းဂန်ကို ချပေးတော်မူခြင်းကား) လူတို့သည် ယင်းကျမ်းဂန်၏ အာယတ်တော်များကို စဉ်းစားဆင်ခြင်ကြအံ့သော ငှာလည်းကောင်း၊ အသိအမြင်ရှိသောသူတို့သည် တရားရယူကြအံ့သော အကျိုးငှာလည်းကောင်း၊ ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

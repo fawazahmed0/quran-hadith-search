@@ -710,6 +710,12 @@ I nasŭbra [khorata si], i proglasi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃၊၂၄။ ထို့နောက်သူသည် မိမိအသင်းသားများကို စုရုံးစေပြီးလျှင် ဤသို့ဟစ်အော်ကြွေးကြော်၏၊ အို-ငါ့အသင်းသားတို့၊ငါသည် သင်တို့၏အမြင့်မြတ်ဆုံးသောအရှင်သခင်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ထိုဖစ်ရ်အောင်န်သည် (ပဉ္စလက်ဆရာများကိုလည်းကောင်း၊ စစ်သည် ရဲမက်တို့ကို လည်းကောင်း၊) စုရုံးပြီးလျှင် (အသံကျယ်စွာ) ဟစ်အော်ခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

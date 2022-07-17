@@ -710,6 +710,12 @@ O, khora, yazhte ot onova po zemyata, koeto e pozvoleno i priyatno! I ne sledvai
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၈။	အို - လူသားတို့ သင်တို့သည် ကမ္ဘာမြေပေါ်ဝယ် သန့်ရှင်းသော တရားသော အစားအစာများကို မှီဝဲသုံးစွဲကြလော့။ ရှိုင်တွာန်မာရ်နတ်၏ခြေရာကို မနင်းကြလင့်။ ကြည့်ကြလော့။ ရှိုင်တွာန်သည် သင်တို့အတွက် ထင်ရှားသောရန်သူဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-လူသားအပေါင်းတို့၊ အသင်တို့သည် ကမ္ဘာ မြေပေါ်ဝယ် ရှိလေသော အရာများအနက်မှ စားသုံးပိုင်ခွင့်ပြုထားသော သန့်စင်သောအရာများကို စားသုံးကြကုန်လော့၊ သို့ရာတွင် အသင်တို့သည် ရှိုင်တွာန်၏ခြေရာများကို (ဖဝါးခြေ ထပ်) မလိုက်ကြကုန်လင့်။ အမှန်စင်စစ် ယင်းရှိုင်တွာန်သည် သင်တို့၏ ပွင့်လင်းထင်ရှားလှစွာသော ရန်သူရန်ဘက်ပင် ဖြစ်ချေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

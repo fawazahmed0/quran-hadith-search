@@ -710,6 +710,12 @@ Gospodi moĭ, oprosti na men i na roditelite mi, i na vseki vyarvasht, koĭto 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။ အို-အကျွနု်ပ်၏အရှင်သခင်၊ အကျွနု်ပ်၏ မိဘနှစ်ပါး၊ အကျွနု်ပ်၏အိမ်သို့ ဝင်လာသူယုံကြည်သူတို့၊ ယုံကြည်သူ ယောကျာ်းမိန်းမအပေါင်းတို့အား အပြစ်လွှတ်တော်မူပါ၊ သို့သော် မတရားမှု ကျူးလွန်သည့်သူတို့အား ပျက်စီးခြင်း မှတပါး အခြားတစ်စုံတစ်ခုမှ ပေးသနားတော်မမူပါလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ အရှင်မြတ်သည် ကျွန်တော်မျိုးအားလည်းကောင်း၊ ကျွန်တော်မျိုး၏ မိဘနှစ်ပါးတို့အားလည်းကောင်း၊ကျွန်တော်မျိုး၏အိမ်၌ မုအ်မင်န် သက်ဝင်ယုံကြည်သူအဖြစ်နှင့် ဝင်ရောက်သောသူတို့အားလည်းကောင်း၊ "မုအ်မင်န်" ယောက်ျားအပေါင်းတို့အားလည်းကောင်း၊ "မုအ်မင်န်" မိန်းမအပေါင်းတို့အားလည်းကောင်း၊ (အပြစ်တို့မှ) ခွင့်လွှတ်ချမ်းသာပေးသနားတော်မူပါ။ ၎င်းပြင် အရှင်မြတ်သည် မတရားသောသူတို့၌မူကား ပျက်စီးမှုကိုသာလျှင် တိုးပွားစေတော်မူပါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

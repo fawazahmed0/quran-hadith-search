@@ -710,6 +710,12 @@ Da imashe za nas zavrŭshtane, shtyakhme da sme ot vyarvashtite.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၂။	ငါတို့သည် ယုံကြည်သူတို့အထဲမှဖြစ်အောင် ကမ္ဘာမြေကြီးသို့ တစ်ခေါက်ပြန်ကြရလျှင် တော်သေး၏ဟု ပြောဆို ကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အကယ်၍သာ ကျွန်ုပ်တို့သည်(လူလောကသို့)တစ်ဖန် ပြန်လည်သွားခွင့်ရရှိကြပါလျှင် ကောင်းလေစွ။ သို့ ပြန်သွားခွင့်ရရှိကြပါလျှင် ကျွန်ုပ်တို့သည် သက်ဝင်ယုံကြည်ကြရမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

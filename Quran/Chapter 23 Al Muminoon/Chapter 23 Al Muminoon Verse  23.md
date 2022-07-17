@@ -710,6 +710,12 @@ Kogato izpratikhme Nukh pri negoviya narod, reche: “O, narode moĭ, na Allakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	ငါသည် တမန်တော်နူဟိုအား သူ၏အသင်းသားများထံသို့ စေလွှတ်တော်မူ၏၊ သူသည် မိမိအမျိုးသားတို့အား ဟောကြားသည်မှာ ဟယ်-အချင်းတို့၊ အလ္လာဟ်အရှင်မြတ်အား ခဝပ်ကိုးကွယ်ကြလော့၊ သင်တို့တွင် အရှင်မြတ် မှတပါး အခြားအရှင်သခင်မရှိချေ၊ သင်တို့သည် ဒုစရိုက်မကောင်းမှုကို ရှောင်ကြဉ်ကြမည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အမှန်စင်စစ် ငါအရှင်မြတ်သည် (နဗီ တမန်တော်)နူဟ်အား ၎င်း၏အမျိုးသားတို့ထံ စေလွှတ်တော်မူခဲ့၏။ ထိုအခါ ထိုနူဟ်က အို-ငါ၏ အမျိုးသားတို့၊ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား သာလျှင် ခဝပ်ကိုးကွယ်ကြလေကုန်။ ထိုအရှင်မြတ်မှတပါး အသင်တို့၌ ကိုးကွယ်ရာ အရှင်ဟူ၍ အလျှင်းမရှိပြီ။ သို့ပါလျက် အသင်တို့သည် (အခြားအရာများကို) ထိုအရှင်မြတ်နှင့် တွဲဖက်နှိုင်းယှဉ် ကိုးကွယ်ခြင်းမှ မကြောက် ရွံ့ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

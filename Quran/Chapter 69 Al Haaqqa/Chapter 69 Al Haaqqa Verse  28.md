@@ -710,6 +710,12 @@ Ne me izbavi moeto bogat·stvo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။ ငါ့ဥစ္စာပစ္စည်းများသည် ငါ့ကို ဘာအကျိုးမျှမပေးချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါ၏ပစ္စည်းဥစ္စာသည် ငါ၏အဖို့ အသုံးဝင်ခဲ့သည် မဟုတ်ပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

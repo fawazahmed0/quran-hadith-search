@@ -710,6 +710,12 @@ Nima shte bŭdete ostaveni tuk v sigurnost
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၆။	သင်တို့သည် ဤလောကီစည်းစိမ်ဥစ္စာများတွင် မပျက်မပြားလုံခြံုစွာနေရမည်ဟု ထင်မှတ်ကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် ဤပစ္စက္ခဘဝ၌ရှိသော အရာများတွင် စိတ်အေးချမ်းနေခြင်းကို လျစ်လျူပြုထားခြင်းကို ခံကြရမည်လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

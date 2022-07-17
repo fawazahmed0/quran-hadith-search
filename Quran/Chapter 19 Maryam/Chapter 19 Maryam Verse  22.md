@@ -710,6 +710,12 @@ I zachena go tya, i se uedini s nego v otdalecheno myasto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	မရယမ်သည် သူ့ကို ကိုယ်ဝန်ဆောင်၍ ဝေးကွာသောအရပ်သို့ ထွက်သွားလေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် မရ်ယမ်သည် ထိုသားရတနာကို ကိုယ်ဝန်ဆောင်ခဲ့လေသည်။ ထိုအခါ ယင်းမရ်ယမ်သည် ထိုကိုယ်ဝန်နှင့်အတူ ဝေးလံသောနေရာတစ်ခုသို့ ရှောင်သွားခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

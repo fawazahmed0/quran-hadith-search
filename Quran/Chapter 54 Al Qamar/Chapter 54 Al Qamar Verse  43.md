@@ -710,6 +710,12 @@ Nima vashite nevernitsi sa po-dobri ot onezi, ili za vas ima onevinyavane v Pisa
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	အို-ကြားနာရသူအပေါင်းတို့၊ သင်တို့အနက် မယုံကြည်သူသည် ငါဖျက်ဆီးကွပ်မျက်တော်မူပြီးသော ရှေးလူ ဟောင်းများထက် သာလွန်မြင့်မြတ်သလော၊ သို့မဟုတ် သင်တို့သည် တရားတော်ပါအပြစ်ဒဏ်များမှ လွတ်ငြိမ်း ချမ်းသာခွင့်ရရှိကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့ခေတ်၌ရှိကုန်သော ‘ကာဖိရ်’သွေဖည်ငြင်းပယ်သူတို့သည် ၎င်းတို့ထက် သာလွန် မြင့်မြတ်ကြ လေသလော၊ သို့တည်းမဟုတ် ကျမ်းဂန်များ၌ အသင်တို့အဖို့ လွတ်ငြိမ်းခွင့်ရှိသည်ဟူ၍ လာရှိလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

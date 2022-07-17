@@ -710,6 +710,12 @@ Dano nashiyat Gospod ni dade v zamyana po-dobra ot neya. Nie nashiya Gospod umol
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။ တဖန်သူတို့ဆိုကြသည်မှာ အကျွနု်ပ်တို့၏ အသက်သခင်ကျေးဇူးရှင်ကြီးသည် အကျွနု်ပ်တို့အား ဤဥယျာဉ်အစား ၄င်းထက်သာလွန်ကောင်း မြတ်သောဥယျာဉ်ကို ပေးကောင်း ပေးတော်မလူ တ၊ံ့ အကြောင်း မူကား အကျွနု်ပ်တို့သည် အလ္လာဟ်အရှင်မြတ်အထံတော်၌ ဆုတောင်းကြသောကြောင့်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကျွန်ုပ်တို့အား ဖန်ဆင်း မွေးမြူတော်မူသော အရှင်မြတ်သည် ကျွန်ုပ်တို့အား ယင်းဥယျာဉ်ထက် ကောင်းမြတ်သော ဥယျာဉ်ကို လဲလှယ်အစားပေးတော်မူတန်ရာ၏။စင်စစ်ဧကန် ကျွန်ုပ်တို့သည် မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်ဘက်သို့ ပြန်လှည့်သူများ ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

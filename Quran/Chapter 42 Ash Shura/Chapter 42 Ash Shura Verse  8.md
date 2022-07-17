@@ -710,6 +710,12 @@ A ako Allakh be pozhelal, shteshe da gi stori edna obshtnost. Ala Toĭ vŭvezhd
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	အကယ်၍အလ္လာဟ်အရှင်မြတ်သည် အလိုတော်ရှိခဲ့ပါလျှင် လူသားအပေါင်းတို့ကို တစ်သင်းတည်းဖြစ်စေတော် မူခဲ့လေလတ့ံ၊ သို့သော်အရှင်မြတ်သည် အလိုတော်ရှိသောသူအား မိမိ၏ ကျေးဇူးမင်္ဂလာတော်အတွင်း သွင်း တော်မူ၏၊ မတရားကျူးလွန်သူများ၌ကား အဆွေခင်ပွန်း(သို့မဟုတ်)ကူညီသူများမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အကယ်၍သာ အလ္လာဟ်အရှင်မြတ်သည် အလိုတော်ရှိတော်မူခဲ့ပါလျှင် အမှန်ပင် ၎င်းတို့အား သာသနာဝင်အုပ်စုတစ်စုတည်းပြုလုပ်တော် မူခဲ့မည်သာ။သို့ရာတွင် ထိုအရှင်မြတ်သည် မိမိအလိုရှိတော်မူသော သူတို့အားသာလျှင် မိမိကရုဏာတော်သို့ ဝင်ရောက်စေတော်မူ၏။စင်စစ်သော်ကား မတရားကျူးလွန်သူတို့အား ကာကွယ်စောင့်ရှောက် အံ့သောသူဟူ၍လည်း တစ်ဦးတစ်ယောက်မျှပင် ရှိလိမ့်မည်မဟုတ်ပေ။ ကူညီစောင်မအံ့သောသူဟူ၍လည်း တစ်ဦးတစ်ယောက်မျှပင် ရှိလိမ့်မည်မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

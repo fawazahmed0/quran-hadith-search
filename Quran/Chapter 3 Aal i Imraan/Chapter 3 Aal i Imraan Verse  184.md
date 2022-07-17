@@ -710,6 +710,12 @@ I ako teb [o, Mukhammad] vzekha za lŭzhets, to i predi teb byakha vzimani za l�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈၄။	အကယ်၍ ဤသူတို့သည် သင့်အား ငြင်းပယ်ကြလျှင် သင့်အရင် ပွင့်လာသော တမန်တော်များ ကိုလည်း မယုံကြည်၊ ငြင်းဆန်ခဲ့၏။ ထိုတမန်တော်များသည် အံ့ဘွယ်သူရဲများ၊ ကျမ်းငယ်အစောင် စောင်၊ ပညာအလင်းရောင်ပေးသောကျမ်းကြီးများကို ယူဆောင်လာခဲ့ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အကယ်၍ ထိုသူတို့သည်အသင့်အား မုသားပြောဆိုသူဟူ၍ စွပ်စွဲပြောဆိုကြပါမူ (သို့စွပ်စွဲပြောဆိုခြင်းကား မထူးဆန်းလှပေ။ အကြောင်းဟူမူ) အသင်၏အလျင် ထင်ရှားစွာသော တန်ခိုးပြာဋိဟာ သက်သေသာဓကများကိုလည်းကောင်း၊ ကျမ်းငယ် (အစောင်စောင်)များကိုလည်းကောင်း၊ ထွန်းလင်းတောက်ပသော ကျမ်းကြီးများကိုလည်းကောင်း၊ ယူဆောင်လာခဲ့ကြကုန်သော ရစူလ်တမန်တော်များသည်ပင်လျှင် မုသားပြောဆို သူများဟူ၍ စွပ်စွဲပြောဆိုခြင်းကိုခံခဲ့ကြရလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

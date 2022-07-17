@@ -710,6 +710,12 @@ I kogato se nastanish, ti i onezi s teb, v Kovchega, kazhi: “Slava na Allakh, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	သင်သည် သင်္ဘောပေါ်သို့ တက်ရောက်မိသောအခါ သင်နှင့်တကွသင့်အဆွေအမျိုးတို့သည် ဒုစရိုက်မကောင်းမှု များကို ကျူးလွန်သောသူတို့မှ အကျွနု်ပ်တို့ကို ကယ်နှုတ်တော်မူထသောအရှင်မြတ်သည် ချီးမွမ်းခြင်းတည်ရာ ဖြစ်တော်မူ၏ဟု ရင်းကျူးကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် အသင်နှင့်တကွ အသင်နှင့်အတူ (လိုက်ပါကြကုန်သော)အဖော်များပါ သင်္ဘောပေါ်တွင် ကျနစွာထိုင်ပြီး ကြသောအခါ အသင်သည် "ချီးမွမ်းထောပနာ အပေါင်းတို့ သည် ကျွန်တော်မျိုးတို့အား မတရားသဖြင့် နှိပ်စက်ကြကုန်သော အမျိုးသားတို့(၏ဘေးအန္တရာယ်)များမှ ကင်းလွတ်စေတော်မူသော အလ္လာဟ်အရှင်မြတ်သည်သာလျှင် ခံယူထိုက်တော်မူပါသည်" ဟု ရွတ်ဆိုပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Reche: “Az sŭm po-dobŭr ot nego. Men Ti sŭtvori ot ogŭn, a nego sŭtvori o
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၆။	အီဗလစ်(စ်)က တုံ့ပြန်လျှောက်သည်မှာ အို-အလ္လာဟ်အရှင်၊ အကျွနု်ပ်သည် လူသားထက်သာလွန်မြင့်မြတ်ပါ၏၊ အရှင်မြတ်သည် အကျွနု်ပ်ကို မီးမှ ဖန်ဆင်းတော်မူပါ၏၊ လူသားကို မြေစေးမှ ဖန်ဆင်းတော်မူပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို"ဗ်လီစ်"က (အို-အရှင်မြတ်၊)ကျွန်တော်မျိုးသည် ထိုလူသားထက် မြင့်မြတ်ပါသည်။ အရှင်မြတ်သည် ကျွန်တော်မျိုးအား မီးဖြင့် ဖန်ဆင်းတော်မူ၍ ထိုလူသားကိုမူကား ရွှံ့မြေဖြင့် ဖန်ဆင်းတော်မူခဲ့ပါသည်"ဟု လျှောက်ထားခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

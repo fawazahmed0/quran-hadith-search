@@ -710,6 +710,12 @@ I shte spasi Allakh bogoboyazlivite s tyakhnoto izbavlenie [v Raya]. Ne shte gi 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၁။	သို့သော် အလ္လာဟ်အရှင်မြတ်သည် ဒုစရိုက်မကောင်းမှုကို ကြည့်ရှောင်သောသူတော်ကောင်းတို့အား မိမိတို့၏ ကုသိုလ်ကောင်းမှု၏ အကျိုးဆက်ကြောင့် မြင့်မြတ်သောနေရာဌာနသို့ ပို့တော်မူ၏၊ သူတို့သည် ဒုက္ခမရ၊ ညှိုးနွမ်းပူဆွေးခြင်းလည်း မရကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ပြစ်မှုဒုစရိုက်များမှ ကြဉ်ရှောင်ကြကုန်သော "မွတ္တကီ" သူတော်စင်တို့ကိုမူကား အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့၏ အောင်မြင်မှုနှင့်တကွ လွတ်မြောက်စေတော်မူပေမည်။ ၎င်းတို့တွင် ဘေးဒုက္ခသည်လည်း ဆိုက်ရောက်မည် မဟုတ်ပေ။ ထိုမှတစ်ပါး ၎င်းတို့သည် ပူဆွေးကြရမည်လည်း မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

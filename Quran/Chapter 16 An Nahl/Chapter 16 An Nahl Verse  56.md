@@ -710,6 +710,12 @@ I otrezhdat za onova, koeto ne poznavat, dyal ot prepitanieto, koeto Nie sme im 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၆။	ထို့အပြင် သူတို့သည် ငါပေးသနားတော်မူသောဥစ္စာပစ္စည်းများအနက် တစိတ်တဒေသကို သူတို့မသိသောအရာ များအား လှုဒါန်းကြ၏။ အလ္လာဟ်အရှင်မြတ်၏ တန်ခိုးတော်ကြောင့် သင်တို့အား မိမိတို့လုပ်ကြံလေ့ရှိသော အမှုများနှင့်စပ်လျဉ်း၍ မုချဧကန်စစ်ကြောစီရင်တော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့သည် ငါအရှင်မြတ် ၎င်းတို့အား ချီးမြှင့် ပေးသနားတော်မူသောအရာများအနက် မှ မိမိတို့မသိနားမလည်သော အရာများအဖို့ ဝေစုဝေပုံ ပြုလုပ်ကြကုန်၏။ အလ္လာဟ်အရှင်မြတ်၏ ကစမ် အသင်တို့သည် မိမိတို့လီဆယ်ဖန်တီးလျက် ရှိသော ကိစ္စများနှင့်စပ်လျဉ်း၍ အမှန်ပင်စစ်ဆေး မေးမြန်းခြင်းကို ခံကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Shtom nakazanieto se stovareshe vŭrkhu tyakh, kazvakha: “O, Musa, prizovi ni 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၄။	ဘေးအန္တရာယ်ကြောက်မက်ဖွယ်တို့ ဆိုက်ရောက်လာသောအခါ သူတို့သည် ဤသို့ ငိုကြွေးတောင်းပန် ကြ၏။ အို-မူဆာ သင်၏အသျှင်သခင်သည် သင်နှင့် ပဋိညာဉ်ဖွဲ့တော်မူပြီးသောကြောင့် သင်သည် သင်၏ ကျေးဇေူးတော်သခင်ထံတော်၌ အကျွနု်ပ်တို့အတွက် ဆုတောင်းပေးပါလော့။ အကယ်၍ သင်သည် အကျွနု်ပ်တို့၏ ဘေးဒုက္ခကို ဖယ်ရှားပါလျှင် အကျွနု်ပ်တို့သည် သင့်ကို အမှန်ပင်ယုံကြည်၍ အစ္စရာအီလ်အမျိုးသားတို့ကို သင်နှင့်အတူတကွ သွားစေမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ၎င်းတို့အပေါ်၌ပြစ်ဒဏ်များကျရောက်လာသောအခါ ထိုသူတို့က အို-မူစာ၊ အသင်၏အရှင်မြတ်သည် အသင်နှင့် ပဋိညာဉ် ပြုထားတော်မူသည်နှင့် စပ်လျဉ်း၍အသင်သည် ကျွန်ုပ်တို့အဖို့ မိမိအရှင်မြတ်အထံတော်၌ ဆုမွန်ပတ္တနာ ပြု၍ပေးပါလေ။ အကယ်၍သာ အသင်သည် ကျွန်ုပ်တို့အပေါ်မှ (ဤ)ပြစ်ဒဏ်ကို ဖယ်ရှား၍ ပေးခဲ့ပါလျှင်၊ ကျွန်ုပ်တို့သည် အသင့်အား ယုံကြည်(ကိုးစား)၍ အစ္စရာအီလီ အမျိုးသားတို့ကိုလည်း အသင်နှင့်အတူ ထည့်လိုက်ကြပါမည်ဟု ပြောဆို(လေ့ရှိ)ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

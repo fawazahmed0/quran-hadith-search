@@ -710,6 +710,12 @@ Vseki na nebesata i na zemyata shte doĭde kato rab pri Vsemilostiviya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၃။	မိုးကောင်းကင်နှင့်ကမ္ဘာမြေပေါ်ဝယ်ရှိရှိသမျှအပေါင်းတို့သည် မဟာဂရုဏာတော်သခင်၏ ရှေ့တော်သို့ ကျေးတော် မျိုးကျွန်တော်မျိုးအဖြစ်ဖြင့် ဝင်ရောက်ခစားကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မိုးကောင်းကင်များ၌လည်းကောင်း၊ ပထဝီမြေ၌လည်းကောင်း၊ ရှိကုန်သောသူ ဟူဟူသမျှတို့သည် ရဟ်မာန်အနန္တကရုဏာတော်ရှင်၏ ရှေ့တော်မှောက်တွင် ကျွန်အဖြစ်နှင့် လာရောက်ရမည့်သူချည်းသာ ဖြစ်ကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

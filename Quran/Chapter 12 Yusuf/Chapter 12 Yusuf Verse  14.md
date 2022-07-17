@@ -710,6 +710,12 @@ Rekokha: “Ako go izyade vŭlkŭt, kakto sme grupa, togava i nie sme zagubeni.�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	သူတို့က အကျွနု်တို့သည် ခွန်အားဗလကြီးမားသန်စွမ်းကြပါ။ အကျွနု်ပ်တို့အားလုံးသေပြီးမှသာလျှင် ဝံပုလွေသည် သူ့ကို ဖမ်းစားနိုင်ပါမည်ဟု တဖန်ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ နောင်တော်များက ဤသို့)လျှောက်ထားခဲ့ကြပြန်၏။ (အို-ဖခမည်းတော်) အမှန်စင်စစ် ကျွန်ုပ်တို့သည် ရင်းနှီးပွန်းတီး အားအင်တောင့်တင်း သောအုပ်စုတစ်စုပင်ဖြစ်ကြပါလျက် အကယ်၍ ထိုယူဆွဖ်အား ဝံပုလွေကိုက်စားခဲ့ပါလျှင် ကျွန်ုပ်တို့သည် အမှန်ပင် ပျက်စီးဆုံးပါးသူများသာဖြစ်ကြပါလိမ့်မည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

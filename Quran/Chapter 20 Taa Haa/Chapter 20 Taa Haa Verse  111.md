@@ -710,6 +710,12 @@ I litsata shte se smiryat pred Vechnozhiviya, Neizmenniya, i shte izgubi nadezhd
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၁။	အသက်ရှိတော်မူထသော နိစ္စထာဝရအရှင်သခင်၏ မျက်မှောက်တော်ဝယ်လူခပ်သိမ်းတို့သည် မျက်နှာအောက်ချ နှိမ့်ချလျက်ရှိကြ၏၊ အကြင်သူသည် ဒုစရိုက်မကောင်းမှုပြုခြင်းဝန်ထုပ်ကြီးကို ထမ်းပိုရ၏၊ ထိုသူသည် ထိုနေ့တော် ကြီး၌ ဆုံးရှုံးပျက်စီးမှုအမှန်ပင်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်(ထိုနေ့တွင် လူခပ်သိမ်းတို့၏)မျက်နှာများမှာထာဝရရှင်နေတော်မူသော၊ အစဉ်အမြဲ တည်ရှိနေတော်မူသောအရှင်မြတ်၏ ရှေ့တော်မှောက်ဝယ် အောက်ကြို့လျက်ရှိကြပေမည်။ ၎င်းပြင် ဧကန်မလွဲ မတရားမှုကို (ကျူးလွန်)ထမ်းဆောင်ခဲ့သောသူမှာ မူကား (ထိုနေ့၌)လုံးဝဆုံးရှုံးမည်သာတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

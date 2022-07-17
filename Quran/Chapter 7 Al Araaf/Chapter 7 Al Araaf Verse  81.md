@@ -710,6 +710,12 @@ Pri mŭzhete khodite sŭs strast namesto pri zhenite. Vie ste khora prestŭpvash
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၁။	မှတ်သားကြလော့။ သင်တို့သည် မိန်းမအစား ယောကျ်ားများကို လိုလားသောတဏှာဆန္ဒနှင့် လာကြ၏။ ယင်းသို့ မကျင့်အပ်၊ သင်တို့သည် လျှပ်ပေါ်လော်မာသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မုချဧကန် အသင်တို့သည် မိန်းမတို့ကိုစွန့်၍[ယောက်ျား များထံ ကာမဂုဏ်ခံစားရန်သွားကြကုန်သည်]။(တစ်နည်း-ယောက်ျားများထံ ကာမဂုဏ်ခံစားရန် သွားကြ ကုန်၏။) ထိုမျှမက အသင်တို့သည် (အရာရာတွင်လည်း အလွန်အမင်း)စည်းကမ်းကျူးလွန်သူများပင် ဖြစ်ကြကုန် သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

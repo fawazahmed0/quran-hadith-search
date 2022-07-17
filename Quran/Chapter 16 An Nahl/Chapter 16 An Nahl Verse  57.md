@@ -710,6 +710,12 @@ I otrezhdat za Allakh dŭshterite - prechist e Toĭ!, - a za sebe si - onova, k
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၇။	ထို့အပြင်သူတို့သည် အလ္လာဟ်အရှင်မြတ်အား သမီးတော်များပေး၍ သူတို့အဖို့ ၎င်းတို့နှစ်သက်ရာကို ယူကြ၏။ အလ္လာဟ်အရှင်မြတ်သည် ချို့တဲ့ခြင်းကင်းတော်မူ၏။ တန်ခိုးတောက်ပတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ်၌သမီးများရှိကြသည်ဟု ယိုးစွပ်ကြကုန်၏။ ထိုအရှင် မြတ်သည်(၎င်းတို့စွပ်စွဲပြောဆိုကြသည်များမှလုံးဝ) သန့်ရှင်းစင်ကြယ်တော်မူ၏။ သို့ရာတွင် ၎င်းတို့အဖို့ ၎င်းတို့နှစ်သက်ကြသောအရာသည် ရှိပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Vinata e samo za onezi, koito iskat razreshenie ot teb, a sa bogati. Predpocheto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၃။	ဥစ္စာပစ္စည်းရှိလျက် အိမ်တွင်ကျန်ရစ်ခွင့်တောင်းသူများကိုသာ အပြစ်တင်စရာရှိ၏။သူတို့သည် အသုံးမဝင်သော သူတို့နှင့်အတူကျန်ရစ်ရခြင်းနှင့် တင်းတိမ်ရောင့်ရဲကြ၏။အလ္လာဟ်အရှင်မြတ်သည် သူတို့၏ စိတ်နှလုံးကို တံဆိပ်ခတ်နှိပ်ထားတော်မူသည်။ထို့ကြောင့်သူတို့သည် အသိပညာကင်းမဲ့ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ပြစ်တင်ရန်လမ်းမှာကား အကြင်သူတို့အပေါ်၌သာရှိချေသည်။ ထိုသူတို့သည် ချမ်းသာကြွယ်ဝသူများဖြစ်ကြပါလျက် (စစ်တလင်းသို့ မလိုက်ဘဲနေကြရန်)အသင့်ထံ ခွင့်ပန်ကြလေသည်။ 4င်းတို့သည် နောက်၌ကျန်ရစ်ခဲ့ကြသော အမျိုးသမီးတို့နှင့်အတူ နေရစ်ခဲ့ကြရန် နှစ်မြှို့ခဲ့ကြလေသည်။ ထို့ပြင် အလ္လာဟ်အရှင်မြတ်သည် 4င်းတု့ိ၏ စိတ်နှလုံးများအပေါ်၌ တံဆိပ်ခပ်နှိပ်တော်မူခဲ့လေသည်။ သို့ဖြစ်ပေရာ 4င်းတို့သည်(စစ်မ်ပြိုင်ဆိုင်တိုက်ခိုက်ခြင်း၏သဘောတရားကိုပင်) မသိနားမလည်ကြပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

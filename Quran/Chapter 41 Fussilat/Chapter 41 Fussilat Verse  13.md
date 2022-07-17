@@ -710,6 +710,12 @@ A ako se otvŭrnat, kazhi: “Preduprezhdavam vi s mŭlniya, podobna na mŭlniya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	အို-တမန်တော်၊ သူတို့သည် အကယ်၍လှည့်သွားကြအ့ံ၊ သူတို့အား ဟယ်-အချင်းတို့၊ အထက်ကျော်ကာလက (အားဒ်)နှင့် (စမူးဒ်)တို့အား မိုးကြိုးအပြစ်ဒဏ်ထိသကဲ့သို့ ထိုအပြစ်ဒဏ်သည် သင်တို့အပေါ်၌လည်း ရောက်လာ မည့်အကြောင်း ငါသည် သင်တို့အား သတိပေး၏ဟု သင်ပြောကြားလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ပါလျက် (အို-နဗီတမန်တော်)အကယ်၍ ၎င်းတို့သည် မျက်နှာလွှဲသွားခဲ့ကြလျှင် အသင်သည် ၎င်းတို့အား(ဤသို့)ပြောကြားပါလေ။ (အချင်းတို့၊) ငါသည် အသင်တို့အားအာဒ်အမျိုးသားတို့(၌ဆိုက်ရောက်ခဲ့သော) ပြစ်ဒဏ်မျိုးနှင့်စပ်လျဉ်း၍ လည်းကောင်း၊ ဆမူဒ်အမျိုးသား(တို့၌ဆိုက်ရောက်ခဲ့သော) ပြစ်ဒဏ်မျိုးနှင့် စပ်လျဉ်း၍လည်း ကောင်း၊သတိပေး နှိုးဆော်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

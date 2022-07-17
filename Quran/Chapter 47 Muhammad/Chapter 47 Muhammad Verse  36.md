@@ -710,6 +710,12 @@ Zemniyat zhivot e samo igra i zabava. I ako povyarvate i se boite, Toĭ shte vi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	ဤလောကီဘဝသည် ကစားပျော်ရွှင်စရာကဲ့သို့ အသိမ်အဖျင်းအနှစ်သာရကင်းမဲ့၏၊ သင်တို့သည် ဒုစရိုက် မကောင်းမှုကို ရှောင်လျက် အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အား အကျိုးသုခပေးသနားတော်မူလတ့ံ၊ အရှင် မြတ်သည် သင်တို့အား သင်တို့၏ စည်းစိမ်ဥစ္စာများကို စွန့်ပစ်ရန် ပညတ်တော်မူသည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤ) ပစ္စုပ္ပန်လောကီဘဝမှာ ကစားပွဲ၊ ပျော်ရွှင်ပွဲမျှသာ ဖြစ်၏။ သို့ရာတွင် အကယ်၍ အသင်တို့သည် သက်ဝင် ယုံကြည်ကြသည်ရှိသော် ၎င်းပြင်(ပြစ်မှုဒုစရိုက်တို့မှ)ကြဉ်ရှောင်ကြသည်ရှိသော် ထိုအရှင်မြတ်သည် အသင်တို့၏ ကုသိုလ်အကျိုးများကို ချီးမြှင့်ပေးသနားတော်မူပေမည်။ ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် အသင်တို့ထံမှ အသင်တို့၏ ပစ္စည်းများကို တောင်းဆိုမည်လည်း မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

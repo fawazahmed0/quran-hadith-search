@@ -710,6 +710,12 @@ i koito prekarvat noshtta, kato svezhdat chela v sudzhud i se vŭzpravyat pred s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၄။	၎င်းအပြင်ထိုသူတို့သည် သူတို့၏ အရှင်သခင်အား ဦးညွတ်ချ၍သော်လည်းကောင်း၊ မတ်တပ်ရပ်၍သော် လည်းကောင်း၊ ဝတ်ပြုလျက် ညဉ့်အချိန်ကို ကုန်လွန်စေကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အကြင်သူများပင် ထိုသူတို့သည် မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ ရှေ့တော်မှောက်ဝယ် ‘စဂျ်ဒဟ်’ ပျပ်ဝပ် ဦးချကြလျက် လည်းကောင်း၊ မတ်တတ်ရပ်ကြလျက်လည်းကောင်း၊ ညဉ့်ကို ကုန်လွန်စေကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

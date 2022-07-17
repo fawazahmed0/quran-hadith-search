@@ -710,6 +710,12 @@ I da bi vidyal ti kak shte se uzhasyat - kak ne shte mogat da se izplŭznat, i k
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁။	အို-တမန်တော်၊ မိစ္ဆာမိုက်တို့သည် ပြေးမလွတ်နိုင်သောဘေးဒုက္ခကြောင့် ကြောက်ရွံ့တုံလှုပ်နေရကြသောအခါ သင်အကယ်၍ မြင်ရလျှင် သူတို့အကြောင်းကောင်းစွာသိရအ့ံ၊ သူတို့သည် နီးကပ်သည့်နေရာမှာပင် အဖမ်းအဆီး ခံကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် အကယ်၍ အသင်သည် (4င်းတို့အား)၎င်း တို့ ထိတ်လန့် ကြောက်ရွံ့ကြသည့်အခါတွင် တွေ့မြင်ပါလျှင် (အံ့ဩသွားပေမည်)။ ထိုအခါ ၎င်းတို့သည် ထွက်ပြေးလွတ်မြောက်နိုင်ခြင်းမရှိဘဲ အနီးအနားမှာပင် ဖမ်းဆီးခြင်းကိုခံကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

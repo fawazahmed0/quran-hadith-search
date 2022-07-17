@@ -710,6 +710,12 @@ I kogato vlyazokha pri Yusuf, toĭ nastani svoya brat pri sebe si. I mu proshep
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၉။	သူတို့သည် ယူစွတ်(ဖ်)ရှေ့သို့ ဝင်သွားသောအခါ သူသည် မိမိညီကို အနားသို့ ခေါ်ပြီးလျှင် မှတ်သားလော့။ ငါသည် သင်၏ အစ်ကိုအစစ်အမှန်ဖြစ်၏။ ထို့ကြောင့်သူတို့၏ ကျူးလွန်ပြစ်မှားမှုကြောင့် ဝမ်းမနည်းလင့်ဟု ပြောပြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် ၎င်းတို့သည် ယူဆွဖ်၏ထံ ဝင်ရောက်ခဲ့ကြသောအခါ ထိုယူဆွဖ်သည် မိမိညီတော်အား မိမိထံတွင်နေရာထိုင်ခင်းပေးခဲ့လေသည်။ (ထို့နောက်) ယင်းယူဆွဖ်ကဧကန်စင်စစ် ငါသည် အသင်၏နောင်တော်(ယူဆွဖ်)ပင်ဖြစ်ပေသည်။ သို့ဖြစ်ပေရာ အသင်သည် ၎င်းတို့ပြုလုပ်ခဲ့ကြသော ကိစ္စရပ်များ နှင့်စပ်လျဉ်း၍ စိတ်ဒုက္ခမဖြစ်ပါလေနှင့်ဟုပြောဆို (နှစ်သိမ့်စေ)ခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

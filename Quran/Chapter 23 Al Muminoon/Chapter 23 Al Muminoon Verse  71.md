@@ -710,6 +710,12 @@ A ako istinata sledvashe tekhnite strasti, nepremenno shtyakha da se razrushat i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၁။	ထို့အပြင်အကယ်၍သစ္စာတရားတော်သည် ထိုသူတို့၏အလိုဆန္ဒများကို လိုက်ခဲ့လျှင် မိုးကောင်းကင်၊ ကမ္ဘာ မြေပြင်နှင့် မိုးမြေဝယ်ရှိရှိသမျှတို့သည် မုချဧကန်ပျက်စီးသွားလေမည်သာတည်း၊ ယင်းသို့မဖြစ်နိုင်ချေ၊ ငါသည် သူတို့ထံသို့ သတိပေးကျမ်းတော်ကို ယူတော်ခဲ့ပြီ၊ သို့သော်သူတို့သည် မိမိတို့၏တရားတော်ကို ယခုလှည့်သွား ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အကယ်၍သာ အမှန်တရားသည်(အလ္လာဟ်အရှင်မြတ်သည်) ၎င်းတို့၏အလိုဆန္ဒများကို လိုက်နာခဲ့ပါလျှင်၊ မိုးကောင်းကင်များသည် လည်းကောင်း၊ ပထဝီမြေသည်လည်းကောင်း၊ ယင်းမိုးကောင်းကင်များနှင့် ပထဝီမြေ၌ရှိသူတို့သည်လည်းကောင်း၊ အမှန်ပင် ပျက်စီးသွားခဲ့ကြမည်သာ။ ထိုသို့ အလျှင်းမဟုတ်။ စင်စစ်မှာကား ငါအရှင်မြတ်သည် ၎င်းတို့ထံ ၎င်းတို့အဖို့ အဆုံးအမဩဝါဒကို ထုတ်ပြန် ပို့ဆောင်တော်မူခဲ့ ၏။ သို့ပါလျက် ၎င်းတို့သည် မိမိတို့အဖို့ဖြစ်သော အဆုံးအမဩဝါဒမှပင် မျက်နှာလွှဲခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ V Denya, kogato te shte vidyat angelite, ne shte ima v tozi Den radostna vest za
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	သူတို့သည် ကောင်းကင်တမန်များကို မြင်ရသောနေ့၊ ထိုနေ့တော်ကြီး၌ အပြစ်ရှိသူများအတွက် သတင်းကောင်း ရှိမည်မဟုတ်ချေ၊ ထိုအခါသူတို့က အကာအဆီးကြီးရှိလျှင် ကောင်းလေစွဟု ငိုကြွေးကြလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်နေ့တွင် ၎င်းတို့သည် "မလာအိကဟ်" ကောင်းကင်တမန်တို့အား တွေ့မြင်ကြပေမည်။ ထိုနေ့တွင် ပြစ်မှုရှိသူတို့၌ မည်သည့် ဝမ်းမြောက်ခြင်းမျှ မရှိသည့်ပြင်၊ ၎င်းတို့သည် (ကောင်းကင်တမန်တို့နှင့်)ကင်းပါရစေ၊ ကင်းဝေးပါစေ ဟု ပြောဆိုကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

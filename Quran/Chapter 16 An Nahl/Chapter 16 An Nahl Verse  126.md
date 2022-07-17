@@ -710,6 +710,12 @@ I ako nakazvate [o, vyarvashti], nakazhete sŭs sŭshtoto, s koeto sa vi nakazal
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၆။	အကယ်၍ သင်သည် လက်စားချေလိုလျှင် မိမိခံရသောအမှုနှင့်ညီမျှအောင်သာလျှင် လက်စားချေလော့။ သို့သော် သင်သည် သည်းခံ၍ ရန်ကို မတုံ့ပြန်လျှင် ဤပြုမူချက်သည် သည်းခံသူအတွက် သာလွန်ကောင်းမြတ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အကယ်၍ အသင်တို့သည် တုံ့ပြန်လက်စားချေလိုခဲ့ကြသည်ရှိသော် မိမိတို့ ဒုက္ခပေးခြင်းခံကြရသည်နှင့် ညီတူညီမျှပင် တုံ့ပြန်လက်စားချေ ကြလေကုန်။ သို့ရာတွင် အကယ်၍ အသင်တို့သည် သည်းခံခဲ့ကြပင်လျှင် ဧကန်မလွဲ ယင်းသည်းခံမှုသည် ခနီ္တတရားထားရှိကြသူတို့အဖို့အကောင်းဆုံးပါတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

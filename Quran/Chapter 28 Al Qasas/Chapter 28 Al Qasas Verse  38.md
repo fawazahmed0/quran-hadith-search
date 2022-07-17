@@ -710,6 +710,12 @@ I reche Faraonŭt: “O, znatni, az ne znam da imate drug bog osven men. I mi ra
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	ထိုအခါဖွာရောမင်းက အမတ်တို့ ငါအရှင်မင်းမြတ်မှတပါး သင်တို့၌ ဘုရားရှိသည်ကို ငါမသိချေ၊ ထို့ကြောင့် အို--ဟာမန်၊ မြေကို ဖုတ်ဖို့ရာ ငါ့ကို မီးဖိုပေးလော့၊ ငါသည် မူစာ၏ဘုရားကို ကြည့်ရှုဖို့ရာ ငါ့အား အလွန်မြင့်စွင့်သောမျှော်စင်တစ်ခုကို ဆောက်ပေးလော့၊ မှတ်သားကြလော့၊ ငါသည် သူ့အား လူလိမ်လူကောက် တို့ဘောင်တွင် အပါအဝင်ဟု ယူဆ၏ဟု အမိန့်ပေး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ဖစ်ရ်အောင်န်က ပြောဆိုလေ၏။ အို-မှူးမတ်တို့၊ ကျွန်ုပ်သည် မိမိအပြင် အသင်တို့၌ အခြားကိုးကွယ်ရာရှိသည် ဟူ၍မသိပေ။ သို့ဖြစ်ပေရာ အို-’ဟာမာန်’၊ အသင်သည် ကျွန်ုပ်၏အဖို့ ရွှံ့မြေကို မီးဖြင့်ဖုတ်ပြီးလျှင် ကျွန်ုပ်၏အဖို့ မြင့်မားသော အဆောက်အအုံတစ်ခုကို ပြုလုပ်လော့။သို့မှသာလျှင် ကျွန်ုပ်သည် မူစာ၏ကိုးကွယ်ရာ အရှင်အား ကြည့်ရှုနိုင်ပေမည်။ သို့ရာတွင် ဧကန်မလွဲ ကျွန်ုပ်သည် ထိုမူစာအား မုသာဝါဒီဖြစ်သည်ဟူ၍ ထင်မှတ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

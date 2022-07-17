@@ -710,6 +710,12 @@ A to ne e drugo osven napomnyane za svetovete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၂။ အမှန်ကိုဆိုသော် ကျမ်းမြတ်ကုရ်အာန်သည် အနန္တစကြာဝဠာတို့အဖို့ သတိပေးကျမ်းတော်မှတပါး အခြားတစ်စုံ တစ်ရာမျှမဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ယင်း ကုရ်အာန်ကျမ်းတော်မြတ်မှာ စကြဝဠာခပ်သိမ်းတို့အဖို့ ဆုံးမဩဝါဒမှတစ်ပါး အခြားမဟုတ်ပြီတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

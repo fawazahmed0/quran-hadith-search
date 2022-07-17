@@ -710,6 +710,12 @@ Vyarvashtite sa onezi, koito shtom bŭde spomenat Allakh, sŭrtsata im trŭpnat,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	ယုံကြည်သူအစစ်တို့သည်ကား အလ္လာဟ်အသျှင်မြတ်၏နာမတော်ကို ကြားရသောအခါ စိတ်နှလုံး တုန်လှုပ်ခြောက်ခြားသောသူများ၊ အလ္လာဟ်အသျှင်မြတ်၏ နှုတ်ကပတ်တော်များကို သူတို့အား ရွတ်ဖတ်ပြသောအခါ သူတို့၏ယုံကြည်မှု တိုးပွားလာသောသူများ၊ သူ၏အသျှင်သခင်ကို ယုံကြည် ကိုးစားသောသူများ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတို့သည်သာလျှင် မုအ်မင်န် သက်ဝင်ယုံကြည်သူ (အစစ်အမှန်များ) ဖြစ်ကြကုန်၏။ (၎င်းတို့ရှေ့ဝယ်)အလ္လာဟ်အရှင်မြတ်အားသတိရခဲ့လျှင်၊ ၎င်းတို့၏စိတ်နှလုံးများသည် ထိတ်လန့်သွားကြကုန်၏။ ထို့ပြင် အကယ်၍ ၎င်းတို့ရှေ့၌ ထိုအရှင်မြတ်၏အာယတ်တော်များကို ဖတ်ကြားခဲ့ပါမူ၊ ထိုအာယတ်တော်များသည် ၎င်းတို့၏ အီမာန် သက်ဝင်ယုံကြည်မှုကို တိုးပွားခိုင်မြဲစေကြကုန်၏။ ထိုမှတစ်ပါး ၎င်းတို့သည် (မိမိတို့၏ကိစ္စအဝဝ၌) မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်အပေါ်၌ပင် ယုံကြည်စိတ်ချလွှဲအပ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

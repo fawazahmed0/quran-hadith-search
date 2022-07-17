@@ -710,6 +710,12 @@ Taka im razyasnyavame znameniyata, za da se zavŭrnat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇၄။	သူတို့သည် ပြန်လာကောင်း ပြန်လာစေခြင်းငှာ ငါအသျှင်မြတ်သည် ငါ၏နှုတ်ကပတ်တော်များကို အသေးစိပ် ချပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်သော်ကား ငါအရှင်မြတ်သည် ၎င်းတို့(မှန်ကန်သောဒီန်သာသနာဘက်သို့) ပြန်လှည့်ကြရန် အလို့ငှာ သက်သေလက္ခဏာများကို ဤနည်းအတိုင်းပင် ရှင်းလင်းစွာထုတ်ဖော်မိန့်ကြားတော်မူလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

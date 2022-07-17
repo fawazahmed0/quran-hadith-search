@@ -710,6 +710,12 @@ I kogato se vŭrnakha pri bashta im, rekokha: “O, tatko nash, be ni zabraneno 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၃။	ထို့ကြောင့်သူတို့သည် မိမိတို့ဖခင်ထံ ပြန်ရောက်သောအခါ သူတို့က အို-ခမည်းတော်၊ အကျွနု်ပ်တို့အား ရိက္ခာမရောင်းငြင်းဆန်ပါ၏။ အကျွနု်ပ်တို့ရိက္ခာဝယ်ယူရရှိရန် အကျွနု်ပ်တို့၏ ညီထွေးကို အကျွနု်ပ်တို့နှင့်ထည့် တော်မူပါ။ အကယ်စင်စစ်အကျွနု်ပ်တို့သည် သူ့ကို ကောင်းစွာထိန်းသိမ်းစောင့်ရှောက်ပါမည်ဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ၎င်းတို့သည် မိမိတို့၏ ခမည်းတော်ထံသို့ ပြန်လည်ရောက်ရှိခဲ့ကြသောအခါ (ဤသို့) လျှောက်ထားခဲ့ကြကုန်၏။ အို-ကျွန်တော်မျိုးတို့၏ ဖခမည်းတော်၊ ရိက္ခာသည်ကျွန်တော်မျိုးတို့(အားရောင်းချခြင်း)မှ ပိတ်ထားပြီးဖြစ်လေသည်။ သို့ဖြစ်ပေရာ ခမည်းတော်သည် ကျွန်တော်မျိုးတို့နှင့်အတူ ကျွန်တော်မျိုးတို့၏ညီတော်(ဗင်န်ယာမီန်)အား စေလွှတ်တော်မူပါ။ ကျွန်တော်မျိုးတို့သည်(ရိက္ခာကိုနောက်တစ်ဖန်)ခြင်တွယ်၍ယူခဲ့ကြပါမည်။ ၎င်းပြင် ဧကန်မလွဲ ကျွန်တော်မျိုးတို့သည် ထိုညီတော်အား ကောင်းမွန်စွာ စောင့်ရှောက်ထိန်းသိမ်းမည့်သူများလည်း ဖြစ်ကြပါသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Allakh ne vi pridirya za praznoslovieto v kletvite vi, ala vi pridirya za onova,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂၅။	အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အား မိမိတို့စိတ်မပါဘဲ ကျိန်ဆိုသည့်အတွက် စစ်ကြောတော်မူမည် မဟုတ်ပေ။ သို့သော် သင်တို့စိတ်ပါလက်ပါကျိန်ဆိုသည်တို့အတွက် သင်တို့ကို စစ်ကြော စီရင်တော် မူမည် အလ္လာဟ်အရှင်မြတ်သည် အပြစ်လွှတ်တော်မူသောအရှင်၊ ထောက်ထားညှာတာတော်မူသော အရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့၏အချည်း နှီးသော ကျိန်ဆိုချက်များနှင့်စပ်လျဉ်း၍ အသင်တို့ကို ပြစ်ဒဏ် ပေးတော်မူမည်မဟုတ်။ သို့ရာတွင် အသင်တို့၏စိတ်နှလုံး များက စေ့ဆော်တိုက်တွန်း၍ ကျိန်ဆိုသော ကျိန်ဆိုချက်များ နှင့် စပ်လျဉ်း၍မူ ထိုအရှင်မြတ်သည် အသင်တို့ကို ပြစ်ဒဏ် ပေးတော်မူပေမည်။ အမှန်သော်ကား အလ္လာဟ်အရှင်မြတ် သည် အကြိမ်ကြိမ် လွတ်ငြိမ်းချမ်းသာခွင့်ပေးသနား တော်မူ သောအရှင်၊ အလွန် ထောက်ထားညှာတာ တော်မူသောအရှင်၊ ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ za da se nastanyavate na gŭrbovete im i da spomenavate blagodatta na vashiya Go
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	ယင်းကဲ့သို့ဖန်ဆင်းတော်မူခြင်းကား ၎င်းတို့ကျောက်ကုန်းထက်သို့ တက်စီးပြီးလျှင် ထိုသို့စီးနေစဉ် သင်တို့သည် မိမိတို့၏ အသက်သခင်ကျေးဇူးရှင်ကြီး၏ ဂုဏ်ကျေးဇူးတော်ကို သတိရ၍ ဤသို့ကျူးရင့်စိမ့်သောငှာဖြစ်၏၊ အလ္လာဟ်အရှင်မြတ်သည် အနန္တဂုဏ်တော်ရှင်ဖြစ်တော်မူ၏၊ အကျွန်ုပ်တို့သည် မိမိတို့အလိုအလျောက် ၎င်းတို့ကို နှိမ်နင်း၍ လက်အောက်ခံဖြစ်စေခြင်းငှာမတတ်စွမ်းနိုင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် ယင်း(အစီးအနင်းတို့)၏ ကျောက်ကုန်းများထက်ဝယ် ကျနမြဲမြံစွာ တက်စီးကြအံ့သောငှာ လည်းကောင်း၊ ထို့နောက် အသင်တို့သည် ယင်း(အစီးအနင်း)ပေါ်၌ ကျနမြဲမြံစွာ တက်စီးခဲ့ကြသောအခါ မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ကျေးဇူးတော်ကို အောက်မေ့တသ သတိရကြအံ့သောငှာ လည်းကောင်း၊ (ဤသို့)ပြောဆိုအံ့ သောငှာလည်းကောင်း၊ "ကျွန်တော်မျိုးတို့အဖို့ ဤအစီးအနင်းကို နိုင်နင်းစေတော်မူခဲ့သော အရှင်မြတ်သည် စင်ကြယ်သန့်ရှင်းတော်မူပါ၏။ အမှန်စင်စစ်သော်ကား ကျွန်တော်မျိုးတို့သည် ဤအစီးအနင်းကို နိုင်နင်းကြသူများ မဟုတ်ခဲ့ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

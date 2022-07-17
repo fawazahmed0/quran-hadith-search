@@ -710,6 +710,12 @@ Ne mogat te da im pomognat i sreshtu tyakh shte bŭdat voĭnstvo, koeto shte b�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၅။	ထိုဘုရားတိုတို့၌ မိမိတို့ကိုးကွယ်သည့်အယူမှားသူတို့အား စောင့်ရှောက်ရန် တန်ခိုးအာဏာမရှိချေ၊ ထိုအယူလွဲသူ များသည် ဘုရားတုဘုရားယောင်တို့နှင့်တကွ ငါ၏ရာဇပလ္လင်တော်ရှေ့သို့ စစ်ကြောအစီရင်ခံဖို့ရာ ဝင်ကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အမှန်စင်စစ်သော်ကား) ထိုကိုးကွယ်ရာများသည် ၎င်းတို့အား (အနည်းငယ် စိုးစဉ်းမျှပင်) ယိုင်းပင်း ကူညီနိုင်ကြသည် မဟုတ်သည့်ပြင် စင်စစ် ယင်းကိုးကွယ်ရာများမှာ(ရှေ့တော်မှောက်သို့) အဆင်သင့် ရောက်ရှိစေခြင်း ခံကြရသော ၎င်းတို့၏ ဆန့်ကျင်ဖက်အုပ်စုပင် ဖြစ်သွားကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

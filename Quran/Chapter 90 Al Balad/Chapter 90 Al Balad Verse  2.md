@@ -710,6 +710,12 @@ na teb [o, Mukhammad] tozi grad ti beshe pozvolen
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။ တဖန် သင်တမန်တော်သည် ဤမြို့တော်ကြီး၏ အချုပ်အချယ်ကင်းမဲ့သောဂုဏ်ထူးဆောင်သားကောင်းရတနာ ဖြစ်သည်ကိုလည်း ငါသက်သေထူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် အသင်သည် ဤ(မက္ကဟ်)မြို့တော်၌ ဝင်ခွင့်ပြုခြင်း ခံရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

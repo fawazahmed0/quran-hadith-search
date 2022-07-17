@@ -710,6 +710,12 @@ Ti ubezhdavash samo onzi, koĭto sledva Napomnyaneto i v uedinenie se strakhuva
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	သင်သည် အဆုံးအမတော်ကို လိုက်နာကျင့်သုံးသောမဟာဂရုဏာတော်အရှင်အား မဖူးမမြင်ရပဲလျက် ကြောက်ရွ့ံ ရိုကျိုးသူကိုသာလျှင် သွန်သင်ပဲ့ပြင်နိုင်၏၊ ထိုသူမြတ်တို့အား အပြစ်လွှတ်တော်မူမည်၊ အောင်ဆုမင်္ဂလာကို ရက်ရောစွာပေးတော်မူမည့်အကြောင်း သတင်းကောင်းမင်္ဂလာကို ပေးလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်သည် ဆုံးမဩဝါဒကို လိုက်နာသည့်အပြင် "ရဟ်မာန်" အနန္တကရုဏာတော်ရှင်အား အကွယ်မှ ကြောက်ရွံ့ရိုသေသော သူကိုသာလျှင် သတိပေး နှိုးဆော်နိုင်၏။သို့ဖြစ်ပေရာ အသင်သည် ထိုသူအား လွတ်ငြိမ်းချမ်းသာခွင့်နှင့် စပ်လျဉ်း၍လည်းကောင်း၊ မြင့်မြတ်လှစွာသော အကျိုးကျေးဇူးနှင့် စပ်လျဉ်း၍လည်းကောင်း၊ ဝမ်းမြောက်ဖွယ်ရာသတင်း ကိုပြောကြားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

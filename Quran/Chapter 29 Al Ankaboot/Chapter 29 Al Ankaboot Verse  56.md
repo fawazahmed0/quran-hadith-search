@@ -710,6 +710,12 @@ O, Moi vyarvashti rabi, obshirna e zemyata Mi, zatova kŭdeto i da ste, edinstve
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၆။	ငါ၏ယုံကြည်သူအပေါင်းတို့၊ မှတ်သားကြလော့၊ ငါ၏မဟာပထဝီမြေကြီးသည် ပြန့်ပြောကျယ်ဝန်းလှ၏၊ ထို့ ကြောင့်ငါ့ကိုသာလျှင် ကိုးကွယ်ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-မုအ်မင်န် သက်ဝင် ယုံကြည်ကြကုန်သော ငါအရှင်မြတ်၏ ကျွန်အပေါင်းတို့၊ ဧကန်စင်စစ် ငါ အရှင်မြတ်၏ ကမ္ဘာမြေသည် လွန်စွာကျယ်ဝန်းလှပေသည်။ သို့ဖြစ်ပေရာ အသင်တို့သည် ငါအရှင်မြတ်အားသာ ဆည်းကပ်ကိုးကွယ်ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

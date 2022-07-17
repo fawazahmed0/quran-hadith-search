@@ -710,6 +710,12 @@ Naistina tvoyat Gospod e Onzi, Koĭto shte gi sŭbere. Toĭ e premŭdŭr, vsez
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	မှတ်သားလော့။ သင်၏ ကျေးဇူးတော်သခင်သည် သူတို့အားလုံးကို အတူတကွစုဆောင်းတော်မူမည်။ မှတ်သား လော့၊ အရှင်မြတ်သည် လိမ္မာတော်မူ၏။ သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အမှန်စင်စစ် အသင်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် ထိုအရှင်မြတ် သည်ပင်လျှင် ၎င်းတို့အား (ကိယာမတ်နေ့တွင်) စုရုံးတော်မူပေမည်။ဧကန်မလွဲ ထိုအရှင်မြတ်သည် ဆင်ခြင်တုံတရားနှင့်ပြည့်စုံတော်မူသောအရှင်၊ (အရာခပ်သိမ်းတို့ကို) အကြွင်းမဲ့ သိတော်မူသောအရှင်၊ ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

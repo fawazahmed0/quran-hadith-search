@@ -710,6 +710,12 @@ I ako iskat da ti izmenyat, te veche izmenikha na Allakh predi, zatova Toĭ ti 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၁။	အကယ်၍ သူတို့သည် သင့်ကို သစ္စာဖောက်လျှင် သူတို့သည် အထက်ကျော်ကာလက အလ္လာဟ် အသျှင်မြတ်ကို သစ္စာဖောက်လေပြီ။ ထို့ကြောင့် အသျှင်မြတ်သည် သင့်အား သူတို့ကို နှိမ်နင်း စေတော်မူ၏။ အလ္လာဟ်အသျှင်မြတ်သည် သိတော်မူသောအသျှင်၊ ဉာဏ်ပညာရှိတော်မူသော အသျှင် ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ၎င်းတို့သည် အကယ်၍ အသင့်အားသစ္စာဖောက်ရန် ရည်စူးကြပါလျှင် ဧကန်စင်စစ် ၎င်းတို့သည်ယခင်က အလ္လာဟ်အရှင်မြတ်ကိုပင် သစ္စာဖောက်ခဲ့ကြချေပြီ။သို့ဖြစ်ပေရာ ထိုအရှင်မြတ်သည်(အသင့်အား) ၎င်းတို့ကိုဖမ်းဆီးနိုင်စေတော်မူခဲ့လေသည်။ စင်စစ်မူကား အလ္လာဟ်အရှင်မြတ်သည် အကြွင်းမဲ့သိတော်မူသောအရှင်၊ နက်နဲသိမ်မွေ့သော ဉာဏ်အမြော်အမြင်နှင့် ပြည့်စုံတော်မူသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ne vizhdat li te ptitsite, pokorni [da letyat] v nebesniya prostor? - Samo Allak
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၉။	သူတို့သည် အလ္လာဟ်အရှင်မြတ်အား ကျိုးနွံရိုကျိုးသောငှက်တိရိစ္ဆာန်များ ကောင်းကင်လဟာပြင်၌ မမြင်ကြ သလော။ အရှင်မြတ်မှတပါး သူတို့ကို ထိုလေထဲ၌ အဘယ်သူမှ မထားနိုင်ချေ။ မှတ်သားကြလော့။ ဤအဖြစ် အပျက်၌ ယုံကြည်သူတို့အဖို့အရာ သာဓကတော်တပါးအမှန်ပင်ပါရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကောင်းကင်လေထု(လဟာပြင်)၌ ငှက်တိရစ္ဆာန်များ အမိန့်တော်ကို လိုက်နာလျက်ရှိကြသည်ကို ၎င်းတို့သည်မမြင်ကြလေသလော။ ယင်းငှက်တိရစ္ဆာန်တို့အား အလ္လာဟ်အရှင်မြတ်မှတစ်ပါး အခြားမည်သူ တစ်ဦးတစ်ယောက်မျှထိန်းထားသည် မဟုတ်ပေ။ ဧကန်မလွဲ ဤ(ငှက်တိရစ္ဆာန်တို့ပျံဝဲခြင်း)၌ မုအ်မင်န်သက်ဝင်ယုံကြည်သူတို့အဖို့ အမှန်ပင်သက်သေလက္ခဏာများ ရှိကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

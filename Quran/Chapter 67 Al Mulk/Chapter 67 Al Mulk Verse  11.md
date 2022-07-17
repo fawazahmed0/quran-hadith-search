@@ -710,6 +710,12 @@ I taka shte priznayat svoya gryakh. Gibel za obitatelite na Plamŭtsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။ သူတို့သည် မိမိတို့၏အပြစ်များကို ဝန်ခံကြသည်၊ သို့သော်ထိုငရဲသူငရဲသားတို့သည် ကောင်းကြီးမင်္ဂလာမှ ကောင်းစွာကွာဝေးကြသည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သို့ပင်ဖြစ်စေ ၎င်းတို့သည် (ကိယာမတ်နေ့တွင်) မိမိတို့၏ ပြစ်မှုကျူးလွန်ခြင်းကို ဝန်ခံကြပေမည်၊ သို့ဖြစ်ပေရာ "ဂျဟန္နမ်" ငရဲသားတို့၌ ကရုဏာတော်မှ ကင်းဝေးမှုသည် ရှိစေသား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

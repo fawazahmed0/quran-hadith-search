@@ -710,6 +710,12 @@ I go vzimat za lŭzha, i sledvat svoite strasti. No za vsyako delo ima kraĭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	ထိုသူတို့သည် တရားတော်ကို ငြင်းဆန်ကြ၏၊ မိမိတို့၏ ကိလေသာတဏှာဆွဲငင်ရာသို့ တကောက်ကောက် လိုက်ကြ၏၊ သို့သော် အမှုအခင်းတိုင်းသည် အဆုံးအဖြတ်ခံရမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ၎င်းတို့သည် မဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ်ခဲ့ကြ၍ မိမိတို့၏ အလိုဆန္ဒများကိုသာ လိုက်နာခဲ့ကြကုန်၏။ စင်စစ်သော်ကား အရေးကိစ္စတိုင်းမှာ (သတ်မှတ်ထားသော အချိန်ကာလတွင်) ဆုံးဖြတ်ပြီး ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

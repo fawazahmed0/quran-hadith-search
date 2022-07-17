@@ -710,6 +710,12 @@ Nima byakha sŭtvoreni ot nishto, ili te sa tvortsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	သို့မဟုတ် သူတို့သည် နတ္တိမှ ဖန်ဆင်းတော်မူခြင်းခံကြရသလော၊ သို့မဟုတ် သူတို့သည် ဖန်ဆင်းသူများဖြစ် ကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် ၎င်းတို့သည် (ဖန်ဆင်းသူ) တစ်စုံတစ်ယောက်မျှ မရှိဘဲ ဖန်ဆင်းခြင်း ခံခဲ့ကြရလေသလော။သို့တည်းမဟုတ် ၎င်းတို့ကိုယ်တိုင် (မိမိ တို့ကိုယ်ကို) ဖန်ဆင်းသူများ ဖြစ်လေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

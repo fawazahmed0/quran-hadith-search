@@ -710,6 +710,12 @@ Spazvaĭte molitvite nared sŭs srednata molitva i zastavaĭte smireni pred Al
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃၈။	သင်တို့သည် ဆွလာသ်ဝတ်များကို ထိန်းသိမ်းစောင့်ရှောက်ကြလော့။ အလယ်အကြိမ်ဖြစ်သော ဆွလာသ်ဝတ်ကို အထူးစောင့်စည်းကြလော့။ အလ္လာဟ်အား ကြည်ညိုခြင်းဖြင့် ရပ်ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် (ယေဘုယျအားဖြင့်) အားလုံး သော ဆွလာတ်ဝတ်ပြုခြင်းတို့ကိုလည်းကောင်း၊ (အထူးသဖြင့်) အလယ်ဖြစ်သော ဆွလာတ် ဝတ်ပြုမှုကိုလည်းကောင်း၊ စောင့်ရှောက်ထိန်းသိမ်း ကြလေကုန်။ ထို့ပြင် အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ ရှေ့တော်ဝယ် ဂါရဝတရားရှေ့ထား၍ ခဝပ်ရိုကျိုးသောသူများ အဖြစ်နှင့်ရပ်ကြကုန်လော့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

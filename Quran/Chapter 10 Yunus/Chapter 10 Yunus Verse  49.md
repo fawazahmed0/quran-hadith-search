@@ -710,6 +710,12 @@ Kazhi: “Nito moga da navredya, nito da si pomogna, osven ako Allakh pozhelae. 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	ဟောကြားလော့၊ အလ္လာဟ်အရှင်မြတ်အလိုတော်အားဖြင့်မှတပါး၊ အကျွနု်ပ်သည် မိမိကိုယ်ကို တစုံတရာအကျိုး အပြစ်မပေးနိုင်ချေ။ လူမျိုးတိုင်းအတွက် ပြဋ္ဌာန်းထားသောအချိန်ရှိ၏။ သူတို့အတွက် အချိန်ကျရောက်လာသော အခါ သူတို့သည် ထိုအချိန်ကို တနာရီရှေ့တိုးနောက်ဆုတ်မပြုစွမ်းနိုင်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (၎င်း တို့အားဤသို့)ပြောကြားပါလေ။ ငါသည် အလ္လာဟ်အရှင်မြတ် အလိုရှိတော်မူသော အရေးကိစ္စမှတစ်ပါး မိမိကိုယ်နှင့် ပတ်သက်၍မည်သည့်ကျိုးယုတ်၊ ဆုံးရှုံးစေခြင်းကိုမျှလည်းကောင်း၊ မည်သည့်အကျိုးကျေးဇူး ဖြစ်ထွန်းစေခြင်းကိုမျှလည်းကောင်း၊ ပိုင်ဆိုင်သည် မဟုတ်ပေ။ လူမျိုးတိုင်းတွင် သတ်မှတ်ပိုင်းခြားအပ်သော အချိန်ကာလသည်ရှိ၏။ ၎င်း တို့၏ သတ်မှတ်ပိုင်းခြားအပ်သော အချိန်ကာလ ရောက်ရှိလာသောအခါ ၎င်း တို့သည်တစ်နာရီခန့်မျှပင် ရွှေ့ဆိုင်းနိုင်ကြသည်လည်း မဟုတ်၊။စောနိုင်ကြသည်လည်း မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

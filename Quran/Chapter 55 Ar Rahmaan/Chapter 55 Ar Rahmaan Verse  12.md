@@ -710,6 +710,12 @@ i zŭrno s plyava, i ukhanni rasteniya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	ကောက်ပဲသီးနှံနှင့် မွှေးကြိုင်ပျံ့သင်းသောပန်းပင်နွယ်ပင်များလည်းရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဖွဲနုပါသော ကောက်ပဲသီးနှံများသည်လည်းကောင်း၊ အရွက်ရှိသောအစေ့များသည်လည်းကောင်း၊ မွှေးကြိုင်လျက်ရှိသော ပန်းများ အစာအာဟာရများ သည်လည်းကောင်း၊ ရှိကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

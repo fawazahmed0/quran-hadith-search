@@ -710,6 +710,12 @@ Allakh obeshta na litsemernite mŭzhe i zheni, i na nevernitsite ogŭnya na Ada,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၈။	အလ္လာဟ်အရှင်မြတ်သည် ယုံကြည်ဟန်ဆောင်သူယောက်ျားမိန်းမများနှင့် မိစ္ဆာဒိဋ္ဌိတို့အား သူတို့နေထိုင်ဖို့ရာ အဝီစိငရဲမီးကို ပေးတော်မူမည်ဟု ကတိထားတော်မူ၏။ငရဲသည် သူတို့အတွက် လုံလောက်၏။အလ္လာဟ်အရှင် မြတ်သည် သူတို့ကို ကျိန်ဆဲတော်မူ၏။သူတို့သည် ငရဲကို အစဉ်မပြတ်ခံစားရကြလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် ‘မုနာဖစ်က်’ မုစ်လင်မ် အယောင်ဆောင်သောယောက်ျား၊ မိန်းမ တို့အားလည်းကောင်း၊ ကာဖိရ်များအားလည်းကောင်း၊ ဂျဟန္နမ်ငရဲမီး(ထဲသို့လားစေတော်မူမည့်အကြောင်း) ကတိပြုထားတော်မူခဲ့လေသည်။ ၎င်းတို့သည် ထိုငရဲမီး၌ ထာဝစဉ်နေထိုင်လျက် ရှိကြလတ္တံ့။ ထိုငရဲမီးသည် ၎င်းတို့အား (ပြစ်ဒဏ်) ပေးရန် လုံလောက်တော်မူအံ့။ ထို့ပြင် အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့အား ကရုဏာတော်မှ ကင်းဝေးစေတော်မူအံ့။ ထိုမှတစ်ပါး၎င်းတို့တွင် (ထိုအရှင်မြတ်၏ ကတိတော်အတိုင်း) ထာဝစဉ်တည်သော ပြစ်ဒဏ်သည် ရှိချေအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

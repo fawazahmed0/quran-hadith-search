@@ -710,6 +710,12 @@ Vŭzradvaĭ vyarvashtite, che za tyakh shte ima golyama blagodat ot Allakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	ထို့အပြင်အလ္လာဟ်အရှင်မြတ်အထံတော်မှ အလွန်ကြီးမားသောကောင်းကြီးမင်္ဂလာတော်ကို ရရှိမည့်အကြောင်း သတင်းကောင်းကို ယုံကြည်သူအပေါင်းတို့အား ဟောကြားကြေငြာလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 းး 47| ထိုမှတစ်ပါး အသင်သည် မုအ်မင်န် သက်ဝင်ယုံကြည်သူတို့အား ၎င်းတို့အပေါ်၌ အလ္လာဟ်အရှင်မြတ် ထံတော်မှ ကြီးကျယ်လှစွာသောကျေးဇူးတော်ရှိကြောင်း သတင်းကောင်းပြောကြားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

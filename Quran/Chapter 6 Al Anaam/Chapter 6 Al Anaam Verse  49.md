@@ -710,6 +710,12 @@ A koito vzimat za lŭzha Nashite znameniya, shte gi zasegne mŭchenieto zaradi n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	သို့သော် အကြင်သူတို့သည် ငါအသျှင်မြတ်၏ ဗျာဒိတ်တော်များကို တွန်းဖယ်ပစ်ကြ၏။ ထိုသူတို့သည် မိမိတို့ ထောင်ထားခြားနား မနာခံမှုကြောင့် နှိပ်စက်ညှင်းပန်းခြင်းအပြစ်ဒဏ်ကို ခံစားကြရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ငါအရှင်မြတ်၏ မုက္ခပါဋ္ဌ်တော်များကို မဟုတ်မမှန်ဟု ငြင်းပယ်သောသူတို့မူကား ထိုသူတို့သည်စည်းမျဉ်းကို ကျူးကျော်ဖောက်ဖျက် ကြသည့်အတွက် ၎င်းတို့အပေါ်၌ အပြစ်ဒဏ်သည် သက်ရောက်လိမ့်သတည်း။(တနည်း)၎င်းပြင် အကြင်သူများသည် ငါအရှင်မြတ်၏မုက္ခပါဌ်တော်များကို မဟုတ်မမှန်ဟု ငြင်းပယ်ကြ၏။ ထိုသူများသည်(အီမာန်တည်းဟူသော စည်းဝိုင်းအတွင်းမှ) ထွက်ကြသည့်အတွက် ၎င်းတို့၌ ပြစ်ဒဏ်တော်သည် သက်ရောက်၏။(တနည်း)၎င်းပြင် အကြင်သူများသည် ငါအရှင်မြတ်၏မုက္ခပါဌ်တော်များကို မဟုတ်မမှန် ငြင်းပယ်ကြ၏။ ထိုသူများသည် အမိန့်တော်ကို မနာခံခဲ့ကြသည့် အတွက်ကြောင့် ၎င်းတို့၌အပြစ်ဒဏ်သည် သက်ရောက်မည်ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Taka e! A koĭto zachita obredite na Allakh, tova e ot nabozhnostta na sŭrtsat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	ယင်းအချက်သည် အလ္လာဟ်အရှင်မြတ်၏ ပညတ်တော်ဖြစ်၏၊ အကြင်သူသည် အရှင်မြတ်၏ သာဓကတော် များကို ရိုသေလေးစားအ့ံ၊ ထိုလေးစားခြင်းသည် စိတ်နှလုံးများ၏ လှိုက်လှိုက်လှဲလှဲတရားကြည်ညိုမှုမှ အမှန် ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အမိန့်တော်သည်)ဤသည်ပင်၊ စင်စစ်မူကား မည်သူမဆို အလ္လာဟ်အရှင်မြတ်၏ အထိမ်းအမှတ်တော်များကို ရိုသေခန့်ညားပါလျှင် ယင်းရိုသေခန့်ညားမှုသည် စိတ်နှလုံးများမှ ရိုသေလိုက်နာမှုပင်ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

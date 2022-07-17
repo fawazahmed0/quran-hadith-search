@@ -710,6 +710,12 @@ Nima khodite pri mŭzhete ot khorata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၅။	ဘာလဲ---သင်တို့သည် သတ္တဝါများအနက် ယောက်ျားအချင်းချင်းပစ်မှားကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် ကမ္ဘာသူကမ္ဘာသားတို့အနက် ယောက်ျားများထံ လာရောက်(၍ ကာမဂုဏ်ခံစား) ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

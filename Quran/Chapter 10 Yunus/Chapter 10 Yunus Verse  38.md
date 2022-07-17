@@ -710,6 +710,12 @@ Ili kazvat [za Mukhammad]: “Toĭ go e izmislil.” Kazhi: “Donesete edna su
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	သို့မဟုတ် သူတို့က သူသည် ဤကျမ်းကို လုပ်ကြံဖန်တီး၏ဟု ဆိုကြသလော။ ဟောကြားလော့၊ သို့ဖြစ်ပါလျှင် သင်တို့သည် မှန်ကန်သူများဖြစ်ကြလျှင် အလားတူစူရာဟ်တစ်စောင်ကို စီကုန်းရေးသားကြလော့၊ အလ္လာဟ်အရှင် မြတ်တပါး သင်တို့ခေါ်နိုင်သူအားလုံးကို ကူညီဖို့ရာ ခေါ်ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်း တို့က ထို(နဗီတမန်တော်မုဟမ္မဒ်)သည်ယင်းကုရ်အာန်ကျမ်းတော်မြတ်ကို လီဆယ်ဖန်တီးခဲ့သည်ဟုပြောဆိုကြလေသလော။ (အို-နဗီတမန်တော်) အသင်သည်(၎င်း တို့အား ဤသို့ ပြောကြားပါလေ။ (အချင်းတို့) သို့ဖြစ်လျှင်အသင်တို့သည် ယင်း(ကုရ်အာန်ကျမ်းတော်မြတ်ကဏ္ဍ)နှင့်တူသော ကဏ္ဍတစ်ခုကိုပင်(စီကုံးရေးသား၍) ယူဆောင်လာခဲ့ကြလေကုန်။ ၎င်း ပြင် အကယ်၍ အသင်တို့သည် သစ္စာဝါဒီမှန်ကန်စွာပြောဆိုကြသူများဖြစ်ကြလျှင် အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အပြင် မိမိတို့ခေါ်ယူနိုင်ကြကုန်သော (ကူညီဆောင်မမည့်)သူတို့အားလည်း ခေါ်ယူခဲ့ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

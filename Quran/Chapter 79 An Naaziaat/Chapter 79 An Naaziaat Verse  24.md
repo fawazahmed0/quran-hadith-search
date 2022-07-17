@@ -710,6 +710,12 @@ Kaza: “Az sŭm vashiyat gospod, vŭrkhovniyat.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃၊၂၄။ ထို့နောက်သူသည် မိမိအသင်းသားများကို စုရုံးစေပြီးလျှင် ဤသို့ဟစ်အော်ကြွေးကြော်၏၊ အို-ငါ့အသင်းသားတို့၊ငါသည် သင်တို့၏အမြင့်မြတ်ဆုံးသောအရှင်သခင်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ၎င်း(ဖစ်ရ်အောင်န်)က "ကျွန်ုပ်သည်ပင် အသင်တို့၏ မြင့်မြတ်ဆုံးသောအရှင် ဖြစ်သည်" ဟုပြောဆို(ကြေညာ)ခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I ako imate kovarstvo, kovarstvaĭte sreshtu Men
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။ ယခုသင်တို့တွင် ဥပါယ်တမည် အကြံအစည်တစ်စုံတစ်ခုရှိလျှင် ငါ့အား ကြံစည်ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အကယ်၍ အသင်တို့၌ အကြံအစည် တစ်စုံတစ်ရာရှိခဲ့မူ ငါအရှင်မြတ်နှင့် ယှဉ်ပြိုင်၍ ကြံစည်ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

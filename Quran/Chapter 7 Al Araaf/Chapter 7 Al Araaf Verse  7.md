@@ -710,6 +710,12 @@ I vsichko shte im razkazhem sŭs znanie. Nie ne ot·sŭstvame
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	ထိုအခါ ငါသည် သူတို့အား ၎င်းတို့၏ပြုကျင့်မှုများကို သိတော်မူသည့်အတိုင်း မုချမိန့်တော်မူမည်။ အကြောင်းမူကား ငါသည် သူတို့ထံမှ ဝေးကွာ၍ ရှိတော်မမူပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ငါအရှင်သည် ၎င်းတို့ရှေ့ဝယ် (အလုံးစုံတို့ကို) အကြွင်းမဲ့ သိရှိတော်မူသည့်အတိုင်း(ပြန်လည်)မိန့်ကြားတော်မူအံ့။ အမှန်စင်စစ် သော်ကား ငါအရှင်မြတ်သည် မည်သည့်အခြေအနေ မည်သည့်အချိန်၌မျှ ပျောက်ကွယ်နေတော်မူသည် မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ili shte kazhe, kogato vidi mŭchenieto: “Ako mozhekh da se vŭrna [na zemyata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈။	သို့မဟုတ် အပြစ်ဒဏ်တော်ကို မျက်ဝါးထင်ထင်မြင်ရသောအခါ အကယ်၍ ငါသည် ဒုတိယအကြိမ်အခွင့်ရရှိ ပါလျှင် ငါသည် တရားစောင့်သောသူတော်ကောင်းတို့ဘောင်တွင် မုချဧကန်ပါမည်သာတည်းဟုလည်း မဆို ရအောင် ငါအရှင်မြတ်၏ ပညတ်တရားတော်ကို ယခုက တင်ကြို၍ မသွေမလှန်နာခံဆောင်ရွက်ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် (မည်သူမဆို) ပြစ်ဒဏ်ကို တွေ့မြင်လေသောအချိန်အခါ၌ "ဧကန်မလွဲ ငါသည် အကယ်၍သာ (ကမ္ဘာလောကသို့)တဖန်ပြန်၍ သွားနိုင်လျှင် ကောင်းလေစွ။ သို့ဖြစ်ခဲ့လျှင် ငါသည် သူတော်ကောင်းတို့အနက် အပါအဝင်ဖြစ်ပေမည်" ဟူ၍ မပြောဆိုနိုင်ရန်လည်းကောင်း၊ (ထုတ်ပြန်တော်မူခြင်းဖြစ်၏၊)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

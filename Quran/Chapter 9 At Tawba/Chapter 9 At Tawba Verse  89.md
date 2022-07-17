@@ -710,6 +710,12 @@ Allakh e prigotvil za tyakh Gradinite, sred koito reki tekat, tam shte prebivava
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၉။	အလ္လာဟ်အရှင်မြတ်သည် သူတို့အတွက် သူတို့ထာဝရခံစားရမည့်၊ အောက်တွင် မြစ်ချောင်းအသွယ်သွယ်စီးဆင်း လျက်ရှိသောသုခဥယျာဉ်တော်များကို အသင့်စီစဉ်ထားတော်မူ၏။ဤအောင်မြင်ခြင်းသည် အမြင့်မြတ်ဆုံးသော အောင်ဆုကြီးဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် 4င်းတို့အဖို့ အကြင်ဥယျာဉ်များကို အဆင်သင့်ပြုလုပ်ထားတော်မူခဲ့လေသည်။ ထိုဥယျာဉ်များ၏အောက်မှ စမ်းရေချောင်းများသည် စီးထွေလျက်ရှိကြချေသည်။ (4င်းတို့သည်) ထိုဥယျာဉ်များ၌ ထာဝစဉ်နေထိုင်စံမြန်းလျက် ရှိကြပေမည်။ ဤသည်ကား အလွန်ကြီးကျယ်မြင့်မြတ်လှစွာသော အောင်မြင်မှုပင်တည်း။(ရကူ-17)ရှိကြပေမည်။ (ထိုသူတို့ သည်) ၎င်းဥယျာဉ်များတွင် ထာဝစဉ်နေထိုင်လျက် ရှိကြပေမည်။ ထို့ပြင် (ထိုအရှင်မြတ်သည်) ထာဝစဉ် တည်သောဥယျာဉ်များ၌ ကောင်းမွန်စင်ကြယ်သောဗိမာန်များကို (ချီးမြှင့်တော်မူရန်)လည်း (ကတိပြု ထားတော်မူခဲ့လေသည်။) ၎င်းပြင် အလ္လာဟ်အရှင်မြတ် ၏ကျေနပ်မှုမှာကား အကြီးကျယ်ဆုံးပင် ဖြစ်ပေသည်။ ဤသည် ကြီးကျယ်မြင့်မြတ်လှစွာသော အောင်မြင်မှုပင်တည်း။(ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

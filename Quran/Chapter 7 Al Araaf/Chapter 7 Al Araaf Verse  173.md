@@ -710,6 +710,12 @@ Ili da ne kazhete: “Nashite bashti sŭdruzhavakha predi, a nie byakhme potomst
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇၃။	သို့မဟုတ် သင်တို့သည် အကျွနု်ပ်တို့၏ မိဘဘိုးဘွားများသာ အလ္လာဟ်အသျှင်မြတ်၌ စပ်ဖက်သူ ဘုရားရှိသည်ဟု ရှေးရှေးကဆိုကြပါ၏။ အကျွနု်ပ်တို့သည် သူတို့၏ သားမြေးများဖြစ်ကြပါ၏။ အသျှင်သည် အယူဝါဒမှောက်မှားသူတို့၏ပြုကျင့်မှုကြောင့် အကျွနု်ပ်တို့အား စီရင်ကွပ်မျက်တော် မူပါမည်ဟု မတင်လျှောက်နိုင်စေခြင်းငှာလည်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် အသင်တို့သည် ကျွန်တော်မျိုးတို့၏အဖ၊ ဘိုးဘေးဘီဘင်တို့မှာ ရှေးဦးမဆွကပင်အခြားအရာများကို အလ္လာဟ်အရှင်မြတ်နှင့်တွဲဖက် ကိုးကွယ်ခဲ့ကြပါသည်သာတည်း။ ကျွန်တော်မျိုးတို့ မှာမူကား ၎င်းတို့၏နောက်တွင် (၎င်းတို့၏)သားမြေးများသာ ဖြစ်ကြပါသည်။သို့ဖြစ်ရာ အရှင်မြတ်သည် (ရှေးဦးမဆွက) မဟုတ်မမှန် ပြုလုပ်ခဲ့ကြသောသူတို့ကြောင့် ကျွန်တော်မျိုးတို့အား ပျက်စီး စေတော်မူပါမည်လော ဟု ပြောဆိုကြလတ္တံ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

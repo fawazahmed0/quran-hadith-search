@@ -710,6 +710,12 @@ I kogato im se kazhe: “Sledvaĭte onova, koeto Allakh e nizposlal!”, kazvat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	ထို့အပြင်အကယ်၍ ထိုသူတို့အား အလ္လာဟ်အရှင်မြတ်ချပေးသနားတော်မူသောကျမ်းတော်ကို ယုံကြည်လိုက်နာ ကြလော့ဟု ဟောပြောသောအခါ သူတို့က မလိုက်နာနိုင်၊ ငါတို့သည် မိရိုးဖလာကိုသာ လိုက်ကြ၏ဟု တုံ့ ပြန်ပြောဆိုကြ၏၊ ရှိုင်တန်မာရ်နတ်သည် သူတို့၏မိဘဘိုးဘွားကို ငရဲမီးထဲသို့ ဖြားယောင်းသွေးဆောင်သွားခဲ့ သော်ငြားလည်း သူတို့သည် မိရိုးဖလာကို လိုက်ကြမည်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့အား၊ အသင်တို့သည်အလ္လာဟ်အရှင်မြတ် ချပေးသနားတော်မူသည်ကို လိုက်နာကြလေကုန်ဟု ပြောကြားခဲ့သည်ရှိသော်၊ ၎င်းတို့က ထိုသို့အလျှင်းမဟုတ်၊ စင်စစ်မှာမူကား ကျွန်ုပ်တို့သည် မိမိတို့အဖ၊ ဘိုး၊ ဘေးတို့လိုက်နာခဲ့ကြသည်ကို တွေ့ရှိကြရသောလမ်းစဉ်ကိုသာကျွန်ုပ်တို့လိုက်နာကြမည်ဟု ပြောဆိုဖြေကြားခဲ့ကြကုန်၏။ ထိုအဖ၊ဘိုး၊ ဘေး တို့အား ‘ရှိုင်တွာန်’ မိစ္ဆာကောင်သည် ငရဲဘုံ၏ပြစ်ဒဏ်ကို ဖိတ်ခေါ်လျက်ရှိငြားအံ့လည်း (၎င်းတို့သည် ထိုအဖ၊ဘို၊ ဘေးတို့၏လမ်းစဉ်ကို လိုက်နာကြဦးမည်လော။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

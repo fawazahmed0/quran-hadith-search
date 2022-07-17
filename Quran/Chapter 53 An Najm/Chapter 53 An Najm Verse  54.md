@@ -710,6 +710,12 @@ i gi pokri, kakvoto gi pokri
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၄။	ယင်းသို့ဖျက်ဆီးတော်မူခြင်းကြောင့် ထိုမြို့နယ်သည် ပပျောက်သွားလေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ယင်းရွာများကို ဝန်းဝိုင်း ဖုံးလွှမ်းခဲ့သောအရာသည် ဝန်းဝိုင်း ဖုံးလွှမ်းခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

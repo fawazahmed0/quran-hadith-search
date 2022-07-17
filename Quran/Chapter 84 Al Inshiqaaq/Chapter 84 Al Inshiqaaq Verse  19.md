@@ -710,6 +710,12 @@ shte preminavate ot sŭstoyanie v sŭstoyanie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။ သက်သေထူခြင်းအကြောင်းကား သင်တို့သည် မုချဧကန်တဆင့်မှ တဆင့်အဆင့်ဆင့်ပြောင်းရွှေ့သွားကြရလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်ပင် အသင်တို့သည် တစ်ဆင့်မှတစ်ဆင့်သို့ တက်ကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

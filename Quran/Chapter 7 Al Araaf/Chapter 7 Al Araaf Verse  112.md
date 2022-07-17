@@ -710,6 +710,12 @@ da ti dovedat vsichki veshti mag’osnitsi!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၂။	ပယောဂအတတ်ပညာရှင်တိုင်းကို အရှင်ဘုရားထံခေါ်ငင်စေတော်မူပါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမင်းစေသည် ဘုရင်းမင်းမြတ်၏ထံသို့ (တစ်ဖက်ကမ်းခတ်) ကျွမ်းကျင် တတ်မြောက်သောပဉ္စလက် ဆရာအပေါင်းတို့ကို (ရှာဖွေ) ခေါ်ဆောင်လာကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

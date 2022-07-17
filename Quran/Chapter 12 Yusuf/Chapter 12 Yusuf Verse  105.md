@@ -710,6 +710,12 @@ I kraĭ kolko znameniya na nebesata i na zemyata minavat, otvrŭshtaĭki se ot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၅။	မိုးကောင်းကင်နှင့် ကမ္ဘာမြေပေါ်တွင် သက်သေသာဓကတော်များအများအပြားပင်ရှိ၏။ လူသားတို့သည် ဤ သာဓကတော်များကို မျက်နှာလွှဲလျက် ဖြတ်သွားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်မူကား မိုးကောင်းကင်များ၌လည်းကောင်း၊ ပထဝီမြေ၌လည်းကောင်း၊ မြောက်မြားစွာသော သက်သေလက္ခဏာများရှိကြပေသည်။ ၎င်းတို့သည် ယင်းသက်သေလက္ခဏာများဘက်မှ ဖြတ်ကျော်၍ သွားကြလေသည်။ သို့ရာတွင် ၎င်းတို့သည် ယင်းသက်သေ လက္ခဏာများ မျက်နှာလွှဲသွားသူများ ဖြစ်လျက် ရှိကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

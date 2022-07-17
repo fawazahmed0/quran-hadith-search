@@ -710,6 +710,12 @@ A koito vzimat za lŭzha Nashite znameniya i se golemeyat pred tyakh, te sa obit
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	သို့သော် အကြင်သူတို့သည် ငါအသျှင်မြတ်၏နှုတ်ကပတ်တော်များကို ငြင်းပယ်၍ မထီလေးစား ပြုကြအံ့။ ထိုသူတို့သည် အဝီစိငရဲကို တရားသဖြင့် ပိုင်ဆိုင်သူများဖြစ်ကြ၏။ သူတို့သည် ငရဲထဲ၌ နေထိုင်ကြရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင်မူကား အကြင်သူတို့သည် ငါအရှင်မြတ်၏ အမိန့်တော်များကို ငြင်းပယ်ကြကုန်အံ့။ ၎င်းပြင် ထိုသူတို့သည် အမိန့်တော်များကို မထီလေးစားပြုလုပ်ကြကုန်အံ့။ထို(ကဲ့သို့သော) သူတို့သာလျှင် ငရဲသားများဖြစ်ကြကုန်၏။၎င်းတို့သည် ငရဲ၌ပင် ထာဝစဉ် နေထိုင်ကြမည့်သူများ ဖြစ်ကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

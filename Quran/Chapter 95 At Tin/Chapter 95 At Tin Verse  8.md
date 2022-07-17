@@ -710,6 +710,12 @@ Ne e li Allakh Naĭ-mŭdriyat sŭdnik
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။ အလ္လာဟ်အရှင်မြတ်သည် မှန်ကန်ထက်မြက်သောတရားသူကြီးအပေါင်းတို့တွင် အထွဋ်အခေါင်မဟုတ်ချေလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် တရားစီရင်သူအပေါင်းတို့ထက် အကောင်းဆုံး တရားစီရင်တော်မူသော အရှင်မြတ်ပင်ဖြစ်တော်မူသည် မဟုတ်လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

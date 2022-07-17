@@ -710,6 +710,12 @@ I storikhme zemyata da pogŭlne nego i doma mu. I nito imashe koĭ da go zashti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၁။	ထို့ကြောင့်ငါသည် ကာရွန်နှင့် ၎င်း၏တိုက်တာနေအိမ်ကို မြေမျိုစေတော်မူ၏၊ ထိုအခါသူ့အား အလ္လာဟ်အရှင် မြတ်၏ အပြစ်ဒဏ်တော်မှ ကယ်နှုတ်မည့်သူတစ်စုံတစ််ယောက်မျှမရှိချေ၊ ထို့အပြင်သူသည် မိမိကိုယ်ကို မိမိကယ်ဆယ်ခြင်းငှာ စွမ်းနိုင်သူတို့ဘောင်တွင် အပါအဝင်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ငါအရှင်မြတ်သည် ထို ‘ကာရူန်’အား၎င်း၏အိမ်နှင့်တကွ မြေမျိုစေတော်မူခဲ့ရာ၊ အလ္လာဟ်အရှင်မြတ်နှင့်ယှဉ်ပြိုင်၍ ၎င်းအား ကူညီစောင်မမည့် အစုလည်းမရှိခဲ့ပေ။ ၎င်းကိုယ်တိုင်လည်း (မိမိ ကိုယ်ကို) ကယ်တင်နိုင်ခဲ့သည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

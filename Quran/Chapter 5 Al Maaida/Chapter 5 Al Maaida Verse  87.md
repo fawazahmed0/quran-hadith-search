@@ -710,6 +710,12 @@ O, vyarvashti, ne vŭzbranyavaĭte blagata, koito Allakh vi e razreshil i ne pr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၇။	အို-ယုံကြည်သူအပေါင်းတို့ အလ္လာဟ်အသျှင်မြတ်က တရားဝင်မင်္ဂလာရှိသည်ဟု သတ်မှတ်ထား တော်မူသော ကောင်းမြတ်သည့်အရာဝထ္ထုများကို မတားမြစ်ကြလင့်။ တရားတော်ကို မကျူးလွန်ကြ လင့်။ မှတ်သားကြလော့။ အလ္လာဟ်အသျှင်မြတ်သည် တရားတော်ကို ကျူးလွန်သူများကို ချစ်ခင် မြတ်နိုးတော်မမူပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို- ‘မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူအပေါင်းတို့၊ အသင်တို့သည် မိမိတို့အဖို့ အလ္လာဟ်အရှင်မြတ်က ခွင့်ပြုထားတော်မူသည့် သန့်ရှင်းစင်ကြယ်သောအရာများကို (မိမိတို့အဖို့) (ဟရာမ်) ဟူ၍ ပိတ်ပင်တားမြစ်ခြင်း မပြုကုန်လင့်။ ထိုမှတစ်ပါး အသင်တို့သည် စည်းကမ်း (ဥပဒေ) ကိုလည်း ဖောက်ဖျက်ကျူးလွန်ခြင်း မပြုကြလေနှင့်။ ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် စည်းကမ်းဖောက်ဖျက်ကျူးလွန်သော သူတို့ကို နှစ်သက်မြတ်နိုးတော်မူသည်မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

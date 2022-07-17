@@ -710,6 +710,12 @@ Allakh veche vi pomogna pri Badr, kogato byakhte slabi. I boĭte se ot Allakh, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၃။	ဘဒါရ်စစ်မြေပြင်၌ သင်တို့၏စစ်တပ်သည် သေးငယ်၍ ရန်သူမမှုလောက်ဖြစ်ငြားသော်လည်း အလ္လာဟ်အသျှင်မြတ်သည် သင်တို့အား အရေးသာ အောင်နိုင်စေတော်မူပြီ။ သင်တို့သည် အလ္လာဟ်အသျှင်မြတ်၏ ဂုဏ်ကျေးဇူးတော်ကို ချီးကျူးခြင်းငှာ၊ အသျှင်မြတ်၏အမှုတော်ကို ထမ်းဆောင်ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် ဗဒ်ရ် (စစ်ပွဲ၌) အင်အား ချည့်နဲ့နေခိုက် အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့အား ဧကန်အမှန်ကူညီတော်မူခဲ့ချေပြီ။ သို့ဖြစ်ပေရာ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ် အား ကြောက်ရွံ့ကြလေကုန်။ သို့မှသာလျှင် အသင်တို့သည် (အလ္လာဟ်အရှင်မြတ်၏) ကျေးဇူးတော်များ ကိုသိတတ်ကြရာသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

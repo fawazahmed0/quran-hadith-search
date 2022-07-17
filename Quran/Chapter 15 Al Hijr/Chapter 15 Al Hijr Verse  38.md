@@ -710,6 +710,12 @@ do Denya na znaĭnoto vreme.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇၊၃၈။	အရှင်မြတ်က ကောင်းပြီ၊ သင်သည် သတ်မှတ်ထားတော်မူသောအချိန်ကာလတိုင်အောင် စောင့်ဆိုင်းခွင့်ရ၏ဟု ဗျာဒိတ်ချတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သတ်မှတ်ပြဌာန်းပြီးဖြစ်သော အချိန်ကာလ(ဆိုက်ရောက်မည့်)နေ့တိုင်အောင်ပင်ဟု မိန့်ကြားတော်မူသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

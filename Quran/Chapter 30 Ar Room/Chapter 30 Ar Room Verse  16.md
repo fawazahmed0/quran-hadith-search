@@ -710,6 +710,12 @@ A onezi, koito ne vyarvat i vzimat za lŭzha Nashite znameniya i sreshtata s Nas
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	သို့သော်အကြင်သူတို့သည် အယူမှား၍ ငါအရှင်၏နှုတ်ကပတ်တော်များကို ပယ်ရှားလျက် နောင်ဘဝတွင် ငါ့ရှေ့တော်သို့ ဝင်ရမည်ကိုလည်း မယုံကြည်ကြအ့ံ၊ ထိုသူတို့အား ပျက်စီးဆုံးရှုံးရာသို့ ဆိုက်ရောက်စေတော် မူလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် သွေဖည်ငြင်းပယ်၍ ငါအရှင်မြတ်၏ သက်သေလက္ခဏာတော်များကို မဟုတ်မမှန် စွပ်စွဲခဲ့ကြကုန်သော သူတို့မှာမူကား၊ ပြစ်ဒဏ်၌ အဆင်သင့် ရောက်ရှိစေခြင်းကို ခံကြရပေအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

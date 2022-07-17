@@ -710,6 +710,12 @@ Namerikh edna zhena, koyato gi upravlyava. Vsichko ĭ e dadeno i ima velik tron
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	အကျွနု်ပ်သည် မိန်းမတစ်ယောက်အား ထိုနိုင်ငံကို အုပ်စိုး၍ တွေ့ပါ၏၊ သူမသည် စည်းစိမ်ချမ်းသာအလွန် ပေါများကြွယ်ဝပါ၏၊ သူမ၏ရာဇပလ္လင်တော်သည် အလွန်ကြီးကျယ်မြင့်မြတ်ပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် ကျွန်တော်မျိုးသည် ထိုရှီဗာကို စိုးမိုးအုပ်ချုပ်လျက်ရှိသော မိန်းမတစ်ဦးအား တွေ့ခဲ့ပါသည်။ ၎င်းပြင် ထိုမိန်းမမှာ အရာခပ်သိမ်းတို့ ချီးမြှင့် ပေးသနားခြင်းခံရသည့်ပြင် ၎င်း၌ ကြီးကျယ်ခမ်းနားသော ပလ္လင်တစ်ခုသည်လည်း ရှိပါသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

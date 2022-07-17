@@ -710,6 +710,12 @@ Tezi sa, koito izbrakha zemniya zhivot vmesto otvŭdniya. I mŭchenieto im ne sh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၆။	ဤသူတို့သည် ဤလောကီစည်းစိမ်ကို နောင်တမလွန်ဘဝနှင့် လဲလှယ်ဝယ်ယူကြသူများဖြစ်ကြ၏။ သူတို့၏အပြစ်ဒဏ်ကို လျော့ပေါ့မည်မဟုတ်ပေ။ သူတို့သည် အကူအညီတစ်စုံတရာမှ ရရှိမည် မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသူများသည် ဤပစ္စုပ္ပန်ဘဝ(၏ စည်းစိမ်ချမ်းသာ) ကို နောင်တမလွန်ဘဝဖြင့် လဲလှယ်ဝယ်ယူကြသူများပင် ဖြစ်ကြသည်။ သို့လဲလှယ် ဝယ်ယူကြသည့်အတွက် ယင်းသူတို့ သည် အပြစ်ဒဏ်ခံစားရာ၌ သက်သာစေခြင်း ခံကြရမည်မဟုတ်၊ (မည်သူတစ်စုံတစ်ယောက်၏) ကယ်တင် စောင်မခြင်းကိုမျှလည်း ခံကြရမည်မဟုတ်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

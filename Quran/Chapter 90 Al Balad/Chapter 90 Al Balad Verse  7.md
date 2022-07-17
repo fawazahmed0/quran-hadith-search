@@ -710,6 +710,12 @@ Nima smyata, che nikoĭ ne go e vidyal
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။ လူသားသည် မိမိအား တစ်စုံတစ်ယောက်သောသူမျှ မမြင်ဟု ထင်မှတ်သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းသည် မိမိအား မည်သူတစ်ဦးတစ်ယောက်မျှပင် မြင်ခဲ့သည် မဟုတ်ဟူ၍ ထင်မှတ်လေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

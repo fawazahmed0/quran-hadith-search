@@ -710,6 +710,12 @@ I ako ne namerite nikogo tam, ne vlizaĭte, dokato ne vi se pozvoli! I ako vi b
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	ထို့အပြင်အကယ်၍အိမ်တွင်း၌ တစ်စုံတစ်ယောက်ကိုမျှ မတွေ့ငြားသော်လည်း ဝင်ခွင့်မရပဲလျက် အိမ်တွင်းသို့ မဝင်ကြလင့်၊ တဖန်အကယ်၍သင်တို့အား အိမ်ဝင်ခွင့်မပေးပဲ ပြန်သွားရန်ပြောလျှင် ပြန်သွားကြလော့၊ ယင်းသို့ပြု ခြင်းသည် မြင့်မြတ်သောအမူအရာဖြစ်၏၊ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့ပြုကျင့်သမျှတို့ကို သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် အကယ်၍ အသင်တို့သည် ထိုအိမ်များတွင် တစ်ဦးတစ်ယောက်ကိုမျှ မတွေ့ခဲ့ကြလျှင်၊ အသင်တို့သည် မိမိတို့၌ အခွင့်မရရှိသမျှ ကာလပတ်လုံး ထိုအိမ်များအတွင်းသို့ မဝင်ကြကုန်လင့်။ ၎င်းပြင် အကယ်၍ အသင်တို့အား ပြန်ကြကုန်ဟု ပြောဆိုခဲ့လျှင် အသင်တို့သည် ပြန်ခဲ့ကြလေကုန်။ ထို(သို့ပြန်လာခြင်း)သည် အသင်တို့အဖို့ အစင်ကြယ်အမွန်မြတ် ဆုံးပင်ဖြစ်ချေသည်။ စင်စစ်မူကား အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့ ကျင့်မူသမျှတို့ကို အသိတော်မူဆုံးပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

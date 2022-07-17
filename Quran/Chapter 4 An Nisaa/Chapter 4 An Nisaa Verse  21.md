@@ -710,6 +710,12 @@ I kak shte go vzemete, sled kato se otdadokhte edin na drug, i te poluchikha ot 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	သင်တို့သည် ထိုဇနီးမိန်းမထံဝင်ပြီးနောက် သူ၏ခန်းဝင်ပစ္စည်းကို အဘယ်နည်းနှင့် ပြန်ယူနိုင်အံ့ နည်း။ သူတို့သည် သင်တို့ထံမှ ခိုင်မာသောဂတိသစ္စာကို ယူထားပြီးပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် အသင်တို့သည် ဥစ္စာပစ္စည်းများကို အဘယ်ကဲ့သို့ ပြန်၍ယူကြမည်နည်း။ ဧကန်စင်စစ် အသင်တို့သည် တစ်ဦးနှင့်တစ်ဦး (အကြင်ဇနီးမောင်နှံအဖြစ် ပေါင်းသင်းဆက်ဆံ) ရောနှောစပ်ယှက်ပြီး ဖြစ်ကြသည့်ပြင်၊ ယင်းဇနီးမိန်းမတို့သည် (မိမိတို့၏ အခွင့်အရေးများနှင့်စပ်လျဉ်း၍) အသင်တို့ထံမှ ခိုင်မာသောကတိသစ္စာ ပဋိညာဉ်ဝန်ခံချက်ကို ယူထားပြီးလည်းဖြစ်ကြလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

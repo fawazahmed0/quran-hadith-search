@@ -710,6 +710,12 @@ Ala ne! Tova e lumnal Ogŭn
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။ သူသည် မည်သည့်နည်းနှင့်မှ မလွတ်နိုင်ချေ၊ ထိုအပြစ်ဒဏ်သည် ငရဲမီးဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုသို့) အလျှင်း မဖြစ်နိုင်ပေ။ ဧကန်စင်စစ်ယင်း(ငရဲမီး)မှာ ဟုန်းဟုန်းတောက်လျက်ရှိသော၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

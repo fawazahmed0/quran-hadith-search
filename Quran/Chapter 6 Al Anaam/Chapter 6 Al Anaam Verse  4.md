@@ -710,6 +710,12 @@ I ne idvashe pri tyakh znamenie ot znameniyata na tekhniya Gospod, bez da se otv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	အလ္လာဟ်အသျှင်မြတ်၏ နှုတ်ကပတ်တော်များအနက် တစ်ပါးပါးမှ သူတို့ထံကျရောက်မလာမှ ကျရောက်လာလျှင် သူတို့သည် ထိုဗျာဒိတ်တော်မှ လှည့်ထွက်သွားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုသူတို့ထံ ထိုသူတို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်အထံတော်မှ မည်သည့် သက်သေသာဓကလက္ခဏာမျိုးမဆို ဆိုက်ရောက်လာခဲ့သည်ရှိသော်ထိုသူတို့သည် ထိုသက်သေသာဓက လက္ခဏာတော်များမှမျက်နှာလွှဲဖယ် ကျောခိုင်းသွားကြသည်ချည်းသာတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

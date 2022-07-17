@@ -710,6 +710,12 @@ likuvashti za onova, koeto Allakh im e daril ot Svoyata blagodat, i se radvat za
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇ဝ။	အလ္လာဟ်အသျှင်မြတ်သည် မိမိ၏ကောင်းကြီးမင်္ဂလာတော်မှ သူတို့အား ပေးသနားတော်မူသော ကြောင့် သူတို့သည် အလွန်ပင် ဝမ်းမြောက်ဝမ်းသာဖြစ်လျက်ရှိကြ၏။ သူတို့သည် သူတို့နှင့်အတူ တကွမရှိဘဲ ကျန်ရစ်ခဲ့သောသူတို့အတွက်ကြောင့် ရွှင်မြူးကြ၏။ သူတို့အပေါ်သို့ ကြောက်ရွံ့စရာ ကျရောက်မည်မဟုတ်ပေ။ သူတို့သည် ပူဆွေးကြမည်မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့သည် ၎င်းတို့အား အလ္လာဟ်အရှင်မြတ်က မိမိ စည်းစိမ်ချမ်းသာ အကျိုးကျေးဇူးတော်ကို ခြီးမြှင့်ပေးသနားတော်မူသောကြောင့် နှစ်ထောင်း အားရ၊ ရွှင်လန်းလျက်ရှိကြသည်သာမက မိမိတို့နောက်၌ (ကျန်ရစ်ခဲ့သော) မိမိတို့နှင့်လာရောက် တွေ့ဆုံပူးပေါင်းခြင်း မရှိကြသေးသောသူတို့နှင့် ပတ်သက်၍လည်း ဝမ်းမြောက်ဝမ်းသာ ပျော်ရွှင်ကြကုန်သည်။ အကြောင်းတမူကား ထို (ကျန်ရစ်ခဲ့သော) သူတို့အဖို့မှာလည်း (မိမိတို့ထံ ရောက်ရှိလာကြ သောအခါ) မည်သို့မျှစိုးရိမ်ကြောင့်ကြခြင်းသည်လည်းကောင်း၊ ဝမ်းနည်းပူးဆွေးခြင်းသည်လည်းကောင်း မရှိခြင်းကြောင့်ပင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

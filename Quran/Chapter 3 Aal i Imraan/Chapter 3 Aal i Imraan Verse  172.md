@@ -710,6 +710,12 @@ onezi, koito otkliknakha na Allakh i na Pratenika, sled kato byakha raneni. Za o
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇၂။	အကြင်သူတို့သည် စစ်မြေပြင်၌ ဒဏ်ရာရပြီးနောက် အသျှင်မြတ်နှင့် တမန်တော်၏ စစ်တိုက်ရန် အမိန့်တော်ကို နာခံကြ၏။ ထိုသူတို့အနက် တရားမှုကိုပြုကျင့်၍ မတရားမှုကို ရှောင်ရှားသော သူတို့အဖို့ရာ အောင်ဆုမင်္ဂလာတော်ကြီးရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတို့သည်(အုဟုဒ်စစ်မြေပြင်၌) ဒဏ်ရာဒဏ်ချက်များ ရရှိပြီးနောက်တွင် အလ္လာဟ် အရှင်မြတ်နှင့်ရစူလ်တမန်တော်၏ ဖိတ်ခေါ်ချက်ကို က်ခံနာယူခဲ့ကြကုန်သည်။ ထိုသူတို့အနက်မှ ကောင်းမြတ်သော အကျင့် အမူတို့ကိုကျင့်မူသည့်အပြင် (ပြစ်မှုဒုစရိုက်တို့မှလည်း) ကြဉ်ရှောင်ကြကုန်သော သူတို့အဖို့မှာကား အလ္လာဟ်အရှင်မြတ်အထံတော်၌ထူးမြတ်ကြီးကျယ် လှသောအကျိုးဆုလာဘ်သည် အသင့်ရှိပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

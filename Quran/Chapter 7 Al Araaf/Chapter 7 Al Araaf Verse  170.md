@@ -710,6 +710,12 @@ A koito tvŭrdo se pridŭrzhat kŭm Pisanieto i ot·sluzhvat molitvata - Nie ne 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇ဝ။	အကြင်သူတို့သည် လူသားတို့အား ကျမ်းတော်ကို ကြည်ညိုလေးစားစေ၍ ဆွလာသ်ဝတ်ပြုကြ၏။ ငါအသျှင်မြတ်သည် ထိုပြုပြင်ရေးသမားတို့၏ လုပ်ခအကျိုးများ ဖြုန်းတီးတော်မူမည်မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတို့သည် ကျမ်းဂန် ဒေသနာတော်ကိုတည်ကြည်စွဲမြဲစွာ စောင့်ထိန်းကြ၏။ ၎င်းပြင် ဆွလာတ်ဝတ်ပြုခြင်းကိုလည်း အမြဲမပြတ် ဆောက်တည်ကြ၏။ ဧကန်စင်စစ် ငါအရှင်မြတ်သည် (မိမိတို့ကိုယ်ကို) ပြုပြင်ကြကုန်သောသူတို့၏ အကျိုးကျေးဇူးကို ပျက်စီးစေတော်မူမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

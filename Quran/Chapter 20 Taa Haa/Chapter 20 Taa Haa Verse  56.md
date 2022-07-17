@@ -710,6 +710,12 @@ Veche mu pokazakhme [na Faraona] vsyakakvi Nashi znameniya, ala toĭ gi vze za 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၆။	ငါသည် ဖာရောမင်းအား ငါ၏နိမိတ်အ့ံဖွယ်များကို ပြသတော်မူ၏ သို့သော်သူသည် ထိုအ့ံဖွယ်များကို မယုံကြည် ပယ်ရှား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ဧကန်စင်စစ် ငါအရှင်မြတ်သည် ယင်းဖိရ်အောင်(န်)ကို (မူစာအားချီးမြှင့်တော်မူသော) မိမိ သက်သေလက္ခဏာတော် အလုံးစုံကို ပြသတော်မူခဲ့ပေသည်။ သို့ပါလျက်၎င်းသည် (ယင်းသက်သေလက္ခဏာများကို) မဟုတ်မမှန် ဟူ၍ဆိုခဲ့သည့်အပြင် (တစ်ဆူတည်းသောအလ္လာဟ်အရှင်မြတ်အားယုံကြည်ရန်လည်း) ငြင်းပယ်ခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

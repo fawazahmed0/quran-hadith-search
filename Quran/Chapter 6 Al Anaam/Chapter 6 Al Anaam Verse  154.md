@@ -710,6 +710,12 @@ Posle na Musa dadokhme Pisanieto za pŭlnota na onzi, koĭto e blagodetelstval,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၄။	လူသားတို့သည် မိမိတို့၏ ကျေးဇူးတော်သခင်ကို ဒိဌမျက်မြင် ဖူးမြော်ရမည်ကို ယုံကြည်စိမ့်သောငှာ ငါအသျှင်မြတ်သည် တမန်တော်မူဆာအား တောင်ရတ်ကျမ်းတော်မြတ်ကို ထုတ်ပြန်ချပေးသနား တော်မူ၏။ ထိုကျမ်းတော်မြတ်သည် သုစရိုက်မှုပွားများလိုသူတို့အဖို့ စုံလင်ပြည့်စုံ၏။ အရာခပ်သိမ်း တို့ကို ရှင်းလင်းဖော်ပြထား၏။ လမ်းညွှန်တစ်ပါးဖြစ်၏။ ကောင်းကြီးမင်္ဂလာတော်ကြီးတစ်ပါးလည်း ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တဖန် ငါအရှင်မြတ်သည် (နဗီတမန်တော်)မူစာအား ယင်း(မူစာ၏အမျိုးသား)တို့သည် မိမိတို့အား မွေးမြူတော်မူသောအရှင်နှင့် တွေ့ဆုံကြရမည်ကို ယုံကြည်နိုင်ကြရန်ကောင်းစွာကျင့်မူသော သူတို့အဖို့(တောင်ရာတ်)ကျမ်းမြတ်ကိုပြည့်စုံသော ကျေးဇူးတော်အဖြစ်လည်းကောင်း၊ အလုံးစုံသောအရာများကို လင်းပြသော(ကျမ်းဂန်)အဖြစ်လည်းကောင်း၊တရားဓမ္မညွှန်ပြသော(ဒေသနာတော်)အဖြစ်လည်းကောင်း၊ကရုဏာတော်အဖြစ်လည်းကောင်း၊ ချီးမြှင့် ပေးသနားတော်မူခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

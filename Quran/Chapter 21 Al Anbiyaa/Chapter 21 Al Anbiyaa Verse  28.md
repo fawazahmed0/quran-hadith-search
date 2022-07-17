@@ -710,6 +710,12 @@ Znae Toĭ kakvo e bilo predi tyakh i kakvo shte bŭde sled tyakh. I se zastŭpv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	အရှင်မြတ်သည် သူတို့၏အတိတ်အနာဂတ်ရှေးနောက်တို့ကို သိတော်မူ၏၊ ထို့အပြင်သူတို့သည် အရှင်မြတ် လက်ခံတော်မူသောသူမှတပါး အခြားသူတစ်စုံတစ်ယောက်ကိုမျှ တောင်းပန်ကယ်နှုတ်နိုင်ကြမည်မဟုတ်ချေ၊ သူတို့သည် အရှင်မြတ်အား ကြောက်ရွံ့တုန်လှုပ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် ၎င်းတို့၏ ရှေ့နောက်အကြောင်းကိစ္စ အလုံးစုံတို့ကို (အကြွင်းမဲ့) သိတော်မူ၏။ ထိုမှတစ်ပါး ၎င်းတို့သည် ထိုအရှင်မြတ် ကျေနပ်နှစ်သက်တော်မူသော သူမှတစ်ပါး မည်သူ့အဖို့မျှ ကြားဝင် အသနားခံနိုင်ကြမည် မဟုတ်ပေ။စင်စစ် သော်ကား ၎င်းတို့သည် ထိုအရှင်မြတ်အား ကြောက်ရွံ့ရိုသေခန့်ညားမှုကြောင့် (အမြဲတစေ)ကြောက်ရွံ့လျှက်ပင် ရှိကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

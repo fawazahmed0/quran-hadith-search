@@ -710,6 +710,12 @@ onezi, koito vyarvat i sŭrtsata im se uspokoyavat pri spomenavaneto na Allakh. 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	ထိုသို့မျက်နှာမူသူတို့သည် ယုံကြည်ကြ၏။ သူတို့၏ စိတ်နှလုံးတို့သည် အလ္လာဟ်အရှင်မြတ်အား အောက်မေ့ တသခြင်း၌ ငြိမ်းချမ်းသာယာမှုကို တွေ့ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတို့သည် သက်ဝင်ယုံကြည်ခဲ့ကြကုန်၏။ ၎င်းပြင် ထိုသူတို့၏ စိတ်နှလုံးများသည် အလ္လာဟ်အရှင်မြတ်အား အောက်မေ့တသခြင်းဖြင့် ငြိမ်းအေးကြည်နူး၍ သွားလေသည်။ ကောင်းစွာမှတ်ယူကြလေကုန်။ အလ္လာဟ်အရှင်မြတ်အား အောက်မေ့တသခြင်းဖြင့် စိတ်နှလုံးများသည် ငြိမ်းအေးကြည်နူး၍ သွားသည်ချည်းသာတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

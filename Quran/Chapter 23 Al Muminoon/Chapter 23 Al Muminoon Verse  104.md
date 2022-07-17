@@ -710,6 +710,12 @@ Ogŭnyat shte obgarya litsata im i v nego shte se gŭrchat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၄။	ငရဲမီးသည် သူတို့၏မျက်နှာများကို လောင်မြိုက်လျက် သူတို့သည် စိတ်ညစ်ညူးလျက် တိတ်ဆိတ်စွာနေကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ငရဲ)မီးသည် ၎င်းတို့၏ မျက်နှာများကို လောင်ကျွမ်းလျက်ရှိပေမည်။ ထို့ပြင် ၎င်းတို့သည် ယင်းငရဲဘုံ၌ ရုပ်ဆင်း သဏ္ဌာန်ပျက်ယွင်းလျက် ရှိကြမည် ဖြစ်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

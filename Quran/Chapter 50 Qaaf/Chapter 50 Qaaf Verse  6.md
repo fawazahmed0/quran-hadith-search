@@ -710,6 +710,12 @@ Nima ne vizhdat nebeto nad tyakh, kak Nie go izgradikhme i go ukrasikhme, i e be
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	သူတို့သည် မိမိတို့အထက်၌ရှိသောမိုးကောင်းကင်ကို အာရုံမပြုကြသလော၊ ငါသည် မိုးကောင်းကင်ကို အဘယ် ကဲ့သို့ဖန်ဆင်းတော်မူသည်၊ အဘယ်ကဲ့သို့လှပတင့်တယ်စွာတန်ဆာဆင်ထားတော်မူသည်၊ အနည်းငယ်မျှ ပေါက်ကွဲပြိုလဲခြင်းမရှိအောင် အဘယ်ကဲ့သို့ ဖန်ဆင်းထားတော်မူသည်များကို သူတို့မစဉ်းစားမဆင်ခြင်ကြ သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် မိမိတို့၏အထက်၌ မိုးကောင်းကင်ကို မကြည့်မမြင်ခဲ့ကြလေသလော။ ငါအရှင်မြတ်သည် ယင်းမိုးကောင်းကင်ကို မည်သို့ ပြုလုပ်ထားတော်မူသနည်း။ ၎င်းပြင် ငါအရှင်မြတ်သည် ထိုမိုးကောင်းကင်ကို မည်သို့လှပစွာ ဆင်ယင်ထားတော်မူသနည်း။ ထိုမှတစ်ပါး ယင်းမိုးကောင်းကင်၌ အဟ၊ အကွဲ၊ အအက် များဟူ၍လည်း အလျှင်းမရှိပြီတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

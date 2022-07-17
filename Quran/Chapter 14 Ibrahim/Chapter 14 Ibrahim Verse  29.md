@@ -710,6 +710,12 @@ Ada, v koĭto shte goryat. Kolko losh za prebivavane e toĭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	သူတို့သည် ငရဲသို့ပင် ဆွဲဆောင်ကြ၏။ သူတို့သည် ငရဲသို့ ဆင်းရလတ့ံ။ အလွန်ကြောက်မက်ဖွယ်ကောင်းသော ခရီးဆုံးဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဂျဟန္နမ်ငရဲဘုံသို့၊ ၎င်းတို့သည် ယင်းဂျဟန္နမ်ငရဲဘုံသို့ လားကြပေမည်။ စင်စစ်မှာမူကား ယင်းဂျဟန္နမ်ငရဲဘုံသည် အလွန်ဆိုးရွားလှသော ရပ်တည်ရာဌာနပင် ဖြစ်လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kaza: “Opazil ni Allakh da vzemem drug osven onzi, u kogoto si namerikhme vesh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၉။	ထိုအခါ တမန်တော်ယူစွတ်(ဖ်)က အကြင်သူ၌ အကျွနု်ပ်၏ ပစ္စည်းကို တွေ့အ့ံ။ ထိုသူကိုသာ ဖမ်းဆီးထိုက်၏။ ထိုသူမှတပါး အခြားသူကို မဖမ်းဆီးဖို့ရာ အလ္လာဟ်အရှင်မြတ်သည် တားမြစ်တော်မူ၏။ ယင်းသို့ဖမ်းဆီးချုပ်နှောင် ပါလျှင် အကျွနု်ပ်တို့သည် မတရားပြုကျင့်သူများဖြစ်ချေမည်ဟု ပြန်ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုရောအခါ) ယင်းယူဆွဖ်က (ဤသို့) ပြောဆိုဖြေကြားခဲ့၏။ ငါတို့သည် မိမိတို့ပစ္စည်းကို တွေ့ရှိသောသူမှတစ်ပါး အခြားသူအား ဖမ်းဆီးခြင်းကို မပြုမိကြရန် အလ္လာဟ်အရှင်မြတ်၏ ကာကွယ်စောင့်ရှောက်မှုကို ရှာဖွေကြပေသည်။ဧကန်စင်စစ် ငါတို့သည် (ထို)သို့ (ပြုခဲ့ကြ)ပါလျှင် အမှန်ပင်မတရားသောသူများ ဖြစ်ကြမည်သာတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ povecheto sa ot predtsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	ဤဥယျာဉ်ဗိမာန်တွင် ရှေးလူဟောင်းအများအပြားရှိကြလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ယင်းဥယျာဉ်များတွင်)ရှေးသူဟောင်းတို့အနက်မှ အလွန်ကြီးမားများပြားသော အုပ်စုကြီးတစ်ခုရှိ ပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

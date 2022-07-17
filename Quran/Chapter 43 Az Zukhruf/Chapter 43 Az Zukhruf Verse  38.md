@@ -710,6 +710,12 @@ A kogato se yavi toĭ pred Nas, kazva [na satanata]: “Akh, da imashe mezhdu m
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	နောက်ဆုံးစွန်၌ ယင်းကဲ့သို့ သူတစ်ဦးတစ်ယောက်သည် ငါ့ရှေ့တော်သို့ ဝင်ရသောအခါ သူသည် သူ၏အဖော် ရှိုင်တန်အား ပြောမည်မှာ သင်တို့နှင့်ငါသည် အရှေ့နှင့်အနောက်ကဲ့သို့ ဝေးကွာခဲ့လျှင် ကောင်းလေစွ၊ ဤ အပေါင်းအသင်းသည် အလွန်ဆိုးဝါးယုတ်မာသောအပေါင်းအသင်းဧကန်အမှန်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 နောက်ဆုံးတွင် ထိုမသိဟန်ဆောင်သောသူသည် ငါအရှင်မြတ်အထံတော်သို့ ရောက်လေသောအခါ (ယင်း"ရှိုင်တွာန်" မိစ္ဆာကောင်အား ဤသို့)ပြောဆိုအံ့၏။ ဪ-ကျွန်ုပ်နှင့် အသင်၏အကြား၌ "အရှေ့" နေထွက်ရာအရပ်နှင့် "အနောက်" နေဝင်ရာအရပ်မျှ ဝေးကွာခဲ့လျှင် ကောင်းလေစွတကား။ စင်စစ်မှာကား ယင်း"ရှိုင်တွာန်" မိစ္ဆာကောင်သည် လွန်စွာဆိုးယုတ်လှသော အဖော်ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

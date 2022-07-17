@@ -710,6 +710,12 @@ Tova e shtedrost i blagodat ot Allakh. Allakh e vseznaesht, premŭdŭr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	ယင်းကျေးဇူးတော်ကား အလ္လာဟ်အရှင်မြတ်၏ ကျေးဇူးတော်၊ ကောင်းကြီးမင်္ဂလာတော်ဖြစ်၏၊ အလ္လာဟ်အရှင် မြတ်သည် သိတော်မူ၏၊ ဉာာဏ်ပညာရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်၏ ကျေးဇူတော် ကြောင့်လည်းကောင်း၊ ဆုချီးမြှင့်တော်မူခြင်း ကြောင့်လည်းကောင်း၊အမှန်စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် (အရာခပ်သိမ်းတို့ကို) အကြွင်းမဲ့သိတော်မူသောအရှင်၊ ဆင်ခြင်တုံတရားနှင့် ပြည့်စုံတော်မူသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

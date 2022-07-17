@@ -710,6 +710,12 @@ Tezi sa granitsite na Allakh. A koĭto se pokoryava na Allakh i na Negoviya Pra
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	ဤဥပဒေများသည် အလ္လာဟ်အသျှင်မြတ် သတ်မှတ်ပေးတော်မူသော ကျင့်စဉ်တရားတည်း။ အကြင်သူသည် အလ္လာဟ်အသျှင်မြတ်နှင့် အသျှင်မြတ်၏တမန်တော်တို့၏အမိန့်တော်ကို လိုက်နာ ဆောင်ရွက်၏။ ထိုသူအား အသျှင်မြတ်သည် သုခဥယျာဉ်တော်များသို့ ဝင်စေတော်မူမည်။ ထိုဥယျာဉ်တော်များအောက်တွင် မြစ်ချောင်းအသွယ်သွယ်စီးဆင်းလျက်ရှိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည်တို့သည် အလ္လာဟ်အရှင်မြတ် (သတ်မှတ်ပြဋ္ဌာန်းတော်မူသော) စည်းမျဉ်းဥပဒေများပင်တည်း၊ အမှန်သော်ကား အကြင်မည်သူမဆို အလ္လာဟ်အရှင်မြတ်၏ အမိန့်တော်များကိုလည်းကောင်း၊ ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော်မြတ်၏ အမိန့် တော်များကိုလည်းကောင်း လိုက်နာပါမူ ထိုအရှင်မြတ်သည် ၎င်းအား အကြင်ဥယျာဉ်များသို့ ဝင်ရောက်စေတော်မူအံ့။ ယင်းဥယျာဉ်များအောက်၌ စမ်းရေချောင်းများသည် စီးတွေလျက်ရှိသည်။ ထိုသူတို့သည် ၎င်းဥယျာဉ်များ၌ နေထိုင် စံမြန်းလျက်ရှိကြမည်။ အမှန်စင်စစ် ဤ (ကဲ့သို့ ဝင်ရောက်နေထိုင်စံမြန်းရခြင်း) သည်ကား ကြီးကျယ်လှစွာသော အောင်မြင်မှုပင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

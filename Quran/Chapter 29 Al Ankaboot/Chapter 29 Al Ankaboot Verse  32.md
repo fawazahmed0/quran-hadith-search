@@ -710,6 +710,12 @@ Kaza: “No sred tyakh e Lut.” Kazakha: “Nie naĭ-dobre znaem koĭ e sred 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	ထိုအခါအေဗရာဟမ်က မှတ်သားကြလော့၊ တမန်တော်လွဒ်သည် ထိုအရပ်တွင်ရှိ၏ဟု ပြော၏၊ ကောင်းကင် တမန်တော်တို့ပြန်ပြောသည်မှာ တမန်တော်၊ အကျွနု်ပ်တို့သည် သူ၏မိန်းမမှတပါး သူနှင့်တကွ သူ့အိမ်သူ အိမ်သားတို့ကို ကယ်တင်ကြရပါမည်၊ သူ၏မိန်းမသည် ထိုအရပ်တွင် ကျန်ရစ်သူတို့အထဲတွင် ပါဝင်ပါ၏ဟု ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ)ထိုအိဗ်ရာဟီမ်က ထိုမြို့ရွာ၌ (နဗီတမန်တော်) ‘လူ(တ်)’သည်(လည်း) ရှိနေပေသည်ဟု ပြောကြားခဲ့လေရာ ထိုစေတမန်တို့က ပြောဆိုဖြေကြားခဲ့သည်မှာ ထိုမြို့ရွာ၌ မည်သူတို့ နေထိုင်ကြသည်ကို ကျွန်ုပ်တို့သည် ကောင်းစွာသိရှိကြပေသည်။ အမှန်ပင် ကျွန်ုပ်တို့သည် ‘လူ(တ်)’ ၏ဇနီးမှအပ ထို ‘လူ(တ်)’ နှင့်တကွ ၎င်း၏အိမ်သူအိမ်သား သက်ဆိုင်သူများကိုပါ ကယ်ဆယ်ကြပေမည်။ ထို[‘လူ(တ်)]၏ဇနီးမှာမူကား ကျန်ရစ်သူတို့တွင် အပါအဝင်ဖြစ်ပေမည်ဟု ပြောကြားခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

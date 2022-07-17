@@ -710,6 +710,12 @@ I ot Negovite znameniya e, che nebeto i zemyata stoyat po Negova povelya. Posle,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	တဖန်အလ္လာဟ်အရှင်မြတ်၏ တန်ခိုးအ့ံဖွယ်တော်များအနက် တစ်ပါးမှာ မိုးကောင်ကင်နှင့် ကမ္ဘာမြေပြင်သည် အရှင်မြတ်၏ ဗျာဒိတ်တော်ကြောင့် ခိုင်ခန့်မြဲမြံစွာတည်နေရ၏၊ ထို့နောက်အရှင်မြတ်ဆင့်ခေါ်တော်မူသောအခါ သင်တို့သည် မြေကြီးထဲမှ အမှန်ထွက်လာကြရမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ထိုအရှင်မြတ်၏ သက်သေလက္ခဏာတော်များအနက်မှပင်၊ မိုးကောင်းကင်နှင့် ပထဝီမြေ၏ရပ်တည်နေခြင်းသည်လည်း ဖြစ်ပေသည်။ ထို့နောက် ထိုအရှင်မြတ်သည် အသင်တို့အား ပထဝီမြေမှ (ထွက်လာကြအံ့သောငှာ) တစ်ကြိမ်မျှ ဟစ်ခေါ်တော်မူသောအခါ ရုတ်တရက်အသင်တို့သည် ထွက်လာကြကုန်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

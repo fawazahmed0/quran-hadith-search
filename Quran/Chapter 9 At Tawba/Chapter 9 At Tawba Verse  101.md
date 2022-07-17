@@ -710,6 +710,12 @@ I sred onezi ot beduinite, koito sa okolo vas, ima litsemeri. I sred zhitelite n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၁။	သင်တို့ပတ်ဝန်းကျင်တွင်ရှိသော ကျေးတောသားအာရဗ်လူမျိုးတို့အနက် အချို့သည် ယုံကြည်ဟန်ဆောင်သူများ ဖြစ်ကြ၏။မဒီနာမြို့တော်သူမြို့တော်သားများအနက်လည်း အချို့သည် ယုံကြည်ဟန်ဆောင်သူများဖြစ်ကြ၏။ထိုသူများကို သင်မိုဟမ္မဒ်မသိပေ။ငါသိတော်မူ၏။ငါသည် သူတို့ကို အပြစ်ဒဏ်နှစ်ကြိမ်နှစ်ခါပေးတော်မူမည်၊ ထို့နောက်သူတို့သည် အလွန်ပြင်းပြနာကျင်ဖွယ်သောအပြစ်ဒဏ်ကို ခံစားရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အသင်တို့၏ ပတ်ဝန်းကျင်၌ ရှိကြကုန်သော အရဗ်ကျေးတောသားတို့တွင်လည်းကောင်း၊ မဒီနာမြို့သားတို့တွင်လည်းကောင်း၊ အကြင် ကဲ့သို့သော မုနာဖစ်က်မုစ်လင်မ်အယောင်ဆောင်သောသူများ ရှိကြကုန်၏။ ထိုသူတို့သည် နိဖာက် အယောင်ဆောင်မှု၌ပင် ဇွတ်မှိတ်၍ စွဲမြဲစွာနေခဲ့ကြလေသည်။ အသင်တို့သည် ထိုသူတို့အား မသိချေ။ငါအရှင်မြတ်သည် ထိုသူတို့အား သိတော်မူ ၏။ မကြာမြင့်မီပင်ငါအရှင်မြတ်သည် ၎င်းတို့အား နှစ်ကြိမ်တိုင်တိုင် ပြစ်ဒဏ်ပေးတော်မူမည်။ တဖန် ၎င်းတို့သည် ကြီးလေးလှသော ပြစ်ဒဏ်ကို ရောက်စေခြင်းကို ခံကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

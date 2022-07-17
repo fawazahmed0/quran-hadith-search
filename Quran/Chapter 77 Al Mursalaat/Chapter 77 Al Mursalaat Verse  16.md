@@ -710,6 +710,12 @@ Ne pogubikhme li Nie predtsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။ ငါသည် ရှေးလူဟောင်းအဆက်ဆက်တို့ကို သုတ်သင်ရှင်းလင်းတော်မူခဲ့ပြီမဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် ရှေးသူဟောင်းတို့အား ပျက်စီးစေတော်မူခဲ့သည် မဟုတ်လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I ne se sŭmnyavaĭ v [lŭzhovnostta na] onova, na koeto te sluzhat! Te sluzhat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၉။	ထို့ကြောင့်သင်တမန်တော်သည် ဤမိစ္ဆာမိုက်တို့ကိုးကွယ်သည့်ဘုရားတုများနှင့်စပ်လျဉ်း၍ စိတ်စနောင့်စနိုး မရှိလင့်၊ သူတို့သည် မိရိုးဖလာကို ဆည်းကပ်ကြ၏။ မှတ်သားလော့။ ငါအရှင်မြတ်သည် သူတို့အား ၎င်းတို့ ရထိုက်သောအပြစ်ဒဏ်ကို မလျှော့ပေါ့ပဲ အပြည့်အစုံပေးတော်မူလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်) အသင်သည်ဤသူများ ဆည်းကပ်ကိုးကွယ်သောအရာ များနှင့်စပ်လျဉ်း၍ဒွိဟသံသယ မဖြစ်ပါလေနှင့်။ (စင်စစ်သော်ကား)၎င်းတို့သည်မိမိတို့အဖ ဘိုးဘေး များအလျင်က ဆည်းကပ်ကိုးကွယ်လျက်ရှိခဲ့ကြသည့်နည်းတူ ကိုးကွယ်ဆည်းကပ်နေကြသည်ပင်။ ထို့ပြင်ဧကန်အမှန် ငါအရှင်မြတ်သည် ၎င်းတို့အား ၎င်းတို့၏ ဝေစုဝေပုံကို ယုတ်လျော့စေခြင်းမရှိစေဘဲ အပြည့်ပေးတော်မူမည်ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

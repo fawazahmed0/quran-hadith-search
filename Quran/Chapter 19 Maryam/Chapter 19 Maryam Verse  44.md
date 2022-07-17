@@ -710,6 +710,12 @@ O, tatko moĭ, ne sluzhi na satanata! Satanata e nepokoren pred Vsemilostiviya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	အို-မွေးသဖခင်၊ ရှိုင်တန်မာရ်နတ်ကို မကိုးကွယ်ပါလင့်။ မှတ်သားပါလော့၊ ရှိုင်တန်မာရ်နတ်သည် မဟာဂရုဏာ တော်ရှင်ကို ထောင်ထားခြားနားသူဖြစ်ပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ကျွန်ုပ်၏ဖခင်၊အသင်(ဖခင်)သည် ရှိုင်တွာန်မိစ္ဆာကောင်ကို ခဝပ်ကိုးကွယ်ခြင်းမပြုပါနှင့်။ ဧကန်မလွဲ ရှိုင်တွာန်မိစ္ဆာကောင်မှာ ရဟ်မာန်အနန္တ ကရုဏာရှင်(၏အမိန့်တော်)ကို ဖီဆန်သူဖြစ်ခဲ့ပါသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

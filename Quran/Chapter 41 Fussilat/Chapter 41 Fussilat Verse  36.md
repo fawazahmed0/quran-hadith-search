@@ -710,6 +710,12 @@ I ako te podbudi satanata, pri Allakh tŭrsi ubezhishte! Toĭ e Vsechuvashtiya,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	အကယ်၍ရှိုင်တန်မာရ်နတ်သည် သင့်အား လှည့်ဖြားလာသောအခါ သင်သည် အလ္လာဟ်အရှင်မြတ်၌ ခိုလှုံလော့၊ အရှင်မြတ်သည် ခပ်သိမ်းကုန်သောအရာတို့ကို အကြွင်းမဲ့ကြားတော်မူသော၊ သိတော်မူသောအရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အကယ်၍ အသင့်အား ရှိုင်တွာန်မိစ္ဆာကောင်၏ဘက်မှ တစ်စုံတစ်ရာနှောင့်ယှက် ဖျက်ဆီးခြင်းရှိပါလျှင်၊ အသင်သည် အလ္လာဟ်အရှင် မြတ်ထံတော်မှ အကာအကွယ်ကို တောင်းခံပါလေ။ ဧကန်မလွဲ ထိုအရှင်မြတ်သည်သာလျှင် အကြွင်းမဲ့ ကြားတော်မူသောအရှင်၊ အကြွင်းမဲ့သိတော်မူသော အရှင်ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

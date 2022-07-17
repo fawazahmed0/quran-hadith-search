@@ -710,6 +710,12 @@ Kazakhme Nie: “Ne se strakhuvaĭ, ti si prevŭzkhozhdashtiyat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၈။	ငါအရှင်မြတ်က အို--မူစာ၊ မကြောက်ရွံ့လင့်၊ သင်သည် သူတို့ထက် သာလွန်မြင့်မြတ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ငါအရှင်မြတ်က(မူစာအားဤသို့) မိန့်ကြားတော်မူခဲ့၏။ (အို-မူစာ) အသင်သည် မကြောက်လေနှင့်၊ဧကန်မလွဲ အသင်သည်သာလျှင် အောင်နိုင်သူ ဖြစ်ပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I izprati sreshtu tyakh yata ot ptitsi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။ သင်၏ အရှင်သခင်သည် ထိုသူမိုက်တို့အပေါ်၌ အရေအတွက်များလှစွာသောငှက်များကို တစ်အုပ်ပြီးတစ်အုပ် စေလွှတ်တော်မူလိုက်သည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ ထိုအရှင်မြတ်သည် ၎င်းတို့အပေါ်၌ ငှက်များကို အုပ်စုလိုက် စေလွှတ်တော်မူခဲ့သည် မဟုတ်လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

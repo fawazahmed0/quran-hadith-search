@@ -710,6 +710,12 @@ I che Moeto mŭchenie e boleznenoto mŭchenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅ဝ။	တဖန် သူတို့အား ငါ၏ အပြစ်ဒဏ်တော်သည် အလွန်ပင်ကြောက်မက်ဖွယ်ကောင်းကြောင်းကိုလည်း ဟောကြား လော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ဧကန်မလွဲ ငါအရှင်မြတ်၏ ပြစ်ဒဏ် သည်လည်း အလွန်ပြင်းထန်သောပြစ်ဒဏ်ဖြစ်ကြောင်းကိုလည်း (အသင်သည် ပြောကြားလိုက်ပါလေ)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

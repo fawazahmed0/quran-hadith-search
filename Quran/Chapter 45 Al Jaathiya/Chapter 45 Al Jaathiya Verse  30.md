@@ -710,6 +710,12 @@ Onezi, koito vyarvat i vŭrshat pravedni dela, tekhniyat Gospod shte gi vŭvede 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	ထိုအခါ အကြင်သူတို့သည် ယုံကြည်ခြင်းတရားရှိလျက် ကုသိုလ်ကောင်းမှုကို ပွားများခဲ့အ့ံ၊ ထိုသူတို့အား သူတို့၏ အသက်သခင်ကျေးဇူးရှင်ကြီးသည် မိမိ၏ ကောင်းကြီးမင်္ဂလာတော်အတွင်းသို့ သွတ်သွင်းတော်မူ လိမ့်မည်၊ ထိုသွတ်သွင်းတော်မူခြင်းသည် ထင်လင်းသောအောင်ဆုမင်္ဂလာတော်ကြီးဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ သက်ဝင်ယုံကြည်၍ ကောင်းမှုများကို ကျင့်မူကြကုန်သောသူတို့အား ၎င်းတို့ကို ဖန်ဆင်း မွေးမြူတော်မူသော အရှင်မြတ်သည် မိမိကရုဏာတော်တွင်းသို့ ဝင်ရောက်စေတော်မူပေသည်။ ဤသည်ပင်လျှင် ထင်ရှားစွာသော အောင်မြင်မှု ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

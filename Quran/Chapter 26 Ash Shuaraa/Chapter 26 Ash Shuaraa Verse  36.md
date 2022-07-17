@@ -710,6 +710,12 @@ Kazakha: “Daĭ ot·srochka na nego i brat mu, i prati po gradovete sŭbirachi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	အမတ်တို့က အရှင်မင်းကြီး၊ ဤမူစာနှင့် သူ၏အစ်ကိုအား အချိန်အနည်းငယ်ဆိုင်းင့ံထားတော်မူပါ၊ ထို့နောက် နိုင်ငံတော်အတွင်း မြို့ရွာအရပ်ရပ်သို့ ဆင့်ခေါ်သူများကို စေလွှတ်တော်မူပါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအကြီးအမှူးတို့က လျှောက်ထား(အကြံပေး) ခဲ့ကြကုန်၏။ ဘုရင်မင်းမြတ်သည် ထို(မူစာ)နှင့် ၎င်း၏နောင်တော် (ဟာရူန်)အား ရွှေ့ဆိုင်းခွင့်ပေး၍ မင်းစေတို့အား အမြို့မြို့အရွာရွာသို့ စေလွှတ်တော်မူပါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

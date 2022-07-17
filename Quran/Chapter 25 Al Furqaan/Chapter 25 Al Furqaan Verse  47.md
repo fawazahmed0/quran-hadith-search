@@ -710,6 +710,12 @@ Toĭ e, Koĭto stori za vas noshtta da e odeyanie, i sŭnya da e za otdikh, i 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	အလ္လာဟ်အရှင်မြတ်သည် ညဉ့်ကို သင်တို့အဖို့ ဖုံးအုပ်သောအရာဖြစ်စေတော်မူ၏၊ အိပ်စက်ခြင်းကို သင်တို့ အမောအပန်းဖြေဖို့ရာ စီရင်ထားတော်မူ၏၊ နေ့ကို ရှင်ပြန်ထမြောက်သွားလာဖို့ရာ ပြုထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည်ပင်လျှင် ညဉ့်ကို အသင်တို့အဖို့ အကွယ်အကာ အဖုံးအအုပ်၊ အိပ်စက်ခြင်းကို အပန်းဖြေရာ ပြုလုပ်တော်မူခဲ့သော အရှင်ဖြစ်တော်မူ၏။ ၎င်းပြင် ထိုအရှင်မြတ်သည်ပင် နေ့ကို ရှင်ပြန်ရာကာလ ပြုလုပ်တော်မူခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

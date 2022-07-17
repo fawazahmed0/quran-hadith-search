@@ -710,6 +710,12 @@ I kaza Musa na svoya sluga: “Ne shte spra, dodeto ne stigna myastoto, kŭdeto 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၀။	တမန်တော်မူစာသည် မိမိ၏ အခိုင်းအစေအား မြစ်နှစ်သွယ်တွေ့ဆုံပူးပေါင်းရာဌာနသို့ မရောက်မခြင်း၊ ငါသည် နှစ်ပေါင်းများလှစွာသွားရသော်လည်း၊ ငါလက်လျှော့မည်မဟုတ်ဟု ပြောသောအခါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (ပြန်လည်အောက်မေ့ သတိရကြလေကုန်)။ တစ်ရံရောအခါဝယ်(နဗီတမန်တော်)မူစာသည် မိမိနောက်ပါတပည့်အား ငါသည် မြစ်နှစ်သွယ်ဆုံရာသို့ ရောက်ရှိသည့်တိုင်အောင် မရပ်မနားသွားပေမည်။ သို့တည်းမဟုတ်ငါသည် နှစ်ရှည်လများ သွား၍ပင်နေမည်ဟု ပြောကြားခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

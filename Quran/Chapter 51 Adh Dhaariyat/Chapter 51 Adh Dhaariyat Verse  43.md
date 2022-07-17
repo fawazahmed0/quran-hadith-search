@@ -710,6 +710,12 @@ I za samudyanite, kogato im be kazano: “Naslazhdavaĭte se do vreme!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	ထို့အပြင် စမူးဒ်လူမျိုးအား သင်တို့သည် ရှေ့ကို အနည်းငယ်မျှသာလောကီစည်းစိမ်ကို ခံစားလော့ဟု မိန့် တော်မူသောအခါ၌လည်း ထိုလူမျိုးတို့၌ သက်သေသာဓကတော်တစ်ပါးရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ‘ဆမူဒ်’ အမျိုးသားတို့(၏အဖြစ်အပျက်)၌လည်း (သင်ခန်းစာ)ရှိ၏။ အခါတစ်ပါး၌ ၎င်းတို့သည် ပြောကြားခြင်းကို ခံခဲ့ကြရလေ၏။ အသင်တို့သည် အနည်းငယ်မျှ ကာလတိုင်အောင် အကျိုးကျေးဇူး ခံစားကြလေကုန်၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

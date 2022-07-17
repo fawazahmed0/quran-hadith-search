@@ -710,6 +710,12 @@ shte rekat: “Prechist si, Ti si nashiyat Pokrovitel, a ne te! Sluzhekha na dzh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	သူတို့ပြန်လျှောက်ကြမည်မှာ အို-အရှင်မြတ်၊ အရှင်မြတ်သည် ကုံလုံမွန်မြတ်အ့ံချီးမဆုံးဖြစ်တော်မူပါ၏၊ အကျွနု်ပ် တို့ကို သူတို့၏ဘေးရန်မှ ကာကွယ်တော်မူထသောအရှင်ဖြစ်တော်မူပါ၏၊ သူတို့သည် အကျွနု်ပ်တို့ကို ဝတ်မပြုပါ၊ ဂျင်နတ်သားတို့ကို ကိုးကွယ်ဝတ်ပြုကြပါ၏၊ သူတို့အနက် များစွာသောသူတို့သည် ဂျင်တို့ကို ဘုရားဟူ၍ ယုံကြည်ကိုးကွယ်ကြပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို မလာအိကဟ် ကောင်းကင်တမန်တို့က(ဤသို့)လျှောက်ထားခဲ့ကြပေမည်။ (အို-အရှင်မြတ်၊)အရှင်မြတ်သည် စင်ကြယ်သန့်ရှင်းတော်မူပါ၏။ ကျွန်တော်မျိုး တို့သည်အရှင်မြတ်နှင့်သာ ပတ်သက်ကြပါသည်။ ၎င်းတို့နှင့် မပတ်သက်ကြပါ။ စင်စစ်မှာကား ၎င်းတို့သည် ဂျင်န်သတ္တဝါများကိုသာ ဆည်းကပ်ကိုးကွယ်လျက် ရှိခဲ့ကြပါသည်။ ၎င်းတို့အနက်အများဆုံးသောသူတို့မှာ ဂျင်န်သတ္တဝါများကိုပင် ယုံကြည်သူများ ဖြစ်ခဲ့ကြပါသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ i shte vi zaselim na zemyata sled tyakh. Tova e za onzi, koĭto se boi da zasta
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	ထိုသူတို့နောက် ငါသည် သင်တို့အား မြို့ရွာနေပြည်၌ အမှန်ပင်နေစေတော်မူမည်။ ဤဆုမင်္ဂလာတော်မှာ ငါ၏ မြင့်မြတ်သောဂုဏ်ကို ကြောက်ရွံ့သူတို့၊ ငါ၏ ခြိမ်းခြောက်ချက်များကို ကြောက်ရွံ့သူဆိုသူတို့အဖို့ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အမှန်ပင် ငါအရှင်မြတ်သည် ၎င်းတို့မရှိကြသည့်နောက်တွင် အသင်တို့အား မြို့ရွာနယ်မြေ၌ နေရာချ၍ပေးတော်မူအံ့။ ဤ(ကတိဝန်ခံချက်)သည်ကား ငါအရှင်မြတ်၏ ေ့ရှတော်မှောက်ဝယ် မတ်တတ်ရပ်ရမည်ကို စိုးရိမ်သောသူ၏အဖို့လည်းကောင်း၊ ငါအရှင်မြတ် ချိန်းချက်ထားတော်မူသော ပြစ်ဒဏ်ကို ကြောက်ရွံ့သောသူ၏အဖို့လည်းကောင်း၊ ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

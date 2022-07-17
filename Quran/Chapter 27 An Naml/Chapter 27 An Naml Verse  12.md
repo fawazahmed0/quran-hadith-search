@@ -710,6 +710,12 @@ I pŭkhni rŭkata si v dzhoba, shte ya izvadish siyaĭnobyala, bez da ya e zase
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	အို--မူစာ၊ သင်သည် မိမိလက်ကို မိမိအကျႌရင်ဘတ်အတွင်းသို့ သွင်းလော့၊ သင်၏လက်ကို ပြန်ထုတ်လော့၊ ထိုလက်သည် ဖြူစင်တောက်ပနေလတ့ံ၊ ဤအရာသည် ဖွာရောမင်းနှင့် ၎င်း၏လူများကို ပြသရမည့်အ့ံဖွယ်သူရဲ မျိုးတွင် တစ်မျိုးဖြစ်၏၊ မှတ်သားလော့၊ သူတို့သည် အစဉ်အမြဲမကောင်းမှုကျူးလွန်နေသူတို့ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်သည် မိမိလက်ကို မိမိလက်ကတီးကြားတွင် သွင်းပါလေ။ (ထိုအခါ) ထိုလက်မှာ အပြစ်တစ်စုံတစ်ရာမရှိဘဲ ပကတိ ထွန်းတောက်လျက် ထွက်ပေါ်၍ လာပေမည်။ (ဤသည်)ဖစ်ရ်အောင်န်နှင့်တကွ ၎င်း၏အမျိုးသားတို့နှင့်ယှဉ်ပြိုင်အံ့သောငှာ တန်ခိုးတော်ကိုးပါးတွင် အပါအဝင်ဖြစ်၏။ ဧကန်စင်စစ် ၎င်းတို့မှာ စည်းကမ်းဖောက်ဖျက် ကျူးလွန်ကြသောအမျိုးသားများပင် ဖြစ်ကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

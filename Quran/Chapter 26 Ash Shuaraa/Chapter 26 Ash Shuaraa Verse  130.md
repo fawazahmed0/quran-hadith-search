@@ -710,6 +710,12 @@ I ako prilagate sila, prilagate ya kato tirani
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃ဝ။	ထို့အပြင်အကယ်၍သင်တို့သည် အာဏာအားဖြင့် ဖမ်းဆီးသောအခါ သက်ဦးဆံပိုင်အာဏာရှင်ကဲ့သို့ ပြုကျင့် ကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်တို့သည် ဖမ်းဆီး အရေးယူကြလေသောအခါ ရက်စက်ကြမ်းကြုတ်သူများအဖြစ် ဖမ်းဆီးအရေးယူကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

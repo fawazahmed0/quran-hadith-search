@@ -710,6 +710,12 @@ za koyato sa v raznoglasie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။ ထိုသီတင်းကိစ္စ တွင် သူတို့သဘောကွဲလွဲကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ယင်းအကြောင်းသတင်းနှင့်စပ်လျဉ်း၍ (အမြင်မှန်ရရှိသောသူတို့နှင့် အယူဝါဒ) ကွဲလွဲနေသူများ ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

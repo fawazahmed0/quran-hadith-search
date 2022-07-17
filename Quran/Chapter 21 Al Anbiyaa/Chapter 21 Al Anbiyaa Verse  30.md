@@ -710,6 +710,12 @@ Ne vizhdat li nevernitsite, che nebesata i zemyata byakha sŭedineni, a Nie gi r
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	မိုးမြေသည် အစကနဦးက အရာဝထ္ထုတစ်ခုတည်းသာဖြစ်ကြောင်း၊ ထို့နောက်မှ မိုးမြေကို တစ်ခုစီ ငါခွဲခြားတော် မူကြောင်း၊ သက်ရှိသတ္တဝါတို့ကို ငါ ရေမှဖန်ဆင်းတော်မူကြောင်း၊ ဤအကြောင်းအရာများကို မိစ္ဆာယုတ်တို့ မသိကြသလော၊ သူတို့သည် ယုံကြည်ကြမည်မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် မိုးကောင်းကင်များသည်လည်းကောင်း၊ပထဝီမြေသည်လည်းကောင်း၊ ပိတ်လျက်ရှိခဲ့သည်။ ထို့နောက်ငါအရှင်မြတ်သည် ယင်း(မိုးကောင်းကင်နှင့်ပထဝီမြေ)နှစ်ခုစလုံးကို ဖွင့်ပေးတော်မူခဲ့သည်။ (ဤသည်ကို)ကာဖိရ်များမသိ မမြင်ခဲ့ကြလေသလော။ ထို့ပြင်ငါအရှင်မြတ်သည် ရေဖြင့် သက်ရှိသတ္တဝါ ခပ်သိမ်းကိုဖန်ဆင်းတော်မူခဲ့၏။ သို့ပါလျက် ၎င်းတို့သည်သင်ဝင်ယုံကြည်ခြင်း မရှိကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

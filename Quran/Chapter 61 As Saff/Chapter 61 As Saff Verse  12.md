@@ -710,6 +710,12 @@ Togava Toĭ shte vi oprosti grekhovete i shte vi vŭvede v Gradinite, sred koit
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။ အရှင်မြတ်သည် သင်တို့၏ အပြစ်များကို ခွင့်လွှတ်တော်မူ၍ သင်တို့ကို နိဗ္ဗာန်ဥယျာဉ်တော်များအတွင်းသို့ ယူဆောင်လာတော်မူလိမ့်မည်၊ ထိုဥယျာဉ်တော်များအောက်၌ ကြည်လင်အေးမြသော စိမ့်စိမ်ရေမြောင်းတို့လည်း အယဉ်အထွေထွေ စီးဆင်းလျက်ရှိကြ၏၊ တင့်တယ်လှပသောဘုံဗိမာန်များလည်းရှိကြ၏၊ နိဗ္ဗာန်ဝင်ရခြင်းကား အောင်မြင်ခြင်းအပေါင်းတို့၏ အထွဋ်အထိပ်ဖြစ်ချေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် အသင်တို့၏ ပြစ်မှုဒုစရိုက်များကို ခွင့်လွှတ်တော်မူပေမည်။ ထို့ပြင် ထိုအရှင်မြတ် သည်အသင်တို့အား အကြင်ဥယျာဉ်များသို့ ဝင်ရောက်စေတော်မူပေမည်။ ယင်းဥယျာဉ်များ၏အောက်မှ ချောင်းများသည် စီးတွေလျက်ရှိကြပေမည်။ ထိုမှတစ်ပါး (ထိုအရှင်မြတ်သည် အသင်တို့အား) အကြင်နေအိမ်များသို့ ဝင်ရောက်စေတော်မူပေမည်။ ထိုနေအိမ်များမှာ အမြဲထာဝစဉ် နေထိုင်ရအံ့သောဥယျာဉ်များဝယ် ရှိကြပေမည်။ ထိုသည် ကြီးကျယ်လှစွာသော အောင်မြင်မှုပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

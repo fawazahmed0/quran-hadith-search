@@ -710,6 +710,12 @@ Edin Den Allakh shte gi vŭzkresi vsichki i shte Mu se kŭlnat, kakto se kŭlnat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	အလ္လာဟ်အရှင်မြတ်သည် သူတို့အားလုံးကို ပြန်ရှင်စေတော်မူမည့်နေ့တော်ကြီး၌ ထိုသူယုတ်မာတို့သည် သင်တို့ထံတွင် မုသားကျိန်ဆိုခဲ့သကဲ့သို့ အရှင်မြတ်ရှေ့မှောက်ဝယ် ကျိန်ဆိုကြလတ့ံ၊ သူတို့သည် မိမိတို့တွင် အကိုးအကားရှိသည်ဟု ထင်မှတ်ကြလိမ့်မည်၊ အမှန်မှာ ဘာမျှမရှိချေ၊ သူတို့သည် မုသားကောင်များမဟုတ် ချေလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့အားလုံးတို့ကို ရှင်ပြန်ထစေတော်မူအံ့သောနေ့တွင် ၎င်းတို့သည် ထိုအရှင်မြတ်၏ ရှေ့မှောက်၌လည်း အသင်တို့ရှေ့ဝယ် ကျိန်ဆိုဘိသကဲ့သို့ပင် ကျိန်ဆိုကြပေမည်။ ထိုမှတစ်ပါး ၎င်းတို့သည် ဧကန်အမှန် မိမိတို့မှာ (ကောင်းသော)အခြေအနေ၌ ရှိနေကြသည်ဟု ထင်မှတ်ကြပေမည်။ ကောင်းစွာ မှတ်ယူကြလေကုန်။ဧကန်မလွဲ ၎င်းတို့မှာ မုသာဝါဒီများပင် ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

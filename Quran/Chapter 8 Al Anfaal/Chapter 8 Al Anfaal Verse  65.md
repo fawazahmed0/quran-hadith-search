@@ -710,6 +710,12 @@ O, Proroche, podbuzhdaĭ vyarvashtite kŭm srazhenieto! Ako sred vas ima dvades
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၅။	အို-တမန်တော်၊ ယုံကြည်သူတို့အား စစ်တိုက်ဖို့ရာဆုံးမလော့။ သင်တို့အနက် စိတ်ထက်သန် ခိုင်မြဲသူ နှစ်ဆယ်ရှိလျှင် ထိုသူတို့သည် ရန်သူနှစ်ရာကို အောင်ကြရလိမ့်မည်။ စိတ်ထက်သန်တည်ကြည်သူ တစ်ရာရှိလျှင် ရန်သူတစ်ထောင်ကို နှိမ်နင်းကြရလိမ့်မည်။ အကြောင်းမူကား ရန်သူတို့သည် မယုံကြည်သူ ပညာကင်းမဲ့သူများဖြစ်သောကြောင့်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-နဗီတမန်တော်၊ အသင်သည် ‘မုအ်မင်န်’သက်ဝင်ယုံကြည်သူတို့အား စစ်မက်ပြိုင်ဆိုင် တိုက်ခိုက်ခြင်းငှာတိုက်တွန်းနှိုးဆော်ပါလေ။ အကယ်၍ အသင်တို့အနက် စွဲမြဲကြံ့ခိုင် (စွာတိုက်ခိုက်မည့်) သူနှစ်ဆယ်ရှိကြပါမူ၊ ၎င်းတို့သည်(ကာဖိရ်တို့ဘက်မှလူ)နှစ်ရာကို နှိမ်နင်းနိုင်ကြကုန်အံ့။ ထိုနည်းတူစွာ အကယ်၍ အသင်တို့အနက် (ကြံ့ခိုင်စွာတိုက်ခိုက်မည့်သူ)တစ်ရာရှိကြလျှင် ၎င်းတို့သည် ကာဖိရ်သွေဖည် ငြင်းပယ်သောသူတို့အနက်မှ (လူ)တစ်ထောင်ကို နှိမ်နင်း နိုင်ကြပေအံ့။အကြောင်းမူကား ၎င်းတို့သည် (လုံးဝ) နားမလည်သောသူများဖြစ်ကြသောကြောင့်ပင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

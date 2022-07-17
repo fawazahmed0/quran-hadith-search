@@ -710,6 +710,12 @@ Koĭto sŭtvori i osŭrazmeri
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။ အရှင်မြတ်သည် ဖန်ဆင်းတော်မူ၏၊ ထို့နောက်ဖျက်ဆီးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်အရှင်မြတ်သည် (အရာခပ်သိမ်းတို့ကို)ဖန်ဆင်းတော်မူပြီးနောက် နေထားတကျဖြစ်အောင်လည်း ပြုလုပ်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

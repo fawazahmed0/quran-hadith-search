@@ -710,6 +710,12 @@ Allakh e moyat Gospod i vashiyat Gospod. Zatova edinstveno na Nego sluzhete! Tov
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၄။	မှတ်သားကြလော့၊ အရှင်မြတ်သည် ငါ၏အရှင်သခင်၊ သင်တို့၏ အရှင်သခင်ဖြစ်တော်မူ၏၊ ထို့ကြောင့်အရှင်မြတ် အား ကိုးကွယ်ကြလော့၊ ဤသည်သာလျှင်လမ်းမှန်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည်ပင် ငါ့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည်လည်းကောင်း၊အသင်တို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည်လည်းကောင်း၊ ဖြစ်တော်မူ၏။ သို့ဖြစ်ပေရာ အသင်တို့သည် ထိုအရှင်မြတ်အားသာလျှင် ဆည်းကပ်ကိုးကွယ်ကြ လေကုန်။ဤသည် ဖြောင့်မတ်သော တရားလမ်းပင် ဖြစ်ချေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

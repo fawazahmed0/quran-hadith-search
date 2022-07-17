@@ -710,6 +710,12 @@ Ala ne! Knigata [za delata] na pravednitsite e v Illiĭun
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။ သို့သော် သူမွန်သူမြတ်တို့၏ စာရင်းသည် (အီလ္လီယင်)တွင် ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလျှင်းမဟုတ်၊ ဧကန်အမှန် သူတော်ကောင်းတို့၏မှတ်တမ်းမှာ "အစ်လ်လီယီန်" ၌ ရှိ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

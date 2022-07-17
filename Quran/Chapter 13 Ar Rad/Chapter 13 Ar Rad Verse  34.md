@@ -710,6 +710,12 @@ Za tyakh ima mŭchenie v zemniya zhivot, a mŭchenieto na otvŭdniya e oshte po-
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	ထိုသူတို့အတွက် ဤမျက်မှောက်ဘဝ၌ ညှင်းပန်းနှိပ်စက်မှုရှိ၏။ အမှန်ဆိုသော် နောင်တမလွန်ဘဝ၏ အပြစ်ဒဏ် တော်သည် သာလွန်နာကျင်ဖွယ်ကောင်း၏။ သူတို့ကို အလ္လာဟ်အရှင်မြတ်မှ ကာကွယ်မည့်သူမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့၌ ဤပစ္စက္ခမျက်မှောက် လောကီဘဝ၌လည်း ပြစ်ဒဏ်သည်ရှိပေသည်။ သို့ရာတွင် နောင်တမလွန်ဘဝ၏ပြစ်ဒဏ်မှာမူကား ပြင်းထန်လှပေသည်။ ထို့ပြင် ၎င်းတို့အား အလ္လာဟ်အရှင်မြတ်၏ ပြစ်ဒဏ်မှ ကယ်တင်မည့်သူဟူ၍လည်း တစ်ဦးတစ်ယောက်မျှပင် ရှိလိမ့်မည် မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

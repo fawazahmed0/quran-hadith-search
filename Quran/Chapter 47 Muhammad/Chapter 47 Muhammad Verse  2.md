@@ -710,6 +710,12 @@ A na onezi, koito vyarvat i vŭrshat pravedni dela, i vyarvat v nizposlanoto na 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	အကြင်သူတို့သည် ယုံကြည်ခြင်းတရားရှိ၏၊ သုစရိုက်ကောင်းမှုပွားများ၏၊ တမန်တော်မိုဟမ္မဒ်အား ချပေးသနား တော်မူသောကျမ်းတော်ကိုလည်း ယုံကြည်အ့ံ၊ (ထိုကျမ်းတော်သည် သူတို့၏အသက်သခင်ကျေးဇူးရှင်ကြီးထံမှ သစ္စာတရားကျမ်းတော်တည်း၊) အရှင်မြတ်သည် ထိုသူတို့၏ အကုသိုလ်အညစ်အကြေးများကို ဆေးကြောပစ် တော်မူပြီ၊ သူတို့၏ အခြေအနေကို တိုးပွားသာယာစေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကြင်သူတို့သည် သက်ဝင် ယုံကြည်ခဲ့ကြ၏။ ကောင်းမှုများကို ကျင့်မူဆောက်တည်ခဲ့ကြ၏။ (နဗီတမန်တော်)မုဟမ္မဒ်၏အပေါ်၌ ချပေးတော်မူခြင်း ခံခဲ့ရသည့်အရာကို စင်စစ် ထိုအရာသည် ၎င်းတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်မှ (ချပေးခြင်းခံရသော)အမှန်တရားပင်ဖြစ်သည်ဟု ယုံကြည်ခဲ့ကြ၏။ ထိုအရှင်မြတ်သည် ၎င်းတို့၏မကောင်းမှုများကို ၎င်းတို့မှ ပပျောက်စေတော်မူမည့်ပြင် ၎င်းတို့၏ အခြေအနေကိုလည်း ကောင်းအောင်ပြုပြင်ပေးတော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

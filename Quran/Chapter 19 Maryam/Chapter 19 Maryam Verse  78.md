@@ -710,6 +710,12 @@ Nima nadnikna toĭ v nevedomoto, ili vze obet ot Vsemilostiviya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၈။	ထိုသူသည် မမြင်စွမ်းနိုင်သောအရာကို ဖတ်ရှုမြင်ရပြီးပြီလော၊ သို့မဟုတ် သူသည် မဟာဂရုဏာတော်ရှင်နှင့် ပဋိညာဉ်စာချုပ်ချုပ်လုပ်ပြီးပြီလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသို့ပါနည်း ထိုသူတို့သည် အကွယ်၌ရှိသည်ကို သိရှိခဲ့လေသလော။ သို့တည်းမဟုတ် ထိုသူသည်ရဟ်မာန်အနန္တကရုဏာတော်ရှင်၏ အထံတော်၌ ပဋိညာဉ်တစ်ခုခုကိုဖွဲ့ခဲ့လေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

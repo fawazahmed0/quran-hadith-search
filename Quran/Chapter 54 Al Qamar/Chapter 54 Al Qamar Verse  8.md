@@ -710,6 +710,12 @@ zabŭrzani kŭm zovyashtiya. Shte kazhat nevernitsite: “Tova e tezhŭk Den.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	ယင်းသို့ထွက်လာပြီးနောက် ကြွေးကြော်ဆင့်ခေါ်သူရှိရာသို့ လျင်မြန်စွာပြေးလာပြီးလျှင် မိစ္ဆာဒိဋ္ဌိတို့က ဤနေ့ကား ကြမ်းကြုတ်ခက်ထန်လှပေတကားဟု ညည်းညူကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဆင့်ခေါ်သူ(ရှိရာ)သို့ ပြေးလျက်လာကြပေမည်။’ကာဖိရ်’ သွေဖည်ငြင်းပယ်သောသူတို့မှာ ‘ဤနေ့ကား လွန်စွာခက်ထန်သောနေ့ဖြစ်သည်’ ဟု ပြောဆိုလျက် ရှိကြကုန်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

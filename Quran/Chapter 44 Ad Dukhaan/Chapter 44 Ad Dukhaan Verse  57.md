@@ -710,6 +710,12 @@ blagodat ot tvoya Gospod. Tova e velikoto spasenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၇။	ယင်းကယ်နှုတ်ခြင်းသည် သင်၏အသက်သခင်ကျေးဇူးရှင်ကြီး၏ ကောင်းကြီးမင်္ဂလာတော်ဖြစ်၏၊ အထွဋ်မြတ်ဆုံး သောအောင်မြင်ခြင်းတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤသည်တို့ကား) အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ ကျေးဇူးတော်ကြောင့် ဖြစ်ပေမည်။ ဤသည်ပင်လျှင် ကြီးကျယ်လှစွာသော အောင်မြင်မှုပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

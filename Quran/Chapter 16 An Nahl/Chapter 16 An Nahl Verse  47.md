@@ -710,6 +710,12 @@ Ili che Toĭ ne shte gi sgrabchi v uplakh? Vashiyat Gospod e sŭstradatelen, mi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	သို့မဟုတ် အရှင်မြတ် သူတို့အား တဖြည်းဖြည်းပျက်စီးဆုံးရှုံးခြင်းဖြင့် ဖမ်းဆီးတော်မူခြင်းမှလည်း လုံခြံုကြ သလော၊ မှတ်သားလော့၊ သင်၏ ကျေးဇူးတော်သခင်သည် မုချဧကန်သနားကြင်နာတတ်ခြင်း၊ ကောင်းကြီး မင်္ဂလာပေးသနားတော်မူခြင်းဂုဏ်တော်များနှင့် ပြည့်စုံတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် ထိုအရှင်မြတ်သည် ၎င်းတို့အား တဖြည်းဖြည်း ဖမ်းဆီးကွပ်မျက်တော်မူမည်ကို (စိုးရိမ်ခြင်းကင်း၍နေကြသလော)။ သို့ရာတွင် ဧကန်မလွဲ အသင်တို့အားဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် အလွန်နူးညံ့သိမ်မွေ့တော်မူသောအရှင်၊ အလွန်သနား ညှာတာတော်မူသောအရှင်၊ ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

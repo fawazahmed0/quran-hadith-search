@@ -710,6 +710,12 @@ I angelite da im spusnekhme, i mŭrtvite da im progovorekha, i vsichko da im sŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၁။	အကယ်၍ ငါအသျှင်မြတ်သည် သူတို့ထံသို့ ကောင်းကင်တမန်တော်များကို စေလွှတ်တော်မူခြင်း၊ သေသူတို့သည် သူတို့အား စကားပြောခြင်း၊ အရာခပ်သိမ်းကုန်တို့ကို သူတို့အား ဆန့်ကျင်စေတော် မူခြင်းတို့ ဖြစ်ပေါ်လာသော်လည်း သူတို့သည် အသျှင်မြတ်အလိုတော်မရှိဘဲ ယုံကြည်ကြမည် မဟုတ်ပေ။ သို့သော် သူတို့အနက် များလှစွာသောသူတို့သည် အသိပညာကင်းမဲ့ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍ ငါအရှင်မြတ်သည်၊ ၎င်းတို့ထံ မလာအိကဟ် ကောင်းကင်တမန်များကို စေလွှတ်တော်မူခဲ့သည်ဖြစ်စေ၊ ထို့ပြင် သူသေများသည် ၎င်းတို့နှင့် စကားပြောဆိုခဲ့ကြသည်ဖြစ်စေ၊ ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ခပ်သိမ်းကုန်သော အရာများကို ၎င်းတို့၏ရှေ့မှောက်တွင် စုပေးတော်မူခဲ့သည်ဖြစ်စေ၊ ၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ် အလိုရှိတော်မမူဘဲ အီမာန် သက်ဝင်ယုံကြည်ကြမည် မဟုတ်ပေ။ သို့ရာတွင် ၎င်းတို့အနက် မြောက်များစွာသော သူတို့ကားအသိတရား ကင်းမဲ့ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

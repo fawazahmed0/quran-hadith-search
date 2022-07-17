@@ -710,6 +710,12 @@ Tova sa onezi, za koito Allakh znae kakvo imat v sŭrtsata. Bŭdi vŭzdŭrzhan s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၃။	အလ္လာဟ်အသျှင်မြတ်သည် သူတို့၏စိတ်နှလုံးများအတွင်းရှိ လျှို့ဝှက်သောအရာများကို သိမြင်တော် မူ၏။ ထို့ကြောင့် သူတို့ကို ခုခံလော့။ ဆုံးမသွန်သင်လော့။ သူတို့၏ စိတ်နှလုံးများအကြောင်းကို ဘွင်းဘွင်းကြီးဟောကြားလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသူတို့ကား၊ အကြင်သူများပင်တည်း။ အလ္လာဟ်အရှင်မြတ်သည် ထိုသူတို့၏စိတ်တွင်း၌ ရှိသမျှတို့ကို သိရှိတော်မူလေသည်။ သို့ဖြစ်ပေရာ အသင်သည် ထိုသူတို့ (၏အပြစ်များ) ကို လျစ်လျူရှု၍ နေပါလေ။ သို့ရာတွင် အသင်သည် ၎င်းတို့အား ဆုံးမပဲ့ပြင်၍ပေးပါလေ။ ထိုမှတစ်ပါး အသင်သည် ၎င်းတို့အား ၎င်းတို့နှင့်ပတ်သက်၍ ထိရောက်စွဲမြဲသော (တရား) စကားကိုလည်း ပြောကြားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

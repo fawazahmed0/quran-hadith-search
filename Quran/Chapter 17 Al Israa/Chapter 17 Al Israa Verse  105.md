@@ -710,6 +710,12 @@ S istinata go nizposlakhme [Korana], s istinata be nizposlan. I te izpratikhme N
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၅။	အမှန်ပင် ငါသည် ကုရ်အာန်ကျမ်းတော်မြတ်ကို ထုတ်ပြန်ပေးသနားတော်မူ၏။ အမှန်ပင်ကျမ်းတော်မြတ်သည် မြေပေါ်သို့ ကျရောက်လာ၏။ သင်သည် သတင်းကောင်းကို ယူဆောင်လာသူနှင့် သတိပေးသူအဖြစ်နှင့်မှတပါး အခြားအဖြစ်တစုံတရာနှင့်မျှ ငါသည် သင့်အား စေလွှတ်တော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ငါအရှင်မြတ်သည် ယင်းကုရ်အာန်ကျမ်းတော်မြတ်ကို မှန်ကန်မှုနှင့်တကွ ချပေးတော်မူခဲ့ရာ၊ ယင်းကုရ်အာန်ကျမ်းတော်မြတ်သည် မှန်ကန်မှုနှင့်တကွပင် ကျရောက်လာခဲ့၏။ ၎င်းပြင် ငါအရှင်မြတ်သည် အသင်အား သတင်းကောင်းပြောကြားသူအဖြစ်သာ လည်းကောင်း၊ သတိပေးနှိုးဆော်သူအဖြစ်သာ လည်းကောင်း၊ စေလွှတ်တော်မူခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

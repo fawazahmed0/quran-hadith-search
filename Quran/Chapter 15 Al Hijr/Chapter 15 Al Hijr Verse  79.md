@@ -710,6 +710,12 @@ Zatova im otmŭstikhme. I dvete sa na vidim pŭt
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၉။	ထို့ကြောင့် ငါအရှင်မြတ်သည် သူတို့ကို လက်စားချေတော်မူ၏။ ထိုသူတို့နေထိုင်သောမြို့နှစ်မြို့စလုံးပင် ခရီးလမ်းမတော်၌ ရှိကြ၏။ လူမြင်ကွင်းတွင် ထင်ရှားစွာတည်ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ငါအရှင်မြတ်သည် ၎င်းတို့အားလက်စားချေတော်မူခဲ့၏။ ၎င်းပြင် ဧကန်စင်စစ် ထို မြို့ရွာနှစ်ခုစလုံးသည် ထင်ရှားသောလမ်းပေါ်၌ အမှန်ပင် ရှိနေကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

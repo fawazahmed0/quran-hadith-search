@@ -710,6 +710,12 @@ I kogato chukhme Napŭt·stvieto, povyarvakhme v nego. A koĭto vyarva v svoya 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။ ငါတို့သည် လမ်းပြကျမ်းတော်ကို ကြားရသောအခါ တရားတော်ကို ယုံကြည်ကြ၏၊ အကြင်သူသည် မိမိအရှင် သခင်ကို ယုံကြည်အံ့၊ ထိုသူသည် ဆုံးရှုံးမှုကိုသော်လည်းကောင်း၊ ညှင်းပန်းနှိပ်စက်ခြင်းကိုသော်လည်းကောင်း၊ မကြောက်ရွံ့ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ဧကန်ဆတ်ဆတ် ကျွန်ုပ်တို့သည် တရားလမ်းညွှန်(တည်းဟူသော ကုရ်အာန်ကျမ်းတော်မြတ်)ကို ကြားနာကြရသောအခါ ကျွန်ုပ်တို့သည် ယင်းတရားလမ်းညွှန်(တည်းဟူသော ကုရ်အာန်ကျမ်းတော်မြတ်)ကို သက်ဝင်ယုံ ကြည်လာခဲ့ကြသည်။ စင်စစ်သော်ကား မည်သူမဆို မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အား သက်ဝင်ယုံကြည်ပါလျှင် ထိုသူသည် မည်သည့် လျော့နည်းစေမှုကိုမျှလည်း စိုးရိမ်ရမည် မဟုတ်ပေ။ မည်သည့် အဓမ္မမှုကိုမျှလည်း စိုးရိမ်ရမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

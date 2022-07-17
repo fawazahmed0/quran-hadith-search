@@ -710,6 +710,12 @@ Spomenavaĭ svoya Gospod v dushata si sŭs smirenie i strakh, bez grŭmki slova
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ၅။	အို-မိုဟမ္မဒ် သင်သည် မိမိ၏ကျေးဇူးတော်သခင်ကို နံနက်အချိန်၊ ညနေအချိန်တို့တွင် ကြောက်ရွံ့ ရိုကျိုးစွာ မိမိစိတ်အတွင်း၌ တိုးတိုးအောက်မေ့တသချီးကျူးလော့။ သင်သည် အသျှင်မြတ်၏ အမှုတော်ကို လစ်ဟင်းပေါ့လျှော့သူတို့ဘောင်တွင် မပါဝင်လင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး (အို-နဗီတမန်တော်) အသင်သည်နံနက်မိုးသောက်ယံ၌လည်းကောင်း၊ ညနေချမ်း၌ လည်းကောင်း၊ မိမိကို ဖန်ဆင်း မွေးမြူတော်မူသော အရှင်မြတ်အားမိမိစိတ်နှလုံးတွင်းဝယ် နိဝါတတရားထားရှိ၍ ကြောက်ရွံ့ရိုသေလျက် ကျယ်လောင် စွာမဟုတ်သည့်အသံဖြင့် အောက်မေ့တသသတိရပါလေ။ ထို့ပြင် အသင်သည် အလေးမမူဂရုမပြု ပမာမထားသောသူတို့တွင် အပါအဝင် မဖြစ်ပါလင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

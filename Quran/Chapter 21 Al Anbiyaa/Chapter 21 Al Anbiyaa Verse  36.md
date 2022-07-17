@@ -710,6 +710,12 @@ I vidyat li te nevernitsite, podigravat ti se: “Tozi li prikazva za vashite bo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	မယုံကြည်သူမိစ္ဆာမိုက်တို့သည် သင်တမန်တော်ကို တွေ့မြင်သောအခါ သင့်ကို ပြောင်လှောင်စရာမှတ်၍ ဤသို့ပြောဆိုကြ၏၊ အဆွေတို့ သင်တို့၏ ဘုရားများအကြောင်းကို ပြောဟောသူသည် ဤသူမဟုတ်ချေလော၊ ထို့အပြင်သူတို့သည် မဟာဂရုဏာတော်အရှင်အကြောင်းကို ဟောပြောခွင့်လုံးဝမပြုချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၄င်းပြင် ကာဖိရ် သွေဖည်ငြင်းပယ်သူတို့သည် အသင့်အား မြင်ကြသောအခါ ပြက်ရယ် ပြောင်လှောင်သမှုပြုကြ၏။ အသင်တို့၏ကိုးကွယ်ရာဘုရားများကို(ကဲ့ရဲ့) ပြောဆိုသူသည် ဤသူပင်လော။ စင်စစ်သော်ကား ၄င်းတို့သည် "ရဟ်မာန်" အနန္တကရုဏာတော်ရှင်နှင့် ပတ်သက်၍ ပြောဆိုခြင်းကိုပင် ငြင်းပယ်သူများ ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

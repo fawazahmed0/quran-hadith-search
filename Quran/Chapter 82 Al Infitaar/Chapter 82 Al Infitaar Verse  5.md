@@ -710,6 +710,12 @@ shte uznae vsyaka dusha kakvo e napravila predi i kakvo e ostavila
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။ ထိုအခါ၌ ဝိညာဉ်သည် မိမိရှေ့သို့ တင်ကြိုပို့ထားနှင့်သောအရာများနှင့် မိမိနောက်တွင် ကျန်ရစ်ခဲ့သောအမှု အခင်းများကို ထင်ရှားစွာသိရလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဇီဝိန် အသီးသီးတို့သည် မိမိတို့ ကြိုတင်ပို့နှင့်ခဲ့ကြသည် များကိုလည်းကောင်း၊ မိမိတို့သည် နောက်တွင် ချန်ခဲ့ကြသည်များကိုလည်းကောင်း၊ သိသွားခဲ့ ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A onezi, koito sa se preselili v imeto na Allakh, posle sa bili ubiti ili umreli
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈။	အကြင်သူတို့သည် အလ္လာဟ်အရှင်မြတ်၏ သာသနာတော်အတွက် မိမိတို့မြို့ရွာနေရပ်မှ ထွက်ပြေးပြီးနောက် အသတ်ခံရကြအ့ံ၊ သို့မဟုတ် အလိုအလျောက်ကွယ်လွန်သေဆုံးကြအ့ံ၊ ထိုသူတို့အား အလ္လာဟ်အရှင်မြတ်သည် ကောင်းမြတ်သောစည်းစိမ်ရိက္ခာကို အမှန်အကန်ပေးသနားတော်မူလိမ့်မည်၊ မှတ်သားကြလော့၊ အလ္လာဟ်အရှင် မြတ်သည် စည်းစိမ်ရိက္ခာပေးသနားသောသူတို့တွင် အထွဋ်အခေါင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အကြင်သူတို့သည် အလ္လာဟ်အရှင်မြတ်၏ သာသနာ့လမ်းစဉ်၌(မိမိတို့အိုးအိမ်စည်းစိမ် ခပ်သိမ်းတို့ ကိုစွန့်၍) ရွှေ့ပြောင်းခဲ့ကြရ၏။ ထို့နောက် ထိုသူတို့သည် သတ်ဖြတ်ခြင်းကို ခံခဲ့ကြရသည်ဖြစ်စေ၊ သေဆုံးခဲ့ကြသည်ဖြစ်စေ၊ ဧကန်အမှန် အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့အား အလွန်ကောင်းမြတ်သော စားနပ်ရိက္ခာမျိုးကို ချီးမြှင့်ပေးသနားတော်မူပေမည်။စင်စစ်ဧကန် အလ္လာဟ်အရှင်မြတ်သည်ပင်လျှင် အကောင်းဆုံး(အပေါများဆုံး)စားနပ်ရိက္ခာ ချီးမြှင့်ပေးသနားတော်မူသောအရှင် ဖြစ်တော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

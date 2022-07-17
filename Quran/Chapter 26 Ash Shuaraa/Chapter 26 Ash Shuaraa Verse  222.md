@@ -710,6 +710,12 @@ Slizat pri vseki klevetnik, greshnik
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂၂။	သူတို့သည် အပြစ်ကျူးလွန်သောမုသားကောင်တိုင်းအပေါ်သို့ ကျရောက်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို ရှိုင်တွာန်မိစ္ဆာကောင်များမှာ ဒုစရိုက်ကျူးလွန်သောမုသာဝါဒီတိုင်း၏ အပေါ်၌ ဆင်းသက်၍လာကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

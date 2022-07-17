@@ -710,6 +710,12 @@ Izvesti litsemerite, che za tyakh ima bolezneno mŭchenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၈။	ယုံကြည်သူ၊ ဟန်ဆောင်သူတို့အား သူတို့အတွက် အလွန်နာကျင်ဘွယသော အပြစ်ဒဏ်ရှိကြောင်း သတင်းဆိုးကို ဟောကြားလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို- နဗီတမန်တော်) အသင်သည် ‘မုနာဖစ်က်’အယောင်ဆောင်မွတ်စ်လင်မ်တို့အား ၎င်းတို့အဖို့ ပြင်းပြနာကျင်ဖွယ်ရာအပြစ်ဒဏ်သည် (အဆင့်သင့်) ရှိသည်ဟု သတင်းကောင်းပြောကြားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

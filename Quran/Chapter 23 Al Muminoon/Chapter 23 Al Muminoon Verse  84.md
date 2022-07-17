@@ -710,6 +710,12 @@ Kazhi: “Chiya e zemyata i tezi po neya, ako znaete?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၄။	သင်ဟောကြားလော့၊ သင်တို့သိလျှင် မဟာပထဝီမြေနှင့်တကွ မြေပေါ်ရှိသတ္တဝါအပေါင်းတို့ကို အဘယ်သူ စိုးပိုင်သနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်)အသင်သည်(ယင်းမက္ကာမြို့သား မုရှ်ရစ်က်တို့အား ဤသို့)ပြောဆို မေးမြန်းပါလေ။ (အချင်းတို့၊) အကယ်၍ အသင်တို့ သိရှိကြလျှင်(ငါ့အား ပြောပြကြလေကုန်၊) ပထဝီမြေကိုလည်းကောင်း၊ ထိုပထဝီမြေ၌ ရှိသူတို့ကိုလည်းကောင်း၊ မည်သူစိုးပိုင်သနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

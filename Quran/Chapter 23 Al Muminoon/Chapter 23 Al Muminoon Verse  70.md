@@ -710,6 +710,12 @@ Ili kazvat: “Lud e.” Ala ne, toĭ im donese istinata, no povecheto ot tyakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇ဝ။	သို့မဟုတ်သူတို့က သူသည် ရူးသွပ်သည်ဟု ဆိုကြသလော၊ တမန်တော်သည် မရူးချေ၊ သို့သော်သူသည် သူတို့ထံသို့ သစ္စာတရားတော်ကို ယူဆောင်လာ၏၊ များပြားသောသူတို့သည် တရားမှန်ကို မုန်းတီးသူများ ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် ၎င်းတို့သည် ထိုရစူလ်တမန်တော် ၌ ရူးသွပ်ခြင်းဝေဒနာရှိသည်ဟု ပြောဆိုကြလေသလော။ ထိုသို့ အလျှင်းမဟုတ်၊ စင်စစ်မှာကား ရစူလ်တမန်တော်သည် ၎င်းတို့ထံ အမှန်တရားကို ဆောင်ယူခဲ့လေသည်။ သို့ရာတွင် ၎င်းတို့အနက် အများစုမှာမူကား အမှန်တရားကို စက်ဆုပ်သူများပင် ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

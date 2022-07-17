@@ -710,6 +710,12 @@ I ako pozhelaekhme, shtyakhme da gi oslepim i shtyakha da se blŭskat po pŭtya.
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၆။	ငါသည် အလိုတော်ရှိလျှင် လူသားတို့၏ မျက်စိများကို ဧကန်အမှန်ထုတ်ယူပစ်ခဲ့လတ့ံ၊ ထိုအခါသူတို့သည် လမ်းူကို မမြင်၊ စမ်းတဝါးဝါးရှာလျက် ပြေးကြရလတ့ံ၊ သို့သော်သူတို့သည် အဘယ်နည်းအားဖြင့်မြင်နိုင်အ့ံနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အကယ်၍သာ ငါအရှင်မြတ်သည် အလိုရှိတော်မူပါလျှင် (လူ့လောက၌ပင်) ၎င်းတို့၏မျက်စိများကို ကွယ်ပျောက်စေတော်မူခဲ့ပေမည်။ ထိုအခါ ၎င်းတို့သည် လမ်းသို့ ပြေးကြပေမည်။ သို့ရာတွင် ၎င်းတို့သည် အဘယ်မှာလျှင် မြင်ကြပေမည်နည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

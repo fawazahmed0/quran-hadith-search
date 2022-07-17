@@ -710,6 +710,12 @@ Ne vizhdat li, che gi podlagat na izpitanie vsyaka godina edin ili dva pŭti? Po
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၆။	နှစ်တိုင်းပင် သူတို့ကို တစ်ကြိမ်၊ နှစ်ကြိမ်စမ်းသပ်တော်မူသည်ကို သူတို့မမြင်ကြသလော၊ သို့သော်လည်းသူတို့ သည် တရားသံဝေဂမရကြပေ။တရားတော်ကို အရေးမစိုက်ကြပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် မိမိတို့မှာ တနှစ်လျှင်တစ်ကြိမ် သို့မဟုတ်နှစ်ကြိမ် စမ်းသပ်ခြင်းခံကြရသည်ကို မမြင်ကြလေသလော၊ သို့ပါလျက် ၎င်းတို့သည် ဝန်ချ တောင်းပန်ကြသည်လည်းမဟုတ်ပေ၊ သတိတရား ရရှိကြသည်လည်း မဟုတ်ချေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

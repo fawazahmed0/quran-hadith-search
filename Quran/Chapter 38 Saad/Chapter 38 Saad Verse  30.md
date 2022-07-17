@@ -710,6 +710,12 @@ I na Daud darikhme Sulaĭman. Prekrasen rab! Toĭ vinagi se obrŭshtashe kŭm 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၀။	ငါသည် တမန်တော်ဒါဝတ်(ဒ်)အား စိုလိုင်မံခေါ် သားကောင်းရတနာကို ပေးသနားတော်မူ၏၊ မှတ်သားကြလော့၊ သူသည် အလ္လာဟ်အရှင်မြတ်ကို အမြဲဝတ်ပြု၍ မိမိအပြစ်များကို ဝန်ချတောင်းပန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါအရှင်မြတ်သည်(နဗီတမန်တော်)"ဒါဝူဒ်"အား(နဗီတမန်တော်)"စုလိုင်မာန်"ကို ချီးမြှင့်ပေးသနားတော်မူခဲ့၏။ ဧကန်မလွဲ ထို "စုလိုင်မာန်" သည် (ငါအရှင်မြတ်အထံတော်သို့) လွန်စွာ ပြန်လှည့်သူပင် ဖြစ်ခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

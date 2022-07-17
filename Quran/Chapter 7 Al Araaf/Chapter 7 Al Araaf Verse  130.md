@@ -710,6 +710,12 @@ I nakazakhme khorata na Faraona s godini [na susha] i s nedoimŭk ot plodove, za
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃ဝ။	ငါအသျှင်မြတ်သည် ဖာရောမင်း၏ အမျိုးသားတို့ တရားရကောင်းရစေစိမ့်ခြင်းငှား သူတို့အပေါ် ဒုမ္ဘိက္ခန္တရကပ်နှင့် အသီးအနှံ ခေါင်းပါးပျက်စီးခြင်းဘေး ဆိုက်ရောက်စေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ငါအရှင်မြတ်သည် ဧကန်စင်စစ် ဖစ်ရ်အောင်န်၏ အမျိုးသားတို့အား နောင်တတရား ရစိမ့်သောငှာမိုးခေါင်ရေရှားစေခြင်းဖြင့်လည်းကောင်း၊ သစ်သီးဝလံ ရှားပါးစေခြင်းဖြင့်လည်းကောင်း၊ ဖမ်းဆီးကွပ်နှိပ် အပြစ်ပေးတော်မူခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

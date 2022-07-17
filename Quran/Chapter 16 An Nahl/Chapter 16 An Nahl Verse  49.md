@@ -710,6 +710,12 @@ Na Allakh se poklanya v sudzhud vsichko na nebesata i vsyaka tvar po zemyata, i 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	သက်ရှိတို့မှ မိုးကောင်းကင်တွင် ရှိရှိသမျှတို့သည်လည်းကောင်း၊ မြေပေါ်ဝယ်ရှိသမျှသက်ရှိတို့သည်လည်းကောင်း၊ ကောင်းကင်တမန်တော်တို့သည်လည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ်ကို ပျပ်ဝပ်ဦးချကြ၏။ သူတို့အပေါင်းသည် ဘဝင်မမြင့်ကြပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ မိုးကောင်းကင်များ၌ လည်းကောင်းပထဝီမြေ၌လည်းကောင်း၊ ရှိသမျှသောသွားလာလှုပ်ရှားသည့် သက်ရှိသတ္တဝါများနှင့် မလာအိကဟ်ကောင်းကင်တမန် အပေါင်းတို့သည်လည်း အလ္လာဟ်အရှင်မြတ်၏ အမိန့်တော်ကိုပင် လိုက်နာကြကုန်၏။ စင်စစ်သော်ကား ထိုကောင်းကင်တမန်တို့သည် မာနထောင်လွှားကြသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

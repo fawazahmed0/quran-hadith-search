@@ -710,6 +710,12 @@ Predpolagakh, che shte polucha svoyata ravnosmetka.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၀။ အကျွနု်ပ်သည် စစ်ကြောခြင်းခံရမည်ကို အမှန်ပင်သိနားလည်ခဲ့ပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ကျွန်ုပ်သည် (လူ့လောက၌ ရှိစဉ်ကပင်) ဧကန်မလွဲ ကျွန်ုပ်သည် မိမိအား စစ်ဆေးမေးမြန်းခြင်းနှင့် တွေ့ဆုံရမည်ကို ယုံကြည်လျက်ရှိခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Togava [Allakh posredstvom Dzhibril] razkri na Svoya rab [Mukhammad], kakvoto ra
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	ထို့အပြင် အရှင်မြတ်သည် မိမိ၏ကျေးကျွန်တော်အား မိမိထုတ်ပြန်တော်မူသောဗျာဒိတ်တော်များကို ချပေးတော် မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ထိုအရှင်မြတ်သည် မိမိ၏ကျွန်(မုဟမ္မဒ်)ထံသို့ မိမိထုတ်ပြန်(လိုသော)ထုတ်ပြန်ချက်များကို ထုတ်ပြန်တော်မူခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

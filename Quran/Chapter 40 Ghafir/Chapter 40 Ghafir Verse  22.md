@@ -710,6 +710,12 @@ Tova e, zashtoto tekhnite pratenitsi im donasyakha yasnite znatsi, a te ne povya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	ယင်းသို့မရှုမလှခံစားရခြင်းကား ထိုသူတို့ထံ သူတို့၏ အမျိုးသားချင်းတမန်တော်များသည် ရှင်းလင်းထင်ရှားသော သက်သေခံချက်များကို ယူဆောင်လာကြ၏၊ သူတို့သည် မယုံကြည်ကြချေ၊ ထိုသူမိုက်တို့ကို အလ္လာဟ်အရှင် မြတ်သည် အနန္တတန်ခိုးတော်နှင့် ပြည့်စုံတော်မူသော၊ ပြင်းပြစွာဒဏ်ခတ်တော်မူသောအရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသို့ (ဖမ်းဆီး ကွပ်မျက်ခြင်းခံခဲ့ကြရသည်မှာ)၎င်းတို့၏ရစူလ်တမန်တော်များသည် ၎င်းတို့ထံ ထင်ရှားစွာသော သက်သေသာဓက အထောက်အထားများ ဆောင်ယူခဲ့လေ့ရှိကြသော်လည်း ၎င်းတို့မှာမူကား ငြင်းပယ်လျက်ပင် ရှိခဲ့ကြသောကြောင့် အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့အား ဖမ်းဆီးကွပ်မျက်တော်မူခဲ့၏။ ဧကန်မလွဲ ထိုအရှင်မြတ်သည် အလွန်တရာ ခွန်အားဗလနှင့်ပြည့်စုံတော်မူသော ပြင်းထန်စွာ ပြစ်ဒဏ်စီရင်တော်မူသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

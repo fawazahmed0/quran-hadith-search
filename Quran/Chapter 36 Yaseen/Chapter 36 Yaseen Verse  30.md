@@ -710,6 +710,12 @@ O, gorko na rabite! Ne idva pri tyakh pratenik, bez da se podigrayat s nego
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	အို-တမန်တော်၊ အယူမှားသူတို့အတွက် ဝမ်းနည်းဖွယ်ကောင်းပေစွ၊ အကြောင်းမူကား ထိုသူမိုက်တို့ထံ တမန်တော်ရောက်မလာလေမှ၊ ရောက်လာလျှင် သူတို့သည် တမန်တော်ကို မကြည်ညိုမရိုသေမယုံကြည်ပဲ ပျက်ရယ်ပြုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဪ-အကြင်ကျွန်များ(၏အခြေအနေမှာ) ဝမ်းနည်းကြေကွဲဖွယ်ရာ ကောင်းလှဘိ၏တကား။ ၎င်းတို့ထံ မည်သည့် "ရစူလ်" တမန်တော်တစ်ပါးမဆို ရောက်ရှိ၍လာသည်ရှိသော် ၎င်းတို့သည် ထို"ရစူလ်" တမန်တော်အား ပြက်ရယ်ပြောင်လှောင်ခဲ့ကြသည် ချည်းသာဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

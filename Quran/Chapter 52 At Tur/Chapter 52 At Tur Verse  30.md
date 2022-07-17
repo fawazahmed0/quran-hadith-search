@@ -710,6 +710,12 @@ Ili kazvat: “Ti si poet! Izchakvame prevratnostite na sŭdbata.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	သို့မဟုတ် သူတို့က သူသည် လင်္ကာဆရာဖြစ်၏၊ သူ့ကို အချိန်ကာလက ဆုံးမမည်ဟု အကျွနု်ပ်တို့မျှော်လင့် ၏ဟု ပြောဆိုကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် ၎င်းတို့က (ဤမုဟမ္မဒ်) (ဆွလ္လလာဟု အလိုင်ဟိဝစလာမ်)သည် ကဗျာဆရာဖြစ်သည်။ ကျွန်ုပ်တို့သည် ၎င်းနှင့်ပတ်သက်၍ ကံအားလျော်စွာ ဆိုက်ရောက်လာအံ့သော ခေတ်ကာလ၏ဘေးအန္တရာယ်ကို ဆိုက်ရောက်လာအံ့သော သေဘေးကို စောင့်ဆိုင်း၍ နေကြသည်ဟု ပြောဆိုကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

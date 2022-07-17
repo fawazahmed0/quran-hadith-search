@@ -710,6 +710,12 @@ Gospodi, spasi men i moeto semeĭstvo ot tova, koeto vŭrshat!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၉။	အို--အကျွန်ုပ်၏အရှင်သခင်၊ အကျွနု်ပ်နှင့် အကျွနု်ပ်၏ အိမ်သူအိမ်သားတို့အား သူတို့၏အကြံများမှ ကယ်နှုတ် တော်မူပါဟု အလ္လာဟ်အရှင်မြတ်အထံတော်၌ သူဆုပန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် လူ(တ်)က] အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်၊ အရှင်မြတ်သည် ကျွန်တော်မျိုးအားလည်းကောင်း၊ ကျွန်တော်မျိုး၏ အိမ်သူအိမ်သားတို့အားလည်းကောင်း၊ (နောက်လိုက်ငယ်သားတို့အားလည်းကောင်း၊) ထိုအမျိုးသားတို့ ကျင့်မူလျက်ရှိကြကုန်သော (ပြစ်မှုဒုစရိုက်၏ပြစ်ဒဏ်မှ) ကင်းလွတ်စေတော်မူပါ (ဟုလျှောက်ထားခဲ့၏)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

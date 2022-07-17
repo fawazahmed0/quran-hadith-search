@@ -710,6 +710,12 @@ Kazvakha: “Nyama drug osven zemniya ni zhivot i ne shte bŭdem vŭzkreseni.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	တစ်ဖန် သူတို့က ဤလောကမျက်မှောက်ဘဝမှတစ်ပါး အခြားဘဝမရှိပေ။ အကျွနု်ပ်တို့သည် ရှင်ပြန် ထမြောက်ရကြမည်မဟုတ်ပေဟု ပြောကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုသူတို့က အသက်ရှင်ခြင်းကားပစ္စက္ခမျက်မှောက်လောကီဘဝ၌ ငါတို့၏ရှင်ခြင်းသာ ဖြစ်သည်။ အမှန်သော်ကား ငါတို့သည် ရှင်ပြန်ထစေခြင်း ခံကြရမည်မဟုတ်ချေ ဟုပြောဆိုကြသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

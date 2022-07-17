@@ -710,6 +710,12 @@ I pri madĭanitite - brat im Shuaĭb... I kaza: “O, narode moĭ, sluzhete n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	ထို့အပြင်မဒယန်မြို့သူမြို့သားတို့ထံ သူတို့၏သားချင်းတမန်တော်ရှုအိုက်ဗ်ကို ငါစေလွှတ်တော်မူ၏၊ သူဟောကြား သည်မှာ ဟယ်-အချင်းတို့၊ အလ္လာဟ်အရှင်မြတ်အား ကိုးကွယ်ကြလော့၊ နောက်ဆုံးနေ့တော်ကြီးကို မျှော်လင့် ကြလော့၊ မြေပေါ်၌ ပျက်စီးမှုများပြားသောအကုသိုလ်မကောင်းမှုကို မပြုကြလင့်ဟု ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ (ငါအရှင်မြတ်သည်) မဒ်ယန်မြို့(သားတို့)ထံသို့ ၎င်းတို့၏နောင်တော် ရှုအိုက်ဗ် အား(နဗီတမန်တော်အဖြစ် စေလွှတ်တော်မူခဲ့၏။) သို့ဖြစ်ပေရာ ထို’ရှုအိုက်ဗ်’ က ‘အို-ငါ၏အမျိုးသားတို့။ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား ဆည်းကပ်ကိုးကွယ်ကြလေကုန်။၎င်းပြင် အသင်တို့ သည် နောက်ဆုံးနေ့ကို စိုးရိမ်ကြလေကုန်။ထိုမှတပါး အသင်တို့သည် ဖျက်ဆီးသူများအဖြစ် တိုင်းပြည်တွင်သောင်းကျန်းမှု မပြုလုပ်ကြကုန်လင့်’ဟု ပြောကြားခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

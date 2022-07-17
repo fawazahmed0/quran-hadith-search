@@ -710,6 +710,12 @@ Nima e stranno za khorata, che na mŭzh izmezhdu tyakh dadokhme otkrovenie: “U
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	ငါအရှင်မြတ်သည် လူသားတို့အနက် တစ်ဦးတစ်ယောက်ကို ရွေးကောက်တော်မူ၏။ ထိုသူအား အို-တမန်တော်၊ သင်သည် လူသားအပေါင်းတို့ကို သတိပေးဆုံးမလော့။ ယုံကြည်သူတို့အား ၎င်းတို့အတွက် ၎င်းတို့၏ အရှင်သခင် အထံတော်၌ ဂုဏ်ရှိသောအဆင့်အတန်းရှိကြောင်းသတင်းကောင်းကို ပေးလော့ဟု ဗျာဒိတ်ပေးတော်မူသည်ကို လူသားအပေါင်းတို့အ့ံသြကြသလော။ မိစ္ဆာဒိဋ္ဌိတို့က မှတ်သားကြလော့။ ဤသူသည် စုံးဆရာဖြစ်သည်ဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် ၎င်း တို့အနက်မှပင် လူတစ်ဦး၏ထံသို့ အသင်သည် လူခပ်သိမ်းတို့အား သတိ ပေးနှိုးဆော်ပါလေ ဟူ၍လည်းကောင်း၊ မုအ်မင်န် သက်ဝင်ယုံကြည်သူတို့အား ထိုသူတို့၏အရှင်မြတ် အထံတော်၌ ထိုသူတို့အဖို့ မြင့်မြတ်သော အဆင့်အတန်းရှိသည်ဟု သတင်းကောင်းပြောကြားပါလေ ဟူ၍လည်းကောင်း၊ ဝဟီ အမိန့်ဗျာဒိတ်တော် ချပေးတော်မူခြင်းသည် လူတို့၌အံ့ဩဖွယ်ဖြစ်နေပါသလော၊ ကာဖိရ်သွေဖည်ငြင်းပယ်သောသူတို့ကမူ (ထိုသူနှင့်ပတ်သက်၍)ဤသူကား ထင်ရှားသော စုန်းကဝေ အမှန်ပင်ဖြစ်သည် ဟုပြောဆိုကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

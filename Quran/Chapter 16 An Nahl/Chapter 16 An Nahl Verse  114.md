@@ -710,6 +710,12 @@ Yazhte ot onova, koeto Allakh vi dade za prepitanie - razresheno, priyatno - i b
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၄။	ထို့ကြောင့်သင်တို့သည် အလ္လာဟ်အရှင်မြတ်ပေးသနားတော်မူသောတရားသော၊ သန့်ရှင်းသောအစာအာဟာရကို မှီဝဲစားသောက်ကြလော့။ သင်တို့သည် အရှင်မြတ်ကို ကိုးကွယ်ကြလျှင် အရှင်မြတ်၏ ဂုဏ်ကျေးဇူးတော်အနန္တ ကို ချီးကျူးကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်တို့သည် မိမိတို့အားအလ္လာဟ်အရှင်မြတ်က ချီးမြှင့်ပေးသနားတော်မူသော အရာများအနက် သန့်ရှင်းစင်ကြယ်သော၊ စားသုံးခွင့် ပြုတော်မူသော၊အရာများကို စားသုံးကြလေကုန်။ ထိုမှတစ်ပါး အသင်တို့သည်အလ္လာဟ်အရှင်မြတ်ကိုသာ ခဝပ်ကိုးကွယ်ကြပါလျှင် ထိုအရှင်မြတ်၏ကျေးဇူး တော်များနှင့်စပ်လျဉ်း၍ ကျေးဇူးတင်ရှိကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

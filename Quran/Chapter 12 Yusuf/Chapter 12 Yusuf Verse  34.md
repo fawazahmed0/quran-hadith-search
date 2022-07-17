@@ -710,6 +710,12 @@ I mu se otzova negoviyat Gospod, i otkloni ot nego kovarstvoto im. Toĭ e Vsech
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	ထို့ကြောင့်သူ၏ အရှင်သခင်သည် သူ၏ ဆုတောင်းချက်ကို ကြားတော်မူပြီးလျှင် ထိုမိန်းမများ၏ ဖျားယောင်း သွေးဆောင်မှုကို သူ့ထံမှ တွန်းလှန်ပစ်တော်မူ၏။ မှတ်သားကြလော့။ အလ္လာဟ်အရှင်မြတ်သည် ကြားတော်မူ သောအရှင်၊ သိတော်မူသောအရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ယင်းယူဆွဖ်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် ၎င်း၏လျှောက်ထား ပန်ကြားချက်ကို သဘောတူလက်ခံတော်မူခဲ့လေသည်။ သို့ဖြစ်ပေရာထိုအရှင်မြတ်သည် ယင်းမိန်းမတို့၏ ပရိယာယ်မာယာကို ထိုယူဆွဖ်ထံမှ ကွေကွင်းစေတော်မူခဲ့လေသည်။ ဧကန်မလွဲ ထိုအရှင်မြတ်သည် အကြွင်းမဲ့ကြားတော်မူသောအရှင်၊အကြွင်းမဲ့သိတော် မူသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

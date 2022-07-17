@@ -710,6 +710,12 @@ Reche: “Gospodi moĭ, kak shte imam momche, kogato zhena mi e bezdetna, pŭk 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	ထိုအခါတမန်တော်ဇကရိယာက အို-ကျေးဇူးတော်သခင်၊ အကျွနု်ပ်၏ ခင်ပွန်းသည် အမြံုဖြစ်ပါ၏။ အကျွနု်ပ် လည်း နာကျင်မကင်းအင်အားပျော့သောအရွယ်ဆုံးသို့ ရောက်ရှိပါပြီ၊ ထို့ကြောင့်အကျွနု်ပ်သည် အဘယ်သို့ သားရတနာရနိုင်ပါအ့ံနည်းဟု လျှောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ယင်းဇကရီယာက (ဤသို့)လျှောက်ထားပန်ကြားခဲ့လေသည်။ အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ ကျွန်တော်မျိုး၌ သားရတနာသည်အသို့လျှင် ရှိနိုင်ပါအံ့နည်း။ အကြောင်းသော်ကား ကျွန်တော်မျိုး၏ဇနီးမှာလည်း သားသမီးမမွေးသောအမြုံဖြစ်နေပါသည်။ကျွန်တော်မျိုးမှာလည်း သက်ရွယ်ကြီးရင့် အိုမင်းခြင်း၏အထွတ်အထိပ်သို့ ရောက်ရှိနေပါပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

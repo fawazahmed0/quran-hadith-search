@@ -710,6 +710,12 @@ Negovi sa vsichki na nebesata i na zemyata. Vsichki na Nego se podchinyavat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	မြေနှင့်ဘင်္ဂတွင် ရှိသမျှအပေါင်းတို့ကို အလ္လာဟ်အရှင်မြတ်သည် စိုးပိုင်တော်မူ၏၊ အနန္တစကြဝဠာတို့သည် အရှင်မြတ်အား ကျိုးနွံနာခံကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး မိုးကောင်းကင်များ၌ ရှိကြသူတို့သည်လည်းကောင်း၊ ပထဝီမြေ၌ ရှိကြသူတို့သည် လည်းကောင်း၊ ထိုအရှင်မြတ် ပိုင်ဆိုင်တော်မူသော သူများချည်းသာ ဖြစ်ကြကုန်၏။ (၎င်းတို့)အသီးသီးတို့မှာ ထိုအရှင်မြတ်၏ အမိန့်တော်များကို လိုက်နာကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

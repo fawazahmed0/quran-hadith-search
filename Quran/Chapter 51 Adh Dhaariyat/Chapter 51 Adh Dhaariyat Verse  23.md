@@ -710,6 +710,12 @@ A to, kŭlna se v Gospoda na nebeto i na zemyata, e istina, kakto tova, che govo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	မိုးကောင်းကင်နှင့် ကမ္ဘာမြေကြီး၏ အရှင်သခင်၏တန်ခိုးတော်ကြောင့် အထက်အဆိုပါတရားစကားအရပ်ရပ်သည် သင်တို့စကားပြောဆိုသကဲ့သို့ မှန်ကန်ချေ၏၊ ယုံမှားသံသယလုံးဝမရှိနိုင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ မိုးကောင်းကင်ကိုလည်းကောင်း၊ပထဝီမြေကိုလည်းကောင်း၊ ဖန်ဆင်းတော်မူသောအရှင်မြတ်၏ ‘ကစမ်’၊ ယင်း(‘ကိယာမတ်’ဖြစ်ခြင်း၊ စားနပ်ရိက္ခာရရှိခြင်း၊ တမလွန်ဘဝ ဆိုက်ရောက်ခြင်းနှင့် အလ္လာဟ်အရှင်မြတ်၏ ကတိတော်အတိုင်း စံစား၊ ခံစားရခြင်းတို့)သည် အသင်တို့ စကားပြောဆိုကြဘိသကဲ့သို့ပင် မှန်ကန်လှပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

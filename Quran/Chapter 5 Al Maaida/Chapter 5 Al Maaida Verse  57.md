@@ -710,6 +710,12 @@ O, vyarvashti, ne vzimaĭte za blizhni onezi ot darenite s Pisanieto predi vas 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၇။	အို-ယုံကြည်သူအပေါင်းတို့ သင်တို့သည် မိမိ၏ဘာသာတရားကို ပြောင်လှောင်ပြက်ရယ်ခြင်းပြုသော သင်တို့အရင် ကျမ်းတော်ရရှိသူတို့ကိုသော်လည်းကောင်း၊ မိစ္ဆာဒိဌိတို့ကိုသော်လည်းကောင်း၊ မိတ်ဆွေအဖြစ်ဖြင့် မရွေးကြလင့်။ သင်တို့သည် ယုံကြည်သူအမှန်ပင်ဖြစ်ကြလျှင် အလ္လာဟ် အသျှင်မြတ်၏အမှုတော်ကို ကောင်းစွာထမ်းရွက်ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-‘မုအ်မင်န်’ သက်ဝင်ယုံကြည်ကြသူအပေါင်းတို့၊ အသင်တို့သည် မိမိတို့အလျင် ကျမ်းဂန်ရရှိသောသူတို့အနက်မှ အသင်တို့၏သာသနာကို ပြက်ရယ်ကျီစယ်ဖွယ်ရာ၊ ကစားဖွယ်ရာပြုလုပ်သော သူများအားလည်းကောင်း၊ ကာဖိရ်များအားလည်းကောင်း၊ မိတ်ဆွေခင်ပွန်းများ မပြုလုပ်ကြကုန်လင့်၊ ထို့ပြင် အသင်တို့သည် ‘မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူများဖြစ်ကြပါလျှင် အလ္လာဟ်အရှင်မြတ်ကိုသာလျှင် ကြောက်ရွံ့ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

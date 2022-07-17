@@ -710,6 +710,12 @@ I taka Iblis izpŭlni svoite zamisli spryamo tyakh, i te go posledvakha, osven e
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	စင်စစ်အားဖြင့်ထိုသူတို့နှင့်စပ်လျဉ်း၍ ရှိုင်တန်မာရ်နတ်၏ ရည်ရွယ်ချက်သည် ပြည့်စုံ၏၊ အကြောင်းမူကား ယုံကြည်သူအစစ်တစ်စုမှတပါး အခြားသူတုုိ့သည် မာရ်နတ်၏ နောက်သို့ တကောက်ကောက်လိုက်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်ဧကန် အီဗ်လီစ် သည် ၎င်းတို့ (အာဒမ်၏သားသမီးများ)နှင့်ပတ်သက်သော မိမိ၏ ထင်မြင်ယူဆချက်ကို မှန်ကန်ကြောင်းတွေ့ရှိခဲ့၏။ အကြောင်းမူကား မုအ်မင်န်သက်ဝင်ယုံကြည်သူ များဖြစ်ကြသောလူစုမှအပ ၎င်းတို့မှာ ထိုအီဗ်လီစ် ၏နောက်သို့ လိုက်ခဲ့ကြသောကြောင့်ပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

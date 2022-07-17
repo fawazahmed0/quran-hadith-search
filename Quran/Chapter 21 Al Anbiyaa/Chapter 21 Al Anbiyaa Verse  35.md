@@ -710,6 +710,12 @@ Vsyaka dusha shte vkusi smŭrtta. I vi izpitvame sŭs zloto, no i v dobroto ima 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	ဝိညာဉ်တိုင်းသည် သေခြင်းတရားကို မြည်းရမည်သာတည်း၊ ငါအရှင်မြတ်သည် သင်တို့အား မကောင်းမှုဒုက္ခနှင့် သော်လည်းကောင်း၊ ကောင်းမှုသုခနှင့်သော်လည်းကောင်း ကြပ်တည်းစွာစုံစမ်းတော်မူ၏၊ ငါ့အထံတော်သို့ သင်တို့ကို ပြန်ပို့ချေမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သက်ရှိသတ္တဝါတိုင်းသည် မရဏသေခြင်းတရား(၏ရသာ)ကို မြည်းစမ်းရမည့်သူများသာ ဖြစ်ကြကုန်၏။ စင်စစ် ငါအရှင်မြတ်သည် အသင်တို့အား ဆိုးသော အခြေအနေဖြင့် လည်းကောင်း၊ ကောင်းသောအခြေအနေဖြင့်လည်းကောင်း၊ (ကောင်းစွာ)စမ်းသပ်တော်မူ၏။ ၎င်းပြင် ငါအရှင်မြတ်အထံတော်သို့ပင် အသင်တို့သည် ပြန်လည်ရောက်စေခြင်းကို ခံကြ ရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

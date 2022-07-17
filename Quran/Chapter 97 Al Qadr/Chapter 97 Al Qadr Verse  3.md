@@ -710,6 +710,12 @@ Noshtta na mogŭshtestvoto e po-dobra ot khilyada mesetsa
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။ ဤထူးမြတ်သောညသည် လပေါင်းတစ်ထောင်ထက် သာလွန်မြင့်မြတ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 လိုက်လသုလ်ကဒ်ရ်" မြင့်မြတ်သော ညဉ့်ကား လပေါင်းတစ်ထောင်ထက်ပင် ပိုမို၍ ကောင်းမြတ်လှ၏၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ i vi e dal dobitŭk i sinove
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၃။	အရှင်မြတ်သည် သင်တို့အား ခြေလေးချောင်းတိရိစ္ဆာန်များ၊ သားသမီးများတို့နှင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် အသင်တို့အား ကျွဲ၊ နွား၊ကုလားအုတ် တည်းဟူသော တိရစ္ဆာန်များဖြင့်လည်းကောင်း၊ သားသမီးရတနာများဖြင့်လည်းကောင်း၊ ကူညီဆောင်မတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Nad teb e proklyatieto do Sŭdniya den.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	ထို့အပြင် မှတ်သားလော့။ ငါအရှင်မြတ်၏ ကျိန်ဆဲတော်မူခြင်းသည် တရားစီရင်တော်မူသောနေ့ကြီးတိုင်အောင် နင်၏ အပေါ်သို့ ကျရောက်မည်ဟု မိန့်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် စင်စစ်ဧကန် ကရုဏာတော်မှ ကင်းဝေးခြင်းသည် အစားပေးမည့်နေ့တိုင် အသင်၏အပေါ်၌ ရှိချေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

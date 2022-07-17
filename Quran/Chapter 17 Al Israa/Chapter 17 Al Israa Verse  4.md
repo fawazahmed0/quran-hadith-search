@@ -710,6 +710,12 @@ Predrekokhme Nie na sinovete na Israil v Pisanieto: “Shte rushite po zemyata d
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	ငါသည် ဤကျမ်းတော်၌ အစ္စရာအီလ်အမျိုးသားတို့အား သင်တို့သည် မြေပေါ်တွင် ပျက်စီးရာပျက်စီးကြောင်း မကောင်းမှုများကို နှစ်ကြိမ်နှစ်ခါကျူးလွန်လိမ့်မည်။ သင်တို့သည် သူတပါးတို့အား နိုင်ထက်စီးနင်းပြုသော အာဏာရှင်ကြီးများဖြစ်ကြလိမ့်မည်ဟု ဗျာဒိတ်ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ငါအရှင်မြတ်သည် အစ္စရာအီလီမျိုးနွယ်တို့ထံ(သောင်ရာတ်)ကျမ်းတော်၌(ဤသို့)စီရင်ပြဋ္ဌာန်း(ချက်ကိုပေးပို့)တော်မူခဲ့လေသည်။ (အို-အီစ်ရာအီလီမျိုးနွယ်တို့၊) မုချစင်စစ် အသင်တို့သည် တိုင်းပြည်တွင် နှစ်ကြိမ်တိုင်တိုင် ပျက်စီးရာ ပျက်စီးကြောင်းကို ပြုလုပ်ကြပေမည်။ ထိုမှတစ်ပါး ဧကန်မလွဲ အသင်တို့သည် အကြီးအကျယ် ရက်စက်စွာအုပ်စိုးမှုဖြင့်လည်း အုပ်စိုးကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

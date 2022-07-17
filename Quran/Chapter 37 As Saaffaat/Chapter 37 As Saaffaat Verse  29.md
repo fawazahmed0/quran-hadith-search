@@ -710,6 +710,12 @@ Shte kazhat [sŭdruzhavanite]: “Ne, vie ne vyarvakhte
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။ အချို့သူမိုက်တို့က တုံ့ပြန်ချေဆိုသည်မှာ ဟယ်-အချင်းတို့၊ ငါတို့ဖျားယောင်းသွေးဆောင်ခြင်းကို မပြုချေ၊ သို့သော်သင်တို့သည် မိမိအလိုအလျောက်မယုံကြည်သူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ၎င်းတို့(အား ခေါင်းဆောင်များ)ကပြောဆို ဖြေကြားကြပေမည်။ ထိုသို့အလျှင်းမဟုတ်။ စင်စစ်မှာကား အသင်တို့ကိုယ်တိုင် "မုအ်မင်န်" သက်ဝင်ယုံကြည်သူများ မဖြစ်ခဲ့ကြပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

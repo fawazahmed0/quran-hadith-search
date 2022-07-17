@@ -710,6 +710,12 @@ V tozi Den nayave shte pokazhem Ada na nevernitsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝဝ။	ထိုနေ့တော်ကြီး၌ ငါသည် မယုံကြည်သူတို့အား အဝီစိငရဲကို မျက်ဝါးထင်ထင်မြင်စေတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ထိုနေ့တွင် ဂျဟန္နမ်ငရဲဘုံကို ကာဖိရ်သွေဖည်ငြင်းပယ်ကြကုန် သောသူတို့ရှေ့ဝယ် အထင်အရှား ပြတော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

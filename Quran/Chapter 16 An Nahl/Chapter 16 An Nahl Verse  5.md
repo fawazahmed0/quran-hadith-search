@@ -710,6 +710,12 @@ I sŭtvori Toĭ dobitŭka. V nego ima toplina za vas i polzi, i ot nego yadete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	ထို့အပြင် အရှင်မြတ်သည် ခြေလေးချောင်းတိရိစ္ဆာန်များကို ဖန်ဆင်းတော်မူ၏။ ထိုတိရိစ္ဆာန်များမှ သင်တို့သည် အနွေးထည်ကို ရရှိကြ၏။ ထို့အပြင်၎င်းတို့ကို အမျိုးမျိုးသုံးစွဲရကြ၏။ အသားကိုလည်း စားရကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုအရှင်မြတ်သည် အခြေလေးချောင်းတိရိစ္ဆာန်များကိုလည်း ဖန်ဆင်းတော်မူခဲ့လေသည်။ အသင်တို့အဖို့ ထိုခြေလေးချောင်းတိရစ္ဆာန်များ၌ အနွေးထည်သည်လည်းကောင်း၊ အခြားအကျိုးကျေးဇူးများသည်လည်းကောင်း၊ ရှိပေသည်။ ထိုမှတစ်ပါး အသင်တို့သည် ယင်းခြေလေးချောင်း တိရစ္ဆာန်များ အနက်မှပင် (စားဖွယ်ရာများကို) စားသုံးကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

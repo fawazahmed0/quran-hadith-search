@@ -710,6 +710,12 @@ O, sinove na Adam, oblichaĭte se podkhodyashto pri vsyaka molitva! I yazhte, i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	အို-အဒမ်၏အမျိုးအနွယ်အပေါင်းတို့ ဆွလာသ်ဝတ်ပြုရာနေရာတိုင်းတွင် သင်တို့အဝတ်တန်ဆာကို ဂရုစိုက်ကြလော့။ စားသောက်ကြလော့။ သို့သော် မဖြုန်းတီးကြလင့်။ အသျှင်မြတ်သည် ဖြုန်းတီးသူ တို့ကို မြတ်နိုး်တော်မမူပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-အာဒမ်၏သားသမီးအပေါင်းတို့၊ အသင်တို့သည် ဆွလာတ်ဝတ်ပြုကြသည့်အခါတိုင်းတွင် မိမိတို့၏ ဝတ်စားတန်ဆာကို ဝတ်ဆင်ကြကုန်။ ထို့ပြင် အသင်တို့သည် (စားဖွယ်သောက်ဖွယ်ရာများကို)စားသောက် ကြလေကုန်။ သို့ရာတွင်အသင်တို့သည် (ယင်းစားဖွယ်သောက်ဖွယ်များကို) မဖြုန်းတီးကြကုန်လင့်။ အကြောင်း သော်ကား ထိုအရှင်မြတ်သည် ဖြုန်းတီးသူတို့အား နှစ်သက်တော်မူသည်မဟုတ်ပေ။(ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

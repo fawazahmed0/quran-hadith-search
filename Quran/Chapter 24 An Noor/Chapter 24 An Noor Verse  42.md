@@ -710,6 +710,12 @@ Na Allakh prinadlezhi vladenieto na nebesata i na zemyata, i kŭm Allakh e zavr�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	မိုးကောင်းကင်နှင့် ကမ္ဘာမြေပြင်ကို စိုးပိုင်တော်မူသောအရှင်အား အလ္လာဟ်အရှင်မြတ်သည်သာတည်း၊ အရှင်မြတ် အထံတော်သို့သာ ခရီးရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် မိုးကောင်းကင်တွင် စိုးမိုးအုပ်ချုပ်မှု အာဏာသည်လည်းကောင်း၊ ပထဝီမြေတွင် စိုးမိုးအုပ်ချုပ်မှု အာဏာသည်လည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ်၌သာရှိပေသည်။ ထိုမှတစ်ပါး(နောက်ဆုံး)ပြန်လည်ရာစခန်းသည်လည်း အလ္လာဟ်အရှင်မြတ် အထံတော်၌သာလျှင် ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

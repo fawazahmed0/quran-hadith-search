@@ -710,6 +710,12 @@ Allakh povelyava spravedlivost i blagodetelnost, i poddŭrzhane na vrŭzkite s r
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉ဝ။	မှတ်သားကြလော့။ အလ္လာဟ်အရှင်မြတ်သည် တရားဖြောင့်မတ်မှန်ကန်မှု၊ သနားကြင်နာမှု၊ ဆွေမျိုးညာတိ တို့အား ပေးကမ်းစွန့်ကြဲမှုတို့ကို ပြုကျင့်ရန် ပညတ်တော်မူ၏။ ထို့အပြင်မတရားကာမမှု၊ ယုတ်မာညစ်ညမ်းမှုနှင့် ဆိုးသွမ်းမှုများကို တားမြစ်တော်မူ၏။ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့တရားရရှိစေဖို့ရာ သွန်သင်ဆုံးမတော် မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် မျှတရန်လည်းကောင်း၊ ကောင်းမွန်စွာကျင့်မူဆက်ဆံရန်လည်း ကောင်း၊ဆွေမျိုးနီးစပ်တို့ကို ပေးကမ်းရန်လည်းကောင်း၊ အမိန့်ပေးတော်မူလေသည်။ ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် ထင်ရှားစွာသောစက်ဆုပ်ရွံ့ရှာဖွယ်များမှလည်းကောင်း၊ မကောင်းမှုများမှလည်းကောင်း၊ မတရားမှုများမှလည်းကောင်း၊ မြစ်တားတော်မူလေသည်။ ထိုအရှင်မြတ်သည် အသင်တို့အား အသင်တို့ သတိရကြအံ့သောငှာ သတိပေး နှိုးဆော်တော် မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

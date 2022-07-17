@@ -710,6 +710,12 @@ O, zheni na Proroka, vie ne ste kato nikoya druga ot zhenite. Ako ste bogoboyazl
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	အို-တမန်တော်၏ ကြင်ယာအပေါင်းတို့၊ ရှင်မတို့သည် အခြားမိန်းမတို့နှင့်မတူချေ၊ အကယ်၍သင်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ ဝတ္တရားတော်ကို ကျေပွန်အောင် ဆောင်လျှင် ပကတိအသံထက် သာယာနာပျော်နူးည့ံ သောအသံနှင့်စကားမပြောကြလင့်၊ သို့မပြောရခြင်းမှာ စိတ်နှလုံးတွင် မိစ္ဆာဝေဒနာမကင်းသူတို့သည် သင်တို့အား စိတ်ထားမဖောက်ပြန်၊ မကောင်းမကြံစေလိုခြင်းငှာဖြစ်၏၊ ထို့ကြောင့်စကားကို ပင်ကိုယ်အသံဖြင့် ရိုးရိုးသာ ပြောကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-နဗီတမန်တော်မြတ်၏ ကြင်ရာတော် အပေါင်းတို့၊ အသင်တို့သည် အခြားအမျိုးသမီးများကဲ့သို့ မဟုတ်ကြချေ။ သို့ဖြစ်ပေရာ အကယ်၍ အပြစ်မှကြဉ်ရှောင်ကြပါလျှင်အသင်တို့သည် စကား ပြောဆိုရာတွင် ကနွဲ့ကလျ မရှိကြကုန်လင့်။ သို့ရှိခဲ့ကြ ပါလျှင် စိတ်တွင်း၌ ရောဂါရှိသောသူသည်ရမ္မက် ထားရှိလာပေမည်။ သို့ရာတွင် အသင်တို့သည် ထုံးစံအတိုင်းသာလျှင် စကားပြောဆိုမှုကိုပြုကြလေကုန်၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

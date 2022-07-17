@@ -710,6 +710,12 @@ Toĭ izvazhda zhivoto ot mŭrtvoto i izvazhda mŭrtvoto ot zhivoto, i sŭzhivya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	အလ္လာဟ်အရှင်မြတ်သည် သက်မဲ့မှ သက်ရှိကို ဖန်ဆင်းတော်မူ၏၊ သက်ရှိကိုလည်း သက်မဲ့ဖြစ်စေတော်မူ၏၊ မြေသေကို တဖန်မြေရှင်ဖြစ်စေတော်မူ၏၊ ထိုသို့ပင်လျှင်သင်တို့ကို ရှင်ပြန်ထမြောက်စေတော်မူလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် သက်ရှိကိုသက်မဲ့မှ ထုတ်တော်မူ၏။ ထိုနည်းတူစွာ သက်မဲ့ကိုသက်ရှိမှ ထုတ်တော်မူ၏။ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် ပထဝီမြေကို ယင်းပထဝီမြေသေ(သွေ့ခြောက်)ပြီးနောက် ပြန်ရှင်(စိုပြည်စိမ်းလန်း)စေတော်မူ၏။ စင်စစ်သော်ကား အသင်တို့သည်လည်း ဤနည်းနှင်နှင် ထွက်စေခြင်းကို ခံကြရကုန်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

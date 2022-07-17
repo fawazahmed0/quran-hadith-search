@@ -710,6 +710,12 @@ Na Allakh prinadlezhi vladenieto na nebesata i na zemyata. I v Denya, kogato Cha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	အလ္လာဟ်အရှင်မြတ်သည် မိုးကောင်းကင်နှင့် ကမ္ဘာမြေပြင်ကို စိုးပိုင်တော်မူ၏၊ အကြင်နေ့၌ အချိန်တော် ကျရောက်လာ၏၊ ထိုနေ့၌ မိစ္ဆာအယူဝါဒကို လိုက်သောသူတို့သည် ဆုံးရှုံးပျက်စီးရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် မိုးကောင်းကင်များကို စိုးမိုးအုပ်ချုပ်မှုသည်လည်းကောင်း၊ ကမ္ဘာမြေကို စိုးမိုးအုပ်ချုပ်မှု သည်လည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ်၌သာရှိ၏။ ထိုမှတစ်ပါး "ကိယာမတ်" ရှင်ပြန်ထမည့် အချိန်ကာလ ဆိုက်ရောက်လာမည့်နေ့တွင်မူ အမှားကိုလိုက်စားကြ ကုန်သောသူတို့မှာ ပျက်စီးဆုံးရှုံးကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I rekokha: “Zashto ne ni donese toĭ [Mukhammad] znamenie ot svoya Gospod?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၃။	ထို့အပြင်မိစ္ဆာမိုက်တို့က ရှင်မိုဟမ္မဒ်သည် ၎င်း၏အရှင်သခင်ထံမှ အ့ံဖွယ်သရဲတစ်ပါးပါးကို ယူဆောင်လာခဲ့လျှင် တော်လေစွဟု ဆိုကြ၏၊ သူတို့ထံသို့ ရှေးကျမ်းတော်ဟောင်းများတွင် ပါရှိသောအကြောင်းအရာများမှန်ကန် ကြောင်းကို ထောက်ခံသောသက်သေခံချက်များကျရောက်လာပြီမဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ၎င်းတို့က ယင်း(မုဟမ္မဒ်)သည် အဘယ်ကြောင့် မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်မှ သက်သေလက္ခဏာ တစ်စုံတစ်ရာကို ကျွန်ုပ်ထံယူဆောင်၍မလာပါသနည်းဟု ပြောဆိုကြကုန်၏။ အသို့ပါနည်း။ ၎င်းတို့ထံ ရှေးကျမ်းများ၌လာရှိသော ရှင်းလင်းချက်များသည် ရောက်ရှိမလာခဲ့လေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

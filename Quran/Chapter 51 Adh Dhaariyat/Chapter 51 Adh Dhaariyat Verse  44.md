@@ -710,6 +710,12 @@ I se vŭzgordyakha pred povelyata na tekhniya Gospod, [zatova] mŭlniyata gi por
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	သို့သော် ထိုသူတို့သည် မိမိတို့၏အသက်သခင် ကျေးဇူးရှင်ကြီး၏ ပညတ်တော်ကို တော်လှန်ကြသောကြောင့် သူတို့ငေးကြည့်နေစဉ်ပင် သူတို့ကို မိုးကြိုးပစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ၎င်းတို့သည် မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ အမိန့်တော်ကို ပုန်ကန်ခဲ့ကြပေရာ ပြစ်ဒဏ်သည် ၎င်းတို့အား ၎င်းတို့ ရှုမြင်ရှိနေကြစဉ်မှာပင် ဖမ်းဆီးကွပ်မျက်ခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

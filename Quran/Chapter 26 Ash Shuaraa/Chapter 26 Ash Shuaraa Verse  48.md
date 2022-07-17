@@ -710,6 +710,12 @@ Gospoda na Musa i Kharun!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	ထိုအရှင်သခင်သည် တမန်တော်မူစာနှင့် တမန်တော်ဟာရွန်တို့၏ အရှင်သခင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအရှင်မြတ်သည်) မူစာ၏ အရှင်မြတ်သည်လည်းကောင်း၊ ဟာရူန်၏ အရှင်မြတ်သည်လည်း ကောင်း၊ဖြစ်တော်မူပါ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

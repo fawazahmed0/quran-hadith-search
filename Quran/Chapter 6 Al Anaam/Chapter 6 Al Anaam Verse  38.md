@@ -710,6 +710,12 @@ I nyama tvar po zemyata, nito ptitsa, letyashta s krilata si, bez da sa v obshtn
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	ကမ္ဘာမြေပေါ်ရှိ တိရစ္ဆာန်များ အတောင်နှစ်ဖက်ပျံ့သွားနေသော တိရစ္ဆာန်များအားလုံးတို့သည် သင်တို့ကဲ့သို့ လူမျိုးစုများဖြစ်ကြ၏။ ငါအသျှင်မြတ်သည် မိမိ၏ ပညတ်ကျမ်းတော်၌ တစ်စုံတစ်ခုကိုမျှ ပေါ့ဆလစ်ဟင်းခြင်း ပြုတော်မမူပေ။ နောက်ဆုံးတွင် သူတို့အားလုံးသည် သူတို့၏ ကျေးဇူးတော် သခင် အထံတော်သို့ စုရုံးကြရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းနောက် ပထဝီမြေဝယ် ရှိရှိသမျှသော သက်ရှိအပေါင်းတို့သည်လည်းကောင်း၊ မိမိတို့ တောင်ပံ နှစ်ဖက်ဖြင့်ပျံသန်းလျက်ရှိသော ငှက်တိရိစ္ဆာန် ပေါင်းတို့သည်လည်းကောင်း၊ အသင်တို့ကဲ့သို့ အုပ်စုများပင် ဖြစ်ကြပေသည်။ ငါအရှင်မြတ်သည် (မိမိမှတ်တမ်း) စာအုပ်တွင် တစုံတရာကိုမျှချန်လှပ်ထားတော်မူသည်မရှိချေ။ ထို့နောက် ၎င်းတို့အားလုံးသည် မိမိ၏ အရှင်မြတ်အထံတော်၌ပင် စုရုံးစေခြင်းကို ခံကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

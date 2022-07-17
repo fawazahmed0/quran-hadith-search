@@ -710,6 +710,12 @@ I ostavikhme za nego spomen sred setnite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၈၊၁ဝ၉။ ထို့အပြင်နောင်လာနောက်သားတို့အား တမန်တော်အေဗရာဟမ်ကို ဤသို့မေတ္တာပို့သစေတော်မူ၏၊ တမန် တော်အေဗရာဟမ်အပေါ်သို့ အေးချမ်းသာယာခြင်းမင်္ဂလာတော် သက်ရောက်ပါစေသောဝ်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ငါအရှင်မြတ်သည် နောင်လာနောက်သားတို့တွင် ထိုအီဗ်ရာဟီမ်နှင့်ပတ်သက်၍ (၎င်းအား ကောင်းမွန်စွာ သတိရခြင်းကို) ရှိစေတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

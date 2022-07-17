@@ -710,6 +710,12 @@ I shte izvadim ot vsyaka obshtnost po edin svidetel, i shte rechem: “Daĭte s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၅။	ထို့အပြင်ငါသည် လူမျိုးတိုင်းလူမျိုးတိုင်းမှ သက်သေတစ်ယောက်စီကို ခေါ်ထုတ်ပြီးလျှင် နင်တို့၏အကိုးအကား သက်သေခံချက်ကို တင်ပြလော့ဟု ဗျာဒိတ်ပေးတော်မူလတံ့၊ ထိုအခါသူတို့သည် သစ္စာတရားတော်မှာ အလ္လာဟ် အရှင်မြတ်၌သာ ရှိကြောင်းကို သိကြရလတ့ံ၊ သူတို့ဖန်တီးသောဘုရားများသည် သူတို့အား အကျိုးလုံးဝပေး လိမ့်မည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ငါအရှင်မြတ်သည် သာသနာဝင် အုပ်စုတိုင်းမှ သက်သေတစ်ဦးစီကို ထုတ်ပြတော် မူပြီးလျှင် (ကာဖိရ်သွေဖည် ငြင်းပယ်ကြကုန်သော သူတို့အား) ‘အသင်တို့သည်(ယှဉ်တွဲ ကိုးကွယ်မှု မှန်ကန်ကြောင်းနှင့် စပ်လျဉ်း၍) မိမိတို့၏ သက်သေသာဓက အထောက်အထားကို တင်ပြကြလေကုန်’ဟုမိန့်ကြား တော်မူမည်။ ထိုအခါ ၎င်းတို့သည် မှန်ကန်မှုမှာ(အမှန်တရားမှာ) အလ္လာဟ်အရှင်မြတ် ၌သာရှိကြောင်း ကောင်းစွာ သိရှိသွားကြပေမည်။ ၎င်းပြင် ၎င်းတို့လီဆယ် ဖန်တီးလေ့ရှိခဲ့ကြသော အရာများမှာလည်း ၎င်းတို့ထံမှ ပျောက်ပျက်၍သွားကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

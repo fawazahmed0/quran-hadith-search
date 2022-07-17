@@ -710,6 +710,12 @@ Reche: “Gospodi, az ugnetikh sebe si. Oprosti me!” I Toĭ go oprosti. Toĭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	မူစာသည် အို-အကျွနု်ပ်၏အရှင်သခင်၊ အကျွန်ုပ်သည် မိမိဝိညာဉ်ကို မိမိပြစ်မှားမိပါပြီ၊ အကျွနု်ပ်ကို အပြစ် လွှတ်တော်မူပါဟု ဆုတောင်း၏၊ ထိုအခါအရှင်မြတ်သည် သူ့ကို အပြစ်လွှတ်တော်မူ၏၊ မှတ်သားလော့၊ အရှင်မြတ်သည် အဖန်တလဲလဲအပြစ်လွှတ်တော်မူသောအရှင်၊ ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူသောအရှင် ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမူစာသည် (အလ္လာဟ်အရှင်မြတ်အထံတော်တွင်) အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ ဧကန်မလွဲ ကျွန်တော်မျိုးသည် မိမိကိုယ်ကို မိမိနှိပ်စက်မိပါပြီ၊ အရှင်မြတ်သည် ကျွန်တော်မျိုးအား ခွင့်လွှတ်ချမ်းသာ ပေးသနားတော်မူပါဟု လျှောက်ထားပန်ကြားခဲ့ရာ ထိုအရှင်မြတ်သည် ၎င်းအား ခွင့်လွှတ်ချမ်းသာ ပေးသနားတော်မူခဲ့ပေသည်။ စင်စစ်ဧကန် ထိုအရှင်မြတ်သည်ပင်လျှင် အလွန်တရာ ခွင့်လွှတ်ချမ်းသာ ပေးသနားတော်မူသော အလွန်တရာ ကြင်နာသနား ကရုဏာပြုတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

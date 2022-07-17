@@ -710,6 +710,12 @@ I polozhi na zemyata nepoklatimi planini, za da ne se lyulee s vas; i reki, i p�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	ထို့အပြင်အရှင်မြတ်သည် သင်တို့လှုပ်ရှားသောအခါ ကမ္ဘာမြေကြီးမလှုပ်ရှား*****သွားလာဖို့ရာ လမ်းတွေ့ နိုင်ရန် မြစ်ကြီး၊မြစ်ငယ်၊လမ်းကြီး၊လမ်းငယ်အသွယ်သွယ်ကို ဖန်ဆင်းထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် ပထဝီမြေ၌၊ထိုပထဝီမြေသည် အသင်တို့နှင့်တကွ လှုပ်ရှား(ယိမ်း ယိုင်)ခြင်းမပြုရန်၊(ကျောက်ဆူးများကို)တောင်များကို ချထားတော်မူခဲ့လေသည်။ ထို့ပြင် အသင်တို့ လမ်းရှာ၍တွေ့အံ့သောငှာ မြစ်ချောင်းများကို လည်းကောင်း၊ (ပြုလုပ်တော်မူခဲ့လေသည်)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

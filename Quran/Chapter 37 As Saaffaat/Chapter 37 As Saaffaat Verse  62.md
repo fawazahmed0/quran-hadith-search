@@ -710,6 +710,12 @@ Dali tova e po-dobro za prebivanie, ili pri dŭrvoto Zokum
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	ဤသို့ဧည့်ခံခြင်းသည် သာလွန်ကောင်းမြတ်သလော၊ သို့မဟုတ် ရှားစောင်းကြီးပင်နှင့် ဧည့်ခံခြင်းက သာလွန် ကောင်းမြတ်သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည့်ဧည့်ခံပွဲသည် ပိုမို၍ကောင်းမြတ်လေသလော၊ သို့တည်းမဟုတ် ရှားစောင်းကြီးဆူးပင်သည် ပိုမို၍ကောင်းမြတ်လေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

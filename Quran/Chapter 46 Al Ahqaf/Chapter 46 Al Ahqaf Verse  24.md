@@ -710,6 +710,12 @@ I kogato go vidyakha - shirok oblak, priizhdasht kŭm tekhnite dolini, - rekokha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	ထို့နောက်အပြစ်ဒဏ်တော်သည် မိုးတိမ်အဖြစ်နှင့် သူတို့မှီတင်းနေထိုင်ရာတောင်ကြားများသို့ ဝှေ့တိုက်လာသည် ကို သူတို့မြင်ရသောအခါ သူတို့က ဤမိုးတိမ်သည် ငါတို့အပေါ်ရွာသွန်းမည့်မိုးတိမ်ဖြစ်၏ဟု ဆိုကြ၏၊ ထိုသို့ မဟုတ်ချေ၊ ထိုမိုးတိမ်သည် သင်တို့အမြန်ရောက်လိုသောဖြစ်၏။ အလွန်ပြင်းပြကြောက်မက်ဖွယ်သော အပြစ်ဒဏ်ပါသောလေပြင်းမုန်တိုင်းသာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ၎င်းတို့သည် ယင်းပြစ်ဒဏ်ကို မိမိတို့(နေထိုင်ရာ)တောင်ကြားအရပ်ဒေသများသို့ ရှေ့တူရူလာသော မိုးတိမ်ပင်အဖြစ် တွေ့မြင်ကြရလေသောအခါ ဤသည် ကျွန်ုပ်တို့အပေါ်၌ ရွာသွန်းအံ့သော မိုးတိမ်ပင်ဖြစ်သည်ဟု ဆိုခဲ့ကြကုန်၏။ထိုသို့ အလျှင်းမဟုတ်၊ စင်စစ်မှာကား ယင်းသည် အသင်တို့ အလျင်စလို တောင်းဆိုခဲ့ကြသော(ပြစ်ဒဏ်ပင်)ဖြစ်၏။ (ယင်းသည်) လေပြင်းမုန်တိုင်းတစ်ခုဖြစ်၏။ ယင်း လေပြင်းမုန်တိုင်း၌ နာကျင်ဖွယ်ဖြစ်သော ပြစ်ဒဏ်သည်ရှိပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

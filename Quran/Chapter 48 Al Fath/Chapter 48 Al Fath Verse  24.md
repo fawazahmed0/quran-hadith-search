@@ -710,6 +710,12 @@ Toĭ e, Koĭto vŭzprya kraĭ Meka tekhnite rŭtse ot vas i vashite rŭtse ot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အား သင်တို့၏ရန်သူများကို မက္ကာဟ်ချိုင့်ဝှမ်း၌ အောင်နိုင်စေတော်မူ၏၊ ထို့နောက်သင်တို့၏ လက်ကို ရန်သူတို့အပေါ်သို့ မရောက်အောင် တားဆီးထားတော်မူ၏၊ ရန်သူတို့လက်ကိုလည်း သင်တို့အပေါ်သို့ မရောက်အောင် ဆွဲထားတော်မူ၏၊ အရှင်မြတ်သည် သင်တို့ပြုကျင့်သမျှကို အကြွင်းမဲ့သိတော် မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ထိုအရှင်မြတ်သည်ပင် ထို(‘ကာဖိရ်’သွေဖည်ငြင်းပယ်သော)သူတို့၏လက်များကို အသင်တို့(အားအန္တရာယ်ပြုခြင်း)မှလည်းကောင်း၊ အသင်တို့၏လက်များကို ထိုသူတို့(အား အန္တရာယ်ပြုခြင်းမှလည်းကောင်း၊) မက္ကာမြို့တွင်း၌ အသင်တို့အား ထိုသူတို့အပေါ်ဝယ် အောင်မြင်စေတော်မူပြီး နောက်သော်မှပင် တားဆီးထားတော်မူခဲ့၏။ စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့၏ ပြုမူချက်တို့ကိုကောင်းစွာ ရှုမြင်တော်မူလျက် ရှိတော်မူခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I ako pozhelaekhme, shtyakhme da storim angeli vmesto vas da ostanat na zemyata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆ဝ။	ငါအလိုတော်ရှိခဲ့ပါလျှင် သင်တို့အလယ်တွင် ကောင်းကင်တမန်များအား ကမ္ဘာမြေကို ငါ့ကိုယ်စားအုပ်ချုပ်ရန် ခန့်ထားနိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အကယ်၍သာ ငါအရှင်မြတ်သည် အလိုရှိတော်မူခဲ့ပါလျှင် အသင်တို့မှ "မလာအိကဟ်"ကောင်းကင်တမန်များကို ဖန်ဆင်းတော်မူခဲ့မည်ဖြစ်ရာ ထိုကောင်းကင်တမန်တို့မှာ ကမ္ဘာမြေဝယ် (အသင်တို့၏) အရိုက်အရာကို ဆက်ခံကြမည်ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

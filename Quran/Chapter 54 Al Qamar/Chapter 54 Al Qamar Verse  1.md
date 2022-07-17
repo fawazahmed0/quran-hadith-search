@@ -710,6 +710,12 @@ Nablizhi Chasŭt i se raztsepi lunata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။	အချိန်နာရီတော်ကြီးသည် နီးကပ်လာပြီ၊ လလည်း နှစ်စိတ်နှစ်ဖြာကွဲခဲ့လေပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘ကိယာမတ်’ ရှင်ပြန်ထရန် အချိန်ကာလသည် နီးကပ်၍လာခဲ့ချေပြီ။ ၎င်းပြင် ‘လ’သည် (နှစ်ခြမ်း) ကွဲခဲ့လေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

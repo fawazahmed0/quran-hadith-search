@@ -710,6 +710,12 @@ Rekokha: “Tŭĭ kaza tvoyat Gospod. Toĭ e Premŭdriya, Vseznaeshtiya.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	သူတို့က ပြန်ပြောသည်မှာ အမြံုဖြစ်စေကာမူ ရှင်မ၏ အရှင်သခင်က ယင်းသို့ဗျာဒိတ်တော်ခတ်နှိပ်တော်မူ၏၊ မုချဧကန်အရှင်မြတ်သည် လိမ်မာတော်မူသောအရှင်၊ သိတော်မူသောအရှင် ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့အခါ ထိုဧည့်သည်တော်တို့က အသင့်အားဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် ဤအတိုင်းပင် မိန့်ကြားတော်မူခဲ့သည်။ ဧကန်မလွဲ ထိုအရှင်မြတ်သည် နက်နဲသိမ်မွေ့သော အသိပညာနှင့် ပြည့်စုံတော်မူသောအရှင်၊ (အရာခပ်သိမ်းတို့ကို)အကြွင်းမဲ့သိရှိတော်မူသော အရှင်ဖြစ်တော်မူသည် ဟူ၍ ပြန်ကြားခဲ့ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

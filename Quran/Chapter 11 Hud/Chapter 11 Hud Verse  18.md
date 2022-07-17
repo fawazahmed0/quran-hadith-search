@@ -710,6 +710,12 @@ I koĭ e po-golyam ugnetitel ot onzi, koĭto izmislya lŭzha za Allakh? Tezi s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	အလ္လာဟ်အရှင်မြတ်နှင့်စပ်လျဉ်း၍ မုသားစကားလုပ်ကြံသူထက် အဘယ်သူသည် သာလွန်ကြီးမားသောမတရားမှု ကို ပြုသနည်း။ ဤသူမိုက်တို့အား သူတို့၏ ကျေးဇူးတော်သခင်၏ မျက်မှောက်တော်သို့ ယူဆောင်ခဲ့လတ့ံ။ ထိုအခါသက်သေတော်တို့က မိမိတို့၏ ကျေးဇူးတော်သခင်နှင့်စပ်လျဉ်း၍ မဟုတ်မမှန်မုသားဆိုသူတို့သည် ဤသူများဖြစ်ပါ၏။ ယခုမှာကား အလ္လာဟ်အရှင်မြတ်ကျိန်ဆဲတော်မူခြင်းသည် မတရားဒုစရိုက်မှုပြုသူတို့အပေါ်သို့ ကျရောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်အပေါ်၌ မုသားကိုလီဆယ်၍စွပ်စွဲသောသူထက်ပို၍ မတရားစောကားသောသူသည် မည်သူရှိပါဦးမည်နည်း။ ဤကဲ့သို့သောသူများသည် ၎င်းတို့၏ အရှင်မြတ်ရှေ့တော်မှောက်ဝယ် ဝင်ရောက်စေခြင်းကို ခံကြရပေမည်။ ထိုအခါ သက်သေများက ဤသူများပင် မိမိတို့၏အရှင်မြတ်အပေါ်၌ မုသားပြောဆို စွပ်စွဲခဲ့သောသူများဖြစ်ကြသည်ဟု ပြောဆိုကြပေမည်။ အလ္လာဟ်အရှင်မြတ်၏ စက်ဆုပ်တော်မူခြင်းသည် မတရားသောသူတို့၏ အပေါ်၌ရှိချိမ့်မည်ဖြစ်ကြောင်း(ကောင်းစွာ) သတိပြုကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

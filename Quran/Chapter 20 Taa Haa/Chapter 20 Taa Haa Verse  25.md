@@ -710,6 +710,12 @@ Reche [Musa]: “Gospodi moĭ, raztvori grŭdta mi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	တမန်တော်မူစာက အို--အကျွနု်ပ်၏ အရှင်သခင်၊ အကျွနု်ပ်အား စိတ်သာယာမှုပေးသနားတော်မူပါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ယင်းမူစာက(ဤသို့)လျှောက်ထားပန်ကြားခဲ့လေသည်။ အို-ကျွန်တော်မျိုး၏အရှင်မြတ်၊ အရှင်မြတ်သည် ကျွန်တော်မျိုးအဖို့ ကျွန်တော်မျိုး၏ ရင်ကို ကျယ်ဝန်းကြည်လင်စေတော်မူပါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

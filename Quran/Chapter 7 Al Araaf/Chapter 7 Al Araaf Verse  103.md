@@ -710,6 +710,12 @@ Posle podir tyakh s Nashite znameniya provodikhme pri Faraona i znatnite mu khor
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၃။	ထိုသူများနောက် ငါသည် တမန်တော်မူဆာအား ငါ၏ နိမိတ်အံ့ဖွယ်တော်များနှင့်တကွ ဖာရောမင်းနှင့် သူ၏မှူးမတ်မျးထံသို့ စေလွှတ်တော်မူ၏။ သို့သော် သူတို့သည် သူ့ကို တွန်းလှန် ဖယ်ရှားကြ၏။ သူ့ကို ဖောက်ပြန်သူ မိစ္ဆာဒိဌိတို့သည် အဘယ်အကျိုးကို ခံစားကြရသည်ကို ကြည့်ရှု ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တဖန် ငါ အရှင်မြတ်သည် ထိုရစူလ်တမန်တော်များ၏နောက်တွင် (နဗီတမန်တော်)မူစာအား မိမိ သက်သေလက္ခဏာတော်များနှင့်တကွ ဖစ်ရ်အောင်န် နှင့် 4င်း၏အကြီးအမှူးတို့ထံ စေလွှတ်တော်မူခဲ့ရာ 4င်းတို့သည် ထိုသက်သေလက္ခဏာတော်များကို မထီမဲ့မြင် ပြုခဲ့ကြလေသည်။ သို့ဖြစ်ပေရာ ပျက်စီးရာ ပျက်စီးကြောင်း ပြုလုပ်ကြသူတို့၏ နောက်ဆုံးအဖြစ်သည် မည်သို့ ဖြစ်ခဲ့သည်ကို အသင်ရှုပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

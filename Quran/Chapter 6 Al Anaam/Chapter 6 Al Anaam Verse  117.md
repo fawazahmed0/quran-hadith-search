@@ -710,6 +710,12 @@ Tvoyat Gospod naĭ-dobre znae koĭ se otklonyava ot Negoviya pŭt i naĭ-dobr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၇။	မှတ်သားလော့။ သင်၏ကျေးဇူးတော်သခင် အသျှင်မြတ်သည် မည်သူမည်ဝါသည် အသျှင်မြတ်၏ လမ်းတော်မှ တိမ်းစောင်းသွားသည်ကို အသိမြင်ဆုံး ဖြစ်တော်မူ၏။ ၎င်းပြင် အသျှင်မြတ်သည် မည်သူမည်ဝါသည် လမ်းမှန်ကို ပြသခြင်းခံကြရသည်ကိုလည်း အသိမြင်ဆုံးဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်ဧကန် အသင့်အား ဖန်ဆင်းမွေးမြူ တော်မူသောအရှင်မြတ်သည်၊ ထိုအရှင်မြတ်၏ လမ်းတော်မှ မည်သူသည် လွဲချော်မှောက်မှားနေသည်ကို ကောင်းစွာသိရှိတော်မူသာအရှင်ဖြစ်တော်မူ၏။ ၎င်းပြင် ထိုအရှင်မြတ်သည်ပင်လျှင်လမ်းမှန်ကိုရရှိသူတို့အားလည်း ကောင်းစွာ သိရှိတော်မူသောအရှင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

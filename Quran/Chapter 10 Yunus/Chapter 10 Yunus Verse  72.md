@@ -710,6 +710,12 @@ I da se otvŭrnete, az ne sŭm tŭrsil otplata ot vas. Moyata otplata e edinstve
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၂။	သို့သော်သင်တို့သည် အကျွနု်ပ်၏ ဟောကြားသောတရားကို မနှစ်ခြိုက်လျှင် အကျွနု်ပ်တို့သည် သင်တို့ထံမှ အဖိုးအခတောင်းသောကြောင့် မဟုတ်ချေ။ အကျွနု်ပ်၏ အဖိုးအခသည် အလ္လာဟ်အရှင်မြတ်၏ တာဝန်သာဖြစ်၏။ အကျွနု်ပ်အား အလ္လာဟ်အရှင်မြတ်အား ယုံကြည်ကျိုးနွံသူတို့ဘောင်တွင် ပါဝင်ရန် မိန့်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကယ်၍ အသင်တို့သည် မျက်နှာလွှဲ၍သွားခဲ့ပါမူ ငါသည် အသင်တို့ထံ (မိမိ၏ ဆုံးမဩဝါဒပေးခြင်းနှင့် စပ်လျဉ်း၍) တစ်စုံတစ်ရာ အခပေးရန် တောင်းဆိုခဲ့ဖူးသည်မဟုတ်ပေ။ ငါ့အား အစားပေးရန်တာဝန်ကားအလ္လာဟ်အရှင်မြတ်အပေါ် ၌သာရှိပေသည်။ ၎င်း ပြင် ငါသည်မုစ်လင်မ်(အမိန့်တော်ကို လိုက်နာသူ)တို့တွင် တဦးအပါအဝင်ဖြစ်ရန် အမိန့်ပေးတော်ရရှိခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I si trŭgnakha znatnite ot tyakh: “Vŭrvete i ot·stoyavaĭte vashite bogove
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	မိစ္ဆာဒိဋ္ဌိတို့အထဲမှ အကြီးအကဲတို့သည် ဟိုဟိုဒီဒီသွားလာ၍ သြဝါဒပေးကြသည်မှာ အချင်းတို့၊ သင်တို့သည် မိမိတို့မိရိုးဖလာကိုးကွယ်သောဘုရားများအပေါ်၌ မြဲမြံသောသစ္စာရှိကြလော့၊ မှတ်သားကြလော့၊ ရှင်မိုဟမ္မဒ်၏ စကားသည် တရားမဟုတ်၊ လုပ်ကြံပြောဆိုသောမုသားစကားသာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ၎င်းတို့အနက် အကြီးအကဲများက (ငယ်သားများအား ဤသို့)(ပြောဆို)ထွက်သွားခဲ့ကြ၏။ အသင်တို့သည် သွားကြလေကုန်။ (တစ်နည်း) သွားကြစို့။ ၎င်းပြင် အသင်တို့သည် မိမိတို့၏(မိရိုးဖလာ)ကိုးကွယ်ရာများကိုသာ ကြံ့ခိုင်စွာ(ကိုးကွယ်လျက်) ရှိနေကြကုန်။ ဧကန်အမှန် ဤသည်၌ ၎င်း၏ ရည်ရွယ်ချက်တစ်ခုခု အမှန်ပင်ရှိ၏။ (တစ်နည်း)ဧကန်အမှန် ဤသည်အမှန်ပင် ရည်ရွယ်ချက်တစ်ခုခု ရှိ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

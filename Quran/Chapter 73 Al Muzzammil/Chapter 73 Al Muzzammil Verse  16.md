@@ -710,6 +710,12 @@ No vŭzprotivi se Faraonŭt na pratenika, i zatova silno go sgrabchikhme
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။ သို့သော်ဖွာရောမင်းသည် တမန်တော်ကို တော်လှန်၏၊ ထို့ကြောင့်ငါသည် သူ့ကို ကြောက်ရွံ့ဖွယ်ကောင်းသော ဖမ်းဆီးခြင်းဖြင့် ဖမ်းဆီးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ဖစ်ရ်အောင်န်သည် ထိုရစူလ်တမန်တော်မြတ်အား ဖီဆန်ခဲ့ရာ ငါအရှင်မြတ်သည် ၎င်းအား ပြင်းထန်စွာ ဖမ်းဆီးအရေးယူတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

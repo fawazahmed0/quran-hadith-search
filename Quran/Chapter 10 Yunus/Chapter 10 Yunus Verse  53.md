@@ -710,6 +710,12 @@ Iskat da gi izvestish istina li e tova. Kazhi: “Da, kŭlna se v svoya Gospod, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။	သူတို့သည် သင့်အား ထိုအကြောင်းအရာကို မှန်ကန်ပါ၏လောဟု မေးမြန်းကြသည်။ ဟောကြားလော့၊ မှန် ကန်၏။ ငါ၏ ကျေးဇူးတော်သခင်အားဖြင့် ထိုအရာသည် အမှန်ပင်မှန်ကန်၏။ သင်တို့သည် မလွတ်နိုင်ကြပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်း ပြင် ထိုသူတို့သည် အသင့်အား ဤ(ပြစ်ဒဏ်ကျရောက်မည့်)ကိစ္စသည် မှန်ကန်ပါသလောဟု သတင်းမေးမြန်းစုံစမ်းကြကုန်သည်။ အသင်သည် (၎င်း တို့အား ဤသို့)ဖြေကြားပါလေ။ ဟုတ်ပေသည်(ငါသည်)မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်အား တိုင်တည်၍ပြောကြားအံ့။ဧကန်မလွဲ ဤကိစ္စသည် အမှန်သာလျှင်ဖြစ်သည်။ ထို့ပြင်အသင်တို့သည် (မိမိတို့၌ ထိုပြစ်ဒဏ်မကျရောက်စေရန်)တားဆီးထားနိုင်ကြမည့်သူများလည်း မဟုတ်ကြပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

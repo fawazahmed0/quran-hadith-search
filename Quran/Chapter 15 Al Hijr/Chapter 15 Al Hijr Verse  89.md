@@ -710,6 +710,12 @@ I kazhi: “Az naistina sŭm yasniyat predupreditel.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၉။	ထို့အပြင် သင်ဟောကြားလော့။ မုချဧကန်ငါသည် သတိပေးသူရိုးရိုးသာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်သည် (ယင်းကာဖိရ်သွေဖည်ငြင်းပယ်သူတို့အား) ဧကန်အမှန် ငါသည် ထင်ရှားစွာသောသတိပေးနှိုးဆော်သူပင်ဖြစ်သည်ဟု (အတိအလင်း) ပြောကြားလေလော့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

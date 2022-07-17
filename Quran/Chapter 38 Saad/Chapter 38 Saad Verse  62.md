@@ -710,6 +710,12 @@ I shte rekat [za vyarvashtite]: “Zashto ne vizhdame [sred nas] khora, koito sm
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	ငရဲသားတို့အချင်းချင်း ဤသို့မေးမြန်းကြ၏၊ ငါတို့မလိမ္မာဆိုးသွမ်းသူဟု ယူဆလေ့ရှိသောသူများကို ငါတို့ ယခုမမြင်ရချေ၊ ငါတို့အဘယ်အဖြစ်သို့ ဆိုက်ရောက်နေကြသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့သည် (ဤသို့)ပြောဆို ကြပေမည်။ ဆိုးသွမ်းသောသူတို့တွင် အပါအဝင် ဖြစ်ကြသည်ဟု ကျွန်ုပ်တို့ ရေတွက်မှတ်ယူလျက် ရှိခဲ့ကြသော ပုဂ္ဂိုလ်များ (ဝါ)(မုစ်လင်မ်တို့အား ငရဲဘုံတွင်) မည်သည့်အတွက်ကြောင့် ကျွန်ုပ်တို့သည် မတွေ့မြင်ကြရသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

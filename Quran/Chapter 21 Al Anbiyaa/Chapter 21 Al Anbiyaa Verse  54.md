@@ -710,6 +710,12 @@ Reche: “Vie i predtsite vi ste v yavna zabluda.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၄။	ထိုအခါတမန်တော်အေဗရာဟမ်က သင်တို့နှင့်သင်တို့၏ မိဘဘိုးဘွားတို့သည် ရှင်းလင်းသောအမှားသို့ ဧကန် အမှန်ရောက်နေကြ၏ဟု ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအိဗ်ရာဟီမ်က အသင်တို့သည်လည်းကောင်း၊အသင်တို့၏အဘ၊ ဘိုး၊ ဘေးတို့သည်လည်းကောင်း၊ ထင်ရှားစွာသော မှောက်မှားမှု၌ပင် ရှိခဲ့ကြကုန်သည်ဟု ပြောကြားခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

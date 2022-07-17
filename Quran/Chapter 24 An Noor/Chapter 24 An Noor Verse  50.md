@@ -710,6 +710,12 @@ Bolest li ima v sŭrtsata im, ili se usŭmnyavat, ili se strakhuvat, che Allakh 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅ဝ။	ထိုသူတို့၏ စိတ်နှလုံးတွင် မိစ္ဆာဝါဒရောဂါစွဲနေသလော၊ သို့မဟုတ်ယုံမှားသံသယရှိကြသလော၊ သို့မဟုတ် အလ္လာဟ်အရှင်မြတ်နှင့် တမန်တော်သည် သူတို့အား မတရားစီရင်ဆုံးဖြတ်ပေးတော်မူမည်ဟု စိုးရိမ်ကြသလော၊ မတရားဆုံးဖြတ်တော်မူမည်မဟုတ်ချေ၊ သို့သော်သူတို့သည် ဒုစရိုက်မကောင်းမှုကို ကျူးလွန်သူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသို့ပါနည်း။ ၎င်းတို့၏ စိတ်နှလုံးအတွင်းဝယ် (ကုဖ်ရ်-နိဖာက်၏) ရောဂါရှိနေသလော၊ သို့တည်းမဟုတ် ၎င်းတို့သည် (တမန်တော်မြတ်၏ တမန်တော်ဖြစ်မှုနှင့်စပ်လျဉ်း၍) ဒွိဟသံသယဖြစ်နေကြသလော။ သို့တည်းမဟုတ် အလ္လာဟ်အရှင်မြတ်သည်လည်းကောင်း၊ ထိုအရှင်မြတ်၏ ရစူလ်တမန် တော်မြတ်သည်လည်းကောင်း၊ ထိုသူတို့အပေါ်၌ မတရားပြုလုပ်တော်မူမည်ဟု စိုးရိမ်နေကြသလော။ ထိုသို့ အလျှင်းမဟုတ်၊ စင်စစ်မှာမူကား ၎င်းတို့ကိုယ်တိုင် မတရားပြုသူများ ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

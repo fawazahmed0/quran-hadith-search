@@ -710,6 +710,12 @@ I pogubikhme selishtata okolo vas, i razyasnikhme znameniyata, za da se zavŭrna
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	ရှေးလွန်လေပြီးသောအခါက ငါသည် သင်တို့နေထိုင်ရာအရပ်ဒေသပတ်ဝန်းကျင်တွင် နေထိုင်သောလူမျိုးများ ကို ဖျက်ဆီးတော်မူခဲ့လေပြီ၊ ထိုသူတို့သည် ငါ့ဘက်တော်သို့ လှည့်လာစိမ့်သောငှာ ငါသည် သူတို့အား တရားတော်ကို နည်းအမျိုးမျိုးအဖုံဖုံတန်ဆာဆင်၍ ပြသတော်မူခဲ့လေပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ဧကန်စင်စစ် ငါအရှင်မြတ်သည် အသင်တို့၏ ပတ်ဝန်းကျင်၌ရှိခဲ့သော မြို့ရွာ(သား) တို့အား(လည်း) ဖျက်ဆီးတော်မူခဲ့၏။ ထို့ပြင် ငါအရှင်မြတ်သည် ၎င်းတို့(တွဲဖက် ကိုးကွယ်မှုကိုစွန့် ၍) ပြန်လှည့်ကြအံ့သောငှာ (မိမိ၏)သက်သေ လက္ခဏာတော်များကို အမျိုးမျိုး ပြောင်းလဲမိန့်ကြား ပြသတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

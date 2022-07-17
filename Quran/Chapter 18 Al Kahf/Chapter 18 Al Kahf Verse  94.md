@@ -710,6 +710,12 @@ Rekokha: “O, Zu-l-Karnaĭn, Yadzhudzh i Madzhudzh pakostyat po zemyata. Da ti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၄။	သူတို့က အို-ဇုလ်ကရ်နိုင်မင်း၊ ဟာဂျူးမာဂျူးခေါ် အသင်းသားတို့သည် မုချဧကန်ဤအရပ်ဒေသကို ဖျက်ဆီး နေကြပါ၏။ ထို့ကြောင့်မင်းကြီးသည် အကျွနု်ပ်တို့နှင့် သူတို့စပ်ကြားတွင် တံတိုင်းကြီးတခုကို စီမံပြုလုပ်ပေးပါ။ အကျွနု်ပ်တို့သည် မင်းကြီးအား လက်အောက်ခံကြေးလက်ဆောင်ပေးရပါမည်လောဟု ပြောကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းလူမျိုးတို့က အို-ဇုလ်ကရ်နိုင်န်၊ ဧကန်မလွဲယအ်ဂျူဂျ်နှင့်မအ်ဂျူဂျ်တု့ိသည် ဤအရပ်ဒေသတွင် ဆူပူသောင်းကျန်းလုယက်တိုက်ခိုက် ဖျက်ဆီးသူများပင် ဖြစ်ကြပါသည်။ သို့ပါ၍ အသင်သည် ကျွန်ုပ်တို့နှင့်၎င်းတို့၏အကြားတွင်အကာအကွယ်တစ်ခုကို ပြုလုပ်ပေးပါ။ ကျွန်ုပ်တို့သည် အသင့်အား အခွန်အကောက်(လက်အောက်ခံကြေး)တစ်စုံတစ်ရာကို ပေးဆောင်ကြရပါမည်လောဟု ပြောဆိုကြ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

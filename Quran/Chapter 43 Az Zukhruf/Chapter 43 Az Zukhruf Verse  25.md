@@ -710,6 +710,12 @@ I im otmŭstikhme. I vizh kakŭv be krayat na otrichashtite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	ထို့ကြောင့် ငါသည် သူတို့ကို လက်စားချေတော်မူ၏၊ အေ-တမန်တော်၊ သမ္မာတရားတော်ကို ငြင်းဆန်သော သူယုတ်မာတို့သည် မိမိတို့ဘဝဇာတ်ကို မည်သို့သိမ်းရလေသည်ကို ကြည့်လော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်သောကြောင့်ပင် ငါအရှင်မြတ်သည် ၎င်းတို့အား တုံ့ပြန်လက်စားချေတော်မူခဲ့၏။ သို့ဖြစ်ပေရာ (အိုနဗီတမန်တော်)အသင်သည် မဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ်ခဲ့ကြကုန်သောသူတို့၏ နောက်ဆုံးအကျိုးသည် မည်သို့မည်ပုံရှိခဲ့သည်ကို (လေ့လာ) ကြည့်ရှုပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

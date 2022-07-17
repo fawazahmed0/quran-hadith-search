@@ -710,6 +710,12 @@ I shte se otdadat na Allakh v tozi Den sŭs smirenie, i shte izchezne ot tyakh o
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၇။	ထို့အပြင်သူတို့သည် အလ္လာဟ်အရှင်မြတ်အား ထိုနေ့တော်ကြီး၌ ကျိုးနွံနာခံကြ၏။ သူတို့ဖန်တီးခဲ့မှုများသည် သူတို့ကို အကျိုးတစုံတခုမပေးချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုသူတို့သည် ထိုနေ့တွင် အလ္လာဟ်အရှင်မြတ်အထံတော်သို့ အမိန့်တော်ကိုလိုက်နာရန် ကမ်းလှမ်းကြပေမည်။ ထိုမှတစ်ပါး ၎င်းတို့ထံမှ ၎င်းတို့ ကြံဖန် လီဆယ်လေ့ ရှိခဲ့ကြသည်များသည်လည်း ပျောက်ပျက်၍ သွားအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

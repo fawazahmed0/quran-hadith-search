@@ -710,6 +710,12 @@ O, vyarvashti, da vi posocha li tŭrgoviya, koyato shte vi spasi ot bolezneno m�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၀။ အို-ယုံကြည်သူအပေါင်းတို့၊ ငါသည် သင်တို့အား ပြင်းပြ နာကျင်ဖွယ်ရှိသောအပြစ်ဒဏ်မှ ကယ်နှုတ်မည့်ရောင်း ဝယ်ဖောက်ကားမှုကို ပြသတော်မူရမည်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-'မုအ်မင်န်' သက်ဝင်ယုံကြည်သူ အပေါင်းတို့၊ အသင်တို့အား အလွန်တရာ နာကျင်ဖွယ်ဖြစ်သော ပြစ်ဒဏ်မှ လွတ်မြောက်စေအံ့သော ကူးသန်းရောင်းဝယ် ဖောက်ကားမူကို ငါအရှင်မြတ်သည် အသင်တို့အား ညွှန်ပြတော်မူရမည်လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I obŭrni litse kŭm religiyata pravoveren, i nikoga ne bŭdi ot sŭdruzhavashti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၅။	အို-မိုဟမ္မဒ်၊ သင်သည် ဇာတိပကတိအားဖြင့် ဖြောင့်မတ်မှန်ကန်သဖြစ်သည့်အတိုင်း သင်သည် သမ္မာအယူဝါဒ ဘက်သို့ တည်တ့ံခိုင်မြဲစွာမျက်နှာမူလော့။ သင်သည် အလ္လာဟ်အရှင်မြတ်နှင့် ဘုရားတုဘုရားယောင်များကို တွဲဖက်သူတို့ဘောင်တွင် မပါဝင်လင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အသင်သည် မိမိမျက်နှာကို ဒီန်သာသနာတော်ဘက်သို့ သဒ္ဒါကြည်ဖြူစွာ လှည့်ထားပါလေ။ ထိုမှတစ်ပါး အသင်သည် မုရှ်ရစ်က် တို့တွင် အပါအဝင် မဖြစ်ပါလေနှင့် (ဟူ၍လည်း အမိန့်တော် ရရှိ၏။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

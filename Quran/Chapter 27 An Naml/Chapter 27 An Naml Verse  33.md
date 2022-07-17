@@ -710,6 +710,12 @@ Rekokha: “Nie imame sila i ogromna mosht. A povelyata e tvoya, ti reshi kakvo 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	မှုးမတ်တို့က အကျွနု်ပ်တို့သည် စစ်မက်အင်အားကြီးမား၍ တန်ခိုးအာဏာခွန်အားဗလနှင့် ပြည့်စုံကြပါ၏၊ သို့သော်သခင်မသာ အမိန့်ပေးတော်မူရပါမည်၊ ထို့ကြောင့်သခင်မသည် မည်သည့်အမိန့်ပေးမည်ကို ဆင်ခြင်တော် မူပါဟု ပြန်လျှောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှူးမတ်တို့က ကျွန်ုပ်တို့သည် ခွန်အားရှိသူများ၊ တိုက်ခိုက်မှုကို ပြင်းထန်စွာ ဝါသနာထုံသူများ ဖြစ်ကြပါသည်။သို့ရာတွင် အမိန့်အာဏာသည်ကား အသင် ဘုရင်မ၏လက်တွင်း၌သာရှိပေရာ အသင်ဘုရင်မသည် မည်သို့အမိန့်ပေးမည်ကို (ဆင်ခြင်)ပါလော့ဟု လျှောက်ထားခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

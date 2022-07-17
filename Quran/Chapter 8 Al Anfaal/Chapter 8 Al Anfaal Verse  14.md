@@ -710,6 +710,12 @@ Eto, vkusete go! Za nevernitsite e mŭchenieto na Ogŭnya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	၎င်းသည် အသျှင်မြတ်၏ စီရင်ချက်တော်တည်း။ ထို့ကြောင့် ၎င်းကို မြည်းကြလော့။ မိစ္ဆာမိုက်တို့ အတွက် ငရဲမီးအပြစ်ဒဏ်တော်ရှိကြောင်းကို မှတ်ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်တို့သည် ဤသည့် (ပြစ်ဒဏ်)ကို မြည်းစမ်းကြလေကုန်။ ၎င်းပြင် ဧကန် မလွဲ ကာဖိရ်မယုံမကြည် သွေဖည်ငြင်းပယ်ကုန် သောသူတို့ခံစားအံ့သောငှာဂျဟန္နမ်ငရဲဘုံ၏ပြစ်ဒဏ်သည် အဆင်သင့်ရှိသည် (ကိုလည်းကောင်းစွာ မှတ်ယူကြလေကုန်။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

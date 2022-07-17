@@ -710,6 +710,12 @@ I koĭ e po-golyam ugnetitel ot onzi, komuto se napomnyat znameniyata na negovi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	မိမိအရှင်သခင်၏ ပညတ်တရားတော်ကို ကြားရသောအခါ မနာယူပဲ ကျောပေးသွားသူထက် အဘယ်သူသည် ပြစ်မှုကို ကျူးကျော်သနည်း၊ မှတ်သားလော့၊ ငါအရှင်မြတ်သည် အပြစ်ထိုက်သူဒုစရိုက်ကောင်ကို လက်စားချေ တော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူထက်ပို၍ မတရားသောသူသည် မည်သူရှိအံ့နည်း။ ထိုသူသည် ၎င်းအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ အာယတ်တော်များအားဖြင့် သတိပေးခြင်းခံခဲ့ရသည်။ ထို့နောက် ထိုသူသည် ယင်းအာယတ်တော်များမှမျက်နှာလွှဲခဲ့၏။ ဧကန်မလွဲ ငါအရှင်မြတ်သည် အပြစ်ရှိသူတို့အား တုံ့ပြန်လက်စားချေတော်မူမည့် အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

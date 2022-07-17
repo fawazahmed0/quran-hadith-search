@@ -710,6 +710,12 @@ I ot·sluzhvaĭte molitvata, i davaĭte milostinyata zakat, i se pokoryavaĭt
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၆။	အရှင်မြတ်ထံတော်မှ ကရုဏာတော်၊ ကောင်းကြီးမင်္ဂလာတော်ရရှိစိမ့်သောငှာ ဆွလားသ်ဝတ်ပြုကြလော့၊ ဇကားသ်အလှုကို ပေးကြလော့၊ ထို့အပြင်တမန်တော်ကို နာခံကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အသင်တို့သည် "ဆွလာသ်"ဝတ်ပြုမှုကို ဆောက်တည်ကြလေကုန်။ ၎င်းပြင် အသင်တို့သည် "ဇကားသ်"ပေးကြလေကုန်။ ထိုမှတစ်ပါး အသင်တို့သည် ရစူလ်တမန်တော်မြတ်၏ အမိန့်ကို လိုက်နာကြလေကုန်။ သို့မှသာလျှင် အသင်တို့သည် သနားကရုဏာပြုတော်မူခြင်းကို ခံကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

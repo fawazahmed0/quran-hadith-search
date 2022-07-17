@@ -710,6 +710,12 @@ Kazhi: “Kak mislite, ako Allakh stori noshtta dŭlgovechna za vas do Denya na 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၁။	တမန်တော်ဟောကြားလော့၊ ဟယ်-အချင်းတို့၊ သင်တို့သည် ဤအကြောင်းကို စဉ်းစားဆင်ခြင်ပြီးကြသလော၊ အကယ်၍အလ္လာဟ်မအရှင်မြတ်သည် ရှင်ပြန်ထမြောက်ရသောနေ့တော်ကြီးတိုင်အောင် သင်တို့အဖို့ရာ ညဉ့်ကို မပြတ်မလပ်အစဉ်တည်စေတော်မူခဲ့ပါလျှင် အရှင်မြတ်မှတပါး အဘယ်ဘုရားသည် နေ့အလင်းရောင်ကို သင်တို့ အား ပေးနိုင်အ့ံနည်း၊ ထို့ကြောင့်သင်တို့သည် ကြားနာကြမည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (၎င်းတို့ အားဤသို့)ပြောကြားပါလေ။ (အချင်းတို့၊) အသင်တို့သည် (ငါ့အား)ပြောပြကြလေကုန်။ အကယ်၍သာ အလ္လာဟ်အရှင်မြတ်သည်’ကိယာမတ်’ ရှင်ပြန်ထမည့် နေ့တိုင်အောင် ညဉ့်ကို အသင်တို့အပေါ်၌ အမြဲထာဝစဉ် တည်စေတော်မူခဲ့ပါလျှင် အလ္လာဟ်အရှင်မြတ်အပြင် အသင်တို့ထံသို့ အလင်းရောင်ကို ဆောင်ကြဉ်းအံ့သော အခြားကိုးကွယ်ရာဟူ၍ မည်သူရှိပါသနည်း။သို့ပါလျက် အသင်တို့သည် မကြားကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

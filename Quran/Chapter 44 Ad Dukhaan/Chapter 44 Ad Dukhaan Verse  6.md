@@ -710,6 +710,12 @@ milost ot tvoya Gospod. Toĭ e Vsechuvashtiya, Vseznaeshtiya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	ကျမ်းတော်သည် သင်၏ အရှင်သခင်အထံတော်မှ ကောင်းကြီးမင်္ဂလာတော်ဖြစ်၏၊ မှတ်သားလော့၊ အရှင်မြတ် သည် အကြွင်းမဲ့ကြားတော်မူသောအရှင်၊ အကြွင်းမဲ့သိတော်မူသောအရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်မှ ကရုဏာတော်အားဖြင့် စင်စစ်ဧကန် ထိုအရှင်မြတ်သည်ပင် အလွန်တရာ ကြားတော်မူသောအရှင်၊ အလွန်တရာ သိတော်မူသောအရှင်၊ ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

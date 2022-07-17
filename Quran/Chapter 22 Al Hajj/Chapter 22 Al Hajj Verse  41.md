@@ -710,6 +710,12 @@ Onezi, koito, ako gi utvŭrdim na zemyata, ot·sluzhvat molitvata i davat milost
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	အကယ်၍ငါအရှင်မြတ်က သူတို့အား ကမ္ဘာမြေပေါ်တွင် တန်ခိုးအာဏာပေးသနားတော်မူလျှင် ထိုသူတို့သည် ဆွလားသ်ဝတ်ပြုခြင်း၊ ဇကားသ်အလှုကို ပေးခြင်း၊ သနားကြင်နာခြင်းကို ဆင့်ဆိုအားပေးခြင်း၊ မကောင်း ဆိုးသွမ်းမှုကို တားမြစ်ကန့်ကွက်ခြင်းများကို ပြုကြ၏၊ အမှန်မှာ အမှုအခင်းများ၏ ပြီးဆုံးရာသည် အလ္လာဟ် အရှင်မြတ်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတို့သည် အကယ်၍ ငါအရှင်မြတ်သည် ထိုသူတို့အား ကမ္ဘာမြေဝယ် လွှမ်းမိုးအုပ်စိုးမှုကို ပေးတော်မူခဲ့ပါလျှင် ၎င်းတို့သည် ဆွလာတ်ဝတ်ပြုမှုကို ဆောက်တည်ကြပေမည်။ ၎င်းပြင် ဇကာတ်ကိုလည်း ပေးဆပ်ကြပေမည်။ ကောင်းမြတ်သော ကိစ္စများကိုလည်း အမိန့်ပေးကြပေမည်။ မကောင်းမှုများမှလည်း တားမြစ်ကြပေမည်။ အမှန်သော်ကား အရေးကိစ္စ (အလုံးစုံ)တို့၏ နောက်ဆုံးအကျိုးသည်အလ္လာဟ် အရှင်မြတ်အထံတော်၌သာ ရှိပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

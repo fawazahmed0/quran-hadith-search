@@ -710,6 +710,12 @@ I kolko pokoleniya predi tyakh pogubikhme, a byakha po-silni ot tyakh i obikalya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	ဤသူများကို ဖန်ဆင်းတော်မမူမီ အထက်ကျော်ကာလ သူတို့ထက်လုံးရပ်သဏ္ဍာန် ခွန်အားကြီးမားသောကမ္ဘာ မြေကြီးပေါ်တွင် အနှံ့အပြားသွားလာနေထိုင်ကြသော လူဟောင်းအဆက်ဆက်ကို ငါဖျက်ဆီးတော်မူလေပြီ၊ တရားစီရင်တော်မူသောနေ့တော်ကြီးဆိုက်ရောက်လာသောအခါ သူတို့တွင် ခိုလှုံပုန်းအောင်းစရာနေရာဌာန တစ်စုံတစ်ရာရှိသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ငါအရှင်မြတ်သည် ထိုသူတို့အလျင် မြောက်မြားစွာသော လူမျိုးဆက်တို့ကို ဖျက်ဆီးတော်မူခဲ့၏။ ၎င်းတို့မှာ ထိုသူတို့ထက် ရဲစွမ်းသတ္တိခွန်အားဗလ ကြီးမားကြံ့ခိုင်သူများ ဖြစ်ခဲ့ကြ ကုန်၏။ ထိုအခါ ၎င်းတို့သည် အမြို့မြို့အရွာရွာ၌ (ခိုလှုံရာ နေရာများကို)လိုက်လံ ရှာဖွေခဲ့ကြကုန်၏။(သို့တစေလည်း ၎င်းတို့သည်) ထွက်ပြေး တိမ်းရှောင်ရာ နေရာဟူ၍ ရှာဖွေတွေ့ရှိခဲ့ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

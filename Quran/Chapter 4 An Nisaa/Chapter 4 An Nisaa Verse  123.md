@@ -710,6 +710,12 @@ Nito e vŭv vashite kopnezhi, nito e v kopnezhite na khorata na Pisanieto - koi�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၃။	အသျှင်မြတ်၏ ဗျာဒိတ်တော်သည် သင်တို့အကြိုက်များနှင့်သော်လည်းကောင်း၊ ရှေးကျမ်းတော် ရရှိသူတို့၏အကြိုက်များနှင့်သော်လည်းကောင်း မတိုက်ဆိုင်ပေ။ အကြင်သူသည် ဒုစရိုက်ပြစ်မှု ကျူးလွန်၏။ ထိုသူသည် မိမိပြစ်မှု၏အပြစ်ကိုသာလျှင် ခံစားရလတ္တံ့။ အသျှင်မြတ်နှင့်ဆန့်ကျင်သော ကာကွယ်သူ၊ သို့မဟုတ် ကူညီသူ၊ ထိုသူတို့၌ ရှိမည်မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့၏ အာသာရမ္မက် အလိုဆန္ဒအတိုင်းလည်း ဖြစ်မည်မဟုတ်ပေ။ (ရှေးအထက်) ကျမ်းဂန်ရရှိသောသူတို့၏ အာသာရမ္မက် အလိုဆန္ဒအတိုင်းလည်း ဖြစ်မည်မဟုတ်ပေ။ (စင်စစ်အားဖြင့်) မည်သူမဆို မကောင်းမှုဒုစရိုက်ကိုကျင့်မူအံ့။ ထိုသူသည် ယင်းမကောင်းမှုအတွက် အပြစ်ပေးခြင်းကို ခံရလတ္တံ့။ ထို့ပြင်တဝ ယင်းသူသည် မိမိအဖို့ အလ္လာဟ်အရှင်မြတ်မှတစ်ပါး အခြား အဆွေခင်ပွန်း တစ်ဦးတစ်ယောက်ကိုသော်လည်းကောင်း၊ ကူညီစောင်မမည့်သူ တစ်ဦးတစ်ယောက်ကိုသော်လည်းကောင်း တွေ့ရှိလိမ့်မည်မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

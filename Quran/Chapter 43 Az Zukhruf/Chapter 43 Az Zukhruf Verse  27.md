@@ -710,6 +710,12 @@ a [sluzha] samo na Onzi, Koĭto me e sŭzdal. Toĭ shte me napŭti.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	အကျွန်ုပ်တို့သည် မိမိ၏အရှင်သခင်အားသာလျှင် ကိုးကွယ်၏၊ အရှင်မြတ်သည် အကျွနု်ပ်အား မုချဧကန်လမ်း ညွှန်တော်မူပါမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင် အရှင်မြတ်မှတစ်ပါး "(တစ်နည်း) သို့ရာတွင် (ငါသည်)အကြင်အရှင်မြတ်အားသာလျှင် (ဆည်းကပ်ကိုးကွယ်၏)" ထိုအရှင်မြတ်သည် ငါ့အား ဖန်ဆင်းတော်မူခဲ့၏။တစ်ဖန် ထိုအရှင်မြတ်သည်ပင် ငါ့အား တရားလမ်းမှန်ကိုပြသတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

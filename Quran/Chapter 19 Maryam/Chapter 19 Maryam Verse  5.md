@@ -710,6 +710,12 @@ I se opasyavam ot rodninite sled men, a zhena mi e bezdetna. Dari me s priemnik 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	အကျွနု်ပ်၏ ခင်ပွန်းသည် အမြံုဖြစ်သောကြောင့် အကျွနု်ပ်သည် ကွယ်လွန်ပြီးနောက် မိမိ၏ အဆက်အနွယ် များကို စိုးရိမ်ကြောင့်ကျလှပါ၏။ အကျွနု်ပ်အား အရှင့်ထံမှ အမွေစားအမွေခံတပါးကို ပေးသနားတော်မူပါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ကျွန်တော်မျိုးသည် မိမိ(မရှိသည့်)နောက်တွင်(မိမိ)ဆွေမျိုးနီးစပ်သူတို့နှင့် ပတ်သက်၍ စိုးရိမ်မိခဲ့ပါသည်။ ထို့ပြင် ကျွန်တော်မျိုး၏ဇနီးမှာလည်း သားသမီးမထွန်းကားသော အမြုံပင်ဖြစ်နေပါသည်။ သို့ဖြစ်ပါ၍ အရှင်မြတ်သည် ကျွန်တော်မျိုးအား မိမိအထံတော်မှ သားကောင်းရတနာ အမွေစားအမွေခံ တစ်ဦးကိုချီးမြှင့်ပေးသနားတော်မူပါ၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

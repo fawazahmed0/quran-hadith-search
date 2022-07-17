@@ -710,6 +710,12 @@ I zovi khorata za poklonenieto khadzh! Shte idvat pri teb i pesh, i vŭrkhu izne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	အို--တမန်တော်၊ သင်သည် ဤကျောင်းတော်ကြီးသို့ ဟဂျ်ပြုရမည့်အကြောင်းကို လူသားအပေါင်းတို့အား ကြေငြာလော့၊ သူတို့သည် သင့်ထံသို့ ခြေလျင်သော်လည်းကောင်း၊ ကြံလှီပိန်ခြောက်သောကုလားအုတ်တိရိစ္ဆာန် များကို စီးနင်း၍သော်လည်းကောင်း၊ အရပ်လေးမျက်နှာမှ လာကြလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်သည် လူခပ်သိမ်းတို့အား (ထူးမြတ်လှစွာသော ယင်းအိမ်တော်သို့ လာရောက်ဖူးမြော်)ဟဂျ်ပြုကြရန် ကြေညာ(ဖိတ်ခေါ်)ပါလေ။ (ထိုအခါ)လူတို့သည် အလွန်ဝေးလံသော လမ်းခရီးတိုင်းမှ ခြေကျင်လည်းကောင်း၊ ကျုံလှီပိန်ချုံးသော ကုလားအုတ်အသီးသီးပေါ်၌ စီးနင်း၍လည်းကောင်း၊အသင့်ထံသို့ လာရောက်ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

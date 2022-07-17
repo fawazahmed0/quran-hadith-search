@@ -710,6 +710,12 @@ Kazhi: “Prizovete onezi, za koito tvŭrdite, [che sa bogove] osven Allakh!” 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	အို-မိုဟမ္မဒ်၊ မိစ္ဆာယုတ်တို့အား ဟောကြားလော့၊ ဟယ်-အချင်းတို့၊ အလ္လာဟ်အရှင်မြတ်မှတပါး သင်တို့ကိုးကွယ် သောဘုရားတုများထံတွင် ဆုပန်ကြားကြလော့၊ သူတို့သည် မိုးကောင်းကင်မှာသော်လည်းကောင်း၊ ကမ္ဘာမြေကြီး မှာသော်လည်းကောင်း၊ ဝေစုတစ်စုံတစ်ခုမျှမရှိချေ၊ သူတို့အနက် တစ်စုံတစ်ယောက်မျှ အရှင်မြတ်၏ အရံ၊ သို့မဟုတ် လက်ထောက်ဘုရားမဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်)အသင်သည် ပြောကြား ပါလေ။ (အချင်းတို့) အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အပြင်(ကိုးကွယ်ရာဘုရားများဖြစ်ကြသည်ဟု) မိမိတို့ထင်မှတ် ကိုးကွယ်ခဲ့ကြသောသူတို့အားဟစ်ခေါ်ကြလေကုန်။ ထိုသူတို့သည်မိုးကောင်းကင်များ၌လည်းကောင်း၊ ပထဝီမြေ၌ လည်းကောင်း၊နှမ်းစေ့ခန့်မျှပင် ပိုင်ဆိုင်ကြသည် မဟုတ်ပေ။ ထိုမှတစ်ပါးယင်းမိုးကောင်းကင်များနှင့် ပထဝီမြေနှစ်ခု၌ ၎င်းတို့၏ ဖက်စပ်မှုဟူ၍လည်း လုံးဝမရှိပေ။ ထိုနည်းတူစွာ ၎င်းတို့အနက်ထိုအရှင်မြတ်အား ယိုင်းပင်းကူညီသူဟူ၍လည်း တစ်ဦးတစ်ယောက်မျှပင်မရှိချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

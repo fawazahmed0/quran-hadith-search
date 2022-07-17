@@ -710,6 +710,12 @@ Na sutrinta se ozova v grada, strakhuvaĭki se, debneshkom, i izvednŭzh - onzi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	တဖန်နံနက်မိုးသောက်ရောက်လတ်သော် မူစာသည် စိုးရိမ်ကြောင့်ကျခြင်းနှင့်ပင် မြို့ထဲတွင် သတိဝိရိယနှင့် နေ၏၊ ယမန်နေ့က အကူအညီတောင်းသူသည် ယခုပင်အထောက်အပံ့တောင်းနေ၏၊ မူစာက သူ့အား မှတ်သား လော့၊ သင်သည် စိတ်ဆတ်သောသူမုချဧကန်ဖြစ်၏ဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် (ထို)မူစာသည် မြို့ထဲတွင် ကြောက်ရွံ့စိုးရိမ်စွာ စောင့်မျှော်လျက် နံနက်မိုးလင်းခဲ့ရာ ရုတ်တရက် ယမန်နေ့က မိမိထံ အကူအညီတောင်းခဲ့သောသူသည် (ယနေ့တစ်ဖန် ထပ်မံ၍) မိမိအား ဟစ်ခေါ်နေပြန်၏။ ထိုမူစာက ၎င်းအား ဧကန်အမှန် အသင်သည် ထင်ရှားစွာသော လမ်းလွဲသူတစ်ဦးပင်ဖြစ်သည်ဟု ပြောကြားခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

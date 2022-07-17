@@ -710,6 +710,12 @@ Ako nameryat ubezhishte ili peshteri, ili prokhod, shte svŭrnat natam - neobuzd
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၇။	သူတို့သည် ခိုလှုံရာကိုလည်းကောင်း၊ လိုဏ်ဂူကိုသော်လည်းကောင်း၊ ဝင်သွားစရာကိုသော်လည်းကောင်း၊ တွေ့ရှိကြလျှင် သူတို့သည် သူတို့သည် ထိုနေရာသို့ ထွက်ပြေတိမ်းရှောင်သူများကဲ့သို့ အမှန်ပင်မြန်ဆန်စွာ ပြေးသွားကြလတ္တံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍သာ ထို (မုနာဖစ်က်) တို့သည် ခိုကိုးရာနေရာ တစ်ခုခုကိုသော်လည်းကောင်း၊ ဥမင်လိုဏ်ခေါင်းများကိုသော်လည်းကောင်း၊ ဝင်ရောက်(ပုန်းအောင်း)ရန်နေ ရာတစ်ခုခုကိုသော်လည်းကောင်း၊ တွေ့ရှိကြပါ လျှင် ၎င်းတို့သည်ထိုနေရာသို့ ဦးခေါင်းမော့ကာ တစ်ဟုန် တည်း တွန်းထိုးကာထွက်ပြေး (ဝင်ရောက်ပုန်းအောင်း) ကြမည် သာတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

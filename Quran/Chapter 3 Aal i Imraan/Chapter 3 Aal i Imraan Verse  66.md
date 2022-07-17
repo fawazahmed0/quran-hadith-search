@@ -710,6 +710,12 @@ Eto, vie sporekhte za onova, za koeto imate znanie. A zashto sporite za onova, z
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၆။	မှတ်သားကြလော့။ သင်တို့သည် မိမိအနည်းငယ်မျှသိသောအကြောင်းအရာကို အခြေအတင် ပြောဆိုငြင်းခုံကြသူများဖြစ်ကြ၏။ သင်တို့လုံးဝမသိသော အကြောင်းအရာကို အဘယ့်ကြောင့် ငြင်းခုံကြသနည်း။ အလ္လာဟ်အသျှင်မြတ်သည် သိတော်မူ၏။ သင်တို့ကား မသိကြပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဟယ် - အချင်းတို့၊ အသင်တို့သည် အကြငအကြောင်း နှင့်စပ် လျဉ်း၍ အချေအတင် ပြောဆိုခဲ့ကြချေပြီ။(ထိုအကြောင်းနှင့်စပ်လျဉ်း၍) အသင်တို့၌ အနည်းငယ်မျှသာအသိတရားရှိခဲ့၏။ ယခုတဖန် မိမိတို့လုံးဝမသိသောကိစ္စနှင့်စပ်လျဉ်း၍ အဘယ်ကြောင့် အသင်တို့ အချေအတင်ငြင်းခုံပြောဆိုကြပြန်သနည်း။ စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် (အရာခပ်သိမ်းကို လုံးဝဥဿုံအလုံးစုံ)သိတော်မူ၏၊ အသင်တို့မူကား (အဘယ်တစ်စုံတစ်ရာကိုမျှအတိအကျ) သိနားမလည်ကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

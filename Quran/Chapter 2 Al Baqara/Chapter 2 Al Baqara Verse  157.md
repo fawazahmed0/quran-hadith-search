@@ -710,6 +710,12 @@ Vŭrkhu tyakh ima blagoslov i milost ot tekhniya Gospod. Te sa napŭtenite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၇။	ထိုသူတို့သည် မိမိတို့အပေါ် မိမိတို့၏ အရှင်သခင်အထံတော်မှ ကောင်းချီးမင်္ဂလာတော်နှင့် ဂုဏ်ကျေးဇူးတော်များကျရောက်သူများဖြစ်ကြ၏။ သူတို့သည် လမ်းမှန်ကို ညွှန်ပြခြင်းခံရသူများ ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(ဘေးအန္တရာယ်များကို ခန္တီတရားဖြင့် သည်းခံသော) ဤသူတို့အပေါ်၌သာလျှင် ယင်းသူတို့အား မွေးမြူတော်မူထသောအလ္လာဟ် အရှင်မြတ် အထံတော်မှ ကောင်းခြီးမင်္ဂလာများနှင့် မေတ္တာကရုဏာတော် သက်ရောက်ပေမည်။ ၎င်းပြင် ထိုသူတို့သည်သာလျှင် ဖြောင့် မတ်မှန်ကန် သော တရားလမ်းစဉ်ကို ရရှိသူများ ဖြစ်ကြကုန် သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

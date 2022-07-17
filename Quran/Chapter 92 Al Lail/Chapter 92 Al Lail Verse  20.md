@@ -710,6 +710,12 @@ a samo v stremezh kŭm Lika na svoya Gospod, Vŭrkhovniya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၀။ သို့သော်သူသည် အတိုင်းထက်အလွန်မြင့်မြတ်တော်မူသောမိမိအရှင်သခင်၏ နှစ်သက်တော်မူခြင်းကို ရလိုသော ဆန္ဒနှင့်သာလျှင် ပေးကမ်းစွန့်ကြဲ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၏ နှစ်သက်ကျေနပ်မှုကို ရယူရန် (ပေးကမ်း လှူဒါန်းခြင်း)သာဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

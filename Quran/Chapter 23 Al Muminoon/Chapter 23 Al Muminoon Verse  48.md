@@ -710,6 +710,12 @@ I gi vzekha za lŭzhtsi, i byakha ot pogubenite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။ ယင်းကဲ့သို့ပြောဆိုပြီးလျှင် သူတို့သည် တမန်တော်နှစ်ပါးအား မယုံကြည်ငြင်းဆန်ကြ၏၊ ပျက်စီးယိုယွင်းသော သူတို့ဘောင်တွင် အပါအဝင်ဖြစ်သွားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အချုပ်မှာ ၎င်းတို့သည် ထို(နဗီတမန်တော်)မူစာ နှင့် (နဗီတမန်တော်)ဟာရူန်၊ နှစ်ပါးစလုံးကို မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်ခဲ့ကြကုန်၏။ သို့ဖြစ်ပေရာ ယင်း(ဖစ်ရ်အောင်န်နှင့် မှူးမတ်)တို့သည် ပျက်စီးခဲ့ကြရကုန်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

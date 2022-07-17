@@ -710,6 +710,12 @@ I rekokhme: “O, Adam, prebivavaĭ s zhena si v Raya i yazhte ottam v dovolstv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	ငါက အေ အာဒမ် သင်တို့ ဇနီးမောင်နှံသည် သုခဥယျာဉ်တော်တွင် နေကြလော့။ သင်တို့သည် ဥယျာဉ်အသီးအနှံများကို အလိုဆန္ဒအတိုင်း လွတ်လပ်စွာစားကြလော့။ သို့သော် သင်တို့သည် ဒုစရိုက်မှုကျူးလွန်သူများ မဖြစ်စေခြင်းငှာ ဤအပင်နားသို့ မချဉ်းကပ်ကြလင့်ဟု မိန့်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ငါ(အလ္လာဟ်အရှင်မြတ်)သည်(အာဒမ်အား) ဤသို့မိန့်ကြားတော်မူ၏။ အို-အာဒမ်၊ အသင်သည် မိမိ ၏ကြင်ယာ(ဟောင်ဝါ)နှင့်တကွ ဂျန္နတ် အမတသုခဘုံ၌ နေထိုင်၍ အသင်တို့ဇနီးမောင်နှံနှစ်ဦးသည် ထိုသုခဘုံတွင် အလိုရှိရာနေရာမှ အာသာဆန္ဒရှိသမျှကို (လွတ်လပ်စွာယူငင်ပြီး)ဖော သီဝပြောစွာ စားသုံးကြကုန်၊ သို့ရာတွင်အသင်တို့သည် ဤအပင်၏အနီးသို့ မချဉ်းကပ်ကြနှင့်၊ (အကယ်၍ထိုအပင်၏အနီးသို့ချဉ်းကပ်၍ ထိုအပင်၏အသီးအနှံကို စားသုံးမိကြလျှင်) အသင်တို့သည် ပြစ်မှု ကျူးလွန်သူများတွင် အပါအဝင်ဖြစ်ကြကုန်လတ္တံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

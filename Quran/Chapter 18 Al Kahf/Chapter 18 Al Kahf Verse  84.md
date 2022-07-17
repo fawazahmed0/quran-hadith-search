@@ -710,6 +710,12 @@ Naistina go ukrepikhme Nie na zemyata i mu dadokhme pŭt kŭm vsyako neshto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၄။	မှတ်သားကြလော့၊ ငါအရှင်သည် ထိုမင်းအား ကမ္ဘာမြေပေါ်ဝယ် တန်ခိုးအရှိန်ကြီးမားစေတော်မူ၏။ အထူးထူး သောအရာသို့ လမ်းတခုကို ပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ငါအရှင်မြတ်သည် ယင်းဇုလ်ကရ်နိုင်န်အား ကမ္ဘာမြေဝယ် အုပ်ချုပ်မှုအာဏာပေးတော်မူခဲ့၏။ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ၎င်းအား ခပ်သိမ်းသောအရာတို့သို့၊ လမ်းတစ်ခုကို ချီးမြှင့်ပေးသနားတော်မူခဲ့၏။(တစ်နည်း)အရာခပ်သိမ်းတို့နှင့် စပ်လျဉ်း၍ နည်းလမ်း(ဥစ္စာပစ္စည်းလက်နက်ကိရိယာအမျိုးမျိုး)ကို ချီးမြှင့်ပေးသနားတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

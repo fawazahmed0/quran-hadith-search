@@ -710,6 +710,12 @@ Vie li sŭzdavate dŭrvoto za nego, ili Nie sme Sŭzdatelya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၂။	မီးမွှေးဖို့ရာ ထင်းပင်ကို သင်တို့သည် ပေါက်ရောက်ကြီးမားလာစေသလော၊ သို့မဟုတ် ငါပေါက်ရောက်ကြီးမား စေတော်မူသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမီးထွက်သော သစ်ပင်ကို အသင်တို့ကိုယ်တိုင် ပေါက်ရောက်စေခဲ့ကြလေသလော။ သို့တည်းမဟုတ် ငါအရှင်မြတ်သည်ပင် ပေါက်ရောက်စေတော် မူသောအရှင် ဖြစ်တော်မူပါသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

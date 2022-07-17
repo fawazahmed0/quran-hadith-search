@@ -710,6 +710,12 @@ I ne znaem dali zlo e poiskano za onezi, koito sa na zemyata, ili tekhniyat Gosp
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၀။ ထို့ကြောင့်ငါတို့သည် ကမ္ဘာမြေပေါ်တွင် မှီတင်းနေထိုင်သော သူတို့အပေါ်၌ ဘေးဆိုးကို စီရင်ထားသလော၊ သို့မဟုတ် သူတို့၏အရှင်သခင်သည် သူတို့အပေါ်၌ လမ်းညွှန်ရန် ကြံစည်တော်မူသလောကို နားမလည်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ကမ္ဘာသူကမ္ဘာသားတို့နှင့် ပတ်သက်၍ အဆိုးကို ရည်စူးထားပြီး ဖြစ်လေသလော၊ သို့တည်းမဟုတ် ၎င်းတို့နှင့်ပတ်သက်၍ ၎င်းတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် တရားလမ်းမှန်ရရှိရေးကို ရည်စူးတော်မူပါသလော။ (ဤသည်ကို) ကျွန်ုပ်တို့သိရှိကြသည် မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

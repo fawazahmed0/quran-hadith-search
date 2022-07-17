@@ -710,6 +710,12 @@ Ili kazvat: “Ne sme li nie nepobedimo mnozhestvo?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	သို့မဟုတ် ငါတို့သည် အောင်ပွဲဆင်ပြီးသောစစ်တပ်ကြီးဖြစ်သည်ဟု သူတို့ဆိုကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် ၎င်းတို့က ‘ကျွန်ုပ်တို့သည်အောင်နိုင်မှု ရရှိကြအံ့သောအုပ်စုဖြစ်သည်’ ဟု ပြောဆိုကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

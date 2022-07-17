@@ -710,6 +710,12 @@ i vrŭkhlitashtite sutrin
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။ နံနက်အာရုဏ်တက်တွင် ထိုးဝင်တိုက်ခိုက်သောမြင်းများ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တဖန် (ငါအရှင်မြတ်သည်) နံနက်မိုးသောက်ချိန်၌ (ရန်သူများအား)ဝင်ရောက် တိုက်ခိုက်ကြသော မြင်းများကို သက်သေထူတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

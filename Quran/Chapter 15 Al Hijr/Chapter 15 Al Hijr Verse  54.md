@@ -710,6 +710,12 @@ Reche: “Nima me blagovestvate, pri vse che me nastigna starostta? I s kakvo sh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၄။	သူက အသက်ကြီးရင့်အိုမင်းမစွမ်းဖြစ်နေသည့်အကျွနု်ပ်အား သားရတနာရမည်ဟူသောသတင်းကောင်းကို ပေးကြပါသလော။ သင်တို့၏ သတင်းသည် အဘယ်သို့မှန်နိုင်ပါအ့ံနည်းဟု အ့ံသြခြင်းနှင့်ပြောပြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(နဗီတမန်တော်အစ်ဗ်ရာဟီမ်)က အကျွန်ုပ်၌အသက်အရွယ် အိုမင်းမှုသည် ဆိုက်ရောက်နေပါလျက် အသင်တို့သည် အကျွန်ုပ်အား သတင်းကောင်းပေးကြလေသလော။သို့ဖြစ်ပေရာ အသင်တို့သည် မည်သည့်အကြောင်းနှင့်စပ်လျဉ်း၍ သတင်းကောင်းပေးကြပါသနည်းဟု ပြောဆို မေးမြန်းခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

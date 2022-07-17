@@ -710,6 +710,12 @@ I nadzŭrna, i go vidya v sredata na Ada
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။	ထိုသို့ပြောဆိုလျက် အောက်သို့ ငုံ့ရှုလိုက်ရာ မိမိ၏မိတ်ဆွေဟောင်းကို ငရဲတွင်းကြီးတွင် မြင်ရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ထိုသူသည် ချောင်း၍ကြည့်သောအခါ ထိုအဖော်အား "ဂျဟန္နမ်" ငရဲဘုံ၏အလယ်၌ တွေ့မြင်ပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

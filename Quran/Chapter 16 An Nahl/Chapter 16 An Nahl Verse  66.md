@@ -710,6 +710,12 @@ I v dobitŭka ima pouka za vas. Davame vi da piete ot onova, koeto e v stomakha 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၆။	မှတ်သားကြလော့။ အခြေလေးချောင်းရှိ တိရိစ္ဆာန်များ၌လည်း သင်တို့အဖို့အရာ သင်ခန်းစာတစ်ခုရှိ၏။ ငါသည် သူတို့၏ ဝမ်းတွင်းအစာဟောင်းအိမ်နှင့် အသွေး၏ အကြားမှ ဖြူစင်သန့်ရှင်းသောနို့ရည်ဖြစ်လာစေ၍ ထိုနို့ရည် သည် သောက်စားသူတို့အား ကောင်းသောအရသာကို ပေး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ဧကန်စင်စစ် အသင်တို့အဖို့ ခြေလေးချောင်းသတ္တဝါများ၌ အမှန်ပင် သင်ခန်းစာရှိပေသည်။ငါအရှင်မြတ်သည် အသင်တို့အား ၎င်း၏ဝမ်းဗိုက်တွင်းရှိအစာဟောင်းနှင့်သွေး၏အကြားမှ သန့်စင်၍ သောက်သုံးသူတို့အဖို့ အရသာရှိသော နို့ရည်ကို တိုက်ကျွေးတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

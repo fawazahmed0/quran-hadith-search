@@ -710,6 +710,12 @@ I znaem Nie, che sŭrtseto ti se sviva ot tekhnite dumi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၇။	ထိုသူတို့ကဲ့ရဲ့ပြစ်တင်မှုသည် သင်တို့အား တခါတရံစိတ်မကြည်မသာဖြစ်စေသည်ကို ငါသည် ကောင်းစွာသိတော် မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ဧကန်စင်စစ် ၎င်းတို့၏ ပြောဆိုမှုကြောင့် အသင်၏ စိတ်နှလုံးကျဉ်းကျပ်သည်ကို ဧကန်မုချ ငါအရှင်မြတ်သည် ကောင်းစွာသိရှိတော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

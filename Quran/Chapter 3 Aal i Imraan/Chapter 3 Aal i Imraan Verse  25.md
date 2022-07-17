@@ -710,6 +710,12 @@ I kak shte bŭdat, shtom gi sŭberem v Denya, za koĭto nyama sŭmnenie, i na v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	ယုံမှားသံသယကင်းသောနေ့တော်ကြီး၌ ထိုသူများသည် အဘယ်သို့ဖြစ်ရလတ္တံ။ ထိုနေ့တော်ကြီး၌ ငါအသျှင်မြတ်သည် သူတို့အားလုံးကို စုရုံးတော်မူမည်။ ထိုနေ့တော်ကြီး၌ သူတို့အား မိမိပြုကျင့်ခဲ့ သည့်အတိုင်း အကျိုးအပြစ်ကို ပြည့်စုံစွာပေးတော်မူလတ္တံ။ သူတို့သည် မတရားညှင်းဆဲခြင်းခံရမည် မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ကိယာမတ် ရှင်ပြန်ထမည့်နေ့တွင်ငါအရှင်မြတ်သည် ထိုသူတို့အား စုရုံးစေတော် မူသည့်အခါ(ထိုသူတို့၏အဖြစ်သည်) မည်သို့ဖြစ်အံ့နည်း။ ထိုရှင်ပြန်ထမည့်နေ့နှင့် စပ်လျဉ်း၍ ဒွိဟသံသယ အလျင်းမရှိ။(ထိုနေ့သည်ကား မုချ ဆိုက်ရောက်မည် ဖြစ်သည်။) ထို့ပြင်(ထိုနေ့တွင်) လူတိုင်းလူတိုင်းသည် မိမိတို့ ပြုလုပ်ဆည်းပူးခဲ့သော (ကောင်းမှု၊ မကောင်းမှုတို့၏အကျိုးအပြစ်ကို)အပြည့် အစုံပေးခြင်းခံကြရလတ္တံ့။ ထိုသူတို့သည် (အကျိုးအပြစ်ပေးခြင်းခံကြရာ၌) မတရားပြုလုပ်ခြင်းကို အလျင်းခံကြရမည်လည်းမဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

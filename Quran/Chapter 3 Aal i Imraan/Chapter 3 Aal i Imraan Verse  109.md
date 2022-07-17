@@ -710,6 +710,12 @@ Na Allakh e vsichko na nebesata i vsichko na zemyata, i pri Allakh shte bŭdat v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၉။	အလ္လာဟ်အသျှင်မြတ်သည် အထက်ကောင်းကင်ဘုံ၊ အောက်မဟာပထဝီမြေပေါ်ဝယ် ရှိရှိသမျှကို သိမ်းရုံးစိုးပိုင်တော်မူ၏။ အရာခပ်သိမ်းကုန်တို့သည် အလ္လာဟ်အသျှင်မြတ်အထံတော်သို့ ပြန်ကြ ရသည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်တဝ ကောင်းကင်ဘုံများနှင့် ပထဝီမြေဝယ် ရှိရှိသမျှတို့သည် အလ္လာဟ်အရှင်မြတ် ပိုင်ဆိုင်တော်မူသောအရာများသာ ဖြစ်ကြကုန်၏။ တဖန် အရေးကိစ္စဟူသမျှတို့သည် အလ္လာဟ်အရှင်မြတ် အထံတော်သို့သာလျှင် ပြန်လည်ရောက်ရှိကြလတ္တံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

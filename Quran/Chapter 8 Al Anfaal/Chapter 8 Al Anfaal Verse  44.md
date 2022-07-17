@@ -710,6 +710,12 @@ I napravi te da izglezhdat maltsina vŭv vashite ochi, kogato se sreshtnakhte, i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	သင်တို့သည် ရန်သူတို့အား စစ်မြေပြင်၌ ရင်ဆိုင်သောအခါ အလ္လာဟ်သည် သင်မွတ်စလင်(မ်)တို့အား သူတို့ကို အရေအတွက် အနည်းငယ်ကဲ့သို့ မြင်စေတော်မူသောအခါ ရန်သူတို့လည်း သင်တို့ကို အနည်းငယ်ကဲ့သို့ မြင်စေတော်မူသောအခါ အသျှင်မြတ်သည် ပြုရမည့်အလုပ်တစ်ခုကို ပြီးစီးစေ တော်မူရန်ဖြစ်၏။ အမှုအခင်းကိစ္စအဝဝကို အလ္လာဟ်အသျှင်မြတ်အထံတော်သို့ ပြန်မို့မည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး (ပြန်လည်၍သတိရရှိကြလေကုန်)။အကြင်အခါ၌ ထိုအရှင်မြတ်သည် အသင်တို့ (ထိုသူတို့နှင့်ရင်ဆိုင်)တွေ့ဆုံကြစဉ်၊ ၎င်းတို့(၏ဦးရေ)ကို အသင်တို့အမြင်တွင်လျှော့၍ပြသတော်မူခဲ့၏။ ထိုနည်းတူစွာ အသင်တို့ကိုလည်း၎င်းတို့၏အမြင်၌ လျှော့၍ပင် ပြသတော်မူခဲ့လေ၏။ (သို့ပြုတော်မူခြင်း မှာ) အလ္လာဟ်အရှင်မြတ်သည် ပြုလိုတော်မူသည့်ကိစ္စတရပ်ကို ပြီးမြောက်စေတော်မူအံ့သောငှာ ဖြစ်ချေသည်။အမှန်စင်စစ်သော်ကား ကိစ္စအရပ်ရပ်တို့သည် အလ္လာဟ်အရှင်မြတ်အထံတော်သို့ပင် ပြန်လည်၍ ရောက်ရှိမည်သာ ဖြစ်ချေသတည်း။(ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I uzmi rukom svojom snop i njime udari, samo zakletvu ne prekrši." Mi smo, zais
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	ထို့အပြင်သူ့အား အို-အိုင်ယူး(ဗ်)၊ သင်သည် သစ်ကိုင်းတစ်ကိုင်းကို ကိုင်၍ ရိုက်လော့၊ သင်သည် မိမိပြုသော သစ္စာကို မဖျက်လင့်၊ မှတ်သားကြလော့၊ ငါသည် သူ့အား တည်ကြည်သမာဓိရှိသူအဖြစ်နှင့်ပင် တွေ့မြင်တော် မူ၏၊ အလွန်မွန်မြတ်သောကျေးတော်မျိုး ကျွန်တော်မျိုးတစ်ဦးဖြစ်ပေစွ၊ စင်စစ်မှာ သူသည် မိမိကျေးဇူးတော် သခင် အလ္လာဟ်အရှင်မြတ်ဘက်တော်သို့ သတိနောင်တရခြင်းဖြင့် အမြဲမျက်နှာမူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် (ငါအရှင်မြတ်သည် ဤသို့ မိန့်ကြားတော်မူခဲ့၏)။ အသင်သည် မိမိလက်တွင်းဝယ် အခက်အလက် လက်တစ်ဆုပ်ကိုယူပြီးလျှင် ၎င်းဖြင့် ရိုက်လော့။ ထို့ပြင် အသင်သည်(မိမိကျိန်ဆိုချက်ကို ချိုးဖျက်ခြင်းမပြုပါလေနှင့်၊ ဧကန်စင်စစ် ငါအရှင်မြတ် သည် ထို"အိုက်ယူဗ်"အား သည်းခံသူအဖြစ် တွေ့ရှိတော်မူခဲ့၏။ အထူးကောင်းမွန်သော ကျွန်တစ်ပါးဖြစ်ခဲ့၏။ဧကန်မလွဲ ထို"အိုက်ယူဗ်"သည် (ငါအရှင်မြတ် အထံတော်သို့)လွန်စွာပြန်လှည့်သူလည်း ဖြစ်ခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

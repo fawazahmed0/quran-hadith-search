@@ -710,6 +710,12 @@ I spomni si Ismail i al-Yasaa, i Zu-l-Kifl! I te sa sred dobrite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	အို-တမန်တော်မိုဟမ္မဒ်၊ အစ္စမာအီလ်၊ အီလီရှားဇွလ်ကစ်(ဖ်)လေ့တို့သည် တမန်တော်များဖြစ်ကြ၏၊ သူတို့ အကြောင်းကိုလည်း ဟောကြားလော့၊ စင်စစ်အားဖြင့် သူတို့သည် ငါရွေးကောက်တင်မြှောက်တော်မူသော သူတော်သူမြတ်တို့ဘောင်တွင် အပါအဝင်ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး (အို-နဗီတမန်တော်) အသင်သည်(နဗီတမန်တော်)"အီစ်မာအီလ်"၊ (နဗီတမန်တော်) "အလ်ယစအ်"နှင့် (နဗီတမန်တော်)"ဇွလ်ကိဖ်လ်"တို့ (၏အကြောင်း အတ္ထုပ္ပတ္တိများ)ကိုလည်း စဉ်းစားသတိရပါလေ။ စင်စစ်သော်ကား (၎င်းတို့) အသီးသီးတို့မှာလည်း အကောင်းဆုံးသော သူတို့အနက်မှပင် ဖြစ်ခဲ့ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

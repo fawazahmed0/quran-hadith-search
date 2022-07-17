@@ -710,6 +710,12 @@ Allakh ot·sŭzhda spravedlivo, a onezi, koito prizovavat te vmesto Nego, nishto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	ထို့အပြင် အလ္လာဟ်အရှင်မြတ်သည် မှန်ကန်စွာစီရင်ဆုံးဖြတ်တော်မူမည်၊ မိစ္ဆာဒိဋ္ဌိတို့ကိုးကွယ်သောဘုရားတု ဘုရားယောင်များမှာကား တစ်စုံတစ်ရာမျှ မစီရင်မဆုံးဖြတ်နိုင်ချေ၊ အမှန်ဆိုသော် အလ္လာဟ်အရှင်မြတ်သာလျှင် အရာခပ်သိမ်းတို့ကို ကြားတော်မူသောအရှင်၊ မြင်တော်မူသောအရှင်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် တရားသဖြင့် စီရင်ဆုံးဖြတ်တော်မူပေမည်။ သို့ရာတွင် ထိုအရှင်မြတ်အား စွန့်၍လည်းကောင်း၊ ("ကာဖိရ်" သွေဖည်ငြင်းပယ်သောသူ)တို့ဟစ်ခေါ် တသကြကုန်သော (၎င်းတို့၏) ကိုးကွယ်ရာတို့မှာမူကား မည်သို့မျှ စီရင်ဆုံးဖြတ်နိုင်ကြမည် မဟုတ်ပေ။ ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည်သာလျှင် အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့ ကြားတော်မူသောအရှင်၊ အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့ မြင်တော်မူသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

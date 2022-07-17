@@ -710,6 +710,12 @@ Edin Den shte vŭzkresim ot vsyaka obshtnost po edin svidetel. Togava nevernitsi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၄။	သင်တို့သည် လူမျိုးတိုင်းလူမျိုးတိုင်းအတွက် သက်သေတော်တပါးစီကို ငါအရှင်မြတ်ထူတော်မူမည့်နေ့တော်ကြီး ကို ဆင်ခြင်စဉ်းစားကြလော့။ ထိုအခါမိစ္ဆာမိုက်တို့သည် တစုံတခုမှ လျှောက်လဲခွင့်ရမည်မဟုတ်ချေ။ သူတို့သည် မိမိကိုယ်ကို မိမိပြုပြင်ခွင့်မရရှိတော့ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (အို-နဗီတမန်တော်အသင်သည် မိမိအမျိုးသားတို့များအား) အကြင်နေ့(၏အကြောင်း)ကို (ပြောပြပါလေ)။ ငါအရှင်မြတ်သည်(ထိုနေ့တွင်) သာသနာဝင် အုပ်စုတိုင်းမှ သက်သေတစ်ဦးကို ထူတော်မူမည်။ ထို့နောက် ကာဖိရ်သွေဖည်ငြင်းပယ် သောသူတို့အဖို့(အကြောင်းပြနိုင်ရန်) ခွင့်ပြုခြင်းလည်းခံရမည် မဟုတ်ပေ။ ထိုမှတစ်ပါး ထိုသွေဖည် ငြင်းပယ်သောသူတို့သည် ကျေရာကျေကြောင်း ပြုလုပ်ရန် တောင်းဆိုခြင်းကိုလည်း ခံကြရမည် မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

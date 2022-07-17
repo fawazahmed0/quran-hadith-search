@@ -710,6 +710,12 @@ V nego ima i khubost za vas, kogato go pribirate vecher i kogato go podkarvate n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	သင်တို့သည် ထိုတိရိစ္ဆာန်များကို အိမ်သို့ ပြန်မောင်းလာသောအခါ၌လည်းကောင်း၊ စားကျက်သို့ မောင်းသွားသော အခါ၌လည်းကောင်း၊ ၎င်းတို့သည် သင်တို့အဖို့အရာ လှပတင့်တယ်ရှုချင်ဖွယ်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်တို့အဖို့ ယင်းခြေလေးချောင်းတိရစ္ဆာန်များတွင် အသင်တို့သည်(၎င်းတို့ကို)ညနေချမ်းတွင်စားကျက်မှ (အိမ်သို့) ပြန်သွင်းလာကြ သောအချိန်၌လည်းကောင်း၊ အသင်တို့သည် နံနက်ယံတွင် စားကျက်သို့လွှတ်ကြသောအချိန်၌လည်းကောင်း၊ နစှ လ် ဖို ယွ အ် ကြောင်း လည်း ရေှိ ပသည။်
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

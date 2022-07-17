@@ -710,6 +710,12 @@ I predupredi gi ti za nablizhavashtiya Den, kogato, spotaili uzhas, sŭrtsata sh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	အို-တမန်တော်၊ အမြဲနီးကပ်လာနေသောနေ့တော်ကြီးအကြောင်း သတိပေးလော့၊ ထိုနေ့တော်ကြီးရောက်လာ သောအခါ လူခပ်သိမ်းတို့၏ နှလုံးတို့သည် သူတို့၏ လည်မျိုကို ဆို့ကြလတ့ံ၊ ထိုနေ့တော်ကြီး၌ မတရားမှု ပြုသူအပေါင်းတို့မှာ အဆွေခင်ပွန်းဆို၍လည်း တစ်စုံတစ်ယောက်မျှမရှိ၊ သူတို့ကို အပြစ်မှ ချမ်းသာပေးပါရန် အလ္လာဟ်အရှင်မြတ်ထံတော်၌ တောင်းပန်နိုင်သူလည်း တစ်စုံတစ်ယောက်မျှရှိမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး (အို-နဗီတမန်တော်)အသင်သည် ၎င်းတို့အား နီးကပ်၍လာအံ့သော(ကိယာမတ်) နေ့နှင့်စပ်လျဉ်း၍ သတိပေးနှိုးဆော်ပါလေ။ ထိုရောအခါဝယ် စိတ်နှလုံးများမှာ လွန်စွာပူဆွေးသောကကို ချုပ်တည်းမျိုသိပ်လျက် လည်မျိုများသို့ ဆို့၍ လာကြပေမည်။ (ထိုနေ့တွင်) မတရားကျူးလွန်သူတို့၌ ရင်းနှီးသောမိတ်ဆွေဟူ၍လည်း တစ်ဦးတစ်ယောက်မျှ ရှိလိမ့်မည် မဟုတ်ပေ။ ဩဇာညောင်းသော ကြားဝင် အသနားခံပေးအံ့သောသူဟူ၍လည်း တစ်ဦးတစ်ယောက်မျှပင် ရှိလိမ့်မည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

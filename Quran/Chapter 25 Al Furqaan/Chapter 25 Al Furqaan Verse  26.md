@@ -710,6 +710,12 @@ istinskata vlast v tozi Den shte prinadlezhi na Vsemilostiviya. Shte bŭde tezh�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	ထိုနေ့တော်ကြီး၌ နိုင်ငံတော်ကြီး၊ နိုင်ငံတော်ကြီးအစစ်အမှန်သည် မဟာကရုဏာတော်အရှင်၊ အလ္လာဟ်၏ နိုင်ငံတော်ဖြစ်၏၊ ထိုနေ့သည် မယုံကြည်သူတို့အဖို့ ဒုက္ခများသာဖြစ်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနေ့တွင် စိုးမိုးအုပ်ချုပ်မှု အစစ်အမှန်သည် "ရဟ်မာန်"ကရုဏာတော်ရှင်၌သာ ရှိပေမည်။ စင်စစ် ထိုနေ့သည် "ကာဖိရ်" သွေဖည်ငြင်းပယ်သော သူတို့အဖို့ လွန်စွာ ခက်ခဲသောနေ့ပင်ဖြစ်ချိမ့်မည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

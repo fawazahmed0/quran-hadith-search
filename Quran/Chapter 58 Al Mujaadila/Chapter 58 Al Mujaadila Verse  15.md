@@ -710,6 +710,12 @@ Allakh e prigotvil za tyakh surovo mŭchenie. Losho e onova, koeto vŭrshat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	အလ္လာဟ်အရှင်မြတ်သည် ထိုလျှာနှစ်ခွသမားတို့အဖို့အရာ အလွန်ကြောက်မက်ဖွယ်သောအပြစ်ဒဏ်ကို အရန်သင့် စီရင်ထားတော်မူ၏၊ စင်စစ်မှာ သူတို့ပြုလေ့ရှိသမျှအားလုံးတို့သည် မကောင်းမှုသာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် ပြင်းထန်စွာသောပြစ်ဒဏ်ကို ထိုအမျိုးသားတို့အဖို့ အဆင့်သင့်ပြုလုပ်၍ ထားရှိတော်မူ၏။ ဧကန်မလွဲ ၎င်းတို့ ကျင့်မူလျက် ရှိကြသည်မှာ လွန်စွာ ဆိုးယုတ်လှပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

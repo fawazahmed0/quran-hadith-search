@@ -710,6 +710,12 @@ I kogato im dari chitavo dete, te Mu otredikha sŭdruzhnitsi v onova, koeto im e
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉ဝ။	သို့သော် အသျှင်မြတ်သည် သူတို့အား ကလေးရတနာကို ပေးသနားတော်မူသောအခါ သူတို့သည် ထိုကလေးပေးရာ၌ အသျှင်မြတ်နှင့် ဘုရားဆင်းတုများကို ဖက်စပ်တွဲဖက်ကြ၏။ အသျှင်မြတ်သည် သူတို့တွဲဖက်သူများထက် အတိုင်းမသိ မြင့်မြတ်တော်မူလှ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ထိုအရှင်မြတ်သည် ၎င်းတို့ နှစ်ဦးအား(သားသမီးကို) ကောင်းမွန်ပြည့်စုံစွာ ချီးမြှင့်ပေးသနားတော်မူသောအခါ ၎င်းတို့နှစ်ဦးလုံးသည် ထိုအရှင်မြတ်က ၎င်းတို့အားချီးမြှင့်တော် မူသောအရာနှင့်စပ်လျဉ်း၍ (အခြားအရာများ)ကိုထိုအရှင်မြတ်နှင့် တွဲဖက်ကိုးကွယ်ကြကုန်၏။ စင်စစ်တမူကားအလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့တွဲဖက်နှိုင်းယှဉ် ကိုးကွယ်ကြသည်တို့ထက် အလွန် မင့်မြတ်လှတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

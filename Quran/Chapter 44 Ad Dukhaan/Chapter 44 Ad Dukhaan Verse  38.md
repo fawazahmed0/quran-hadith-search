@@ -710,6 +710,12 @@ I ne sŭtvorikhme naprazno nebesata i zemyata, i vsichko mezhdu tyakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	ငါသည် ကမ္ဘာမြေပြင်မိုးကောင်းကင်နှင့်တကွ မိုးမြေအကြားရှိရှိသမျှအရာများကို အချည်းနှီးအကျိုးမဲ့ဖန်ဆင်း တော်မူသည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ငါအရှင်မြတ်သည် မိုးကောင်းကင်များကိုလည်းကောင်း၊ ပထဝီမြေကိုလည်းကောင်း၊ ယင်းမိုးကောင်းကင်များနှင့် ပထဝီမြေနှစ်ခု၏အကြား၌ ရှိသမျှတို့ကိုလည်းကောင်း၊ ကစားခုန်စားသောအားဖြင့် ဖန်ဆင်းတော်မူခဲ့သည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

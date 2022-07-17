@@ -710,6 +710,12 @@ Nima ne znaesh, che Allakh znae vsichko na nebeto i na zemyata? Vsichko tova e v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇ဝ။	အလ္လာဟ်အရှင်မြတ်သည် အထက်မိုးကောင်းကင်၊ အောက်ကမ္ဘာကြီးပေါ်ဝယ်ရှိရှိသမျှကို သိတော်မူကြောင်း၊ သင်သိပြီမဟုတ်လော၊ မှတ်သားကြလော့၊ ၎င်းသည် မှတ်ပုံစာအုပ်ကြီး၌ အမှန်ရှိ၏၊ ထိုအရာသည် အလ္လာဟ် အရှင်မြတ်အဖို့ အမှန်လွယ်ကူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် အလ္လာဟ်အရှင်မြတ်သည် မိုးကောင်းကင်၌ ရှိသမျှတို့ကိုလည်းကောင်း၊ ပထဝီမြေ၌ ရှိသမျှတို့ကိုလည်းကောင်း၊ (အကြွင်းမဲ့)သိရှိတော်မူသည်ကို အသင်မသိလေသလော။ ဧကန်စင်စစ် ထို(အရာများ)သည် မှတ်တမ်းတွင်ရှိပေသည်။ ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်အဖို့ ယင်း(အဆုံးအဖြတ်)ကား လွယ်ကူလှပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

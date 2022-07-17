@@ -710,6 +710,12 @@ Kolko gradini i izvori ostavikha te
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	ထိုသူတို့သည် မြောက်မြားစွာသောဥယျာဉ်ပန်းမာလ်နှင့် စိမ့်စမ်းရေတွင်းများကို စွန့်ပစ်ထားခဲ့ကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(ဖစ်ရ်အောင်န်နှင့် ၎င်း၏အမျိုးသား)တို့သည် မြောက်မြားစွာသော ဥယျာဉ်များကိုလည်းကောင်း၊ စမ်းချောင်းများကိုလည်းကောင်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

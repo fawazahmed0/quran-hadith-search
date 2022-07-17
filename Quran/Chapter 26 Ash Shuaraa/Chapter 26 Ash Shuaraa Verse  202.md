@@ -710,6 +710,12 @@ A to shte gi spoleti vnezapno, bez da usetyat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ၂။	ထိုအပြစ်ဒဏ်တော်ကြီးကား ထိုသူတို့အပေါ်၌ သူတို့မသိမမြင်ပဲလျက် ရုတ်တရက်ရှောင်တခင်ရောက်လာလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ထိုပြစ်ဒဏ်မှာ ၎င်းတို့ထံသို့ ၎င်းတို့မသိရှိကြခိုက် ရုတ်တရက် ရောက်ရှိ၍လာပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

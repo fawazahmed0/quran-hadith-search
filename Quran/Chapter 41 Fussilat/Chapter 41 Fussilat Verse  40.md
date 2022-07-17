@@ -710,6 +710,12 @@ Onezi, koito izopachavat Nashite znameniya, ne sa skriti za Nas. Dali onzi, koi�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄ဝ။	မှတ်သားကြလော့၊ ငါ၏တရားတော်များကို မှောက်လှန်လွဲချော်ပြုသူတို့ကို ငါ့ထံတော်မှ ဖုံးကွယ်၍ မထားနိုင်ချေ၊ ငရဲမီးထဲသို့ ပစ်ချခံရသူနှင့် ပြန်ရှင်ရသောနေ့တော်ကြီး၌ စိုးရိမ်ကြောင့်ကျကင်းမဲ့ချမ်းသာစွာ ထလာရသူတို့တွင် အဘယ်သူသည် သာလွန်မြင့်မြတ်သနည်း၊ သင်တို့သည် မိမိတို့လိုရာကို ပြုကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့ပြုသမျှကို အကြွင်းမဲ့မြင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ငါအရှင်မြတ်၏ အာယတ်တော်များနှင့်စပ်လျဉ်း၍ မူရင်းအဓိပ္ပာယ်မှ သွေဖည်ကာ အမှားမှားအယွင်းယွင်း ကောက်ယူကြသောသူတို့မှာ ငါအရှင်မြတ်အပေါ်၌ ဖုံးကွယ်၍ နေကြသည်မဟုတ်ပေ။ သို့ဖြစ်ပေရာ ငရဲမီးထဲ၌ပစ်ချခြင်းခံရအံ့သောသူသည် ပို၍မြင့်မြတ်လေသလော။ သို့တည်းမဟုတ် ကိယာမတ် ရှင်ပြန်ထမည့်နေ့တွင် ပူပင်သောကကင်းစွာ လာရောက်အံ့သောသူသည် ပို၍မြင့်မြတ် လေသလော။ အသင်တို့သည် မိမိတို့အလိုရှိရာကို ကျင့်မူကြလေကုန်။ဧကန်မလွဲ ထိုအရှင်မြတ်သည် အသင်တို့ကျင့်မူသမျှတို့ကိုအကြွင်းမဲ့ မြင်တော်မူသော အရှင်မြတ်ပင်ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

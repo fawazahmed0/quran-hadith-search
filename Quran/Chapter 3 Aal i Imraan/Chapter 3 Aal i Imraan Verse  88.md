@@ -710,6 +710,12 @@ v nego te shte prebivavat vechno. Nito shte se oblekchi mŭchenieto im, nito sht
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၈။	သူတို့သည် ထိုကျိန်ဆဲခြင်း၊ လက်စားဒဏ်ကို ခံစားရမည်။ သူတို့၏ အပြစ်ဒဏ်ကို လျှော့ပေါ့မည် မဟုတ်ပေ။ သူတို့၏အပြစ်ဒဏ်ကို ရွှေ့ဆိုင်းထားမည်လည်းမဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့သည် ယင်း(ရှုတ်ချခြင်း) ၌ပင် ထာဝစဉ်ခံစားကြရမည့်အပြင်ယင်းသူတို့၏ အပြစ်ဒဏ်သည်လည်းပေါ့လျော့စေခြင်းခံရမည် မဟုတ်။ ထိုမှတစ်ပါး ယင်းသူတို့သည်(အပြစ်ဒဏ် စီရင်ရာ၌) ဆိုင်းငံ့ထားခြင်းကိုလည်း ခံကြရမည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

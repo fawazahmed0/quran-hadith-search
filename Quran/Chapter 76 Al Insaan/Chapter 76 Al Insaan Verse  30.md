@@ -710,6 +710,12 @@ Togava shte pozhelavate samo onova, koeto Allakh zhelae. Allakh e vseznaesht, pr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၀။ သို့သော် သင်တို့သည် အလ္လာဟ်အရှင်မြတ်အလိုတော်မရှိပဲ ထိုလမ်းကို ယူမည်မဟုတ်၊ စင်စစ်အားဖြင့်အလ္လာဟ် အရှင်မြတ်သည် သိတော်မူသောအရှင်၊ သဗ္ဗညုတ ဉာဏ်တော်ရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် အလ္လာဟ်အရှင်မြတ် အလိုရှိတော်မမူဘဲ အသင်တို့သည် အလိုရှိနိုင်ကြမည်မဟုတ်ပေ။ စင်စစ်ဧကန် အလ္လာဟ်အရှင်မြတ်သည် (အရာခပ် သိမ်းတို့ကို) အကြွင်းမဲ့သိတော်မူသောအရှင်၊ နက်နဲ သိမ်မွေ့သောဆင်ခြင်တုံတရားနှင့် ပြည့်စုံတော်မူသောအရှင်၊ ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

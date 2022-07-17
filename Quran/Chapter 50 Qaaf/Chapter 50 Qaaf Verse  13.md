@@ -710,6 +710,12 @@ i aditite, i Faraonŭt, i bratyata na Lut
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	ထို့အတူအာဒ်၏ အသင်းသား၊ ဖွာရောဘုရင်၏ အသင်းသားနှင့် တမန်တော်လွဒ်၏ အသင်းသားတို့လည်း မိမိတို့တမန်တော်များကို မယုံကြည်ပယ်ရှားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတပါး ‘အာဒ်’ အမျိုးသားတို့သည်လည်းကောင်း၊ ‘ဖစ်ရ်အောင်န်’သည်လည်းကောင်း၊ ‘လူ(တ်)’၏ ညီအစ်ကိုတို့သည်လည်းကောင်း၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A shtom se otvŭrnete, nima ot vas se ochakva drugo osven da seete razvala po ze
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	အို-သစ္စာကင်းမဲ့သောစိတ်နှစ်ခွရှိသူအပေါင်းတို့၊ သင်တို့အား စိုးပိုင်အုပ်စိုးခြင်းအခွင့်အာဏာပေးသနားတော် မူလျှင်၊ သင်တို့သည် ကမ္ဘာမြေပြင်ဝယ် ဒုစရိုက်မကောင်းမှုပြုကြမည်မဟုတ်လော၊ မိမိတို့ဆွေမျိုးရင်းခြာတို့နှင့် ဆက်ဆံပေါင်းသင်းခြင်းကို ဖြတ်တောက်ကြမည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အကယ်၍ အသင်တို့သည် (စစ်မက်တိုက်ခိုက်ခြင်းမှ) လွှဲရှောင်ခဲ့ကြသည်ရှိသော် ကမ္ဘာမြေဝယ် ဆူပူသောင်းကျန်းနိုင်ကြမည် ဟူ၍လည်းကောင်း၊ မိမိတို့ အချင်းချင်း သားချင်းတော်စပ်မှုကို ဖြတ်တောက်နိုင်ကြ မည်ဟူ၍လည်းကောင်း၊ မျှော်လင့်ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

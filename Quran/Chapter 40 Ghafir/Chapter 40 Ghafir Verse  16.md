@@ -710,6 +710,12 @@ Denya, v koĭto shte se pokazhat i nishto ot tyakh ne shte bŭde skrito ot Alla
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	ထိုနေ့တော်ကြီး၌ လူသားအားလုံးထွက်လာကြရမည်၊ သူတို့နှင့်စပ်လျဉ်းသည့်အမှုအခင်းတစ်စုံတစ်ရာကိုမျှ အလ္လာဟ်အရှင်မြတ်အထံတော်မှ ဖုံးကွယ်၍ မထားနိုင်ချေ၊ ထိုနေ့တော်ကြီးကို အဘယ်သူစိုးပိုင်သနည်း၊ တစ်ဆူတည်းအထီးထီး တည်တော်မူသောအရှင်၊ အနန္တတန်ခိုးတော်အရှင်၊ အလ္လာဟ်အရှင်မြတ်သာလျှင် စိုးပိုင် တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်နေ့တွင် ၎င်းတို့သည် (မိမိတို့၏သင်္ချိုင်းများအတွင်းမှ ထိုအရှင်မြတ်၏)ရှေ့တော်မှောက်သို့ ထွက်လာကြရပေမည်။ (ထိုနေ့တွင်) ၎င်းတို့နှင့်ပတ်သက်၍ မည်သည့်တစ်စုံတစ်ရာမျှပင် အလ္လာဟ်အရှင်မြတ်၌ ဖုံးကွယ်၍ နေမည်မဟုတ်ပေ။ (ထိုနေ့တွင် ထိုအရှင်မြတ်က) "စိုးမိုးအုပ်ချုပ်သည့် အာဏာသည် ယနေ့ မည်သူ၌ ရှိချေသနည်း"(ဟုမိန့်ကြားတော်မူပေမည်။ တစ်ဖန် မိမိကိုယ်တော်တိုင်)တစ်ဆူတည်းဖြစ်တော်မူသော၊ အလွန်တရာ နိုင်နင်းလွှမ်းမိုးတော်မူသော အလ္လာဟ်အရှင်မြတ်၌သာရှိသည် (ဟု မိန့်ကြားတော်မူပေမည်)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

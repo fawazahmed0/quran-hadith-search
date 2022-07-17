@@ -710,6 +710,12 @@ shtyakhme da go sgrabchim s Desnitsata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။ ငါသည် သူ့အား လက်ယာဘက်ကို ဆွဲကိုင်ပြီးလျှင် အမှန်ပင်ဖမ်းဆီးတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်ပင် ငါအရှင်မြတ်သည် သူ၏လက်ယာလက်ကို ဖမ်းဆွဲတော်မူခဲ့ပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

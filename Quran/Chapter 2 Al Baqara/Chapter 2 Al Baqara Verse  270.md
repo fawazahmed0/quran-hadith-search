@@ -710,6 +710,12 @@ Kakvoto i podayanie da razdadete, ili obet da napravite, Allakh go znae. A za ug
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇ဝ။	သင်တို့သည် မည်သည့်အလှူကိုလှူသည်သော်လည်းကောင်း၊ မည်သည့်သစ္စာကို ပြုသည်သော် လည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ်သည် ထိုအရာကို အမှန်ပင်သိမြင်တော်မူ၏။ ဒုစရိုက်ကျူးလွန် သူတို့၌ ကူညီမှိုင်းမသူတစ်စုံတစ်ယောက်မျှ မရှိပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်တမူကား အသင်တို့သည် မည်သည့် လှူဒါန်းခြင်းကိုမဆို ပေးကမ်းလှူဒါန်းကြသည်ဖြစ်စေ၊ သို့မဟုတ်သူသည် ယင်းတို့အား ကုံလုြွံကယ်ဝသူများဟူ၍ ထင်မှတ်လေသည်။ (သို့ရာတွင်) အသင်သည် ယင်းသူတို့၏ ရုပ်ရည်လက္ခဏာအမူအရာ(ကို ကြည့်ရှုရုံမျှ)ဖြင့် (ထိုသူတို့၏ ဆင်းရဲမည် သည့်အဓိဋ္ဌာန်ပြုခြင်း ကိုမဆို ဓိဋ္ဌာန်ကြ သည်ဖြစ်စေဧကန်ဆတ်ဆတ် အလ္လာဟ်အရှင်မြတ်သည် (အသင်တို့ပြုလုပ်သမျှသော) ထိုထိုကိစ္စ အဝဝတို့ကို အြွကင်းမဲ့ သိရှိတော်မူပေသည်။ (သို့အြွကင်းမဲ့ သိတော်မူသည့်အတိုင်း ကောင်းသူတို့အားကောင်းကျိုး၊ မကောင်းသူတို့အား မကောင်း ကျိုးများကိုပေးတော်မူမည်)၊ သို့ရာတွင် (ရှင်ပြန်ထမည့်နေ့ တွင်) မတရားပြုလုပ်သူတို့အား ကူညီမစ ကယ်ဆယ်မည့်သူဟူ၍ တ်ဦးတစ်ယောက်မျှ ရှိလိမ့်မည် မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

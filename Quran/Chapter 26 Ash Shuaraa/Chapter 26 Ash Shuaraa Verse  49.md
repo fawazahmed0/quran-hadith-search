@@ -710,6 +710,12 @@ Reche [Faraonŭt]: “Nima mu povyarvakhte, predi az da sŭm vi pozvolil? Toĭ 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	ထိုအခါဖွာရောမင်းက သင်တို့သည် ငါခွင့်ပေးတော်မမူခဲ့ပဲ သူ့အား လက်ခံယုံကြည်ကြသလော၊ အမှန်မှာ သူသည် သင်တို့အား ဝိဇ္ဇာအတတ်ပညာကို သင်ကြားပြသသောဆရာကြီးဖြစ်၏၊သို့သော်သင်တို့သည် မချွတ် ဧကန်အမှန်သိရစေမည်၊ မုချအမှန်သင်တို့၏ခြေလက်ကို ဝဲယာလွှဲဖြတ်၍ ကားတိုင်တင်ကာ သင်တို့အားလုံးကို ငါကွပ်မျက်တော်မူမည်ဟု ခြိမ်းခြောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(ဖစ်ရ်အောင်န်) က အသင်တို့အား ကျွန်ုပ်ခွင့်မပြုမီ အသင်တို့သည် ထိုမူစာအား ယုံကြည်ခဲ့ကြလေပြီ။ ဧကန်မလွဲ ၎င်းသည် အသင်တို့အား ပဉ္စလက် အတတ်ပညာကိုသင်ကြား၍ပေးခဲ့သော(အာစရိယ)အကြီးအကဲပင်ဖြစ်၏။ သို့ဖြစ်ပေရာ ယခုပင် အသင်တို့သည် (အကြောင်း) သိရှိကြပေမည်။ မလွဲဧကန် ကျွန်ုပ်သည် အသင်တို့၏ လက်များကိုလည်းကောင်း၊ အသင်တို့၏ခြေများကို လည်းကောင်း၊ (ဝဲယာ) လွှဲ၍ဖြတ်တောက်ပစ်မည်။ ထိုမှတစ်ပါး မချွတ်ဧကန် ကျွန်ုပ်သည်အသင်တို့ အားလုံးကိုပင် လက်ဝါးကပ်တိုင်တင်မည်ဟု ပြောဆိုကြုံးဝါးခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

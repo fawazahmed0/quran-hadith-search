@@ -710,6 +710,12 @@ A koito sa nevernitsi, te sa blizhni edin na drug. Ne izvŭrshite li tova, shte 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၃။	မိစ္ဆာဒိဌိများသည် အချင်းချင်း ကာကွယ်စောင့်ရှောက်သူများဖြစ်ကြ၏။ အသင်တို့သည် အထက်ပါ ဗျာဒိတ်တော်အတိုင်း မဆောင်ရွက်ကြလျှင် ကမ္ဘာမြေပေါ်တွင် ပျက်စီးဆုံးရှုံးခြင်းနှင့် မတရား အမှုကြီးများ များပြားလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ကာဖိရ် မယုံမကြည် သွေဖည်ငြင်းပယ်သောသူတို့သည် အချင်းချင်း တစ်ဦးသည် တစ်ဦး၏အမွေစားအမွေခံများပင်ဖြစ်ကြကုန်၏။ အကယ်၍သာ(အိုမုစ်လင်မ်တို့)အသင်တို့သည် ဤ(ပညတ်တော်)အတိုင်း မပြုကြပါလျှင်၊ ကမ္ဘာမြေဝယ် (အကြီးအကျယ်)ရှုပ်ထွေးမှု၊ ညှဉ်းပန်းနှိပ်စက်မှုသည်လည်းကောင်း၊ အကြီးအကျယ် ဖျက်ဆီးမှုသည်လည်းကောင်း၊ ဖြစ်ပေါ်၍လာလတံ္တ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

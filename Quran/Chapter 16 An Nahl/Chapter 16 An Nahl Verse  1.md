@@ -710,6 +710,12 @@ Povelyata na Allakh nepremenno shte doĭde, no ne pribŭrzvaĭte s tova! Prech
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။	အလ္လာဟ်အရှင်မြတ်၏ အမိန့်တော်သည် ကျရောက်လာလတ့ံ။ ထို့ကြောင့်သင်တို့သည် အမိန့်တော်အဆော တလျင်ကျရောက်ဖို့ရာ မတောင့်တကြလင့်၊ အရှင်မြတ်သည် သူတို့တွဲဖက်သောဘုရားတုများထက် သာလွန် မြင့်မြတ်စုံလင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်၏အမိန့်တော်သည် ရောက်ရှိလာခဲ့ချေပြီ။ သို့ဖြစ်ပေရာ အသင်တို့သည် ယင်း အမိန့်တော်ကို အလျင်စလိုမတောင်းကြကုန်လင့်။ ထိုအရှင်မြတ်သည်ယင်း(မုရ်ှရစ်က်)တို့ တွဲဖက်နှိုင်းယှဉ် ကိုးကွယ်လျက် ရှိကြသည်တို့မှ သန့်ရှင်းစင်ကြယ်မြင့်မြတ် လှတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Vie, koito povyarvakhte v Nashite znameniya i byakhte myusyulmani
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၉။	သင်တို့သည် ငါထုတ်ပြန်ချပေးသနားတော်မူသောကုရ်အာန်ကျမ်းတော်မြတ်ကို သက်ဝင်ယုံကြည်လျက် ငါ့အား ကျိုးနွံနာခံကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုသူတို့ကား) အကြင်သူတို့ပင်၊ ၎င်းတို့သည် ငါအရှင်မြတ်၏အာယတ်တော် လက္ခဏာတော်များကို သက်ဝင်ယုံကြည်ခဲ့ကြသည်သာမက ၎င်းတို့သည် "မွတ်စ်လင်မ်" အမိန့်တော်ကို (လက်တွေ့) လိုက်နာသူများလည်း ဖြစ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

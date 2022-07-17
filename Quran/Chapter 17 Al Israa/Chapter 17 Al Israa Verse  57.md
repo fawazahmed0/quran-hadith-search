@@ -710,6 +710,12 @@ Onezi, koito [sŭdruzhavashtite] zovat, se stremyat da se doberat do svoya Gospo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၇။	သူတို့ကိုးကွယ်သောဘုရားတို့လည်း သူတို့၏ ကျေးဇူးသခင်အထံတော်မှ ချဉ်းကပ်ရာလမ်းကို ရှာမှီးကြ၏။ အရှင်မြတ်နှင့်အနည်းဆုံးချဉ်းကပ်လိုချင်ကြ၏။ သူတို့သည် အရှင်မြတ်၏ ကောင်းကြီးမင်္ဂလာတော်ကို မျှော်လင့် ကြ၏။ အရှင်မြတ်၏ ဒဏ်တော်ကို ကြောက်ရွံ့ကြ၏။ မှတ်သားကြလော့။ သင်၏ ကျေးဇူးတော်သခင်၏ အပြစ်ဒဏ်တော်ကို ရှောင်ကြဉ်ကြရမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသူတို့သည် ယင်းကာဖိရ်တို့ ဟစ်ခေါ်လျက်ရှိကြသောသူများပင်၊ ထိုသူတို့သည် မိမိတို့အနက် မည်သူသည်(ထိုအရှင်မြတ်နှင့်) အနီးကပ်ဆုံးဖြစ်အံ့နည်းဟူ၍ မိမိတို့အားဖန်ဆင်းတော်မူသောအရှင်မြတ် အထံတော်သို့ ချဉ်းကပ်မှုကိုရှာဖွေဆည်းပူးလျက် ရှိကြကုန်၏။ ၎င်းပြင် ထိုသူတို့သည် ထိုအရှင်မြတ်၏ကရုဏာတော်ကိုလည်း မျှော်လင့်လျှက်ရှိကြကုန်၏။ ထို့ပြင် ၎င်းတို့သည် ထိုအရှင်မြတ်၏ပြစ်ဒဏ်ကိုလည်းကြောက်ရွံ့ စိုးရိမ်လျက်ရှိကြကုန်၏။ ဧကန်မလွဲ အသင့်အားဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၏ ပြစ်ဒဏ်သည်အလွန်ကြောက်မက်ဖွယ်ပင် ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I mu darikhme Iskhak, i osven nego - Yakub, i vsichkite storikhme pravednitsi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၂။	ထို့အပြင်ငါသည် တမန်တော်အေဗရာဟမ်အား အစ္စဟတ်က်ခေါ်သားရတနာနှင့် ယာကွတ်ခေါ်မြေးရတနာကို ပေးသနားတော်မူ၏၊ ငါအရှင်မြတ်သည် သူတို့နှစ်ဦးစလုံးကို တရားစောင့်ရှောက်သောသူတော်ကောင်းဖြစ်စေ တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ထိုအိဗ်ရာဟီမ်အား အစ္စဟာက်ကို (သားတော်အဖြစ်)လည်းကောင်း၊ ယအ်ကူးဗ်ကို မြေးတော်အဖြစ်လည်းကောင်း၊ ချီးမြှင့် ပေးသနားတော်မူခဲ့၏။ ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် (၎င်းတို့အနက်)အသီးသီးအား သူတော်စင်များပင် ဖြစ်စေတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

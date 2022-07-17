@@ -710,6 +710,12 @@ I predupredi gi ti [o, Mukhammad] za Denya na gorestta, kogato shte bŭde ot·s�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	အမှုကိစ္စအဝဝကို ဆုံးဖြတ်သောအတိဒုက္ခခံစားရသောနေ့တော်ကြီးအကြောင်းကို သတိပေးဟောကြားလော့၊ ယခုအခါသူတို့သည် သတိလစ်နေကြ၏။ သူတို့မယုံကြည်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (အို-နဗီတမန်တော်)အသင်သည် ၎င်းတို့အား အမှန်စင်စစ် ၎င်းတို့သည် အလေးမမူ ဂရုမစိုက်ဘဲရှိနေကြပေရာ အကြင်ဝမ်းနည်းကြေကွဲရ မည့်နေ့နှင့်စပ်လျဉ်း၍ သတိပေးနှိုးဆော်ပါလေ။ ယခုအခါ သူတို့သည်မေ့လျော့ပေါ့ဆ၍နေကြ၏။ ထို့အပြင် 4င်းတို့သည် မယုံကြည်ကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

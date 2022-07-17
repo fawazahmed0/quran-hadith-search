@@ -710,6 +710,12 @@ i kak be vŭzdignato nebeto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။ ထို့အပြင်မိုးကောင်းကင်ကို ကြည့်ရှုပြီးလျှင် မည်ကဲ့သို့မြှင့်ထားတော်မူသည်ကိုလည်း မဆင်ခြင်ကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ မိုးကောင်းကင်သည် အဘယ်ကဲ့သို့ မြင့်စွင့်စေခြင်းကို ခံခဲ့ရသည်ကိုလည်းကောင်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Veche izpitakhme Sulaĭman. I na negoviya prestol slozhikhme [chuzhdo] tyalo. P
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	ငါသည် တမန်တော်စိုလိုင်မာန်အား မုချဧကန်စုံစမ်းတော်မူ၏၊ သူ၏ ပလ္လင်ပေါ်၌ ရုပ်ကလာပ်တစ်ခုချထားူတော် မူ၏၊ ထိုအခါသူသည် သတိနောင်တရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ဧကန်မလွဲ ငါအရှင်မြတ်သည်(နဗီတမန်တော်) "စုလိုင်မာန်"အား စမ်းသပ်တော်မူခဲ့၏။ စင်စစ် ငါအရှင်မြတ်သည် ၎င်း၏ပလ္လင်ပေါ်ဝယ် ခန္ဓာကိုယ်တစ်ခုကို ချပေးတော်မူခဲ့၏။ သို့ရှိရာ ထို"စုလိုင်မာန်"သည် ပြန်လှည့်ခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

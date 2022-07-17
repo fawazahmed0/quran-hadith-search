@@ -710,6 +710,12 @@ Rekokha: “Veche si uznal, che nyamame nuzhda ot tvoite shterki. Znaesh kakvo i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၉။	သူတို့က အို-လွတ်၊ ငါတို့၌ သင်၏ သမီးများထံ ဝင်ခွင့်မရှိကြောင်းကို သင်ကောင်းစွာသိ၏။ ငါတို့၏ လို လားချက်ကိုလည်း သင်ကောင်းစွာသိ၏ဟု ပြန်ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ယင်းအမျိုးသားတို့က [အို-လူ(တ်)]ကျွန်ုပ်တို့၌ အသင်၏သမီးများနှင့်ပတ်သက်၍ အလိုတစ်စုံတစ်ရာမျှမရှိကြောင်း အသင်သည် ဧကန်အမှန် သိရှိပြီးဖြစ်ပေသည်။ ထို့ပြင် ဧကန်စင်စစ် အသင်သည် ကျွန်ုပ်တို့၏ ရည်စူးချက်ကိုလည်း (ကောင်းစွာ)သိရှိပြီးဖြစ်သည်ဟု ပြောဆိုခဲ့ကြလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

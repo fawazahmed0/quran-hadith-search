@@ -710,6 +710,12 @@ I ostavikhme ot tova yasen znak za khora proumyavashti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	ဉာာဏ်ပညာရှိသူတို့အဖို့ ငါသည် ဤအဖြစ်အပျက်၌ ထင်ရှားသောအတိတ်နိမိတ်လက္ခဏာတော်တစ်ပါးထားခဲ့ တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ငါအရှင်မြတ်သည် သိနားလည်ကြကုန်သော အမျိုးသားတို့အဖို့ ထိုမြို့ရွာမှ ထင်ရှားစွာသော သက်သေလက္ခဏာအချို့ကို ချန်လှပ်၍ ထားရှိတော်မူခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

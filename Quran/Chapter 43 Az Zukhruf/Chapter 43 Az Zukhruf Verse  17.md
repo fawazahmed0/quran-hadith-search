@@ -710,6 +710,12 @@ I kogato izvestyat nyakogo ot tyakh za razhdaneto na onova, koeto toĭ pripisva
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	မဟာဂရုဏာတော်အရှင်၏ ဝေစုတော်ဟုဆိုသော သမီးကို သင်တို့အနက် တစ်ဦးတစ်ယောက်မှာ ဖွားမြင်အ့ံ၊ ထိုဖွားမြင်သောသတင်းကို ထိုသူကြားရသောအခါ ထိုသူသည် မျက်နှာမဲပြီးလျှင် မိမိဝမ်းထဲတွင် ဒေါသဖြစ်လျက် ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ၎င်းတို့အနက် တစ်စုံတစ်ယောက်သည် မိမိကိုယ်တိုင် အနန္တကရုဏာတော်ရှင်အား ခိုင်းနှိုင်းဖော်ပြ စော်ကားခဲ့သောအရာဖြင့် သတင်းကောင်း ပြောကြားခြင်းကို ခံရလေသောအခါ ထိုသူသည် စိတ်တွင်းခံစားမှုကို ချုပ်တည်းမျိုသိပ်လျက်ရှိသည်သာမက ၎င်း၏မျက်နှာမှာလည်း တစ်နေကုန် ညှိုးနွမ်းမည်းမှောင်၍ပင် နေလေတော့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

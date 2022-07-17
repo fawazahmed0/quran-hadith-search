@@ -710,6 +710,12 @@ Rekokha: “O, Shuaĭb, ne proumyavame mnogo ot onova, koeto kazvash. Vizhdame,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၁။	သူတို့က အို-ရှုအိုက်(ဗ်)၊ ငါတို့သည် သင်ဟောပြောချက်များအနက် အများအပြားကို နားမလည်ကြချေ။ သင်သည် ငါတို့အထဲတွင် အားနည်းသူဖြစ်သည်ဟု ငါတို့မြင်ကြ၏။ သို့သော်သင်၏ အမျိုးအနွယ်အတွက်ကြောင့် သာမဟုတ်လျှင် ငါတို့သည် သင့်ကို ခဲပေါက်ကြလတ့ံ။ သင်၌ ငါတို့ကို ခုခံဖို့ရာ အင်အားမရှိချေဟု ပြောကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်း(အမျိုးသား)တို့က (ဤသို့)ပြောဆိုကြိမ်းမောင်းခဲ့ကြလေသည်။ အို-ရှုအိုက်ဗ်၊ ကျွန်ုပ်တို့သည် အသင်ပြောဆိုသောစကားများအနက် များစွာသော စကားများကိုလည်း နားမလည်နိုင်ကြပေ။ ထို့ပြင် ဧကန်အမှန် ကျွန်ုပ်တို့သည် အသင့်အား မိမိ တို့အထဲတွင် အင်အားချိနဲ့သူတစ်ယောက် ဟူ၍သာ မြင်နေကြပေသည်။ စင်စစ်မူကား အသင်၏သားချင်းတို့သာ မရှိခဲ့ ကြပါလျှင် ကျွန်ုပ်တို့သည် အသင့်အားကျောက်ခဲများဖြင့် ပစ်သတ်ကြမည်မှာ ဧကန်မလွဲပင်။ စင်စစ်သော်ကား အသင်သည် ကျွန်ုပ်တို့အပေါ်ဝယ် လွှမ်းမိုးကြီးစိုးနေသူလည်း မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I da ne te naskŭrbyavat onezi, koito se nadprevarvat v neverieto! Te s nishto n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇၆။	အို-တမန်တော် မိစ္ဆာအယူဝါဒကို လွယ်ကူစွာလက်ခံသောသူတို့၏ အပြုအမူကြောင့် သင်သည် မပူဆွေးလင့်။ သူတို့သည် အလ္လာဟ်အသျှင်မြတ်သည် သူတို့အား နောင်ဘဝ၌ ဝေစုပေးလိုတော် မမူပေ။ သူတို့၏အပြစ်ဒဏ်သည် အလွန်ပြင်းပြနာကျင်ဖွယ်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်တဝ (အို-နဗီတမန်တော်) သွေဖည်ငြင်းပယ်မှု၌ လျှင်မြန်စွာ ကျဆင်းသောသူတို့သည် အသင့်အားစိတ်ဒုက္ခ(ရောက်စေသောအကြောင်း) မဖြစ်စေရ။ အမှန်စင်စစ် ထိုသူတို့သည် အလ္လာဟ်အရှင်မြတ်အား အနည်းငယ်မျှပင် အကျိုးယုတ် နစ်နာစေခြင်းကို အလျင်းပြုစွမ်းနိုင်ကြမည်မဟုတ်ပေ။ အလ္လာဟ်အရှင်မြတ်သည် ထိုသူတို့အဖို့ နောင်တမလွန်ဘဝတွင် (မိမိ၏စည်းစိမ်ချမ်းသာ အကျိုးကျေးဇူးတော်များအနက်မှ) မည်သည့် ဝေစုဝေပုံကိုမျှ ပေးသနားတော်မူရန်ရည်စူးတော် မမူချေ။ ၎င်းပြင် ထိုသူတို့အဘို့ (နောင်တမလွန်ဘဝတွင်) အလွန်ကြီးလေးသော အပြစ်ဒဏ်သည် လည်း(အသင့်)ရှိပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

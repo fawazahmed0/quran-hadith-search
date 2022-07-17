@@ -710,6 +710,12 @@ Toĭ e Onzi, Koĭto vi sŭtvori ot glina, posle ot·sŭdi edin srok i opredele
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	အသျှင်မြတ်သည် သင်တို့ကို ရွှံ့မြေစေးနှင့် ဖန်ဆင်းတော်မူ၏။ သင်တို့၏သက်တမ်းကို သတ်မှတ် ထားတော်မူ၏။ အသျှင်မြတ်အထံတော်၌ ကာလပိုင်းခြား ပြဌာန်းထားတော်မူ၏။ သို့ပါလျက် သင်တို့သည် ယုံမှားသံသယရှိကြသေး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအလ္လာဟ်အရှင်မြတ်သည် အသင်တို့အားရွှံ့မြေဖြင့် ဖန်ဆင်းတော်မူပြီးနောက် (အသက်သေဆုံး စေရန်)အချိန်တချိန်ကို သတ်မှတ်ပြဋ္ဌာန်း တော်မူခဲ့သောအရှင်ပင်ဖြစ်ပေသည်။ ၎င်းပြင် (ရှင်ပြန်ထစေရန်)အချိန်သည် ထိုအရှင်မြတ်ထံတော် ၌သာ သတ်မှတ်ပြဌာန်းပြီးဖြစ်၏။သို့ပါလျက် အသင်တို့သည် ဒွိဟသံသယ ဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

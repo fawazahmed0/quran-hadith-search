@@ -710,6 +710,12 @@ I izsipakhme otgore im dŭzhd [ot nazhezheni kamŭni]. Vizh kakŭv e krayat na p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၄။	ငါအသျှင်မြတ်သည် ထိုသူတို့အပေါ်တွင် မိုးသည်းထန်စွာ ရွာသွန်းစေတော်မူ၏။ ဒုစရိုက်ပြစ်မှု ကျူးလွန်သူတို့သည် အဘယ်အကျိုးခံစားရသည်။ ယခုကြည့်ရှုကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ငါအရှင်မြတ်သည် ၎င်းတို့အပေါ်၌မိုးတစ်မျိုး(ဝါ)ခဲမိုးကို ရွာသွန်းစေတော်မူခဲ့လေသည်။ သို့ဖြစ်ပေရာ ပြစ်မှုဒုစရိုက်ကျူးလွန်သူတို့၏အကျိုးသည် မည်သို့ဖြစ်ခဲ့သည်ကို အသင်ရှုပါလေ။(ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

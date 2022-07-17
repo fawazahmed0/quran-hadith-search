@@ -710,6 +710,12 @@ Prechist e tvoyat Gospod, Gospodŭt na moshtta, ot onova, koeto Mu pripisvat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈ဝ။	သင်၏ အသင်သခင်ကျေးဇူးရှင်သည် ကုံလုံးမွန်မြတ် အ့ံချီးမဆုံးဖြစ်တော်မူ၏၊ အရှင်မြတ်သည် မိစ္ဆာမိုက်တို့ လုပ်ကြံပြောဆိုသောစကားရပ်များမှ ကင်းစင်တော်မူသောကျက်သရေမင်္ဂလာတော်ရှင် ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော၊ အနန္တ ဂုဏ်ထူးရှင် ဖြစ်တော်မူသော အရှင်မြတ်သည် ၎င်းတို့ ကြံဖန်ပြောဆိုကြသည်တို့မှ လုံးဝ ကင်းရှင်းစင်ကြယ်တော်မူပါဘိတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

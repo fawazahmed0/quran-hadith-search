@@ -710,6 +710,12 @@ Reche: “Preobrazete za neya trona ĭ, da vidim dali tya shte go poznae, ili n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	တဖန်စိုလိုင်မာန်တမန်တော်က အို-အမတ်တို့၊ ဘုရင်မသည် လမ်းမှန်ရသူ(သို့မဟုတ်) မရသူဖြစ်သောကြောင့် အကျွနု်ပ်တို့သိစိမ့်သောငှာ သူမ၏ရာဇပလ္လင်ကို တနည်းတဖုံပြောင်းလဲထားကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုစုလိုင်မာန်က သင်တို့သည် ထိုဘုရင်မ၏ရာဇပလ္လင်ကို အသွင်ပြောင်းကြလေကုန်။ ထိုဘုရင်မသည် မှန်ကန်စွာ သိလေသလော။ သို့တည်းမဟုတ် မှန်ကန်စွာ မသိသူတို့အနက်မှ ဖြစ်လေသလောဟု ကျွန်ုပ်တို့သည် ကြည့်ရှုကြပေမည်ဟူ၍ ပြောကြားခဲ့ လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

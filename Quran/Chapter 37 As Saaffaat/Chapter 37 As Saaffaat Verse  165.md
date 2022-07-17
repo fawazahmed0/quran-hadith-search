@@ -710,6 +710,12 @@ Naistina nie sme stroenite v reditsi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၅။	မှတ်သားကြလော့၊ ငါတို့ကောင်းကင်တမန်များပင်လျှင် စီတန်းလျက် အလ္လာဟ်အရှင်မြတ်အား ဝတ်ပြုသူများ ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ဧကန်မလွဲ ကျွန်ုပ်တို့သည် စီတန်း၍နေကြသူများပင် ဖြစ်ကြကုန်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

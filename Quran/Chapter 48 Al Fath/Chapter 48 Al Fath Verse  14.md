@@ -710,6 +710,12 @@ Na Allakh prinadlezhi vladenieto na nebesata i na zemyata. Oproshtava Toĭ komu
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	အလ္လာဟ်အရှင်မြတ်သည် မိုးကောင်းကင်နှင့် ကမ္ဘာမြေကြီးကို စိုးပိုင်တော်မူ၏၊ အပြစ်လွှတ်တော်မူလိုသောသူကို အပြစ်လွှတ်တော်မူ၏၊ အပြစ်ဒဏ်ခတ်လိုတော်မူသောသူကို ဒဏ်ခတ်တော်မူ၏၊ အလ္လာဟ်အရှင်မြတ်သည် အဖန်တလဲလဲအပြစ်လွှတ်တော်မူသောသခင်၊ အနန္တကောင်းကြီးမင်္ဂလာတော်အရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်တမူကား မိုးကောင်းကင်များကို စိုးမိုးအုပ်ချုပ်မှု အာဏာသည်လည်းကောင်း၊ ကမ္ဘာမြေကို စိုးမိုးအုပ်ချုပ်မှု အာဏာသည်လည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ်၌သာရှိ၏။ ထိုအရှင်မြတ်သည် မိမိအလိုရှိတော်မူသောသူအား ခွင့်လွှတ်ချမ်းသာ ပေးသနားတော်မူ၍ မိမိအလိုရှိတော်မမူသောသူအား ပြစ်ဒဏ်ပေးတော်မူသည်။ စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အလွန်တရာခွင့်လွှတ်ချမ်းသာ ပေးသနားတော်မူသောအရှင်၊ အလွန်တရာ သနားကြင်နာ ညှာတာတော်မူသောအရှင်၊ ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

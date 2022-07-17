@@ -710,6 +710,12 @@ I zashto ne im pomognakha onezi, koito te priekha za bogove i na koito se otdado
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	အလ္လာဟ်အရှင်မြတ်အထံတော်သို့ ဝင်ရအ့ံသောငှာ သူတို့ဆည်းကပ်မှီဝဲကြသောအတုအယောင်ဘုရားများသည် သူတို့ကို အဘယ်ကြောင့်မကူညီကြသနည်း၊ ကူမည့်အစား ထိုဘုရားပျက်များက သူတို့ကို စွန့်ပစ်ထားခဲ့ကြ၏၊ ထိုဘုရားယောင်တို့သည် သူတို့၏ မုသားစကားသာဖြစ်၏၊ သူတို့ဖန်တီးခြင်းများသာ ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ၎င်းတို့ အလ္လာဟ်အရှင်မြတ်အား စွန့်၍ (မိမိတို့)ချဉ်းကပ်ရန်အလို့ငှာ ကိုးကွယ်ရာများအဖြစ် သတ်မှတ်ခဲ့ကြသော ဘုရားများသည် ၎င်းတို့အား အဘယ်ကြောင့် မကူညီခဲ့ကြသနည်း။ စင်စစ်မှာကား ယင်းကိုးကွယ်ရာများသည် ၎င်းတို့ထံမှ ပျောက်ကွယ်၍ သွားခဲ့ကြကုန်၏။ အမှန်စင်စစ် ဤသည် ထိုသူတို့၏ လီဆယ်မှုနှင့် ထိုသူတို့ ကြံစည်ဖန်တီးခဲ့သောအရာပင် ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

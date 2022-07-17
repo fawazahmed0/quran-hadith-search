@@ -710,6 +710,12 @@ I vmesto Allakh priekha drugi bogove, za da im se pomogne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၄။	သို့သော်သူတို့သည် မိမိတို့အား စောင့်ရှောက်မည်ဟု မျှော်လင့်ခြင်းနှင့် အလ္လာဟ်အရှင်မြတ်မှတပါး ဘုရားတု ဘုရားယောင်တို့ကို ဆည်းကပ်ကိုးကွယ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့သည် မိမိတို့မှာ ကူညီရိုင်းပင်းခြင်းကို ခံကြရမည်ဟု မျှော်လင့်ကြလျက် အလ္လာဟ်အရှင်မြတ်အပြင် အခြားကိုးကွယ်ရာများကို သတ်မှတ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

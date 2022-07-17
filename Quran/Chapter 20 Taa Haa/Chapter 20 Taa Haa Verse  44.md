@@ -710,6 +710,12 @@ I mu govorete s blagi slova, za da si pripomni ili da se poboi!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	သင်တို့နှစ်ဦးသည် သူ့အား သိမ်မွေ့စွာဟောကြားကြလော့။ သူသည် သတိရကောင်းရလိမ့်မည်၊ သို့မဟုတ် ကြောက်ရွံ့ကောင်းကြောက်ရွံ့လိမ့်မည်ဟု ဗျာဒိတ်ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် အသင်တို့ နှစ်ဦးသည် ၎င်းအား နူးညံ့သိမ်မွေ့သော စကားကို ပြောဆိုကြလေကုန်။ယင်းဖိရ်အောင်(န်)သည် တရားရကောင်းရရှိပေလိမ့်မည်။ သို့တည်းမဟုတ် ၎င်းသည် (အလ္လာဟ်အရှင်မြတ်အား) ကြောက်ရွံ့ကောင်းကြောက်ရွံ့ပေလိမ့်မည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

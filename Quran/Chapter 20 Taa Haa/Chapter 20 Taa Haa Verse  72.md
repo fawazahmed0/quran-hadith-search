@@ -710,6 +710,12 @@ Kazakha: “Ne shte te predpochetem pred yasnite znatsi, koito ni se yavikha, ni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ရ၂။	သူတို့ကလည်း အကျွနု်ပ်တို့သည် သင်မင်းကြီးအား အကျွနု်ပ်ထံသို့ ကျရောက်လာသည့်ရှင်းလင်းသောသက်သေ သာဓကများထက်သော်လည်းကောင်း၊ အကျွနု်ပ်တို့၏ အရှင်သခင်ထက်သော်လည်းကောင်း အမြတ်ထားသည် မဟုတ်ချေ၊ ထို့ကြောင့်အသင်မင်းကြီးသည် ပေးလိုသောအပြစ်ဒဏ်ကို ပေးပါတော့၊ အသင်မင်းကြီးသည် အကျွနု်ပ်တို့အား ဤလောကီဘဝကိုသာ ဆုံးရှုံးစေနိုင်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုပဉ္စလက်ဆရာတို့က (ဤသို့)ပြောကြားခဲ့လေ၏။ [အို-ဖိရ်အောင်(န်)] ကျွန်ုပ်တို့သည် အသင့်အား မိမိတို့ထံရောက်ရှိလာသော သက်သေသာဓက များထက်လည်းကောင်း၊ ကျွန်ုပ်တို့အား ဖန်ဆင်းတော် မူသောအရှင်မြတ်ထက်လည်းကောင်း၊ အလျှင်းနှစ်သက်ကြမည်မဟုတ်။ သို့ဖြစ်ပေရာအသင်သည် မိမိစီရင်ပြဋ္ဌာန်းလိုသည်ကို စီရင်ပြဋ္ဌာန်းပါလေ။(စင်စစ်မှာမူကား) အသင်၏မျက်မှောက်လောကီဘဝ၌သာစီရင်ပြဌာန်းနိုင်မည် ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

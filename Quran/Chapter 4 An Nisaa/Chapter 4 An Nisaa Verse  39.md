@@ -710,6 +710,12 @@ I kakva zaguba te bikha imali, ako povyarvakha v Allakh i v Setniya den, i razda
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	အလ္လာဟ်အသျှင်မြတ်သည် သူတို့နှင့် သူတို့ပြုလုပ်မှုတို့ကို အကြွင်းမရှိ သိမြင်တော်မူ၏။ သူတို့သည် အလ္လာဟ်အသျှင်မြတ်နှင့် နောက်ဆုံးနေ့တော်ကြီးကို ယုံကြည်ကြ၍ မိမိတို့အား အသျှင်မြတ် ပေးသနားတော်မူသော ဥစ္စာပစ္စည်းမှ အလှူဒါနပေးကြလျှင် သူတို့၌ မည်သည့်ကြောက်ရွံ့စိုးရိမ်စရာ ရှိသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အကယ်၍သာ ယင်းသူတို့သည် အလ္လာဟ်အရှင်မြတ်ကိုလည်းကောင်း၊ နောက်ဆုံးနေ့ကိုလည်းကောင်း ယုံကြည်ခဲ့ကြပါလျှင် ထိုနည်းတူစွာ ၎င်းတို့သည် မိမိတို့အား အလ္လာဟ်အရှင်မြတ်က ပေးသနားတော်မူခဲ့သော ဥစ္စာပစ္စည်းများကို (ထိုအရှင်မြတ်၏နှစ်သက်မှုကို ရယူခြင်းငှါ) လှူဒါန်းသုံးစွဲခဲ့ကြပါလျှင် ထိုသူတို့မှာ အဘယ်ကဲ့သို့ နင့်နာသွားရမည်နည်း။ စင်စစ်အားဖြင့် အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့ (၏ အခြေအနေဖြစ်အင်တို့ကို) ကောင်းစွာသိရှိတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

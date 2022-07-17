@@ -710,6 +710,12 @@ Na onezi, sreshtu koito e obyavena voĭna, im se pozvoli [da voyuvat], zashtoto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	မတရားနှိပ်စက်ခံရသောကြောင့် စစ်တိုက်သူတို့အား စစ်တိုက်ခွင့်ကို ပေးသနားတော်မူ၏၊ အလ္လာဟ်အရှင်မြတ် သည် သူတို့အား အောင်နိုင်ခြင်းကို မုချဧကန်ပေးစွမ်းနိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ယခုသော်) တိုက်ခိုက်ခြင်းခံနေကြရသော (မွတ်စ်လင်မ်)တို့သည် (ခုခံတိုက်ခိုက်)ခွင့် ရရှိလေပြီ။ အကြောင်းမူကား၊ ၎င်းတို့သည် နှိပ်စက်ညှဉ်းပန်းခြင်းကို ခံခဲ့ကြရလေသည်။ ၎င်းပြင် ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့အား ကူညီစောင်မနိုင်စွမ်းရှိတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

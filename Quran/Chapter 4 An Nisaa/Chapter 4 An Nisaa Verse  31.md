@@ -710,6 +710,12 @@ Ako izbyagvate golemite grekhove, koito sa vi zabraneni, shte otmakhnem ot vas l
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	အကယ်၍ သင်တို့သည် တားမြစ်ထားတော်မူသော အပြစ်ကြီးများကို ရှောင်ရှားကြလျှင် ငါသည် သင်တို့မကောင်းမှုများကို ဖယ်ရှား၍ သင်တို့ကို ဂုဏ်ကျက်သရေရှိသော တံခါးကြီးမှ ဝင်စေတော် မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို- ‘မုအ်မင်န်’ သင်ဝင်ယုံကြည်သူအပေါင်းတို့၊ အကယ်၍ အသင်တို့သည် မိမိတို့အား မြစ်တားပြီးဖြစ်သော၊ ကြီးလေးသော ပြစ်မှုဒုစရိုက်တို့မှ ကြဉ်ရှောင်၍နေကြပါမူ၊ ငါအရှင်မြတ်သည် အသင်တို့၏ (သေးငယ်သော) မကောင်းမှုဒုစရိုက်တို့ကို အသင်တို့မှ ကျေအေးစေတော်မူ၍ အသင်တို့အား ဂုဏ်သိန် ထူးကဲမွန်မြတ်သောဌာနသို့ ဝင်ရောက်စေတော်မူအံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I dadokhme na Daud i Sulaĭman znanie, i rekokha: “Slava na Allakh, Koĭto n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	ငါသည် တမန်တော်ဒါဝတ်(ဒ်)နှင့် တမန်တော်စိုလိုင်မာန်အား အသိဉာာဏ်ပေးသနားတော်မူ၏၊ ထိုအခါသူတို့သည် အကျွန်ုပ်တို့ကို မိမိ၏ယုံကြည်သူကျေးတော်မျိုးကျွန်တော်မျိုးအများအပြားထက် ပိုမိုနှစ်သက်တော်မူထသော အလ္လာဟ်အရှင်မြတ်သည် ချီးမွမ်းခြင်းတည်ရာဖြစ်တော်မူပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး မလွဲဧကန် ငါအရှင်မြတ်သည် "ဒါဝူဒ်"အားလည်းကောင်း၊ "စုလိုင်မာန်" အားလည်း ကောင်း၊(အထူး) အသိပညာတစ်ရပ်ကို ချီးမြှင့်ပေးသနားတော်မူခဲ့၏။ ထို့ပြင် ထိုဒါဝူဒ်နှင့် စုလိုင်မာန်နှစ်ဦးတို့က "ကျွန်တော်မျိုးအား မိမိ၏ မြောက်မြားစွာသော မုအ်မင်န်သက်ဝင် ယုံကြည်ကြကုန်သော ကျွန်တို့ထက် ထွတ်မြတ်စေတော်မူခဲ့သော အလ္လာဟ်အရှင်မြတ်သည်သာလျှင် ချီးမွမ်းထောပနာအပေါင်းတို့ကို ခံယူထိုက်တော်မူသည်"ဟု လျှောက်ထားခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

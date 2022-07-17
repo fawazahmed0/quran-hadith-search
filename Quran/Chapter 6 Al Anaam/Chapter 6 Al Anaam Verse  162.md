@@ -710,6 +710,12 @@ Kazhi: “Moyata molitva i moeto sluzhene, i moyat zhivot, i moyata smŭrt sa za
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၂။	ဟောကြားလော့။ မှတ်သားကြလော့။ အကျွနု်ပ်၏ ဝတ်ပြုခြင်း အကျွနု်ပ်၏ စွန့်စားခြင်း၊ အကျွနု်ပ်၏ အသက်ရှင်ခြင်း၊ အကျွနု်ပ်၏ အသက်သေခြင်း စသည်တို့သည် စကြာဝဠာအားလုံး၏ အသျှင်သခင် အလ္လာဟ်အသျှင်မြတ်အဖို့သာလျှင် ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (၎င်းတို့ အားတဖန်ဤသို့)ပြောကြားပါဦးလေ။ (အချင်းတို့)ငါ၏ ဆွလာတ်ဝတ်ပြုမှုသည်လည်းကောင်း၊ ငါ၏(အခြားအခြားသော) ခဝပ်ကိုးကွယ်မှု(အပေါင်း)တို့သည်လည်းကောင်း၊ ငါ၏အသက်ရှင်ခြင်းသည်လည်းကောင်း၊ ငါ၏အသက်သေခြင်းသည်လည်းကောင်း၊ စကြဝဠာခပ်သိမ်းကို ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်နှစ်သက်တော်မူရန် သာလျှင်ဖြစ်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

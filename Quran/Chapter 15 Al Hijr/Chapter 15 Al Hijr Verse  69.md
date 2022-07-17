@@ -710,6 +710,12 @@ Boĭte se ot Allakh! I ne me posramvaĭte!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၉။	သင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား ကြောက်ရွံ့ကြလော့။ ငါ့ကို အရှက်မခွဲကြလင့်ဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား ကြောက်ရွံ့ကြလေကုန်။ ထိုမှတစ်ပါး အသင်တို့သည် ငါ့အား ဂုဏ်ရည်သေးသိမ်အောင် မပြုကြကုန်လင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

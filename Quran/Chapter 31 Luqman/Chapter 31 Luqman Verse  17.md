@@ -710,6 +710,12 @@ O, sinko moĭ, ot·sluzhvaĭ molitvata i povelyavaĭ odobryavanoto, i vŭzbra
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	အို-ချစ်သား၊ ဆွလားသ်ဝတ်ပြုလော့၊ သနားကြင်နာမှုကို ဆင့်ဆိုလော့၊ မကောင်းမှုဒုစရိုက်ကို တားမြစ်လော့၊ မည်သည့်အခြေအနေသို့ ဆိုက်ရောက်ငြားသော်လည်း ကြိုးစားမြဲကြိုးစားလော့၊ အကြောင်းမူကား ဤသို့ပြုကျင့် ခြင်းသည် စိတ်ဓာတ်ခိုင်ခန့်မြဲမြံခြင်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ချစ်သား၊ အသင်သည် ‘ဆွလာတ်’ ဝတ်ပြုမှုကို ဆောက်တည်ပါလေ။ ၎င်းပြင် အသင်သည် (သူတပါးတို့အားလည်း) ကောင်းမှု(ပြုလုပ်ကြရန်)နှင့်စပ်လျဉ်း၍ အမိန့်ပေးပါလေ။ ထို့ပြင် အသင်သည် မကောင်းမှုမှ(ကြဉ်ရှောင်ကြရန်)တားမြစ်ပါလေ။ ထိုမှတစ်ပါး အသင်သည် မိမိ၌ သက်ရောက်အံ့သော ဘေးဒုက္ခနှင့်စပ်လျဉ်း၍ ကြံ့ခိုင်စွာရှိပါလေ။ ဧကန်မလွဲ ဤ(ကြံ့ခိုင်စွာရှိခြင်း)သည် ဇွဲသတိ္တနှင့်သက်ဆိုင်သောအမှုကိစ္စတို့အနက်မှပင် ဖြစ်ချေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

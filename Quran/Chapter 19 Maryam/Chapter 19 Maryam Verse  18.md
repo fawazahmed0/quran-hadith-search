@@ -710,6 +710,12 @@ Reche tya: “Vsemilostiviya da me opazi ot teb! Ako si bogoboyazliv...”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	သူမက အို-အမောင်လုလင်၊ သင့်ထံမှ လွတ်မြောက်အောင် အကျွနု်ပ်သည် မဟာကရုဏာတော်ရှင်၊ အလ္လာဟ် အရှင်မြတ်ကို ကြောက်ရွံ့ရိုကျိုးလျှင် ကောင်းစွဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ယင်းမရ်ယမ်က (ထိုကောင်းကင်တမန်အား အကယ်စင်စစ် လူထင်မှတ်၍ဤသို့)ပြောကြား ခဲ့သည်မှာအကယ်၍ အသင်သည် သူတော်စင်တစ်ဦး ဖြစ်ခဲ့မူ ကျွန်ုပ်သည်အသင်(၏ဘေးအန္တရယ်)မှ(လွတ်ကင်းအံ့သောငှာ)ရဟ်မာန်အနန္တကရုဏာတော်ရှင်ထံတော်၌ အကာအကွယ်ယူပါ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

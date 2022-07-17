@@ -710,6 +710,12 @@ i zvezdite, i dŭrvetata se preklanyat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	ကြယ်နက္ခတ်တာရာနှင့် မြက်သစ်ပင်အားလုံးတို့သည် အရှင်မြတ်အား ဦးညွှတ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကြယ်၊ ပင်စည်မပါသော အပင်ငယ်များသည်လည်းကောင်း၊ ပင်စည်ပါသော အပင်များသည်လည်းကောင်း၊အမိန့်နာခံ ပျပ်ဝပ်ဦးချလျက်ရှိကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

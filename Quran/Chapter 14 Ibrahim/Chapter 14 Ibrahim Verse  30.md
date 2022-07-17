@@ -710,6 +710,12 @@ I storikha podobiya na Allakh, za da otklonyavat ot Negoviya pŭt. Kazhi: “Pon
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	ထို့အပြင်သူတို့သည် လူသားအပေါင်းတို့ကို အလ္လာဟ်အရှင်မြတ်၏ လမ်းတော်မှ လွှဲဖယ်သွားစေဖို့ရာ အရှင်မြတ် နှင့် အံတုဖက်များတင်မြှောက်ကြ၏။ တမန်တော်၊ ဟောကြားလော့။ ဟယ်-အချင်းတို့၊ သင်တို့သည် ဤလောကီ စည်းစိမ်ကို ခံစားရစဉ်တွင် ခံစားပျော်ပါးကြလော့။ အကြောင်းမူကား သင်တို့၏ ဘဝခရီးဆုံးသည် အဝီစိငရဲမီး တွင် မုချဖြစ်လတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့သည် (မိမိတို့ကိုယ်ကိုလည်းကောင်း၊ သူတစ်ပါးတို့ကိုလည်းကောင်း၊) အလ္လာဟ်အရှင်မြတ်၏လမ်းတော်မှ လွဲစေအံ့သောငှာ ထိုအရှင်မြတ်၏ ဂုဏ်ရည်တူများကို ပြုလုပ်ခဲ့ကြကုန်၏။(မှတ်ယူခဲ့ကြကုန်၏)။ (အို-နဗီတမန်တော်) အသင်သည် (၎င်းတို့အား အချင်းတို့) အသင်တို့သည်(ဤလောကီဘဝ၌အနည်းငယ်)အကျိုးခံစားကြလေကုန်(နောက်ဆုံး)စခန်းသည် ငရဲမီး၌ပင်ဖြစ်ပေသည်ဟုပြောကြားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

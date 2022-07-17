@@ -710,6 +710,12 @@ Kazhi: “Poglednete kakvo ima na nebesata i na zemyata!” No znameniyata i pre
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၁။	ဟောကြားလော့။ မိုးကောင်းကင်နှင့် ကမ္ဘာမြေပေါ်ဝယ်ရှိသည်တို့ကို ကြည့်ရှုကြလော့။ သို့သော်ကျမ်းတော်နှင့် သတိပေးသြဝါဒများသည် မယုံကြည်သူတို့အဖို့ အကျိုးမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (၎င်း တို့ အားဤသို့)ပြောကြားပါလေ။ (အချင်းတို့) အသင်တို့သည် မိုးကောင်းကင်များ၌လည်းကောင်း၊ ပထဝီမြေ၌ လည်းကောင်း၊အဘယ်ကဲ့သို့သောအရာများရှိကြသည်ကို ကြည့်ရှုကြလေကုန်။စင်စစ်မူကား မယုံကြည်(လို)သောသူတို့အား သက်သေလက္ခဏာများသည်လည်းကောင်း၊ သတိပေး နှိုးဆော် ချက်များသည်လည်းကောင်း၊ အကျိုးပေးသည်မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

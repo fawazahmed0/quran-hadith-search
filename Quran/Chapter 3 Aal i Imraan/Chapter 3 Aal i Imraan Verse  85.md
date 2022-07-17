@@ -710,6 +710,12 @@ A koĭto tŭrsi druga religiya osven Islyama, tya ne shte mu se prieme i v otv�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၅။	အကြင်သူသည် အလ္လာဟ်အသျှင်မြတ်အား ကျိုးနွံ့နာခံခြင်းမှတစ်ပါး အခြားဘာသာအယူဝါဒကို ရှာမှီးအံ့။ အသျှင်မြတ်သည် ထိုသူ၏အယူဝါဒကို နှစ်ခြိုက်တော်မမူပေ။ ထိုသူသည် နောင်တမလွန် ဘဝ၌ ပျက်စီးဆုံးရှုံးရသူဖြစ်မည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်တဝ မည်သူမဆို အစ္စလာမ် သာသနာမှတစ်ပါး အခြားသာသနာ တစ်ရပ်ရပ်ကို ရှာဖွေစူးစမ်းပါမူထိုသူ၏ထံမှ (ထိုသူရှာဖွေသော သာသနာသည် အလ’ဟ်အရှင်မြတ်အထံတော်၌) လက်ခံသဘောတူတော်မူခြင်းကိုအလျင်းခံရမည် မဟုတ်ပေ။ ၎င်းပြင် ထိုသူသည် နောင်တမလွန်ဘဝ ၌လည်း ဆုံးရှုံးသူများအနက် တစ်ဦးအပါအဝင်ဖြစ်ပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

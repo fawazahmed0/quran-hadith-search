@@ -710,6 +710,12 @@ I ako se pokorite na chovek kato vas, togava shte ste gubeshti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	အကယ်၍သင်တို့သည် မိမိတို့ကဲ့သို့သောသေမျိုး၏စကားကို နားထောင်လျှင် သင်တို့သည် အမှန်ဆုံးရှုံးသူများ ဖြစ်ကြမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍ အသင်တို့သည် မိမိတို့ကဲ့သို့သော လူသားတစ်ဦး(၏အမိန့်ကို လိုက်နာခဲ့ကြသည်ရှိသော် ဧကန်မလွဲ အသင်တို့သည် ဆုံးရှုံးသူများသာလျှင်ဖြစ်ကြပေမည်။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

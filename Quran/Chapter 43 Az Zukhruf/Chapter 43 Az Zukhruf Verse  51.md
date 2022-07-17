@@ -710,6 +710,12 @@ I prizova Faraonŭt svoya narod, i reche: “O, narode moĭ, nima ne prinadlezh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁။	ထို့အပြင်ဖွာရောမင်းသည် မိမိ၏အသင်းသားများကို ကြီးသောအသံဖြင့် ဤသို့ပြောဆို၏၊ အို-ငါ၏ အသင်းသား အပေါင်းတို့၊ အီဂျစ်နိုင်ငံတော်တဝှမ်းလုံးနှင့်တကွ ငါစံနေရာဘုံနန်းပြဿဒ်အောက်တွင် အယဉ်ထွေထွေစီးဆင်း လျက်နေသောဤမြစ်များကို ငါဘုရင်စိုးပိုင်တော်မူသည်မဟုတ်လော၊ ငါ၏ ဘုန်းလက်ရုံးတန်ခိုးအာဏာတော်ကို သင်တို့ဒိဌထင်ထင်မမြင်ကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ဖစ်ရ်အောင်န်သည် မိမိအမျိုးသားတို့တွင် ကြေညာခဲ့၏။ ၎င်းက (ဤသို့)ပြောဆို(ကြေညာ)ခဲ့လေ၏။ အို-ငါ၏အမျိုးသားတို့ အီဂျစ်နိုင်ငံကို ငါသာလျှင် စိုးမိုးအုပ်ချုပ်သည်မဟုတ်ပါလော၊ ထိုမှတစ်ပါး ဤသည့် ရေချောင်းတို့မှာ ငါ၏(ဘုံနန်း) အောက်မှ စီးတွေလျက် ရှိကြသည် (မဟုတ်လော)။ သို့ပါလျက် အသင်တို့သည် (ဤသည့် ဘုန်းတန်ခိုးများကို) မမြင်ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

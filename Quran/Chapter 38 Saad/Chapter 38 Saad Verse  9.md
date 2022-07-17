@@ -710,6 +710,12 @@ I nima pri tyakh sa sŭkrovishtnitsite s milostta na tvoya Gospod - Vsemogŭshti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	သို့မဟုတ် အနန္တတန်ခိုးတော်ရှင်၊ ရက်ရောပေးကမ်းစွန့်ကြဲတောမူထသောအရှင်၊ သင်၏ အသက်သခင်ကျေးဇူး တော်ရှင်၏ အနန္တကောင်းကြီးမင်္ဂလာတော်သည် သူတို့ပိုင်ဆိုင်သောဥစ္စာရတနာဖြစ်သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့ထံ၌ အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော၊ အလွန်တရာ နိုင်နင်းလွှမ်းမိုးတော်မူသော၊ အလွန်တရာ ရက်ရောစွာပေးကမ်းတော်မူသော အရှင်မြတ်၏ကရုဏာတော်၏ ဘဏ္ဍာတော်များသည် ရှိလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

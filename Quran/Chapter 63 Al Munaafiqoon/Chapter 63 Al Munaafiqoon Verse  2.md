@@ -710,6 +710,12 @@ Te prevrŭshtat kletvite si v prikritie i vŭzpirat ot pŭtya na Allakh. Loshi s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။ ထိုသူယုတ်မာတို့သည် မိမိတို့၏ အယူဝါဒကို ဥပါယ်တမည်ပြုလုပ်ကြ၏၊ ဤကဲ့သို့သူတို့သည် လူသားတို့ကို အလ္လာဟ်အရှင်မြတ်၏ လမ်းတော်မှ လွှဲသွားစေကြ၏၊ သူတို့၏ အပြုအမူမှာ မုချဧကန်ညစ်ညမ်းဆိုးသွမ်း၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည်ကား မိမိတို့၏ကျိန်ဆိုချက်များကို အကာအကွယ်ပြုလုပ်ပြီးလျှင်(သူတစ်ပါးတို့အား) အလ္လာဟ်အရှင်မြတ်၏လမ်းတော်မှ တားဆီးပိတ်ပင်ခဲ့ကြလေ၏။ ဧကန်စင်စစ် ၎င်းတို့၏ ပြုမူချက်များမှာ လွန်စွာ ဆိုးရွားလှ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Tvoyat Gospod znae kakvo potulvat sŭrtsata im i kakvo razkrivat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၄။	မှတ်သားကြလော့၊ သင်တို့၏အသက်သခင်ကျေးဇူးရှင်သည် လူသားအပေါင်းတို့ကို အတိုင်းမသိပေးကမ်းစွန့် ကြဲတော်မူ၏၊ သို့သော်လူသားများအနက် များလှစွာသောသူတို့သည် ကျေးဇူးမတင်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် ထိုသူတို့၏ ရင်များက လျှို့ဝှက်ထားကြသည်တို့ကို လည်းကောင်း၊ ထိုသူတို့ ထင်ရှားစေကြသည်တို့ကို လည်းကောင်း၊ အမှန်ပင် သိရှိတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

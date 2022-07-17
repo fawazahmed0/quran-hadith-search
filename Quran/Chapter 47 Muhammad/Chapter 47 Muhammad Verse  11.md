@@ -710,6 +710,12 @@ Taka e, zashtoto Allakh e Pokrovitelyat na vyarvashtite, a nevernitsite nyamat p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	သို့ဖြစ်ရခြင်းမှာ အလ္လာဟ်အရှင်မြတ်သည် ယုံကြည်သူတို့ကို အထူးကြည့်ရှုထောက်ပံ့တော်မူ၍ မယုံကြည်သူ တို့၌မူကား စောင့်ရှောက်မည့်သူမရှိခြင်းကြောင့်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းသို့ဖြစ်ခြင်းမှာ အလ္လာဟ်အရှင်မြတ်သည်’မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူတို့၏ ကိစ္စအဝဝကို ဆောင်ရွက်ပေးတော်မူသောအရှင် ဖြစ်တော်မူသောကြောင့် လည်းကောင်း၊ 'ကာဖိရ်' သွေဖည်ငြင်းပယ်သောသူတို့၌ ကိစ္စအဝဝကို ဆောင်ရွက်ပေးတော်မူသောအရှင်ဟူ၍ အလျှင်း မရှိသောကြောင့်လည်းကောင်း၊ ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

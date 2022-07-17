@@ -710,6 +710,12 @@ Sega li? A se vŭzprotivi ti predi i be ot seeshtite razvala
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၁။	ဘာလဲ၊ ယခုမှ ယုံကြည်သလော၊ ယခုတိုင်အောင် နင်သည် ထောင်ထားခြားနား၍ မတရားပြုကျင့်သူတို့ဘောင် တွင် ပါဝင်ပြီးမှ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ အလ္လာဟ်အရှင်မြတ်သည် ဤသို့ မိန့်ကြားတော်မူခဲ့၏။) ယခုမှပင် (အီမာန်သက်ဝင်) ယုံကြည်လေသလော။ အမှန်စင်စစ်သော်ကား အသင်သည် ယခု (မနစ်မြုပ်မီ)အလျင်အထိ မထီမဲ့မြင် ပြုခဲ့ရုံမျှမက အသင်သည် ပျက်စီးရာပျက်စီးကြောင်း ပြုလုပ်သူတို့တွင်လည်း တစ်ဦးအပါအဝင်ဖြစ်ခဲ့ချေ သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

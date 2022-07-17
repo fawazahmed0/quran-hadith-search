@@ -710,6 +710,12 @@ Na Allakh e vsichko na nebesata i vsichko na zemyata, za da vŭzdade na zlostorn
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	အထက်ကောင်းကင်ဘုံနှင့် အောက်မဟာပထဝီမြေကြီးပေါ်ဝယ် ရှိရှိသမျှတို့ကို အလ္လာဟ်အရှင်မြတ်သည် စိုးပိုင် တော်မူ၏၊ အရှင်မြတ်သည် မကောင်းမှုကို ကျူးလွန်သူတို့အား မိမိတို့ကျုးလွန်မှုအလိုက် အပြစ်ပေးတော်မူ၏၊ ကောင်းမှုကို ပြုကျင့်သူတို့အား မိမိတို့ကောင်းမှုနှင့်အညီ ဆုပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး မိုးကောင်းကင်များ၌ ရှိသမျှတို့သည်လည်းကောင်း၊ ပထဝီမြေ၌ ရှိသမျှတို့သည်လည်းကောင်း၊အလ္လာဟ်အရှင်မြတ် ပိုင်ဆိုင်တော်မူသော အရာများသာလျှင် ဖြစ်ကြကုန်၏။ နောက်ဆုံးတွင် ထိုအရှင်မြတ်သည် ဒုစရိုက်မှုကို ကျူးလွန်ခဲ့ကြသောသူတို့အား ၎င်းတို့ ကျူးလွန်ခဲ့ကြသည်၏ အကျိုးကို ပေးတော်မူအံ့၊ ထိုနည်းတူစွာ ထိုအရှင်မြတ်သည် ကောင်းမှု ပြုခဲ့ကြသောသူတို့အား ကောင်းမြတ်သော အကျိုးကို ပေးတော်မူအံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

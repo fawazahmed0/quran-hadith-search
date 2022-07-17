@@ -710,6 +710,12 @@ Tam shte prebivavat vechno i ne shte nameryat nito pokrovitel, nito izbavitel
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၅။	ထိုငရဲတွင် သူတို့သည် အမြဲခံကြရလတ့ံ၊ ထိုအခါသူတို့သည် စောင့်ရှောက်သူကိုသော်လည်းကောင်း၊ အဆွေ ခင်ပွန်းကိုသော်လည်းကောင်း၊ တစ်စုံတစ်ယောက်မျှရှာ၍ ရရှိမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ယင်းမီး၌ အမြဲမပြတ် နေထိုင်လျှက်ရှိကြပေမည်။ ၎င်းတို့သည် မည်သည့်စောင့် ရှောက်သောသူကိုမျှလည်း တွေ့ရှိကြမည်မဟုတ်ချေ။ မည်သည့်ကာကွယ်မည့် သူကိုမျှလည်း တွေ့ရှိကြမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

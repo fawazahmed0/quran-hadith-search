@@ -710,6 +710,12 @@ Ako litsemerite i onezi, v chiito sŭrtsa ima bolest, i razprostranitelite na sl
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆ဝ။	အို-တမန်တော်၊ အယူဖောက်ပြားစိတ်နှစ်ခွထားသောယုံကြည်ဟန်ဆောင်သူများ၊ စိတ်နှလုံး၌ မိစ္ဆာဝေဒနာ စွဲကပ်သူများ၊ မဒီနာမြို့တွင် မဟုတ်မလျားကြောက်ဖွယ်သတင်းလွှင့်သူများ၊ ထိုသူတို့သည် မိမိတို့အကျင့်ဆိုး ကို မစွန့်လွှတ်လျှင် ငါသည် သင်တမန်တော်အား ထိုသူမိုက်တို့ကို မုချဧကန်လုပ်ကြံစေတော်မူလိမ့်မည်၊ ထိုအခါသူတို့သည် သင်၏အိမ်နီးချင်းအဖြစ်ဖြင့် ထိုမြို့၌ ကာလအနည်းငယ်မျှသာနေထိုင်ကြရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ်သော်ကား အကယ်၍ မုနာဖစ်က်အယောင်ဆောင် မုစ်လင်မ်တို့သည်လည်းကောင်း၊ စိတ်တွင်းဝယ် ရောဂါဝေဒနာ ရှိသူတို့သည်လည်းကောင်း၊ မဒီနာမြို့တွင်း၌ ထိတ်လန့်ဖွယ် သတင်းလွှင့်သူတို့သည်လည်းကောင်း၊(မိမိတို့၏ အပြုအမူများကို) မရပ်စဲခဲ့ကြလျှင် ဧကန်မလွဲ ငါအရှင်မြတ်သည် အသင့်အား ၎င်းတို့အပေါ်ဝယ် လွှမ်းမိုးစေတော်မူမည်။ ထို့နောက် ၎င်းတို့သည် အသင့်ထံတွင် မဒီနာမြို့၌ အနည်းငယ်မျှသော ကာလမှတစ်ပါး နေကြရမည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

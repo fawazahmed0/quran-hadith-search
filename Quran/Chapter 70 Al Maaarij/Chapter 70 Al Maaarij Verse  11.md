@@ -710,6 +710,12 @@ vŭpreki che shte se vizhdat. Prestŭpnikŭt shte zhelae, da bi se otkupil ot m�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။ သူတို့သည် တစ်ယောက်ကို တစ်ယောက်မြင်ရသော်လည်း မမေးသောနေ့တော်ကြီး၊ ထိုနေ့တော်ကြီး၌ အပြစ်ထိုက်သူသည် ထိုနေ့တော်ကြီး၏ အပြစ်ဒဏ်တော်မှ လွတ်ရအောင် မိမိ၏ သားသမီးများ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (စင်စစ်) ၎င်းတို့သည် အချင်းချင်း ပြသခြင်းကိုလည်း ခံကြရပေမည်။ (ထိုနေ့တွင်) အပြစ်ရှိသောသူသည် ထိုနေ့၏ပြစ်ဒဏ်မှ (လွတ်မြောက်ရန်) မိမိ သားများအားလည်းကောင်း၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

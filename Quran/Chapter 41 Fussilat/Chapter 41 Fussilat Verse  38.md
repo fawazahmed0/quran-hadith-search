@@ -710,6 +710,12 @@ I ako [nevernitsite] se vŭzgordyavat, to [angelite], koito sa pri tvoya Gospod,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	မိစ္ဆာဒိဋ္ဌိတို့သည် မာမာနထောင်လွှားနေလျှင် သူတို့ကို ဂရုမပြုလင့်၊ သင်၏ အသက်သခင်ကျေးဇူးရှင်ကြီး၏ အပါးတော်တွင် ခစားနေသောသူတို့သည် အရှင်မြတ်၏ ဂုဏ်ကျေးဇူးတော်ကို နေ့ညမပြတ်ချီးကျုးလျက်ရှိကြ၏၊ လုံးဝမမောပန်းကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကယ်၍ ၎င်းတို့သည်(ဤအမိန့်တော်ကို လိုက်နာကျင့်သုံးခြင်းမရှိဘဲ)မာန်မာန ထောင်လွှားခဲ့ကြလျှင်၊ အသင့်အား ဖန်ဆင်းမွေးမြူ တော်မူသောအရှင်မြတ်၏ထံတော်ပါး၌ရှိကြသော မလာအိကဟ် ကောင်းကင်တမန်တို့မူ နေ့ရောညပါ ထိုအရှင်မြတ်စင်ကြယ် သန့်ရှင်းတော်မူကြောင်းကို မြွက်ဆိုလျက်ရှိကြကုန်၏။ ထိုမှတစ်ပါး ၎င်းတို့သည်ငြီးငွေ့ကြသည်ပင် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

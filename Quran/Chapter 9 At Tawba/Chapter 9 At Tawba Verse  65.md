@@ -710,6 +710,12 @@ I ako gi popitash, nepremenno shte rekat: “Samo bŭbrekhme i se zabavlyavakhme
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၅။	အကယ်၍ သင်မိုဟမ္မဒ်သည် သူတို့အား မေးမြန်းလျှင် သူတို့က အကျွနု်ပ်တို့သည် ပြောင်လှောင်ပြောဆိုကြ၏ဟု ပြန်ပြောကြမည်။သင်ကြားလော့။သင်တို့သည် အလ္လာဟ်အရှင်မြတ် အရှင်မြတ်၏ နှုတ်ကပတ်တော်များနှင့် အရှင်၏ တမန်တော်ကို ကဲ့ရဲ့ပြောင်လှောင်ကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အကယ်၍ အသင်သည် ထိုသူတို့အား စစ်ဆေးမေးမြန်းခဲ့ပါလျှင် ဧကန်မလွဲ ၎င်းတို့ကကျွန်ုပ်တို့သည် အပျော်အပျင်းပြေစကား ပြောဆိုလျက်သာရှိကြပါသည်၊ ၎င်းပြင် ကျွန်ုပ်တို့သည် ရယ်စရာပြောဆိုလျက်သာ ရှိကြပါသည် ဟု ဖြေကြားလတ္တံ့။ (အို-နဗီတမန်တော်)အသင်သည် (၎င်းတို့အား ဤသို့)ပြောကြားပါလေ။ (ဟယ်အချင်းတို့) အသင်တို့သည် အလ္လာဟ်အရှင်မြတ် အားလည်းကောင်း၊ ထိုအရှင်မြတ်၏အာယတ်တော်များကိုလည်းကောင်း၊ ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော်မြတ်အားလည်းကောင်း၊ပြက်ရယ်ပြောင်လှောင်ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

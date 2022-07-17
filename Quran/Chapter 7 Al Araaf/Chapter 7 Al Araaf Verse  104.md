@@ -710,6 +710,12 @@ I kaza Musa: “O, Faraone, az sŭm pratenik ot Gospoda na svetovete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၄။	တမန်တော်မူဆာ ဟောကြား၏။ အို-ဖာရောမင်း မှတ်သားလော့။ အကျွနု်ပ်သည် စကြာဝဠာ အားလုံး၏ အသျှင်သခင်အထံတော်မှ တမန်တော်တစ်ပါးဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 င်းပြင် (နဗီတမန်တော်)မူစာက အိုဖစ်ရ်အောင်န် ငါသည် ဧကန်စင်စစ် စကြာဝဋ္ဌာ ခပ်သိမ်းတို့ကို ဖန်ဆင်းမွေးမြူတော်မူသောအသျှင်မြတ် အထံတော်မှစေလွှတ်ခြင်းခံရသော ရစူလ်တမန်တော် တစ်ပါးပင်ဖြစ်ချေသည်ဟု ပြောကြားခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

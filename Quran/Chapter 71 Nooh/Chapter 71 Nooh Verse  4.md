@@ -710,6 +710,12 @@ Togava Toĭ shte vi oprosti grekhovete i shte vi dade ot·srochka za opredeleno
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။ သို့မှသာလျှင် အရှင်မြတ်သည် သင်တို့၏အပြစ်များအနက် အချို့ကို ခွင့်လွှတ်တော်မူမည်၊ သင်တို့ကို သတ်မှတ် ထားတော်မူသောကာလတိုင်အောင် ရက်ချိန်းပေးတော်မူမည်၊ အလ္လာဟ်အရှင်မြတ်ချိန်းထားတော်မူသောအချိန် ကာလကျရောက်လာသောအခါ ထိုအချိန်ကို မရွှေ့ဆိုင်းနိုင်ချေ၊ သင်တို့သည် သိကြလျှင် တော်လေစွ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် အသင်တို့၏ ပြစ်မှုဒုစရိုက်များကို ခွင့်လွှတ် ချမ်းသာပေးတော်မူမည့်ပြင် ထိုအရှင်မြတ်သည် အသင်တို့အား သတ်မှတ်ပြဋ္ဌာန်းပြီးဖြစ်သော အချိန်ကာလတိုင်အောင် ရွှေ့ဆိုင်းခွင့် ပေးတော်မူပေမည်။ မလွဲဧကန် အလ္လာဟ်အရှင်မြတ် ပြဋ္ဌာန်းတော် မူသောအချိန်ကာလသည် ဆိုက်ရောက်လာသောအခါ ရွှေ့ဆိုင်း၍ရမည် မဟုတ်ပေ။ အကယ်၍ အသင်တို့ သည် (ဤသည်ကို) သိရှိကြပါလျှင် ကောင်းလေစွတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

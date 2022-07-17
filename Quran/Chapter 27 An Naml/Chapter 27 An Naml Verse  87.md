@@ -710,6 +710,12 @@ I edin Den shte se protrŭbi s Roga, i shte se uzhasyat vsichki na nebesata i vs
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၇။	ထို့အပြင်တံပိုးကြီးမှုတ်မည့်နေ့တော်ကြီးအကြောင်းကို သင်သည် သူတို့အား သတိပေးလော့၊ ထိုအခါအလ္လာဟ် အရှင်မြတ်အလိုတော်ရှိသူမှတပါး မိုးကောင်းကင်နှင့်ကမ္ဘာမြေပေါ်ဝယ်ရှိရှိသမျှတို့သည် ပြင်းထန်စွာထိတ်လန့် တုန်လှုပ်ကြောက်ရွံ့ကြလတ့ံ၊ ထိုနေ့တော်ကြီး၌ ခပ်သိမ်းကုန်သောသူအပေါင်းတို့သည် တုပ်ပြတ်ကျိုးနွံရိုသေ ကိုင်းရှိုင်းစွာ အလ္လာဟ်အရှင်မြတ်ရှေ့တော်မှောက်သို့ လာကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် တံပိုးခရာမှုတ်သောနေ့တွင် အလ္လာဟ်အရှင်မြတ် အလိုရှိတော်မူသောသူမှတပါး မိုးကောင်းကင်များ၌ ရှိသူတို့သည်လည်းကောင်း၊ ပထဝီမြေ၌ရှိသူတို့သည်လည်းကောင်း၊ ထိတ်လန့်၍သွားကြပေမည်။ ထိုမှတစ်ပါး အားလုံးတို့သည် ဂုဏ်သိန်နိမ့်ကျလျက် ထိုအရှင်မြတ်အထံတော်သို့ ရောက်ရှိ၍လာကြကုန်အံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

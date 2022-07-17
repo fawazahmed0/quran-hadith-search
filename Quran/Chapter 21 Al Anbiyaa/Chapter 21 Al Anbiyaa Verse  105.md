@@ -710,6 +710,12 @@ Napisakhme Nie v psalmite podir Napomnyaneto, che Moite pravedni rabi shte nasle
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၅။	ငါသည် ကျမ်းတော်၌ သမ္မာတရားတော်ကို ပညတ်တော်မူပြီးသည့်နောက် တရားတော်ကို စောင့်ရှောက်သော ငါ့ကျေးတော်မျိုးကျွန်တော်မျိုးတို့သည် ဤမဟာပထဝီမြေကြီးကို အမွေခံစားရကြမည်ဟု ရေးထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မချွတ်မလွဲ ငါအရှင်မြတ်သည် "လောက်ဟ်မဟ်ဖူဇ်" သင်ပုန်း( ၌ရေးသားတော်မူပြီး)နောက်၊ ကောင်းကင်ကျကျမ်းတော်(လည်း) ဧကန်စင်စစ် မြေကို ငါအရှင်မြတ်၏ သူတော်စင် ကျွန်များပင် အမွေဆက်ခံကြမည်ဟု ရေးသားတော်မူခဲ့ပြီးဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

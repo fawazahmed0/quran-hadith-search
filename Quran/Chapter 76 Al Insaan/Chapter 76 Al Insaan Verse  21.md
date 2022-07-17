@@ -710,6 +710,12 @@ Shte bŭdat oblecheni v zeleni odezhdi ot koprina i brokat, i shte nosyat ukrash
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။ ထို့အပြင်နိဗ္ဗာန်သားတို့ဆင်ယင်သောအဝတ်တန်ဆာများကား စိန်ရွှေအရောင်ဖြင့် အလွန်ထူထဲသောပိုးထည် များဖြစ်၏၊ သူတို့သည် ငွေအတိပြီးသောလက်ကောက်လက်ကြပ်စသည်တို့ကို ဝတ်ဆင်လိမ့်မည်၊ သူတို့၏ အရှင်သခင်သည် သူတို့၏ ရေငတ်ခြင်းကို သန့်ရှင်းစင်ကြယ်သောသောက်စရာဖြင့် ဖြေတော်မူလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့(၏ ခန္ဓာကိုယ်များ)ပေါ်၌ အစိမ်းရောင်ပိုးထည်အပါးစား အဝတ်များသည်လည်းကောင်း၊ ပိုးထည်အထူစား၊ ရွှေခြည်ဖြင့် ပန်းထိုးထားသော ပိုးဗရိုကိတ် အဝတ်များသည်လည်းကောင်း၊ ရှိကြပေမည်။ ထို့ပြင် ၎င်းတို့သည် ငွေလက်ကောက်၊ လက်ကြပ်များဖြင့် တန်ဆာဆင်ယင်ပေးခြင်းကိုလည်း ခံကြ ရပေမည်။ ထိုမှတစ်ပါး ၎င်းတို့ကို ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် ၎င်းတို့အား လွန်စွာ စင်ကြယ်သန့်ရှင်းသောအရက်ကို တိုက်ကျွေးတော် မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ osven Tvoite predani rabi sred tyakh.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄ဝ။	သို့သော် အရှင်အား ကြီးစွာသစ္စာရှိသောကျေးတော်မျိုးကျွန်တော်မျိုးအစစ်တို့ကိုမူကား အကျွနု်ပ်မလှည့်စားပါဟု တင်လျှောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ၎င်းတို့အနက် (အရှင်မြတ်)ရွေးချယ်ထားတော်မူသောအရှင်မြတ်၏ ကျွန်များကိုမူကား (ကျွန်တော်မျိုးသည် လွဲချော်မှောက်မှားအောင် အလျှင်းပြုလုပ်နိုင်မည်မဟုတ်ပါဟု (လျှောက်ထားပန်ကြားခဲ့၏)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Tŭĭ che ne ogorchavaĭ siraka
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။ ထို့ကြောင့်မိဘမဲ့ကို မညှင်းပန်းမနှိပ်စက်လင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ မည်သို့ပင်ဖြစ်စေကာမူ အသင်သည် မိဘမဲ့ကလေးသူငယ်အား ဖိနှိပ်(ကြိမ်းမောင်း) ခြင်းကို မပြုပါလေနှင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

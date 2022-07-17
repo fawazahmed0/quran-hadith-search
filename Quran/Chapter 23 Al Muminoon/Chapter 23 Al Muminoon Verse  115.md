@@ -710,6 +710,12 @@ Nima smyatakhte, che vi sŭtvorikhme naprazno i che pri Nas ne shte bŭdete vŭr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၅။	ထို့အပြင်နင်တို့ကို ငါသည် အချည်းနှီးအကြောင်းမဲ့ဖန်ဆင်းတော်မူသည်ဟု ထင်မှတ်ကြသလော၊ နင်တို့သည် ငါ့အထံတော်သို့ ပြန်မလာကြရဟု နင်တို့ထင်မှတ်စွဲလမ်းခဲ့ကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် မိမိတို့အား ငါအရှင်မြတ်က အချည်းနှီး အကျိုးမဲ့သာ ဖန်ဆင်းတော်မူခဲ့သည် ဟူ၍လည်းကောင်း၊ အသင်တို့သည် ငါအရှင်မြတ်အထံတော်သို့ ပြန်လည်ရောက်ရှိကြရမည် မဟုတ်ဟူ၍လည်းကောင်း၊ ထင်မှတ်ခဲ့ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

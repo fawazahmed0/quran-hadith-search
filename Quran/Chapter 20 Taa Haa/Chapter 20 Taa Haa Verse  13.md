@@ -710,6 +710,12 @@ Az te izbrakh. I chuĭ kakvo shte ti bŭde razkrito
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	ထို့ပြင်ငါသည် သင့်ကို ရွေးကောက်တော်မူပြီ၊ ထို့ကြောင့်သင်သည် ငါ၏ဗျာဒိတ်တော်ကို ကြားနာလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ငါအရှင်မြတ်သည် အသင့်အား (နဗီတမန်တော်အဖြစ်) ရွေးချယ်တော်မူပြီးဖြစ်ရာ အသင်သည်(မိမိထံသို့ ငါအရှင်မြတ်အထံတော်မှ) ထုတ်ပြန် ခြင်းခံရသောအမိန့်တော်များကို နားထောင်ပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

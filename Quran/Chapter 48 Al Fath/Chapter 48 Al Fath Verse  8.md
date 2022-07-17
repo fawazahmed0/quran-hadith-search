@@ -710,6 +710,12 @@ Izpratikhme te Nie [o, Mukhammad] za svidetel i blagovestitel, i predupreditel
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	မှတ်သားလော့၊ အေ-တမန်တော်၊ ငါသည် သင့်ကို သက်သေတော်အဖြစ်ဖြင့်သော်လည်းကောင်း၊ ဝမ်းမြောက် ဖွယ်သတင်းကောင်းကို ပေးကြားရန်သော်လည်းကောင်း၊ အပြစ်ဒဏ်တော်အကြောင်းသတိပေးရန်သော် လည်းကောင်း စေလွှတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်၊) ဧကန်မလွဲ ငါအရှင်မြတ်သည် အသင့်အား သက်သေအဖြစ်လည်းကောင်း၊ သတင်းကောင်း ပြောကြားသူ အဖြစ်လည်းကောင်း၊ သတိပေးနှိုးဆော်သူ အဖြစ်လည်းကောင်း၊ စေလွှတ်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

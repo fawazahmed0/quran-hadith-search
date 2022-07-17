@@ -710,6 +710,12 @@ I kazakha: “Sŭrtsata ni sa pod klyuch.” Da, Allakh gi e proklel zaradi tyak
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၈။	သူတို့က အကျွန်ုပ်တို့သည် ခက်ထန်မာပြင်း၏ဟုပြောကြ၏။ ယင်းသို့မဟုတ်ပေ။ အလ္လာဟ်အရှင်မြတ် သည် သူတို့အား မိစ္ဆာအယူဝါဒကြောင့်ကျန်ဆဲတော်မူ၏။ သူတို့သည် အနည်းငယ်မျှ မယုံကြည် ကြပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် ယင်း(ယဟူဒီများက) ပြောဆိုကြပြန်သည်မှာ အကျွန်ုပ်တို့၏ စိတ်နှလုံးများသည် လုံးဝ ဖုံးအုပ်လျက်ရှိနေပေသည်။ (သို့ဖြစ်လေရာ အစ္စလာမ်သာသနာသည် ကျွန်ုပ်တို့၏ စိတ်နှလုံး တွင်းသို့ မစူးရှ မဝင်နိုင်ချေ)။ စင်စစ်သော်ကား ထိုသို့အလျင်းမဟုတ်၊ အမှန်မှာ ယင်းသူတို့၏ ငြင်းပယ်ဖီဆန်မှုကြောင့် အလ္လာဟ် အရှင်မြတ်သည် ထိုသူတို့အား မိမိကရုဏာတော်မှ ကင်းဝေးစေတော် မူသည်။ သို့ဖြစ်၍ ယင်းသူတို့၏ (စိတ်တွင်း၌) ယုံကြည်ခြင်းသဒ္ဓါတရားသည် အနည်းငယ် စိုးစဉ်မျှသာ ရှိလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

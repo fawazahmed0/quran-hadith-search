@@ -710,6 +710,12 @@ Ne ti napŭtvash, kogoto obichash, a Allakh napŭtva kogoto pozhelae. Toĭ nai�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၆။	မှတ်သားလော့၊ အို--မိုဟမ္မဒ်၊ သင်သည် သင်ချစ်ခင်စုံမက်သူအား လမ်းပြသသည်မဟုတ်၊ အလ္လာဟ်အရှင် မြတ်သာလျှင် အရှင်လမ်းပြလိုတော်မူသောသူအား လမ်းညွှန်ထား၏၊ ထို့အပြင်အရှင်မြတ်သည် လမ်းမှန်လိုက်သူ တို့ကို အသိဆုံးဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် အသင်သည် မိမိနှစ်လိုသူအား တရားလမ်းမှန်သို့ ပို့ဆောင်ပေးနိုင်သည် မဟုတ်ပေ။ စင်စစ်မှာကား အလ္လာဟ်အရှင်မြတ်သာလျှင် မိမိ အလိုရှိတော်မူသောသူအား တရားလမ်းမှန်သို့ ပို့ဆောင်ပေးတော်မူ၏။ ၎င်းပြင် ထိုအရှင်မြတ်သည်သာလျှင် တရားလမ်းမှန် ရရှိကြမည့်သူတို့အား ကောင်းစွာသိရှိတော်မူသော အရှင်မြတ် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I dali onzi, komuto obeshtakhme khubavo obeshtanie i toĭ nepremenno shte go po
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၁။	အကြင်သူအား ငါသည် မြင့်မြတ်သောကတိဗျာဒိတ်တော်ကို ပေးတော်မူအ့ံ၊ ထိုသူသည် ထိုကတိသစ္စာတော် သည် အမှန်အကန်တည်သည်ကို တွေ့ရအ့ံ၊ အကြင်သူအား ငါသည် လောကီစည်းစိမ်ချမ်းသာကို ခေတ္တခဏ ခံစားခွင့်ပြုအ့ံ၊ ထိုသူသည် ရှင်ပြန်ထမြောက်ရသောနေ့တော်ကြီး၌ အစစ်အဆေးခံရသောသူတို့ထဲတွင် အပါအဝင် ဖြစ်ရလိမ့်မည်၊ ဤလူမျိုးနှစ်ဖုံသည် ထပ်တူထပ်မျှသာဖြစ်ကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အကြင်သူအား ငါအရှင်မြတ်သည် ကောင်းမြတ်သောကတိ ပေးတော်မူခဲ့၏။ တစ်ဖန် ထိုသူသည် ယင်းကတိပေးချက်အတိုင်း တွေ့ကြုံ(ခံစား)ရမည့်သူလည်းဖြစ်၏။ ထိုသူသည် အကြင်သူကဲ့သို့ ဖြစ်နိုင်မည်လော။ ငါအရှင်မြတ်သည် ထိုသူအား ဤမျက်မှောက် လောကီဘဝ၏ အကျိုးခံစားခွင့်ကို ပေးတော်မူခဲ့၏။ ထို့နောက် ‘ကိယာမတ်’ ရှင်ပြန်ထမည့်နေ့တွင် ထိုသူမှာ ဖမ်းဆီး၍ ရှေ့တော်မှောက် သွင်းခြင်းကို ခံကြရသောသူတို့အနက်မှ ဖြစ်ချေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

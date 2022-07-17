@@ -710,6 +710,12 @@ Ednata ot dvete reche: “O, tatko moĭ, naemi go! Naĭ-dobriya, kogoto mozhes
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	သမီးနှစ်ယောက်အနက် တစ်ယောက်က အို-ဘခင်၊ သူ့အား စာရင်းငှားအဖြစ် ငှားတော်မူပါ၊ အကြောင်းမူကား ခွန်အားဗလရှိ၍ ရိုးသားဖြောင့်မတ်ယုံကြည်ထိုက်သူသည် အကောင်းဆုံးသောစာရင်းငှားဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(အမျိုးသမီး)နှစ်ဦးအနက် တစ်ဦးက ‘အို-ဖခင် အသင်ဖခင်သည် ဤသူအား(သူရင်းငှားအဖြစ်) ငှားထားပါ။ ဧကန်မလွဲ အသင်ဖခင်သည်(သူရင်းငှားအဖြစ်)ငှားအံ့သောသူတို့တွင် ခွန်အားရှိသူ၊ ယုံကြည်စိတ်ချအပ်သောသူသည် အကောင်းဆုံးပင်ဖြစ်ပါသည်’ ဟုပြောဆိုလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

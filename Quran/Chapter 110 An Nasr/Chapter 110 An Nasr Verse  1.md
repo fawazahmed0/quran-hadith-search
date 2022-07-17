@@ -710,6 +710,12 @@ Kogato doĭde podkrepata na Allakh i pobedata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။ အလ္လာဟ်အရှင်မြတ်၏ ကူညီစောင်မခြင်းနှင့် အောင်မြင်ခြင်းမင်္ဂလာတို့ကျရောက်လာသောအခါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အလ္လာဟ်အရှင်မြတ်၏ အကူအညီသည်လည်းကောင်း၊ အောင်နိုင်မှုသည်လည်းကောင်း၊ ရောက်ရှိခဲ့သောအခါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

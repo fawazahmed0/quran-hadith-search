@@ -710,6 +710,12 @@ Vsyakoga, shtom poluchat novo napomnyane ot svoya Gospod, te go slushat, podigra
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	သူတို့၏အရှင်သခင်ထံတော်မှ သတိပေးကျမ်းတော်သစ်ကျရောက်လာလျှင် ထိုသူတို့သည် ထိုကျမ်းတော်ကို ကစားလျက် ကြားနာကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့ထံ ၎င်းတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်မှ မည်သည့်သစ်လွင်သော သတိပေးနှိုးဆော်ချက်မဆို ရောက်လတ်သော်၎င်းတို့သည် ယင်းသတိပေး နှိုးဆော်ချက်ကိုပြက်ချော်ပြောင်လှောင်၍သာနားထောင်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

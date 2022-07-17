@@ -710,6 +710,12 @@ I zhelaekha negovata gibel, a Nie storikhme da sa naĭ-gubeshtite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇ဝ။	ထို့နောက်သူတို့သည် အေဗရာဟမ်ကို လှည့်ဖြားလိုကြသည်၊ သို့ရာတွင် ငါအရှင်မြတ်သည် သူတို့အား ပိုမို ဆုံးရှုံးသူများဖြစ်စေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ၎င်းတို့သည် ထိုအိဗ်ရာဟီမ်နှင့်ပတ်သက်၍ မကောင်းသောအကြံအစည်ကို ကြံရွယ်ခဲ့ကြကုန်၏။ သို့ရာတွင် ငါအရှင်မြတ်သည် ၎င်းတို့အား အကြံမအောင်သောသူများပင် ဖြစ်စေတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

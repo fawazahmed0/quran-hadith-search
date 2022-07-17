@@ -710,6 +710,12 @@ I izpratikhme Nukh i Ibrakhim, i otredikhme sred tyakhnoto potomstvo da bŭdat p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	ငါသည် မုချဧကန်နူဟိုနှင့် အေဗရာဟမ်တို့ကို စေလွှတ်တော်မူ၏၊ ထိုတမန်တော်များမှ ဆင်းသက်ပေါက်ဖွား လာသောသားစဉ်မြေးဆက်တို့တွင် အချို့အား တမန်တော်ဘွဲ့တံဆိပ်နှင့် ကျမ်းတော်မြတ်ကို ချပေးသနားတော် မူရန် အတည်ပြဋ္ဌာန်းတော်မူ၏၊ ထိုသားစဉ်မြေးဆက်တို့အနက် အချို့မှာ လမ်းမှန်ကို လိုက်ကြ၏၊ သို့သော် အရေအတွက်များစွာသောသူတို့မှာမူကား မကောင်းမှု၌ နစ်မွန်းနေကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် (နဗီတမန်တော်) ‘နူဟ်’အားလည်းကောင်း၊ (နဗီတမန်တော်) ‘အိဗ်ရာဟီမ်’အားလည်းကောင်း၊ စေလွှတ်တော်မူ၏။ ၎င်းပြင် ငါအရှင်မြတ်သည် ထို(နဗီတမန်တော်)’နူဟ်’ နှင့်(နဗီတမန်တော်)’အီဗ်ရာဟီမ်’ နှစ်ပါးတို့၏သား၊ မြေးတို့၌ နဗီတမန်တော် ဖြစ်မှုကိုလည်းကောင်း၊ ကျမ်းဂန်ကိုလည်းကောင်း၊ သတ်မှတ်၍ ပေးသနားတော်မူခဲ့ရာ ၎င်းတို့တွင် တရားလမ်းမှန်ကို ရရှိသူများလည်း ရှိခဲ့ကြကုန်၏။ သို့ရာတွင် ၎င်းတို့အနက် မြောက်မြားစွာသောသူတို့မှာ သွေဖည်သူများပင် ဖြစ်ခဲ့ကြ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

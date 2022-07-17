@@ -710,6 +710,12 @@ Ako zaemete khubav zaem na Allakh, Toĭ shte vi go umnozhi. I shte vi oprosti. 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား ကောင်းသောမြီချအံ့၊ အရှင်မြတ်သည် ထိုမြီကြွေးကို နှစ်ဆတိုးပွားစေ တော်မူလျက် သင်တို့၏ အပြစ်များကို လွှတ်တော်မူလတံ့၊ အကြောင်းမူကား အလ္လာဟ်အရှင်မြတ်သည် အကျိုးတုံ့ပြန်တတ်တော်မူ၏၊ ထောက်ထားညှာတာတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား ကောင်းမြတ်စွာ ချေးငှားကြသည်ရှိသော် ထိုအရှင်မြတ်သည် အသင်တို့အဖို့ ယင်းချေးငှားခြင်းကို ဆထက် တိုးပွားတော်မူပေမည်။ ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် အသင်တို့အား ခွင့်လွှတ်ချမ်းသာပေးတော် မူပေမည်။ စင်စစ်မှာမူကား အလ္လာဟ်အရှင်မြတ်သည် အလွန်တရာ ရက်ရောစွာ ကျေးဇူးတုံ့ပြန်တော်မူသောအရှင်၊ အလွန်တရာ သည်းခံခြင်းတရားနှင့် ပြည့်စုံတော်မူသောအရှင်၊ ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ne Nie gi ugnetikhme, a te sebe si ugnetikha. I ne gi izbavikha ot nishto bogove
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၁။	ငါသည် သူတို့အား ပြစ်မှားတော်မမူချေ။ သို့သော်သူတို့သည် မိမိကိုယ်ကို မိမိပြစ်မှားကြ၏။ သင်၏ အရှင်သခင် ၏ အမိန့်တော်ကျရောက်သောအခါ အရှင်မြတ်မှတပါး သူတို့ကိုးကွယ်ကြသောဘုရားတုတို့သည် သူတို့ကို အကျိုးမပြုချေ။ ထိုဘုရားပျက်တို့သည် သူတို့အား ပျက်စီးဆုံးရှုံးခြင်းမှတပါး ဘာမျှမပေးချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ငါအရှင်မြတ်သည် ၎င်းတို့အား နှိပ်စက်တော်မူခဲ့သည်မဟုတ်ပေ။ သို့ရာတွင် ၎င်းတို့ကိုယ်တိုင်ပင် (အလ္လာဟ်အရှင်မြတ်အားစွန့်၍ အခြားအရာများကိုဟစ်ခေါ်ခြင်းအားဖြင့်) မိမိတို့ကိုယ်ကို နှိပ်စက်ကလူ ပြုခဲ့ကြလေသည်။ သို့တစေလည်း အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏အမိန့်တော် ရောက်ရှိလာသောအခါ ၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ်အားစွန့်၍ ဟစ်ခေါ် လေ့ရှိကြကုန်သော ၎င်းတို့၏ ကိုးကွယ်ရာများသည် ၎င်းတို့အဖို့ အနည်းငယ်တစ်စုံတစ်ရာမျှပင် အသုံးမဝင် အကျိုးမပေးနိုင်ခဲ့ကြချေ။ ထိုမှတစ်ပါး ယင်းကိုးကွယ်ရာများသည် ၎င်းတို့၌ ပျက်စီးစေခြင်းမှတစ်ပါး အခြားတစ်စုံတစ်ရာမျှ တိုးပွားစေခဲ့ကြသည်လည်းမဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

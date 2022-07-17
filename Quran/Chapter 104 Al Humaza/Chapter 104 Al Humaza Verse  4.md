@@ -710,6 +710,12 @@ Ala ne! Shte bŭde khvŭrlen v Troshiloto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။ ယင်းကဲ့သို့ကား မဟုတ်ချေ၊ သို့သော် ဤလူယုတ်မသည် မိမိကိုယ်ကို အစိတ်စိတ် အမွှာမွှာ ချိုးဖဲ့သည့် စက်ရဟတ်အတွင်းသို့ ပစ်ချခြင်းကို အမှန်ပင် ခံရလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလျှင်းမဟုတ်၊ စင်စစ်မှာကား ထိုသူသည် ချိုးဖျက်ချေခွဲ အပိုင်းပိုင်း အစစဖြစ်စေသော (ငရဲ)၌ ပစ်ချခြင်းကို အမှန်ပင်ခံရလတ္တံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

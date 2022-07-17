@@ -710,6 +710,12 @@ Shte kazvat: “Da, naistina, doĭde pri nas predupreditel, no [go] vzekhme za 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။ ထိုအခါသူတို့က အို-ကောင်းကင်တမန်တော်တို့၊ ဟုတ်ကဲ့၊ သတိပေးသူသည် အကျွနု်ပ်တို့ထံသို့ အမှန်ပင် လာရောက်ပါ၏၊ သို့သော် ကျွနု်ပ်တို့သည် သူ့ကို ငြင်း ပယ်ခဲ့ကြ၏၊ ထိုအပြင်အလ္လာဟ်အရှင်မြတ်သည် သင်အား တရားတော်ကို ချပေးတော်မမူချေ၊ သင်သည် မဟာအမှားကြီးမှားသူမှတပါး အခြားမဟုတ်ဟု သူ့အား ပြောဆိုမိပါ၏ဟု ပြန်ပြောကြသည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ၎င်းတို့က အဘယ်ကြောင့် မဟုတ်ပါသနည်း၊ ဧကန်မလွဲ သတိပေးနှိုးဆော်သူသည် ကျွန်ုပ်တို့ထံ လာခဲ့ပေသည်။ သို့တစေလည်း ကျွန်ုပ် တို့က မဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ်ခဲ့ကြသည့်ပြင် အလ္လာဟ်အရှင်မြတ်သည် မည်သည့် တစ်စုံတစ်ရာကိုမျှပင် ချပေးတော်မူခြင်းမရှိ၊ အသင်တို့သည် ကြီးကျယ်လှစွာသော လမ်းမှားမှု၌ ရှိနေကြသည်ဟု ပြောဆိုခဲ့ကြောင်း ဖြေကြားကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

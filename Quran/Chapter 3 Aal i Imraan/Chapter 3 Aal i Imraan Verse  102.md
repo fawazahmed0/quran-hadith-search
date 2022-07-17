@@ -710,6 +710,12 @@ O, vyarvashti, boĭte se ot Allakh s istinska boyazŭn pred Nego i umiraĭte s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၂။	အို-ယုံကြည်သူတို့ အလ္လာဟ်အား အရေးစိုက်အပ်သမျှနှင့် အသျှင်မြတ်အား ပြုအပ်သောဝတ်ကို အရေးစိုက်ကြလော့။ အသျှင်မြတ်အား ကျိုးနွံ့သူများမဟုတ်ဘဲ အသက်ကုန်ကြလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-(မုအ်မင်န်) ယုံကြည်သူအပေါင်းတို့၊ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်ကို ကြောက်ရွံ့ ရိုသေအပ်သည့်အတိုင်း ကြောက်ရွံ့ကြလေကုန်။ ၎င်းပြင် မုစ်လင်မ်များအဖြစ်မှတပါး အခြားအဖြစ်နှင့် မသေဆုံးကြကုန်လင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

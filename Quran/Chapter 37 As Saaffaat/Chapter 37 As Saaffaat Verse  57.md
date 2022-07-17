@@ -710,6 +710,12 @@ I ako ne be blagodatta na moya Gospod, shtyakh da sŭm doveden [s teb]
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၇။	ငါ၏ အရှင်သခင်ကသာလျှင် အကယ်၍ငါ့ကို ကောင်းကြီးမင်္ဂလာပေးသနားတော်မမူခဲ့ပါလျှင် ငါသည်လည်း ငရဲသို့ လားသောလူတို့အထဲတွင် ပါဝင်ရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်သော်ကား အကယ်၍သာ ကျွန်ုပ်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ ကျေးဇူးတော်သာလျှင် မရှိခဲ့မူ အမှန်ပင် ကျွန်ုပ်သည်လည်း ဖမ်းဆီး အရေးယူခြင်းခံခဲ့ကြရသောသူတို့တွင် အပါအဝင် ဖြစ်မည်သာ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

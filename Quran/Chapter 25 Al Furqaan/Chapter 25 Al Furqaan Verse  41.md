@@ -710,6 +710,12 @@ I shtom te vidyat, vzimat te samo na prismekh: “Tozi li e, kogoto Allakh e pro
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	ထိုသူတို့သည် သင်တမန်တော်ကို တွေ့မြင်သောအခါ သူတို့သည် သင့်အား ပျက်ရယ်စရာအဖြစ်ဖြင့်သာ ဆက်ဆံ၏၊ ဤသူကား အလ္လာဟ်အရှင်မြတ်က တမန်တော်အဖြစ်ဖြင့် စေလွှတ်တော်မူသောလူလားဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုသူတို့သည် အသင့်အား တွေ့မြင်ကြသောအခါ "အလ္လာဟ်အရှင်မြတ်သည် ရစူလ်တမန်တော်အဖြစ် စေလွှတ်တော်မူသောသူသည် ဤသူ ပင်လော" ဟု အသင့်အား ပြောင်လှောင်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

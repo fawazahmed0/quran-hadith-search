@@ -710,6 +710,12 @@ O, mnozhestvo ot dzhinove i khora, ako mozhete da proniknete zad predelite na ne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	အို-လူနှင့် ဂျင်နတ်သားအပေါင်းတို့၊ သင်တို့သည် ကမ္ဘာမြေပြင် မိုးကောင်းကင်အားလုံးကို ဖောက်ထွင်းသွားနိုင် စွမ်းကြလျှင် သွားကြလော့၊ ငါခွင့်ပြုတော်မမူပဲ သင်တို့သည် ယင်းအမှုကို အလျဉ်းမပြုနိုင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ဂျင်န်နှင့် လူပရိသတ်အပေါင်းတို့၊ အကယ်၍ အသင်တို့သည် မိုးကောင်းကင်များနှင့် ကမ္ဘာမြေ၏ နယ်နိမိတ်များအတွင်းမှ ထွက်သွားနိုင်ကြလျှင် ထွက်သွားကြကုန်လော့။ (စင်စစ်သော်ကား) စွမ်းအားမရှိဘဲလျက် အသင်တို့သည် ထွက်သွားနိုင်ကြမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

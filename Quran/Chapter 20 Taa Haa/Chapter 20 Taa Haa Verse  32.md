@@ -710,6 +710,12 @@ I priobshti go kŭm moeto delo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	ထို့အပြင်သူ့အား အကျွနု်ပ်၏ဝတ္တရားကို ခွဲယူစေတော်မူပါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အရှင်မြတ်သည် ယင်းဟာရူန် အားကျွန်တော်မျိုး၏အရေးကိစ္စတွင်လည်း တွဲဖက်၍ ပေးတော်မူပါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ i shte premakhne gneva ot sŭrtsata im. Allakh priema pokayanieto na kogoto pozh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	အရှင်မြတ်သည် သူတို့၏ စိတ်နှလုံးမှ အမျက်ဒေါသကို ဖယ်ရှားတော်မူမည်၊ အလ္လာဟ်အရှင်မြတ်သည် အ ပြစ်လွှတ်လိုတော်မူသောသူကို အပြစ်လွှတ်တော်မူ၏၊ အလ္လာဟ်အရှင်မြတ်သည် သိတော်မူသောအရှင်၊ ဉာာဏ် ပညာရှိတော်မူသောအရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုအရှင်မြတ်သည် ထို(သက်ဝင်ယုံကြည်)သူတို့၏ စိတ်နှလုံးများမှ ဒေါသအမျက်ကိုလည်းပပျောက်စေတော်မူမည်ဖြစ်၏။ ၎င်းပြင် အလ္လာဟ်အရှင်မြတ်သည် မိမိအလိုရှိတော်မူသော သူ၏ဘက်သို့လည်း ကရုဏာတော်နှင့်ပြန်လှည့်တော်မူမည်ဖြစ်၏။ အမှန်သော်ကားအလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့သိတော်မူသော အသျှင်၊ နက်နဲသိမ်မွေ့သောဉာဏ်အမြော်အမြင်နှင့် ပြည့်စုံတော်မူသောအသျှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

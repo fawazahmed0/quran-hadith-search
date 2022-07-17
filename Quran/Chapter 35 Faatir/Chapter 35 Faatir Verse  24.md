@@ -710,6 +710,12 @@ Nie te izpratikhme s istinata kato blagovestitel i predupreditel. I nyamashe obs
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	စင်စစ်အားဖြင့် ငါအရှင်မြတ်သည် သင့်အား သမ္မာတရားတော်နှင့်တကွ ဝမ်းမြောက်ဝမ်းသာဖွယ်သတင်းယူ ဆောင်လာသူအဖြစ်ဖြင့်သော်လည်းကောင်း၊ စေလွှတ်တော်မူ၏၊ လောကဓာတ်တွင် တမန်တော်စေလွှတ်တော်မူ ခြင်းမခံရသောလူမျိုးဟူ၍ မရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ငါအရှင်မြတ်သည် အသင့်အားအမှန်တရားနှင့်တကွ ဝမ်းမြောက်ဖွယ် သတင်းပြောကြားသူအဖြစ်လည်းကောင်း၊ သတိပေးနှိုးဆော် သူအဖြစ်လည်းကောင်း၊ စေလွှတ်တော်မူခဲ့၏။ စင်စစ်သော်ကား သာသနာဝင်အုပ်စုတိုင်း၌ပင် သတိပေးနှိုးဆော်သူတစ်ဦး ပွင့်ရောက်ခဲ့သည်သာ ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

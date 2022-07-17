@@ -710,6 +710,12 @@ Slava na Allakh, Koĭto vŭpreki moyata starost me dari s Ismail i Iskhak. Nais
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	သက်ရွယ်ကြီးပြင်း အိုးမင်းမစွမ်းအချိန်တွင် အစ္စမာအီလ်နှင့် အစ္စဟတ်(က်)သားနှစ်ပါးကို ပေးသနားတော်မူ ထသောအလ္လာဟ်အရှင်မြတ်သည် ချီးမွမ်းခြင်းတည်ရာဖြစ်တော်မူပါ၏။ မှတ်သားကြလော့။ အကျွနု်ပ်၏ ကျေးဇူး တော်သခင်သည် ဆုတောင်းပဌနာကို အမှန်ကြားတော်မူသောအရှင်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ချီးမွမ်းထောပနာအပေါင်းတို့သည် အကြင်အလ္လာဟ်အရှင်မြတ်နှင့်သာ သက်ဆိုင်၏။ ထိုအရှင်မြတ် သည်ကျွန်တော်မျိုးအား အသက်အရွယ် အိုမင်းကြီး ရင့်ပါလျက်နှင့်ပင်(သားတော်)အီစ်မာအီလ်ကိုလည်းကောင်း၊ (သားတော်)အစ္စဟာက်ကိုလည်းကောင်း ချီးမြှင့်ပေးသနားတော်မူခဲ့၏။ဧကန်စင်စစ် ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည် အမှန်ပင် ဆုတောင်းပတ္ထနာပြုခြင်းကိုအလွန်ကြားတော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူပါသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

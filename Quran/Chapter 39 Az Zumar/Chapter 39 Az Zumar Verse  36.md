@@ -710,6 +710,12 @@ Nima Allakh ne e dostatŭchen za Svoya rab? I zaplashvat teb s drugi osven Nego.
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	အလ္လာဟ်အရှင်မြတ်သည် မိမိ၏ ကျေးတော်မျိုး ကျွန်တော်မျိုးကို ကာကွယ်စောင့်ရှောက်မည်မဟုတ်လော၊ သို့ပါလျက် သူတို့သည် သင်တမန်တော်အား အလ္လာဟ်အရှင်မြတ်မှတပါး သူတို့ကိုးကွယ်သောဘုရားတုဘုရား ယောင်များနှင့် ခြိမ်းူခြောက်ကြသေး၏၊ အကြင်သူအား အလ္လာဟ်အရှင်မြတ်သည် လမ်းမှား၌ ပစ်ထားတော်မူ၏၊ ထိုသူအတွက် လမ်းပြသူမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် မိမိ၏ကျွန်(နဗီတမန်တော်မုဟမ္မဒ်)အဖို့ လုံလောက်တော်မူသည် မဟုတ်ပါလော။ သို့ဖြစ်လင့်ကစား(အို-နဗီတမန်တော်)၎င်းတို့သည် အသင့်အား အလ္လာဟ်အရှင်မြတ်မှတစ်ပါး အခြားသော သူတို့အားဖြင့် ခြိမ်းခြောက်၍နေကြကုန်၏။ စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အကြင်သူအား လမ်းမှား၌ပင် ရှိစေတော်မူပါလျှင် ထိုသူအား တရားလမ်းမှန်သို့ ပို့ဆောင်အံ့သောသူဟူ၍ တစ်ဦးတစ်ယောက်မျှပင် မရှိတော့ပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

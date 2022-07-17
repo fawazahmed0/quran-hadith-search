@@ -710,6 +710,12 @@ O, sinove na Adam, spusnakhme vi odezhda, za da skriva sramotiite vi, i za ukras
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	အို-အာဒမ်၏သားမြေးအပေါင်းတို့ ငါအသျှင်မြတ်သည် သင်တို့အား အရှက်အကြောက်ကို ဖုံးဖို့ရာ လှပတင့်တယ်စွာ ဆင်ယင်ဖို့ရာ အဝတ်အစားတန်ဆာကို စီရင်ပေးသနားတော်မူ၏။ သို့သော် ဒုစရိုက်အမှုအခင်းကို ကြဉ်ရှောင်ခြင်း၊ အဝတ်တန်းဆာသည် အမြတ်ဆုံးဖြစ်၏။ ဤဂါထာတော် သည် သူတို့ သတိတရားရအပ်သောငှာ အလ္လာဟ်အသျှင်မြတ် ချပေးသနားတော်မူသော ကုရ်အာန် ကျမ်းတော်မှဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-အာဒမ်၏ သားသမီးအပေါင်းတို့၊ ငါအရှင်မြတ်သည် အသင်တို့၏အရှက်ကို ဖုံးအုပ်သည့် အဝတ်အစားကိုလည်းကောင်း(အသင်တို့လှပအောင်ဆင်ယင်ရန်)ဝတ်စားတန်ဆာကိုလည်းကောင်း၊ ဖန်ဆင်းတော်မူခဲ့လေသည်။သို့ရာတွင် ပြစ်မှုဒုစရိုက်တို့မှ ကြဉ်ရှောင်ခြင်း၊ ဟီရိဩတ္တပ္ပတရားတည်းဟူသော ဝတ်စားတန်ဆာသည်ကားအမြင့်မြတ်ဆုံးပင်ဖြစ်ပေသည်။ ဤကား ၎င်းတို့လေ့လာမှတ်သား စဉ်းစားဆင်ခြင်နိုင်ကြရန် အလ္လာဟ်အရှင်မြတ်၏ သက်သေလက္ခဏာ တစ်ရပ်ပင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

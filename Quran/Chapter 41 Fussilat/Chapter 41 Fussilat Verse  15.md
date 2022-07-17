@@ -710,6 +710,12 @@ A aditite se vŭzgordyakha na zemyata bez pravo i kazakha: “Koĭ e po-silen o
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	(အားဒ်)အသင်းသားတို့သည် မြေပေါ်၌ မတရားမောက်မာပလွှား၍ ဤလောကတွင် ငါတို့ထက် ခွန်အားဗလ စွမ်းရည်သတ္တိသာလွန်သူ အဘယ်မှာရှိသနည်းဟု ပြောလေ့ရှိ၏၊ သူတို့ကို ဖန်ဆင်းမွေးမြူတော်မူသောအလ္လာဟ် သည် သူတို့ထက် သာလွန်၍ ခွန်အားဗလရှိတော်မူသည်ကို သူတို့မမြင်ကြသလော၊ သူတို့သည် ငါအရှင်မြတ်၏ ကျမ်းတော်များကို ငြင်းပယ်ဖီဆန်ကြကုန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သို့ပင်ဖြစ်စေ၊ အာဒ် အမျိုးသားတို့မှာမူကား တိုင်းပြည်တွင် မတရားသဖြင့် ဘဝင်မြင့်မောက်မာပလွှားခဲ့ကြကုန်၏။ ထို့ပြင် ၎င်းတို့က ကျွန်ုပ်တို့ထက် သူရသတ္တိခွန်အားဗလကြီးမားသူ မည်သူရှိသနည်းဟု ပြောဆို(ဝင့်ကြွား)ခဲ့ကြကုန်၏။ ဧကန်မလွဲ ၎င်းတို့အား ဖန်ဆင်းတော်မူခဲ့သောအလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့ထက် ခွန်အားဗလ ကြီးမားတော်မူသည်ကို ၎င်းတို့သည် မဆင်ခြင်မစဉ်းစား မမြင်ခဲ့ကြလေသလော။ ထိုမှတစ်ပါး ၎င်းတို့သည် ငါအရှင်မြတ်၏သက်သေလက္ခဏာတော်များကို ငြင်းပယ်လျက်ပင် ရှိခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

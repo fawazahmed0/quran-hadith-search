@@ -710,6 +710,12 @@ Tozi [Koran] e napŭt·stvie. A za onezi, koito ne vyarvat v znameniyata na svoy
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	ဤကျမ်းတော်သည် လမ်းညွှန်ကျမ်းတော်ဖြစ်၏၊ အကြင်သူတို့သည် မိမိတို့၏ အသက်သခင်ကျေးဇူးရှင်ကြီး၏ နှုတ်ကပတ်တော်ကို မယုံကြည်အ့ံ၊ ထိုသူတို့အဖို့အရာ အလွန်ပြင်းပြနာကျင်ဖွယ်သောအပြစ်ဒဏ်တော်ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤကုရ်အာန်ကျမ်းတော်မြတ်)သည် တရားလမ်းညွှန်ပင် ဖြစ်ပေသည်။ သို့ဖြစ်ရာ မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ အာယတ်တော်များကို ငြင်းပယ်ကြကုန်သောသူတို့၌ ပြင်းထန်သော ပြစ်ဒဏ်အနက်မှ အလွန်တရာ နာကျင်ဖွယ်ဖြစ်သော ပြစ်ဒဏ်သည် ရှိပေအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

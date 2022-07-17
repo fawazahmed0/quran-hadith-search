@@ -710,6 +710,12 @@ Litsemernite mŭzhe i zheni sa edni kato drugi. Te povelyavat poritsavanoto i v�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၇။	ယုံကြည်ဟန်ဆောင်သူယောက်ျားမိန်းမတို့သည် တစ်ဦးနှင့်တစ်ဦးဆက်စပ်လျက်ရှိကြ၏။သူတို့သည် မကောင်းမှု ကို တိုက်တွန်းကြ၏။ကောင်းမှုကို ပိတ်ပင်တားမြစ်ကြ၏။မလှုပဲ လက်ကို ဆုပ်ထားကြ၏။အလ္လာဟ်အရှင်မြတ် ကို သတိမရ မေ့လျော့ကြ၏။ထို့ကြောင့်အရှင်မြတ်လည်း သူတို့ကို မေ့လျော့တော်မူ၏။မှတ်သားကြလော့၊ ယုံကြည်ဟန်ဆောင်သူတို့သည် တရားတော်ကို ကျူးလွန်သူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘မုနာဖစ်က်’ မုစ်လင်မ် အယောင်ဆောင်သောယောက်ျား၊ မိန်းမတို့သည် တစ်မျိုးတစ်စားတည်းပင် ဖြစ်ကြကုန်၏။ ၎င်းတို့သည် စက်ဆုပ်ရွံ့ရှာဖွယ်များကို အမိန့်ပေးကြလေသည်။ ထို့ပြင် ကောင်းမှုများမှ တားမြစ်ကြလေသည်။ထိုမှတစ်ပါး ၎င်းတို့သည်(အလ္လာဟ်အရှင်မြတ်၏လမ်းတော်၌သုံးစွဲခြင်းမပြုပဲ) မိမိတို့၏လက်များကို ဆုပ်ထားကြလေသည်။ထိုသူတို့သည် အလ္လာဟ်အရှင်မြတ်အား မေ့လျော့ခဲ့ကြပေရာ၊ထိုအရှင်မြတ်သည်လည်း၊ ၎င်းတို့အား မေ့လျော့(ထား)တော်မူခဲ့လေသည်။ အကယ်စင်စစ်၊ မုနာဖစ်က်’မုစ်လင်မ်အယောင်ဆောင်’တို့သည် အမှန်တကယ် အမိန့်ကို သွေဖည်ငြင်းပယ်သောသူများပင် ဖြစ်ကြပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

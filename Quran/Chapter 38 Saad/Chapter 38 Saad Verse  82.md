@@ -710,6 +710,12 @@ Reche [Iblis]: “Kŭlna se v Tvoyata mosht, az nepremenno shte gi izkushavam vs
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၂။	ထိုအခါအီဗလစ်(စ်)က အို-အရှင်မြတ်၊ အရှင်၏ အနန္တတန်ခိုးတော်ကို တိုင်တည်၍ ဆိုပါ၏၊ အကျွန်ုပ်သည် လူသားအားလုံးတို့ကို မုချအမှန်ဖျားယောင်းသွေးဆောင်ပါမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ)ထို"ဗ်လီစ်"က လျှောက်ထားခဲ့လေ၏။ သို့ဖြစ်ပါလျှင် (ကျွန်တော်မျိုးသည်) အရှင်မြတ်၏ တန်ခိုးအာနုဘော်ကို တိုင်တည်(၍လျှောက်ထား)အပ်ပါသည်။ မုချမလွဲ ကျွန်တော်မျိုးသည် ထိုလူသားအားလုံးကိုပင် လွဲချော် မှောက်မှားအောင် ပြုလုပ်မည်ဖြစ်ပါသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

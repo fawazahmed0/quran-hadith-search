@@ -710,6 +710,12 @@ Ne im e otredeno i ne mogat da go storyat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁၁။	ယင်းအလုပ်သည် သူတို့နှင့်မတော်ချေ၊ ယင်းအလုပ်လုပ်ရန် သူတို့၌ အင်အားမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ထို(ကုရ်အာန်ကိုယူဆောင်လာခြင်း)ကိစ္စမှာ ၎င်းတို့နှင့် (လားလားမျှ) အပ်စပ်ခြင်းလည်း မရှိပေ။ ၎င်းတို့သည် (ယူဆောင်လာရန်)တတ်စွမ်း နိုင်ကြသည်လည်း မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

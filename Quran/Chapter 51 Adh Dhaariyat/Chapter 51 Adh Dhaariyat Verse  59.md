@@ -710,6 +710,12 @@ Ugnetitelite imat uchast kato uchastta na tekhnite drugari. Zatova da ne izbŭrz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၉။	ထို့အပြင်မှတ်သားကြလော့၊ ရှေးခေတ်မတရားကောင်တို့အတွက် ကြောက်မက်ဖွယ်သောနေ့ကျရောက်သကဲ့သို့ ယခုခေတ်ဒုစရိုက်ကောင်တို့အဖို့လည်း ကြောက်မက်ဖွယ်သောနေ့တော်အသင့်ရှိ၏၊ ထို့ကြောင့်သူတို့သည် ထိုနေ့တော်ကြီးကို အလျင်စလိုတောင်းဆိုခြင်းကို အလျင်းမပြုသင့်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ မတရားမှုကို ကျူးလွန်ကြကုန်သောသူတို့၌ ၎င်းတို့နှင့် ဝါဒတူဖြစ်ခဲ့ကြသောသူတို့၌ ရှိခဲ့သောပြစ်ဒဏ်၏ ဝေစုဝေပုံကဲ့သို့ ၎င်းတို့၌လည်း ပြစ်ဒဏ်၏ ဝေစုဝေပုံရှိချေမည်။ သို့ဖြစ်ပေရာ ၎င်းတို့သည် ငါအရှင်မြတ်အထံတော်တွင် (ပြစ်ဒဏ်)ကို အဆောတလျင် တောင်းဆိုခြင်း မပြုကြရ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

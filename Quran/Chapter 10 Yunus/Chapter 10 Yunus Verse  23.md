@@ -710,6 +710,12 @@ A shtom gi izbavi, eto gi - seyat razvala po zemyata v bezpravie! O, khora, vash
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	သို့သော်အရှင်မြတ်သည် သူတို့အား ကယ်ဆယ်တော်မူသောအခါ သူတို့သည် ကမ္ဘာမြေပေါ်တွင် မတရား ထောင်ထားခြားနားကြ၏။ အို-လူသားတို့၊ သင်တို့၏ ပုန်ကန်မှုသည် သင်တို့ကိုသာ နစ်နာစေမည်။ သင်တို့သည် ဤလောကီစည်းစိမ်၌ မြူးထူးပြီးနောက် ငါ့အထံတော်သို့ ပြန်လာကြရမည်၊ ထိုအခါငါသည် သင်တို့၏ ပြုမူချက် များကို သင်တို့အား ပြောပြတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် ထိုအရှင်မြတ်သည် ၎င်း တို့အား လွတ်မြောက်စေတော်မူသောအခါ ရုတ်တရက်ချက်ချင်းပင် ၎င်း တို့သည် ကမ္ဘာမြေပြင်ဝယ် မတရားသဖြင့် စည်းကမ်းကျူးလွန်ကြကုန်၏။ အို-လူအပေါင်းတို့ အသင်တို့၏ စည်းကမ်း ကျူးလွန်မှုသည် အသင်တို့အပေါ်၌သာ (ပြန်လည် ကျရောက်မည်)ဖြစ်သည်။ (အသင်တို့သည်)လောကီဘဝ၏(အနည်းငယ်မျှသော)အကျိုးကျေးဇူးကို (ခံစားလျက်ရှိကြကုန် လော့)။ ထို့နောက်အသင်တို့သည် ငါအရှင်မြတ်၏အထံတော် သို့သာလျှင်ပြန်ကြရပေမည်။ ထိုအခါ ငါအရှင်မြတ်သည် အသင်တို့အားအသင်တို့ ပြုလုပ်လျက်ရှိခဲ့ကြသည်များကို ပြသ တော်မူမည်ဖြစ်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

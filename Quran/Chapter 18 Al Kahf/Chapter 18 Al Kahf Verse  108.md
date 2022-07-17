@@ -710,6 +710,12 @@ tam shte prebivavat vechno i nikoga ne shte pozhelayat da se premestyat ottam
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၈။	သူတို့သည် နိဗ္ဗာန်ဘုံ၌ စံမြန်းနေကြရလတ့ံ။ နိဗ္ဗာန်မှ ထွက်သွားလိုသေသာဆန္ဒလုံးဝမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုသူတို့သည်) ယင်းဥယျာဉ်တွင် ထာဝစဉ်နေထိုင်သူများအဖြစ် (ဝင်ရောက်နေထိုင်ကြရပေမည်၊) ထိုသူတို့သည် ယင်းဥယျာဉ်များမှ လုံးဝရွှေ့ပြောင်းလိုကြမည် မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I shte vidish planinite - mislish gi nepodvizhni, a te otminavat, kakto oblatsit
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၈။	ထိုနေ့တော်ကြီး၌ သင်တို့က အလွန်မြဲမြံခိုင်မာသည်ဟု ယူဆရသောတောင်ကြီးတောင်ငယ်များသည် မိုးတိမ် မိုးသားကဲ့သို့ လေတွင် လွင့်ပါးသွားသည်ကို သင်တို့မြင်ရကြရမည်၊ ထိုသို့ဖြစ်ရခြင်းသည် အရာခပ်သိမ်းတို့ကို အပြစ်ကင်းမဲ့ချောမောစုံလင်စေတော်မူထသောအလ္လာဟ်အရှင်မြတ်၏ စီရင်တော်မူခြင်းကြောင့်တည်း၊ မှတ်သား ကြလော့၊ အရှင်မြတ်သည် သင်တို့ပြုသမျှတို့ကို အကြွင်းမဲ့သိမြင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်သည် တောင်များကို တွေ့မြင်လေ၏။ အသင်သည် ယင်းတောင်များကို အစိုင်အခဲများဖြစ်သည် ထင်မှတ်ပေ၏။ သို့ရာတွင်(ထိုနေ့တွင်) ယင်းတောင်များမှာ မိုးတိမ်များ လွင့်ပါးဘိသကဲ့သို့ပင် လွင့်ပါး၍ သွားပေမည်။ (ဤသည်)အရာခပ်သိမ်းတို့ကို ခိုင်ခံ့အောင်ပြုလုပ်တော်မူသော အလ္လာဟ်အရှင်မြတ်၏ လက်စွမ်းလက်စပင် ဖြစ်ပေသည်။ မလွဲဧကန် ထိုအရှင်မြတ်သည် အသင်တို့ ပြုလုပ်သမျှတို့ကို ကောင်းစွာသိတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

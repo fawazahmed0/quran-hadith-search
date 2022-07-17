@@ -710,6 +710,12 @@ I samudyanite otrichakha predupreditelite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	စမုဒ်အမျိုးသားတို့လည်း အဆုံးအမတရားတော်ကို မယုံကြည်ငြင်းဆန်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘ဆမူဒ်’အမျိုးသားတို့သည်လည်း သတိပေးနှိုးဆော်သူတို့အား မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ်ခဲ့ကြ ကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

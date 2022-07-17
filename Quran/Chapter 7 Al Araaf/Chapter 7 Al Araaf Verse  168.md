@@ -710,6 +710,12 @@ I gi razdelikhme na obshtnosti po zemyata. Sred tyakh ima i pravednitsi, sred ty
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၈။	ငါအသျှင်မြတ်သည် သူတို့အပေါင်းကို လူမျိုးအသီးသီးခွဲခြားထားတော်မူ၏။ သူတို့နောက် အချို့ တို့သည် အသျှင်မြတ်နှင့် တရားတော်ကို သဒ္ဒါကြည်ညိုကြ၏။ အချို့တို့သည် မွန်မြတ်မှုမှ ဝေးကွာ ကြ၏။ သူတို့သည် တရားတော်ဘက်သို့ လှည့်ကောင်းလှည့်လာရန် ငါသည် သူတို့အား ကောင်းသော အရာများနှင့်သော်လည်းကောင်း၊ မကောင်းသောအရာများနှင့်သော်လည်းကောင်း စမ်းသပ်တော် မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ၎င်းတို့အားကမ္ဘာမြေဝယ် အုပ်စု(အမျိုးမျိုး) ကွဲပြားစေတော်မူခဲ့ လေသည်။၎င်းတို့အနက်အချို့သည် သူတော်ကောင်းများ ဖြစ်ကြသည်။ထို့ပြင် ၎င်းတို့တွင် ထို(သူတော်စင်များ)မှ တစ်ပါးသောသူများလည်းရှိခဲ့ကြ၏။ ၎င်းပြင် ငါအရှင်မြတ်သည် သုခချမ်းသာများ(ကိုချီးမြှင့်ပေးသ နားတော်မူခြင်းအား) ဖြင့်လည်းကောင်း၊ဆင်းရဲဒုက္ခများ (သက်ရောက်စေခြင်းအား)ဖြင့်လည်းကောင်း၊စမ်းသပ်တော်မူခဲ့လေသည်။ သို့မှသာလျှင် ၎င်းတို့သည် (မိမိတို့၏သွေဖည်မှုများမှ) ပြန်လှည့်လာကြတန်ရာသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

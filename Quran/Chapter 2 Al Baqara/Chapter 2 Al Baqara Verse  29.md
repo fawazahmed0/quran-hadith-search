@@ -710,6 +710,12 @@ Toĭ e, Koĭto sŭtvori za vas vsichko na zemyata, posle se nasochi kŭm [sŭt
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	အလ္လာဟ်အရှင်မြတ်သည် မြေပေါ်ဝယ် ရှိရှိသမျှတို့ကို သင်တို့အဘို့အရာ ဖန်ဆင်းထားတော်မူ၏။ ထို့နောက် မိုးကောင်းကင်ဘက်သို့လှည့်တော်မူ၍ ကောင်းကင်ခုနှစ်ထပ်ကို ဖန်ဆင်းတော်မူ၏။ အရှင်မြတ်သည် ခပ်သိမ်းကုန်သောအရာများကို သိတော်မူသော အရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(အလ္လာဟ်)အရှင်မြတ်သည် သင်တို့အကျိုးအလို့ငှာ ပထဝီမြေတွင် ရှိရှိသမျှသော ဝတ္ထုအစုစုကို ဖန်ဆင်းတော်မူ၏။ ထို့နောက် ထိုအရှင်သည် မိမိဆန္ဒတော် အတိုင်းမိုးကောင်းကင်ဘက်သို့ လှည့်တော်မူ၍ မိုးခုနစ်ထပ်ကို နေထားကျနစွာ ပြုလုပ်တော်မူ၏၊ စင်စစ်တမူကား ထိုအရှင်သည် အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့ သိတော်မူသောအရှင် ဖြစ်တော်မူသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

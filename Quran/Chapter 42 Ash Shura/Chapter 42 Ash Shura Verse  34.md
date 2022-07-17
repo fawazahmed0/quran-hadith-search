@@ -710,6 +710,12 @@ ili gi pogubva Toĭ zaradi onova, koeto [khorata] sa pridobili. A i mnogo Toĭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	အလ္လာဟ်အရှင်မြတ်သည် အလိုတော်ရှိပါလျှင် သင်္ဘောပါလူအားလုံးတို့ကို ၎င်းတို့ကျိုးလွန်အပ်သောအပြစ်၏ အကျိုးဆက်ကြောင့် ပျက်စီးဆုံးရှုံးစေတော်မူမည်၊ သို့သော်အရှင်မြတ်သည် မြောက်များစွာသောအပြစ်များကို ခွင့်လွှတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် ထိုအရှင်မြတ်သည် (အလိုရှိတော်မူပါလျှင်) ထိုသင်္ဘော(သား)တို့အား ၎င်းတို့၏ ပြုမူဆည်းပူးချက်တို့ကြောင့် ဖျက်ဆီးတော်မူပေမည်။ သို့တစေလည်းထိုအရှင်မြတ်သည် များစွာတို့အား ခွင့်လွှတ်တော်မူလေ့ရှိ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I se otdrŭpni ot onzi, koĭto se otvrŭshta ot Nasheto napomnyane, i pozhelava
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	အို-မိုဟမ္မဒ်၊ ငါ့အား အာရုံမပြုလိုပဲ လောကီအာရုံကာမဂုဏ်ကိုသာ တပ်မက်မောသူကို စွန့်ခွာသွားလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်၊) အသင်သည် အကြင်သူတို့အား လျစ်လျူရှု၍ နေပါလေ။ ထိုသူတို့သည် ငါအရှင်မြတ်၏ ဆုံးမဩဝါဒတော်မှ မျက်နှာလွှဲ၍ နေခဲ့ကြကုန်၏။ ထိုမှတစ်ပါး ၎င်းတို့သည် လောကီဘဝမှတစ်ပါး အခြားတစ်စုံတစ်ရာကို ရည်ရွယ်ကြသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

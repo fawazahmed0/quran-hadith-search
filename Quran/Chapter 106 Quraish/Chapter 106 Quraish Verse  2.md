@@ -710,6 +710,12 @@ tekhniya obichaĭ da pŭtuvat i zime, i lete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။ ဆောင်းရာသီနှင့် နွေဥတုအတွင်း ရောင်းဝယ်ဖောက်ကားသွားလာသောခရီးများကို ကာကွယ်စောင့်ရှောက်သည့် ၄င်းကတိစာချုပ်များ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို "ကုရိုက်ရှ်" အမျိုးသားတို့သည် ဆောင်းဥတု၌လည်းကောင်း၊ နွေဥတု၌လည်းကောင်း၊ (မိမိတို့)ခရီးထွက်လေ့ရှိကြသောကြောင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

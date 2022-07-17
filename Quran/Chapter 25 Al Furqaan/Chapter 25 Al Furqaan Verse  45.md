@@ -710,6 +710,12 @@ Ne vizhdash li kak tvoyat Gospod razprostira syankata? A ako pozhelaeshe, Toĭ 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	အို--တမန်တော်၊ သင်၏အရှင်သခင်သည် အရိပ်ကို မည်သို့စီရင်တော်မူသည်ကို သင်စဉ်းစားဆင်ခြင်မမြင် သလော၊ အရှင်မြတ်အလိုတော်ရှိပါလျှင် ထိုအရိပ်ကို မလှုပ်မရှားရပ်တန့်နေစေရန် ပြုစွမ်းနိုင်တော်မူ၏၊ ငါသည် နေကို အရိပ်၏လမ်းပြဖြစ်စေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်သည် မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်က(အရာဝတ္ထုခပ်သိမ်းတို့၏) အရိပ်ကို မည်သို့မည်ပုံ ပြန့်စေတော်မူခဲ့ကြောင်း လေ့လာဆင်ခြင်သုံးသပ်ခြင်း မပြုခဲ့လေသလော။ စင်စစ်သော်ကား ထိုအရှင်မြတ်သည် အလိုရှိတော်မူခဲ့ပါလျှင် ထိုအရိပ်ကို(လှုပ်ရှားနိုင်ခြင်း မရှိစေဘဲ) တည်ငြိမ်အောင် ပြုလုပ်တော်မူခဲ့မည်သာတည်း။ ထို့နောက် ငါအရှင်မြတ်သည် နေကို ထိုအရိပ်နှင့် စပ်လျဉ်း၍ သက်သေ လက္ခဏာတစ်ရပ် ပြုလုပ်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

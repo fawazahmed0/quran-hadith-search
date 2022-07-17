@@ -710,6 +710,12 @@ I go darikhme s Iskhak i Yakub, i otredikhme za potomtsite mu prorochestvoto i P
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	ထို့အပြင်ငါအရှင်မြတ်သည် အေဗရာဟမ်အား အစ်စဟတ်(က်)နှင့် ယာကူး(ဗ်)ကို ပေးသနားတော်မူ၏၊ ထို့အပြင် သူမှ ဆင်းသက်ပေါက်ပွားသောသားမြေးတို့အထဲတွင် တမန်တော်ရာထူးနှင့် ကျမ်းတော်မြတ်ကို တည်ထားတော် မူ၏၊ ထို့အပြင်ငါသည် တမန်တော်အေဗရာဟမ်အား ဤလောကတွင် သူ၏ဆုကို ပေးတော်မူ၏၊ မှတ်သား ကြလော့၊ နောင်တမလွန်ဘဝ၌ သူသည် သူတော်သူမြတ်တို့ဘောင်တွင် အမှန်ပင်ပါဝင်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ငါအရှင်မြတ်သည် ထိုအိဗ်ရာဟီမ်အား ‘အစ်ဟာက်’ ကိုလည်းကောင်း၊ ‘ဟအ်ကူဗ်’ကို လည်းကောင်း၊ ချီးမြှင့်ပေးသနားတော်မူခဲ့၏။ ထို့ပြင် ငါအရှင်မြတ်သည် နဗီတမန်တော်ဖြစ်ခြင်းကိုလည်းကောင်း၊ ကျမ်းဂန်ကိုလည်းကောင်း၊ ထိုအိဗ်ရာဟီမ် ၏သားမြေးတို့၌တည်စေတော်မူခဲ့၏။ ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ထိုအိဗ်ရာဟီမ်အား ၎င်း၏အကျိုးကို ဤပစ္စက္ခဘဝတွင် (လည်း)ချီးမြှင့်ပေးသနားတော်မူခဲ့၏။ ထိုမှတစ်ပါး တမလွန်ဘဝ၌လည်း ထိုအိဗ်ရာဟီမ်သည် သူမွန်သူမြတ်တို့အနက်မှပင် ဖြစ်ပေအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

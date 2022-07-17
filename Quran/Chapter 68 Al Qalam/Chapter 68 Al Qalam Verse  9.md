@@ -710,6 +710,12 @@ Zhelayat, ako se smekchish, i te da se smekchat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။ ထိုသူတို့သည် သင့်အား သူတို့အပေါ်တွင် လျှော့ပေးစေလို၏၊ ထိုအခါသူတို့လည်း သင့်အပေါ်တွင် လျှော့ပေးမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် အကယ်၍ အသင် အလျှော့ပေး လိုက်လျောပါလျှင် ၎င်းတို့သည် အလျှော့ပေး လိုက်လျောလိုကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I boĭte se ot Ogŭnya, podgotven za nevernitsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၁။	မိစ္ဆာမိုက်သူတို့အတွက် စီရင်ထားတော်မူသော ငရဲမီးကို ရှောင်ကြဉ်ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါးတုံ အသင်တို့သည် ကာဖိရ် မယုံကြည် သွေဖယ်ငြင်းပယ်ကြကုန်သော သူတို့ အဖို့ အသင့်ပြင်ဆင်ထားရှိပြီးဖြစ်သော (ငရဲ)မီး ဘေးမှ(လည်း) ကြဉ်ရှောင်ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

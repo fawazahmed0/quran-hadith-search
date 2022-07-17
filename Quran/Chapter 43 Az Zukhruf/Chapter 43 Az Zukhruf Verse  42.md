@@ -710,6 +710,12 @@ Ili shte ti pokazhem onova, s koeto gi zaplashvakhme. Nie imame nadmoshtie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	သို့မဟုတ် ငါသည် သင့်အား ထိုမယုံကြည်တို့အား ခြိမ်းခြောက်သောအပြစ်ဒဏ်ကို ပြတော်မူပါလျှင် ငါသည် သူတို့ကို ဧကန်အမှန်လွှမ်းမိုးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် ငါအရှင်မြတ်သည် ၎င်းတို့အား ချိန်းချက်တော်မူခဲ့သော ပြစ်ဒဏ်ကို အသင်အား (အသင်သည် ဤလောကီဘဝ၌ရှိနေစဉ်) ပြသတော်မူအံ့လည်း မလွဲဧကန် ငါအရှင်မြတ်သည် ၎င်းတို့အပေါ်၌ (ပြစ်ဒဏ်သက်ရောက်စေခြင်းကို ပြုစွမ်းနိုင်တော်မူသော အရှင်မြတ်ပင်ဖြစ်တော်မူ၏။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

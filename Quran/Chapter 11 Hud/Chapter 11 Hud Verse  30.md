@@ -710,6 +710,12 @@ O, narode moĭ, koĭ shte me zashtiti ot [nakazanieto na] Allakh, ako gi progo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	ဟယ်-အချင်းတို့၊ အကယ်၍ ငါသည် ယုံကြည်သူတို့အား တွန်းဖယ်ပစ်လျှင် ငါ့ကို အလ္လာဟ်အရှင်မြတ်၏ အပြစ်ဒဏ်မှ အဘယ်သူကယ်နှုတ်အ့ံနည်း။ သို့ပါလျက်သင်တို့တွေးတောဆင်ခြင်ကြမည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အို-ငါ၏အမျိုးသားတို့၊ အကယ် ၍ငါသည် ၎င်းတို့အား နှင်ထုတ်ခဲ့ပါမူ ငါ့အား အလ္လာဟ်အရှင်မြတ်၏ပြစ်ဒဏ်မှ မည်သူကာကွယ်ပါမည်နည်း။ အသင်တို့သည် (ဤမျှပင်) မစဉ်းစား မိကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

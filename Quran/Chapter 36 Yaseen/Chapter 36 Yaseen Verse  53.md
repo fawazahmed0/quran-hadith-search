@@ -710,6 +710,12 @@ Shte e samo edin Vik i eto gi - vsichki pri Nas dovedeni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။	ဤသို့ရှင်ပြန်ထမြောက်စိမ့်သောငှာ တံပိုးတစ်ကြိမ်သာမှုတ်၏၊ တံပိုးတစ်ကြိမ်မှုတ်ခါမျှနှင့် သေသူအားလုံးတို့သည် ရှင်ပြန်ထမြောက်၍ ငါအရှင်မြတ်မျက်မှောက်တော်သို့ ဝင်ကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်း(တံပိုးခရာမှုတ်ခြင်း)မှာ ပြင်းထန်စွာ ဟစ်အော်သံတစ်ခုမျှသာလျှင် ဖြစ်ပေမည်။ ထိုအခါ ရုတ်တရက် ၎င်းတို့အားလုံးသည် (တစ်ယောက်မကျန်) ငါအရှင်မြတ်အထံတော်သို့ ခေါ်ဆောင်လာခြင်းကို ခံကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

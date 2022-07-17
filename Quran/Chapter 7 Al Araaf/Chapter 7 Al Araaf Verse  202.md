@@ -710,6 +710,12 @@ A [satanite] vŭvlichat v zabluda svoite bratya, posle ne prestavat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ၂။	သူတို့၏ သားချင်းတို့သည် မိစ္ဆာအယူဝါဒ၌ နစ်မွန်းသည်ထက် နစ်မွန်းအောင် ကြိုးစားကြ၏။ မနေမနား အားထုတ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ယင်း ရှိုင်တွာန် မိစ္ဆာကောင်တို့၏ ညီသားအစ်ကိုတို့မူကား ၎င်းတို့အား ယင်း ရှိုင်တွာန်မိစ္ဆာကောင်တို့သည် လမ်းမှားသို့ဆွဲငင်(ခေါ်ယူ)လျက်ပင် ရှိကြကုန်၏။ ထို့နောက် ၎င်းတို့သည်(ထိုကဲ့သို့ ဆွဲငင်ခေါ်ယူခြင်းကို)ရပ်စဲကြ သည်မဟုတ်ပေ။ (မိုက်မြဲတိုင်း ဆက်လက်မိုက်လျက်ရှိကြကုန်သတည်း။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Shte reche: “Kakto idvakha pri teb Nashite znameniya, no gi zabravyashe, taka 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၆။	အရှင်မြတ်က ယင်းသို့ဖြစ်ရမည်၊ ငါ၏နှုတ်ကပတ်တော်များ သင့်ထံသို့ကျရောက်၏၊ သို့သော်သင်သည် တရား တော်ကို မေ့လျော့နေ၏၊ ထိုနည်းတူသင်သည် ဤနေ့တော်ကြီး၌ မေ့လျော့ခြင်းကို ခံစားရ၏ဟု မိန့်တော်မူလတ္တံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ထိုအရှင်မြတ်သည်(ဤသို့)မိန့် ကြားတော်မူပေမည်။ (ဤကိစ္စသည်) ဤအတိုင်းပင် ဖြစ်ပေမည်။ငါအရှင်မြတ်၏ သက်သေသာဓကများသည် အသင့်ထံ ရောက်ရှိလာခဲ့သောအခါ အသင်သည် ထိုသက်သေ သာဓကများကို(ယုံကြည်လက်ခံခြင်းမပြုဘဲ) စွန့်ထားခဲ့လေသည်။ ထိုနည်းအတိုင်းပင် ယနေ့အသင်သည်လည်း စွန့်ထားခြင်းကိုခံရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

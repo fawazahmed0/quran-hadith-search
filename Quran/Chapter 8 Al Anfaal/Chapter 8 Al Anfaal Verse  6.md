@@ -710,6 +710,12 @@ sporeĭki s teb za istinata, sled kato tya prolicha, - syakash gi vodyat kŭm s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	မျက်ဝါးထင်ထင်မြင်ရသော သေဘေးထဲမှ မောင်းသွင်းခြင်းခံကြရသကဲ့သို့ သူတို့သည် သစ္စာတရား တော်ကို ထင်ရှားစေတော်မူပြီးသော်လည်း တရားတော်နှင့်ပတ်သက်၍ သင်နှင့် အငြင်းအခုံ အချေအတင် ပြောဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် မှန်ကန်သော အကြောင်းတရားနှင့်စပ်လျဉ်း၍ ထိုမှန်ကန်သောအကြောင်းတရားသည် ထင်ရှားခဲ့ပြီးနောက် မိမိတို့သည် သေရာသို့မောင်းနှင်ခြင်းခံရ၍(မရဏသေခြင်းတရားကို မျက်ဝါးထင်ထင်) မြင်နေကြရဘိသကဲ့သို့ပင် အသင်နှင့် စကားငြင်းခုံ ပြောဆိုခဲ့ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

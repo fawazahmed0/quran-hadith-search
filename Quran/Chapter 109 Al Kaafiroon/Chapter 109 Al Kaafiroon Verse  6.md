@@ -710,6 +710,12 @@ Vie si imate vashata religiya i az imam svoyata religiya.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။ သင်တို့သည် သင်တို့၏ ဘာသာအယူဝါဒနှင့်ပင် နေကြပါကုန်၊ အကျွနု်ပ်လည်း အကျွနု်ပ်၏ ဘာသာအယူဝါဒနှင့် နေပါမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (စင်စစ်မှာကား) အသင်တို့အဖို့ အသင်တို့၏အကျိုး၊ လမ်းစဉ်၊ သာသနာဖြစ်၍ ငါ၏အဖို့ ငါ၏ အကျိုး၊ လမ်းစဉ်၊ သာသနာပင်ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

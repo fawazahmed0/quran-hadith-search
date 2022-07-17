@@ -710,6 +710,12 @@ I sgrabchikhme nego i voĭskite mu, i gi khvŭrlikhme v moreto. Vinata be negov
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄ဝ။	ထို့ကြောင့် ငါသည် ထိုမင်းနှင့်တကွ ၎င်း၏ စစ်သည်ဗိုလ်ခြေတို့ကို ဖမ်းဆီးပြီးလျှင် ပင်လယ်ထဲသို့ ပစ်ချ တော်မူလိုက်၏၊ အကြောင်းမူကား သူသည် အပြစ်သင့်သူဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ငါအရှင်မြတ်သည် ထို ‘ဖစ်ရ်အောင်န်’ အားလည်းကောင်း၊ ထို ‘ဖစ်ရ်အောင်န်’၏ စစ်သည်တို့အားလည်းကောင်း၊ ဖမ်းဆီး၍ သမုဒ္ဒရာ ပင်လယ်ထဲသို့ပစ်ချတော်မူခဲ့၏။ စင်စစ် ထိုဖစ်ရ်အောင်န် မှာ ပြင်းထန်စွာ ပြစ်တင်ရှုတ်ချအပ်သောသူဖြစ်ခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

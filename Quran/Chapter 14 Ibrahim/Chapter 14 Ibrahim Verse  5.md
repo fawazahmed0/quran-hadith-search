@@ -710,6 +710,12 @@ Veche izpratikhme Musa s Nashite znameniya: “Izvedi naroda si ot tŭmninite k�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	ငါအရှင်မြတ်သည် တမန်တော်မူစာအား ငါ၏ နှုတ်ကပတ်တော်များနှင့် စေလွှတ်တော်မူ၏။ ငါက သူ့အား သင်သည် သင်၏ အမျိုးသားတို့အား အမှောင်မှ အလင်းသို့ ကယ်တင်လော့။ သူတို့အား အလ္လာဟ်အရှင်မြတ်၏ နေ့တော်များအကြောင်းကို သတိပေးလော့ဟု ဗျာဒိတ်ချတော်မူ၏။ မှတ်သားကြလော့။ ထိုကျမ်းတော်၌ တည် ကြည်ခိုင်မာသောကျေးဇူးသိတတ်သောသူတိုင်းအဖို့ အဆုံးအမတော်များပါရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ဧကန်မလွဲ ငါအရှင်မြတ်သည် (နဗီတမန်တော်)မူစာအား မိမိသက်သေလက္ခဏာတော် များနှင့်တကွ စေလွှတ်တော်မူ(၍ ဤသို့ အမိန့်တော် ထုတ်ပြန်တော်မူ)ခဲ့၏။ အသင်သည် မိမိအမျိုးသားတို့ကို အမှောင်ထုမှအလင်းသို့ ထုတ်ဆောင်ပါလေ။ ထိုမှတစ်ပါး အသင်သည်ယင်းအမျိုးသားတို့အား အလ္လာဟ်အရှင်မြတ် ကျေးဇူးတော်မူများကိုပြန်လည်၍ သတိရစေပါလေ။ ဧကန်မလွဲ ယင်းကျေးဇူးတော်များတွင် အလွန်ခန္တီတရားထားရှိသူတိုင်း၊ အလွန်ကျေးဇူးတော်ကို သိတတ်သူတိုင်းအဖို့ သက်သေလက္ခဏာများသည်ရှိကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

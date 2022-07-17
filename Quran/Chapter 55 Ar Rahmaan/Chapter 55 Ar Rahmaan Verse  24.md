@@ -710,6 +710,12 @@ I Negovi sa plavashtite korabi, vŭzdignali se kato planini v moreto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	ပင်လယ်သမုဒ္ဒရာရေယဉ်ကြောဝယ် အောင်လံကဲ့သို့ ထူထောင်လွှင့်ထားသောသင်္ဘောများကို အရှင်မြတ်စိုးပိုင် တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သမုဒ္ဒရာပင်လယ်၌ တောင်များပမာ(မားမားမတ်မတ်) ရပ်တည်နေကြသော၊ အထင်အရှား ရှိနေကြသော၊ သင်္ဘောများမှာလည်း ထိုအရှင်မြတ်၏ အာဏာစက်အတွင်း၌ ရှိကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I molekha [prorotsite] za pomosht, i se provalyashe vseki uporit despot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	တမန်တော်တို့သည် မိမိတို့၏ ကျေးဇူးတော်သခင်ထံမှ အစောင့်အရှောက်တော်ကို ပန်ထွာတောင်းဆိုသော အခါ မာနထောင်လွှားတရားလွဲချော်သောမင်းတိုင်ပင်ပျက်စီးဆုံးရှုံးရာသို့ ဆိုက်ရောက်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်း(ရစူလ်တမန်တော်သို့မဟုတ် ယင်းကာဖိရ်သွေဖည်ငြင်းပယ်သောသူ)တို့သည် အကူအညီ သို့မဟုတ်အဆုံးအဖြတ်တောင်းခဲ့ကြလေသည်။ ထိုအခါ ခေါင်းမာသောမောက်မာသူအသီးသီးတို့သည် ရည်ရွယ်ချက် (မအောင်မြင်)ပျက်စီးဆုံးပါးခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

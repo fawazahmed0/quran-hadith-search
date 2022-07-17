@@ -710,6 +710,12 @@ togava vseki shte uznae kakvo e izvŭrshil
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။ ထိုအခါအသက်ဝိညာဉ်တိုင်းသည် မိမိတင်ကြိုပို့ထားနှင့်သောအပြုအကျင့်များကို မြင်ရလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 လူအသီးသီးတို့သည် မိမိတို့ ယူဆောင်ခဲ့ကြသည့် (ကောင်းမှု၊ မကောင်းမှု)တို့ကို သိသွားကြ အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

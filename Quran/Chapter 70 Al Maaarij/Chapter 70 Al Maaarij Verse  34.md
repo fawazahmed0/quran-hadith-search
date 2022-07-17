@@ -710,6 +710,12 @@ i koito molitvite si usŭrdno ot·sluzhvat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။ ထို့အပြင် ထိုသူတို့သည် မိမိတို့၏ဆွလားသ်ကို ကောင်းစွာစောင့်ရှောက်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အကြင်(ဆွလာတ်ဝတ်ပြု)သူတို့သည် မိမိတို့၏"ဆွလာတ်"ဝတ်ပြုမှုကို အမြဲမပြတ် စောင့်ထိန်းကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

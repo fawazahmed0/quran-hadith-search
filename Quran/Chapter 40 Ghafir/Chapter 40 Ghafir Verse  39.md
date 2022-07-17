@@ -710,6 +710,12 @@ O, narode moĭ, tozi, zemniyat zhivot, e samo [kratko] naslazhdenie, a otvŭdni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	အို-အမျိုးသားအပေါင်းတို့၊ ဤဘဝသည် အနိစ္စသာဖြစ်၏၊ နောင်တမလွန်ဘဝသာလျှင် ထာဝရအမြဲနေထိုင်ရာ ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ကျွန်ုပ်၏အမျိုးသားတို့၊ ဤမျက်မှောက်လောကီဘဝသည် အနည်းငယ်မျှ အကျိုးကျေးဇူးခံစားမှုသာ ဖြစ်ပေသည်။ သို့ရာတွင် အာခိရတ် တမလွန်ဘဝမှာမူကား ယင်းသည်သာလျှင် ဧကန်စင်စစ် အမြဲနေထိုင်ရန်ဌာနဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

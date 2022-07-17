@@ -710,6 +710,12 @@ Rekokha: “O, tatko nash, moli se da ni bŭdat oprosteni grekhovete! Naistina s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၇။	ထိုအခါသူတို့က အို-ဖခင်၊ အကျွနု်ပ်တို့သည် အပြစ်ရှိသူများဖြစ်ကြပါ၏။ အကျွနု်ပ်တို့အား အပြစ်လွှတ်တော်မူ ပါရန် ဆုတောင်းပေးပါဟု တောင်းပန်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ ယင်းသားတော်များက) အို-ကျွန် တော်မျိုး၏ဖခမည်းတော်၊ ဖခမည်းတော်သည် ကျွန်တော်မျိုးတို့အဖို့ကျွန်တော်မျိုးတို့၏ ပြစ်မှုတို့မှ လွတ်ငြိမ်းချမ်းသာခွင့်ရရှိစေအံ့သောငှာ အသနားခံ၍ ပေးတော်မူပါ။ ဧကန်မလွဲ ကျွန်တော်မျိုးတို့သည် ပင်လျှင် အပြစ်မကင်းသူများ ဖြစ်ကြပါသည်ဟုပြောဆို လျှောက်ထားခဲ့ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

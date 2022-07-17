@@ -710,6 +710,12 @@ Kazhi: “Za nevernitsite v Denya na ot·sŭzhdaneto ne shte e ot polza, ako tog
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	အို-တမန်တော်၊ သူတို့အား ဟောကြားလော့၊ အောင်လံစိုက်ထူသောနေ့တော်ကြီးတွင် သမ္မာတရားတော်ကို မယုံကြည်သောမိစ္ဆာဒိဋ္ဌိတို့၏ ယုံကြည်ခြင်းတရားသည် သူတို့ကို တစ်စုံတစ်ရာအကျိုးပေးမည်မဟုတ်၊ ထို့အပြင် သူတို့၏အပြစ်ဒဏ်ရွှေ့ဆိုင်းထားတော်မူမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်၊) အသင်သည် ပြောကြားပါလေ။ (အချင်းတို့၊) ထို စီရင်ဆုံးဖြတ်ကြမည့်နေ့ တွင် ကာဖိရ် သွေဖည် ငြင်းပယ်ခဲ့ကြကုန်သော သူတို့၏ယုံကြည်မှုသည်၎င်းတို့အား အကျိုးပေးမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

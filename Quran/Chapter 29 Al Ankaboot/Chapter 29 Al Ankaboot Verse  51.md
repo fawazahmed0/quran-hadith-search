@@ -710,6 +710,12 @@ Ne im li be dostatŭchno, che ti nizposlakhme Knigata, koyato se chete pred tyak
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁။	သူတို့အား ရွတ်ဖတ်ပြသောကုရ်အာန်ကျမ်းတော်ကို သင့်အား ထုတ်ပြန်ချပေးသနားတော်မူခြင်သည် ထိုမိစ္ဆာ များအဖို့အရာ လုံလောက်သောနိမိတ်လက္ခဏာအ့ံဖွယ်တော်မဟုတ်ချေလော၊ မှတ်သားကြလော့၊ ဤကျမ်းတော် မြတ်သည် ကောင်းကြီးမင်္ဂလာတော်ဖြစ်၏၊ ယုံကြည်သူအပေါင်းတို့အား သတိပေးအဆုံးအမတရားတော်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် ၎င်းတို့၏ရှေ့ဝယ် ဖတ်ကြားခြင်းခံရလျက်ရှိသော (ကုရ်အာန်)ကျမ်းမြတ်ကို အသင့်အပေါ်၌ ချပေးသနားတော်မူခဲ့ခြင်း သည်ပင်လျှင် ၎င်းတို့အဖို့ လုံလောက်ပြီ မဟုတ်ပါလော။ ဤသည့် (ကျမ်းမြတ်)၌ သက်ဝင်ယုံကြည်သူတို့အဖို့ ကရုဏာတော်သည်လည်းကောင်း၊ အဆုံးအမသည်လည်းကောင်း၊ အမှန်ပင် ရှိပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

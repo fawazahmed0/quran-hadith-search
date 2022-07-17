@@ -710,6 +710,12 @@ A nima ne vizhdate kakvo sa al-Lat i al-Uzza
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	ဟယ်-မိစ္ဆာမိုက်တို့၊ သင်တို့လာဘ်နှင့် အွတ်ဇာဟုခေါ်သောဘုရားတို့အကြောင်းကို စဉ်းစားဆင်ခြင်ပြီးပြီလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်တို့သည် ‘လားတ်’နှင့်စပ်လျဉ်း၍လည်းကောင်း၊ ‘အွဇ္ဇာ’ နှင့်စပ်လျဉ်း၍လည်းကောင်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

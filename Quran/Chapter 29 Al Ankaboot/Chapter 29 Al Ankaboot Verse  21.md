@@ -710,6 +710,12 @@ Nakazva Toĭ kogoto pozhelae i pomilva kogoto pozhelae, i pri Nego shte bŭdete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	အလ္လာဟ်အရှင်မြတ်သည် အပြစ်ဒဏ်ခတ်လိုတော်သောသူကို ဒဏ်ခတ်တော်မူ၏၊ အလိုတော်ရှိသူကို ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူ၏၊ သင်တို့အလုံးစုံသည် အရှင်မြတ်အထံတော်သို့ ပြန်ကြရမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် မိမိအလိုရှိတော်မူသော သူအား ပြစ်ဒဏ်ပေးတော်မူမည်။ ထိုနည်းတူစွာ ထိုအရှင်မြတ်သည် မိမိအလိုရှိတော်မူသော သူအား သနားကြင်နာတော်မူပေမည်။ ၎င်းပြင် အသင်တို့အားလုံးသည် ထိုအရှင်မြတ်အထံတော်သို့ပင် ပြန်သွားကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

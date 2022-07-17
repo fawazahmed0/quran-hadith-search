@@ -710,6 +710,12 @@ V tozi Den shte vidish prestŭpnitsite zaedno, okovani vŭv verigi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	ထိုနေ့တော်ကြီး၌ သင်တမန်တော်သည် အပြစ်ရှိသူများကို စုရုံး၍ သံကြိုးနှင့်ပူးတွဲချည်နှောင်ထားသည်ကို မြင်ရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်သည် ထိုနေ့တွင် ပြစ်မှု ကျူးလွန်သောသူတို့အား သံကြိုးများဖြင့် ပူးတွဲချုပ်နှောင်၍ ထားလျက်(ရှိသည်ကို) တွေ့မြင်အံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I vstŭpvaĭte v brak s nesemeĭnite ot vas i s pravednite ot robite i robinit
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	ထို့အပြင်သင်တို့အနက် တကိုယ်ရေတကာယတည်းနေသူများ၊ အရှင်မြတ်နှင့် တရားတော်ကို ကြည်ညိုသော ကျွန်များ၊ မိန်းမအခိုင်းအစေများကို လက်ထပ်ထိမ်းမြားပေးကြလော့၊ အကယ်၍၎င်းတို့သည် ဆင်းရဲနွမ်းပါးခဲ့လျှင် အလ္လာဟ်အရှင်မြတ်သည် အရှင်မြတ်၏ ဘဏ္ဍာတော်များမှ သူတို့အား ပေးကမ်းကြွယ်ဝစေတော်မူလိမ့်မည်၊ အလ္လာဟ်အရှင်မြတ်သည် ကြွယ်ဝတော်မူ၏ အကြွင်းမဲ့သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အသင်တို့သည် မိမိတို့အနက် ကြင်ဖော်ကြင်ဖက်မရှိသော ယောက်ျားမိန်းမတို့အားလည်းကောင်း၊ မိမိတို့၏ ကျွန်-ကျွန်မများအနက်(ထိမ်း မြားရန်)အရည်အချင်းနှင့် ပြည့်စုံကြသော ကျွန်-ကျွန်မ များအားလည်းကောင်း၊ ထိမ်းမြား၍ ပေးကြလေကုန်။ အကယ်၍ ၎င်းတို့သည် သူဆင်းရဲများ ဖြစ်ကြလျှင် အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့အား မိမိကျေးဇူး တော်နှင့် ကြွယ်ဝချမ်းသာစေတော်မူမည်။ စင်စစ်မူကား အလ္လာဟ်အရှင်မြတ်သည် ကျယ်ဝန်းစွာ ချီးမြှင့်ပေးသနားတော်မူသောအရှင်၊ အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့သိတော်မူသောအရှင်၊ ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

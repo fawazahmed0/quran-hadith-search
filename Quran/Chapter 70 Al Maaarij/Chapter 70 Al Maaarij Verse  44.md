@@ -710,6 +710,12 @@ sŭs sveden pogled, pokriti s unizhenie. Tova e Denyat, koĭto im e obeshtan
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။ ထိုနေ့တော်ကြီး၌ ထိုသူတို့သည် မျက်နှာအောက်စိုက်ခေါင်းငိုက်စိုက်နေကြလျက် ဂုဏ်အသရေပျက်ခြင်းတရားကထိုသူတို့ကို မိန်းမောတွေဝေစေလိမ့်မည်ဖြစ်၏၊ သူတို့အား ကတိထားတော်မူသောနေ့တော်ကြီးကား ယင်းသို့ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့၏ မျက်စိများမှာ အောက်သို့စိုက်၍ နေကြပေမည်။ ဂုဏ်ရည်သိမ်ဖျင်းမှုသည် ၎င်းတို့အား ဖုံးလွှမ်းလျက်ရှိပေမည်။ ထိုသည် ၎င်းတို့ချိန်းဆိုခြင်း ခံခဲ့ရသောနေ့ပင်ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

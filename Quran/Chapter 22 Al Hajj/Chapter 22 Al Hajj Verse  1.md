@@ -710,6 +710,12 @@ O, khora, boĭte se ot vashiya Gospod! Sŭtresenieto v Chasa e neshto uzhasno
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။	အို--လူသားအပေါင်းတို့၊ သင်တို့၏အရှင်သခင်အား ကြောက်ရွံ့ရိုကျိုးကြလော့၊ မှတ်သားကြလော့၊ အချိန် တော်ကြီး၏ ငလျင်တုန်လှုပ်ခြင်းသည် အလွန်ကြီးကျယ်ကြောက်မက်ဖွယ်ကောင်း၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-လူခပ်သိမ်းတို့၊ အသင်တို့သည် မိမိတို့ကို ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အား ကြောက်ရွံ့ရိုသေကြလေကုန်။ ဧကန်စင်စစ် ကိယာမတ်၏ မြေငလျင်လှုပ်ခြင်းသည် အကြီးအကျယ် ကြောက်မက်ဖွယ် ကိစ္စတစ်ရပ်ပင်ဖြစ်ချေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

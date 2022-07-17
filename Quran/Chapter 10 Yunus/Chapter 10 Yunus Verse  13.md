@@ -710,6 +710,12 @@ I veche pogubikhme pokoleniyata predi vas, kogato ugnetyavakha, i tekhnite prate
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	သူတို့မကောင်းမှုကို ပြုသောအခါ ငါသည် သင်တို့မဖြစ်ထွန်းမီ ရှေးလူဟောင်းအဆက်များစွာကို သုတ်သင် ရှင်းလင်းတော်မူ၏။ သူတို့၏ တမန်တော်များသည် သူတို့ထံသို့ အရှင်မြတ်သည် အချုပ်အခြာအာဏာပိုင်သ တော်မူကြောင်း ထင်ရှားသောသက်သေသာဓကတော်များကို ယူဆောင်လာကြ၏။ သို့သော်သူတို့သည် မယုံ ကြည်ကြပေ။ ဤနည်းအတိုင်းငါသည် အပြစ်ရှိသူတို့အား ဆုပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ဧကန်မလွဲ ငါအရှင်မြတ်သည် အသင်တို့အလျင်(များစွာသော)အမျိုးနွယ်များကို ၎င်း တို့ မတော်မတရားကျူးလွန်ခဲ့ကြသောအခါ ဖျက်ဆီးတော်မူခဲ့လေသည်။ အမှန်စင်စစ်သော်ကား ၎င်း တို့ထံ ၎င်း တို့၏ ရစူလ်တမန်တော်များသည် ထင်ရှားလှစွာသောသက်သေ၊ လက္ခဏာတော်များကိုယူဆောင်လာခဲ့ကြကုန်၏။ စင်စစ်သော်ကား ၎င်း တို့သည်သက်ဝင်ယုံကြည်ကြမည့်သူများ မဟုတ်ကြချေ။ငါအရှင်မြတ်သည် ပြစ်မှုကျူးလွန်သူတို့အား ဤကဲ့သို့ပင်အစားပေးတော်မူလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I koĭto izvŭrshi zlo, dori s tezhest na prashinka, shte go vidi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။ အကြင်သူသည် မကောင်းမှုကို အနုမြူခန့်မျှပြုခဲ့လျှင် ထိုသူသည် ထိုမကောင်းမှု အကုသိုလ်ကို မျက်ဝါးထင်ထင် တွေ့မြင်ရလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ မည်သူမဆို တစ်စုံတစ်ရာမကောင်းမှုကို အဏုမြူခန့်မျှပင် ပြုမူခဲ့ပါလျှင်လည်း ထိုသူသည် (မိမိပြုကျင့်ခဲ့သော) ယင်းမကောင်းမှုကို တွေ့မြင်ရမည်သာတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

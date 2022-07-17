@@ -710,6 +710,12 @@ I pristŭpi zhena mu s vik, udryaĭki litseto si, i reche: “No az sŭm bezdet
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	ထိုအခါသူ၏ ကြင်ဘက်တော်ထွက်လာ၍ မိမိ၏ ပါးပြင်နှစ်ဘက်ကို လက်ဖြင့် သုံးသပ်၍ ကြီးသောအသံဖြင့် ငိုကြွေးပြောဆိုသည်မှာ ငါသည် သက်ရွယ်ကြီးသောအမြံုမဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုရောကာလ ထိုအိဗ်ရာဟီမ်၏ ဇနီးကြင်ရာသည် အသံကျယ်စွာ ပြောဆိုညည်းညူလျက် ရှေ့သို့ရောက်ရှိ၍လာပြီးလျှင် မိမိနဖူးကို လက်ဝါးဖြင့်ရိုက်ကာ အသက်အရွယ် ကြီးရင့်အိုမင်းလျက်ရှိသော မြုံ၍နေသော မိန်းမတစ်ဦးသည်(သားဖွားဦးမည်လော)ဟု ပြောဆိုခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

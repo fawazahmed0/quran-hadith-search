@@ -710,6 +710,12 @@ I rekokha: “O, vŭlshebniko, pozovi za nas svoya Gospod za onova, koeto ti e o
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	ထိုအခါသူတို့က ဟယ်-အချင်းမျက်လှည့်ဆရာ၊ သင်သည် မိမိ၏ အသက်သခင်ကျေးဇူးရှင်ဖွဲ့စည်းထားသော ပဋိညာဉ်စာချုပ်အားဖြင့် သင့်သခင်ထံ အကျွနု်ပ်တို့အဖို့ ဆုတောင်းပါလော့၊ ငါတို့သည် တရားလမ်းတော်ကို လိုက်ပါမည်ဟု တောင်းပန်ကြလေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့သည် (မူစာအားဤသို့)ပြောဆိုခဲ့ကြ၏။ အို-စုန်းအတတ်ကို ကျွမ်းကျင်သောဆရာ၊ အသင်သည် ကျွန်ုပ်တို့အဖို့ အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်ထံတော်မှ အသင့်ထံ ကတိထားတော်မူခဲ့သည်နှင့်အညီ ဆုတောင်း၍ပေးပါ။ (ယခုသော်) မလွဲဧကန် ကျွန်ုပ်တို့သည် တရားလမ်းမှန်ကို လိုက်နာကြပါတော့မည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

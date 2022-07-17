@@ -710,6 +710,12 @@ Donesokhme im Kniga, koyato razyasnikhme sŭs znanie kato napŭt·stvie i milost
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၂။	အကယ်စင်စစ် ငါအသျှင်မြတ်သည် သူတို့အား ကျမ်းတော်တစ်စောင်ကို ချပေးသနားတော်မူ၏။ ထိုကျမ်းတော်ကို နက်နဲသိမ်မွေ့စွာ ငါစီရင်ထားတော်မူ၏။ ထိုကျမ်းတော်သည် ယုံကြည်သူတို့အဖို့ လမ်းပြကျမ်းတော်ဖြစ်၏။ အသျှင်မြတ်၏ ကောင်းကြီးမင်္ဂလာတော်လည်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် ငါအရှင်မြတ်သည် ထိုသူတို့ထံ(အကြင်ကုရ်အာန်)ကျမ်းတော်မြတ်ကို ပို့တော် မူခဲ့လေသည်။ငါအရှင်မြတ်သည် ထိုကျမ်းဂန်ကို (မိမိ) ဉာဏ်တော်ဖြင့် ရှင်းလင်းဖော်ပြ တော်မူခဲ့သည်။ (ထိုကျမ်းဂန်သည်) အီမာန်သက်ဝင်ယုံကြည်သော မုအ်မင်န်များအဖို့ တရားလမ်းညွှန် လည်းဖြစ်သည်။ ကရုဏာတော်လည်း ဖြစ်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

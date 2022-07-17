@@ -710,6 +710,12 @@ I veche dadokhme na Musa i Kharun Razgranichenieto, i svetlina, i napomnyane za 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	ထို့အပြင်ငါသည် တမန်တော်မူစာနှင့် ဟာရွန်တို့ထံ ယုတ်မြတ်နှစ်ပါးကို ပိုင်းခြားဝေဖန်စွမ်းနိုင်သောကျမ်းတော် မြတ်ကို ထုတ်ပြန်ချပေးသနားတော်မူ၏၊ ထိုကျမ်းတော်သည် မကောင်းမှုကို ကြဉ်ရှောင်သူတို့အဖို့ရာ ဝိဇ္ဇာ အလင်းရောင်နှင့် အဆုံးအမတရားတော်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ငါအရှင်မြတ်သည် မူစာနှင့်ဟာရူန်အား အမှားနှင့်အမှန်ကိုကွဲပြား ခြားနားစေသော အလင်းရောင်တစ်ခုဖြစ်သော ပြစ်မှုဒုစရိုက်များမှ ကြဉ်ရှောင်ကြကုန်သော မွတ္တကီသူတော်စင်တို့အဖို့ ဆုံးမစာတစ်စောင်ဖြစ်သော (တောင်ရာတ်)ကျမ်းကို ချီးမြှင့် ပေးသနားတော်မူခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ O, vyarvashti, yazhte ot blagata, koito Nie vi darikhme, i bŭdete priznatelni n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇၂။	အို - ယုံကြည်သူတို့၊ ငါအရှင်ပေးသနားတော်မူသည့် မွန်မြတ်သောအစားအစာကို မှီဝဲသုံးစွဲကြ လော့။ သင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား မုချဧကန်ကိုးကွယ်ကြလျှင် အရှင်မြတ်၏ ဂုဏ် ကျေးဇူးတော်ကို ချီးကျူးကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-မုအ်မင်န် ယုံကြည်သူအပေါင်းတို့ အသင် တို့အား ငါအရှင်မြတ်ပေးသနားတော်မူသော ကောင်းမွန် သန့်ပြန့်သော အာဟာရများအနက်မှ အသင်တို့သည် (ကြိုက် နှစ်သက်ရာကို) စားသုံးကြ ကုန်။ ၎င်းအပြင် အကယ်၍ အသင် တို့သည် ထိုအရှင်မြတ်အားသာလျှင် ခဝပ်ကိုးကွယ်ကြပါလျှင် အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား ကျေးဇူးတင်ကြကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

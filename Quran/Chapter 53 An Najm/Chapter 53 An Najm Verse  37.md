@@ -710,6 +710,12 @@ i Ibrakhim, koĭto izpŭlni [povelyata]
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	ထို့အပြင်မိမိကြွေးကို ဆပ်သောတမန်တော်အေဗရာဟမ်အား ချပေးသနားတော်မူသောကျမ်းတော်ပါအကြောင်း အရာများကိုလည်း မကြားရသေးဘူးလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အမိန့်တော်များကို) ကျေပွန်စွာဆောင်ရွက်ခဲ့သော ‘အိဗ်ရာဟီမ်’၏ကျမ်းတော်များ၌ လာရှိသည်ကိုလည်းကောင်း၊ သတင်းပေးခြင်း မခံခဲ့ရလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

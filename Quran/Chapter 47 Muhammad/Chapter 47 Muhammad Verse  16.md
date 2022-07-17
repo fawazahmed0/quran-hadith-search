@@ -710,6 +710,12 @@ A nyakoi ot tyakh te izslushvat, no shtom si otidat ot teb, kazvat na darenite s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	အို-တမန်တော်၊ ထိုသူတို့အနက် အချို့တို့သည် သင်၏ဒေသနာတရားတော်ကို နာကြပြီးလျှင် သင့်ထံမှ ထွက်သွားသောအခါ သူတို့သည် ဝိဇ္ဇာအလင်းရောင်ရရှိသူတို့အား အချင်းတို့၊ သူသည် ယခုမည်သည့်အကြောင်း ကို ဟောပြောသနည်းဟု ဆိုကြ၏၊ ယင်းသူတို့သည် မိမိတို့၏ စိတ်နှလုံးကို အလ္လာဟ်အရှင်မြတ်တံဆိပ်ခတ်နှိပ် ထားတော်မူခြင်းခံရ၍ မိမိတို့၏ တဏှာရာဂနောက်သို့ လိုက်သောသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ၎င်းတို့တွင် အသင့်ဘက်သို့ နားစွင့်၍နေကြသူများလည်း ရှိကြကုန်၏။ နောက်ဆုံးတွင် အသင့်ထံမှ ထွက်ခဲ့ကြသောအခါ ၎င်းတို့သည် အသိပညာကို ချီးမြှင့်ခံကြရသော ပုဂ္ဂိုလ်တို့အား ယခု ဤသူ(တမန်တော်မြတ်သည်) မည်သည့်စကား ပြောဆိုခဲ့ပါသနည်းဟု မေးမြန်းကြကုန်၏။ ထိုသူတို့သည်ပင်လျှင် အကြင်သူများတည်း။ အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့၏ စိတ်နှလုံးများအပေါ်၌ တံဆိပ်ခတ်နှိပ်ထားတော်မူ၏။ ထို့ပြင် ၎င်းတို့သည် မိမိတို့၏ စိတ်အလိုဆန္ဒများကို လိုက်နာကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Za vsichki nabavyame - i za tezi, i za onezi - ot dara na tvoya Gospod. Darŭt n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	ငါသည် နောင်တမလွန်ဘဝကို မြတ်နိုးသောသူတို့ကိုလည်းကောင်း၊ ဤဘဝကို မက်မောသောသူတို့ကိုသော် လည်းကောင်း၊ လူတိုင်းကိုပင် သင်၏ အရှင်သခင်၏ ကျေးဇူးတော်ကို မည်သည့်အခါမှ ပိတ်ပင်တားဆီးမထား နိုင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် ဤသူတို့ကိုလည်းကောင်း၊ထိုသူတို့ကိုလည်းကောင်း၊ အသီးသီးတို့ကို အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏(လောကီ ဆိုင်ရာ)ဆုလာဘ်ကျေးဇူးတော်မှ ကူညီစောင်မတော်မူလေသည်။ စင်စစ် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ (လောကီဆိုင်ရာ)ဆုလာဘ် ကျေးဇူးတော်ကား (မည်သူတစ်ဦးတစ်ယောက်အပေါ်၌မျှ) ပိတ်ပင်ထားသည် မရှိချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

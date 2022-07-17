@@ -710,6 +710,12 @@ O, khora, obeshtanieto na Allakh e istinno. Nikoga da ne vi podmamva zemniyat zh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	အို-လူသားအပေါင်းတို့၊ အလ္လာဟ်အရှင်မြတ်၏ ကတိသစ္စာတော်သည် မှန်ကန်၏၊ ထို့ကြောင့်လောကီစည်းစိမ် က သင်တို့အား မလှည့်စားစေလင့်၊ ထို့အပြင်ရှိုင်တန်မာရ်နတ်သည် အလ္လာဟ်အရှင်မြတ်နှင့်စပ်လျဉ်း၍ မဖျား ယောင်းစေကြလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-လူအပေါင်းတို့၊ ဧကန်မလွဲ အလ္လာဟ် အရှင်မြတ်ထားရှိတော်မူသောကတိသည် မှန်ကန်၏။ သို့ဖြစ်ပေရာလောကီဘဝ၌ အသက်ရှင်ခြင်းသည်လည်း အသင်တို့အားလှည့်ဖြားခြင်းမပြုစေရ၊ လှည့်စားသူ ရှိုင်တွာန်(မိစ္ဆာကောင်)သည်လည်း အသင်တို့အား အလ္လာဟ်အရှင်မြတ်နှင့် ပတ်သက်၍ လှည့်ဖြားခြင်း မပြုစေရ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

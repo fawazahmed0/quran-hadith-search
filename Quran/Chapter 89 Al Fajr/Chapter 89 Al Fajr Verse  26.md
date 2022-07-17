@@ -710,6 +710,12 @@ i nikoĭ drug ne shte okovava, kakto Toĭ okovava
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။ ထို့အပြင် သူတပါး မပြုစွမ်းနိုင်သည့် ဖမ်းဆီးချုပ်နှောင်ခြင်းကို ပြုတော်မူလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ ထိုအရှင်မြတ်၏ ဖမ်းဆီး ချုပ်နှောင်ခြင်းမျိုးကိုလည်း မည်သူတစ်ဦးတစ်ယောက်မျှပင် ဖမ်းဆီးချုပ်နှောင်လိမ့်မည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

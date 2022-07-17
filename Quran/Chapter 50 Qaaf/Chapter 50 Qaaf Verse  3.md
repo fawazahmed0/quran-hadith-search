@@ -710,6 +710,12 @@ Nima sled kato umrem i stanem na prŭst [shte bŭdem vŭzkreseni]? Takova zavrŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	ထို့အပြင်သူတို့ပြောကြသည်မှာ ငါတို့သည် သေပျောက်၍ မြေမှုန့်အတိဖြစ်ပြီးမှ ပြန်ရှင်ရဦးမည်လော၊ ဤပြန်ခြင်း သည် အလွန်ဝေးကွာလှသောပြန်ခြင်းပေတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကျွန်ုပ်တို့ သေဆုံးခဲ့ကြပြီးနောက် မြေကြီးဖြစ်သွားခဲ့ကြသောအခါ (ရှင်ပြန်ထကြရဦးမည်လော၊) ထိုသည်ကား အလွန်တရာဝေးလံစွာသော ပြန်လည်ခြင်းပင်။[ ထိုသို့ ပြန်လည်ရှင်ထခြင်းသည် (အသိဉာဏ်နှင့်) အလွန်ဝေးလံပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

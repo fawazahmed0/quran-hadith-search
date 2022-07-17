@@ -710,6 +710,12 @@ I koĭ e po-golyam ugnetitel ot onzi, koĭto izmislya lŭzha za Allakh i vzima
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၈။	အလ္လာဟ်အရှင်မြတ်နှင့်စပ်လျဉ်း၍ မတော်မလျားမုသားစကားလုပ်ကြံဆိုသူထက်သော်လည်းကောင်း၊ မိမိထံသို့ ရောက်လာသောတရားတော်ကို ပုတ်ခတ်ပြောဆိုငြင်းပယ်သူထက်သော်လည်းကောင်း၊ အပြစ်ကြီးလေးသောသူ သည် အဘယ်သူနည်း၊ မိစ္ဆာမိုက်တို့နေထိုင်ဖို့နေရာသည် အဝီစိငရဲတွင် ရှိသည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်အပေါ်၌ မုသားကို လီဆယ်၍စွပ်စွဲသော၊ သို့မဟုတ် မိမိထံ အမှန်တရားရောက်ရှိလာသောအခါ ယင်းအမှန်တရားကို မဟုတ်မမှန်ဟု စွပ်စွဲငြင်းပယ်သောသူထက် သာလွန်မတရားသော သူကား မည်သူရှိနည်း၊ ‘ကာဖိရ်’သွေဖည်ငြင်းပယ်ကြ ကုန်သောသူတို့၏ နေထိုင်ရာဌာနသည် ဂျဟန္နမ်ငရဲဘုံ၌ပင်ရှိမည် မဟုတ်ပါလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

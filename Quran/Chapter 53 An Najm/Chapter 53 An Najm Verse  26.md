@@ -710,6 +710,12 @@ I kolko angeli ima na nebesata, chieto zastŭpnichestvo ne izbavya ot nishto, os
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	အထက်ကောင်းကင်ဘုံ၌ များစွာသောကောင်းကင်တမန်တို့ရှိကြ၏၊ သူတို့သည် ဝေနေယျသတ္တဝါအပေါင်းကို ငရဲမှ ကယ်နှုတ်ရန် တောင်းပြန်ကြ၏၊ ဤတောင်းပန်ခြင်းသည် တစ်စုံတစ်ရာအကျိုးပေးမည်မဟုတ်၊ သို့သော် အကြင်သူအား အလ္လာဟ်အရှင်မြတ်အလိုတော်ရှိ၍ တောင်းပန်ကယ်နှုတ်ခွင့်ကို ပေးသနားတော်မူအ့ံ၊ ထိုသူ၏ တောင်းပန်ကယ်နှုတ်ခြင်းကို လက်ခံတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား မိုးကောင်းကင်များ၌ မြောက်မြားစွာသော ကောင်းကင်တမန်တို့သည် ရှိကြကုန်၏။ (သို့ရာတွင်) ၎င်းတို့၏ ကြားဝင် အသနားခံပေးမှုသည်ပင် အလ္လာဟ်အရှင်မြတ်က မိမိအလိုရှိတော်မူ၍ ကျေနပ်တော်မူသောသူနှင့် ပတ်သက်၍ ခွင့်ပြုတော်မူပြီး နောက်မှသာလျှင် အသုံးဝင်နိုင်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

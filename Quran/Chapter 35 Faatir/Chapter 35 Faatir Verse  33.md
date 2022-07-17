@@ -710,6 +710,12 @@ V gradinite na Adn shte vlyazat s ukrasheniya - grivni ot zlato i biseri, i drek
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။ နိဗ္ဗဥယျာဉ်တော်များ၊ ထိုသူများသည် ထိုဥယျာဉ်တော်များသို့ ပုလဲစီထားသောရွှေလက်ကောက်၊ လက်ကျပ် ဝတ်ဆင်လျက် ဝင်ကြရ၏၊ သူတို့၏ အဝတ်အစားမှာ ပိုးဖဲအဝတ်များဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထာဝစဉ် နေထိုင်ရအံ့သော ဥယျာဉ်များပင်၊၎င်းတို့သည် ယင်းဥယျာဉ်များ၌ ဝင်ရောက်ကြပေမည်။ ထိုသူတို့သည် ယင်းဥယျာဉ်များ၌ ရွှေလက်ကောက် များဖြင့်လည်းကောင်း၊ ပုလဲများဖြင့်လည်းကောင်း၊ တန်ဆာဆင်ယင်ပေးခြင်းကို ခံကြရပေမည်။ ထိုမှ တစ်ပါး ယင်းဥယျာဉ်များ၌ ၎င်းတို့၏ဝတ်စား တန်ဆာမှာ ပိုးအဝတ်အထည်ပင် ဖြစ်ပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

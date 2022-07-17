@@ -710,6 +710,12 @@ Prestŭpnitsite shte prebivavat vechno v mŭchenieto na Ada
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၄။	ဒုစရိုက်ကောင်များမှာမူကား ငရဲမီးအပြစ်ဒဏ်ထဲတွင် အစဉ်ထာဝရခံစားနေကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် ပြစ်မှုကျူးလွန်သော သူတို့ကား "ဂျဟန္နမ်" ငရဲဘုံ၏ပြစ်ဒဏ်၌ အမြဲထာဝရနေထိုင် (ခံစား)ကြမည့်သူများပင် ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

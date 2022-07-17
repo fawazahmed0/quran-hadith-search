@@ -710,6 +710,12 @@ Koĭto vŭrshi zlo, shte mu se vŭzdade samo kolkoto nego. A koĭto vŭrshi pr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄ဝ။	ဒုစရိုက်မကောင်းမှုကို ပြုသောသူသည် မိမိပြုကျင့်သောမကောင်းမှု၏ အပြစ်ကိုသာ ခံစားရလတ့ံ၊ သို့သော် အကြင်ယောက်ျား၊ အကြင်မိန်းမသည် သုစရိုက်ကောင်းမှုကို ပြု၍ ယုံကြည်ကြအ့ံ၊ ထိုယောက်ျား၊ ထိုမိန်းမသည် သုခဥယျာဉ်တော်သို့ ဝင်ရလတ့ံ၊ ထိုဥယျာဉ်တော်၌ သူတို့သည် အတိုင်းအထွာပမာဏမရှိသောပေါများကြွယ်ဝ ခြင်းကို ခံစားကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သူမဆို မကောင်းမှုဒုစရိုက် တစ်စုံတစ်ရာကို ကျင့်မူခဲ့လျှင် ယင်းမကောင်းမှုနှင့် ညီမျှသည့် (ပြစ်ဒဏ်)ကိုသာ အစားပေးခြင်း ခံရပေမည်။ သို့ရာတွင် မည်သူမဆို ယောက်ျားဖြစ်စေ၊ မိန်းမဖြစ်စေ၊ ကောင်းမြတ်သောအကျင့်သီလကို ကျင့်မူဆောက်တည်ခဲ့မူ ထိုမှတစ်ပါး ထိုသူသည် မုအ်မင်န် သက်ဝင် ယုံကြည်သူလည်း ဖြစ်ပါမူ၊ ထိုကဲ့သို့သောသူတို့မှာ "ဂျန္နတ်" သုခဘုံသို့ ဝင်ရောက်ကြပေမည်။ ထိုသူတို့သည် ယင်း"ဂျန္နတ်" သုခဘုံတွင် ရေတွက်ခြင်းမရှိဘဲ စားနပ်ရိက္ခာကို ချီးမြှင့်ကျွေးမွေးခြင်းကို ခံကြရကုန်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

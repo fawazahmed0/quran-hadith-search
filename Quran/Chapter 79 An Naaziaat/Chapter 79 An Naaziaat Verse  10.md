@@ -710,6 +710,12 @@ Shte kazhat: “Nima shte bŭdem vŭrnati kŭm predishnoto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၀၊၁၁။ ယခုသူတို့ပြောကြသည်၊ အကျွနု်ပ်တို့သည် ဆွေးမြေ့ကြေမွသောအရိုးများဖြစ်ပြီးနောက် နဂိုရ်မူလအတိုင်းအမှန်ပင် ဖြစ်ရဥိးမည်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့က "အသို့ပါနည်း၊ ကျွန်ုပ်တို့သည် မူလအခြေအနေသို့ တဖန်ပြန်၍ အမှန်ပင် ရောက်ရှိကြမည်လော၊" ဟု ပြောဆိုကြလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I vi izvadi Allakh ot utrobite na vashite maĭki, bez da imate znanie, i Toĭ 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၈။	တဖန် အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အား အမိဝမ်းတွင်းမှ ထုတ်ယူတော်မူ၏။ ထိုအခါသင်တို့သည် ဘာ မှမသိကြချေ။ ထို့နောက်သင်တို့သည် ဂုဏ်ကျေးဇူးတော်ကို သတိရချီးမွမ်းကြစေရန် နား၊ မျက်စိ၊ စိတ်နှလုံး စသည်တို့ကို ပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အလ္လာဟ်အရှင်မြတ်သည်ပင် အသင်တို့အား အသင်တို့၏မိခင်များ၏ဝမ်းတွင်းမှ ထွက်စေတော်မူခဲ့လေသည်။ ထိုအချိန်တွင် အသင်တို့ တစ်စုံတစ်ရာကိုမျှ မသိကြပေ။ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် အသင်တို့ကျေးဇူးတော်ကို သိတတ်ကြအံ့သောငှာ အသင်တို့အဖို့ ကြားနိုင်စွမ်းကို လည်းကောင်း၊ မြင်နိုင်စွမ်းကိုလည်းကောင်း၊ စိတ်နှလုံးကိုလည်းကောင်း၊ ထည့်သွင်းပေးတော်မူခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

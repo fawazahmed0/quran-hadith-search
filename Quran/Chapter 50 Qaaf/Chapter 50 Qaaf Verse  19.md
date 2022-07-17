@@ -710,6 +710,12 @@ I smŭrtnata agoniya shte donese istinata: “Tova e, koeto si izbyagval.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	လူသားသည် အသက်ထွက်ခြင်းဘေးဒုက္ခနှင့် ပြင်းပြနာကျယ်စွာတွေ့ကြံုရမည်သာတည်း၊ ထိုအခါ သူ့အား ဤသို့ပြောအ့ံ၊ ဤအရေးကား သင်ရှောင်လေ့ရှိသောသေဘေးပင်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ‘မရဏ’ သေခြင်းတရား၏ မိန်းမောမှုသည် မှန်ကန်စွာ ရောက်လာခဲ့ချေပြီ။ ထိုသည်ပင် အကြင်အရာတည်း။ အသင်သည် ၎င်းမှ(လွတ်မြောက်ရန်)တိမ်းရှောင်လျက် ရှိခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

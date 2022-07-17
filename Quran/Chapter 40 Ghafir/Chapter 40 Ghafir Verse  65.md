@@ -710,6 +710,12 @@ Toĭ e Vechnozhiviya. Nyama drug Bog osven Nego, zatova Nego zovete, predani Ne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၅။	အလ္လာဟ်အရှင်မြတ်သည် တစ်ဆူတည်းအထီးထီးတည်တော်မူ၏၊ အသင်ရှင်နေတော်မူ၏၊ အရှင်မြတ်မှတပါး အခြားအရှင်သခင်မရှိချေ၊ အရှင်မြတ်အားသာ ဝတ်ပြုကြကုန်လော့၊ ဘာသာတရားကို အရှင်မြတ်အဖို့သာ ဖြူစင်စွာထားကြကုန်လော့၊ အနန္တစကြဝဠာအပေါင်းတို့၏ အရှင်သခင်၊ အလ္လာဟ်အရှင်မြတ်သည် အ့ံချီးမဆုံး ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည်ပင်(အမြဲထာဝရ)ရှင်နေတော်မူသော အရှင်ဖြစ်တော်မူ၏။ ထိုအရှင်မြတ်မှတစ်ပါး ဆည်းကပ်ကိုးကွယ်ရာဟူ၍ အလျှင်းမရှိပြီ။ သို့ဖြစ်ပေရာ အသင်တို့သည် ထိုအရှင်မြတ်အားသာလျှင် ဆည်းကပ်ကိုးကွယ်မှုကို ထိုအရှင်မြတ်အတွက် သန့်သန့်ပြုကြလျက် ဟစ်ခေါ်တသကြလေကုန်၊ ချီးမွမ်းထောပနာအပေါင်းတို့သည် စကြာဝဠာခပ်သိမ်းတို့ကို ဖန်ဆင်းမွေးမြူတော်မူသော အလ္လာဟ်အရှင်မြတ်နှင့်သာ ထိုက်သင့်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

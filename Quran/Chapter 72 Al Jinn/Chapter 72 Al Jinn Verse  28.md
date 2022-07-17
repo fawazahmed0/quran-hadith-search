@@ -710,6 +710,12 @@ za da znae, che sa sŭobshtili poslaniyata na svoya Gospod. Obgrŭshta Toĭ tov
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။ သို့ချထားတော်မူခြင်းအကြောင်းရင်းကား တမန်တော်များသည် မိမိတို့အရှင်သခင်၏ တရားဗျာဒိတ်တော်များကို အမှန်ပင် ဟောပြောကြေငြာပြီးကြောင်းကို သိစိမ့်သောငှာဖြစ်၏၊ စင်စစ်မှာ အရှင်မြတ်သည် သူတို့၏ပြုကျင့် မှုများကို ဝန်းဝိုင်းထားတော်မူ၏၊ အရာခပ်သိမ်းကုန်တို့ကို အကြွင်းမကျန် အကုန်အစင် စာရင်းတင်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ယင်းသို့ ပြုလုပ်တော်မူခြင်းမှာ) ထို(ရစူလ် တမန်တော်များသည်လည်းကောင်း၊ ကောင်းကင် တမန်များသည်လည်းကောင်း၊) မိမိတို့အား ဖန်ဆင်း မွေးမြူတော်မူသောအရှင်မြတ်၏ အကြောင်းကြားချက်တို့ကို (တိကျမှန်ကန်စွာ)ပို့ဆောင်ခဲ့ကြသည်ကို ထို အရှင် သိတော်မူအံ့သောငှာ (ပြုလုပ်တော်မူခြင်း) ဖြစ်၏။ စင်စစ်သော်ကား ထိုအရှင်မြတ်သည် ထို (ရစူလ်တမန်တော်များနှင့် ကောင်းကင်တမန်)တို့၏ အခြေအနေတို့ကို ဝန်းရံလျက်ရှိတော်မူသည်သာမက အရာခပ်သိမ်းတို့၏ အရေအတွက်ကိုလည်း ရေတွက်၍ ထားရှိတော်မူပြီး ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

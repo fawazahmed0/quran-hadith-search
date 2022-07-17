@@ -710,6 +710,12 @@ No ya zaklakha, posle sŭzhalyavakha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၇။	သို့သော်သူတို့သည် ကုလားအုပ်မ၏ ဒူးကောက်ကြောကို လှီးဖြတ်ကြ၏၊ ထို့နောက်မှ ယူကျုံးမရဖြစ်ကြကုန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တစေ ၎င်း ‘ဆမူဒ်’ အမျိုးသားတို့သည် ထိုကုလားအုတ်မ၏ခြေများကို ဖြတ်တောက်ခဲ့ကြကုန်၏။ ထို့နောက် ၎င်းတို့သည် နောင်တရရှိသူများ ဖြစ်သွားခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

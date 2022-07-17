@@ -710,6 +710,12 @@ A Nie pozhelakhme da oblagodetelstvame onezi, koito byakha obezsileni na Zemyata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	ငါသည် မြေပေါ်တွင် မတရားနှိပ်စက်ခံရသူတို့အား မဟာကရုဏာတော်ပြလိုတော်မူ၏၊ ထိုသူတို့အား အခြား သူများအတုယူဖို့ရာ စံနမူနာဖြစ်လိုတော်မူ၏၊ ထို့အပြင်သူတို့အား အခြားသူများအတုယူဖို့ရာစံနမူနာ ဖြစ်စေ လိုတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ငါအရှင်မြတ်သည် တိုင်းပြည်တွင် အားအင်လျော့နည်းအောင် ပြုလုပ်ခြင်းခံခဲ့ကြရသူတို့အား ကျေးဇူးပြုတော်မူရန်လည်းကောင်း၊ ထိုသူတို့အား ရှေ့ဆောင်ရှေ့ရပ်များ ပြုလုပ်တော်မူရန်လည်းကောင်း၊ ထိုသူတို့အား အမွေစားအမွေခံများ ပြုလုပ်တော်မူရန်လည်းကောင်း၊ အလိုရှိတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

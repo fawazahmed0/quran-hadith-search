@@ -710,6 +710,12 @@ Sred khorata na Pisanieto nyama takŭv, koĭto da ne povyarva v nego predi nego
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၉။	ရှေးကျမ်းတော်များကို ရရှိသောအမျိုးသားတို့အနက် တမန်တော်အီဆာအား မသေမှီ သူယုံကြည် သူမှတစ်ပါး အခြားသူတစ်ယောက်မျှမရှိချေ။ တရားစီရင်တော်မူသောနေ့တော်ကြီး၌ သူသည် သူတို့နှင့် ဆန့်ကျင်သော သက်သေတော်ဖြစ်လိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ရှေးအထက်ကျမ်းဂန်ကို ရရှိသူ (ယဟူဒီ) တို့အနက် တစ်ယောက်မကျန် နဗီတမန်တော် မစီဟ်အီစာမကွယ်လွန်မီ ထိုနဗီတမန်တော် မစီဟ်အီစာအား ယုံကြည်ကြကုန်အံ့။ ထို့ပြင်တဝ ယင်းနဗီတမန်တော်အီစာသည် ‘ကိယာမတ်’ ခေါ် ရှင်ပြန်ထမည့်နေ့တွင် ယင်း (ယဟူဒီ) တို့နှင့်ပတ်သက်၍ သက်သေခံလိမ့်မည် ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

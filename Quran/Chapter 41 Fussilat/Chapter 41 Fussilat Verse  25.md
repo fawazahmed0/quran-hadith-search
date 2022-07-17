@@ -710,6 +710,12 @@ I im otredikhme priyateli, koito im razkrasyavakha vsichko pred tyakh i vsichko 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	ငါသည် လောက၌ ထိုအယူမှားသူတို့အဖို့အရာ အဆွေခင်ပွန်းအပေါင်းအဖော်များကို စီရင်ထားတော်မူ၏၊ ထိုအဆွေခင်ပွန်းတို့သည် ထိုအယူလွဲသူတို့အား မိမိတို့၏ အတိတ်ပစ္စုပ္ပန်ကာလတို့ကို သင့်တင့်လျောက်ပတ်စေ ကြ၏၊ ထို့ကြောင့်၎င်းတို့ထက်ရှေးကျသောမယုံကြည်သူလူဂျင်န်အမျိုးမျိုးတို့အပေါ်တွင် စီရင်တော်မူသောအပြစ် ဒဏ်သည် ဤသူတို့အပေါ်ကိုလည်း ကျရောက်၏၊ အကြောင်းမူကား သူတို့သည် ဧကန်အမှန်ဆုံးရှုံးပျက်စီး သူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်သော်ကား ငါအရှင်မြတ်သည် ၎င်းတို့အဖို့အပေါင်းအဖော်များ ပြုလုပ်တော်မူခဲ့ရာ ထိုအပေါင်းအဖော်တု့ိသည် ၎င်းတို့၏ရှေ့နောက် အပြုအမူများကို ၎င်းတို့အမြင်၌လှပတင့်တယ်အောင် ပြုလုပ်ခဲ့ကြပေသည်။ ထို့ပြင်(အလ္လာဟ်အရှင်မြတ်၏) အမိန့်တော်သည် ဂျင်(န်)သတ္တဝါများအနက်မှလည်းကောင်း၊ လူသားတို့အနက်မှလည်းကောင်း၊ ရှေးလွန်လေပြီးသော အမျိုးသားတို့နှင့်အတူ ၎င်းတို့နှင့် ပတ်သက်၍လည်း အမှန်ဖြစ်ခဲ့ပြီ။ ဧကန်စင်စစ် ၎င်းတို့(အားလုံး)သည်ဆုံးရှုံး ပျက်စီးသူများပင် ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

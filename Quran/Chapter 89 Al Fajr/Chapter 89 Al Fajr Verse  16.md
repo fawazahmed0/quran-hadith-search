@@ -710,6 +710,12 @@ A ako go podlozhi na izpitanie, kato ogranichi prepitanieto mu, kazva: “Moyat 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။ သို့သော်အရှင်မြတ်သည် သူ့အား စည်းစိမ်ဥစ္စာကျပ်တည်းခေါင်းပါးခြင်းဖြင့် စုံစမ်းတော်မူသောအခါ သူက အကျွနု်ပ်၏ အရှင်သခင်သည် အကျွနု်ပ်စက်ဆုတ်တော်မူသည်ဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် မည်သို့ပင်ဖြစ်စေ၊ ထိုအရှင်မြတ်သည် ၎င်းအား (တစ်နည်း) စမ်းသပ်တော်မူပြန်သောအခါ ၎င်း၏အပေါ်၌ ၎င်း၏စားနပ်ရိက္ခာကို ကျပ်တည်းစေတော်မူ၏။ထိုအခါ ၎င်းက ကျွန်ုပ်၏ အရှင်မြတ်သည် ကျွန်ုပ်အား ဂုဏ်အသရေဖျက်တော်မူခဲ့သည်ဟု ပြောဆိုလေ့ရှိပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

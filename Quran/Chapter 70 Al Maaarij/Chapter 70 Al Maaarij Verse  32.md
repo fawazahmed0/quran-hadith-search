@@ -710,6 +710,12 @@ I koito poverenoto na tyakh, i tekhniya obet sŭblyudavat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။ထို့အပြင် ထိုသူတို့သည် မိမိတို့ထံ အပ်နှံထားသော ပစ္စည်းနှင့် မိမိတို့ ပဋိညာဉ်ခံချက်များကို စောင့်ရှောက်ထိန်းသိမ်းကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အကြင်(ဆွလာတ်ဝတ်ပြု)သူတို့သည် မိမိတို့ ယုံကြည်လွှဲအပ်ခြင်း ခံကြရသည်တို့ကိုလည်းကောင်း၊ မိမိတို့၏ ကတိဝန်ခံချက်များကိုလည်း ကောင်း၊ စောင့်စည်း ထိန်းသိမ်းသူများပင် ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

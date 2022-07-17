@@ -710,6 +710,12 @@ Toĭ e, Koĭto priema pokayanieto ot Svoite rabi i oproshtava loshite dela, i 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	အလ္လာဟ်အရှင်မြတ်သည် မိမိ၏ ကျေးကျွန်များ၏ နောင်တသံဝေဂရခြင်းကို လက်ခံတော်မူ၏၊ အပြစ်များကို ခွင့်လွှတ်တော်မူ၏၊ သင်တို့ပြုသမျှအလုံးစုံကို အကြွင်းမဲ့သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ထိုအရှင်မြတ်သည် အကြင်အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။ ထိုအရှင်မြတ်သည် မိမိ ကျွန်များ၏ဝန်ချတောင်းပန်ခြင်းကို လက်ခံတော်မူ၏။ ၎င်းပြင် ထိုအရှင်မြတ်သည် ပြစ်မှုဒုစရိုက်တို့ကို ခွင့်လွှတ်တော်မူ၏။ ထိုမှတစ်ပါးထိုအရှင်မြတ်သည် အသင်တို့ပြုလုပ်သမျှတို့ကို သိတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

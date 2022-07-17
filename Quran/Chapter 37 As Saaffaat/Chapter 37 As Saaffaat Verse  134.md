@@ -710,6 +710,12 @@ Spasikhme nego i semeĭstvoto mu - vsichki
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၄။	ငါသည် ဤတမန်တော်နှင့် သူ၏ အိမ်သူအိမ်သားအားလုံး တစ်ယောက်မကျန်ကယ်နှုတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်အခါဝယ် ငါအရှင်မြတ်သည် ထို "လူတ်"အားလည်းကောင်း၊ ထို"လူတ်"၏ အိမ်သူအိမ်သား အားလုံးတို့ကိုလည်းကောင်း၊ ကယ်တင်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

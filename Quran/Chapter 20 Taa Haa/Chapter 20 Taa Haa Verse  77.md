@@ -710,6 +710,12 @@ I razkrikhme na Musa: “Potegli noshtem s Moite rabi i prosechi za tyakh pŭt, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ရ၇။	အကယ်စင်စစ်ငါသည် တမန်တော်မူစာအား ငါ၏ကျေးကျွန်များကို ယူဆောင်သွားလော့၊ သူတို့အတွက် ပင်လယ် တွင် မြေလမ်းရိုက်ထုတ်လော့၊ သင်တို့သည် လိုက်ဖမ်းမိမည်ကို မကြောက်လင့်၊ ပင်လယ်ကိုလည်း မကြောက် လင့်ဟု ဗျာဒိတ်ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ငါအရှင်မြတ်သည် မူစာ၏ထံသို့(ဤသို့)ဝဟီအမိန့်တော် ထုတ်ပြန်ချမှတ်တော်မူခဲ့၏။ အသင်သည် ငါအရှင်မြတ်၏ကျွန်များကို ညအချိန်၌ခေါ်သွားပါလေ။ထို့နောက် အသင်သည် ၎င်းတို့အဖို့ ပင်လယ်၌ သွေ့ခြောက်သောလမ်းကိုပြုလုပ်ပါလေ။ အသင်သည် (မိမိတို့အား ရန်သူများ) မှီလာကြမည်ကိုလည်း စိုးရိမ်ရမည်မဟုတ်။ (မိမိတို့သည်ပင်လယ်၌ နစ်မြုပ်သွားကြမည်ကိုလည်း) ကြောက်ရမည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

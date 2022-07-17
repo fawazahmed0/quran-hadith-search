@@ -710,6 +710,12 @@ Kazhi [o, Mukhammad]: “Ne molya ot vas otplata za tova i ne sŭm ot onezi, koi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၆။ အို-တမန်တော်မိုဟမ္မဒ်၊ သင်သည် လူသားအပေါင်းတို့အား ဟောကြားလော့၊ ဟယ်-အချင်းတို့၊ ငါသည် သမ္မာတရားတော်ကို ဟောကြားသွန်သင်ဆုံးမရခြင်းကြောင့် သင်တို့ထံမှ အဖိုးအခတောင်းလည်း မတောင်းချေ၊ တမန်တော်ဟန်ဆောင်သောလိမ်လည်သူလည်း မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်)၊ အသင်သည် ပြောကြားပါလေ။ (အချင်းတို့) ငါသည် အသင်တို့ထံ ဤ (ကုရ်အာန်ကျမ်းတော်မြတ်)နှင့်စပ်လျဉ်း၍ မည်သည့်အကျိုးကိုမျှ တောင်းဆိုသည်မဟုတ်ပေ။ ထိုမှတစ်ပါး ငါသည် ဟန်ဆောင်ပြောဆိုသူ(ဤကုရ်အာန်ကျမ်းတော်မြတ်ကို) ကြံဖန် စီကုံးသူတစ်ဦးလည်း မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kogato im se reche: “Nyama drug bog osven Allakh!”, te se vŭzgordyavakha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	အကြောင်းမူကားသူတို့သည် အလ္လာဟ်အရှင်မြတ်မှတပါး အခြားအရှင်သခင်မရှိချေဟု ဟောကြားသောအခါ မယုံကြည်မထီလေးစားပြုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မုချဧကန် ၎င်းတို့မှာ အလ္လာဟ်အရှင်မြတ်မှတစ်ပါး ဆည်းကပ်ကိုးကွယ်ရာဟူ၍ အလျှင်းမရှိဟု ၎င်းတို့အား ပြောဆိုခဲ့သောအခါ ၎င်းတို့သည် မာန်မာန ထောင်လွှားလေ့ရှိခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

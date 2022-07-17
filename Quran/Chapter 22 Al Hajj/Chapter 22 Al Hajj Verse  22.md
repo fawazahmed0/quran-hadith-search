@@ -710,6 +710,12 @@ Vsyakoga, shtom poiskat da izlyazat ottam zaradi stradanieto, shte bŭdat vrŭsh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	သူတို့သည် သူတို့၏ဝေဒနာကြီးများကြောင့် ငရဲမှ ထွက်ပြေးသောအခါတိုင်း သူတို့ကို ငရဲမီးအတွင်းသို့ တဖန်မောင်းထုတ်၍ ဟယ်-သူမိုက်တို့၊ မီးလောင်ကျွမ်းခြင်းဒဏ်ကို မြည်းကြလော့ဟု မိန့်တော်မူလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ဒုက္ခဆင်းရဲမှုကြောင့် ယင်း(ဂျဟန္နမ်ငရဲဘုံ)မှ ထွက်ရန်ကြံရွယ်ကြသည့်အခါတိုင်း၊ ယင်း(ဂျဟန္နမ်ငရဲဘုံ)ထဲသို့ပင် ပြန်လည်ပို့ ခြင်းကို ခံကြရပေမည်။ ထို့ပြင်(ကောင်းကင်တမန်များက ၎င်းတို့အား ယခုသော်) အသင်တို့သည် မီး၏ပြစ်ဒဏ်ကိုပင် မြည်းစမ်းလျက်ရှိကြလေကုန် (ဟုပြောဆိုကြအံ့သတည်း။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

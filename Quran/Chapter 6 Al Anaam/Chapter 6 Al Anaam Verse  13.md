@@ -710,6 +710,12 @@ Negovo e onova, koeto zhivee prez noshtta i prez denya. Toĭ e Vsechuvashtiya, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	ညဉ့်နှင့်နေ့တွင် ရှိရှိသမျှတို့ကို အသျှင်မြတ် အစိုးရတော်မူ၏။ အသျှင်မြတ်သည် သိကြားတော်မူ သော အသျှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ညဉ့်နှင့်နေ့တွင် နေထိုင်သောအရာများသည်လည်း ထိုအရှင်မြတ် ပိုင်ဆိုင်တော်မူသော အရာများချည်းသာတည်း။ ၎င်းအပြင် ထိုအရှင်မြတ်သည်၊ အကြွင်းမဲ့ကြားတော်မူသောအရှင၊် အကြွင်းမဲ့သိတော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

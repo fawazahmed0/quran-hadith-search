@@ -710,6 +710,12 @@ Shte iskat da izlyazat ot Ogŭnya, ala ne shte izlyazat ottam. Za tyakh shte ima
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	သူတို့သည် ငရဲမီးမှထွက်လာလိုကြ၏။ သို့သော် သူတို့သည် ထွက်လာရမည်မဟုတ်ပေ။ သူတို့၏ အပြစ်ဒဏ်သည် ထာဝရဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ဂျဟန္နမ်ငရဲမီးမှ ထွက်လိုကြကုန်အံ့။ သို့ရာတွင်မူကား ၎င်းတို့သည် (မည်သည့်အခါမျှ) ထို (ဂျဟန္နမ်) ငရဲမီးမှ ထွက်ကြရမည့်သူများမဟုတ်ပေ။ အမှန်စင်စစ်သော်ကား ၎င်းတို့အဖို့ အမြဲတည်တံ့သောပြစ်ဒဏ်သည် (အဆင့်သင့်) ရှိနေမည်သာတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

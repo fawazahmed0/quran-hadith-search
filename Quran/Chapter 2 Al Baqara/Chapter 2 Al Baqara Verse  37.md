@@ -710,6 +710,12 @@ I poluchi Adam slova ot svoya Gospod, i Toĭ prie pokayanieto mu. Toĭ e Priem
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	ထို့နောက် အာဒမ်သည် သူ၏ အရှင်သခင်ထံမှ ဗျာဒိတ်တော်များကို ရရှိ၏။ အရှင်မြတ်သည် သူ့အပေါ်တွင် အမျက်ပြေတော်မူ၏။ မှတ်သားကြလော့။ အရှင်မြတ်သည် အမျက်ပြေတော်မူသော အရှင်၊ ကောင်းချီးမင်္ဂလာပေးသနားတော်မူသောအရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ကမ္ဘာဦးဖခင် အာဒမ်(အ)သည် မိမိအား မွေးမြူစောင်မ ကြည့်ရှုတော်မူထသော အရှင့်ထံမှ အချို့သော(ဆုမွန်)များကို သင်ကြားနာယူ၍ (အရှင့်ထံ ဝန်ချတောင်းပန် အသနားခံရာ) အလ္လာဟ်အရှင်မြတ်သည် မိမိကရုဏာတော်ဖြင့် အာဒမ်(အ)ဘက်သို့ လှည့်တော်မူ၍ ချမ်းသာခွင့် ပေးသနားတော်မူလေ၏။ အမှန်စင်စစ် ထိုအရှင်သည်သာလျှင် (ဝန်ချတောင်းပန် အသနားခံသူများအား) အကြိမ်ကြိမ်အဖန်ဖန် ချမ်းသာခွင့် ပေးသနားတော် မူသောအရှင်၊အစဉ်အမြဲ သနားညှာတာ ကြင်နာတော် မူထသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

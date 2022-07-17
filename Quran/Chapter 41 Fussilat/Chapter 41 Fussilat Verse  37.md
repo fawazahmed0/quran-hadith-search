@@ -710,6 +710,12 @@ I ot Negovite znameniya sa noshtta i denyat, i slŭntseto, i lunata. Ne se pokla
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	အလ္လာဟ်အရှင်မြတ်၏ သက်သေသာဓကတော်များအနက် အချို့သောသာဓကတော်များအာ နေနှင့်လ၊ နေ့နှင့် ညများဖြစ်ကြ၏၊ သင်တို့သည် နေကိုသော်လည်းကောင်း၊ လကိုသော်လည်းကောင်း၊ ဦးညွတ်ကိုးကွယ်ခြင်းကို မပြုကြလင့်၊ သို့သော်သင်တို့သည် အရှင်မြတ်အား အမှန်ကို ကိုးကွယ်လိုလျှင် နေလတို့ကို ဖန်ဆင်းတော်မူသော အလ္လာဟ်အရှင်မြတ်အား ဦးညွတ်ဝတ်ပြုကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်သော်ကား ညသည်လည်းကောင်း၊ နေ့သည်လည်းကောင်း၊ နေသည်လည်းကောင်း၊ လ သည်လည်းကောင်း၊ ထိုအရှင်မြတ်၏သက်သေ လက္ခဏာတော်တို့အနက်မှ ဖြစ်ကုန်၏။ (သို့ဖြစ်ပေရာ) အသင်တို့သည် နေကိုလည်း စဂျ်ဒဟ် ပျပ်ဝပ်ဦးချ(ပူဇော်ဆည်းကပ်)ခြင်း မပြုကြကုန်လင့်။ ထိုနည်းတူစွာ အသင်တို့သည် လကိုလည်း ပျပ်ဝပ်ဦးချ (ပူဇော်ဆည်းကပ်)ခြင်း မပြုကြကုန်လင့်။ သို့ရာတွင်ယင်းသက်သေလက္ခဏာတော်(လေးပါး)ကို ဖန်ဆင်းတော်မူသောအလ္လာဟ်အရှင်မြတ် အားသာလျှင် စဂျ်ဒဟ် ပျပ်ဝပ်ဦးချလေကုန်။ အကယ်၍ အသင်တို့သည် အကယ်စင်စစ်ထိုအရှင်မြတ်အားသာလျှင် ဆည်းကပ်ကိုးကွယ်သူများဖြစ်ကြလျှင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

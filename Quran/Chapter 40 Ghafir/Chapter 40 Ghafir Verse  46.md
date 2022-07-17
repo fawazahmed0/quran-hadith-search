@@ -710,6 +710,12 @@ V ogŭnya shte bŭdat slagani i sutrin, i vecher. A v Denya, kogato nastŭpi Cha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။	ငရဲမီးရှေ့သို့ သူတို့ကို နံနက်နှင့်ညနေတွင် ယူခဲ့လတ့ံ၊ တရားစီရင်တော်မူသောနေ့တော်ကြီး၌ ဖွာရောမင်း၏ အသင်းသားများကို အပြင်းထန်ဆုံးသောငရဲမီးပုံကြီးထဲသို့ ပစ်ချလော့ဟု မိန့်တော်မူလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့မှာ နံနက်ယံ၌လည်းကောင်း၊ ညနေချမ်း၌လည်းကောင်း၊ ငရဲမီး၏ရှေ့ဝယ် ထုတ်ဆောင်ပြသခြင်းကို ခံကြရကုန်၏။ ထိုမှတစ်ပါး ကိယာမတ်အချိန် ဆိုက်ရောက်၍လာသောနေ့၌မူကား၊ အသင်တို့သည် "ဖစ်ရ်အောင်န်"၏ ခြွေရံသင်းပင်းတို့အား ပြင်းထန်လှစွာသော ပြစ်ဒဏ်တွင် ဝင်ရောက်စေကြလေကုန်(ဟု အလ္လာဟ်အရှင်မြတ်သည် "မလာအိကဟ်"ကောင်းကင်တမန်တို့အား မိန့်တော်မူအံ့သတည်း။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

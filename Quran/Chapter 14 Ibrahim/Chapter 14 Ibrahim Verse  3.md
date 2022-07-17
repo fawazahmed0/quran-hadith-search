@@ -710,6 +710,12 @@ Koito predpochitat zemniya zhivot pred otvŭdniya i vŭzpirat ot pŭtya na Allak
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	အကြင်သူတို့သည် နောင်တမလွန်ဘဝထက် ဤပစ္စုပ္ပန်ဘဝကို သာလွန်စုံမက်ကြ၏။ လူသားတို့အား အလ္လာဟ် အရှင်မြတ်၏ လမ်းတော်မှ တားဆီးကြ၏။ ထိုလမ်းတော်ကို ကွေ့ကောက်စေလိုကြ၏။ ထိုသူတို့သည် ကြီးစွာ လမ်းမှားရန် သွားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတို့သည် ပစ္စက္ခ မျက်မှောက်လောကီဘဝ၌ အသက်ရှင်ခြင်းကို တမလွန်ဘဝထက် သာပို၍ပင် မြတ်နိုးကြကုန်သည်။ ထိုမှတစ်ပါး ၎င်းတို့သည် (လူတို့အား)အလ္လာဟ်အရှင်မြတ်၏လမ်းတော်မှ တားဆီးကုန်သည်။ ထို့ပြင်၎င်းတို့သည် ယင်း လမ်းတော်၌ ကွေ့ကောက်မှုကို ရှာဖွေလျက်ရှိကြကုန်သည်။ ဤသူတို့ကား (အမှန်နှင့်)အလွန်ဝေးလံသောလမ်းမှား၌ ရှိနေကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

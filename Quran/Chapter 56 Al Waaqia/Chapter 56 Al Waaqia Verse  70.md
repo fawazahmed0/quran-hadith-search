@@ -710,6 +710,12 @@ Ako pozhelaekhme, bikhme ya storili solena, zashto togava ne ste priznatelni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇ဝ။	အကယ်၍ အလိုတော်ရှိလျှင် ငါသည် ထိုရေကို မုချဧကန်ခါးစေတော်မူနိုင်၏၊ သို့ပါလျက် သင်တို့သည် ငါ ၏ ဂုဏ်ကျေးဇူးတော်ကို အဘယ်ကြောင့်မသိကြသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍သာ ငါအရှင်မြတ်သည် အလိုရှိတော်မူပါလျှင် ထိုရေကို ရေငန်ရေခါး ပြုလုပ်တော်မူခဲ့ မည်သာ။သို့ပါလျက် အသင်တို့သည် မည်သည့် အတွက်ကြောင့် ကျေးဇူးမတင်ကြပေသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

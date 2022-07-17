@@ -710,6 +710,12 @@ A koito vyarvat i vŭrshat pravedni dela, shte otmakhnem ot tyakh loshite im pos
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	အကြင်သူတို့သည် ယုံကြည်၍ ကုသိုလ်ကောင်းမှုပြုကျင့်အ့ံ၊ ငါသည် ထိုသူအား သူတို့၏ အကုသိုလ်မကောင်းမှု ကို လျော်ပစ်၍ မြင့်မြတ်သောကောင်းမှု၏ အကျိုးသုခကို ပေးသနားတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတို့သည် "အီမာန်" သက်ဝင်ယုံကြည်ပြီး ကောင်းမြတ်သော အကျင့်သီလများကို ကျင့်မူဆောက်တည်ကြပါမူ၊ မလွဲဧကန် ငါအရှင်မြတ်သည် ၎င်းတို့၏ ပြစ်မှုဒုစရိုက်များကို ၎င်းတို့မှ ပပျောက်စေတော်မူမည်။ ထိုမှတစ်ပါး မုချဧကန် ငါအရှင်မြတ်သည် ၎င်းတို့အား ၎င်းတို့ ကျင့်မူလျက်ရှိခဲ့ကြသည်တို့ထက် ကောင်းမြတ်သော အစားကို ချီးမြှင့်ပေးသနားတော် မူအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

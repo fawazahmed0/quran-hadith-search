@@ -710,6 +710,12 @@ No negoviyat Gospod go prechisti i go stori pravednik
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၀။ သို့သော် သူ၏အရှင်သခင်သည် သူ့ကို ရွေးချယ်တော်မူပြီးလျှင် တရားစောင့်စည်းသောသူမြတ်တို့ဘောင်တွင်သွတ်သွင်းတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တစေလည်း ထိုငါးရှင်အား ၎င်း၏အရှင်မြတ်သည် ရွေးချယ်မြှောက်စားတော်မူပြီးလျှင် သူတော်ကောင်းတို့တွင် ပါဝင်စေတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

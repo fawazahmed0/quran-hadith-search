@@ -710,6 +710,12 @@ I se poklonikha angelite vsichki vkupom
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၃။ ကောင်းကင်တမန်တော်များအနက် တဦးသောတမန်တော်မှတပါး အခြားတမန်တော်များသည် ဦးညွှတ်ချ၍ အရိုအသေပြုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဆိုခဲ့ပြီးအတိုင်း "မလာအိကဟ်" ကောင်းကင်တမန်အပေါင်းတို့သည် အားလုံးပင် "စဂျ်ဒဟ်" ပျပ်ဝပ်ဦးချကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I shte uznaete pri kogo shte doĭde pozoryashto go mŭchenie, i shte go spoleti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	တဖန်ရှုပ်ပွေမွှေနှောက်သောအပြစ်ဒဏ်တော်သည် မည်သူ့ထံသို့ ကျရောက်လာမည်ကို သင်တို့မြင်ကြရလတ့ံ။ ထိုသူ့အပေါ်သို့ ထာဝရအပြစ်ဒဏ်တော်ကျရောက်လိမ့်မည်ဟု ပြန်ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ မည်သူ့ထံ ထိုသူအား (ဤပစ္စက္ခဘဝ၌) အရှက်တကွဲ အကျိုးနည်းဖြစ်စေသောပြစ်ဒဏ်သည်ရောက်လာမည်ကိုလည်းကောင်း၊ ထိုသူအပေါ်(နောင်တမလွန်ဘဝ၌ ထာဝစဉ်တည်မြဲသော ပြစ်ဒဏ်သက်ရောက်မည်ကိုလည်းကောင်း၊ အသင်တို့သည် မကြာမြင့်မီပင် သိရှိကြပေမည်။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ne iskam ot tyakh prepitanie i ne iskam da Me khranyat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၇။	ငါသည် သူတို့ထံမှ စားနပ်ရိက္ခာကို အလိုတော်ရှိတော်မူသည်မဟုတ်၊ သူတို့ကို ငါ့အား အစာအဟာရကျွေးမွေး ရန် ဗျာဒိတ်ပေးတော်မူသည်လည်းမဟုတ်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် ၎င်းတို့ထံမှ စားနပ်ရိက္ခာကိုလည်း အလိုရှိတော်မူသည် မဟုတ်ပေ။ ငါအရှင်မြတ်အား ၎င်းတို့ ကျွေးမွေးကြရန်ကိုလည်း ငါအရှင်မြတ်သည် အလိုရှိတော်မူသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

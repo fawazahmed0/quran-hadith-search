@@ -710,6 +710,12 @@ koito gi zameryakha s kamŭni ot pechena glina
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။ ထိုငှက်များသည် ထိုသူမိုက်တို့၏ ဦးခေါင်းကို လောက်စာလုံးတို့ဖြင့် ပစ်ချ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုငှက်များသည် ၎င်းတို့အား ရွှံ့စေးဖြင့်ပြုလုပ်ထားသော ကျောက်ခဲများဖြင့် ပစ်ခတ်လျက် ရှိခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

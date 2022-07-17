@@ -710,6 +710,12 @@ Nyakoi ot tyakh vyarvat v nego i nyakoi ot tyakh ne vyarvat v nego. A tvoyat Gos
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၀။	သူတို့အနက် ကျမ်းတော်မြတ်ကို ယုံကြည်သူလည်းရှိ၏။ မယုံကြည်သူလည်းရှိ၏။ သင်၏ အရှင်သခင်သည် ဖောက်ပြန်သူတို့ကို အသိဆုံးဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ၎င်း တို့တွင် ယင်း(ကုရ်အာန်ကျမ်းတော်မြတ်)ကို ယုံကြည်မည့်သူများလည်းရှိကြမည်။ ထိုနည်းအတူ ၎င်း တို့တွင် ထို(ကုရ်အာန်ကျမ်းတော်မြတ်)ကို မယုံကြည်မည့်သူများလည်း ရှိကြမည်။ စင်စစ်တမူကား အသင့်အားဖန်ဆင်းမွေးမြူတော်မူ သောအရှင်မြတ်သည် ပျက်စီးရာပျက်စီးကြောင်း ပြုလုပ် သော သူတို့အား အသိဆုံးသောအရှင်မြတ်ပင်ဖြစ်တော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I Ilĭas be ot pratenitsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၃။	တဖန်မှတ်သားကြလော့၊ အီလ်ယားစ်လည်း မုချဧကန်တမန်တော်တို့ဘောင်တွင် အပါအဝင်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ဧကန်စင်စစ် "အီလ်ယာစ်" သည်"ရစူလ်" တမန်တော်တို့တွင် အမှန်ပင် တစ်ဦးအပါအဝင် ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

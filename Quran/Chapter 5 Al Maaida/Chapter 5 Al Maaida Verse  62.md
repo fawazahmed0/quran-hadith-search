@@ -710,6 +710,12 @@ I vizhdash mnozina ot tyakh da se nadprevarvat v grekha, bezchinstvoto i poglŭs
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	သူတို့သည်အပြစ်၌သော်လည်းကောင်း၊ ပြစ်မှုကျုးလွန်ခြင်း၌သော်လည်းကောင်း၊ မတရားအမြတ် ထုတ်ခြင်း၌သော်လည်းကောင်း၊ အချင်းချင်း တစ်ယောက်ထက်တစ်ယောက်သာအောင် ပြိုင်ဆိုင် အားထုတ်နေသည်ကို သင်မြင်ရ၏။ အမှန်မှာ ဒုစရိုက်မကောင်းမှုသည် သူတို့၏ လက်ရာခြေရာ ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်တဝ အသင်သည် ထို (ယဟူဒီ) တို့အနက် မြောက်မြားစွာသောသူတို့ကို ပြစ်မှုဒုစရိုက် ပြုခြင်း၌လည်းကောင်း၊ မတော်မတရား ကျူးကျော်စော်ကားခြင်း၌လည်းကောင်း၊ မတရားသဖြင့် ရရှိသောပစ္စည်းကို စားသုံးခြင်း၌လည်းကောင်း သူ့ထက်ငါသာအောင် ပြေးလွှား (သက်ဆင်း) ကြသည်ကို တွေ့မြင်လတ္တံ့။ စင်စစ်ဧကန် ၎င်းတို့၏အပြုအမူတို့သည် ယုတ်ညံ့သိမ်ဖျင်းလှပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

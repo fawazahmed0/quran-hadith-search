@@ -710,6 +710,12 @@ Ne vizhdash li sblizhilite se s narod, komuto Allakh se e razgnevil? Te ne sa ni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	အို-တမန်တော်၊ အလ္လာဟ်အရှင်မြတ်၊ အမျက်ရှတော်မူသောသူတို့နှင့် ပေါင်းသင်းဆက်ဆံနေသူတို့ကို သင် မမြင်သလော၊ ထိုသူတို့သည် သင်တို့အထဲကသော်လည်းကောင်း၊ အမျက်တော်ရှခြင်းခံရသူတို့အထဲကသော် လည်းကောင်း၊ မဟုတ်ချေ၊ ဤလျှာနှစ်ခွသမားတို့သည် သိလျက်နှင့်မဟုတ်မလျားမုသားကို ကျိန်ဆိုပြောဆို သူများသာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်၊)အသင်သည် အကြင်အမျိုးသားတှို့အား အဆွေခင်ပွန်း ပြုလုပ်ခဲ့ကြသောသူတို့(၏အခြေအနေကို) သုံးသပ်ဆင်ခြင် တွေ့မြင်ခဲ့လေပြီ မဟုတ်လော။ ထိုအမျိုးသားတို့ အပေါ်ဝယ် အလ္လာဟ်အရှင်မြတ်သည် အမျက်ထွက်တော်မူခဲ့၏။ ထိုအမျိုးသားတို့ကား အသင်တို့အနက်မှလည်း မဟုတ်ကြပေ။ ၎င်းတို့အနက်မှလည်း မဟုတ်ကြချေ၊ ထိုအမျိုးသားတို့မှာ သိလျက်နှင့်ပင် မုသားနှင့်စပ်လျဉ်း၍ ကျိန်တွယ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

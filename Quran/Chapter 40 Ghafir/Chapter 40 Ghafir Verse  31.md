@@ -710,6 +710,12 @@ kato obichaya spryamo naroda na Nukh i aditite, i samudyanite, i onezi sled tyak
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	အို-အချင်းတို့၊ တမန်တော်(နူဟို)၏ အသင်းသားကဲ့သို့လည်းကောင်း၊ (အားဒ်)တို့ကဲ့သို့လည်းကောင်း၊ (သမုဒ်)တို့ ကဲ့သို့လည်းကောင်း၊ သင်တို့အတိဒုက္ခရောက်ကြရမည့်အရေးကို ချင့်တွေး၍ ငါစိုးရိမ်၏၊ အလ္လာဟ်အရှင်မြတ်၌ မိမိကျေးတော်မျိုးကျွန်တော်မျိုးတို့အား မတရားစီရင်လိုတော်မူသောဆန္ဒတော် အလျဉ်းမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (နဗီတမန်တော်)"နူးဟ်"၏ အမျိုးသားတို့၏ အခြေအနေကဲ့သို့လည်းကောင်း၊ "အာဒ်" အမျိုးသားတို့၏ အခြေအနေကဲ့သို့လည်းကောင်း၊ "ဆမူဒ်"အမျိုးသားတို့၏ အခြေအနေကဲ့သို့လည်းကောင်း၊ ထိုသို့သော အမျိုးသားတို့၏ နောက်ရှိခဲ့ဘူးကြသောသူတို့၏ အခြေအနေကဲ့သို့လည်းကောင်း၊ စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် (မိမိ) ကျွန်တို့ အပေါ်ဝယ် မည်သို့မျှမတရား ပြုလုပ်တော်မူသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

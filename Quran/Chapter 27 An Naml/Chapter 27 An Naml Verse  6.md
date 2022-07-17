@@ -710,6 +710,12 @@ Naistina Koranŭt ti se dava [o, Mukhammad] ot premŭdŭr, vseznaesht
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	မှတ်သားလော့၊ အို--မိုဟမ္မဒ်၊ သင်သည် ပညာဉာာဏ်ရှိတော်မူသောအရှင်၊ သိတော်မူသောအရှင်၊ အရှင့် အထံတော်မှ ကုရ်အာန်ကျမ်းတော်ကို အမှန်အကန်ရရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ဧကန်စင်စစ် အသင်သည် ကုရ်အာန်ကျမ်းတော်မြတ်ကို အလွန်တရာ ဆင်ခြင်တုံတရားနှင့် ပြည့်စုံတော်မူသော၊ အလွန်တရာ အသိပညာနှင့်ပြည့်စုံ တော်မူသောအရှင်မြတ်ထံတော်မှ ရရှိနေပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

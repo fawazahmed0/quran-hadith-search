@@ -710,6 +710,12 @@ I zapochnakha vzaimno da se ukoryavat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၀။ ထို့နောက်သူတို့သည် မိမိကိုယ်ကို မိမိအပြစ်တင်လျက် အချင်းချင်းချဉ်းကပ်ကြကုန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ၎င်းတို့သည် မိမိတို့အချင်းချင်း တစ်ဦးကတစ်ဦးအား ပြစ်တင်ကဲ့ရဲ့ ရှုတ်ချလျက် တစ်ဦးဘက်သို့တစ်ဦး လှည့်ခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

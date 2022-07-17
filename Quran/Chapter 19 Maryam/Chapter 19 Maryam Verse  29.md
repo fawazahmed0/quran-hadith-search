@@ -710,6 +710,12 @@ I posochi tya kŭm nego. Rekokha: “Kak shte besedvame s dete v lyulka?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	ထိုအခါသူမသည် မိမိသားကို လက်ညှိုးထိုးပြ၏။ သူတို့က ပုခက်ထဲရှိ ကလေးနှင့် အကျွနု်ပ်တို့အဘယ်သို့ စကားပြောနိုင်အ့ံနည်းဟု ဆိုကြကုန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ထိုမရ်ယမ်သည် ထိုသားရတနာကို ညွှန်ပြခဲ့လေရာ၊ ယင်းအမျိုးသားတို့က (အို-မရ်ယမ်) အကျွန်ုပ်တို့သည် ပုခက်တွင်းဝယ် ကလေး(ဘဝ၌)ပင်ရှိနေသေးသောသူငယ်နှင့်အသို့လျှင် စကားပြောဆိုကြ ရအံ့နည်းဟု ပြောဆိုခဲ့ကြလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

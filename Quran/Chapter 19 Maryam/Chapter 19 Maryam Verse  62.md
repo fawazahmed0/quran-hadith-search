@@ -710,6 +710,12 @@ Ne slushat tam praznosloviya, a samo “Mir!”, i imat tam prepitanie i sutrin,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	ထိုသူတော်ကောင်းတို့သည် နိဗ္ဗာန်၌ စကားဖျင်းစကားသိမ်ကို မကြားရချေ။ ငြိမ်သက်ပါစေသောဝ်ဟူသော မေတ္တာစကားကိုသာ ကြားရ၏။ သူတို့သည် နိဗ္ဗာန်၌ နံနက်စာညစာကို လွယ်လင့်တကူစားသုံးရကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ယင်းဂျန္နတ်သုခဘုံ၌ စလာမ်မေတ္တာပို့သခြင်းမှတစ်ပါး အချည်းနှီးသောစကားလုံးကို လုံးဝကြားကြရလိမ့်မည်မဟုတ်ပေ။ ထိုမှတစ်ပါး ၎င်းတို့အဖို့ ယင်းဂျန္နတ်သုခဘုံ၌ ၎င်းတို့၏စားသောက် ဖွယ်ရာများသည် နံနက်ယံ၌လည်းကောင်း၊ ညနေချမ်း ၌လည်းကောင်း၊ ရှိချေအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

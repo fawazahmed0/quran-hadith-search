@@ -710,6 +710,12 @@ Allakh stori za vas ot zemyata postelya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။ ထို့အပြင်အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အဖို့အရာ မဟာပထဝီမြေကြီးကို ကျယ်စွာခင်းကျင်းထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့အကျိုးငှာ ပထဝီမြေကို အခင်းအကျင်း ပြုလုပ်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

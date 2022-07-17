@@ -710,6 +710,12 @@ Nima ne vizhdash, che Allakh izsipva voda ot nebeto! Chrez neya vadim plodove s 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	အို-တမန်တော်၊ အလ္လာဟ်အရှင်မြတ်သည် အထက်မိုးကောင်းကင်မှ မိုးရေကို ရွာသွန်းစေတော်မူသည်ကို သင်မြင်သည်မဟုတ်လော၊ ထိုမိုးရေ၏ အစွမ်းဖြင့် အရောင်အမျိုးမျိုးကွဲလွဲသောအသီးအဥများကို ဖန်ဆင်းတော် မူ၏၊ တောင်များ၌လည်း လမ်းများကို အချို့ကား အဖြူ၊ အချို့ကား အနီ၊ အချို့ကား လွန်စွာမည်းနက်ခြင်း စသည်တို့ဖြင့် အရောင်အဆင်းအမျိုးမျိုးကွဲလွဲထူးခြားအောင် ငါအရှင်မြတ်ဖန်ဆင်းတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်သည် မမြင်ခဲ့လေသလော။ ဧကန်မလွဲငါအရှင်မြတ်သည် မိုးကောင်းကင်မှ ရေကို ချပေးတော်မူခဲ့၏။ထို့နောက် ငါအရှင်မြတ်သည် ထိုရေဖြင့် အရောင်အသွေးအမျိုးမျိုး ကွဲပြားခြားနားသော သစ်သီးဝလံများကို ထွက်(ဖူး၊ပွင့်၊ သီး) စေတော်မူခဲ့၏။ ထိုနည်းတူစွာ တောင်များ၌လည်းတောင် ကြား လမ်းများရှိကြပေရာ အချို့မှာအဖြူများဖြစ်၍အချို့မှာ အနီများဖြစ်ကြသည့်ပြင်၊ ၎င်းတို့၏ အရောင်များမှာအထူးထူး အပြားပြားဖြစ်ကြ၏။ အချို့ မှာလည်း အလွန်မည်းနက်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

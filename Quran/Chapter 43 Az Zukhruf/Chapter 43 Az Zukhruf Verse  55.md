@@ -710,6 +710,12 @@ I kogato Ni razgnevikha, im otmŭstikhme i gi izdavikhme vsichkite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။	သူတို့သည် ငါအမျက်ထွက်တော်မူအောင် ပြုလုပ်သောအခါ သူတို့အားလုံးကို တစ်ယောက်မကျန် ပင်လယ်တွင် နစ်မြုပ်သေစေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ၎င်းတို့သည် ငါအရှင်မြတ်အား အမျက်ထွက်စေခဲ့ကြသောအခါ ငါအရှင်မြတ်သည် ၎င်းတို့အား လက်စားချေတော်မူခဲ့၏။ သို့ဖြစ်ပေရာ ငါအရှင်မြတ်သည် ၎င်းတို့အားလုံးကိုပင် နစ်မြုပ်စေတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

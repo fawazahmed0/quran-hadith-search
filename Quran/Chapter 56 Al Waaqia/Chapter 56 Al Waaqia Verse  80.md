@@ -710,6 +710,12 @@ Nizposlanie ot Gospoda na svetovete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈ဝ။	ထိုကျမ်းတော်ကို အနန္တစကြာဝဠာ၏ အရှင်သခင်ထုတ်ပြန်ပို့ချပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စကြာဝဠာခပ်သိမ်းတို့ကို ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်မှ ချမှတ်ပေးတော်မူခြင်း ခံရလေသော၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

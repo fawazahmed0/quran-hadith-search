@@ -710,6 +710,12 @@ Chasŭt nepremenno shte doĭde. Nyama sŭmnenie v nego. Ala povecheto khora ne 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၉။	မှတ်သားကြလော့၊ အချိန်တော်ကြီးသည် မုချဧကန်ဆိုက်ရောက်လာမည်၊ ယုံမှားစရာလုံးဝမရှိချေ၊ သို့သော်လည်း များစွာသောလူသားတို့သည် မယုံကြည်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ "ကိယာမတ်"ရှင်ပြထမည့်(အချိန်ကာ၏လ)သည် မုချ ဆိုက်ရောက်လာတော့မည်သာ။ ယင်း"ကိယာမတ်"နှင့်စပ်လျဉ်း၍ ဒွိဟသံသယ အလျှင်းမရှိ။ သို့ရာတွင် မြောက်မြားစွာသော သူတို့ကား သက်ဝင်ယုံကြည်ကြသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

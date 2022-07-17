@@ -710,6 +710,12 @@ Kazhi: “Pozovete onezi, koito priemate vmesto Nego, no te nito mogat da premak
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၆။	တမန်တော်ဟောကြားလော့။ ဟယ်-အချင်းတို့၊ သင်တို့သည် အလ္လာဟ်အရှင်မြတ်မှတပါး ကိုးကွယ်သောဘုရား တုများထံ၌ ဆုတောင်းကြလော့။ သို့သော်သူတို့၌ သင်တို့၏ ဘေးဥပါဒ်များကို ဖယ်ရှားခြင်းသော်လည်းကောင်း၊ ပြောင်းလဲခြင်းသော်လည်းကောင်း ပြုနိုင်စွမ်းသည့်တန်ခိုးအာဏာမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည်(၎င်းတို့အားဤသို့)ပြောကြားပါလေ။ အသင်တို့သည် ထိုအရှင်မြတ်အားစွန့်၍ (ကိုးကွယ်ရာများအဖြစ်)ထင်မှတ်(ကိုးကွယ်) ခဲ့သူတို့အားဟစ်ခေါ်တမ်းတကြလေကုန်။ သို့(အသင် တို့ထင်မှတ်ကိုးကွယ်ကြ)ပါလည်း၊ ၎င်းတို့သည် အသင်တို့အပေါ်မှ ဘေးဒုက္ခကိုပပျောက်စေနိုင်ကြသည်လည်း မဟုတ်ချေ။ (ယင်းဘေးဒုက္ခကို)လွှဲပြောင်းနိုင်ကြ သည်လည်း မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A tezi, koito sa poluchili naĭ-dobroto obeshtanie ot Nas, te ottam shte bŭdat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၁။	မှတ်သားကြလော့၊ အကြင်သူတို့ထံသို့ ရှေးအချိန်ကာလက ငါ့ထံမှ ကောင်းကြီးမင်္ဂလာတော်ခံစားကြရအ့ံ၊ ထိုသူတို့မူကား ဤငရဲမီးမှ ကောင်းစွာဝေးကြရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ အကြင်သူတို့သည် ငါအရှင်မြတ်အထံတော်မှ မူလကပင် ထိုသူတို့အဖို့ ကောင်းကျိုးပြဌာန်းပြီးဖြစ်၏။ ထိုသူတို့သည် ယင်းဂျဟန္နမ်ငရဲဘုံမှ ဝေးစေခြင်းကိုခံကြရမည့်သူများပင် ဖြစ်ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

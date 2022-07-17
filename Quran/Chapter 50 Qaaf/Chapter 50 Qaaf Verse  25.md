@@ -710,6 +710,12 @@ vŭzpirasht dobroto, prestŭpvasht, sŭmnyavasht se
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	ဤသူယုတ်မာသည် ကောင်းမှုကို တားမြစ်ကန့်ကွက်၏၊ မကောင်းမှုကို ကျူးလွန်၏၊ တရားမှန်ကို ယုံမှားသံသယ ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကောင်းမှု(ပြုခြင်း)မှ တားမြစ်သော စည်းကမ်းကျူးလွန်သော၊ ဒွိဟသံသယဖြစ်သော၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

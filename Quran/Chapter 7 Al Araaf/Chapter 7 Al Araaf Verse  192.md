@@ -710,6 +710,12 @@ I ne mogat da im pomognat, nito na sebe si pomagat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉၂။	ထိုဘုရားဆင်းတုများသည် သူတို့ကိုလည်း မကူညီနိုင်။ မိမိကိုယ်များကိုလည်း မ,မစနိုင်ကြပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ယင်းတို့သည် ထိုသူတို့အား မည်သည့်အကူအညီမျှ မပေးနိုင်ကြသည်သာမက မိမိတို့ ကိုယ်တိုင်လည်း(လုံးဝ) ကူညီရိုင်းပင်း နိုင်ကြသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

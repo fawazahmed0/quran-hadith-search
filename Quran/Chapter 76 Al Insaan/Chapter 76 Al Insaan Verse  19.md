@@ -710,6 +710,12 @@ i shte gi obikalyat vechnomladi yunoshi - kogato gi vidish, shte gi pomislish za
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။ ထို့အပြင်သူတို့အပါးတွင် ကံေြွကးလုလင်ပျိုတို့သည် အစဉ်ထာဝရနုနယ်ပျိုမျစ်သူများဖြစ်၏၊ သင်တို့သည် သူတို့ကို မြင်လျှင် သူတို့အား ကြဲဖြန့်ထားသောပုလဲဥဟု ထင်ကြလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့ထံတွင် အသက်သေဆုံးခြင်းမရှိဘဲ အမြဲထာဝစဉ် နုငယ်လျက် ရှိကြရမည်ဖြစ်သော သူငယ်တို့သည် လှည့်ပတ်သွားလာ (ပြုစု) လျက်ရှိကြပေမည်။ အသင်သည် ၎င်းတို့အား တွေ့မြင်သောအခါ ၎င်းတို့မှာ ကြဲဖြန့်ထားသော ပုလဲများ ဖြစ်သည်ဟူ၍ပင် ထင်မှတ်ပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

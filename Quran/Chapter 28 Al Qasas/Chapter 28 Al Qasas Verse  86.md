@@ -710,6 +710,12 @@ I ne si se nadyaval, che na teb shte bŭde poverena Knigata, no tova e milost ot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၆။	တမန်တော် သင်သည် မိမိနှလုံးအိမ်၌ ကျမ်းမြတ်ကုရ်အာန်ကို ထင်ရှားစေတော်မူပါမည်ဟု မျှော်လင့်ခြင်းမရှိခဲ့ချေ၊ သို့သော်ကျမ်းတော်သည် သင်၏ အရှင်သခင်ထံမှ ကောင်းကြီးမင်္ဂလာတော်တစ်ပါးဖြစ်၏၊ ထို့ကြောင့်သင်သည် မည်သည့်အခါမှ မယုံကြည်သူတို့ကို ကူညီစောင်မသူမဖြစ်လင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် အသင်သည် မိမိထံသို့(ဤကုရ်အာန်)ကျမ်းမြတ် ချပေးသနားတော်မူခြင်းခံရမည်ဟု မျှော်လင့်၍ နေခဲ့သည်ပင် မဟုတ်ပေ။ သို့ရာတွင် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ ကရုဏာတော်ဖြင့် (ကျရောက်လာခဲ့လေပြီ)။ သို့ဖြစ်ပေရာ အသင်သည်(ဤ)’ကာဖိရ်’သွေဖည်ငြင်းပယ်ကြသော သူတို့အား ကူညီထောက်ခံသူ အလျှင်း မဖြစ်ပါလေနှင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ zashtoto Toĭ shte im izplati napŭlno tekhnite nagradi i shte im nadbavi ot Sv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	ထိုသို့သူတို့ပြုအပ်သောကောင်းမှုများ၏ အဖိုးအခကို အလ္လာဟ်အရှင်မြတ်သည် အပြည့်အစုံပေးသနားတော် မူသည်သာမက အရှင်မြတ်၏ အနန္တကောင်းကြီးမင်္ဂလာတော်မှ ထိုထက်များပြားသောအကျိုးကို ပေးသနား တော်မူလတ့ံ၊ မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် အပြစ်လွှတ်တော်မူ၏၊ ကောင်းကျိုးကို ဆပ်တော် မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 နောက်ဆုံးတွင် ထိုအရှင်မြတ်သည် ၎င်းတို့အား၎င်းတို့၏အကျိုးများ ပြည့်စုံစွာ ချီးမြှင့်ပေး သနားတော်မူသည့်အပြင် မိမိကျေးဇူးတော်နှင့် ၎င်းတို့ အား ပိုမို၍ပင် ချီးမြှင့်တော်မူပေမည်။ စင်စစ်ဧကန် ထိုအရှင်မြတ်သည် အလွန်တရာခွင့်လွှတ် ချမ်းသာပေးတော်မူသော၊ အလွန်တရာရက်ရောစွာကျေးဇူးတုံ့ပြန်တော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

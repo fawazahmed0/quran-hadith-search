@@ -710,6 +710,12 @@ Te sa onezi, na koito darikhme Pisanieto i mŭdrostta, i prorochestvoto. I shtom
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၉။	ထိုသူတို့သည် ငါအသျှင်မြတ်က ရှေးကျမ်းတော်များ သြဇာအာဏာနှင့် တမန်တော်အဖြစ်တို့ဖြင့် ချီးမြှောက်ခြင်းခံရသူများဖြစ်ကြ၏။ သို့သော် ဤသူတို့သည် ထိုကျေးဇူးတော်ကို မယုံကြည် မလေးစား ကြလျှင် ငါသည် ထိုကျေးဇူးတော်ကို မယုံကြည်သူမဟုတ်မည့် လူမျိုးတစ်မျိုးအား ထိုဂုဏ်ကျေးဇူး တော်ကို အမှန်ပင် ပေးအပ်တော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အထက်တွင်ဖော်ပြပါ) ဤ(တမန်တော်)များသည် အကြင်သူများပင်တည်း။ ငါအရှင်မြတ်သည် ၎င်းတို့အား ကျမ်းဂန်ဓမ္မကိုလည်းကောင်း၊ ဉာဏ်ပညာရပ်တို့ကိုလည်းကောင်း၊ နဗီတမန်တော်အဖြစ်ကုလည်းကောင်း၊ ခြီးမြှင့်ပေးသနားတော်မူခဲ့၏။ သို့ဖြစ်ပေရာ အကယ်၍ ဤသူများသည်ဤသည်တို့ကို ငြင်းပယ်ကြပါမူ မုချစင်စစ် ငါအရှင်မြတ်သည်ဤသည်တို့ကို အကြင်သူတို့အား လွှဲအပ်တော်မူအံ့။ ထိုသူတို့သည် ဤသည်တို့ကို မည် သည့်အခါမျှ ငြင်းပယ်ကြမည့်သူများမဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

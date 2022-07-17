@@ -710,6 +710,12 @@ Taka e, zashtoto Allakh nizposla Pisanieto s istinata. A koito sporyat otnosno P
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇၆။	ယင်းသို့ အပြစ်ဒဏ်ရခြင်းကား အလ္လာဟ်အရှင်မြတ်သည် ကမ်းတော်ကို အမှန်ပင် ချပေးတော် မူသောကြောင့်တည်း မှတ်သားကြလော့။ အကြင်သူတို့သည် ထိုကျမ်းတော်၌ အငြင်းအခုံဖြစ်မှုကို ရှာကြ၏။ ထိုသူတို့သည် ဘွင်းဘွင်းလိုက်ခွဲသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤကဲ့သို့ (အပြစ်ဒဏ်များ ခံစားကြရမည့်) အကြောင်းမှာကား၊ အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် မှန်ကန်သော ဒေသနာများနှင့်တကွ ကျမ်းတော်မြတ်ကို ချပေး သနားတော်မူခဲ့သော်လည်း (ယင်း) ကျမ်းတော်မြတ်နှင့် စပ်လျဉ်း၍ သဘောကွဲလွဲ ကြသူတို့သည် မှန်သောတရားတော်မှ (အလွန်တရာမျှ) ဝေးကွာလှသော ကွဲပြားမှု၌ ဧကန်အမှန် ရောက်ရှိ ကြလေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I ne shte vi e ot polza Dnes sŭuchastieto v mŭchenieto, shtom byakhte ugnetite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	သင်တို့သည် ဒုစရိုက်မကောင်းမှုကို ကျူးလွန်ခဲ့သောကြောင့် ဤနေ့တော်ကြီး၌ သင်တို့သည် အပြစ်ဒဏ်ကို ဝေယူကြရ၏၊ သင်တို့ကို ကောင်းကျိုးမပေးချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်တို့ကိုယ်တိုင် မတရားကျူးလွန်ခဲ့ကြသောကြောင့် ယင်း(ယူကျုံးမရဖြစ်ခြင်း) သည် ယနေ့ အသင်တို့အဖို့ အလျှင်းအကျိုးပေးမည် မဟုတ်ပေ။ဧကန်မလွဲ အသင်တို့သည် (ထိုအဖော်များ ဖြစ်ကြသော"ရှိုင်တွာန်" မိစ္ဆာကောင်တို့နှင့်အတူ) ပြစ်ဒဏ်၌ ဖက်စပ်ပါဝင်သူများပင် ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

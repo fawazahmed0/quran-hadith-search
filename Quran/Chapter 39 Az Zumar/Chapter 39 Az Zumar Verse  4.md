@@ -710,6 +710,12 @@ Ako Allakh iskashe da se sdobie sŭs sin, Toĭ shteshe da izbere ot Svoite tvor
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	အကယ်၍ အလ္လာဟ်အရှင်မြတ်သည် သားရတနာရွေးကောက်တော်မူလိုပါလျှင် မိမိဖန်ဆင်းတော်မူသော လူသား များထဲမှ ယူနိုင်တော်မူ၏၊ အလ္လာဟ်အရှင်မြတ်သည် ကုံလုံမွန်မြတ် အ့ံချီးမဆုံးဖြစ်တော်မူ၏၊ အရှင်မြတ်သည် အလ္လာဟ်ဖြစ်တော်မူ၏၊ တဆူတည်းအထီးထီ တည်တော်မူ၏၊ ဇာတိပကတိအားဖြင့် ကုံလုံပြည့်စေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍သာ အလ္လာဟ်အရှင်မြတ်သည် သားတော်တစ်ပါးပါး ရွေးချယ်ပြုလုပ်တော်မူရန် ရည်စူးတော်မူခဲ့ပါလျှင်၊ အမှန်ပင် ထိုအရှင်မြတ်သည် မိမိဖန်ဆင်းတော်မူခဲ့သော အဖန်ဆင်းခံတို့အနက်မှ မိမိအလိုရှိတော်မူသောသူအား ရွေးချယ်တော်မူခဲ့မည်သာ။ ထိုအရှင်မြတ်သည် (သားသမီးအလိုရှိခြင်းမှ)သန့်ရှင်းစင်ကြယ်တော်မူ၏။ ထိုအရှင်မြတ်သည်သာလျှင် တစ်ဆူတည်းသော၊ လွန်စွာ နိုင်နင်းလွှမ်းမိုးတော်မူသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

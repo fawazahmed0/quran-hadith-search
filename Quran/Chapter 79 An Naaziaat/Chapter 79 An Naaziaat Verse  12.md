@@ -710,6 +710,12 @@ Shte kazhat: “Tova togava e zavrŭshtane sŭs zaguba.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။ သူတို့ဆက်လက်ပြောသည်၊ ယင်းကဲ့သို့ပြန်ရှင်ရခြင်းသည် အကျိုးမရှိသောအမှုဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်လျှင် ယင်း(ရှင်ပြန်ထခြင်း)သည် (ကျွန်ုပ်တို့အဖို့) ဆုံးရှုံးသော ရှင်ပြန်ထခြင်းပင် ဖြစ်ချေမည်ဟု ပြောဆိုကြလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

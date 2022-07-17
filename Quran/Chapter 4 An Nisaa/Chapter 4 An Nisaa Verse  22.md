@@ -710,6 +710,12 @@ I ne vstŭpvaĭte v brak s zhenite, za koito sa se zhenili bashtite vi, osven k
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	အတိတ်တွင်ဖြစ်ပြီးသည်မှတစ်ပါး သင်တို့သည် မိမိတို့အဘများ၏ မယားများကို မယူကြလင့်။ မှတ်သားကြလော့။ ဤအပြုအမူသည် ကာမခိုးမှုဖြစ်၏။ စက်ဆုပ်ရွံ့ရှာဖွယ်ဖြစ်၏။ ဒုစရိုက် မကောင်းမှုလည်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်တို့သည် မိမိတို့၏ဖခင်များ ထိမ်းမြားခဲ့ကြကုန်သော မိန်းမတို့နှင့် ထိမ်းမြားခြင်းကို မပြုကြကုန်လင့်။ သို့ရာတွင် (ဤအမိန့်တော်မကျရောက်မီ) လွန်ခဲ့သောအမှုများကား (လွန်ခဲ့လေပြီ။) အကြောင်းသော်ကား ယင်းအမှုကိစ္စသည် ဧကန်စင်စစ် ယုတ်မာမှုတရပ်ဖြစ်သည့်ပြင် စက်ဆုပ်ရွံရှာဖွယ်လည်းဖြစ်၏။ ဤမျှမက ယင်းကိစ္စသည် အလွန်ဆိုးရွားလှသော နည်းလမ်းတစ်ခုလည်း ဖြစ်ပေသေး၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

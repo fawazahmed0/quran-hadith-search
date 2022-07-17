@@ -710,6 +710,12 @@ EDH/HEB ‘ILA FIR’AWNE ‘INNEHU TEGA
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၊၁၇။ သူ့အား သူ၏ အရှင်သခင်သည် မြင့်မြတ်စင်ကြယ်သော(ထိုဝါ)တောင်ကြား၌ ခေါ်တော်မူပြီးလျှင် မိန့်တော် မူသည်မှာ အို-မူစာ၊ သင်သည် ဖွာရောမင်းထံသို့ သွားလော့၊ သူသည် တော်လှန်ခဲ့ပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်သည် ဖစ်ရ်အောင်န်၏ထံသို့ သွားပါလေ။ ဧကန်မလွဲ ထိုဖစ်ရ်အောင်န်သည် လွန်စွာ ရက်စက်ကြမ်းကြုတ်လျက် ရှိနေလေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

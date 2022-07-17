@@ -710,6 +710,12 @@ Koito vyarvat i vŭrshat pravedni dela, tekhni sa Gradinite na obitelta - gostop
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	သို့သော်အကြင်သူတို့သည် သမ္မာတရားတော်ကို ယုံကြည်လျက် သုစရိုက်ကောင်းမှုများကို ပွားများကြအ့ံ၊ ထိုသူတို့နေထိုင်ခံစားဖို့ရာ သာယာကြည်နူးဖွယ်ရာဥယျာဉ်ဗိမာန်တော်ကြီးအသင့်ရှိ၏၊ သူတို့သည် ဆည်းပူး ခဲ့သောကုသိုလ်ကောင်းမှု၏ အကျိုးဆက်ပေတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သို့ပင်ဖြစ်စေ၊ အီမာန် သက်ဝင်ယုံကြည်မှုထားရှိ၍ ကောင်းမြတ်သော အကျင့်သီလများကိုကျင့်မူဆောက်တည်ခဲ့ကြကုန်သော သူတို့အဖို့ ၎င်းတို့ကျင့်မူလျက်ရှိခဲ့ကြသည့် (ကောင်းမြတ်သော) အကျင့်အမူများကြောင့် ဧည့်ခံသောအားဖြင့် ခိုလှုံနေထိုင်ရာဥယျာဉ်များ ရှိကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

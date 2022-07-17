@@ -710,6 +710,12 @@ Kakvo vi e, taka da ot·sŭzhdate
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။ နင်တို့ဘာဖြစ်ကြသနည်း၊ နင်တို့အဘယ်မျှမိုက်မဲစွာဆုံးဖြတ်ကြသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့၌ မည်သို့သော အကြောင်းရှိသနည်း၊ အသင်တို့သည် မည်သို့ စီရင်ဆုံးဖြတ်ကြသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

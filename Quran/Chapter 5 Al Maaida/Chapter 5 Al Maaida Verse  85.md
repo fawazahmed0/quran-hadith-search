@@ -710,6 +710,12 @@ I gi vŭznagradi Allakh za tekhnite dumi s Gradinite, sred koito reki tekat, tam
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၅။	အလ္လာဟ်အသျှင်မြတ်သည် သူတို့အား ၎င်းတို့၏ ရင့်ကျူးခြင်းကြောင့် ဆုတော်နှင့် ချီးမြှင့်တော်မူပြီ။ အောက်တွင် မြစ်အသွယ်သွယ်စီးဆင်းလျှက်ရှိသော ဥယျာဉ်တော်များ၊ ထိုဥယျာဉ်တော်များအတွင်း ၌ ထိုသူတို့သည် အမြဲထာဝစဉ် စံမြန်းနေထိုင်ရကြလိမ့်မည်။ ဤဆုတော်သည် သူတော်ကောင်းတို့၏ အောင်ဆုမင်္ဂလာတော်ကြီးဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အလ္လာဟ်အရှင်မြတ်သည် ထိုသူတို့အား ထိုသူတို့၏ (ထိုသို့ဝန်ခံ) ပြောဆိုခဲ့ကြသည့်အတွက်ကြောင့် အကြင်ဥယျာဉ်များကို အစားပေးတော်မူအံ့။ ထိုဥယျာဉ်များ၏အောက်၌ စမ်းရေချောင်းများသည် စီးဆင်းလျက်ရှိမည်။ ၎င်းတို့သည် ထိုဥယျာဉ်များ၌ ထာဝစဉ်နေထိုင်ကြမည်။ ဤသည်ကား ကောင်းမြတ်သောအကျင့်သီလများကို ဖြည့်ကျင့်ဆည်းပူးကြလေသော သူတော်ကောင်းတို့၏ အကျိုးပင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

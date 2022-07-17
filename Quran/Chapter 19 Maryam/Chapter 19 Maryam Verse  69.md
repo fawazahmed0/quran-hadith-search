@@ -710,6 +710,12 @@ Posle shte izvadim ot vsyaka obshtnost naĭ-nepokornite pred Vsemilostiviya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၉။	ထိုအခါငါသည် အသင်းတိုင်းဂိုဏ်းတိုင်းမှ မဟာဂရုဏာတော်ရှင်အား ထောင်ထားခြားနားခြင်း၌ အဆိုးသွမ်းဆုံး သော၊ ခေါင်းအမာဆုံးသောသူကို ဆွဲထုတ်တော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် အမှန်ပင် ငါအရှင်မြတ်သည် အုပ်စုအသီးသီးမှ ရဟ်မာန် အနန္တကရုဏာတော်ရှင်အား အပြင်းထန်ဆုံး ပုန်ကန်သူတို့ကို (ရွေးချယ်) ထုတ်ယူတော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

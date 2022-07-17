@@ -710,6 +710,12 @@ Nima [Mu pripisvat] onezi, koito izrastvat sred nakiti i v spora sa bezsilni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	အဖိုးထိုက်အဖိုးတန်အဝတ်တန်ဆာလက်ဝတ်လက်စားများကို ဝတ်ဆင်လျက် ကြီးပြင်းအောင် ကျွေးမွေးခြင်းခံရ၍ မိမိကိုယ်ကို မိမိ အဓိကရုန်းအတွင်းမကာကွယ်နိုင်သောသမီးမိန်းမကို အရှင်မြတ်နှင့် နှိုင်းယှဉ်မည်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သို့နည်း။ လက်ဝတ်လက်စား အလှဆင်ယင်မှု၌ ပေါက်ဖွားကြီးပြင်းလာရသည့်ပြင် အချေအတင်ပြောဆိုရာ၌လည်း ရှုပ်ထွေးပွေလီစေသောသူသည် (အလ္လာဟ်အရှင်မြတ်)သမီးဖြစ်နိုင်ရန် အရည်အချင်း ရှိပါသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

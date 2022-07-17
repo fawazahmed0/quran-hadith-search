@@ -710,6 +710,12 @@ I ako bŭdete ubiti ili umrete po pŭtya na Allakh, oproshtenie i milost ot Alla
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၇။	သင်တို့သည် အလ္လာဟ်အသျှင်မြတ်၏ လမ်းတော်၌ အသတ်ခံရခြင်းကိုသော်လည်းကောင်း၊ သေရခြင်းကိုသော်လည်းကောင်း၊ မနှစ်သက်ကြဘူးလော့။ အမှန်မှာ အလ္လာဟ်အသျှင်မြတ်၏ အပြစ်လွှတ်ခြင်းနှင့် ကောင်းကြီးမင်္ဂလာတော်သည် သူတို့ရှာဖွေစုဆောင်းထားသော ဥစ္စာပစ္စည်းများ အားလုံးထက် သာလွန်ကောင်းမြတ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင်မူကား စင်စစ် အကယ်၍ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ လမ်းတော်၌ အသတ်ခံကြရသည်ဖြစ်စေ၊ သို့တည်းမဟုတ် သေဆုံးကြသည်ဖြစ်စေ၊ သို့ဖြစ်လျှင် အလ္လာဟ်အရှင်မြတ်အထံတော်မှ ခွင့်လွှတ်ချမ်းသာပေးသနား တော်မူခြင်းသည်လည်းကောင်း၊ ကရုဏာတော်သည်လည်းကောင်း။ ထို(ကာဖိရ်)တို့ စုဆောင်းကြကုန်သော အရာဝတ္ထုများထက် မုချဧကန် သာလွန်၍ ကောင်းမြတ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

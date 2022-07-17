@@ -710,6 +710,12 @@ Ili iskash ot tyakh nagrada [o, Mukhammad]? No nagradata na tvoya Gospod e naĭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၂။	သို့မဟုတ်သင်မိုဟမ္မဒ်၊ သင်သည် သူတို့ထံမှ တရားဟောခတောင်းဆိုသလော၊ သို့သော်သင်၏ အသက်သခင် ကျေးဇူးရှင်ထံမှ သာလွန်မွန်မြတ်၏၊ အကြောင်းမူကားအလ္လာဟ်အရှင်မြတ်သည် ပေးကမ်းစွန့်ကြဲသူအပေါင်းတို့ တွင် အထွဋ်အခေါင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် အသင်သည် ၎င်းတို့ထံ တစ်စုံတစ်ရာ အခကြေးငွေကို တောင်းဆိုလေသလော။ (ဤသို့လည်းမဟုတ်၊ အဘယ့်ကြောင့်ဆိုသော်) အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်မှ အခကြေးငွေသည် အကောင်းဆုံးပင်။ စင်စစ်သော်ကား ထိုအရှင်မြတ်သည် ရိက္ခာပေးသူတို့အနက် အကောင်းဆုံးသော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

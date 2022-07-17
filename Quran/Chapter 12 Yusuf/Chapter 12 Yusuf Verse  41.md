@@ -710,6 +710,12 @@ O, moi dvama drugari v zatvora, ediniyat ot vas shte dava na svoya gospodar da p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	အို-အကျွနု်ပ်၏ ထောင်သားမိတ်ဆွေနှစ်ဦးတို့၊ သင်တို့အနက် တစ်ဦးမှာ မိမိသခင်အား အရက်တော်ဆက်ရမည်။ အခြားတစ်ဦးမှာကား တိုင်တင်၍ သတ်ခြင်းကို ခံရလတ့ံ။ ထိုအခါငှက်တိရိစ္ဆာန်များသည် သူ၏ ခေါင်းကို ပေါက်ဆိတ်၍ စားကြလတ့ံ။ သင်တို့ပေးသောအိပ်မက်များ၏ အဓိပ္ပါယ်မှာ ဤအတိုင်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-အကျဉ်းထောင်ဖက် မိတ်ဆွေနှစ်ဦး၊ မည်သို့ပင်ဖြစ်စေ၊ အသင်တို့နှစ်ဦးအနက် တစ်ဦးမှာမူ မိမိ၏သခင်(ဖြစ်သောဘုရင်)အား (ရှေးယခင်အတိုင်းပင်) သေစာအရက်ကို ဆက်လက်၍တိုက်ကျွေးရပေမည်၊ သို့ရာတွင် တခြားတစ်ဦးမှာမူကား လက်ဝါး ကပ်တိုင်သို့ အတင်ခံရပြီးနောက် ငှက်များသည် ဦးခေါင်းကို (နှုတ်သီးဖြင့် ထိုး၍)စားကြပေလိမ့်မည်။အသင်တို့နှစ်ဦး မေးမြန်းလျက် ရှိကြကုန်သောကိစ္စမှာ (ဤအတိုင်းပင်) ပြဌာန်းပြီးဖြစ်ခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

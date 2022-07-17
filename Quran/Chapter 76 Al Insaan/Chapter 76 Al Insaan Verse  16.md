@@ -710,6 +710,12 @@ ot srebŭren kristal. Shte im se otmerva s myarka
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။ ထိ့အု ပြင်ဖန်ကဲသို့ ကြည်လင်တောက်ပြောင်သော ငွေဖလားများတွင်းသို့ သူတို့သည် မိမိတို့ လိုဘအတိုင်း ချိန်တွယ် ထည့်ကြသည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငွေဖြင့်ပြီးသော ဖန်များဖြစ်ကြပေမည်။ (ဖြည့်ထားသူတို့သည်) ယင်းဖန်ခွက်များကို သင့်လျော်စွာ ချိန်ဆ၍ ဖြည့်ထားကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

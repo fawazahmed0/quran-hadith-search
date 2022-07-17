@@ -710,6 +710,12 @@ Vŭzdayanieto im pri tekhniya Gospod shte sa Gradinite na Adn, sred koito reki t
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။ သူတို့၏ ဆုသည် သူတို့၏ အရှင်သခင်၏ အထံတော်၌ရှိ၏၊ သူတို့သည် မြစ်အထွေထွေစီးဆင်းလျက်ရှိသော နိဗ္ဗာန်ဥယျာဉ်တော်များတွင် အစဉ်အမြဲခံစားစံစားကြကုန်လတံ့၊ အလ္လာဟ်အရှင်မြတ်သည် သူတို့ကို နှစ်သက်တော်မူသည်၊ သူတို့လည်း အရှင်မြတ်အား နှစ်သက်ကြ၏၊ ဤဆုလာဘ်တော်ကြီးသည် မိမိ၏ အရှင်သခင်အား ကြောက်ရွံ့ရိုကျိုးသူတို့အဖို့သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့၏အကျိုးကား ၎င်းတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်ထံတော်၌ ထာဝစဉ် နေထိုင်ကြရမည့် ဥယျာဉ်များပင် ဖြစ်ကြကုန်၏။ ထိုဥယျာဉ်များ၏အောက်မှ ရေချောင်းများသည် တသွင်သွင် စီးတွေလျက် ရှိကြပေမည်။(၎င်းတို့သည်)ထိုဥယျာဉ်များတွင် အမြဲထာဝစဉ် နေထိုင် စံမြန်းကြရပေမည်။ အလ္လာဟ်အရှင်မြတ်သည်လည်း ၎င်းတို့အပေါ်၌ ကျေနပ်တော်မူမည်။ ၎င်းတို့သည်လည်း ထိုအရှင်မြတ်အပေါ်၌ ကျေနပ်ကြပေမည်။ ဤ(အကျိုးကျေးဇူး)သည်ကား မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်ကို ကြောက်ရွံ့သော(သူတော်စင်)၏အဖို့သာလျှင် ဖြစ်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

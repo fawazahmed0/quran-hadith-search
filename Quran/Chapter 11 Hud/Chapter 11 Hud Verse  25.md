@@ -710,6 +710,12 @@ I izpratikhme Nukh pri negoviya narod: “Az sŭm za vas yaven predupreditel
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	တဖန်ငါအရှင်မြတ်သည် တမန်တော်နူဟိုအား မိမိ၏ အမျိုးသားတို့ထံသို့ စေလွှတ်တော်မူ၏။ သူသည် ထိုသူတို့ အား ဟယ်-အချင်းတို့၊ ငါသည် သင်တို့ကို တရားဟောကြားသတိပေးသူမျှသာဖြစ်သည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ဧကန်စင်စစ် ငါအရှင်မြတ်သည် (နဗီတမန်တော်)နူဟ်အား ၎င်း၏အမျိုးသားတို့ထံ စေလွှတ်တော်မူခဲ့လေသည်။ (သို့ဖြစ်ပေရာ ထိုနဗီတမန်တော်နူဟ်က) ဧကန်အမှန် ငါသည် အသင်တို့အဖို့ ပွင့်ပွင့်လင်းလင်း ထင်ရှားစွာသော သတိပေးသူဖြစ်သည်(ဟု ပြောဆိုခဲ့လေသည်)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

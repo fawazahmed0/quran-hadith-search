@@ -710,6 +710,12 @@ i [maslinovo] dŭrvo, koeto nikne v Sinaĭskata planina. To dava maznina i prep
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	၎င်းအပြင်ငါသည် စီနာတောင်ပေါ်၌ ဆီပေးသောသစ်ပင်တစ်မျိုးကို ပေါက်ရောက်စေတော်မူ၏၊ ထိုဆီသည် စားသုံးသူတို့အတွက် အလွန်မြိန်ယှက်သောအရသာကို ဆောင်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး(ငါအရှင်မြတ်သည်) သံလွင်ပင်ခေါ် သစ်ပင်တစ်မျိုးကိုလည်း(ပေါက်ရောက်စေတော်မူခဲ့၏)။ ထိုသစ်ပင်သည် သိနတောင်ပေါ်၌ ပေါက်ရောက်လေ့ရှိသည်၊ ထို သစ်ပင်သည် ဆီကိုလည်းကောင်း၊ စားသုံးသူတို့အဖို့ ဟင်းလျာ ကိုလည်းကောင်း ထွက်စေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

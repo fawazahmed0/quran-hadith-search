@@ -710,6 +710,12 @@ I se pridŭrzhaĭ kŭm otkrovenieto, koeto ti be razkrito! Ti si na praviya pŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	ထို့ကြောင့်သင်တို့သည် ငါထုတ်ပြန်ချပေးသနားတော်မူသောကျမ်းတော်မြတ်ကို ဦးထိပ်ထက်ဆင်ရွက်၍ မြဲမြဲစွဲစွဲ ဆွဲကိုင်ထားလော့၊ အစစ်အမှန် သင်သည် သမ္မာတရားလမ်းပေါ်၌ တည်ရှိနေသူဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်) အသင်သည် မိမိထံ "ဝဟ်ယ်" ထုတ်ပြန်ခြင်းခံရလေသော ကုရ်အာန်ကျမ်းတော်မြတ်ကိုပင် အထောက်အထားပြုလျက် ရှိပါလေ။ဧကန်မလွဲ အသင်သည် ဖြောင့်မတ်သော လမ်းပေါ်၌ ရှိ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kazhi: “Pokazhete mi onezi, koito priobshtikhte za sŭdruzhnitsi kŭm Nego!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	တဖန်ဟောကြားလော့၊ သင်တို့သည် အလ္လာဟ်အရှင်မြတ်နှင့်ပူးတွဲ၍ ကိုးကွယ်ဝတ်ပြုသောဘုရားယောင်များကို ငါ့အား ပြကြလော့၊ သင်တို့မပြရဲချေ၊ စင်စစ်အားဖြင့် အလ္လာဟ်အရှင်မြတ်သည် အနန္တတန်ခိုးတော်အရှင်၊ ပညာအလင်းရောင်တော်အရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ပြောကြားပါဦးလေ။ (အချင်းတို့၊) အသင်တို့သည် တွဲဖက်များအဖြစ် ထိုအရှင်မြတ်နှင့် ပေါင်းဖက်(ကိုးကွယ်)ခဲ့ကြသောသူတို့ကို ငါ့အားပြသကြလေကုန်၊ အလျှင်း မဟုတ်ပေ၊ စင်စစ်မှာ ထိုကိုးကွယ်ရာအစစ်ဖြစ်သည့် အရှင်မြတ်မှာကား အလွန်တရာ နိုင်နင်းလွှမ်းမိုးတော်မူသော၊ ဆင်ခြင်တုံတရားနှင့် ပြည့်စုံတော်မူသော၊အလ္လာဟ်အရှင်မြတ်ပင် ဖြစ်တော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

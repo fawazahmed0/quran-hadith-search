@@ -710,6 +710,12 @@ Taka vlagame tova [neverie] v sŭrtsata na prestŭpnitsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	ငါအရှင်မြတ်သည် အပြစ်ရှိသူများ၏ စိတ်နှလုံးတွင် ယင်းသို့ဖြစ်စေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤနည်းအတိုင်းပင် ငါအရှင်မြတ်သည် ပြစ်မှုကျူးလွန်သောသူတို့၏ စိတ်နှလုံးများ၌ ယင်း (ပြက်ရယ်သမှုပြုခြင်း)ကို သို့မဟုတ် ယင်းကုရ်အာန်ကို လမ်းဖွင့်၍ပေးတော်မူ၏။(ထည့်သွင်းပေးတော်မူ၏)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

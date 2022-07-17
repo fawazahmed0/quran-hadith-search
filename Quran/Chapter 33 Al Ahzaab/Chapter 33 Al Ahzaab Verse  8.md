@@ -710,6 +710,12 @@ za da pita Toĭ pravdivite za tyakhnata pravdivost. A za nevernitsite e prigotv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	ထိုသို့ခံဝန်ချက်ယူတော်မူခြင်းအလိုတော်မှာ သစ္စာရှိသူများအား သူတို့၏သစ္စာကို စစ်ကြောစီရင်ရန်အလို့ငှာ ဖြစ်၏၊ သစ္စာမဲ့သူတို့အဖို့အရာ အလွန်ပြင်းပြနာကျယ်ဖွယ်သောအပြစ်ဒဏ်တော်ကို အရှင်မြတ်အသင့်စီရင် ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ယင်းကဲ့သို့ ပဋိညာဉ်ယူခဲ့တော်မူခြင်းမှာ) ထိုအရှင်မြတ်သည် သစ္စာဝါဒီတို့အား (ကိယာမတ် ရှင်ပြန်ထမည့်နေ့တွင်) ၎င်းတို့၏ သစ္စာရှိမှုနှင့် စပ်လျဉ်း၍ စစ်ဆေးမေးမြန်းတော်မူအံ့သောငှာ ဖြစ်ပေသည်။ စင်စစ်သော်ကားထိုအရှင်မြတ်သည် ကာဖိရ် သွေဖည် ငြင်းပယ်ကြကုန်သောသူတို့အဖို့ ပြင်းပြနာကျင်ဖွယ်ဖြစ်သော ပြစ်ဒဏ်ကို အဆင်သင့်ပြုလုပ်၍ ထားရှိတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Posle, v Denya na vŭzkresenieto, Toĭ shte gi opozori i shte kazhe: “Kŭde s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	ထို့နောက်ရှင်ပြန်ထမြောက်ရသောနေ့တော်ကြီး၌ အရှင်မြတ်သည် ထိုအယူမှားသူတို့ကို အရှက်ခွဲတော်မူမည်။ ငါ၏ ဖက်စပ်သူများအဘယ်မှာနည်း။ သူတို့အတွက် နင်တို့သည် ငါ၏ တရားတော်ကို ခုခံတွန်းလှန်ကြ၏ဟု ဗျာဒိတ်တော်ချလတ့ံ။ ပညာအလင်းရောင်ရရှိသူတို့က ဤနေ့တော်ကြီး၌ မယုံကြည်သူတို့၏ အပေါ်သို့ အရှက် ကွဲခြင်းနှင့် မကောင်းဆိုးဝါးများသည် ကျရောက်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက်တစ်ဖန် ထိုအရှင်မြတ်သည် ၎င်းတို့အား ကိယာမတ်ရှင်ပြန်ထမည့်နေ့တွင် အရှက်တကွဲ ဖြစ်စေတော်မူမည်။ ၎င်းပြင် ထိုအရှင်မြတ်သည် (ဤသို့) မိန့်ကြားတော်မူမည်။ ငါအရှင်မြတ်၏အကြင်တွဲဖက်ယှဉ်ဖက်များသည်အဘယ်မှာနည်း။ အသင်တို့သည် ၎င်းတို့နှင့်ပတ်သက်၍(အမှန်ကိုလက်ခံနာယူသူတို့နှင့်)စိတ်သဘောကွဲလွဲ ပဋိပက္ခဖြစ်လျက် ရှိခဲ့ကြကုန်သည်။ (ထိုအခါ) အသိပညာကို ချီးမြှင့်ပေးသနားတော်မူခြင်းခံခဲ့ကြရသောသူတို့က ယနေ့ အရှက်ကွဲမှုသည်လည်းကောင်း၊ ပြစ်ဒဏ်သည်လည်းကောင်း၊ ကာဖိရ်သွေဖည်ငြင်းပယ်သောသူတို့အပေါ်၌သာ ရှိအံ့ဟုပြောဆိုကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

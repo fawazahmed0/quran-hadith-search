@@ -710,6 +710,12 @@ A otvŭrnat li se, Allakh znae seeshtite razvala
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၃။	အကယ်၍ ထိုသူတို့သည် မယုံကြည် ကျောခိုင်းသွားလျှင် အလ္လာဟ်အသျှင်မြတ်သည် ဒုစရိုက် မတရားမှုကို ကျူးလွန်သူများကို ကောင်းစွာသိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်လေရာ (ဤရွေ့ဤမျှ ဖွင့်ဟမိန့်ဆို ထားတော်မူပြီးသည့်နောက်သော်မှပင်) အကယ်၍သာ ယင်း(ခရစ်ယာန်)တို့သည် မျက်နှာလွှဲ၍ ကျောခိုင်း သွားကြပါမူ၊ မုချဧကန်အလ္လာဟ်အရှင်မြတ်သည် ဖျက်ဆီးသူအပေါင်းတို့ကို အကြွင်းမဲ့သိရှိတော်မူသော အရှင်မြတ်ပင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

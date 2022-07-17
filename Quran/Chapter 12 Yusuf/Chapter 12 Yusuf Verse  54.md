@@ -710,6 +710,12 @@ I reche tsaryat: “Dovedete mi go, da go ostavya pri men!” I sled kato razgov
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၄။	ထိုအခါဘုရင်မင်းမြတ်က ထိုသူကို ငါ့ရှေ့တော်သို့ သွင်းကြလော့။ ငါသည် သူ့အား ကိုယ်ရံတော်အရာ၌ ခန့်ထားလိုတော်မူ၏ဟု မိန့်တော်မူ၏။ မင်းမြတ်သည် ယူစွတ်(ဖ်)နှင့်ဆွေးနွေးတိုင်ပင်ပြီးသောအခါ မင်းကြီးက မှတ်သားလော့၊ သင်သည် ငါ့မျက်မှောက်ဝယ် ယုံကြည်အားကိုးရသူဖြစ်ပြီဟု မိန့်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ဘုရင်မင်းမြတ်က အသင်တို့သည် ထိုယူဆွဖ်အား ငါ့ထံသို့ ပင့်ဆောင်ခဲ့ကြလေကုန်။ ငါသည် ၎င်းအား မိမိအဖို့ ရွေးချယ်အံ့ဟု အမိန့်ပေးခဲ့လေသည်။ တစ်ဖန်ယင်းယူဆွဖ်သည် ထိုဘုရင်နှင့် စကားပြောဆိုလေသောအခါ၊ထိုဘုရင်က (ယူဆွဖ်အား) အသင်သည် ယနေ့မှစ၍ ကျွန်ုပ်၏ထံတွင် မြင့်မြတ်သောဂုဏ်ဒြပ်နှင့်ပြည့်စုံသူ၊ ယုံကြည်စိတ်ချအပ်သူဖြစ်သည်ဟု ချီးမြှင့်ပြောကြား မြှောက်စား ခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Edni i sŭshti sa [za Nego] onezi ot vas, koito potulvat rechta, i koito ya izya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၀။ သင်တို့အနက် လျှို့ဝှက်ပြောဆိုသူသည် ၄င်း၊ လူသိရှင်ကြားပြောကြားသူသည် ၄င်း၊ ဉာဉ့်တွင် ပုန်းအောင်နေသူသည်၄င်း၊ နေ့တွင်ပေါ်လွင်ထင်ရှားစွာ သွားလာသူသည်၄င်း၊ ၄င်းတို့အားလုံးသည် အတူတူပင်ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့အနက် စကားကို လျှို့ဝှက်သော သူသည်လည်းကောင်း၊ ထုတ်ဖော်ပြောဆိုသူသည် လည်းကောင်း၊ညဉ့်(၏အမှောင်)၌ ပုန်းကွယ်၍နေသူသည်လည်းကောင်း၊ နေ့(၏အလင်းရောင်) ၌ (အထင်အရှား) သွားလာသောသူသည်လည်းကောင်း၊(ထိုအရှင်မြတ်၏အသိဉာဏ်တော်တွင်) အတူတူပင် ဖြစ်ကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Shte postavim Nie veznite na spravedlivostta v Denya na vŭzkresenieto, i nikoi�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	ထို့အပြင်ငါသည် ရှင်ပြန်ထမြောက်ရသောနေ့တော်ကြီး၌ မည်သည့်ဝိညာဉ်ကိုမျှ မတရားမပြုစေခြင်းငှာ ဖြောင့် မတ်မှန်ကန်သောစည်းချိန်ကို အသင့်ဆင်ထားတော်မူ၏၊ အကယ်၍အကြင်သူ၏ ပြုကျင့်မှုသည် မုန်ညင်းစေ့ခန့်မျှ ရှိသော်လည်း ထိုအမှုကို ငါထင်ရှားစေတော်မူ၏၊ ထို့အပြင်စာရင်းရှင်းဖို့ရာ ငါနှင့်ပင်လုံလောက်ပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ငါအရှင်မြတ်သည် ကိယာမတ်ရှင်ပြန်ထမည့်နေ့တွင် မျှတသောချိန်ခွင်များကို ထားရှိတော်မူသည်။ သို့ဖြစ်ပေရာ မည်သူတစ်ဦးတစ်ယောက်မျှ အနည်းငယ်စိုးစဉ်းမျှပင် မတရားသဖြင့် နှိပ်စက်ခြင်းကို ခံရမည်မဟုတ်ပေ။ စင်စစ်အကယ်၍ (တစ်ဦးတစ်ယောက်၌) မုန်ညင်းစေတစ်စေ့မျှ အလေးချိန်ရှိသော(ကောင်းမှုပင်) ရှိငြားသော်လည်း ငါအရှင်မြတ်သည် ယင်းမုန်ညင်းစေ့တစ်စေ့ကိုလည်း (ရှေ့တော်မှောက်သို့) ယူလာတော်မူမည်သာဖြစ်သည်။ စင်စစ် ငါအရှင်မြတ်နှင့်ပင် စစ်ဆေးတော်မူသောအရှင်အဖြစ် လုံလောက်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

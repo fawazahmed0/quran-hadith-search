@@ -710,6 +710,12 @@ Kaza: “O, narode moĭ, ne sŭm v zabluda, a sŭm pratenik ot Gospoda na sveto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၁။	သူသည် ဟောကြား၏။ အို-အကျွနု်ပ်၏အမျိုးသားအပေါင်းတို့ အကျွနု်ပ်၌ မှားယွင်းမှုမရှိပေ။ သို့သော် အကျွနု်ပ်သည် စကြာဝဠာအားလုံးတို့၏ အသျှင်သခင်၏ တမန်တော်တစ်ပါး ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ၎င်း(နဗီတမန်တော်နူဟ်)က အိုငါ၏အမျိုးသားအပေါင်းတို့ ငါ၌မှောက်မှားမှုသည် အလျဉ်းမရှိပါ။ အမှန်စင်စစ်သော်ကား ငါသည် စကြဝဠာခပ်သိမ်းကိုဖန်ဆင်းမွေးမြူတော်မူသောအရှင် မြတ်အထံတော်မှ စေလွှတ်တော်မူသောရစူလ်တမန်တော် တစ်ပါးသာဖြစ်ပေသည်ဟု ဖြေကြားခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

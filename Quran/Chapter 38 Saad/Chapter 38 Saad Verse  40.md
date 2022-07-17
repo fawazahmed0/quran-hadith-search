@@ -710,6 +710,12 @@ I toĭ pri Nas e ot priblizhenite, i ima prekrasna obitel
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၀။	ထို့အပြင်မှတ်သားကြလော့၊ တမန်တော်စိုလိုင်မာန်သည် ငါ့အထံတော်၌ မျက်နှာရသူဖြစ်၏၊ သူ၏ ပန်းတိုင်သည် သုမင်္ဂလာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ထို"စုလိုင်မာန်"၌ ငါအရှင်မြတ်အထံတော်တွင်၊ (အထူး)အဆင့်အတန်းနှင့် ကောင်းမြတ်သော နောက်ဆုံးအကျိုးဆက်သည် အမှန်ပင် ရှိပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

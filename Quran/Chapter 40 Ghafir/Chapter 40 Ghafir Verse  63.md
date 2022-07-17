@@ -710,6 +710,12 @@ Taka se podlŭgvat onezi, koito otkhvŭrlyat znameniyata na Allakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၃။	အလ္လာဟ်အရှင်မြတ်၏ ကျမ်းတော်မြတ်ကို မယုံကြည်ငြင်းပယ်သောသူများသည် ယင်းကဲ့သို့လမ်းချော်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းအတိုင်းပင် အလ္လာဟ်အရှင်မြတ်၏ သက်သေလက္ခဏာတော်များကို ငြင်းပယ်လေ့ရှိခဲ့ ကြသောသူတို့သည်လည်း ပြန်လှည့်ခြင်း ခံခဲ့ကြရ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

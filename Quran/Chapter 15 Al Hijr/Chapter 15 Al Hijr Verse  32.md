@@ -710,6 +710,12 @@ Reche [Allakh]: “O, Iblis, kakvo ti e, che ne si s poklanyashtite se?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	ထိုအခါအလ္လာဟ်အရှင်မြတ်သည် အီဗလစ်၊ နင်သည် ပျပ်ဝပ်ဦးချသူတို့ဘောင်တွင် အဘယ်ကြောင့်မပါဝင် သနည်းဟု မေးမြန်းတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ထိုအရှင်မြတ်က အို-အီဗ်လီစ်၊ အသင်သည် ပျပ်ဝပ်ဦးချသူတို့တွင် အပါအဝင် မဖြစ်ရန် အသင့်၌မည်သည့်အကြောင်းရှိပေသနည်းဟု မေးမြန်းတော်မူခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

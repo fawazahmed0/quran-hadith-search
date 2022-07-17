@@ -710,6 +710,12 @@ I rekokha: “Nashite bogove li sa po-dobri ili toĭ [Isa]?” Dadokha ti go sa
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈။	ထို့အပြင်သူတို့က ငါတို့ဘုရားများသာလျှင် ကောင်းသလော၊ သို့မဟုတ် သူသာလျှင် ကောင်းသလောဟု ဆိုကြကုန်၏၊ အို-တမန်တော်၊ သူတို့သည် ငြင်းခုံဖို့ရာမှတပါး အခြားအကြောင်းကြောင့် ကန့်ကွက်ကြမည် မဟုတ်ချေ၊ အမှန်မှာ ဤသူများသည် အငြင်းအခုံများသူတို့ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့က ကျွန်ုပ်တို့၏ ကိုးကွယ်ရာများက မြင့်မြတ်လေသလော။ သို့တည်းမဟုတ် ထိုမရ်ယမ်၏သား (အီစာ)က မြင့်မြတ်လေသလောဟု ပြောဆိုခဲ့ကြကုန်၏။၎င်းတို့သည် ဤသည်ကို အသင့်ရှေ့ဝယ် အငြင်းအခုံပြု၍ တင်ပြခဲ့ခြင်းသာလျှင် ဖြစ်ပေသည်။ စင်စစ်မှာကား ၎င်းတို့သည် အငြင်းအခုံပြုလေ့ရှိသော အမျိုးသားများပင် ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ koito i v uedinenie se boyat ot svoya Gospod, i se strakhuvat ot Chasa
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	ထိုသူမြတ်တို့သည် မိမိ၏အရှင်သခင်အား တိတ်ဆိတ်လျှို့ဝှက်စွာကြောက်ရွံ့ရိုကျိုးကြ၏၊ အချိန်တော်ကြီးကို အလွန်တရာကြောက်လန့်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူ(တော်)တို့သည် မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်ကို မမြင်ကြပါဘဲလျက် ကြောက်ရွံ့ရိုသေကြကုန်၏။ ထို့ပြင် ၎င်းတို့သည် ကိယာမတ်ရှင်ပြန်ထမည့်နေ့ကို ကြောက်ရွံ့စိုးရိမ်သူများလည်း ဖြစ်ကြကုန်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I ako ti [o, Mukhammad] bi vidyal, kogato angelite pribirat dushite na nevernits
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅ဝ။	ကောင်းကင်တမန်တော်များသည် မယုံကြည်သူတို့အား မျက်နှာနှင့်ကျောကို ရိုက်နှက်၍ သင်တို့သည် လောင်ကျွမ်းခြင်းအပြစ်ဒဏ်တော်ကို ခံစားကြလော့ဟု ဆိုလျက် လက်ခံသည်ကို သင်မြင်ရလျှင် ကောင်းလေစွ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် (အို-နဗီတမန်တော်) အကယ်၍သာ’မလာအိကဟ်’ ကောင်းကင်တမန်များသည် ‘ကာဖိရ်’ မယုံမကြည်သွေဖည်ငြင်းပယ်သော သူတို့၏အသက် ဇီဝိန်ကိုနှုတ်ယူသောအချိန်တွင် ယင်းတို့၏မျက်နှာများကိုလည်းကောင်း၊ ယင်းတို့၏ ကျောက်ကုန်းများကိုလည်းကောင်း၊ ရိုက်နှက်ကြ၍အသင်တို့သည် (ငရဲ)မီး၏ပြစ်ဒဏ်ကို မြည်းစမ်းကြလေကုန်ဟု ပြောဆိုကြသည့် စက်ဆုပ်ရွံ့ရှာဖွယ်ရာအဖြစ်ကို (အသင်)မုချ တွေ့မြင်ခဲ့ရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

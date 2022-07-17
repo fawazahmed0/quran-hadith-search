@@ -710,6 +710,12 @@ O, vyarvashti, ne izmenyaĭte na Allakh i na Pratenika, i ne izmenyaĭte na on
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	အို-ယုံကြည်သူအပေါင်းတို့ သင်တို့သည် အလ္လာဟ်အသျှင်မြတ်နှင့် အသျှင်မြတ်၏ တမန်တော်ကို သစ္စာမဖောက်ကြလင့်။ သင်တို့အား ယုံမှတ်အပ်နှံထားသည်များကို တမင်သစ္စာမဖောက်ကြလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-မုအ်မင်န် သက်ဝင်ယုံကြည်သူအပေါင်းတို့၊ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်နှင့် ပတ်သက်၍ စောင့်ထိမ်းအပ်သော တာဝန်ဝတ္တရားများကိုလည်းကောင်း၊ ရစူလ်တမန်တော်နှင့်ပတ်သက်၍ စောင့်ထိမ်းအပ်သော တာဝန်ဝတ္တရားများကိုလည်းကောင်း၊ အလွဲသုံးစားမပြုကြကုန်လင့်။ထိုနည်းတူ စွာ အသင်တို့သည် မိမိတို့ယုံကြည်အပ်နှံခြင်း ခံကြရသောကိစ္စများကိုလည်း သစ္စာအလွဲသုံးစားမပြုကြကုန်လင့်။အမှန်မှာ အသင်တို့သည် (အလွဲသုံးစားပြုခြင်းဖြင့် ဖြစ်ပေါ်လာမည့်ဆုံးရှုံးမှုများနှင့် အလွဲသုံးစားပြုခြင်းသည် ဟရာမ်ဖြစ်သည်ကို)အသိပင် ဖြစ်ကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

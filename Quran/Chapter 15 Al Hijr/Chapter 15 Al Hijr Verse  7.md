@@ -710,6 +710,12 @@ Zashto ne ni dovedesh angelite, ako govorish istinata?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	သင်သည် အမှန်စကားကို ဆိုလျှင် အဘယ်ကြောင့်အကျွနု်ပ်တို့ထံသို့ ကောင်းကင်တမန်များကို ခေါ်မလာသနည်း ဟုလည်း မေးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍ အသင်သည် (သစ္စာဝါဒီ)မှန်ကန်စွာပြောဆိုသူဖြစ်ခဲ့ပါလျှင် အဘယ်ကြောင့် အသင်သည် မလာအိကဟ် ကောင်းကင်တမန်တော်များ အား ကျွန်ုပ်တို့ထံ ခေါ်ဆောင်မလာသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Dvama mŭzhe ot bogoboyazlivite, koito Allakh be daril s blagodat, rekokha: “V
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	ထိုအခါ သူတို့အထဲမှ အလ္လာဟ်အသျှင်မြတ်ကို ကြောက်ရွံ့ရိုကျိုး၍ အသျှင်မြတ် ကျေးဇူးပြုတော် မူခြင်းခံရသူနှစ်ဦးက ဟယ်-အချင်းတို့ သင်တို့သည် မြို့တံခါးပေါက်မှ ဝင်ကြလော့။ ယင်းသို့ ဝင်ကြလျှင် သင်တို့အမှန်ပင် အောင်နိုင်ကြပါမည်။ သင်တို့သည် ယုံကြည်သူများ မုချဧကန်ဖြစ်ကြ ပါလျှင် အသျှင်မြတ်ကို ယုံကြည်ကိုးစားကြပါလော့ဟု ပြောကြားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) အလ္လာဟ်အရှင်မြတ်ကို ကြောက်ရွံ့ကြကုန်သောသူတို့အနက်မှ အလ္လာဟ်အရှင်မြတ် ကျေးဇူးပြုတော်မူသော လူနှစ်ယောက်သည် (ဤသို့) ပြောဆိုကြလေသည်။ “(ဟယ်- အချင်းတို့) အသင်တို့သည် ၎င်းတို့ အားတိုက်ခိုက်ရင်း တံခါးဝအတွင်းသို့ ဝင်ရောက်ကြလေကုန်။ အကယ်၍သာ အသင်တို့သည် ယင်းတံခါးဝအတွင်းသို့ ဝင်ရောက်ခဲ့ကြပါလျှင် အသင်တို့သည်သာလျှင် (စစ်ရေး) အောင်မြင်သူများ ဖြစ်ကြလတ္တံ့။ ၎င်းပြင် အသင်တို့သည် အကယ်၍‘မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူများဖြစ်ကြပါလျှင် အလ္လာဟ်အရှင်မြတ်အပေါ်၌သာလျှင် ယုံကြည်စိတ်ချ အားထားကြလေကုန်။”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

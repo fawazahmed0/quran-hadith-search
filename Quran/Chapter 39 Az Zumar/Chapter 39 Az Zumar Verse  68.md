@@ -710,6 +710,12 @@ I shtom se protrŭbi s Roga, vsichki na nebesata i na zemyata shte padnat bezzhi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၈။	တံပိုးကို မှုတ်လိုက်သည်ရှိသော် အလ္လာဟ်အရှင်မြတ်အလိုတော်ရှိသူတို့မှတပါး မိုးကောင်းကင်နှင့် ကမ္ဘာမြေပြင် ဝယ် ရှိရှိသမျှသောသတ္တဝါအပေါင်းတို့သည် မူးမိုက်တွေဝေလျက် အကုန်အစင်သေကျေပျက်စီးကြရ၏၊ ထို့နောက် ထပ်မံ၍ ဒုတိယတစ်ကြိမ်မှုတ်လိုက်ပြန်သော် မှုတ်လိုက်သည်နှင့် တပြိုင်နက်သူသေအပေါင်းတို့သည် မတ်တပ် ရပ်၍ စောင့်နေကြသည်ကို ရှုကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး တံပိုးခရာမှုတ်သောအခါ အလ္လာဟ်အရှင်မြတ် အလိုရှိတော်မူသောသူမှတစ်ပါး မိုးကောင်းကင်များ၌ ရှိကြကုန်သောသူတို့သည်လည်းကောင်း၊ ပထဝီမြေ၌ ရှိကြကုန်သောသူတို့သည်လည်းကောင်း၊ သတိမေ့၍ သွားကြပေမည်။ ထို့နောက် တဖန် ယင်းတံပိုးကိုမှုတ်ခဲ့ပြန်သော် ၎င်းတို့မှာ ရုတ်တရက် မတ်တပ်ရပ်လျက် ကြည့်နေကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

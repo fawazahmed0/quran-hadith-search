@@ -710,6 +710,12 @@ Ne! Knigata [za delata] na razpŭtnitsite e v Sidzhzhin
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။ စင်စစ်အားဖြင့် ထိုသူယုတ်မာတို့တွေးတောထင်မြင်သည့်အတိုင်း မဟုတ်ချေ၊ ဆိုးသွမ်းယုတ်မာသောသူတို့ ကျူးလွန်ခဲ့သမျှသောအကုသိုလ်မကောင်းမှုစာရင်းကို (စစ်ဂျင်)စာအုပ်ကြီးတွင် မှတ်သားထား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလျှင်းမဟုတ်၊ ဧကန်စင်စစ် ဒုစရိုက် ကျူးလွန်သောသူတို့၏ မှတ်တမ်းသည် "စစ်ဂျ်ဂျီန်" ၌ရှိ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

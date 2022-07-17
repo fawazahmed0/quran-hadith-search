@@ -710,6 +710,12 @@ I kazhi: “Slava na Allakh! Shte vi pokazhe Toĭ Svoite znameniya i vie shte g
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၃။	ထို့အပြင်သူတို့နားလည်ဖို့ရာ နိမိတ်လက္ခဏာအ့ံဖွယ်တော်တို့ကို သင်တို့အား ပြသတော်မူသည့်အလ္လာဟ်အရှင် မြတ်၏ ကျေးဇူးတော်၊ ဂုဏ်တော်ကို ချီးကျူးတသကြလော့ဟု သင်တမန်တော်ဟောကြားလော့၊ သင်၏အသက် သခင်ကျေးဇူးရှင်သည် သင် သေမျိုးအပေါင်းတို့ပြုကျင့်မှုအလုံးစုံကို သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး (အို-နဗီတမန်တော်၊) အသင်သည်(ဤသို့လည်း) ပြောကြားပါလေ။ ချီးမွမ်းထောပနာအပေါင်းတို့သည် အလ္လာဟ်အရှင်မြတ်နှင့်သာ သက်ဆိုင်ပေသည်။ ထိုအရှင်မြတ်သည် အသင်တို့အား မကြာမြင့်မီပင် မိမိ၏ သက်သေလက္ခဏာတော်များကို ပြသတော်မူပေမည်။ ထိုအခါအသင်တို့သည် ယင်းသက်သေ လက္ခဏာတော်များကို သိရှိကြပေမည်။ စင်စစ် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် အသင်တို့ ကျင့်မူလျက် ရှိကြကုန်သော အကျင့်အမူတို့ကို မသိတော်မူသောအရှင် မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

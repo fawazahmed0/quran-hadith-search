@@ -710,6 +710,12 @@ i narodŭt na Ibrakhim, i narodŭt na Lut
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	ထို့အပြင်တမန်တော်အေဗရာဟမ်၏ လူများ၊ တမန်တော်လွတ်၏ လူများလည်း ငြင်းပယ်ခဲ့ပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ (နဗီတမန်တော်) အိဗ်ရာဟီမ်၏ အမျိုးသားတို့သည်လည်းကောင်း၊ (နဗီတမန်တော်)လူ(တ်)၏ အမျိုးသားတို့သည်လည်းကောင်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

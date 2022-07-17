@@ -710,6 +710,12 @@ Ti si samo predupreditel za vseki, koĭto se strakhuva ot nego
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။ သင်သည် ထိုနေ့တော်ကြီးကို ကြောက်ရွံ့သူအတွက် သတိပေးသူသက်သက်မျှသာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်သည် ယင်း "ကိယာမသ်" ရှင်ပြန်ထမည့်နေ့ကို တွေ့မြင်ကြသောနေ့တွင် မိမိတို့မှ(ကမ္ဘာလောက လောကီဘဝ၌) တစ်ညနေချမ်းမျှ သို့မဟုတ် ထိုညနေချမ်း၏ တစ်နံနက်ခင်းမျှသာ နေထိုင်ခဲ့ဘိသကဲ့သို့ ထင်မှတ်ကြအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

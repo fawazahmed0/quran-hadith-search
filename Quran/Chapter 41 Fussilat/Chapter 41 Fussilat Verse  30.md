@@ -710,6 +710,12 @@ Pri onezi, koito kazvat: “Allakh e nashiyat Gospod!” i sledvat praviya pŭt,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	မှတ်သားကြလော့၊ အကျွနု်ပ်တို့၏ အရှင်သခင်သည် အလ္လာဟ်အရှင်မြတ်ဖြစ်တော်မူ၏ဟု ပြောဆို၍ တည်ကြည် ဖြောင့်မတ်သူတို့မှာမူကား သူတို့ထံသို့ ကောင်းကင်တမန်များသက်ဆင်းလာ၍ ဤသို့အကြောင်းကြားအ့ံ၊ အို-သူတော်ကောင်းအပေါင်းတို့၊ မကြောက်ရွံ့ကြလင့်၊ မပူဆွေးကြလင့်၊ သင်တို့အား ကတိထားတော်မူသော နိဗ္ဗာန်ဘုံနန်းတော်အကြောင်းသတင်းကောင်းကို ကြားနာကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် အကြင်သူတို့သည် ကျွန်တော် မျိုးတို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်ကား အလ္လာဟ်အရှင်မြတ်ပင် ဖြစ်တော်မူသည် ဟု ပြောခဲ့ ဆိုခဲ့ကြပြီးနောက်(ယင်းယုံကြည်ချက်ပေါ်၌ပင်) ဖြောင့်မတ်ကြံ့ခိုင်စွာ တည်ရှိနေခဲ့ကြကုန်၏။ မလာအိကဟ် ကောင်းကင်တမန်များသည်ထိုသူတို့ထံ ဆင်းသက်လာ၍ ဤသို့ပြောဆို နှစ်သိမ့်စေကြပေမည်။ အသင်တို့သည် စိုးရိမ်ခြင်းလည်း မရှိကြကုန်လင့်။ ပူဆွေးခြင်းလည်း မရှိကြကုန်လင့်။ ထိုမှတစ်ပါး အသင်တို့သည်မိမိတို့ကတိပေးခြင်းခံခဲ့ကြသောဂျန္နတ်သုခဘုံရရှိသည့်အတွက်ဝမ်းမြောက် ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

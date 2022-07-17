@@ -710,6 +710,12 @@ I ne storvaĭ rŭkata ti da e prikovana kŭm shiyata [v skŭpernichestvo], i ne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	ထို့အပြင်သင်တို့သည် မိမိလက်ကို မြဲမြံစွာဆုပ်ပြီးလျှင် လည်ကုတ်ပေါ်သို့ ပိုး၍လည်း မထားလင့်။ လွန်စွာ ချဲ့ဖြန့်၍လည်း မထားလင့်။ လက်ဖွသူသည် ဥစ္စာကုန်ခန်းနွမ်းပါးသည့်အတွက် သတိနောင်တရလျက်၊ မိမိကိုယ်ကို မိမိအပြစ်တင်၍ ထိုင်နေရတတ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်သည် မိမိလက်ကို မိမိလည်ကုပ်တွင် တုပ်နှောင်ပြီးမထားလေနှင့်၊ ထိုနည်းတူစွာအသင်သည် ယင်းလက်ကို လုံးဝ ဖွင့်၍လည်း မထားလေနှင့်။သို့ပြုခဲ့လျှင် အသင်သည် ပြစ်တင်ရှုတ်ချခြင်းခံရလျက် ဝမ်းနည်းကြေကွဲလျက်၊ ထိုင်၍နေရချိမ့်မည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

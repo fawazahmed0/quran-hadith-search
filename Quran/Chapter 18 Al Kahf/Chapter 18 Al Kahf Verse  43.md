@@ -710,6 +710,12 @@ I nyamashe toĭ khora, koito da go zashtityat ot Allakh, nito sam se zashtiti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	ထို့အပြင်ထိုသူ၌ အရှင်မြတ်မှ သူ့ကို ကူညီရိုင်းပင်းမည့်စစ်သည်ဗိုလ်ပါမရှိချေ။ သူသည် မိမိကိုယ်ကို မိမိ မကယ်နိုင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 င်းပြင် ထိုသူ၌ အလ္လာဟ်အရှင်မြတ်နှင့်ယှဉ်ပြိုင်(ရပ်စေ)လျက် (ရှေ့တော်သို့)သွင်းစေခြင်းကို ခံကြရမည်။ (ထိုအခါ ငါအရှင်မြတ်သည် ဤသို့မိန့်ကြား တော်မူပေမည်။)အသင်တို့သည် ငါအရှင်မြတ် အသင်တို့အား ရှေးဦးမဆွ ပထမအကြိမ်က ဖန်ဆင်းတော်မူဘိသကဲ့သို့ပင် ငါအရှင်မြတ်အထံတော်သို့လာခဲ့ကြချေပြီ။ သို့ရာတွင် အမှန်စင်စစ် အသင်တို့သည်မိမိတို့အတွက် ငါအရှင်မြတ်က (ရှင်ပြန်ထကြရန်) မည်သည့်အချိန် မည်သည့်နေရာကိုမျှ သတ်မှတ်တော်မူလိမ့်မည် မဟုတ်ဟူ၍ ထင်မှတ်နေခဲ့ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ako byakha izlezli sred vas, shtyakha da vi nadbavyat samo obŭrkvane i shtyakha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	သူတို့သည် သင်တို့နှင့်လိုက်လာခဲ့ကြလျှင် အကျိုးမပေးပဲ ဒုက္ခသာပေးကြမည်။သူတို့သည် သင်တို့အလယ်တွင် ဟိုဟိုဒီဒီသွားလာ၍ သစ္စာဖောက်မှုကို လုံးပန်းကြမည်။သင်တို့အနက်အချို့သောသူတို့သည် သူတို့ကို နားထောင် ကြမည်။အလ္လာဟ်အရှင်မြတ်သည် ဒုစရိုက်မှုကျူးလွန်သောသူတို့ကို သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍ ထိုသူတို့သည် အသင်တို့တွင် ပါဝင်၍ ထွက်ခဲ့ကြသည်ရှိသော် ၎င်းတို့သည် ပျက်စီးရာပျက်စီးကြောင်းမှအပ အသင်တို့၌ မည်သည့်တစ်စုံတစ်ရာကိုမျှတိုးပွားစေခဲ့ကြမည် မဟုတ်ပေ။ ၎င်းပြင် ဧကန်မုချ ထိုသူတို့သည် အသင်တို့အကြားတွင် အနှောင့်အယှက်ဖြစ်စေရန်လူးလာပြန်ခတ် သွားချေလာချေ ပြုလုပ်ကြမည်သာတည်း။ထို့ပြင် (ယခုလည်း) အသင်တို့တွင် ၎င်းတို့၏ သတင်းထောက်လှမ်းသူများ (သူလျှိုများ) ရှိကြကုန်၏။ စင်စစ်သော်ကားအလ္လာဟ်အရှင်မြတ်သည် မတရားမှုပြုသော သူတို့အားကောင်းစွာ သိရှိတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

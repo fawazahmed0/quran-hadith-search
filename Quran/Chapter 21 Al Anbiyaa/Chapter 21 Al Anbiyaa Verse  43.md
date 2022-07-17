@@ -710,6 +710,12 @@ Ili osven Nas imat bogove, koito da gi branyat? Te nito mogat na sebe si da pomo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	သို့မဟုတ် သူတို့မှာ သူတို့ကို ငါအရှင်မှ ကာကွယ်မည့်ဘုရားများရှိကြသလော၊ သူတို့သည် မိမိကိုယ်ကို မိမိမကူညီနိုင်ချေ၊ သို့မဟုတ် သူတို့ကို ငါအရှင်မှ ကာကွယ်၍မရနိုင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့၌ ငါအရှင်မြတ်အပြင် မိမိတို့အား ကာကွယ်အံ့သောကိုးကွယ်ရာများ ရှိကြလေသလော။ (စင်စစ်)ယင်းကိုးကွယ်ရာများသည် မိမိတို့ကိုယ်ကိုပင် ကူညီရန် တတ်စွမ်းနိုင်ကြသည် မဟုတ်ပေ။ ထိုနည်းတူစွာ ၎င်းတို့သည် ငါအရှင်မြတ်(၏ပြစ်ဒဏ်မှ) ကာကွယ်စောင့်ရှောက်ခြင်းကို ခံကြရမည်လည်း မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

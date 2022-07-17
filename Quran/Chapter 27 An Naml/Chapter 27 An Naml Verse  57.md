@@ -710,6 +710,12 @@ I spasikhme nego i negovoto semeĭstvo osven zhena mu. Otredikhme tya da bŭde 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၇။	ထိုအခါငါသည် သူ၏မိန်းမမှတပါး သူနှင့်တကွ သူ့အိမ်သူအိမ်သားတို့ကို ကယ်နှုတ်တော်မူ၏၊ ငါသည် ထိုမိန်းမ ကို ကျန်ရစ်သူတို့ထဲတွင် ပါဝင်စေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ငါအရှင်မြတ်သည် ထိုလူ(တ်)အားလည်းကောင်း၊ ထိုလူ(တ်)နှင့်ပက်သက်သော သူတို့အားလည်းကောင်း၊ ကယ်ဆယ်တော်မူခဲ့၏။ သို့ရာတွင် ထိုလူ(တ်)၏ဇနီးမှာမူ ငါအရှင်မြတ်သည် ၎င်းအား ကျန်ရစ်သူတို့တွင် သတ်မှတ်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

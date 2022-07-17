@@ -710,6 +710,12 @@ koĭto nadava ukho, i povecheto ot tyakh sa lŭzhtsi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂၃။	ထိုသူတို့သည် စိတ်ထက်သန်ခြင်းဖြင့် နားထောင်ကြ၏၊ သို့သော်သူတို့အနက် များလှစွာသောသူတို့သည် မုသားကောင်များဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတို့သည်(ထို ရှိုင်တွာန်မိစ္ဆာကောင်များဘက်သို့) နားစိုက်၍ နားထောင်ကြကုန်၏။ စင်စစ် ၎င်းတို့အနက် အများဆုံးသောသူတို့မှာ မုသာဝါဒီများပင် ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

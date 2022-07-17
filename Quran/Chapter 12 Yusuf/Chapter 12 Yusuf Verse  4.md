@@ -710,6 +710,12 @@ Yusuf reche na bashta si: “O, tatko moĭ, vidyakh edinadeset nebesni svetila 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	ယူစွတ်(ဖ်)က သူ၏ ခမည်းတော်အား ဤသို့ဆို၏။ အို-ကျေးဇူးရှင်ခမည်းတော်၊ အကျွနု်ပ်သည် နေ၊လနှင့် တဆယ့်နှစ်လုံးသောကြယ်နက္ခတ်တာရာတို့ကို အိပ်မက်တွင် မြင်ရပါ၏။ ၎င်းတို့သည် အကျွနု်ပ်အား ဝပ်တွား ရှိခိုးနေသည်ကို မြင်ရပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ပြန်လည်သတိရပါလေ) တစ်ရံရောအခါဝယ်(နဗီတမန်တော်)ယူဆွဖ်သည် မိမိဖခမည်းတော်(နဗီတမန်တော်ယအ်ကူဗ်)အား (ဤသို့)ပြောဆိုလျှောက်ထားခဲ့လေသည်။အို-ခမည်းတော်၊ ဧကန်စင်စစ် အကျွန်ုပ်သည်(အိမ်မက်တွင်)ကြယ် တာရာ(ဂြိုလ်နက္ခတ်)ဆယ့်တစ်လုံးကိုလည်းကောင်း၊ သူရိယနေကိုလည်းကောင်း၊ လစန္ဒာကိုလည်းကောင်း၊ မိမိအားစစ်(ဂျ်)ဒဟ်ပျဝပ်ဦးချလျက် ရှိကြသည်ကို တွေ့မြင်ခဲ့ရပါသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

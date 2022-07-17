@@ -710,6 +710,12 @@ I shtom zabravyakha kakvo im se napomnyashe, raztvaryakhme pred tyakh vrati za v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	ထို့နောက် သူတို့သည် မိမိတို့အား ဆုံးမသွန်သင်သောတရားတော်ကို မေ့လျော့သွားသောအခါ ငါအသျှင်မြတ်သည် သူတို့အား လောကစည်းစိမ်အမျိုးမျိုး၏တံခါတးများကို ဖွင့်ပေး၏။ သူတို့သည် မိမိတို့အား ပေးသနားတော်မူသော စည်းစိမ်ဥစ္စာများတွင် ပျော်ရွှင်မြူးတူးနေစဉ် ငါသည် သူတို့ကို ရုတ်တရက် ရှောင်တခင် ဖမ်းဆီးတော်မူ၏။ ထိုအခါ သူတို့သည် အံ့အားသင့်နေကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ၎င်းတို့သည် မိမိတို့အား သတိပေးနှိုးဆော်ခြင်းခံကြရလေသော ကိစ္စများကို မေ့ပျောက်ထားခဲ့ကြ၏။ ထိုအခါ ငါအရှင်မြတ်သည် ၎င်းတို့ အပေါ်၌ ခပ်သိမ်းကုန်သော စည်းစိမ်တို့၏တံခါးများကို ဖွင့်လှစ်ပေးတော်မူလိုက်၏။နောက်ဆုံးတွင် ၎င်းတို့သည် မိမိတို့ရရှိကြကုန်သော စည်းစိမ်တို့နှင့်စပ်လျဉ်း၍ မော်ကြွား၍ လာကြပြန်သောအခါ ငါအရှင်မြတ်သည် ၎င်းတို့အား ရုတ်တရက်ဖမ်းဆီး (ပြစ်ဒဏ်ပေး)တော်မူလိုက်၏။ ထိုအခါ ၎င်းတို့သည် မျှော်လင့်ချက် ကုန်ဆုံး၍တွေဝေ မိန်းမောသွားကြလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Nie se nadprevarvame da im storim dobro? Ne, ala te ne zabelyazvat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅၊၅၆။	ငါအရှင်မြတ်သည် သူတို့အား ပေးသနားတော်မူသောဥစ္စာပစ္စည်း၊သားသမီးအခြွေအရံများဖြင့် ငါသည် သူတို့ အကျိုးကို အဆောတလျင်ဆောင်ရွက်တော်မူသည်ဟု သူတို့ထင်ကြသလော၊ ယင်းသို့မဟုတ်ချေ၊ သို့သော် သူတို့သည် မမြင်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့အား ငါအရှင်မြတ်သည် ကောင်းကျိုးများကို ဆောလျင်စွာပေးတော်မူသည်ဟု၊ ထိုသို့အလျှင်းမဟုတ်၊ စင်စစ်မှာကား ၎င်းတို့သည် မသိ နားမလည်ကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

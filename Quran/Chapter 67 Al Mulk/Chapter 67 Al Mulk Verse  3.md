@@ -710,6 +710,12 @@ Koĭto sŭtvori sedem nebesa na sloeve. Ne shte vidish nesŭrazmernost v tvoren
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။ အရှင်မြတ်သည် ကောင်းကင်ဘုံခုနစ်ထပ်ကို အဆင့်ဆင့်ဖန်ဆင်းတော်မူ၏၊ အို-တမန်တော်၊ သင်သည် မဟာကရုဏာတော်အရှင်၏ ဖန်ဆင်းတော်မြူခင်း ၌ ချွတ်ယွင်းချက်ကို မတွေ့မမြင်နိုင်ချေ၊ တဖန်ကြည့်ရြှုကလော့၊ ချွတ်ယွင်းချက်တစ်စုံတစ်ရာကို သင်တွေ့မြင်နိုင်သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်အရှင်မြတ်သည် မိုးကောင်းကင်ခုနစ်ထပ်ကို အထပ်ထပ် ဖန်ဆင်းတော်မူခဲ့၏။ အသင်သည် "ရဟ်မာန်" ကရုဏာတော်ရှင်၏ ဖန်ဆင်းမှု၌ ကွာခြားမှု၊ မဆီလျော်မှုဟူ၍ကား လုံးဝ တွေ့ရှိရမည် မဟုတ်ပေ။ သို့ဖြစ်ပေရာ အသင်သည် မျက်စိကို ပြန်မော့၍ ကြည့်လော့၊ အသင်သည် တစ်စုံတစ်ရာ အက်ကွဲမှု တွေ့မြင်ရလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

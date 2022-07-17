@@ -710,6 +710,12 @@ bezzhizneni mŭrtŭvtsi. I ne shte usetyat koga shte bŭdat vŭzkreseni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	ထိုဘုရားပျက်တို့သည် အသက်မရှိ အသေသာဖြစ်၏။ ထို့အပြင်သူတို့သည် မိမိတို့ဘယ်အချိန်အခါတွင် ရှင်ပြန်ထ မြောက်ကြရမည်ကို မသိကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (၎င်းတို့သည်) သူသေများ(သက်မဲ့များပင်) ဖြစ်ကြကုန်၏။ ရှင်သူများမဟုတ်ကြပေ။ ထိုမှတစ်ပါး ၎င်းတို့မှာမိမိတို့သည် မည်သည့်အချိန်အခါ၌ ရှင်ပြန်ထစေခြင်း ခံကြရမည်ကိုပင် မသိကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

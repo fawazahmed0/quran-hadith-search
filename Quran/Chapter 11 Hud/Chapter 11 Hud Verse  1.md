@@ -710,6 +710,12 @@ Alif. Lam. Ra. Kniga, znameniyata na koyato byakha utvŭrdeni, posle razyasneni 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။	အလီ(ဖ်)၊လမ်၊မြီ၊ရာ၊ ဤကျမ်းတော်သည် စုံလင်ပြည့်စုံ၍ အဓိပ္ပါယ်ထင်ရှားရှင်းလင်းထားသောနှုတ်ကပတ် ကျမ်းတော်ဖြစ်၏ ဤကျမ်းတော်သည် ဉာာဏ်ပညာရှိတော်မူသော၊ အလုံးစုံသိတော်မူသောအရှင်ထံတော်မှဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလစ်ဖ်၊ လာမ်၊ ရာ။ ဤသည် အကြင်ကျမ်းဂန်တော်တစ်ဆူတည်း၊ ထိုကျမ်းဂန်၏ အာယတ်တော်များသည် မြဲမြံခိုင်ခံ့အောင်ပြုလုပ်ပြီးဖြစ်ချေသည်။ ထို့ပြင်တဝထိုအာယတ်တော်များသည် ကျိုးကြောင်းဆင်ခြင်တုံ တရားနှင့်ပြည့်စုံတော်မူသော အကြွင်းမဲ့သိမြင်တော် မူသောအရှင်မြတ်အထံတော်မှ အသေးစိတ် ရှင်းလင်းဖော်ပြပြီး ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

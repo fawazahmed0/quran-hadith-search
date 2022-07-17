@@ -710,6 +710,12 @@ Allakh! Nyama drug Bog osven Nego! Zatova na Allakh da se upovavat vyarvashtite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။ အလ္လာဟ်အရှင်မြတ်မှတပါး အခြားအရှင်သခင်မရှိချေ၊ ထို့ကြောင့်ယုံကြည်သူတို့သည် အလ္လာဟ်အရှင်မြတ်အား သာလျှင် ယုံကြည်ကိုးစားစေကြကုန်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သာလျှင် (ဆည်းကပ်ကိုးကွယ်ရာအရှင် ဖြစ်တော်မူ၏။) ထိုအရှင်မြတ်မှတစ်ပါး ဆည်းကပ်ကိုးကွယ်ရာ အရှင်ဟူ၍ အလျှင်း မရှိပြီ။ သို့ဖြစ်ပေရာ ‘မုအ်မင်န်’ သက်ဝင် ယုံကြည်သူတို့မှာမူကား အလ္လာဟ်အရှင်မြတ်၏အပေါ်၌သာလျှင် ယုံပုံလွှဲအပ် အားထားရာကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

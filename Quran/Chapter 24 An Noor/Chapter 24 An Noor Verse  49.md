@@ -710,6 +710,12 @@ A ako pravdata e v tyakhna polza, otivat pri nego pokorni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	သို့သော်သူတို့သည် မှန်ကန်သောဘက်မှ ဖြစ်ခဲ့လျှင် တမန်တော်ထံသို့ စိတ်တူသဘောတူချဉ်းကပ်လာခဲ့ကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကယ်၍ ၎င်းတို့၌အခွင့်အရေးရှိလျှင် ၎င်းတို့သည် ထိုရစူလ်တမန်တော်မြတ်သို့ ကျိုးနွံစွာနှင့် ရောက်ရှိလာကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

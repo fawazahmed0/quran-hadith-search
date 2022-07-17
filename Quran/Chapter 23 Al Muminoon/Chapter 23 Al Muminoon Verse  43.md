@@ -710,6 +710,12 @@ Nikoya obshtnost ne izprevarva svoya srok i ne go zabavya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	မည်သည့်လူမျိုးမှ မိမိတို့အတွက် သတ်မှတ်ထားသောအချိန်ကို ပို၍မနေနိုင်ချေ၊ မရွှေ့ဆိုင်းနိုင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သည့်အုပ်စုမျှပင် မိမိတို့နှင့်ပတ်သက်၍ သတ်မှတ်ပြဋ္ဌာန်းပြီးဖြစ်သော အချိန်ကာလထက် စောနိုင်သည်လည်းမဟုတ်ပေ။ နောက်ကျနိုင်သည်လည်းမဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

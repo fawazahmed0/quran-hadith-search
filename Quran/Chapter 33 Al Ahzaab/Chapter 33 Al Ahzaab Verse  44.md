@@ -710,6 +710,12 @@ Pozdravŭt im v Denya, kogato shte Go sreshtnat, e: “Mir!” Za tyakh Toĭ e 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	အလ္လာဟ်အရှင်မြတ်အား ဒိဋ္ဌမျက်မြင်ဖူးမျော်ရမည့်နေ့တော်ကြီး၌ အရှင်မြတ်သည် သူတို့အား ငြိမ်သက်ချမ်းသာ စေကုန်ဟု နှုတ်ခွန်းဆက်တော်မူလတ့ံ၊ အရှင်မြတ်သည် သူတို့အဖို့အရာ အလွန်မွန်မြတ်သောအောင်ဆုမင်္ဂလာ ကို အသင့်စီရင်ထားတော်မူပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ထိုအရှင်မြတ်နှင့် တွေ့ဆုံကြသောနေ့တွင် (ထိုအရှင်မြတ်၏)၎င်းတို့အား နှုတ်ခွန်းဆက်တော် မူမည့် စကားမှာ စလာမ် ဟူ၍ပင် ဖြစ်ပေမည်။ ထိုမှတစ်ပါးထိုအရှင်မြတ်သည် ၎င်းတို့ အဖို့ မြင့်မြတ်လှစွာသော အကျိုးကိုအဆင်သင့် ပြုလုပ်၍ ထားရှိတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

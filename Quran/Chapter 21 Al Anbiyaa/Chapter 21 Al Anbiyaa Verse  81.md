@@ -710,6 +710,12 @@ I podchinikhme na Sulaĭman burniya vyatŭr, koĭto dukhashe po volyata mu kŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၁။	တဖန်ငါသည် လေကို တမန်တော်စိုလိုင်မာန်၏အမိန့်အတိုင်း တိုက်ခိုက်ရန် စီမံခန့်ခွဲတော်မူ၏၊ ထိုလေသည် သူ၏အမိန့်အတိုင်း ငါ ကောင်းကြီးမင်္ဂလာပြုတော်မူသောနယ်ပယ်သို့ တိုက်ခတ်လေ၏၊ ငါသည် အရာခပ်သိမ်း ကုန်တို့ကို သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး (ငါအရှင်မြတ်သည်) စုလိုင်မာန်အား ပြင်းထန်စွာတိုက်ခတ်သောလေကို နိုင်နင်းစေတော်မူခဲ့၏။ ယင်းလေသည် ထိုစုလိုင်မာန်၏အမိန့် နှင့် ငါအရှင်မြတ်ကျက်သရေမင်္ဂလာ၊ သုခချမ်းသာနှင့် ပြည့်စုံစေတော်မူသောနယ်မြေသို့ တိုက်ခတ်သွားလာလေ၏။ စင်စစ်သော်ကားငါအရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့သိတော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

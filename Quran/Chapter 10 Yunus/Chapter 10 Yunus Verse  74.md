@@ -710,6 +710,12 @@ Posle izpratikhme podir nego pratenitsi pri tekhnite narodi i doĭdokha pri tya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၄။	ထို့နောက်သူအနိစ္စရောက်ပြီးသောအခါ ငါသည် တမန်တော်များကို မိမိတို့အမျိုးသားထံသို့ စေလွှတ်တော်မူ၏။ သူတို့သည် ရှင်းလင်းထင်ရှားသောသက်သေသာဓကများကို ယူဆောင်လာကြ၏။ သို့သော်ထိုအမျိုးသားတို့သည် မိမိတို့အထက်က ငြင်းပယ်ခဲ့သည်ကို ယခုမယုံကြည်လိုကြချေ။ ငါသည် တရားတော်ကို ကျူးလွန်သောသူတို့၏ စိတ်နှလုံးကို ယင်းသို့တံဆိပ်နှိပ်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ငါအရှင်မြတ်သည် ထို(နဗီတမန်တော်)နူးဟ် မရှိသည့်နောက်တွင်(အခြားသော)ရစူလ်တမန်တော်များကို ထိုရစူလ်တမန်တော်များ၏ အမျိုးသားများထံစေလွှတ်တော်မူခဲ့လေသည်။ သို့ဖြစ်ပေရာ ထိုရစူလ်တမန်တော်များသည် ၎င်း တို့ထံ ထင်ရှားစွာသော သက်သေသာဓကများကိုယူဆောင်လာခဲ့ကြလေသည်။ သို့ရာတွင်(ယခုသော်) ထိုအမျိုးသားများသည် မိမိတို့ရှေးဦးမဆွက မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်ခဲ့ကြသောကြောင့် ယုံကြည်ကြရန် မဖြစ်တော့ပေ။ ငါအရှင်မြတ်သည် စည်းကမ်းကျူး လွန်သောသူတို့၏ စိတ်နှလုံးပေါ်တွင်ဤအတိုင်းပင် တံဆိပ်ခတ်နှိပ်တော်မူလေ့ ရှိပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

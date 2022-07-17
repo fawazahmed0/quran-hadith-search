@@ -710,6 +710,12 @@ Taka e, zashtoto nevernitsite sledvat lŭzhata, a vyarvashtite sledvat istinata 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	ယင်းသို့ဖြစ်ရခြင်းမှာ မယုံကြည်သူတို့သည် မိစ္ဆာတရားသည် တပ်မက်၍ ယုံကြည်သူတို့သည် မိမိတို့အသက် သခင်ကျေးဇူးရှင်ကြီးထံမှ ကျရောက်လာသောသမ္မာတရားတော်ကို မြတ်နိုးလိုက်နာကြသောကြောင့်တည်း၊ အလ္လာဟ်အရှင်မြတ်သည် လူသားတို့အဖို့ ဥပမာဥပမေယျများကို ဆောင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသို့ဖြစ်ရခြင်းမှာ ကာဖိရ် သွေဖည်ငြင်းပယ်သောသူတို့သည် အမှားကို လိုက်နာခဲ့ကြသောကြောင့် လည်းကောင်း၊ ‘မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူတို့မှာ အမှန်တရားကို လိုက်နာခဲ့ကြသောကြောင့်လည်းကောင်း၊ ဖြစ်ပေသည်။ အလ္လာဟ်အရှင်မြတ်သည် ဤနည်းအတိုင်းပင် လူတို့၏အကျိုးငှာ ၎င်းတို့၏ အခြေအနေများကို ခိုင်းနှိုင်း မိန့်ကြားထားတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

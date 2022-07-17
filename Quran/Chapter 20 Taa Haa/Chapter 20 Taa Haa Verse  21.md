@@ -710,6 +710,12 @@ Reche: “Vzemi ya i ne se strakhuvaĭ! Nie shte ya vŭrnem v pŭrviya ĭ obra
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	တဖန်အရှင်မြတ်က အို--မူစာ၊ ၎င်းကို ဆုပ်ကိုင်လော့၊ မကြောက်လင့်၊ ငါသည် ၎င်းကို မူလအတိုင်းဖြစ်စေ တော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်က (ဤသို့) မိန့်ကြားတော်မူခဲ့လေ၏။ (အို-မူစာ) အသင်သည် ယင်းေ)မကို (မိမိလက်ဖြင့်)ကိုင်ဖမ်းပါလေ။ ၎င်းပြင် အသင်မကြောက်နှင့် ယခုပင်ငါအရှင်မြတ်သည် ယင်းေ)မကို ၎င်း၏ မူလပထမအခြေအနေအတိုင်း ပြန်လည်၍ဖြစ်စေတော်မူမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ osven Iblis, koĭto se vŭzprotivi da e s poklanyashtite se
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	သို့သော်အီဗလစ်မာရ်နတ်မူကား ဦးချသူတို့ဘောင်တွင် မပါရန် ငြင်းဆိုသည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အီဗ်လီစ်မှအပ၊ ယင်းအီဗ်လီစ်မှာမူကား စဂျ်ဒဟ်ပျပ်ဝပ်ဦးချသူတို့တွင် အပါအဝင်ဖြစ်ခြင်းကို ငြင်းပယ် ခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

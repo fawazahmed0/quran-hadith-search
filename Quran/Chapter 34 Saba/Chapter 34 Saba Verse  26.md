@@ -710,6 +710,12 @@ Kazhi: “Shte ni sŭbere nashiyat Gospod, posle shte ot·sŭdi spravedlivo mezh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	တဖန်ဟောကြားလော့၊ အကျွနု်ပ်တို့၏ အသက်သခင်ကျေးဇူးရှင်ကြီးသည် ငါတို့အားလုံးကို စုရုံးစေတော်မူမည်၊ ထိုအခါငါတို့စပ်ကြားတွင် အရှင်မြတ်သည် တရားသဖြင့်မှန်ကန်စွာစီရင်ဆုံးဖြတ်တော်မူမည်၊ အလ္လာဟ်အရှင်မြတ် သည် အကြွင်းမဲ့သိတော်မူထသောတရားသူကြီးဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ပြောကြားပါဦးလေ။ (အချင်းတို့၊) ငါတို့အား ဖန်ဆင်းမွေးမြူတော် မူသောအရှင်မြတ်သည် ငါတို့အား (ကိယာမတ် ရှင်ပြန်ထမည့်နေ့တွင်) စုရုံးတော်မူပေမည်။ ထို့နောက် ထိုအရှင်မြတ်သည်ငါတို့၏အကြား၌ မှန်ကန်စွာစီရင် ဆုံးဖြတ်တော်မူပေမည်။စင်စစ် ထိုအရှင်မြတ်သည် လွန်စွာ စီရင်ဆုံးဖြတ်တော်မူသော၊လွန်စွာ သိတော် မူသောအရှင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

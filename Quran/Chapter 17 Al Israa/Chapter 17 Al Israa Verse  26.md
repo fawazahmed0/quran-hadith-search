@@ -710,6 +710,12 @@ I otdaĭ na rodninata pravoto mu, i na nuzhdaeshtiya se, i na pŭtnika [v nevol
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	သင်တို့သည် မိမိတို့သားချင်းအား သူရထိုက်သောအထောက်အပံ့ကို ပေးလော့။ ထို့အပြင်သူတောင်းစားခရီးသွား အာဂန္တုတို့ကိုလည်း ပေးကမ်းလှုဒါန်းလော့။ သင်တို့သည် မိမိဥစ္စာပစ္စည်းကို အချည်းနှီးအကျိုးမဲ့မဖြုန်းတီးကြလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်သည် ဆွေမျိုးနီးစပ်သူအား၎င်း၏ရသင့်ရထိုက်သော အခွင့်အရေးကို ပေးပါလေ။ (ထို့ပြင်သူဆင်းရဲအားလည်းကောင်း၊ ခရီးသည်အား လည်းကောင်း၊(ယင်းတို့ရသင့်ရထိုက်သောအခွင့်အရေးများကိုပေးပါလေ)။ သို့ရာတွင် အသင်သည်(မိမိဥစ္စာပစ္စည်းများကို)အလဟဿမဖြုန်းတီးလေနှင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

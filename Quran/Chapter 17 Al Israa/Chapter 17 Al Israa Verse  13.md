@@ -710,6 +710,12 @@ I privŭrzakhme delata na vseki chovek kŭm negovata shiya. I v Denya na vŭzkre
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	ငါသည် လူသားတိုင်း၏ ပြုကျင့်မှုစာရင်းကို သူ၏ လည်ပင်း၌ ဆွဲထားတော်မူ၏။ ထို့အပြင်ငါသည် ရှင်ပြန် ထမြောက်ရသောနေ့တော်ကြီး၌ သူ့အတွက် စာရင်းစာအုပ်ကြီးကို ထုတ်ဆောင်လာလတ့ံ။ သူသည် ထိုစာအုပ် ကြီးကို မိမိရှေ့မှောက်တွင် ဖွင့်လှန်ထားသည်ကို တွေ့ရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ငါအရှင်မြတ်သည် လူတိုင်းလူတိုင်း၏အပြုအမူကို ၎င်း၏လည်ကုပ်တွင် ခိုင်မြဲစွာချည်နှောင် ထားတော်မူသည်။ ၎င်းပြင် ငါအရှင်မြတ်သည် ကိယာမတ်နေ့တွင်၎င်းအား မှတ်တမ်းတစ်ခုကို ထုတ်ပေးတော်မူပေမည်။ ၎င်းသည် ထိုမှတ်တမ်းကို ပွင့်လျက်တွေ့ရှိရပေလိမ့်မည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

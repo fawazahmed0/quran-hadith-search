@@ -710,6 +710,12 @@ I satanite - edni da stroyat, drugi da se gmurkat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	ထို့အပြင်အဆောင်အအုံတည်ဆောက်လျက်ရှိသောနတ်ဘီလူး၊ ပုလဲရတနာများကို ငုပ်ယူသောနတ်ဘီလူးများ အပါအဝင်ဖြစ်သောရှိုင်တန်မာရ်နတ်များကိုလည်း တမန်တော်စိုလိုင်မာန်၏ အမိန့်ကို နာခံစေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ(ငါအရှင်မြတ်သည်)ဆိုးသွမ်းသော ဂျင်န်(န်)များ (ဝါ)အဆောက်အအုံ ဆောက်သူတိုင်းကိုလည်းကောင်း၊ ရေငုပ်သူတိုင်းကိုလည်းကောင်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

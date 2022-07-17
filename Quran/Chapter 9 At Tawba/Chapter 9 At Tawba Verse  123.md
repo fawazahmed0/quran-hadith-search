@@ -710,6 +710,12 @@ O, vyarvashti, srazhavaĭte se s nevernitsite, koito sa vi nablizo, i neka name
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၃။	အို-ယုံကြည်သူအပေါင်းတို့၊ သင်တို့သည် မိမိတို့ပတ်ဝန်းကျင်ရှိ မိစ္ဆာဒိဋ္ဌိတို့ကို တိုက်ခိုက်ကြလော့၊ သင်တို့သည် သူတို့အပေါ်တွင် ခက်ထန်ကြမ်းကြုတ်ကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် မိမိအမှုတော်ကို ထမ်းဆောင်သူတို့နှင့် အတူတကွရှိတော်မူသည်ကို မှတ်သားကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-’မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူအပေါင်းတို့၊အသင်တို့သည် မိမိတို့၏ အနီးပတ်ဝန်းကျင်ရှိ ကာဖိရ်မယုံမကြည် သွေဖည်ငြင်းပယ်သူတို့အား တိုက်ခိုက်ကြလေကုန်၊ ထို့ပြင် ၎င်းကာဖိရ် မယုံမကြည် သွေဖည်ငြင်းပယ်သူတို့သည်အသင်တို့၌ ပြင်းထန်မှုကို တွေ့ရှိကြစေရာ၏။ ၎င်းပြင် ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် သူတော်စင်တို့နှင့် အတူရှိတော်မူကြောင်း အသင်တို့သည် (ကောင်းစွာ) သိထားကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

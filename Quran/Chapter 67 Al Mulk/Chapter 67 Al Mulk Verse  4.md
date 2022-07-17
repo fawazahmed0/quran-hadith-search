@@ -710,6 +710,12 @@ Posle pak obŭrni vzor vednŭzh i oshte vednŭzh. Vzorŭt shte se vŭrne kŭm te
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။ တဖန်စစ်ဆေးကြည့်ရှုလော့၊ ထပ်၍ ကြည့်လော့၊ သင်သည် မိမိမျက်စိညောင်ခြင်း၊ မောပန်းခြင်းသာ တွေ့ရ လတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် အသင်သည် မျက်စိကိုပြန်မော့၍ အကြိမ်ကြိမ် ပြန်လည်ကြည့်ရှုလော့၊ မျက်စိသာလျှင် အသင့်ထံသို့ အရှက်ရ၍ညောင်းလျက် ပြန်လာမည် ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

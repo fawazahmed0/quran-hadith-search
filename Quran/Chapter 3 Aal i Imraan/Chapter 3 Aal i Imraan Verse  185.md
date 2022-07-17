@@ -710,6 +710,12 @@ Vsyaka dusha shte vkusi smŭrtta i vashite nagradi napŭlno shte vi se izplatyat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈၅။	လူတိုင်းပင် သေဆုံးရမည်။ ရှင်ပြန်ထမြောက်ရသောနေ့တော်ကြီး၌ သင်တို့အား မိမိတို့ ပြုကျင့်ခဲ့ သောအမှုများအတွက်သာလျှင် ကောင်းကျိုးဆိုးပြစ်ပေးတော်မူလတ္တံ့။ အကြင်သူသည် အောင်ဆု မင်္ဂလာတော်ကြီးရသူဖြစ်၏။ ဤလောကီရှင်ခြင်း၏စည်းစိမ်သည် စည်းသိမ်မဟုတ်။ မှောက်မှားခြင်းသာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သက်ရှိသတ္တဝါတိုင်းသည် မရဏ သေခြင်းတရား၏ရသာကို မြည်စမ်းကြရမည်။ တဖန် အသင်တို့သည်ကိယာမတ်ခေါ် (သေပြီးနောက်) ရှင်ပြန်ထရမည့်နေ့၌သာလျှင် မိမိတို့၏(ကောင်းမှုမကောင်းမှုတို့၏)အကျိုးများကိုအပြည့်အစုံပေးခြင်းခံကြရပေမည်။ သို့ဖြစ်ပေရာ အကြင်သူသည် ငရဲမီးဘေးမှ ဖယ်ရှားခြင်းခံရ၍ ဂျန္နတ် အမတသုခဘုံသို့ ဝင်ရောက်စေခြင်းကိုခံရအံ့။ သို့ဖြစ်လျှင် ထိုသူသာလျှင်စင်စစ်ဧကန် အောင်မြင်သောသူ ဖြစ်ပေသည်။အမှန်သော်ကား (နောင်တမလွန်ဘဝသည် သာလျှင် အမြဲခံစားရမည့်ဘဝဖြစ်၍ ဤပစ္စက္ခ မျက်မှောက်) လောကီဘဝသည်ကားထင်ယောင် ထင်မှားဖြစ်စေသောပစ္စည်းမျှသာ ဖြစ်ချေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Nie sŭzhivyavame i Nie umŭrtvyavame, i pri Nas e zavrŭshtaneto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	မှတ်သားကြလော့၊ ငါသည် သက်မဲ့ကို သက်ရှိဖြစ်စေတော်မူ၏၊ သက်ရှိကို သက်မဲ့ဖြစ်စေတော်မူ၏၊ ငါ့အထံတော် သို့သာ ခရီးရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ငါအရှင်မြတ်သည်ပင် ရှင်စေတော်မူ၏။ ၎င်းပြင် ငါအရှင်မြတ်သည်ပင် သေဆုံးစေတော်မူ၏။ ထိုမှတစ်ပါး ငါအရှင်မြတ်အထံတော်သို့ပင် ပြန်လာကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

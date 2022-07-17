@@ -710,6 +710,12 @@ vlezte v Raya, vie i sŭprugite vi, vŭzradvani!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇ဝ။	သင်တို့နှင့်တကွ သင်တို့၏ဇနီးမိန်းမများပါ ပျော်ရွှင်မြူးတူးစေရန် ဥယျာဉ်တော်အတွင်းသို့ ဝင်ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည်လည်းကောင်း၊ အသင်တို့၏ဇနီးကြင်ရာတို့သည်လည်းကောင်း၊ "ဂျန္နတ်"သုခဘုံတွင် ဝင်ရောက်ကြလေကုန်။ (ယင်းသုခဘုံ၌) အသင်တို့ (အားလုံးတို့)သည်ဝမ်းမြောက်စေခြင်း၊ ရိုသေခြင်းကို ခံကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

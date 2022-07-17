@@ -710,6 +710,12 @@ Veche doĭde pri tyakh Pratenika izmezhdu im, no go vzekha za lŭzhets. Togava 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၃။	အမှန်ဆိုသော် သူတို့အထဲ၌ မိမိတို့သားချင်းထဲမှ တမန်တော်တပါးပွင့်လာပြီ၊ သို့သော်သူတို့သည် တမန်တော် ကို မယုံကြည်ငြင်းပယ်ကြ၏။ ထို့ကြောင့်သူတို့သည် မကောင်းမှုပြုသူများဖြစ်နေစဉ် သူတို့အား အပြစ်ဘေး အန္တရာယ်က ဖမ်းဆီး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး မလွဲဧကန် ၎င်းတို့ထံ ၎င်းတို့အနက်မှပင် ရစူလ်တမန်တော်တစ်ပါးသည် ရောက်ရှိလာခဲ့လေသည်။သို့ရာတွင် ၎င်းတို့သည် ယင်းရစူလ် တမန်တော်အား မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်ခဲ့ကြလေသည်။ သို့ဖြစ်ပေရာ ပြစ်ဒဏ်သည် ၎င်းတို့အား ၎င်းတို့ မတရားသောသူများဖြစ်နေကြစဉ်ဖမ်းဆီး ကွပ်မျက်ခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ dodeto stigna izgreva na slŭntseto. Nameri go da izgryava nad khora, za koito N
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၀။	ထိုအခါ သူသည် နေထွက်ရာအရပ်သို့ ရောက်ရှိ၏။ နေသည် လူတသင်းအပေါ်တွင် ထွက်နေသည်ကို သူ တွေ့မြင်ရ၏။ ထိုလူများအား နေ၏ အပူရှိန်မှ အကာအကွယ်ခိုလှုံရာကို ငါအရှင်မြတ်ပေးတော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 နောက်ဆုံးတွင် ယင်းဇုလ်ကရ်နိုင်န်သည် နေထွက်ရာနေရာသို့ ရောက်ရှိခဲ့သောအခါ ထိုနေကို အကြင်လူမျိုးတစ်မျိုး၏အပေါ်၌ ထွက်နေဘိသကဲ့သို့ တွေ့ရှိခဲ့လေသည်။ ငါအရှင်မြတ်သည် ထိုလူမျိုးအားနေ၏ ဤမှာဘက်တွင် အကာအကွယ်တစ်စုံတစ်ရာကိုမျှ ပြုလုပ်၍ပေးတော်မူခဲ့သည်မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

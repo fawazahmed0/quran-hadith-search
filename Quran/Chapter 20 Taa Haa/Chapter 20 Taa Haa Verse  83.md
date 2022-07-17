@@ -710,6 +710,12 @@ WE MA ‘A’XHELEKE ‘AN KAWMIKE JA MUSA
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၃။	အို--မူစာ၊ သင်သည် မိမိ၏လူများမှ အဘယ်ကြောင့်ထွက်ပြေးလာခဲ့သနည်းဟု မေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အို-မူစာ၊ မည်သည့်အရာသည် အသင့်အား မိမိအမျိုးသားတို့ထက် ဦးစွာလာရောက်စေခဲ့ပါသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

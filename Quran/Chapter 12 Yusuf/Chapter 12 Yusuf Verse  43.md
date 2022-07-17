@@ -710,6 +710,12 @@ I reche tsaryat: “Sŭnuvakh sedem okhraneni kravi da gi izyazhdat sedem mŭrsh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	ထို့နောက်ပြည့်ရှင်ဘုရင်သည် မှုးမတ်တို့အား မှတ်သားကြလော့။ ငါသည် အိပ်မက်ထဲတွင် ပိန်ကြံုသောနွားမ ခုနစ်ကောင်တို့က ဝလွင်ထွားကျိုင်းသောနွားမခုနစ်ကောင်ကို စားနေသည်ကို မြင်ရ၏။ ထို့အပြင်လတ်ဆတ်စိမ်းစို သောစပါးနှံခုနစ်နှံနှင့် သွေ့ခြောက်သောစပါးနှံခုနစ်နှံကိုလည်း မြင်ရ၏။ အို-မှုးကြီးမတ်ကြီးတို့၊ သင်တို့သည် အိပ်မက်များ၏ အဓိပ္ပါယ်ကို ကောက်တတ်လျှင် အကျွနု်ပ်၏ အိပ်မက်အဓိပ္ပါယ်ကို ရှင်းလင်းပြောကြလော့ဟု မိန့်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ဘုရင်က ဧကန်စင်စစ် ငါသည်အိပ်မက်တွင် ဝဝဖြိုးဖြိုးရှိကြကုန်သော နွားမခုနစ်ကောင်ကိုပိန်ချုံးလျက်ရှိသော နွားမခုနစ်ကောင်တို့က စား၍နေကြသည်ကိုလည်းကောင်း၊ စိုစိမ်းသော စပါးနှံခုနစ်နှံနှင့်အခြား သွေ့ခြောက်လျက်ရှိကုန်သော (စပါးနှံ ခုနစ်နှံတို့ကို)လည်းကောင်း၊မြင်မက်ခဲ့ လေသည်။ အို-မှူးကြီးမတ်ရာတို့၊ အကယ်၍ အသင်တို့သည် အိပ်မက်ဒိဗ်ဓုမ်ကိုပြော၍ ပြတတ်ကြပါလျှင် ငါ၏(ဤမည်သော) အိပ်မက်ဒိဗ်ဓုမ်ကို ငါ့အား တင်လျှောက်ကြလေကုန်ဟု ပြောကြားခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

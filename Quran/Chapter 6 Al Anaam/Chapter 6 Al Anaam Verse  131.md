@@ -710,6 +710,12 @@ Tova e, zashtoto tvoyat Gospod ne e takŭv, che da pogubva selishtata za gnet, b
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၁။	သင်၏ကျေးဇူးတော်သခင်သည် မြို့ရွာနယ်ပယ်တို့အတွင်း မှီတင်းနေထိုင်ကြသောသူတို့သည် မိမိတို့၏ပြစ်မှုများကိုမသိဘဲလျက် ထိုနယ်ပယ်များကို ဖျက်ဆီးတော်မမူပေ။ အသျှင်မြတ်သည် နိုင်ထက်စီးနင်းပြုတော်မမူပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းကဲ့သို့ ရစူလ်တမန်တော်များကို စေလွှတ်ခြင်း၏အကြောင်းမှာ အသင့်အား မွေးမြူတော် မူသောအရှင်မြတ်သည် မြို့ရွာတို့ကို ၎င်းမြို့ရွာများ၌နေထိုင်သောသူများသတိမမူ အမှတ်မဲ့ရှိနေခိုက် မတရားသဖြင့် (တစ်နည်း)မတရားမှုကြောင့် ဖျက်ဆီးလိုတော် မမူသောကြောင့်ပင်ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

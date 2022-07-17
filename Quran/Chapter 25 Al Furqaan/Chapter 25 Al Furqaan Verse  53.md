@@ -710,6 +710,12 @@ Toĭ e, Koĭto razpolozhi v sŭsedstvo dvete moreta, ednoto - sladko, utolyava
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။	တဖန်အလ္လာဟ်အရှင်မြတ်သည် သမုဒ္ဒရာနှစ်စင်းကို ပေါင်းစပ်လျက်ရှိစေသော်လည်း သီးသန့်ထားတော်မူ၏၊ ၎င်းနှစ်စင်းအနက် တစ်စင်းမှာ အရသာရှိ၏၊ ချို၏၊ တစ်စင်းမှာ ခါး၏၊ အရှင်မြတ်သည် ထိုရေနှစ်စင်းကြားတွင် အဆီးအကာတံတိုင်းကြီးတစ်ခုကို ကာဆီးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည်ပင် ပင်လယ်နှစ်ခုကို ပေါင်းစပ်ပေးတော်မူသောအရှင် ဖြစ်တော်မူပေရာ၊ (ထိုပင်လယ်နှစ်ခုအနက်) ဤတစ်ခုသော ပင်လယ်(ရေ)မှာ ရသာရှိ၍ ချိုမြိန်သော၊ ရေငတ်ပြေစေသော (ရေ)ဖြစ်၏။ သို့ရာတွင် ဤတစ်ခုသောပင်လယ်(ရေ)မှာကား ငန်၍ခါး (သောရေပင်) ဖြစ်ပေသည်။ တစ်ဖန် ထိုအရှင်မြတ်သည် ထိုပင်လယ်နှစ်ခု၏အကြားဝယ် သေးသွယ်သောအဆက်တစ်ခုကို ထားရှိတော်မူခဲ့သည့်ပြင် (တစ်ဘက်မှရေသည် နောက်တစ်ဘက်မှ ရေနှင့်ရောနှောခြင်းမရှိစေရန် ခိုင်လုံသော) အတားအဆီးတစ်ခုဖြင့် ကာဆီး၍ ထားရှိတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

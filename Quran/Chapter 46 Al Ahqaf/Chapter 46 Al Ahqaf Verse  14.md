@@ -710,6 +710,12 @@ Te sa obitatelite na Raya, tam shte prebivavat vechno - vŭzdayanie za tekhnite 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	ဤသူတို့သည် တရားသဖြင့်ဥယျာဉ်တော်ကို ပိုင်ဆိုင်သူများဖြစ်ကြ၏၊ ထိုဥယျာဉ်တော်၌ အစဉ်အမြဲစံစားကြ ရမည်၊ ဥယျာဉ်တော်သည် သူတို့ဆည်းပူးခဲ့သောကုသိုလ်ကောင်းမှုအတွက် ဆုတော်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့မှာ ‘ဂျန္နတ်’သုခဘုံသားများပင် ဖြစ်ကြကုန်၏။ ယင်းသုခဘုံ၌ အမြဲထာဝစဉ် နေထိုင်ကြရပေမည်။(ဤသည်) ၎င်းတို့ ကျင့်မူခဲ့ကြသော အကျင့်အမူတို့၏ အစားပေးခြင်းပင် ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ i v chast ot noshtta Mu se poklanyaĭ, i dŭlgo noshtem Go proslavyaĭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။ ထို့အပြင်အရှင်မြတ်အား ညဉ့်ဦးယံ၌ ဆွလားသ်ဝတ်ပြုလော့၊ ထိုညဉ့်မှာပင် အချိန်ကြာမြင့်စွာ အရှင်မြတ်၏ ကျေးဇူးတော်ဂုဏ်တော်များကို ရင့်ကျူးလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် အသင်သည် ညဉ့်၏အစိတ်အပိုင်း တစ်ခုခု၌လည်း ထိုအရှင်မြတ်အား "စဂျ်ဒဟ်" ပျပ်ဝပ်ဦးချပါလေ။ ထိုမှတစ်ပါး အသင်သည် ညဉ့်၏ရှည်လျားစွာသော အစိတ်အပိုင်း၌ ထိုအရှင်မြတ် စင်ကြယ် သန့်ရှင်းတော်မူကြောင်းကို မြွက်ဆိုပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

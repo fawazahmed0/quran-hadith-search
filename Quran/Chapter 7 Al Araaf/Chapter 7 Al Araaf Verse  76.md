@@ -710,6 +710,12 @@ Onezi, koito se vŭzgordyakha, kazakha: “Nie ne vyarvame v onova, v koeto vie 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၆။	ဂုဏ်မောက်သူတို့က သင်တို့ယုံကြည်သောအရာကို အကျွနု်ပ်တို့သည် မယုံကြည်သောသူများ ဖြစ်ကြည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) မောက်မာပလွှားသော သူတို့က မုချဧကန် ငါတို့သည် အသင်တို့ယုံကြည်ကြသည့်အရာကို ငြင်းပယ်သူများပင် စင်စစ်ဖြစ်ကြသည် ဟု ပြောဆိုကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

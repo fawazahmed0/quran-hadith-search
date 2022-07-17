@@ -710,6 +710,12 @@ I na vsichki tvoyat Gospod shte izplati za deyaniyata im. Svedusht e Toĭ za on
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၁။	မှတ်သားလော့၊ သင်၏ အရှင်သခင်သည် သူတစ်ဦးစီအား သူ၏ ပြုကျင့်မှုအားလုံးကို အမှန်အကန်ပြန်ဆပ်တော် မူလိမ့်မည်။ မှတ်သားလော့။ အရှင်မြတ်သည် သူတို့ပြုကျင့်သမျှတို့ကို အကြွင်းမဲ့သိမြင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (ထိုသူတို့အနက်) အသီးသီးတို့သည်အကြင်သူများပင် အသင့်အား ဖန်ဆင်းမွေးမြူတော် မူသောအရှင်မြတ်သည် အချိန်ကျရောက်သောအခါ ထိုသူတို့၏ အပြုအမူများ(၏အစား)ကို အပြည့်ပေးတော်မူမည်။ ဧကန်အမှန်ထိုအရှင်မြတ်သည် ၎င်းတို့ ပြုမူကြသည်တို့ကို အကြွင်းမဲ့သိမြင်တော် မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

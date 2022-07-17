@@ -710,6 +710,12 @@ dokato stigna zaleza na slŭntseto. Nameri go da zalyazva v kalna voda i nameri 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၆။	ထိုမင်းသည် နေဝင်ရာအရပ်သို့ ရောက်၏။ နေသည် ရွှံ့နစ်အိုင်တခုတွင်း ဝင်သွားသည်ကို သူမြင်ရ၏။ထိုရွှ့ံ အိုင်၏ အနီးအပါး၌ လူတသင်းကို တွေ့မြင်ရ၏။ ငါအရှင်မြတ်က အို-ဇွတ်ကရ်နိုင်၊ သင်သည် သူတို့အား အပြစ်ပေးခြင်းကိုသော်လည်းကောင်း၊ သနားကြင်နာခြင်းကိုသော်လည်းကောင်း၊ ပြုလုပ်လော့ဟု ဗျာဒိတ်ချ တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 နောက်ဆုံးတွင် ယင်းဇုလ်ကရ်နိုင်န်သည် နေဝင်သောနေရာသို့ ရောက်ရှိခဲ့သောအခါ ထိုနေကိုမည်းနက်နောက်ကျိ (ရွှံ့ပုပ်ထူသော)အိုင်တစ်ခုတွင် ဝင်နေဘိကဲ့သို့တွေ့မြင်လေ၏။ ၎င်းပြင် ထိုအိုင်၏အနီးတွင် လူမျိုးတစ်မျိုးကိုလည်း တွေ့ရှိလေသည်။ (ထိုအခါ) ငါအရှင်မြတ်သည် (ယင်း ဇုလ်ကရ်နိုင်န်အား) အို-ဇုလ်ကရ်နိုင်န်၊ အသင်သည် (ဤအမျိုးသားတို့အား)ပြစ်ဒဏ်ခတ်ခြင်းကိုသော်လည်းကောင်း၊ ယင်းတို့နှင့်ပတ် သက်၍ထောက်ထားညှာတာခြင်းကို သော်လည်းကောင်း၊ (ဤနှစ်ခုအနက် မိမိကြိုက်နှစ်သက်ရာကို) ပြုနိုင်ခွင့်ရှိသည် ဟု မိန့် ဲကြား တော် မူခဲ့ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Rekokha: “Izdignete za nego klada i go khvŭrlete v plamŭtsite!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၇။	ထိုအခါမိစ္ဆာယုတ်တို့အချင်းချင်းးပြောကြသည်မှာ အို-အချင်းတို့၊ အေဗရာဟမ်အတွက် အဆောက်အဦးတစ်ခု ဆောက်၍ သူ့ကို ညီးညီးတောက်လောင်နေသောမီးပုံထဲသို့ ပစ်ချကြစို့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(အခါ) အမျိုးသားတို့က "အသင်တို့သည် ထိုအီဗ်ရာဟီမ်၏အဖို့ အဆောက်အအုံတစ်ခုကို တည်ဆောက်ပြီးလျှင်၊ ၎င်းအား မီးတောက်မီးလျှံအတွင်းသို့ ပစ်ချကြလေကုန်" ဟု ပြောဆိုခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

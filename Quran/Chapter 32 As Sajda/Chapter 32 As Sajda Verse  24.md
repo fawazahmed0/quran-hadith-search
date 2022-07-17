@@ -710,6 +710,12 @@ I kogato byakha tŭrpelivi, i v Nashite znameniya se byakha ubedili, storikhme o
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	ထို့အပြင်ထိုသူများသည် သမာဓိတည်ကြည်ခြင်းရှိ၍ ငါချပေးသနားတော်မူသောကျမ်းတော်ကို စိတ်အားထက် သန်စွာယုံကြည်ကြသောအခါ ငါသည် သူတို့အနက် အချို့ကို အကြီးအကဲခန့်ထားလေ၏၊ ထိုအကြီးအကဲတို့ သည် ငါ၏အမိန့်တော်အားဖြင့် ထိုအမျိုးသားတို့အား ခေါင်းဆောင်လမ်းပြကြလေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ထိုအစ္စရာအီလီမျိုးနွယ်တို့အနက် ၎င်းတို့သည် သည်းခံခဲ့ကြသောအခါ၊ ရှေ့ဆောင်ရှေ့ရပ်များ ပြုလုပ်ခန့်အပ်တော်မူခဲ့၏။ ထိုရှေ့ဆောင်ရှေ့ရပ်တို့သည် ငါအရှင်မြတ်၏အမိန့်တော်နှင့် တရားလမ်းညွှန်ကြကုန်၏။ ထို့ပြင် ၎င်းတို့သည် ငါအရှင်မြတ်၏ အာယတ်တော်များကို ယုံကြည်သူများလည်း ဖြစ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

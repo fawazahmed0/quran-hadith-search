@@ -710,6 +710,12 @@ I im otmŭstikhme, i gi izdavikhme v moreto za tova, che vzimakha za lŭzha Nash
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၆။	ထို့ကြောင့် ငါအသျှင်မြတ်သည် သူတို့ကို ဂလဲ့စားချေတော်မူ၏။ ထို့ကြောင့် ငါသည် သူတို့ကို ပင်လယ် သမုဒ္ဒရာ၌ နစ်မြှုပ်သေစေတော်မူ၏။ သူတို့သည် ငါ၏ဗျာဒိတ်တော်များကိုလက်မခံ၊ ငြင်းပယ်အရေးမစိုက်ကြသောကြောင့်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ငါအရှင်မြတ်သည် ၎င်းတို့အား(အပြည့်အဝ) တုံ့ပြန်တော်မူခဲ့လေသည်။ သို့ပါ၍ ငါအရှင်မြတ်သည် ၎င်းတို့အား ငါအရှင်မြတ်၏မုက္ခပါဌ်တော်များကို ငြင်းပယ်ခဲ့ကြသည့်အတွက်လည်းကောင်း၊ ထိုသက်သေလက္ခဏာတော်များကို (လုံးဝ) သတိမမူ လျစ်လျူရှု၍ နေခဲ့ကြသည့်အတွက် လည်းကောင်း၊ သမုဒ္ဒရာပင်လယ်၌ နှစ်မြှုပ်တော်မူခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

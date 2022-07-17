@@ -710,6 +710,12 @@ LA TED’UL-JEWME THUBURÆN WAHIDÆN WE ED’U THUBURÆN KETHIRÆN
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	ထိုအခါငရဲထိန်းတို့က ဤနေ့တော်ကြီး၌ ပျက်စီးခြင်းတစ်ခုတည်းသာမတောင်းကြလင့်၊ များစွာသောပျက်စီး ခြင်းကို တောင်းကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ ၎င်းတို့သည် ဤသို့ပြောကြားခြင်းကို ခံကြရပေမည်။) အသင်တို့သည် ယနေ့ တစ်ခုတည်းသော ပျက်စီးခြင်း (မရဏသေခြင်းတရား)ကို ဟစ်ခေါ်ခြင်း မပြုကြကုန် လင့်။ မြောက်မြားစွာသော ပျက်စီးခြင်း (မရဏသေခြင်းတရား) များကို ဟစ်ခေါ်ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

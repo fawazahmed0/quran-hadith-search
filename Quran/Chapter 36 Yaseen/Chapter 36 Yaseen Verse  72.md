@@ -710,6 +710,12 @@ I im go podchinikhme - ot nego sa ezditnite im zhivotni i ot nego yadat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၂။	ထို့အပြင်ငါသည် ထိုတိရိစ္ဆာန်များကို လူသားတို့ခိုင်းစေသုံးစွဲနိုင်ဖို့ရာ စီရင်ပေးတော်မူ၏၊ သူတို့သည် ထိုတိရိစ္ဆာန် များအနက် အချို့ကို စီးနင်းကြရသည်၊ အချို့ကို စားသုံးကြရသည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ငါအရှင်မြတ်သည် ယင်းတိရစ္ဆာန်များကို အညံ့ခံစေတော်မူခဲ့ရာ ယင်းတိရစ္ဆာန်များအနက် အချို့မှာ ၎င်းတို့၏ အစီးအနင်းဖြစ်ကြ၏။ ထိုမှတစ်ပါး ယင်းတိရစ္ဆာန်များအနက် အချို့ကို ၎င်းတို့သည် စားသုံးကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

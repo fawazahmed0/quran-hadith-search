@@ -710,6 +710,12 @@ Nakarakhme Nie planinite da proslavyat s nego vecher i v zori
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	မှတ်သားကြလော့၊ ငါသည် တောင်များကို ထိုတမန်တော်နှင့်အတူ ညဉ့်တိုင်းနံနက်တိုင်း ငါ့အား ဝတ်ပြု၍ ငါ၏ ဂုဏ်ကျေးဇေူးတော်ကို ချီးကျုးတသစေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် ငါအရှင်မြတ်သည် တောင်များအား ထို"ဒါဝူဒ်"နှင့်အတူ လိုက်နာစေတော်မူခဲ့ရာ ယင်းတောင်များမှာ(ထိုဒါဝူဒ်နှင့်အတူ)ညနေချမ်း၌ လည်းကောင်း၊ နံနက်ယံ၌လည်းကောင်း၊ (ငါအရှင်မြတ်)စင်ကြယ် သန့်ရှင်းတော်မူကြောင်း ဘာဝနာစီးဖြန်း မြွက်ဆိုလျက် ရှိခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

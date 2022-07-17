@@ -710,6 +710,12 @@ I na dvamata ot vas, koito go izvŭrshat, prichinete stradaniya! A ako se razkay
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	သင်တို့အနက် မတရားသော ကာမကျူးလွန်သော ယောကျ်ား၊ မိန်းမနှစ်ဦးလုံးကိုပင် အပြစ်ဒဏ် ပေးကြလော့။ အကယ်၍ ထိုသူတို့သည် သတိနောင်တရ၍ မိမိကိုယ်ကို ပြုပြင်ကြလျှင် သူတို့အား ဆက်လက်၍ အပြစ်မပေးကြလင့်။ အလ္လာဟ်အသျှင်မြတ်သည် မုချဧကန် အပြစ်လွှတ်တော်မူသော အသျှင်၊ ကောင်းချီးမင်္ဂလာပေးသနားတော်မူသောအသျှင်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်တို့အနက်မှ အကြင်သူနှစ်ဦးတို့သည် ယင်းကာမေသုမိစ္ဆာစာရကံကို ကျူးလွန်ကြပါမူ အသင်တို့သည် ထိုသူနှစ်ဦးကို ဒုက္ခပေးကြလေကုန်။ တစ်ဖန် အကယ်၍ ထိုသူတို့နှစ်ဦးသည် (နောင်တ တရားရရှိကာ မိမိတို့အပြစ်မှ လွတ်ငြိမ်းချမ်းသာခွင့် ရရှိခြင်းငှါ) ဝန်ချတောင်းပန်ကြ၍ (မိမိတို့ကိုယ်ကို) ပြုပြင်သွားခဲ့ကြပါမူ အသင်တို့သည် ယင်းသူတို့နှစ်ဦး (အားဒုက္ခပေးခြင်း) မှ ရှောင်ရှားကြလေကုန်။ ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် (ဝန်ချတောင်းပန်သူများဘက်သို့) အကြိမ်ကြိမ် ကရုဏာတော်နှင့် ပြန်လှည့်တော်မူသောအရှင်၊ အလွန်သနားညှာတာတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

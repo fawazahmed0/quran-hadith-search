@@ -710,6 +710,12 @@ v Denya, v koĭto shte se raztresat zemyata i planinite, i shte stanat planinit
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။ ကမ္ဘာမြေပြင်တဝှမ်းလုံးနှင့် တောင်ကြီးတောင်ငယ်တို့သည် မငြိမ်မသက်သွက်သွက်ခါ တုန်လှုပ်၍ တောတောင် တို့သည် ပြိုကျဆင်းနေသော သဲလုံးမြူမှုန့်ပုံကဲ့သို့ဖြစ်သောနေ့တော်ကြီး၌ ထိုအပြစ်ဒဏ်ကို ခံကြရလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်နေ့တွင်(ထိုနေ့တွင်)ကမ္ဘာမြေသည်လည်းကောင်း၊ တောင်များသည်လည်းကောင်း၊ တုန်လှုပ်သွားကြပေမည်။ ထိုမှတစ်ပါး တောင်များသည် ရွေ့လျားလွင့်ပါးလျက်ရှိသော သဲသောင်များပင် ဖြစ်သွားကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

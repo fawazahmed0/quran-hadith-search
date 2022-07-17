@@ -710,6 +710,12 @@ Koito poglŭshtat imotite na siratsite nespravedlivo, te poglŭshtat v stomasite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	မှတ်သားကြလော့။ အကြင်သူတို့သည် မိဘမဲ့တို့၏ဥစ္စာစီးပွားကို မတရားစားသောက်ကြ၏။ ထိုသူတို့သည် မိမိတို့ဝမ်းတွင်းများသို့ မီးတောက်လျှံကိုသာ မျိုချကြ၏။ သူတို့သည် တောက်လောင် နေသော မီးတောက်မီးလျှံတွင်း အကင်ခံကြရမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မုချဧကန် အကြင်သူများသည် ဖမဲ့ကလေးများ၏ ဥစ္စာပစ္စည်းများကို မတရားသဖြင့် စားသုံးကြ၏။ မုချဧကန် ထိုသူများသည် မိမိတို့ဝမ်းတွင်းသို့ မီး (ကျီမီးခဲ) ကိုသာလျှင် (ထည့်သွင်း) စားသုံးကြ၏။ ၎င်းပြင် ထိုသူများသည် မကြာမြင့်မီအတွင်း အလျှံပြောင်ပြောင် တောက်လောင်လျက်ရှိသော ငရဲသို့ သက်ဆင်းဝင်ရောက်လာကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

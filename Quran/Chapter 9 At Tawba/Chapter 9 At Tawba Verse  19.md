@@ -710,6 +710,12 @@ Nima smyatate, che da snabdyavash poklonnitsite s voda i da ustroĭvash Sveshte
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	ဟာဂျ်ပြုသူတို့အား ရေငတ်ပြေအောင် ရေတိုက်ခြင်းနှင့် ဘေးမဲ့ပလီကျောင်းတော်ကို ထိန်းသိမ်းခြင်းတို့သည် အလ္လာဟ်နှင့် နောက်ဆုံးနေ့ကို ယုံကြည်၍ အလ္လာဟ်အရှင်မြတ်၏ လမ်းတော်ကြီး၌ ကြိုးစားအားထုတ်သူနှင့် တန်ဖိုးတူမျှဟု သင်တို့ထင်မှတ်ကြသလော၊ အရှင်မြတ်ရှေ့တော်၌ မတူမျှပေ။အလ္လာဟ်အရှင်မြတ်သည် အကုသိုလ်မကောင်းမှုကို ပြုကျင့်သူတို့ကို လမ်းပြတော်မမူပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် ဟာဂျီများအား ရေတိုက်ခြင်းကိုလည်းကောင်း၊ ‘မတ်စ်ဂျိဒေဟရာမ်’ ထူးမြတ်သော ဗလီကျောင်းတော်ကို စည်ကားသာယာအောင် ပြုလုပ် ခြင်းကိုလည်း ကောင်း၊ အလ္လာဟ်အရှင်မြတ်နှင့် နောက်ဆုံးနေ့ကိုယုံကြည်သည့်ပြင် အလ္လာဟ်အရှင်မြတ်၏လမ်းတော်၌ စစ်မက်ပြိုင်ဆိုင်တိုက်ခိုက်သောသူ (၏ကောင်းမှုကုသိုလ်) နှင့်တူမျှသည်ဟု ထင်မြင်ယူဆထားကြလေသလော။ ထိုသူများသည်အလ္လာဟ်အရှင်မြတ်အထံတော်၌ (အဆင့်အတန်း ချင်း)မတူကြချေ။ ထို့ပြင် အလ္လာဟ်အရှင်မြတ်သည် မတရားကျူးလွန်သောသူတို့အား တရားလမ်းမှန်ကိုပြသတော်မူသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

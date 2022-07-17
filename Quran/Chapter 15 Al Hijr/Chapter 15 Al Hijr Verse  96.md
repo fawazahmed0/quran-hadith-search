@@ -710,6 +710,12 @@ koito nared s Allakh priemat drug bog. Ala shte uznayat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၆။	ထိုသူတို့သည် ဘုရားတုများကို အလ္လာဟ်အရှင်မြတ်နှင့် တွဲဖက်ကြ၏။ သို့သော်သူတို့သိရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတို့သည် အလ္လာဟ်အရှင်မြတ်နှင့်အတူ အခြားကိုးကွယ်ရာများကို (တွဲဖက်ကိုးကွယ်ခြင်းကို)ပြုလုပ်ကြကုန်၏။ သို့ဖြစ်ပေရာ ၎င်းတို့သည် မကြာမြင့်မီ(မိမိတို့ပြုလုပ်ဲခဲ့ကြသော ရှရစ်က်၏ အကျိုးကို) သိရှိကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

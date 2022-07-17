@@ -710,6 +710,12 @@ Ubiĭte Yusuf ili go zakhvŭrlete na nyakoya zemya, ta da vi obŭrne i na vas v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	သူတို့အနက်တဦးက ယူစွတ်(ဖ်)ကို သတ်ပစ်ကြပါစို့။ သို့မဟုတ်တိုင်းတပါးသို့ ယူဆောင်၍ ပစ်ထားကြပါစို့။ ထိုအခါသင်တို့၏ ခမည်းတော်ကို သင်တို့ကို မျက်နှာသာပေးလိမ့်မည်။ ထို့နောက်သင်တို့သည် သစ္စာတရား ရသူတို့ဖြစ်ကြမည်ဟု အကြံပေး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (၎င်းတို့အနက် တစ်ဦးက ဤသို့ပြောဆို အကြံပေးခဲ့လေသည်။) အသင်တို့သည် ယူဆွဖ်အားသတ်ပစ်ကြလေကုန်။ သို့တည်းမဟုတ် ၎င်းအား တိုင်းတစ်ပါးသို့ (သွားရောက်)စွန့်ပစ်ခဲ့ကြလေကုန်။ သို့မှသာလျှင် အသင်တို့၏ခမည်းတော်သည် အသင်တို့ဘက်သို့ပြန်လှည့်၍ မျက်နှာသာပေးရပေလိမ့်မည်။ ထို့နောက် အသင်တို့သည် (အလ္လာဟ်အရှင်မြတ်အထံတော်၌ မိမိတို့အပြစ်ကိုဝန်ချတောင်းပန်ကာ) ဖြောင့်မှန်သောလူစုပြန်၍ဖြစ်ကြလေကုန်။(လိမ့်မည်။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

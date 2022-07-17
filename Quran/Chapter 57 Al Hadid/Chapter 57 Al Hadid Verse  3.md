@@ -710,6 +710,12 @@ Toĭ e Iznachalniya i Bezkraĭniya, i Yavniya, i Skritiya. Toĭ vsyako neshto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	အရှင်မြတ်သည် အစအဆုံးဖြစ်တော်မူ၏၊ အတွင်းအပြင်ဖြစ်တော်မူ၏၊ ခပ်သိမ်းကုန်သောအရာကို အကြွင်းမဲ့ သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည်ပင် အဦးဆုံးဖြစ်တော်မူသော အရှင်မြတ်သည် လည်းကောင်း၊ နောက်ဆုံး၌ရှိနေတော်မူအံ့သော အရှင်မြတ်သည် လည်းကောင်း၊ ထင်ရှားစွာရှိနေတော်မူသော အရှင်မြတ်သည် လည်းကောင်း၊ ကွယ်၍နေတော်မူသော အရှင်မြတ်သည် လည်းကောင်း၊ ဖြစ်တော်မူ၏။ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည်ပင် အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့ သိရှိတော်မူသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

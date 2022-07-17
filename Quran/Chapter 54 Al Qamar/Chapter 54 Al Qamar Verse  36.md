@@ -710,6 +710,12 @@ Toĭ gi predupredi za Nasheto mŭchenie, no te se usŭmnikha v preduprezhdeniet
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	ထို့အပြင် တမန်တော်လွဒ်သည် ထိုသူယုတ်မာတို့အား ငါ၏အပြစ်ဒဏ်တော်အကြောင်းကို သတိပေး၏၊ သို့သော် ထိုသူတို့သည် သူ၏ ဒေသနာတော်ကို ယုံမှားသံသယရှိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ဧကန်မလွဲ ထို ‘လူ(တ်)’က ငါအရှင်မြတ် ဖမ်းဆီးအရေးယူတော်မူမည် ဖြစ်ကြောင်း ၎င်းတို့အား သတိပေးနှိုးဆော်ခဲ့သော်လည်း ၎င်းတို့မှာ (ယင်း)သတိပေးနှိုးဆော်မှုများနှင့် စပ်လျဉ်း၍ အငြင်းအခုံ ပြုခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

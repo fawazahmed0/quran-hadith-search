@@ -710,6 +710,12 @@ koito se skŭpyat i povelyavat na khorata skŭpernichestvo. A koĭto se otvŭrn
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	ထိုကြွားဝါသူတို့သည် မိမိတို့ကိုယ်တိုင် လောဘရမ္မက်ကြီးသည်သာမဟုတ်၊ သူတပါးကိုလည်း လောဘကြီးရန် တိုက်တွန်းနှိုးဆော်ကြ၏၊ ထို့ကြောင့်မည်သူမဆို လမ်းတော်ကို ကျောပေးသွားလျှင် အလ္လာဟ်အရှင်မြတ်၌ တစ်စုံတစ်ရာနစ်နာခြင်းမရှိချေ၊ အဘယ်ကြောင့်ဆိုသော် အရှင်မြတ်သည် ဇာတိပကတိအားဖြင့် ကုံလုံပြည့်စုံ တော်မူ၏၊ ချီးမွမ်းခြင်းတည်ရာဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (၎င်းတို့ကား)အကြင်သူများပင်။ ထိုသူတို့သည် မိမိတို့ကိုယ်တိုင် စေးနှဲကြသည်သာမက၊ သူတစ်ပါးတို့အားလည်း စေးနှဲကြရန် အမိန့်ပေးကြကုန်၏။ စင်စစ်သော်ကား မည်သူမဆို (သုံးစွဲလှူဒါန်း ခြင်းမပြုဘဲ) မျက်နှာလွှဲ၍ ထွက်သွားလျှင် ဧကန်အမှန် အလ္လာဟ်အရှင်မြတ်သည် လိုလားတောင့်တခြင်း ကင်းမဲ့တော်မူသောအရှင်၊ ချီးမွမ်းအပ်သော ဝိသေသဂုဏ်ထူးအပေါင်းတို့နှင့် ပြည့်စုံတော်မူသော အရှင်မြတ် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

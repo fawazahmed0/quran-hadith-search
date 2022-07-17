@@ -710,6 +710,12 @@ I ne mozhesh izvedesh slepite ot zabludata im. Shte te chuyat samo tezi, koito v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။	ထို့အပြင်သင်သည် မျက်စိကန်းသူတို့ကိုလည်း ၎င်းတို့အမှားမှ အမှန်သို့ မညွှန်ပြနိုင်ချေ၊ ငါသည် ကျမ်းတော်မြတ် ကို ယုံကြည်၍ ငါ့ကို ကျိုးနွံနာခံသူတို့မှတပါး အခြားသူတို့ကို ကြားအောင် သင်သည် မပြုနိုင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်သည် မျက်စိကန်းသူတို့အားလည်း ၎င်းတို့၏လမ်းလွဲခြင်းမှ (ကယ်တင်ခြင်းငှာ) တရားလမ်းကို ပြသနိုင်မည်မဟုတ်ပေ။ အသင်သည် ငါအရှင်မြတ်၏ အာယတ်တော်များကို ယုံကြည်၍(အမိန့်တော်များကို) နာခံသော သူတို့အားသာလျှင် ကြားစေနိုင်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

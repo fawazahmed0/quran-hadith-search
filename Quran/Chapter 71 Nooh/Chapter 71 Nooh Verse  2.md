@@ -710,6 +710,12 @@ Reche: “O, narode moĭ, az sŭm yaven predupreditel za vas
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။ သူသည် ဤသို့ဟောကြား၏၊ အေ-အချင်းတို့၊ ငါသည် သင်တို့အား သတိပေးသူရိုးရိုးသာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(နဗီတမန်တော်)နူဟ်က ပြောကြားခဲ့သည်မှာ မိမိအမျိုးသားတို့အား "အို-ငါ၏အမျိုးသားတို့၊ ဧကန်မလွဲငါသည် အသင်တို့အဖို့ ထင်ရှားစွာ သတိပေး နှိုးဆော်သူဖြစ်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

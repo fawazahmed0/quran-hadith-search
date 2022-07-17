@@ -710,6 +710,12 @@ Otvŭdniyat zhivot e po-dobŭr za teb ot nastoyashtiya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။ ဧကန်အမှန် သင့်အတွက် နောင်တမလွန်ဘဝသည် ဤပစ္စုပ္ပန်ဘဝထက် သာလွန်ကောင်းမြတ်ချေမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အသင့်အဖို့ တမလွန်ဘဝသည် မျက်မှောက်လောကီဘဝထက် သာလွန် ကောင်းမြတ်လှ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

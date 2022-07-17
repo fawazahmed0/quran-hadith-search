@@ -710,6 +710,12 @@ Nie go storikhme za pouchenie i za polzvane ot onezi, koito se nuzhdayat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၃။	သဲကန္တာရတွင် နေထိုင်သူတို့၊ ကျေးဇူးတော်ကို သတိရဖို့ရာနှင့် သုခချမ်းသာဖြစ်စေဖို့ရာ ငါသည် မီးကို စီရင်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည်ပင် ထိုသစ်ပင်ကို သတိရစေသော၊ တရားရစေသောအရာ အဖြစ်လည်းကောင်း၊ ခရီးသည်တို့အဖို့ အကျိုးကျေးဇူးရှိစေသောအရာ အဖြစ်လည်းကောင်း၊ ပြုလုပ်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

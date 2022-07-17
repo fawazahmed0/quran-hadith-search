@@ -710,6 +710,12 @@ A otkŭde da znaesh ti kakvo e Vechernitsata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။ နံနက်သောက်ရှုးကြယ်သည် အဘယ်အရာဖြစ်သည်ကို သင်တမန်တော်အား အဘယ်သူရှင်းလင်းပြောပြမည် နည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ညဉ့်အချိန်၌လာသောအရာကား မည်သည့်အရာနည်းဟု အသင် သိပါသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

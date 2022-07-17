@@ -710,6 +710,12 @@ I kogato yadokha ot nego dvamata, pred tyakh se razkrikha sramotiite im, i zapoc
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၁။	ထို့နောက်သူတို့သမီးမောင်နှံသည် ထိုအပင်မှ အသီးကို စားကြ၏၊ ထိုအခါသူတို့သည် မိမိအချည်းနှီးရှိသည်ကို မြင်ကြ၏၊ ရှက်ကြောက်လာကြ၏၊ မိမိတို့ကိုယ်အင်္ဂါကို ဥယျာဉ်တော်ရှိ သစ်ရွက်အချို့နှင့်ဖုံးအုပ်စပြုကြ၏။ အာဒမ်သည် မိမိ၏အရှင်သခင်အား မနာခံ၊ ထို့ကြောင့်သူသည် လမ်းလွဲသွား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ၎င်းတို့(ဇနီးမောင်နှံ)နှစ်ဦးသည်ထိုသစ်ပင်မှ (အသီးကို)စားသုံးခဲ့ကြလေ၏။ ထိုအခါ ၎င်းတို့(ဇနီးမောင်နှံ)နှစ်ဦး၏ (ဖုံးအုပ်လျက်ရှိသော) အရှက်များသည်၎င်းတို့ရှေ့ဝယ် ပေါ်၍သွားခဲ့လေသည်။ ထို့နောက် ၎င်းတို့နှစ်ဦးသည် မိမိတို့(ကိုယ်)ကို ဂျန္နတ်အမတသုခဘုံမှ သစ်ရွက်များဖြင့်ဖုံးအုပ်ခြင်းကို စတင်ပြုလုပ်ခဲ့ကြလေသည်။ စင်စစ် အာဒမ်သည် မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်(၏အမိန့်တော်)ကို ဆန့်ကျင်မိခဲ့လေရာ လမ်းမှန်မှလွဲခဲ့ရလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

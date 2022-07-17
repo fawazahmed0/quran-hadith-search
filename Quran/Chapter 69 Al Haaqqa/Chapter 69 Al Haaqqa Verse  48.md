@@ -710,6 +710,12 @@ To e napomnyane za bogoboyazlivite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။ သို့သော် ဤကုရ်အာန်ကျမ်းတော်သည် အကုသိုလ်မကောင်းမှုကို ရှောင်ကြဉ်သူသူတော်ကောင်းတို့အတွက် ဓမ္မဒေသနာတော်ကြီးဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ယင်းကုရ်အာန်ကျမ်းတော်မြတ်သည် "မွတ္တကီ" သူတော်စင်တို့အဖို့ ဆုံးမဩဝါဒ ပင်ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

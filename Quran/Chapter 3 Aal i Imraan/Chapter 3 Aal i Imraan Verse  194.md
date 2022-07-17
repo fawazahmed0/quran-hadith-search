@@ -710,6 +710,12 @@ I dari ni, Gospodi, onova, koeto si ni obeshtal chrez Tvoite pratenitsi, i ne ni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉၄။	အို-အကျွနု်ပ်တို့၏အသျှင်သခင် အသျှင်သည် မိမိ၏တမန်တော်တို့အားဖြင့် အကျွနု်ပ်တို့အား ဂတိ ဗျာဒိတ်ထားတော်မူသည်တို့ကို အကျွနု်ပ်တို့အား ပေးသနားတော်မူပါ။ ရှင်ပြထမြောက်ရသော နေ့တော်ကြီး၌ အသျှင်သည် အကျွနု်ပ်တို့ကို အရှက်ခွဲတော်မမူပါနှင့်အသျှင်၊ အသျှင်သည် မိမိ၏ ချိန်းဆိုချက်ထားတော်မူခြင်းကို မုချဖျက်တော်မမူပါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ကျွန်တော်မျိုးတို့၏အရှင်၊ ၎င်းပြင် အရှင်မြတ်သည် မိမိ၏ ရစူလ်တမန်တော်များမှ တစ်ဆင့် ကျွန်တော်မျိုးတို့အား ကတိပြုတော်မူသော ကုသိုလ်အကျိုးကိုလည်းကျွန်တော်မျိုးတို့အား ပေးသနားတော်မူပါ။ ၎င်းပြင်အရှင်မြတ်သည် ကျွန်တော်မျိုးတို့အား ကိယာမတ်နေ့တွင်ဂုဏ်ရည် သေးသိမ်အောင် ပြုတော်မမူပါလင့်။ မုချဧကန်အရှင်မြတ်သည် (မိမိထားရှိသော) ကတိတော်ကို (ဘယ်သောအခါမျှ) ဖောက် ဖျက်တော်မူသည် မဟုတ်ပါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

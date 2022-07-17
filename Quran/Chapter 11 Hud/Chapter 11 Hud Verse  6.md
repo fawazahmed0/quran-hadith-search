@@ -710,6 +710,12 @@ I nyama po zemyata tvar, prepitanieto na koyato da ne e ot Allakh. Toĭ znae ne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	ကမ္ဘာမြေပေါ်၌ တိရိစ္ဆာန်တစ်ကောင်မရှိလေမှ၊ ရှိလျှင် ၎င်း၏ ရိက္ခာအစားအစာသည် အလ္လာဟ်အရှင်မြတ်အား မှီခိုရကြ၏။ အရှင်မြတ်သည် ၎င်း၏ အိမ်၊ ၎င်း၏ သချုႋင်း၊ အသီးသီးကို သိတော်မူ၏။ အကြောင်းအရာအားလုံး သည် ထင်ရှားသောမှတ်ပုံတင်စာအုပ်ကြီးတွင် ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်သော်ကား ကမ္ဘာမြေဝယ် ရှိရှိသမျှသော(သွားလာသော)သက်ရှိသတ္တဝါအပေါင်းတို့ကို စားနပ်ရိက္ခာပေးသနားတော်မူ ရန် အလ္လာဟ်အရှင်မြတ်အပေါ်၌တာဝန်ဖြစ်ပေသည်။ (ဝါ)မိမိ ကိုယ်တော်တိုင် တာဝန်ယူထားတော်မူပေသည်။ ၎င်းပြင် ထိုအရှင်မြတ်သည် ယင်းသတ္တဝါများ၏ တာရှည်နေထိုင်ရာဌာနများကိုလည်းကောင်း၊ ခေတ္တနေထိုင်ရာဌာနများကိုလည်းကောင်း၊ သိရှိတော်မူပေသည်။ အလုံးစုံတို့ကား ထင်ရှားလှစွာသော(မှတ်တမ်း)တွင်(လည်းရေးသားပြီး) ရှိနေ၏ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

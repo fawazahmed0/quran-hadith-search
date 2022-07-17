@@ -710,6 +710,12 @@ I be im poveleno da se preklanyat edinstveno pred Allakh, predani Nemu v religiy
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။ လူသားသည် ပင်ကိုယ်အားဖြင့် ဖြောင့်မတ်မှန်ကန်သောကြောင့် ဘာသာတရားကို အလ္လာဟ်အရှင်မြတ်အတွက် သန့်ရှင်းစွာထားပြီးလျှင် အရှင်မြတ်အား ခဝပ်ကိုးကွယ်ခြင်း၊ ဆွလားသ်ဝတ်ပြုခြင်း၊ ဇကားသ်ပေးခြင်းတို့မှတပါး သူတို့အား မည်သည်ကိုမှ ပညတ်တော်မမူချေ၊ ဤသည်သာလျှင် ဘာသာတရားအစစ်အမှန်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ထိုသူတို့သည် ဆည်းကပ် ကိုးကွယ်မှုကို အလ္လာဟ်အရှင်မြတ်အားသာလျှင် ရည်စူး၍ သန့်သန့်ပြုကြလျက် (မမှန်ကန်သော ဘာသာဝါဒ အသီးသီးတို့ကို နဗီတမန်တော်အီဗ်ရာဟီမ်နည်းတူ စွန့်ကာ အလ္လာဟ်အရှင်မြတ်ဖက်သို့သာလျှင်) အာရုံစူးစိုက်ကြလျက် ထိုအရှင်မြတ်အား ကိုးကွယ်ဆည်းကပ်ကြရန်လည်းကောင်း၊ ဆွလာတ်ဝတ်ပြုမှုကို ဆောက်တည်ကြရန်လည်းကောင်း၊ ဇကာတ်ပေးဆောင်ကြရန်လည်းကောင်း၊ အမိန့်ပေးတော်မူခြင်းကို ခံခဲ့ကြရသည်မှတစ်ပါး အခြားတစ်စုံတစ်ရာကိုမျှ အမိန့်ပေးတော်မူခြင်း ခံခဲ့ကြရသည်မဟုတ်ပေ။ အမှန်သော်ကား ဤသည်သာလျှင် မှန်ကန်သူတို့၏လမ်းစဉ်တည်း။ (မှန်ကန်သောအကြောင်းများ၏ လမ်းစဉ်ပင်၊ တရားပင်၊ သာသနာပင်)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

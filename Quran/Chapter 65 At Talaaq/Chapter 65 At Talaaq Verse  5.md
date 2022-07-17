@@ -710,6 +710,12 @@ Tova e povelyata na Allakh. Nizposla ya Toĭ na vas. Ot onzi, koĭto se boi ot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။ ဤပညတ်တော်သည် အလ္လာဟ်အရှင်မြတ်က သင်တို့ထံ ချပေးသနားတော်မူသောနှုတ်ကပတ်တော်ဖြစ်၏၊ အကြင်သူသည် အလ္လာဟ်အရှင်မြတ်၏ အမှုတော်ကို ထမ်းဆောင်အံ့၊ အရှင်မြတ်သည် ထိုသူ၏ အပြစ်များကို ခွင့်လွှတ်တော်မူ၍ ထိုသူအတွက် ဆုတော်ကို ကြီးမားစေတော်မူလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသည်ကား အလ္လာဟ်အရှင်မြတ်၏ အမိန့်တော်ပင်၊ ထိုအရှင်မြတ်သည် ယင်းအမိန့်တော်ကို အသင်တို့ထံ ချပေးတော်မူခဲ့၏။ စင်စစ်သော်ကား မည်သူမဆို အလ္လာဟ်အရှင်မြတ်အား ကြောက်ရွံ့ပါမူ ထိုအရှင်မြတ်သည် ထိုသူ၏ပြစ်မှုဒုစရိုက်များကို ထိုသူမှ ပပျောက်စေတော်မူမည်။ ထိုမှတစ်ပါး ထိုသူ၏ အကျိုးကျေးဇူးကို ကြီးကျယ်စေတော်မူအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

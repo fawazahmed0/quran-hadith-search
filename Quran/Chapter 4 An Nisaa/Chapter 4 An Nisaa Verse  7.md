@@ -710,6 +710,12 @@ Za mŭzhete ima dyal ot onova, koeto sa ostavili roditelite i naĭ-blizkite, i 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	ဥစ္စာပစ္စည်းနည်းများမဟူ မိဘနှစ်ပါးနှင့် ဆွေမျိုးရင်းချာတို့ ထားရစ်ခဲ့ကြသော ဥစ္စာပစ္စည်းများမှ ယောကျ်ား၊ မိန်းမနှစ်ဦးစလုံးပင် အမွေရထိုက်၏။ တရားအတိုင်း သတ်မှတ်ထားသောဝေစုဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ကြီးငယ်မဆို) ယောက်ျားများအဖို့ မိဘနှစ်ပါးနှင့် (သွေးချင်းနီးစပ်သော) ဆွေမျိုးညာတကာတို့က ထားရှိခဲ့ကြသော (အမွေ) ပစ္စည်းများအနက်မှ ဝေစုဝေပုံသည် (သတ်မှတ်ပြီး) ဖြစ်၏။ ၎င်းပြင် (ကြီးငယ်မဆို) မိန်းမများအဖို့လည်း မိဘနှစ်ပါးနှင့် သွေးချင်းနီးစပ်သော ဆွေမျိုးညာတကာတို့က ထားရှိခဲ့ကြသော (အမွေ) ပစ္စည်းများအနက်မှ ဝေစုဝေပုံသည် (သတ်မှတ်ပြီး) ဖြစ်၏။ ထို (အမွေပစ္စည်းသည် နည်းသည်ဖြစ်စေ၊ များသည်ဖြစ်စေ အလ္လာဟ်အရှင်မြတ်အထံတော်မှ) သတ်မှတ်ပြဋ္ဌာန်းထားတော်မူသော ဝေစုဝေပုံတစ်ရပ်ဖြစ်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

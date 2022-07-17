@@ -710,6 +710,12 @@ Rekokha: “O, Shuaĭb, nima tvoyata molitva ti povelyava da ostavim onova, na 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၇။	သူတို့က အို-ရှိုအိုက်ဗ်၊ သင်၏ တရားတော်က ငါတို့အား မိမိတို့မိဘဘိုးဘွားတို့ကိုးကွယ်သည့်ဘုရားများကို သော်လည်းကောင်း၊ ငါတို့ပစ္စည်းကို ငါတို့၏ စိတ်အတိုင်းသုံးစွဲခြင်းကိုသော်လည်းကောင်း၊ စွန့်လွှတ်ရန် အမိန့်ပေးသလော။ သင်သည် ထောက်ထားညှာတာတတ်သူ၊ မှန်သောအကျင့်ရှိသူဖြစ်၏ဟု ပြောကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်း(အမျိုးသား)တို့က(နဗီတမန်တော် ရှုအိုက်ဗ်အားဤသို့)ပြောဆိုခဲ့ကြ၏။ အို-ရှုအိုက်ဗ်၊ အသင်၏ ဆွလာတ်ဝတ်ပြုမှုသည်(သာသနာသည်)အသင့်အား ကျွန်ုပ်တို့(၏အကြီးအကဲများဖြစ်ကြကုန်သော)အဖ၊ဘိုး၊ဘေးတို့ကိုးကွယ်ဆည်းကပ်ကြလေသောဘုရားများကို ကျွန်ုပ်တို့စွန့်လွှတ်ရန်လည်း ကောင်း၊ကျွန်ုပ်တို့သည် မိမိတို့ဥစ္စာပစ္စည်းများတွင် မိမိတို့အလိုကျပြုလုပ်ကြသည်ကို ကျွန်ုပ်တို့ စွန့်လွှတ်ရန်လည်းကောင်း၊ စေခိုင်းပါသလော။ ဧကန်အမှန် အသင်တစ်ဦးသည်(ပင်ဣန္ဒြေ)နှင့်ပြည့်စုံသောသူ၊ ရိုးသားဖြောင့်မတ်သောသူ ဖြစ်သည်လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

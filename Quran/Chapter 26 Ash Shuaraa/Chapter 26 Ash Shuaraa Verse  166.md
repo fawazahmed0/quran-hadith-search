@@ -710,6 +710,12 @@ a ostavyate sŭprugite si, koito vashiyat Gospod e sŭtvoril za vas? Da, vie ste
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၆။	သင်တို့၏ အရှင်သခင်ဖန်ဆင်းပေးသနားတော်မူသော ဇနီးမယားများနှင့်မပျော်ပဲလျက် ယောက်ျားအချင်းချင်း ပစ်မှားကြသလော၊ သင်တို့သည် တရားတော်ကို ချိုးဖဲ့သောသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အသင်တို့သည် မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်က မိမိတို့အဖို့ ဖန်ဆင်းထားတော်မူသော ဇနီးမိန်းမတို့ကိုမူ စွန့်ထားကြလေသလော။ စင်စစ်မှာမူကား အသင်တို့သည် စည်းကမ်းကျူးလွန်ဖောက်ဖျက်သော အမျိုးသားများပင် ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

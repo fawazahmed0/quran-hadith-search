@@ -710,6 +710,12 @@ I vi zaslonikhme s oblaka, i spusnakhme nad vas mannata i pŭdpŭdŭtsite: “Ya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၇။	၎င်းပြင် ငါသည် သင်တို့ကို တိမ်ဖြူမြင့်မိုးထားတော်မူ၏။ မန္နနှင် ငုံးငှက်ကို သင်တို့အား ချပေးတော် မူ၏။ ထုအခါ သင်တို့သည် ငါပေးသနားတော်မူသည့် ကောင်းမွန်သောအရာများမှ မှီဝဲကြလော့ဟု မိန့်တော်မူ၏။ ငါသည် သူတို့အားမတရားပြုတော်မူသည်မဟုတ်။ သို့သော် သူတို့သည် မိမိကိုယ်ကို မိမိတို့ မတရားပြုကြသည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-အစ္စရာအီလီ မျိုးနွယ်အပေါင်းတို့) ငါအရှင်သည် အသင်တို့အပေါ်ဝယ် မိုးတိမ်များကို အရိပ်အာဝါသအဖြစ် ပြုလုပ်ပေးတော်မူ၏။ ထိုမျှမကသေး (မွတ်သိပ်ဆာလောင်ခြင်းမှ ကင်းစိမ့်သောငှာ) ငါအရှင်သည် မန္နဟူသော စားဘွယ်ရာတမျိုးနှင့် စလ်ဝါ ခေါ် ငုံးသတ္တဝါ တစ်မျိုးကို ချပေးသနားတော် မူ၏။ သို့ဖြစ်ရာ အသင်တို့သည် ငါအရှင် ပေးသနားတော်မူသည့် ကောင်းမြတ်သော ခဲဘွယ် ဘောဇဉ်များကို စားသုံးကြကုန်။ ထိုသူတို့သည် ငါအရှင်မြတ်အား နှိပ်စက် ညှဉ်းပန်းကြသည် မဟုတ်။ မိမိတို့ကိုယ်ကို မိမိတို့ပင် နှိပ်စက်ညှဉ်းပန်းကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

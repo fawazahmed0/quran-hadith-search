@@ -710,6 +710,12 @@ Za koĭto se nadyava da sreshtne Allakh - srokŭt ot Allakh nepremenno shte nas
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	အကြင်သူသည် အလ္လာဟ်အရှင်မြတ်ကို မျက်ဝါးထင်ထင်ဖူးမြင်ဖို့ရာ မျှော်လင့်အ့ံ၊ ထိုသူအား အရှင်မြတ်၏ စစ်ကြောစီရင်တော်မူခြင်းမှာ အမှန်ပင်နီးကပ်လာသည်ကို သိစေလော့၊ အရှင်မြတ်သည် အရာရာကို အကြွင်းမဲ့ ကြားတော်မူသောအရှင်၊ သိတော်မူသောအရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သူမဆို အလ္လာဟ်အရှင်မြတ်နှင့် တွေ့ဆုံရန် မျှော်လင့်လျက်ရှိခဲ့မူ ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ် ပြဋ္ဌာန်း၍ ထားတော်မူသော ကာလအပိုင်းအခြားသည် မုချ ဆိုက်ရောက်လာမည်ဖြစ်၏။ စင်စစ်သော်ကား ထိုအရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့ ကြားတော်မူသော၊ အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့သိတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

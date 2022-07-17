@@ -710,6 +710,12 @@ Vsichko na nebesata i vsichko na zemyata proslavya Allakh - Vladetelya, Presveti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။ မိုးကောင်းကင်နှင့် ကမ္ဘာမြေကြီးပေါ်တွင် ရှိရှိသမျှတို့သည် အချုပ်အခြာအာဏာပိုင်သတော်မူသောအရှင်၊ သန့်ရှင်းစင်ကြယ်မြင့်မြတ်တော်မူထသောအရှင်၊ အနန္တဘုန်းတော်သခင်၊ သဗ္ဗညုတ ဉာဏ်တော်ရှင်အလ္လာဟ်အရှင်မြတ်၊ ဂုဏ်ကျေးဇူးတော်ကို ချီးကျူးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မိုးကောင်းကင်များ၌ ရှိသမျှတို့သည်လည်းကောင်း၊ ပထဝီမြေ၌ ရှိသမျှတို့သည်လည်းကောင်း၊ စိုးမိုးအုပ်ချုပ်တော်မူသော၊ စင်ကြယ်သန့်ရှင်း အပြစ်ကင်းတော်မူသော၊အလွန်တရာ ခန့်ညားတော်မူသော၊ လွန်စွာ နူးညံ့သိမ်မွေ့သော၊ ဆင်ခြင်တုံတရားနှင့် ပြည့် စုံတော်မူသော အလ္လာဟ်အရှင်မြတ်၊ စင်ကြယ်သန့်ရှင်းတော်မူကြောင်းကို မြွက်ဆိုလျက် ရှိကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

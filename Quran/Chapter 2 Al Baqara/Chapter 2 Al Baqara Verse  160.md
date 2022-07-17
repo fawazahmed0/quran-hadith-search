@@ -710,6 +710,12 @@ osven onezi, koito se pokayat i popravyat, i razkriyat. Ot tyakh shte priema pok
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆ဝ။	သို့သော် မိမိတို့အပြစ်များကို သတိသံဝေဂရ၍ မိမိကိုယ်ကို မိမိပြုပြင်၍ တရားတော်ကို ထင်ရှားသူတို့ မူကား ယင်းကျိန်ဆဲခြင်းမှ လွတ်ကင်းရကြ၏။ ဤလူများအပေါ်၌ ငါအရှင်မြတ်သည် အပြစ်လွှတ် တော်မူ၏။ ငါသည် အပြစ်လွှတ်တော်မူသော ကျောင်းချီးမင်္ဂလာပေးတော်မူသော အရှင်ဖြစ်တော် မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကြင်သူတို့သည် (မိမိတို့၏ ချွတ် ယွင်းမှုများကို) ဝန်ချတောင်းပန်ကြအံ့၊ ၎င်းပြင် မိမိတို့၏ အကျင့်စာရိတ္တများကို ပြုပြင်ပြောင်းလွဲပြီး ကုသိုလ်တရား ပွားများကြကုန်အံ့၊ ၎င်းပြင် (ကျမ်းလာအမိန့် ပညတ်များကိုလည်း မှန်ကန်စွာ) ထုတ်ဖော်ထင်ရှား စေကြကုန်အံ့။ သို့ဖြစ်လျှင် ငါအရှင်မြတ်သည် ထိုသူတို့ဘက်သို့ (မိမိ ကရုဏာတော်ဖြင့်) ပြန်လှည့်တော်မူအံ့။ စင်စစ် တမူကား ငါအရှင် မြတ်သည် (ဝန်ချတောင်းပန် သူများဘက်သို့) အကြိမ်ကြိမ်အဖန်ဖန် ပြန်လှည့်တော်မူထသောအရှင်၊ မပြတ်မစဲ သနားကြင်နာ ညှာတာတော်မူထသော အရှင်မြတ်ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

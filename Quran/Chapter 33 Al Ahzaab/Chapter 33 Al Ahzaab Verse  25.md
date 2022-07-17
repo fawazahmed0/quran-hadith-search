@@ -710,6 +710,12 @@ Allakh vŭrna nevernitsite s tyakhnata yarost. Te ne poluchikha nikakvo blago. D
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	ထို့အပြင်အလ္လာဟ်အရှင်မြတ်သည် မိစ္ဆာဒိဋ္ဌိတို့အား မိမိတို့၏ အမျက်ရန်ငြိုးအကျင့်ဆိုးနှင့်ပင် တွန်းလှန်ပစ်တော် မူ၏၊ သူတို့တစ်စုံတစ်ရာအကျိုးမခံစားရချေ၊ အလ္လာဟ်အရှင်မြတ်သည် သူတို့ပြုအပ်သောဘေးရန်ကို ယုံကြည် သူတို့ထံမှ ဖယ်ရှားတော်မူ၏၊ အလ္လာဟ်အရှင်မြတ်သည် အနန္တတန်ခိုးတော်ရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည်ကာဖိရ် သွေဖည်ငြင်းပယ်သောသူတို့အား ၎င်းတို့သည် မည်သည့် ကောင်းကျိုးကိုမျှ မရရှိခဲ့ကြဘဲ၊ ၎င်းတို့၏ အမျက်ဒေါသနှင့်တကွ ပြန်သွားစေတော်မူခဲ့၏။ ၎င်းပြင် စစ်မက်တိုက်ခိုက်ရာတွင် အလ္လာဟ်အရှင်မြတ်သည်ပင် ‘မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူတို့အဖို့ လုံလောက်တော်မူခဲ့၏။ စင်စစ်မှာကားအလ္လာဟ် အရှင်မြတ်သည် အလွန်တရာ အားအင်ပြည့်စုံတော်မူသော၊ အလွန်တရာ လွှမ်းမိုးတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

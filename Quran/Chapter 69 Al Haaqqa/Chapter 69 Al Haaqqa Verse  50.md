@@ -710,6 +710,12 @@ To e skrŭb za nevernitsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၀။ မှတ်သားကြလော့၊ ဤကျမ်းတော်မြတ်သည် အယူမှားသူတို့အတွက် အတိဒုက္ခအမှန်ပင်ဖြစ်ချေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ယင်းကုရ်အာန်ကျမ်းတော်မြတ်သည် ကာဖိရ်သွေဖည်ငြင်းပယ်သူတို့နှင့် ပတ်သက်၍ ဝမ်းနည်းကြေကွဲဖွယ်ရာပင် ဖြစ်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

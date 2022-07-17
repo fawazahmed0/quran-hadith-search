@@ -710,6 +710,12 @@ I ukrasikhme naĭ-blizkoto nebe sŭs svetilnitsi, i gi storikhme da bŭdat kam�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။ ငါသည် ကမ္ဘာမြေပြင်နှင့် မိုးကောင်းကင်ကို မီးရှုးမီးတိုင်းတို့ဖြင့် တင့်တယ်သိုက်မြိုက်စွာတန်ဆာဆင်ယင်ထား တော်မူ၏၊ ထိုမီးရှုးမီးတိုင်တို့ကို ရှိုင်တန် မာရ်နတ်တို့ကို ပစ်ခတ်ရန် လက်နက်အဖြစ်နှင့် ဖန်ဆင်းထားတော်မူ၏၊ ငါသည် သူတို့အဖို့အရာ မီးလျှံဒဏ်ကို အသင့်စီရင်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ဧကန်မလွဲ ငါအရှင်မြတ်သည် အနီးဆုံး(အောက်ဆုံး)ဖြစ်သော မိုးကောင်းကင်ကို မီးအိမ်များဖြင့် တင့်တယ်သိုက်မြိုက်စွာ ဆင်ယင်ထားတော် မူသည့်ပြင် ငါအရှင်မြတ်သည် ယင်းမီးအိမ်များကို "ရှိုင်တွာန်" မိစ္ဆာကောင်များအား ပစ်ခတ်ရန် လက်နက်ကိရိယာများ ပြုလုပ်တော်မူခဲ့၏။ ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ၎င်းတို့အဖို့ ဂျဟန္နမ်ငရဲ၏ပြစ်ဒဏ်ကိုလည်း အဆင်သင့်ပြုလုပ်၍ ထားရှိတော်မူပြီး ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

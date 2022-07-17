@@ -710,6 +710,12 @@ I spomeni v Knigata Ismail! Toĭ be veren v obeshtanieto i be pratenik-prorok
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၄။	ကျမ်းတော်မြတ်၌ တမန်တော်အစ္စမာအီလ်အကြောင်းကို ဖော်ပြထား၏၊ မှတ်သားလော့၊ သူသည် သူ၏ သစ္စာကတိကို တည်သူဖြစ်၏။ အလ္လာဟ်အရှင်မြတ်၏ တမန်တော်တပါးဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး (အို-နဗီတမန်တော်) အသင်သည်(ဤ)ကျမ်းဂန်မှ (နဗီတမန်တော်)အစ္စမာအီလ်၏အကြောင်းအတ္ထုပ္ပတ္တိကို (၎င်းတို့ရှေ့ဝယ်)ဖတ်ကြားပါလေ။ ဧကန်စင်စစ်ယင်းအစ္စမာအီလ်သည် ကတိတည်ကြည်သူဖြစ်ခဲ့သည့်ပြင်ရစူလ်တမန်တော်လည်းဖြစ်ခဲ့၏။ နဗီတမန်တော်လည်း ဖြစ်ခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

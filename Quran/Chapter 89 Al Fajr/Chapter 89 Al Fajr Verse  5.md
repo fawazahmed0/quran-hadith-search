@@ -710,6 +710,12 @@ Nima v tova nyama kletva za razumniya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။ ယင်းအရာများတွင် အသိတရားရှိသူများအတွက် ခိုင်မာလုံလောက်သောလက္ခဏာသက်သေခံချက်ပါရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည်တို့၌ ဉာဏ်အမြော်အမြင် ပြည့်စုံသောသူ၏အဖို့ ခိုင်မာလုံလောက်သော ကျိန်ဆိုချက် ရှိသည်မဟုတ်လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

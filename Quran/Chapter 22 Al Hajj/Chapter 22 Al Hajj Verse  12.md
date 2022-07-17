@@ -710,6 +710,12 @@ Zove toĭ ne Allakh, a onova, koeto nito mu vredi, nito mu e ot polza. Tova e d
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	ထိုသူသည် အလ္လာဟ်အရှင်မြတ်မှတပါး မိမိအား ကျိုးပြစ်မတတ်စွမ်းနိုင်သောဘုရားတုများကို ရှိခိုးပူဇော်၏၊ ယင်းအမှုကား မဟာအမှားကြီးဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (စင်စစ်သော်ကား) ထိုသူသည် အလ္လာဟ်အရှင်မြတ်အားစွန့်၍ မိမိအားအကျိုးယုတ်စေနိုင်ခြင်း မရှိသောအရာကိုလည်းကောင်း၊ မိမိအားအကျိုး ဖြစ်ထွန်းစေနိုင်ခြင်း မရှိသောအရာကိုလည်းကောင်း၊ ဟစ်ခေါ်လျက်ရှိပေသည်။ ဤကား (အမှန်တရားနှင့်) အလွန်ဝေးလံသော လမ်းမှားခြင်းပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

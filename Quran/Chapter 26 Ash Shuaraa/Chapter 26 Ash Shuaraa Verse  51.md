@@ -710,6 +710,12 @@ Nadyavame se da ni oprosti nashiyat Gospod pregresheniyata, zashtoto pŭrvi povy
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁။	မှတ်သားကြလော့၊ အကျွနု်ပ်တို့သည် လူခပ်သိမ်းတို့ထက် ရှေးဦးစွာယုံကြည်သူများဖြစ်ကြသဖြင့် အကျွနု်ပ်တို့၏ အရှင်သခင်သည် အကျွနု်ပ်တို့၏ အပြစ်များကို လွှတ်တော်မူရန်ကိုသာ အကျွနု်ပ်တို့စိတ်အားသန်၏ဟု ဆက်လက်ပြောကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်ဧကန် ကျွန်ုပ်တို့သည် ရှေးဦးမဆွ မုအ်မင်န် သက်ဝင်ယုံကြည်သူများ ဖြစ်ကြပေရာ ကျွန်ုပ်တို့၏အရှင်မြတ်သည် ကျွန်ုပ်တို့၏ ပြစ်မှုများကို ခွင့်လွှတ် ချမ်းသာပေးတော်မူမည်ဟု ကျွန်ုပ်တို့ မျှော်လင့်ကြပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

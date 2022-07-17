@@ -710,6 +710,12 @@ Za vsyaka obshtnost ima srok. I shtom srokŭt im doĭde, i s mig dori ne shte g
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	လူမျိုးတိုင်းတွင် မိမိတို့ ကာလအပိုင်းအခြားရှိ၏။ ထိုသတ်မှတ်သော အချိန်စေ့ရောက်သောအခါ သူတို့သည် ထိုအချိန်ကို တစ်နာရီခန့်မျှသော် မရွှေ့ဆိုင်းနိုင်ပေ။ သို့မဟုတ် ရှေ့တိုးမထားနိုင်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 လူမျိုးအသီးသီးတို့အဖို့ (အသက်ထင်ရှားနေထိုင်ရန်) သတ်မှတ်ပိုင်းခြားထားသော အချိန်ကာလသည်ရှိ၏။သို့ဖြစ်ပေရာ ၎င်းတို့၏ အချိန် ကာလသည် ဆိုက်ရောက်ခဲ့သည်ရှိသော် ၎င်းတို့သည် အချိန်အနည်းငယ်မျှပင် နောက်ဆုတ်နိုင်ကြမည်လည်း မဟုတ်ပေ။ ရှေ့တိုးနိုင်ကြမည်လည်း မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I plodovete mu byakha pogubeni, i zapochna toĭ da kŭrshi rŭtse po onova, koe
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	ထို့နောက်ဥယျာဉ်ရှင်၏ အသီးအနှံများသည် ပျက်စီးခြင်းမက ပျက်စီးသွား၏။ ၎င်းတို့သည် ၎င်း၏ စင်များပေါ် ကျနေသည်ကို မြင်သောအခါ၊ ဥယျာဉ်ရှင်သည် မိမိဥယျာဉ်အတွက် ကုန်ကျသောစရိတ်ကြေးငွေအားလုံးအတွက် လက်နှစ်ဖက်ကို ပွတ်တိုက်၍၊ လောင်မြိုက်သောစိတ်ဒုက္ခဖြင့် ယူကြံုးမရဖြစ်စပြု၏။ ထိုသူက အကျွနု်ပ်သည် မိမိ၏ အရှင်သခင်နှင့်ဖက်စပ်သူမထားခဲ့လျှင် တော်လေစွဟု ပြောဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက်ထိုသူ၏ဥစ္စာပစ္စည်း(ခြံဥယျာဉ်စသည်)များသည် (ဘေးအန္တရာယ်များ၏)ဝန်းဝိုင်းခြင်းကို ခံခဲ့ရလေသည်။၎င်းပြင် ယင်းဥယျာဉ်မှာမူကား မိမိစင်များပေါ်၌ ပြိုကျသွားခဲ့၏။ သို့ဖြစ်ရာ ထိုသူသည် ယင်းဥယျာဉ်၌(မိမိ) သုံးစွဲခဲ့သော(စရိတ်ကြေးငွေအားလုံးဆုံးရှုံးပျက်ပြုန်းခဲ့)ရသည့်အတွက်(ဝမ်းနည်းသောအားဖြင့်) မိမိလက်ဝါး နှစ်ဖက်ကို ပွတ်သက်၍ ၎င်းအား ယိုင်းပင်းကူညီနိုင်သော အုပ်စုဟူ၍လည်း အလျှင်းမရှိခဲ့ပေ။ ထို့ပြင် ၎င်း(ကိုယ်တိုင်) လည်း (ယင်းပြစ်ဒဏ်မှလွတ်ကင်းအောင်)ကူညီကယ်ဆယ်နိုင်ခြင်း မရှိချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

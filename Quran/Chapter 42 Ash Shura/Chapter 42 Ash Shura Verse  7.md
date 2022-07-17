@@ -710,6 +710,12 @@ Taka razkrikhme na teb Koran na arabski, za da predupredish Maĭkata na gradove
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	ငါသည် သင့်ထံသို့ ကုရ်အာန်ကျမ်းမြတ်ကို အာရဗီဘာသာဖြင့် ချပေးသနားတော်မူ၏၊ သင်သည် မြို့ရွာအပေါင်း တို့၏ မိခင်ဖြစ်သောမက္ကာဟ်ရွေမြို့တော်နှင့် ၎င်းပတ်ဝန်းကျင်တွင် တရားဟောပြောသတိပေး၍ ယုံမှားသင်္ကာ ကင်းသောညီလာခံနေ့တော်ကြီးအကြောင်းကို ဟောပြောသတိပေးဖို့ရာအတွက်ဖြစ်၏၊ ထိုနေ့ဆိုက်ရောက်လာ သောအခါ အချို့သောသူတို့သည် နိဗ္ဗာန်ဥယျာဉ်တော်၌ ရှိကြလတ့ံ၊ အချို့မှာမူကား ငရဲမီးတောက်မီးလျှံအတွင်း ၌ ရှိကြရလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ ငါအရှင်မြတ်သည် အသင်တို့ထံသို့ အသင်သည် (ဦးစွာပထမ)မက္ကဟ်မြို့(သားတို့) ကိုလည်းကောင်း၊ ယင်းမက္ကဟ်မြို့၏ ပတ်ဝန်းကျင်(၌နေထိုင်သူတို့)ကိုလည်းကောင်း၊ သတိပေး နှိုးဆော်အံ့သောငှာ၊ ထို့ပြင် ဒွိဟသံသယ အလျှင်းမရှိသော (ကိယာမတ် ရှင်ပြန်ထမည့်)နေ့နှင့်စပ်လျဉ်း၍ အသိပေး နှိုးဆော်အံ့သောငှာလည်းကောင်း၊ အရဗီဘာသာစကားဖြင့်ဖြစ်သော (ဤ)ကုရ်အာန်ကျမ်းတော် မြတ်ကိုထုတ်ပြန်တော်မူခဲ့၏။ (၎င်းတို့အနက်) အုပ်စု တစ်စုမှာဂျန္နတ် သုခဘုံသို့ (လား၍) အုပ်စုတစ်စု မှာကား ဂျဟန္နမ်ငရဲဘုံသို့ (လားကြပေမည်)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

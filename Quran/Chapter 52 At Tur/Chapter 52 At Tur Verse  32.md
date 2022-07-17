@@ -710,6 +710,12 @@ Nima umovete im povelyavat tova, ili sa prestŭpvashti khora
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	အို-တမန်တော်၊ ထိုသူတို့၏ စိတ်က သူတို့အား ဤကဲ့သို့ပြုကျင့်ပြောဆိုရန် အကြံပေးသလော၊ သို့မဟုတ် သူတို့သည် တရားကျူးလွန်သောသူယုတ်များဖြစ်ကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် ၎င်းတို့၏ အသိဉာဏ်များက ဤသည်နှင့်စပ်လျဉ်း၍ ၎င်းတို့အား အမိန့်ပေးလေသလော။သို့တည်းမဟုတ် ၎င်းတို့ကိုယ်တိုင်ပင် ဆိုးသွမ်းသူများ ဖြစ်ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

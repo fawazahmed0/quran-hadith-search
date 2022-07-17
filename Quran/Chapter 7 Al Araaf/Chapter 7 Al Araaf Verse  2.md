@@ -710,6 +710,12 @@ Be ti nizposlana Kniga, za da predupredish s neya i da e napomnyane za vyarvasht
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	ဤကျမ်းတော်သည် သင် မိုဟမ္မဒ်အား ထုတ်ပြန်ချပေးသနားတော်မူသော ကုရ်အာန်ကျမ်းတော်မြတ် ဖြစ်၏။ ထိုကျမ်းမြတ်ကြောင့် သင်သည် ရင်မလေးလင့်။ ဤကျမ်းတော်အားဖြင့် သင်တရားဟော ကြား သတိပေးနိုင်ရန်ဖြစ်၏။ ဤကျမ်းတော်သည် ယုံကြည်သူတို့အား သတိပေးဆုံးမ သွန်သင်သော ကျမ်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤသည်) အသင့်ထံ ထုတ်ပြန်ခဲ့သော ကျမ်းဂန်တစ်စောင်ဖြစ်၏။ (ဤကျန်းဂန်သည်) အသင်သည် ထိုကျမ်းဂန်ဖြင့် သတိပေးနှိုးဆော်ရန်အလို့ငှာဖြစ်သည်။ သို့ဖြစ်ပေရာအသင်၏စိတ်တွင်းဝယ် မည်သို့မျှကျဉ်းကျပ်မှု မဖြစ်ရာချေ။၎င်းပြင် (ဤကျမ်းဂန်သည်) မုအ်မင်န် သက်ဝင်ယုံကြည်သူတို့အဖို့ ဆုံးမဩဝါဒလည်း ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

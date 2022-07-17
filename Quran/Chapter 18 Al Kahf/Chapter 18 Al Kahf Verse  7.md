@@ -710,6 +710,12 @@ Nie storikhme tova, koeto e na zemyata, da e neĭna ukrasa, za da gi izpitame k
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	မှတ်သားကြလော့။ သူတို့ကို စမ်းသပ်ဖို့ရာ ငါသည် ကမ္ဘာမြေကြီးပေါ် ရှိရှိသမျှတို့ကို ၎င်း၏ အဆင်အယင်အဖြစ် ဖြင့် စီရင်ထားတော်မူ၏။ သူတို့အထဲက အဘယ်သူသည် အကျင့်စာရိတ္တ၌ အကောင်းဆုံးဖြစ်သည်ကို သိရန် စုံစမ်းတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ငါအရှင်မြတ်သည် လူတို့အား ၎င်းတို့အနက် မည်သူသည်အကျင့်အမူအားဖြင့် အကောင်းဆုံးဖြစ်သည်ကို စမ်းသပ်တော်မူအံ့သောငှါ၊ ပထဝီမြေပေါ်၌ရှိကုန်သော အရာဝတ္ထုများကို ငါအရှင် မြတ်သည် ယင်းပထဝီမြေ၏အလှများ ပြုလုပ်တော် မူခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

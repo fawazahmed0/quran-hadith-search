@@ -710,6 +710,12 @@ Posle be sŭsirek, a Toĭ go sŭtvori i osŭrazmeri
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။ ထိုကလကရေကြည်မှ သွေးခဲဖြစ်လာ၏၊ ထို့နောက်အလ္လာဟ်အရှင်မြတ်သည် သူ့ကို ပုံသဏ္ဍာန်ပေး၍ အဆင်း အင်္ဂါညီညွတ်စွာဖန်ဆင်းတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ယင်းသုတ်ရည်သည် သွေးခဲဖြစ်ခဲ့၏။ တစ်ဖန် ထိုအရှင်မြတ်သည် (၎င်း အား) ဖန်ဆင်းတော်မူခဲ့၏။ ထို့နောက် ထိုအရှင်မြတ်သည် (၎င်း အား) နေသားကျနအောင် ပြုပြင်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

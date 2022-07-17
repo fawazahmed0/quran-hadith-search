@@ -710,6 +710,12 @@ Tova veche ni be obeshtano, na nas i na predtsite ni, ot po-rano. Tova sa samo l
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၃။	အကျွနု်ပ်တို့အား ဤရှင်ပြန်ထရမည့်ကတိစကားကို ပေးလေ၏၊ အကျွနု်ပ်တို့မိဘဘိုးဘွားကိုလည်း ဤနည်း အတိုင်းပင် ကတိပေးလေ၏၊ မှတ်သားကြလော့၊ ဤကတိစကားသည် ရှေးလူဟောင်းတို့ဖန်တီးသောဒဏ္ဍာရီ စကားမှတပါး အခြားဘာမျှမဟုတ်ဟု ဆိုကြကုန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မချွတ်ဧကန် ဤသည်ကို ကျွန်ုပ်တို့သည်လည်းကောင်း၊ ကျွန်ုပ်တို့၏ အဘ၊ ဘိုး၊ ဘေးတို့သည်လည်းကောင်း၊ ရှေးယခင်ကပင် ကတိပေး ချိန်းချက်ခြင်းကို ခံခဲ့ကြရလေပြီ။ (စင် စစ်သော်ကား)ဤသည် ရှေးသူဟောင်းတို့၏ (ယုတ္တိကင်းမဲ့သော) ဒဏ္ဍာရီမျှသာ ဖြစ်ချေသတည်း"။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

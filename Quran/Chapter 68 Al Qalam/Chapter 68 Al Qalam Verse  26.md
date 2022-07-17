@@ -710,6 +710,12 @@ I kogato ya vidyakha, rekokha: “Naistina sme se zabludili
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။ သို့သော် ထိုသူတို့သည် ဥယျာဉ်ကို မြင်ရသောအခါ အကျွနု်ပ်တို့သည် မုချဧကန်လမ်းမှားလာပြီဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ၎င်းတို့သည် ယင်းဥယျာဉ်ကို မြင်တွေ့ကြလေသောအခါ (ဤသို့)ပြောဆိုကြလေ၏။ ဧကန်စင်စစ် ကျွန်ုပ်တို့သည် လမ်းမှားခဲ့ကြလေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

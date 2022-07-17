@@ -710,6 +710,12 @@ Nie ti dadokhme [o, Mukhammad rekata] al-Kausar
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။ အို-တမန်တော်၊ ငါသည် သင့်အား ပေါများကြွယ်ဝခြင်းကို ချပေးသနားတော်မူပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) ဧကန်စင်စစ် ငါအရှင်မြတ်သည် အသင့်အား များပြားလှစွာသော ကောင်းခြင်းများကို ချီးမြှင့်ပေးသနားတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

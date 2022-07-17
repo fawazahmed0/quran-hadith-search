@@ -710,6 +710,12 @@ Nima khorata smyatat, che shte bŭdat ostaveni da kazvat: “Povyarvakhme!”, b
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	အကျွနု်ပ်တို့သည် ယုံကြည်ကြပါသည်ဟု ဆိုရုံမျှနှင့် လူသားတို့အား မစမ်းသပ်ပဲ ချမ်းသာသုခတွင် စံစားစေတော် မူမည်ဟု သူတို့ထင်မှတ်ကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 လူတို့သည် ၎င်းတို့က ‘ကျွန်ုပ်တို့သည် ‘အီမာန်’သက်ဝင်ယုံကြည်ခဲ့ကြပါပြီ’ ဟု ပြောကြသောကြောင့် မိမိတို့မှာစမ်းသပ်ခြင်း မခံကြရဘဲ လွှတ်ထားခြင်း ခံကြရမည်ဟု ထင်မှတ်ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

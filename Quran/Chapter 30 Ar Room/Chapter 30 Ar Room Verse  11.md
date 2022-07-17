@@ -710,6 +710,12 @@ Allakh nacheva tvorenieto, posle Toĭ shte go povtori, posle pri Nego shte bŭd
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	အလ္လာဟ်အရှင်မြတ်သည် ဖန်ဆင်းခြင်းကို စတင်စီရင်တော်မူ၏၊ ထပ်မံဖန်ဆင်းတော်မူ၏၊ ထို့နောက်သင်တို့ အားလုံးကို အလ္လာဟ်အရှင်မြတ်ထံတော်သို့ ပြန်ပို့မည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည်ပင် အဖန်ဆင်းခံတို့ကို စတင်ဖန်ဆင်းတော်မူ၏။ ထို့နောက် ထိုအရှင်မြတ်သည်ပင် ယင်းအဖန်ဆင်းခံတို့ကို တဖန် ထပ်မံ၍ ဖန်ဆင်းတော်မူမည်။ ထို့နောက် အသင်တို့ (အားလုံး)သည် ထိုအရှင်မြတ်ထံတော်သို့ပင် ပြန်လည်ရောက်ရှိကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

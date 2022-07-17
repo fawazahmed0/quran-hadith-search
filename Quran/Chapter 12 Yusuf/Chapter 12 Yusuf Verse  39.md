@@ -710,6 +710,12 @@ O, moi dvama drugari v zatvora, koe e po-dobro - razni bogove ili Allakh, Edinos
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	အို-အကျွနု်ပ်၏ မိတ်ဆေါအကျဉ်းသားနှစ်ဦးတို့၊ ဘုရားအများသည် သာလွန်ကောင်းသလော။ သို့မဟုတ်အနန္တ တန်ခိုးတော်ရှင်၊ တဆူတည်းသောအလ္လာဟ်အရှင်မြတ်က သာလွန်ကောင်းမြတ်သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-(ကျွန်ုပ်၏)အကျဉ်းထောင်ဖက် မိတ်ဆွေနှစ်ဦး အထူးထူး အပြားပြားသော ကိုးကွယ်ရာများ ပင် သာလွန်၍ကောင်းမြတ်ကြသလော၊ သို့တည်းမဟုတ် (အလုံးစုံတို့ထက်ဝယ်) နှိမ်နင်းလွှမ်းမိုးတော် မူသောတစ်ဆူတည်းသောအလ္လာဟ်အရှင်မြတ်သည်ပင် သာလွန်၍ ကောင်းမြတ်တော်မူပါလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

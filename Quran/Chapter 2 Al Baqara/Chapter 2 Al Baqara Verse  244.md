@@ -710,6 +710,12 @@ I se srazhavaĭte po pŭtya na Allakh, i znaĭte, che Allakh e vsechuvasht, vs
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄၄။	သင်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ သာသနာရေးအတွက် စစ်မက်ပြိုင်ဆိုင်တိုက်ခိုက်ကြလော့။ အလ္လာဟ်အရှင်မြတ်သည် ကြားတော်မူသောအရှင် သိတော်မူသောအရှင်ဖြစ်တော်မူသည်ကို သင်တို့ သိကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်တဝ အသင်တို့သည် (အထက်ဖော်ပြပါ အတ္ထုပ္ပတ္တိကို ဆင်ခြင်၍) စစ်မက်ပြိုင်ဆိုင် တိုက်ခိုက်ကြကုန်။ ၎င်းပြင် ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် အလုံးစုံကို အကြွင်းမရှိ ကြားတော်မူသောအရှင်၊ အကြွင်းမရှိသိတော် မူသောအရှင် ဖြစ်တော်မူသည်ကိုလည်း အသင်တို့သည်ယုံ ကြည်မှတ်ယူကြကုန်လော့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

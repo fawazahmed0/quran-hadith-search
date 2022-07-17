@@ -710,6 +710,12 @@ Dadokhme im Nashi znameniya, ala se otdrŭpnakha ot tyakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၁။	ထို့အပြင်ငါသည် သူတို့အား ငါနှုတ်ကပတ်တော်များကို ချပေးသနားတော်မူ၏။ သို့သော်သူတို့သည် ထိုတရား တော်များကို ချပေးသနားတော်မူ၏။ သို့သော်သူတို့သည် ထိုတရားတော်များကို မနှစ်သက်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ငါအရှင်မြတ်သည် ၎င်းတို့အား မိမိသက်သေလက္ခဏာတော်များကို ပေးသနားတော်မူခဲ့လေသည်။ သို့ပါလျက် ၎င်းတို့သည် ယင်း သက်သေလက္ခဏာတော်များမှ မျက်နှာလွှဲဖယ်သူများပင် ဖြစ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

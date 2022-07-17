@@ -710,6 +710,12 @@ Eto, svivat grŭd, za da se potulyat ot Nego. Eto, i kogato se pokrivat s drekhi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	မှတ်သားကြလော့။ (ယခုသူတို့သည် မိမိတို့၏ အကြံအစည်အတွေးအတောများကို အလ္လာဟ်အရှင်မြတ်အထံ တော်မှ ဖုံးကွယ်ထားရန် မိမိတို့ရင်များကို ဖုံးပိတ်ထားကြ၏။) သူတို့သည် မိမိကိုယ်များကို အဝတ်အစားနှင့် ဖုံးအုပ်ထားနေစဉ်ပင်လျှင် အရှင်မြတ်သည် သူတို့ကို အကြွင်းမဲ့သိမြင်တော်မူ၏။ မှတ်သားကြလော့၊ အရှင်မြတ် သည် လူသားတို့၏ စိတ်နှလုံးအတွင်းရှိရှိသမျှတို့ကို သိမြင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သတိပြုကြလေကုန်၊ ဧကန်မလွဲ ၎င်းတို့သည်(မိမိတို့၏စကားများကို) အလ္လာဟ်အရှင်မြတ်အပေါ် ၌လျှို့ဝှက်ဖုံးအုပ်နိုင်ကြရန် မိမိတို့၏ ရင်ဘတ်စိတ်ကို ခေါက်ကြလေသည်။ သတိပြုကြလေကုန်။ ထိုသူတို့သည် မိမိတို့၏အဝတ်အထည်များကို လွှမ်းခြုံကြသောအခါ(၌လည်း)ထိုအရှင်မြတ်သည် ထိုသူတို့ ဖုံးကွယ်ထားကြသည်များ ကိုလည်းကောင်း၊ ယင်းသူတို့ ထင်ရှားစေကြသည်များကိုလည်းကောင်း၊သိရှိတော်မူ၏။ ဧကန်စင်စစ် ထိုအရှင်မြတ်သည် စတ်နှလုံးအတွင်း ကိန်းအောင်းလျက်ရှိသည်တို့ကို အကြွင်းမဲ့ သိတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

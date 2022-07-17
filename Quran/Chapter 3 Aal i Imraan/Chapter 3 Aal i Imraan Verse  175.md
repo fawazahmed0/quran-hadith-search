@@ -710,6 +710,12 @@ Imenno satanata plashi sŭs svoite priblizheni. No ne se strakhuvaĭte ot tyakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇၅။	ရှိုင်တန်မရ်နတ်သည် လူသားတို့အား သူ၏ဘက်သားများကို ထိတ်လန့်စေ၏။ သူတို့ကို မကြောက်ရွံ့ ကြလင့်။ သင်တို့သည် ယုံကြည်သူများဖြစ်ကြလျှင် ငါအသျှင်မြတ်ကိုသာ ကြောက်ရွံ့ရိုးကျိုးကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည် ရှိုင်တွာန်မျှသာတည်း။ ထို ရှိုင်တွာန်သည် (အသင်တို့ထံ ယင်းကဲ့သို့ မဟုတ်မမှန်သောသတင်းများကို ပို့ဆောင်ခြင်းအားဖြင့်) အသင်တို့အား မိမိ အဆွေခင်ပွန်းတို့ကို ကြောက်ရွံ့စေလေသည်။ (တနည်း) မိမိအဆွေခင်ပွန်းတို့ကို ခြိမ်းခြောက်လေသည်။ သို့သော်လည်း အကယ်၍ အသင်တို့သည် မုအ်မင်န် သက်ဝင်ယုံကြည်သူများ ဖြစ်ကြပါလျှင်ယင်းသူတို့အား မကြောက်မရွံ့ဘဲ ငါအရှင်မြတ်ကိုသာ ကြောက်ရွံ့ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Allakh e zapechatal i sŭrtsata, i slukha im, i pred tekhnite pogledi ima pregra
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	အလ္လာဟ်အရှင်မြတ်သည် သူတို့၏နားနှင့် စိတ်နှလုံးတို့ကို တံဆိပ်ခတ်နှိပ်ထားတော်မူ၏။ သူတို့၏ မျက်စိများကို အမြှေးများက ဖုံးထား၏။ သူတို့သည် အလွန်ကြီးလေးသောအပြစ်ကို ခံကြရမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် ထိုသူတို့၏ စိတ်နှလုံးများနှင့် သောတာရုံအပေါ်၌ တံဆိပ်ခတ်နှိပ်တော် မူလိုက်ပြီ၊။ ထို့ပြင် ထိုသူတို့၏စက္ခုအာရုံများ အပေါ်၌လည်း အကာအကွယ် ရှိနေလေသည်။ ထို့ နောက် ထိုသူတို့အဖို့ ကြီးလေးသော အပြစ်ဒဏ်သည်လည်း အသင့်ရှိချေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

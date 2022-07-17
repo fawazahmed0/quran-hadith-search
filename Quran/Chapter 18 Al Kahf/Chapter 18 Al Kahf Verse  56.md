@@ -710,6 +710,12 @@ Izprashtame Nie pratenitsite samo kato blagovestiteli i preduprediteli. I se str
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၆။	ငါသည် တမန်တော်များကို သတင်းကောင်းနှင့် သတိစကားယူဆောင်လာသူများအဖြစ်ဖြင့်မှတပါး၊ အခြားအဖြစ် ဖြင့် စေလွှတ်တော်မူသည်မဟုတ်ချေ၊ မယုံကြည်သူတို့သည် သစ္စာတရားတော်ကို မိစ္ဆာအယူဝါဒနှင့်ခုခံတိုက်ခိုက် ကြ၏။ သူတို့သည် ငါ၏ နှုတ်ကပတ်တော်များနှင့် သူတို့ခြိမ်းခြောက်ခြင်းခံရသောအရာများကို ပြောင်လှောင်စရာ ဟု ထင်မှတ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ငါအရှင်မြတ်သည် ရစူလ်တမန်တော်တို့အား သတင်းကောင်းပြောကြားသူများ သတိပေးနှိုးဆော်သူများအဖြစ်သာလျှင် စေလွှတ်တော်မူ၏။ သို့ရာတွင်ကာဖိရ် သွေဖည်ငြင်းပယ်သောသူတို့ မှာမူကား မတရားသဖြင့်အငြင်းအခုံပြုကြကုန်၏။ (သို့အငြင်းအခုံပြုကြခြင်းမှာ ၎င်းတို့သည် အငြင်းခုံမှုဖြင့် အမှန်တရားကို ချွတ်ချော်စေအံ့သောငှာ(ဖြစ်ပေသည်)။ ၎င်းပြင် ထိုသူတို့သည် ငါအရှင်မြတ်၏ သက်သေလက္ခဏာတော်များကိုလည်းကောင်း၊ မိမိတို့ သတိပေးနှိုးဆော်ခြင်း ခံကြရသည်များကိုလည်းကောင်း၊ ပြက်ရယ်ဖွယ်များပြုလုပ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

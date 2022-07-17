@@ -710,6 +710,12 @@ I ot Negovite znameniya e sŭtvoryavaneto na nebesata i na zemyata, i raznoobraz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	တဖန်အလ္လာဟ်အရှင်မြတ်၏ တန်ခိုးအ့ံဖွယ်တော်များအနက် တစ်ပါးမှာ မိုးမြေကို ဖန်ဆင်းတော်မူခြင်း၊ သင်တို့ ဘာသာစကားနှင့် အရောင်အဆင်းကို ခွဲခြားဖန်ဆင်းတော်မူခြင်းတို့ဖြစ်ကြ၏၊ မှတ်သားကြလော့၊ ဤဖန်ဆင်း တော်မူခြင်း၌ ပညာရှိသူတို့အဖို့အရာ နိမိတ်လက္ခဏာတော်များအမှန်ပါရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ထိုအရှင်မြတ်၏ သက်သေလက္ခဏာတော်များအနက်မှပင် မိုးကောင်းကင်များနှင့် ပထဝီမြေကို ဖန်ဆင်းတော်မူခြင်းသည်လည်းကောင်း၊အသင်တို့၏ ဘာသာစကားနှင့်အသွေးအရောင်တို့ ကွဲပြားခြားနားခြင်းသည်လည်းကောင်း၊စင်စစ် ဤသည် ပညာရှိ သုခမိန်တို့အဖို့ အမှန်ပင် သက်သေလက္ခဏာများသည် ရှိချေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

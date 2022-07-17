@@ -710,6 +710,12 @@ Veche ni be obeshtano tova, na nas i na bashtite ni, po-rano. Tova sa samo legen
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၈။	ထိုသို့ရှင်ပြန်ထမြောက်ရမည်ဟု အကျွန်ုပ်တို့အား ကတိပေး၏၊ အကျွနု်ပ်တို့၏ မိဘဘိုးဘွားကိုလည်း ကတိ ပေးလေ၏၊ ဤဟောကြားချက်များသည် ရှေးလူဟောင်းတို့တီထွင်လိုက်သောဒဏ္ဍာရီဝထ္ထုမှတပါး အခြားတစ်စုံ တစ်ရာမျှမဖြစ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ဤသည်ကို ကျွန်ုပ်တို့သည်လည်းကောင်း၊ ကျွန်ုပ်တို့၏အဘ၊ ဘိုးဘေးတို့သည်လည်းကောင်း၊ ရှေးယခင်ကပင် ကတိပေး(ခြိမ်းခြောက်ပြောဆို)ခြင်းကို ခံခဲ့ကြရလေသည်။ ဤသည် ရှေးသူဟောင်းတို့၏ အခြေအမြစ်မရှိသော ပုံပြင်များသာ ဖြစ်ကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

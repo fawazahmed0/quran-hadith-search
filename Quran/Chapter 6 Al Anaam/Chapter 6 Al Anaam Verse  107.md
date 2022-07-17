@@ -710,6 +710,12 @@ Ako Allakh be pozhelal, ne bikha Go sŭdruzhavali. Ne te storikhme Nie da si im 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၇။	အကယ်၍ အလ္လာဟ်အသျှင်မြတ် အလိုတော်ရှိပါလျှင် သူတို့သည် ရုပ်တုကိုးကွယ်သူများမဖြစ်ပေ။ ငါအသျှင်မြတ်သည် သင့်အား သူတို့ကို ထိန်းသိမ်းအုပ်ချုပ်သူအဖြစ် ခန့်ထားတော်မမူပေ။ သင်သည် သူတို့၏ အပြုအမှုအတွက် တာဝန်ခံရသူမဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အမှန်စင်စစ်သော်ကား အကယ်သာ အလ္လာဟ်အရှင်မြတ် အလိုရှိတော်မူခဲ့ပါလျှင် ထိုသူများသည် ရှစ်ရ်က်တွဲဖက်ကိုးကွယ်ခြင်းကို ပြုလုပ်ကြမည်မဟုတ်ပေ။ ၎င်းပြင်ငါအရှင်မြတ်သည် အသင့်အား ထိုသူတို့အပေါ်၌ ကြီးကြပ်အုပ်ထိန်းသူအဖြစ် ခန့်အပ်ထားတော်သည် မဟုတ်ပေ။ အသင်သည် ထိုသူတို့အဖို့ တာဝန်ခံလည်း) မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A koĭto se brani, sled kato go ugnetyat, za takiva nyama vina
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	သို့သော် အကြင်သူသည် မိမိအား သူတပါးမတရားနှိပ်စက်ညှင်းပန်းခြင်းကို လက်စားချေအ့ံ၊ ထိုသူအပေါ်၌ အပြစ်မုချဧကန်မထိုက်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် မည်သူမဆို မိမိမတရားနှိပ်စက်ခြင်းခံခဲ့ရပြီးနောက် (ယင်းခံစားခဲ့ရသည်နှင့်အညီအမျှ) လက်စားချေခဲ့သည်ရှိသော် ထိုကဲ့သို့သောသူတို့အပေါ်၌ အပြစ်တင်ရန်နည်းလမ်းဟူ၍ အလျှင်းမရှိတော့ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

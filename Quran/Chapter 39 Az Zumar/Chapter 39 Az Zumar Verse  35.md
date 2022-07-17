@@ -710,6 +710,12 @@ za da gi izbavi Allakh i ot naĭ-loshite im deyaniya, i da im vŭzdade tyakhnat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	သူတို့၏ ကုသိုလ်ကောင်းမှုကြောင့် အလ္လာဟ်အရှင်မြတ်သည် သူတို့၏အပြစ်တို့ကို ခွင့်လွှတ်တော်မူလိမ့်မည်၊ သူတို့၏ ကုသိုလ်ကံ၏ အကျိုးဆက်ကို ပေးသနားတော်မူလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 နောက်ဆုံးတွင် အလ္လာဟ်အရှင်မြတ်သည် ထိုသူတို့မှ ထိုသူတို့ ကျင့်မူခဲ့ကြသောအဆိုးများကို ပပျောက်စေသည့်ပြင်၊ ၎င်းတို့အား ၎င်းတို့ ကျင့်မူလေ့ ရှိခဲ့ကြသော အကောင်းများ၏အစားကို (အပြည့်အစုံ) ချီးမြှင့် ပေးသနားတော်မူအံ့နည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

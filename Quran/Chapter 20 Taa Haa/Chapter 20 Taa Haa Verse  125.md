@@ -710,6 +710,12 @@ Shte reche: “Gospodi, zashto me podkara slyap, a byakh zryasht?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၅။	ထိုသူက အို--အကျွနု်ပ်၏ အရှင်သခင်၊ အကျွနု်ပ်သည် မျက်စိမြင်လေ့ရှိပါလျက် အကျွနု်ပ်အား ဤနေရာသို့ အဘယ်ကြောင့်မျက်ကန်းအဖြစ်ဖြင့် ယူဆောင်ခဲ့တော်မူပါသနည်းဟု တင်လျှောက်လတ္တံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ထိုသူက အို-ကျွန်တော်မျိုးအားဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ ကျွန်တော်မျိုးသည်မျက်စိမြင်သူ (တစ်ဦး)ဖြစ်ခဲ့ပါလျက် အရှင်မြတ်သည် အဘယ်ကြောင့် ကျွန်တော်မျိုးအား မျက်ကန်းအဖြစ် ရှင်ပြန်ထစေတော်မူပါသနည်းဟု လျှောက်ထားပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

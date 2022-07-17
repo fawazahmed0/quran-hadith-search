@@ -710,6 +710,12 @@ I ne sa ravni slepetsŭt i zryashtiyat, nito onezi, koito vyarvat i vŭrshat pra
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈။	မျက်စိကန်းသူတို့နှင့် မျက်စိအလင်းရသူတို့သည် ထပ်တူထပ်မျှမဟုတ်သကဲ့သို့ ယုံကြည်လျက် ကောင်းမှုပွားသူ တို့နှင့် ဒုစရိုက်မကောင်းမှုကျူးလွန်သူတို့သည်လည်း ထပ်တူထပ်မျှမဟုတ်ချေ၊ သို့ပါလျက်သင်တို့သည် အနည်း ငယ်မျှမစဉ်းစားကြချေ၊ မှတ်သားကြလော့၊ အချိန်တော်ကြီးသည် မုချဧကန်ဆိုက်ရောက်လာမည်၊ ယုံမှားစရာ လုံးဝမရှိချေ၊ သို့သော်လည်း များစွာသောလူသားတို့သည် မယုံကြည်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် မျက်မမြင်နှင့် စက္ခုအလင်းရသောသူတို့သည် မတူကြပြီ။ ထိုနည်းတူစွာ "အီမာန်" သက်ဝင်ယုံကြည်၍ ကောင်းမြတ်သော အကျင့်သီလများကို ကျင့်မူဆောက်တည်ကြသောသူတို့နှင့် မကောင်းမှုကို ကျူးလွန်သောသူတို့သည်လည်း မတူကြပေ။ (စင်စစ်မှာကား) အသင်တို့သည် အနည်းငယ်မျှသာ ဆင်ခြင်ကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I koe vashe voĭnstvo shte vi pomogne bez Vsemilostiviya? Nevernitsite samo se 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၀။ သို့မဟုတ် မဟာကရုဏာတော်ရှင်မှတပါး မည်သူသည် သင်တို့ကို ကူညီစောင်မမည့်စစ်တပ်ဖြစ်သနည်း၊ မိစ္ဆာဒိဋ္ဌိတို့သည် မှောက်မှားခြင်းမှတပါး မည်သည်မျှ၌ မရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် "ရဟ်မာန်" ကရုဏာတော်ရှင် မှတစ်ပါး အသင်တို့၏ စစ်သည်ဗိုလ်ပါအဖြစ် အသင်တို့အား ကူညီအံ့သောသူသည် မည်သူနည်း။ စင်စစ်မှာကား(ကာဖိရ်)သွေဖည် ငြင်းပယ်သောသူတို့သည် ဖြားယောင်းမှု၌ပင် ရှိနေကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

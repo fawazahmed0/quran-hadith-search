@@ -710,6 +710,12 @@ I ne klonete kŭm onezi, koito ugnetyavat, za da ne vi zasegne Ogŭnyat! Nyamate
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၃။	သင်တို့အား ငရဲမီးမထိစိမ့်သောငှာ သင်တို့သည် ဒုစရိုက်မှုကျူးလွန်သူတို့ဘက်သို့ မယိမ်းမယိုင်ကြလင့်။ အလ္လာဟ်အရှင်မြတ်မှ သင်တို့အား စောင့်ရှောက်သည့်အဆွေခင်ပွန်းမရှိချေ။ ထို့နောက်သင်တို့သည် အကူအညီ ခံရကြမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်တို့သည် (မိမိတို့ကိုယ်ကို မိမိတို့ပင်)ညှဉ်းပန်းနှိပ်စက်ကြကုန်သော သူတို့အပေါ် ဝယ် ယုံကြည်စိတ်ချအားထားခြင်း မပြုကြကုန်လင့်။ သို့(ယုံကြည်စိတ်ချအားထားကြ)ပါလျှင် အသင်တို့၌ ငရဲမီး(ဘေး)သည် ထိရောက်ပေမည်။ ထို့ပြင် အလ္လာဟ်အရှင်မြတ်မှတစ်ပါး အသင်တို့အဖို့ အဆွေခင်ပွန်း တစ်ဦးတစ်ယောက်မျှပင် ရှိလိမ့်မည်မဟုတ်ပေ။ ထို့နောက် အသင်တို့သည် ကူညီမှိုင်းမခြင်းကိုလည်း ခံကြရမည်မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

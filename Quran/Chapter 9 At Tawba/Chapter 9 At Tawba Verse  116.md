@@ -710,6 +710,12 @@ Na Allakh prinadlezhi vladenieto na nebesata i na zemyata. Toĭ sŭzhivyava i T
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၆။	မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် မိုးမြေနိုင်ငံတော်ကြီးကို ပိုင်သတော်မူ၏။အသက်ရှင်စေတော်မူ၏။သေစေတော်မူ၏။သင်တို့၌ အရှင်မြတ်မှတပါး အခြားကာကွယ်စောင့်ရှောက်သူ အဆွေခင်ပွန်းသော်လည်း ကောင်း၊ ကူညီရိုင်းပင်းသူသော်လည်းမရှိပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် မိုးကောင်းကင်များကို စိုးမိုးအုပ်ချုပ်ခြင်းသည်လည်းကောင်း၊ ပထဝီမြေကို စိုးမိုး အုပ်ချုပ်ခြင်းသည်လည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ်၌သာရှိချေသည်။ ထိုအရှင်မြတ်သည်သာလျှင် ရှင်စေတော်မူသည်၊ ထိုအရှင်မြတ်သည်သာလျှင် သေစေတော်မူသည်။ ထိုမှတစ်ပါး အလ္လာဟ်အရှင်မြတ်အပြင် အသင်တို့အဖို့ အဆွေခင်ပွန်းဟူ၍လည်းကောင်း၊ ကူညီမိုင်းမမည့်သူဟူ၍လည်းကောင်း တစ်ဦးတစ်ယောက်မျှ မရှိချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

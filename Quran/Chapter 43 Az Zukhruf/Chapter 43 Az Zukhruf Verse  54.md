@@ -710,6 +710,12 @@ I taka podvede toĭ svoya narod, i te mu se pokorikha. Naistina byakha nechesti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၄။	ထိုမင်းသည် ဤကဲ့သို့သူ၏ အသင်းသားများကို တမန်တော်မူစာအား အရေးမစိုက်ရန် ပြောဆိုလေ၏၊ သူတို့ လည်း သူ့ကို နာခံကြလေ၏ ကြည့်ကြလော့၊ သူတို့သည် လေလွင့်နေသောအသင်းသားများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဆိုလိုရင်းမှာ ထိုဖစ်ရ်အောင်န်သည် မိမိ၏အမျိုးသားတို့အား လူ့ဗာလများ ပြုလုပ်ခဲ့ပေရာ ထိုအမျိုးသားတို့မှာ ၎င်းတို့၏စကားကို နာယူခဲ့ကြကုန်၏။ ဧကန်အမှန် ၎င်းတို့သည် စည်းကမ်းကျူးလွန်သော လေလွင့်သောအမျိုးသားများပင် ဖြစ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

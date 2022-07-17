@@ -710,6 +710,12 @@ Slava na Allakh, Koĭto sŭtvori nebesata i zemyata, i stori tŭmninite i svetl
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။	မိုးကောင်းကင်နှင့် ကမ္ဘာမြေကြီးကို ဖန်ဆင်းတော်မူသောအသျှင်၊ အမှောင်ထုနှင့် အလင်းရောင်ကို စီရင်တော်မူသောအသျှင်၊ အလ္လာဟ်အသျှင်မြတ် ချီးမွမ်းခြင်းတည်ရာဖြစ်တော်မှပါပေ၏။ သို့ပါလျှက် မယုံကြည်သူတို့သည် မိမိ၏အသျှင်သခင်နှင့် ပြိုင်ဘက်၊ တုဘက်ထားကြသေး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလုံးစုံသော ခြီးမွမ်း ထောမနာပြုခြင်း တို့သည်အလ္လာဟ်အရှင်မြတ် အဘို့သာတည်း။ ထိုအရှင်မြတ်သည် မိုးများနှင့် ပထဝီမြေကို ဖန်ဆင်းတော်မူခဲ့လေသည်။ ၎င်းပြင်ထိုအရှင်မြတ်သည် အမှောင်များနှင့် အလင်းရောင်ကို ပြုလုပ်တော် မူခဲ့လေသည်။ သို့ပါလျက်နှင့်ပင် ကာဖိရ် မယုံမကြည်သွေဖည်ငြင်းပယ်သောသူတို့ကား (အခြားသူတို့ကို) မိမိတို့အားဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်နှင့်တန်းတူ မှတ်ယူထားရှိကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I kak vdŭkhnovikh uchenitsite: “Da vyarvate v Men i v Moya pratenik!” Rekok
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၁။	ငါအသျှင်မြတ်သည် သာဝကကြီးများအား အို-သာဝကတို့ သင်တို့သည် ငါနှင့် ငါ၏တမန်တော်ကို ယုံကြည်လေးစားကြလော့ဟု ဗျာဒိတ်ပေးတော်မူ၏။ ထိုအခါ သူတို့က အို-အလ္လာဟ်အသျှင် အကျွနု်ပ်တို့သည် ယုံကြည်ကြပါ၏။ အကျွန်ုပ်တို့သည် အသျှင်ကိုသာလျှင် ယုံကြည်ကျိုးနွံကြသည်ကို သက်သေခံတော်မူပါဟု တင်လျှောက်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (အို- နဗီတမန်တော်အီစာ) အသင်သည် (ပြန်လည်အောက်မေ့ သတိရပါလေ) အကြင်အခါဝယ် ငါအရှင်မြတ်သည်‘ဟဝါရီ’ တို့ထံ အသင်တို့သည် ငါအရှင်မြတ်ကိုလည်းကောင်း၊ ငါအရှင်မြတ်၏ တမန်တော် (အီစာ) အားလည်းကောင်း၊ သက်ဝင်ယုံကြည်လေကုန်ဟု အမိန့်တော် ထုတ်ပြန်ချမှတ်တော်မူခဲ့လေရာ ထို (ဟဝါရီ) တို့က “ကျွန်တော်မျိုးတို့သည် ယုံကြည်ကြပါပြီ။ ကျွန်တော်မျိုးတို့သည် အမိန့်ကို လိုက်နာကြသော ‘မွတ်စလင်မ်’ များဖြစ်ကြောင်း အရှင်မြတ်သည် သက်သေဖြစ်တော်မူပါ” ဟူ၍ လျှောက်ထားပန်ကြားခဲ့ကြသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

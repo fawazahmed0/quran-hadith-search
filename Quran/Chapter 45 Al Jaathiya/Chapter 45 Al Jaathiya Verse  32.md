@@ -710,6 +710,12 @@ I kogato se kaza, che obeshtanieto na Allakh e istinno, i che nyama sŭmnenie za
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	အရှင်မြတ်၏ ကတိသစ္စာတော်သည် မှန်ကန်၏၊ အချိန်ကာလတော်ကြီးကျရောက်လာမည်ကို ယုံမှားသံသယ မရှိနိုင်ချေဟု နင်တို့အား ပြောသောအခါ နင်တို့က ငါတို့သည် ထိုအချိန်မည်သည်ဖြစ်စေကို မသိချေ၊ ထို အရာသည် ထင်မိထင်ရာပြောခြင်းမှတပါး အခြားတရားမဟုတ်ဟု ငါတို့ကြံစည်ယူဆ၏၊ ထိုအကြောင်းကို ငါတို့ယုံမှားသံသယရှိ၏ဟု ပြောကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်၏ ချိန်းဆိုချက်သည် မှန်ကန်သည် ဟူ၍လည်းကောင်း၊ ရှင်ပြန်ထမည့် အချိန်ကာလနှင့်စပ်လျဉ်း၍ မည်သည့် ဒွိဟသံသယမျှပင် မရှိပြီဟူ၍လည်းကောင်း၊ ပြောဆိုခြင်းခံခဲ့ရလေသောအခါ အသင်တို့က "ရှင်ပြန်ထမည့် အချိန်ကာလသည် အဘယ်နည်းဟူ၍ ကျွန်ုတို့သည် မသိကြပြီ။ ကျွန်ုပ်တို့၌ (ယင်းရှင်ပြန်ထမည့်အချိန်နှင့်စပ်လျဉ်း၍) ရမ်းဆတွေးထင်ခဲ့သော ထင်မြင်ယူဆချက် တစ်ခုသာလျှင်ရှိပေ၏။ သို့ရာတွင် ကျွန်ုပ်တို့သည် ယုံကြည်သူများမဟုတ်ပေ" ဟု ပြောဆိုခဲ့ကြသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

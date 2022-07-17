@@ -710,6 +710,12 @@ i koito kazvat: “Gospodi, otkloni ot nas mŭchenieto na Ada! Neotmenimo e nego
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၅။	၎င်းအပြင်ထိုသူတို့သည် ဤသို့ဆုတောင်းကြ၏၊ အို--အကျွနု်ပ်၏ အသက်သခင်ကျေးဇူးရှင်၊ အဝီစီငရဲ၏ အပြစ်ဒဏ်ကို အကျွနု်ပ်တို့နှင့်ဝေးကွာအောင် ဖယ်ရှားတော်မူပါ၊ အမှန်မှာ ထိုဒဏ်တော်သည် အလွန်ကြောက် မက်ဖွယ်ပြင်းပြနာကျင်ဖွယ်ကောင်းလှပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အကြင်သူများပင်။ ထိုသူတို့သည်(ဤသို့) လျှောက်ထားကြကုန်၏။ အို-ကျွန်တော်မျိုးတို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ အရှင်မြတ်သည် ဂျဟန္နမ်ငရဲ၏ပြစ်ဒဏ်ကို ကျွန်တော်မျိုးတို့မှ ဖယ်ရှားပေးတော်မူပါ။ ဧကန်မလွဲ ယင်းဂျဟန္နမ်ငရဲ၏ ပြစ်ဒဏ်သည်ကား ပျက်စီးမှုပင်၊ ပြင်းထန်လှသောဒုက္ခပင်၊ အဆက်မပြတ် သက်ရောက်အံ့သော ပြစ်ဒဏ်ပင်ဖြစ်ပါသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

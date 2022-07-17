@@ -710,6 +710,12 @@ osven onezi, koito shte goryat v Ada
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၂၊၁၆၃။ သင်တို့အားလုံးသည် ငရဲမီးတွင် လောင်ကျွမ်းရမည့်သူမှတပါး အခြားတစ်စုံတစ်ယောက်ကိုမျှ အလ္လာဟ် အရှင်မြတ်အား ရန်ဘက်ပြုရန် သွေးမဆောင်နိုင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဂျဟန္နမ်" ငရဲဘုံ၌ ကျရောက်အံ့သောသူမှတစ်ပါး အခြားမည်သူ တစ်ဦးတစ်ယောက်ကိုမျှပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

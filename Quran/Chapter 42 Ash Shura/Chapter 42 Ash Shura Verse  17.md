@@ -710,6 +710,12 @@ Allakh e, Koĭto nizposla Knigata s istinata i spravedlivostta. I otkŭde da zn
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	အလ္လာဟ်အရှင်မြတ်သည် ကျမ်းမြတ်ကုရ်အာန်ကို မုချဧကန်ချပေးသနားတော်မူ၏၊ ချိန်ခွင်လျှာကိုလည်း ချပေး သနားတော်မူ၏၊ တရားစီရင်တော်မူသောအချိန်ကာလ အလွန်နီးကပ်နေကောင်းနေလိမ့်မည်ဟု သင့်အား မည်သည်က နားလည်နိုင်စေမည်နည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည်ပင် ကျမ်းဂန်ဒေသနာတော်ကိုလည်းကောင်း၊ တရားမျှတမှုကိုလည်းကောင်း၊ တိကျမှန်ကန်စွာ ချပေးတော်မူသောအရှင် ဖြစ်တော်မူ၏။ စင်စစ်သော်ကား (အို-နဗီတမန်တော်)အသင်မသိ။ ကိယာမတ်ရှင်ပြန်ထမည့် အချိန်ကာလသည် နီးကပ်စွာရှိတန်ရာသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

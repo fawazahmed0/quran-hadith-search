@@ -710,6 +710,12 @@ Allakh, Komuto e vsichko na nebesata i vsichko na zemyata. I gorko na nevernitsi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	အလ္လာဟ်အရှင်မြတ်သည် မိုဃ်းကောင်းကင်နှင့် ကမ္ဘာမြေပြင်ဝယ်ရှိရှိသမျှအပေါင်းတို့ကို စိုးပိုင်တော်မူ၏။ မယုံကြည်သူတို့သည် ကြောက်မက်ဖွယ်သောအပြစ်ဒဏ်တော်မှ စိတ်ဒုက္ခရကြမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင် အလ္လာဟ်အရှင်မြတ်(၏လမ်းသို့) မိုးကောင်းကင်များ၌ရှိကုန်သောအရာများသည်လည်းကောင်း၊ပထဝီမြေ၌ရှိကုန်သောအရာများသည်လည်းကောင်း၊ ထိုအရှင်မြတ်သာလျှင် စိုးပိုင်တော်မူသော အရာများပင်။ ကာဖိရ်သွေဖည်ငြင်းပယ်ကုန်သော သူတို့၌မူကား ပြင်းထန်သော ပြစ်ဒဏ်ရှိသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

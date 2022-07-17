@@ -710,6 +710,12 @@ No ne im be ot polza vyarata im, kogato vizhdakha Nasheto nakazanie. Takŭv be o
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၅။	ငါအရှင်မြတ်၏ အပြစ်ဒဏ်တော်ကို မြင်ရသောအခါမှ ယုံကြည်ခြင်းသည် သူတို့အား မည်သည့်အကျိုးကိုမျှ မပေးနိုင်ချေ၊ ဤအဖြစ်အပျက်သည် အရှင်မြတ်က မိမိကျေးကျွန်များအတွက် ပြဋ္ဌားထားတော်မူသောတရား ဥပဒေသအတိုင်းပင်ဖြစ်၏၊ ထိုအခါမိစ္ဆာဒိဋ္ဌိအပေါင်းတို့သည် မရှုမလှပျက်စီးရမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တစေလည်း ၎င်းတို့သည် ငါအရှင်မြတ်၏ပြစ်ဒဏ်ကို မြင်တွေ့ခဲ့ကြပြီးဖြစ်ရာ ၎င်းတို့၏"အီမာန်" သက်ဝင်ယုံကြည်မှုသည် ၎င်းတို့အား အကျိုးပေးခဲ့သည် မဟုတ်ပေ။(ဤသည်) အလ္လာဟ်အရှင်မြတ်၏ အကြင် စည်းကမ်းအတိုင်းဖြစ်၏။ ထိုစည်းကမ်းသည် ထိုအရှင်မြတ်၏ ကျွန်တို့နှင့်ပတ်သက်၍ လွန်လေပြီးဖြစ်၏။ ထိုမှတစ်ပါး "ကာဖိရ်" သွေဖည်ငြင်းပယ် သောသူတို့သည် ထိုနေရာ၌ပင် ပျက်စီးဆုံးရှုံးခဲ့ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

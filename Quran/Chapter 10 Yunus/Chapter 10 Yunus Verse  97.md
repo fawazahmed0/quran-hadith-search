@@ -710,6 +710,12 @@ dori pri tyakh da doĭde vsyakakvo znamenie, dokato ne vidyat boleznenoto mŭch
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၇။	ပြင်းပြနာကျင်ဖွယ်ကောင်းသောအပြစ်ဒဏ်တော်ကို ဒိဋ္ဌမျက်မြင်၊မြင်ရသည့်တိုင်အောင် သူတို့သည် သက်သေ သာဓကတော်အမျိုးမျိုးလာသော်လည်း ယုံကြည်ကြမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍ ၎င်း တို့ထံ သက်သေလက္ခဏာ အလုံးစုံရောက်လာခဲ့ငြားသော်လည်း ၎င်း တို့သည် ပြင်းပြနာကျယ်ဖွယ်ဖြစ်သောပြစ်ဒဏ်ကို(မျက်ဝါးထင်ထင်) မတွေ့မမြင်ကြရသည့်ကာလပတ်လုံး(သက်ဝင်ယုံကြည်ကြမည် မဟုတ်ပေတကား။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Reche: “Vsichko tova mi be dadeno samo zaradi moeto znanie.” A ne znaeshe li
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၈။	ထိုအခါသူက အို-အချင်းတို့၊ ငါသည် မိမိအတတ်ပညာအစွမ်းကြောင့်သာ ထိုဥစ္စာရတနာများကို ရရှိ၏ဟု တုံ့ပြန်ပြောဆို၏၊ သူသည် မိမိထက်သာလွန်ခွန်အားကြီးမား၍ အခြွေအရံပေါများသောသူ့အလျင်ကျသော လူဟောင်းအဆက်အနွယ်အမြောက်အများကို ထောင်းထောင်းကြေအောင်ဖျက်ဆီးတော်မူကြောင်းကို မသိ သလော၊ ဒုစရုက်ကောင်များအား မိမိတို့ကျူးလွန်သောအပြစ်များအကြောင်းကို စစ်ကြောမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို ‘ကာရူန်’ က ငါသည် ဤ(ဥစ္စာပစ္စည်းရွှေငွေဘဏ္ဍာများ)ကို မိမိအတတ်ပညာတစ်ခုကြောင့် ရရှိခဲ့ခြင်းသာဖြစ်သည်ဟု ဆိုခဲ့လေ၏။ မုချဧကန် အလ္လာဟ်အရှင်မြတ်သည် ၎င်း၏အလျင် ၎င်းထက် ပိုမို၍ပင် ခွန်အားဗလအားဖြင့် ပြင်းထန်လှသည့်ပြင် အခြွေအရံအားဖြင့်လည်း ၎င်းထက်ပိုမို၍ များပြားသောမျိုးဆက်တို့အား ဖျက်ဆီးတော်မူခဲ့ကြောင်းကို ကာရူန်သည် မသိခဲ့လေသလော။ အပြစ်ရှိသော သူတို့အား ၎င်းတို့၏ ပြစ်မှုများနှင့်စပ်လျဉ်း၍(စုံစမ်းသည့်အနေဖြင့်) မေးမြန်းရန်ပင်လိုလိမ့်မည် မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

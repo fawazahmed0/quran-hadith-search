@@ -710,6 +710,12 @@ Razrukhata po sushata i v moreto se poyavi zaradi onova, koeto rŭtsete na khora
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	လူသားတို့၏လက်များသည် ဒုစရိုက်မှုများကို ပြုကြသောကြောင့် ကြည်းရေနှစ်ပါးအရပ်များ၌ ဘေးအန္တရာယ် သည် အနှံ့အပြားပေါ်ပေါက်လာ၏၊ ထိုပေါ်လာရခြင်းမှာ အလ္လာဟ်အရှင်မြတ်သည် လူသားတို့အား မိမိတို့ ပြုကျင့်မှုအချို့၏ အရသာကို မြည်းစမ်းစေဖို့ရာဖြစ်၏၊ သို့မှသာလျှင်သူတို့သည် သုစရိုက်မှုသို့ ပြန်လာကြ လိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 လူတို့၏လက်များက ဆည်းပူးခဲ့ကြသော(မကောင်းမှုဒုစရိုက်တို့)ကြောင့် ကုန်းမြေ၌လည်းကောင်း၊ သမုဒ္ဒရာပင်လယ်၌လည်းကောင်း၊ ပျက်စီးမှု (ဘေးဥပါဒ်များ)သည် ဖြစ်ပေါ်၍နေချေပြီ။ နောက်ဆုံးတွင် ထိုအရှင်မြတ်သည် ၎င်းတို့ကျင့်မူခဲ့ကြသော ပြစ်မှုအချို့၏ရသာကို ၎င်းတို့အား မြည်းစမ်းစေတော်မူမည် ဖြစ်ပေသည်။ သို့မှသာလျှင် ၎င်းတို့သည် (မိမိတို့၏ ပြစ်မှုများမှ) ပြန်လှည့်ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

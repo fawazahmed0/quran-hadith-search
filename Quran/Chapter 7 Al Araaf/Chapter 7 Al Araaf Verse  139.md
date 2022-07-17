@@ -710,6 +710,12 @@ Za tezi e pogubeno onova, koeto imat i e naprazno onova, koeto vŭrshat.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၉။	မှတ်သားကြလော့။ ဤလူတို့မှာကား သူတို့၏လမ်းကို ဖျက်ဆီးပစ်တော်မူခြင်းခံရမည်။ သူတို့၏ ပြုကျင့်မှုများသည် အကျိုးမဲ့ အချည်းနှီးဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ၎င်းတို့ လုံးပန်းလျက်ရှိကြသောအမှုကိစ္စများသည် ဖျက်ဆီးခြင်းခံရပေမည်။ ထို့ပြင် ၎င်းတို့ပြုလျက်ရှိကြသော အမှုကိစ္စများသည်(လုံးဝ) အချည်းနှီး (အခြေအမြစ်မရှိသော) ကိစ္စများသာ ဖြစ်ကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I shte gi vŭznagradi - zashtoto byakha tŭrpelivi - s Gradina i s koprina
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။ ထို့အပြင်သူတို့သည် ခံစားခဲ့ရသော ဝဋ်ဆင်းရဲအပေါင်းတို့ကြောင့် အရှင်မြတ်သည် သူတို့အား ဥယျာဉ်တော်ကြီး ပိုးဖဲအဝတ်တန်ဆာ ဆုလာဘ်တော်များကို ပေးသနားတော်မူပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့အား ထိုအရှင်မြတ်သည် သီးခံခြင်းတရား ထားရှိခဲ့ကြသောကြောင့် "ဂျန္နတ်" သုခဘုံကိုလည်းကောင်း၊ ပိုး(အဝတ်အစားများ) ကိုလည်းကောင်း၊ အစားပေးတော်မူအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

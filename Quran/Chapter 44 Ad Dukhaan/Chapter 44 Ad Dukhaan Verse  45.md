@@ -710,6 +710,12 @@ Podobno raztopen metal tya shte kipi v stomasite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	ထိုရှားစောင်းပင်သည် ငရဲသားတို့ဝမ်းတွင်း၌ အရည်ကျိုထားသောကြေးနီရည်ကဲ့သို့ ပွက်ပွက်ဆူနေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဆီအနည်ကဲ့သို့၊ ကြေးနီ၊ ကြေးဝါ၊ကြောင်းငွေ စသော အရည်ကျိုထားသော တွင်းထွက်သတ္တုကဲ့သို့၊ ဝမ်းဗိုက်များတွင် ကျိုက်ကျိုက်ဆူလျက် ရှိပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

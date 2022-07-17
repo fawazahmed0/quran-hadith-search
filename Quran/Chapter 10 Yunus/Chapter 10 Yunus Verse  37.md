@@ -710,6 +710,12 @@ Tozi Koran ne mozhe da e otkrovenie ot drug osven ot Allakh - v potvŭrzhdenie n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	ကုရ်အာန်ကျမ်းတော်သည် အလ္လာဟ်အရှင်မြတ်မှတပါး အခြားသူတို့ဖန်တီးနိုင်သောကျမ်းမဟုတ်ချေ။ သို့သော် ကျမ်းတော်မြတ်သည် ရှေးကျမ်းတော်များကို အတည်ပြု၏။ ယုံမှားသံသယကင်းမဲ့၏။ စကြာဝဠာအပေါင်းတို့၏ အရှင်သခင်က လူသားအပေါင်းအား ချပေးသနားတော်မူသော ရှင်းလင်းထင်ရှားသောနှုတ်ကပတ်တော်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ဤကုရ်အာန်ကျမ်းတော်မြတ်သည် အလ္လာဟ်အရှင်မြတ်အပြင် (အခြားသူတစ်ဦးဦးက)လီဆယ်ဖန်တီးထားသော ကျမ်းမြတ် မဟုတ်ပေ။ စင်စစ်မှာမူကား(ဤကုရ်အာန်ကျမ်းတော်မြတ်သည်) မိမိအလျင်(ရှိခဲ့ဖူးသောကျမ်းများကို) ခိုင်ခံ့စေသော ကျမ်းဖြစ်၏။ အတည်ပြုသတ်မှတ်ရေး သားထားပြီးဖြစ်သော အမိန့်ပညတ်တော်များကိုအသေးစိတ် ရှင်းလင်းဖော်ပြထားသော ကျမ်းလည်းဖြစ်၏။ဤကုရ်အာန်ကျမ်းတော်မြတ်တွင် ဒွိဟသံသယလည်း လုံးဝမရှိချေ။ စကြဝဠာခပ်သိမ်းကို ဖန်ဆင်း မွေးမြူတော်မူသောအရှင်မြတ်အထံတော်မှ(ကျရောက်လာသော ကျမ်းတော်မြတ်အမှန်ပင်)ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

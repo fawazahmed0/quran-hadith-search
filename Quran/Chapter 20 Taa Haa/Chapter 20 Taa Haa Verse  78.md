@@ -710,6 +710,12 @@ I gi posledva Faraonŭt s voĭskite si, koito moreto napŭlno pogŭlna
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ရ၈။	ထိုအခါဖွာရောမင်းသည် မိမိ၏ ရဲမက်ဗိုလ်ခြေအမြောက်အမြားနှင့်တကွ တမန်တော်မူစာတို့နောက်သို့ လိုက်ကြ ၏။ သူတို့သည် ပင်လယ်ကို အစ္စရာအီလ်လများကဲ့သို့ ဖြတ်သွားသောအခါ သူတို့အားလုံးသည် ရေနစ်မြုပ် သေဆုံး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ဖိရ်အောင်(န်)သည် မိမိစစ်သည် ဗိုလ်ပါတို့နှင့်တကွ ၎င်းတို့၏နောက်မှ လိုက်လာခဲ့လေရာ၊ ပင်လယ်မှရေများသည် ၎င်းတို့အား လွှမ်းမိုး(နစ်မြုပ်စေ)ခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Posle izdavikhme drugite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၆။	သို့သော်အခြားအသင်းသားအားလုံးကို ရေနစ်သေစေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ငါအရှင်မြတ်သည် အခြားအုပ်စု (ဖြစ်သော’ဖစ်ရ်အောင်န်’ နှင့်၎င်း၏ အခြွေအရံတို့) ကို (ပင်လယ်နီတွင်)နှစ်မြှုပ်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

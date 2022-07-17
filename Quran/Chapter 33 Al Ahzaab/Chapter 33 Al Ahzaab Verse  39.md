@@ -710,6 +710,12 @@ onezi, koito opovestyavakha poslaniyata na Allakh i se boyakha ot Nego, i ne se 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	ထိုလွန်လေပြီးသောတမန်တော်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ ဗျာဒိတ်တော်များကို ဟောပြောကြေငြာ၍ အလ္လာဟ်အရှင်မြတ်ကို ကြောက်ရွံ့ရိုကျိုးကြ၏၊ အရှင်မြတ်မှတပါး အခြားတစ်စုံတစ်ယောက်မျှ မကြောက်ရွံ့ ကြချေ၊ အလ္လာဟ်အရှင်မြတ်သည် ကျင့်မှုများကို ကျနသေသပ်စွာစာရင်းတင်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုသူတို့ကား) အကြင်သူများပင်၊ ၎င်းတို့ သည်အလ္လာဟ်အရှင်မြတ်၏မိန့်မှာချက်များကို (တိကျမှန်ကန်စွာ)ပို့ဆောင်ကြကုန်၏။ ထို့ပြင် ၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ်အားသာလျှင်ကြောက်ရွံ့ကြကုန်၏။ အလ္လာဟ်အရှင်မြတ်အပြင်မည်သူတစ်ဦးတစ်ယောက် ကိုမျှပင် ကြောက်ရွံ့ကြသည်မဟုတ်ပေ။ စင်စစ် အလ္လာဟ်အရှင်မြတ်သည်ပင် စောကြောစစ်ဆေးတော်မူမည့် အရှင်မြတ်အဖြစ် လုံလောက်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

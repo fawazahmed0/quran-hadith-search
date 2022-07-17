@@ -710,6 +710,12 @@ I pokoryavaĭte se na Allakh i na Pratenika, za da bŭdete pomilvani
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၂။	သင်တို့ ကောင်းကြီးမင်္ဂလာတော်ရရှိဖို့ရာ အလ္လာဟ်အသျှင်မြတ်၏ ဗျာဒိတ်တော်၊ တမန်တော်၏ သြဝါဒများကို လိုက်နာကျင့်သုံးကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်တဝ အသင်တို့သည် အလ္လာဟ် အရှင်မြတ်၏ အမိန့်တော်များကို၎င်း၊ ရစူလ် တမန်တော်၏ဩဝါဒများကိုလည်းကောင်း၊ လိုက်နာကြလေကုန်။ သို့မှသာလျှင် အသင်တို့သည် သနားကြင်နာ ညှာတာ တော်မူခြင်းကို ခံကြရလတ္တံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ot nevernitsite - dori da bŭde tyakhno vsichko na zemyata, i oshte tolkova otgo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	မယုံကြည်သူ မိစ္ဆာဒိဌိတို့မှာမူကား အကယ်၍ ကမ္ဘာမြေပေါ်တစ်ဝှမ်း ရှိရှိသမျှအပေါင်းနှင့် ထို့ထက် တစ်ဆကို သူတို့ပိုင်ဆိုင်ကြ၍ ရှင်ပြန်ထမြောက်ရသောနေ့တော်ကြီး၌ ခံစားရမည့်အပြစ်ဒဏ်တော် ကြီးမှ လွတ်မြောက်ဖို့ရာ ထိုပစ္စည်းအားလုံးကို လျော်ကြေးပေးငြားသော်လည်း ၎င်းတို့ထံမှ လက်ခံတော်မူမည်မဟုတ်ပေ။ သူတို့၏အပြစ်ဒဏ်သည် အလွန်နာကျင်ဖွယ်ကောင်းလှ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် သွေဖည်ငြင်းပယ်သောသူတို့သည် (မည်သည့်အခါမျှ မိမိတို့၏အပြစ်များမှ ချမ်းသာခွင့်ရရှိကြလိမ့်မည်မဟုတ်ပေ) ။ အကယ်၍ ကိယာမတ်ရှင်ပြန်ထမည့်နေ့၏ ပြစ်ဒဏ်များမှ လျော်ကြေးပေး၍ လွတ်မြောက်ခြင်းငှာ ၎င်းတို့ထံ၌ ကမ္ဘာလောက၌ ရှိရှိသမျှသော ဥစ္စာပစ္စည်းအားလုံးရှိသည့်ပြင် ၎င်းနှင့်တကွ ထိုမျှလောက်သောဥစ္စာပစ္စည်း နောက်ထပ်ရှိသော်လည်း ထိုပစ္စည်းများကို (လျော်ကြေးပေးကြသည့်တိုင်) ၎င်းတို့ထံမှ သဘောတူ လက်ခံတော်မူလိမ့်မည်မဟုတ်ပေ။ အမှန်သော်ကား ထိုသူတို့အဖို့ အလွန်ပြင်းပြနာကျင်ဖွယ်ဖြစ်သော အပြစ်ဒဏ်သည် အဆင့်သင့်ရှိပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Onezi, koito obrŭshtat grŭb, sled kato napŭt·stvieto im se izyasni, tyakh sa
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	မှတ်သားကြလော့၊ အကြင်သူတို့သည် သူတို့အား လမ်းညွှန်ထင်ရှားစေတော်မူပြီးသည့်နောက် ကျောပေးသွား ကြအ့ံ၊ ထိုသူတို့အား ရှိုင်တန်မာရ်နတ်သည် ဖျားယောင်းသွေးဆောင်ပြီး အရှင်မြတ်သည် သူတို့အား လွတ်လပ် စွာမှားခွင့်ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အကြင်သူတို့သည် ၎င်းတို့အဖို့ တရားလမ်းမှန် ထင်ရှားခဲ့ပြီးနောက်တွင် ကျောခိုင်း၍ ပြန်လှည့်သွားကြကုန်၏။ ‘ရှိုင်တွာန်’ မိစ္ဆာကောင်သည် ထိုသူတို့အား ဖြားယောင်းခဲ့လေ၏။ ထိုမှတစ်ပါး ယင်း’ရှိုင်တွာန်’ မိစ္ဆာကောင်သည် ၎င်းတို့အား မက်လုံးပြခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

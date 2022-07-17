@@ -710,6 +710,12 @@ Onezi, koito vyarvat i vŭrshat pravedni dela, shte bŭdat vŭzradvani v Gradina
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	အကြင်သူတို့သည် ယုံကြည်၍ ကောင်းမှုပြုခဲ့ကြအ့ံ၊ ထိုသူတို့အား နိဗ္ဗာန်ဥယျာဉ်တော်၌ ရွှန်လန်းပျော်ပါးစေ တော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အီမာန် သက်ဝင်ယုံကြည်၍ ကောင်းမြတ်သော အကျင့်သီလများကို ကျင့်မူဆောက်တည်ခဲ့ကြကုန်သော သူတို့သည် ဥယျာဉ်တော်၌ ဂုဏ်ပြုဧည့်ခံခြင်းကို ခံကြရပေမည်။ ဝမ်းသာကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

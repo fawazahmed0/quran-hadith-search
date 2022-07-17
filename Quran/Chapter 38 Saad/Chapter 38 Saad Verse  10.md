@@ -710,6 +710,12 @@ Ili e tyakhno vladenieto na nebesata i na zemyata, i na vsichko mezhdu tyakh? To
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၀။	သို့မဟုတ် သူတို့သည် ကမ္ဘာမြေပြင်မိုးကောင်းကင်တည်းဟူသောနိုင်ငံတော်ကြီးနှင့် မိုးမြေစပ်ကြားရှိ ဝထ္ထု အစုစုတို့ကို စိုးပိုင်ကြသလော၊ အကယ်၍ စိုးပိုင်လျှင် သူတို့သည် ကောင်းကင်နိုင်ငံတော်ကို ကြိုးလှေကား အားဖြင့် တက်ကြစေလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် ထိုသူတို့၌ မိုးကောင်းကင်များကိုလည်းကောင်း၊ ကမ္ဘာမြေကိုလည်းကောင်း၊ ယင်းမိုးကောင်းကင်များနှင့် ကမ္ဘာမြေ နှစ်ခုလုံး၏အကြား၌ ရှိသမျှတို့ကိုလည်းကောင်း၊ စိုးမိုးအုပ်ချုပ်မှုအာဏာသည် ရှိလေသလော။ သို့ရှိခဲ့လျှင် ၎င်းတို့သည် ကြိုးများ၊ လှေကားများ တပ်ဆင်လျက်(မိုးကောင်းကင်သို့) တက်ကြရာကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

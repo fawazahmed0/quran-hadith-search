@@ -710,6 +710,12 @@ Togava Nie shte ostavim edni ot tyakh da se smesyat s drugite khora i shte se pr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၉။	ထိုနေ့တော်ကြီး၌ ငါအရှင်မြတ်သည် လူသားအချို့တို့အား အချို့သောလူသားတို့အပေါ်တွင် လှိုင်းလိမ့်သကဲ့သို့ တိုးဝှေ့စေတော်မူမည်။ တံပိုးကိုလည်း မှုတ်စေတော်မူမည်။ ထိုအခါငါသည် လူသားအပေါင်းတို့ကို အတူတကွ စုဝေးစေတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်ဧကန် ငါအရှင်မြတ်သည် ယင်း(ယအ်ဂျူဂျ်နှင့်မအ်ဂျူဂျ်လူမျိုး)တို့အနက် တစ်ဦးကိုတစ်ဦး ၏အပေါ်၌လှိုင်းလိပ်ကဲ့သို့ပင် တိုးဝှေ့ထပ်ဆင့်လျက် ရှိစေတော်မူပေမည်။၎င်းပြင် တံပိုးခရာမှုတ်ပြီးသောအခါ ငါအရှင်မြတ်သည် ၎င်းတို့အားလုံးကို စုရုံးတော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

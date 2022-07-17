@@ -710,6 +710,12 @@ Chasŭt e obeshtaniyat im srok. Chasŭt e naĭ-zlochestiyat i naĭ-gorchiviyat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။	ပျက်စီးရမည့်အချိန်တော်သည် သူတို့အတွက် ချိန်းချက်ထားသောအချိန်နာရီတော်ကြီးဖြစ်၏၊ ထိုအချိန်တော်ကြီး သည် သူတို့အား သူတို့လောကတွင် မအောင်မြင်ဆုံးရှုံးမှုထက် သာလွန်ဆုံးရှုံးနစ်နာစေမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်မှာကား ‘ကိယာမတ်’ ရှင်ပြန်ထမည့် အချိန်ကာလသည် ၎င်းတို့အား ချိန်းချက်ထားသော ချိန်းချက်မှုဖြစ်၏။ ထိုမှတစ်ပါး ‘ကိယာမတ်’ ရှင်ပြန် ထမည့်အချိန်ကာလသည် ပို၍ပင် ပြင်းထန်သည့်ပြင် ပို၍ပင် နာကြည်းဖွယ် ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

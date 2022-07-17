@@ -710,6 +710,12 @@ I reche: “Da Ti pokazha li kakŭv e tozi, kogoto Ti pochete poveche ot men? Ak
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	အရှင်မြတ်သည် အကျွနု်ပ်ထက် မြှောက်စားတော်မူသောလူသားကို ကြည့်ရှုတော်မူပါ။ အကယ်၍ အရှင်မြတ် သည် အကျွနု်ပ်အား ရှင်ပြန်ထမြောက်ရသောနေ့တော်ကြီးတိုင်အောင် အချိန်ပေးတော်မူပါလျှင် ထိုသူ၏ သားမြေးအနက် အနည်းငယ်သောသူတို့မှတပါး အခြားသူတို့ကို အကျွနု်ပ်သည် ဖမ်းဆီးပါအ့ံဟု တင်လျှောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းအစ်ဗ်လီစ်က (ဆက်လက်၍) အရှင် ရှုတော်မူပါ၊ အရှင်မြတ်သည် ကျွန်တော်မျိုးထက် ထူးကဲမြင့်မြတ်စေတော်မူခဲ့သော၊ ဤသူကား အကယ်၍သာ အရှင်မြတ်သည်ကျွန်တော်မျိုးအား ကိယာမတ်ကမ္ဘာပျက်မည့် နေ့တိုင်အောင်ရွှေ့ဆိုင်းထားတော်မူခဲ့ပါလျှင် မလွဲဧကန် ကျွန်တော်မျိုးသည်၎င်း၏သားမြေးတို့အနက် အနည်း ငယ်မျှသော သူတို့မှတစ်ပါးအားလုံးကို ဖမ်းယူ လွှမ်းမိုးပါမည်ဟု လျှောက်ထားခဲ့ပြန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

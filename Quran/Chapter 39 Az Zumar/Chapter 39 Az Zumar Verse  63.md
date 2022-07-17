@@ -710,6 +710,12 @@ Negovi sa klyuchovete na nebesata i na zemyata. A koito otrichat znameniyata na 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၃။	မိုးကောင်းကင်နှင့် ကမ္ဘာမြေပြင်၏ သော့များသည် အလ္လာဟ်အရှင်မြတ်၏ ဘဏ္ဍာတော်များဖြစ်၏၊ ထို့ကြောင့် အရှင်မြတ်၏ ကျမ်းဗျာဒိတ်တော်များကို မယုံကြည်ဖီဆန်သူတို့သည် ပျက်စီးဆုံးရှုံးသူများသာ ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မိုးကောင်းကင်များ၏သော့များသည်လည်းကောင်း၊ ကမ္ဘာမြေ၏ သော့များသည်လည်းကောင်း၊ ထိုအရှင်မြတ်(၏လက်တော်တွင်း)၌သာ ရှိကြကုန်၏။ သို့ပါလျက် အကြင်သူတို့သည် အလ္လာဟ်အရှင်မြတ်၏ "အာယတ်" အမိန့်တော်များကို ငြင်းပယ်ခဲ့ကြသည်ရှိသော် ထိုသူတို့သည်သာလျှင် ဆုံးရှုံးသောသူများ ဖြစ်ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

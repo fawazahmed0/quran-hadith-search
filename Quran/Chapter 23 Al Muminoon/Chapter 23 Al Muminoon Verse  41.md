@@ -710,6 +710,12 @@ I s pravo gi obkhvana Vikŭt, i gi prevŭrnakhme v sŭchki. Gibel za khorata-ugn
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	ထို့ကြောင့်အလွန်ကြောက်မက်ဖွယ်ကောင်းသောအသံကြီးသည် သူတို့အား တရားသဖြင့်ဖမ်းဆီး၏၊ ထို့အပြင် ငါသည် သူတို့ကို အစိတ်စိတ်အမွှာမွှာပျက်စီးယိုယွင်းစေတော်မူ၏၊ ဒုစရိုက်ပြစ်မှုကျူးလွန်သူများအတွက် ကောင်းစွာသုတ်သင်ဖယ်ရှားခြင်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် အလွန်ပြင်းထန် ကျယ်လောင်စွာသောအသံသည် မှန်ကန်သောချိန်းဆိုချက်နှင့်အညီ ၎င်းတို့အား ဖမ်းဆီးကွပ်မျက်ခဲ့လေသည်။ ထိုအခါ ငါအရှင်မြတ်သည် ၎င်းတို့ အား အမှိုက်သရိုက်များ(ကဲ့သို့)ချေမှုန်းတော်မူခဲ့၏။ သို့ဖြစ်ပေရာ မတရားကျူးလွန်သော(ထို)အမျိုးသားတို့မှာ(ကရုဏာတော် မှ) ကင်းဝေးခဲ့ကြရကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

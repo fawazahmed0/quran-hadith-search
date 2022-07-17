@@ -710,6 +710,12 @@ I kogato minavakha kraĭ tyakh, si smigvakha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၀။ ငရဲသားတို့သည် မိမိတို့ရှေ့၌ ထိုယုံကြည်သူတို့လျှောက်သွားသောအခါတိုင်း ပြောင်လှောင်လျက် အချင်းချင်းတစ်ဦးကို တစ်ဦးမျက်ရိပ်ပြကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုသက်ဝင်ယုံကြည်သူတို့သည် ၎င်းတို့အနီးမှဖြတ်၍ လျှောက်သွားကြသောအခါ ၎င်းတို့သည် မျက်ရိပ်ပြ(ကာ ကျီစယ်)လေ့ရှိခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ vŭzdayanie za delata im
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	ဤကဲ့သို့ ကြိီးကျယ်မြင့်မြတ်သောရွှေဘုံဗိမာန်တွင် ပျော်ရွှင်စံစားရခြင်းကား လူ့ဘုံဌာန လူ့လောကတွင် ပြုကျင့် ခဲ့သောကုသိုလ်ကောင်းမှု၏ အကျိုးဆက်ပင်ဖြစ်ချေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤသည်) ၎င်းတို့ ကျင့်မူ ဆောက်တည်လျက်ရှိခဲ့ကြလေသော ကောင်းမှုများ၏ အစားပေးတော်မူ ခြင်းပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

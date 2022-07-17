@@ -710,6 +710,12 @@ Ne se sluchva beda, predi da sme ya porodili, nito na zemyata, nito s vas samite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	ငါပညတ်ထားတော်မူသည့်ဥပဒေသအတိုင်းမှတပါး၊ မည်သည့်ဘေးအန္တရာယ်မျှ မြေပေါ်၌သော်လည်းကောင်း၊ သင်တို့ဝိညာဉ်ပေါ်၌လည်းကောင်း၊ မကျရောက်နိုင်ချေ၊ ထိုဥပဒေသကို ဥပါဒ်အန္တရာယ်မပေါ်ပေါက်မီကပင် ပြဋ္ဌာန်းထားတော်မူ၏၊ စစ်စစ်အားဖြင့် ဤစီမံခန့်ခွဲခြင်းသည် အလ္လာဟ်အရှင်မြတ်အဖို့ အလွန်လွယ်ကူလှ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သည့် ဘေးဒုက္ခမျှပင် ကမ္ဘာမြေ၌ လည်းကောင်း၊ အသင်တို့ကိုယ်၌ လည်းကောင်း၊ ဆိုက်ရောက်သည် မဟုတ်ပေ။ သို့ရာတွင် ငါအရှင်မြတ်သည် ယင်းဘေးဒုက္ခ၊ ကမ္ဘာမြေနှင့်အသင်တို့၏ ဇီဝိန်များကို ဖန်ဆင်းတော်မမူမီကပင်လျှင် မှတ်တမ်းစာအုပ်တွင် (ရေးသား၍ထားတော်မူပြီး ဖြစ်၏)။ ဧကန်အမှန် ဤသည် အလ္လာဟ်အရှင်မြတ်၌ လွယ်ကူလှပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A nima chovekŭt ne pomni, che Nie go sŭtvorikhme i predi, kogato be nishto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၇။	ငါသည် လူသားအား တစုံတခုမရှိ၊ နတ္တိမှ ရှေးဦးစွာဖန်ဆင်းတော်မူသည်ကို သူမမှတ်မိသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ယင်း)လူသားသည် ယခင်က ၎င်းဘာမျှမရှိခဲ့စဉ်အခါ၌ ငါအရှင်မြတ်သည်ပင် ၎င်းအား ဖန်ဆင်းတော်မူခဲ့သည်ကို သတိမရလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

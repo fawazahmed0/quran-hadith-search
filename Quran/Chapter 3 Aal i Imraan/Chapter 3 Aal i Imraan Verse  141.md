@@ -710,6 +710,12 @@ i za da prechisti Allakh povyarvalite, i da sŭkrushi nevernitsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၁။	အလ္လာဟ်အသျှင်မြတ်သည် ယုံကြည်သူတိုအား စမ်းသပ်တော်မူရန်လည်းဖြစ်၏။ မယုံကြည်သူတို့ အား အမင်္ဂလာပေးတော်မူရန်လည်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (ယင်းကဲ့သို့ ပြုလုပ်တော်မူခြင်းမှာ)အလ္လာဟ်အရှင်မြတ်သည် ‘မုအ်မင်န်’ အီမာန် ယုံကြည်ခြင်းသဒ္ဓါတရားထားရှိသောသူတို့အား (ပြစ်မှုအပေါင်းတို့မှ) သန့်ရှင်း စင်ကြယ်စေတော် မူရန် အလို့ငှာလည်းကောင်း၊ ကာဖိရ်မယုံမကြည် သွေဖယ် ငြင်းပယ်သောသူများကို သုတ်သင်ရှင်းလင်းတော်မူရန် အလို့ငှာလည်းကောင်း၊ ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

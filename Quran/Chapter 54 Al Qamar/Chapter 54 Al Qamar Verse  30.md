@@ -710,6 +710,12 @@ I kakvo be Moeto mŭchenie i Moeto preduprezhdenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	ငါသည် ပညတ်တရားတော်ကို ချပေးသနားတော်မူပြီးမှ တပ်ရိုက်သောအပြစ်ဒဏ်တော်သည် မည်ရွေ့မည်မျှ ကြောက်ရွံ့ဖွယ်ကောင်းသည်ကို ကြည့်ရှုကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ငါအရှင်မြတ်၏ ပြစ်ဒဏ်နှင့် ငါအရှင်မြတ်၏ သတိပေးနှိုးဆော်မှုများသည် မည်သို့ ရှိခဲ့ပေသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

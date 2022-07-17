@@ -710,6 +710,12 @@ Ala ne! Shte zapishem Nie kakvo kazva i nepremenno shte mu udŭlzhim mŭchenieto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၉။	ယင်းသို့မဟုတ်ချေ။ သို့သော်ငါအရှင်သည် သူ၏ စကားကို မှတ်တမ်းတင်ထားတော်မူမည်။ သူ၏ ဝဋ်ဆင်းရဲ ကိုလည်း ရှည်လျားစေတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလျှင်းမဟုတ်ပေ။ ယခုပင် ငါအရှင်မြတ်သည်ထိုသူပြောဆိုသော စကားကို ရေးသားတော်မူမည်။ ၎င်းပြင်ငါအရှင်မြတ်သည် ထိုသူ၌ ပြစ်ဒဏ်ကိုလည်း တိုးတက်ခံစားစေတော်မူမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ za da gi izpitame s tova. A koĭto se otdrŭpva ot spomenavaneto na svoya Gospo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။ ငါသည် သူတို့အား ရေပေါများခြင်းနှင့် စုံစမ်းတော်မူလတံ့၊ အကြင်သူသည် မိမိအရှင်သခင်အား အာရုံမပြုအံ့၊အရှင်မြတ်သည် ထိုသူအား အမြဲကြီးမားလာသောအပြစ်ဒဏ်အတွင်းသို့ သွင်းတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် ၎င်းတို့အား ထိုရေနှင့် စပ်လျဉ်း၍ စမ်းသပ်တော်မူအံ့သောငှာ စင်စစ်သော်ကား မည်သူမဆို မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အား အောက်မေ့တသ သတိရခြင်းမှ မျက်နှာလွှဲသည်ရှိသော် ထိုအရှင်မြတ်သည် ၎င်းအား ပြင်းထန်သော ပြစ်ဒဏ်သို့ ဝင်ရောက်စေတော်မူအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

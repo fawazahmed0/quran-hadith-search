@@ -710,6 +710,12 @@ i koito se strakhuvat ot mŭchenieto na svoya Gospod
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။ ထို့အပြင် ထိုသူတို့သည် မိမိတို့၏အရှင်သခင်၏ အပြစ်ဒဏ်တော်ကို ထိတ်လန့်ကြောက်ရွံ့ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အကြင်(ဆွလာတ်ဝတ်ပြု)သူတို့သည် မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ အပြစ်ဒဏ်ကို ကြောက်ရွံ့စိုးရိမ်လျက် ရှိကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

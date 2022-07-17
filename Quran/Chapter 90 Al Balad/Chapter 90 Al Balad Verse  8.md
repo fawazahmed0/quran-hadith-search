@@ -710,6 +710,12 @@ Ne mu li dadokhme Nie dve ochi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၊၉။ ငါသည် လူသား၏မျက်စိ၊ လျှာ၊ နှုတ်ခမ်းတို့ကို ဖန်ဆင်းတော်မူသည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် ၎င်းအား မျက်စိနှစ်လုံးကိုပြုလုပ်၍ ပေးသနားတော်မူခဲ့သည် မဟုတ်ပါလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

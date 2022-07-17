@@ -710,6 +710,12 @@ Nima smyatat, che s imotite i sinovete, koito im nabavyame
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅၊၅၆။	ငါအရှင်မြတ်သည် သူတို့အား ပေးသနားတော်မူသောဥစ္စာပစ္စည်း၊သားသမီးအခြွေအရံများဖြင့် ငါသည် သူတို့ အကျိုးကို အဆောတလျင်ဆောင်ရွက်တော်မူသည်ဟု သူတို့ထင်ကြသလော၊	ယင်းသို့မဟုတ်ချေ၊ သို့သော် သူတို့သည် မမြင်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသို့ပါနည်း။ ၄င်းတို့သည် ထင်မှတ်ကြလေသလော။ ငါအရှင်မြတ်သည် ၎င်းတို့အား ဥစ္စာပစ္စည်း နှင့်သားရတနာများ ပေးသနားတော်မူသည်မှာ၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

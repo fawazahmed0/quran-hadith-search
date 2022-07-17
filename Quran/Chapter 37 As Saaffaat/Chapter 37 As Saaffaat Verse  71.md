@@ -710,6 +710,12 @@ A predi tyakh povecheto ot drevnite byakha v zabluda
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၁။	ထို့အပြင်အမှန်ကိုဆိုသော် ၎င်းတို့အလျင်ရှေးလူဟောင်အဆက်ဆက်တို့တွင် အရေအတွက်များစွာသောသူတို့ သည် လမ်းမှားသို့ ရောက်ကြပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်သော်ကား မုချဧကန် ၎င်းတို့အလျင်လည်း ရှေးသူဟောင်းတို့အနက် များစွာသောသူတို့မှာ လမ်းမှားခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ O, tatko moĭ, strakhuvam se da ne te zasegne mŭchenie ot Vsemilostiviya i da 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	အို-မွေးသဖခင်၊ ဖခင်သည် ရှိုင်တန်မာရ်နတ်၏ အဆွေခင်ပွန်းဖြစ်ရအောင် မဟာဂရုဏာတော်ရှင်မှ အပြစ် ဒဏ်တော်ကြီးသည် ဖခင်ကို ထိမည်ကို အကျွနု်ပ်စိုးရိမ်ကြောင့်ကျမိပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ကျွန်ုပ်၏ဖခင်၊ ဧကန်ဆတ်ဆတ် ကျွန်ုပ်မူကား အသင်(ဖခင်)၌ ရဟ်မာန်အနန္တကရုဏာ တော်ရှင်၏အထံတော်မှ ပြစ်ဒဏ်သက်ရောက်မည်ကို စိုးရိမ်မိပါသည်။ထိုသို့ဖြစ်ခဲ့ပါလျှင် အသင်(ဖခင်) သည် ရှိုင်တွာန်မိစ္ဆာကောင်၏အဆွေခင်ပွန်း ဖြစ်သွားပါလိမ့်မည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

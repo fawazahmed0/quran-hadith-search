@@ -710,6 +710,12 @@ Ne khodekha li po zemyata, sŭs sŭrtsata si da proumeyat ili s ushite si da chu
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။	ဤအယူမှားသူတို့သည် ကမ္ဘာမြေပေါ်တွင် ခရီးသွားလာ၍ မကြည့်ရှုကြသလော၊ သူတို့တွင် သံဝေဂရဖို့ရာ စိတ်နှလုံး၊ ကြားဖို့ရာနားများမရှိကြသလော၊ စင်စစ်အားဖြင့်၎င်းတို့၏ မျက်စိများကန်းသည်မဟုတ်၊ ၎င်းတို့၏ ရင်ဘတ်အတွင်းရှိ စိတ်နှလုံးများကန်းခြင်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ပါလျက် ၎င်းတို့သည် ပထဝီမြေဝယ် လှည့်လည်သွားလာမှုကို မပြုခဲ့ကြလေသလော။ သို့ပြုခဲ့ကြလျှင်၊ ထိုသူတို့၌ နားလည်နိုင်သော စိတ်နှလုံးများ သော်လည်းကောင်း၊ ကြားနိုင်သောနားများသော်လည်း ကောင်း၊ ရှိလာကြပေမည်။အကြောင်းမူကား မျက်စိများသည် ကန်းသွားကြသည် မဟုတ်ပေ။ စင်စစ်မှာကား ရင်များ၌ရှိသော စိတ်နှလုံးများသည်သာလျှင် ကန်းသွားလေ့ရှိကြသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

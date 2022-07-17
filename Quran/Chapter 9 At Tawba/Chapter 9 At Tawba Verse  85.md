@@ -710,6 +710,12 @@ I da ne te vŭzkhishtavat imotite i detsata im! Allakh iska da gi nakazhe s tova
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၅။	သူတို့၏ ဥစ္စာပစ္စည်းသည်သော်လည်းကောင်း၊ သားသမီးအချွေအရံသည်သော်လည်းကောင်း၊ သင့်အား မနှစ် သက်စေလင့်။အလ္လာဟ်အရှင်မြတ်သည် သူတို့အား ဤလောကဓာတ်၌ ထိုရတနာများအားဖြင့် အပြစ်ပေးရန်သာ ရည်ရွယ်တော်မူ၏။သူတို့အား မိစ္ဆာဒိဋ္ဌိဘဝ၌ အသက်ကုန်ဆုံးတော်မူရန်လည်း ကြံရွယ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ယင်းသူတို့၏ ဥစ္စာပစ္စည်းများသည်လည်းကောင်း၊ ယင်းသူတို့၏ သားသမီးများသည်လည်းကောင်း အသင့်အား အံ့ဩခြင်းကိုမဖြစ်စေရ။ အလ္လာဟ်အရှင်မြတ်သည် ထိုသူတို့အား ယင်းဥစ္စာပစ္စည်းများနှင့်သားသမီးများအားဖြင့် လောကီဘဝတွင်ပြစ်ဒဏ်ပေးတော်မူရန်နှင့် ထိုသူတို့သည် ကာဖိရ်သွေဖည်ငြင်းပယ်သူများအဖြစ်နှင့်၊ ထိုသူတို့၏အသက်ဇီဝိန်ထွက်သွားရန်ကိုသာ ရည်စူးတော်မူလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

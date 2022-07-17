@@ -710,6 +710,12 @@ O, narode moĭ, ne iskam ot vas otplata za tova. Moyata otplata e edinstveno ot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁။	ဟယ်-အချင်းတို့၊ ငါသည် သင်တို့ထံမှ တရားဟောကြေးတပြားတချပ်မှ မတောင်းချေ၊ မှတ်သားကြလော့၊ ငါ၏ တရားဟောကြေးမှာ ငါ့ကို ဖန်ဆင်းမွေးမြူတော်မူထသောကျေးဇူးတော်သခင်အထံမှသာဖြစ်၏။ သင်တို့တွင် စဉ်းစားဉာာဏ်မရှိသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ငါ၏အမျိုးသားတို့ ငါသည် အသင်တို့ထံဤ(တရားဓမ္မဟောကြားခြင်း)နှင့်စပ်လျဉ်း၍ မည့်သည့် အကျိုးဆုလာဘ်ကိုမျှ တောင်းဆိုသည်မဟုတ်ပေ။ ငါ၏အကျိုးဆုလာဘ်မှာမူကား ငါ့အားဖန်ဆင်းတော်မူသော အရှင်မြတ်ပေါ်၌သာ တာဝန်ရှိပေသည်။ သို့ပါလျက် အသင်တို့သည် (ဤမျှထင်ရှားလှသော အကြောင်းကိုပင်) နားမလည်ကြပါသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

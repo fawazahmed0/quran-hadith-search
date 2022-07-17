@@ -710,6 +710,12 @@ Kazhi [o, Mukhammad]: “Az vi preduprezhdavam samo chrez onova, koeto mi se raz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	အို--မိုဟမ္မဒ်၊ သင်သည် လူသားတို့အား ဟောပြောလော့၊ ငါသည် သင်တို့ကို အရှင်မြတ်က ငါ၏စိတ်နှလုံး အတွင်း၌ ထင်ရှားစေတော်မူသောဗျာဒိတ်တော်အားဖြင့် သတိပေးဟောပြော၏၊ သို့သော်နားပင်းသူတို့သည် သူတို့အား သတိပေးသောအခါ တရားတော်ကို မကြားကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (၎င်းတို့အားဤသို့)ပြောကြားပါလေ။ (အချင်းတို့၊) ငါသည် အသင်တို့အား "ဝဟ်ယ်" အမိန့်တော်ဖြင့် သတိပေးနှိုးဆော်ခြင်းသာဖြစ်သည်။ သို့ရာတွင် နားပင်းသူများမှာမူကား သတိပေးနှိုးဆော်ခြင်း ခံကြရသောအခါ ဟစ်ခေါ်ခြင်းကိုပင် မကြားကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

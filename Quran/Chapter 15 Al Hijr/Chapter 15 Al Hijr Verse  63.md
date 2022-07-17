@@ -710,6 +710,12 @@ Kazakha: “Da, doĭdokhme pri teb s onova, za koeto se sŭmnyavat [tvoite khor
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၃။	သူတို့က အမှန်ကို ဆိုသော်၊ အကျွနု်ပ်တို့သည် သူတို့မယုံကြည်၊ ငြင်းခုံနေသောအရာကို သင့်ထံသို့ ယူဆောင် လာပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(ကောင်းကင်တမန်တော်)တို့က (ဤသို့)ပြောဆို ပြန်ကြားခဲ့ကြကုန်၏။ ထိုသို့ အလျှင်းမဟုတ်။ စင်စစ်မှာကား ကျွန်ုပ်တို့သည် အသင်၏ထံသို့၊ ၎င်းတို့ ဒွိဟသံသယဖြစ်နေကြသောကိစ္စကို ဆောင်ယူ၍ လာခဲ့ကြပါသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

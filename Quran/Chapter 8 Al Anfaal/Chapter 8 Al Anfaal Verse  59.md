@@ -710,6 +710,12 @@ I nevernitsite da ne smyatat, che sa se otŭrvali! Te ne shte [Ni] ubegnat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၉။	မယုံကြည်သူအား ၎င်းတို့သည် အလ္လာဟ်အသျှင်မြတ်၏ စီမံကိန်းမှလွတ်အောင်ပြေးနိုင်သည်ဟု မယူဆစေလင့်။ မှတ်သားကြလော့။ သူတို့သည် လွတ်အောင်မပြေးနိုင်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ကာဖိရ် မယုံမကြည်သွေဖည်ငြင်းပယ်သောသူတို့က မိမိတို့သည် လွတ်မြောက်ခဲ့ကြချေပြီ ဟုအလျှင်း မထင်မှတ်မယူဆကြရာချေ။ ဧကန်အမှန် ၎င်းတို့သည် (အလ္လာဟ်အရှင်မြတ်အား) မစွမ်းဆောင်နိုင်အောင် ပြုလုပ်နိုင်ကြသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

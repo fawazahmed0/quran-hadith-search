@@ -710,6 +710,12 @@ Te izpŭlnyavat obeta i se strakhuvat ot Denya, zloto na koĭto se razprostira
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။ ထိုသူတော်ကောင်းတို့သည် မိမိတို့ ကတိသစ္စာကျိန်တွယ်ခြင်းများကို စောင့်စည်းကြ၏၊ ထို့အပြင်သူတို့သည် ဘေးဒုက္ခအနှံ့အပြားရှိသောနေ့တော်ကြီးကို ကြောက်ရွံ့တုန်လှုပ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(ထူးကဲမြင့်မြတ်သော) ကျွန်တို့မှာ (မိမိတို့၏)တာဝန်များကို ကျေပွန်စွာ ဆောင်ရွက်လေ့ရှိကြသည့်ပြင်၊ အကြင်နေ့ကိုလည်း စိုးရိမ်ကြောက်ရွံ့လေ့ ရှိကြကုန်၏။ ထိုနေ့၏ ဘေးအန္တရာယ်မှာ ကျယ်ပြန့်စွာ ပြန်နှံ့လျက်ရှိပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

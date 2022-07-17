@@ -710,6 +710,12 @@ Cheti onova, koeto ti be razkrito ot Knigata! I ot·sluzhvaĭ molitvata! Molitv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	တမန်တော်၊ သင်၏နှလုံးအိမ်တွင် ထင်ရှားစေခြင်းဖြင့် ချပေးသနားတော်မူသောကျမ်းမြတ်ကုရ်အာန်ကို ဖတ်ရွတ် လော့၊ အရှင့်ဆွလဝသ်၌ တည်တ့ံခိုင်မြဲလော့၊ မှတ်သားလော့၊ ဆွလဝသ်ပြုခြင်းသည် မတရားဆိုးသွမ်းမှုနှင့် ကာမယုတ်ည့ံမှုတို့မှ လူသားကို ကာကွယ်ထား၏၊ သို့သော်အလ္လာဟ်အရှင်မြတ်ကို အာရုံပြုခြင်းသည် သာလွန် အရေးကြီး၏၊ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့ပြုသမျှကို သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် မိမိထံ ထုတ်ပြန်ခြင်းခံရလေသော ကျမ်းတော်မြတ်(ကုရ်အာန်)ကို ရွတ်ဖတ်ပါလေ။ ၎င်းအပြင် သင်သည် ‘ဆွလာတ်’ ဝတ်ပြုမှုကိုဆောက်တည်ပါလေ။ ဧကန်မလွဲ ဆွလာတ်ဝတ်ပြုမှုသည် အလွန်စက်ဆုပ်ဖွယ်ရာသော အမှုကိစ္စများမှလည်းကောင်း၊ မဖွယ်မရာသော အလွန့်အမှုကိစ္စ များမှလည်းကောင်း၊ ပိတ်ပင်တားဆီးလေ၏။ စင်စစ်မှာမူကား အလ္လာဟ်အရှင်မြတ်အား အောက်မေ့ တသခြင်းသည် အကြီးကျယ်ဆုံး၊ (အမြင့်မြတ်ဆုံး)ပင်ဖြစ်ပေသည်။ စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့ပြုမူသမျှတို့ကို ကောင်းစွာသိရှိတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ e pokorstvo i blago slovo. A shtom se dade tvŭrda povelya [za srazhenie], da b�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	အမိန့်တော်နာခံခြင်း၊ သာယာနာပျော်ဖွယ်သောစကားကို ဆိုခြင်းသည် မင်္ဂလာဖြစ်၏၊ အမှုတစ်ခုကို ဆုံးဖြတ်ပြီး သောအခါ သူတို့သည် အရှင်မြတ်အား သစ္စာရှိလျက် သူတို့အတွက် ကောင်း၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (၎င်းတို့၏) လိုက်နာမှုသည်လည်းကောင်း၊ ပြောဆိုမှုသည်လည်းကောင်း၊ သိရှိပြီးဖြစ်၏။ သို့တစေလည်း ၎င်းတို့သည် အရေးကိစ္စ အလုံးစုံပြဌာန်းပြီး ဖြစ်သောအခါ၌လည်း အကယ်၍ အလ္လာဟ်အရှင်မြတ်နှင့် ပတ်သက်၍ သစ္စာစောင့်သိကြလျှင် ၎င်းတို့အဖို့ အကောင်းဆုံးပင် ဖြစ်ခဲ့ပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

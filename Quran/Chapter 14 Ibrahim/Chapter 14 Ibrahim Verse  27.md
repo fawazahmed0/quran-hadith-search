@@ -710,6 +710,12 @@ Allakh ukrepva vyarvashtite s nepokolebimo slovo i v zemniya zhivot, i v otvŭdn
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	အလ္လာဟ်အရှင်မြတ်သည် ယုံကြည်သူတို့အား ဤဘဝနောင်ဘဝတွင် တည်တ့ံခိုင်မြဲသောဗျာဒိတ်တော်အားဖြင့် အင်အားတောင့်တင်းစေတော်မူ၏။ အလ္လာဟ်အရှင်မြတ်သည် မတရားမှုပြုကျင့်သူတို့ကို မိစ္ဆာလမ်းသို့ ရောက်စေ တော်မူ၏။ အလ္လာဟ်အရှင်မြတ်သည် မိမိအလိုရှိရာကို စီရင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် မုအ်မင်န်သက်ဝင်ယုံကြည်သူတို့အား ယင်းတည်တံ့ခိုင်မြဲသောစကားဖြင့် ပစ္စက္ခမျက်မှောက်လောကီဘဝ၌လည်းကောင်း၊ အာခိရတ် တမလွန်ဘဝ၌လည်းကောင်း တည်တံ့မြဲမြံစေတော်မူ၏။ သို့ရာတွင်မတရားသော(ကာဖိရ်) သူတို့ကိုမူကား အလ္လာဟ်အရှင်မြတ်ချွတ်ချော်တိမ်းပါးစေတော်မူ၏။ စင်စစ်မှာကား ထိုအရှင်မြတ်သည် မိမိ အလိုရှိတော်မူသောကိစ္စကို ပြုလုပ်ဆောင်ရွက်တော်မူချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

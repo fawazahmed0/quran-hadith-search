@@ -710,6 +710,12 @@ V tozi Den nikoĭ drug ne shte izmŭchva, kakto Toĭ izmŭchva
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။ ထိုနေ့တော်ကြီး၌ အရှင်မြတ်သည် သူတပါးမပေးစွမ်းနိုင်သောအပြစ်ဒဏ်ကို ပေးတော်မူလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ထိုနေ့တွင် ထိုအရှင်မြတ်၏ပြစ်ဒဏ် စီရင်ခြင်းမျိုးကို မည်သူတစ်ဦးတစ်ယောက်မျှပင် ပြစ်ဒဏ် စီရင်လိမ့်မည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

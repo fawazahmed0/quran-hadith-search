@@ -710,6 +710,12 @@ Kazhi [o, Mukhammad]: “Nizposla go Onzi, Koĭto znae nevedomoto i na nebesata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	အို--မိုဟမ္မဒ်၊ သင်သည် ထိုသူမိုက်တို့အား ဟောကြားလော့၊ မိုးကောင်းကင်နှင့် ကမ္ဘာမြေပေါ်ဝယ် လျှို့ဝှက် နက်နဲသောအရာဟူသမျှကို သိတော်မူသောအရှင်မြတ်သည် ဤကျမ်းတော်ကို ထုတ်ပြန်ပို့ချပေးသနားတော်မူ၏၊ မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် အမြဲအပြစ်လွှတ်တော်မူသောအရှင်၊ ကောင်းကြီးမင်္ဂလာပေးသနား တော်မူသောသခင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (၎င်းတို့အား ဤသို့)ပြောဆို(ဖြေကြား)ပါလေ။ (အချင်းတို့၊) ဤ(ကုရ်အာန် ကျမ်းတော်)ကို မိုးကောင်းကင်များနှင့် ပထဝီမြေ၌ရှိကုန်သော လျှို့ဝှက်ချက်တို့ကို သိရှိတော်မူသော အရှင်မြတ်က ချပေးသနားတော်မူခဲ့ပေသည်။ ဧကန်မလွဲ ထိုအရှင်မြတ်သည် အလွန်တရာ လွတ်ငြိမ်းချမ်းသာခွင့် ပေးတော်မူသော၊ အလွန်တရာ သနားကြင်နာတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

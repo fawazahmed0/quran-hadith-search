@@ -710,6 +710,12 @@ I kogato Isa donese yasnite znatsi, reche: “Doĭdokh pri vas s mŭdrostta i z
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၃။	တမန်တော်အီစာသည် ရှင်းလင်းထင်ရှားသောသက်သေခံများကို ယူဆောင်လာ၍ မိမိအသင်းသားများကို ဟောပြောသည်မှာ အေ-အသင်းသားတို့၊ ငါသည် သင်တို့ထံသို့ ပညာအလင်းရောင်ကို ယူဆောင်လာ၏၊ သင်တို့အချင်းချင်းငြင်းခုံနေကြသောအရာအချို့ကို ထင်ရှားစေရန် လာခဲ့၏၊ ထို့ကြောင့်အလ္လာဟ်အရှင်မြတ်၏ အမှုတော်ကို ကျေပြွန်ကြလော့၊ ငါ၏ စကားကို နားထောင်ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အီစာသည် ထင်ရှားစွာသောသက်သေ လက္ခဏာများနှင့်တကွ လာခဲ့သောအခါ (ဤသို့) ပြောကြားခဲ့လေ၏။ ဧကန်စင်စစ် ငါသည် အသင်တို့ထံ နက်နဲသိမ်မွေ့သော ဉာဏ်ပညာကို ယူဆောင်ခဲ့သည်။ ၎င်းပြင် ငါသည် အသင်တို့ သဘောကွဲလွဲကြသော အချို့အရေးကိစ္စတို့ကို အသင်တို့အား ရှင်းလင်း ဖော်ပြရန်လာခဲ့သည်။ သို့ဖြစ်ပေရာ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား ကြောက်ရွံ့လေကြကုန်၊ ၎င်းပြင် ငါ၏စကားကို လိုက်နာကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

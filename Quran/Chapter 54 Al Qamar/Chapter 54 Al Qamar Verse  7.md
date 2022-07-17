@@ -710,6 +710,12 @@ te sŭs sveden pogled shte izlyazat ot grobovete kato prŭsnati skakaltsi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	ထိုအခါသူတို့သည် မျက်စိအောက်သို့ စိုက်လျက် သချုႋင်းများမှ ကစဉ့်ကလျားလွင့်ပါး၍လာသောနှံကောင်များ ကဲ့သို့ ထွက်လာကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုနေ့တွင်) ၎င်းတို့၏မျက်စိများမှာ အောက်သို့စိုက်လျက် ရှိကြပေမည်။ ၎င်းတို့သည် ပျံ့နှံ့လျက် ရှိသောကျိုင်းကောင်များကဲ့သို့ပင် သင်္ချိုင်းများမှ ထွက်လာကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

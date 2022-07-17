@@ -710,6 +710,12 @@ Allakh lishava likhvata ot blagodat, a nadbavya za milostinyata. Allakh ne obich
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇၆။	အလ္လာဟ်အရှင်မြတ်သည် အတိုးငွေကို အကျိုးမရှိ ပျက်စီးစေတော်မူ၏။ အလှူဒါနများကို အကျိုး များစေတော်မူ၏။ အလ္လာဟ်အရှင်မြတ်သည် တရားမရ၊ အပြစ်ရှိသူတို့ကို မြတ်နိုးတော်မမူပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် အတိုးအညွန့်ကို ဆုတ်ယုတ်ပျက်စီးစေတော်မူ၍ (ပေးကမ်းစွန့်ကြဲသုံးစွဲကြကုန်သော)အလှူဝတ္တုများကိုမူ (ဆထက် ထမ်းပိုး)တိုးပွား စေတော်မူ၏။အမှန်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် ယုံကြည်ခြင်းသဒ္ဓါတရား ကင်းမဲ့သော ပြစ်မှုဒုစရိုက်များ ကျူး လွန်သော မည်သူတစ်ဦးတစ်ယောက်ကိုမျှ နှစ်သက်တော်မူသည် မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Nima na nego izmezhdu nas e nizposlano Napomnyaneto?” Da, sŭmnyavat se v Moet
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	ငါတို့အနက် သူ့ကိုသာလျှင် ရွေးကောက်၍ ကျမ်းတော်ချပေးသလောဟု ပြောဆိုကြ၏၊ အမှန်မှာ သူတို့သည် ငါအရှင်မြတ်ချပေးသနားတော်မူသောကျမ်းတော်ကို ယုံမှားသံသယရှိနေကြ၏၊ သူတို့သည် ငါ၏အပြစ်ဒဏ်တော် ကို မမြည်းရသေးချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကျွန်ုပ်တို့အားလုံးတို့အနက်မှ ၎င်း၏အပေါ်၌သာလျှင် ဆုံးမဩဝါဒသည် ချပေးခြင်းခံရလေသလော။ စင်စစ်မှာကား ၎င်းတို့သည် ငါအရှင်မြတ်၏ ဆုံးမဩဝါဒ(တစ်နည်း) ငါအရှင်မြတ်၏"ဝဟ်ယ်" အမိန့်တော်ထုတ်ပြန်ခြင်းနှင့်စပ်လျဉ်း၍ ဒွိဟသံသယ၌ပင် ရှိနေကြကုန်၏။ စင်စစ်မှာကား ၎င်းတို့သည် ငါအရှင်မြတ်၏ပြစ်ဒဏ်ကို မြည်းစမ်းခြင်း မပြုခဲ့ကြရသေးပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

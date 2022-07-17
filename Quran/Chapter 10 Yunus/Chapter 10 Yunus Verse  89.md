@@ -710,6 +710,12 @@ Kaza: “Otklikna se veche na vashiya zov. Stoĭte na praviya pŭt i ne sledvai
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၉။	အရှင်မြတ်က သင်တို့၏ ဆုတောင်းချက်ကို ကြားတော်မူပြီး သင်တို့ညီနောင်သည် လမ်းမှန်ကို လိုက်ကြလော့၊ ဉာာဏ်ပညာမရှိသူတို့၏ လမ်းကို မလိုက်ကြလင့်ဟု မိန့်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ထိုအရှင်မြတ်သည် (ဤသို့) မိန့်ကြားတော်မူခဲ့လေသည်။ (အို-နဗီတမန်တော်မူစာနှင့် နဗီတမန်တော်ဟာရွန်) အသင်တို့နှစ်ဦး၏ ဆုတောင်းပန်ကြားချက်သည် သဘောတူခြင်းကို ခံခဲ့ရလေပြီ။ သို့ဖြစ်ပေရာ အသင်တို့နှစ်ဦးသည် တည်ကြည်ကြံ့ခိုင်စွာရှိကြလေကုန်။ ထို့ပြင် အသင်တို့နှစ်ဦးသည် မသိနားမလည်သောသူတို့၏လမ်းကို မလိုက်ကြကုန်လင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

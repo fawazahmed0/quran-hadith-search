@@ -710,6 +710,12 @@ Tova e vŭzmezdieto za vragovete na Allakh - Ogŭnyat - Vechniyat dom za tyakh -
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	ဤဒဏ်တော်သည် အလ္လာဟ်အရှင်မြတ်၏ ရန်သူတော်များ၏ ဆုလာဘ်တည်း၊ ငရဲမီးပူထဲတွင် သူတို့၏ ထာဝရနေအိမ်ရှိ၏၊ သူတို့သည် ငါ၏ နှုတ်ကပတ်တော်များကို ငြင်းပယ်မှုအတွက် ပေးသောဆုလာဘ်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသည်(ဝါ)ငရဲမီးသည် အလ္လာဟ်အရှင်မြတ်၏ရန်သူတို့၏ဆိုးကျိုးပင် ၎င်းတို့အဖို့ ငရဲမီး၌ အစဉ်ထာဝရနေထိုင်ရာဌာနသည် ရှိပေသည်။ (ဤသည်) ငါအရှင်မြတ်၏အာယတ်တော်များကို ၎င်းတို့ ငြင်းပယ်လေ့ရှိခဲ့ကြသောကြောင့်အစားပေးခြင်းပင် ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

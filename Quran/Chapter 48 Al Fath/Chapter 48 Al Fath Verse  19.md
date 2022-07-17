@@ -710,6 +710,12 @@ I mnogo bogat·stva shte vzemat. Allakh e vsemogŭsht, premŭdŭr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	ထိုစစ်သည်တော်များသည် များစွာသောသု့ံလက်ရပစ္စည်းများကို သိမ်းယူရရှိကြလတ့ံ၊ အလ္လာဟ်အရှင်မြတ်သည် အနန္တတန်ခိုးတော်သခင်၊ သဗ္ဗညုတဉာာဏ်တော်ရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး မြောက်မြားစွာသော လက်ရပစ္စည်းများကိုလည်း (ချီးမြှင့်တော်မူခဲ့ပေရာ) ၎င်းတို့သည် ယင်းလက်ရပစ္စည်းများကို ယူငင်လျက် ရှိကြကုန်၏။ စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် လွန်စွာ နိုင်နင်းလွှမ်းမိုးတော်မူသောအရှင် ဆင်ခြင်တုံတရားနှင့် ပြည့်စုံတော်မူသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

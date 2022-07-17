@@ -710,6 +710,12 @@ Gospodi nash, izvadi ni ottuk, a ako pak povtorim, togava naistina shte sme ugne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၇။	အို--အကျွနု်ပ်တို့၏အရှင်သခင်၊ အကျွနု်ပ်တို့ကို ဤငရဲမှ ကယ်နှုတ်တော်မူပါ၊ အကယ်၍အကျွနု်ပ်တို့သည် မကောင်းမှုများသို့ ပြန်ကြပါလျှင် အကျွနု်ပ်တို့သည် အမှန်ပင်ဒုစရိုက်ကောင်များဖြစ်ကြပါမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ကျွန်တော်မျိုးတို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ အရှင်မြတ်သည် ကျွန်တော်မျိုးတို့အား ဤဂျဟန္နမ်ငရဲဘုံမှ ထုတ်ယူတော်မူပါ၊ တစ်ဖန် အကယ်၍ ကျွန်တော်မျိုးတို့သည်(ဤသို့သော အပြုအမူမျိုးကို) ထပ်မံ၍ပြုလုပ်ခဲ့ကြပါလျှင်၊ ထိုအခါ ကျွန်တော်မျိုးတို့သည် ပြစ်မှုကျူးလွန်သူများ အမှန်ပင် ဖြစ်ကြပါမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

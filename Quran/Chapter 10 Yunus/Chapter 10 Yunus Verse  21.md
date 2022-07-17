@@ -710,6 +710,12 @@ I shtom dadem na khorata da vkusyat milost sled beda, koyato gi e zasegnala, eto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	ငါအရှင်မြတ်သည် လူသားတို့ကို သူတို့ခံစားနေရသောဆင်းရဲဒုက္ခနောက် ကောင်းကြီးမင်္ဂလာတော်ကို မြည်းစေ တော်မူသောအခါ သူတို့သည် ငါ၏ နှုတ်ကပတ်တော်များကို ဖျက်ဆီးဖို့ရာ အကြံရှိကြ၏။ ဟောကြားလော့၊ အလ္လာဟ်အရှင်မြတ်သည် အကြံထုတ်ရာ၌ သာလွန်လျင်မြန်တော်မူ၏။ မှတ်ထားကြလော့။ ငါ၏ တမန်တော်များ သည် သင်တို့အကြံအစည်ကို ရေးထားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်သော်ကား ငါအရှင်မြတ်သည် လူတို့အား၎င်း တို့၌ ဘေးဒုက္ခဆိုက်ရောက်ခဲ့ပြီးနောက် (မိမိ၏) ကရုဏာတော်(၏အရသာ)ကို မြည်းစမ်းစေ တော်မူသော် ရုတ်တရက်၎င်း တို့၌ ငါအရှင်မြတ်၏ သက်သေလက္ခဏာတော်များနှင့်စပ်လျဉ်း၍ အကြံ အစည်များပေါ်လာလေ့ရှိပေသည်။ (အိုနဗီတမန်တော်)အသင်သည် (၎င်း တို့အား) ‘အလ္လာဟ်အရှင်မြတ်သည် အကြံအစည်ပြုရာ၌ (၎င်း တို့ထက်) ပိုမို၍ပင်လျင်မြန်တော်မူသောအရှင် ဖြစ်တော်မူသည်ဟု ပြောကြားပါလေ။ ဧကန်အမှန် ငါအရှင်မြတ်၏(ကောင်းကင်)စေတမန်များသည် အသင်တို့ ကြံစည်လျက်ရှိသည်တို့ကို ရေးမှတ်လျက်ရှိကြ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

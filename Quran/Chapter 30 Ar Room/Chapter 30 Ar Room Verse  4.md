@@ -710,6 +710,12 @@ sled nyakolko godini. Na Allakh e povelyata i predi, i sled tova. V tozi den vya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၊၄။	သူတို့ကို အနီးအနားရှိ အရပ်ဒေသများတွင် နှိမ်နင်း၏၊ သို့သော်သူတို့သည် စစ်ရှုံးပြီး ဆယ်နှစ်ကြာသောအခါ စစ်နိုင်သူများဖြစ်ကြရမည်၊ အလျင်ကိစ္စ၊ နောက်ကိစ္စ၊ကိစ္စနှစ်ခုလုံးပင်လျှင် အလ္လာဟ်အရှင်မြတ်၏ ဗျာဒိတ် တော်ဖြစ်၏၊ ထိုနေ့၌ အရှင်မြတ်နှင့် ယုံကြည်သူတို့သည် ဝမ်းမြောက်ဝမ်းသာရှိကြလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 နှစ်ကာလအနည်းငယ်တွင် အမိန့်အာဏာဟူသည် ယခင်ကလည်း အလ္လာဟ်အရှင်မြတ်၌သာ ရှိခဲ့ပေသည်။နောင်တွင်လည်း (ထိုအရှင်မြတ်၌သာ ရှိနေပေမည်။) ထိုနေ့တွင် "မုအ်မင်န်" သက်ဝင်ယုံကြည်သောသူတို့သည် ဝမ်းမြောက်ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

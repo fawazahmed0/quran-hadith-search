@@ -710,6 +710,12 @@ Rekokha: “Vŭzradvakhme te s istinata. I ne gubi nadezhda!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။	သူတို့က အကျွနု်ပ်တို့သည် သင့်ထံသို့ မင်္ဂလာရှိသောသတင်းမှန်ကို ယူလာခဲ့ပါသည်။ ထို့ကြောင့်သင်သည် စိတ်ပျက်အားလျှော့သူတို့ဘောင်တွင် မပါမဝင်ပါနှင့်ဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုဧည့်သည်တို့က ကျွန်ုပ်တို့သည် အသင့်အားအဟုတ်အမှန်(ဖြစ်မည့်ကိစ္စ)နှင့်စပ်လျဉ်း၍ သတင်းကောင်းပေးကြခြင်းဖြစ်ပါသည်။ သို့ဖြစ်ရာ အသင်သည် မျှော်လင့်ချက်ကင်းသူတို့အနက်မှ မဖြစ်ပါလေနှင့်ဟု ပြောဆို ဖြေကြားခဲ့ကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

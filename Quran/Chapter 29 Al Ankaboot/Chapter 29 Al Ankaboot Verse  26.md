@@ -710,6 +710,12 @@ I mu povyarva Lut, i reche: “Az shte se preselya pri svoya Gospod. Toĭ e Vse
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	ထို့အပြင်လွဒ်သည် သူ၌ ယုံကြည်၏၊ တမန်တော်အေဗရာဟမ်က ဟယ်-လွဒ်၊ မှတ်သားလော့၊ ငါသည် မိမိ၏ အရှင်သခင်အထံတော်သို့ ထွက်ပြေးသူဖြစ်၏၊ မှတ်သားလော့၊ အရှင်မြတ်၊ အရှင်မြတ်သာလျှင် အနန္တ တန်ခိုးတော်သခင်၊ သဗ္ဗညုတဉာာဏ်တော်ရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ‘လူ(တ်)’ သည် ထိုအိဗ်ရာဟီမ်အားယုံကြည် ထောက်ခံခဲ့လေ၏။ ထိုမှတစ်ပါး ထိုအိဗ်ရာဟီမ်က’ဧကန်မလွဲ ငါသည် နေရင်းအရပ်ဒေသကိုစွန့်၍ ငါ့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်(ညွှန်တော်မူရာ)သို့ ထွက်ခွာသွားမည်။ မလွဲဧကန် ထိုအရှင်မြတ်သည်ပင်လျှင် တန်ခိုးတော်ဖြင့် လွှမ်းမိုးတော်မူသောအရှင်၊ ဆင်ခြင်တုံတရားနှင့်ပြည့်စုံတော်မူသောအရှင်၊ ဖြစ်တော်မူပေသည်’ ဟု ပြောဆိုခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

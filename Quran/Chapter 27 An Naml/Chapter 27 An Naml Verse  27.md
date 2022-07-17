@@ -710,6 +710,12 @@ Reche [Sulaĭman]: “Shte vidim istina li govorish ili si lŭzhets
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	ထိုအခါတမန်တော်စိုလိုင်မာန်က သင်သည် အကျွနု်ပ်အား အမှန်စကားကို တင်လျှောက်သည်၊ သို့မဟုတ် မုသားစကားကို တင်လျှောက်သည်ကို သိကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုစုလိုင်မာန်က ပြောကြားခဲ့လေ၏။ အသင်သည် မှန်ကန်စွာ လျှောက်ထားခဲ့လေသလော။ သို့တည်းမဟုတ် အသင်သည် မုသာဝါဒီတို့အနက် ပါဝင်လေသလောဟု ယခုပင် ငါရှုမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

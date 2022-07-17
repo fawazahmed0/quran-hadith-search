@@ -710,6 +710,12 @@ Rekokha: “Koĭ stori tova s nashite bozhestva? Toĭ e ugnetitel.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၉။	ထိုသူတို့က ငါတို့ဘုရားများကို အဘယ်သူသည် ဤသို့စော်ကားသနည်း၊ စော်ကားသူသည် မုချဧကန်ဒုစရိုက် မကောင်းမှုပြုသူဖြစ်ရမည်ဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းအမျိုးသားတို့က ကျွန်ုပ်တို့၏ကိုးကွယ်ရာများကို မည်သူသည် ဤသို့ပြုလုပ်ခဲ့ပါဘိသနည်း။ ဧကန်မလွဲ ထိုသူသည် ကျူးကျော်စော်ကားသူတစ်ဦးပင် ဖြစ်သည်ဟုပြောဆိုခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

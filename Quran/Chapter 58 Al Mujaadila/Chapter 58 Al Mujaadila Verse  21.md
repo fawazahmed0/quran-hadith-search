@@ -710,6 +710,12 @@ Allakh predpisa: “Az shte nadviya, i Moite pratenitsi.” Allakh e vsesilen, v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	ငါနှင့် ငါ့တမန်တော်တို့သည် အမှန်ပင်အောင်မြင်ရမည်ဟု အလ္လာဟ်အရှင်မြတ်ဗျာဒိတ်တော်ခတ်နှိပ်ထားတော် မူပြီ၊ အကြောင်းမူကား အလ္လာဟ်အရှင်မြတ်သည် ခွန်အားဗလကြီးမားတော်မူ၏၊ အနန္တတန်ခိုးတော်အရှင်ဖြစ် တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည်လည်းကောင်း၊ ငါအရှင်မြတ်၏ရစူလ်တမန်တော်များသည် လည်းကောင်း၊ ဧကန်မလွဲ လွှမ်းမိုးတော်မူမည်ဟူ၍ အလ္လာဟ်အရှင်မြတ်သည် ရေးသားတော်မူပြီးဖြစ်၏။ စင်စစ်ဧကန် အလ္လာဟ်အရှင်မြတ်သည် လွန်စွာ စွမ်းအားနှင့်ပြည့်စုံတော်မူသောအရှင်၊ လွန်စွာ နိုင်နင်းလွှမ်းမိုးတော်မူသောအရှင်၊ ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

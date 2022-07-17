@@ -710,6 +710,12 @@ I sgrabchikhme nego i voĭskite mu, i gi izdavikhme v moreto. Vizh kakŭv be kr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄ဝ။	ထို့ကြောင့်ငါသည် ထိုမင်းနှင့် ၎င်း၏စစ်သည်တော်များကို ဖမ်းဆီးပြီးလျှင် ပင်လယ်ထဲတွင် စွန့်ပစ်ထားတော်မူ၏၊ မတရားမှုကျူးလွန်သူတို့၏ အကျိုးဆက်သည် မည်သည့်ဖြစ်သည်ကို သင်တို့ကြည့်ရှုကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ငါအရှင်မြတ်သည် ထိုဖစ်ရ်အောင်န်အား လည်းကောင်း၊ ထိုဖိရ်အောင်(န်)၏ရဲမက်တို့အား လည်းကောင်း၊ ဖမ်းဆီးကာ သမုဒ္ဒရာပင်လယ်ထဲ၌ ပစ်ချတော်မူခဲ့၏။သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်၊) မတရားသောသူတို့၏ နောက်ဆုံးအကျိုးသည် မည်သို့မည်ပုံ ရှိခဲ့သည်ကို အသင်သည် ကြည့်ရှုပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

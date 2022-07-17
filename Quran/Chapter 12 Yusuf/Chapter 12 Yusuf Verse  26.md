@@ -710,6 +710,12 @@ Reche [Yusuf]: “Tya me sŭblaznyavashe.” I zayavi svidetel ot semeĭstvoto 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	ယူစွတ်(ဖ်)က သူမသည် အကျွနု်ပ်ထံမှ မကောင်းမှုတခုကို တောင်းပါ၏ဟု ပြန်ဖြေ၏။ ထို့အပြင်သူမ၏ လူ များထဲမှ သက်သေတယောက် အကယ်၍ သူ၏ ရှပ်မှာ ရှေ့ဘက်မှ စုတ်ပြတ်ပါလျှင် သူမသည် အမှန်စကားကို ဆို၏။ သူသည် မုသားဆိုသူများဘောင်မှ ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ယင်းယူဆွဖ်က ဤမိန်းမသည်သာလျှင် ကျွန်ုပ်အား ကျွန်ုပ်၏စိတ်သဘောနှင့်ဆန့်ကျင်ကာ ချော့မော့မြှူဆွယ်ခဲ့လေသည်ဟုပြောဆိုခဲ့လေသည်။ ၎င်းပြင် ယင်းမိန်းမ၏ ဆွေမျိုးများအနက်မှ သက်သေတစ်ဦးသည် (ဤသို့)သက်သေခံခဲ့လေသည်။ အကယ်၍ ထိုယူဆွဖ်၏အင်္ကျီမှာ ရှေ့မှစုတ်ပြဲ၍နေသည်ဖြစ်မူ ထိုမိန်းမသည် မှန်ကန်စွာပြောဆိုခဲ့သည်ဖြစ်သည်။ ၎င်းပြင် ယင်းယူဆွဖ်သည် မုသား ပြောဆိုသူတစ်ဦး ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

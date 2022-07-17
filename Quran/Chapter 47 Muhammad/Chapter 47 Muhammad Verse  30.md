@@ -710,6 +710,12 @@ I ako zhelaekhme, Nie shtyakhme da ti gi pokazhem [o, Mukhammad] i ti bi gi pozn
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	ငါသည် အလိုတော်ရှိလျှင် ထိုသူတို့ကို သင်တမန်တော်အား ပြစွမ်းနိုင်တော်မူ၏၊ ထိုအခါသင်သည် သူတို့ကို ၎င်းတို့၏ မျက်နှာထားကို မြင်ရခြင်းဖြင့် အမှန်ပင်သိနိုင်လိမ့်မည်၊ သင်သည် သူတို့ကို ၎င်းတို့၏သံနေသံထား အားဖြင့် ခွဲခြားသိနိုင်သိနိုင်လိမ့်မည်၊ မုချဧကန်အလ္လာဟ်အရှင်မြတ်သည် သင်တို့ပြုမူသမျှများကို အကြွင်းမဲ့ သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အကယ်၍သာ ငါအရှင်မြတ်သည် အလိုရှိတော်မူပါလျှင် ငါအရှင်မြတ်သည် အသင့်အား ၎င်းတို့ကို (သိစေအံ့သောငှာ) အမှန်ပင် ပြသတော်မူပေမည်။ထိုအခါ အသင်သည် မုချဧကန် ၎င်းတို့အား ၎င်းတို့၏ ရုပ်ရည်လက္ခဏာအမူအရာဖြင့် မုချအတိအကျ သိရှိပေမည်။ ထိုမှတစ်ပါး အသင်သည် ၎င်းတို့အား (၎င်းတို့၏) စကားပြောဆိုပုံ စကားအသွားအလာဖြင့် (ယခုလည်း) အမှန်ပင် သိရှိပေမည်။အမှန်စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့၏ ပြုမူဆောင်ရွက်ချက်တို့ကို ကောင်းစွာ သိရှိတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

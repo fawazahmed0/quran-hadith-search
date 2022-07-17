@@ -710,6 +710,12 @@ Kazhi: “Ako e u men tova, za koeto bŭrzate, veche da e priklyucheno deloto me
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈။	ထပ်မံဟောကြားလော့။ သင်တို့အဆောတလျှင်လိုသည့်အရာကို ငါအစိုးရလျှင် ငါနှင့် သင်တို့ စပ်ကြားဖြစ်ပွားသော အမှုကို ဆုံးဖြတ်ပြီးလေအံ့။ အလ္လာဟ်အသျှင်မြတ်သည် ဒုစရိုက်ကျူးလွန်သူ တို့ကို အသိဆုံးဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (ဤသို့) ပြောကြားပါလေ၊ အကယ်၍ အသင်တို့ အလျင်စလို တောင်းဆိုနေကြသောအရာ(ပြစ်ဒဏ်)သည် ငါ့ထံ၌ရှိပါလျှင် ငါနှင့်အသင်တို့စပ်ကြားတွင်ဖြစ်ပေါ်နေသော ပြဿနာသည် ဖြေရှင်းပြီးဖြစ်ပေသည်။ အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် မတရားသောသူတို့ကို ကောင်းစွာသိတော်မူသော အရှင်ဖြစ်တော်မူသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

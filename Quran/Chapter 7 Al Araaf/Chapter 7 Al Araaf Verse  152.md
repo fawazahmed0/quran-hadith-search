@@ -710,6 +710,12 @@ Koito priekha teletsa, gi spoletya gnyav ot tekhniya Gospod i unizhenie v zemniy
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၂။	မှတ်သားကြလော့။ အကြင်သူတို့သည် နွားသူငယ်ကို ကိုးကွယ်ကြ၏။ ထိုသူတို့၏အသျှင်သခင် အထံတော်မှ ကြောက်မက်ဖွယ်သောအပြစ်တော်နှင့် အရှက်တကွဲနှိမ့်ချခြင်းတို့သည် ထိုသူတို့အပေါ်သို့ ကျရောက်လိမ့်မည်။ ငါအသျှင်မြတ်သည် မုသားဖန်တီးသူတို့အား ဤကဲ့သို့ လက်စားချေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် နွားငယ်(ဆင်းတု)ကို (မိမိတို့၏ကိုးကွယ်ရာ) ပြုလုပ်ကြသော သူတို့အပေါ်၌ ၎င်းတို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ် အထံတော်မှ မကြာမြင့်မီ ဤလောက၌ပင် အမျက်ဒေါသသည်လည်းကောင်း၊ ဂုဏ်သရေနိမ့်ကျခြင်းသည်လည်းကောင်း၊ သက်ရောက်မည်။ စင်စစ်သော်ကား ငါအရှင်မြတ်သည် ကြံဖန်စွပ်စွဲသူတို့အား ဤနည်းအတိုင်းပင် အပြစ်ပေးတော်မူသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I koĭ e s po-dobra religiya ot onzi, koĭto se e otdal na Allakh s istinska p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၅။	အကြင်သူသည် မိမိကိုယ်ကို အလ္လာဟ်အသျှင်မြတ်အား ပုံအပ်ထား၏။ ကုသိုလ်ကောင်းမှုပြုကျင့် ၏။ ဖြောင့်မတ်မှန်ကန်သော တမန်တော်အီဗရာဟီမ်၏ထုံးတမ်းကို လိုက်နာ၏။ ထိုသူထက် အဘယ်သူသည် ဘာသာအယူဝါဒ၌ သာလွန်မှန်ကန်မည်နည်း။ အလ္လာဟ်အသျှင်မြတ်ကိုယ်တော်တိုင် တမန်တော်အီဗရာဟီမ်အား မိတ်ဆွေအဖြစ်ဖြင့် ရွေးကောက်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်သော်ကား အကြင်သူထက် ‘ဒီန်’ သာသနာအားဖြင့် ပိုမို၍မြင့်မြတ်သောသူသည် မည်သူရှိသနည်း။ ထိုသူသည် မိမိမျက်နှာ (မိမိကိုယ်) ကို အလ္လာဟ်အရှင်မြတ်အထံတော်သို့ အပ်နှင်းခဲ့သည့်ပြင် (အပြောအဆို အကျင့်အမူအားဖြင့်) မြင့်မြတ်သောသူလည်းဖြစ်၏။ ထိုမှတစ်ပါး ထိုသူသည် ဖြောင့်မတ်တည်ကြည်သော (နဗီတမန်တော်) အစ်ဗ်ရာဟီမ်၏ ‘ဒီန်’ သာသနာကိုလည်း လိုက်နာ၏။ အမှန်စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် (နဗီတမန်တော်) အစ်ဗ်ရာဟီမ်အား (မိမိ) မိတ်ဆွေအဖြစ် ပြုလုပ်ချီးမြှင့်တော်မူခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

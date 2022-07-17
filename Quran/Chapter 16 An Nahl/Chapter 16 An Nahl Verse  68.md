@@ -710,6 +710,12 @@ I vnushi tvoyat Gospod na pchelite: “Vzemete si zhilishta sred planinite i po 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၈။	ထို့အပြင် သင်၏ ကျေးဇူးတော်သခင်သည် ပျားတိရိစ္ဆာန်ကို ဗျာဒိတ်ပေးတော်မူသည်မှာ ပျားတိရိစ္ဆာန်၊ သင်သည် တောင်များ၊ သစ်ပင်များ၊ အမိုးအကာရှိသောအဆောက်အဦးများတွင် သင်တို့နေဖို့ နေရာများကို ရွေးချယ်လော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် ပျားကောင်၏ထံသို့ (ဤသို့) အမိန့်တော်ပေးတော်မူလေသည်။ အသင်သည် တောင်များ၌လည်းကောင်း၊ သစ်ပင်များ၌လည်းကောင်း၊ လူတို့တည်ဆောက်ကြကုန်သော အဆောက် အအုံများ၌လည်းကောင်း၊ (မိမိတို့)နေအိမ်များ ပြုလုပ်လေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

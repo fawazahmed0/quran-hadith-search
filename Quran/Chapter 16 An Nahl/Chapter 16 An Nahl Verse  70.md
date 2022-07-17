@@ -710,6 +710,12 @@ Allakh vi sŭtvoryava, posle vi pribira dushite. A nyakoĭ ot vas biva dovezhda
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇ဝ။	အလ္လာဟ်အရှင်မြတ်သည် သင်တို့ကို ဖန်ဆင်းတော်မူ၏။ ထို့နောက်သေစေတော်မူ၏။ သင်တို့အနက် အချို့သည် အလွန်အိုမင်းမစွမ်း ယုတ်ည့ံခိုကိုးရာမဲ့ဘဝသို့ ရောက်ရှိကြရ၏။ သူတို့သည် အသိဉာာဏ်တရားရရှိခဲ့သော်လည်း ဤနောက်ဆုံးဘဝ၌ သတိမေ့လျော့ အသိဉာာဏ်ကင်းမဲ့ကြ၏။ မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် သိတော်မူသောအရှင်၊ တန်ခိုးကြီးတော်မူသောသခင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 င်းပြင် အလ္လာဟ်အရှင်မြတ်သည်ပင် အသင်တို့အား ဖန်ဆင်းတော်မူလေသည်။ တစ်ဖန် ထိုအရှင်မြတ်သည်ပင် အသင်တို့အားသေဆုံးစေတော်မူလေသည်။ ထို့ပြင်အသင် တို့တွင် အညံ့ဆုံးသောအသက်အရွယ် သို့ ပြန်ရောက်စေခြင်းကို ခံရသောသူများလည်းရှိပေသည်။ နောက်ဆုံးတွင်ထိုသူများ သည် သိပြီး နောက် (သတိပညာ ချွတ်ယွင်းသွားသောကြောင့်) မည်သည့် တစ်စုံတစ်ရာကိုမျှ သိနားလည်ခြင်းမရှိ (ကြ)တော့ ချေ။ ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည်အရာခပ်သိမ်းတို့ ကို သိတော်မူသောအရှင်၊ အရာခပ်သိမ်းတို့ကို စွမ်းဆောင်နိုင် တော်မူသောအရှင်၊ ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

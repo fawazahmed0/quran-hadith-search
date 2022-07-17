@@ -710,6 +710,12 @@ A koito ne vyarvat i vzimat za lŭzha Nashite znameniya, tezi sa obitatelite na 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၆။	သို့သော် အကြင်သူတို့သည်မယုံကြည်၍ ငါအသျှင်မြတ်၏ ဗျာဒိတ်တော်များကို ငြင်းပယ်ကြ၏။ ထိုသူတို့သည် အဝီစိငရဲမီး၏ပိုင်ရှင်များဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကြင်သူများသည် သွေဖည်ငြင်းပယ်နေခဲ့ကြ၏။ ၎င်းပြင် ထိုသူများသည် ငါအရှင်မြတ်၏ဒေသနာတော်များကို မုသားဟု ငြင်းဆိုနေခဲ့ကြ၏။ ထိုကဲ့သို့သောသူများသာလျှင် ငရဲသားများဖြစ်ကြပေသည်။ (ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

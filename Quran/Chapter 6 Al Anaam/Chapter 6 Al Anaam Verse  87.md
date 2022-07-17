@@ -710,6 +710,12 @@ I ot tekhnite bashti, i ot potomstvata im, i ot bratyata im. Izbrakhme tyakh i g
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၇။	သူတို့၏ဘိုးဘေးသားမြေးညီအစ်ကိုအချို့တို့လည်း ငါအသျှင်မြတ်သည် အခြားလူသားများထက် နှစ်သက်တော်မူ၏။ ငါသည် သူတို့ကို ရွေးကောက်၍ လမ်းမှန်သို့ ညွှန်ပြတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမျှမကသေးချေ၊ (ငါအရှင်မြတ်သည်) ထို(နဗီတမန်တော်)တို့၏ အဖ၊ ဘေးတို့အနက် အချို့ကိုလည်းကောင်း၊ယင်းတို့၏သား၊ မြေး၊ တို့အနက် အချို့ကိုလည်းကောင်း၊ ယင်းတို့၏ ညီ၊ သား၊ အစ်ကိုတို့အနက် အချို့ကိုလည်းကောင်း၊ (တရားလမ်းမှန်သို့ ပို့ဆောင်တော်မူ ခဲ့လေသည်)။ စင်စစ်သော်ကားငါအရှင်မြတ်သည် ယင်းသူတို့အားရွေးချယ်တော်မူ၍ ဖြောင့်မတ်မှန်ကန်သောတရားလမ်းကို ညွှန်ကြား ပြသတော်မူခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

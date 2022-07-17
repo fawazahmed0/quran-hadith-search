@@ -710,6 +710,12 @@ Veche nizposlakhme yasni znameniya. Allakh vodi kogoto pozhelae kŭm praviya pŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။	စင်စစ်အားဖြင့်ငါသည် နှုတ်ကပတ်တော်များကို ချပေးသနားတော်မူ၏၊ ရှင်းလင်းတော်မူ၏၊ အလ္လာဟ်အရှင်မြတ် သည် အလိုတော်ရှိသူအား ဖြောင့်မှန်သောလမ်းကို ညွှန်ပြတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ငါအရှင်မြတ်သည် ထင်ရှားစွာ သက်သေလက္ခဏာတော်များကို ချပေးသနားတော်မူခဲ့သည်။ စင်စစ်မူကား အလ္လာဟ်အရှင်မြတ်သည် မိမိအလိုရှိတော်မူသောသူအား ဖြောင့်မတ်မှန်ကန်သော တရားလမ်းသို့ ညွှန်ပြပို့ဆောင်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

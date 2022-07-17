@@ -710,6 +710,12 @@ Koito vyarvat i vŭrshat pravedni dela - Nie ne shte pogubim nagradata na nikoi�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၀။	မှတ်သားကြလော့၊ ယုံကြည်မှုအားဖြင့် သုစရိုက်ကောင်းမှုများကို ပြုကျင့်သောသူတို့မှာမူကား ငါအရှင်မြတ်သည် ကုသိုလ်ကောင်းမှုပွားများသူ၏ ဆုကို ဘယ်သောအခါမှ ဆုံးရှုံးစေတော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အကြင်သူတို့သည် သက်ဝင်ယုံကြည်ခဲ့ကြကုန်၏။ ၎င်းပြင် ထိုသူတို့သည် ကောင်းမြတ်သောအကျင့်သီလများကိုလည်း ကျင့်မူဆောက်တည်ခဲ့ကြကုန်၏။ဧကန်စင်စစ် ငါအရှင်မြတ်သည် အကျင့်သီလကောင်းမြတ်သောသူ၏ကုသိုလ်အကျိုးကို ဆုံးရှုံးစေတော်မူသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

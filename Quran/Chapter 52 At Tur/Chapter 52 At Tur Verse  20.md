@@ -710,6 +710,12 @@ Oblegnati na podredeni prestoli... I shte im dadem za sŭprugi khubavitsi s gole
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။ ထိုသူတို့သည် တင့်တယ်သိုက်မြိုက်စွာစီတန်းခင်းကျင်းထားသောပလ္လင်ထက်ဝယ် လှဲလျောင်းမွေ့လျော်စံပျော် နေထိုင်ကြရ၏၊ ငါသည် သူတို့အား မျက်စိမျက်လုံးပြူးထူးလှပသောနတ်ကညာများနှင့် စုလျားရစ်ပတ်လက်ထပ် ပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (၎င်းတို့သည်) စနစ်တကျ ခင်းကျင်း၍ထားရှိသော သလွန်များထက်ဝယ် မှီအုံးများ မှီလျက်ရှိကြပေမည်။ ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ၎င်းတို့အား လွန်စွာဖြူ၍ လှပတင့်တယ်သော၊ မျက်စိလှပသော မိန်းမများနှင့် ထိမ်းမြား၍ ပေးတော်မူအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

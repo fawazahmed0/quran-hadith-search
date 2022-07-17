@@ -710,6 +710,12 @@ Vechnomladi yunoshi im podnasyat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	ဤသူတော်စင်တို့ကို အစဉ်ထာဝရသက်ရွယ်ပျိုမြစ်သောကံကြွေးလုလင်ပျိုတို့သည် ခစားလျက် ရှိကြလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့ထံ အသက်သေဆုံးခြင်းမရှိဘဲ၊ အမြဲထာဝရ နုငယ်လျက် ရှိနေကြရအံ့သော သူငယ်တို့ လှည့်ပတ်သွားလာလျက် ရှိကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

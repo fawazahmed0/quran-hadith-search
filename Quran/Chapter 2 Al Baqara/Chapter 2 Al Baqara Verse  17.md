@@ -710,6 +710,12 @@ Te prilichat na chovek, zapalil ogŭn, no shtom naokolo se ozari, Allakh otnasya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	သူတို့၏ဥပမာကား မီးမွှေးသောသူနှင့်တူ၏ ထိုမီးသည် သူ၏ပတ်ဝန်းကျင် ထွန်းလင်းတောက်ပသော အခါ အလ္လာဟ်အရှင်မြတ်သည် ထိုမီးကို ရုပ်သိမ်းတော်မူ၏။ သူ့ကို မှောင်အတိတွင် ပစ်ထားတော် မူ၏။ ထို့ကြောင့် သူသည် ဘာမှ မမြင်ရပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(မုစ်လင်(မ်) အသွင်ဆောင်သော) သူများ၏ပမာကို ဆိုရသော် လူတစ်ယောက်သည် (တခဲနက် မှောင်အတိ ကျနေသော ညဉ့်၌ လမ်းကို မြင်နိုင်ခြင်းငှာ) ဆီမီးကိုထွန်းညှိ၏။ ဆီမီးရောင်သည် ထိုသူ၏ပတ်ဝန်းကျင်ကို လင်းဝင်းစေ၏။ သို့လင်းဝင်းသည့်အခိုက် အလ္လာဟ်အရှင်မြတ်သည် ထိုသူတို့၏ အလင်းရောင်ကို နုတ်သိမ်းယူသွားပြီး ထိုသူတို့အား မှောင်တိုက်တွင်းဝယ် ပစ်ပယ်ထားတော်မူရာ ထိုသူတို့သည် တစ်စုံတစ်ခုကိုမျှ မမြင်နိုင်ကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

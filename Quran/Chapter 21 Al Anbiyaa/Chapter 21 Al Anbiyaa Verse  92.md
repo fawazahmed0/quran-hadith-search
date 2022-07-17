@@ -710,6 +710,12 @@ Tova e vashata vyara - edinstvenata vyara, a Az sŭm vashiyat Gospod. Zatova edi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၂။	မှတ်သားကြလော့၊ သင်တို့၏ဤဘာသာအယူဝါဒမှာ တစ်ခုတည်းသောဘာသာဖြစ်၏၊ ငါသည် သင်တို့၏ အရှင်သခင်ဖြစ်တော်မူ၏၊ ငါ့ကိုသာလျှင် ဦးညွတ်ကိုးကွယ်ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ဤ(အစ္စလာမ်သာသနာတော်ပင်)အသင်တို့၏ တစ်ခုတည်းသော သာသနာတော်ဖြစ်ပေသည်။၎င်းပြင် ငါအရှင်မြတ်သည်ပင် အသင်တို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင် ဖြစ်တော်မူပေသည်။ သို့ဖြစ်ပေရာအသင်တို့သည် ငါအရှင်မြတ် အားသာလျှင် ခဝပ်ကိုးကွယ်ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

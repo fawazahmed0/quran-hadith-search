@@ -710,6 +710,12 @@ I rekokha [nevernitsite]: “Vsemilostiviya se sdobi s rozhba!” Prechist e Toi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	အယူမှားသူတို့က မဟာဂရုဏာတော်အရှင်၌ သားရတနာရှိ၏ဟူ၍ ဆိုကြ၏၊ အလ္လာဟ်အရှင်မြတ်သည် ချို့တဲ့ ခြင်းအပေါင်းမှ ကင်းတော်မူ၏၊ တန်ခိုးကြီးတော်မူ၏၊ သားတော်မရှိချေ၊ သူတို့သားတော်ဟုဆိုကြသောသူတို့ သည် အရှင်မြတ်ဂုဏ်ပြုချီးမြှင့်တော်မူသောကျေးကျွန်တော်များဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့က "ရဟ်မာန်" အနန္တကရုဏာတော်ရှင်သည်(မလာအိကဟ် ကောင်းကင်တမန်များအား)သားသမီးပြုလုပ်တော်မူခဲ့သည်ဟု (စွပ်စွဲ)ပြောဆိုကြကုန်၏။ ထိုသို့အလျှင်းမဟုတ်၊ စင်စစ်မှာကား (ကောင်းကင်တမန်သည်ထိုအရှင်မြတ်၏သားသမီးများ မဟုတ်ကြချေ။ ထိုအရှင်မြတ်၏) မြင့်မြတ်သော ကျွန်များပင် ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

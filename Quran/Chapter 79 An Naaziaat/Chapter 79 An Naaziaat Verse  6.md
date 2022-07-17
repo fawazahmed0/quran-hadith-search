@@ -710,6 +710,12 @@ V Denya, kogato [se protrŭbi s pŭrviya Rog] shte se raztŭrsi tresyashtata se 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၊၇။ တံပိုးကို ပထမအကြိမ်၊ ထို့နောက်ဒုတိယအကြိမ်မှုတ်သောနေ့တော်ကြီး၌။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်နေ့တွင် တုန်လှုပ်စေသောအရာ(ဝါ)ပထမအကြိမ် တံပိုးခရာမှုတ်ခြင်းသည် တုန်လှုပ်စေမည်ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

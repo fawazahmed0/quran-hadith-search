@@ -710,6 +710,12 @@ I kakvo predpolagat za Denya na vŭzkresenieto onezi, koito izmislyat lŭzha za 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၀။	အလ္လာဟ်အရှင်မြတ်အား အလွဲသုံးစားသောသူတို့သည် ရှင်ပြန်ထမြောက်ရသောနေ့တော်ကြီး၌ မိမိတို့သည် မည်သည့်အခြေသို့ ဆိုက်ရောက်ရကြမည်ကို သူတို့တွေးတောကြပြီလော၊ မှတ်သားကြလော့၊ အလ္လာဟ်အရှင် မြတ်သည် လူသားတို့အား မုချဧကန်ပေးကမ်းစွန့်ကြဲတော်မူ၏။ သို့သော်သူတို့အနက် များလှစွာသောသူတို့သည် ကျေးဇူးမတင်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုု့ပြင်အလ္လာဟ်အရှင်မြတ်အပေါ်၌ မုသားကိုလီဆယ်စွပ်စွဲကြကုန်သော သူတို့၏ ထင်မြင်ယူဆချက်သည်ကိယာမသ်ရှင်ပြန်ထမည့်နေ့နှင့်စပ်လျဉ်း၍ မည်သို့ရှိပါသနည်း။ ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် လူတို့အပေါ်၌အမှန်ပင် ကျေးဇူးတော်ရှင် ဖြစ်တော်မူပေသည်။ သို့ရာတွင်၎င်း တို့ အနက်အများဆုံးသော သူတို့မူကား ကျေးဇူးတော်ကိုမသိတတ်ကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

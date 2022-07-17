@@ -710,6 +710,12 @@ I ne izpratikhme v nikoe selishte predupreditel, bez zhiveeshtite tam v okholstv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	ထို့အပြင်ငါအရှင်မြတ်သည် မြို့ရွာတစ်ခုခုသို့ အပြစ်ဒဏ်အကြောင်းဟောပြောသတိပေးသောတမန်တော်စေလွှတ် တော်မူသောအခါ ထိုမြို့ရွာတွင် ရှိနေသောသူဌေးသူကြွယ်စသည်တို့က အချင်းတို့၊ အကျွနု်ပ်တို့သည် သင်တို့ ယူဆောင်လာသောတရားကို မယုံကြည်ကြဟု ကြွေးကြော်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ငါအရှင်မြတ်သည် မည်သည့်မြို့ရွာ၌မဆို သတိပေးနှိုးဆော်သူတစ်ပါးပါးကို စေလွှတ်တော်မူခဲ့သည့်အခါ ထိုမြို့ရွာရှိ စည်းစိမ်ရှင်တို့က ဧကန်အမှန် ကျွန်ုပ်တို့သည် အသင်တို့ပေး၍ စေလွှတ်ခြင်းခံကြရသည့်(ဒီန်သာသနာ)ကို ငြင်းပယ်သူများပင်ဖြစ်ကြသည်ဟု ပြောဆိုခဲ့ကြသည်သာ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

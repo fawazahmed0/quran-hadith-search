@@ -710,6 +710,12 @@ Reche: “Napusnete - vragove edin na drug! Za vas na zemyata ima prebivanie i p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	အသျှင်မြတ်က အို-အာဒမ် သင်တို့သည် ဥယျာဉ်တော်မှ ထွက်သွားကြလော့။ သင်တို့သည် အချင်းချင်း ခိုက်ရန်ဒေါသဖြစ်ကြ၍ ရန်သူများဖြစ်ကြမည်။ သင်တို့သည် မဟာပထဝီမြေပေါ်တွင် အခိုက်အတံ့နေဖို့ရာ နေရာနှင့် စားဖို့ရာ အစားအစာရရှိလိမ့်မည်ဟု ဗျာဒိတ်ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ အလ္လာဟ်)အရှင်မြတ်က (ဤသို့) မိန့်ကြားတော်မူလေ၏။ အသင်တို့သည် (ဤ ဂျန္နတ်အမတသုခဘုံမှ) ဆင်းကြလေကုန်။ အသင်တို့အနက် အချို့သည်အချို့၏ရန်သူပင် ဖြစ်ကြပေလိမ့်မည်။ ၎င်းပြင် အသင်တို့အဖို့ပထဝီမြေ၌ (ငါအရှင်မြတ်) သတ်မှတ်တော်မူအပ်သော သက်တမ်းတိုင်အောင် နေရာထိုင်ခင်းနှင့် အကျိုးခံစားခွင့်တို့သည်ရှိပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

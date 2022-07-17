@@ -710,6 +710,12 @@ Kakvato i palma da ot·sechete ili da ya ostavite izpravena vŭrkhu korenite ĭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	အို-အယူမှန်သူအပေါင်းတို့၊ သင်တို့သည် အယူမှားသူမိစ္ဆာဒိဋ္ဌိတို့ပိုင်စွန်ပလွံဥယျာဉ်များကို ခုတ်လှဲဖျက်ဆီး ပစ်သော်လည်းကောင်း၊ မခုတ်မလှဲပကတိအတိုင်း ချန်ထားသော်လည်းကောင်း၊ မိမိတို့အလိုရှိရာပြုလုပ်ခြင်းသည် အလ္လာဟ်အရှင်မြတ်၏ အလိုတော်နှင့်သာဖြစ်၏၊ ဒုစရိုက်ကောင်များကို အရှက်ခွဲစေခြင်းငှာ အရှင်မြတ်သည် ယင်းသို့စီရင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စွန်ပလွံပင်များကို အသင်တို့ ခုတ်လှဲဖြတ်တောက်ခဲ့ကြခြင်း၊ သို့မဟုတ် ယင်းစွန်ပလွံပင်များကို ၎င်းတို့၏ အောက်ခြေအမြစ်များပေါ်၌ ရပ်တည်လျက် ချန်ထားခဲ့ကြခြင်းသည် အလ္လာဟ်အရှင်မြတ်၏ အမိန့်တော်နှင့်အညီပင် ဖြစ်သည်။ ထို့ပြင်တစ်ဝ ထိုအရှင်မြတ်သည် အမိန့်တော်ကို သွေဖည်သောသူတို့အား အရှက်တကွဲ ဖြစ်စေတော်မူအံ့သောငှာ ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Na Allakh e vsichko na nebesata i vsichko na zemyata. Dostatŭchen e Allakh za d
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၂။	မိုးကောင်းကင်နှင့် ကမ္ဘာမြေပေါ်ဝယ်ရှိရှိသမျှအပေါင်းတို့ကို အလ္လာဟ်အသျှင်မြတ်သည် အစိုးရတော် မူ၏။ အလ္လာဟ်အသျှင်မြတ်သည် ကာကွယ်စောင့်ရှောက်သူအဖြစ်ဖြင့် လုံလောက်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ် အာကာသကောင်းကင်များနှင့် ပထဝီမြေကြီး၌ရှိရှိသမျှတို့ကို အလ္လာဟ်အရှင်မြတ်သာ ပိုင်ဆိုင်တော်မူ၏။ ၎င်းပြင် ထိုအရှင်မြတ်သည်ပင်လျှင် ကိစ္စအဝဝကို ပြီးစီးအောင် စီမံပြုလုပ် ပေးတော်မူသော အရှင်မြတ်အဖြစ် လုံလောက်တော်မူသောအရှင် ဖြစ်တော်မူသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I veche vi nizposlakhme yasni znameniya i primer za onezi, koito byakha predi va
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	မုချဧကန်ငါအရှင်မြတ်သည် သင်တို့အဖို့အရာ အဓိပ္ပါယ်ပေါ်လွင်ထင်ရှားသောနှုတ်ကပတ်တော်များနှင့် သင်တို့ အလျင်ကျ၍ ကွယ်ပျောက်သွားသောရှေးလူဟောင်းတို့၏ဥပမာများကို ချပေးတော်မူ၏၊ စင်စစ်အားဖြင့် ကျမ်း တော်မြတ်သည် ဒုစရိုက်အပြစ်ကို တားဆီးသူတို့အဖို့အရာ အဆုံးအမကျမ်းတော်မြတ်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် စင်စစ်ဧကန် ငါအရှင်မြတ်သည် အသင်တို့ထံသို့ ထင်ရှားလှစွာသော အမိန့်ပညတ်တော်များကိုလည်းကောင်း၊ အသင်တို့အလျင် လွန်လေပြီးသော ရှေးသူဟောင်းတို့၏ အလားတူ အတ္ထုပ္ပတ္တိများကိုလည်းကောင်း၊ သူမွန်သူ မြတ်တို့အကျိုးငှာ ဆုံးမဩဝါဒကိုလည်းကောင်း၊ ချပေးသနား တော်မူခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Tova e Isa, sinŭt na Mariam - slovoto na istinata, v koyato se sŭmnyavat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	မရယမ်၏ သားတော်အီစာသည် ယင်းသို့ဖြစ်၏။ ဤပြောပြချက်သည် သူတို့ယုံမှားသံသယရှိသောအမှန်တရား ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည်ကား မရ်ယမ်၏သားတော် အကြင်အီစာပင်။ ယင်းမှန်ကန်သောစကားကိုပြောဆိုခဲ့လေသည်။၎င်းတို့သည် ထိုအီစာနှင့်ပတ်သက်၍ အငြင်းအခုံပြုလျက်ရှိကြကုန်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Syakash sa rubini i korali
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈။	ထိုနတ်ကညာတို့သည် ပုလဲသန္တာနီလာမြသား ပတ္တမြားရတနာကဲ့သို့ လှပတင့်တယ်ကြည်လင်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမိန်းမပျိုတို့မှာ ပတ္တမြားကဲ့သို့လည်းကောင်း၊ သန္တာကျောက်ကဲ့သို့လည်းကောင်း၊ ရှိကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

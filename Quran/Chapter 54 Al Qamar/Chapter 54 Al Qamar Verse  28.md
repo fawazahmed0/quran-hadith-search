@@ -710,6 +710,12 @@ I gi izvesti, che vodata e podelena mezhdu [neya i] tyakh! I pieneto na vseki e 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	ထို့အပြင် သူတို့အား ရေကို သူတို့နှင့် ကုလားအုတ်မတို့ ဝေသောက်ရမည်ဟု ပြောလော့၊ ရေသောက်ခြင်း ကို ကြည့်ရှုတော်မူလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အသင်သည် ၎င်းတို့အား ၎င်းတို့(၏တိရစ္ဆာန်များနှင့်ကုလားအုတ်မ)၏အကြား၌(အလှည့် ကျသောက်သုံးရန်) ရေခွဲဝေပြီးဖြစ်ကြောင်း၊ အလှည့်အတိုင်း အသီးသီး လာရောက်ကြရမည်ဖြစ်ကြောင်း သတင်းပေးပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

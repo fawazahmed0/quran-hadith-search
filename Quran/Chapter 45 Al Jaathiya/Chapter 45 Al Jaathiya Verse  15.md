@@ -710,6 +710,12 @@ Koĭto vŭrshi pravedni dela, to e za samiya nego, a koĭto vŭrshi zlini, to 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	အကြင်သူသည် ကုသိုလ်ကောင်းမှုကို ပြုကျင့်အ့ံ၊ ထိုကောင်းမှုသည် သူ၏ ဝိညာဉ်ကောင်းစားဖို့ရာသာဖြစ်၏၊ အကြင်သူသည် အကုသိုလ်မကောင်းမှုကို ပြုကျင့်အ့ံ၊ ထိုမကောင်းမှုသည် သူ၏ ဝိညာဉ်နစ်နာဖို့ရာဖြစ်၏၊ နောက်ဆုံးစွန်၌ သင်တို့အားလုံးကို မိမိတို့အသက်သခင်ကျေးဇူးရှင်ကြီး၏ အထံတော်သို့ ပြန်ယူဆောင်ခဲ့လိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သူမဆို ကောင်းမှုပြုခဲ့လျှင် ၎င်း၏အကျိုးငှာဖြစ်ပေမည်။ ထိုနည်းတူစွာ မည်သူမဆို မကောင်းမှုပြုခဲ့သော် ၎င်း၏အပေါ်၌သာ သက်ရောက်ပေမည်။ ထို့နောက် အသင်တို့အားလုံးတို့မှာ ထိုအရှင်မြတ် အထံတော်သို့သာလျှင် ပြန်သွားကြရမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

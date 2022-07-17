@@ -710,6 +710,12 @@ No s tova sa udostoeni samo tŭrpelivite. S tova sa udostoeni samo shtastlivtsit
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	ယင်းသို့ကောင်းမြတ်သောဂုဏ်ထူးကို သည်းခံခြင်းတရားရှိ၍ မိမိကိုယ်ကို မိမိချုပ်တည်းသောသူတို့မှတပါး အခြားလူသာမန်တို့ရနိုင်ကြမည်မဟုတ်၊ ထိုဂုဏ်ထူးကို ကံအလွန်ထူးချွန်သူမှတပါး အခြားသူများမရရှိနိုင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တစေလည်း ယင်းကောင်းမြတ်သောနည်းဟူသည် သည်းခံသောသူတို့သာလျှင် ပေးသနားခြင်း ခံကြရပေသည်။ ထိုနည်းတူစွာ ယင်းကောင်းမြတ် သောနည်းဟူသည်ကြီးကျယ်စွာသော ဝေစုဝေပုံကို ပိုင်ဆိုင်သောသူသည်သာ ပေးသနားခြင်းကို ခံရလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

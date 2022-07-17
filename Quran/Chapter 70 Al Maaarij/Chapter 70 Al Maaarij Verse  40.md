@@ -710,6 +710,12 @@ I ne! Kŭlna se v Gospoda na izgrevite i na zalezite, Nie sme sposobni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၀၊၄၁။ ငါသည် ထိုသူတို့ကို သူတို့ထက်သာသောသူများဖြင့် အစားထိုးနိုင်တော်မူကြောင်းကို ငါသည် နေထွက်ရာအရပ်များနှင့် နေဝင်ရာအရပ်များ၏ အရှင်သခင်အား တိုင်တည်၍ မိန့်တော်မူ၏၊ ငါ့ဆီမှ ပြေး၍ မလွတ်နိုင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ နေထွက်ရာ အရပ်များကိုလည်းကောင်း၊ နေဝင်ရာ အရပ်များကိုလည်းကောင်း၊ ဖန်ဆင်းတော်မူသော ငါအရှင်မြတ်သည် ကျိန်ဆို၍ မိန့်ကြားတော်မူ၏။ဧကန်မလွဲ ငါအရှင်မြတ်သည် တတ်စွမ်းနိုင်တော်မူသော အရှင်မြတ်ပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kazhi: “Kakvo mislite, ako Negovoto mŭchenie doĭde pri vas noshtem ili dene
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၀။	ဟောကြားလော့၊ သင်တို့သည် တွေးတောဆင်ခြင်ကြပြီးပြီလော့၊ အရှင်မြတ်၏ အပြစ်ဒဏ်တော်သည် ညဉ့်ဝင် တိုက်ခြင်းအားဖြင့်ဖြစ်စေ၊ အလုပ်ရှုပ်သောနေ့၌ဖြစ်စေ၊ ဆိုက်ရောက်လာသောအခါ ထိုအပြစ်ဒဏ်တော်မှ မည်သည့်အပိုင်းကို အပြစ်ရှိသူများမြန်မြန်ကျရောက်စေလိုသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (၎င်း တို့ အားဤသို့)ပြောကြားပါလေ။ အကယ်၍ အသင်တို့၌ ထိုအရှင်မြတ်၏ပြစ်ဒဏ်သည် ညအချိန်၌ဖြစ်စေ၊ နေ့အချိန်၌ဖြစ်စေ၊ (ရုတ်တရက်) ဆိုက်ရောက်လာခဲ့ပါလျှင် အသင်တို့သည် မည်သို့ယူဆကြမည်ကို ငါ့အားပြောပြကြလေကုန်။ (သို့ပါလျက်) ပြစ်မှုကျူးလွန်သူတို့သည် မည်သည့်အတွက်ကြောင့် ထိုပြစ်ဒဏ်ကျရောက်ရန် အလျင်လိုကြသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

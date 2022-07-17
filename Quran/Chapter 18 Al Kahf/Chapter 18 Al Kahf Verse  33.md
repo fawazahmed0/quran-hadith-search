@@ -710,6 +710,12 @@ I dvete gradini daryavakha svoite plodove, bez da se pogubi nishto ot tyakh. I s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	ဥယျာဉ်နှစ်ခုစလုံးပင် အသီးအမျိုးမျိုးများစွာသီးကြ၏။ မသီးမပွင့်သောအပင်မရှိချေ။ ဥယျာဉ်စပ်ကြား၌ စိမ့်စမ်းရေ ကိုလည်း တထွေထွေစီးဆင်းစေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုခြံနှစ်ခြံမှာ အသီးအနှံများကို အနည်းငယ်မျှပင် လျော့နည်းစေခြင်းမရှိပဲ(ရာသီမလပ်)သီးပွင့်၍ ပေးလျက်ပင်ရှိခဲ့ကြ၏။ ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ထိုခြံနှစ်ခြံ၏အကြားဝယ် ချောင်းတစ်ခုကိုလည်း စီးထွက်စေတော်မူခဲ့ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

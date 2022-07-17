@@ -710,6 +710,12 @@ shte ima zhivot v dovolstvo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၊၇။ ဤနေ့တော်ကြီး၌ အကြင်သူ၏ ချိန်ခွင်လျှာသည် ကုသိုလ်ကောင်းမှုဘက်က လေးလတံ့၊ ထိုသူသည် ဝမ်းမြောက် ဝမ်းသာပျော်ရွှင်စွာနှင့် အသက်ရှင်နေရလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူသည် စိတ်တိုင်းကျစည်းစိမ်၌ (မွေ့လျော်စွာ)ရှိပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

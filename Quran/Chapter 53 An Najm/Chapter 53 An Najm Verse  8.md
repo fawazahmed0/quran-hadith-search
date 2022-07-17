@@ -710,6 +710,12 @@ posle se priblizhi i se spusna
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	ထို့နောက်ချဉ်းကပ်လာပြီးလျှင် အောက်သို့ သက်ဆင်းလာ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ထို(ကောင်းကင်တမန်)သည် ချဉ်းကပ်၍ လာခဲ့၏။ ထို့နောက်တစ်ဖန် ထပ်မံ၍ ချဉ်းကပ်ခဲ့ပေရာ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

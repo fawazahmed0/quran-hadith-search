@@ -710,6 +710,12 @@ I dadokhme na Musa Pisanieto, sled kato pogubikhme pŭrvite pokoleniya - za proz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	ထို့အပြင်ရှေးအသင်းသားများကို ကွပ်မျက်စီရင်တော်မူပြီးနောက် ငါသည် တမန်တော်မူစာအား ကျမ်းတော် တစ်စောင်ကို ချပေးသနားတော်မူ၏၊ ထိုကျမ်းတော်သည် လူသားတို့အတွက် ခိုင်လုံထင်ရှားသောသက်သေ သာဓကတော်များ၊ လမ်းညွှန်တော်နှင့် ကောင်းကြီးမင်္ဂလာတော်ဖြစ်၏၊ ထိုသို့ချပေးတော်မူခြင်းမှာ လူသားတို့ တွေးတောဆင်ခြင်ကောင်း ဆင်ခြင်ဖို့ရာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် မချွတ်မလွဲ ငါအရှင်မြတ်သည် ရှေးဟောင်းမျိုးဆက်များကို ဖျက်ဆီးတော်မူခဲ့ပြီးနောက် လူတို့အဖို့ တရားရကြအံ့သောငှာ ထင်ရှားစွာသော သက်သေခံများ အဖြစ်လည်းကောင်း၊ တရားလမ်းညွှန် အဖြစ်လည်းကောင်း၊ကရုဏာတော် အဖြစ်လည်းကောင်း၊ ငါအရှင်မြတ်သည် မူစာအား ကျမ်းဂန်ကို ချီးမြှင့်ပေးသနားတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

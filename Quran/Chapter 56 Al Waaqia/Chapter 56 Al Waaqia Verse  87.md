@@ -710,6 +710,12 @@ ne ya vŭrnete obratno, ako govorite istinata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၇။	သင်တို့အမှန်စကားကို ဆိုကြလျှင် ထိုသူ၏ အသက်ကို သူ၏ကိုယ်တွင်းသို့ အဘယ်ကြောင့် ပြန်၍ မသွင်း ကြသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်း အသက်ဇီဝိန်ကို ပြန်လည်၍ ယူမထားကြပေသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

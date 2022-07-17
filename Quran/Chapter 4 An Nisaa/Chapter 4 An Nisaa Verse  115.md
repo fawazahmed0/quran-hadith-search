@@ -710,6 +710,12 @@ A koĭto protivorechi na Pratenika, sled kato mu se izyasni napŭt·stvieto, i 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၅။	အကြင်သူအား အလ္လာဟ်အသျှင်မြတ်၏နည်းလမ်းညွှန်ပြချက်တော်ကို ထင်လင်းစေပြီးနောက် တမန်တော်ကို ဆန့်ကျင်ခုခံ၏။ ယုံကြည်သူ၏လမ်းမှတစ်ပါ။ အခြားလမ်းကိုလိုက်၏။ ငါအသျှင်မြတ် သည်ထိုသူကို သူကိုယ်တိုင်လိုက်သောလမ်းတွင် ထားတော်မူ၏။ ငရဲသို့ လားစေတော်မူမည်။ ထိုငရဲသည် အလွန်ဆိုးဝါး ဒုက္ခများသောခရီးအဆုံးစွန်ဖြစ်ပေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် မည်သူမဆို မိမိအဖို့ တရားဓမ္မလမ်းစဉ်သည် ထင်ရှားခဲ့ပြီးနောက် ရစူလ်တမန်တော်ကိုဆန့်ကျင်အံ့။ ၎င်းပြင် ထိုသူသည် ‘မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူတို့၏လမ်းစဉ်မှအပ အခြားလမ်းစဉ်ကိုလိုက်နာအံ့၊ သို့ဖြစ်လျှင်ငါအရှင်မြတ်သည် ထိုသူအား ၎င်းကိုယ်တိုင်လှည့်ရာဘက်သို့ လှည့်ပေးတော်မူအံ့။ ထို့နောက်တစ်ဖန် ငါအရှင်မြတ်သည် ထိုသူအား ‘ဂျဟန္နမ်’ ငရဲဘုံသို့ ထည့်သွင်းတော်မူအံ့။ စင်စစ် ထို ‘ဂျဟန္နမ်’ငရဲဘုံသည် အလွန်ယုတ်ညံ့လှသော ပြန်လည်ရာဌာနပင်ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Otklikvaĭte na vashiya Gospod, predi da e doshŭl Denyat, koĭto Allakh ne sh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	အို-ကြားနာရသူအပေါင်းတို့၊ လွှဲရှောင်၍မရသော နေ့တော်ကြီးမရောက်မီ သင်တို့သည် မိမိတို့၏ အသက် သခင်ကျေးဇူးရှင်ကြီး၏ ဗျာဒိတ်နှုတ်ကပတ်တော်ကို လိုက်နာကြလော့၊ ထိုနေ့တော်ကြီး၌ သင်တို့အတွက် ခိုလှုံဖို့ရာနေရာမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် အကြင်နေ့မရောက်မီ မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏အမိန့်တော်ကိုနာယူကြလေကုန်။ အလ္လာဟ်အရှင်မြတ် ထံတော်မှ ယင်းနေ့ကိုလွှဲဖယ်ခြင်း၊ ရွှေ့ဆိုင်းခြင်း၊ ဟူ၍ အလျှင်းရှိလိမ့်မည် မဟုတ်ပေ။(တစ်နည်း) အသင်တို့သည် မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏အမိန့်တော်ကို အလ္လာဟ်အရှင်မြတ် အထံတော်မှ အကြင်နေ့ရောက်မလာမီ နာယူကြလေကုန်။ ယင်းနေ့ကို မည်သူတစ်ဦးတစ်ယောက်မျှပင် ရွှေ့ဆိုင်းနိုင်မည်မဟုတ်ပေ။ ထို့နေ့တွင် အသင်တို့၌ ခိုလှုံရာဌာနဟူ၍လည်း အလျှင်းရှိမည် မဟုတ်ပေ။ အသင်တို့နှင့်ပတ်သက်၍ ဟန့်တားအံ့သောသူဟူ၍(အသင်တို့အားမမှတ်မိနိုင်ရန်အကြောင်းဟူ၍ အသင်တို့၌ ငြင်းဆိုနိုင်ခြင်းဟူ၍)လည်း ရှိလိမ့်မည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

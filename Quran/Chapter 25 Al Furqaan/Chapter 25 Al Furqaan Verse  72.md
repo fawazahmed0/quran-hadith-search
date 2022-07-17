@@ -710,6 +710,12 @@ I koito ne svidetelstvat s izmama, i ako minat kraĭ praznoslovie, otminavat do
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၂။	၎င်းအပြင်ထိုသူတို့သည် မုသားသက်သေခံသူများမဟုတ်၊ သို့သော်သူတို့တစ်ရံတစ်ခါအလဇ္ဇီလုပ်၍နေသော အလုပ်ဌာနသို့ ရောက်သွားကြလျှင် သူတော်ကောင်းပီပီစက္ခုန္ဒြေမပျက်၊ အခြားဘက်သို့ လှည့်လျှောက်သွား ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အကြင်သူများပင်။ ထိုသူတို့သည် မလျော်ကန်သောနေရာသို့လည်း သွားရောက်ပါဝင်ကြသည် မဟုတ်ပေ။ (တစ်နည်း) မုသားသက်သေခံကြသည်လည်း မဟုတ်ပေ။ ထိုမှတစ်ပါး ၎င်းတို့သည် အချည်းနှီးသော အမှုကိစ္စ၏အပါးမှ ဖြတ်သန်း၍ သွားကြလေသောအခါ၊ (မျက်နှာအောက်စိုက်၍) ဣန္ဒြေရှိသူများပီပီ ဖြတ်သန်း၍သွားကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

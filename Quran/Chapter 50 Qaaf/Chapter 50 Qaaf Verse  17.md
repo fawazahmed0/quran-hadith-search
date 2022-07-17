@@ -710,6 +710,12 @@ Otdyasno i otlyavo na nego stoyat dva zapisvashti angela
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	လူသား၏ လင်္ကျာလက်ဝဲ၌ ကောင်းကင်တမန်တစ်ပါးစီ သူ့ကို စောင့်ရှောက်လျက်ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော် သတိပေးပါလေ။) အကြင်အခါဝယ် အကြင်အခါ၌ မှတ်သားသူနှစ်ဦးသည် (ထိုမနုဿလူသား၏) လယ်ယာဘက်မှလည်းကောင်း၊ လက်ဝဲဘက်မှလည်းကောင်း၊ ထိုင်၍ မှတ်သားလျက် ရှိကြ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

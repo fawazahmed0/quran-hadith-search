@@ -710,6 +710,12 @@ Onezi ot khorata na Pisanieto, koito podkrepyakha [nevernitsite], Toĭ gi smŭk
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	ထို့အပြင်အလ္လာဟ်အရှင်မြတ်သည် ထိုမိစ္ဆာဒိဋ္ဌိတို့ကို အားပေးကူညီတိုက်ခိုက်သောကျမ်းတော်ရအမျိုးသားယဟူဒီ တို့အား ၎င်းတို့ခုခံတိုက်ခိုက်ရာ မြို့ရိုးခံတပ်ပေါ်မှ အောက်သို့ချတော်မူ၏၊ ထို့အပြင်ထိုယဟူဒီတို့၏ စိတ်နှလုံး အတွင်း၌ ပြင်းပြသောကြောက်လန့်တုန်လှုပ်ခြင်းကိုလည်း ဖြစ်စေတော်၏၊ သူတို့အနက် အချို့ကို သင်တို့ သတ်ဖြတ်ကြ၏၊ အချို့ကို လက်ရဖမ်းဆီးမိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် ၎င်းတို့အားကူညီထောက်မခဲ့ကြကုန်သော ကျမ်းဂန်ရရှိသူတို့အား ၎င်းတို့၏ခံတပ်များမှ ထွက်စေတော်မူခဲ့သည့်ပြင် ၎င်းတို့၏ စိတ်နှလုံးများတွင် ကြောက်ရွံ့ထိတ်လန့်မှုကို ထည့်သွင်းတော်မူခဲ့ရာအသင်တို့သည် ၎င်းတို့အနက် လူတစ်စုကို သတ်ဖြတ်လျက်ရှိကြပြီး၊ လူတစ်စုကိုမူကား (သုံ့ပန်းများအဖြစ်) ဖမ်းဆီးချုပ်နှောင်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

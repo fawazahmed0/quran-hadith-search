@@ -710,6 +710,12 @@ Predi tyakh otrichakha i narodŭt na Nukh, i aditite, i Faraonŭt - vladetelyat 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၊၁၃။	သူတို့ထက်ရှေးကျသောတမန်တော်နူဟို၏ လူများ၊ အားဒ်အမျိုးသားများ၊ လွဒ်၏ လူများ၊ တောင်သူတောင်သား ခေါ်လူများ၊ ဤအသင်းသားတို့သည် မိမိတို့ထံရောက်လာသောတမန်တော်များကို မယုံကြည်ငြင်းဆန်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့အလျင်လည်း (နဗီတမန်တော်) "နူးဟ်"၏အမျိုးသားတို့သည်လည်းကောင်း၊ "အာဒ်"အမျိုးသားတို့သည်လည်းကောင်း၊ သံငုတ်များရှင်ဖြစ်သော "ဖစ်ရ်အောင်န်"သည်လည်းကောင်း၊ (နဗီတမန်တော်များအား) မုသာဝါဒီများဟူ၍ စွပ်စွဲငြင်းပယ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

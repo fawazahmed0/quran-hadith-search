@@ -710,6 +710,12 @@ Rekokha: “Kakvo shte e vŭzmezdieto za tova, ako ste lŭzhtsi?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၄။	ထိုအခါမင်းချင်းတို့က သင်တို့သည် မုသားစကားဆိုသူဖြစ်ပါလျှင် သင်တို့ကို ထိုပြစ်မှုကြောင့် အဘယ်အပြစ်ဒဏ် ကို ပေးရပါမည်နည်းဟု မေးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းကြေညာသူတို့က သို့ဖြစ်လျှင် အကယ်၍အသင်တို့သည် မုသာဝါဒီများဖြစ်ခဲ့ကြသော် ထို(ခိုးသား)၏ပြစ်ဒဏ်သည် မည်သို့ဖြစ်ပါမည်နည်း ဟု ပြောဆို(မေးမြန်း)ခဲ့ကြလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Zashto ravinite i pravnitsite ne gi vŭzpirat da izrichat grekhovni dumi i da po
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၃။	ရဟူဒီဆရာများနှင့် ဓမ္မကထိကတို့သည် သူတို့မတရားဆိုခြင်း၊ မတရားအမြတ်ထုတ်ခြင်းတို့ကို အဘယ်ကြောင့် မတားမြစ်၊ မပိတ်ပင်ကြသနည်း။ အမှန်မှာ ဒုစရိုက်မကောင်းမှုသည် သူတို့၏ လက်ရာခြေရာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (၎င်းတို့၏) ဘုန်းကြီးရဟန်းတို့နှင့် ပညာရှင်တို့သည် ထိုသူတို့အား အပြစ်ရှိသော (မုသား) စကားကို ပြောဆိုခြင်းမှလည်းကောင်း၊ မတရားသဖြင့်ရရှိသောပစ္စည်းကို စားသုံးခြင်းမှလည်းကောင်း၊ အဘယ်ကြောင့် မတားမြစ်ကြသနည်း။ ထိုသူတို့ပြုလေ့ရှိသော အပြုအမူများသည် မုချဧကန် ဆိုးရွားလှပေ၏တကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

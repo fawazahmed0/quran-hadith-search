@@ -710,6 +710,12 @@ Rabite na Vsemilostiviya sa onezi, koito khodyat po zemyata s krotost i ako neve
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၃။	မဟာကရုဏာတော်အရှင်၏ သစ္စာရှိသောကျေးတော်မျိုးကျွန်တော်မျိုးတို့သည် ကမ္ဘာမြေပေါ်တွင် မာန်မာန မရှိပဲ မိမိကိုယ်ကို နှိမ့်ချ၍ အိန္ဒြေရှိရှိသွားလာကြ၏၊ ၎င်းအပြင်ထိုသူတော်ကောင်းတို့သည် ပညာမရှိသူများ နှုတ်ဆက်သောအခါ သင်တို့အပေါ်သို့ အေးချမ်းသာယာခြင်းကျရောက်ပါသော်ဝ်ဟု မေတ္တာစကားကို ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ‘ရဟ်မာန်’ ကြီးမားလှသော ကရုဏာတော်ရှင်၏ ကျွန်များသည် အကြင်သူများပင်။ ထိုသူတို့သည် ပထဝီမြေပေါ်ဝယ် ကျိုးနွံစွာ၊ ဖြည်းညင်းစွာ၊ ဣန္ဒြေသိက္ခာရှိစွာ၊ လမ်းလျှောက်ကြကုန်၏။ ထိုမှတစ်ပါး အသိအလိမ္မာ ကင်းမဲ့ကြသောသူများသည် ၎င်းတို့နှင့် စကားပြောဆိုကြသောအခါ ၎င်းတို့သည် ကောင်းမွန်စွာ ပဋိပက္ခ ကင်းငြိမ်းသောစကားကို အပြစ်မဖြစ်စေသောစကားကို ပြောဆိုကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

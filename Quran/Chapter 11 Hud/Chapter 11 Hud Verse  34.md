@@ -710,6 +710,12 @@ I ne shte vi pomogne moyat sŭvet, ako iskam da vi posŭvetvam, ako Allakh iska 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အား လမ်းမှားတွင် ပစ်ထားလိုတော်မူပါလျှင် ငါသည် သင်တို့အား ဆုံးမ သွန်သင်သော်လည်း ငါ့တရားတော်သည် သင်တို့အား အကျိုးပေးမည်မဟုတ်ချေ။ အရှင်မြတ်သည် သင်တို့၏ ကျေးဇူးတော်သခင်ဖြစ်တော်မူ၏။ သင်တို့ကို အရှင်မြတ်အထံတော်သို့ ပြန်ယူခဲ့မည်သာတည်းဟု ပြောကြား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်မှာမူကား အကယ်၍ အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့အား လမ်းမှားစေတော်မူရန် ရည်စူးတော်မူခဲ့ပါလျှင် ငါသည် အသင်တို့အဖို့(မည်မျှပင်) ကောင်းကျိုးဆောင်ရန် ရည်စူးသော်ငြားလည်း ငါ၏ ကောင်းကျိုးဆောင်မှုသည် အသင်တို့အား အကျိုးဖြစ်စေနိုင်လိမ့်မည်မဟုတ်ပေ။ထိုအရှင်မြတ်သည်ပင် အသင်တို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်ဖြစ်တော်မူ၏။ တစ်ဖန် အသင်တို့သည် ထိုအရှင်မြတ်အထံတော်သို့ပင် ပြန်ကြရကုန်အံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

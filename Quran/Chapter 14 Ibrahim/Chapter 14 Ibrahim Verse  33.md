@@ -710,6 +710,12 @@ i podchini za vas slŭntseto i lunata - usŭrdni [v dvizhenieto si], i podchini 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။ တဖန်အရှင်မြတ်သည် သင်တို့အကျိုးကို ဆောင်ရန် အစဉ်မပြတ်လှည့်ပတ်ဝင်ထွက်နေသောနေနှင့်လကို ဖန်ဆင်း တော်မူ၏။ နေ့နှင့်ညကိုလည်းကောင်း၊ သင်တို့အကျိုးကို ဆောင်ဖို့ရာ စီရင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုအရှင်မြတ်သည် သူရိယ နေကိုလည်းကောင်း၊ လ စန္ဒာ ကိုလည်းကောင်း၊ အမြဲ မပြတ်သွားလာစေလျက် အသင်တို့အကျိုးငှာ လိုက်နာ စေတော်မူခဲ့လေသည်။ ထိုနည်းတူစွာ ထိုအရှင်မြတ်သည် ညဉ့်ကိုလည်းကောင်း၊နေ့ကိုလည်းကောင်း၊ အသင်တို့အကျိုးငှာ အမိန့်ကို လိုက်နာစေတော်မူခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

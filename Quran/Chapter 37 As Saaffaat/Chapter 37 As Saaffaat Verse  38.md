@@ -710,6 +710,12 @@ Nepremenno shte vkusite boleznenoto mŭchenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။ မှတ်သားကြလော့၊ သင်တို့သည် ယခုအလွန်ပြင်းပြနာကျင်ဖွယ်သောအပြစ်ဒဏ်၏အရသာကို မြိန်ရှက်စွာမြည်း ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ အသင်တို့အားလုံးသည် နာကျင်ဖွယ်ဖြစ်သော ပြစ်ဒဏ်ကို မြည်းစမ်းကြရမည့်သူများ အမှန်ပင် ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

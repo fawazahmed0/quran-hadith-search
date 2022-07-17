@@ -710,6 +710,12 @@ Te smetnakha za zhenski angelite, koito sa rabite na Vsemilostiviya. Nima prisŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	သူတို့သည် မဟာဂရုဏာတော်အရှင်၏ ကျေးကျွန်ကောင်းကင်တမန်များအား ဣတ္ထိလိင်ဟု ဆိုကြ၏၊ သူတို့ သည် ထိုတမန်များအား ဖန်ဆင်းသည်ကို မြင်ရသလော၊ သူတို့၏ ပြောဆိုချက်ကို မှတ်သားထား၍ သူတို့ကို စစ်ကြောတော်မူလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့သည် အနန္တကရုဏာတော်ရှင်၏ကျွန်များ ဖြစ်ကြကုန်သော "မလာအိကဟ်" ကောင်းကင်တမန်တို့အား မိန်းမများဟူ၍ သတ်မှတ်ခဲ့ကြကုန်၏။ ၎င်းတို့သည် ထို "မလာအိကဟ်" ကောင်းကင်တမန်တို့အား ဖန်ဆင်းရာ၌ ရှေ့မှောက်ဝယ် ရှိခဲ့ကြလေသလော။ (မည်သို့ပင်ဖြစ်စေ)၎င်းတို့၏ သက်သေထွက်ချက်သည် ရေးသား(မှတ်တမ်းတင်)ပြီး ဖြစ်ချေသည်။ ထိုမှတစ်ပါး ၎င်းတို့သည် ("ကိယာမတ်"ရှင်ပြန်ထမည့်နေ့တွင်) စစ်ဆေးမေးမြန်း ခြင်းကိုလည်း ခံကြရပေဦးမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A koĭto na tozi svyat e slyap, toĭ shte bŭde slyap i v otvŭdniya, i shte b
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၂။	အကြင်သူသည် ဤဘဝ၌ မျက်စိကန်းအ့ံ၊ ထိုသူသည် နောင်ဘဝ၌လည်း မျက်ကန်းဖြစ်လတ့ံ။ တရားလမ်း ကြောင်းမှ ဝေးသည်ထက် ဝေးလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် မည်သူမဆို ဤပစ္စုပ္ပန်လောကီဘဝတွင်မျက်စိကန်းသူဖြစ်ခဲ့လျှင်၊ ထိုသူသည် နောင်တမလွန် ဘဝတွင်လည်း ကန်းသူသည်လည်းကောင်း၊ (မှန်ကန်သောလမ်းမှ) ပို၍ဝေးသူသည်လည်းကောင်း၊ ဖြစ်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

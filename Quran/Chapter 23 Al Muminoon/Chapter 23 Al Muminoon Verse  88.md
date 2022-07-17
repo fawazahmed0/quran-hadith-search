@@ -710,6 +710,12 @@ Kazhi: “V chii rŭtse e vladenieto na vsichko, shtom Toĭ pokrovitelstva, a n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၈။	တဖန်ဟောကြားလော့၊ ခပ်သိမ်းကုန်သောသက်ရှိသက်မဲ့အပေါင်းတို့ကို စိုးပိုင်သောတန်ခိုးတော်ဂုဏ်တော်သည် မည်သူ့လက်တော်ဝယ်ရှိသနည်း၊ အလ္လာဟ်အရှင်မြတ်သည် ကာကွယ်စောင့်ရှောက်တော်မူ၏၊ သို့သော်အရှင် မြတ်မှ ကာကွယ်ခြင်းမရှိချေ၊ သင်တို့တွင် အသိဉာာဏ်ရှိလျှင် ကောင်းလေစွ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ၎င်းတို့အား ဤသို့ ပြောဆိုမေးမြန်းပါလေ။ (အချင်းတို့)အကယ်၍ အသင်တို့သည် သိရှိကြလျှင် (ငါ့အားပြောပြကြလေကုန်)။ ထိုအရှင်သည် မည်သူနည်း။ အရာခပ်သိမ်းတို့ကို စိုးပိုင်ခွင့်သည် ထိုအရှင်မြတ်၏လက်တော်တွင်း၌ရှိ၏။ ၎င်းပြင် ထိုအရှင်မြတ်သည် ကာကွယ်စောင့်ရှောက်တော်မူ၏။ သို့ရာတွင် ထိုအရှင်နှင့်ဆန့်ကျင်၍မူကား မည်သူတစ်ဦးတစ်ယောက်မျှပင် ကာကွယ် စောင့်ရှောက်နိုင်ခြင်း မရှိချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

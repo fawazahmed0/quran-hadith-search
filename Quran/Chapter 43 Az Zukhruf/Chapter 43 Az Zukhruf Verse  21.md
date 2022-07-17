@@ -710,6 +710,12 @@ Ili im dadokhme druga kniga predi tova, ta kŭm neya se pridŭrzhat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	ငါသည် ထိုသူတို့စွဲလမ်းလိုက်နာဖို့ရာ ကျမ်းတော်တစ်စောင်ကို သူတို့အား ကုရ်အာန်ကျမ်းတော်ကို ထုတ်ပြန် တော်မမူမီ ပေးသနားတော်မူဖူးသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် ၎င်းတို့အား ဤ(ကုရ်အာန်ကျမ်းတော်မြတ်)အလျင် ကျမ်းဂန်တစ်စောင်စောင်ကို ချီးမြှင့် ပေးသနားတော်မူခဲ့လေသလော။ သို့ဖြစ်ရာ ၎င်းတို့သည် ယင်းကျမ်းကို အားကိုးအားထားပြုလျက် ရှိကြသည်(လော)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

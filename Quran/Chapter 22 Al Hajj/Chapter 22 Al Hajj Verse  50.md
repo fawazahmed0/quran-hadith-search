@@ -710,6 +710,12 @@ Koito vyarvat i vŭrshat pravedni dela, za tyakh ima oproshtenie i shtedro prepi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅ဝ။	အကြင်သူတို့သည် ယုံကြည်၍ သုစရိုက်မှုကို ပွားများအ့ံ၊ ထိုသူတို့အတွက် အပြစ်လွှတ်ခြင်းနှင့် ပေါများကြွယ်ဝ သောစည်းစိမ်ချမ်းသာတို့ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ သက်ဝင်ယုံကြည်ခဲ့ကြသော ကောင်းမြတ်သောအကျင့်သီလများကိုလည်း ကျင့်မူ ဆောက်တည်ကြကုန်သော သူတို့အဖို့ (အပြစ်မှ) လွတ်ငြိမ်းချမ်းသာခွင့်သည်လည်းကောင်း၊ မြင့်မြတ်သော စားနပ်ရိက္ခာသည်လည်းကောင်း၊ရှိချိမ့်မည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

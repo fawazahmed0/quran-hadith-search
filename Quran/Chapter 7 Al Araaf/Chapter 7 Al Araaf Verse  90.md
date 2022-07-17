@@ -710,6 +710,12 @@ I znatnite ot naroda mu, koito byakha nevernitsi, kazakha: “Ako posledvate Shu
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉ဝ။	သို့သော် သူတို့အမျိုးသား၏ မယုံကြည်သူ ရှေ့ဆောင်အကြီးအကဲတို့က အကယ်၍ သင်တို့သည် ရှူအိုက်(ဘ်)နောက်သို့လိုက်ကြလျှင် အကျွနု်ပ်တို့သည် ဆုံးရှုံးပျက်စီးသူများ မချွတ်ဧကန်ဖြစ်ကြမည်ဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထို(နဗီတမန်တော်)ရှုအိုက်ဗ်၏ အမျိုးသားတို့အနက်မှ သွေဖည်ငြင်းပယ်ကြသော အကြီးအကဲတို့က(မိမိတို့အမျိုးသားချင်းတို့အား အို-အချင်းတို့) အကယ်၍အသင်တို့သည် ရှုအိုက်ဗ် ၏အမိန့်ကို လိုက်နာကြပါလျှင် မုချစင်စစ် အသင်တို့သည် ဆုံးရှုံးနစ်နာသူများ ဖြစ်ကြကုန်အံ့ဟုပြောဆိုခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

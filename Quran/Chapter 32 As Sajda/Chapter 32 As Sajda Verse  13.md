@@ -710,6 +710,12 @@ Ako pozhelaekhme, shtyakhme da dadem na vsekigo negovoto napŭt·stvie. No shte 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	ငါသည် အလိုတော်ရှိလျှင် ဝိညာဉ်တိုင်းကို လမ်းပြတော်မူနိုင်၏၊ ဒုစရိုက်ကောင်များနှင့်စပ်လျဉ်း၍ ပေးတော် မူသောဗျာဒိတ်သစ္စာတော်သည် အမှန်ဖြစ်၏၊ ထိုကတိသစ္စာတော်ကား ငါသည် ငရဲပြည်ကို ဂျင်နတ်သားနှင့် လူသားတို့နှင့် ဖြည့်တော်မူမည့်အကြောင်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အကယ်၍သာ ငါအရှင်မြတ်သည် အလိုရှိတော်မူခဲ့ပါလျှင် လူတိုင်းလူတိုင်းအား ၎င်းတို့၏တရားလမ်းမှန်ကို ပေးတော်မူခဲ့မည်ဖြစ်၏။ သို့ရာတွင် မုချဧကန် ငါအရှင်မြတ်သည် ဂျင်န်သတ္တဝါများဖြင့်လည်းကောင်း၊လူသတ္တဝါများဖြင့်လည်းကောင်း၊ တစ်ပြိုင်နက်တည်း ဂျဟန္နမ် ငရဲဘုံကို ဖြည့်တော်မူမည်ဟူသောအမိန့်တော်သည်ငါအရှင်မြတ် အထံတော်မှ အတည်ပြုပြီးဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

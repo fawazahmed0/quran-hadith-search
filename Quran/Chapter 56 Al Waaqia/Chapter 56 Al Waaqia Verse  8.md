@@ -710,6 +710,12 @@ edni - otdyasno, - kakvo shte e za tezi otdyasno
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	ပထမအမျိုးအစားမှာ လက်ယာဘက်တော်တွင် နေရသောအမျိုးအစား၊ ထိုလက်ယာဘက်တော်သားတို့သည် အဘယ်သို့ဖြစ်ကြသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သို့ပင်ဖြစ်စေ လက်ယာဘက်သားတို့မှာ၊ ထိုလက်ယာဘက်သားတို့ကား အဘယ်မျှလောက် ကောင်းမြတ်ပေသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

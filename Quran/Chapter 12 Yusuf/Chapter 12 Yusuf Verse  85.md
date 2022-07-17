@@ -710,6 +710,12 @@ Rekokha: “Kŭlnem se v Allakh, ne shte prestanesh da si spomnyash za Yusuf, do
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၅။	ထိုအခါသားတို့က အလ္လာဟ်အရှင်မြတ်ကို တိုင်တည်ပါ၏။ ဖခင်သည် မိမိမကျန်းမမာဖြစ်သည့်တိုင်အောင် သော်လည်းကောင်း၊ သေကြေပျက်စီးသည့်တိုင်အောင်သော်လည်းကောင်း၊ ယူစွတ်(ဖ်)ကို သတိမရပဲ နေမည် မဟုတ်ဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်း(သား)တို့က (အို-ခမည်းတော်) အလ္လာဟ်အရှင်မြတ်၏ကစမ်၊ အသင်ခမည်းတော်သည် ယူဆွဖ်အားအမြဲမပြတ် တမ်းတသတိရလျက်ပင်ရှိနေသည် ဖြစ်ရာ နောက်ဆုံးတွင်မူ အသင်ဖခင်သည် ကျန်းမာရေး ချွတ်ယွင်းသူသော်လည်းကောင်း၊ အသက်ဇီဝိန် ချုပ်ငြိမ်းသူသော်လည်းကောင်း၊ဖြစ်ရပါတော့မည် ဟုပြောဆိုကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

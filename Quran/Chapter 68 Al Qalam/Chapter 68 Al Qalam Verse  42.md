@@ -710,6 +710,12 @@ v Denya, kogato shte se razkriyat delata i [tezi] shte bŭdat prikaneni da se po
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။ တရားစီရင်တော်မူသည့် နေတော်ကြီးအမှန် ဆိုက်ရောက်လာသောအခါ အယူမှားသူအပေါင်းတို့အား ပြဝပ်ဦးညွှတ်ရန် မိန့်တော်မူလတံ့၊ သို့သော်သူတို့သည် ဦးမညွတ်နိုင်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်နေ့ကို (ပြန်လည် သတိပြုကြလေကုန်၊)ထိုနေ့တွင် ခြေသလုံးဖွင့်လှစ်ခြင်းခံရပေမည်။ ထို့ပြင် ၎င်းတို့သည် ‘စဂျ်ဒဟ်’ ပျပ်ဝပ်ဦးချရန် ဆင့်ခေါ်ခြင်းကို ခံကြရပေမည်။ သို့တစေလည်း ၎င်းတို့မှာမူကား (စဂျ်ဒဟ်) ပြုစွမ်းနိုင်ကြမည် မဟုတ်ပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

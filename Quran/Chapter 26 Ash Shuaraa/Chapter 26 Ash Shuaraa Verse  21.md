@@ -710,6 +710,12 @@ I izbyagakh ot vas, kogato me uplashikhte, a moyat Gospod me dari s mŭdrost i m
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	ထို့နောက်သင့်အား ကြောက်ရွံ့သဖြင့့် သင့်ထံမှ ထွက်ပြေး၏၊ အကျွနု်ပ်၏အသက်သခင်ကျေးဇူးရှင်သည် အကျွနု်ပ်အား ဗျာဒိတ်ပေးတော်မူ၏၊ အကျွနု်ပ်ကို မိမိစေလွှတ်တော်မူသောတမန်တော်များအနက် တစ်ပါး အဖြစ်ဖြင့် ခန့်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ငါသည် အသင်တို့အား ကြောက်ရွံ့ခဲ့သောအခါ အသင်တို့ထံမှ ထွက်ပြေး၍ တိမ်းရှောင်နေခဲ့၏။ထို့နောက် ငါ၏အရှင်မြတ်သည် ငါ့အား အထူးဉာဏ်ပညာကို ချီးမြှင့်ပေးသနားတော်မူ၍ ငါ့အား ရစူလ်တမန်တော်တို့တွင်အပါအဝင် ဖြစ်စေတော် မူခဲ့ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I bŭdi tŭrpeliv kŭm onova, koeto govoryat! I gi napuskaĭ s dostoĭnstvo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၀။ ထို့အပြင်သင်သည် သူတို့ပြောဆိုသမျှစကားကို သည်းခံပြီးလျှင် သူတို့ထံမှ ကောင်းသောထွက်ခွာခြင်းဖြင့် ထွက်ခွာလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး (အို-နဗီတမန်တော်) အသင်သည် ၎င်းတို့၏ပြောဆိုချက်များ နှင့်စပ်လျဉ်း၍ သည်းခံ၍နေပါလေ။ထို့ပြင် အသင်သည် ၎င်းတို့ထံမှ ကောင်းမွန်လှပစွာ ကင်းလွတ်၍နေပါလေ။ ၎င်းတို့အား (ကောင်းမွန်စွာ) စွန့်ထားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

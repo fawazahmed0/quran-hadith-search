@@ -710,6 +710,12 @@ Te sa bezsilni na zemyata i nyamat pokroviteli, osven Allakh. Na tyakh shte im s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	ထိုသူမိုက်တို့သည် မြေပေါ်တွင် ထွက်ပြေးတိမ်းရှောင်၍ လွတ်လိမ့်မည်မဟုတ်ချေ၊ သူတို့၌ အလ္လာဟ်အရှင်မြတ် မှတပါး အခြားစောင့်ရှောက်မည့်အဆွေခင်ပွန်းမရှိချေ။ သူတို့အတွက် ငရဲအပြစ်ဒဏ်သည် နှစ်ဆဖြစ်လိမ့်မည်။ သူတို့သည် မကြားနိုင်ကြချေ။ မမြင်နိုင်ကြပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသူများသည် ကမ္ဘာမြေ၌လည်း (အလ္လာဟ်အရှင်မြတ်၏ ပြစ်ဒဏ်ပေးတော်မူခြင်းမှ)လွတ်မြောက်နိုင်သူများမဟုတ်ခဲ့ကြချေ။ ထိုမှတစ်ပါး ၎င်းတို့၌ အလ္လာဟ်အရှင်မြတ်နှင့်ယှဉ်ပြိုင်၍ ကူညီစောင်မမည့်သူဟူ၍လည်း တစ်ဦးတစ်ယောက်မျှ မရှိခဲ့ချေ။ (ယနေ့မူကား) ၎င်းတို့၌ပြစ်ဒဏ်သည် နှစ်ဆ ပြုလုပ်ခြင်းကို ခံရပေမည်။ ၎င်းတို့သည်(မလိုမုန်းတီးမှုကြောင့် ကုရ်အာန်ကျမ်းတော်မြတ်ကိုလည်း) ကြားနာနိုင်စွမ်းမရှိခဲ့ကြပေ။ (အလ္လာဟ်အရှင်မြတ်၏ သက်သေလက္ခဏာသာဓကများကိုလည်း)မြင်နိုင်ကြသည် မရှိခဲ့ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

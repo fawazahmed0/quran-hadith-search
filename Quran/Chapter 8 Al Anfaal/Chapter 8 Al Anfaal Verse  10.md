@@ -710,6 +710,12 @@ Allakh stori tova samo za radostna vest i za da se uspokoyat s nego sŭrtsata vi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	အလ္လာဟ်အသျှင်မြတ်သည် ဤအကြောင်းကို မင်္ဂလာရှိသောသတင်းကောင်းအဖြစ်ဖြင့် ဗျာဒိတ်ပေး တော်မူ၏။ သင်တို့စိတ်နှလုံးမတုန်လှုပ်ပဲ ချမ်းသာဖို့ရာဖြစ်၏။ အလ္လာဟ်အသျှင်မြတ်၏ အစောင်အမ တော်ကြောင့်သာလျှင် စစ်အောင်နိုင်၏။ မှတ်သားကြလော့။ အလ္လာဟ်အသျှင်မြတ်သည် အနန္တ တန်ခိုးတော်သခင်၊ အနန္တဉာဏ်တော်ရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် ထို(ကဲ့သို့မလာအိကဟ်များကို စေလွှတ်တော်မူ၍ ကူညီတော်မူမည်ဟု)ကတိပေးတော်မူခြင်းမှာ အသင်တို့အဖို့ ဝမ်းမြောက်ဖွယ်ရာသတင်း အဖြစ်သာလည်းကောင်း၊ အသင်တို့၏ စိတ်နှလုံးများသည် ထိုသတင်း (ကိုကြားသိရခြင်းအား)ဖြင့် နှစ်သိမ့်ခြင်းငှာလည်း ကောင်း၊ ပြုတော်မူခဲ့လေသည်။ အမှန်သော်ကားအောင်မြင်မှုသည် အလ္လာဟ်အရှင်မြတ် အထံတော်မှ သာလျှင်ဖြစ်၏။ ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် တန်ခိုးအာနုဘော်နှင့်ပြည့်စုံတော်မူသောအရှင်၊ ဉာဏ်အမြော်အမြင်နှင့်ပြည့်စုံတော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။(ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

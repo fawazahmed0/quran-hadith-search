@@ -710,6 +710,12 @@ S onezi, koito razedinikha svoyata religiya i stanakha na grupi - ti [o, Mukhamm
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၉။	မှတ်သားကြလော့။ အကြင်သူတို့သည် မိမိတို့ဘာသာအယူဝါဒကို အကွဲကွဲအပြားပြားပြု၍ ဂိုဏ်းဂဏ များ ထောင်ကြ၏။ သင်သည် ထိုသူတို့နှင့် လုံးဝမသက်ဆိုင်ပေ။ သူတို့အမှုသည် အလ္လာဟ်အသျှင် မြတ် ရှေ့တော်သို့ ရောက်ရလိမ့်မည်။ ထိုအခါ အသျှင်မြတ်သည် သူတို့ပြုကျင့်လေ့ရှိကြသည်ကို မိန့်ကြားတော်မူလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်ဧကန် အကြင်သူတို့သည် မိမိတို့၏ သာသနာကို အစိတ်စိတ်ခွဲပစ်ခဲ့ကြ၏။ ၎င်းနောက် ထိုသူများသည်ဂိုဏ်းဂဏ အသီးသီးကွဲခဲ့ကြ၏။ အသင်သည် ထိုသူတို့နှင့်မည်သို့မျှ မပတ်သက်ပေ။ မုချဧကန် ၎င်းတို့၏ကိစ္စသည်အလ္လာဟ်အရှင်မြတ်အထံတော်သို့ လွှဲအပ်ပြီးဖြစ်ချေသည်။ထိုနောက် ထိုအရှင်မြတ်သည်ပင်လျှင်၊ ၎င်းတို့အား၊ ၎င်းတို့ပြုမူခဲ့သည်တို့ကို သိစေတော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

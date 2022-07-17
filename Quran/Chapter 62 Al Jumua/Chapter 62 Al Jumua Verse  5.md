@@ -710,6 +710,12 @@ Onezi, koito byakha natovareni s Torata, a posle ne ponesokha tovara, prilichat 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။ တောင်ရသ်ကျမ်းတော်ကို ရလျက် မသုံးသောသူတို့သည် စာအုပ်များကို ကျောက်တုံးပေါ်ထက် ထမ်းရွက်ထား သောမြည်းတိရိစ္ဆာန်နှင့်တူ၏၊ အလ္လာဟ်အရှင်မြတ်၏ ဓမ္မစက်ကို ငြင်းပယ်သောသူတို့၏ ပမည်းပမာသည် အလွန်ဆိုးသွမ်းညစ်ညမ်းသောပမည်းပမာတည်း၊ အလ္လာဟ်အရှင်မြတ်သည် ဒုစရိုက်မှုပြုကျင့်သူတို့အား လမ်းပြ တော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘တောင်ရာတ်’ ကျမ်းတော်နှင့်စပ်လျဉ်း၍ တာဝန်ပေးခြင်းကို ခံခဲ့ကြရပြီးနောက် ယင်း ‘တောင်ရာတ်’ကျမ်းတော်ကို (တာဝန်ကျေပွန်စွာ) ထမ်းဆောင်ခြင်းမရှိခဲ့ကြသော သူတို့၏ဥပမာကား ကျမ်းစာအုပ်များကို တင်ဆောင်လျက်ရှိသော မြည်းတိရစ္ဆာန်၏ ဥပမာကဲ့သို့ပင်၊ အလ္လာဟ်အရှင်မြတ်၏ အာယတ်တော်များကို မဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ်ခဲ့ကြလေသော လူမျိုး၏ဥပမာကား လွန်စွာ ယုတ်ညံ့လှပေ၏။ စင်စစ်တမူကား အလ္လာဟ်အရှင်မြတ်သည် မတရားသောသူတို့အား လမ်းမှန်သို့ ပို့ပေးတော်မူသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

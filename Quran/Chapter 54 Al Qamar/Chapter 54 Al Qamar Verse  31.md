@@ -710,6 +710,12 @@ Izpratikhme sreshtu tyakh samo edin Vik i stanakha kato sukhite slamki na senoto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	မှတ်သားလော့၊ ငါသည် ထိုသူညစ်တို့ထံသို့ အလွန်ကြီးသောအသံတစ်ခုကို စေလွှတ်တော်မူလိုက်ရာ သူတို့သည် ကျွဲနွာတိရိစ္ဆာန်တဲကို ဆောက်လုပ်သူ လွှင့်ပစ်ချသည့်သစ်မြစ်ခြောက်ကဲ့သို့ ဖြစ်သွားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်ဧကန် ငါအရှင်မြတ်သည် ၎င်းတို့အပေါ်၌ ပြင်းထန်လှစွာသော အသံတစ်ခုကိုသာလျှင် စေလွှတ်တော်မူခဲ့ရာ ၎င်းတို့သည် ကျွဲ၊ နွား တိရစ္ဆာန်များ နေထိုင်ရန် ခြံခတ်သူ၏ သွေ့ခြောက်ကြေမွနေသော သစ်ကိုင်းသစ်လက်များကဲ့သို့ ဖြစ်သွားခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

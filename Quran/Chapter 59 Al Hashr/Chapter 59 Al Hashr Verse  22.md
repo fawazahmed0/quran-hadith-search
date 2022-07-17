@@ -710,6 +710,12 @@ Toĭ e Allakh, nyama drug Bog osven Nego - Znaeshtiya i nevedomoto, i yavnoto. 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	အရှင်မြတ်သည် အလ္လာဟ်ဖြစ်တော်မူ၏၊ အရှင်မြတ်မှတပါး အခြားအရှင်သခင်မရှိချေ၊ အရှင်မြတ်သည် မြင်ရသောအရာ၊ မမြင်ရသောအရာ၊ ခပ်သိမ်းကုန်တို့ကို အကြွင်းမဲ့သိတော်မူ၏၊ မဟာကရုဏာတော်အရှင်၊ အနန္တကောင်းကြီးမင်္ဂလာတော်သခင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည်ပင် အကြင် အလ္လာဟ်အရှင်မြတ်ဖြစ်တော်မူ၏။ ထိုအရှင်မြတ် မှတစ်ပါး ခယရိုကျိုး ဆည်းကပ်ကိုးကွယ်ရာဟူ၍ အလျှင်းမရှိပြီ။ လျှို့ဝှက်စွာ ရှိသည်တို့ကိုလည်းကောင်း၊ ထင်ရှားစွာ ရှိသည်တို့ကိုလည်းကောင်း၊ သိတော်မူသောအရှင် ဖြစ်တော်မူ၏။ ထိုအရှင်မြတ်သည်ပင် မဟာကရုဏာတော်ရှင်၊ အလွန်တရာ ကြင်နာ သနားတော်မူသောအရှင်၊ ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

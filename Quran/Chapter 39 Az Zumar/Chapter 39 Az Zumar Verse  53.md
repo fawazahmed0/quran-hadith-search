@@ -710,6 +710,12 @@ Kazhi: “O, rabi Moi, koito prestŭpvate v ushtŭrb na sebe si, ne gubete nadez
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။	အို-တမန်တော်၊ ငါ၏ ဗျာဒိတော်ကို ၎င်းတို့အား သင်ဤသို့ဟောကြားလော့၊ ဟယ်-မိမိကိုယ်ကို မိမိရက်စက်စွာ နှိပ်စက်သောငါ၏ ကျေးကျွန်အပေါင်းတို့၊ သင်တို့သည် အပြစ်လွှတ်တော်မူသောအလ္လာဟ်အရှင်မြတ်၏ ကောင်း ကြီးမင်္ဂလာတော်ကို မျှော်လင့်ကိုးစားခြင်းစိတ်ကို မလျှော့ကြနှင့်၊ မှတ်သားကြလော့၊ အရှင်မြတ်သည် အဖန် တလဲလဲအပြစ်လွှတ်တော်မူသောအရှင်၊ အနန္တကောင်းကြီးမင်္ဂလာတော်သခင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည်(ငါအရှင်မြတ်၏ကိုယ်စား) ပြောကြားပါလေ။ အို-မိမိတို့ အပေါ်၌ အလွန်အမင်း လွန်ကျူးခဲ့ကြကုန်သော ငါအရှင်မြတ်၏ ကျွန်အပေါင်းတို့၊ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ ကရုဏာတော်မှ မျှော်လင့်ချက် မကင်းမဲ့ကြကုန်လင့်။ ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် ပြစ်မှုအလုံးစုံတို့ကို ခွင့်လွှတ်ချမ်းသာ ပေးသနားတော်မူပေမည်။ စင်စစ်ဧကန် ထိုအရှင်မြတ်သည်ပင် အလွန်တရာ ခွင့်လွှတ်ချမ်းသာ ပေးသနားတော်မူသောအရှင် အလွန်တရာ သနားကြင်နာ ညှာတာတော်မူသောအရှင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

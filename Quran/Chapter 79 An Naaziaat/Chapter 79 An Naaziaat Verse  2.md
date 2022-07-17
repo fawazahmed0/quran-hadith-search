@@ -710,6 +710,12 @@ i v izvazhdashtite [gi] nezhno
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။ ကြယ်ပျံများအားဖြင့်လည်းကောင်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အထုံးအဖွဲ့ကို ဖြေပေးကြသော(ဝါ)မုအ်မင်န် သက်ဝင်ယုံကြည်သူတို့၏ အသက်ဇီဝိန်များကို လွယ်ကူ (ညင်သာ)စွာ နုတ်ယူကြသော (ကောင်းကင်တမန်)တို့အား သက်သေထူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ tam vyarvashtite byakha izpitani i raztŭrseni ot silno sŭtresenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	ယုံကြည်သူတို့သည် ထိုစစ်မြေပြင်၌ အလ္လာဟ်အရှင်မြတ်၏ကြီးမားသောစုံစမ်းခြင်းကို ခံကြရ၏၊ ပြင်းပြစွာ ကြောက်ရွံ့တုန်လှုပ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုရောအခါဝယ် မုအ်မင်န် သက်ဝင်ယုံကြည်သူတို့မှာ စမ်းသပ်ခြင်းခံခဲ့ကြရသည့်ပြင်၊ ပြင်းထန်စွာ တုန်လှုပ်ချောက်ချားစေခြင်းကိုလည်း ခံခဲ့ကြရကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

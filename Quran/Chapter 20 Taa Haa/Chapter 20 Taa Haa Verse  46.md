@@ -710,6 +710,12 @@ Kaza: “Ne se strakhuvaĭte! Az sŭm s vas. Chuvam i vizhdam
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။	အရှင်မြတ်က သင်တို့မကြောက်ရွံ့ကြလင့်၊ မှတ်သားကြလော့၊ ငါသည် သင်တို့ညီအစ်ကိုနှစ်ယောက်နှင့်အတူ တကွရှိတော်မူ၏၊ ကြားတော်မူ၏၊ မြင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) အရှင်မြတ်က (ဤသို့)မိန့် ကြားတော်မူခဲ့၏။ အသင်တို့နှစ်ဦးသည် မစိုးရိမ်ကြလင့်။ ဧကန်မလွဲငါအရှင်မြတ်သည် အသင်တို့နှစ်ဦးနှင့်အတူ ရှိတော်မူ၏။ငါအရှင်မြတ်သည် (အလုံးစုံတို့ ကို) ကြားတော်မူ၏။ ၎င်းပြင်ငါအရှင်မြတ်သည် (ဖြစ်ပျက်သမျှတို့ကိုလည်း) မြင်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

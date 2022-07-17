@@ -710,6 +710,12 @@ Posle ti otredikhme [o, Mukhammad] da si na praviya pŭt v povelyata. Sledvaĭ 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	အို-တမန်တော်၊ ငါသည် သင့်ကို ငါ၏ပညတ်တရားလမ်းပေါ်၌ ထားတော်မူပြီ၊ ထို့ကြောင့်သင်သည် ထိုလမ်း တော်ကြီးကို လိုက်လော့၊ မိစ္ဆာဒိဋ္ဌိတို့၏ အလိုဆန္ဒသို့ မလိုက်လင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် (အို-နဗီတမန်တော်) ထိုအရှင်မြတ်သည် အသင့်အား သာသနာ့အရေးနှင့်စပ်လျဉ်း၍ အထူးလမ်းစဉ်တစ်ရပ်ပေါ်၌ ရပ်တည်စေတော်မူခဲ့၏။ သို့ဖြစ်ပေရာ အသင်သည် ထိုလမ်းစဉ်ကိုသာ လိုက်ပါလေ။ အသင်သည် အသိပညာကင်းမဲ့သောသူတို့၏ အလိုဆန္ဒများကို မလိုက်ပါလေနှင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

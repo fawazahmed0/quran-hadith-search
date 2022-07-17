@@ -710,6 +710,12 @@ Shte kazhem samo, che te e porazilo sŭs zlo nyakoe ot nashite bozhestva.” Rec
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၄။	ငါတို့ဘုရားတဆူဆူက သင့်ကို မကောင်းသောနည်းဖြင့် ဖမ်းထားသည်ဟု ဆိုခြင်းမှတပါး အခြားတစုံတခု မဆိုကြချေဟု ပြန်ပြောကြ၏။ ထိုအခါတမန်တော်ဟုဒ်က အရှင်မြတ်နှင့် ဘုရားတုများကို တွဲဖက်ခြင်းတည်း ဟူသော သင်တို့၏ ပြစ်မှုမှ ငါသည် ကင်းလွတ်ကြောင်းကို အရှင်မြတ်အား ငါသက်သေထူ၏။ သင်တို့လည်း သက်သေခံကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကျွန်ုပ်တို့သည် ကျွန်ုပ်တို့၏ ကိုးကွယ်ရာဘုရားများအနက် ဘုရားတစ်ဆူဆူက အသင့်အား အမှောင့်ပယောဂဖြင့် ဖမ်းစားခဲ့သည်ဟူ၍သာပြောဆိုလိုကြပေသည်။ (ထိုအခါ)ထိုနဗီတမန်တော်ဟူဒ်က (ဤသို့)ပြန်ကြားခံလေသည်မှာ(ဟယ်=အချင်းတို့) အသင်တို့ အလ္လာဟ်အရှင်မြတ်အပြင် တွဲဖက်ကိုးကွယ် လျက်ရှိကြသောအရာများနှင့် ငါသည် လုံးဝလွတ်ကင်းသူတစ်ဦးဖြစ်ကြောင်း အလ္လာဟ်အရှင်မြတ်အား သက်သေထား(၍အတည့်အလင်းကြေညာ)သည်။ အသင်တို့သည်လည်း သက်သေခံကြကုန်လော့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

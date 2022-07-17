@@ -710,6 +710,12 @@ I ako dadem na choveka da vkusi milost ot Nas, a posle mu ya otnemem, toĭ e ot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။ အကယ်၍ငါအရှင်မြတ်သည် လူသားအား ငါ့ထံမှ ကျေးဇူးတော်အချို့ကို မြည်းစမ်းစေတော်မူ၏။ ထို့နောက် ကျေးဇူးတော်ကို ရုပ်သိမ်းတော်မူလျှင် သူသည် အမှန်စိတ်ပျက်၍ ကျေးဇူးကန်း၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အကယ်၍ ငါအရှင်မြတ်သည် မနုဿလူသားများကို မိမိအထံတော်မှ ကရုဏာ တော်၏ရသကို မြည်းစမ်းစေတော်မူပြီးနောက် ငါအရှင်မြတ်သည် ယင်းမနုဿလူသားထံမှ ထိုကရုဏာတော်ကို ရုပ်သိမ်းတော်မူခဲ့ပါလျှင်၊ ဧကန်မလွဲ ထိုမနုဿလူသားသည် မျှော်လင့်ချက်ကင်းမဲ့သူများ၊ လွန်စွာကျေးဇူးတော်ကိုမသိတတ်သူများ ဖြစ်သွားတတ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

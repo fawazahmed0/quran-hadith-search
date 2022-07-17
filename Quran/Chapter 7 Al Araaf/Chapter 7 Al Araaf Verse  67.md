@@ -710,6 +710,12 @@ Kaza: “O, narode moĭ, ne sŭm v zabluda, a sŭm pratenik ot Gospoda na sveto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၇။	သူသည် ဟောကြား၏။ ဟယ်-အချင်းတို့ အကျွနု်ပ်မိုက်မှုမှုမရှိပေ။ သို့သော် အကျွနု်ပ်သည် စကြာဝဠယအားလုံး၏ အသျှင်သခင်၏ အထံတော်မှ တမန်တော်တစ်ပါးဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ယင်း(နဗီတမန်တော် ဟူဒ်)က ‘အိုငါ၏အမျိုးသားတို့၊ ငါ၏အသိဉာဏ်နည်းပါးမှုသည် လုံးဝမရှိ။အမှန်စင်စစ်သော်ကား ငါသည် စကြာဝဠာခပ်သိမ်းတို့ကို ပြုစုပျိုးထောင်တော်မူသော အရှင်မြတ်အထံတော်မှ စေလွှတ်တော်မူခြင်းခံရသော ရစူလ်တမန်တော်ပင် ဖြစ်ချေသည် ဟုဖြေကြားခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

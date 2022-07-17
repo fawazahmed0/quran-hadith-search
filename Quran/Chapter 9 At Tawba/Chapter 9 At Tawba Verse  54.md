@@ -710,6 +710,12 @@ Prechi da bŭdat prieti ot tyakh podayaniyata samo tova, che ne vyarvat v Allakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၄။	သူတို့သည် အလ္လာဟ်အရှင်မြတ်နှင့် အရှင်မြတ်၏ တမန်တော်ကို မယုံကြည်ခြင်းမှတပါး အခြားအကြောင်း တစ်စုံတစ်ခုမှ သူတို့၏ အလှုကို လက်မခံစေသည်မဟုတ်ပေ။သူတို့သည် ပျင်းရိသူများကဲ့သို့မှတပါး အခြားသူ များကဲ့သို့ သူတို့ဆွလတ်ဝတ်ပြုရန် မလာကြပေ။သူတို့သည် အလှုကိုလည်း မပေးချင်ပေးချင်၊ ပေးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ယင်း(မုနာဖစ်က်)တို့ထံမှ ၎င်းတို့၏ အလှုပစ္စည်းများကို သဘောတူလက်ခံတော် မူခြင်းမှအလ္လာဟ်အရှင်မြတ်နှင့် ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော်အား ၎င်းတို့၏သွေဖည်ခြင်းမှအပါး အခြားမည်သည့်အရာကမျှ မြစ်တားခဲ့သည်မဟုတ်ပေ။ ထို့ပြင် 4င်းတို့သည် ပျင်းရိစွာမှအပ ဆွလာတ်ဝတ်ပြုကြသည်လည်း မရှိချေ။ ထိုနည်းတူစွာ၎င်းတို့သည် မနှစ်မြို့သော သူများအဖြစ်မှတစ်ပါး လှူဒါန်းသုံးစွဲကြသည်လည်း မရှိပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

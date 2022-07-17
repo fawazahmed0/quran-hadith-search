@@ -710,6 +710,12 @@ zryala mŭdrost [- Koranŭt] - ala bezpolezni sa za tyakh predupreditelite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	ထိုသတင်းစကားသည် နက်နဲသောပညာအလင်းရောင်ဖြစ်၏၊ သို့သော်သတိပေးဆုံးမစကားများသည် သူတို့ အပေါ်တွင် အချည်းနှီးဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤကုရ်အာန် ကျမ်းတော်မြတ်သည်) ပြည့်စုံသော နက်နဲသိမ်မွေ့သည့် ဉာဏ်ပညာပင် ဖြစ်ချေသည်။ သို့တစေလည်း (ယင်းသို့သောသူများအား) သတိပေးနှိုးဆော်သော အကြောင်းအရာများသည် အကျိုးရှိစေမည် မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

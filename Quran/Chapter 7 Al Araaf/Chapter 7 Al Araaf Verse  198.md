@@ -710,6 +710,12 @@ I ako gi zovesh kŭm praviya pŭt, ne chuvat. I gi vizhdash da te gledat, ala ne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉၈။	အကယ်၍ ယုံကြည်သူသင်တို့သည် သူတို့အား တရားအလင်းရောင်သို့ ခေါ်ငင်သော်၊ သူတို့မကြား ပေ။ အို-မိုဟမ္မဒ် သင်က သူတို့သည် သင့်ဘက်သို့ ကြည့်နေသည်ကိုမြင်ရ၏။ သို့သော် သူတို့သည် မမြင်ကြပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်တို့သည် အကယ်၍ ၎င်းတို့အား တရားလမ်းမှန်သို့ ဖိတ်ခေါ်ကြလျှင်လည်း ၎င်းတို ့သည်(အသင်တို့ဖိတ်ခေါ်သည်ကိုပင်) ကြားနိုင်ကြမည် မဟုတ်ချေ။ထို့ပြင် (အို-နဗီတမန်တော်) အသင်သည် ယင်းမမှန်သော(ကိုးကွယ်ရာ)များအား မိမိဘက်သို့ကြည့်နေဘိသကဲ့သို့ တွေ့မြင်နေရသော်လည်း စင်စစ်မူကား ၎င်းတို့သည် (အလျင်း)ကြည့်မြင်နိုင်ကြသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

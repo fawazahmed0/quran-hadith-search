@@ -710,6 +710,12 @@ Posle izpratikhme podir tyakh Musa i Kharun s Nashite znameniya pri Faraona i zn
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၅။	၎င်းအပြင်ထိုတမန်တော်များနောက် တမန်တော်မူစာနှင့် တမန်တော်ဟာရွန်ကို ငါ၏ နှုတ်ကပတ်တော်များနှင့် တကွ ဖွာရောမင်းနှင့် သူ၏ မှုးမတ်များထံသို့ စေလွှတ်တော်မူ၏။ သူတို့သည် ဆောင့်ကြွားကြွားမာနကြီး၍ အပြစ်ကျူးလွန်သူတို့ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ငါအရှင်မြတ်သည် ထိုရစူလ် တမန်တော်များ မရှိသည့်နောက်တွင် (နဗီတမန်တော်) မူစာ အားလည်းကောင်း၊ (နဗီတမန်တော်)ဟာရွန် အားလည်းကောင်း၊ငါအင်မြတ်၏ သက်သေ လက္ခဏာတော်များနှင့်တကွ ဖစ်ရ်အောင်န်နှင့် ၎င်း ၏အကြီးအကဲများထံသို့ စေလွှတ်တော်မူခဲ့လေသည်။ သို့သော် ၎င်း တို့သည် မောက်မာပလွှားခဲ့ကြလေသည်။ စင်စစ်သော်ကား ၎င်း တို့သည် ပြစ်မှုကျူးလွန်လေ့ရှိသော အမျိုးသားများ ဖြစ်ခဲ့ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

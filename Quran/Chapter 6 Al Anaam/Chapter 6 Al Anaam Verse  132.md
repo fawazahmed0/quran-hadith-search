@@ -710,6 +710,12 @@ Za vsichki ima stepeni ot onova, koeto sa izvŭrshili. Tvoyat Gospod ne podminav
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၂။	အားလုံးတို့အတွက် ၎င်းတို့ပြုကျင့်ခဲ့သော အမှုအခင်းများအလျောက် အဆင့်အတန်းများ ရှိလိမ့် မည်။ သင်၏ကျေးဇူးတော်သခင်သည် သူတို့ကျင့်ကြံကြသည်တို့ကို သိမြင်တော်မမူ မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်မူကား (ဂျင်န် နှင့် လူသတ္တဝါ) အသီးသီးတို့၌၊ ၎င်းတို့၏ အပြုအမူများနှင့် လျော်ညီ စွာ အဆင့်အတန်းများသည် ရှိကြ၏။ အမှန်သော်ကား အသင့်အား မွေးမြူတော်မူသောအရှင်မြတ်သည် ၎င်းတို့၏အပြုအမူတို့ကို သတိမမူလျစ်လျူရှု တော်မူသောအရှင် မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

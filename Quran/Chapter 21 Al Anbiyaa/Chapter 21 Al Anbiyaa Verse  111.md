@@ -710,6 +710,12 @@ I ne znam dali tova ne e izpitanie za vas i naslazhdenie do vreme.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၁။	ထို့အပြင်အကျွနု်ပ်မသိချေ၊ သို့သော်ထိုအခြင်းအရာသည် သင်တို့အား စုံစမ်းခြင်းနှင့် ခေတ္တခဏပျော်ရွှင်စရာ ဖြစ်ကောင်းဖြစ်လတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ယင်းချိန်းချက်မှု (ကိုဆောလျင်စွာပြုတော်မမူဘဲ ဆိုင်းငံ့၍ထားတော်မူခြင်း)သည် အသင်တို့အားစမ်းသပ်ခြင်းဖြစ်တန်ရာသည်။ သတ်မှတ်ထားသော အချိန်ကာလတိုင်အောင် အကျိုးကျေးဇူး ခံစားခွင့်ပေးထားခြင်းလည်း ဖြစ်တန်ရာသည်။ ငါသည် အတိအကျမသိပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

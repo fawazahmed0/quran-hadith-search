@@ -710,6 +710,12 @@ Tya nishto ne ostavya i ne poshtadyava
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။ ထိုမီးသည် ချန်မထား၊ ချမ်းသာမပေး။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်း"စကရ်" ငရဲသည် (မည်သည့် ကာဖိရ် တစ်ဦးတစ်ယောက်ကိုမျှ လောင်ကျွမ်း စေခြင်းမပြုဘဲ)ကျွင်းကျန်စေမည်လည်း မဟုတ်ပေ၊ (မည် သည့် ကာဖိရ် တစ်ဦးတစ်ယောက်ကိုမျှပင် မိမိအတွင်းသို့ သိမ်းသွင်းခြင်း မပြုဘဲ) စွန့်လွှတ်၍ထားရှိမည်လည်း မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

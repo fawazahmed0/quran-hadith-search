@@ -710,6 +710,12 @@ Zovete Allakh, predani Nemu v religiyata, dori nevernitsite da vŭznenavizhdat t
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	သို့ဖြစ်၍ သင်တို့သည် ဘာသာတရားကို အလ္လာဟ်အရှင်မြတ်အဖို့ သန့်ရှင်းစွာထားလျက် အရှင်မြတ်၌ ဆုပန် ကြကုန်လော့၊ ဤအယူဝါဒကို အယူမှားသူတို့သည် မည်မျှပင်မနှစ်သက်စေကာမူ သင်တို့သည် ယင်းသို့ပြုမူ ကြကုန်လော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ "ကာဖိရ်" သွေဖည်ငြင်းပယ်သောသူတို့သည် မနှစ်မြို့ကြငြားသော်လည်း အသင်တို့သည် ဆည်းကပ်ကိုးကွယ်မှုကို အလ္လာဟ်အရှင်မြတ်အတွက် သန့်သန့်ပြုကြလျက် ထိုအရှင်မြတ်အားသာလျှင် တသကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

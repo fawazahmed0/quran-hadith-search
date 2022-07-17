@@ -710,6 +710,12 @@ Taka e zaradi onova, koeto rŭtsete vi napravikha otnapred. Allakh nikoga ne ugn
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁။	ယင်းအပြစ်ဒဏ်တော်သည် သင်တို့ တင်ကြိုပို့နှင့်ထားသော ပြုကျင့်မှုများကြောင့်ဖြစ်၏။ အလ္လာဟ် အသျှင်မြတ်သည် မိမိ၏ကျေးတော်မျိုး၊ ကျွန်တော်မျိုးတို့အတွက် နှိပ်စက်တတ်သူဖြစ်တော်မမူပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤ(ပြစ်ဒဏ်)သည် အသင်တို့၏ လက်များကတင်ကြို၍ ပို့ထားနှင့်ပြီးဖြစ်သော (အကုသိုလ်ဒုစရိုက်များ)ကြောင့်ပင်ဖြစ်ချေသည်။ အမှန်စင်စစ်မူကား အလ္လာဟ်အရှင်မြတ်သည်(မိမိ)၏ကျွန်များအား နှိပ်စက်ညှဉ်းပန်းတော်မူသောအရှင်အလျင်းမဟုတ်ပေ၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

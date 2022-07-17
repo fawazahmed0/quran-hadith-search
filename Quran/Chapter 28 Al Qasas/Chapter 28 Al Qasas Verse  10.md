@@ -710,6 +710,12 @@ I opustya sŭrtseto na maĭkata na Musa. Tya za malko da go izdade, ako ne byak
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	ထိုအခါမူစာ၏မိခင်သည် စိတ်နှလုံးဟာလာဟင်းလင်းဖြစ်လျက် ပူဆွေးနေလေ၏၊ အကယ်၍ငါသည် သူမကို အားပေးတော်မမူလျှင် သူမသည် မိမိမိသားစုကို သစ္စာဖောက်ချေမည်၊ ထိုမိန်းမသည် ယုံကြည်သူတို့ဘောင်တွင် အပါအဝင်ဖြစ်စိမ့်သောငှာ သူမ၏ စိတ်နှလုံးကို ငါသည် ခိုင်မာစေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး မူစာ၏မိခင်စိတ်နှလုံးမှာ (လွန်စွာ)ဟာသွားခဲ့လေရာ (တုန်လှုပ်ချောက်ချား ထိတ်ထိတ် ပျာပျာဖြစ်သွားခဲ့ရာ) အကယ်၍သာ ငါအရှင်မြတ်သည် ၎င်းအား ယုံကြည်သူတို့တွင် အပါအဝင် ဖြစ်စေအံ့သောငှာ ၎င်း၏စိတ်နှလုံးကို ခိုင်မြဲစေတော်မမူခဲ့ပါလျှင် ဧကန်စင်စစ် ၎င်းသည် ထိုမူစာ၏အကြောင်းကို ထုတ်ဖော် (ပြောဆို)အံ့ဆဲဆဲပင် ဖြစ်သွားခဲ့ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

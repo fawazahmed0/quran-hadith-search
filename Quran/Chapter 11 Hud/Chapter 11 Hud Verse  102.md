@@ -710,6 +710,12 @@ Taka sgrabchva tvoyat Gospod, shtom sgrabchi selishtata, kogato ugnetyavat. Toi�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၂။	ထိုမြို့ရွာများသည် ဒုစရိုက်မကောင်းမှုကို ကျူးလွန်နေစဉ် သင်တို့၏ အရှင်သခင်သည် သူတို့ကို ယခင်ကဲ့သို့ ဖမ်းဆီးကွပ်မျက်တော်မူ၏။ မှတ်သားကြလော့။ အရှင်မြတ်၏ ဖမ်းဆီးခြင်းသည် အလွန်ပြင်းပြနာကျယ်ဖွယ် ဖြစ်၏။ ခိုင်မာပြင်းထန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် မြို့(သူ)(ရွာ)သားတို့အား၎င်းတို့သည် နှိပ်စက်ကလူပြုလျက်ရှိနေကြစဉ် ဖမ်းဆီးအရေးယူတော်မူသောအခါ ဤနည်းအတိုင်းပင် ဖမ်းဆီးအရေးယူတော်မူလေ့ရှိ၏။ ဧကန်အမှန် ထိုအရှင်မြတ်၏ ဖမ်းဆီးအပြစ်ပေးမှုကား အလွန်ပြင်းပြနာကျင်ဖွယ် ဖြစ်လှပေသည်။ အလွန်ပြင်းထန် လှပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

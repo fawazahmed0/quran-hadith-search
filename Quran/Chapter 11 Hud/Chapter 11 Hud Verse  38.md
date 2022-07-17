@@ -710,6 +710,12 @@ I praveshe toĭ Kovchega, i vsyakoga, shtom kraĭ nego minavakha znatni ot neg
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	တမန်တော်သည် သင်္ဘောကြီးကို ဆောက်လုပ်နေ၏။ သူ၏ အမျိုးသားထဲမှ အကြီးအမှုးတို့သည် သူ့ကို ဖြတ်သွားသောအခါ ပြောင်လှောင်ကြ၏။ ထိုအခါသူက သင်တို့သည် ငါ့ကို သရော်ကြငြားလည်း ငါတို့သည် သင်တို့သရော်စော်ကားပြုသလို သင်တို့ကို ပျက်ရယ်ပြုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ထို(နဗီတမန်တော်နူဟ်)သည်သင်္ဘောကို ပြုလုပ်တည်ဆောက်လေ၏။ ၎င်းပြင်၊ ထို(နဗီတမန်တော်နူဟ်)၏ အမျိုးသားတို့အနက်မှ လူတစ်စုသည် ထို(နဗီတမန်တော်နူဟ်)ထံ ဖြတ်သန်းသွားလာကြတိုင်း ထို(နဗီတမန်တော်နူဟ်)အား ပြက်ရယ်ပြုလေ့ရှိကြကုန်၏။ ထိုအခါ(နဗီတမန်တော် နူဟ်)ကအကယ်၍ သင်တို့သည် ငါတို့အားပြက်ရယ် ပြုကြပါလျှင် ကျွန်ုပ်တို့သည်လည်း အသင်တို့အားအသင်တို့ ပြက်ရယ်ပြုကြသကဲ့သို့ပင် ပြက်ရယ်ပြု ကြပေမည်ဖြစ်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

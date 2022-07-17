@@ -710,6 +710,12 @@ I ako Pratenika storekhme angel, shtyakhme da go storim kato chovek i pak da im 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	အကယ်၍ ငါအသျှင်မြတ်သည် ကောင်းကင်တမန်တော်တစ်ပါးကို လူသားအပေါင်းတို့ထံ တမန်တော်အဖြစ်ဖြင့် စေလွှတ်တော်မူခဲ့လျှင် ထိုတမန်တော် လူသားတို့အား ဟောကြားနိုင်ရန် သူ့ကို လူသားကဲ့သို့ အမှန်ပင် ငါစီရင်တော်မူခဲ့ပေမည်။ ယင်းအခါ သူတို့ကို ယခုမထင်မရှား လုပ်ထားသော တရားတော်သည် ပိုမိုရှုပ်ထွေးသွားပေမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အကယ်၍သာ ငါအရှင်မြတ်သည်၎င်း(ရစူလ်တမန်တော်)အား ကောင်းကင်တမန် တစ်ပါးပြုလုပ်တော်မူခဲ့ပါလျှင် မုချဧကန် ငါအရှင်မြတ်သည် ထိုကောင်းကင်တမန်ကိုလည်း (ရုပ်ဆင်းသဏ္ဍာန်အားဖြင့်လူ)ယောက်ျားသာလျှင် ပြုလုပ်တော်မူမည်ဖြစ်သည်။ ၎င်းပြင်ငါအရှင်မြတ်သည် ထိုသူတို့အား (ယခု) ထိုသူများ ယုံမှားသံသယ ဖြစ်သကဲ့သို့ပင် (ထပ်မံ၍) မုချ ယုံမှားသံသယ ဖြစ်စေတော်မူမည် ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

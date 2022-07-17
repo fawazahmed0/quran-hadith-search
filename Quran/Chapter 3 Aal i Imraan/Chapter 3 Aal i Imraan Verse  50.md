@@ -710,6 +710,12 @@ Potvrđujući tako istinitost Tevrata, objavljenog prije mene, i dopuštajući n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅ဝ။	တဖန် ငါမလာမီ ကျရောက်လာသော တောင်ရတ်ကျမ်းတော်ကို ထောက်ခံအတဘ်ပြုရန် ငါလာ၏။ သင်တို့အား တရားမဝင်ဟု တားမြစ်ထားသောအချက်တစ်ချို့တို့ကို တရားဝင်ပြုရန် ငါလာ၏။ ငါသည် သင်တို့၏ အသျှင်သခင်အထံတော်မှ နိမိတ်လက္ခဏာတော်တစ်ပါးကို ယူဆောင်လာ၏။ သင်တို့သည် အလ္လာဟ်အသျှင်မြတ်အား ဝတ်ကြေလော့။ ငါ၏ သြဝါဒကို နာခံကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် (အို-အချင်းတို့) အကျွန်ုပ်သည် မိမိအလျင်ရှိနှင့်ပြီးဖြစ်သော တော်ရာတ်ကျမ်းကို ထောက်ခံအတည်ပြုသူအဖြစ်လည်းကောင်း၊ အသင်တို့အဖို့အရာ[နဗီတမန်တော်မူစာ(အလိုင် ဟစ္စလာမ်၏ ပဋိပတ်ကျင့်စဉ်၌]ဟရာမ် ဟူ၍ မြစ်တားထားသော အရာများအနက်မှ အချို့ကိုဟလာလ် ဟူ၍ ခွင့်ပြုအံ့သောငှာလည်းကောင်း (ပွင့်ခဲ့သည်၊)ထို့ပြင် အကျွန်ုပ်သည် အသင်တို့ထံသို့ အသင်တို့၏ အရှင်မြတ်အထံတော်မှပင် (လုံလောက် စွာသော) သက်သေလက္ခဏာ တန်ခိုးပြာဋိဟာကိုလည်း ဆောင်ယူခဲ့သည်။သို့ဖြစ်ပေရာ အသင်တို့သည် အလ္လာဟ် အရှင်မြတ်အားကြောက်ရွံ့ကြကုန်၊ ၎င်းပြင် အကျွန်ုပ် ဟောပြောသောဓမ္မဒေသနာများကိုလည်း(တသဝေမတိမ်း) လိုက်နာဆောင်ရွက်ကြကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

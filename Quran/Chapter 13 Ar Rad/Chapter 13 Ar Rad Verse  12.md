@@ -710,6 +710,12 @@ Toĭ e, Koĭto vi pokazva mŭlniyata za strakh i nadezhda, i sŭtvoryava natez
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အား လျှပ်စစ်နွယ်ကို ပြတော်မူ၏။ ထိုလျှပ်စစ်နွယ်တို့သည် ထိတ်လန့်ဖွယ်ရာ လည်းဖြစ်၏။ ဝမ်းသာဖွယ်ရာလည်းဖြစ်၏။ အရှင်မြတ်သည် လေးလံသောတိမ်ပုပ်တိမ်ခဲများကို ဖန်ဆင်းတော် မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည်ပင်လျှင် အသင်တို့အား လျှပ်စစ်ပြက်ခြင်းကို ကြောက်မက်ဖွယ်ရာအဖြစ် လည်းကောင်း၊မျှော်လင့်ဖွယ်ရာအဖြစ်လည်းကောင်း ပြတော်မူသောအရှင်ဖြစ်တော်မူသည်။ ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည်ပင်လျှင် လေးလံစွာသောမိုးတိမ်များကို ဖန်ဆင်း (မြှင့်)မြှောက်တော်မူသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

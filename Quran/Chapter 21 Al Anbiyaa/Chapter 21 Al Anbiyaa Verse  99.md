@@ -710,6 +710,12 @@ Ako tezi byakha bogove, te nyamashe da vlyazat v nego. Vsichki tam shte prebivav
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၉။	အကယ်၍သင်တို့၏ဘုရားပျက်များသည် ဘုရားများဖြစ်ခဲ့လျှင် သူတို့သည် ငရဲမီးသို့ လာမည်မဟုတ်ချေ၊ သို့သော်သူတို့အားလုံးသည် ငရဲမီးထဲတွင် နေထိုင်ကြရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍သာ ဤသည်တို့သည် ကိုးကွယ်ရာများဖြစ်ကြပါလျှင် ယင်းဂျဟန္နမ် ငရဲဘုံတွင်းသို့ ဆိုက်ရောက်ကြမည်မဟုတ်ပေ။ သို့ရာတွင် (ယခုသော်ကား)၄င်းတို့အားလုံးပင် ယင်းဂျဟန္နမ်ငရဲဘုံ၌ အမြဲထာဝရ နေထိုင်ကြရမည့်သူများဖြစ်ကြချေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

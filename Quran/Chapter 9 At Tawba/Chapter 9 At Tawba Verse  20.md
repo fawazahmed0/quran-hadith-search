@@ -710,6 +710,12 @@ Koito vyarvat i se preselyat, i se boryat po pŭtya na Allakh chrez svoite imoti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	အကြင်သူတို့သည် ယုံကြည်ကြ၏။မိမိတို့အိုးအိမ်များကို စွန့်ပစ်ထွက်ပြေး၍ အလ္လာဟ်အရှင်မြတ်၏ လမ်းတော်၌ အသက်စည်းစိမ်ဥစ္စာအားဖြင့် ကြိုးပမ်းကြ၏။ထိုသူတို့သည် အလ္လာဟ်အရှင်မြတ်၏ မျက်မှောက်တော်၌ သာလွန်မြင့်မြတ်အဘိုးတန်ကြ၏။ဤလူများသည် အောင်မြင်သူတို့ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတို့သည် ‘အီမာန်’ သက်ဝင်ယုံကြည်ခဲ့ကြကုန်၏။ ၎င်းပြင် ထိုသူတို့သည်(မိမိတို့၏ဥစ္စာပစ္စည်း အိုးအိမ်စည်းစိမ်တို့ကို စွန့်လွှတ်ကာတစ်ရပ်တစ်ကျေးသို့) ရွှေ့ပြောင်း သွားရောက် နေထိုင်ခဲ့ကြကုန်၏။ ထိုမှတစ်ပါး ယင်းတို့သည် အလ္လာဟ်အရှင်မြတ်၏လမ်းတော်၌ မိမိတို့၏ ဥစ္စာပစ္စည်းများဖြင့်လည်းကောင်း၊ မိမိတို့၏ အသက်ဇီဝိန်များဖြင့် လည်းကောင်း၊ စစ်မက်ပြိုင်ဆိုင် တိုက်ခိုက်ခဲ့ကြကုန်၏။ ထိုသူတို့သည်အလ္လာဟ်ရှင်မြတ်အထံတော်၌ အဆင့်အတန်းအားဖြင့် အလွန်မြင့်မြတ်လှသည့်ပြင် ထိုသူတို့သည်သာလျှင် ‘အောင်မြင်မှု’ ကိုရရှိသူများ ဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

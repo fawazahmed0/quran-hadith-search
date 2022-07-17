@@ -710,6 +710,12 @@ I dadokhme v tozi Koran vsyakakvi primeri na khorata, za da se pouchat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	စင်စစ်အားဖြင့် ငါအရှင်မြတ်သည် လူသားတို့အဖို့အရာ ဤကျမ်းမြတ်ကုရ်အာန်တွင် ဥပမာဥပမေယျနည်း အမျိုးမျိုးကို ဆောင်တော်မူ၏၊ သူတို့စဉ်းစားဆင်ခြင်တွေးတောဖို့အလို့ငှာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ဧကန်မလွဲ ငါအရှင်မြတ်သည် ဤကုရ်အာန်ကျမ်းတော်မြတ်တွင် လူတို့အဖို့ ၎င်းတို့ တရားရကြအံ့သောငှာ အလုံးစုံသော ဥပမာပုံဆောင် ချက်များကို ခိုင်းနှိုင်း မိန့်ကြားတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

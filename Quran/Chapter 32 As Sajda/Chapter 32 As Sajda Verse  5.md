@@ -710,6 +710,12 @@ Toĭ upravlyava delata ot nebeto do zemyata, posle te se vŭzdigat kŭm Nego v 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	အလ္လာဟ်အရှင်မြတ်သည် အထေက်အကောင်းကင်ဘုံမှ မြေပြင်သို့ အခွင့်ကိစ္စဟူသမျှတို့ကို စီစဉ်ပေးတော်မူ၏၊ ထို့နောက်တဖန်ထိုအခွင့်ကိစ္စများသည် အရှင်မြတ်အထံတော်သို့ နေ့ခြင်းပင် ပြန်တက်ကြရ၏၊ ထိုနေ့တစ်နေ့သည် လောကီနှစ်ပေါင်းတစ်ထောင်နှင့်ညီမျှ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် မိုးကောင်းကင်မှ ပထဝီမြေအထိ အမှုကိစ္စအရပ်ရပ်တို့ကို စီမံခန့်ခွဲတော်မူ၏။ ထို့နောက်ယင်းအမှုကိစ္စတို့မှာ အသင်တို့ရေတွက်ကြကုန်သော အရေအတွက်ဖြင့် အနှစ်တစ်ထောင်အတိုင်း အတာရှိသော နေ့တစ်နေ့တွင် ထိုအရှင်မြတ် အထံတော်သို့ တက်သွားပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

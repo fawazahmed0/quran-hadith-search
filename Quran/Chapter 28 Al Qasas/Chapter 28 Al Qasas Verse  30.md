@@ -710,6 +710,12 @@ I kogato stigna tam, otkŭm desniya sklon na dolinata, v blagoslovenata mestnost
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	သူသည် မီးရှိသောနေရာသို့ ရောက်သောအခါ ကောင်းကြီးမင်္ဂလာနှင့်ပြည့်စုံသောလယ်ကွင်းရှိ ချိုင့်တစ်ခု၏ လက်ယာဘက်တွင် ပေါက်နေသောသစ်ပင်မှ သူ့အား ခေါ်သံကို ကြားရ၏၊ ထိုအသံက ဤသို့မိန့်တော်မူ၏၊ အို--မူစာ၊ မှတ်သားလော့၊ ငါသည် အနန္တစကြဝဠာများအရှင်၊ အလ္လာဟ်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် မူစာသည် ယင်းမီးရှိရာသို့ ရောက်ရှိလတ်သော် ကျက်သရေမင်္ဂလာနှင့် ပြည့်စုံသောနေရာ၌ လက်ယာဘက်ဖြစ်သော တောင်ကြားအရပ်၏အစွန်းရှိ သစ်ပင်(တစ်ပင်)မှ (ဤသို့) အသံကြားခဲ့ရလေ၏။ ‘အို-မူစာ၊ ဧကန်မလွဲ ငါအရှင်မြတ်သည် စကြာဝဠာခပ်သိမ်းတို့ကို မွေးမြူဖန်ဆင်းတော်မူသော အလ္လာဟ်အရှင်မြတ်ပင် ဖြစ်တော်မူသည်’။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

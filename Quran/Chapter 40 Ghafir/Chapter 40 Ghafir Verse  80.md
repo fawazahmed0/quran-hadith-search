@@ -710,6 +710,12 @@ i za da imate polza ot tyakh, i za da udovletvoryavate zhelaniya v gŭrdite si. 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈ဝ။	ထိုတိရိစ္ဆာန်များ၌ သင်တို့အကျိုးခံစားရန် များစွာရှိသေး၏၊ ထိုတိရိစ္ဆာန်များအားဖြင့် သင်တို့သည် မိမိတို့ အလိုဆန္ဒများကို ဖြည့်စွက်စေရန် ဖြစ်၏၊ သင်တို့သည် ထိုတိရိစ္ဆာန်များအား လှေသင်္ဘောများကို စီးနင်းသွား သကဲ့သို့ အလိုရှိရာ စီးနင်းသွားလာကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အသင်တို့အဖို့ ယင်းတိရစ္ဆာန်များ၌ များစွာသော အကျိုးကျေးဇူးများသည်လည်း ရှိကုန်၏။ ထိုမှတစ်ပါး အသင်တို့သည် ယင်းတိရစ္ဆာန်ပေါ်၌(စီးနင်းလျက်) မိမိတို့၏စိတ်တွင်းဝယ် အလိုရှိရာသို့ ရောက်ရှိနိုင်ကြအံ့သောငှာ (ဖန်ဆင်းတော်မူခဲ့၏။) ထိုမှတစ်ပါး အသင်တို့သည် ယင်းတိရစ္ဆာန်များပေါ်၌လည်းကောင်း၊ သင်္ဘောများပေါ်၌လည်းကောင်း၊ တင်ဆောင်ခြင်းကို ခံကြရကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

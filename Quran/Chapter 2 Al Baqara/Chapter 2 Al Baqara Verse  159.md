@@ -710,6 +710,12 @@ Onezi, koito skrivat nizposlanite ot Nas yasni znameniya i napŭt·stvieto, sled
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၉။	ငါအရှင်မြတ်သည် ရှေးကျမ်းတော်၌ ကုရ်အာန်ကျမ်းတော်အကြောင်းကို ထင်ရှားစွာ ဖော်ပြထား တော်မူပြီးသည့်နောက် အကြင်သူတို့သည် ငါချပေးတော်မူသော သက်သေသာဓကများနှင့် လမ်းညွှန် ပြချက်ကို ထိန်ဝှက်ထား၏။ ထိုသူတို့သည် အလ္လာဟ်အရှင်မြတ် ကျိန်ဆဲတော်မူခြင်းကို ခံကြရ၏။ ကျိန်ဆဲခြင်းအခွင့်အာဏာရရှိသူတို့၏ကျိန်ဆဲခြင်းကိုလည်း ခံရကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် (အတိတ်ခေတ်တွင်) ထင်ရှားသော သက်သေလက္ခဏာတော်များနှင့် တရားဓမ္မကို ထုတ်ပြန်ချမှတ်တော်မူခဲ့၏။ ထို့နောက်တဖန် လူအများသိနား လည်စိမ့်သောငှာ ထိုသက်သေ လက္ခဏာနှင့် တရားဓမ္မများကို ငါအရှင်မြတ်သည် ကျမ်းဂန်၌ ပွင့်လင်းစွာ ဖွင့်ဟမွက်ကြား ထားသော တရားဒေသနာများကိုပင် အချို့လူများသည် ထိမ် ချန်ထားကြ၏။ သို့ဖြစ်ရာ အလ္လာဟ်အရှင်မြတ်သည် ထိုသူများ အား ကရုဏာတော်မှ ကင်းဝေးစေတော်မူသည်။ အခြား ကျိန်ဆဲသူများကလည်း ထိုသူတို့ကို ကျိန်ဆဲကြလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

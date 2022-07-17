@@ -710,6 +710,12 @@ Obitatelite na Raya v tozi Den shte imat naĭ-dobrata obitel i naĭ-khubavoto 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	အကြင်သူတို့သည် ထိုနေ့တော်ကြီး၌ နိဗ္ဗာန်ဥယျာဉ်တော်ကို ရကြအ့ံ၊ ထိုသူတို့သည် သူတို့၏ဘုံဗိမာန်တွင် သာလွန်သာယာ၍ မွန်းလွဲအပန်းဖြေရိပ်သာ၌ ပိုမိုပျော်ပါးကြလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဂျန္နတ်" သုခဘုံသားတို့မှာကား ထိုနေ့တွင် နေရာဌာနအားဖြင့်လည်း၊ အကောင်းဆုံးဖြစ်ကြပေမည်။ နေ့လည်အချိန် အနားယူ အပန်းဖြေသောနေရာ အားဖြင့်လည်း အကောင်းဆုံးပင် ဖြစ်ကြအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

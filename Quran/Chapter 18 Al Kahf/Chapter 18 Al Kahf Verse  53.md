@@ -710,6 +710,12 @@ I shtom prestŭpnitsite vidyat Ogŭnya, shte se ubedyat, che shte popadnat v neg
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။	ထို့အပြင်အပြစ်ရှိသူများသည် ငရဲမီးကို မျက်ဝါးထင်ထင်မြင်ရကြ၏။ ထိုငရဲထဲသို့ ဆင်းရတော့မည်ကို သိကြ၏။ ငရဲမှ လွတ်ရာလမ်းကို မတွေ့နိုင်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အပြစ်ရှိသူတို့သည် (ဂျဟန္နမ်ငရဲ)မီးကို တွေ့မြင်ကြသောအခါ ၎င်းတို့သည် ဧကန်မလွဲ မိမိတို့မှာယင်းမီးထဲသို့ ကျဆင်းအံ့သောသူများပင် ဖြစ်ကြသည်ဟုယုံကြည်ကြပေမည်။ သို့ရာတွင် ၎င်းတို့သည် ယင်းမီး(ဘေးမှ)လွဲရှောင်နိုင်ရန်နေရာတစ်စုံတစ်ခုကိုမျှတွေ့ရှိကြမည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

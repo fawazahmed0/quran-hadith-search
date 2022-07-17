@@ -710,6 +710,12 @@ Vash blizhen e samo Allakh - i Negoviyat Pratenik, i vyarvashtite, koito ot·slu
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။	သင်တို့၏အဆွေခင်ပွန်းသည် အလ္လာဟ်သာဖြစ်၏။ ၄င်းပြင် အသျှင်မြတ်၏တမန်တော်နှင့် ဆွလာသ်ဝတ်ပြုသော၊ ဇကာသ်အလှူပေးသော၊ ဦးညွတ်သော၊ ယုံကြည်သူများလည်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ် အသင်တို့၏ ကလျာဏမိတ်သဟာယ အဆွေခင်ပွန်းကား အလ္လာဟ်အရှင်မြတ်သာလျှင်လည်းကောင်း၊ ထိုအရှင်မြတ်၏ ရစူလ် တမန်တော်မြတ်သာလျှင်လည်းကောင်း၊ အကြင် ‘မုအ်မင်န်’ သက်ဝင်ယုံကြည်သောသူတို့သာလျှင်လည်းကောင်း ဖြစ်ကြကုန်၏။ ထို (‘မုအ်မင်န်’ သက်ဝင်ယုံကြည်သော) သူတို့သည် ကျိုးနွံသူများအဖြစ်နှင့် ဆွလာသ်ဝတ်ပြုကြ၏။ ‘ဇကာတ်’ တရားဝင်ဒါနကြေးကိုလည်း ပေးဆောင်ကြ၏။ ထိုသူများသည် ကျိုးနွံသူများဖြစ်ကြ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ na tezi myastoto im e Ogŭnyat zaradi onova, koeto sa pridobili
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	ထိုသူတို့၏ နေအိမ်သည် မိမိတို့၏ အကျိုးဆက်ကြောင့် ငရဲမီးဖြစ်လိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူများပင် ၎င်း တို့သည်(ပြစ်မှုဒုစရိုက်များကို)ရှာဖွေဆည်းပူးလျက် ရှိခဲ့ကြသောကြောင့် ၎င်း တို့၏ ခိုကိုးရာဌာနသည် ဂျဟန္နမ်ငရဲဘုံပင် ဖြစ်လတ္တံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

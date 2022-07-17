@@ -710,6 +710,12 @@ Tova e napŭt·stvieto na Allakh. S nego Toĭ napŭtva kogoto pozhelae ot Svoit
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၈။	အလ္လာဟ်အသျှင်မြတ်သည် မိမိကျေးတော်မျိုး၊ ကျွန်တော်မျိုးများအနက် အလိုတော်ရှိတော်မူသော သူအား ယင်းသို့နည်းပြလမ်းညွှန်တော်မူ၏။ သို့သော် အကယ်၍ သူတို့သည် ကိုးကွယ်ဖို့ရာ အလ္လာဟ်အသျှင်မြတ်နှင့် တစ်စုံတစ်ခုကို ဖက်စပ်တင်မြှောက်ကြလျှင် သူတို့ပြုလုပ်သမျှတို့သည် အကျိုးမဲ့အချည်းနှီးဖြစ်ပေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤကား အလ္လာဟ်အရှင်မြတ်၏ တရားဓမ္မတည်း။ ထိုအရှင်မြတ်သည် မိမိကျွန်တို့အနက်မှ အလိုရှိတော်မူသောသူအား ထိုတရားဓမ္မဖြင့် လမ်းမှန်သို့ ပို့ဆောင်တော်မူ၏။သို့ရာတွင် အကယ်၍သာ ထိုတမန်တော်များသည် တစ်စုံတစ်ရာကို အလ္လာဟ်အရှင်မြတ်နှင့် တွဲဖက်ယှဉ်ပြိုင် ကိုးကွယ်ခဲ့ကြပါမူ၊ ၎င်းတို့ ပြုမူခဲ့သမျှ သောကောင်းမှုများသည် ဧကန်မလွဲအချည်းနှီး အလဟဿ ဖြစ်သွားခဲ့ပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

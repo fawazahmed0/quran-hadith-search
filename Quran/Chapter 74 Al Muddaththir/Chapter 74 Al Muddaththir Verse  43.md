@@ -710,6 +710,12 @@ Shte rekat: “Nie ne byakhme sred ot·sluzhvashtite molitvata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။ ငရဲသားတို့က ဤသို့ပြန်ပြောကြပေလိမ့်မည်၊ အကျွနု်ပ်တို့သည် ဆွလားသ်ဝတ်ပြုသူတို့အထဲမှ မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့က (ဤသို့) ပြောဆိုကြပေမည်။ ကျွန်ုပ်တို့သည် "ဆွလာတ်" ဝတ်ပြုသူတို့တွင် ပါဝင်ခဲ့ကြသည်လည်း မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

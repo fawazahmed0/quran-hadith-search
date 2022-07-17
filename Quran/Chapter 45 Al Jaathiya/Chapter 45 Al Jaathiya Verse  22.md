@@ -710,6 +710,12 @@ I sŭtvori Allakh nebesata i zemyata s mŭdrost, i za da se vŭzdade na vsyaka d
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	အလ္လာဟ်အရှင်မြတ်သည် ကမ္ဘာမြေပြင်မိုးကောင်းကင်ကို ကောင်းကျိုးအတွက်သာ ဖန်ဆင်းတော်မူ၏၊ သို့ ဖန်ဆင်းတော်မူခြင်းမှာ လူခပ်သိမ်းတို့သည် မိမိတို့ကြိုးစားမှု၏ အကျိုးအပြစ်ကို ခံစားစိမ့်သောငှာဖြစ်၏၊ သူတို့သည် မတရားပြုခြင်းကို ခံရမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် မိုးကောင်းကင်များကိုလည်းကောင်း၊ ပထဝီမြေကိုလည်းကောင်း၊ နက်နဲသိမ်မွေ့သော ဆင်ခြင်တုံတရားနှင့်လျော်ညီစွာ ဖန်ဆင်းတော်မူခဲ့၏။ ၎င်းပြင် လူတိုင်းလူတိုင်း မိမိတို့ ရှာဖွေဆည်းပူးခဲ့သော (ကောင်းမှု၊မကောင်းမှု)နှင့်စပ်လျဉ်း၍ အစားပေးခြင်းခံရအံ့သောငှာ(ဖန်ဆင်းတော်မူခဲ့၏၊) သို့ရာတွင် ၎င်းတို့သည် မတရားမှုပြုလုပ်ခြင်းကို ခံကြရမည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Znae Toĭ skrishnite pogledi i onova, koeto gŭrdite potaĭvat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။ အလ္လာဟ်အရှင်မြတ်သည် မျက်စိများ၏ သစ္စာဖောက်မှုနှင့် ရင်ဘတ်များ လျှို့ဝှက်ဖုံးအုပ်ထားသောအရာများကို အကုန်အစင်သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် မျက်စိများ၏ သစ္စာဖောက်မှု ခိုးဝှက်မှုကိုလည်းကောင်း၊ စိတ်နှလုံးများက လျှို့ဝှက်ထားရှိသည်တို့ကိုလည်းကောင်း၊ သိရှိတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

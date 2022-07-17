@@ -710,6 +710,12 @@ V razkazite za tyakh ima pouka za razumnite khora. To ne e predanie izmisleno, a
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၁။	အမှန်ကိုဆိုသော် ထိုသူများ၏ အကြောင်းအရာ၊ ရာဇဝင်တွင် အသိဉာာဏ်ရှိသူတို့အဖို့အရာ သင်ခန်းစာပါရှိ၏။ ကုရ်အာန်ကျမ်းတော်မြတ်သည် လူသားတို့လုပ်ကြံရေးသားသောကျမ်းဂန်မဟုတ်ချေ။ ဤကျမ်းတော်သည် လက်ရှိကျမ်းများကို ထောက်ခံ၏။ အရာတိုင်းကို ကျနသေချာစွာရှင်းလင်းဖော်ပြထား၏။ ယုံကြည်သူတို့အဖို့ လမ်းညွှန်ကျမ်းတော်နှင့် ကောင်းကြီးမင်္ဂလာတော်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မချွတ်ဧကန် ၎င်းတို့၏အကြောင်းအတ္ထုပ္ပတိ္တများတွင် ဆင်ခြင်သိမြင်နားလည်သူတို့အဖို့(အကြီးအကျယ်)သင်ခန်းစာသည်ရှိချေသည်။ (ဤကုရ်အာန်ကျမ်းတော်မြတ်သည်)ကြံဖန်လီဆယ်ထားသောကျမ်းမဟုတ်။ ယင်း၏ အလျင်ရှိနေသော(ကျမ်းများ)ကို အတည်ပြုသောကျမ်းသည်လည်းကောင်း၊အရာခပ်သိမ်းတို့ကိုအသေးစိတ်ရှင်းလင်းမှုသည် လည်းကောင်း၊သက်ဝင်ယြုံကညြ်ကသူတို့ အဖို့ တရားလမ်းညွှန်မှုသည်လည်းကောင်း၊ ကရုဏာတော်သည် လည်းကောင်း၊ ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I kazvakha: “Nima kato umrem i stanem prŭst i kosti, nima naistina shte bŭde
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	ထို့အပြင် ဤသူဆိုးသူညစ်တို့သည် ဤသို့ပြောလေ့ရှိကြ၏၊ ငါတို့သည် သေကြေပျက်စီး၍ ဖုံမှုန့်နှင့် အရိုးချည်း သာဖြစ်ပြီးသည်နောက် အမှန်တဖန်ရှင်ရဦးမည်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့သည် (ဤသို့) ပြောဆိုလျက်ရှိခဲ့ကြကုန်၏။ ‘ကျွန်ုပ်တို့သည် သေပြီးနောက် အရိုးများ ဖြစ်ခဲ့ကြသောအခါ ရှင်ပြန်ထစေခြင်းကို ခံကြရဦးမည်လော’။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

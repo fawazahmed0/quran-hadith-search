@@ -710,6 +710,12 @@ Onzi, Koĭto stori za vas ogŭn ot zelenoto dŭrvo i eto vi - ot nego palite!�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၀။	အရှင်မြတ်သည် သင်တို့အသုံးပြုရန် လတ်ဆတ်စိမ်းစိုသောသစ်ပင်မှ မီးကို ဖန်ဆင်းတော်မူ၏၊ ထိုအခါသင် တို့သည် ၎င်းမီးနှင့်ပင် မိမိတို့မီးများကို မွှေးကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်အရှင်မြတ်သည် စိမ်းစိုသောသစ်ပင်မှပင် အသင်တို့၏အကျိုးငှာ မီးကိုဖန်ဆင်းတော်မူခဲ့ရာ ယခုသော်ကား အသင်တို့သည် ထိုသစ်ပင်မှပင် မီးမွှေးနေကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

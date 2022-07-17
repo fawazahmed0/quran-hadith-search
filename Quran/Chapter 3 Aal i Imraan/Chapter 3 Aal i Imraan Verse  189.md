@@ -710,6 +710,12 @@ Na Allakh prinadlezhi vladenieto na nebesata i na zemyata. Allakh nad vsyako nes
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈၉။	အလ္လာဟ်အသျှင်မြတ်သည် မိုးကောင်းကင်နှင့် ကမ္ဘာမြေကြီးကို စိုးမိုးအုပ်ချုပ်တော်မူ၏။ အလ္လာဟ်သည် အရာရာကို ပြုစွမ်းနိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန် စင်စစ်သော်ကား အာကာသကောင်းကင်များနှင့်ကမ္ဘာမြေကို စိုးမိုးအုပ်ချုပ်မှုသည် အလ္လာဟ်အရှင်မြတ်အဖို့သာဖြစ်သည်။ ၎င်းပြင် အလ္လာဟ်အရှင်မြတ်သည်အရာခပ်သိမ်းတို့ကို စွမ်းဆောင်တော်မူနိုင်သော အနန္တတန်ခိုးတော်ရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

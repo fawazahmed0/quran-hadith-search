@@ -710,6 +710,12 @@ Toĭ vi povelyava samo zlina i pokvara, i da govorite za Allakh onova, koeto ne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၉။	ရှိုင်တွာန်သည် သင်တို့အားမကောင်းမှု မတရားမှုနှင့် ညစ်ပတ်မှုများကိုသာ ကျူးလွန်ရန် အားပေး တိုက်တွန်း၏။ အရှင်မြတ်နှင့်စပ်လျဉ်း၍ သင်တို့မသိသောအရာများကို ပြောဆိုဖို့ရာလည်း လှုံ့ဆော် ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အကြောင်းကား) ထိုရှိုင်တွာန်သည် အသင်တို့ကို မကောင်းမှု ဒုစရိုက်များကို လည်းကောင်း၊ အလွန် ညစ်ညမ်းသော ကိစ္စများကို လည်းကောင်း၊ ထို့ပြင် အသင်တို့ သည် မိမိတို့ မသိရှိကြသော အကြောင်းအရာများကို အလ္လာဟ်အရှင်မြတ်နှင့် ဆန့်ကျင်၍ (လုပ်ကြံ) ပြောဆိုကြရန် လည်းကောင်း အမိန့်ပေးတိုက်တွန်း နှိုးဆော်သည် သာဖြစ်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

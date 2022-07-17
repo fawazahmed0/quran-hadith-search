@@ -710,6 +710,12 @@ I rekokhme: “Udarete go s chast ot neya [i toĭ shte se sŭzhivi]!” Taka Al
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၃။	ထိုအခါ ငါအရှင်က သင်တို့သည် သူ့အားရိုက်နှက်ကြလော့ဟု ဗျာဒိတ်ပေးတော်မူ၏။ ယင်းသို့ အလ္လာဟ်အရှင်မြတ်သည် ထိုသေသူကို ပြန်ရှင်တော်မူစေ၍ သင်တို့အသိတရားရစေခြင်းငှာ မိမိ၏ နမိတ်လက္ခဏာ အ့ံဖွယ်တော်များကို ပြသတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ငါအရှင်မြတ်သည် (ဤသို့) မိန့်ကြားတော် မူခဲ့လေသည်၊ အသင်တို့သည်ယင်း (အသတ်ခံရသောသူ၏ ရုပ်ကလာပ်) ကိုထို (နွားမ) ၏ အချို့အစိတ်အပိုင်းဖြင့် ရိုက်ခတ်ကြကုန်လော့။ အလ္လာဟ် အရှင်မြတ်သည် (ကိယာမတ် ရှင်ပြန်ထရမည့်နေ့၌လည်း) ထိုကဲ့သို့ပင် သေသူများအား ရှင်စေတော်မူလတ္တံ။ ထို့ပြင် ထိုအရှင်မြတ်သည် အသင်တို့ နားလည်ကြရန်အလို့ငှါ မိမိ၏သက်သေခံလက္ခဏာ ရပ်များ ကို ပြသတော် မူလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

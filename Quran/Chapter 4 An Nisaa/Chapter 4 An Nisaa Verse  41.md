@@ -710,6 +710,12 @@ I kak shte bŭdat, shtom dovedem ot vsyaka obshtnost svidetel, i teb dovedem [o,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	သို့သော် ငါအသျှင်မြတ်သည် လူမျိုးတိုင်းမှ သက်သေတော်တစ်ယောက်စီခေါ်ယူသောနေ့တော်ကြီး၌ သူတို့သည် အဘယ်သို့ရှိကြမည်နည်း။ အို-မိုဟမ္မဒ် ငါသည် သင့်အား ဤသူများ၏ဆန့်ကျင်ဘက် သက်သေအဖြစ်ဖြင့် ခေါ်ယူတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် ငါအရှင်မြတ်သည် (‘ကိယာမတ်’ ရှင်ပြန်ထမည့်နေ့တွင်) သာသနာဝင်အသီးသီးတို့မှ သက်သေ တစ်ဦးကျစီခေါ်ယူတော်မူအံ့။ ၎င်းပြင် ငါအရှင်မြတ်သည် အသင် (မုဟမ္မဒ်) အားလည်း ထိုသူတို့အတွက် သက်သေအဖြစ် ခေါ်ယူတော်မူအံ့။ ထိုအခါ (‘ကာဖိရ်’ သွေဖည်ငြင်းဆန်သောသူတို့၏အဖြစ်သည်) မည်ကဲ့သို့ ဖြစ်ပေမည်နည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

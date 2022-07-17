@@ -710,6 +710,12 @@ Ne vizhdat li te ptitsite nad tyakh, raztvaryashti i svivashti krile? Dŭrzhi gi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။ သူတို့သည် အထက်ကောင်းကင်၌ လူးလာပျံသန်းသွားလာကြသောအတောင်ရှိ ငှက်တိရိစ္ဆာန်များကို မကြည့်ရှု ကြသလော၊ မဟာကရုဏာတော်အရှင်မှတပါး မည်သူမျှ ထိုငှက်တိရိစ္ဆာန်များကို လေထဲတွင် မထားချေ၊ စင်စစ်အားဖြင့် အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့မြင်တော်မူသောအရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် မိမိတို့ထက်ဝယ် ငှက်တိရစ္ဆာန်တို့အား အတောင်ပံများကို ကားလျက်ရှိသည်ကို လည်းကောင်း၊(ယင်းအတောင်ပံများကို)ရုပ်သိမ်း လျက်ရှိကြသည်ကို လည်းကောင်း၊ ရှုမြင်ခဲ့ကြသည် မဟုတ်လော။ ယင်း ငှက်တိရစ္ဆာန်တို့ကို "ရဟ်မာန်" ကရုဏာတော်ရှင်မှတစ်ပါး အခြားမည်သူ တစ်ဦးတစ်ယောက်မျှပင် ထိန်းသိမ်း၍ ထားရှိသည်မဟုတ်ပြီ။ဧကန်မလွဲ ထိုအရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့ ရှုမြင်တော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

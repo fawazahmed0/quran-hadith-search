@@ -710,6 +710,12 @@ I go podtikna dushata mu da ubie svoya brat, i go ubi, i stana edin ot gubeshtit
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	သို့သော် တစခြားသူမှာ မိမိ၏စိတ်လှုံ့ဆော်မှုကြောင့် မိမိညီကိုသတ်ပြီးလျှင် ဆုံးရှုံးပျက်စီးသူတို့တွင် တစ်ဦးဖြစ်သွားလေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ထို (ကာဗီလ်) ၏ စိတ်သည် ၎င်းအား မိမိညီတော် (ဟာဗီလ်) ကို သတ်ဖြတ်ရန် တိုက်တွန်းခဲ့ပေရာ ယင်း (ကာဗီလ်) သည် မိမိညီတော် (ဟာဗီလ်) ကို သတ်ဖြတ်ခဲ့လေသည်။ သို့ဖြစ်ပေရာ ၎င်းသည် ကျိုးယုတ်ပျက်ပြားသူတို့အနက် အပါအဝင်ဖြစ်သွားခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

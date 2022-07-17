@@ -710,6 +710,12 @@ Ala ne! Togava ne shte bŭdat dopusnati do svoya Gospod
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။ ဧကန်အမှန် ထိုနေ့တော်ကြီး၌ ထိသု ူမိုက်တို့သည် မိမိအရှင်သခင်၏ ကောင်းကြီးမင်္ဂလာတော်မှ ကာဆီးထားခြင်း ခံကြရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလျှင်းမဟုတ်၊ ဧကန်မလွဲ ၎င်းတို့သည် ထိုနေ့တွင် မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်(အား ဖူးမျှော်ခြင်း)မှ ကာကွယ်ခြင်းကို ခံကြရမည့်သူများပင် ဖြစ်ကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

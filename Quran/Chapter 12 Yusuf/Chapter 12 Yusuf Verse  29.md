@@ -710,6 +710,12 @@ Yusuf, ne spomenavaĭ tova! A ti, zheno, moli oproshtenie za svoeto pregresheni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	အို-ယူစွတ်(ဖ်)၊ ဤကိစ္စမှ လှည့်သွားလော့။ သင်မိန်းမမှာမူကား သင်၏ အပြစ်ကို လွှတ်တော်မူဖို့ရာ ဆုတောင်း လော့။ အမှန်မှာ သင်သည် အပြစ်ကျူးလွန်သူများအထဲက ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထို့နောက် ဆက်လက် ပြောဆိုခဲ့ပြန်သည်မှာ)အို-ယူဆွဖ်၊ အသင်သည် ဤသည်ကိုလျစ်လျူရှုကာ လွှဲရှောင်၍သွားလော့။ ထို့ပြင် (အို-မိန်းမ)သင်သည် မိမိပြစ်မှုကို (ဝန်ချတောင်းပန်၍)လွတ်ငြိမ်းချမ်းသာခွင့် တောင်းခံလော့။ ဧကန်မလွဲ အသင်မသည် ပြစ်မှုကျူးလွန်သူတစ်ဦး ဖြစ်ချေသတည်း။(ဟုပြောဆိုခဲ့လေ၏။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

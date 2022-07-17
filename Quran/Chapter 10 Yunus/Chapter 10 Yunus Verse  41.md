@@ -710,6 +710,12 @@ I ako te vzimat za lŭzhets, kazhi: “Moeto delo e za men, a vasheto delo e za 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	သူတို့သည် သင့်ကို ဖယ်ရှားလျှင် ဟောကြားလော့၊ အကျွနု်ပ်ပြုကျင့်မှုသည် အကျွနု်ပ်အတွက်ဖြစ်သည်။ သင်တို့ကျင့်ကြံမှုသည် သင်တို့အတွက်ဖြစ်သည်။ သင်တို့သည် အကျွနု်ပ်ပြုလုပ်မှုအတွက် အပြစ်မသင့်။ အကျွနု်ပ် လည်း သင်တို့အပြုအမူအတွက် တာဝန်မရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်း ပြင် (အို-နဗီတမန်တော်) အကယ်၍ ထိုသူတို့သည် အသင့်အား မဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ် လျက်ရှိကြပါလျှင် အသင်သည် (၎င်း တို့အား ဤသို့) ဖြေကြားပါလေ။ငါ၏ အပြုအမူသည် ငါ၏အဖို့သာဖြစ်၍ အသင်တို့၏ အပြုအမူသည် အသင်တို့အဖို့သာ ဖြစ်ချေသည်။ အသင်တို့သည်ငါပြုသမျှနှင့်(မည်သို့မျှမဆိုင်၊လုံးဝ)လွတ်ကင်းသူများ ဖြစ်ကြကုန်၏။ ငါသည်လည်း အသင်တို့ပြုသမျှ တို့နှင့်(မည်သို့မျှမဆိုင်၊ လုံးဝ)လွတ်ကင်းသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

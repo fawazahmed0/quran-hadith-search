@@ -710,6 +710,12 @@ vmesto na Allakh?” Shte kazhat: “Te ni napusnakha. Da, onova, koeto zovyakhm
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၃၊၇၄။	ထို့နောက်သူတို့အား မေးမြန်းမည်မှာ အလ္လာဟ်အရှင်မြတ်နှင့်တွဲဖက်၍ သင်တို့ကိုးကွယ်သောဘုရားတုများ သည် အဘယ်မှာရှိသနည်း၊ သူတို့က ဤသို့ပြန်လျှောက်ကြလတံ့၊ အကျွန်ုပ်တို့ကိုးကွယ်ခဲ့သောဘုရားယောင်များ သည် အကျွနု်ပ်တို့ကို ဘေးဒုက္ခတွင် ပစ်ထားခဲ့ကြပါပြီ၊ အမှန်ကိုဆိုသော် အကျွနု်ပ်တို့သည် အထက်ကျော်ကာလ က အခြေအမြစ်မရှိသောအရာများကို ကိုးကွယ်ခဲ့ကြပါသည်၊ အလ္လာဟ်အရှင်မြတ်သည် မိစ္ဆာဒိဋ္ဌိတို့ကို လမ်းမှား တွင် ယင်းကဲ့သို့ပစ်ထားတော်မူပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်နှင့်အတူ ၎င်းတို့က လျှောက်ထားကြပေမည်။ ၎င်းတို့မှာ ကျွန်တော်မျိုးတို့ထံမှ ပျောက်သွားကြပါပြီ။ ထိုသို့ အလျှင်းမဟုတ်၊ စင်စစ်မှာကား ကျွန်တော်မျိုးသည် ယခင်က မည်သည့် တစ်စုံတစ်ရာမျှပင် ဟစ်ခေါ်တသ(ဆည်းကပ်ကိုးကွယ်)ခြင်းမပြုခဲ့ကြပါ။ အလ္လာဟ်အရှင်မြတ်သည် ထိုနည်းအတိုင်းပင် "ကာဖိရ်" သွေဖည် ငြင်းပယ်ကြသောသူတို့အား လမ်းမှား၌ပင် နေမြဲနေစေတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Onezi, koito kupikha neverieto vmesto vyarata, s nishto ne shte navredyat na All
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇၇။	အကြင်သူတို့သည် ယုံကြည်မှုကိုပေး၍ မယုံကြည်မှုကို ဝယ်ယူအံ့။ ထိုသူတို့သည် အလ္လာဟ် အသျှင်မြတ်ကို စိုးစဉ်းမျှမနစ်နာစေနိုင်ချေ။ သို့သော် သူတို့သည် အလွန်ပြင်းထန်နာကျင်ဖွယ် ကောင်းသော အပြစ်ဒဏ်ကို ခံစားရလတ္တံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ အီမာန် ယုံကြည်ခြင်း သဒ္ဓါတရား(တည်းဟူသောရတနာ)ဖြင့် သွေဖည်ငြင်းပယ်မှုကို လဲလှယ်ဝယ်ယူကြကုန်သောသူတို့သည် အလ္လာဟ်အရှင်မြတ်အားအနည်းငယ်မျှ အကျိုးယုတ်နစ်နာစေခြင်းကို အလျင်းပြုစွမ်းနိုင်ကြမည်မဟုတ်ချေ။ အမှန် စင်စစ်သော်ကား ယင်းသူတို့ အဖို့(နောင်တမလွန်ဘဝတွင်) အလွန်နာကျင်ဖွယ် ဖြစ်သောအပြစ်ဒဏ်သည် (အသင့်) ရှိချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

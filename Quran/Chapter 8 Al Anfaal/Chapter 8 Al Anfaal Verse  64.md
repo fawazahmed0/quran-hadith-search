@@ -710,6 +710,12 @@ O, Proroche, Allakh e dostatŭchen - za teb i za vyarvashtite, koito te sledvat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၄။	အို-တမန်တော် သင်နှင့် ယုံကြည်သူများမှ သင့်နောက်သို့လိုက်သောသူများအဖို့ အလ္လာဟ်အသျှင် မြတ်သည် လုံလောက်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-နဗီတမန်တော် အသင်၏အဖို့ အလ္လာဟ်အရှင်မြတ်သည်လည်းကောင်း၊ အသင်၏နောက်သို့ လိုက်ကြကုန်သော မုအ်မင်န် သက်ဝင်ယုံကြည်သူတို့ သည်လည်းကောင်း၊ လုံလောက်ကြပေသတည်း။(ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

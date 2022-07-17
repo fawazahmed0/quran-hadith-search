@@ -710,6 +710,12 @@ i ot dobitŭka - prevoz i postelya. Yazhte ot onova, koeto Allakh vi e dal za pr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၂။	အလ္လာဟ်အသျှင်မြတ် ဖန်ဆင်းတော်မူသော ကျွဲနွားတိရစ္ဆာန်များအနက် အချို့သည် ဝန်တင်ဖို့ရာ ဖြစ်၏။ အချို့မှာ အစားအစာအတွက်ဖြစ်၏။ သင်တို့သည် အလ္လာဟ်အသျှင်မြတ် ပေးသနားတော် မူသော အစာအဟာရကို စားကြလော့။ ရှိုင်တန်မာရ်နတ်၏နောက်သို့ မလိုက်ကြလင့်။ သူသည် သင်တို့၏ ပွင့်လင်းသောရန်သူဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းအပြင် (ထိုအရှင်မြတ်သည်) အခြေ လေးချောင်း တိရစ္ဆာန်တို့အနက် (အရပ်အမောင်းကြီးမား၍ ဝန်စည်စလယ်များတင်သော တိရစ္ဆာန်များကိုလည်းကောင်း၊ အလုံးအရပ်နိမ့်၍ ဝန်စည်စလယ် မတင်နိုင်ပဲ နို့ရည်နှင့် အသားစားရန်ဖြစ်)သော တိရစ္ဆာန်များကိုလည်းကောင်း၊ (ဖန်ဆင်းတော်မူခဲ့လေသည်။) အသင်တို့သည် မိမိတို့အား အလ္လာဟ်အရှင်မြတ်ကချီးမြှင့်ပေးသနားတော်မူသော အရာများကို စားသုံးကြလေကုန်။ ထို့ပြင် အသင်တို့သည် ရှိုင်တွာန်၏ ခြေရာများကိုမလိုက်ကြကုန်လင့်။ အကြောင်းမူကား ယင်း’ရှိုင်တွာန်’သည်အသင်တို့၏ ထင်ရှားသောရန်သူပင် ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

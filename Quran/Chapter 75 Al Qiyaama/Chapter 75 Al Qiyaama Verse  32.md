@@ -710,6 +710,12 @@ Toĭ nito vyarvashe, nito ot·sluzhvashe molitvata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။ သို့သော် သူသည် ငြင်းပယ်တော်လှန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ၎င်းသည် မဟုတ်မမှန်ဟူ၍ စွပ်စွဲ ငြင်းပယ်ခြင်းကိုသာလည်းကောင်း၊ မျက်နှာလွှဲခြင်းကိုသာလည်းကောင်း၊ ပြုခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

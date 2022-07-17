@@ -710,6 +710,12 @@ Ne si dvizhi ezika s tova Slovo [o, Mukhammad], za da izbŭrzash [da go zapomnis
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။ အို-တမန်တော်၊ ကုရ်အာန်ဂါထာတော်များကို စီးဖြန်းသောအခါ သင်၏ လျှာကို အလျင်စလိုမလှုပ်လင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်သည် (ကောင်းကင်တမန် ဂျစ်ဗ်ရီလ်သည် ကုရ်အာန်ကျမ်းလာ အာယတ်တော်များကို ရွတ်ဖတ်တော်မူသည့်အခါ) အသင်၏လျှာကို(ယင်း အာယတ်တော်များကို) အလျှင်အမြန် (ကျက်မှတ်)ရယူရန် အလို့ငှာ မလှုပ်လေနှင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

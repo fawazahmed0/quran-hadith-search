@@ -710,6 +710,12 @@ Reche [angelŭt]: “Tŭĭ kaza tvoyat Gospod: “Tova za Men e lesno. Sŭtvori
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	အရှင်မြတ်က အို-ဇကရိယာ၊ ယင်းသို့ဖြစ်မည်၊ မရှိရာမှ ရှိရာသို့ သင့်ကို ငါရှေးဦးပထမဖန်ဆင်းတော်မူသကဲ့သို့ သင့်အား သားရတနာပေးခြင်းသည်လည်း ငါ့အဖို့ လွယ်ကူလှပေ၏ဟု ဗျာဒိတ်ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုရောကာလ) ထိုအရှင်မြတ်က (ကောင်းကင်တမန်မှတစ်ဆင့် ဤသို့)မိန့်ကြားတော်မူခဲ့လေသည်။ (အို-ဇကရီယာ) ဤ အတိုင်းပင်ဖြစ်ပေမည်။ ဤသည် ငါအရှင်မြတ်အဖို့ အလွန်လွယ်ကူကြောင်း၊ ၎င်းပြင် ဧကန်မလွဲ ငါအရှင်မြတ်သည်ပင် ယခင်ကလည်း အသင့်အား အသင် တစ်စုံတစ်ရာမရှိခဲ့စဉ်က ဖန်ဆင်းတော်မူခဲ့သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

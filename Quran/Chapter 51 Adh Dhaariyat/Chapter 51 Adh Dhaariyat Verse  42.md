@@ -710,6 +710,12 @@ I ne ostavi toĭ nishto, nad koeto premina, bez da go prevŭrne v prakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	ထိုလေပြင်းမုန်တိုင်းသည် မိမိလမ်းတွင် ရှိသမျှအရာဝထ္ထုတို့ကို ချမ်းသာမပေး၊ အားလုံးကို မြေမှုန့်အတိဖြစ်စေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းလေပြင်းမုန်တိုင်းသည် မည်သည့် တစ်စုံတစ်ရာပေါ်၌မဆို သက်ရောက်ခဲ့သည်ရှိသော် ထိုအရာဝတ္ထုကို ဆွေးမြည့်ပြီး အပိုင်းပိုင်းအစစ ဖြစ်ဘိသကဲ့သို့ ပြုလုပ်ခဲ့သည်ချည်းသာ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

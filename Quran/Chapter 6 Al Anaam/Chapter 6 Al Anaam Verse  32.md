@@ -710,6 +710,12 @@ Zemniyat zhivot e samo igra i zabava. A otvŭdniyat dom e naĭ-dobroto za bogob
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	ဤလောကဓာတ်ဘဝသည် အပျင်းဖြေကစားစရာ အဖျင်းအသိမ်မှတစ်ပါး တစ်စုံတစ်ရာမျှ မဟုတ်ပေ။ အလ္လာဟ်အသျှင်မြတ်၏အမှုတော်ကို ထမ်းဆောင်သူတို့အဖို့မှာ နောင်တဝလွန်ဘဝ၏ ဗိမာန်သည် သာလွန်မွန်မြတ်၏။ သင်တို့တွင် အသိဉာဏ်မရှိကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား မျက်မှောက်လောကီဘဝ၏အသက်တာသည် (စိတ်ပြေလက်ပျောက်) ကစားခုန်စားမှုသာဖြစ်၏။ သို့ရာတွင် နောင်တမလွန်ဘဝ၏ ဘုံဗိမာန်သည်ကား(နောင်တမလွန်ဘဝ၌ရှိသောဘုံဗိမာန်သည်ကား)ပြစ်မှုဒုစရိုက်တို့မှ ကြဉ်ရှောင်သော သူတို့အဖို့ အလွန်ကောင်းပေသည်။အသင် တို့သည် (ဤမျှပင်) နားမလည်ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

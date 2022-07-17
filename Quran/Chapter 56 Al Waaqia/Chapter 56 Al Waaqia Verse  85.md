@@ -710,6 +710,12 @@ a Nie sme po-blizo do nego ot vas, ala ne vizhdate
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၅။	ငါသည် သင်တို့ထက်ပင် ထိုသူနှင့်သာလွန်နီးကပ်လျက် ရှိတော်မူ၏၊ သို့သော်လည်း သင်တို့သည် ငါ့အား မဖူးမြင်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ငါအရှင်မြတ်သည် အသင်တို့ထက် ပိုမို၍ပင် ထိုသူနှင့် နီးကပ်လျက် ရှိနေတော်မူ၏။ သို့ရာတွင် အသင်တို့သည် မြင်ကြသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

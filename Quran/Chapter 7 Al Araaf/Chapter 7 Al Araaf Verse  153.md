@@ -710,6 +710,12 @@ A za koito vŭrshat zlini, posle se pokayat i povyarvat, tvoyat Gospod sled tova
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၃။	သို့သော် အကြင်သူသည် မတရားမှုကိုပြုမိကြ၏။ ထို့နောက် သတိသံဝေဂရကြ၏။ ယုံကြည်ကြ၏။ ထိုသူတို့အတွက် အလ္လာဟ်အသျှင်မြတ်သည် မုချဧကန် အပြစ်လွှတ်တော်မူသော ကောင်းကြီးမင်္ဂလာ ပေးသနားတော်မူသောအသျှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကြင်သူတို့သည် မကောင်းမှုဒုစရိုက်များကို ပြုလုပ်မိခဲ့ကြကုန်၏။ ၎င်းနောက် ထိုသူတို့သည်ထိုသို့မကောင်းမှုများ (ပြုလုပ်ပြီး) နောက် ဝန်ချတောင်းပန်ကြကုန်၏။ ၎င်းပြင် ထိုသူတို့သည် အီမာန်ယုံကြည်ခြင်း သဒ္ဓါတရားလည်း ထားရှိကြကုန်၏။ (သို့ဖြစ်လျှင်) ဧကန်စင်စစ်အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် ထို(သို့ဝန်ချတောင်းပန်၍ ယုံကြည်ခြင်းသဒ္ဓါတရားထားရှိကြပြီး)နောက် (၎င်းတို့အား) မုချ လွတ်ငြိမ်းချမ်းသာခွင့် ပေးသနားတော်မူမည့်အရှင်၊ သနားကြင်နာ ညှာတာတော်မူသည့်အရှင်ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

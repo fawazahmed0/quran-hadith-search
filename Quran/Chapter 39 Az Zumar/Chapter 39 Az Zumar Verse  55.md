@@ -710,6 +710,12 @@ I sledvaĭte Naĭ-prekrasnoto, koeto vi be nizposlano ot vashiya Gospod, predi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။	ထို့အပြင် သင်တို့၏ အရှင်သခင်ချပေးသနားတော်မူသော သာလွန်ကောင်းမြတ်သောညွှန်ပြချက်ကို အပြစ်ဒဏ် တော်ကြီးသည် ရုတ်တရက်ရှောင်တခင် သင်တို့မသိပဲ ရောက်လာလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်တို့သည် မိမိတို့ထံ ပြစ်ဒဏ်သည် အသင်တို့မသိခိုက်၊ ရုတ်တရက် ဆိုက်ရောက်၍မလာမီပင် မိမိတို့၏ အရှင်မြတ်အထံတော်မှ မိမိတို့ထံ ထုတ်ပြန်တော်မူခြင်းခံခဲ့ရလေသော အကောင်းဆုံးအမိန့်တော်(ကုရ်အာန်ကျမ်းတော်မြတ်)ကို လိုက်နာ(ကျင့်သုံး)ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

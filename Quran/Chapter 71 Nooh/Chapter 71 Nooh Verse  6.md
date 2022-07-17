@@ -710,6 +710,12 @@ no zovŭt mi samo uvelichi tyakhnoto byagstvo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။ သို့သော် အကျွနု်ပ်၏ ခေါ်ခြင်းသည် သူတို့၏ မုန်းတီးမှုကိုသာ များပြားစေပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တစေလည်း ကျွန်တော်မျိုး၏ ဖိတ်ခေါ်ချက်သည် ၎င်းတို့၌ ထွက်ပြေး တိမ်းရှောင်မှုကိုသာလျှင် တိုးတက်စေခဲ့ပါ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

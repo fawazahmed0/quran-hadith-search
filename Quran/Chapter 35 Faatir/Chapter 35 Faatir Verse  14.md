@@ -710,6 +710,12 @@ Prizovete li gi, te ne chuvat vashiya zov, a dori da sa chuli, ne vi otklikvat. 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	သင်တို့သည် အကယ်၍ထုဘုရားတုတို့ကို ဟစ်ခေါ်၍ ဆုတောင်းသော် သူတို့သည် သင်တို့၏ဆုတောင်းသံ ကို မကြားကြချေ၊ အကယ်၍သူတို့ကြားသော်လည်း သင်တို့တောင်းသောဆုကို မပေးနိုင်ချေ၊ တရားစီရင်တော်မူ သောနေ့တော်ကြီး၌ ထိုဘုရားယောင်တို့က သင်တို့နှင့်ပေါင်းဖော်ခဲ့ခြင်းကို ငြင်ပယ်ကြလတ့ံ၊ သဗ္ဗညုတဉာာဏ် တော်ရှင်အလ္လာဟ်အရှင်မြတ်ကဲ့သို့ အဘယ်သူမျှသင်တို့အား သွန်သင်ဆုံးမနိုင်သည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် အကယ်၍ ၎င်းတို့အား ဟစ်ခေါ်ကြပါလျှင် ၎င်းတို့သည် ကြားကြမည်မဟုတ်ပေ။ သို့ရာတွင် အကယ်၍ ကြားခဲ့ကြငြားသော်လည်း အသင်တို့အားပြန်၍ထူးကြမည် မဟုတ်ပေ။ (ပြုလုပ်ဖြည့်စွမ်းပေးနိုင်ကြမည်မဟုတ်ပေ)။ ထိုမှတစ်ပါး ကိယာမတ် ရှင်ပြန်ထမည့်နေ့တွင်မူ ၎င်းတို့သည် အသင်တို့၏ တွဲဖက်ကိုးကွယ်မှုကိုပင် ငြင်းပယ်ကြပေမည်။ စင်စစ်သော်ကား အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့ကြားသိတော်မူသော အရှင်ကဲ့သို့ မည်သူတစ်ဦး တစ်ယောက်မျှပင် အသင့်အား ထုတ်ဖော်၍ ပြောကြားမည် မဟုတ်ပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

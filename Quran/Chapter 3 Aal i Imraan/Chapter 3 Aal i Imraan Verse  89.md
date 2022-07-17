@@ -710,6 +710,12 @@ osven na onezi, koito posle se pokayat i popravyat. Allakh e oproshtavasht, milo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၉။	သို့သော် တရားသံဝေဂရရှိပြီးနောက် မှန်ကန်မှုကို ကြိုးပမ်းအားထုတ်သူတို့ကား ယင်းသို့ မခံစားရ ပေ။ မှတ်သားကြလော့။ အလ္လာဟ်အသျှင်မြတ်သည် အပြစ်လွှတ်တော်မူသော ကောင်းကြီးမင်္ဂလာ ပေးသနားတော်မူသောအသျှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကြင်သူတို့သည် ထို(ကဲ့သို့ ငြင်းပယ်ပြီး)နောက် (သံဝေဂတရား ရရှိကာ မိမိတို့အပြစ်များကို)ဝန်ချတောင်းပန်ကြ၍ ပြုပြင်ကြပါမူ မုချဧကန်အလ္လာဟ်အသျှင် မြတ်သည်လည်း (ထိုကဲ့သို့သောသူတို့အား)အကြိမ်ကြိမ် လွတ်ငြိမ်းချမ်းသာခွင့်ပေးသနားတော်မူသောအရှင်၊ မပြတ်မစဲ သနား ကြင်နာ ညှာတာတော် မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

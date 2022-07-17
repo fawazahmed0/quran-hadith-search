@@ -710,6 +710,12 @@ I ako ne e blagodatta na Allakh kŭm vas, i Negovata milost v zemniya zhivot i v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	အကယ်၍ဤဘဝနောင်ဘဝတွင် သင်တို့အတွက် အလ္လာဟ်၏ ကရုဏတော်ကောင်းကြီးမင်္ဂလာတော်တို့မရှိခဲ့ ပါလျှင်၊ ယင်းအသရေဖျက်စကားပြောဆိုသည့်အတွက် သင်တို့ကို ပြင်းထန်ကြီးလေးသောအပြစ်ဒဏ်တော် ထိခဲ့လတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အကယ်၍သာ အသင်တို့အပေါ်၌ အလ္လာဟ်အရှင်မြတ်၏ ကျေးဇူးတော်နှင့် ထိုအရှင်၏ ကရုဏာတော်သည် လောကီဘဝ၌လည်းကောင်း၊ တမလွန်ဘဝ၌လည်းကောင်း၊ မရှိခဲ့လျှင် အသင်တို့ နစ်မွန်းလျှက် ရှိခဲ့ကြသောကိစ္စနှင့် စပ်လျဉ်း၍ အသင်တို့၌ အလွန်ကြီးလေးလှစွာသော ပြစ်ဒဏ်သည် အမှန်ပင်သက်ရောက်ခဲ့ပြီး ဖြစ်ချေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Radvat se na obilie i blagodat ot Allakh. Ne pogubva Allakh nagradata na vyarvas
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇၁။	အသျှင်မြတ်၏ ဂုဏ်ကျေးဇူးတော်၊ ကရုဏာတော်တို့ကြောင့် သူတို့သည် ရွှင်လန်းပျော်မြူးကြရ၏။ အသျှင်မြတ်သည် ယုံကြည်သူတို့၏ ကုသိုလ်အကျိုးကို အနည်းငယ်မျှ ဆုံးရှုံးစေတော်မမူ။ ထို့ကြောင့် သူတို့ ဝမ်းမြောက်ဝမ်းသာကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့သည် အလ္လာဟ်အရှင်မြတ်ထံတော်မှစည်းစိမ်ချမ်းသာ အကျိုးကျေးဇူးတော်များ(ခံစားရသော)ကြောင့်လည်းကောင်း၊ ထိုနည်းတူစွာ (အလ္လာဟ်အရှင်မြတ်၏)ရက်ရောစွာ ပေးသနားတော်မူခြင်း(ကိုရရှိသော)ကြောင့် လည်းကောင်း၊ ဧကန်မုချ အလ္လာဟ်အရှင်မြတ်သည်မုအ်မင်န် ယုံကြည်သောသူတို့၏အကျိုးကို ဖြုန်းတီးတော်မူမည် မဟုတ်သောကြောင့် လည်းကောင်း၊ ဝမ်းမြောက်ဝမ်းသာ ရှိကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

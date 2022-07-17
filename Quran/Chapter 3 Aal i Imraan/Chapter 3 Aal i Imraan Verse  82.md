@@ -710,6 +710,12 @@ A koĭto sled tova se otmetne, tezi sa nechestivtsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၂။	ထို့နောက် အကြင်သူတို့သည် မိမိတို့ ဂတိသစ္စာကို ဖျက်အံ့။ ထိုသူတို့သည် မယုံကြည်သူများ ဖြစ်ကြမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တဖန် အကြင်သူသည် ထို(ကဲ့သို့ ပဋိညာဉ် ထားရှိပြီး)နောက် မျက်နှာလွှဲဖယ် သွားခဲ့ပါမူ၊ ဤကဲ့သို့သော သူတို့သည်သာလျှင် အမိန့်မနာခံ သူများ ဖြစ်ကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

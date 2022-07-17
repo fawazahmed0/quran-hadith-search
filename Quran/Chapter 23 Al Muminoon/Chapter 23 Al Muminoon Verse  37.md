@@ -710,6 +710,12 @@ Sŭshtestvuva samo zemniyat ni zhivot. Umirame i zhiveem, i nikoga ne shte bŭde
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	ဤပစ္စုပ္ပန်မျက်မှောက်ဘဝမှတပါး အခြားဘဝမရှိချေ၊ အကျွနု်ပ်တို့သည် သေကြေရှင်ကြ၏၊ သေပြီးနောက် ပြန်ထရမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသက်ရှင်ခြင်းဟူသည် ကျွန်ုပ်တို့၏ လောကီဘဝ၌ အသက်ရှင်ခြင်း မှတစ်ပါးအခြားမရှိပြီ။ ကျွန်ုပ်တို့(အနက် အချို့)သည် သေဆုံးကြလေသည်။ ထိုနည်းတူစွာကျွန်ုပ်တို့ (အနက်အချို့)မှာ အသက်ရှင်လျက်ရှိနေကြပေသည်။ သို့ရာတွင် ကျွန်ုပ်တို့သည် ရှင်ပြန်ထကြရမည့်သူများ အလျှင်းမဟုတ်ပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

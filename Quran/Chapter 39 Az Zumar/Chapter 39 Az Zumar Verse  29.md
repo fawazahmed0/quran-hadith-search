@@ -710,6 +710,12 @@ Allakh dava primer za chovek s [mnogo] gospodari, karashti se pomezhdu si, i cho
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	အလ္လာဟ်အရှင်မြတ်သည် ဥပမာတစ်ခုကို တင်ပြတော်မူ၏၊ သဘောမညီကွဲလွဲလျက်ရှိသောသခင်များပိုင်ဆိုင် သော ကျွန်ယောက်ျားတစ်ယောက်နှင့် သခင်တစ်ဦးတည်းသာ ပိုင်ဆိုင်သောကျွန်ယောက်ျားတစ်ယောက်၊ ဤလူနှစ်ယောက်သည် ထပ်တူထပ်မျှပင်ဖြစ်ကြသလော၊ အလ္လာဟ်အရှင်မြတ်သည် အ့ံချီးမဆုံးဖြစ်တော်မူ၏၊ သို့သော်သူတို့အနက် အရေအတွက်များလှစွာသောသူတို့သည် မသိကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် ဥပမာပုံဆောင်ချက်တစ်ခုကို ခိုင်းနှိုင်းတော်မူ၏။ ကျွန်ယောက်ျားတစ်ယောက်ရှိ၏။ ၎င်း၌ အချင်းချင်း သဘောကွဲလွဲ မသင့်မြတ်သော ဖက်စပ်ပါဝင်ပိုင်ဆိုင်သူများ(လည်း) ရှိကြကုန်၏။ ထိုမှတစ်ပါး အခြားကျွန်ယောက်ျားတစ်ယောက်မှာကား လုံးလုံးလျားလျား လူတစ်ဦးတည်းပိုင်ဖြစ်၏။ ထိုယောက်ျားနှစ်ဦးတို့မှာ အခြေအနေအားဖြင့် တူနိုင်ကြလေသလော။ ချီးမွမ်းထောပနာ အပေါင်းတို့သည် အလ္လာဟ်အရှင်မြတ်နှင့်သာ သက်ဆိုင်၏။ သို့ရာတွင် ၎င်းတို့အနက် အများဆုံးသော သူတို့မှာကား သိရှိကြသည်ဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

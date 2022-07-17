@@ -710,6 +710,12 @@ Nima [nevernitsite] chakat drugo osven da im se yavyat angelite ili da im se yav
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	မိစ္ဆာဒိဋ္ဌိမိုက်တို့သည် ကောင်းကင်တမန်တော်များ သူတို့ထံလာရောက်ခြင်း၊ သို့မဟုတ် သင်၏ ကျေးဇူးတော် သခင်၏ အမိန့်တော်ကျရောက်လာခြင်းမှတပါး၊ မည်သည့်အရာကို စောင့်ဆိုင်းမျှော်လင့်ကြသနည်း၊ သူတို့အလျင် ရှေးမိစ္ဆာဟောင်းတို့လည်း ယင်းသို့ပြုကျင့်ကြ၏။ အလ္လာဟ်အရှင်မြတ်သည် သူတို့ကို ပြစ်မှားတော်မမူချေ။ သူတို့သည် မိမိကိုယ်ကို မိမိတို့ပြစ်မှားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်း(သွေဖည်ငြင်းပယ်သောသူ)တို့သည် မိမိ ထံမလာအိကဟ် ကောင်းကင်တမန်များ ရောက်ရှိ လာကြခြင်းမှတစ်ပါး၊ သို့တည်းမဟုတ် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၏အမိန့်တော် ရောက်ရှိလာခြင်းမှတစ်ပါးအခြားတစ်စုံတစ်ရာကို စောင့်မျှော်၍ နေကြသည်မဟုတ်ပေ။၎င်းတို့အလျင် ရှိခဲ့ဘူးကြသော(ရှေးလူဟောင်းတို့) ကလည်းဤနည်းအတိုင်းပင် ပြုလုပ်ခဲ့ကြပေသည်။ အမှန်သော်ကားအလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့အား နှိပ်စက်တော်မူခဲ့သည်မဟုတ်ပေ။ သို့ရာတွင် စင်စစ်မှာမူကား ၎င်းတို့ကိုယ်တိုင် မိမိတို့ကိုယ်ကို နှိပ်စက်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ne vidya li ti onzi, koĭto otkhvŭrli Nashite znameniya i reche: “Nepremenno
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၇။	အို-တမန်တော်၊ သင်သည် ငါ၏ နှုတ်ကပတ်တော်များကို မယုံကြည်သူကို သိမြင်သလော၊ ထိုသူသည် အမှန်ပင်အကျွနု်ပ်အား စည်းစိမ်ဥစ္စာနှင့် သားသမီးအခြွေအရံပေးသနားတော်မူမည်ဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်)အသင်သည် အကြင်သူအားမြင်ခဲ့လေသလော။ ထိုသူသည် ငါအရှင်မြတ်၏ သက်သေလက္ခဏာတော်များကိုလည်း ငြင်းပယ်ခဲ့သေး၏။ ၎င်းပြင်အမှန်မုချ ကျွန်ုပ်သည် (နောင်တမလွန်ဘဝတွင်လည်း) ဥစ္စာပစ္စည်းကိုလည်းကောင်း၊ သားသမီးကိုလည်းကောင်း၊ ချီးမြှင့်ခြင်းကို ခံရဦးမည်ဟူ၍လည်း ပြောဆိုခဲ့ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

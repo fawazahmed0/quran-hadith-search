@@ -710,6 +710,12 @@ I kazhi: “Ne shte li se prechistish
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။ သင်သည် သူ့အား ဟောပြောရမည်မှာ အို-ဖွာရောမင်း၊ သင်သည် ကောင်းကြီးမင်္ဂလာတွင် ကြီးပွားလိုစိတ် ရှိသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်သည် (၎င်း၏ထံသို့ သွားရောက်ပြီးလျှင် ဤသို့)ပြောကြားပါလေ။ (အို-ဖစ်ရ်အောင်န်)အသင်၌ မိမိ စင်ကြယ်သန့်ရှင်း အပြစ်ကင်းရန်လည်းကောင်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

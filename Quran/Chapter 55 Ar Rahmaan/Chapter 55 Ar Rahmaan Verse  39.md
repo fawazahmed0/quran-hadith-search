@@ -710,6 +710,12 @@ V tozi Den ne shte bŭde pitan za grekha mu nito chovek, nito dzhin
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	ထိုနေ့တော်ကြီး၌ လူသားသော်လည်းကောင်း၊ ဂျင်နတ်သားသော်လည်းကောင်း မိမိကျူးလွန်မိခဲ့သောအပြစ် အကြောင်းကို မေးမြန်းတော်မူခြင်းခံရမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ထိုနေ့တွင် မည်သည့်လူ တစ်ဦးတစ်ယောက်မျှလည်းကောင်း၊ မည်သည့်ဂျင်န် တစ်ဦးတစ်ယောက်မျှလည်းကောင်း၊ မိမိအပြစ်နှင့် စပ်လျဉ်း၍ မေးမြန်းခြင်းခံရမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

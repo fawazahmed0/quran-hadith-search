@@ -710,6 +710,12 @@ Ne sŭtvorikhme Nie nebesata i zemyata, i vsichko pomezhdu im na shega
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	ငါသည် ကမ္ဘာမြေပြင်မိုးကောင်းကင်ကိုလည်းကောင်း၊ မိုးမြေစပ်ကြားရှိသမျှသောအရာများကိုလည်းကောင်း၊ ကစားစရာကဲ့သို့ဖန်ဆင်းတော်မူသည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ငါအရှင်မြတ်သည် မိုးကောင်းကင်ကိုလည်းကောင်း၊ ပထဝီမြေကိုလည်းကောင်း၊ ယင်း(မိုးကောင်းကင်နှင့်ပထဝီမြေ) နှစ်ခု၏အကြား၌ ရှိသည်တို့ကိုလည်းကောင်း၊ကစားသူအဖြစ်(အပျင်းပြေ)ဖန်ဆင်းထားတော်မူသည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

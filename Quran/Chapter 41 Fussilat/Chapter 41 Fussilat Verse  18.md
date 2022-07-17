@@ -710,6 +710,12 @@ I spasikhme onezi, koito povyarvakha i byakha bogoboyazlivi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	သို့သော်ယုံကြလျက် တရားသဖြင့်ကျင့်သူအပေါင်းတို့ကို စုရုံး၍ ငရဲမီးသို့ ယူဆောင်လာသောနေ့တော်ကြီး၌ သူတို့ကို စီတန်း၍ လာစေတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ငါအရှင်မြတ်သည် သက်ဝင် ယုံကြည်၍ (ငါအရှင်မြတ်အား) ကြောက်ရွံ့လျက် ရှိခဲ့ကြကုန်သောသူတို့ကိုမူကား လွတ်မြောက်စေတော် မူခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

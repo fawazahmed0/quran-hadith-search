@@ -710,6 +710,12 @@ Ot onezi, koito se otrekat i umrat nevernitsi, ne shte bŭde prieta kato otkup d
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၁။	မှတ်သားကြလော့။ အကြင်သူတို့သည် မယုံကြည်သူများဖြစ်ကြ၍ မိစ္ဆာအယူဝါဒ၌ပင် အသက်ကုန် ကြ၏။ ထိုသူတို့သည် မိမိအပြစ်လွတ်အောင် ရွှေသားပကတိကို ကမ္ဘာမြေကြီးနှင့်ချိန်စက်၍ လျော်ကြေးပေးသော်လည်း ထိုလျော်ကြေးကို လက်ခံမည်မဟုတ်ပေ။ သူတို့၏ အပြစ်ဒဏ်မှာ အလွန်ပြင်းပြနာကျင်ဘွယ်ဖြစ်လတ္တံ။ ထို့ပြင် သူတို့၌ ကူညီစောင်မသူများရှိမည်မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မုချ အကြင်သူတို့သည် သွေဖည် ငြင်းပယ်ကြ၍၊ သွေဖည်ငြင်းပယ်သူများ အဖြစ်နှင့်ပင် သေဆုံးကြ၏။ထိုသို့သော သူတို့အနက် တစ်ဦးဦးသည် (အပြစ်များမှချမ်းသာရရန် အလို့ငှာ) ကမ္ဘာမြေနှင့်အပြည့် ရွှေကို (စုပုံ၍)လျော်ကြေး ပေးငြားသော်လည်း (အလ္လာဟ်အရှင်မြတ်သည်)အလျင်း သဘောတူ လက်ခံတော်မူမည်မဟုတ်ပေ။ (အမှန်စင်စစ်) ယင်းသူတို့အဖို့အလွန်ပြင်းပြ နာကျင်စေသောအပြစ်ဒဏ်သာရှိ၏၊ ထို့ပြင် ယင်းသူတို့အဘို့ ကူညီမိုင်းမမည့်သူ ဟူ၍လည်းတစ်ဦးတစ်ယောက်မျှရှိလိမ့်မည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

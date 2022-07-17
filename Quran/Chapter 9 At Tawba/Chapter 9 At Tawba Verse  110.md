@@ -710,6 +710,12 @@ Postroĭkata, koyato sa izgradili, ostavya sŭmnenie v sŭrtsata im, dokato te 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၀။	သူတို့ဆောက်တည်သောဗလီသည် သူတို့အား စိတ်နှလုံးမလုံပဲ၊ စနောင့်စနင်းမရပ်မတန့်ဖြစ်စေလိမ့်မည်။သူတို့၏ စိတ်နှလုံးကို အစိတ်စိတ်အမွှာမွှာခွဲဖြတ်မှသာလျှင် သူတို့သည် ဤဒုက္ခမှ လွတ်မြောက်လိမ့်မည်။အလ္လာဟ်အရှင်မြတ်သည် သိတော်မူသောအရှင်၊ သဗ္ဗညုတရွှေဉာာဏ်တော်ရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့တည်ဆောက်ခဲ့ကြသော အဆောက်အအုံမှာ ၎င်းတို့၏စိတ်နှလုံးများ အစိတ်စိတ်အပိုင်းပိုင်း ဖြစ်မသွားသမျှကာလပတ်လုံး ၎င်းတို့၏စိတ်နှလုံးများတွင် အမြဲတစေ ထင့်လျက်ပင် ရှိချေမည်။ စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကိုသိတော်မူသောအရှင်၊နက်နဲသိမ်မွေ့ သော ကျိုးကြောင်းဆင်ခြင်တုံတရားနှင့် ပြည့်စုံတော် မူသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

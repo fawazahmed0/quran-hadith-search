@@ -710,6 +710,12 @@ No go izkhvŭrlikhme iztoshten na goliya bryag
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၅။	ငါသည် သူ့ကို သဲသောင်ပြင်ပေါ်တွင် ငါးကြီးဝမ်းမှ အန်ထုတ်စေတော်မူ၏၊ ထိုအခါတမန်တော်သည် ခွန်အား ကုန်ခန်း မကျန်းမမာဝေဒနာကြီးကပ်ရောက်လေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ငါအရှင်မြတ်သည် ထို"ယူနွတ်စ်"အား လွင်တီးပြင်၌ချတော်မူခဲ့ရာ ၎င်းမှာ နွမ်းရိလျက်ရှိခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

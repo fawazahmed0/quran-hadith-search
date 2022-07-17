@@ -710,6 +710,12 @@ za da ti pokazhem ot Nashite naĭ-golemi znameniya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	ငါသည် သင့်အား ငါ၏နမိတ်လက္ခဏာတော်ကြီးအချို့ကို ပြသဖို့ရာ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤသို့ ဖြစ်စေတော်မူခြင်းမှာ) ငါအရှင်မြတ်သည် မိမိကြီးကျယ်စွာသော သက်သေလက္ခဏာတော် များအနက် (အချို့ကို) အသင့်အား ပြသတော်မူရန် ဖြစ်ချေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

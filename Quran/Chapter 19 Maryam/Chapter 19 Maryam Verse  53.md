@@ -710,6 +710,12 @@ I mu darikhme ot Svoyata milost brat mu Kharun da stane prorok
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။	ထို့အပြင် ငါသည် သူ၏ အစ်ကိုဟာရွန်ကို တမန်တော်ရာထူး၌ ခန့်အပ်တော်မူခြင်းအားဖြင့် တမန်တော်မူစာအား ငါ၏ ကောင်းကြီးမင်္ဂလာတော်မှ ပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ငါအရှင်မြတ်သည် ယင်းမူစာအား ၎င်း၏အစ်ကိုဟာရူန်ကို နဗီတမန်တော်အဖြစ်နှင့် ချီးမြှင့်ပေးသနားတော်မူခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

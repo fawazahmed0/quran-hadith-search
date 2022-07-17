@@ -710,6 +710,12 @@ Rekokha: “Gospodi nash, ugnetikhme sebe si i ako Ti ne ni oprostish, i ne ni p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	သူတို့က အို-အကျွနု်ပ်တို့၏ကျေးဇူးတော်သခင်၊ အကျွနု်ပ်တို့သည် မိမိကိုယ်ကိုမိမိတို့ ပြစ်မှားမိပါ သည်။ အကယ်၍ အသျှင်သည် အကျွနု်ပ်တို့အား အပြစ်လွှတ်တော်မမူ၊ ကောင်းကြီးမင်္ဂလာ ပေးတော်မမူပါလျှင် အကျွနု်ပ်တို့သည် အမှန်ပင် ဆုံးရှုံးပျက်စီးသူတို့ဘောင်တွင် ပါဝင်ကြပါမည်ဟု တောင်းပန်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(ဇနီးမောင်နှံ)နှစ်ဦးတို့က အို-ကျွန်တော်မျိုးတို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ် (ဧကန်စင်စစ်)ကျွန်တော်မျိုးတို့သည် မိမိတို့ကိုယ်ကို မိမိတို့ပင် နှိပ်စက် ညှဉ်းပန်းမိခဲ့ကြပါပြီ။ နစ်နာ ဆုံးရှုံးအောင် ပြုလုပ်မိကြပါပြီ။ထို့ပြင် အကယ်၍သာ အရှင်မြတ်သည် ကျွန်တော်မျိုးတို့အားလွတ်ငြိမ်း ချမ်းသာခွင့် ပေးသနားတော်မူခြင်းမပြုပါလျှင်၊ ၎င်းပြင် ကျွန်တော်မျိုးတို့အပေါ်ဝယ် သနားညှာတာတော်မူခြင်းမပြုပါလျှင် ဧကန်မလွဲ ကျွန်တော်မျိုးတို့သည် နစ်နာ ဆုံးရှုံးသူတို့တွင် အပါအဝင် ဖြစ်ကြရပါတော့အံ့ ဟု လျှောက်ထားအသနားခံကြလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

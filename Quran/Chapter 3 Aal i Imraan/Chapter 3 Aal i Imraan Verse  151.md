@@ -710,6 +710,12 @@ Shte khvŭrlim uzhas v sŭrtsata na nevernitsite, zashtoto sŭdruzhikha s Allakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၁။	သူတို့သည် အကိုးအကားတစ်စုံတစ်ရာချပေးတော်မမူဘဲ အသျှင်မြတ် ဘက်စပ်သူများပေးသော ကြောင့် ငါအသျှင်သည် မိစ္ဆာဒိဌိတို့စိတ်တွင်း၌ ထိတ်လန့်တုန်လှုပ်ခြင်းကို သွတ်သွင်းတော်မူမည်။ သူတို့နေထိုင်ရမည့်ဌာနမူကား အဝီစိငရဲဖြစ်၏။ ဒုစရိုက်မှုကျူးလွန်သူတို့၏ အလွန်ဆိုးဝါးသော နေရာထိုင်ခင်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မကြာမြင့်မီ ငါအရှင်မြတ်သည် ကာဖိရ် မယုံမကြည် သွေဖည်ငြင်းပယ်သော သူတို့၏ စိတ်နှလုံးအတွင်းသို့အလွန်တရာကြောက်လန့်သော စိတ်ကိုထည့်သွင်းတော်မူအံ့။အကြောင်းသော်ကား ယင်းသူတို့သည် အကြင်အရာများကိုအလ္လာဟ်အရှင်မြတ်နှင့် တွဲဖက်ယှဉ်ပြိုင်ကိုးကွယ်ခဲ့ကြ၏။ ထိုအရာများကို (တွဲဖက်ယှဉ်ပြိုင်ကိုးကွယ်ရန်အကြောင်း)နှင့်စပ်လျဉ်း၍ ထိုအရှင်မြတ်သည် မည်သည့် သက်သေသာဓကတစ်စုံတစ်ရာကိုမျှ ထုတ်ပြန်ချမှတ်တော်မူခဲ့သည် မဟုတ်ချေ။၎င်းပြင် ယင်းသူတို့၏ နေထိုင်ရာဌာနသည် ငရဲမီးဘုံပင်ဖြစ်၏။စင်စစ် မတော်မတရား ပြုမူသူတို့၏ နေထိုင်ရာဌာနသည်အလွန်တရာ ဆိုးရွားလှ၏တကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

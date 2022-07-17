@@ -710,6 +710,12 @@ Izchakaĭ Denya, v koĭto nebeto shte donese yaven dim
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	အို-တမန်တော်၊ သင်သည် မိုးကောင်းကင်မှ တစ်ခဲနက်သောအခိုးအလျှံတို့ထင်ရှားစွာထွက်ပေါ်လာမည့်နေ့ကို စောင့်ဆိုင်းနေလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်) အသင်သည် မိုးကောင်းကင်မှ ထင်ရှားစွာသော အခိုးအငွေ့ ဖြစ်ပေါ်လာမည့် နေ့ကိုသာလျှင် စောင့်စား၍နေပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

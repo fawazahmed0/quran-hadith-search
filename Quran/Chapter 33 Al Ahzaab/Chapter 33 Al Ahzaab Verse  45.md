@@ -710,6 +710,12 @@ O, Proroche, Nie te izpratikhme kato svidetel, blagovestitel i predupreditel
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	အို-တမန်တော်၊ ငါသည် သင့်အား သက်သေတော်အဖြစ်ဖြင့်သော်လည်းကောင်း၊ နိဗ္ဗာန်မင်္ဂလာသတင်းကောင်း ကို ယူဆောင်ကြေငြာသူအဖြစ်ဖြင့်လည်းကောင်း၊ အပြစ်ဒဏ်အမင်္ဂလာသတင်းဆိုးနှင့် ငြိမ်းခြောက်သတိပေးသူ အဖြစ်ဖြင့်သော်လည်းကောင်း၊ စေလွှတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-နဗီတမန်တော်၊ ဧကန်မလွဲ ငါအရှင်မြတ်သည် အသင့်အား သက်သေအဖြစ်လည်းကောင်း၊ သတင်းကောင်းပြောကြားသူအဖြစ်လည်းကောင်း၊ သတိပေး နှိုးဆော်သူအဖြစ်လည်းကောင်း၊ စေလွှတ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

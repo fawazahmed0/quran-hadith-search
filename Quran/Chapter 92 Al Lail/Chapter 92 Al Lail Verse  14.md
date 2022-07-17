@@ -710,6 +710,12 @@ I vi predupredikh za Ogŭnya plamtyasht
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။ သို့ဖြစ်၍ သင်တို့အား ငါသည် မီးတောက်မီးလျှံနှင့် ခြိမ်းခြောက်သတိပေးတော်မူပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ငါအရှင်မြတ်သည် အသင်တို့အား ဟုန်းဟုန်းတောက်လျက်ရှိသော (ငရဲ)မီးနှင့်စပ်လျဉ်း၍ သတိပေး နှိုးဆော်တော်မူခဲ့ပြီးဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

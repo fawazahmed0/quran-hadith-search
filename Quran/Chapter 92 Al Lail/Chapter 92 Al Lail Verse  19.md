@@ -710,6 +710,12 @@ na nikogo ne pravi blagodeyanie, za da bŭde vŭznagraden
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။ ထို့အပြင်မည်သူမှ ထိုသူမွန်အပေါ်၌ တုံ့ပြန်ဆပ်အပ်သော အကျိုးကျေးဇူးမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်း၏အပေါ်၌ ပြန်လည်ပေးဆပ်ရန် တစ်ဦးတစ်ယောက်၏ ကျေးဇူးတစ်စုံတစ်ရာမျှပင် မရှိပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

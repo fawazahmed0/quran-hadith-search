@@ -710,6 +710,12 @@ I tŭrpi! Tvoeto tŭrpenie e samo s podkrepata na Allakh. I ne skŭrbi za tyakh,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၇။	တမန်တော်မိုဟမ္မဒ် သင်သည် သည်းခံခြင်းတရားကို မြဲမြံစွာဆုပ်ကိုင်ထားလော့။ သင်သည် သည်းခံခြင်းဂုဏ်ကို အလ္လာဟ်အရှင်မြတ်၏ ကျေးဇူးတော်ကြောင့်သာလျှင် ရရှိ၏။ မိစ္ဆာမိုက်တို့အတွက် စိတ်ဒုက္ခမရောက်လင့်။ သူတို့ကြံစည်မှုကြောင့်လည်း စိတ်မဆင်းရဲလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် (အို-နဗီတမန်တော်) အသင်သည်သည်းခံ(မြဲသည်းခံလျက်ပင်)ရှိပါလေ။ စင်စစ် အသင်၏သည်းခံမှုသည် အလ္လာဟ်အရှင်မြတ်၏ အကူအညီကြောင့်ပင်ဖြစ်ပေသည်။ ထို့ပြင် အသင်သည် ၎င်းတို့အတွက် ပူဆွေးခြင်းမရှိပါလေနှင့်။ ထိုမှတစ်ပါး အသင်သည် ၎င်းတို့၏ လျှို့ဝှက်ကြံစည်မှုများကြောင့် စိတ်ဆင်းရဲခြင်းလည်း မရှိပါလေနှင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

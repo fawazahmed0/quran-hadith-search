@@ -710,6 +710,12 @@ Nima ne vizhdat onova nad tyakh i onova pod tyakh ot nebeto i zemyata? Ako Nie p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	၎င်းတို့သည် မိမိတို့ထက် အောက်-ရှေ့-နောက်-ဝဲယာမှ ဝန်းဝိုင်းထားသောမိုးနှင့်မြေကို မမြင်ကြသလော၊ အကယ်၍ငါအရှင်မြတ်အလိုတော်ရှိလျှင် ထိုသူတို့အား မြေမျိုစေတော်မူခြင်း၊ သို့မဟုတ်သူတို့အပေါ်သို့ မိုး ကောင်းကင်ပဲ့ကျခြင်းများကို စီရင်တော်မူနိုင်၏၊ စင်စစ်အားဖြင့်၎င်းအချက်များ၌ တရားသံဝေဂရ၍ ငါအရှင်မြတ် ဘက်တော်သို့ လှည့်ကြသောကျေးတော်များအဖို့အရာ နိမိတ်လက္ခဏာအ့ံဖွယ်တော်တစ်ပါးပါရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့သည် မိမိတို့ ရှေ့နောက်(ထက်အောက်)ရှိနေသော မိုးကောင်းကင်ကိုလည်းကောင်း၊ ပထဝီမြေကိုလည်းကောင်း၊ မမြင်ကြလေသလော။ အကယ်၍သာ ငါအရှင်မြတ်သည် အလိုရှိတော်မူပါလျှင် ၎င်းတို့အား မြေမျိုစေတော်မူပေမည်။ သို့တည်း မဟုတ် ငါအရှင်မြတ်သည် ၎င်းတို့အပေါ်၌မိုးကောင်းကင်၏ အပိုင်းအစများကို ကျရောက်စေတော်မူပေမည်။ ဧကန်စင်စစ် ဤသည်၌ (ငါအရှင်မြတ်ဘက်သို့)ပြန်လှည့်ကြသော ကျွန်တိုင်းအဖို့ (လုံလောက်သော) သက်သေသာဓကရှိပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

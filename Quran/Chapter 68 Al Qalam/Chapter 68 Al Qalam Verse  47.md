@@ -710,6 +710,12 @@ Ili pri tyakh e nevedomoto i te go zapisvat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။ သို့တည်းမဟုတ် သူတို့တွင် မျက်စိမမြင်စွမ်းနိုင်သောအရာများကို သိစွမ်းနိုင်သည့်သတ္တိရှိသဖြင့် ထိုအကြောင်း အရာများကို ရေးထင်မှတ်သားထားကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် ၎င်းတို့ထံတွင် အကွယ်၌ ရှိသည်တို့ကို (သိစွမ်းနိုင်သော အသိပညာ)ရှိနေသဖြင့် ၎င်းတို့သည် ရေးမှတ်ယူကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

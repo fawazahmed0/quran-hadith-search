@@ -710,6 +710,12 @@ I dava toĭ primer na Nas, a svoeto sŭtvoryavane zabravya. I kazva: “Koĭ s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၈။	ထို့အပြင်ထိုသူမိုက်တို့သည် ငါ့အား ငါဖန်ဆင်းတော်မူသောအရာဝထ္ထုများနှင့် မနှိုင်းယှဉ်အပ်သော်လည်း ဆိုးသွမ်း သောနှိုင်းယှဉ်မှုကို ပြုဘိ၏၊ ဤသူယုတ်သည် မိမိကို မည်သည်မှ မည်သို့ဖန်ဆင်းတော်မူသည်ကို မေ့လျော့ ပြီးလျှင် မေးမြန်းသည်မှာ ဆွေးမြေ့ဟောင်းမြင်းသောအရိုးများကို အဘယ်သူသည် ရှင်ပြန်ထမြောက်စေနိုင် အ့ံနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ထို "မနုဿ" လူသားသည် ငါအရှင်မြတ်နှင့်ပတ်သက်၍(လွန်စွာရိုင်းပြသော) ဥပမာတစ်ခုကို ခိုင်းနှိုင်း ပြောဆိုခဲ့လေ၏။ ထို့ပြင် ၎င်းသည် မိမိဖန်ဆင်းခြင်းခံခဲ့ရသောအဖြစ်ကို မေ့သွားခဲ့၏။ ၎င်းက (ခိုင်းနှိုင်း ပြောဆိုခဲ့သည်မှာ) အရိုးများ ဆွေးမြည့်သွားခဲ့သောအခါ မည်သူသည် ယင်းအရိုးများကို ရှင်စေအံ့နည်းဟု ပြောဆိုခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

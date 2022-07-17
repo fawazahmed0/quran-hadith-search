@@ -710,6 +710,12 @@ Posle go umŭrtvi i poveli da bŭde pogreban
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။ ထို့နောက်သူ့ကို သေစေတော်မူ၍ သချႋုင်းတွင် မြှုထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ထိုအရှင်မြတ်သည် ၎င်းအား သေဆုံးစေတော်မူ၏။ တစ်ဖန် ထိုအရှင်မြတ်သည် ၎င်းအား သင်္ချိုင်းတွင်းသို့ မြှုပ်နှံစေတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

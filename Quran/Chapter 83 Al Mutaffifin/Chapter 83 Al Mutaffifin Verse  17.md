@@ -710,6 +710,12 @@ Posle shte se kazhe: “Tova e, koeto otrichakhte!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။ တဖန်သူတို့အား နင်တို့ငြင်းပယ်လေ့ရှိသောငရဲသည် ဤအရာသာတည်းဟူ၍ ပြောဆိုလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် (၎င်းတို့အား) "ဤသည် အသင်တို့က မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်လေ့ရှိခဲ့သောအရာပင် ဖြစ်သည်"ဟု ပြောဆိုခြင်း ခံရအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

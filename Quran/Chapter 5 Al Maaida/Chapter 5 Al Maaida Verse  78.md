@@ -710,6 +710,12 @@ Nevernitsite ot sinovete na Israil byakha prokŭlnati s ezika na Daud i na Isa, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၈။	အစ္စရာအီလ်အမျိုးသားတို့အနက် လမ်းလွဲသွားသူတို့သည် တမန်တော် ဒါဝတ်၊ ၎င်းပြင် မရယမ်၏ သား ခရစ်တော်တို့၏ ကျိန်ဆဲခြင်းကိုခံရ၏။ အကြောင်းမူကား သူတို့သည် ထောင်ထားခြားနား၍ တရားတော်ကို ကျုးလွန်ဖောက်ချိုးလေ့ရှိသောကြောင့်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အစ္စရာအီလီမျိုးနွယ်တို့အနက်မှ ‘ကာဖိရ်’ သွေဖည်ငြင်းပယ်ကြကုန်သော သူတို့မှာမူ (နဗီတမန်တော်) ဒါဝူဒ်နှင့်မရ်ယမ် (သခင်မ) ၏သားတော် (နဗီတမန်တော်) အီစာ၏နှုတ်မှတစ်ဆင့် ကျိန်ဆဲခြင်းခံခဲ့ကြရ၏။ ယင်းကဲ့သို့ ဘေးသင့်ခဲ့ကြရခြင်းမှာ ၎င်းတို့သည် သွေဖည်ခဲ့ကြသည့်ပြင် အမြဲတစေ စည်းကမ်းဖောက်ဖျက် ကျူးလွန်လေ့ရှိခြင်းကြောင့်ပင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

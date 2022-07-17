@@ -710,6 +710,12 @@ Za Nego e proslavata na nebesata i na zemyata, i po mrak, i po pladne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	မိုးကောင်းကင်နှင့် ကမ္ဘာမြေပေါ်ဝယ် ချီးမွမ်းခြင်းတည်ရာသည် အလ္လာဟ်အရှင်မြတ်ဖြစ်တော်မူ၏၊ မွန်းလွဲနှင့် မွန်းတည့်အချိန်များတွင်လည်း ဆွလားသ်ဝတ်ပြုကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား မိုးကောင်းကင်များ၌လည်းကောင်း၊ ပထဝီမြေ၌လည်းကောင်း၊ မွန်းတိမ်းပြီးနောက်တွင်လည်းကောင်း၊ အသင်တို့သည် နေ့လယ်အချိန်သို့ ဝင်ရောက်ကြသောအခါ၌လည်းကောင်း၊ ထိုအရှင်မြတ်သာလျှင် (အခါခပ်သိမ်း) ချီးမွမ်းထောပနာမှုကို ခံယူလျက် ရှိတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

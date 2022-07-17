@@ -710,6 +710,12 @@ I kogato go vidyat otblizo, litsata na nevernitsite shte pomrŭknat i shte im b�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။ သို့သော် ထိုသူတို့သည် ထိုနေ့တော်ကြီးကို မျက်ဝါးထင်ထင်မြင်ရသောအခါ သူတို့၏မျက်စိမျက်နှာပျက်ကြလတံ့၊ ၄င်းတို့အား ဤနေ့သည် နင်တို့အလျင်စလိုတောင်းဆိုကြသောနေ့တည်းဟု ဆိုကြလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ၎င်းတို့သည် ယင်း(ကိယာမတ်)ကို တွေ့မြင်ကြသောအခါ "ကာဖိရ်" သွေဖည် ငြင်းပယ်ကြကုန်သောသူတို့၏ မျက်နှာများမှာ ပျက်သွားကြပေမည်။ ထိုမှတစ်ပါး ဤသည်ပင် အသင်တို့ တောင်းဆိုလျက်ရှိခဲ့ကြသော အရာဖြစ်သည်ဟု ပြောဆိုခြင်းကို ခံကြရကုန်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

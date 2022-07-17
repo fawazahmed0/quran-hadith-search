@@ -710,6 +710,12 @@ I chakaĭ! Te sŭshto ochakvat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၉။	သို့ဖြစ်၍ သင်သည် စောင့်ဆိုင်းနေလော့၊ သူတို့လည်း စောင့်ဆိုင်းနေကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်) အသင်သည်လည်း စောင့်စား၍နေပါလေ။ ၎င်းတို့သည်လည်း စောင့်စား၍နေကြသူများပင် ဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I [pratenitsite] ne gi storvakhme s tela, koito ne se khranyat, i ne byakha bezs
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	ရှေးတမန်တော်တို့အား အစာအာဟာရစားရန်မလိုသောကိုယ်ကာယကို ငါပေးတော်မူသည်မဟုတ်ချေ၊ သို့မဟုတ် သူတို့သည် မသေမျိုးတို့မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ငါအရှင်မြတ်သည် ယင်း(ရစူလ်တမန်တော်)တို့အား အစာအဟာရ စား(သောက်)ခြင်း မပြုကြသောခန္ဓာကိုယ်များ(အဖြစ်) ပြုလုပ်(ဖန်ဆင်း) တော်မူခဲ့သည်လည်းမဟုတ်ပေ။ ထို(ရစူလ်တမန်တော်)များသည် (အသက်သေဆုံးခြင်းမရှိဘဲ) အမြဲထာဝရ (အသက်ရှင်)နေသူများလည်းမဖြစ်ခဲ့ကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

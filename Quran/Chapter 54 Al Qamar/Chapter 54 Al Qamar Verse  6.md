@@ -710,6 +710,12 @@ Zatova se otvŭrni ot tyakh [o, Mukhammad]! V Denya, kogato zovyashtiyat prizove
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	ထို့ကြောင့် အို-တမန်တော်၊ ဆင့်ခေါ်ရသောကောင်းကင်တမန်တော်သည် လူသားတို့အား အလွန်နာကျင်ဖွယ် သောအရာထဲသို့ ခေါ်ငင်သောနေ့တော်ကြီး၌ သင်သည် ထိုသူမိုက်တို့ထံမှ ထွက်ခွာသွားလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်၊) အသင်သည် ၎င်းတို့ဘက်မှ မျက်နှာလွှဲ၍ နေပါလေ။ အကြင်နေ့တွင် ဆင့်ခေါ်သူ (ကောင်းကင်တမန်)သည် (၎င်းတို့အား)မနှစ်မြို့ဖွယ်ဖြစ်သော ကိစ္စတစ်ခုသို့ ဆင့်ခေါ်ပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

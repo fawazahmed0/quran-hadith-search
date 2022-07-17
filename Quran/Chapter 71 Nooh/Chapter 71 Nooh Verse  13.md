@@ -710,6 +710,12 @@ Kakvo vi e, zashto ne zachitate velichieto na Allakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။ သင်တို့သည် အလ္လာဟ်အရှင်မြတ်အထံတော်မှ ဂုဏ်ကျက်သရေမမျှော်လင့်ကြချေ၊ သင်တို့ဘာရောဂါဖြစ်ကြ သနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့၌ မည်သည့် အကြောင်းရှိ၍ ၎င်းရှင်မြတ်၏ ထူးကဲမြင့်မြတ်မှုကို မယုံကြည် ကြသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

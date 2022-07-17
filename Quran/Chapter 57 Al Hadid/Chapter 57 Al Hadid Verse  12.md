@@ -710,6 +710,12 @@ V Denya, kogato vidish vyarvashtite mŭzhe i zheni s tyakhnata svetlina, ustreme
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	နေ့တော်ကြီး၌ သင်တမန်တော်သည် ယုံကြည်သူယောက်ျားမိန်းမတို့ရှေ့တည့်တည့်၌သော်လည်းကောင်း၊ လက်ျာ လက်များမှသော်လည်းကောင်း၊ ရောင်ခြည်တော်လွှတ်သည်ကို မြင်ရလတ့ံ၊ သူတို့နှုတ်ဆက်စကားပြောဆိုကြ သည်မှာ ဤနေ့၌ သင်တို့သည် မင်္ဂလာရှိသောသတင်းရကြ၏၊ မြစ်ချောင်းအထွေထွေစီးဆင်းလျက်ရှိသောဥယျာဉ် တော်များတွင် နိစ္စထာဝရနေထိုင်ကြရန် ဝင်ကြရ၏၊ ဤအမှုသည် အလွန်ကြီးကျယ်မြင့်မြတ်သောအောင်မြင် ခြင်းတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်၊) အကြင်နေ့တွင် အသင်သည် မုအ်မင်န်သက်ဝင်ယုံကြည်သူ ယောက်ျားမိန်းမတို့အား တွေ့မြင်ရပေမည်။ ထိုသူတို့၏ ရောင်ခြည်သည် ထိုသူတို့၏ ရှေ့၌လည်းကောင်း၊ ထိုသူတို့၏ လက်ယာဘက်များ၌ လည်းကောင်း၊ ပြေးလျက်ရှိပေမည်။ (၎င်းတို့သည် ဤသို့ပြောကြားခြင်း ခံကြရပေမည်။) ယနေ့ အသင်တို့အဖို့ သတင်းကောင်းပင်၊(အသင်တို့အဖို့) အကြင်ဥယျာဉ်များ ရှိပေသည်။ ယင်းဥယျာဉ်များ၏အောက်မှ ချောင်းများသည် စီးတွေလျက် ရှိကြပေသည်။ ယင်းဥယျာဉ်များဝယ် (အသင်တို့သည်) အမြဲထာဝစဉ် နေထိုင်ကြရပေမည်။ ထိုသည်ပင်လျှင် ကြီးကျယ်လှသော အောင်မြင်မှုပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A ako rizata mu e skŭsana otzad, tya lŭzhe, a toĭ kazva istinata.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	အကယ်၍ သူ၏ ရှပ်အကျႌသည် ကျောဘက်မှ စုတ်ခဲ့ပါမူ သူမသည် မုသားစကားဆို၏။ သူသည် အမှန်စကားကို ဆိုသူတို့ဘောင်မှ ဖြစ်၏ဟု ထွက်ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကယ်၍သာ ထိုယူဆွဖ်၏အင်္ကျီသည် နောက်မှစုတ်ပြဲ၍နေသည်ဖြစ်ပါမူ၊ ယင်းမိန်းမသည် မုသားပြောဆိုခဲ့သည်ဖြစ်သည်။ ၎င်းပြင် ထိုယူဆွဖ်မှာမူကားမှန်ကန်စွာ ပြောဆိုသူတစ်ဦးပင် ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

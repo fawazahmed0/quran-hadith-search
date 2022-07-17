@@ -710,6 +710,12 @@ I aditite, i samudyanite, i obitatelite na ar-Ras, i mnogo pokoleniya mezhdu tya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	ထို့အပြင်အားဒ်နှင့် ဆမူးဒ်လူမျိုးများ၊ ရတ်(စ်)မြို့သူမြို့သားတို့နှင့်တကွ ထိုလူမျိုးတို့အကြားတွင်ရှိသည့်များစွာ သောအသင်းသားများ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အာဒ်အမျိုးသားတို့အားလည်းကောင်း၊ ဆမူဒ်အမျိုးသားတို့အားလည်းကောင်း၊ "ရတ်စ္စ" မြို့ သားတို့အားလည်းကောင်း၊ ၎င်းတို့အကြား၌ မြောက်မြားစွာသော မျိုးနွယ်တို့အားလည်းကောင်း၊ (ငါအရှင်မြတ်သည် ဖျက်ဆီးတော်မူခဲ့၏။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

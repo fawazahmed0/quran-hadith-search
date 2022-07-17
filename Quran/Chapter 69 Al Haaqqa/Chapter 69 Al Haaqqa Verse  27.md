@@ -710,6 +710,12 @@ O, da be priklyuchilo vsichko [sŭs smŭrtta]
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။ ငါ့ကို အပြီးတိုင်အောင် သတ်ဖြတ်၍ ဖျောက်ပစ်လိုက်သော် တော်လေစွ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မရဏ" သေခြင်းတရားသည် လုံးဝ အပြီးအပြတ်စီရင်ခဲ့လျှင် ကောင်းလေစွ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

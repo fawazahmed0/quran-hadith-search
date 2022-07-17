@@ -710,6 +710,12 @@ ili poveche, i cheti Korana otmereno
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။ သို့မဟုတ် ညဉ့်ဝက်ထက် အချိန်အနည်းငယ်ပို၍ဖြစ်စေ၊ ဆွလားသ်ဝတ်ပြုလျက် ကုရ်အာန်ကျမ်းမြတ်ကို ဌာန်ကရိုဏ်းကျနပီသစွာ နှေးနှေးရွတ်ဖတ်လော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် ယင်းညဉ့်ဝက်ထက်ပို၍ (အနားယ အိပ်စက်ပါလေ)။ ၎င်းပြင် အသင်သည် ကုရ်အာန်ကျမ်းတော်မြတ်ကို အလွန် ကောင်းမွန်စွာ ကွဲပြားခြားနား ရှင်းလင်းပီသအောင် အေးအေးဆေးဆေး ဖြည်းဖြည်းမှန်မှန် ဋ္ဌာန်ကရိုဏ်းကျကျ ရွတ်ဖတ် သရဇ္ဈာယ်ပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

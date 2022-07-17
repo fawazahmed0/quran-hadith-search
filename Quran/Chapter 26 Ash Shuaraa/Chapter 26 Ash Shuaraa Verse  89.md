@@ -710,6 +710,12 @@ osven koĭto doĭde pri Allakh s chisto sŭrtse.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၉။	သို့ရာတွင်မည်သူမဆို အလ္လာဟ်အရှင်မြတ်အထံတော်သို့ သန့်ရှင်းဖြူစင်အပြစ်ကင်းသောစိတ်နှလုံးကောင်းကို ယူဆောင်လာနိုင်ပါမူ ထိုအရာသည် သာလွန်ကောင်းကျိုးပေးနိုင်ပါ၏ဟု ဆုတောင်း၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကြင်သူသည် အလ္လာဟ်အရှင်မြတ်အထံတော်သို့ စင်ကြယ်သန့်ရှင်းသော စိတ်နှလုံးနှင့် တကွရောက်ရှိခဲ့ပါလျှင်(ထိုသူသည် လွတ်ငြိမ်းချမ်းသာခွင့်ရရှိပေမည်)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

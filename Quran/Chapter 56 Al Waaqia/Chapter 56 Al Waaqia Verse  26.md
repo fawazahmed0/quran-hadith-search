@@ -710,6 +710,12 @@ a samo slovoto: “Mir! Mir!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	သို့ရာတွင် အေးချမ်းသာယာပါစေသော်ဝ်၊ အေးချမ်းသာယာပါစေသော်ဝ်ဟူ၍ မေတ္တာပို့သံကိုသာလျှင် ကြား ကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘စလာမ်’ ‘စလာမ်’ (ဘေးရန်ခပ်သိမ်း ကင်းငြိမ်းပါစေ၊ ဘေးရန်ခပ်သိမ်းကင်းငြိမ်းပါစေ)ဟူ၍ပြော ဆိုခြင်းကိုသာလျှင် (ကြားကြရကုန်အံ့သတည်း။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I zaplava s tyakh po vŭlni kato planini, i prizova Nukh svoya sin, koĭto se b
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	ထိုအခါသင်္ဘောသည် တောင်လုံးပမာ လှိုင်းတံပိုးတွင်း၌ စီးနင်းလိုက်ပါလာသောသတ္တဝါအားလုံးကို ယူဆောင် မျောသွား၏။ တမန်တော်နူဟိုက သင်္ဘောအနီးအပါးတွင် စိမ်းစိမ်းကားကားရပ်တန့်နေသောသူ၏ သားအား အို-ငါ၏ ချစ်သား သင်္ဘောပေါ်သို့ ငါတို့နှင့်အတူတက်စီးလော့။ သင်သည် မိစ္ဆာဒိဋ္ဌိတို့နှင့်အတူတကွ မနေလင့်ဟု ကြီးသောအသံနှင့်ခေါ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းနောက် ထိုသင်္ဘောသည် ၎င်းတို့အား တင်ဆောင်၍ တောင်လုံးကြီးများပမာ ကြီးမားလှသော လှိုင်းတံပိုး၏ကြားဝပ်တွားလျက်ရှိပေသည်။ ထို့ပြင် (နဗီတမန်တော်)နူဟ်သည် မိမိ၏သား(ကင်န်အာန်)အား ဟစ်ခေါ်ခဲ့လေသည်။ စင်စစ် ထိုသားသည် အဝေး၌ပင်ရှိနေခဲ့လေသည်။ (သို့ဖြစ်ပေရာနဗီတမန်တော်နူဟ်သည် ၎င်းအား) အို-ချစ်သား အသင်သည်ငါတို့နှင့်အတူ(သင်္ဘောပေါ်သို့)စီနင်းခဲ့ပါလေ။ ၎င်းပြင် အသင်သည် ကာဖိရ်မယုံမကြည်သွေဖည်ငြင်းပယ်ကုန်သော သူတို့နှင့်အတူမနေရစ်လေနှင့် (ဟု ဟစ်အော်ပြောဆိုခဲ့လေသတည်း)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

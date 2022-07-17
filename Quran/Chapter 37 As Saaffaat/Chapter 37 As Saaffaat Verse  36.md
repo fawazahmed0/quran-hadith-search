@@ -710,6 +710,12 @@ I kazvakha: “Nima shte izostavim bogovete si zaradi edin lud poet?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	ထို့အပြင်မေးကြသည်မှာ လင်္ကာဆရာအရူးတစ်ယောက်အတွက်ကြောင့် ငါတို့သည် မိမိတို့မိရိုးဖလာဘုရားများကို စွန့်ပစ်ကြမည်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့က ကျွန်ုပ်တို့သည် ရူးသွပ်သော ကဗျာဆရာတစ်ဦး၏ပြောဆိုမှုကြောင့် မိမိတို့၏ ဆည်းကပ်ကိုးကွယ်ရာများကို စွန့်လွှတ်ကြရ မည်လောဟု ပြောဆိုလေ့ရှိကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

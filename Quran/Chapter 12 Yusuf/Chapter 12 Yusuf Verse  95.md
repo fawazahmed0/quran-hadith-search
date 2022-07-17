@@ -710,6 +710,12 @@ Rekokha: “Kŭlnem se v Allakh, ti si v starata si zabluda.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၅။	သူ့အပါးတွင် ရှိသူတို့က အလ္လာဟ်အရှင်မြတ်ကို တိုင်တည်ပါ၏။ အို-ဖခင်၊ သင်သည် မိမိအမှားဟောင်းတွင်ပင် အမှန်ရှိပါသေး၏ဟု ပြောကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့က အလ္လာဟ်အရှင်မြတ်၏ ကစမ်၊ ဧကန်မလွဲ အသင်သည် မိမိ ရှေးဟောင်းလွဲမှားမှု၌ပင် ရှိနေပေသေးသည်ဟု ပြောဆိုကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

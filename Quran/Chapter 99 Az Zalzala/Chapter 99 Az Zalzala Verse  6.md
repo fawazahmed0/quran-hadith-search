@@ -710,6 +710,12 @@ V tozi Den khorata shte izlyazat na grupi, za da im bŭdat pokazani tekhnite del
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။ ထိုနေ့တော်ကြီး၌ လူသားတို့သည် မိမိတို့ပြုကျင့်ခဲ့သမျှသော အမှုအခင်းတို့ကို ပြသ စီရင်တော်မူခြင်းခံအံ့သောငှာ အစုအစုခွဲလျက် ထွက်လာကြလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနေ့တွင် လူတို့သည် အုပ်စုအမျိုးမျိုး ကွဲလျက် မိမိတို့ကျင့်မူချက်တို့ကို ပြသခြင်း ခံကြရအံ့သောငှာ ပြန်လာကြပေမည်။ (ထွက်ပေါ်လာကြပေမည်)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Allakh da te izvini [o, Mukhammad]! Zashto im razreshi [da ostanat], predi da ti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	အို-မိုဟမ္မဒ်၊ အလ္လာဟ်အရှင်မြတ်သည် သင့်ကို အပြစ်လွှတ်တော်မူ၏။မှန်ကန်သောစကားကို ဆိုသူများအား သေချာစွာမသိရမီ၊ သင်သည် သူတို့အား စစ်မချီခွင့်အဘယ်ကြောင့်ပေးသနည်း။သင်သည် မုသားကောင်များ ကို မသိပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အလ္လာဟ်အရှင်မြတ် သည်အသင့်အား ခွင့်လွှတ်တော်မူခဲ့ချေပြီ။ (သို့ရာ တွင်) အသင့်အဖို့(ထိုသူတို့အနက်) မှန်ကန်စွာ ပြောဆိုသောသူတို့သည် ထင်ရှားခြင်း မရှိသေးမီလည်းကောင်း၊ (ထိုသူတို့အနက်မှ) မုသာဝါဒီများကို အသင်မသိသေးမီလည်းကောင်း၊ အသင်သည် မည်သည့်အတွက် ထိုသူတို့အား (စစ်ချီတက်ရာသို့ မလိုက်ပဲ နေရစ်ခဲ့ကြရန်) ခွင့်ပြုခဲ့ပါသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

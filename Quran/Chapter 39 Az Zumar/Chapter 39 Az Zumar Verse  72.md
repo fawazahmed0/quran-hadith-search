@@ -710,6 +710,12 @@ Shte bŭde kazano: “Vlezte prez vratite na Ada, tuk shte prebivavate vechno!�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၂။	မိစ္ဆာမိုက်တို့ ပြောသည်မှာ ဟယ်-အမိုက်ကောင်တို့၊ အဝီစိငရဲ၌ အစဉ်အမြဲခံစားနေထိုင်ရန် ငရဲတံခါးများအတွင်း သို့ ဝင်ကြလော့၊ တရားတော်ကို စက်ဆုတ်ရွံရှာသောသူတို့အတွက် ခရီးအဆုံးသည် ဤသို့ပင်ဆိုးဝါး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုရောအခါဝယ် ၎င်းတို့မှာ) အသင်တို့သည် "ဂျဟန္နမ်ငရဲဘုံ၏ တံခါးများအတွင်းသို့ အမြဲထာဝစဉ် နေထိုင်ကြရမည့်သူများအဖြစ် ဝင်ရောက်ကြလေကုန်" ဟူ၍ ပြောဆိုခြင်းကို ခံကြရပေမည်။ စင်စစ်မှာကား မာန်မာန ထောင်လွှားကြကုန်သောသူတို့၏ နေထိုင်ရာဌာနသည် လွန်စွာ ဆိုးရွားလှပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

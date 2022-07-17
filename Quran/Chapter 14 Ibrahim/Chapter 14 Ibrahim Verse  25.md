@@ -710,6 +710,12 @@ To daryava plodovete si po vsyako vreme s pozvolenieto na svoya Gospod. Allakh d
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	ထိုသစ်ပင်သည် ၎င်း၏ အရှင်သခင်၏ အမိန့်တော်ကြောင့် ရာသီဥတုတိုင်း၌ မပြတ်မလပ်အသီးသီး၏။ အလ္လာဟ်အရှင်မြတ်သည် လူသားတို့စဉ်းစားတွေးတောဖို့ရာ ဥပမာပုံစံများကို စီရင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသစ်ပင်သည် မိမိအား ပြုစုပျိုးထောင်တော်မူသောအရှင်မြတ်၏ အမိန့်တော်နှင့် မိမိ၏အသီးများကို ဥတုရာသီမရွေး၊ အခါခပ်သိမ်း ပေးလျက်ရှိနေပေသည်။ စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် လူတို့အဖို့ ၎င်းတို့ ဆင်ခြင်သုံးသပ် သိမြင်နိုင်အံ့သောငှာ ဥပမာ ပုံဆောင်ချက်များကိုခိုင်းနှိုင်း တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

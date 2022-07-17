@@ -710,6 +710,12 @@ I doĭdokha bratyata na Yusuf, i vlyazokha pri nego. Toĭ gi pozna, a te ne go
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈။	ထို့နောက်ယူစွတ်(ဖ်)၏ နောင်တော်များသည် တမန်တော်ယူစွတ်(ဖ်)ထံ ဝင်ရောက်ကြ၏။ တမန်တော်သည် သူတို့ကို မှတ်မိ၏။ သို့သော်သူတို့သည် သူ့ကို မမှတ်မိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ယူဆွဖ်၏ နောင်တော်တို့လည်း (အီဂျစ်သို့)လာခဲ့ကြပြီး၊ ယင်းယူဆွဖ်၏ထံ ဝင်ရောက်ခဲ့ကြလေသည်။ ထိုအခါ ယင်းယူဆွဖ်သည် ၎င်းတို့အား မှတ်မိခဲ့လေသည်။ သို့ရာတွင် ယင်းတို့မူကား ထိုယူဆွဖ်အား မမှတ်မိကြပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

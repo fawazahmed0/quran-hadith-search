@@ -710,6 +710,12 @@ ot koyato otpiva i edva ya preglŭshta, i smŭrtta go nastiga ot vsichki strani,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။ ထိုအပုပ်ရည်ကို သူသည် သောက်၏။ သို့သော်မျိုမချနိုင်ချေ။ သေခြင်းသည် သူ့ထံသို့ အဘက်ဘက်မှ လာ ၏။ သို့သော်သူသည် မသေနိုင်သေးချေ။ သူ၏ မျက်မှောက်ဝယ် အလွန်ပြင်းထန်သောအပြစ်ဒဏ်တော်တမျိုးရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (၎င်းသည် ယင်းပြည်ပုပ်ရေကို တစ်ကျိုက်စီသောက်မျိုအံ့။ သို့ရာတွင် ၎င်းသည် ယင်းပြည် ပုတ်ရေကိုလည်ချောင်းအောက် ခဲယဉ်းစွာမျိုချရလတ္တံ့)။ ၎င်းပြင် မရဏသေခြင်းတရားသည် အဖက်ဖက်မှ ယင်း၏ထံသို့ ရောက်ရှိလာပေအံ့။ သို့ရာတွင် ၎င်းမှာမူကား သေဆုံးနိုင်မည်မဟုတ်ပေ။ထိုမှတစ်ပါး ၎င်း၏ေ့ရှ၌ ပြင်းထန်လှစွာသော(အခြား)ပြစ်ဒဏ်တစ်မျိုးလည်းရှိအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kazhi: “Allakh vi sŭzhivyava, posle vi umŭrtvyava, posle shte vi sŭbere v D
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	အေ-တမန်တော်၊ ဟောပြောလော့၊ ဟယ်-အချင်းတို့၊ အလ္လာဟ်အရှင်မြတ်သာလျှင် သင်တို့ကို အသက်ရှင် စေတော်မူ၏၊ သေလည်းသေစေတော်မူ၏၊ ထို့နောက်ရှင်ပြန်ထမြောက်ရသောနေ့တော်ကြီး၌ သင်တို့ကို ပြန်ရှင် စေတော်မူမည်၊ စုဆောင်းတော်မူမည်၊ ဤအကြောင်းကို ယုံမှားသံသယလုံးဝမရှိနိုင်ချေ၊ သို့သော် များစွာသော လူသားတို့သည် မသိကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ပြောကြားပါလေ။ (အချင်းတို့၊) အလ္လာဟ်အရှင်မြတ်သည်ပင် အသင်တို့အား ရှင်စေတော်မူသည်။ ထို့နောက် ထိုအရှင်မြတ်သည်ပင် အသင်တို့အား သေစေတော်မူမည်။ ထို့နောက် ထိုအရှင်မြတ်သည်ပင် အသင်တို့အား ဒွိဟသံသယ အလျဉ်းမရှိသော "ကိယာမတ်"ရှင်ပြန်ထမည့်နေ့တွင် စုရုံးတော်မူပေမည်။ သို့ရာတွင် အများဆုံးသော သူတို့မှာမူကား သိရှိကြသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

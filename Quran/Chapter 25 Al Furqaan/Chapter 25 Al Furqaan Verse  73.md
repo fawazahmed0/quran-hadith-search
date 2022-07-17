@@ -710,6 +710,12 @@ i koito, ako im se napomnyat znameniyata na tekhniya Gospod, ne ostavat pred tya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၃။	၎င်းအပြင် မိမိတို့၏အသက်သခင်ကျေးဇူးရှင် ထုတ်ပြန်ပို့ချပေးသနားတော်မူသောပညတ်တရားတော်များကို သတိရစေသောအခါ သူတို့သည် တရားတော်ကို မကြားသောနားပင်းသူများ၊ မမြင်သောမျက်စိကန်းများ မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အကြင်သူများပင်၊ ထိုသူတို့သည် မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၏ အာယတ်တော်များဖြင့် ဆုံးမဩဝါဒပေးခြင်းကို ခံကြရသောအခါ ထိုသူတို့သည် ယင်းအာယတ်တော်များအပေါ်၌ နားပင်းသူများ အဖြစ်လည်းကောင်း၊ မျက်စိကန်းသူများ အဖြစ်လည်းကောင်း၊ ကျလာကြ သည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

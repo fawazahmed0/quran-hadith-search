@@ -710,6 +710,12 @@ Reche: “Gospodi, daĭ mi znak!” Reche: “Znakŭt za teb e tri noshti da ne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	ထိုအခါသူက အို-အကျွနု်ပ်၏ အရှင်သခင်၊ အကျွနု်ပ်အား တစုံတခုသောပုဗ္ဗနိမိတ်ပေးတော်မူပါဟု လျှောက်၏။ အရှင်မြတ်က သင်၏ နိမိတ်မှာ သင်သည် မကျန်းမမာရောဂါတစုံတခုမရှိပဲနှင့် သုံးနေ့သုံးညဉ့်တိုင်တိုင် တခွန်းတပါဒသောစကားကို လူတို့နှင့်မဆိုလင့်ဟု မိန့်တော်မူသည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ယင်းဇကရီယာက အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ (သို့ဖြစ်ပါလျှင်) အရှင်မြတ်သည် (ကျွန်တော်မျိုး၏ ဇနီးမှာ သားရတနာကို ကိုယ်ဝန်ဆောင်လျက် ရှိနေကြောင်း သိနိုင်အံ့သောငှာ)သက်သေလက္ခဏာ တစ်ရပ်ရပ်ကို ကျွန်တော်မျိုးအား ပြုလုပ်သတ်မှတ်၍ ပေးတော်မူပါဟု လျှောက်ထား ပန်ကြားပြန်လေ၏။ အရှင်မြတ်က (အို-ဇကရီယာ) အသင်၏ နိမိတ်လက္ခဏာမှာ အသင်သည် ပကတိကျန်းမာစွာရှိပါလျက်နှင့် သုံးညတိတိ(တစ်ဆက်တည်း) လူတို့နှင့် စကားမပြော နိုင်ဘဲရှိမည်ဟူ၍မိန့်ကြားတော်မူခဲ့ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

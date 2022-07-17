@@ -710,6 +710,12 @@ A nima za Nasheto mŭchenie bŭrzat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ၄။	အကျွနု်ပ်တို့ပျက်စီးဆုံးရှုံးခြင်းအပြစ်ဒဏ်တော်ကို အဆောတလျင်ကျရောက်ကြမည်လောဟု တင်လျှောက် ကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ပါလျက် ၎င်းတို့က ငါအရှင်မြတ်၏ ပြစ်ဒဏ်ကို အလျင်စလို တောင်းဆိုကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

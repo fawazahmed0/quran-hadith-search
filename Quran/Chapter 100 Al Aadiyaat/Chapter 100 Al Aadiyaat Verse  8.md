@@ -710,6 +710,12 @@ I e silna lyubovta mu kŭm blagata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။ မှတ်သားကြလော့၊ သူသည် ဥစ္စာပစ္စည်းမက်မောခြင်း၌ ကြီးစွာပြင်းထန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ထိုလူသည် ဥစ္စာပစ္စည်းကို ခုံမင်စုံမက်ရာ၌ အလွန်စိတ်ထက်သန်နေသူဖြစ်၏။ (ထိုလူသည် ဥစ္စာပစ္စည်းကို အလွန်ခုံမင်သည့်အတွက် အလွန်စေးနဲသူဖြစ်၏)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

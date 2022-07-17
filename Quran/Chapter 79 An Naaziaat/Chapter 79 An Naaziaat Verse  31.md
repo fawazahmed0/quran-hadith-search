@@ -710,6 +710,12 @@ Izvadi ot neya vodite i pasbishtata ĭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။ ထိုမြေမှ ၄င်း၏ရေနှင့် ၄င်း၏စားကျက်ကို စီရင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် ထိုပထဝီမြေမှ ယင်းပထဝီမြေ၏ရေကိုလည်းကောင်း၊ ယင်းပထဝီမြေ၏မြက်၊ သစ်ပင်၊ ကောက်ပဲသီးနှံ၊ အစရှိသည်များကိုလည်းကောင်း၊ ထွက်စေတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Koĭto te sŭtvori i sŭchleni, i osŭrazmeri
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။ အရှင်မြတ်သည် သင့်ကို ဖန်ဆင်းတော်မူ၏၊ ပုံသွင်းတော်မူ၏၊ အချိုးအစားတည့်အောင် စီရင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်အရှင်မြတ်သည် အသင်(လူသား)အား ဖန်ဆင်းတော်မူခဲ့၏။ တစ်ဖန် အသင်၏(ဤအဆစ်အပိုင်းများ)ကို နေထားတကျဖြစ်အောင်လည်း ပြုပြင်တော်မူခဲ့၏။တဖန် အသင့်အား အချိုးအစား ကျအောင်လည်း စီမံတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

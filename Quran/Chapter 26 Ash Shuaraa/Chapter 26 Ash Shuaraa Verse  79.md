@@ -710,6 +710,12 @@ i Koĭto me khrani, i mi dava da piya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၉။	ထိုအရှင်သည် ငါ့အား စားဖို့ရာအစား၊ သောက်ဖို့ရာရေပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်ပြင် ထိုအရှင်မြတ်သည်ပင် ငါ့အား ကျွေးမွေးတော်မူ၏။ ထို့ပြင် ထိုအရှင်မြတ်သည်ပင် ငါ့အား တိုက်ကျွေးတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

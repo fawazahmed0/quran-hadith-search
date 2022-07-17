@@ -710,6 +710,12 @@ Bŭdete pravoverni kŭm Allakh i ne sŭdruzhavaĭte s Nego! A koĭto sŭdruzha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	သင်တို့သည် အရှင်မြတ်အားသာ ကိုးကွယ်ကြလော့၊ အရှင်မြတ်အား ဖက်စပ်သူများမပေးကြလင့် အကြောင်း မူကား အရှင်မြတ်အား ဖက်စပ်သူများပေးသောသူမိုက်တို့သည် ကောင်းကင်မှ စောက်ထိုးမိုးမျှော်ကျလာ၍ ငှက်များကို ထိုးဆွကိုက်ဖဲ့စားခြင်းခံရသူကဲ့သို့ဖြစ်ရ၏၊ သို့မဟုတ်လေပြင်းမုန်တိုင်းက ဝေးရာအရပ်သို့ တိုက်ခတ် ပစ်ချသူကဲ့သို့ဖြစ်ရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (တစ်ဆူတည်းသော) အလ္လာဟ်အရှင်မြတ် ဘက်သို့ တစ်စိတ်တစ်လက်တည်း လှည့်ကြလျက် (မည်သည့် တစ်စုံတစ်ရာကိုမျှပင်) ထိုအရှင်မြတ်နှင့် တွဲဖက်(နှိုင်းယှဉ် ကိုးကွယ်)သူများ မဖြစ်ကြဘဲ။ စင်စစ်သော်ကား မည်သူမဆို (တစ်စုံတစ်ရာကို) အလ္လာဟ်အရှင်မြတ်နှင့်တွဲဖက် (နှိုင်းယှဉ်ကိုးကွယ်) ပါလျှင် ထိုသူသည် မိုးကောင်းကင်မှ ကျလာဘိသကဲ့သို့ပင်။ ထို့နောက် ၎င်းအား (အသေသားစားသော) ငှက်တိရစ္ဆာန်များက သုတ်ယူမည်ဖြစ်ပေသည်။ သို့တည်းမဟုတ် လေသည် ၎င်းအားဝေးလံစွာသောနေရာသို့ (ပို့ဆောင်) ပစ်ချေမည်ပင် ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

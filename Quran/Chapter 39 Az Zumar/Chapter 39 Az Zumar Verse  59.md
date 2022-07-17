@@ -710,6 +710,12 @@ Ne, veche doĭdokha pri teb Moite znameniya, a ti gi vze za lŭzha i se vŭzgor
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၉။	ထိုအခါ ထိုသူမိုက်တို့အား ဗျာဒိတ်ပေးတော်မူမည်မှာ ဟယ်-မိစ္ဆာယုတ်တို့၊ နင်တို့အား တစ်စုံတစ်ရာချမ်းသာခွင့် ပေးတော်မူမည်မဟုတ်၊ အကြောင်းမူကား ငါ၏ပညတ်တော်များသည် နင်တို့ထံသို့ ကျရောက်၏၊ သို့သော် နင်တို့သည် ပညတ်တော်များကို မယုံမကြည်ငြင်းဆန်၏၊ စက်ဆုတ်ရွံရှာဖွယ်မလေးမခန့်ပြုကြ၏၊ နင်တို့သည် မယုံကြည်သူတို့ဘောင်တွင် ပါဝင်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အဘယ်ကြောင့်မဟုတ်သနည်း။ ငါအရှင်မြတ်၏ အမိန့်-အာယတ်တော်များသည် အသင့်ထံသို့ ဧကန်မလွဲ ရောက်ရှိလာခဲ့ပေသည်။ သို့ရာတွင် အသင်သည် ယင်းအမိန့်အာယတ်တော်များကို မဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ်ခဲ့ပေသည်။ ထို့ပြင် အသင်သည် မာန်မာန ထောင်လွှားခဲ့ပေသည်။ထိုမှတစ်ပါး အသင်သည် "ကာဖိရ်" သွေဖည်ငြင်းပယ်သောသူတို့တွင် အပါအဝင် ဖြစ်ခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

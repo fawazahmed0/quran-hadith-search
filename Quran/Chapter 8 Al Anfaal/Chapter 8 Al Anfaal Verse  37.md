@@ -710,6 +710,12 @@ za da otdeli Allakh loshiya ot dobriya i da nakhvŭrlya loshite edin vrŭz drug,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	ယင်းသို့ စုဆောင်းခြင်းမှာ အလ္လာဟ်အသျှင်မြတ်သည် သူယုတ်မာတို့အား သူတော်ကောင်းတို့မှ ခွဲထုတ်တော်မူရန်ဖြစ်၏။ အလ္လာဟ်အသျှင်မြတ်သည် သူယုတ်မာတို့ကို တစ်ယောက်အပေါ်တွင် တစ်ယောက်ကိုထား၍ စုံုတော်မူပြီးလျှင် ငရဲအတွင်းသို့ သွတ်သွင်းတော်မူလိမ့်မည်။ ဤလူများသည် အမှန်ပင် ဆုံးရှုံးရသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုသို့ ပြုတော်မူခြင်းကား) အလ္လာဟ်အရှင်မြတ်သည် သူယုတ်လူညစ်တို့အား သူတော်စင်သန့်စင် သောသူတို့နှင့် ခွဲခြားတော်မူအံ့သောငှာလည်းကောင်း၊ သူယုတ်လူညစ်တို့အား တစ်ဦးအပေါ်တစ်ဦး ထပ်ဆင့်တော်မူပြီးနောက်အားလုံးကိုစုပုံပြီးလျှင် ဂျဟန္နမ် ငရဲဘုံတွင်းသို့ ပို့တော်မူအံ့သောငှာလည်းကောင်း၊ (ပြုတော်မူခြင်းပင်)ဖြစ်ချေသည်။ ဤသို့သောသူများသည်ပင် ဆုံးရှုံးနစ်နာသူများ ဖြစ်ကြကုန်သတည်း ။ (ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

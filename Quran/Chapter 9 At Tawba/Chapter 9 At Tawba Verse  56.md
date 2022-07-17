@@ -710,6 +710,12 @@ I se kŭlnat v Allakh, che naistina sa ot vas, no te ne sa ot vas, a sa khora st
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၆။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ယင်း(မုနာဖစ်က်)တို့သည် ဧကန်စင်စစ် အသင်တို့အနက်မှ ဖြစ်ကြသည်ဟူ၍ အလ္လာဟ်အရှင်မြတ်အားတိုင်တည်ကာ ကျိန်ဆိုကြလေသည်။ အမှန်သော်ကား၎င်းတို့သည် အသင်တို့အနက်မှ မဟုတ်ကြချေ။ သို့ရာတွင်၎င်းတို့သည် သူရဲဘောနည်း သတ္တိကြောင်သူများသာ ဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

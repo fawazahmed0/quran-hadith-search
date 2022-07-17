@@ -710,6 +710,12 @@ I boĭte se ot Denya, v koĭto ni edna dusha ne shte zameni druga v nishto i n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	၎င်းပြင် ဝိညာဉ်တစ်ခုက အခြားဝိညာဉ်ကို အကျိုးပြုနိုင်မည်မဟုတ်သောနေ့၊ ထိုဝိညာဉ်ထံမှ တောင်းပန်ကယ်နှုတ်ခြင်းကိုလက်ခံမည်မဟုတ်သောနေ့၊ ထိုဝိညာဉ်ထံမှ လျော်ကြေးကို လက်ခံမည် မဟုတ်သောနေ့၊ ဝိညာဉ်များကို ကူညီမည် ဟုတ်သောနေ့ သင်တို့သည် သင်တို့ကိုယ်ကို ထိုနေ့မှ ကာကွယ်ကြကုန်လော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-အစ္စရာအီလီမျိုးနွယ် အပေါင်းတို့) အသင်တို့သည် သေပြီးနောက် ရှင်ပြန်ထရမည့် ကိယာမတ်နေ့(၏ဘေး) ကို (အထူးပင်) ကြောက်ရွံ့၍ မိမိတို့ကိုယ်ကို ကာကွယ်ကြကုန်၊ (အဘယ်ကြောင့်ဟူမူ) ထိုနေ့တွင် မည်သူတစ်ဦးတစ်ယောက်မျှ တစ်စုံတစ်ယောက်သောသူနှင့် ပတ်သက်၍ အနည်းငယ်မျှကိုပင် ဖြည့်စွမ်းပေးနိုင်မည်မဟုတ်။ အဘယ်သူ တစ်စုံတစ်ယောက်၏ အသနားခံပေးခြင်းကိုလည်း(ငါအရှင်သည်) သဘောတူလက်ခံတော် မူမည်မဟုတ်။ အဘယ်တစ်စုံတစ်ယောက်သော သူ၏ထံမှ ကိုယ်စားလဲ လှယ်ခြင်းကိုလည်း (ငါအရှင်သည်) လက်ခံတော်မူမည် မဟုတ်။ထို့ပြင်တဝ (ထိုနေ့တွင်) ယင်းသူတို့သည် (အခြားမည်သည့်) ကူညီယိုင်းပင်းမှုကိုမျှလည်း ခံကြရမည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

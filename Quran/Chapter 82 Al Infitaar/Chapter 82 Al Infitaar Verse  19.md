@@ -710,6 +710,12 @@ Denyat, v koĭto nikoĭ ne shte e ot polza na drug - povelyata v tozi Den prin
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။ ထိုနေ့တော်ကြီး၌ ဝိညာဉ်တစ်ခုသည် အခြားဝိညာဉ်ကို တစ်စုံတစ်ရာမှ စောင်မနိုင်မည်မဟုတ်၊ အကြောင်းမူကား ထိုနေ့တော်ကြီး၌ အုပ်စိုးမှုနှင့် အမိန့်ပေးမှုတို့သည် အလ္လာဟ်အရှင်မြတ်၏ အရာသာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုနေ့သည်ကား) မည်သူမျှပင် မည်သူတစ်ဦးတစ်ယောက်ကိုမျှ လုံးဝ အကျိုးပြုပိုင်ခွင့် မရှိသောနေ့ပင်။ထိုနေ့တွင်ကား အမိန့်အာဏာ အလုံးစုံတို့သည် အလ္လာဟ်အရှင်မြတ်၌သာ ရှိကုန်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

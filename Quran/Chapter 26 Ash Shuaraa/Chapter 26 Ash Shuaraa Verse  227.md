@@ -710,6 +710,12 @@ osven onezi, koito vyarvat i vŭrshat pravedni dela, i spomenavat chesto Allakh,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂၇။	သို့သော်အကြင်သူတို့သည် ယုံကြည်ကြ၏၊ ကောင်းမှုများပြုကြ၏၊ အလ္လာဟ်အား ကောင်းစွာအာရုံပြုကြ၏၊ မတရားနှိပ်စက်ပြီးနောက် မိမိကိုယ်ကို မိမိကာကွယ်ကြ၏၊ ထိုသူတို့အပေါ်သို့ မာရ်နတ်များမကျဆင်းနိုင်ကြချေ၊ ဒုစရိုက်ပြစ်မှုကျူးလွန်သူတို့သည် မည်သည့်ဖျက်ဆီးမှုက မိမိတို့အား ဖျက်ဆီးသည်ကို သိကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် (ယင်းလင်္ကာဆရာများအနက်မှ)အကြင်သူတို့သည် အီမာန် သက်ဝင်ယုံကြည်ခဲ့ကြပြီးနောက် ကောင်းမြတ်သော အကျင့်သီလများကိုလည်း ဆောက်တည်ခဲ့ကြကုန်၏။ အလ္လာဟ်အရှင်မြတ်အားလည်း များစွာတသ သတိရခဲ့ကြကုန်၏။ ထိုမှတစ်ပါး ၎င်းတို့သည် မိမိတို့ မတရားသဖြင့်နှိပ်စက်မှုကို ခံခဲ့ရပြီးနောက်တွင် လက်စားချေခဲ့ကြကုန်၏။(ထိုကဲ့သို့သော သူတို့မှာ ဤအမိန့်တော်၌ အကျုံးမဝင်ကြပေ)။စင်စစ်သော်ကား မတရားသဖြင့် နှိပ်စက်ကြကုန်သောသူတို့သည် မိမိတို့မှာ မည်သည့် နေရာသို့ ပြန်လှည့်ကြမည်ကို မကြာမြင့်မီပင် သိရှိကြကုန်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

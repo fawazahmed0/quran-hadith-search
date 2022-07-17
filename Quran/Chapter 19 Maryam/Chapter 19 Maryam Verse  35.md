@@ -710,6 +710,12 @@ Ne podobava na Allakh da se sdobiva sŭs sin. Prechist e Toĭ! Shtom reshi nesh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	အလ္လာဟ်အရှင်မြတ်၌ သားရတနာရှိသည်ဆိုခြင်းသည် အရှင်မြတ်၏ ဂုဏ်တော်နှင့်မသင့်မြတ်ချေ။ အရှင်မြတ် သည် ချို့တဲ့ခြင်းမဲ့တော်မူ၏။ အရှင်မြတ်သည် တစုံတခုသောအရာကို ဖန်ဆင်းလိုတော်မူသောအခါ ထိုအရာ အား ဖြစ်စေဟုသာ မိန့်တော်မူ၏။ ထိုအရာသည် ချက်ခြင်းဖြစ်လာရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သားသမီးတစ်စုံတစ်ယောက် ပြုလုပ်ခြင်းသည်အလ္လာဟ်အရှင်မြတ်နှင့် အလျှင်းမအပ်စပ်ပေ။ ထိုအရှင်မြတ်သည်(အိမ်ထောင်ပြုသားမွေးခြင်းကိစ္စတို့မှ) လုံးဝကင်းတော်မူ၏။ (အမှန်စင်စစ်) မည်သည့် အခါမဆို ထိုအရှင်မြတ်သည်အမှုကိစ္စ တစ်စုံတစ်ရာကို စီရင်ပြဋ္ဌာန်းတော်မူပါလျှင် ထိုအရှင်မြတ်သည် ယင်းအမှုကိစ္စကို ဖြစ်စေဟု မိန့်ကြားတော်မူရုံမျှဖြင့်ထိုအမှုကိစ္စသည် ဖြစ်သွားလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

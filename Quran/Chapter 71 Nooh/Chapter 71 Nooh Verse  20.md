@@ -710,6 +710,12 @@ za da khodite tam po shiroki pŭtishta.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၀။ ယင်းသို့ ဖန်ဆင်းတော် မူသည်မှာ ကမ္ဘာ မြေမျက်နှာပေါ်၌ ကျယဝ် န်း သောလမ်းမတော်အားဖြင့် သင်တို့ သွားလာရန် အလို့ငှာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့မှသာလျှင် အသင်တို့သည် ယင်းပထဝီမြေ၏ လမ်းကျယ်များဝယ် သွားလာနိုင်ကြကုန်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

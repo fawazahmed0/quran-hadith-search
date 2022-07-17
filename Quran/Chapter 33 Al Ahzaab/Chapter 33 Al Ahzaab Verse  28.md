@@ -710,6 +710,12 @@ O, Proroche, kazhi na svoite sŭprugi: “Ako ste pozhelali zemniya zhivot i neg
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	အို-တမန်တော်၊ သင်၏ကြင်ယာတော်တို့အား ဟောပြောလော့၊ သင်ရှင်မတို့သည် လောကီစည်းစိမ်ဥစ္စာကို တပ်မက်နှစ်သက်လိုလားကြလျှင် လာကြလော့၊ ငါသည် သင်တို့အား ရောင့်ရဲစေမည်၊ ကောင်းသောလွှတ်ခြင်း ဖြင့် လွှတ်ပစ်လတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-နဗီတမန်တော်၊ အသင်သည် မိမိ ကြင်ရာတော်များအား ပြောကြားပါလေ။ အကယ်၍ အသင်မတို့သည်လောကီဘဝကိုလည်းကောင်း၊ ယင်းလောကီ ဘဝ၏လှပတင့်တယ်မှုကိုလည်းကောင်း အလိုရှိကြပါလျှင်၊ အသင်မတို့လာကြပါကုန်၊ ငါသည် အသင်မတို့အား ကျေနပ်အောင်အကျိုးခံစားစေ၍ ကောင်းမွန်စွာ စွန့်လွှတ်လိုက်မည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

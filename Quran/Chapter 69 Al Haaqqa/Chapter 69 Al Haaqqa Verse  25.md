@@ -710,6 +710,12 @@ A onzi, chiyato kniga mu se dade v levitsata, shte kazhe: “O, da ne mi be dava
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။ သို့သော်အကြင်သူသည် မိမိအကျင့်စာရင်းစာအုပ်ကို လက်ဝဲလက်ဖြင့် ခံယူရရှိအံ့၊ ထိုသူသည် ဤသို့ညည်းညူ မြည်တမ်းလိမ့်မည်၊ ငါကား မှားခြင်းကြီးမှားလေစွ၊ ငါ၏ အကျင့်စာအုပ်ကို ငါ့အား မပေးလျှင် ကောင်းလေစွ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် မိမိလက်ဝဲလက်၌ မိမိမှတ်တမ်း စာအုပ်ပေးခြင်းခံရသောသူမှာမူကား (ဤသို့) ပြောဆိုပေမည်။ဪ-ငါသည် မိမိ(လက်သို့) မှတ်တမ်း စာအုပ်ပေးခြင်း မခံခဲ့ရလျှင် ကောင်းလေစွ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

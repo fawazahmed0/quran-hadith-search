@@ -710,6 +710,12 @@ I ne e [Koranŭt] slovo na prokuden satana
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။ ဤကုရ်အာန်ကျမ်းမြတ်သည် ခဲပေါက်ခံထိုက်သူ ရှိုင်တန်မာရ်နတ်၏ နှုတ်ထွက်စကားမဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ယင်း(ကုရ်အာန်ကျမ်းတော်မြတ်) သည် မည်သည့် နှင်ထုတ်ခြင်းခံရသော ‘ရှိုင်တွာန်’ မိစ္ဆာကောင်၏ ပြောဆိုချက်လည်း အလျှင်းမဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

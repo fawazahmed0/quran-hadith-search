@@ -710,6 +710,12 @@ A te ne byakha prateni za tekhni nadzirateli
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။ သို့သော် ထိုသူယုတ်မာတို့အား ယုံကြည်သူတို့ကို ထိန်းသိမ်းစောင့်ရှောက်သူအဖြစ်ဖြင့် စေလွှတ်ထားသည် မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ၎င်းတို့သည် ထိုသက်ဝင် ယုံကြည်သူတို့အပေါ်၌ ကြီးကြပ် အုပ်ထိန်းသူများအဖြစ် စေလွှတ်ခြင်း ခံခဲ့ကြရသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I kogato stigna tam, be prizovan: “O, Musa
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	သူသည် ထိုနေရာသို့ ရောက်သောအခါ သူ့ကို အမည်အားဖြင့် အို--မူစာဟု ခေါ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ယင်း(နဗီတမန်တော်)မူစာသည် ထိုမီး၏အနီးသို့ ရောက်လတ်သော် အို-မူစာ ဟု အသံပြုခြင်းကိုခံခဲ့ရလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

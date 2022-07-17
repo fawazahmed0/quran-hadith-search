@@ -710,6 +710,12 @@ Rayat, obeshtan na bogoboyazlivite, e takŭv - sred nego reki tekat, prepitaniet
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	အလ္လာဟ်အရှင်မြတ်၏ အမှုတော်ကို ကျေကုန်သူတို့အား သနားတော်မူမည်ဟု ကတိထားတော်မူသောဥယျာဉ် တော်ကြီး၏ ဥပမာပုံစံမှာကား ထိုဥယျာဉ်အောက်၌ မြစ်ရေအထွေထွေစီးဆင်းလျက်ရှိ၏။ ထိုဥယျာဉ်မှ ရိက္ခာ အစားအစာသည် ထာဝရဖြစ်၏။ အရိပ်အာဝါသလည်း ထာဝရဖြစ်၏။ ဤဥယျာဉ်တော်သည် အရှင်မြတ်၏ ဝတ္တရားကို ကျေပွန်သူတို့၏ ဆုဖြစ်၏။ မိစ္ဆာမိုက်တို့၏ ဆုမှာကား အဝီစိငရဲမီးဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ပြစ်မှုဒုစရိုက်တို့မှ ကြဉ်ရှောင်ကြကုန်သော သူမွန်သူမြတ်တို့က ကတိပေးခြင်းခံကြရသော ဂျန္နတ် အမတသုခဘုံ၏အခြေအနေကား ယင်းဂျန္နတ်အမတ သုခဘုံ၏အောက်၌စမ်းရေချောင်းများသည် စီးတွေလျက်ရှိပေမည်။ ယင်းဂျန္နတ်၏သစ်သီးဝလံများ သည်လည်းကောင်း၊ ယင်းဂျန္နတ်၏ အရိပ်ဆာယာသည် လည်းကောင်း၊ ထာဝရတည်သော သစ်သီးဝလံများ၊အရိပ်ဆာယာများပင်ဖြစ်ချေမည်။ ဤသည်ကား ပြစ်မှုဒုစရိုက်တို့မှ ကြဉ်ရှောင်ကြကုန်သော သူမွန်သူမြတ်တို့၏ အကျိုးတည်း။ သို့ရာတွင် ကာဖိရ် မယုံမကြည် သွေဖည် ငြင်းပယ်ကုန်သောသူတို့၏ အကျိုးမှာကား ငရဲမီးပင် ဖြစ်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

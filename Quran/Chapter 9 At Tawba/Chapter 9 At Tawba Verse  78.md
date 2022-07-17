@@ -710,6 +710,12 @@ Nima ne znaekha, che Allakh znae kakvo potulvat i skrishom shepnat, i che Allakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၈။	အလ္လာဟ်အရှင်မြတ်သည် သူတို့၏ နက်နဲလျှို့ဝှက်ခြင်း၊ တိတ်တဆိတ်တိုင်ပင်ခြင်း၊ နှစ်ခုလုံးကိုသော်လည်း ကောင်း၊ မျက်စိမမြင်ရသောအရာများကိုသော်လည်းကောင်း၊ အကြွင်းမဲ့သိမြင်တော်မူသည်ကို သူတို့မသိကြ သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် ထိုသူတို့၏ လျှို့ဝှက်ချက်ကိုလည်းကောင်း၊ ထိုသူတို့၏လျှို့ဝှက် နှီးနှောချက်ကိုလည်းကောင်း မလွဲဧကန် သိရှိတော်မူသည်ကို ယင်းသူတို့သည် မသိကြလေသလော။ ထို့ပြင် ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် ဖုံးကွယ်လျက်ရှိသည်တို့ကို ကောင်းစွာသိတော်မူသောအရှင်မြတ်ဖြစ်တော်မူသည် (ကိုလည်း ၎င်းတု့ိသည် မသိကြလေသလော)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

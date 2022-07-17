@@ -710,6 +710,12 @@ No go vzekha za lŭzhets i spasikhme nego i onezi, koito byakha s nego v Kovcheg
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၄။	သို့သော် သူတို့သည် သူ့အား မယုကြည်ဖယ်ရှားကြ၏။ ထို့ကြောင့် ငါအသျှင်မြတ်သည် သူနှင့်တကွ သင်္ဘောပေါ်တွင်ရှိသူများကို ကယ်တင်၍ ငါ၏ သက်သေသာဓကတော်ကြီးများကို မယုံကြည် ငြင်းဆန်သူများကို ရေနစ်မြှုပ်စေတော်မူ၏။ မှတ်သားကြလော့။ ထိုသူတို့သည် အသိဉာဏ်မျက်စိ မရှိသော မျက်ကန်းများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ပါလျက် ၎င်း(နဗီတမန်တော်နူဟ်၏ အမျိုးသား)တို့သည် ၎င်း(နဗီတမန်တော်နူဟ်)အား မဟုတ်မမှန်ဟုငြင်းပယ်ခဲ့ကြကုန်၏။ သို့ဖြစ်ပေရာ ငါအရှင်မြတ်သည် (နဗီတမန်တော်နူဟ်)အားလည်းကောင်း။ ယင်း(နဗီတမန်တော်နူဟ်)နှင့်အတူတကွ သင်္ဘောပေါ်ပါရှိသူတို့အားလည်းကောင်း၊ကယ်ဆယ် တော်မူခဲ့လေသည်။ သို့ရာတွင် အရှင်မြတ်၏ဒေသနာတော်များကို ငြင်းပယ်သော သူတို့အားမူကား နစ်မြုပ်စေတော်မူခဲ့၏။ အမှန်စင်စစ်သော်ကား၊ ၎င်းတို့သည် စက္ခုအလင်း(ဝါ)အသိအမြင် ကင်းမဲ့သော သူများပင် ဖြစ်ခဲ့ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

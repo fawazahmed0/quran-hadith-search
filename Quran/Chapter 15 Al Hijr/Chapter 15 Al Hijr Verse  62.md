@@ -710,6 +710,12 @@ toĭ kaza: “Vie ste nepoznati khora.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၁၊၆၂။	ကောင်းကင်တမန်တော်တို့သည် တမန်တော်လွတ်၏ အိမ်သို့ ရောက်လာသောအခါ သူက သင်တို့သည် အကျွနု်ပ်မသိမကျွမ်းသူတို့မုချဖြစ်ပါ၏ဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(နဗီတမန်တော်)လူ(တ်)က ဧကန်စင်စစ်အသင်တို့သည် သူစိမ်းများပင် ဖြစ်ကြကုန်သည်ဟု ပြောဆိုလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

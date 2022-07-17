@@ -710,6 +710,12 @@ Kazvat: “Sled kato umrem i stanem prŭst i kosti, dali naistina shte bŭdem v�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၂။ သူတို့က အကျွန်ုပ်တို့သည် သေကြေပျက်စီး၍ ဖုံမှုန့်နှင့်အရိုးအတိဖြစ်ပျက်ပြီးသည်နောက် အမှန်ပင်ပြန်ထစေ တော်မူမည်လောဟု ဆိုကြကုန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုရှေးသူဟောင်းတို့က ပြောဆိုခဲ့ကြသည်မှာ ကျွန်ုပ်တို့သည် သေဆုံးကြပြီးနောက် မြေကြီးဖြစ်၍ အရိုးများသာ ကျန်ရှိကြသောအခါ၊ ကျွန်ုပ်တို့သည် ရှင်ပြန်ထစေခြင်းကို ခံကြရဦးမည်လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

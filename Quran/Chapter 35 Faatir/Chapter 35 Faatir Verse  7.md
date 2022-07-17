@@ -710,6 +710,12 @@ Za nevernitsite ima surovo mŭchenie, a za tezi, koito vyarvat i vŭrshat praved
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	မိစ္ဆာဒိဋ္ဌိတို့သည် အလွန်ပြင်းပြသောအပြစ်ဒဏ်ကို ခံကြရလတ့ံ၊ သမ္မာတရားတော်ကို ယုံကြည်လျက် သုစရိုက် ကောင်းမှုပွားများသူတို့မူကား အပြစ်လွှတ်ခြင်းနှင့် အောင်ဆုမင်္ဂလာတော်ကြီးကို ရရှိကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘ကာဖိရ်’ သွေဖည်ငြင်းပယ်ကြကုန်သောသူတို့၌ ပြင်းထန်စွာသောပြစ်ဒဏ်သည် ရှိချေသည်။ သို့ရာတွင်’အီမာန်’ သက်ဝင်ယုံကြည်၍ ကောင်းမြတ်သော အကျင့်သီလများကို ကျင့်မူဆောက်တည်ကြ ကုန်သော သူတို့အဖို့မှာမူကားလွတ်ငြိမ်းချမ်းသာခွင့် သည်လည်းကောင်း၊ ကြီးကျယ်လှစွာသော အကျိုးကျေးဇူးသည်လည်းကောင်း၊ ရှိပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

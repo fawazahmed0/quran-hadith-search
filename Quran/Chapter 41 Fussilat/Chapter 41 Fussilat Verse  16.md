@@ -710,6 +710,12 @@ I zatova izpratikhme sreshtu im leden vikhŭr v zlopoluchni dni, za da gi nakara
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	ထို့ကြောင့်ငါသည် မင်္ဂလာမရှိသောနေ့များတွင် အလွန်သည်းထန်သောလေပြင်းမုန်တိုင်းကို လာစေတော်မူလိုက် ၏၊ သို့လာစေတော်မူခြင်းကား ငါသည် သူတို့အား ဤလောကတွင် အသက်ရှင်နေစဉ်အခါ အရှက်ကွဲခြင်း အပြစ်ဒဏ်ကို မြည်းစေရန်ဖြစ်၏၊ သို့သော်တမလွန်ဘဝတွင် တွေ့ရမည့်အပြစ်ဒဏ်သည် သာလွန်အရှက်ကွဲရာ ဖြစ်လတ့ံ၊ ထိုအခါသူတို့သည် စောင်မခြင်းခံရမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ငါအရှင်မြတ်သည် (4င်းတို့အဖို့)ကျက်သရေမင်္ဂလာကင်းမဲ့သောနေ့ရက်များတွင် ကြမ်းတန်းလှစွာသောလေမုန်တိုင်းကို ၎င်းတို့အပေါ်၌ စေလွှတ်တော်မူခဲ့၏။ (ယင်းသို့လေမုန် တိုင်းကို စေလွှတ်တော်မူခြင်းမှာ) ငါအရှင်မြတ်သည် ၎င်းတို့အား ဤမျက်မှောက်လောကီဘဝ၌ပင်ဂုဏ်အသရေနိမ့်ကျစေသော ပြစ်ဒဏ်ကို မြည်း စမ်းစေတော်မူအံ့သောငှာ(စေလွှတ်တော်မူခြင်း)ဖြစ်၏။ ထို့ပြင် အာခိရတ်တမလွန်ဘဝ၏ပြစ်ဒဏ်မှာ သာ၍ပင် ဂုဏ်အသရေနိမ့်ကျစေသော ပြစ်ဒဏ်ဖြစ်မည်။ ထိုအခါ ၎င်းတို့မှာ ကူညီစောင်မခြင်း ခံကြရမည်လည်း မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

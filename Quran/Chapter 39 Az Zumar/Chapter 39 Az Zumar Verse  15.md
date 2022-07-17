@@ -710,6 +710,12 @@ A vie sluzhete na kakvoto zhelaete vmesto na Nego!” Kazhi: “Gubeshtite sa on
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	သင်တို့လည်း အရှင်မြတ်မှတပါး ကြိုက်နှစ်သက်ရာကို ကိုးကွယ်ကြလော့၊ တဖန်ဟောပြောလော့၊ ဟယ်-အချင်းတို့၊ မုချဧကန်ဆုံးရှုံးရသူတို့ကား တရားစီရင်တော်မူသောနေ့တော်ကြီး၌ မိမိကိုယ်ကိုသော်လည်းကောင်း၊ မိမိတို့အိမ်သူအိမ်သားတို့ကိုသော်လည်းကောင်း၊ ဆုံးရှုံးရသူများဖြစ်ကြ၏၊ စင်စစ်အားဖြင့် ယင်းဆုံးရှုံးခြင်းသည် ရှင်းလင်းထင်ရှားသော ပျက်ပြားဆုတ်ယုတ်ခြင်းအစစ်ပေတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်တို့သည် ထိုအရှင်မြတ်အား စွန့်လွှတ်၍ မိမိတို့အလိုရှိရာကို ဆည်းကပ်ကိုးကွယ် ကြလေကုန်။ ဧကန်မလွဲ မိမိတို့ကိုယ်တိုင်နှင့် ပတ်သက်၍လည်းကောင်း၊(မိမိတို့အိမ်သူအိမ်သားများနှင့် ပတ်သက်၍လည်းကောင်း၊) "ကိယာမတ်" ရှင်ပြန်ထမည့်နေ့တွင် ဆုံးရှုံးကြသောသူတို့သည် သာလျှင်(လုံးဝ)ဆုံးရှုံးသူများ ဖြစ်ကြကုန်၏။ သတိပြုကြလေကုန်။ ဤသည်သာလျှင် ထင်ရှားလှစွာသော ဆုံးရှုံးမှုပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

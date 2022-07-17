@@ -710,6 +710,12 @@ Izoblichikha vi v lŭzha za onova, koeto kazvate [o, sŭdruzhavashti] i ne mozhe
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	အလ္လာဟ်အရှင်မြတ်က ဟယ်-မိစ္ဆာမိုက်တို့၊ နင်တို့ဆည်းကပ်ကိုးကွယ်သောဘုရားများပင် နင်တို့သည် မုသား တင်လျှောက်သည်ဟု လျှောက်ကြပေပြီ၊ နင်တို့သည် အပြစ်ဒဏ်တော်ကို လွှဲရှောင်နိုင်မည်မဟုတ်ချေ၊ အကူ အညီလည်း ရနိုင်မည်မဟုတ်ချေဟု မိန့်တော်မူလတ့ံ၊ နင်တို့အနက် အကြင်သူသည် ဒုစရိုက်မကောင်းမှုကို ကျူးလွန်အ့ံ၊ ထိုသူအား ငါသည် အလွန်ပြင်းပြသောအပြစ်ဒဏ်တော်ကို မြည်းစေတော်မူလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသို့အားဖြင့် ၎င်းတို့သည် (အကိုးကွယ်ခံတို့သည်) အသင်တို့အား (ကိုးကွယ်သူတို့အား) အသင်တို့ ပြောဆိုကြကုန်သော စကားနှင့်စပ်လျဉ်း၍ မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်ကြချေပြီ။ သို့ဖြစ်ပေရာ အသင်တို့သည် မည်သို့မျှ လွှဲရှောင်နိုင်ကြမည် လည်းမဟုတ်ပေ။ မည်သည့် အကူအညီကိုမျှ ရရှိနိုင် ကြမည် လည်းမဟုတ်ပေ။ စင်စစ်သော်ကား အသင်တို့အနက် မည်သူမဆို မတရားပြုကျင့်သည်ရှိသော် ငါအရှင်မြတ်သည် ထိုသူအားကြီး လေးသောပြစ်ဒဏ်ကို မြည်းစမ်းစေတော်မူ အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

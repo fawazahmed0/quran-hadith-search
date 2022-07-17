@@ -710,6 +710,12 @@ zabŭrzani, vdignali glavi - pogledŭt im e nepodvizhen, a sŭrtsata im sa pusti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	ထိုနေ့တော်ကြီး၌ သူတို့သည် ကြောက်ရွံ့ထိတ်လန့်ခြင်းဖြင့် ပြေးလာကြရလတ့ံ။ ထိုအခါသူတို့သည် ခေါင်းမော့ ထားကြလတ့ံ။ မိမိတို့ဘက်သို့ လှည့်ကြည့်ကြမည်မဟုတ်။ သူတို့၏ စိတ်နှလုံးများသည် လေကဲ့သို့ တုန်လှုပ်နေ ကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုနေ့တွင် ၎င်းတို့သည်) မိမိတို့၏ဦးခေါင်းများကိုမော့၍ ပြေးလွှားလျက်ပင်ရှိကြပေမည်။ ထိုနေ့တွင်)၎င်းတို့၏မျက်စိများသည် ၎င်းတို့ဘက်သို့ ပြန်လှည့်မည်မဟုတ်ပေ။(ဝါ) ၎င်းတို့သည် မျက်တောင်မခတ်ဘဲရှိကြမည်။ ထိုမှတစ်ပါး၎င်းတို့ ၏စိတ်နှလုံးများသည်လည်း လွင့်ပျံလျက်ပင် ရှိနေကြပေမည်၊ (ဝါ) သတိရှိကြမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

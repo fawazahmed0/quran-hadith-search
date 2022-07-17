@@ -710,6 +710,12 @@ koyato ne nosi prokhlada i ne izbavya ot plamŭtsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။ ထိုမီးခိုးရိပ်သည် မီးတောက်မီးလျှံအရှိန်မှ သက်သာမှုသော်လည်းကောင်း၊ ခိုလှုံရာသော်လည်းကောင်း မဟုတ် ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ယင်းအရိပ်တွင်) သက်သာမှုလည်း ရှိမည်မဟုတ်ပေ။ မီးတောက်မီးလျှံ(၏အရှိန်မှ) ကာကွယ်မည်လည်း မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

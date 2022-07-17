@@ -710,6 +710,12 @@ I ne shte sŭumeyat nito da se razporedyat, nito pri semeĭstvata si da se zav�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၀။	ထိုအခါသူတို့သည် မိမိတို့အမှုအခင်များကို သေတမ်းစာရေးလျက် ထုခွဲပေးကမ်းရန်သော်လည်းကောင်း၊ ဆွေမျိုး သားချင်းထံ ပြန်ရန်သော်လည်းကောင်း၊ အခွင့်အရေးရမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ရာ ၎င်းတို့သည် တစ်စုံတစ်ရာသော သေတမ်းစကားကို မှာကြားနိုင်ကြမည် မဟုတ်ပေ။ မိမိတို့၏ အိမ်သူအိမ်သားတို့ထံ ပြန်သွားနိုင်ကြမည်လည်း မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Toĭ naistina e Vsechuvashtiya, Vseznaeshtiya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂ဝ။	မှတ်သားလော့၊ အရှင်မြတ်သာလျှင် ကြားတော်မူသောအရှင်၊ သိတော်မူသောအရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မလွဲဧကန် ထိုအရှင်မြတ်သည်သာလျှင် အလွန်တရာ ကြားတော်မူသောအရှင်၊ အလွန်တရာ သိတော်မူသောအရှင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

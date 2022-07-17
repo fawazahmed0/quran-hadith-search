@@ -710,6 +710,12 @@ No ti otkŭde znaesh, mozhe da se prechisti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။ အို-တမန်တော်၊ သူသည် တရားတော်ကို ရှာကောင်းရှာသည်ကို သင့်အား မည်သည်က သိစေမည်နည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင် သိပါသလော၊ စင်စစ် မျက်စိမမြင်သောသူသည် စင်ကြယ်သန့်ရှင်းသူ ဖြစ်တန်ရာသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

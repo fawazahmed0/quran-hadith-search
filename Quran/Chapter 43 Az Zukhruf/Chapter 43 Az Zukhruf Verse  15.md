@@ -710,6 +710,12 @@ I Mu pripisakha [nevernitsite] chast ot Negovite rabi. Chovekŭt e yaven neblago
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	ယင်းသို့ကျေးဇူးပြုသော်လည်း ထိုလူသားတို့သည် အရှင်မြတ်၏ ကျေးကျွန်အချို့တို့ကို အရှင်မြတ်နှင့် တန်းတူ ထား၍ ကိုးကွယ်ကြ၏၊ အမှန်ဆိုသော လူသားတို့သည် မုချဧကန်ကျေးဇူးကန်းသူများဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့သော်လည်း ၎င်းတို့သည် ထိုအရှင်မြတ်၏ကျွန်များအနက် (အချို့ကို)ထိုအရှင်မြတ်၏ အစိတ်အပိုင်း တစ်ခုဟူ၍ သတ်မှတ်ခဲ့ကြကုန်၏။ ဧကန်အမှန် လူသားသည် ထင်ရှားစွာသော ကျေးဇူးကန်းသူပင် ဖြစ်ချေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

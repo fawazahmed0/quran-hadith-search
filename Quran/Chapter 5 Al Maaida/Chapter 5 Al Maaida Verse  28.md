@@ -710,6 +710,12 @@ Protegnesh li kŭm men rŭka, da me ubiesh, az ne shte protegna svoyata rŭka k�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	အကယ်၍ သင်သည် ငါ့ကကိုသတ်ရန် သင်၏လက်ကို ငါ့ဘက်သို့ ဆန့်သော်လည်း ငါသည် သင့်ကိုသတ်ရန် ငါ့လက်ကို သင့်ထံသို့ဆန့်မည်မဟုတ်ပေ။ ငါသည် စကြာဝဠာများအရှင် အလ္လာဟ်အသျှင်မြတ်ကို ကြောက်ရွံ့ရိုကျိုး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်သည် အကယ်၍ ကျွန်ုပ်အားသတ်ဖြတ်ရန် မိမိလက်ကိုလှမ်းခဲ့အံ့ငြားလည်း ကျွန်ုပ်သည် အသင့်အားသတ်ဖြတ်ရန် အသင့်ဘက်သို့ ကျွန်ုပ်၏လက်ကို လှမ်းမည်မဟုတ်ပေ။ ဧကန်စင်စစ် ကျွန်ုပ်သည် စကြာဝဠာခပ်သိမ်းတို့ကို မွေးမြူဖန်ဆင်းတော်မူသော အလ္လာဟ်အရှင်မြတ်အား ကြောက်ရွံ့သောကြောင့်ပင်တည်း။”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

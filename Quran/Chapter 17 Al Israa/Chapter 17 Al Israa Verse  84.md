@@ -710,6 +710,12 @@ Kazhi: “Vseki postŭpva po svoĭ nachin. No vashiyat Gospod naĭ-dobre znae 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၄။	တမန်တော်၊ သင်ဟောပြောလော့။ ဟယ်-အချင်းတို့၊ သင်တို့တစ်ဦးစီသည် မိမိအကျင့်အလေ့အတိုင်း ကျင့်ကြံ ကြ၏။ သင်တို့၏ ကျေးဇူးတော်သခင်သည် ကောင်းသောအကျင့်အလေ့ရှိသူအား ကောင်းစွာသိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည်(ဤသို့) ပြောကြားပါလေ။ လူတိုင်းလူတိုင်းသည် မိမိနည်းလမ်း အတိုင်းပင်ကျင့်မူလေ့ရှိပေသည်။ သို့ရာတွင် အသင်တို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည် မည်သူက လမ်းမှန်ဆုံးသောသူဖြစ်သည်ကို အသိတော်မူဆုံး အရှင်မြတ် ဖြစ်တော်မူလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

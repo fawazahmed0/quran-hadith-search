@@ -710,6 +710,12 @@ Toĭ dobre gi znae i vsichki gi otbroyava
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၄။	အမှန်မှာ အရှင်မြတ်သည် ရှိရှိသမျှအရာခပ်သိမ်းတို့ကို သိမြင်တော်မူ၍ အလုံးစုံတို့ကို မှန်ကန်စွာရေတွက် ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ထိုအရှင်မြတ်သည် ၎င်းတို့အားဝန်းခြုံ၍ထားတော်မူသည့်ပြင် ၎င်းတို့အား ရေတွက်၍လည်းထားတော်မူလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

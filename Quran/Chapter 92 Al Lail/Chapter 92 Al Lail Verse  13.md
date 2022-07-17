@@ -710,6 +710,12 @@ Na Nas prinadlezhi i otvŭdnoto, i nastoyashteto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။ ထို့အပြင်အစအဆုံးကို ငါသာလျှင် စိုးပိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ဧကန်မလွဲ တမလွန်လောကကိုလည်းကောင်း၊ ဤမျက်မှောက် လောကကိုလည်းကောင်း၊ ငါအရှင်မြတ်သာလျှင် ပိုင်ဆိုင်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

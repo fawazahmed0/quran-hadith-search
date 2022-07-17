@@ -710,6 +710,12 @@ Toĭ e, Koĭto vi pribira [dushite] prez noshtta i znae kakvo ste pridobili pr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆ဝ။	အသျှင်မြတ်သည် သင်တို့အား ညဉ့်တွင် သိမ်းဆည်းတော်မူ၏။ သင်တို့နေ့တွင် ပြုလုပ်သမျှတို့ကို သိတော်မူ၏။ ထို့နောက် နေ့တွင် တစ်ဖန်ရှင်ထစေတော်မူ၏။ သင်တို့သည် သက်တန်းစေ့အောင် ယင်းသို့ စီရင်တော်မူ၏။ ထို့နောက် သင်တို့သည် အသျှင်မြတ်အထံတော်သို့ ပြန်ကြရမည်သာတည်း။ ထိုအခါ အသျှင်မြတ်သည် သင်တို့အား သင်တို့ပြုကျင့်ခဲ့သမျှတို့ကို ပြောပြတော်မူလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုအရှင်မြတ်သည် အကြင်အရှင်မြတ်ပင်တည်း။ ထိုအရှင်မြတ်သည် အသင်တို့အား ညဉ့်အချိန်၌အိပ်စက်စေတော်မူ၏။ ၎င်းပြင် အသင်တို့ နေ့၌ပြုမူသမျှတို့ကိုလည်း ထိုအရှင်မြတ်သည် သိရှိတော်မူ၏။ ထို့နောက်တဖန်ထိုအရှင်မြတ်သည် အသင်တို့အား ထိုနေ့၌ပြန်ထစေတော်မူ၏။(တနည်း) ယင်းအိပ်စက်ခြင်းမှ ပြန်နိုးစေတော်မူ၏။ သို့မှသာလျှင် သတ်မှတ်ပြဋ္ဌာန်းထားသော အသက်တမ်းသည် စေ့သွားပေမည်။ တဖန် အသင်တို့သည် ထိုအရှင်မြတ် အထံတော်သို့သာလျှင် ပြန်လည်ရောက်ရှိကြကုန်အံ့။ ၎င်းနောက် ထိုအရှင်မြတ်သည် အသင်တို့အား အသင်တို့ ပြုမူသမျှတို့ကို ထုတ်ဖော်မိန့်ကြားတော်မူအံ့။(ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

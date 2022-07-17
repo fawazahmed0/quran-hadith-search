@@ -710,6 +710,12 @@ Tova sa znameniyata na Allakh. Chetem ti gi spored istinata. Togava v koe slovo 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	အို-တမန်တော်၊ ဤသာဓကများသည် ငါက သင့်အား မှန်ကန်စွာရေရွတ်ပြတော်မူသောသက်သေသာဓကတော် တည်း၊ အလ္လာဟ်နှင့် အရှင်မြတ်၏ သက်သေသာဓကတော်များကို မယုံကြည်ငြင်းသောသူတို့သည် အဘယ် အရာကို ယုံမည်နည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည်တို့ကား အလ္လာဟ်အရှင်မြတ်၏ သက်သေလက္ခဏာတော်များပင် ငါအရှင်သည် ယင်း သက်သေလက္ခဏာတော်များကို အသင်၏ရှေ့ဝယ် တိကျမှန်ကန်စွာ ဖတ်ကြားပြတော်မူ၏။ သို့ဖြစ်ပေရာ ထိုသူတို့သည် အလ္လာဟ်အရှင်မြတ်(မှတစ်ပါး ထိုအရှင်မြတ်)၏ သက်သေလက္ခဏာတော်များ မှတစ်ပါး မည်သည့်စကားကို ယုံကြည်ကြအံ့နည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

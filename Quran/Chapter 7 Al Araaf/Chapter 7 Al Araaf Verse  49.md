@@ -710,6 +710,12 @@ Tezi li sa, za koito se klekhte, che Allakh ne shte gi dari s milost?” [A na k
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	သင်တို့က အလ္လာဟ်အသျှင်မြတ်သည် သူတို့အား သနားစောင့်ရှောက်ချီးမြှောက်တော်မူမည်မဟုတ် ဟု ကျမ်းကျိန်ပြီး ပြောဆိုခြင်းခံရသောသူတို့သည် ဤသူများလောဟု မေးကြ၏။ ထိုသူတို့အား သင်တို့သည် ဥယျာဉ်တော်သို့ ဝင်ကြလော့။ သင်တို့အပေါ် ကြောက်ရွံ့စိုးရိမ်ခြင်း ကျရောက်တော့ မည်မဟုတ်ပေ။ သင်တို့သည် စိတ်ညစ်ပူဆွေးရတော့မည်လည်းမဟုတ်ပေဟု ဗျာဒိတ်ပေးတော်မူပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (၎င်းပြင် အအ်ရာဖ်၌ရှိသူများက ဆက်လက်၍ပြောကြားကြဦးအံ့) ဤသူများကား အကြင်သူများ ပင်လော။အသင်တို့သည် (ထိုသူတို့နှင့်ပတ်သက်၍) အလ္လာဟ်အရှင်မြတ်သည် ထိုသူတို့အပေါ် ကရုဏာပြုတော်မူလိမ့်မည်မဟုတ်ဟုကျိန်တွယ်၍ ပြောဆိုခဲ့ကြလေသည်။ (သို့ရာတွင်မူကား၊ ၎င်းတို့နှင့်စပ်လျဉ်း၍) အသင်တို့သည် ဂျန္နတ်အမတသုခဘုံ သို့ ဝင်ရောက်ကြလေကုန်။ (ထိုဂျန္နတ်အမတသုခဘုံတွင်) အသင်တို့အပေါ်၌ မည်သည့်စိုးရိမ်မှုမျှလည်း ရှိလိမ့်မည်မဟုတ်ပေ၊၊၎င်းပြင် အသင်တို့သည် ပူဆွေး ကြရမည်လည်း မဟုတ်ချေ။(ဟူသော အမိန့်တော်သည် ကျရောက်ခဲ့ချေပြီတကား။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

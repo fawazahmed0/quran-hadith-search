@@ -710,6 +710,12 @@ Toĭ e, Koĭto sŭtvori choveka ot voda i mu otredi krŭvno i brachno rodstvo.
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၄။	တဖန်အရှင်မြတ်သည် လူသားကို ရေမှ ဖန်ဆင်းတော်မူ၏၊ ထို့အပြင်လူသားအား သွေးသားကြောင့် တော်စပ်သူ ဆွေမျိုးများ လက်ထပ်ထိမ်းမြားခြင်းကြောင့် တော်စပ်သူဆွေမျိုးများကို ပေးသနားတော်မူ၏၊ အကြောင်းမူကား သင်၏အသက်သခင်ကျေးဇူးရှင်သည် အနန္တတန်ခိုးတော်အရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် ထိုအရှင်မြတ်သည်ပင် (ကလလ)ရေ(ကြည်)ဖြင့် လူကိုဖန်ဆင်းတော်မူသောအရှင် ဖြစ်တော်မူ၏။ ထို့နောက် ထိုအရှင်မြတ်သည် ထိုလူကို (သွေးရင်းသားရင်းဖြစ်သော) ဆွေးမျိုးသားချင်း တော်စပ်သူများနှင့်လည်းကောင်း၊ ထိမ်းမြားမှုဖြင့် ဆွေမျိုးတော်စပ်သူများကို လည်းကောင်း၊ ဖြစ် စေတော်မူခဲ့၏။ စင်စစ်သော်ကား အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် တန်ခိုးတော်နှင့်ပြည့်စုံတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

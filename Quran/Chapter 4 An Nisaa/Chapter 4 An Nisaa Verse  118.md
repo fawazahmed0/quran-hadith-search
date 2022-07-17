@@ -710,6 +710,12 @@ Prokle go Allakh i toĭ reche: “Kŭlna se, shte otnema opredelena chast ot Tv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၈။	ရှိုင်တန်မာရ်နတ်သည် အလ္လာဟ်အသျှင်မြတ် ကျိန်ဆဲတော်မူခြင်းကိုခံရ၍ ဤသို့ တင်လျှောက်၏။ အို-အသျှင် အကျွနု်ပ်သည် အသျှင်၏ ကျေးတော်မျိုး၊ ကျွန်တော်မျိုးအနက် သမတ်မှတ်ထားသော သူတို့ကို အမှန်ပင်ရယူပါမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် ‘ရှိုင်တွာန်’ ကို (မိမိ) ကရုဏာတော်မှ ကင်းဝေးစေတော်မူခဲ့ချေပြီ။ (ယင်းကဲ့သို့ ကရုဏာတော်မှကင်းဝေးရသောအခါ) ထို ရှိုင်တွာန်က (ဤသို့) လျှောက်ထားခဲ့လေသည်။ “ကျွန်တော်မျိုးသည် အရှင်မြတ်၏ကျွန်များအနက်မှ (မိမိအဖို့ မိမိ) သတ်မှတ်ပြဌာန်းပြီးဖြစ်သော ဝေစုဝေပုံတစ်စုံတစ်ခုကို မုချယူပါမည်။”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

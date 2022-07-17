@@ -710,6 +710,12 @@ Kakvoto i da vi se dade, to e ot nasladata na zemniya zhivot. A onova, koeto e p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	အေ-လူသားတို့၊ သင်တို့အား ဤလောကတွင် ပေးသနားတော်မူသောဥစ္စာပစ္စည်းတို့သည် ဤမျက်မှောက် ဘဝ၌ ခေတ္တခဏမျှ သုံးစွဲရသောပစ္စည်းဝထ္ထုများဖြစ်၏၊ သို့သော်အလ္လာဟ်အရှင်မြတ်အထံတော်၌ရှိသော အောင် ဆုမင်္ဂလာတော်မှာကား မိမိအရှင်သခင်အား ယုံကြည်ကိုးစားသူတို့အဖို့အရာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သို့ပင်ဖြစ်စေ အသင်တို့ ပေးသနားတော်မူခြင်းခံခဲ့ကြရသော ဥစ္စာပစ္စည်းဟူသမျှတို့သည် လောကီဘဝ၏အသုံးအဆောင်ပစ္စည်းမျှသာ ဖြစ်ကုန်၏။ သို့ရာတွင် အလ္လာဟ်အရှင်မြတ်ထံတော်၌ ရှိသမျှတို့မှာမူကား အကောင်းဆုံး၊အမြဲဆုံးပင်ဖြစ်ကုန်၏။ (ယင်းတို့မှာ) အကြင်သူတို့အဖို့ဖြစ်၏။ထိုသူတို့သည် အီမာန်သက်ဝင်ယုံကြည်ခဲ့ကြသည့်ပြင် မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အပေါ်၌ယုံကြည် ကိုးစား အားထားကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

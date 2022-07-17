@@ -710,6 +710,12 @@ a ne e slovo na poet. No vie malko vyarvate
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။ ဤကျမ်းတော်မြတ်သည် ပျို့ကဗျာလင်္ကာဆရာ၏ မိန့်ခွန်းမဟုတ်၊ သို့သော်သင်တို့သည် မယုံကြည်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ယင်းကုရ်အာန်ကျမ်းတော်မြတ်သည် မည်သည့်ကဗျာဆရာ တစ်ဦးတစ်ယောက်၏ ပြောဆိုချက်မျှ မဟုတ်ပြီ။ အသင်တို့သည် အနည်းငယ်မျှသာလျှင် သက်ဝင်ယုံကြည်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

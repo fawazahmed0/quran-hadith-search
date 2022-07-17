@@ -710,6 +710,12 @@ Nima ne znaesh, che na Allakh prinadlezhi vladenieto na nebesata i na zemyata? I
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄ဝ။	အလ္လာဟ်အသျှင်မြတ်သည် မိုးမြေ၌ အချုပ်အခြာအာဏာပိုင်သတော်မူသော အထွဋ်အခေါင် ဖြစ်တော်မူသည်ကို သင်မသိသလော။ အလ္လာဟ်အသျှင်မြတ်သည် အပြစ်ပေးလိုတော်မူသောသူကို အပြစ်ပေးတော်မူ၏။ အပြစ်လွှတ်လိုတော်မူသောသူကို အပြစ်လွှတ်တော်မူ၏။ အရာခပ်သိမ်းကုန် တို့ကို ပြုစွမ်းနိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် မိုးကောင်းကင်များနှင့် ပထဝီမြေကို စိုးမိုးအုပ်ချုပ်မှုအာဏာသည် အလ္လာဟ်အရှင်မြတ်၌သာရှိသည်ကို အသင်သည် မသိလေသလော။ ထိုအရှင်သည် မိမိအလိုရှိတော်မူသောသူအား ပြစ်ဒဏ်ပေးတော်မူ၏။ ထိုနည်းတူစွာ မိမိအလိုရှိတော်မူသောသူအား ချမ်းသာခွင့်ပေးသနားတော်မူ၏။ အမှန်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို စွမ်းဆောင်နိုင်တော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

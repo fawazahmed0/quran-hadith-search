@@ -710,6 +710,12 @@ I kazvat onezi, koito ne se nadyavat da Ni sreshtnat: “Zashto ne ni byakha izp
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	ငါ့အား ဖူးမြော်ရမည်ကို မမျှော်လင့်သူတို့က အကျွန်ုပ်ထံ ကောင်းကင်တမန်များကို အဘယ်ကြောင့်မစေလွှတ် ပါသနည်း၊ အကျွနု်ပ်တို့သည် မိမိတို့၏အရှင်သခင်ကို အဘယ်ကြောင့်မျက်ဝါးထင်ထင်မဖူးမြင်ရပါသနည်းဟု ပြောဆိုကြ၏၊ အမှန်မှာသူတို့သည် မိမိတို့ကိုယ်ကို မိမိတို့အဖို့အလွန်အထင်ကြီး၍ မာနထောင်လွှားလျက် တရားတော်ကို မထီမဲ့မြင်ပြုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ငါအရှင်မြတ်နှင့်တွေ့ဆုံမှုကို မမျှော်လင့်ကြသော (မစိုးရိမ်ကြသော)သူတို့က အဘယ်ကြောင့် "မလာအိကဟ်" ကောင်းကင်တမန်များသည် ကျွန်ုပ်တို့ထံဆင်းသက်၍ မလာကြသနည်း။ သို့တည်းမဟုတ် အဘယ်ကြောင့် ကျွန်ုပ်တို့သည် မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်ကို မဖူးမြော်ကြရပါသနည်းဟု ပြောဆိုကြကုန်၏။ ဧကန်မလွဲ ၎င်းတို့သည် မိမိတို့စိတ်ထဲ၌ မိမိတို့ကိုယ်ကို အထင်ကြီးခဲ့ကြကုန်၏။ ထို့ပြင် ၎င်းတို့သည် အကြီးအကျယ် ဆိုးသွမ်းခြင်းအားဖြင့် စည်းကမ်းကျူးလွန်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

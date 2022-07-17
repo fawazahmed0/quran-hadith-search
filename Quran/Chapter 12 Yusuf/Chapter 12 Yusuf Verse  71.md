@@ -710,6 +710,12 @@ Kogato pristŭpikha kŭm tyakh, kazakha: “Kakvo ste izgubili?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၁။	ထိုခရီးသည်တို့က ကြွေးကြော်သူတို့ထံ လာပြီးလျှင် သင်တို့အဘယ်အရာပျောက်ဆုံးပါသနည်းဟု မေးမြန်းကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ယင်းနောင်တော်များသည် ထိုကြေညာသူနှင့်အပေါင်းတို့ဘက်သို့ မျက်နှာလှည့်ကာ အသင်တို့သည်မည်သည့်အရာ ပျောက်ဆုံးနေပါသနည်းဟု (ပြန်လည်) ပြောဆိုမေးမြန်းခဲ့ကြလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

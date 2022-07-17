@@ -710,6 +710,12 @@ A koito priemat drugi pokroviteli vmesto Nego - Allakh gi nablyudava. Ti ne si n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	အရှင်မြတ်မှတပါး အခြားစောင့်ရှောက်ကာကွယ်သူ အဆွေခင်ပွန်းရှာသူတို့ကို အရှင်မြတ်စောင့်ကြည့်တော်မူ၏၊ အေ-တမန်တော် သင်သည် ထိုသူတို့ကို အုပ်ထိန်းရသူမဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်မှတစ်ပါး အခြားကို ကိစ္စအဝဝကိုပြီးစီးအောင် ဆောင်ရွက်ပေးသူများအဖြစ် ရွေးချယ်ပြုလုပ်ခဲ့ကြသောသူတို့အား အလ္လာဟ်အရှင်မြတ်သည် ကြည့်ရှုစောင့်ကြပ်တော်မူလျက်ရှိ၏။ စင်စစ်သော်ကား အသင်သည် ၎င်းတို့နှင့်ပတ်သက်၍ တာဝန်ခံမဟုတ် ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

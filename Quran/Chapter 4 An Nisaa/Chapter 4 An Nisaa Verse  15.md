@@ -710,6 +710,12 @@ A sreshtu onezi ot zhenite vi, koito izvŭrshat prelyubodeyanie, vzemete chetiri
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	သင်တို့၏မိန်းမတို့အနက် ကာမခိုးမှုကျူးလွန်သောမိန်းမများ၏အမှုများတွင် သူတို့နှင့်ဆန့်ကျင်သော သက်သေလေးယောက်ကို ဆင့်ခေါ်ကြလော့။ ထိုသက်သေတို့သည် စွပ်စွဲချက်မှန်ပါသည်ဟု ထွက်ဆိုကြလျှင် ထိုမိန်းမများကို သေသည်တိုင်အောင် သို့မဟုတ် အလ္လာဟ်အသျှင်မြတ် ဗျာဒိတ် ပေးတော်မူသည့်တိုင်အောင် သူတို့၏အိမ်တွင်း၌ ချုပ်နှောင်ထားကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်တဝ အသင်တို့၏ ဇနီးမိန်းမတို့အနက်မှ အကြင်မိန်းမတို့သည် ကာမေသုမိစ္ဆာစာရကံကို ကျူးလွန်ကြပါလျှင်၊ အသင်တို့သည် ထိုဇနီးမိန်းမများအပေါ်၌ မိမိတို့အနက်မှ (ယောက်ျား) လေးယောက်တို့ကို သက်သေထားရှိကြလေကုန်။ အကယ်၍ ထိုသူလေးဦးတို့က (အမှန်အကန်) သက်သေခံခဲ့ကြပါမူ အသင်တို့သည် ယင်းမိန်းမတို့အား အိမ်များအတွင်း၌ ထိုသူမတို့ အသက်သေဆုံးသည့်တိုင်အောင်ဖြစ်စေ၊ သို့တည်းမဟုတ် အလ္လာဟ်အရှင်မြတ်သည် ထိုသူမတို့အဖို့ တစ်စုံတစ်ရာနည်းလမ်းကို ပြုလုပ်ပေးသည့်တိုင်အောင်ဖြစ်စေ အကျဉ်းချထားကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

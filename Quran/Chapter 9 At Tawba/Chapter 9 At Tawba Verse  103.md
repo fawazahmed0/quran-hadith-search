@@ -710,6 +710,12 @@ Vzemi ot tekhnite imoti milostinya, za da se prechistyat s neya i da im se vŭzd
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၃။	သူတို့၏ထံမှ အလှုဒါနယူလော့။ထိုအလှုများအားဖြင့် သင်သည် သူတို့ကို သန့်ရှင်းစင်ကြယ်စေ၍ တရားပွားများ စေလိမ့်မည်။သူတို့အတွက် ဆုတောင်းလော့။သင်၏ ဆုပဋ္ဌာနာများသည် သူတို့အတွက် အေးချမ်းသာယာမှု ဖြစ်၏။အလ္လာဟ်အရှင်သည် အလုံးစုံကို ကြားတော်မူ၏။အလုံးစုံကို သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ထိုသူတို့၏ဥစ္စာပစ္စည်းများထဲမှ အလှူဝတ္ထုကို လက်ခံယူလိုက်ပါ။ ယင်းသို့(အလှူလက်ခံယူလိုက်ခြင်း)အားဖြင့် အသင်သည် ထိုသူများအား စင်ကြယ်သန့်ရှင်း အပြစ်ကင်းစေနိုင်မည်။ ထို့ပြင်အသင်သည် ၎င်းတို့အဖို့ ဆုမွန်တောင်းပါလေ။ အကြောင်းသော်ကား အသင်၏ဆုမွန်တောင်းခြင်းသည် ၎င်းတို့အဖို့ ငြိမ်းအေးသက်သာ(နှစ်သိမ့်ကျေနပ်)မှုပင် ဖြစ်ချေသည်။ စင်စစ်တစ်မူကား အလ္လာဟ်အရှင်မြတ်သည် အလုံးစုံတို့ကို ကြားတော်မူသောအရှင်၊ အရာခပ်သိမ်းတို့ကို သိရှိတော်မူသောအရှင်ဖြစ်တော်မူချေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

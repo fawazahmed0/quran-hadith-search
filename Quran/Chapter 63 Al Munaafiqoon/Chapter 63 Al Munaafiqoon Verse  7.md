@@ -710,6 +710,12 @@ Te sa, koito kazvat: “Ne kharchete za onezi, koito sa pri Pratenika na Allakh,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။ ထိုသူယုတ်မာတို့သည် အချင်းတို့၊ တမန်တော်သခင်၏ အပါးတွင် နေထိုင်ကုန်သောသူတို့အတွက် မသုံးစွဲကြ လင့်၊ သို့မှသာလျှင် ထိုသူတို့သည် သင်တို့ထံမှ တကွဲတပြားစီထွက်သွားကြလိမ့်မည်ဟု အချင်းချင်းပြောဆို၏၊ အမှန်မှာ မိုးကောင်းကင်နှင့် ကမ္ဘာမြေပြင်ဝယ်ရှိရှိသမျှဥစ္စာပစ္စည်းများသည် အလ္လာဟ်အရှင်မြတ်၏ ဘဏ္ဍာ တော်များဖြစ်ကြ၏၊ သို့သော်ယုံကြည်ဟန်ဆောင်သူတို့သည် မသိကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့ကပင် ‘အသင်တို့သည် ရစူလ်တမန်တော်မြတ်၏ထံတော်ပါး၌ ရှိနေကြသော သူတို့အပေါ် ၌ ၎င်းတို့ ကစဉ့်ကလျား ဖြစ်သွားကြသည်အထိ သုံးစွဲခြင်းကို မပြုကြကုန်လင့်’ ဟူ၍ ပြောဆိုခဲ့ကြကုန်၏။ စင်စစ်သော်ကား မိုးကောင်းကင်များ၌ရှိကုန်သော ဘဏ္ဍာတော်များသည်လည်းကောင်း၊ ပထဝီမြေ ၌ရှိကုန်သော ဘဏ္ဍာတော်များသည်လည်းကောင်း၊ အရှင်မြတ်ပိုင်ဆိုင်တော်မူသော ဘဏ္ဍာတော်များသာ ဖြစ်ကုန်၏။ သို့ရာတွင် ‘မုနာဖစ်က်’အယောင်ဆောင် မွတ်စ်လင်မ်တို့သည် နားလည်ကြသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ shtyakhme da sme predani rabi na Allakh.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၇၊၁၆၈၊၁၆၉။	ထိုမိစ္ဆာမိုက်တို့က မုချအမှန်ပြောဆိုလေ့ရှိကြသည်မှာ အကယ်၍ ငါတို့ထံသို့ ရှေးပေါရာဏလူဟောင်း ထံမှ သမ္မာတရားတော်ကို သတိရဝေရာ ကျမ်းစာတော်တစ်စောင်ရရှိပါလျှင် ငါတို့သည် အလ္လာဟ်အရှင်မြတ်အား စိတ်အားထက်သန်စွာနှင့် အမြတ်တနိုးကိုးကွယ်သော ကျေးတော်မျိုးကျွန်တော်မျိုးများ မုချဧကန်ဖြစ်လတ့ံဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်ပင် ကျွန်ုပ်တို့သည် ရွေးချယ်ခြင်းခံကြရသော အလ္လာဟ်အရှင်မြတ်၏ကျွန်များပင် ဖြစ်ကြမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

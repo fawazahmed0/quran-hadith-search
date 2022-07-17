@@ -710,6 +710,12 @@ I mu pokaza [Musa] naĭ-golyamoto znamenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၀။ ထိုအခါတမန်တော်မူစာသည် ဖွာရောမင်းအား အလွန်ကြီးကျယ်သောအံ့ဖွယ်ကို ပြလေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနောက် ထို(နဗီတမန်တော်)မူစာသည် ၎င်းဖစ်ရ်အောင်န်အား အကြီးကျယ်ဆုံးသော သက်သေ လက္ခဏာတန်ခိုးတော်ကို ပြသခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

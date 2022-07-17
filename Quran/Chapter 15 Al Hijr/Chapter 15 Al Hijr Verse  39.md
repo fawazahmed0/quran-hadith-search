@@ -710,6 +710,12 @@ Reche: “Gospodi moĭ, zatova, che Ti me ostavi v zabluda, nepremenno shte im 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	ထိုအခါ အီဗလစ်က အို-အကျွနု်ပ်၏ ကျေးဇူးတော်သခင်၊ အရှင်သည် အကျွနု်ပ်အား မိစ္ဆာလမ်းမှားသို့ ပို့ဆောင်တော်မူသဖြင့်၊ အကျွနု်ပ်လည်း ကမ္ဘာမြေပေါ်တွင် လမ်းမှားကို လူသားတို့အဖို့အရာ လှပတင့်တယ် မက်လောက်ဖွယ်အောင် အမှန်ပင်ဆင်ယင်၍ လူသားတိုင်းကို လမ်းမှားသို့ ဖျားယောင်းသွေးဆောင်ပါမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ယင်းအီဗ်လီစ်က (ဤသို့)လျှောက်ထား ပန်ကြားခဲ့ပြန်၏။ အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်၊ အရှင်မြတ်သည် ကျွန်တော်မျိုး အားလွဲချော်မှောက်မှားစေတော်မူခဲ့သောကြောင့် အမှန်ပင် ကျွန်တော်မျိုးသည် ကမ္ဘာ လောကတွင် (ပြစ်မှုဒုစရိုက်များကို) ယင်းလူသားတို့၏အမြင်၌ လှပတင့်တယ်အောင်ပြုလုပ်ပါမည်။ ထို့ပြင်ဧကန်မလွဲ ကျွန်တော်မျိုးသည် ၎င်းတို့အားလုံးကိုပင်လွဲချော်မှောက်မှားအောင်လည်း ပြုလုပ်ပါမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

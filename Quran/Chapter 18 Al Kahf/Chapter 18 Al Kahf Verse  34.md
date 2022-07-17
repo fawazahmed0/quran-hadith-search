@@ -710,6 +710,12 @@ I imashe toĭ plodove, i kaza na svoya drugar, govoreĭki s nego: “Az imam p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	ထို့ကြောင််သူ့မှာ အသီးအနှံပေါများကြွယ်ဝ၏။ သူသည် မိမိအဆွေခင်ပွန်းအား စကားဤသို့ပြော၏။ အကျွနု်ပ် သည် မိတ်ဆွေထက် သာလွန်ချမ်းသာကြွယ်ဝ၏။ အခြွေအရံလည်း များစွာရတတ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ထိုသူ၌ (ယင်းလယ်ယာဥယျာဉ်များအပြင် အခြားသော)ဥစ္စာပစ္စည်းများလည် ရှိခဲ့ပေရာ၊ 4င်းကမိမိအဖော်အား ထိုအဖော်နှင့် ဤသို့ပြောဆိုလေသည်။ကျွန်ုပ်သည် အသင့်ထက် ဥစ္စာပစ္စည်းအားဖြင့်လည်း (ချမ်းသာကြွယ်ဝ)ပိုမိုများပြားသူ ဖြစ်သည့်ပြင် ခြွေရံသင်းပင်းအားဖြင့်လည်း (အသင့် ထက်)ပိုမို များပြားသူဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

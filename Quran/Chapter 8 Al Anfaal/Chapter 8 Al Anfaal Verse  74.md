@@ -710,6 +710,12 @@ A koito vyarvat i se preselyat, i se boryat po pŭtya na Allakh, i tezi, koito p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၄။	ယုံကြည်လျက် မိမိတို့အိုးအိမ်များကိုစွန့်လွှတ်၍ အလ္လာဟ်အသျှင်မြတ်၏ဘက်တော်၌ ကြီးစား အားထုတ်သူတို့နှင့် ထိုသူတို့ကိုလက်ခံ၍ ကူညီစောင့်ရှောက်သောသူတို့ ဤလူနှစ်မျိုးနှစ်စားလုံးသည် အမှန်ပင်ယုံကြည်သူများဖြစ်ကြ၏။ ထိုသူများအတွက် အပြစ်လွှတ်ခြင်းနှင့် ပေါများသောရိက္ခာများ ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်တဝ အကြင်သူတို့သည် သက်ဝင်ယုံကြည်ခဲ့ကြကုန်၏။ ၎င်းပြင်ထိုသူတို့သည် (မိမိတို့ ၏) အိုးအိမ်စည်းစိမ် (တို့ကိုစွန့်ကာအရပ်တစ်ပါးသို့) ရွှေ့ပြောင်းနေထိုင်ခဲ့ကြကုန်၏၊ ထိုမှတစ်ပါး ယင်းတို့သည် အလ္လာဟ်အရှင်မြတ်၏လမ်းတော်၌ စစ်မက်ပြိုင်ဆိုင်တိုက်ခိုက်ခဲ့ကြကုန်၏။ ထို့အတူအကြင်သူတို့သည် ခိုကိုးရန်နေရာများ ပေးခဲ့ကြကုန်၏။ ၎င်းပြင် ထိုသူတို့သည် ယိုင်းပင်းကူညီခဲ့ကြကုန်၏။ ထိုသူတို့သည်ပင်လျှင် ပြည့်စုံသော ‘မုအ်မင်န်’ ယုံကြည်ခြင်း သဒ္ဓါတရားထားရှိသူများ ဖြစ်ကြကုန်သတည်း။ ထိုသူတို့အဖို့မှာကား လွတ်ငြိမ်းချမ်းသာခွင့် သည်လည်းကောင်း၊ မြင့်မြတ်လှစွာသော စားနပ်ရိက္ခာသည်လည်းကောင်း၊ ရှိချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

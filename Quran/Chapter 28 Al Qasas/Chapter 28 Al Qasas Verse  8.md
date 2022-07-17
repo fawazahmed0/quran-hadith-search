@@ -710,6 +710,12 @@ I semeĭstvoto na Faraona go pribra, a toĭ shteshe da stane tekhen vrag i tya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	ဖွာရောမင်း၏ အိမ်သူအိမ်သားတို့သည် မူစာကို ဆယ်ယူမွေးမြူတော်မူကြ၏၊ ဤသို့ပြုခြင်းကား မိမိတို့၏ ရန်သူဖြစ်လာမည့်သူ၊ မိမိတို့ကို ဝမ်းနည်းစေမည့်သူ၊ ထိုသူအား မွေးမြူးခြင်းဖြစ်သည်၊ မှတ်သားကြလော့၊ ဖွာရောမင်း၊ အမတ်ဟာမန်နှင့်တကွ စစ်သည်တော်အားလုံးတို့သည် အမြဲအပြစ်ကျူးလွန်သူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ဖစ်ရ်အောင်န်၏ အိမ်သူအိမ်သားတို့သည် ထိုမူစာအား နောက်ဆုံးတွင် ထိုမူစာသည် မိမိတို့၏ရန်သူဖြစ်ရန်နှင့် (မိမိတို့အား) ပူဆွေးစေအံ့သောသူဖြစ်ရန် ကောက်ယူခဲ့ကြကုန်၏။ ဧကန်စင်စစ် ဖစ်ရ်အောင်န်သည်လည်းကောင်း၊ ဟာမာန်သည်လည်းကောင်း၊ ထိုဖစ်ရ်အောင်န်နှင့် ဟာမာန်၏ရဲမက်တို့သည်လည်းကောင်း၊ ပြစ်မှုကျူးလွန်သူများပင် ဖြစ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

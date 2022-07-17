@@ -710,6 +710,12 @@ Otrichashe predi tyakh i narodŭt na Nukh. Otrichakha Nashiya rab i kazvakha: �
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။ ထိုသူတို့အလျင် တမန်တော်နူဟို၏ လူများသည် ငြင်းပယ်ကြ၏၊ သူတို့သည် ငါ၏ ကျေးကျွန်တော်ကြီးကို ပယ်ရှားကြ၏၊ ဤသူကား အရူးသာတည်းဟု ဆိုကြကုန်၏၊ သူ့ကို နှင်ထုတ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့အလျင်'နူဟ်'၏ အမျိုးသားတို့သည်လည်း မဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ်ခဲ့ကြကုန်၏။ အမှန်သော်ကား ၎င်းတို့သည် ငါအရှင်မြတ်၏ 'ကျွန်တော်' (နူဟ်)အား မဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ်ခဲ့ကြသည့်အပြင် 'သူရူး'ဖြစ်သည်ဟူ၍လည်း ပြောဆိုခဲ့ကြလေသည်။ ထိုမှတစ်ပါး ထို'နူဟ်'သည် ခြိမ်းခြောက်မှုကိုလည်း ခံခဲ့ရလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

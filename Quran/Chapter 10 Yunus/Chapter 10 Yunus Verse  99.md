@@ -710,6 +710,12 @@ I ako tvoyat Gospod pozhelaeshe, na zemyata shtyakha da povyarvat vsichki do edi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၉။	အကယ်၍ သင်၏ ကျေးဇူးတော်သခင်၊ အလိုတော်ရှိတော်မူပါလျှင် ကမ္ဘာမြေပြင်ပေါ်ရှိ ဝေနေယျသတ္တဝါအပေါင်း တို့သည် ညီညွတ်ယုံကြည်သူများဖြစ်ခဲ့ကြချေမည်။ အို-မိုဟမ္မဒ်၊ သင်သည် လူသားတို့ယုံကြည်သည့်တိုင်အောင် သူတို့ကို အတင်းအဓမ္မပြုလုပ်မည်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အကယ်၍ အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် အလိုရှိတော်မူခဲ့ပါလျှင် ကမ္ဘာမြေဝယ် ရှိရှိသမျှသော သူခပ်သိမ်းတို့သည် တစ်ပြိုင်နက် အီမာန်သက်ဝင်ယုံကြမည်သာ ဖြစ်ကြကုန်၏။ သို့ဖြစ်ပေရာ အသင်သည် လူတို့အား မုအ်မင်န်သက်ဝင်ယုံကြည်သူများဖြစ်လာကြရန် အတင်းအကျပ် ပြုလုပ်နိုင်ပါသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

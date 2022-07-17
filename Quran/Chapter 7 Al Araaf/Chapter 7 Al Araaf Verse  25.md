@@ -710,6 +710,12 @@ Reche: “Na neya shte zhiveete, na neya shte umrete i ot neya shte bŭdete izva
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	အသျှင်မြတ်က သင်တို့သည် ကမ္ဘာမြေပေါ်၌ ရှင်နေကြရလိမ့်မည်။ သေကြရလိမ့်မည်။ ထိုမြေကြီးမှ ရှင်ပြန်ထမြောက်ကြရလိမ့်မည်ဟု မိန့်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်က အသင်တို့သည် ထိုပထဝီမြေ၌ အသက်ထင်ရှား နေထိုင်ကြရမည်။ ၎င်းပြင် ပထဝီမြေ၌ပင်သေကြရမည်။ ၎င်းပြင် (ရှင်ပြန်ထ မြောက်မည့်နေ့တွင်လည်း) ထိုပထဝီမြေမှပင် ထွက်ကြရမည်ဟု မိန့်ကြားတော်မူခဲ့လေသတည်း။(ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

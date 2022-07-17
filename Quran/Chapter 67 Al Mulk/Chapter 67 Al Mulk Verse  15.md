@@ -710,6 +710,12 @@ Toĭ e, Koĭto podchini za vas zemyata, zatova khodete iz neĭnite kraishta i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။ အရှင်မြတ်သည် ဤကမ္ဘာမြေပြင်ကို သင်တို့၏ ဩဇာခံဖြစ်စေတော်မူ၏၊ ထို့ကြောင့်သင်တို့သည် ထိုမြေပေါ်သို့ လှည့်ပတ်သွားကြလော့၊ ထို့အပြင်အရှင်မြတ်ပေးသနားတော်မူသောအာဟာရများကို စားသုံမှီဝဲကြလော့၊ သေသူ တို့သည် အရှင်မြတ်ထံ ပြန်ရှင်လာကြရမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည်ပင် အသင်တို့အကျိုးငှာ ပထဝီမြေကို တစ်ဆင့်အသုံးခံ၊ လက်အောက်ခံ ပြုလုပ်ထားတော်မူ၏။ သို့ဖြစ်ပေရာ အသင်တို့သည် ယင်းပထဝီမြေ၏ သွားလာရာလမ်းများ၌ လှုပ်ရှားသွားလာကြလေကုန်။ ထိုမှတစ်ပါး အသင်တို့သည် ထိုအရှင်မြတ် ချီးမြှင့် ပေးသနားတော်မူသောရိက္ခာမှ စားသုံးကြလေကုန်။ စင်စစ်သော်ကား ရှင်ပြန်ထ၍ ထိုအရှင်မြတ် အထံတော်သို့ပင် ပြန်လည် ရောက်ရှိကြရအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

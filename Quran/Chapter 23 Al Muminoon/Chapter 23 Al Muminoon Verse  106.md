@@ -710,6 +710,12 @@ Shte rekat: “Gospodi nash, naddelyakha nad nas strastite ni i byakhme khora za
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၆။	ထိုသူယုတ်တို့က တုံ့ပြန်လျှောက်ထားသည်မှာ အို--အကျွနု်ပ်တို့၏အရှင်သခင်၊ အကျွနု်ပ်တို့၏ကံဆိုးသည် အကျွနု်ပ်တို့ကို လွှမ်းမိုးပါ၏၊ ထို့ကြောင့်အကျွနု်ပ်တို့သည် အမှန်ပင်ဒုစရိုက်ကောင်များဖြစ်ကြပါမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ၎င်းတို့သည်(ဤသို့)လျှောက်ထားကြပေမည်။ အို-ကျွန်တော်မျိုးတို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ (စင်စစ်) ကျွန်တော်မျိုးတို့၏ ကုသိုလ်ကံဆိုးမှုသည် ကျွန်တော်မျိုးတို့အပေါ်၌ လွှမ်းမိုးဖိစီးခဲ့ပါသည်။ ထို့ပြင် ကျွန်တော်မျိုးတို့သည် လမ်းမှားသူများလည်း ဖြစ်ခဲ့ကြပါသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

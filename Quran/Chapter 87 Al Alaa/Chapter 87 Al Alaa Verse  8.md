@@ -710,6 +710,12 @@ I shte te ulesnim za lesnoto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။ ငါသည် သင်၏လမ်းကို သင်လွယ်လင့်တကူလျှောက်လိုက်နိုင်ရန် စီရင်တော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် အသင့်အား တဖြည်းဖြည်း လွယ်ကူမှုသို့ ပို့ပေးတော်မူပေမည်။ (ငါအရှင်မြတ်သည် အသင့်အား လွယ်ကူသော ရှရီအတ်ကို (လိုက်နာကျင့်သုံးရန်) လွယ်ကူစေတော်မူမည်)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

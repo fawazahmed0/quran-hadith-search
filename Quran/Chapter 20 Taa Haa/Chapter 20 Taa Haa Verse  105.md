@@ -710,6 +710,12 @@ I te pitat za planinite. Kazhi [o, Mukhammad]: “Moyat Gospod vsetsyalo shte gi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၅။	အို--မိုဟမ္မဒ်၊ သူတို့က တောင်ကြီးတောင်ငယ်တို့သည် ထိုနေ့တော်ကြီး၌ အသို့ဖြစ်ရအ့ံနည်းဟု သင့်အား မေးမည်၊ သင်ပြောလော့၊ အကျွနု်ပ်၏အရှင်သခင်သည် တောင်များကို မြေမှုန့်အတိ ဖျက်ဆီးကြဲဖြန့်တော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထို(မက္ကာမြို့သားမိစ္ဆာဝါဒီ)တို့သည်အသင်အား တောင်များနှင့်စပ်လျဉ်း၍ (မည်သို့မည်ပုံ ဖြစ်မည်ကို) မေးမြန်းကြကုန်၏။ အသင်သည် (၎င်းတို့အား ဤသို့)ပြောဆို(ဖြေကြား)ပါလေ။ (အချင်းတို့၊) ငါ့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည် ယင်းတောင်များကို (အစိတ်စိတ်အပိုင်းပိုင်း ဖြစ်စေ၍) လွင့်ပါးစေတော်မူမည် ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

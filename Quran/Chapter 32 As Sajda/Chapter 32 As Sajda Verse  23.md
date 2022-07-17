@@ -710,6 +710,12 @@ I dadokhme na Musa Pisanieto: “Ne se sŭmnyavaĭ v sreshtata s Nego!” I go 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	ငါအရှင်မြတ်သည် တမန်တော်မူစာအား ကျမ်းတော်ချပေးသနားတော်မူခြင်းကို ဒွိဟသံသယမရှိကြလင့်၊ ထို့ အပြင်ငါသည် ထိုကျမ်းတော်ကို အစ္စရာအီလ်လူမျိုးတို့အဖို့အရာ အဆုံးအမအလင်းပြကျမ်းဖြစ်စေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် မလွဲဧကန် ငါအရှင်မြတ်သည်(နဗီတမန်တော်)မူစာအားလည်း ကျမ်းဂန်ဓမ္မက္ခန်ကို ချီးမြှင့်ပေးသနားတော်မူခဲ့ရာ အသင်သည် ဤ(ကုရ်အာန်)ကျမ်းတော်ကို ရရှိခြင်းနှင့်စပ်လျဉ်း၍ မည်သို့မျှ ဒွိဟသံသယ မရှိလေနှင့်။ ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် (နဗီတမန်တော်မူစာအား ချီးမြှင့်တော်မူခဲ့သော) ယင်းကျမ်းဂန်ဓမ္မက္ခန်ကို အစ္စရာအီလီ မျိုးနွယ်တို့အဖို့ တရားလမ်းညွှန်ပြုလုပ်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Za onezi, koito ne vyarvat v svoya Gospod, e mŭchenieto na Ada. I kak losha e t
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။ မိမိတို့၏ အရှင်သခင်အား မယုံကြည်သူတို့အဖို့အရာ ယုတ်ညံ့ဆင်းရဲကြီးလှသော၊ ခရီးဆုံးဖြစ်သောအဝီစိငရဲ ဒဏ်တော်ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် မိမိတို့ကို ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အား သွေဖည် ငြင်းပယ်ကြကုန်သောသူတို့၌ ဂျဟန္နမ်ငရဲ၏ပြစ်ဒဏ်သည် ရှိချေမည်။ စင်စစ်မှာကား ယင်း"ဂျဟန္နမ်"ငရဲသည် လွန်စွာဆိုးရွားလှသော စခန်းပင် ဖြစ်ချေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

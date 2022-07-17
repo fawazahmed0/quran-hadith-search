@@ -710,6 +710,12 @@ Naĭ-dobre Nie znaem kakvo shte govoryat, kogato naĭ-razumniyat ot tyakh rech
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၄။	သူတို့အနက် အကျင့်စရိုက်အမွန်မြတ်ဆုံးသောသူက သင်တို့သည် တစ်ရက်မျှသာကြာခဲ့ကြသည်ဟုဆိုသည်ကို ငါအရှင်မြတ်ကောင်းစွာသိကြားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် ၎င်းတို့ပြောဆိုကြသည့်(အကြောင်း)ကို ကောင်းမွန်စွာ သိတော်မူသောအရှင် ဖြစ်တော်မူပေသည်။ အကြင်အခါဝယ် ၎င်းတို့အနက် အကြံဉာဏ်အားဖြင့် အတော်ဆုံးသောသူက အသင်တို့သည် တစ်ရက်မျှသာ နေခဲ့ကြသည်ဟု ပြောဆိုအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

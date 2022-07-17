@@ -710,6 +710,12 @@ Ne premina li chovekŭt prez period ot vreme, kogato toĭ be neshto nenazovano
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။ လူသားကို အမှတ်မရသောအချိန်ကာလသည် လူသားအပေါင်းသို့ မရောက်လာဘူးလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 လူသား၏ အပေါ်ဝယ် ခေတ်ကာလအနက် အချိန်တစ်ချိန်သည် ဧကန်အမှန်ရောက်ရှိခဲ့၏။ ထိုလူသားသည် (ယင်းအချိန်၌) ပြောပလောက်သော၊ ကိုးကားရည်ညွှန်းလောက်သော၊ အရာဝတ္ထု တစ်စုံတစ်ရာမျှပင် မဖြစ်ခဲ့ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

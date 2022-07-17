@@ -710,6 +710,12 @@ Na vsyaka prelyubodeĭka i vseki prelyubodeets udarete po sto bicha i da ne vi 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	မတရားမေထုံမှီဝဲခြင်းကို ကျူးလွန်သောယောက်ျားမိန်းမတို့အား သင်တို့သည် ကြိမ်ဒဏ်အချက်တစ်ရာစီ ပေးကြလော့၊ သင်တို့သည် အလ္လာဟ်အရှင်မြတ်နှင့် နောက်ဆုံးနေ့တော်ကြီးကို ယုံကြည်စွဲလမ်းကြလျှင် သူတို့အား သနားခြင်းကြောင့် အလ္လာဟ်အရှင်မြတ်၏ ပညတ်တော်ကို အတည်မပြုပဲ မနေကြလင့်၊ ယင်းအပြစ် ပေးခြင်းကို ယုံကြည်သူတို့အနက် လူတစ်စုကို ကြည့်စေလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကာမေသုမိစ္ဆာစာရကံ ကျူးလွန်သော မိန်းမသည်လည်းကောင်း၊ ကာမေသုမိစ္ဆာစာရကံ ကျူးလွန်သော ယောက်ျားသည်လည်းကောင်း၊ အသင်တို့သည် ၎င်းတို့နှစ်ဦးအနက် တစ်ဦးစီကို ကြိမ်ဒဏ် အချက်ပေါင်းတစ်ရာစီ ရိုက်ကြလေကုန်။ ထို့ပြင် အကယ်၍ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အားလည်းကောင်း၊ နောက်ဆုံးနေ့ကိုလည်းကောင်း၊ သက်ဝင်ယုံကြည်ကြလျှင် ၎င်းတို့နှစ်ဦးအပေါ်၌ ကရုဏာသက်ရောက်မှုသည် အသင်တို့အား အလ္လာဟ်အရှင်မြတ်၏ အမိန့်ပညတ်ကို လိုက်နာဆောင်ရွက်ရာ တွင် ချုပ်တည်းခြင်း အလျှင်းမရှိစေရ။ ထို့ပြင် ၎င်းတို့နှစ်ဦးအား ပြစ်ဒဏ်ပေးသည်ကို "မုအ်မင်န်" သက်ဝင် ယုံကြည်သူတစ်စုသည် လာရောက် ကြည့်ရှုကြရမည် ဖြစ်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

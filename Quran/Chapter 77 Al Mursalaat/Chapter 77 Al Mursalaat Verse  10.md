@@ -710,6 +710,12 @@ i kogato planinite bŭdat razpileni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၀။ တောင်များကြေမွ၍ အနှံ့အပြားလွင့်စေတော်မူသော အခါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အကြင်အခါဝယ် တောင်များသည် အမြစ်မှလှန်ပစ်ခြင်းကို ခံခဲ့ကြရ(ပြီးလျှင် အစိတ်စိတ် အပိုင်းပိုင်းဖြစ်ကာ လေထဲ၌ လွင့်ပါးလျက်ရှိကြရ)ပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

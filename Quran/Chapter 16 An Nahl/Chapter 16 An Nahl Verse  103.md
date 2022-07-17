@@ -710,6 +710,12 @@ I znaem Nie, che kazvat: “Nyakakŭv chovek go obuchava.” Ezikŭt na onzi, k�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၃။	မိစ္ဆာအယူဝါဒရှိသူတို့က ရှင်မိုဟမ္မဒ်ကိုသာ သွန်သင်ပေးသည်ဟု စွပ်စွဲခြင်းကို ငါအရှင်မြတ်ကောင်းစွာသိတော် မူ၏။ သူတို့မတော်မတရားဆရာမြှောက်သူ၏ ဘာသာစကားမှာ ဘာသာခြားစကားဖြစ်၏။ ကျမ်းတော်မြတ်မှာ မူကား ရှင်းလင်းသောအာရဗီဘာသာဒေသနာတော်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ဧကန်စင်စစ် ၎င်းတို့သည် ထို(နဗီတမာန်တော်မုဟမ္မဒ်)အား လူတစ်ယောက်က သင်ကြားပို့ချ၍ပေးသည်ဟု ပြောဆိုကြသည်ကို ဧကန်မလွဲ ငါအရှင်မြတ်သည်ကောင်းစွာ သိရှိတော်မူပေသည်။ (စင်စစ်)၎င်းတို့စောင်းမြောင်းရည်ညွှန်း ပြောဆိုကြကုန်သောသူ၏ဘာသာစကားမှာမူနိုင်ငံခြား ဘာသာစကားပင် ဖြစ်ပေသည်။ သို့ရာတွင် ဤအာယတ်တော်တွင်မူကား ရှင်းလင်းပြေပြစ်သော အရဗီဘာသာစကားပင် ဖြစ်လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I otdadokhme na Daud predpochitanie ot Nas: “O, planini, i vie, ptitsi, vŭzsl
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	ငါအရှင်မြတ်သည် တမန်တော်ဒါဝတ်အား ကြီးမားသောဂရုဏာတော်ကို ပြတော်မူ၏၊ တောင်များနှင့် ငှက် တိရိစ္ဆာန်များကို အမိန့်ပေးတော်မူသည်မှာ အို-တောင်တို့ ငှက်အပေါင်းတို့၊ သင်တို့သည် တမန်တော်ဒါဝတ်နှင့် အတူ အလ္လာဟ်အရှင်မြတ်ကို ချီးမွမ်းကြလော့၊ ထို့အပြင်ငါအရှင်မြတ်သည် သံကိုလည်း တမန်တော်အလိုတော် ရှိတိုင်း သုံးဖို့ရာ ဖယောင်းကဲ့သို့ ပျော့ပျောင်းစေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မလွဲဧကန် ငါအရှင်မြတ်သည် (နဗီတမန်တော်)ဒါဝူဒ်အား မိမိအထံတော်မှ ကျေးဇူးတော်ကို ချီးမြှင့်ပေးသနားတော်မူခဲ့၏။ (ထို့ပြင် ငါအရှင်မြတ်သည် တောင်များကို)အို-တောင်တို့ အသင်တို့သည်ဒါဝူဒ်နှင့်အတူ (ငါအရှင်မြတ်)စင်ကြယ် သန့်ရှင်းတော်မူကြောင်း မြွက်ဆိုကြကုန်လော့ (ဟုမိန့်ကြားတော်မူခဲ့၏)။ ထိုနည်းတူစွာ ငှက်တိရစ္ဆာန်များကိုလည်း (ငါအရှင်မြတ်သည် ဤအတိုင်းပင် မိန့်ကြားတော်မူခဲ့၏)ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ဒါဝူဒ် အဖို့ အသံကိုပျော့ပျောင်း စေတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

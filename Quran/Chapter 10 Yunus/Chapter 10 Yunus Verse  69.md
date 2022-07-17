@@ -710,6 +710,12 @@ Kazhi: “Koito izmislyat lŭzha za Allakh, te ne shte spoluchat.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၉။	အကြင်သူတို့သည် အလ္လာဟ်အရှင်မြတ်နှင့်စပ်လျဉ်း၍ မဟုတ်မမှန်မုသားလုပ်ကြံပြောဆိုကြ၏။ ထိုသူတို့သည် အောင်မြင်ကြမည်မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (၎င်း တို့ အားဤသို့)ပြောကြားပါလေ။ (အချင်းတို့)စင်စစ်ဧကန် အလ္လာဟ်အရှင်မြတ်အပေါ်၌ မုသားကို လီဆယ်စွပ်စွဲကြကုန်သော သူတို့သည် အလျင်း အောင်မြင်ကြမည် မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

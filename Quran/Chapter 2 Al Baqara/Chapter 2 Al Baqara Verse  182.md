@@ -710,6 +710,12 @@ A koĭto se opasyava ot greshka ili gryakh na zaveshtatel, i pomiryava [nasledn
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈၂။	သို့သော် အကြင်သူသည် သေတမ်းစာပြုသူထံမှ မတရားသော အချက်အလက်ကို စိုးရိမ်ကြောင့်ကြ၍ သေတမ်းစာတွင် အကျိုးခံစားထိုက်သူတို့အလည်တွင် ကြေအောင်ဖျန်ဖြေပေး၏။ ထိုသူအပေါ်၌ အပြစ်မထိုက်ချေ။ ကြားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် အပြစ်လွှတ်တော်မူသောအရှင်၊ ကျောင်းချီးမင်္ဂလာပေးတော်မူသောအရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ငြားလည်း အကြင်သူသည် သေတမ်း စာ ထားရှိခဲ့သောသူ၏ထံမှ တစ်စုံတစ်ရာသော လွဲချော် တိမ်းပါးမှား ယွင်းမှုကိုသော်လည်းကောင်း၊ သို့တည်း မဟုတ် တစ်စုံတစ်ရာ သောပြစ်မှုကိုသော်လည်းကောင်း၊ စိုးရိမ်မကင်း ဖြစ်သည့် အတွက် ယင်း(အမွေဆိုင်)သူတို့ ၏အကြားဝယ် စေ့စပ်သင့်မြတ် စေခဲ့ပါမူ(ထိုစေ့စပ် သင့်မြတ်ပေးသော)သူ၏အပေါ်၌ တစ်စုံ တစ်ရာ အပြစ် မရှိပြီ၊ ဧကန်မုချ အလ္လာဟ်အရှင်မြတ်သည် (ပြစ်မှု ဒုစရိုက်တို့ကို) အဖန်တလဲလဲ လွတ်ငြိမ်းချမ်းသာခွင့် ပေးသနားတော်မူသောအရှင်၊ အလွန်သနားကြင်နာ ညှာတာ တော်မူသောအရှင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

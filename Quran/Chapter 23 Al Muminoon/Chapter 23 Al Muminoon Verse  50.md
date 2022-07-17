@@ -710,6 +710,12 @@ I storikhme [Isa] sina na Mariam i maĭka mu znamenie, i gi priyutikhme na khŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅ဝ။ ထို့အပြင်ငါသည် မာရီယမ်၏သားနှင့် အမိမာရီယမ်တို့ကို သာဓကတော်ကြီးတစ်ပါးဖြစ်စေတော်မူ၏၊ ထို့အပြင် ငါသည် ထိုသားအမိနှစ်ယောက်တို့အား စုဝေးအမောဖြေသောရေစမ်းများရှိသည့်ကုန်းမြင့်ပေါ်တွင် မွေ့လျော် စံပျော်စေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ငါအရှင်မြတ်သည် မရ်ယမ်၏သားတော် (အီစာ)နှင့် ထိုသားတော်၏မယ်တော် (မရ်ယမ်)အား ကြီးကျယ်သော သက်သေလက္ခဏာတော်တစ်ပါး ပြုလုပ်တော်မူခဲ့၏။ ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ထိုသားအမိနှစ်ပါးစလုံးကို တည်းခိုရန် သင့်လျော်၍ စိုပြည်သော၊ စီးတွေသော ရေများလည်းရှိသောကမူ၌ ခိုလှုံစေတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Tova e, zashtoto se podigravakhte sŭs znameniyata na Allakh i vi izkusi zemniya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။ နင်တို့သည် ယင်းကဲ့သို့မရှုမလှခံစားရခြင်းကား အလ္လာဟ်အရှင်မြတ်၏ နှုတ်ကပတ်တော်များကို ပျက်ချော် ပြောင်လှောင်ကြသောကြောင့်ဖြစ်၏၊ နင်တို့ကို လောကကြီးက လှည့်စားနေသောကြောင့်လည်းဖြစ်၏၊ ထို့ကြောင့် သူတို့သည် ထိုနေ့မှစ၍ ငရဲမီးထဲမှ ထွက်လာရမည်မဟုတ်ချေ၊ သူတို့သည် မိမိကိုယ်ကို မိမိမပြုပြင်နိုင်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသို့ဖြစ်ရခြင်းမှာ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်၏အာယတ်တော်များကို ပြက်ရယ်ပြောင်လှောင်ဖွယ်များ ပြုလုပ်ခဲ့ကြသောကြောင့်လည်းကောင်း၊ လောကီဘဝသည် အသင်တို့အား ဖြားယောင်းခဲ့သောကြောင့်လည်းကောင်း၊ ဖြစ်ပါသည်။ သို့ဖြစ်ပေရာ ယနေ့သော်ကား ၎င်းတို့သည် ယင်းငရဲမီးမှ ထွက်စေခြင်းကိုလည်း ခံကြရမည်မဟုတ်ပေ။ (အလ္လာဟ်အရှင်မြတ်အား) နှစ်သက်စေကြရန် တောင်းဆိုခြင်း ကိုလည်းခံကြရမည် မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

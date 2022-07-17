@@ -710,6 +710,12 @@ Vashiyat Gospod e, Koĭto pridvizhva za vas korabite v moreto, za da tŭrsite o
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၆။	လူသားအပေါင်းတို့ သင်တို့သည် အရှင်မြတ်၏ ပေးကမ်းစွန့်ကြဲခြင်းကျေးဇူးတော်ကို ရှာမှီးဖို့ရာ သင်တို့၏ အရှင်သခင်သည် သင်တို့အတွက် လှေသင်္ဘောများကို ပင်လယ်သမုဒ္ဒရာကို ဖြတ်သန်းသွားလာစေတော်မူသော အရှင်ဖြစ်တော်မူ၏။ မှတ်သားကြလော့။ အရှင်မြတ်သည် သင်တို့အား အမြဲသနား ကောင်းကြီးမင်္ဂလာပေး သနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည်ပင် အသင်တို့အဖို့ အသင်တို့ ထိုအရှင်မြတ်၏ကျေးဇူးတော်(ရိက္ခာတော်)ကို ရှာဖွေဆည်းပူးကြအံ့သောငှာရွက်သင်္ဘောများကို သမုဒ္ဒရာပင်လယ်၌ သွားလာလှုပ်ရှားစေတော်မူသောအရှင်တည်း။ ဧကန်မလွဲ ထိုအရှင်မြတ်သည်အသင်တို့အပေါ်ဝယ် အလွန်တရာသနားကြင်နာညှာတာတော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

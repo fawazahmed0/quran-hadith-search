@@ -710,6 +710,12 @@ I kogato zovete kŭm molitva, te ya vzimat na prismekh i shega. Tova e, zashtoto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈။	သင်တို့သည် ဆွလာသ်ဝတ်တက်ဖို့ရာ ဖိတ်ခေါ်သောအခါ သူတို့သည် သင်တို့ဖိတ်ခေါ်ခြင်းကို ကစားစရာ၊ ပြောင်လှောင်စရာဟုယူကြ၏။ ယင်းသို့ ပြုကျင့်ခြင်းမှာ သူတို့သည် အသိဉာဏ် ကင်းမဲ့သူများဖြစ်သောကြောင့်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်တဝ အသင်တို့သည် ‘ဆွလာသ်’ ဝတ်ပြုခြင်းငှာ (အဇာန်) ဟစ်ခေါ်ကြသောအခါ၊ ထိုသူတို့သည် ယင်းဟစ်ခေါ်ခြင်းကိုပင် ပြက်ရယ်ကျီစယ်ဖွယ်ရာနှင့် ကစားဖွယ်ရာလည်းကောင်း၊ ပြုလုပ်ကြပေသည်။ ယင်းကဲ့သို့ ပြုလုပ်ခြင်း၏အကြောင်းကား ထိုသူတို့သည် လုံးဝ အသိဉာဏ်ကင်းမဲ့သောလူတစ်စုပင် ဖြစ်သောကြောင့်သာတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

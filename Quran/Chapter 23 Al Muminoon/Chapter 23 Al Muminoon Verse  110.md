@@ -710,6 +710,12 @@ A im se podigravakhte, dokato storikha da zabravite Moeto spomenavane v prismekh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁ဝ။	အို--မိစ္ဆာမိုက်တို့၊ နင်တို့သည် ယုံကြည်သူအပေါင်းသူတော်ကောင်းတို့အား ပြက်ရယ်ပြုကြ၏၊ နင်တို့သည် သူတို့ကို ပြောင်လှောင်နေခြင်းဖြင့် ငါ့အား တသဖို့ရန် မေ့လျော့သွားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ အသင်တို့သည် ၎င်းတို့အား ပြက်ချော် ပြောင်လှောင်ဖွယ်ရာများ ပြုလုပ်ခဲ့ကြကုန်၏။ နောက်ဆုံးတွင် ၎င်းတို့အား အသင်တို့၏ ပြက်ချော်မှုသည် အသင်တို့ကို ငါ အရှင်မြတ်အား သတိရခြင်းမှ မေ့ပျောက်စေခဲ့ကုန်သည်။ ၎င်းပြင် အသင်တို့သည် ထိုသူတို့အပေါ်၌ ရယ်မောလျက်ပင် ရှိခဲ့ ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

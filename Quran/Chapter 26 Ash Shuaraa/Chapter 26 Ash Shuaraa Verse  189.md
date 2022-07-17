@@ -710,6 +710,12 @@ I go vzekha za lŭzhets, i gi spoletya mŭchenieto na oblachniya den. Naistina b
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈၉။	သို့သော်သူတို့သည် တမန်တော်အား မကြည်ညိုမယုံကြည်ကြချေ၊ ထို့ကြောင့်သူတို့အပေါ်သို့ တရားစီရင် တော်မူသောနေ့တော်ကြီး၌ အပြစ်ဒဏ်တော်ကျရောက်၏၊ မှတ်သားကြလော့၊ ထိုအပြစ်ဒဏ်သည် အလွန် ထိတ်လန့်ဖွယ်ကောင်းသောနေ့တော်ကြီး၏ လက်စားချေဒဏ်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းနောက် ထိုအမျိုးသားတို့သည် ထိုရှုအိုက်ဗ်အား မဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ်ခဲ့ကြလေရာ တိမ်များကျလာသောနေ့၏ ပြစ်ဒဏ်သည် ၎င်းတို့အား ဖမ်းဆီးကွပ်မျက်ခဲ့၏။ ဧကန်မလွဲ ယင်းပြစ်ဒဏ်သည် ကြီးကျယ်သောနေ့၏ ပြစ်ဒဏ်ပင်ဖြစ်ခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

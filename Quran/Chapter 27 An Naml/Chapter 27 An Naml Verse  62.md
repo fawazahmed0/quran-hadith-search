@@ -710,6 +710,12 @@ Ili Onzi, Koĭto otklikva na bedstvashtiya, ako Go pozove, i premakhva zloto, i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	ညှင်းပန်းနှိပ်စက်၊ မတရားမှုကို ခံရသူဆုပန်သောအခါ ကြားတော်မူ၍ ထိုမတရားမှုကို ဖယ်ရှားပစ်တော်မူသော အရှင်၊ သင်လူသားတို့အား ကမ္ဘာမြေကြီးကို စိုးမိုးအုပ်ချုပ်ဖို့ရာ အရှင်မြတ်၏ ကိုယ်စားလှယ်တော်အဖြစ်ဖြင့် ချီးမြှောက်တော်မူသောအလ္လာဟ်အရှင်မြတ်သည် အမြတ်ဆုံးမဟုတ်ချေလော၊ အလ္လာဟ်အရှင်မြတ်မှတပါး အခြားအရှင်သခင်ရှိသလော၊ သူတို့သည် အနည်းငယ်မျှဆင်ခြင်စဉ်းစားသူများမဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤရုပ်တုများ မြင့်မြတ်သလော)။ သို့တည်းမဟုတ် အကြင်အရှင်မြတ်ပင်(မြင့်မြတ်တော်မူပါသလော။) ထိုအရှင်မြတ်သည် မိမိအား မလွှဲမရှောင်သာသောသူ (ဒုက္ခသည်)က ဟစ်ခေါ်(တမ်းတ)လေသောအခါ ၎င်းအားပြန်၍ ထူးတော်မူ၏။ ၎င်းပြင် ထိုအရှင်မြတ်သည် ဘေးဒုက္ခကိုလည်း ဖယ်ရှားတော်မူ၏။ ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် ကမ္ဘာမြေ၌ အသင်တို့အား ကိုယ်စားလှယ်များ ပြုလုပ်တော်မူ၏။ အလ္လာဟ်အရှင်မြတ်နှင့်အတူ (အခြား)ဆည်းကပ်ကိုးကွယ်ရာဟူ၍ ရှိပါသေးသလော။ အသင်တို့သည် အနည်းငယ်မျှသာလျှင် စဉ်းစားကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

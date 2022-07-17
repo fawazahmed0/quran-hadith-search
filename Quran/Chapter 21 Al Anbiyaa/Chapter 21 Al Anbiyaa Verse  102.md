@@ -710,6 +710,12 @@ Ne shte chuvat ot nego dori shumolene. V tova, koeto sa zhelali, te shte prebiva
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၂။	မိမိတို့ဆန္ဒရှိရာတွင် နေထိုင်သောအခါ သူတို့သည် ငရဲမှ အသံအနည်းငယ်မျှကြားရမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ယင်းဂျဟန္နမ်ငရဲဘုံ၏ လေသံကိုသဲ့သဲ့မျှပင် ကြားကြရလိမ့်မည်မဟုတ်ပေ။ စင်စစ် ၎င်းတို့သည် မိမိစိတ်ကြိုက် စည်းစိမ်များတွင် ထာဝစဉ်မွေ့လျော်ခံစားသူများပင် ဖြစ်ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

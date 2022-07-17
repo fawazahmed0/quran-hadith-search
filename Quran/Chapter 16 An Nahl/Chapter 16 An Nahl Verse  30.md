@@ -710,6 +710,12 @@ I shte se kazhe na bogoboyazlivite: “Kakvo e nizposlal vashiyat Gospod?” Sht
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	အကုသိုလ်မကောင်းမှုကို ရှောင်ရှားသူတို့အား သင်တို့၏ ကျေးဇူးတော်သခင်သည် အဘယ်ဗျာဒိတ်တော်ကို ချမှတ်တော်မူသနည်းဟု မေးမြန်း၏။ သူတို့က ကောင်းကြီးမင်္ဂလာအဖြာဖြာဟု ဖြေဆိုကြ၏။ ဤလောက၌ ကုသိုလ်ကောင်းမှုပွားများအ့ံ။ သူတို့အတွက် ဆုတော်ရှိ၏။ နောင်တမလွန်ဘဝရှိ ဘုံနန်းသည် သာလွန်မြင့်မြတ် လှ၏။ မကောင်းမှုကို ရှောင်ကြဉ်သူတို့၏ ဘုံပြဿဒ်သည် အလွန်ပင်နှစ်သက်ပျော်မွေ့ဖွယ်ကောင်းမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် (ရှရစ်က်စသည်တို့မှ)ကြဉ်ရှောင်ကြကုန်သော သူတော်စင်တို့ကို အသင်တို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည် အဘယ်အရာကို ချပေးသနားတော်မူပါသနည်းဟု ပြောဆိုမေးမြန်းခဲ့သော်၊ ၎င်းတို့က အလွန်ကောင်းမွန်သောအရာကို(ချပေးသနားတော်မူပါသည်)ဟုပြောဆိုဖြေကြားကြပေသည်။ ကောင်းမှု ပြုလုပ်သူတို့အဖို့ ဤလောက၌လည်း ကောင်းကျိုးရှိပေသည်။ ထိုမှတစ်ပါး တမလွန်ဘဝ၏ ဗိမာန်သည်ကား အမှန်ပင် အကောင်းဆုံးဖြစ်၏။စင်စစ်သော်ကား သူတော်စင်တို့၏နေရာဌာနသည် အမှန်ပင်ကောင်းမြတ်လှပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

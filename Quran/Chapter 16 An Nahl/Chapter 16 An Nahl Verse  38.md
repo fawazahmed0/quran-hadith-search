@@ -710,6 +710,12 @@ I se zaklekha v Allakh s naĭ-usŭrdnite si kletvi: “Allakh ne shte vŭzkresi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	အလ္လာဟ်အရှင်မြတ်သည် သေသူတို့အား ရှင်ပြန်ထမြောက်စေတော်မူမည်မဟုတ်ဟူ၍ ထိုသူတို့သည် အလ္လာဟ် အရှင်မြတ်ကို ကိုင်၍ အလွန်ပြင်းပြကြီးလေးသောကျမ်းကျိန်ချက်များကို ဆိုကြ၏။ သူတို့ပြောဆိုသကဲ့သို့ မဟုတ်ချေ။ ရှင်ပြန်ထမြောက်စေခြင်းသည် အရှင်မြတ်အတွက် မဖျက်ရသည့်ကတိဗျာဒိတ်တော်အမှန်ပင်ဖြစ်၏။ သို့သော်များလှစွာသောလူသားတို့သည် မသိကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ၎င်းတို့က အလ္လာဟ်အရှင်မြတ်သည် သေသူအား ရှင်ပြန်ထစေတော်မူမည် မဟုတ်ဟုအလ္လာဟ်အရှင်မြတ်အား တိုင်တည်၍ အစွမ်းကုန် ကျိန်တွယ်ခဲ့ကြလေသည်။ ထိုသို့ အလျှင်းမဟုတ်ပေ။ စင်စစ်မှာကား (မုချရှင်ပြန်ထစေတော်မူမည်ဖြစ်၏။) ထိုအရှင်မြတ်သည် ဤသည်ကို ကတိပြုတော်မူခြင်းအားဖြင့် မိမိအပေါ်၌ အတည်ပြုတော်မူခဲ့လေသည်။ သို့ရာတွင် များစွာသောသူတို့မှာကား(ဤမျှပင်)မသိနားမလည်ကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

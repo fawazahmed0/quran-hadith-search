@@ -710,6 +710,12 @@ I na vseki pratenik, kogoto Nie pratikhme predi teb, dadokhme otkrovenieto: “N
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	အို--မိုဟမ္မဒ်၊ သင့်အလျင်ငါသည် တမန်တော်တို့ကို သူတို့၏စိတ်နှလုံးအတွင်းတွင် ဗျာဒိတ်တော်ကို ထင်ရှားစေ တော်မူသည်မဟုတ်ချေ၊ ဗျာဒိတ်တော်ကား ငါအရှင်မြတ်မှတပါး အခြားဘုရားသခင်မရှိချေ၊ ထို့ကြောင့်ငါ့ကို သာလျှင် ကိုးကွယ်ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ငါအရှင်မြတ်သည် အသင့်အလျင်စေလွှတ်တော်မူခဲ့သော မည်သည့်ရစူလ်တမန်တော်၏ ထံသို့မဆို ဧကန်အမှန် ငါအရှင်မှတစ်ပါး ခဝပ်ကိုးကွယ်ရာအရှင်ဟူ၍ အလျှင်းမရှိပြီ။ သို့ဖြစ်ပေရာ အသင်တို့သည် ငါအရှင်မြတ်အားသာလျှင် ခဝပ်ကိုးကွယ်ကြလေကုန်ဟူ၍ အမိန့်တော် ထုတ်ပြန်ချမှတ်တော်မူခဲ့သည်သာ ဖြစ်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

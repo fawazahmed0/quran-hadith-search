@@ -710,6 +710,12 @@ I kogato Allakh vi obeshta, che ednata ot dvete grupi shte e vasha, vie pozhelak
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	ရန်သူအသင်းနှစ်သင်းမှ တစ်သင်းကို သင်တို့သိမ်းပိုက်ရမည်ဟု အလ္လာဟ်အသျှင်မြတ်သည် ဂတိ ပေးတော်မူသောအခါ သင်တို့သည် လက်နက်ကိုင်အသင်းမဟုတ်သည့်အသင်းကို ရလိုကြ၏။ အလ္လာဟ်အသျှင်မြတ်သည် မိမိ၏ဗျာဒိတ်စကားတော်အားဖြင့် သစ္စာတရားတော်ကို အောင်မြင်စေ တော်မူမည်။ မိစ္ဆာဒိဌိတို့ကို အပြစ်မှဖြတ်ပစ်တော်မူမည်ဟု ဆုံးဖြတ်တော်မူပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (ပြန်လည်၍ သတိရကြ လေကုန်)အကြင် အခါဝယ် အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့အားအုပ်စုနှစ်စုအနက် တစ်စုနှင့်ပတ်သက်၍ ထိုတစ်စုသည်အသင် တို့၏လက်တွင်းသို့ အမှန်ပင်ကျရောက်လိမ့်မည်ဟုကတိပြုလျက် ရှိတော်မူခဲ့လေသည်။ သို့ရာတွင် အသင်တို့မူကားဆူးငြောင့် (ဝါ) လက်နက်မပါသော အုပ်စုသည်သာလျှင် မိမိတို့လက်တွင်းသို့ ကျရောက်ရန် မျှော်ခေါ်တောင့်တလျက်ရှိကြကုန်၏။ စင်စစ်မူကား အလ္လာဟ်အရှင်မြတ်သည် အမှန်ကို မိမိအမိန့်တော်များဖြင့် ထင်ရှားတော်မူရန်လည်းကောင်း၊ ကာဖိရ်သွေဖည်ငြင်းပယ်သော သူတို့၏အခြေအမြစ်ကို (လုံးဝ) ဖြတ်တောက်ပစ်တော်မူရန် လည်းကောင်း၊ ရည်စူးတော်မူချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

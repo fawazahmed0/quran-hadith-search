@@ -710,6 +710,12 @@ Ako vi gi poiska i vi prinudi, vie shte se poskŭpite i Toĭ shte izkara nayave
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	အကယ်၍အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အား သင်တို့၏စည်းစိမ်ဥစ္စာအားလုံးကို တောင်းတော်မူသည်ဖြစ်စေ၊ သို့တောင်းတော်မူရာ၌ အကျပ်အတည်းပြုတော်မူခဲ့သည်ဖြစ်စေ၊ ထိုအခါသင်တို့သည် မပေးရက်မကမ်းရက် ပြုကြလိမ့်မည်၊ အရှင်မြတ်သည် သင်တို့၏ မကောင်းသောစိတ်အားလုံးကို ထင်ရှားစေတော်မူလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍ ထိုအရှင်မြတ်သည် အသင်တို့ထံမှ ယင်းပစ္စည်းဥစ္စာများကို တောင်းဆိုတော်မူသည်ရှိသော်၊တစ်ဖန် ထိုအရှင်မြတ်သည် အသင်တို့ထံ အပူတပြင်း တောင်းဆိုတော်မူသည်ရှိသော်၊ အသင်တို့သည် စေးနှဲကြပေမည်။ ၎င်းပြင် ထိုအရှင်မြတ်သည်လည်း အသင်တို့၏ စက်ဆုပ်မှုများကို ထုတ်ဖော်တော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

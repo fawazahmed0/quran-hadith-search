@@ -710,6 +710,12 @@ Posle Nie shte spasim bogoboyazlivite i shte ostavim tam na kolene ugnetitelite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၂။	ထိုအခါငါသည် ဒုစရိုက်မကောင်းမှုကို ကြဉ်ရှောင်သူတို့အား ကယ်နှုတ်တော်မူ၍ ဒုစရိုက်ကောင်များကို ငရဲ ၌ ဝပ်တွားလျက် ချန်ထားတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ငါအရှင်မြတ်သည်(မိမိအားကြောက်ရွံ့ရိုသေသောအားဖြင့် ပြစ်မှုဒုစရိုက်များမှ) ရှောင်ကြဉ်ကြကုန်သောသူတို့အား လွတ်မြောက်စေတော်မူမည်။ သို့ရာတွင်မတော်မတရား ကျူးလွန်သော သူတို့အား ငါအရှင်မြတ်သည်ယင်းဂျဟန္နမ်ငရဲဘုံ၌ပင် ပုဆစ်ဒူးတုပ်လျက် စွန့်ပစ်ထားတော်မူအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I reche vashiyat Gospod: “Zovete Me, i Az shte vi otklikna! Onezi, koito ot vi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆ဝ။	အို-ကြားနာရသူအပေါင်းတို့ သင်တို့၏အသက်သခင်ကျေးဇူးရှင်ကြီး၏ အမိန့်တော်မှာ အို-ငါ၏ ကျေးကျွန် အပေါင်းတို့၊ သင်တို့သည် ငါ့အထံတော်၌ ဆုတောင်းကြလော့၊ ငါသည် သင်တို့ဆုတောင်းလွှာကို ကြားတော် မူမည်၊ မှတ်သားကြလော့၊ ငါ၏ အမှုတော်ကို ရွံရှာသောသူတို့သည် အရှက်တကွဲငရဲထဲသို့ ဝင်ကြရမည် သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အသင်တို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် (ဤသို့)မိန့်ကြားတော်မူခဲ့၏။ အသင်တို့သည် ငါအရှင်မြတ်ထံတော်တွင် ဆုတောင်း ပတ္ထနာပြုကြလေကုန်။ ငါအရှင်မြတ်သည် အသင်တို့၏ ဆုတောင်းပတ္ထနာပြုချက်ကို လက်ခံတော်မူမည်။ ဧကန်စင်စစ် ငါအရှင်မြတ်အား ဆည်းကပ်ကိုးကွယ်ခြင်းမှ မောက်မာကြကုန်သောသူတို့မှာမူကား မကြာမြင့်မီပင် ဂုဏ်အသရေယုတ်ညံ့စွာနှင့် "ဂျဟန္နမ်"ငရဲဘုံသို့ ဝင်ရောက်ကြကုန်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

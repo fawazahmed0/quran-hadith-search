@@ -710,6 +710,12 @@ Tova e, koeto vi be obeshtano - za vseki pokaĭvasht se, spazvasht [povelite]
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	ထို့အပြင် ထိုသူမြတ်တို့အား မိန့်တော်မူသည်မှာ သင်တို့အား ကတိထားခဲ့တော်မူသောနိဗ္ဗာန်ဥယျာဉ်တော်သည် ဤမွေ့လျော်စံစားရာဌာနဖြစ်၏၊ ဤဥယျာဉ်တော်သည် တရားသံဝေဂရ၍ တရားတော်ကို အရေးစိုက်သူတို့အဖို့ ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည် (အလ္လာဟ်အရှင်မြတ်ဘက်သို့) ပြန်လှည့်သူ (ထိုအရှင်မြတ်၏စည်းကမ်း သတ်မှတ်ချက်များကို)စောင့်စည်းသူတိုင်းအဖို့ ဖြစ်သည်ဟူ၍ အသင်တို့ ကတိပေးခြင်း ခံကြရသောအရာပင် ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

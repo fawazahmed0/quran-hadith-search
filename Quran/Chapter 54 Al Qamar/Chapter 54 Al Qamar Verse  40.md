@@ -710,6 +710,12 @@ I storikhme Korana lesen za pouchenie, no ima li koĭ da se pouchi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄ဝ။	မုချဧကန် ငါသည် ကျမ်းမြတ်ကုရ်အာန်ကို လွယ်လင့်တကူမှတ်သားနိုင်ရန် စီရင်ထားတော်မူ၏၊ သို့သော်ဤ ကျမ်းတော်ကို အာရုံပြုသူတစ်စုံတစ်ယောက်ရှိသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မလွဲကန် ငါအရှင်မြတ်သည် ကုရ်အာန်ကျမ်းတော်မြတ်ကို ကျက်မှတ် တရားရယူအံ့သောငှာ လွယ်ကူစေတော်မူခဲ့ပေရာ ကျက်မှတ်တရားရယူသူ တစ်ဦးတစ်ယောက် ရှိလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

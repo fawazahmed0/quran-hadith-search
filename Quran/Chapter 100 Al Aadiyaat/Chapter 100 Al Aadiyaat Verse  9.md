@@ -710,6 +710,12 @@ Nima ne znae, che kogato bŭde izkarano tova, koeto e v grobovete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၊၁၀၊၁၁။ သချႋုင်းများအတွင်းရှိ လူသေတို့ကို ရှင်ထွက်လာစေတော်မူသောနေ့တော်ကြီး၊ လူသားတို့၏ စိတ်နှလုံးတွင် လျှို့ဝှက်ဖုံးအုပ်ထားသည့် အရာများကို ထင်ရှားစေတော်မူသောနေ့တော်ကြီး၊ ထိုနေ့တော်ကြီး၌ သူတို့၏ အရှင် သခင်သည် သူတို့ အဖြစ်သနစ်အလုံးစုံကို အကြွင်းမဲ့သိတော်မူသည်ကို လူသားမစဉ်းစားမဆင်ခြင်သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ကိယာမတ်ဖြစ်သော)အခါတွင် သင်္ချိုင်းများအတွင်း၌ ရှိကြကုန်သောသူတို့သည် (ထိုသင်္ချိုင်းများကိုမှောက်လှန်၍) ထုတ်ဖော်ခြင်းခံကြရမည်ကို ထိုသူသည် မသိလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

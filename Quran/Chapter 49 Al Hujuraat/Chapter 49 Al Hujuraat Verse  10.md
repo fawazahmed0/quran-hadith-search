@@ -710,6 +710,12 @@ Vyarvashtite sa bratya, zatova pomiryavaĭte svoite bratya i boĭte se ot Alla
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	အမှန်မှာ ယုံကြည်သူတို့သည် ညီရင်းအစ်ကိုများဖြစ်ကြခြင်းမှတပါး မည်သည်မှ မဟုတ်ချေ၊ ထို့ကြောင့်ညီရင်း အစ်ကိုအချင်းချင်း သင့်တင့်ညီညွတ်စွာနေကြလော့၊ သင်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ ဝတ်ကို စောင့်ထိန်း ကြလော့၊ သို့မှသာ သင်တို့သည် ကောင်းကြီးမင်္ဂလာတော်ကို ရကောင်းရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မုအ်မင်န်"သက်ဝင်ယုံကြည်သူတို့မှာ (အချင်းချင်း) ညီအစ်ကိုများသာဖြစ်ကုန်၏။ သို့ဖြစ်ပေရာ အသင်တို့သည် မိမိတို့၏ ညီအစ်ကိုနှစ်ယောက်၏စပ်ကြားဝယ် ရန်ငြိမ်းအောင်(စေ့စပ်မှုကို) ပြုလုပ်ဆောင်ရွက်ကြလေကုန်။ ထိုမှတစ်ပါး အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား ကြောက်ရွံ့ကြလေကုန်။ သို့မှသာလျှင် အသင်တို့သည် သနားကရုဏာပြုတော်မူခြင်းကို ခံကြရကုန်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I povyarvakha te, i gi ostavikhme da se naslazhdavat do vreme
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၈။	ထိုအခါထိုမြို့သူမြို့သားတို့သည် တရားရ၍ ယုံကြည်ကြ၏၊ ထို့ကြောင့်ငါသည် သူတို့အား လောကီစည်းစိမ်ကို တခဏပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ၎င်းအမျိုးသားတို့သည် "အီမာန်"သက်ဝင်ယုံကြည်ခဲ့ကြပေရာ ငါအရှင်မြတ်သည် ၎င်းတို့ အားသတ်မှတ်ပြီးဖြစ်သော အချိန်ကာလတိုင်အောင် အကျိုးကျေးဇူးခံစားခွင့် ပေးသနားတော်မူခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Gospodŭt na nebesata i na zemyata, i na vsichko mezhdu tyakh, ako ste ubedeni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	အရှင်မြတ်သည် မိုးကောင်းကင်၊ ကမ္ဘာမြေကြီးနှင့် မိုးမြေအကြားရှိသမျှအရာဝထ္ထုခပ်သိမ်းကုန်တို့၏ အရှင် သခင်ဖြစ်တော်မူ၏၊ အို-လူသားတို့၊ သင်တို့၌ ယုံကြည်မှုတရားအမှန်အကန်ရှိလျှင် ကောင်းလေစွ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မိုးကောင်းကင်များကိုလည်းကောင်း၊ ပထဝီမြေကိုလည်းကောင်း၊ ယင်းမိုးကောင်းကင်များနှင့် ပထဝီမြေ၏အကြား၌ ရှိသမျှတို့ကိုလည်းကောင်း၊ ဖန်ဆင်း မွေးမြူတော်မူသောအရှင်မြတ်ပင်။ အကယ်၍ အသင်တို့သည် ယုံကြည်သောသူများ ဖြစ်ကြသော်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

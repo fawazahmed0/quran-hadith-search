@@ -710,6 +710,12 @@ Ne stigna li do vas vestta za onezi, koito ne povyarvakha predi i vkusikha pagub
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။ လွန်လေပြီးသောကာလတွင် မယုံကြည်သူမိစ္ဆာဒိဋ္ဌိတို့၏ အတ္တုပ္ပတ္တိကို သင်ကြားမြင်ရပြီမဟုတ်လော၊ သူတို့သည် မိမိတို့ပြုကျင့်မှု၏ ဆိုကျိုးကို ခံစားရလေ၏၊ ထို့အပြင်သူတို့သည် အလွန်ပြင်းထန်သောအပြစ်ဒဏ်ကိုလည်း ခံကြရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့ထံ (မိမိတို့)အလျင် သွေဖည်ငြင်းပယ်ခဲ့ကြလေသော ရှေးသူဟောင်းတို့၏ သတင်းရောက်ရှိ၍ မလာခဲ့လေသလော။ သို့သွေဖည် ငြင်းပယ်ခဲ့ကြပေရာ ၎င်းတို့သည် မိမိတို့၏ အပြုအမူနှင့်စပ်လျဉ်း၍ ပြစ်ဒဏ်ကို မြည်းစမ်းခဲ့ကြရလေပြီ။ ထိုမှတစ်ပါး (‘အာခိရတ်’တမလွန်ဘဝတွင်) ၎င်းတို့၌ လွန်စွာ နာကျင်ဖွယ်ဖြစ်သော ပြစ်ဒဏ်သည်လည်း ရှိချေဦးမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

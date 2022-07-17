@@ -710,6 +710,12 @@ Kaza [Faraonŭt]: “Shtom si donesŭl znamenie, predstavi go, ako govorish isti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၆။	ဖာရောပြောသည်။ အို-မူဆာ အကယ်၍ သင်သည် အတိတ်နိမိတ်အံဖွယ်တော်တစ်ပါးကို ယူခဲ့သော် သင်သည် မှန်သောသစ္စာစကားဆိုသူဖြစ်သော်၊ ထို့လက္ခဧာတော်ကို ပြသလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ယင်း(ဖစ်ရ်အောင်န်)ကပြန်ပြောသည်မှာ (အို-မူစာ)အသင်သည် သက်သေလက္ခဏာ တစ်စုံတစ်ရာကို ယူဆောင်ခဲ့၍ မှန်ကန်စွာ ပြောဆိုသူ တဦးဖြစ်ခဲ့ပါလျှင်ထိုသက်သေလက္ခဏာကို (ငါ၏ရှေ့ဝယ်)တင်ပြလော့ဟု ပြန်ပြောလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

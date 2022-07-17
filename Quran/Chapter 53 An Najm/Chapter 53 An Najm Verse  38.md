@@ -710,6 +710,12 @@ che nikoĭ pregreshil ne shte nosi grekha na drug
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	ထိုသတင်းကား မိမိဝန်ထုပ်ဝန်ပိုးကို ထမ်းရသောလူသားတို့သည် သူတပါး၏ အထုပ်အပိုးကို ထမ်းရွက်ရမည် မဟုတ်ကြောင်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် မည်သည့်သယ်ပိုးသူ တစ်ဦးတစ်ယောက်မျှပင် သူတစ်ပါး၏ဝန်ထုပ်ကို သယ်ပိုး ရွက်ဆောင်မည်မဟုတ် ဟူ၍လည်းကောင်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

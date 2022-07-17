@@ -710,6 +710,12 @@ A koĭto vŭrshi pravedni dela, mŭzh ili zhena, i e vyarvasht, tezi shte vlyaz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၄။	အကြင်သူသည် ယောကျ်ားဖြစ်စေ၊ မိန်းမဖြစ်စေ၊ ကောင်းမှုပွားများ၍ ယုံကြည်သူဖြစ်၏။ ထိုသူသည် သုခဘုံနန်းသို့ဝင်ကြရမည်။ သူတို့ကို စွန်ပလွန်စေ့ရှိ အချိုင့်ကလေးမျှလောက်ပင် မတရားပြုတော် မူမည်မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် မည်သူမဆို ယောက်ျားဖြစ်စေ၊ မိန်းမဖြစ်စေ၊ ကောင်းမြတ်သောကျင့်ဝတ်တို့ကို ကျင့်မူအံ့၊ ၎င်းပြင် ထိုသူသည် ‘မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူလည်းဖြစ်အံ့၊ သို့ဖြစ်လျှင် ထိုကဲ့သို့ သောသူတို့သည် ‘ဂျန္နတ်’ အမတသုခဘုံသို့ ဝင်ရောက် (စံမြန်း) ကြရမည့်အပြင် ထိုသူတို့သည် နှိပ်စက်ညှင်းပန်းခြင်းကိုလည်း စိုးစဉ်းမျှခံကြရမည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

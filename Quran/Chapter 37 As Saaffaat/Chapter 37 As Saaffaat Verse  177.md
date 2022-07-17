@@ -710,6 +710,12 @@ Ala spusne li se to nad domovete im, shte e losh denyat za uveshtavanite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇၇။	သို့သော် အပြစ်ဒဏ်တော်သည် သူတို့၏ အိမ်များသို့ ကျရောက်လာသောအခါ သတိပေးဟောပြောခြင်းခံရသော မိစ္ဆာညစ်အပေါင်းတို့၏ မိုးသောက်နံနက်သည် အလွန်ဆိုးယုတ်သည့်အမင်္ဂလာရက်ဖြစ်ကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ယင်းပြစ်ဒဏ်သည် ၎င်းတို့၏အိမ်ဝင်းထဲ၌ ကျရောက်လာသောအခါ သတိပေးနှိုးဆော်ခြင်းခံ ကြရသောသူများ၏ နံနက်အချိန်ပင် အချိန်မှာ အလွန်ဆိုးရွားလှသော နံနက်အချိန်ပင် ဖြစ်ချိမ့်မည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ iztrŭgvasht khorata, syakash sa stvolove na izskubnati palmi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	ထိုလေဆိုးကြီးသည် စွန်ပလွံပင်များကို မြစ်ရင်းမကျန် နှုတ်လှန်တိုက်ခတ်ပစ်သကဲ့သို့ အားဒ်လူမျိုးကို သုတ်သင် ပယ်ရှင်းပစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းလေပြင်းမုန်တိုင်းမှာ လူတို့အား ဆွဲနှုတ်ခဲ့ရာ ၎င်းတို့သည် အမြစ်မှ ပြုတ်ထွက်ပြိုလဲခဲ့လေသော စွန်ပလွံပင်၏ပင်မကြီးများကဲ့သို့ ဖြစ်သွားခဲ့ကြ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

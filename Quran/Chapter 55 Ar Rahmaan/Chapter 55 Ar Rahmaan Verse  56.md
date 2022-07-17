@@ -710,6 +710,12 @@ Ima tam zheni s tselomŭdren pogled, nedokosnati nito ot chovek predi tyakh, nit
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၆။	ထိုဥယျာဉ်ဗိမာန်တော်များ၌ လူသား ဂျင်နတ်သားတို့လက်နှင့်ပင် မထိရသေးသောစက္ခုအိန္ဒြေနှင့် ပြည့်စုံသော နတ်ကညာများရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်း(ဥယျာဉ်များနှင့် ဥယျာဉ်များရှိ အဆောက်အအုံ)တို့တွင် မျက်စိကို အောက်သို့နှိမ့်ချထားသော မိန်းမပျိုများသည်လည်း ရှိကြပေမည်။ ၎င်းတို့အလျင် မည်သည့် လူသား တစ်ဦးတစ်ယောက်မျှလည်း ထို မိန်းမပျိုတို့အား ထိတွေ့ခဲ့ဖူးသည်မရှိပေ။ မည်သည့် ဂျင်န် တစ်ဦးတစ်ယောက်မျှလည်း ထိတွေ့ခဲ့ဖူးသည် မရှိချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

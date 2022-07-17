@@ -710,6 +710,12 @@ I gi izvesti za gostite na Ibrakhim
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁။	တဖန် သူတို့အား တမန်တော်အေဗရာဟမ်၏ ဧည့်သည်တော်များအကြောင်းကိုလည်း မြွက်ကြားလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတပါး (အို-နဗီတမန်တော်) အသင်သည်၎င်းတို့အား(နဗီတမန်တော်)အစ်ဗ်ရာဟီမ်၏ ဧည့်သည်များနှင့်ပတ်သက်၍လည်း အကြောင်းကြားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ V Denya Toĭ shte gi prizove i shte kazhe: “Kŭde sa onezi, za koito tvŭrdya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၄။	နေ့တော်ကြီး၌ အလ္လာဟ်အရှင်မြတ်သည် သူတို့အား ခေါ်တော်မူပြီးလျှင် အမိုက်ကောင်တို့၊ နင်တို့သည် ငါနှင့်တွဲဖက်သောဘုရားဟု ရမ်းဆထင်မှတ်သောအရာတို့သည် အဘယ်မှာနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် အကြင်နေ့တွင် ထိုအရှင်မြတ်သည် ၎င်းတို့အား အသင်တို့သည် ငါအရှင်မြတ်၏ တွဲဖက်များဖြစ်ကြသည်ဟု ထင်မှတ်(ကိုးကွယ်)လျက်ရှိခဲ့ကြသော တွဲဖက်များသည် အဘယ်မှာနည်းဟု ဟစ်ခေါ်မိန့်ကြားတော်မူမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

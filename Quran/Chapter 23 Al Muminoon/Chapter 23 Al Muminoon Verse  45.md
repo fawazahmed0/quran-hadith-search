@@ -710,6 +710,12 @@ Posle izpratikhme Musa i brat mu Kharun s Nashite znameniya i s yaven dovod
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	ထို့နောက်ငါသည် တမန်တော်မူစာနှင့် သူ၏အစ်ကိုတမန်တော်ဟာရွန်တို့ကို ငါ၏သာဓကတော်များ၊ ထင်ရှား သောဗျာဒိတ်တော်များနှင့်တကွ စေလွှတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ငါအရှင်မြတ်သည် (နဗီတမန်တော်) မူစာအားလည်းကောင်း၊ ထို(နဗီတမန်တော်)မူစာ၏နောင်တော် (နဗီတမန်တော်)ဟာရုန်အားလည်းကောင်း၊ မိမိ အမိန့်ပညတ်တော်များနှင့် ထင်ရှားလှစွာသော သက်သေသာဓကနှင့်တကွ စေလွှတ်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I zaklakha kamilata, i prenebregnakha povelyata na svoya Gospod, i kazakha: “O
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၇။	ထို့ကြောင့် သူတို့သည် ကုလားအုပ်မ၏ ဒူးခေါက်ကြောကို ခုတ်ဖြတ်ကြ၏။ သူတို့သည် မိမိတို့၏ ကျေးဇူးတော်သခင်၏ ဗျာဒိတ်တော်ကို မထီမဲ့မြင်ပြုကြ၏။ ထိုသူတို့က ပြောကြ၏။ အို-ဆွာလေ(ဟ်) သင်သည် အလ္လာဟ်အသျှင်မြတ်စေလွှတ်တော်မူသော တမန်တော်တစ်ပါးအမှန်ပင် ဖြစ်ပါလျှင် သင်သည် မိမိ ခြိမ်းခြောက်သော အပြစ်ဒဏ်တော်ကို အကျွနု်ပ်တို့အပေါ်သို့ ကျရောက်စေပါလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 နောက်ဆုံးတွင် ၎င်းတို့သည် ကုလားအုတ်မကို(လည်း)သတ်ဖြတ်ခဲ့ကြ၏။ မိမိတို့အရှင်မြတ်၏အမိန့်တော်ကိုလည်း မထီမဲ့မြင်ပြုလုပ်ခဲ့ကြ၏။ ထို့ပြင် ၎င်းတို့က ‘အို-ဆွာလိဟ် အသင်သည် အကယ်၍ ရစူလ်တမန်တော်တို့တွင်တစ်ပါး အပါအဝင်ဖြစ်ခဲ့လျှင် အသင် ကျွန်ုပ်တို့အား ခြိမ်းခြောက်လေ့ရှိသော (ပြစ်ဒဏ်)ကို ကျွန်ုပ်တို့ထံယူခဲ့ပါလေ’ဟူ၍လည်း ပြောဆိုခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

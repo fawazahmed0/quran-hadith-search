@@ -710,6 +710,12 @@ I gi porazikha loshite posledstviya na onova, koeto sa pridobili. I ugnetitelite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁။	ထိုသူဟောင်းတို့ပြုကျင့်ခဲ့သောမကောင်းမှုအကုသိုလ်၏ အပြစ်ဒုက္ခသည် သူတို့ကို ညှင်းဆဲကြ၏၊ ထို့အပြင် ဤလူများအနက် ဒုစရိုက်မကောင်းမှုကျူးလွန်သူများကိုလည်း မိမိတို့ပြုကျင့်ခဲ့သောအကုသိုလ်ကံဆိုးကြီးသည် ညှင်းပန်းကြလတ့ံ၊ မကောင်းမှု၏ အကျိုးဆက်မှ မလွတ်မြောက်နိုင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ၎င်းတို့၌ ၎င်းတို့၏ ဆည်းပူးချက်များ၏ ဆိုးရွားသောအန္တရာယ်များသည် သက်ရောက်ခဲ့လေ၏။ ထိုနည်းတူစွာ ဤ(လက်ရှိသွေဖည်ငြင်းပယ်)သူတို့အနက် မတရားကျူးလွန်ခဲ့ကြသော သူတို့အပေါ် ၌လည်း မကြာမြင့်မီပင် ၎င်းတို့၏ဆည်းပူးချက်များ၏ အန္တရာယ်များသည် သက်ရောက်မည်ဖြစ်၏။ စင်စစ်မှာကား ၎င်းတို့သည် (အလ္လာဟ်အရှင်မြတ်အား) မစွမ်းဆောင်နိုင်အောင် ပြုစွမ်းနိုင်ကြသူများ မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

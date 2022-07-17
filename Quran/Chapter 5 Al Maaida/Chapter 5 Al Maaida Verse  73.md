@@ -710,6 +710,12 @@ Nevernitsi sa onezi, koito kazvat: “Allakh, tova e tretiyat ot troitsata.” A
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၃။	အကြင်သူတို့သည် အလ္လာဟ်အသျှင်မြတ်သည် ဘုရားသုံးပါးအနက် တတိယဘုရားဖြစ်၏ဟု ဆိုကြ၏။ ထိုသူတို့သည် အမှန်ပင် မယုံကြည်ကြပေ။ တစ်ဆူတည်းသော အလ္လာဟ်အသျှင်မြတ်မှ တစ်ပါး အခြားအသျှင်သခင်မရှိပေ။ သူတို့သည် ယင်းအပြောအဆိုကို မရပ်တန့်လျှင် သူတို့အနက် မိစ္ဆာမိုက်တို့သည် အလွန်ပြင်းပြနာကျင်ဖွယ်ကောင်းသော အပြစ်ဒဏ်ကြီးကို ခံစားကြရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် အကြင်သူတို့သည်လည်း ကာဖိရ်များပင် ဖြစ်သွားခဲ့ကြကုန်၏။ ထိုသူများက အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် (ဘုရား) သုံးဆူအနက် တတိယ (ဘုရား) ဖြစ်သည်ဟူ၍ ပြောဆိုခဲ့ကြကုန်၏။ အမှန်သော်ကား တစ်ဆူတည်းသော ကိုးကွယ်ရာ (အလ္လာဟ်အရှင်) မြတ်မှတစ်ပါး အခြားကိုးကွယ်ရာ (ဘုရား) ဟူ၍ အလျင်းမရှိချေ။ အကယ်၍သာ ယင်းသူတို့သည် မိမိတို့ပြောဆိုမှုကို မရပ်စဲကြသော် ၎င်းတို့အနက်မှ ဆက်လက်၍ သွေဖည်ငြင်းပယ်ကြသောသူတို့၌ ပြင်းပြနာကျင်ဖွယ်ဖြစ်သော ပြစ်ဒဏ်သည် မုချဆိုက်ရောက်ပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

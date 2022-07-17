@@ -710,6 +710,12 @@ I shte kazhat nevernitsite: “Gospodi nash, pokazhi ni onezi ot dzhinovete i kh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	ထိုအခါအယူလွဲသူတို့က အို-အကျွနု်ပ်တို့၏ အရှင်သခင်၊ ဂျင်နတ်သားနှင့် လူသားတို့အထဲမှ အကျွနု်ပ်တို့အား လှည့်ဖြားသောသူတို့ကို ပြတော်မူပါ။ အောက်ဆုံးငရဲဘုံသို့ ရောက်အောင် အကျွနု်ပ်တို့သည် သူတို့အား ခြေဖဝါးအောက်သို့ သွင်းနင်းပါမည်ဟု လျှောက်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ကာဖိရ် သွေဖည်ငြင်းပယ်သော သူတို့က လျှောက်ထားကြပေမည်။ အို-ကျွန်တော်မျိုး တို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင် ဂျင်(န်) သတ္တဝါတို့အနက်မှလည်းကောင်း၊ လူသားတို့အနက်မှလည်းကောင်း၊ ကျွန်တော်မျိုးတို့အား လမ်းလွဲစေခဲ့ကြသူနှစ်ဦးလုံးကို အရှင်မြတ်သည်ကျွန်တော်မျိုးတို့အား ပြတော်မူပါ။ ၎င်းတို့သည် ဂုဏ်အသရေအညံ့ဆုံးသောသူများ (ငရဲမီးတွင်) အောက်ဆုံး၌ ရှိသူများဖြစ်ကြစေရန် ၎င်းတို့နှစ်ဦးအား ကျွန်တော် မျိုးသည် မိမိတု့ိ၏ခြေများအောက်တွင် ထားရှိကြပါမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

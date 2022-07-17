@@ -710,6 +710,12 @@ I se vŭrna Musa razgneven, ogorchen pri svoya narod. Reche: “O, narode moĭ,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၆။	ထိုအခါတမန်တော်မူစာသည် အမျက်ဒေါသထွက်ပြီးလျှင် မချမ်းသာသောစိတ်ဖြင့် မိမိလူများထံသို့ ပြန်သွား၍ ဤသို့ဆို၏၊ ဟယ်-အချင်းတို့၊ သင်တို့၏အရှင်သခင်သည် သင်တို့အား သင့်တင့်လျှောက်ပတ်သောကတိသစ္စာ တော်ကို သင်တို့အပေါ်သို့ ကျရောက်စေခြင်းငှာ အကျွနု်ပ်နှင့်ချိန်းချက်ထားသောကတိသစ္စာကို ဖျက်ကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ မူစာသည် မိမိအမျိုးသားတို့ထံ ဒေါသအမျက်ထွက်ကာ ဝမ်းနည်းပူဆွေးစွာ ပြန်လာခဲ့ပြီးလျှင် (ဤသို့)ပြောဆိုခဲ့လေသည်။ အို-ကျွန်ုပ်၏ အမျိုးသားတို့၊ အသင်တို့ကိုဖန်ဆင်းမွေးမြူတော် မူသောအရှင်မြတ်သည် အသင်တို့အားကောင်းမြတ်လှစွာသော ကတိကိုပေးတော်မူခဲ့သည် မဟုတ်လော။ သို့ဖြစ်ပေရာ အသင်တို့အပေါ်၌ ချိန်းချက် ထားသောထိုအချိန်ကာလသည် ရှည်လျားကြာညောင်း ခဲ့လေပြီလော။သို့တည်းမဟုတ် အသင်တို့သည် မိမိတို့ အပေါ်၌ မိမိတို့အရှင်မြတ်၏ အမျက်တော်သက်ရောက် ခြင်းကို အလိုရှိသောကြောင့်ကျွန်ုပ်နှင့်ထားရှိပြီးဖြစ်သော ကတိကို ဖောက်ဖျက်ခဲ့ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

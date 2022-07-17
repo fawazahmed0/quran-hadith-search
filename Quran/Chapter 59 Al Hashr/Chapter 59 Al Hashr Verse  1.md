@@ -710,6 +710,12 @@ Vsichko na nebesata i vsichko na zemyata proslavya Allakh. Toĭ e Vsemogŭshtiy
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။	မိုးကောင်းကင်နှင့် ကမ္ဘာမြေပေါ်ဝယ်ရှိရှိသမျှအရာခပ်သိမ်းတို့သည် အလ္လာဟ်အရှင်မြတ်၏ ကျေးဇူးတော်၊ ဂုဏ်တော်ကို ချီးကျူးကြ၏၊ အကြောင်းမူကား အရှင်မြတ်သည် အနန္တတန်ခိုးတော်သခင်၊ သဗ္ဗညုတဉာာဏ် တော်ရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မိုးကောင်းကင်များ၌ ရှိသမျှတို့သည်လည်းကောင်း၊ပထဝီမြေဝယ်ရှိသမျှတို့သည်လည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ် စင်ကြယ်သန့်ရှင်းတော်မူကြောင်း မြွက်ဆိုကြကုန်၏။စင်စစ်သော်ကား ထိုအရှင်မြတ်သည် လွန်စွာ နိုင်နင်းလွှမ်းမိုးတော်မူသောအရှင်၊ နူးညံ့သိမ်မွေ့သော ဆင်ခြင်တုံတရားနှင့် ပြည့်စုံတော်မူသောအရှင်၊ ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

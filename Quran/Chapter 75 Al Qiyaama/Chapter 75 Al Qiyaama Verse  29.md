@@ -710,6 +710,12 @@ i se preplete krak s krak
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။ ထို့အပြင်နာကျင်ခြင်းဒုက္ခသည် တစ်ခုပြီးတစ်ခု သူ့ကို ဖိစီးနှိပ်စက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ခြေသလုံးသည် ခြေသလုံးနှင့်ကပ်သွားပေမည်။ (တစ်နည်း) ထို့ပြင် ဒုက္ခသည် ဒုက္ခပေါ်၌ ထပ်ဆင့်၍ သွားပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

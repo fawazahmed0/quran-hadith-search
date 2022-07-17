@@ -710,6 +710,12 @@ Ili ne mu bŭde spusnato sŭkrovishte, ili ne mu se dade gradina, ot koyato da y
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	သို့မဟုတ်သူ့အား ရွှေငွေရတနာကို သူ့အပေါ်သို့ အဘယ်ကြောင့်ပစ်ချတော်မမူသနည်း၊ သူစားသောက်ဖို့ရာ အစာအာဟာရပေးသော နိဗ္ဗာန်ဥယျာဉ်အဘယ်ကြောင့် သူ၌မရှိသနည်း၊ ထို့အပြင်မကောင်းမှုပြုကျင့်သူတို့က ဟယ်-အချင်းတို့၊ သင်တို့သည် စုန်းဖမ်းစားသူတစ်ဦး၏ နောက်သို့ လိုက်နေသည်သာတည်းဟု ပြောဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ်၊ ၎င်း၏ထံသို့ ဘဏ္ဍာတိုက်တစ်ခုသည် အဘယ်ကြောင့် ချပေးခြင်းမခံရသနည်း၊ သို့တည်းမဟုတ် ၎င်း၌ ဥယျာဉ်တစ်ခုသည် အဘယ်ကြောင့် မရှိလေသနည်း။ (သို့ရှိခဲ့လျှင်) ၎င်းသည် ယင်းဥယျာဉ်မှ (သစ်သီးဝလံများ)ကို စားသုံးနိုင်ပေမည်" ထိုမှတစ်ပါး ထိုမတရားသောသူတို့က "အသင်တို့သည် စုန်းပြုစားခြင်းခံရသော ယောက်ျားတစ်ဦး၏နောက်သို့သာ လိုက်နေကြသည"ဟု ပြောဆိုကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

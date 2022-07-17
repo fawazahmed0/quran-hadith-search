@@ -710,6 +710,12 @@ Na razvedenite zheni - polzvane spored predpisanieto, - dŭlg e za bogoboyazlivi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄၁။	လင်ကွာမိန်းမများအဖို့ရာ တရားမျှတသောရိက္ခာပစ္စည်းကို သနားကြင်နာခြင်းဖြင့် ပေးကြလော့။ ဒုစရိုက်မကောင်းမှုကို ရှောင်ရှားသူတို့အဖို့ ပညတ်တော်မူသောဝတ္တရားဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ ကွာရှင်းပြီးဖြစ်သော မိန်းမများကို လည်း ဓလေ့ထုံးစံအတိုင်း အကျိုးခံစား စေကြရမည်။ (ဤ သည်ကား)အလ္လာဟ်အရှင်မြတ် ကိုကြောက်ရွံ့သော သူတော်စင် များ (လိုက်နာ ဆောင်ရွက်ရမည့်) တာဝန်တရပ်ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

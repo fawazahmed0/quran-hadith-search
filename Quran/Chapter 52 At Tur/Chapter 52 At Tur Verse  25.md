@@ -710,6 +710,12 @@ I shte se obrŭshtat edin kŭm drug, razpitvaĭki se
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	ထို့အပြင်သူတို့သည် တစ်ဦးအနား တစ်ဦးကပ်၍ တစ်ယောက်အကြောင်းကို တစ်ယောက်မေးမြန်းလျက်ရှိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ၎င်းတို့အနက် တစ်ဦးသည်တစ်ဦး၏ ဘက်သို့လှည့်ကာ အချင်းချင်း စုံစမ်းမေးမြန်းကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

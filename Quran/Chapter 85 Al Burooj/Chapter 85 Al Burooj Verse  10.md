@@ -710,6 +710,12 @@ Za onezi, koito izgaryakha vyarvashtite mŭzhe i zheni, a posle ne se razkayakha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၀။ ယုံကြည်သူယောကျာ်းမိန်းမတို့ကို ညှင်းပန်းနှိပ်စက်၍ မိမိတို့အပြစ်ကို နောင်တမရသောသူတို့သည် အပယ်ငရဲသို့ လားကြရလတံ့၊ သူတို့သည် မီးလောင်ကျွမ်းခြင်းဒဏ်ကို ခံကြရလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ အကြင်သူတို့သည် "မုအ်မင်န်" သက်ဝင်ယုံကြည်ကြကုန်သော ယောက်ျားတို့အား လည်းကောင်း၊ "မုအ်မင်န်" သက်ဝင်ယုံကြည်ကြကုန်သော မိန်းမတို့အားလည်းကောင်း၊ နှိပ်စက်ညှဉ်းပမ်းခဲ့ကြ၏။ ထို့နောက် ၎င်းတို့သည် ဝန်ချတောင်းပန်ခြင်း မပြုခဲ့ကြပေ။ ထိုသူတို့၌ "ဂျဟန္နမ်" ငရဲ၏ပြစ်ဒဏ် သည် (အထူးသဖြင့်) မီးလောင်ကျွမ်းခြင်း၏ပြစ်ဒဏ်သည် ရှိချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

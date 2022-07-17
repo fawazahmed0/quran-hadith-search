@@ -710,6 +710,12 @@ Nie razdelikhme Korana na chasti, za da go chetesh pred khorata bavno. I go nizp
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၆။	သင်သည် လူသားတို့အား ကျမ်းမြတ်ကုရ်အာန်ကို အရစ်ကျရွတ်ဆိုနိုင်အ့ံသောငှာ ငါသည် ထိုကျမ်းတော်ပိုင်းဖြတ် ခွဲခြမ်းထားတော်မူ၏။ ငါသည် ထိုကျမ်းတော်ကြီးကို အလီလီဆက်ခါဆက်ခါထုတ်ပြန်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ငါအရှင်မြတ်သည် ကုရ်အာန်ကျမ်းမြတ်ကို ခြားနား၍ချပေးသနားတော်မူခဲ့၏။ အသင်သည် လူတို့ရှေ့ဝယ် ယင်းကုရ်အာန်ကျမ်းတော်မြတ်ကို ဆိုင်းကာ (တစ်နည်း)ဆိုင်းငံ့ထားသော ကြားကာလ၌ ဖတ်ကြားနိုင်အံ့သောငှာ (ယင်းကဲ့သို့ ခြားနား၍ချပေးတော်မူခြင်း)ဖြစ်ပေသည်။ ၎င်းပြင် ငါအရှင်မြတ်သည် ယင်းကုရ်အာန်ကျမ်းတော်မြတ်ကို အသင်တို့ထံ တဖြည်းဖြည်းအားဖြင့် ချပေးသနားတော် မူခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

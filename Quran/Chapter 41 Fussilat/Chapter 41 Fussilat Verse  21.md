@@ -710,6 +710,12 @@ I shte kazhat na kozhata si: “Zashto zasvidetelstva protiv nas?” Shte kazhe:
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	ထိုအခါ၎င်းတို့က သူတို့၏ ကိုယ်အင်္ဂါအစိတ်အပိုင်းများကို သင်တို့သည် အဘယ်ကြောင့်ငါတို့အပေါ်မှာ သက်သေ ခံကြသနည်းဟု ပြောဆိုကြ၏၊ ကိုယ်အင်္ဂါအစိတ်အပိုင်းတို့က အရာခပ်သိမ်းကုန်တို့ကို စကားပြောဆိုတတ်သော သတ္တိကို ပေးသနားတော်မူသောအလ္လာဟ်အရှင်မြတ်သည် အကျွနု်ပ်တို့အား စကားပြောစေတော်မူ၏၊ အရှင် မြတ်သည် သင်တို့အား ပထမအကြိမ်ဖန်ဆင်းတော်မူလေ၏၊ သင်တို့သည် အရှင်မြတ်ထံ ပြန်ကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ)၎င်းတို့က မိမိတု့ိ၏(အသား)အရေများကို အသင်တို့သည် ကျွန်ုပ်တို့နှင့်ဆန်ကျင်၍ အဘယ်ကြောင့်သက်သေထွက်ဆိုကြသနည်းဟု ပြောဆိုကြပေမည်။ (ထိုအခါ)ယင်း(နား၊ မျက်စိနှင့်သားရေ)တို့က (ဤသို့)ပြောဆို (ပြန်ကြား)ကြပေမည်။ ကျွန်ုပ်တို့အား အကြင်အလ္လာဟ်အရှင်မြတ်သည်ပင် စကားပြောဆိုစေတော်မူ၏။ ထိုအရှင်မြတ်သည်အရာခပ်သိမ်းတို့ကို စကားပြောဆိုစေတော်မူခဲ့၏။ စင်စစ်သော်ကား ထိုအရှင်မြတ်သည်ပင် အသင်တို့အား ပထမအကြိမ် ဖန်ဆင်းတော်မူခဲ့၏။ ထို့အပြင် အသင်တို့သည်ထိုအရှင်မြတ်အထံတော်သို့ပင် ပြန်လည်ရောက်စေခြင်းကိုခံကြရလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Koito vyarvat i vŭrshat pravedni dela, shte gi nastanim vŭv visinite na Raya, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈။	အကြင်သူတို့သည် ယုံကြည်လျက် သုစရိုက်ကောင်းမှုကို အားထုတ်ပွားများအ့ံ၊ ငါသည် ထိုသူတို့အား နိဗ္ဗာန် ဥယျာဉ်တော်များ၌ ဘုံဗိမာန်တော်များတွင် စံစားနေထိုင်စေတော်မူမည်၊ ထိုဥယျာဉ်တော်အောက်တွင် စိမ့်စမ်း ရေမြောင်းတို့လည်း အယဉ်ထွေထွေစီးဆင်းလျက်ရှိနေကြ၏၊ ထိုသူတို့သည် ထိုဥယျာဉ်တော်များ၌ စိုးရိမ်ကြောင့် ကျခြင်းမရှိပဲ စိတ်ချလက်ချစံမြန်းရကြမည်၊ ခြိုးခြံစွာကျင့်သူတို့၏ အကျိုးဆက်သည် ကောင်းလေစွ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင်’အီမာန်’ သက်ဝင်ယုံကြည်ပြီး ကောင်းမြတ်သောအကျင့်သီလများကို ကျင့်မူဆောက်တည်ကြကုန်သော သူတို့မှာမူကား အမှန်ပင် ငါအရှင်မြတ်သည် ၎င်းတို့အား ဂျန္နတ်သုခဘုံ၌ မြင့်စွင့်လှစွာသော အဆောင်များတွင် နေရာချပေးတော်မူမည်။ ယင်း အဆောင်များ၏အောက်၌ ရေချောင်းများသည် စီးတွေလျက်ရှိကြပေမည်။ (၎င်းတို့သည်)ယင်းအဆောင်များတွင် အမြဲထာဝစဉ် နေထိုင်စံမြန်းကြပေမည်။ပင်ပန်းကြီးစွာ လုပ်ကိုင်ဆောင်ရွက်ခဲ့ကြသော (သူတော်ကောင်း)တို့၏ အကျိုးကား လွန်စွာကောင်းမြတ်လှပါဘိတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

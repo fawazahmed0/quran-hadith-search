@@ -710,6 +710,12 @@ Tova sa znameniyata na Allakh, chetem ti gi pravdivo. Naistina ti si ot pratenit
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅၂။	အို - မုဟမ္မဒ်၊ ဤဂါထာတော်များသည် သင့်အား ငါအရှင် ဖတ်ရွတ်ပြတော်မူသော အလ္လာဟ်၏ မှန်ကန်သော သက်သေသာဓကတော်များဖြစ်သည်။ သင်သည် ငါ၏ တမန်တော်များဘောင်တွင် မုချပါဝင်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) ဤသည်တို့သည် အလ္လာဟ် အရှင်မြတ်၏မုက္ခပါဌ်တော်များပင်ဖြစ်သည်၊ ငါအဲရှင်မြတ် သည်အသင့်အား ထိုမုက္ခပါဌ်တော်များ ကိုမှန်ကန်စွာကြား သိစေတော်မူသည်၊ ၎င်းပြင် အသင်သည်စေလွှတ်တော်မူ ခြင်း ခ့ရသော’ရစူလ်’တမန်တော်များတွင်မုချတစ်ပါးအပါအဝင်ဖြစ် လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Rekokha: “Nima te uchudva povelyata na Allakh? Milostta na Allakh i Negovite b
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၃။	ထိုအခါ ဧည့်သည်တော်တို့က သင်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ ဗျာဒိတ်တော်ကို အ့ံသြပါသလော။ အို-အိမ်သူအိမ်သားတို့၊ အလ္လာဟ်အရှင်မြတ်၏ ကရုဏာတော်နှင့် ကောင်းကြီးမင်္ဂလာတို့သည် သင်တို့အပေါ်သို့ သက်ရောက်ပါစေသော်ဝ်။ မှတ်သားကြလော့၊ အရှင်မြတ်သည် ချီးမွမ်းခြင်းပိုင်ရှင်၊ ဂုဏ်ပိုင်ရှင်ဖြစ်တော်မူပါ၏ ဟု ပြောကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုစေတမန်တို့က (နဗီတမန်တော်ဣဗ်ရာဟီမ်၏ကြင်ရာတော် စာရဟ်သခင်မအား ဤသို့) ပြောဆိုဖြေကြားခဲ့ကြလေသည်။ အသင်သည် အလ္လာဟ်အရှင်မြတ်၏အမိန့်တော်ကို အံ့ဩ၍နေပါသလော။ အို-(နဗီတမန်တော်အစ်ဗ်ရာဟီမ်၏) အိမ်သူအိမ်သားတို့ အလ္လာဟ်အရှင်မြတ်၏ကရုဏာတော်သည်လည်း ကောင်း၊ ထိုအရှင်မြတ်၏ ကောင်းချီးမင်္ဂလာအဖြာဖြာတို့သည်လည်းကောင်း၊ အသင်တို့အပေါ်၌ကျရောက် မြဲပင် ဖြစ်ချေသည်။ ဧကန်မလွဲ ထိုအရှင်မြတ်သည်ချီးမွမ်းထောပနာပြုခြင်းကို ခံထိုက်တော်မူသောအရှင်၊ အထူးဂုဏ်ကျက်သရေနှင့် ပြည့်စုံတော်မူသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Reche: “Sedem godini shte seete kakto obiknoveno i kakvoto pozhŭnete, zapazet
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	ထိုအခါယူစွတ်(ဖ်)က ဟယ်-အချင်း၊ သင်တို့သည် ခါတိုင်းကဲ့သို့ လယ်ယာကိုင်းကျွန်းကို ခုနှစ်ပတ်လုံး၊ ထွန်ယက်လုပ်ကိုင်ကြလော့။ အသီးအနှံများကို ရိတ်သိမ်းသောအခါ တနှံမှ မကြေစေရ။ ကောက်လှိုင်းအတိုင်း သိုလှောင်ထားကြလော့။ စားသုံးရန် အနည်းငယ်ကိုမျှ အနှံမှ ချွေယူစားသုံးကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုယူစုဖ်သည် (အိပ်မက်ဒိဗ်ဓုမ်ကို ဤသို့ ရှင်းလင်း၍) ပြောပြလေသည်။ အသင်တို့သည် (မိမိတို့စိုက်ပျိုးနေကျအတိုင်း) ခုနစ်နှစ်တိုင်တိုင်(မိမိတို့လယ်ယာများကို) အဆက်မပြတ် စိုက်ပျိုးကြလေကုန်။ သို့ရှိရာ အသင်တို့သည် မိမိတို့ရိတ်သိမ်း သော ကောက်လှိုင်းများအနက် မိမိတို့စားသုံးရန်ဖြစ်သော အနည်းငယ်မျှမှအပ ကျန်ရှိသော ကောက်လှိုင်း များကိုကောက်လှိုင်းအတိုင်းပင် ထားရှိကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

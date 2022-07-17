@@ -710,6 +710,12 @@ Nikoĭ ne znae kakva radost za okoto e skrita za tyakh - vŭzdayanie za onova, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	ဝိညာဉ်သည် မိမိဆည်းပူးခဲ့သောကုသိုလ်ကောင်းမှု၏ ဆုတော်လာဘ်တော်ဖြစ်သောမည်သည် ဝမ်းမြောက် ပျော်ရွှင်မှုကို မိမိထံမှ ဖုံးကွယ်ထားသည်ကို မသိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား မိမိတို့အဖို့ မိမိတို့ကျင့်မူလျက်ရှိခဲ့ကြသည်များ၏ အကျိုးကျေးဇူးအဖြစ် လျှို့ဝှက်စွာထားရှိပြီးဖြစ်သော မျက်စိအေးမြကြည်လင်မှုကို မည်သူတဦးတစ်ယောက်မျှပင် မသိပြီတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

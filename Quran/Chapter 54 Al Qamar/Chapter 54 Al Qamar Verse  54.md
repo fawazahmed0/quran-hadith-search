@@ -710,6 +710,12 @@ Bogoboyazlivite shte prebŭdat sred gradini i reki
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၄။	မှတ်သားကြလော့၊ တရားသဖြင့် ကျင့်သောသူတော်စင်သူတော်မြတ်တို့သည် ဥယျာဉ်တော်များ၊ မြစ်ချောင်းများ အလယ်တွင် စံစားနေထိုင်ကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မလွဲဧကန် ‘မွတ္တကီ’ သူတော်စင်တို့မှာ ဥယျာဉ်များ၌လည်းကောင်း၊ စမ်းချောင်းများ၌လည်းကောင်း၊ ရှိကုန်အံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Reche: “Vŭrvi! A koĭto ot tyakh te posledva, vŭzmezdieto vi e Adŭt - obil
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၃။	ထိုအခါအလ္လာဟ်အရှင်မြတ်က ထွက်သွားလော့။ သူတို့အနက် နင်၏ နောက်သို့ လိုက်သူနှင့်တကွ နင့်ကို ငရဲမီးပေးတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ အရှင်မြတ်က (အစ်ဗ်လီစ်) အသင်သွား၊(ကြိုက်ရာလုပ်)။ တစ်ဖန် မည်သူမဆို ယင်း(အာဒမ်၏သားမြေး)တို့အနက်မှ အသင်၏နောက်သို့ လိုက်ပါခဲ့လျှင် ဂျဟန္နမ်ငရဲဘုံသည် အသင်တို့၏ လုံလောက်စွာသော အကျိုးပင် ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A drugi [pobedi], koito ne byakha po silite vi, Allakh potuli. Allakh za vsyako 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	သင်တို့မရသေးသောအောင်မြင်မှုများကိုလည်း အရှင်မြတ်သည် သင်တို့အား ပေးသနားတော်မူလိမ့်မည်၊ အရှင် မြတ်သည် အရာရာကို ပြုစွမ်းနိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်တို့ စွမ်းနိုင်ခြင်း မရှိခဲ့ကြသေးသော အခြားအောင်မြင်မှုတစ်ရပ်လည်း ရှိပေသေး၏။ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် ယင်းအောင်မြင်မှုကို ဝန်းဝိုင်းလျက် ရှိတော်မူ၏။ စင်စစ်မူကား အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို စွမ်းနိုင်တော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

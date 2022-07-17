@@ -710,6 +710,12 @@ Kogato mu chetat Nashite znameniya, kazva: “Legendi na predtsite!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။ သင်သည် ငါ၏ပညတ်တော်များကို သူ့အား ဖတ်ပြဟောပြောသောအခါ ထိုသူမိုက်က "ရှေးလူဟောင်းတို့၏ဒဏ္ဍာရီပုံပြင်ဝတ္ထုများသာတည်း"ဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်း၏ရှေ့ဝယ် ငါအရှင်မြတ်၏ အာယတ်တော်များ ဖတ်ကြားသောအခါ "ဤသည် ရှေးလူဟောင်းတို့၏ပုံပြင်များသာ ဖြစ်ကြသည်"ဟု ၎င်းက ပြောဆိုလေ့ရှိ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

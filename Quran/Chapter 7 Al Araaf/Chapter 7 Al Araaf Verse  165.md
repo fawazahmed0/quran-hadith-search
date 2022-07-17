@@ -710,6 +710,12 @@ I kogato zabravikha kakvo im be pripomneno, spasikhme onezi, koito vŭzbranyavat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၅။	ထို့နောက် သူတို့သည် သူတို့အား သတိပေးသော တရားတော်ကို မေ့လျော့နေသောအခါ မကောင်းမှု ကို တားမြစ်ပိတ်ပင်သူတို့အား ငါအသျှင်မြတ်သည် ကယ်နှုတ်တော်မူ၏။ သို့သော် ဒုစရိုက်ပြစ်မှုများ ကို ကျူးလွန်သူတို့အား မိမိတို့ညစ်ညမ်းဆိုးသွမ်းမှုကြောင့် အလွန်ကြီးလေးကြောက်မက်ဖွယ်ကောင်း သော အပြစ်ဒဏ်ကို ထပ်ရိုက်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တဖန် ထိုသူတို့သည် မိမိတို့သတိပေးခြင်း ခံကြရသောအမှုကိစ္စကို မေ့လျက်ပင်ရှိကြလေသောအခါ ငါအရှင်မြတ်သည် မကောင်းမှုတို့မှ မြစ်တားလျက်ရှိကြသူတို့အား ကယ်ဆယ်တော်မူ၍ မတရားကျူးလွန်သောသူတို့ကိုမူ ၎င်းတို့သည်သွေဖည်လျက် ရှိခဲ့ကြသောကြောင့် ပြင်းထန်သော ပြစ်ဒဏ်ဖြင့်ဖမ်းဆီးတော်မူခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I spasikhme nego i semeĭstvoto mu - vsichki
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇ဝ။	ထို့ကြောင့်ငါသည် တမန်တော်လွဒ်နှင့် သူ၏အိမ်သူအိမ်သားများအားလုံးကို ကယ်နှုတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ငါအရှင်မြတ်သည် ထို လူ(တ်)နှင့်တကွ ၎င်း၏အိမ်သူအိမ်သား တပည့်သားအားလုံးကိုပင် ကယ်တင်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

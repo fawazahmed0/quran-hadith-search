@@ -710,6 +710,12 @@ Vyarvat v Allakh i v Setniya den, i povelyavat odobryavanoto, i vŭzbranyavat po
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၄။	သူတို့သည် အလ္လာဟ်အသျှင်မြတ်နှင့် နောက်ဆုံးနေ့တော်ကြီးကို ယုံကြည်ကြ၏။ မတရားသဖြင့် ပြုကျင့်ရန် ဆင့်ဆိုကြ၏။ ယုတ်မာညစ်ပတ်မှုကို တားမြစ်ပိတ်ပင်ကြ၏။ သုစရိုက်ကောင်းမှုများ၌ အချင်းချင်းပြိုင်ဆိုင်ကြ၏။ သူတို့သည် သူတော်ကောင်းတို့ဘောင်တွင် အပါအဝင်ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုမျှမကသေးချေ၊) ယင်းသူတို့သည် အလ္လာဟ်အရှင်မြတ်အားလည်းကောင်း၊ နောက်ဆုံးနေ့ကိုလည်းကောင်း၊ယုံကြည်ကြကုန်၏။ ထို့ပြင် ၎င်းတို့သည် ကောင်းရာကောင်းကြောင်းများကိုလည်း ညွှန်ကြားကြကုန်၏။ ထိုနည်းတူစွာပင်ယင်းသူတို့သည် ဒုစရိုက်မှု (အရပ်ရပ်တို့)မှလည်း တားမြစ်ကြကုန်၏။ တဖန် ထိုသူတို့သည် (မိမိတို့ကိုယ်တိုင်လည်း) ကောင်းမှုကုသိုလ်များ ပြုလုပ်ရာတွင် သူ့ထက်ငါသာအောင် (အပတ်တကုတ်ကြိုးစားအားထုတ်၍) အဆောတလျင် ပြုလုပ်ကြကုန်၏။ စင်စစ်သော်ကား ဤသူများသည် ကောင်းမြတ်သောအကျင့်သီလများကို ဆောက်တည် ကြကုန်သော သူမွန်သူမြတ်များ အနက်မှပင် ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

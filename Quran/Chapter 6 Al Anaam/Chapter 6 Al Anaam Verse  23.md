@@ -710,6 +710,12 @@ Posle te ne shte imat drugo opravdanie, osven samo da rekat: “Kŭlnem se v All
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	ထိုအခါ သူတို့တွင် ခုခံပြောဆိုစရာမရှိဘဲ အို-အကျွနု်ပ်တို့၏အသျှင်သခင် အလ္လာဟ်၏ တန်ခိုးတော် ကြောင့် အကျွနု်ပ်တို့သည် ဘယ်သောအခါကမှ ဆင်းတုရုပ်ပွားကို ကိုးကွယ်သူများမဟုတ်ပါဟုသာ တင်လျှောက်ကြလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ၎င်းတို့က ကျွန်တော်မျိုးတို့(သည်မိမိတို့)၏အရှင်ဖြစ်တော်မူသော အလ္လာဟ်အရှင်မြတ်ကို တိုင်တည်ကျိန်ဆို၍ ကျွန်တော်မျိုးသည် (တစ်စုံတစ်ရာကို အလ္လာဟ်အရှင်မြတ်နှင့်)တွဲဖက်၍ ကိုးကွယ်သူများမဖြစ်ခဲ့ကြပါ ဟုပြောဆိုကြသည် မှအပ၊ ၎င်းတို့၌ မည်သည့်ဆင်ခြေလဲခြင်းမျှရှိနိုင်မည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ti si samo chovek kato nas. Donesi znamenie, ako govorish istinata!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၄။	သင်သည် အကျွနု်ပ်တို့ကဲ့သို့ သေမျိုးသာဖြစ်၏၊ ထို့ကြောင့်သင်သည် အမှန်စကားကိုဆိုလျှင် နိမိတ်လက္ခဏာ အ့ံဖွယ်သရဲတစ်ပါးပါးကို ယူဆောင်ခဲ့လော့ဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်သည် ကျွန်ုပ်တို့ကဲ့သို့ပင် လူသားတစ်ဦးမှတစ်ပါး အခြားမဟုတ်ပြီ။ သို့ဖြစ်ပေရာ အသင်သည် သစ္စာဝါဒီ အမှန်ဆိုသူတစ်ဦး ဖြစ်ခဲ့ပါလျှင် သက်သေလက္ခဏာ တစ်စုံတစ်ရာကို ယူဆောင်လာခဲ့ပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

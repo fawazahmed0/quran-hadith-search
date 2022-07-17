@@ -710,6 +710,12 @@ Kogato naĭ-zliyat ot tyakh se vturna kŭm kamilata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။ ကြည့်ရှုလော့၊ သူတို့သည် မိမိတို့အထဲမှ အယုတ်မာအဆိုးသွမ်းဆုံးသောလူကို ရွေးချယ်ပြီးလျှင် အလွန်ကြောက် မက်ဖွယ်ကောင်းသည့်ဒုစရိုက်အမှုကို ပြုကျင့်ရန် ခိုင်းကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်အခါဝယ် ၎င်းတို့အနက်မှ အယုတ်မာဆုံးသောသူသည် အရှိန်နှင့်ထွက်ပေါ်လာခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

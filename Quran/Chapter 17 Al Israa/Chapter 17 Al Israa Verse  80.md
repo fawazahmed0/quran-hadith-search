@@ -710,6 +710,12 @@ Kazhi: “Gospodi moĭ, vŭvedi me s dostoĭnstvo i me izvedi s dostoĭnstvo!
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈ဝ။	တမန်တော် သင်သည် ဆုတောင်းလော့။ အို-အကျွနု်ပ်၏ အရှင်သခင် အကျွနု်ပ်အား ကောင်းသောဝင်ခြင်းကို ဝင်စေတော်မူပါ။ ၎င်းအပြင် ကောင်းသောထွက်ခြင်းကို ထွက်စေတော်မူပါ။ အကျွနု်ပ်အား ကူညီဖို့ရာ အရှင်၏ အထံတော်မှ တန်ခိုးအာဏာပေးသနားတော်မူပါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်သည် အို-ကျွန်တော်မျိုးအားဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ အရှင်မြတ်သည် ကျွန်တော်မျိုးအား (မဒီနဟ်မြို့တော်သို့) နှစ်သက်ကောင်းမွန်စွာဝင်ရောက်စေခြင်းမျိုးနှင့်ဝင်ရောက် စေတော်မူပါ။ ထိုနည်းတူစွာအရှင်မြတ်သည် ကျွန်တော်မျိုးအား (မက္ကဟ်မြို့တော်မှ)နှစ်သက်ကောင်းမွန်စွာ ထွက်စေခြင်းမျိုးနှင့် ထွက်စေတော်မူပါ။ထိုမှတစ်ပါး အရှင်မြတ်သည် ကျွန်တော်မျိုးအား မိမိအထံတော်မှ ကူညီစောင်မမည့် အားအင်စိုးမိုးမှုကို ချီးမြှင့်ပေးသနားတော်မူပါဟု လျှောက်ထားလျက်ရှိပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

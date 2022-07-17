@@ -710,6 +710,12 @@ za da vŭznagradi Toĭ ot Svoyata blagodat onezi, koito vyarvat i vŭrshat prav
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	အလ္လာဟ်အရှင်မြတ်သည် ယုံကြည်၍ သုစရိုက်ကောင်းမှုပွားများသူတို့အား မိမိ၏ကောင်းကြီးမင်္ဂလာတော်များမှ ရက်ရက်ရောရောပေးသနားတော်မူ၏၊ မှတ်သားကြလော့၊ အရှင်မြတ်သည် မိမိ၏အဆုံးအမတော်ကို မလေးစား မယုံကြည်သူတို့ကို နှစ်သက်တော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့မှသာလျှင် ထိုအရှင်မြတ်သည် ‘အီမာန်’ သက်ဝင်ယုံကြည်၍ ကောင်းမြတ်သော အကျင့်သီလများကို ကျင့်မူတည်ဆောက် ခဲ့ကြကုန်သောသူများအား မိမိကျေးဇူးတော်ဖြင့်(ကောင်းမြတ်သော) အစားကို ပေးတော်မူအံ့။ ဧကန်စင်စစ် ထိုအရှင်မြတ်သည် သွေဖည်ငြင်းပယ်သော သူတို့အား နှစ်သက်တော်မူသည် မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

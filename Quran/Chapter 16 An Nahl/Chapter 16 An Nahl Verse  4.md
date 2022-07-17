@@ -710,6 +710,12 @@ Toĭ sŭtvori choveka ot chastitsa sperma i eto go - yaven protivnik
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	အရှင်မြတ်သည် လူသားကို အရည်တပေါက်မှ ဖန်ဆင်းတော်မူ၏။ သို့ပါလျက် သူသည် အရှင်မြတ်အား ဗြောင်ရန်မူသူဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် လူသားကို ကလလရေကြည်တစ်စက်ဖြင့် ဖန်ဆင်းတော်မူခဲ့လေသည်။ သို့ဖြစ်ပါလျက်၎င်းတို့သည် ရုတ်တရက် ထင်ရှားသော အန်တုသူ ဖြစ်လာ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

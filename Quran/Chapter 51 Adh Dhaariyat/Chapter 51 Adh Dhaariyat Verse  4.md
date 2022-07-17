@@ -710,6 +710,12 @@ i v razpredelyashtite po povelya [angeli]
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	ထို့အပြင်ငါ၏ အမိန့်တော်အရ ကောင်းကြီးမင်္ဂလာများကို ဝေချမ်းပေးသောကောင်းကင်တမန်များ၊ ဤအရာ အပေါင်းတို့ကို သုံးသပ်ဆင်ခြင်၍ ငါ၏ တန်ခိုးတော်ဂုဏ်တော်များကို တသအောက်မေ့ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် အမိန့်တော်အရ ခွဲဝေပေးသော လေများကို၊ အရာဝတ္ထုများကို ခွဲဝေပေးသော ‘မလာအိကဟ်’ကောင်းကင်တမန်များကို သက်သေထူတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

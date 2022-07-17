@@ -710,6 +710,12 @@ osven onezi, koito sa tŭrpelivi i vŭrshat pravedni dela. Za tyakh ima oproshte
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	သို့သော်ကြိုးစားအားထုတ်၍ ကောင်းမှုများကို ပြုသောသူတို့က ယင်းသို့မကျင့်ကြချေ။ အပြစ်လွှတ်ခြင်းနှင့် ဆုတော်ကြီးမှာ သူတို့အဖို့သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကြင်သူများသည် သည်းခံခဲ့ကြ၍်ကောင်းမြတ်သောအကျင့်သီလများကို ကျင့်မူဆောက်တည်ခဲ့ကြသူများကူကား (ယင်းတို့မှကင်းကြ၍) လွတ်ငြိမ်းချမ်းသာခွင့်နှင့် ကြီးကျယ်လှစွာသော အကျိုးဆုလာဘ်သည် သူတို့အဖို့သာ ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

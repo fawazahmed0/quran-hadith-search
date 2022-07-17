@@ -710,6 +710,12 @@ Predpisano vi e, kogato smŭrtta nadvisne nad nyakogo ot vas, ako toĭ ostavi b
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈ဝ။	သင်တို့အထဲမှ တစ်ဦးတစ်ယောက်သောသူသည် အသက်ကုန်ခါနီးအချိန်ကျရောက်သည်ရှိသော် သူ၌ ဥစ္စာပစ္စည်းရှိလျှင် ထိုသူသည် မိမိ၏ မိဘနှစ်ပါးနှင့် ဆွေမျိုးသားချင်းတို့အား သနားကြင်နာ ခြင်းဖြင့် သေတမ်းစာရေးပေးရန် အရှင်မြတ်ပညတ်တော်မူ၏။ သေတမ်းစာရေးခြင်းသည် မတရားမှု ကို ရှောင်ကြဉ်သူတို့အဖို့ တာဝန်ဝတ္တရားတစ်ခုဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထို့ပြင်) အသင်တို့အပေါ်၌ ပြဋ္ဌာန်းထားတော် မူသော အမိန့်တော် တရပ်မှာ အသင်တို့အနက် တစ်ဦး တစ်ယောက်၏ထံသို့ သေခြင်းတရားသည် ဆိုက်ရောက် လာသောအခါ၊ အကယ်၍ ထိုသူသည် တစ်စုံတစ်ရာ ဥစ္စာ ပစ္စည်း ထားရှိခဲ့ပါမူ (ထိုသူ၏) မိဘနှစ်ပါးနှင့် ဆွေမျိုးရင်းချာ တို့အဘို့ရာ ကောင်းမြတ်သောနည်းဖြင့် (သေတမ်းစာအဖြစ်) မှာကြားခဲ့ရန် တာဝန်ရှိပေသည်။ (ဤသည်ကား) ဒုစရိုက်မှု တို့မှ ကြဉ်ရှောင်သူ အပေါင်းတို့အပေါ်၌ (မလွဲမရှောင်သာ သော) တာဝန် ဝတ္တရားတစ်ရပ်ပင် ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

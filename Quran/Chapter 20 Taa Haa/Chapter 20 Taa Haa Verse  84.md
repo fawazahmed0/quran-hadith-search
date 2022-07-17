@@ -710,6 +710,12 @@ Reche: “Te sa nablizo sled men i izbŭrzakh kŭm Teb, Gospodi, za da bŭdesh d
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၄။	မူစာက အို--အရှင်၊ အကျွနု်ပ်၏လူများသည် အကျွနု်ပ်နောက်သို့ မနီးမဝေးမှ လိုက်လာပါသည်၊ အရှင် ကောင်းစွာနှစ်သက်တော်မူစေခြင်းငှာ အကျွနု်ပ်သည် အရှင့်ရှေ့တော်မှောက်သို့ လာရောက်ပါသည်ဟု တင် လျှောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းမူစာက (ဤသို့)လျှောက်ထားခဲ့လေသည်။၎င်းတို့သည် ဤမှာ ကျွန်တော်မျိုး၏နောက်၌ပင် လိုက်ပါခဲ့ကြပါသည်။ အို-ကျွန်တော်မျိုးအား ဖန်ဆင်း မွေးမြူတော်မူ သောအရှင်မြတ်၊ စင်စစ် ကျွန်တော်မျိုးသည် အရှင်မြတ်အထံတော်သို့ အရှင်မြတ်ကျေနပ် တော်မူပါရန် အလျင်လာခဲ့ခြင်းပင်ဖြစ်ပါသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

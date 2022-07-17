@@ -710,6 +710,12 @@ I vi sŭzdade [ot prŭst] ot zemyata da izrasnete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။ ထို့အပြင်အရှင်မြတ်သည် သင်တို့ကို မြေကြီးမှ ဖန်ဆင်းတော်မူ၍ တဖြည်းဖြည်းကြီးပြင်းလာစေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့အား အထူးနည်းမျိုးနှင့် မြေဖြင့် ဖန်ဆင်းတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

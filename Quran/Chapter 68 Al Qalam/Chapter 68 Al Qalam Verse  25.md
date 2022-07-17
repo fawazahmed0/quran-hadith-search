@@ -710,6 +710,12 @@ I trŭgnakha v zori s tvŭrdo namerenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။ စင်စစ်အားဖြင့် ထိုသူတို့သည် ထိုနေ့ကို မတရားညစ်ညူးသောအကြံအစည်အားဖြင့် စကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ၎င်းတို့သည် (မိမိတို့ကိုယ်ကိုမိမိတို့) မပေးဘဲ နေနိုင်စွမ်းရှိကြမည်ဟု ထင်မှတ်လျက် စောစော သွားရောက်ခဲ့ကြလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

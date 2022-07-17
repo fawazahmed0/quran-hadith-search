@@ -710,6 +710,12 @@ I otvŭrnat li se, znaĭte, che Allakh e vashiyat Pokrovitel! Naĭ-prekrasniya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄ဝ။	သူတို့သည် လှည့်သွားကြလျှင် အလ္လာထဟ်အသျှင်မြတ်သည် သင်တို့၏ အဆွေခင်ပွန်း၊ အတိုင်းထက် အလွန်မြင့်မြတ်ဆသောနာယက၊ အတိုင်းထက်အလွန် မြင့်မြတ်သော ကူညီစောင်မသူဖြစ်တော် မူသည်တို့ကို မှတ်သားကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တဖန် အကယ်၍ ၎င်းတို့သည် လွှဲဖယ်၍ သွားခဲ့ကြလျှင် ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့အား (ရိုင်းပင်းကူညီတော်မူမည့်) မိတ်သဟာယ၊ အကောင်းဆုံးသောကူညီတော်မူမည့် အရှင်မြတ်ပင် ဖြစ်တော်မူကြောင်းအသင်တို့သည် (ကောင်းစွာ) သတိထားနှင့်ကြကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

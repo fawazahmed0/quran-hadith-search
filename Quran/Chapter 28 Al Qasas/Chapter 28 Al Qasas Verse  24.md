@@ -710,6 +710,12 @@ I toĭ napoi [dobitŭka im] vmesto tyakh. Posle se ottegli na syanka i reche: �
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	ထို့ကြောင့်သူသည် ထိုမိန်းမတို့အစား သူတို့၏သိုးများကို ရေတိုက်လေ၏၊ ထို့နောက်သူသည် အရိပ်အောက်သို့ ဝင်ပြီးလျှင် အို--အကျွနု်ပ်၏အရှင်သခင်၊ အကျွနု်ပ်သည် အရှင်ချပေးသနားတော်မူသောမည်သည့်ကောင်းကြီး မင်္ဂလာကိုမဆို လိုလားနေပါသည်ဟု ဆုတောင်း၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ထိုမူစာသည် ၎င်းတို့နှစ်ဦးအား ငဲ့ညှာ၍ (၎င်းတို့၏တိရစ္ဆာန်များကို) ရေ(ငင်၍) တိုက်ခဲ့ပြီးနောက် အရိပ်ရှိရာသို့ (သွားရောက်ထိုင်နေခဲ့၏)။ ထို့နောက် ထိုမူစာသည် ‘အို-ကျွန်တော်မျိုး၏အရှင်မြတ်၊ ဧကန်အမှန် ကျွန်တော်မျိုးသည် အရှင်မြတ် ကျွန်တော်မျိုးထံ ချပေးသနားတော်မူသော မည်သည့်ကောင်းမြတ်သောအရာကိုမဆို လိုလားတောင့်တရသူဖြစ်ပါသည်’ ဟု လျှောက်ထားပန်ကြားခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

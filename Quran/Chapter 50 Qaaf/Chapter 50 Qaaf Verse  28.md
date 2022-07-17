@@ -710,6 +710,12 @@ Shte kazhe [Allakh]: “Ne se karaĭte pred Men! Az vi preduprezhdavakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	အလ္လာဟ်အရှင်မြတ်က နင်တို့ကို ငါသည် အချိန်မီသတိပေးစကားတော်ကို ပေးတော်မူခဲ့လေပြီ၊ ထို့ကြောင့် ငါ့မျက်မှောက်ဝယ် တစ်ဦးကို တစ်ဦးအပြစ်တင်ပြောဆိုငြင်းခုံမှုကို မပြုလုပ်ကြတော့လင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် မိန့်ကြားတော်မူပေမည်။အသင်တို့သည် ငါအရှင်မြတ်၏အထံတော်၌ အငြင်းအခုံ မပြုကြကုန်လင့်။ အမှန်စင်စစ်မှာမူကား ငါအရှင်မြတ်သည် (ပြစ်ဒဏ်နှင့်စပ်လျဉ်း၍) ချိန်းဆိုချက်ကို အသင်တို့ထံသို့ တင်ကြို ပို့နှင့်တော်မူခဲ့ပြီးဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

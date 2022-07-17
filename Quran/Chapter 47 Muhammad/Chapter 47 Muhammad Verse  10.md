@@ -710,6 +710,12 @@ Nima ne khodyat po zemyata i ne vizhdat kakŭv be krayat na onezi predi tyakh? A
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	သူတို့သည် မဟာပထဝီမြေပေါ်တွင် လည်ပတ်၍ သူတို့ထက် ရှေးကျသောမိစ္ဆာဒိဋ္ဌိတို့သည် ၎င်းတို့၏ဘဝဇာတ် ကို မည်သို့သိမ်းသွားကြသည်ကို မကြည့်ရှုကြသလော၊ အလ္လာဟ်အရှင်မြတ်သည် ထိုလူဟောင်းတို့အားပျက်စီး ခြင်းမကပျက်စီးစေတော်မူလေ၏၊ အယူမှားသူတို့သည် ယင်းကဲ့သို့ပျက်စီးဆုံးရှုံးရမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ကမ္ဘာမြေဝယ် လှည့်လည်သွားလာမှုကို မပြုခဲ့ကြလေသလော။ သို့ပြုခဲ့ကြလျှင် ၎င်းတို့သည် မိမိတို့အလျင် ရှိခဲ့ကြသောသူတို့၏ နောက်ဆုံးအကျိုးသည် မည်သို့မည်ပုံဖြစ်ခဲ့သည်ကို မြင်ကြပေမည်။ အလ္လာဟ်အရှင်မြတ်သည် ထိုရှေးသူဟောင်းတို့အား ဖျက်ဆီးတော်မူခဲ့၏။ စင်စစ်သော်ကား (ဤ)’ကာဖိရ်’ သွေဖည်ငြင်းပယ်သောသူတို့၌(လည်း)ယင်းကဲ့သို့သော အဖြစ်အပျက်များပင် ဖြစ်ပေါ်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

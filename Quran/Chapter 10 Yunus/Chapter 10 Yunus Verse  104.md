@@ -710,6 +710,12 @@ Kazhi [o, Mukhammad]: “O, khora, ako se sŭmnyavate v moyata religiya, to az n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၄။	အို-မိုဟမ္မဒ်၊ ဟောကြားလော့၊ အို-လူသားအပေါင်းတို့၊ အကယ်၍သင်တို့သည် အကျွနု်ပ်၏ ဘာသာအယူဝါဒကို ယုံမှားသံသယရှိကြလျှင် မှတ်သားကြလော့။ အလ္လာဟ်အရှင်မြတ်မှတပါး သင်တို့ခဝပ်ကိုးကွယ်သောဘုရားယောင် များကို အကျွနု်ပ်သည် ဝပ်တွားရှိခိုးပူဇော်၏။ အကျွနု်ပ်သည် ယုံကြည်သူတို့ဘောင်တွင် ပါဝင်ရမည်ဟု ဗျာဒိတ်တော်လာပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည်(ဤသို့) ပြောကြားပါလေ။ အို-လူအပေါင်းတို့ အကယ်၍ အသင်တို့သည်ငါ၏ ဒီန်သာသနာတော်နှင့်စပ်လျဉ်း၍ ဒွိဟသံသယ၌ (နစ်မွန်းလျက်)ရှိကြပါမူ ငါသည် အသင်တို့ အလ္လာဟ်အရှင်မြတ်အားစွန့်လွှတ်၍ ကိုးကွယ်ဆည်းကပ်လျှက် ရှိကြသည်တို့ကို ကိုးကွယ်ဆည်းကပ်သည် မဟုတ်ပေ။ စင်စစ်မှာမူကား ငါသည်အသင်တို့၏ အသက်ဇီဝိန်ကို နှုတ်သိမ်းတော်မူသော အလ္လာဟ်အရှင်မြတ်ကိုသာ ကိုးကွယ်ဆည်းကပ်ပေသည်။ ထိုမှတစ်ပါးငါသည် မုအ်မင်န်သက်ဝင်ယုံကြည် သူတို့တွင် တစ်ဦးအပါအဝင်ဖြစ်ရန် (အလ္လာဟ်အရှင်မြတ်အထံတော်မှ) အမိန့်ပေးခြင်းခံခဲ့ရလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

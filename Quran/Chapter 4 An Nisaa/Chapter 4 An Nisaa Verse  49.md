@@ -710,6 +710,12 @@ Ne vidya li ti onezi, koito izkarvat sebe si za naĭ-chistite? Ne, Allakh prech
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	အို-တမန်တော် မိမိကိုယ်ကိုမိမိ သန့်ရှင်းဖြူစင်သူဟု ချီးကျူးသူတို့ကို သင်သည် မမြင်သလော။ အမှန်မှာ အလ္လာဟ်အသျှင်မြတ်သည် အလိုတော်ရှိသူတို့အား သန့်ရှင်းစင်ကြယ်စေတော်မူ၏။ သူတို့သည် စွန်ပလွံစေ့ပေါ်ရှိ အမြှေးတစ်ပင်လောက်မျှပင် မတရားပြုတော်မူခြင်းကို ခံရမည် မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို- နဗီတမန်တော်) အသင်သည် မိမိတို့ကိုယ်ကို မိမိတို့ သန့်ရှင်းစင်ကြယ်ကြောင်း ပြောဆို (ကြွားဝါ) သောသူတို့ (၏ဖြစ်အင်) ကို မတွေ့မမြင်ပါလေသလော။ ထိုသို့အလျင်းမဟုတ်၊ အမှန်စင်စစ် သော်ကား အလ္လာဟ်အရှင်မြတ်သည်သာလျှင် မိမိအလိုရှိတော်မူသောသူအား သန့်ရှင်းစင်ကြယ်စေတော်မူလေ၏။ သို့ရာတွင် ၎င်းတို့သည် (အပြစ်ပေးတော်မူခြင်းကိုခံကြရာ၌) ဆံခြည်တစ်မျှင်ခန့်မျှပင် မတရား နှိပ်စက်ညှဉ်းပန်းခြင်းကို ခံကြရလိမ့်မည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

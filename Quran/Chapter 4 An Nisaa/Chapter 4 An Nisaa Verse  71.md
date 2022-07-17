@@ -710,6 +710,12 @@ O, vyarvashti, bŭdete predpazlivi i nastŭpvaĭte na otredi ili nastŭpvaĭte
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၁။	အို-ယုံကြည်သူတို့ သင်တို့သည် တင်ကြို၍ ဘေးဆီးရန်ကာပြုလုပ်ခြင်း၌ မလစ်ဟင်းကြလင့်။ ထို့နောက် စစ်သည်တော်များကို စစ်ထိုးစေကြလော့။ သို့မဟုတ် သင်တို့အားလုံး အတူတကွ စစ်ချီတက်ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို- မုအ်မင်န် သက်ဝင်ယုံကြည်သူအပေါင်းတို့၊ အသင်တို့သည် မိမိတို့၏ (ကြိုတင်) ကာကွယ်မှုကို ပြင်ဆင်ပြုလုပ်ကြလေကုန်။ (တစ်နည်း- အသင်တို့သည် မိမိတို့၏လက်နက်များကို စွဲကိုင် ထားကြလေကုန်။) ထို့နောက် အသင်တို့သည် (ရန်သူတို့နှင့် ပြိုင်ဆိုင်တိုက်ခိုက်ကြရန်) အစုလိုက် ချီတက်ကြလေကုန်၊ သို့တည်းမဟုတ် အသင်တို့သည် တစ်စည်းတစ်လုံးတည်း ချီတက်ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

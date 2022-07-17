@@ -710,6 +710,12 @@ V Denya, kogato litsata im bŭdat preobrŭshtani v Ogŭnya, shte rekat: “O, da
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၆။	သူတို့၏မျက်နှာကို ငရဲမီးထဲသို့ လှည့်ထားသောနေ့တော်ကြီး၌ သူတို့က ငါတို့သည် အလ္လာဟ်အရှင်မြတ်နှင့် အရှင်မြတ်၏ တမန်တော်၏ သြဝါဒကို နာခံနားထောင်ခဲ့လေလျှင် ကောင်းလေစွဟု ညည်းညူကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့၏ မျက်နှာများသည် မီးထဲ၌ လှည့်ပြောင်းခြင်းခံကြရသောနေ့တွင် ၎င်းတို့ကဪ- ငါတို့သည်အလ္လာဟ်အရှင်မြတ်၏ အမိန့်တော်ကို လိုက်နာခဲ့ကြလျှင်လည်းကောင်း၊ ရစူလ်တမန်တော် မြတ်၏အမိန့်တော်ကို လိုက်နာခဲ့ကြလျှင်လည်းကောင်း၊ ကောင်းလေစွတကားဟု ပြောဆိုညည်းညူကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

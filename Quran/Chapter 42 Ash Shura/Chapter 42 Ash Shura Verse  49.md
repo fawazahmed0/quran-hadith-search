@@ -710,6 +710,12 @@ Na Allakh prinadlezhi vladenieto na nebesata i na zemyata. Sŭtvoryava Toĭ kak
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	အလ္လာဟ်အရှင်မြတ်သည် မိုးကောင်းကင်နှင့် ကမ္ဘာမြေကြီးတို့ကို စိုးပိုင်တော်မူ၏၊ အရှင်မြတ်သည် မိမိအလိုတော် ရှိရာကို ဖန်ဆင်းတော်မူ၏၊ သားရတနာပေးသနားတော်မူလိုသောသူအား သားပေးသနားတော်မူ၏၊ သမီးရတနာ လိုတော်မူသောသူအား သမီးပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မိုးကောင်းကင်များကို စိုးမိုးအုပ်ချုပ်မှုအာဏာသည်လည်းကောင်း၊ ကမ္ဘာမြေကို စိုးမိုးအုပ်ချုပ်မှု အာဏာသည်လည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ်၌သာရှိ၏။ ထိုအရှင်မြတ်သည် မိမိအလိုရှိတော်မူသောအရာကို ဖန်ဆင်းတော်မူ၏။ ထိုအရှင်မြတ်သည် မိမိအလိုရှိတော်မူသောသူအား (သမီး)မိန်းကလေးများကို ချီးမြှင့်တော်မူ၍ မိမိအလိုရှိတော်မူသောသူအား(သား)ယောက်ျားကလေးများကို ချီးမြှင့်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

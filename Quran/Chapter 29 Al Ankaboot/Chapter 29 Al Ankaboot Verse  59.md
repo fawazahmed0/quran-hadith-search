@@ -710,6 +710,12 @@ koito sa tŭrpelivi i na svoya Gospod se upovavat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၉။	သူတို့သည် ကြိုးစားအားထုတ်ကြ၏၊ မိမိတို့၏ အရှင်သခင်အား ယုံကြည်ကိုးစားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်(ပင်ပန်းကြီးစွာ လုပ်ကိုင်ဆောင်ခဲ့ကြ)သူတို့သည် (မုရှ်ရစ်က်တို့၏ နှိပ်စက်ညှဉ်းပန်းခြင်းနှင့် စပ်လျဉ်း၍လည်းကောင်း၊ အစ္စလာမ်သာသနာတော် ထွန်းကားစေခြင်းငှာ မိမိတို့၏ အိုးအိမ်စည်းစိမ် ခပ်သိမ်းတို့ကို စွန့်၍ ထွက်ခွာသွားကြရသည်နှင့် စပ်လျဉ်း၍လည်းကောင်း၊) သည်းခံခြင်းတရား ထားရှိခဲ့ကြကုန်၏။ ထိုမှတစ်ပါး ၎င်းတို့သည် မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အပေါ်၌ ယုံပုံလွှဲအပ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

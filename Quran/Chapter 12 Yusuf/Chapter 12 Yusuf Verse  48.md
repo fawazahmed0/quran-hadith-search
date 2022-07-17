@@ -710,6 +710,12 @@ Setne shte doĭdat podir tova sedem tezhki godini, izyazhdashti podgotvenoto za
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	ထို့နောက်ခက်ခဲသောခုနစ်နှစ်လာလတ့ံ။ ဤခုနစ်နှစ်သည် အလွန်ဒုက္ခကြီးသောနှစ်များဖြစ်လတ့ံ။ ဤခုနစ်နှစ် အတွင်း သင်တို့စိုက်ပျိုးသောကောက်ပဲသီးနှံတို့သည် မအောင်ပဲ အကုန်ပျက်စီးလတ့ံ။ သင်တို့အထက်က စုဆောင်းသိုလှောင်ထားသောအသီးအနှံများသာ ကျန်လတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် တစ်ဖန် (ဒုဗ္ဘိက္ခန္တရကပ်ဆိုက်၍) ပြင်းထန်လှသော ခုနစ်နှစ်သည် ဆိုက်ရောက်လာပေမည်။ ထိုနှစ်ကာလခုနစ်နှစ်သည် အသင်တို့(မျိုးစေ့အလို့ငှာ) သိမ်းထားကြသည့် အနည်းငယ်မျှ(သောရိက္ခာ)မှအပ အသင်တို့ကြိုတင် စုဆောင်းထား သည့်(ရိက္ခာ)များကို စားသုံးပစ်ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Gospodaru naš, ne dopusti srcima našim da skrenu, kada si nam već na Pravi pu
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	အို - အကျွန်ုပ်တို့၏ အရှင်သခင်၊ အရှင်သည် အကျွန်ုပ်တို့အား လမ်းမှန်ကို ညွှန်ပြတော်မူပြီးမှ အကျွန်ုပ်တို့၏စိတ်နှလုံးများကို လမ်းမှားစေတော်မမူပါနှင့်။ အကျွန်ု်ပ်တို့အပေါ်သို့ အထံတော်မှ ကောင်းချီးမင်္ဂလာချပေးတော်မူပါအရှင်၊ အရှင်သာလျှင် ပေးကမ်းစွန့်ကြံတော်မူသောအရှင် ဖြစ်တော် မူပါ၏အရှင်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဉာဏ်ပညာအရာ၌ ရင့်သန်သောသူတို့သည်ဤကဲ့သို့ဆုပန်ကြကုန်၏) အို-ကျွန်တော်မျိုးတို့အား မွေးမြူတော်မူသောအရှင်၊ မုချဧကန်အရှင်မြတ်သည် ကျွန်တော်မျိုးတို့အား တရားလမ်းမှန်သို့ ပို့ဆောင်တော်မူပြီးနောက်ကျွန်တော်မျိုး တို့၏စိတ်နှလုံးများကို တိမ်းစောင်းလွဲချော်အောင်ပြုတော်မမူပါနှင့်။ ကျွန်တော်မျိုးအား (တရားလမ်း ပေါ်၌မြဲမြံစွာ တည်တံ့နိုင်စေခြင်းငှာ) မိမိအထံတော်မှ ကရုဏာတရားကို ပေးသနားတော်မူပါ။ ဧကန်အမှန် အရှင်မြတ်သည်သာလျှင် ရက်ရောစွာ ပေးသနားတော်မူသော အရှင်မြတ်ဖြစ်တော်မူပါသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

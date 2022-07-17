@@ -710,6 +710,12 @@ I Ismail, i al-Yasaa, i Yunus, i Lut, i predpochetokhme vsichki pred narodite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၆။ ၎င်းပြင် အစ္စမာလ်အီလ် ယစ(အ)၊ ယူနွတ်(စ်)၊ လူ(တ်)တို့ကိုလည်း လမ်းပြတော်မူ၏။ သူတို့ တစ်ယောက်စီကို ငါအသျှင်မြတ်သည် အခြားလူသားများထက် သာလွန်နှစ်သက်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ(ငါအရှင်မြတ်သည်တမန်တော်)အစ္စမာအီလ်၊ (တမန်တော်)အလ်ယစအ်၊ (တမန်တော်)ယူနွတ်စ်နှင့်(တမန်တော်)လူတွ်တို့အား(လည်း တရားလမ်းမှန်သို့ ပို့ဆောင်တော်မူခဲ့၏။) ၎င်းပြင် ငါအရှင်မြတ်သည် (ထိုနဗီတမန် တော်)အသီးသီးတို့အား စကြာဝဠာ အပေါင်းတို့ အပေါ်ဝယ်ဂုဏ်ထူးဝိသေသ) ခြီးမြှင့်တော်မူခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

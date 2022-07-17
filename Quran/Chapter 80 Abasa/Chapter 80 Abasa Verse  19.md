@@ -710,6 +710,12 @@ Ot chastitsa sperma Toĭ go sŭtvori i osŭrazmeri
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။ သူ့ကို ကလကရေကြည်တစ်ပေါက်မှ ဖန်ဆင်းတော်မူ၏၊ အရှင်မြတ်သည် သူ၏ အသားအရေကိုယ်အင်္ဂါအစိတ်အပိုင်းများကို ညီညွတ်အောင်ဖန်ဆင်းတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် ၎င်းအား ကလလရေကြည်တစ်စက်ဖြင့် ဖန်ဆင်းတော်မူ၏။ တစ်ဖန် ထိုအရှင် မြတ်သည် ၎င်းအား နှိုင်းချိန်တိုင်းဆခန့်မှန်း၍ ပြုလုပ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

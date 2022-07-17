@@ -710,6 +710,12 @@ O, vyarvashti, ne vzimaĭte nevernitsi za blizhni vmesto vyarvashtite! Nima isk
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၄။	အို-ယုံကြည်သူအပေါင်းတို့ သင်တို့သည် ယုံကြည်သူများအစား မယုံကြည်သူတို့ကို အဆွေခင်ပွန်း အဖြစ်နှင့်မယူကြလင့်။ သင်တို့သည် အလ္လာဟ်အသျှင်မြတ်အား သင်တို့နှင့် ဆန့်ကျင်သော ထင်ရှား ခိုင်မာသော သက်သေသာဓက ပေးလိုကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-‘မုအ်မင်န်’ ယုံကြည်ခြင်းသဒ္ဓါတရား ထားရှိသူအပေါင်းတို့၊ အသင်တို့သည် ‘မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူတို့မှတစ်ပါး ‘ကာဖိရ်’ သွေဖည်ငြင်းပယ်သောသူတို့အား ကလျာဏ မိတ်သဟာယ အဆွေခင်ပွန်း မပြုလုပ်ကြကုန်လင့်။ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အဖို့ မိမိတို့နှင့်ဆန့်ကျင်၍ ထင်ရှားစွာသောသက်သေခံကို ပြုလုပ်လိုကြပါသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

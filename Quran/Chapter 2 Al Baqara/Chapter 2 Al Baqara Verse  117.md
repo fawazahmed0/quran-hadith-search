@@ -710,6 +710,12 @@ Pŭrvosŭzdatelya na nebesata i na zemyata! I shtom reshi neshto, kazva mu samo:
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၇။	မိုးကောင်းကင်နှင့် ကမ္ဘာမြေကြီးကို စတင်ဖန်ဆင်းတော်မူသော အရှင်မြတ်သည် တစ်စုံတစ်ရာကို စီရင်လိုတော်မူသောအခါ ထိုအရာအား ဖြစ်စေဟုသာ ဗျာဒိတ်ချတော်မူ၏။ ထိုအခါ ထိုအရာသည် ဖြစ်ပေါ်လာရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအလ္လာဟ် အရှင်မြတ်သည်) မိုဃ်းကောင်းကင်များနှင့်တကွ ပထဝီမြေပြင်ကို စတင်ပြုပြင် ဖန်ဆင်းတော်မူသော အရှင်ဖြစ်တော်မူသည်၊ (ထိုမျှမကသေး) မည်သည့်အခါမဆို ထိုအရှင်မြတ် သည် တစ်စုံတစ်ခုသော အမှုကိစ္စကို ဆုံးဖြတ်စီရင် ပြဋ္ဌာန်းတော်မူလိုပါလျှင် (နတ္ထိတ မရှိရာဘဝမှအတ္ထိတ ရှိရာဘဝသို့) ဖြစ်စေ(ဟူသောအမိန့်တော်) ပေးရုံမျှဖြင့် ထိုအမှုကိစ္စအဝဝတို့သည် (ပြတတေ့ အလိုရှိတော်သူသည့်အတိုင်း တခဏချင်းတွင်ပင်) ဖြစ်ပေါ်လာလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

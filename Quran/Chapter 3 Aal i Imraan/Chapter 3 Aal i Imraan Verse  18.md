@@ -710,6 +710,12 @@ Allakh svidetelstva, che nyama drug bog osven Nego. I angelite, i naĭ-izdignat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	အလ္လာဟ်အသျှင်မြတ်မှတပါး အခြားအသျှင်သခင်မရှိကြောင်းကို အသျှင်မြတ်ကိုယ်တော်တိုင်ပင် သက်သေခံတော်မူ၏။ ကောင်းကင်တမန်တော်များ၊ ဉာဏ်ပညာရှင်တို့လည်း သက်သေများဖြစ်ကြ ၏။ အလ္လာဟ်အသျှင်မြတ်သည် စကြာဝဠာများကို တရားသဖြင့် ဖန်ဆင်းမွေးမြူထားတော်မူ၏။ အနန္တတန်ခိုးတော်သခင်၊ အနန္တဉာဏ်တော်ရှင်မှတပါး အခြားအသျှင်သခင်မရှိပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် မိမိမှတပါး အခြားခဝပ်ကိုးကွယ်ရာ အရှင်မရှိကြောင်း (မိမိ ကိုယ်တော်တိုင်)သက်သေခံတော်မူ၏။ ထိုနည်းတူစွာ၊ မလာအိကဟ်ကောင်းကင် တမန်များနှင့် ပညာရှင် သုခမိန် အပေါင်းတို့သည်လည်း (မိမိတို့၏ အကျင့်အမူများဖြင့် သက်သေခံခဲ့ ကြလေပြီ)ထိုအရှင်မြတ်သည် တရားမျှတစွာ စီမံအုပ်ချုပ်လျက်ရှိတော်မူ၏။ ထိုအရှင်မြတ်သည်သာလျှင် ခဝပ်ကိုးကွယ် ရာ အရှင်ဖြစ်တော်မူ၍ ထိုအရှင်မြတ်မှတစ်ပါး ခဝပ်ကိုးကွယ်ရာ အရှင်ဟူ၍အလျင်းမရှိပြီ။ (ထို အရှင်မြတ်သည်) တန်ခိုးအာနုဘော်ဖြင့်လွှမ်းမိုးတော် မူသောအရှင်၊ အကျိုးအကြောင်း ဆင်ခြင်တုံတရား နှင့် ပြည့်စုံတော်မူသောအရှင်မြတ်ပင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

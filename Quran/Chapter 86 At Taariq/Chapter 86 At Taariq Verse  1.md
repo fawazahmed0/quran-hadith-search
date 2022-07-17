@@ -710,6 +710,12 @@ Kŭlna se v nebeto i vŭv Vechernitsata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။ မိုးကောင်းကင်နှင့် နံနက်သောက်ရှုးကြယ်တို့ကို ငါသက်သေထူတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ငါအရှင်မြတ်သည်) မိုးကောင်းကင်ကိုလည်းကောင်း၊ ညဉ့်အချိန်၌ သွားလာသောအရာကိုလည်းကောင်း၊ သက်သေထူတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

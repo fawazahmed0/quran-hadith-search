@@ -710,6 +710,12 @@ O, vyarvashti, vinoto, igrata na kŭsmet, kumirite i strelite sa mrŭsotiya ot d
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉ဝ။	အို-ယုံကြည်သူအပေါင်းတို့ သေရည်၊ သေရက်သောက်ကြူးခြင်း၊ လောင်းကစားခြင်း၊ ဆင်းတု ရုပ်ပွားကိုးကွယ်ခြင်း၊ မြှားပစ်၍ နိမိတ်ဖတ်ခြင်းတို့သည် ရှိုင်တန်မာရ်နတ်၏ အလွန်ယုတ်ညံ့သော လက်ရာခြေရာသာဖြစ်၏။ သင်တို့အောင်မြင်ဖို့ရာ ထိုအရာများကို ရှောင်ရှားကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-‘မုအ်မင်န်’သက်ဝင်ယုံကြည်သူအပေါင်းတို့ မုချဧကန် သေစာအရက်သည်လည်းကောင်း၊ လောင်းတမ်းကစားခြင်းသည်လည်းကောင်း၊ ရုပ်ထု၊ ဆင်းတု (အစရှိသည့်အရာ) များသည်လည်းကောင်း၊ မြှား (ဖြင့်ကံစမ်းခြင်း) သည်လည်းကောင်း အလွန် ဆိုးရွားညစ်ညမ်းလှသော အမှုကိစ္စများ၊‘ရှိုင်တွာန်’ အပြုအမူများသာလျှင်ဖြစ်၏။ သို့ဖြစ်ပေရာ အသင်တို့သည် ထို (ဆိုးရွားညစ်ညမ်းသောအရာ) ကို ရှောင်ကြဉ်ကြကုန်လော့။ သို့မှသာလျှင် အသင်တို့သည် အောင်မြင်ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

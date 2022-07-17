@@ -710,6 +710,12 @@ Kazhi [o, Mukhammad]: “Pod vŭzbrana za men e da sluzha na onezi, koito vie zo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၆။	ဟောကြားလော့။ အလ္လာဟ်အသျှင်မြတ်အစား သင်တို့ ကိုးကွယ်သောအရာများကို ဝတ်မပြုရန် ငါ့အား တားမြစ်ပညတ်တော်မူ၏။ တစ်ဖန်ဟောကြားလော့။ ငါသည် သင်တို့ဆန္ဒများကို လိုက်လိမ့် မည်မဟုတ်။ လိုက်လျှင် ငါသည် လမ်းလွှဲသွား၍ လမ်းမှန်ညွှန်ပြခြင်းခံရသူတို့ဘောင်တွင် ပါဝင် တော့မည်မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (ဤသို့)ပြောကြားပါလေ၊ အလ္လာဟ်အရှင်မြတ်ကိုစွန့်ပယ်၍ အသင်တို့ ဟစ်ခေါ်တသကြကုန်သောသူတို့အား ကိုးကွယ်ဆည်းကပ်ခြင်းမှငါသည် တားမြစ်ခြင်းကို ခံရပြီးဖြစ်သည်။ အသင်သည် (ဤသို့လည်း) ပြောကြားပါလေ။ ငါသည် အသင်တို့၏ အချည်းနှီးသော အလိုဆန္ဒများကို အလျင်း လိုက်နာမည်မဟုတ်ပေ။သို့လိုက်နာ မိပါလျှင် ငါသည် လမ်းမှားသို့ ရောက်သွားပေမည်။၎င်းပြင် ငါသည် တရားလမ်းမှန်ကို ရရှိသောသူတို့တွင်လည်းအပါအဝင် ဖြစ်တော့မည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

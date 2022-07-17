@@ -710,6 +710,12 @@ S nishto ne shte gi izbavyat ot Allakh nito imotite, nito detsata im. Tezi sa ob
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	သူတို့၏ စည်းစိမ်ဥစ္စာများမှသော်လည်းကောင်း၊ သားသမီးအခြွေအရံများသည်သော်လည်းကောင်း၊ သူတို့ကို အလ္လာဟ်အရှင်မြတ်ထံမှ မကယ်နိုင်ချေ၊ ထိုသူတို့သည် ငရဲမီးကို ပိုင်ဆိုင်ကြ၏၊ ထိုမီးထဲတွင် နေကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်နှင့်ဆန့်ကျင်၍ ထိုသူတို့၏ပစ္စည်းဥစ္စာတို့သည် လည်းကောင်း၊ ထိုသူတို့၏ သားသမီးတို့သည် လည်းကောင်း၊ ထိုသူတို့အား လုံးဝအကျိုးပေးမည် မဟုတ်ပေ။ ထိုသူတို့ကား ငရဲသားများ ပင်ဖြစ်ကြကုန်၏။ ၎င်းတို့မှာ ယင်းငရဲ၌ ထာဝစဉ် နေထိုင်ကြရမည့်သူများပင် ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

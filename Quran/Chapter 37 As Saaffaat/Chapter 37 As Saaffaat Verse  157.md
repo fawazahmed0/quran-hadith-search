@@ -710,6 +710,12 @@ Togava donesete vasheto pisanie, ako govorite istinata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၇။	သင်တို့အမှန်ကို ဆိုကြလျှင် ထိုအကိုးအကားကို ပြကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရှိခဲ့လျှင် အကယ်၍ အသင်တို့သည် သစ္စာဝါဒီများဖြစ်ကြပါမူ မိမိတို့၏ကျမ်းဂန်ကို ယူလာ (တင်ပြ)ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I kazhi [o, Mukhammad]: “Gospodi, oprosti i pomilvaĭ! Ti si Naĭ-milosŭrdn
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၈။	အို--တမန်တော်မိုဟမ္မဒ်၊ သင်သည် ဤသို့ဆုတောင်းလော့၊ အို--အကျွနု်ပ်၏ အသက်သခင်ကျေးဇူးရှင်၊ အကျွနု်ပ်ကို အပြစ်လွှတ်တော်မူပါ၊ ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူပါ၊ အကြောင်းမူကား အရှင်သည် ကောင်းကြီးပေးသူတကာတို့တွင် အထွဋ်အခေါင်ဖြစ်တော်မူပါ၏အရှင်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင်(အို-နဗီတမန်တော်)အသင်သည် (ဤသို့) လျှောက်ထားပန်ကြားပါလေ။ ကျွန်တော်မျိုးတို့၏အရှင်မြတ်၊ အရှင်မြတ်သည်(ကျွန်တော်မျိုးအား) ခွင့်လွှတ်တော်မူပါ။ ထို့ပြင် အရှင်မြတ်သည် (ကျွန်တော်မျိုးအပေါ်၌) သနားကြင်နာတော်မူပါ။ စင်စစ်သော်ကား အရှင်မြတ်သည် သနားကြင်နာသူတို့တွင် (အသာလွန်ဆုံး)အရှင်ဖြစ်တော်မူပါသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

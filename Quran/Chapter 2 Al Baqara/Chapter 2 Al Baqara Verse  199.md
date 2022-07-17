@@ -710,6 +710,12 @@ Posle se plisnete nadolu, otkŭdeto khorata se plisvat, i molete Allakh za prosh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉၉။	ထို့နောက် ဝတ်ပြုလူထုထွက်သွားသည့်နေရာအရပ်မှ ဆက်လက်သွားကြပြီးလျှင် အလ္လာဟ်အရှင်မြတ် အား အပြစ်လွှတ်တော်မူရန်ဆုတောင်းကြလော့။ မှတ်သားကြလော့။ အလ္လာဟ်အရှင် ကောင်းချီး မင်္ဂလာပေးသနားတော်မူသော အရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် လူများအစုလိုက်ပြန်လာကြသော နေရာ (အရဖာတ်) မှ အသင်တို့သည်လည်း (သွားရောက်၍) ပြန်လာကြကုန်လော့။ ထိုမှတပါး အသင်တို့သည် (မိမိတို့ အပြစ်များမှ) လွတ်ငြိမ်း ချမ်းသာခွင့်ရရှိရန်အလို့ငှာ အလ္လာဟ် အရှင်မြတ်၏အထံတော်၌ လျှောက်ထားအသနားခံကြ ကုန် လော့။ မုချဧကန် အလ္လာဟ်အရှင်မြတ်သည် အဖန်တလဲလဲ လွတ်ငြိမ်းချမ်းသာခွင့် ပေးသနားတော်မူထသော အရှင်၊ အစဉ် သနားကြင်နာ ညှာတာတော် မူထသောအရှင် ဖြစ်တော်မူ လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

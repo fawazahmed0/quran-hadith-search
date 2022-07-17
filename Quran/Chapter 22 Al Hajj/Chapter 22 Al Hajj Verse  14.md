@@ -710,6 +710,12 @@ Allakh shte vŭvede onezi, koito vyarvat i vŭrshat pravedni dela, v Gradinite, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် ယုံကြည်၍ သုစရိုက်ကောင်းမှုပြုကျင့်သူတို့အား သုခဥယျာဉ်တော် များသို့ ဝင်စေတော်မူ၏၊ ထိုဥယျာဉ်တော်များအောက်၌ စိမ့်စမ်းရေမြောင်းအယာဉ်အထွေထွေစီးဆင်းလျက် ရှိ၏၊ မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် မိမိကြံရွယ်သည့်အတိုင်း စီရင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် သက်ဝင်ယုံကြည်ပြီး ကောင်းမြတ်သော အကျင့်သီလများကို ကျင့်မူဆောက်တည်ကြကုန်သောသူတို့အား အကြင်ဥယျာဉ်များသို့ ဝင်ရောက်စေတော်မူမည်။ ထိုဥယျာဉ်များအောက်မှ စမ်းရေချောင်းများသည် စီးတွေလျက် ရှိကြပေမည်။ ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် မိမိရည်ရွယ်တော်မူသောကိစ္စကို(ပြီးမြောက်အောင်) ပြုလုပ်တော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

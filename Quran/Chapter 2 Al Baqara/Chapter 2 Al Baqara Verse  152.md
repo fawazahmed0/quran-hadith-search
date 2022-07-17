@@ -710,6 +710,12 @@ I spomenavaĭte Me, za da vi spomenavam i Az, i blagodarete Mi, i ne Me otkhvŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၂။	ထို့ကြောင့် သင်တို့သည် ငါအား သတိရကြလော့။ ငါလည်း သင်တို့ကို သတိရတော်မူမည်။ ငါ၏ ကျေးဇူးတော်ကိုသိကြလော့။ ငါ့အား ကျေးဇူးမကန်းကြလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်လေရာ အသင်တို့သည် ငါအရှင်မြတ်ကို (ခဝပ်ကိုးကွယ်ခြင်းအားဖြင့် လည်းကောင်း၊ ငါအရှင်မြတ်၏ အမိန့် တော်များကို ရိုသေစွာ လိုက်နာခြင်းအား ဖြင့်လည်းကောင်း) အောက်မေ့တသ သတိရကြကုန်လော့၊ ငါအရှင် မြတ်သည်လည်း အသင်တို့အား (ကူညီ စောင့်ရှောက်တော်မူ ခြင်းအားဖြင့်) သတိရတော်မူအံ့။ ထိုမှတစ်ပါး အသင်တို့သည် ငါအရှင်မြတ်၏ကျေးဇူးတော်ကို သိကြကုန်လော့။ အသင်တို့သည် ငါ အရှင်မြတ်အား ကျေးဇူးမကန်းကြကုန်လင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

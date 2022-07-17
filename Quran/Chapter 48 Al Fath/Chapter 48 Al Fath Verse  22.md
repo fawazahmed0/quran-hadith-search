@@ -710,6 +710,12 @@ A ako nevernitsite byakha se srazhavali s vas, shtyakha da vi obŭrnat grŭb. I 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	မယုံကြည်သူတို့သည် သင်တို့ကို စစ်တိုက်လျှင် သူတို့သည် စစ်မြေပြင်မှ ထွက်ပြေးကြလိမ့်မည်၊ ထို့နောက် သူတို့၌ စောင့်ရှောက်ကူညီသူရှိမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်တမူကား အကယ်၍သာ ‘ကာဖိရ်’ သွေဖည်ငြင်းပယ်သော သူတို့သည် အသင်တို့နှင့် ယှဉ်ပြိုင် တိုက်ခိုက်ခဲ့ကြပါလျှင် ၎င်းတို့သည် ကျောခိုင်း၍ ထွက်ပြေးခဲ့ကြမည်သာ။ထို့နောက် ၎င်းတို့သည် အဆွေခင်ပွန်းဟူ၍လည်း တစ်ဦးတစ်ယောက်ကိုမျှပင် တွေ့ရှိကြမည် မဟုတ်ပေ။ ကူညီစောင်မအံ့သောသူဟူ၍လည်း တစ်ဦးတစ်ယောက်ကိုမျှပင် တွေ့ရှိကြမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

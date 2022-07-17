@@ -710,6 +710,12 @@ Nima vi obeshtava, che sled kato umrete i stanete prŭst i kosti, [otnovo] shte 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	ထိုသူက သင်တို့အား သင်တို့သည် ကွယ်လွန်သေဆုံး၍ ဖုံမှုန့်နှင့်အရိုးအတိဖြစ်ပြီးမှ တဖန်ထွက်ပေါ်လာရမည်ဟု ကတိပေးသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းက အသင်တို့ သေဆုံးကြပြီးနောက် မြေကြီးဖြစ်၍ အရိုးများသာကျန်သောအခါ ဧကန်အမှန် အသင်တို့ သည်(သင်္ချိုင်းတွင်းမှ)ပြန်ထွက်ကြရမည့်သူများ ဖြစ်ကြသည်ဟု) အသင်တို့အား ပြောဆိုသည် မဟုတ်လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

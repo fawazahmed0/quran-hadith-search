@@ -710,6 +710,12 @@ I ne prodavaĭte obeta na Allakh na nikakva tsena! Onova, koeto e pri Allakh, e
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၅။	သင်တို့သည် အလ္လာဟ်အရှင်မြတ်ထံ ပဋိညာဉ်ခံသစ္စာတော်ချက်ကို အဖိုးကြေးငွေအနည်းငယ်မျှနှင့် လဲလှယ် ရောင်းချခြင်းမပြုကြကုန်လင့်။ မှတ်သားကြလော့။ အလ္လာဟ်အရှင်မြတ်အထံတော်ရှိသောဆုတော်သည် သင်တို့ အဖို့အရာ သာလွန်ကောင်းမြတ်၏။ သင်တို့သိလေလျှင် တော်လေစွ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်နှင်ထားရှိကြသော ပဋိညာဉ်ဖြင့် အနည်းငယ်မျှသော အဖိုးငွေကို လဲလှယ်ဝယ်ယူခြင်း မပြုကြကုန်လင့်။ အကယ်၍ အသင်တို့သည် သိကြပါလျှင် ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်အထံတော်၌ရှိသော (အကျိုးဆုလာဘ်)သည် အသင်တို့အဖို့အကောင်း ဆုံးပင် ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

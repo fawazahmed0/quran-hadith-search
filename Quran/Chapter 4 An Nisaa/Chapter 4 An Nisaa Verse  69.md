@@ -710,6 +710,12 @@ Koito se pokoryavat na Allakh i na Pratenika, te sa s onezi, koito Allakh e dari
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၉။	အကြင်သူတို့သည် အလ္လာဟ်အသျှင်မြတ်နှင့် တမန်တော်ကို နာယူကြ၏။ ထိုသူတို့သည် အလ္လာဟ် အသျှင်မြတ် ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူသော သူတော်မြတ်တို့နှင့်အတူကတွ ရှိကြ၏။ ထိုသူမြတ်တို့မှာ တမန်တော်များ၊ သူတော်သူမြတ်များ၊ သာသနာ့အာဇာနည်များ၊ သီလဝန်များ၊ အလ္လာဟ်နှင့် တရားတော်ကိုရိုသေသူများဖြစ်ကြ၏။ သူတို့သည် အကောင်းဆုံးသော အပေါင်းအဖော် ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ်သော်ကား၊ အကြင်သူသည် အလ္လာဟ်အရှင်မြတ်၏ အမိန့်တော်များကိုလည်းကောင်း၊ ရစူလ်တမန်တော်၏ (အမိန့်တော်များ) ကိုလည်းကောင်း လိုက်နာအံ။ ယင်း (ကဲ့သို့သော) သူတို့သည် အလ္လာဟ်အရှင်မြတ် ကျေးဇူးပြုတော်မူသော နဗီတမန်တော်များ၊ ‘ဆွစ်ဒ္ဒီက်’ တိကျမှန်ကန်စွာ ပြောဆိုပြုလုပ်ဆောင်ရွက်သူများ၊ ‘ရှဟီဒ်’ အလ္လာဟ် အရှင်မြတ်၏လမ်းတော်၌ အသက်ဇီဝိန်ကိုစွန့်သူ များ၊ ‘ဆွာလိဟ်’သူတော်စင် သူတော်ကောင်းများနှင့် အတူတကွရှိကြလတ္တံ့။ စင်စစ်ဆိုသော် ယင်းသူတို့သည် အဘယ်မျှလောက် မွန်မြတ်လှစွာသော ‘မိတ်သဟာရ’ အဖော်အဖက်များ ဖြစ်ကြပေသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

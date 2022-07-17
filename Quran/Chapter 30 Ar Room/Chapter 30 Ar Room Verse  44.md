@@ -710,6 +710,12 @@ koĭto e nevernik, protiv nego e neverieto mu, a koito vŭrshat pravedni dela, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	အကြင်သူသည် အယူမှားအ့ံ၊ ထိုသူသည် ထိုနေ့တော်ကြီး၌ မိမိ၏ မိစ္ဆာဝါဒ၏ အကျိုးဆက်များကို ခံစားရ၏၊ သို့သော်မှန်ကန်မှုကို ပြုကျင့်သူတို့မူကား မိမိတို့အတွက် ရိက္ခာစုဆောင်းထားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သူမဆို သွေဖည်ငြင်းပယ်ခဲ့မူ ၎င်း၏သွေဖည်မှုသည် ၎င်း၏အပေါ်၌သာ ကျရောက်ပေမည်။ ထိုနည်းတူစွာ မည်သူမဆို ကောင်းမြတ်သော အကျင့်သီလကို ဆောက်တည်ခဲ့မူ ၎င်းတို့သည် မိမိတို့အကျိုးငှာ စီမံဆောင်ရွက်နေကြခြင်းသာ ဖြစ်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

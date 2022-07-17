@@ -710,6 +710,12 @@ pratenitsi-blagovestiteli i preduprediteli, za da nyamat khorata dovod pred Alla
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၅။	အလ္လာဟ်အသျှင်မြတ်သည် တမန်တော်များကို ဝမ်းမြောက်ဘွယ်သတင်းကောင်း၊ ကြောက်မက်ဘွယ် သတင်းဆိုးများကို ဟောကြားဖို့ရာ စေလွှတ်တော်မူ၏။ တမန်တော်များပွင့်လာပြီးနောက် လူသားတို့ သည် အလ္လာဟ်အသျှင်မြတ်အား ဆင်ခြေစကား မတင်လျှောက်နိုင်စေရန်လည်း တမန်တော်များကို စေလွှတ်တော်မူ၏။ အလ္လာဟ်အသျှင်မြတ်သည် အနန္တဘုန်းတန်ခိုးတော်သခင်၊ အနန္တဉာဏ်တော်ရှင် ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ငါအရှင်မြတ်သည်) ရစူလ်တမန်တော်များအား ဝမ်းမြောက်ဖွယ်ရာ သတင်းပေးသူများအဖြစ်လည်းကောင်း၊ သတိပေးနှိုးဆော်သူများအဖြစ်လည်းကောင်း စေလွှတ်တော်မူခဲ့လေသည်။ ယင်းသို့ စေလွှတ် တော်မူခြင်းမှာ) ထိုရစူလ်တမန်တော်များ ရောက်ရှိလာကြပြီးနောက် (‘ကိယာမတ်’ခေါ် ရှင်ပြန်ထရမည့်နေ့တွင် ) အလ္လာဟ်အရှင်မြတ်၏ရှေ့တော်မှောက်၌ လူတို့အဖို့ အကြောင်းပြချက် မရှိစေရန်အလို့ငှာ ဖြစ်ချေသည်။ အမှန်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို နိုင်နင်းလွှမ်းမိုးတော်မူသောအရှင်၊ ဆင်ခြင်တုံဉာဏ်နှင့် ပြည့်စုံတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

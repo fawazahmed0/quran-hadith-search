@@ -710,6 +710,12 @@ Blizo nad tyakh shte sa neĭnite senki i shte sa svedeni plodovete ĭ nisko
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။ ထို့အပြင်နိဗ္ဗာဥယျာဉ်တော်တွင် ပေါက်ရောက်လျက်ရှိသောသစ်ပင်များ၏ အရိပ်အာဝါသသည် သူတို့အပေါ် ကျရောက်ဖုံးအုပ်လျက်ရှိကြ၏၊ အသီးအနှံများလည်း အြွပတ်လိုက်အြွပတ်လိုက်ညွှတ်ကိုင်းလျက်ရှိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်း ပြင် ယင်း(ဂျန္နတ်သုခဘုံမှ) သစ်ပင်များ မှာ၎င်းတို့အပေါ်၌ ကိုင်းညွှတ်လျက်ရှိကြပေမည်။ ထို့ပြင် ယင်း’ဂျန္နတ်’တွင် အပြွတ်လိုက်သီးသော သစ်သီးဝလံတို့မှာ ညွှတ်ကျလျက် ရှိကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

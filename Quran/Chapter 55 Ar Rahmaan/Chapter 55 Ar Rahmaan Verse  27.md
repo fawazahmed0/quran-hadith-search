@@ -710,6 +710,12 @@ No prebŭdva Likŭt na tvoya Gospod, Vladetelya na velichieto i pochitta
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	ထိုအခါ သင်၏ အရှင်သခင် အနန္တတန်ခိုးတော်အာနုဘော်ရှင်၏ မျက်နှာတော်သာလျှင် ကြွင်းကျန်ရစ်လိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော၊ တန်ခိုးတော်နှင့် ပြည့်စုံတော်မူသော၊ ကျေးဇူးတော်ရှင်ဖြစ်တော်မူသော၊ အရှင်မြတ်(တစ်ပါးတည်း)သာလျှင် (ထာဝရ)ကျန်ရှိတော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

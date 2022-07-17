@@ -710,6 +710,12 @@ I reche Musa: “Dori vie i vsichki po zemyata da ste neblagodarni, Allakh e pre
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	တဖန်တမန်တော်မူစာဟောကြားသည်၊ သင်တို့နှင့်တကွ ကမ္ဘာမြေပေါ်ရှိ သူအပေါင်းတို့သည် ကျေးဇူးကန်းကြ သော်လည်း မှတ်သားကြလော့။ အလ္လာဟ်အရှင်မြတ်သည် မုချဧကန်အမှီကင်းတော်မူ၏။။ ချီးမွမ်းခြင်းပိုင်ရှင် ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် (နဗီတမန်တော်)မူစာသည်(မိမိအမျိုးသားတို့အားဤသို့)ပြောကြားခဲ့လေသည်။ (အချင်းတို့)အကယ်၍ အသင်တို့နှင့်တကွ ကမ္ဘာမြေဝယ် ရှိသမျှသော သူခပ်သိမ်းတို့သည် ကျေးဇူးကန်းကြပါသော်လည်း၊(ထိုအရှင်မြတ်၌ တစ်စုံတစ်ရာကျိုးယုတ်မှု အလျှင်းမရှိပေ။ အဘယ်ကြောင့်ဆိုသော်)ဧကန်အမှန် အလ္လာဟ်အရှင်မြတ်သည် လိုလားတောင့်တခြင်းကင်းမဲ့တော်မူသောအရှင်၊ ချီးမွမ်းဖွယ် ဂုဏ်တော်အပေါင်းနှင့်ပြည့်စုံတော်မူသောအရှင်၊ ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

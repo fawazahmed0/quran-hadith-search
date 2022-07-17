@@ -710,6 +710,12 @@ O, narode moĭ, molete za oproshtenie vashiya Gospod i se pokaĭte pred Nego, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၂။	ဟယ်-အချင်းတို့၊ သင်တို့၏ အရှင်သခင်အထံတော်၌ အပြစ်လွှတ်ဆုတောင်းကြလော့၊ ထို့နောက်တရားသံဝေဂ ရလျက် အရှင်မြတ်ထံသို့ လှည့်ကြလော့။ အရှင်မြတ်သည် သင်တို့အပေါ်သို့ မိုးကောင်းကင်မှ မိုးဖောဖောသီသီ ရွာသွန်းစေတော်မူမည်။ သင်တို့၏ အင်အားကို တဆင့်မှတဆင့် ဆက်လက်တိုးပွားစေတော်မူမည်။ ဟယ်- ဒုစရိုက်ကောင်ကို သင်တို့ကျောပေးမသွားကြလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အို-ငါ၏အမျိုးသားတို့၊ အသင်တို့သည်မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်၌ လွတ်ငြိမ်းချမ်းသာခွင့်ကို ပန်ကြားကြလေကုန်။ ထို့နောက် အသင်တို့သည် (ထိုအရှင်မြတ်အထံတော်၌ဝန်ချတောင်းပန်ကြလေကုန်။) (တစ်နည်း) ထိုအရှင်မြတ်အထံတော်သို့လှည့်ကြလေကုန်။ ထိုအရှင်မြတ်သည် အသင်တို့အပေါ်၌ မိုးကို ဖြိုင်ဖြိုင် ရွာသွန်းစေတော်မူအံ့။ အသင်တို့၏အားအင်၌ အသစ်ထပ်ဖြည့်တော်မူ၍ အသင်တို့ကို အားအင်တိုးတက်စေတော်မူအံ့။ ၎င်းပြင် အသင်တို့သည် ပြစ်မှုကျူးလွန်သူများအဖြစ် မျက်နှာလွှဲ၍ မသွားကြကုန်လင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

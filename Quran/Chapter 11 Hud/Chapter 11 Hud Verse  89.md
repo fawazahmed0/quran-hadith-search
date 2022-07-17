@@ -710,6 +710,12 @@ O, narode moĭ, da ne vi vkara v gryakh vrazhdata [vi] kŭm men, ta da vi poraz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၉။	ဟယ်-အချင်းတို့၊ သင်တို့နှင့်ငါတို့အယူဝါဒကွဲလွဲခဲ့ခြင်းကြောင့် သင်တို့သည် အပြစ်မကျူးလွန်ကြလင့်၊ သင်တို့ သည် ပြစ်မှုကျူးလွန်ခဲ့လျှင် တမန်တော်နူဟို၏ အမျိုးသား၊ တမန်တော်ဟုဒ်၏ အမျိုးသားနှင့် တမန်တော် ဆွာလေဟ်၏ အမျိုးသားတို့အပေါ် ကျသောပြစ်ဒဏ်သည် သင်တို့အပေါ်ကျလိမ့်မည်။ တမန်တော်လွတ်၏ အမျိုးသားတို့သည် သင်တို့ထံမှ လများစွာကွာဝေးလှသည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်သော်ကား အို-ငါ၏အမျိုးသားတို့၊ ငါနှင့်စိတ်ဝမ်းကွဲပြားမှုသည် အသင်တို့၌(နဗီတမန်တော်)နူဟ်၏အမျိုးသားတို့၌ သက်ရောက်ခဲ့ဘိသကဲ့သို့သော ဘေးဒုက္ခမျိုးသော်လည်းကောင်း၊(နဗီတမန်တော်)ဟူဒ်၏အမျိုးသားတို့၌သက်ရောက်ခဲ့ဘိသကဲ့သို့သော ဘေးဒုက္ခမျိုးသော်လည်းကောင်း၊(နဗီတမန်တော်) ဆွာလိဟ်၏အမျိုးသားတို့၌ သက်ရောက်ခဲ့ဘိသကဲ့သို့သော ဘေးဒုက္ခမျိုးသော် လည်းကောင်း၊ သက်ရောက်စေရန်အသင်တို့အား အလျဉ်းလှုံ့ဆော်ဖန်တီးသည် မရှိစေရ။ ၎င်းပြင်(နဗီတမန်တော်)လူ(တ်)၏အမျိုးသား တို့(၌သက်ရောက်ခဲ့သောပြစ်ဒဏ်)မှာလည်း သင်တို့နှင့် မဝေးလှပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

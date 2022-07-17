@@ -710,6 +710,12 @@ I reche onzi, koĭto povyarva: “O, narode moĭ, strakhuvam se za vas ot den 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	တဖန်ယုံကြည်သူ၊ သူတော်စင်က အို-အချင်းတို့၊ ရှေးအသင်းဟောင်းတို့၏ ကံကြမ္မာမျိုးကို သင်တို့အတွက် အကျွန်ုပ်ကြောက်လှပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး (ထို)"မုအ်မင်န်"သက်ဝင် ယုံကြည်သူသည် (ဤသို့)ပြောကြားခဲ့ပြန်လေ၏။ အို-ကျွန်ုပ်၏ အမျိုးသားတို့၊ ဧကန်စင်စစ် ကျွန်ုပ်သည် အသင်တို့အပေါ်၌ (ရှေးအထက်ကျော်ကာလက) ဘာသာဝင်အုပ်စုများနည်းတူ(ဆိုးရွားသော)နေ့ (ဆိုက်ရောက်လာမည်)ကို စိုးရိမ်မိ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

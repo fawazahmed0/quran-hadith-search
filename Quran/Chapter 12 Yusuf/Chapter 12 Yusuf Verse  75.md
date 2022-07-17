@@ -710,6 +710,12 @@ Rekokha: “Vŭzmezdieto za tova e - onzi, v chiĭto vŭrzop se nameri, toĭ s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၅။	ညီနောင်တို့၊ ဤအပြစ်ဒဏ်ကို ပေးကြပါလော့။ အကြင်သူ၏ အိတ်ထဲတွင် ဖလားကို တွေ့အ့ံ။ ထိုသူကို သင်တို့ဖမ်းယူထားကြလော့။ အကျွနု်ပ်တို့သည် အပြစ်ရှိသူကို ယင်းကဲ့သို့လက်စားချေကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့က (ဤသို့) ပြောကြားခဲ့ကြလေသည်။အကြင်သူသည် ထိုသူ၏ ခရီးဆောင်ပစ္စည်းတွင် ယင်းခြင်ခွက်(ရေဖလား)သည် တွေ့ရှိခဲ့သော်၊ ထိုသူသည်ပင် မိမိ၏အစားဖြစ်ပေမည်။ ကျွန်ုပ်တို့သည် ဤနည်းအတိုင်းပင် ပြစ်မှုကျူးလွန်သူတို့အား အစားပေးလေ့ရှိကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

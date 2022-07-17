@@ -710,6 +710,12 @@ Kogoto Allakh napŭti, toĭ e na praviya pŭt, a kogoto ostavi v zabluda, tezi 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇၈။	အကြင်သူကို အလ္လာဟ်အသျှင်မြတ်သည် လမ်းညွှန်တော်မူ၏။ ထိုသူသည် အမှန်ပင် လမ်းမှန်ကို ညွှန်ခြင်းခံရ၏။ အကြင်သူတို့အား အလ္လာဟ်အသျှင်မြတ်သည် လမ်းမှား၌ ပြစ်ထားတော်မူ၏။ ထိုသူများသည် မုချဧကန်ဆုံးရှုံးသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူအား အလ္လာဟ်အရှင်မြတ်သည်တရားလမ်းမှန်ကို ညွှန်ပြတော်မူအံ့။ ထိုသူသာလျှင် တရားလမ်းမှန်ကိုရရှိသူဖြစ်အံ့။ သို့ရာတွင် အကြင်သူအား ထိုအရှင်မြတ်သည်လမ်း မှားသို့ရောက်စေတော်မူအံ့။ ထို(ကဲ့သို့) သူတို့သည်သာလျှင် နစ်နာဆုံးရှုံးမည့်သူများ ဖြစ်ကြလတ္တံ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

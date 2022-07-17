@@ -710,6 +710,12 @@ Reche: “Togava izlez ot Raya! Ti si prokuden
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၇။	ထိုအခါအလ္လာဟ်အရှင်မြတ်ဗျာဒိတ်ပေးတော်မူသည်မှာ အို-အီဗလစ်(စ်)၊ နင်သည် ဤသုခဘုံနန်းမှ အမြန် ထွက်သွားလော့၊ မှတ်သားလော့၊ အမှန်မှာ နင်သည် ငါ့အထံတော်မှ နှင်ထုတ်ခံရသောရာဇဝတ်ကောင်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်က မိန့်ကြားတော်မူခဲ့၏။ သို့ဖြစ်လျှင်(အို-"ဗ်လီစ်"၊)အသင်သည် ဤကောင်းကင်ဘုံမှ ထွက်၍သွားလော့၊ အကြောင်းမူကား အသင်သည် နှင်ထုတ်ခြင်း- ကရုဏာတော်မှ ကင်းဝေးစေခြင်းခံရသူ ဖြစ်သောကြောင့်ပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

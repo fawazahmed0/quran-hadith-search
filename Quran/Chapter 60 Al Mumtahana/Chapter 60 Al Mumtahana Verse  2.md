@@ -710,6 +710,12 @@ Ako vi nadviyat, shte vi stanat vragove i shte prostirat sŭs zlo kŭm vas rŭts
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။ ထိုမိစ္ဆာဒိဋ္ဌိတို့သည် သင်တို့ထက်အရေးသာလျှင် သူတို့သည် သင်တို့၏ရန်သူဖြစ်ကြလတံ့၊ မကောင်းသောရည်ရွယ်ချက်ဖြင့် သင်တို့အား လက်ဖြင့်သော်လည်းကောင်း၊ နှုတ်ဖြင့်သော်လည်းကောင်း၊ သိကြ၏၊ သူတို့သည် သင်တို့မယုံကြည်ဖို့ကို လိုလားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍ ၎င်းတို့သည် အသင်တို့အပေါ်၌ အရေးသာခဲ့ကြလျှင် အသင်တို့၏ ရန်သူဖြစ်ကြောင်းကိုသာ ပေါ်လွင်စေကြသည့်ပြင် မိမိတို့လက်များဖြင့် လည်းကောင်း၊ မိမိတို့ နှုတ်များဖြင့်လည်းကောင်း၊ အသင်တို့အား ဒုက္ခပေးကြမည်သာ။ ထို့ပြင် ၎င်းတို့သည် အသင်တို့ "ကာဖိရ်"သွေဖည်ငြင်းပယ်သူများ ဖြစ်ကြရန်လည်း လိုလားတောင့်တကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

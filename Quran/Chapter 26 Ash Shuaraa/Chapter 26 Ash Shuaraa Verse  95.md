@@ -710,6 +710,12 @@ i voĭskite na Iblis - vsichkite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၄၊၉၅။	ထိုအခါသူတို့အား ငရဲထဲသို့ ပစ်ချလတ့ံ၊ သူတို့ကို လှည့်စားသူများ၊ အီဗလစ်၏ စစ်သည်တော်များအားလုံးကို တစ်ယောက်မကျန်ငရဲထဲသို့ ပစ်သွင်းလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အစ်ဗ်လီစ်၏ ဗိုလ်ခြေအပေါင်းတို့သည်လည်းကောင်း၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

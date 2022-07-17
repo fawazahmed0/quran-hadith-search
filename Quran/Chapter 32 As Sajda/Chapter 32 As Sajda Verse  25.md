@@ -710,6 +710,12 @@ V Denya na vŭzkresenieto tvoyat Gospod shte ot·sŭdi mezhdu tyakh za onova, po
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	မှတ်သားကြလော့၊ သင်၏အရှင်သခင်သည် ရှင်ပြန်ထမြောက်သောနေ့တော်ကြီး၌ သူတို့အလယ်ကြားတွင် ၎င်းတို့အချင်းချင်းကွဲပြားနေသောအမှုများနှင့်စပ်လျဉ်း၍ စစ်ကြောစီရင်တော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် ကိယာမတ် ရှင်ပြန်ထမည့် နေ့တွင် (မုအ်မင်န် သက်ဝင်ယုံကြည်သူများနှင့် မုရှ်ရစ်က် တွဲဖက်နှိုင်းယှဉ်ကိုးကွယ်)သူတို့၏အကြားဝယ် ၎င်းတို့ သဘောကွဲလွဲလျက်ရှိခဲ့ကြ ကုန်သောအရေးကိစ္စနှင့် စပ်လျဉ်း၍ စီရင်ဆုံးဖြတ်တော် မူအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

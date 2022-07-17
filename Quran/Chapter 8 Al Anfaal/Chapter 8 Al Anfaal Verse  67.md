@@ -710,6 +710,12 @@ Ne podobava na prorok da ima plennitsi, dokato ne e voyuval po zemyata [s nevern
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၇။	မည်သည့် တမန်တော်မှ ကမ္ဘာမြေပေါ်တွင် စစ်တိုက်သတ်ဖြတ်ခြင်းကိုမပြုဘဲ သုံ့ပန်းမပိုင်ထိုက်ပေ။ သင်တို့သည် လောကစည်းစိမ်ကို မက်မောကြ၏။ အလ္လာဟ်အသျှင်မြတ်သည် သင်တို့အဖို့ နောင် တမလွန်ဘဝကို လိုလားတော်မူ၏။ အလ္လာဟ်အသျှင်မြတ်သည် အနန္တိတန်ခိုးတော်သခင်၊ အနန္တ ဉာဏ်တော်ရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သည့်နဗီတမန်တော်မဆို ကမ္ဘာမြေပြင်ဝယ် (ကောင်းစွာ) တိုက်ခိုက်သတ်ဖြတ်အောင်မြင်မှုကို မပြုသေးသမျှ ကာလပတ်လုံး ထိုနဗီတမန်တော်၌ (စစ်မြေအရပ်မှ)လက်ရဖမ်းဆီး၍ မိခဲ့သောသုံ့ပန်းများသည် မရှိသင့်ပေ။အသင်တို့သည် ပစ္စုပ္ပန်လောကီ ပစ္စည်းကိုအလိုရှိကြ၏။သို့ရာတွင် အလ္လာဟ်အရှင်မြတ်သည် (အသင်တို့အဖို့) နောင်တမလွန်ဘဝ(၏ စည်းစိမ်ရိပ်ငြိမ်)ကိုလိုလားတော်မူ၏။ စင်စစ်အလ္လာဟ်အရှင်မြတ်သည် တန်ခိုးအာနုဘော်နှင့်ပြည့် စုံတော်မူသောအရှင်၊ နက်နဲသိမ်မွေ့ ဉာဏ်အမြော်အမြင်နှင့် ပြည့်စုံတော်မူသောအရှင်၊ ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

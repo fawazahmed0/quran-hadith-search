@@ -710,6 +710,12 @@ I kogato go chetem, sledvaĭ negovoto chetene
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။ ထိုကြောင့် ငါသည် ထိုကျမ်းတော်ကို နားလည်အောင် ရှင်းလင်းဖောြ်ပခြင်းမှာလည်း ငါ၏ တာဝန်တော်သာဖြစ်၏ ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အကြင်အခါဝယ် ငါအရှင်မြတ်သည် ယင်း(ကုရ်အာန်ကျမ်းတော်မြတ်) ဖတ်ကြားတော် မူခဲ့အံ့။ထိုအခါ (ယင်းကုရ်အာန်၏ ဖတ်ကြားချက်ကို) အသင်သည် လိုက်(၍ဖတ်)ပါလေ။ နားထောင်ပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

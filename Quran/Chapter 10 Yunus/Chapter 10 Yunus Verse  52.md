@@ -710,6 +710,12 @@ Posle shte se kazhe na ugnetitelite: “Vkusete vechnoto mŭchenie! Nima shte vi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၂။	ထိုအခါမတရားပြုသူတို့အားလုံးထံသို့ သင်တို့သည် ထာဝရငရဲကို မြည်းစမ်းကြလော့။ သင်တို့ဆည်းပူးခဲ့သော အကုသိုလ်မှတပါး အခြားအမှုကို လက်စားချေသလောဟု ဗျာဒိတ်တော်လာလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနောက် (မိမိကိုယ်ကို) နှိပ်စက်ကလူ ပြုခဲ့ကြသည် အစဉ်ထာဝရတည်အံ့သောအပြစ်ဒဏ်၏(အရသာ) ကိုမြည်းစမ်းကြလေကုန်။ အသင်တို့သည် မိမိတို့ ရှာဖွေဆည်းပူးခဲ့ကြသည်တို့မှတစ်ပါး မည်သည်ကိုမျှ အစားပေးခြင်းကိုခံကြရသည်မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

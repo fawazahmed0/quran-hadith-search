@@ -710,6 +710,12 @@ A onezi, koito [sŭdruzhavashtite] zovat vmesto Nego, ne mogat da se zastŭpyat,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၆။	အရှင်မြတ်မှတပါး ထိုမိစ္ဆာဒိဋ္ဌိတို့ကိုးကွယ်သောဘုရားတုဘုရားယောင်များသည် အရှင်မြတ်ရှေ့တော်၌ သူတပါးကို တောင်းပန်ကယ်နှုတ်ရန် မစွမ်းနိုင်သေးချေ၊ သမ္မာတရားတော်ကို ထက်သန်သောစိတ်နှင့် ယုံကြည်သက်သေခံ သောသူတို့သာလျှင် တောင်းပန်ကယ်နှုတ်ခွင့်ရှိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်မှာကား ထိုအရှင်မြတ်အားစွန့်၍ ၎င်းတို့ ဟစ်ခေါ်တသကြကုန်သောသူတို့၌ ကြားဝင်အသနားခံပေးနိုင်ခွင့် အလျှင်းမရှိချေ။ သို့ရာတွင် တရားကို သိရှိကြ၍ ဝန်ခံကြကုန်သောသူတို့မှာမူကား (ကြားဝင်အသနားခံ ပေးနိုင်ကြပေမည်)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Nima imate sigurnost, che Onzi, Koĭto e na nebeto, ne shte nakara zemyata da v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။ ကမ္ဘာမြေကြီးသည် သွက်သွက်ချာချာ တုန်လှုပ်သောအခါ သင်တို့ကို မြေမျိုစေတော်မူလိမ့်မည်မဟုတ်ဟု သင်တို့ သည် အထက်ကောင်းကင်ဘုံရှိ အရှင်မြတ်ထံမှ အာမခံယူထားပြီးပြီလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် မိုးကောင်းကင်၌ ရှိတော်မူသော အရှင်မြတ်အား ထိုအရှင်မြတ်သည် အသင်တို့အား မြေမျိုစေတော်မူမည် မဟုတ်ဟူ၍ စိုးရိမ်ကြောင့်ကြမှု ကင်းကြလေပြီလော၊ သို့(မြေမျိုစေတော်မူသော)အခါ ယင်းပထဝီမြေမှာ ပြင်းထန်စွာ တုန်လှုပ်လျက်ရှိပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

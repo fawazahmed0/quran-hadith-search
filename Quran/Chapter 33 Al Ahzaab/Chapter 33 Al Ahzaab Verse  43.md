@@ -710,6 +710,12 @@ Toĭ e, Koĭto vi blagoslavya, i Negovite angeli, za da vi izvede ot tŭmninit
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အား ကောင်းကြီးမင်္ဂလာပြုတော်မူသောအရှင်ဖြစ်တော်မူ၏၊ အရှင်မြတ်၏ ကောင်းကင်တမန်များလည်း သင်တို့ကို ကောင်းကြီးမင်္ဂလာမေတ္တာပို့သကြ၏၊ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့ ကို အဝိဇ္ဇာအမှောင်တွင်းမှ ဝိဇ္ဇာအလင်းရောင်သို့ ကယ်တင်တော်မူဖို့အလို့ငှာ ယင်းသို့ကောင်းကြီးမင်္ဂလာပြုခြင်း ဖြစ်သည်၊ အလ္လာဟ်အရှင်မြတ်သည် အယူမှန်သူတို့အား ကောင်းကြီးမင်္ဂလာပေူးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် အကြင် အရှင်မြတ်ပင်။ထိုအရှင်မြတ်သည်လည်းကောင်း၊ ထိုအရှင်မြတ်၏ မလာအိကဟ် ကောင်းကင်တမန်များသည်လည်းကောင်း၊ အသင်တို့အပေါ်၌ ကောင်းချီးမင်္ဂလာ ပို့လျက်ရှိကြကုန်၏။ (သို့ပို့တော်မူခြင်းမှာ) ထိုအရှင်မြတ်သည် အသင်တို့အား အမှောင်ထုများမှအလင်းသို့ ထွက်စေတော်မူအံ့သောငှာဖြစ်၏။ စင်စစ်သော်ကား ထိုအရှင်မြတ်သည် မုအ်မင်န် သက်ဝင်ယုံကြည်သူတို့အပေါ်၌ အလွန်တရာသနားကြင်နာတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

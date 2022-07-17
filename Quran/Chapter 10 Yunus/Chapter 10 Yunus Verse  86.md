@@ -710,6 +710,12 @@ I spasi ni sŭs Svoeto milosŭrdie ot nevyarvashtite khora!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၆။	အရှင်၏ ကောင်းကြီးမင်္ဂလာအားဖြင့် အကျွနု်ပ်တို့ကို မိစ္ဆာဒိဋ္ဌိတို့၏ လက်တွင်းမှ ကယ်နှုတ်တော်မူပါဟု တင်လျှောက်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အရှင်မြတ်သည် မိမိ၏ကရုဏာတော်နှင့် ကျွန်တော်မျိုးတို့အား ကာဖိရ်မယုံမကြည်သွေဖည်ငြင်းပယ်သော သူတို့(၏အန္တရာယ်များ)မှ ကယ်တင်တော်မူပါ(ဟူ၍ဆုပန်ခဲ့ကြလေသတည်း။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

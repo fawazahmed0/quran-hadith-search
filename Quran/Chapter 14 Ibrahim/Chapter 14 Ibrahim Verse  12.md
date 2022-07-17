@@ -710,6 +710,12 @@ I zashto da ne se upovavame na Allakh, sled kato Toĭ ni nasochi po nashite pŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	အလ္လာဟ်အရှင်မြတ်သည် အကျွနု်ပ်တို့အား မိမိတို့၏ လမ်းများကို ပြသတော်မူပြီးမှ အကျွန်ုပ်တို့သည် မည်သည် ကြောင့် မယုံကြည်မကိုးစားသင့်သနည်း။ အကျွနု်ပ်တို့သည် သင်တို့နှိပ်စက်ညှင်းပန်းခြင်းကို မုချဧကန်သည်းခံ ကြမည်။ ယုံကြည်သူတို့သည် အရှင်မြတ်အား ယုံကြည်ကိုးစားကြစေကုန်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ငါတိုသည် အလ္လာဟ်အရှင်မြတ်အပေါ်၌ ယုံပုံလွှဲအပ်ထားခြင်းကို မပြုကြရန် ငါတို့၌ မည်သည့်အကြောင်းရှိပါသနည်း။ အမှန်သော်ကား ထိုအရှင်မြတ်သည် ငါတို့အား ငါတို့၏ (အကျိုးဖြစ်ထွန်းစေမည့်) လမ်းများကိုညွှန်ကြား ပြသတော်မူခဲ့လေသည်။ ၎င်းပြင် အမှန်ပင် ငါတို့သည် အသင်တို့ ငါတို့အား ဘေးဒုက္ခပေးခဲ့ကြသည်များနှင့်စပ်လျဉ်း၍ မုချသည်းခံကြရတော့မည် ဖြစ်ပေသည်။ သို့ဖြစ်ပေရာ အမှန်စင်စစ် ယုံပုံလွှဲအပ် အားကိုးအားထားသူတို့သည် အလ္လာဟ်အရှင်မြတ် အပေါ်၌သာလျှင် ယုံပုံလွှဲအပ်အားကိုးအားထား ပြုလုပ်ကြရာ ကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

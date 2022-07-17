@@ -710,6 +710,12 @@ Kazhi: “Vŭrvete po zemyata, posle vizhte kakŭv e krayat na otrichashtite!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	အို-တမန်တော် သင်သည် ဟောပြောလော့။ ဟယ်-အချင်းတို့ သမ္မာတရားတော်ကို ငြင်းပယ်သူတို့ သည် အဘယ်အကျိုးဆက်ကို ခံစားရသည်ကို ပထဝီမြေပေါ်ဝယ် သွားလာကြည့်ရှုကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော် အကယ်၍ ၎င်းတို့သည်ရှေးဟောင်းလူများ အပြစ်ဒဏ်ခံစားခဲ့ကြရသည်ကို မယုံမကြည်ငြင်းပယ်ကြပါမူ) အသင်သည် (ယင်းသူတို့အား ဤသို့ ပြောကြားပါလေ၊) အသင်တို့သည် ပထဝီမြေပြင်ဝယ် သွားလာလည်ပတ်ကြလေကုန်။ ၎င်းနောက် မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်သောသူတို့ ၏အကျိုးသည် မည်သို့ရှိခဲ့သည်ကို အသင်တို့ကြည့်ရှုကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

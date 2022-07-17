@@ -710,6 +710,12 @@ Ako te dostigne dobrina, gi ogorchava, a ako te zastigne beda, kazvat: “Navrem
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅ဝ။	အို-မိုဟမ္မဒ်၊ သင့်အပေါ်၌ ကောင်းကြီးမင်္ဂလာတော်သက်ရောက်လာလျှင်၊ သူတို့သည် ဝမ်းနည်းပက်လက်ဖြစ် ကြ၏။အမင်္ဂလာဒုက္ခရောက်လာလျှင် သူတို့က အကျွနု်ပ်တို့သည် ဘေးရန်ကို တင်ကြို၍ ကာဆီးထားကြ၏ဟု ဝမ်းမြောက်ဝမ်းသာပြောဆိုကြ၏။သူတို့သည် တရားတော်ကို ဝမ်းမြောက်ဝမ်းသာကျောပေးသွားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍ အသင့်၌ ကောင်းမွန်သောအခြေအနေ တစ်စုံတစ်ရာ ဆိုက်ရောက်သည်ရှိသော် ထိုကောင်းမွန်သော အခြေအနေသည် ၎င်းတို့အား ပူပင်သောက ဖြစ်စေ၏။သို့ရာတွင် အကယ်၍ အသင်၌ ဘေးအန္တရာယ် တစ်စုံတစ်ရာဆိုက်ရောက်သည်ရှိမူ၊ ၎င်းတို့က ဧကန်စင်စစ် ကျွန်ုပ်တို့သည်မိမိတို့၏ အရေးကိစ္စကို ယခင်ကပင်တင်ကူး၍ စီမံခဲ့ပြီးဖြစ်သည် ဟု ပြောဆိုကာ ဝမ်းမြောက်ပျော်ရွှင်စွာ ပြန်လှည့် သွားလေ့ ရှိကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

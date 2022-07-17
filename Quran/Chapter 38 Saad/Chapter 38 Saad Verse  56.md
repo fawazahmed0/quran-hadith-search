@@ -710,6 +710,12 @@ Adŭt, v koĭto shte goryat. I kolko losh e za postelya toĭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၆။	သူတို့သည် အဝီစိငရဲမီးတွင် လောင်ကျွမ်းကြရလတ့ံ၊ အလွန်ဆိုးဝါသောနေရာထိုင်ခင်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ယင်းဆိုးရွားလှသော ပြန်လည်ရာစခန်းမှာ)"ဂျဟန္နမ်" ငရဲဘုံပင်ဖြစ်၏။ ၎င်းတို့သည် ယင်း "ဂျဟန္နမ်"ငရဲ ဘုံသို့ ဝင်ရောက်ကြရပေမည်။ စင်စစ် ယင်းအပန်းဖြေရာစခန်းမှာ လွန်စွာဆိုးရွားလှ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Sŭs svoyata blagodat Toĭ ni nastani v Doma na vechnoto prebivanie. Ne ni zasy
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	အလ္လာဟ်အရှင်မြတ်သည် မိမိ၏ မဟာဂရုဏာတော်အားဖြင့် အကျွနု်ပ်တို့အား အစဉ်ထာဝရပျော်စားရမည့် နိဗ္ဗာန်ရွှေဘုံတွင်းသို့ သွတ်သွင်းချီးမြှင့်ပေးတော်မူပေ၏၊ ဤနိဗ္ဗာန်တော်တွင် အကျွန်ုပ်တို့သည် အလုပ်နှင့်သော် လည်းကောင်း၊ မောပန်းခြင်းနှင့်သော်လည်းကောင်း၊ ဝေးကွာကြပြီဟု ဥဒါန်းရင့်ကျူးကြကုန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင် အရှင်မြတ်သည် မိမိကျေးဇူးတော်နှင့်ကျွန်တော်မျိုးတို့အား အမြဲထာဝရ နေရအံ့သောဌာန၌နေရာချပေးတော်မူ၏။ ထိုဌာနတွင် ကျွန်တော်မျိုးတို့၌ မည်သည့်ပင်ပန်းမှုမျှလည်း သက်ရောက်မည်မဟုတ်ပေ။ ထိုမှတစ်ပါး ကျွန်တော်မျိုးတို့၌ ထိုဌာနတွင် မည်သည့်ငြီးငွေ့မှုမျှလည်းသက်ရောက်မည် မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

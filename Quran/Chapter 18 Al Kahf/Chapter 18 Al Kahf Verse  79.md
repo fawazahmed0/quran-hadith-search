@@ -710,6 +710,12 @@ Otnosno koraba - toĭ be na bednyatsi, raboteshti v moreto, i iskakh da go povr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၉။	လှေသင်္ဘောအကြောင်း၊ ၎င်းသင်္ဘောသည် မြစ်ပေါ်တွင် သွားလာလုပ်ကိုင်နေသောဆင်းရဲသားများ၏ ပစ္စည်း ဖြစ်၏။ သူတို့၏ ရှင်ဘုရင်သည် သင်္ဘောတိုင်းသည် အဓမ္မသိမ်းယူနေသောကြောင့်၊ ထိုသင်္ဘောကို အကျွနု်ပ် ထိုးဖောက်ခဲ့ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ထိုရွက်သင်္ဘောကား မြစ်ထဲတွင်လုပ်ကိုင်(စားသောက်)ကြရရှာသောသူဆင်းရဲများ၏ ရွက်သင်္ဘောပင်ဖြစ်ခဲ့ပေရာ ကျွန်ုပ်သည် ယင်းရွက်သင်္ဘော၌ အပြစ်အနာအဆာရှိစေရန် ရည်ရွယ်ခဲ့ပေသည်။ အကြောင်းသော်ကား၎င်း တို့(ရောက်ရှိကြမည့်)ရှေ့(စခန်း)တွင် ဘုရင်တစ်ပါးရှိသည်။ ထို ဘုရင်သည်(အပြစ်အနာအဆာကင်းသော)ရွက်သင်္ဘော မှန်သ မျှကို အဓမ္မနည်းနှင့် လုယူသိမ်းပိုက်လေ့ရှိသောကြောင့်ပင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

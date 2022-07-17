@@ -710,6 +710,12 @@ Izpratikhme sreshtu tyakh uragan ot kamŭni, osven za semeĭstvoto na Lut. Spas
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	မှတ်သားလော့၊ ငါသည် တမန်တော်လွဒ်၏ အိမ်သူအိမ်သားမှတပါး အခြားသူတို့အပေါ်၌ ကျောက်ခဲမိုးအတိ ရွာသွန်းစေသောလေပြင်းမုန်တိုင်းကို စေလွှတ်တော်မူ၏၊ တမန်တော်၏ အိမ်သူအိမ်သားတို့ကို နံနက်မိုးသောက် ကျရောက်လာသောအခါ ထိုဘေးဆိုးကြီးမှ ကယ်နှုတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် ငါအရှင်မြတ်သည် ၎င်းတို့အပေါ်၌ ခဲမိုးကို ရွာသွန်းစေတော်မူခဲ့၏။ သို့ရာတွင် လူ(တ်) ၏နောက်လိုက်တပည့်သား မျိုးနွယ်တို့ကိုမူကား ငါအရှင်မြတ်သည် ညဉ့်၏ နောက်ဆုံးယံ၌ပင် လွတ်ကင်းစေတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

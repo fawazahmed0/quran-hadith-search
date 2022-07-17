@@ -710,6 +710,12 @@ osven negovata zhena. Izvesteno ni e, che tya shte bŭde sred ostavashtite.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆ဝ။	သူ၏ ဇနီးမယားမှာမူကား ကျန်ရစ်သူတို့အတွင်းတွင် ပါဝင်ရမည်ဟု ငါအမိန့်ချတော်မူပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ထိုတမန်တော်လူတ်၏ ကြင်ရာမှတစ်ပါး၊ ထိုကြင်ရာနှင့် ပတ်သက်၍(အလ္လာဟ်အရှင်မြတ်က)မုချထိုသူမသည် နောက်ကျန်ရစ်နေကြမည့်သူများတွင် အပါအဝင်ဖြစ်မည်ဟူ၍ ငါအရှင်မြတ် ပြဌာန်းတော်မူပြီးဖြစ်သည်(ဟု မိန့်ဆိုတော်မူသည်၊)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

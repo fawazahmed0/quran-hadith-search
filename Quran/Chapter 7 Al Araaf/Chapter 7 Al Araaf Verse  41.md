@@ -710,6 +710,12 @@ Za tyakh ot Ogŭnya ima i postelya, i pokrivala otgore im. Taka vŭzdavame na ug
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	သူတို့သည် ငရဲမွေ့ရာပေါ်တွင် ပျော်မွေ့ကြရလိမ့်မည်။ သူတို့အပေါ်တွင် ငရဲအမိုးအကာအဖုံးများ ရှိကြလိမ့်မည်။ ဤကဲ့သို့ ငါအသျှင်မြတ်သည် ဒုစရိုက်ပြစ်မှုကျုးကျော်သူတို့ကို ဂလဲ့စားချေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 င်းတို့၌ ငရဲမီးအိပ်ယာပင်ရှိအံ့။ ထိုနည်းတူစွာ4င်းတို့အပေါ်၌(လည်းငရဲမီး၏)အဖုံးအအုပ်ပင်ရှိအံ့။ စင်စစ်မူကား ငါအရှင်မြတ်သည် မတရားကျူးလွန်သော သူတို့ အားဤနည်းအတိုင်းပင် ပြစ်ဒဏ်ပေးတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

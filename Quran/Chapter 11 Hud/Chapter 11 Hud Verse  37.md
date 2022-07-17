@@ -710,6 +710,12 @@ I napravi Kovchega pred Nashite Ochi i s Nasheto otkrovenie, i ne Mi govori za u
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	ငါအရှင်မြတ်၏ မျက်မှောက်တော်တွင် ငါမိန့်တော်မူသည့်အတိုင်း သင်္ဘောတစင်းတည်ဆောက်လော့၊ ပြစ်မှု ကျူးလွန်သူများအတွက် ငါ့ထံတော်၌ သင်ဆုမတောင်းလင့်၊ မှတ်သားလော့၊ သူတို့ကို ရေတွင် နစ်မြုပ်သေစေ တော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်သည် ငါအရှင်မြတ်၏ မျက်စိအောက်တွင် ငါအရှင်မြတ်၏အမိန့်တော်အရ သင်္ဘောကိုပြုလုပ်တည်ဆောက်ပါလေ။ ၎င်းပြင် အသင်သည်(မိမိတို့ကိုယ်ကိုမိမိတို့ပင်) နှိပ်စက်ကလူ ပြုကုန်သော သူတို့နှင့်ပတ်သက်၍ငါအရှင်မြတ်အထံတော်တွင် လျှောက်ထားပန်ကြားခြင်း မပြုပါလေနှင့်။ ဧကန်အမှန် ၎င်းတို့သည် နစ်မြုပ်ကြရမည့်သူများပင် ဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

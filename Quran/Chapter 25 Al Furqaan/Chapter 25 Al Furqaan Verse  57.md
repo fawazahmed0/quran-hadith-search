@@ -710,6 +710,12 @@ Kazhi: “Ne tŭrsya ot vas druga otplata za tova, osven zhelanieto na nyakogo d
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၇။	အို--တမန်တော်၊ သင်ဟောပြောလော့၊ မိမိ၏အရှင်သခင်ထံသို့ သွားရာလမ်းကို ရှာလိုသူသည် ထိုလမ်းရှာခြင်း မှတပါး မည်သည့်တရားဟောကြေးမျှ ငါသည် သင်တို့ထံမှ မတောင်းချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်၊) အသင်သည် ပြောကြားပါလေ။ (အချင်းတို့၊) မည်သူမဆို အလိုရှိခဲ့လျှင် မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်သို့ သွားရာလမ်းကို ရွေးချယ်ရန်မှတပါး ငါသည် ယင်း(အမိန့်တော်များကို ပို့ဆောင်ခြင်း)နှင့်စပ်လျဉ်း၍ အသင်တို့ထံ မည်သည့်အဖိုး အခကိုမျှ တောင်းဆိုသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

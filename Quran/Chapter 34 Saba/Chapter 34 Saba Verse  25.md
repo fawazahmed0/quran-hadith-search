@@ -710,6 +710,12 @@ Kazhi: “Nito vie shte bŭdete pitani za nashite pregresheniya, nito nie shte b
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	တဖန်ဟောပြောလော့၊ ဟယ်-အချင်းတို့၊ ငါတို့ပြုကျင့်သောဒုစရိုက်မှုများအတွက် သင်တို့ကို စစ်ကြောမည် မဟုတ်ချေ၊ သင်တို့ကျူးလွန်မိသောဒုစရိုက်မှုများအတွက် ငါတို့ကို စစ်ကြောမည်မဟုတ်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ပြောကြားပါဦးလေ၊ (အချင်းတို့၊)အသင်တို့သည်လည်း ငါတို့ကျူးလွန်ခဲ့ကြသော ပြစ်မှုများနှင့်စပ်လျဉ်း၍ စစ်ဆေးမေးမြန်းခြင်းခံကြရမည် မဟုတ်ပေ၊ ငါတို့သည် အသင်တို့ ကျင့်မူကြသည်တို့နှင့်စပ်လျဉ်း၍ စစ်ဆေးမေးမြန်းခြင်း ခံကြရမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

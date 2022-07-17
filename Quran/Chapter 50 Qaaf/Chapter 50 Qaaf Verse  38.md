@@ -710,6 +710,12 @@ Sŭtvorikhme Nie nebesata i zemyata, i vsichko mezhdu tyakh v shest dni, bez da 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	အမှန်မှာ ငါသည် ကမ္ဘာမြေကြီး မိုးကောင်းကင်နှင့် မိုးမြေအကြားရှိရှိသမျှအရာများကို ခြောက်ရက်အတွင်း ပြီးစီးအောင်မုချဧကန်ဖန်ဆင်းတော်မူ၏၊ ယင်းသို့စီရင်တော်မူသည့်အတွက် ငါသည် လုံးဝမောပန်းတော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ဧကန်မလွဲ ငါအရှင်မြတ်သည် မိုးကောင်းကင်များကို လည်းကောင်း၊ ပထဝီမြေကို လည်းကောင်း၊ ထိုမိုးများနှင့်မြေကြားရှိ အရာများကို လည်းကောင်း၊ခြောက်ရက်အတွင်း ဖန်ဆင်းတော်မူခဲ့၏။ သို့တစေလည်း ငါအရှင်မြတ်၌ ပင်ပန်းနွမ်းနယ်မှုဟူ၍ အလျှင်း သက်ရောက်ခဲ့သည်မရှိချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Podobno na roda na Faraona i na onezi predi tyakh, te vzekha za lŭzha Nashite z
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	သူတို့သည် ဖာရောမင်း၏လူများနှင့် သူတို့ထက်ရှေးကျသော ရှေးလူဟောင်းများကဲ့သို့ ငါအသျှင်၏ ဗျာဒိတ်တော်များကို မယုံကြည်ကြပေ။ ထို့ကြောင့် အလ္လာဟ်အသျှင်မြတ်သည် သူတို့အား ၎င်းတို့၏ အပြစ်များကြောင့် ဖမ်းဆီးတော်မူ၏။ အလ္လာဟ်အသျှင်မြတ်သည် အပြစ်ဒဏ်ခတ်ရာ၌ ခက်ထန်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုသူတို့အလေ့အကျင့်သည်) ဖိရ်အောင်န်၏နောက်လိုက် အခြွေအရံတို့နှင့် ယင်းဖိရ်အောင်န်၏ အခြွေအရံများအလျင် ရှိခဲ့ကြသောသူများ၏ အလေ့အကျင့်ကဲ့သို့ပင်ဖြစ်၏။ (ထိုအလေ့အကျင့်မှာ) ယင်းသူတို့သည် ငါအရှင်မြတ်၏အမိန့်တော် (သက်သေခံလက္ခဏာတော်) များကိုမဟုတ်မမှန် မုသားဖြစ်သည်ဟူ၍ ငြင်းဆိုခဲ့ကြလေသည်။သို့ဖြစ်ပေရာ အလ္လာဟ် အသျှင်မြတ်သည် ယင်းသူတို့အားယင်းသူတို့၏ ပြစ်မှုဒုစရိုက်များကြောင့် အရေးယူအပြစ်ဒဏ်ပေးတော်မူခဲ့ချေပြီ။ အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည်ပြင်းထန်စွာအပြစ်ဒဏ်ပေးတော်မူသော အရှင်မြတ်ပင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Nyakoi ot tyakh dadokha obet pred Allakh: “Ako Toĭ ni dari ot Svoyata blagod
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၅။	သူတို့အနက် အလ္လာဟ်အရှင်မြတ်သည် မိမိ၏ ကောင်းကြီးမင်္ဂလာတော်မှ အကျွနု်ပ်တို့ကို ပေးသနားတော်မူ ပါလျှင် အကျွနု်ပ်တို့သည် အလှုဒါနပြု၍ သူတော်ကောင်းများဘောင်တွင် အပါအဝင်များဖြစ်ကြပါမည်ဟု ဆို၍ အရှင်မြတ်နှင့် ပဋိညာဉ်ဖွဲ့သူလည်းရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင်၊ ထိုသူတို့အနက် အကြင်သူတို့သည်လည်း ရှိကြကုန်၏။ ထိုသူတို့သည် အလ္လာဟ်အရှင်မြတ်အား(ဤသို့)ပဋိညာဉ် ပေးခဲ့ကြလေသည်။ အကယ်၍ ထိုအရှင်မြတ်သည် ကျွန်တော်မျိုးတို့အား (မိမိ၏ကျေးဇူးတော်ဖြင့်)(ဥစ္စာပစ္စည်းကို) ချီးမြှင့်ပေးသနားတော်မူခဲ့ပါလျှင် ကျွန်တော်မျိုးတို့သည် ကောင်းစွာ လှူဒါန်းကြပါမည်။ ၎င်းပြင် ကျွန်တော်မျိုးတို့သည် ကောင်းမြတ်သော အကျင့်သီလများကို ဆောက်တည်ကြသော သူတော်စင်သူတော်ကောင်းတို့တွင် မုချ ပါဝင်ကြပါမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

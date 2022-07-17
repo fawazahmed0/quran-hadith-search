@@ -710,6 +710,12 @@ Tova e Denyat na razgranichenieto, koĭto vie otrichakhte
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	ဤနေ့ကား အမှန်နှင့်အမှား၊ ယုတ်မြတ်နှစ်ပါးခွဲခြားသည့်နေ့တော်ကြီးတည်း၊ သင်တို့သည် ဤနေ့တော်ကြီးကို မယုံမကြည်ငြင်းခုံလေ့ရှိခဲ့ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤကား မဟုတ်မမှန်ဟူ၍ အသင်တို့ ငြင်းပယ်လျက်ရှိခဲ့ကြသော စီရင်ဆုံးဖြတ်မည့်နေ့ပင်ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ i za da izpitvat sklonnost kŭm neya sŭrtsata na tezi, koito ne vyarvat v otvŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၃။	သို့မှသာ နောင်တမလွန်ဘဝကို မယုံကြည်သူတို့၏ စိတ်နှလုံးများသည် ထိုယုံကြည်မှုဘက်သို့ ယိမ်းယိုင်လိမ့်မည်။ သူတို့သည် ထိုယုံကြည်မှု၌ အားရနှစ်သက်ကြလိမ့်မည်။ သူတို့သည် ၎င်းတို့ လုပ်ကိုင်၍ရရှိသည်တို့ကို ဆက်လက်ရရှိလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (ယင်းသူတို့သည် အချင်းချင်း တစ်ဦးထံတဦး အပြင်ပန်းလှသော စကားများကို ပို့လေ့ရှိကြသည်မှာ’အာခိရတ်’ နောင်တမလွန်ဘဝကို မယုံကြည် သောသူတို့၏စိတ်နှလုံးများသည် ထို(အပြင်ပန်း လှသောစကားများ)ဘက်သို့ယိမ်းယိုင် ကိုင်းညွတ်ရန်အလို့ငှာ၎င်း၊ ထိုစကားများကိုနှစ်သက်ကြရန် အလို့ငှာလည်းကောင်း၊ ထိုသူတို့သည် (ယခု)ပြုလုပ်လျက်ရှိသည်များကို ပြုလုပ်မြဲ ပြုလုပ်ကြရန်လည်းကောင်း၊ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

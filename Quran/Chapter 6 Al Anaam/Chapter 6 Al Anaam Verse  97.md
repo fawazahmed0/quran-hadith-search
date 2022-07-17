@@ -710,6 +710,12 @@ Toĭ e Onzi, Koĭto sŭzdade za vas zvezdite, za da se napŭtvate s tyakh v t�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၇။	ရေမြေသမုဒ္ဒရာတို့၏ အမှောင်ထုများထဲတွင် သင်တို့သည် မိမိသွားရာလမ်းကို မှန်းဆသိနိုင်ဖို့ရာ အသျှင်မြတ်သည် နက္ခတ်တာရာကြယ်များကို ဖန်ဆင်းထားတော်မူ၏။ ငါအသျှင်မြတ်သည် မိမိ၏ ဗျာဒိတ်တော်များကို ပညာရှိတို့အဖို့ အသေးစိတ်ရှင်းလင်းထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ရ။ ၎င်းပြင် ထိုအသျှင်မြတ်သည်ပင်လျှင် အကြင်အရှင်မြတ်ဖြစ်တော်မူ၏။ ထိုအရှင်မြတ်သည် အသင်တို့အဖို့နက္ခတ်တာရာများကို ကုန်းမြေနှင့်သမုဒ္ဒရာပင်လယ်၏အမှောင်များတွင် လမ်းမှန်ရစေခြင်းငှာ ပြုလုပ်တော်မူခဲ့လေသည်။ စင်စစ်ဧကန် ငါအရှင်မြတ်သည်(မိမိ) သက်သေသာဓကတို့ကို သိနားလည်သောသူတို့အဖို့ အသေးစိတ် ရှင်းလင်းဖော်ပြတော်မူခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

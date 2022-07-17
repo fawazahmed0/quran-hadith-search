@@ -710,6 +710,12 @@ za napŭt·stvie na khorata, i nizposla Razgranichenieto. Za onezi, koito ne vya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	အရှင်မြတ်သည် အမှန်နှင့်အမှား၊ အကောင်းနှင့်မကောင်း၊ ခွဲခြားပိုင်းဖြတ်ဖို့ရာ စံနှုန်းတော်ကို ချပေးတော်မူ၏။ မှတ်သားကြလော့။ အကြင်သူတို့သည် အလ္လာဟ်အရှင်မြတ်၏ ဗျာဒိတ်တော်များကို မယုံကြည်အ့ံ။ ထိုသူတို့သည် အလွန်ကြီးလေးသော အပြစ်ဒဏ်တော်ကို ခံစားရကြလတ္တံ့။ အရှင်မြတ် သည် တန်ဖိုးအလွန်ကြီးမား၏။ မကောင်းမှုကို အပြစ်ပေးနိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး တုံ အရှင်မြတ်သည်(မိမိစေလွှတ်တော်မူသော နဗီတမန်တော်များကို ထောက်ခံစေ ခြင်းအားဖြင့်) အမှားအမှန်ကို ခွဲခြားသိစွမ်းနိုင်စေသောအရာကိုလည်းချပေးသနားတော်မူခဲ့ချေပြီ။ မုချဧကန် အလ္လာဟ်အရှင်မြတ်၏သက်သေ သာဓကလက္ခဏာရပ်များကို မယုံမကြည် သွေဖည်ငြင်းပယ်ကြသောသူတို့အဖို့ ပြင်းထန်သောပြစ်ဒဏ်သည်အသင့်ရှိ၏။ အကြောင်းမူကား အလ္လာဟ်အရှင်မြတ်သည်တန်ခိုးအာနုဘော်ဖြင့် လွှမ်းမိုးတော်မူသောအရှင်၊ တုံ့ပြန် လက်စားချေတော်မူသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

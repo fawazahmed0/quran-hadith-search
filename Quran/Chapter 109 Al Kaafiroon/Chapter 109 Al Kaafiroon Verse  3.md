@@ -710,6 +710,12 @@ i vie ne sluzhite na tova, na koeto az sluzha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။ သင်တို့လည်း အကျွနု်ပ်ဆည်းကပ်ဝတ်ပြုသည့်အလ္လာဟ်အရှင်မြတ်အား မကိုးကွယ်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်တို့သည်လည်း ငါ ကိုးကွယ်လျက်ရှိသော ကိုးကွယ်ရာကို ကိုးကွယ်ဆည်းကပ်ကြသူများ မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

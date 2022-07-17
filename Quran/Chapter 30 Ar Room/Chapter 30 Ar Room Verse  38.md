@@ -710,6 +710,12 @@ I otdavaĭ na rodninata pravoto mu, i na nuzhdaeshtiya se, i na pŭtnika [v nev
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	ထို့ကြောင့်သင်တို့သည် ဆွေမျိုးညာတိတို့အား သူတို့၏အခွင့်အရေးအတိုင်း ပေးကမ်းစွန့်ကြဲကြလော့၊ သူဆင်းရဲ နှင့် ခရီးသည်တို့အား ထောက်ပ့ံလှုဒါန်းကြလော့၊ ဤထောက်ပံ့လှုဒါန်းခြင်းသည် အလ္လာဟ်အရှင်မြတ်၏ မျက်နှာတော်ကို ဖူးဖြင်လိုသူများအတွက် အလွန်မွန်မြတ်သောကျင့်မှုဖြစ်၏၊ ထိုသို့အလှုပေးသူများသည် အောင် မြင်သူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်သည် သွေးရင်းသားရင်းတို့၏ အခွင့်အရေးကို ပေးဆောင်လော့။ ထို့ပြင် သူဆင်းရဲအားလည်းကောင်း၊ ခရီးသည်အားလည်းကောင်း၊ (ပေးကမ်းလှူဒါန်းလေ)။ ဤသည်ကား အလ္လာဟ်အရှင်မြတ်၏ နှစ်သက်ကျေနပ်မှုကို လိုလားကြသောသူတို့အဖို့ အကောင်းဆုံးပင်ဖြစ်၏။စင်စစ်သော် ယင်းကဲ့သို့သော သူတို့သည်သာလျှင် အောင်မြင်မှု ရရှိကြအံ့သောသူများ ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

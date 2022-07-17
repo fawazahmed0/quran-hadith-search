@@ -710,6 +710,12 @@ I gi nablyudavaĭ, skoro i te shte vidyat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇၉။	ထို့အပြင်သင်သည် သူတို့ကို ကြည့်၍သာ နေလော့၊ အကြောင်းမူကား သူတို့သည် ကာလမကြာမြင့်မီ မြင် ကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အသင်သည် ကြည့်၍သာနေပါလေ။ ထို့နောက် ၎င်းတို့သည်လည်း မကြာမြင့်မီပင် မြင်ကြရကုန်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

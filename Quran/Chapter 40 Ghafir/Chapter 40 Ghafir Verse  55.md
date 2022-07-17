@@ -710,6 +710,12 @@ Zatova bŭdi tŭrpeliv i ti [o, Mukhammad]! Obeshtanieto na Allakh e istinno. Mo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။	ထို့ကြောင့်သင်သည် သည်းခံခြင်းတရား၌ ခိုင်မြဲလော့၊ အလ္လာဟ်အရှင်မြတ်၏ ကတိသစ္စာတော်သည် မှန်ကန်၏၊ သင်၏ အပြစ်ကို ခွင့်လွှတ်တော်မူရန် ဆုတောင်းလော့၊ သင်၏ အသက်သခင်ကျေးဇူးရှင်ကြီး၏ ဂုဏ်ကျေးဇူး တော်ကို နံနက်တိုင်းညတိုင်း ချီးကျုးလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ရပေရာ (အို-နဗီတမန်တော်) အသင်သည် သည်းခံပါလေ၊ မလွဲဧကန် အလ္လာဟ်အရှင်မြတ်၏ ကတိပြုချက်သည် မှန်ကန်သော ကတိပြုချက်ပင်ဖြစ်၏။ ၎င်းပြင် အသင်သည် မိမိ၏ချို့တဲ့မှုနှင့်စပ်လျဉ်း၍ လွတ်ငြိမ်းချမ်းသာခွင့်ကို ပန်ကြားပါလေ။ ထိုမှတစ်ပါး အသင်သည် မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်ကို ချီးမွမ်းထောပနာပြုခြင်းနှင့်တကွ(ထိုအရှင်မြတ်)စင်ကြယ်သန့်ရှင်းတော်မူကြောင်းကို ညနေချမ်း၌လည်းကောင်း၊ နံနက်ယံ၌လည်းကောင်း၊ မြွက်ဆိုပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

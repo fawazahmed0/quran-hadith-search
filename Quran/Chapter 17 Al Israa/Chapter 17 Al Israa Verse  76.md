@@ -710,6 +710,12 @@ I se domogvakha da napusnesh zemyata [na Meka], za da te progonyat ottam. Togava
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၆။	ထိုမိစ္ဆာမိုက်တို့သည် သင့်အား သင်နေထိုင်ရာအရပ်ဒေသမှ နှင်ထုတ်ပစ်ဖို့ရာ၊ ခြောက်လှန့်ပစ်ဖို့ရာ အမှန်ပင် လိုလားကြ၏။ အကယ်၍သင့်အား နှင်ထုတ်ပစ်လျှင် သူတို့သည် ထိုနေရာတွင် အချိန်အနည်းငယ်သာဆက်လက် နေထိုင်ကြရမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်ဧကန် ၎င်းတို့သည် အသင့်အား ဤနိုင်ငံမှနှင်ထုတ်ကြရန် ခြောက်လှန်အံ့ဆဲဆဲ ဖြစ်ခဲ့ကြကုန်၏ စင်စစ် ထိုအခါ ၎င်းတို့သည်လည်း အသင်၏နောက်တွင် အနည်းငယ်မျှ(အချိန်ကာလ)မှတစ်ပါး၊ နေနိုင်ကြမည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

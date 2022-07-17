@@ -710,6 +710,12 @@ Na Allakh prinadlezhat voĭnstvata i na nebesata, i na zemyata. Allakh e vsemog
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	အလ္လာဟ်အရှင်မြတ်သည် မိုးကောင်းကင်နှင့် ကမ္ဘာမြေကြီးဗိုလ်ခြေအပေါင်းတို့ကို စိုးပိုင်တော်မူ၏၊ အနန္တ တန်ခိုးတော်သခင်၊ သဗ္ဗညုတဉာာဏ်တော်ရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ်သော်ကား မိုးကောင်းကင်များ၌ရှိကုန်သော စစ်တပ်များသည်လည်းကောင်း၊ ပထဝီမြေ၌ရှိကုန်သော စစ်တပ်များသည်လည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ် ပိုင်ဆိုင်တော်မူသော စစ်တပ်ပင်ဖြစ်ကုန်၏။ ထိုမှတစ်ပါး အလ္လာဟ်အရှင်မြတ်မှာမူကား ဘုန်းတန်ခိုးနှင့် ပြည့်စုံတော်မူသော အရှင်ဆင်ခြင်တုံတရားနှင့် ပြည့်စုံတော်မူသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

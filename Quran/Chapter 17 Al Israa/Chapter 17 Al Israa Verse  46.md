@@ -710,6 +710,12 @@ I slozhikhme sŭrtsata im v bronya, da ne go razbirat, i v ushite im - glukhota.
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။	တဖန် သူတို့တရားတော်ကို နားမလည်စေရန် သူတို့နှလုံးအိမ်ကို ဖုံးအုပ်ထားတော်မူ၏။ သူတို့၏ နားကို ပင်းစေတော်မူ၏။ သင်သည် ကုရ်အာန်ကျမ်းတော်မြတ်တွင် သင်၏ ကျေးဇူးတော်သခင်ကိုသာလျှင် ဖော်ပြ ချီးကျုးသောအခါ သူတို့သည် စိတ်မကျေနပ်ခြင်းဖြင့် ကျောခိုင်းသွားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ၎င်းတို့၏စိတ်နှလုံးများပေါ်၌ ၎င်းတို့သည် ယင်းကုရ်အာန်ကျမ်း တော်မြတ်ကို နားလည်ကြမည်ကိုစိုး၍ အဖုံးအအုပ် ဖုံးပေးတော်မူသည်။၎င်းပြင် ထိုသူတို့၏နားများကိုလည်း ပင်းစေတော်မူသည်။သို့ရာတွင် အသင်သည် မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ် တဆူတည်းကိုသာ ကုရ်အာန်ကျမ်းတော်မြတ်တွင်သတိရသောအခါ၌မူကား ၎င်းတို့သည် စက်ဆုပ်၍ မိမိတို့နောက်ကျောဘက်သို့ ပြန်လှည့်၍ ထွက်ခွာသွားကြသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

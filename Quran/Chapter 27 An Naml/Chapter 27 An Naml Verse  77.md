@@ -710,6 +710,12 @@ Toĭ e napŭt·stvie i milost za vyarvashtite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၇။	ထို့အပြင်ကျမ်းတော်သည် ယုံကြည်သူတို့အဖို့ရာ လမ်းညွှန်တော်နှင့်ကောင်းကြီးမင်္ဂလာတော်အမှန်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ဧကန်မလွဲ ယင်းကုရ်အာန်ကျမ်းမြတ်သည် "မုအ်မင်န်" သက်ဝင်ယုံကြည်သူတို့အဖို့ တရားလမ်းညွှန်သည်လည်းကောင်း၊ ကရုဏာတော်သည်လည်းကောင်း၊ ဖြစ်လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Takŭv be obichayat spryamo Nashite pratenitsi, koito izpratikhme predi teb... I
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၇။	လူသားတို့ထံသို့ သင့်အလျင်စေလွှတ်သောတမန်တော်များလည်း ဤကဲ့သို့ဖြစ်ကြသည်။ သင်သည် ငါ၏ လမ်းစဉ်ကို လွှဲပြောင်းနိုင်သောသူတစုံတယောက်ကိုမျှ တွေ့မည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည်ကား ငါအရှင်မြတ်သည်အသင်၏အလျင်စေလွှတ်တော်မူခဲ့သော တမန်တော်များနှင့်ပတ်သက်သည့်(ငါအရှင်မြတ်၏) စီရင်ချမှတ်ထားသောမူသော စည်းကမ်းစနစ်ပင်ဖြစ်ချေသည်။ စင်စစ် အသင်သည်ငါအရှင်မြတ်၏ စည်းကမ်းစနစ်တွင် မည်သည့်အပြောင်းအလဲကိုမျှ တွေ့ရမည်မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

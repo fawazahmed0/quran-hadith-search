@@ -710,6 +710,12 @@ A koito ne dopuskat, che shte Ni sreshtnat i se zadovolyavat sŭs zemniya zhivot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	မှတ်သားကြလော့၊ အကြင်သူသည် ငါအရှင်မြတ်ကို တွေ့မြင်ဖူးမျှော်ရမည်ကို မမျှော်ကိုးပဲ လောကီစည်းစိမ်ကို မက်မောတပ်မက်၏။ ထိုစည်းစိမ်သည် တည်မြဲလုံခြံုသည်ဟု ထင်မှတ်ကြ၏။ ငါ၏ ကုရ်အာန်ကျမ်းတော်ကို မလေးစား၊မထီမဲ့မြင်ပြုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် အကြင်သူတို့သည် ငါအရှင်မြတ်နှင့် တွေ့ဆုံခြင်းကို မမျှော်လင့်ကြချေ။ ထို့ပြင် ၎င်း တို့သည်လောကီဘဝကိုပင် ကျေနပ်၍ ထိုလောကီ ဘဝနှင့်ပင် နှစ်သိမ့်စိတ်ဝင်စားကာ အာရုံစိုက်၍ နေခဲ့ကြလေသည်။ ၎င်း ပြင်အကြင်သူတို့သည် ငါအရှင်မြတ်၏ သက်သေလက္ခဏာများကိုမေ့လျော့၊ လျစ်လျူရှုသူများ ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

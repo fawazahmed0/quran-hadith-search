@@ -710,6 +710,12 @@ Reche: “Ako me posledvash, ne me pitaĭ za nishto, dokato az sam ne ti spomen
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၀။	ထိုအခါသူက အကယ်၍သင်သည် အကျွနု်ပ်နောက်သို့ လိုက်လာလျှင် မည်သည့်အကြောင်းကိုမဆို သင့်အား အကျွနု်ပ်မပြောသမျှကာလပတ်လုံး သင်သည် ထိုအကြောင်းနှင့်စပ်လျဉ်း၍ မေးမြန်းခြင်းမပြုနှင့်ဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းက (ဤသို့)ပြောကြားခဲ့၏။ အကယ်၍အသင်သည် ကျွန်ုပ်နှင့်အတူ လိုက်ခဲ့ပါလျှင် အသင်သည် ကျွန်ုပ်အား မည်သည့်အရာနှင့်မျှစပ်လျဉ်း၍ ကျွန်ုပ်ကိုယ်တိုင် အသင့်အား ထိုအရာကို စတင်ပြောဆိုရှင်းလင်းခြင်း မပြုသမျှကာလပတ်လုံး မေးမြန်းခြင်းကို မပြုပါနှင်
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

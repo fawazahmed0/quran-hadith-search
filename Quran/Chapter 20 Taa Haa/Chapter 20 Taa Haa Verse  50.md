@@ -710,6 +710,12 @@ Kaza: “Nashiyat Gospod e Onzi, Koĭto dava na vsyako neshto oblika mu, posle 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅ဝ။	မူစာက အကျွနု်ပ်တို့၏ကျေးဇူးတော်သခင်သည် အရာရာတိုင်းကို ၎င်း၏ဖန်ဆင်းခြင်းကို ပေးသနားတော်မူသော အရှင်ဖြစ်တော်မူ၏။ ထို့နောက်ထိုအရာကို လမ်းညွှန်ပြတော်မူ၏ဟု ပြန်ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ထိုမူစာက ကျွန်ုပ်တို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်သည် အသီးသီးသောအရာ ကိုယင်းအရာနှင့်ထိုက်သည့်အားလျော်စွာ ရုပ်ဆင်းသဏ္ဌာန်ကိုချီးမြှင့်တော်မူပြီးလျှင် (ဆောင်ရွက်အံ့သော) နည်းလမ်းကို ညွှန်ပြတော်မူသော အရှင်မြတ်သည် ပင်ဖြစ်တော်မူသည်ဟု ပြောကြားခဲ့လေသတည်း။(တစ်နည်း) ထိုအခါ ထိုတမန်တော်မူစာက ကျွန်ုပ်တို့အားဖန်ဆင်းမွေးမြူတော်မူသောအရှင်သည် အရာခပ်သိမ်းတို့ကို ၎င်းတို့နှင့် (လျော်ကန်သော)ရုပ်ဆင်းသဏ္ဌာန်ကို ချီးမြှင့်တော်မူပြီး(ကျိုး၊ ပြစ်၊ ဆိုး၊ ကောင်း) လမ်းညွှန်ပြတော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူသည်ဟု ဖြေကြားခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

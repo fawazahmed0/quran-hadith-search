@@ -710,6 +710,12 @@ Ne Go dostigat pogledite, ala Toĭ dostiga pogledite. Toĭ e Vsepronikvashtiya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၃။	အသျှင်မြတ်အား မျက်စိများက မတွေ့မြင်နိုင်ပေ။ သို့သော် ထိုအရှင်မြတ်က မျက်စိများကို သိမြင် တော်မူ၏။ အသျှင်မြတ်သည် နက်နဲသိမ်မွေ့လှတော်မူ၏။ အရာရာကို သိကျွမ်းနားလည်တော် မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (မံသ)စက္ခုများသည် ထိုအရှင်မြတ်အား (စိတ်ငုံ)မိနိုင်သည် မဟုတ်ပေ။ သို့ရာတွင် ထိုအရှင်မြတ်မှာကား(မံသ)စက္ခုများကို (စိတ်ငုံ) ငုံမိလျက် ရှိတော်မူချေသည်။စင်စစ်သော်ကား ထိုအရှင်မြတ်သည် အလွန်နက်နဲသိမ်မွေ့တော်မူသောအရှင်၊ အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့သိရှိတော်မူသောအရှင်မြတ် ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

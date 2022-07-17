@@ -710,6 +710,12 @@ ot Faraona. Toĭ be gordelivets ot prestŭpvashtite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	ငါသည် သူတို့ကို ဖွာရောမင်းလက်မှ ကယ်နှုတ်တော်မူ၏၊ သူသည် မသူတော်တို့၏ အာဏာရှင်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဖစ်ရ်အောင်န်၏ထံမှဖြစ်သော။ မုချစင်စစ်၊ ထိုဖစ်ရ်အောင်န်သည် ဆိုးသွမ်းသောင်းကျန်းသူ၊ စည်းကမ်းကျူးလွန်သူ တစ်ဦးပင်ဖြစ်ခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I izleze ottam strakhuvaĭki se, debneshkom. Reche: “Gospodi, spasi me ot kho
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	ထို့ကြောင့်မူစာသည် စိုးရိမ်ကြောင့်ကျပြီးလျှင် ကောင်းသောသတိဝိရိယနှင့် ထိုမြို့မှ ထွက်ပြေးလေ၏၊ သူက အို--အကျွနု်ပ်၏ အရှင်သခင်၊ အကျွနု်ပ်အား ဒုစရိုက်ပြစ်မှုကျူးလွန်သူတို့ထံမှ ကယ်တင်တော်မူပါဟု တင်လျှောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ထိုမူစာသည် ထိုမြို့မှ ထွက်ခွာသွားခဲ့လေသည်။ ရန်သူများလိုက်လာမည်ကို စိုးရိမ်လျက် (အလ္လာဟ်အရှင်မြတ်၏အကူအညီကို) စောင့်မျှော်လျက်၊ အို-ကျွန်တော်မျိုး၏အရှင်မြတ်၊ အရှင်မြတ်သည် ကျွန်တော်မျိုးအား မတရားသောသူတို့(၏ဘေးရန်ခပ်သိမ်းတို့)မှ ကယ်တော်မူပါဟုလျှောက်ထား ပန်ကြားခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

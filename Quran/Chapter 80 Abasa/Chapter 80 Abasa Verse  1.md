@@ -710,6 +710,12 @@ Toĭ se namrŭshti i obŭrna grŭb
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။ သူသည် မျက်နှာသုန်မှုန်လျက် ကျောခိုင်းသွား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(နဗီတမန်တော်မြတ်)သည် မျက်မှောင်ကြုတ်ခဲ့သည့်ပြင် မျက်နှာလည်း လွှဲခဲ့လေသည်။ (မကြည်မသာ မျက်နှာသုန်မှုန်စွာဖြင့် မျက်နှာလွှဲ၍ နေခဲ့လေသည်။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

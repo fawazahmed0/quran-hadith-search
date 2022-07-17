@@ -710,6 +710,12 @@ I onzi, chiyato kniga mu se dade v desnitsata, shte kazhe: “Eto vi, prochetete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။ ထိုနေ့တော်ကြီး၌ အကြင်သူသည် မိမိပြုကျင့်မှု စာရင်းစာအုပ်ကို လက်ယာလက်ဖြင့် ခံယူရ၏၊ ထိုသူသည် ဤသို့ဥဒါန်းရင့်ကျူး၏၊ အကျွနု်ပ်၏ စာအုပ်ကို ယူ၍ ဖတ်ကြပါကုန်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့သော် မည်သို့ဖြစ်စေ မိမိမှတ်တမ်းစာအုပ်ကို မိမိလက်ယာလက်ဝယ်တွင် ပေးအပ်ခြင်းခံရသောသူသည် (သူတစ်ပါးတို့အား ပျော်ရွှင်စွာဖြင့်) (ဤသို့) ပြောဆိုပေမည်။ အသင်တို့သည် ကျွန်ုပ်၏မှတ်တမ်း စာအုပ်ကို ယူ၍ဖတ်ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ V Denya, kogato se protrŭbi s Roga, shte sŭberem Nie v tozi Den prestŭpnitsit
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၂။	ထိုနေ့တော်ကြီးသည် တံပိုးကို မှုတ်သောနေ့ထူးဖြစ်၏၊ ထိုနေ့တော်ကြီး၌ အပြစ်ထိုက်သူတို့ကို စုဝေးစေတော် မူ၏၊ သူတို့သည် ကြောက်ရွံ့ခြင်းဖြင့် မျက်စိမျက်ဆန်ပျက်လျက်ရှိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်နေ့တွင် တံပိုးခရာကို မှုတ်ပေမည်။ 4င်းပြင် ငါအရှင်မြတ်သည် ထိုနေ့တွင် အပြစ်ရှိသူတို့အား မျက်စိကန်းသူများအဖြစ်စုရုံးစေတော်မူမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

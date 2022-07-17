@@ -710,6 +710,12 @@ I ne padaĭte dukhom [pri srazhenie], ta da zovete za mir! Vie shte naddeleete!
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	အို-ယုံကြည်သူတို့ သင်တို့သည် စစ်ရေးသာမည့်အခါ တွန့်ဆုတ်၍ ရန်သူတို့ထံ စစ်မက်ပြေအေးကြောင်းကို မတောင်းဆိုကြလင့်၊ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့ဘက်တွင် ရှိတော်မူ၏၊ သင်တို့၏ မွန်မြတ်သောပြုကျင့်မှု များကို ဆုတော်လာဘ်တော်ချတော်မူရန် တွန့်တိုတော်မူမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (အို-’မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူအပေါင်းတို့၊)အသင်တို့သည် အားလျှော့ခြင်း မပြုကြကုန်လင့်။(၎င်းတို့အား) စစ်ပြေငြိမ်းရေးသို့ ဖိတ်ခေါ်ခြင်းလည်း မပြုကြကုန်လင့်၊ အမှန်သော်ကား အသင်တို့သည်သာလျှင် အောင်မြင်သူများ ဖြစ်ကြကုန်၏။ ၎င်းပြင် အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့နှင့်အတူ ရှိတော်မူ၏။ ၎င်းပြင် ထိုအရှင်မြတ်သည် အသင်တို့၏ ပြုမူဆောင်ရွက်ချက်များ(၏အကျိုး)ကို အလျှင်း လျော့နည်းစေတော်မူမည် မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

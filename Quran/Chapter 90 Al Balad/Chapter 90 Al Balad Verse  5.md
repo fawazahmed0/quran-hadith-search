@@ -710,6 +710,12 @@ Nima smyata, che nikoĭ ne shte go nadmogne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။ လူသားသည် မိမိအား မည်သည်တစ်စုံတစ်ယောက်မျှစိုးမိုးမည်မဟုတ်ဟု ထင်မှတ်သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုလူသည် မိမိအပေါ်၌ မည်သူတစ်ဦးတစ်ယောက်မျှပင် အလျှင်းတတ်စွမ်းနိုင်မည် မဟုတ်ဟု ထင်မှတ်လေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kaza: “Znanieto za tyakh e v Kniga pri moya Gospod. Nito propuska moyat Gospod
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၂။	မူစာကလည်း ထိုအကြောင်းအရာကို အကျွနု်ပ်၏အရှင်သခင်သာလျှင် သိတော်မူ၏။ ထိုအကြောင်းအရာကို အရှင်မြတ်အထံတော်၌ မှတ်ပုံတင်ထားတော်မူ၏။ အကျွနု်ပ်၏ ကျေးဇူးတော်သခင်သည် ဘယ်သောအခါမှ မှားယွင်းတော်မမူချေ၊ မေ့လျော့တော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မူစာသည် (ဤသို့)ပြောကြားခဲ့၏။ ထိုရှေးဟောင်း မျိုးနွယ်တို့နှင့် ပတ်သက်သောအသိကား ကျွန်ုပ်အားဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်တွင် မှတ်တမ်းစာအုပ်၌ရှိပေသည်။ (အမှန်စင်စစ်) ကျွန်ုပ်၏ အရှင်မြတ်သည် မှောက်မှားတော်မူသည်လည်း မဟုတ်ပေ။ မေ့လျော့တော်မူသည်လည်း မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

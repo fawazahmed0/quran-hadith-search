@@ -710,6 +710,12 @@ Koĭto se sblizhava s Allakh i s Negoviya Pratenik, i s vyarvashtite... Privŭr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၆။	အကြင်သူသည် အလ္လာဟ်အသျှင်မြတ်၊ အသျှင်မြတ်၏တမန်တော်နှင့် ယုံကြည်သူတို့အား မိတ်ဖွဲ့၏။ ထိုသူတို့သည် အလ္လာဟ်အသျှင်မြတ်၏ ဘက်တော်သားတို့ဖြစ်၍ ဧကန်အောင်နိုင်သူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ် မည်သူမဆို အလ္လာဟ်အရှင်မြတ်ကိုလည်းကောင်း၊ ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော်ကိုလည်းကောင်း၊ ‘မုအ်မင်န်’ သက်ဝင်ယုံကြည်သော သူတို့ကိုလည်းကောင်း၊ ကလျာဏ မိတ်သဟာယ အဆွေခင်ပွန်းများ ပြုလုပ်ကြပါလျှင် (ထိုသို့သောသူများသည် အလ္လာဟ်အရှင်မြတ်၏ ဘက်တော်သားများဖြစ်ကြ၏) ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်ဘက်တော်သားများသည်သာလျှင် အောင်မြင်သောသူများ ဖြစ်ကြပေသတည်း။ (ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

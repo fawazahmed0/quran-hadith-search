@@ -710,6 +710,12 @@ Dnes shte zapechatame ustata im i shte Ni govoryat rŭtsete im, i shte svidetels
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၅။	ထိုနေ့တော်ကြီး၌ လူသားတို့၏ပါးစပ်များကို ချိတ်တံဆိပ်ရိုက်နှိပ်ပိတ်ထားလတ့ံ၊ သို့သော်သူတို့၏ လက်များက ငါအရှင်မြတ်အား လျှောက်ထားကြလတ့ံ၊ ခြေများကလည်း လူသားတို့ပြုလုပ်သမျှကို သက်သေခံကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယနေ့သော်ကား ငါအရှင်မြတ်သည် ၎င်းတို့၏နှုတ်များပေါ်၌ တံဆိပ်ခတ်နှိပ်တော်မူမည်။ ထို့ပြင် ၎င်းတို့၏လက်များသည် ငါအရှင်မြတ်နှင့် စကားပြောဆိုကြပေမည်။ ထိုမှတစ်ပါး ၎င်းတို့၏ခြေများသည် ၎င်းတို့ ပြုလုပ်ဆည်းပူးခဲ့သမျှတို့ကို သက်သေခံကြပေမည်။ (တစ်နည်း) ထိုအခါ ၎င်းတို့ဆည်းပူးခဲ့သမျှတို့ကို ၎င်းတို့၏လက်များက ငါအရှင်မြတ်အား လျှောက်ထားကြ၍ ၎င်းတို့၏ခြေများက သက်သေခံကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

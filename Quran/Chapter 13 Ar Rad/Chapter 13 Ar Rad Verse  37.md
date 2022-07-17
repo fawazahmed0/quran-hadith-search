@@ -710,6 +710,12 @@ Taka go nizposlakhme - ot·sŭzhdane na arabski. I ako posledvash strastite im p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	ယင်းကဲ့သို့ငါအရှင်မြတ်သည် အပြီးသတ်ဖြစ်သည့်အာရဗီဘာသာကျမ်းတော်ဖြစ်သောကုရ်အာန်ကျမ်းတော်ကို ပြဋ္ဌာန်းပေးတော်မူပြီး တမန်တော်၊ သင်သည် သစ္စာတရားတော်ကို ရရှိပြီးနောက်၊ မိစ္ဆာဒိဋ္ဌိတို့၏ အလိုဆန္ဒ နောက်သို့၊ အကယ်၍လိုက်လျှင် သင့်၌ အလ္လာဟ်အရှင်မြတ်မှ ကာကွယ်မည့်အဆွေခင်ပွန်း၊ သို့မဟုတ် ခုခံ သူမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ဤနည်းအတိုင်းပင် ငါအရှင်မြတ်သည် ယင်းကျမ်းမြတ်ဒေသနာတော်ကို ထင်ရှားပြတ်သားသော(တစ်နည်း)အရဗီဘာသာဖြင့်အမိန့်တော်(စီရင်ဆုံးဖြတ်ချက်) တစ်ရပ်အဖြစ် ထုတ်ပြန်တော်မူခဲ့လေသည်။ သို့ရာတွင်မူကား အကယ်၍ အသင်သည် မိမိထံသို့ (မှန်ကန်တိကျသော) အသိပညာရောက်ရှိလာခဲ့ပြီးနောက် ၎င်းတို့၏ အလိုဆန္ဒများကို လိုက်နာခဲ့ပါမူ အသင့်အား အလ္လာဟ်အရှင်မြတ်နှင့်ပြိုင်ဆိုင်၍ ကူညီစောင်မမည့် အဆွေခင်ပွန်းဟူ၍လည်းကောင်း၊ ကာကွယ်စောင့်ရှောက်မည့်သူဟူ၍လည်းကောင်း၊တစ်ဦးတစ်ယောက်မျှပင် ရှိလိမ့်မည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

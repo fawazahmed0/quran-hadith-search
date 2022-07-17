@@ -710,6 +710,12 @@ za onova, koeto sa izvŭrshili
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၂၊၉၃။	သင်၏ ကျေးဇူးတော်သခင်၏ တန်ခိုးတော်အားဖြင့် ငါတို့သည် သူတို့အားလုံးကို တစ်ယောက်မကျန်သူတို့ ပြုကျင့်လေ့ရှိသောအမှုအခင်းအကြောင်းကို စစ်ကြောတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့ကျင့်မူလျက် ရှိခဲ့ကြကုန်သောအမှုကိစ္စများ နှင့်စပ်လျဉ်း၍။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

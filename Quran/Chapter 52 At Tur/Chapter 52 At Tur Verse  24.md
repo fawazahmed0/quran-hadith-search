@@ -710,6 +710,12 @@ I shte im prisluzhvat yunoshi, koito syakash sa skriti biseri
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	ထို့အပြင်သူတို့အပါးတွင် သူတို့၏ကိုယ်ပိုင်ကံကြွေးလုလင်တို့သည် ထိုမှ ဤမှ သွားလာလှည့်ပတ်ခစားလျက် ရှိကြ၏၊ ထိုလုလင်တို့သည် ယောက်သွားအတွင်း ဖုံးအုပ်လျက်ရှိသောပုလဲအသွင် ဖြူစင်လှပ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့ထံ ၎င်းတို့ ပိုင်ဆိုင်ကြကုန်သော လုလင်တို့သည် (ထိုမှ-ဤမှ) လှည့်ပတ် သွားလာလျက် ရှိကြပေမည်။ ထို ကံကျွေးလုလင်တို့မှာ လုံခြုံစွာထားရှိသော ပုလဲများကဲ့သို့ပင် ရှိကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

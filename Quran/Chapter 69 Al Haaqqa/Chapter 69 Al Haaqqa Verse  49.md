@@ -710,6 +710,12 @@ I dobre znaem, che sred vas ima otrichashti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။ ထအို့ ပြင် သင်တ့အို နက်အချို့သောသူတိ့သု ည် ဤကျမ်းတော်မြတ်ကို မယုံကြည်ငြင်းပယ်မညက် ို ငါသိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ဧကန်စင်စစ် ငါအရှင်မြတ်သည် အသင်တို့အနက် (ယင်းကုရ်အာန်ကျမ်းတော်မြတ်)ကို မဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ်သူများလည်း ရှိနေကြောင်း ကောင်းစွာ သိရှိတော်မူသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

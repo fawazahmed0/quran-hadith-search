@@ -710,6 +710,12 @@ v tvoeto sŭrtse, za da bŭdesh ot predupreditelite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉၄။	သင်သည် သတိပေးသူတမန်တော်များအနက် တစ်ပါးဖြစ်စေဖို့ရာ ထိုကျမ်းတော်မြတ်ကို သင်၏နှလုံးတွင်းသို့ ချသွင်းပေးသနားတော်မူပါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်၏ စိတ်နှလုံးပေါ်၌ အသင်သည် သတိပေးနှိုးဆော်သူတို့တွင် အပါအဝင် ဖြစ်အံ့သောငှာ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

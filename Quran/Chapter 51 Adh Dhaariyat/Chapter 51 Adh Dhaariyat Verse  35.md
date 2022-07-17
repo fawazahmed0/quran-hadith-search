@@ -710,6 +710,12 @@ I izvedokhme Nie samo vyarvashtite, koito byakha tam
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	ထို့နောက် ငါသည် ထိုနေရာတွင်ရှိသောယုံကြည်သူ သူတော်ကောင်းတို့ကို အပြင်သို့ ထုတ်ဆောင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ငါအရှင်မြတ်သည် ယင်းမြို့ရွာ၌ ရှိကုန်သော ‘မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူတို့အား ထုတ်ယူ လွတ်မြောက်စေတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Nyama Toĭ sŭdruzhnik. Tova mi be poveleno i sŭm pŭrviyat otdaden na Allakh.
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၃။	အသျှင်မြတ်၌ ဖက်စပ်သူမရှိပေ။ ဤအကြောင်းကို ကျွနု်ပ်အား ပြဌာန်း၏။ အကျွနု်ပ်သည် အသျှင် မြတ်အား ယုံကြည်ကျိုးနွံသူတို့ဘောင်တွင် ထိပ်ကပါဝင်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်၌ တွဲဖက်ဟူ၍ အလျင်းမရှိချေ။ငါသည် ဤသည်နှင့်စပ်လျဉ်း၍ပင် အမိန့်တော်ကိုရရှိခဲ့၏။၎င်းပြင် ငါသည် အမိန့်တော်ကိုလိုက်နာသူတို့တွင် ပထမဦးဆုံးပင် ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

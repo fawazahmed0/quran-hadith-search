@@ -710,6 +710,12 @@ i kak byakha vŭzpraveni planinite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။ တဖန် တောတောင်များကို ကြည့်ရှုပြီးလျှင် မည်ကဲ့သို့ခိုင်ခန့်မြဲမြံစွာဖန်ဆင်းထားတော်မူသည်ကိုလည်း မစဉ်းစားကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့အတူ တောင်များသည် အဘယ်ကဲ့သို့ စိုက်ထူခြင်းကို ခံခဲ့ကြရသည်ကိုလည်းကောင်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

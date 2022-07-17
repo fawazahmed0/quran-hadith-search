@@ -710,6 +710,12 @@ A koĭ e po-golyam ugnetitel ot onzi, koĭto lŭzhe za Allakh i vzima za lŭzh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	အလ္လာဟ်အရှင်မြတ်နှင့် စပ်လျဉ်း၍ မုသားစကားဆို၍ သမ္မာတရားတော်ရောက်လာသောအခါ တရားတော်ကို ငြင်းပယ်သောသူထက် ဒုစရိုက်မကောင်းမှုကို အဘယ်သူသည် ပိုမိုကျုးလွန်သနည်း၊ အယူလွဲသောမိစ္ဆာညစ်တို့ နေအိမ်သည် ငရဲပြည်၌ ရှိမည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အကြင်သူထက်ပို၍ မတရားသောသူသည် မည်သူရှိအံ့နည်း။ ထိုသူသည် အလ္လာဟ်အရှင်မြတ်အပေါ်၌ မုသားစကားကို ပြောဆိုခဲ့၏။ ထိုမှတစ်ပါး အမှန်တရားသည် ၎င်း၏ထံသို့ ရောက်ရှိ၍ လာလေသောအခါ ၎င်းသည် ယင်းအမှန်တရားကို မဟုတ်မမှန်ဟူ၍ပင် ငြင်းပယ်ခဲ့၏။ထို(ကဲ့သို့သော) "ကာဖိရ်" သွေဖည်ငြင်းပယ်ကြကုန်သော သူတို့၏နေရာထိုင်ခင်းမှာ "ဂျဟန္နမ်" ငရဲဘုံ၌ပင် ရှိသည်မဟုတ်လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

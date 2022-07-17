@@ -710,6 +710,12 @@ Za onezi, koito vyarvat i vŭrshat pravedni dela, za tyakh sa Gradinite, sred ko
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။ သို့သော်ယုံကြည်လျက် ကုသိုလ်ကောင်းမှုကို ပွားများသူတို့မူကား မြစ်အထွေထွေစီးဆင်းနေသော နိဗ္ဗာန်ဥယျာဉ် တော်များသို့ ဝင်ကြရလတံ့၊ ဤဝင်ရခြင်းသာလျှင် အောင်မြင်ခြင်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မုချ "အီမာန်" သက်ဝင်ယုံကြည်၍ ကောင်းမြတ်သော အကျင့်သီလများကို ကျင့်မူဆောက်တည်ကြကုန်သော သူတို့အဖို့ အကြင်ဥယျာဉ်များသည် ရှိပေသည်။ ထိုဥယျာဉ်များ၏အောက်မှ စမ်းချောင်းများသည် စီးတွေလျက်ရှိပေသည်။ ဤသည် ကြီးကျယ်လှစွာသော အောင်မြင်မှုပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

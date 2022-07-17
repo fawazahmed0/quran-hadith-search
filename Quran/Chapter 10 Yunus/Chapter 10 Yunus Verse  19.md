@@ -710,6 +710,12 @@ Khorata byakha samo edna obshtnost, no se razdelikha. I ako nyamashe predishno s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	လူသားအပေါင်းတို့သည် တမျိုးစုတစုတည်းသာဖြစ်ကြ၏။ ထို့နောက်သူတို့သည် ကွဲပြားခြားနားကြ၏။ သင်၏ အရှင်သခင်ကသာ ဗျာဒိတ်ချတော်မမူခဲ့ပါလျှင် သူတို့၏ ဝိဝါဒကွဲပြားမှုကို စစ်ကြောဆုံးဖြတ်တော်မူပြီးလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား လူသားတို့သည်(ယခင်မူလက)ဘာသာဝါဒ တူညီသော လူတစ်စုတည်းသာလျှင် ဖြစ်ခဲ့ကြကုန်၏။ ထို့နောက် ၎င်း တို့သည်(ဘာသာဝါဒ၌)သဘောကွဲလွဲခဲ့ကြကုန်၏။ စင်စစ် သော်ကား အကယ်၍သာ အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်မှ စကားတစ်ရပ်သည် ရှေးဦးပထမကပင် ရှိနှင့်ခဲ့ပြီး မဖြစ်ပါလျှင် မုချဧကန်၎င်း တို့အချင်းချင်း သဘောကွဲလွဲနေသော အရာနှင့်စပ်လျဉ်း၍စီရင်ဆုံးဖြတ်ပြီး ဖြစ်ချိမ့်မည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

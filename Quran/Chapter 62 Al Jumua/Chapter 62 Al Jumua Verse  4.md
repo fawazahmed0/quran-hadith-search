@@ -710,6 +710,12 @@ Tova e blagodatta na Allakh. Daryava ya Toĭ komuto pozhelae. Allakh e Vladetel
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။ ယင်းကဲ့သို့စေလွှတ်တော်မူခြင်းသည် အလ္လာဟ်အရှင်မြတ်၏ ကောင်းကြီး မင်္ဂလာတော်တည်း၊ အရှင်မြတ်သည် ချီးမြှင့်လိုတော်မူသောသူကို ကောင်းကြီးမင်္ဂလာတော်နှင့် ချီးမြှင့်တော်မူ၏၊ အလ္လာဟ်အရှင်မြတ်သည် အနန္တကောင်းကြီး မင်္ဂလာတော်သခင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသည်ကား အလ္လာဟ်အရှင်မြတ်၏ကျေးဇူးတော်ပင်၊ ထိုအရှင်မြတ်သည် မိမိအလိုရှိတော်မူသောသူအား ယင်းကျေးဇူးတော်ကို ချီးမြှင့်ပေးသနားတော်မူ၏။ စင်စစ်မှာမူကား အလ္လာဟ်အရှင်မြတ်သည် ကြီးကျယ်သော ကျေးဇူးတော်ကို ပိုင်ဆိုင်တော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I ne sme unishtozhili Nie nikoe selishte, bez da se znae kakvo mu e pisano
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	ငါအရှင်မြတ်သည် မည်သည့်မြို့ရွာကိုမှ ၎င်းအဖို့ တင်ကြိုသတ်မှတ်ထားသောအမိန့်တော်မရှိပဲ ဖျက်ဆီးတော်မူ သည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်ကား ငါအရှင်မြတ်သည် မည်သည့် မြို့ရွာကိုမျှ ထိုမြို့ရွာနှင့်စပ်လျဉ်း၍ သတ်မှတ် ပြဌာန်းအပ်သောအချိန်ကာလ (ဆိုက်ရောက်ခြင်း) မရှိဘဲ ဖျက်ဆီးတော်မူခဲ့သည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

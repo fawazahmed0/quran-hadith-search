@@ -710,6 +710,12 @@ I nima ne razmishlyavat nad Korana ili sŭrtsata im sa pod klyuch
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	ထို့ကြောင့်ဤသူများသည် ကျမ်းမြတ်ကုရ်အာန်ကို ကမ္မဋ္ဌာန်းရှုကြသည်မဟုတ်လော၊ သို့မဟုတ် သူတို့၏စိတ် နှလုံးများပေါ်တွင် သော့ခပ်ထားခြင်းရှိသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ပါလျက် ၎င်းတို့သည် ကုရ်အာန်ကျမ်းတော်မြတ်ကို စေ့ငုစွာ စဉ်းစားဆင်ခြင်သုံးသပ်ခြင်း မပြုကြလေသလော။ သို့တည်းမဟုတ် (၎င်းတို့၏)စိတ်နှလုံးများပေါ်၌ သော့ခလောက်များ(ခတ်ထားလျက်) ရှိနေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

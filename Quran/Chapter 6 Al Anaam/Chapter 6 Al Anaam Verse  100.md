@@ -710,6 +710,12 @@ I otredikha na Allakh sŭdruzhnitsi i ot dzhinovete, vŭpreki che Toĭ gi e sŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝဝ။	သို့ပါလျက် အလ္လာဟ်အသျှင်မြတ်သည် ဂျင်နတ်သားတို့ကို ဖန်ဆင်းတော်မူသော်လည်း သူတို့သည် ထိုဂျင်တို့ကို အသျှင်မြတ်နှင့်တန်းတူထားကြ၏။ အသပညာမရှိဘဲလျက် အသျှင်မြတ်၌ သားသမီးရှိသည်ဟု မဟုတ်မလျားစွပ်စွဲကြ၏။ အသျှင်မြတ်သည် ချို့တဲ့ခြင်းကင်းတော်မူ၏။ သူတို့စွပ်စွဲသည့် အညစ်အကြေးများမှ ကင်းစင်မြင့်မြတ်တော်မူလှပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ပါလျက် ထိုသူများသည် ဂျင်န်(န်)သတ္တဝါများကို အလ္လာဟ်အရှင်မြတ်၏တွဲဖက်များ ပြုခဲ့ကြကုန်၏။ အမှန်စင်စစ်သော်ကား ထို(အလ္လာဟ်) အရှင်မြတ်သည်ပင်လျှင်ယင်း(မွတ်ရှ်ရစ်က်တို့ကို ဖန်ဆင်းတော်မူခဲ့လေသည်။ (ဂျင်န်များကဖန်ဆင်းထားသည်မဟုတ်၊) လည်းကောင်းပြင် ယင်းတို့သည် မသိနားမလည်ကြဘဲလျက် အလ္လာဟ်အရှင်မြတ်၌သားသမီးများ ရှိသည်ဟူ၍ ကြံစည်စွပ်စွဲ ပြောဆိုကြလေ၏။ထိုအရှင်မြတ်သည် ၎င်းတို့စွပ်စွဲပြောဆိုကြသည်တို့မှ သန့်ရှင်းစင်ကြယ် မြင့်မြတ်လှတော်မူပေသတည်း။(ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

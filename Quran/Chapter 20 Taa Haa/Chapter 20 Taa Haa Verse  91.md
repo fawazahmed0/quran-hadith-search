@@ -710,6 +710,12 @@ Rekokha: “Ne shte prestanem da pochitame tova, dokato ne se zavŭrne Musa pri 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၁။	လူများက တမန်တော်မူစာသည် အကျွနု်ပ်ထံသို့ ပြန်လာသည့်တိုင်အောင် အကျွနု်ပ်တို့သည် နွားရုပ်ငယ်ကို ဆက်လက်ကိုးကွယ်မည်ဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ယင်းအမျိုးသားတို့က ကျွန်ုပ်တို့သည်မိမိတို့ထံ မူစာပြန်မလာသမျှကာလပတ်လုံး ယင်းနွားရုပ်အပေါ်၌ အမြဲမပြတ် စွဲလမ်းလျက်ပင် ရှိကြမည်ဟု ပြောကြားခဲ့ကြ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

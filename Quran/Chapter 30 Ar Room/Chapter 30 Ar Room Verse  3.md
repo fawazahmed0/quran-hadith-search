@@ -710,6 +710,12 @@ na naĭ-blizkata zemya. No sled porazhenieto im te shte pobedyat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၊၄။	သူတို့ကို အနီးအနားရှိ အရပ်ဒေသများတွင် နှိမ်နင်း၏၊ သို့သော်သူတို့သည် စစ်ရှုံးပြီး ဆယ်နှစ်ကြာသောအခါ စစ်နိုင်သူများဖြစ်ကြရမည်၊ အလျင်ကိစ္စ၊ နောက်ကိစ္စ၊ကိစ္စနှစ်ခုလုံးပင်လျှင် အလ္လာဟ်အရှင်မြတ်၏ ဗျာဒိတ် တော်ဖြစ်၏၊ ထိုနေ့၌ အရှင်မြတ်နှင့် ယုံကြည်သူတို့သည် ဝမ်းမြောက်ဝမ်းသာရှိကြလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အရေးဗျတိုင်းပြည်နှင့်)နီးကပ် ဆက်စပ်လျက်ရှိသော တိုင်းပြည်တွင်၊ သို့ရာတွင် ၎င်းတို့သည် မိမိတို့ ယခု(စစ်ရေး)ရှုံးနိမ့်ကြရပြီးနောက် မကြာမြင့်မီပင် ၎င်းတို့သည် အောင်နိုင်ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

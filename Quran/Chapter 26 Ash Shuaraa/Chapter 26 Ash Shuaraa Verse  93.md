@@ -710,6 +710,12 @@ vmesto na Allakh? Dali shte vi pomognat, ili na sebe si shte pomognat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၂၊၉၃။	ထိုသူမိုက်တို့အား အလ္လာဟ်အရှင်မြတ်မှတပါး သင်တို့ဦးညွတ်ဝတ်ပြုလေ့ရှိသောဘုရားတုတို့သည် အဘယ်မှာ ရှိကြသနည်း၊ သူတို့သည် သင်တို့အား စောင်မနိုင်ကြသလော၊ သို့မဟုတ်သူတို့သည် မိမိကိုယ်ကိုမိမိ ထောက်ပ့ံ နိုင်ကြသလောဟု မေးတော်မူလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်အား စွန့်၍ (အသင်တို့ ကိုးကွယ်လျက်ရှိခဲ့ကြသော) ကိုးကွယ်ရာများသည်(ယခု)အသင်တို့အား ကူညီနိုင်ကြလေသလော။ သို့တည်းမဟုတ် ၎င်းတို့သည် မိမိတို့ကိုယ်ကို ကယ်တင်နိုင်ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

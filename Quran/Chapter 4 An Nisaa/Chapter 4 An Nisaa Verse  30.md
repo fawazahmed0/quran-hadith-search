@@ -710,6 +710,12 @@ A koĭto vŭrshi tova s prestŭpvane i nespravedlivost, shte go izgaryame v Og�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	အကြင်သူသည် ထိုအမှုကို မတရားကျူးလွန်စော်ကား၏။ ထိုသူအား ငါသည် ငရဲမီးထဲသို့ ပစ်သွင်း တော်မူလတ္တံ့။ ယင်းကိစ္စသည် အလ္လာဟ်အသျှင်မြတ်အတွက် အလွန်လွယ်ကူလှ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကြင်သူသည် ကျူးလွန်ခြင်းအားဖြင့်လည်းကောင်း၊ မတော်မတရား ညှဉ်းပန်း နှိပ်စက်ခြင်းအားဖြင့်လည်းကောင်း၊ ယင်းကဲ့သို့ ပြုလုပ်ပါမူ၊ ငါအရှင်မြတ်သည် ထိုသူအား မကြာမြင့်မီ ငရဲထဲသို့ ထည့်သွင်းတော်မူအံ့။ အမှန်သော်ကား ဤ (ကဲ့သို့ ထည့်သွင်းခြင်း) သည် အလ္လာဟ်အရှင်မြတ်အဖို့ လွယ်ကူသောအမှုပင် ဖြစ်ချေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

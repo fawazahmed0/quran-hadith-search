@@ -710,6 +710,12 @@ I pomnete onova ot znameniyata na Allakh i ot mŭdrostta, koeto biva cheteno v d
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	ထို့အပြင် သင်တို့သည် မိမိတို့အိမ်တွင် ရွတ်ဖတ်သရဇ္ဈာယ်ျသောအလ္လာဟ်အရှင်မြတ်၏ ကျမ်းတော်မြတ်နှင့် အရှင်မြတ်၏ သဗ္ဗညုဉာာဏ်တော်အကြောင်းကို နှလုံးကောင်းစွာသွင်းလော့၊ မှတ်သားလော့၊ အလ္လာဟ်အရှင် မြတ်သည် လျှို့ဝှက်နက်နဲခြင်းနှင့် အရာခပ်သိမ်းကုန်တို့ကို အကြွင်းမဲ့သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်တို့သည် မိမိတို့အိမ်များတွင်ဖတ်ကြားခြင်းခံရလေသော အလ္လာဟ်အရှင်မြတ်၏ အာယတ်တော်များကိုလည်းကောင်း၊ ဉာဏ်ပညာများကို လည်းကောင်း၊ကျက်မှတ်ကြလေကုန်။ စင်စစ်ဧကန် အလ္လာဟ်အရှင်မြတ်သည်အလွန်တရာ သိမ်မွေ့တော်မူသောအရှင်၊ အလွန်တရာကြားသိတော်မူသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

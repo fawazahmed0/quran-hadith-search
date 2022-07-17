@@ -710,6 +710,12 @@ I zashtoto Chasŭt nepremenno shte nastŭpi. Nyama sŭmnenie v tova. I shte vŭz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	အချိန်တော်ကြီးဆိုက်ရောက်လာမည်ဖြစ်သောကြောင့် ဤအကြောင်းကို ယုံမှားသံသယမရှိနိုင်ချေ၊ ထိုနေ့တော် ကြီး၌ အလ္လာဟ်အရှင်မြတ်သည် သချုႋင်းတွင်း၌ ရှိနေသောသူသေအပေါင်းတို့ကို ရှင်ပြန်ထမြောက်စေတော်မူ လိမ့်မည်ဖြစ်သောကြောင့်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ဧကန်မလွဲ ကိယာမတ်သည်လည်း(မုချ)ဆိုက်ရောက်မည်ဖြစ်သည်။ ယင်းကိယာမတ်နှင့် စပ်လျဉ်း၍ ယုံမှားသံသယ ဖြစ်ဖွယ်ရာအလျင်းမရှိပြီ။ ၎င်းပြင် အလ္လာဟ်အရှင်မြတ်သည် သင်္ချိုင်းများတွင်ရှိသူတို့ကို ဧကန်စင်စစ် ရှင်ပြန်ထစေတော်မူမည် ဖြစ်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

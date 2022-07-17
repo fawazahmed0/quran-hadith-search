@@ -710,6 +710,12 @@ Tova ti go chetem [o, Mukhammad] ot znameniyata i ot Mŭdroto napomnyane
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈။	အို...တမန်တော် ငါသည် သင့်အား ယခုရွတ်ဖတ်ပြတော်မူသော ဂါထာတော်များသည် နှုတ်ကပတ်တော်နှင့် နက်နဲသိမ်မွေ့သော သတိပေးသြဝါဒတော်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤ(အတ္ထုပ္ပတ္တိများ)သည် (အသင်နဗီဖြစ်ခြင်း၏) သက်သေလက္ခဏာများ အနက်မှလည်း ဖြစ်၏။ ဉာဏ်ပညာနှင့်ပြည့်စုံသော အကြောင်းအရာ များအနက်မှလည်းဖြစ်ပေ၏။ ထိုအကြောင်းအရာများကို ငါအရှင်သည်အသင့်အား (ဝဟီဖြင့်) ရွတ်ဘတ်ကြားနာ ပြောပြတော်မူသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kad napustite njih i one kojima umjesto Allahu robuju, sklonite se u pećinu, Go
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	သင်တို့သည် ထိုသူတို့နှင့်တကွ အလ္လာဟ်အရှင်မြတ်မှတပါး သူတို့ကိုးကွယ်သောဘုရားတုများမှ ထွက်သွားသော အခါ လှိုင်ဂူထဲတွင် ခိုလှုံပုန်းအောင်းကြလော့၊ သင်တို့၏ အရှင်သခင်သည် မိမိ၏ ကောင်းကြီးမင်္ဂလာတော်ကို သင်တို့အဖို့အရာ ကျယ်ပြန့်စေတော်မူမည်။ သင်တို့၏ ဒုက္ခ၌ သင်တို့အဖို့ ချမ်းသာမှုကို စီစဉ်တော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် (ယင်းလုလင်တို့အနက် အချို့ကအချို့အား) အသင်တို့သည် ယင်း(အမျိုးသား)တို့ထံ မှလည်းကောင်း၊ အလ္လာဟ်အရှင်မှတစ်ပါး ထိုသူတို့ ကိုးကွယ်ဆည်းကပ်ကြကုန်သော ကိုးကွယ်ရာများထံ မှလည်းကောင်း၊ ခွဲခွာနောက်ဆုတ်ခဲ့ကြပြီးဖြစ်ပေရာ အသင်တို့သည် (ထို)ဥမင်လိုဏ်ခေါင်းသို့(သွားရောက်)ခိုလှုံကြလေကုန်။ အသင်တို့အား မွေးမြူဖန်ဆင်းတော်မူသောအရှင်မြတ်သည် မိမိကရုဏာတော်ကို အသင်တို့အပေါ်ဝယ် ဖြန့်၍ပေးသနားတော်မူပေမည်။ ၎င်းပြင် ထိုအရှင်မြတ်သည် အသင်တို့အဖို့ အသင်တို့၏အရေးကိစ္စကိုအထူး အကျိုးကျေးဇူးရှိစေရန် စီမံ၍ ပေးတော် မူမည် ဖြစ်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

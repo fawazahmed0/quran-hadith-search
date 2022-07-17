@@ -710,6 +710,12 @@ Tezi sa znameniyata na mŭdrata Kniga
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	ဤဂါထာတော်များသည် သိမ်မွေ့နက်နဲသောကုရ်အာန်ကျမ်းတော်မြတ်၏ ဂါထာတော်များတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည် ဉာဏ်ပညာနှင့် ပြည့်စုံသော ကျမ်းဂန်၏(အကြင်) အာယတ်တော်များပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

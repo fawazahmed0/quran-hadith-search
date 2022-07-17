@@ -710,6 +710,12 @@ I spasikhme onezi, koito vyarvakha i se boyakha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။	ထို့အပြင်ငါသည် ယုံကြည်၍ အကုသိုလ်ကောင်းမှုကို ရှောင်ရှားသူတို့ကို ကယ်နှုတ်တော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် "အီမာန်"သက်ဝင်ယုံကြည်ပြီး (ပြစ်မှုဒုစရိုက်များမှ) ကြဉ်ရှောင် ကြကုန်သောသူတို့အား ကယ်ဆယ်တော်မူခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

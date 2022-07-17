@@ -710,6 +710,12 @@ I rekokha nevernitsite: “Da vi posochim li chovek, koĭto shte vi sŭobshti, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	မယုံကြည်သူမိစ္ဆာမိုက်တို့က ငါတို့သည် ကွယ်လွန်သွားပြီး မြေမှုန့်အတိဖြစ်၍ ပြန့်ကြဲပြီးသည်နောက် တဖန် ရှင်ပြန်ထမြောက်ရမည်ဟု ဟောပြောသူကို သင်တို့အား ငါတို့ပြန်ရမည်လောဟု အချင်းချင်းပြောဆိုမေးမြန်း ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ကာဖိရ်သွေဖည်ငြင်းပယ်သောသူတို့က (အချင်းချင်း) ပြောဆိုကြကုန်၏။ ကျွန်ုပ်တို့သည်အသင်တို့အား အကြင်ယောက်ျားတစ်ယောက်ကို ညွှန်ပြကြရမည်လော။ ထိုသူသည် အသင်တို့အား အသင်တို့သည် လုံးဝမွမွကြေအောင် ချေပစ်ခြင်းခံခဲ့ကြရလေသောအခါ ဧကန်မလွဲအသင်တို့သည် အသစ်ပြန်၍ ဖန်ဆင်းခြင်းကို ခံကြရမည်ဟု သတင်းပေး၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

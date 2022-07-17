@@ -710,6 +710,12 @@ I kakvo togava te kara [o, choveche] da vzimash za lŭzha Vŭzmezdieto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။ ထို့ကြောင့်ယခုမှစ၍ မည်သူသည် စီရင်ဆုံးဖြတ်တော်မူခြင်းမရှိ၍ ငြင်းဆန်အံ့နည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ပါလျက် (ဤသည်တို့ကိုသိရှိပြီး)နောက်တွင် အစားပေးခြင်းကို မဟုတ်မမှန်ဟု ငြင်းပယ်ရန် အသင့်အား မည်သည့်အရာက လှုံ့ဆော်သနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

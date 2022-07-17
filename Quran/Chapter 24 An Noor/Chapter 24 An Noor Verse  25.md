@@ -710,6 +710,12 @@ V tozi Den Allakh napŭlno shte im izplati istinskoto vŭzdayanie i shte uznayat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	ထိုနေ့တော်ကြီး၌ အလ္လာဟ်အရှင်မြတ်သည် ထိုသူတို့အား သူတို့ရထိုက်သောကောင်းကျိုးဆိုးကျိုးကို အပြည့်အစုံ ပေးတော်မူလိမ့်မည်၊ ထိုအခါသူတို့သည် အလ္လာဟ်အရှင်မြတ်သည် အလွန်ထင်ရှားသောအမှန်တရားဖြစ်တော် မူကြောင်းကို သိမြင်ရကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနေ့တွင် အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့အား ၎င်းတို့နှင့်ထိုက်တန်သောအစားကို အပြည့်အဝ ပေးတော်မူပေမည်။ ထို့ပြင် ဧကန်မုချ အလ္လာဟ်အရှင်မြတ်သည် တိကျမှန်ကန်စွာ စီရင်ဆုံးဖြတ်တော်မူသောအရှင် (အကြောင်း ကိစ္စများကို) ထင်ရှားစေတော်မူသောအရှင် ဖြစ်တော်မူကြောင်း ကို ၎င်းတို့သိရှိကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

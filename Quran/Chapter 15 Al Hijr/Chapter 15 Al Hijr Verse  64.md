@@ -710,6 +710,12 @@ I ti donesokhme pravdata. Nie kazvame istinata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၄။	ထို့အပြင် အကျွနု်ပ်တို့သည် သင့်ထံသို့ သစ္စာတရားတော်ကို ယူလာခဲ့ပါ၏။ အကျွနု်ပ်တို့သည် မုချဧကန်အမှန် ကို ဆိုသူများဖြစ်ကြပါ၏။။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ကျွန်ုပ်တို့သည် အသင်၏ထံသို့(အကယ်စင်စစ်) အဟုတ်အမှန်ဖြစ်မည့်ကိစ္စကို ဆောင်ယူခဲ့ကြပါသည်။ ၎င်းပြင် မလွဲဧကန် ကျွန်ုပ်တို့သည် အမှန်ပြောဆိုသူများပင် ဖြစ်ကြကုန်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

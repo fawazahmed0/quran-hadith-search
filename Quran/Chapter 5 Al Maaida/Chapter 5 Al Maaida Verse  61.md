@@ -710,6 +710,12 @@ I kogato doĭdat pri vas, kazvat: “Povyarvakhme”, a vlizat s neverieto i iz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၁။	သူတို့သည် ယုံကြည်သူ သင့်ထံသို့လာကြသောအခါ သူတို့က အချင်းတို့ အကျွနု်ပ်တို့သည် ယုံကြည် ကြပါ၏ဟုဆိုကြ၏။ သို့သော် သူတို့သည် မိစ္ဆာအယူဝါဒနှင့်လာ၍ မိစ္ဆာအယူဝါဒနှင့်ပင် ပြန်သွား ကြ၏။ အလ္လာဟ်အသျှင်မြတ်သည် သူတို့ လျှို့ဝှက်ထားသည်ကို အသိဆုံးဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၄င်းပြင် ထို (မုနာဖစ်က်) တို့သည် အသင်တို့ထံ လာကြလေသောအခါ “ကျွန်ုပ်တို့သည် ‘အီမာန်’ ယုံကြည်ခြင်းသဒ္ဓါတရား ထားရှိကြပါပြီ” ဟု (လိမ်လည်) ပြောဆိုကြကုန်၏။ စင်စစ်တမူကား ၎င်းတို့သည် ‘ကွဖ်ရ်’ သွေဖည်ငြင်းပယ်မှုကိုယူဆောင်၍ ဝင်ရောက်လာကြပြီး ထို ‘ကွဖ်ရ်’ သွေဖည်ငြင်းပယ်မှုကိုပင် ယူဆောင်၍ ပြန်ထွက်သွားကြလေသည်။ သို့ရာတွင် အလ္လာဟ်အရှင်မြတ်မှာမူကား ၎င်းတို့ ထိမ်ချန်လျှို့ဝှက်ထားရှိကြလေသော အရာများကို အသိဆုံးပင်ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

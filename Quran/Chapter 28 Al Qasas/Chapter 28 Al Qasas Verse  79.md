@@ -710,6 +710,12 @@ I se pokazvashe toĭ pred svoya narod s razkosha si. Onezi, koito zhelaekha zem
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၉။	ထို့နောက်ကာရွန်သည် မိမိ၏အမျိုးသားတို့ရှေ့သို့ ခမ်းနားကြီးကျယ်စွာတန်ဆာဆင်ယင်၍ ထွက်လာ၏၊ ဤ လောကီစည်းစိမ်ကာမဂုဏ်ကို တပ်မက်မောသောသူတို့က ငါတို့ကို ကာရွန်အား ပေးသနားတော်မူသော စည်းစိမ်ချမ်းသာကဲ့သို့ သနားတော်မူပါလျှင် တော်လေစွ၊ မှတ်သားကြလော့၊ သူသည် အလွန်ထူးချွန်သော ကံရှင်ဖြစ်၏ဟု ချီးကျူးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ထို’ကာရူန်’သည် မိမိအမျိုးသားတို့ရှေ့ဝယ် မိမိအခမ်းအနားနှင့်တကွ ထွက်ခဲ့လေ၏။ (ထိုအခါ) လောကီဘဝကို အလိုရှိသူတို့က ‘ဪ-ကာရူန်ရရှိခဲ့သော ဥစ္စာပစ္စည်း (အခမ်းအနား)မျိုးသည် ကျွန်ုပ်တို့၌လည်းရှိခဲ့လျှင် ကောင်းလေစွ၊ ဧကန်မလွဲ ထိုကာရူန်မှာ ကြီးကျယ်စွာသော အကြောင်းလှခြင်းကို ပိုင်ဆိုင်သူ ဖြစ်ပေသည်တကား’ ဟုဆိုခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

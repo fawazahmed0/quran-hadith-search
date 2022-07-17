@@ -710,6 +710,12 @@ A koĭto se bori, edinstveno za sebe si se bori. Allakh ne se nuzhdae ot svetov
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	ထို့အပြင်အကြင်သူသည် ကြိုးစားအားထုတ်အ့ံ၊ ထိုုသူသည် မိမိအဖို့သာ ကြိုးစားသည်မည်၏၊ အကြောင်းမူကား အလ္လာဟ်အရှင်မြတ်သည် မိမိ၏ဘဏ္ဍာတော်များအား လုံးဝမှီခိုတော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်သော်ကား မည်သူမဆို ကြိုးပမ်းဆောင်ရွက်ခဲ့မူ ထိုသူသည် မိမိအကျိုးငှာ ကြိုးပမ်းဆောင်ရွက်သည်သာ ဖြစ်ချေသည်။ မုချဧကန် အလ္လာဟ်အရှင်မြတ်သည် စကြာဝဠာခပ်သိမ်းတို့ကို(မှ) လိုလားတောင့်တခြင်း ကင်းမဲ့တော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

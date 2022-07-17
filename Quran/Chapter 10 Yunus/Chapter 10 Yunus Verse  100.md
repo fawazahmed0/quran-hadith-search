@@ -710,6 +710,12 @@ Nikoĭ ne shte povyarva inache osven s pozvolenieto na Allakh. Toĭ shte ostav
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝဝ။	လူသားသည် အလ္လာဟ်အရှင်မြတ်ခွင့်ပြုတော်မမူပဲ၊ တရားတော်ကို ယုံကြည်ဖို့ရာမဟုတ်ချေ။ အရှင်မြတ်သည် ဆင်ခြင်တုံတရားမရှိသောသူတို့ကို မိစ္ဆာအညစ်အကြေးနှင့် လိမ်းကျံထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်၏အလိုတော်မရှိလျှင် မည်သူတစ်ဦးတစ်ယောက်မျှပင် အီမာန်သက်ဝင်ယုံကြည်နိုင်သည်မရှိချေ။ စင်စစ်မှာမူကား ထိုအရှင်မြတ်သည် အသိဉာဏ်ကို အသုံးမပြုသော သူတို့အပေါ်၌သာလျှင် မစင်ကြယ်မှုကို သက်ရောက်စေတော်မူချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

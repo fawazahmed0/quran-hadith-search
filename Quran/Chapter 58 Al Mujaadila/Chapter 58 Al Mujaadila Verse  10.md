@@ -710,6 +710,12 @@ Taĭniyat [vrazhdeben] razgovor e samo ot satanata, za da naskŭrbyava vyarvash
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။ အမှန်ဆိုသော တီးတိုးတိုင်ပင်ဆွေးနွေးခြင်းသည် အယူမှန်သောသူမြတ်တို့ကို နှောင့်ယှက်ဖို့ရာ ရှိုင်တန်မာရ်နတ် ၏ ဖျားယောင်းသွေးဆောင်ခြင်းမျှသာဖြစ်၏၊ စင်စစ်အားဖြင့် ရှိုင်တန်မာရ်နတ်သည် အရှင်မြတ်အလိုတော် မရှိပဲ ယုံကြည်သူတို့ကို စိုးစဉ်းမျှနစ်နာဆုံးရှုံးအောင် မစွမ်းဆောင်နိုင်ချေ၊ အယူမှန်သူတို့သည် အလ္လာဟ်အရှင် မြတ်အား လုံးဝကိုးစားကြစေကုန်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (မကောင်းမှုကျူးလွန်ရန်)လျှို့ဝှက်တိုင်ပင်မှုကား "ရှိုင်တွာန်"မိစ္ဆာကောင်၏ထံမှ မုအ်မင်န်သက်ဝင်ယုံကြည်သူတို့အား စိတ်ဒုက္ခ ဖြစ်စေရန်သာဖြစ်၏။ အမှန်စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်၏အလိုတော်မရှိဘဲ ယင်း "ရှိုင်တွာန်"မိစ္ဆာကောင်သည် မုအ်မင်န် သက်ဝင်ယုံကြည်သူတို့အား အနည်းငယ် စိုးစဉ်းမျှပင် ကျိုးယုတ်စေနိုင်သူမဟုတ်ပြီ။ သို့ဖြစ်ပေရာ မုအ်မင်န် သက်ဝင်ယုံကြည်သူတို့ကား အလ္လာဟ် အရှင်မြတ်အပေါ်၌သာလျှင် ယုံပုံလွှဲအပ် အားထားကြရာသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

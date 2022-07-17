@@ -710,6 +710,12 @@ Setne podmenyakhme loshoto s dobro, dokato se umnozhat i kazhat: “I nashite ba
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၅။	ထို့နောက် ငါသည် သူတို့၏ ဥစ္စာပစ္စည်းပေါများကြွယ်ဝသည်တိုင်အောင် သူတို့၏ ဆင်းရဲဒုက္ခကို ချမ်းသားသုခနှင့် လဲလှယ်တော်မူ၏။ သူတို့သည် စည်းစိမ်ယစ်မူး၍ ဘေးအန္တရာယ် ဆင်းရဲဒုက္ခသည် ကျွနု်ပ်တို့၏မိဘများကိုသာထိ၏ဟု ဆိုကြ၏။ ထိုအခါ ငါသည် သူတို့မမြင်ဘဲ သူတို့ကို ရုတ်တရက် ရှောင်တခင် ဖမ်းဆီးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနောက် ငါအရှင်မြတ်သည် မကောင်းသောအခြေအနေ၏အစား ကောင်းသော အခြေအနေကို ပြောင်းလဲ၍ ပေးတော်မူခဲ့လေသည်။ နောက်ဆုံးတွင်မူ ထိုသူတို့သည်တိုးတက်ကြီးပွားလာ၍ ဆင်းရဲဒုက္ခ သည်လည်းကောင်း၊ သက်သာချောင်ချိမှုသည်လည်းကောင်း၊ ငါတို့၏ဘိုးဘေးဘီဘင်တို့၌လည်း သက်ရောက်မြဲပင် ဖြစ်ခဲ့သည်ဟူ၍ ပြောဆိုလာကြကုန်၏။နှိပ်ကွပ်တော်မူလေသည်။ ထိုအခါ ငါအရှင်မြတ်သည်၎င်းတို့အား ၎င်းတို့သတိမမူ အမှတ်မဲ့ဖြစ်နေခိုက် ရုတ်တရက်ဖမ်းဆီး ကွပ်မျက်တော်မူခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

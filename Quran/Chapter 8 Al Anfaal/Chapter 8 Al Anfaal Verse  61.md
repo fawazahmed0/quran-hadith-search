@@ -710,6 +710,12 @@ I ako sklonyat za mir, skloni i ti, i se upovavaĭ na Allakh! Toĭ e Vsechuvas
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၁။	အကယ်၍ ရန်သူတို့သည် စစ်ပြေငြိမ်းလိုလျှင် သင်လည်း စစ်ပြေငြိမ်းဘက်သို့ ယိမ်းယိုင်၍ အလ္လာဟ် အသျှင်မြတ်အား ယုံကြည်ကိုးစားလာ့။ မှတ်သားလော့။ အသျှင်မြတ်သည် ကြားတော်မူသောအသျှင်၊ သိတော်မူသောအသျှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အကယ်၍ ထိုသူတို့သည် စစ်ငြိမ်းရန်အလို့ငှာ ယိမ်းညွှတ်ကြပါမူ အသင်သည်လည်း ထို စစ်ငြိမ်းရန်ယိမ်းညွှတ်ပါလေ၊ သို့ရာတွင် အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အပေါ်၌ ယုံကြည်စိတ်ချလွှဲအပ်ပါလေ။ ဧကန်မလွဲထိုအရှင်မြတ်သည်ပင်လျှင် (အရာခပ်သိမ်းတို့ကို) အကြွင်းမဲ့ကြားတော်မူသောအရှင်၊ အကြွင်းမဲ့ သိတော်မူသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

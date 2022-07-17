@@ -710,6 +710,12 @@ Vŭrnete se pri bashta si i kazhete: “O, tatko nash, tvoyat sin otkradna. Svid
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၁။	သူက ဆက်လက်၍ ဤသို့ပြော၏။ သင်တို့သည် မိမိတို့ဖခင်ထံသို့ သွားပြီးလျှင် ဖခင်အား အို-မွေးသဖခင် ကျေးဇူးရှင်၊ ကျေးဇူးရှင်၏ သားငယ်သည် ခိုးမှုကျူးလွန်ပါပြီ။ အကျွနု်ပ်တို့သည် မိမိတို့သိသည်ကိုသာ သက်သေ ခံပါသည်။ အကျွနု်ပ်တို့သည် မမြင်စွမ်းနိုင်သောအရာကို အုပ်ထိန်းရသူများမဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် မိမိတို့၏ ဖခင်ထံသို့ ပြန်၍ သွားကြပြီးလျှင်(ဤသို့)ပြောဆိုလျှောက်ထားကြလေကုန်။ အို-မွေးသဖခင်၊ မလွဲဧကန် အသင်ဖခင်၏ သားတော်သည် ခိုးဝှက်ခဲ့ပါသည်။ ၎င်းပြင် ကျွန်တော်မျိုးတို့သည် မိမိတို့(မျက်မြင်ကိုယ်တွေ့) သိရှိခဲ့ကြသည်မှတစ်ပါး အခြားတစ်စုံတစ်ရာကိုသက်သေခံကြသည် မဟုတ်ပါ။ စင်စစ်မှာမူကား ကျွန် တော်မျိုးတို့သည် အကွယ်၌ရှိသော ကိစ္စများကို သိရှိကြသည် မဟုတ်ပါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

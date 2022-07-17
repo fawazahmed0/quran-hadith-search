@@ -710,6 +710,12 @@ Rekokha: “Slava na nashiya Gospod! Byakhme ugnetiteli.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။ ထိုအခါသူတို့က အကျွနု်ပ်တို့၏ အရှင်သခင်သည် ဇာတိကပတိအားဖြင့် ကုံလုံမွန်မြတ် အံ့ချီးမဆုံးဖြစ်တော်မူပါ၏၊ အကျွနု်ပ်တို့မှာမူကား မကောင်းမှု ကျူးလွန်သူများ မုချဧကန်ဖြစ်ကြပြီဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ၎င်းတို့က ကျွန်တော်မျိုးတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် စင်ကြယ် သန့်ရှင်းတော်မူပါ၏။ ဧကန်မလွဲ ကျွန်တော်မျိုးတို့သည်သာလျှင် မတရားသောသူများ ဖြစ်ကြပါသည်ဟု မြွက်ဆိုခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

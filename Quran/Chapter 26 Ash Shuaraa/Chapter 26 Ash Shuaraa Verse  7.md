@@ -710,6 +710,12 @@ I nima ne poglezhdat kŭm zemyata, kolko polezni vidove nakarakhme da poniknat o
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	သူတို့သည် ကမ္ဘာမြေပြင်ကို မကြည့်ရှုကြသလော၊ ငါသည် မြေ၌ အထူးထူးသောဥမျိုး၊ ပွင့်မျိုး၊ သီးမျိုးစုံတို့ကို အဘယ်မျှလောက်များပြားစွာပေါက်ရောက်စေတော်မူသည်ကို မြင်ကြသည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ပထဝီမြေကို မမြင်ခဲ့ကြလေသလော။ ငါအရှင်မြတ်သည် ယင်းပထဝီမြေ၌ တင့်တယ် ကောင်းမြတ်လှစွာသော(သစ်ဥ၊ သစ်ပွင့်၊ သစ်သီးအစရှိသော) အမျိုးအစားတိုင်းမှ အဘယ်မျှလောက် များပြားစွာ ပေါက်ရောက်စေတော်မူခဲ့ပါသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

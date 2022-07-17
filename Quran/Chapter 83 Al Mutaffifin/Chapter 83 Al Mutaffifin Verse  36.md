@@ -710,6 +710,12 @@ Ne se li vŭzdade na nevernitsite za onova, koeto sa vŭrshili
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။ မိစ္ဆာဒိဋ္ဌိတို့အား လောကဓာတ်၌ ပြုကျင့်သမျှတို့ကို ပြန်ဆပ်ပြီမဟုတ်လား။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကာဖိရ်" သွေဖည်ငြင်းပယ်သောသူတို့သည် မိမိတို့ပြုလုပ်လေ့ရှိခဲ့ကြသော အပြုအမူတို့၏အကျိုး ပေးဆပ်ခြင်းကို ခံကြရပြီမဟုတ်လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

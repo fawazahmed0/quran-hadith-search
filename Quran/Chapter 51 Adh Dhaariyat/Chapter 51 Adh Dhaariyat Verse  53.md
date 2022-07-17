@@ -710,6 +710,12 @@ Nima si zaveshtavakha tova edin drugimu? Ne, ala te sa prestŭpvashti khora
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။	ယင်းကဲ့သို့ မိုက်ရိုင်းစော်ကားခြင်းကို တစ်ဦးမှ တစ်ဦးသို့ အမွေပေးခဲ့သလော၊ မဟုတ်ချေ၊ သူတို့သည် တရားတော်ကို ကျူးလွန်သူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် အချင်းချင်း တစ်ဦးကိုတစ်ဦး ဤအတိုင်း ပြောဆိုကြရန် မှာကြားခဲ့ကြလေသလော။ ထိုသို့အလျှင်းမဟုတ်။ စင်စစ် ၎င်းတို့(အားလုံး)မှာကား ဆိုးသွမ်းသူတို့ပင် ဖြစ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

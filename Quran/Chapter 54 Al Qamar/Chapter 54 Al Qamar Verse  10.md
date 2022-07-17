@@ -710,6 +710,12 @@ Togava prizova toĭ svoya Gospod: “Az sŭm pobeden, pomogni mi!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	ထို့ကြောင့်သူသည် မိမိအရှင်သခင်အထံတော်၌ အို-အရှင်မြတ်၊ အကျွနု်ပ်သည် အရေးမလှဆုံးရှုံးပါပြီ၊ အကျွနု်ပ် အား စောင်မတော်မူပါဟု ငိုကြွေးတောင်းပန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ထို'နူဟ်'သည် ၎င်းအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်၌ (အို-အရှင်)ဧကန်စင်စစ် ကျွန်တော်မျိုးသည် အရေးမလှသူ (ဖိနှိပ် ခြင်းခံရသူ) ဖြစ်နေပါသည်။ သို့ဖြစ်ပါ၍ အရှင်မြတ်သည် လက်စားချေတော်မူပါဟု ပန်ကြားခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

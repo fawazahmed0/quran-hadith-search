@@ -710,6 +710,12 @@ I obitatelite na Ogŭnya shte vikat kŭm obitatelite na Raya: “Izleĭte za na
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅ဝ။	ငရဲသားတို့သည် ဂျန္နတ်သုခဘုံသားတို့အား ဟယ်-အချင်းတို့ အကျွနု်ပ်တို့အပေါ်သို့ ရေအချို့ လောင်းချကြပါ။ သို့မဟုတ် အလ္လာဟ်အသျှင်မြတ်သည် သင်တို့အား ပေးသနားတော်မူသော ရိက္ခာကို ပစ်ချပေးကြပါဟု အော်၍ တောင်းကြ၏။ ဂျန္နတ်သုခဘုံသားတို့က ဟယ်-ငရဲသားတို့ အလ္လာဟ် အသျှင်မြတ်သည် သင်တို့တောင်းသော အရာနှစ်ခုလုံးကို မိစ္ဆာဒိဌိတို့အဖို့မဟုတ်ဟု ပညတ်ထား တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ငရဲသားတို့သည် ဂျန္နတ် အမတသုခဘုံသားတို့အား အသင်တို့သည် ကျွန်ုပ်တို့အပေါ် ရေအနည်းငယ်မျှကိုသော်လည်းကောင်း၊ အလ္လာဟ် အရှင်မြတ်ကအသင်တို့အား ချီးမြှင့်ပေးသနား တော်မူသောစားသောက်ဖွယ်အချို့ကိုသော်လည်းကောင်း၊ ပေးသနားကြပါ ဟု ဟစ်အော်တောင်းခံကြလတ္တံ့။ ထိုအခါ ယင်း(ဂျန္နတ်အမတသုခဘုံသား)တို့က ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် ထို (ရေနှင့်စားသောက်ဖွယ်) နှစ်ခုလုံးကိုပင် ကာဖိရ် မယုံမကြည် သွေဖည်ငြင်းပယ်သူတို့အပေါ် ဟရာမ် ဟူ၍ တားမြစ်ထားတော်မူသည်ဟု ဖြေကြားကြကုန်အံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

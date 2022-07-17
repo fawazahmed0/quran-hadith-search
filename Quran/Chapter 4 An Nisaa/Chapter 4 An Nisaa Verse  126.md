@@ -710,6 +710,12 @@ Na Allakh e vsichko na nebesata i vsichko na zemyata. Allakh obkhvashta vsyako n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၆။	အလ္လာဟ်အသျှင်မြတ်သည် မိုးကောင်းကင်နှင့် ကမ္ဘာမြေပေါ်ဝယ် ရှိရှိသမျှအပေါင်းတို့ကို သိမ်းရုံး စိုးပိုင်တော်မူ၏။ အရာခပ်သိမ်းကုန်တို့ကို ဝိုင်းဝန်းလွှမ်းမိုးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်တဝ အာကာသကောင်းကင်များ၌ ရှိရှိသမျှတို့သည်လည်းကောင်း၊ ပထဝီမြေကြီး၌ ရှိရှိသမျှတို့သည်လည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ်ပိုင်ဆိုင်သော ပစ္စည်းများသာဖြစ်သည်။ စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို ဝန်းခြုံလျက်ရှိတော်မူသောအရှင် ဖြစ်တော်မူသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kaza: “Napravikh go togava, kogato byakh ot zabludenite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	တမန်တော်မူစာက အကျွနု်ပ်သည် လမ်းလွဲသွားသူတို့အထဲ ပါဝင်စဉ်က ထိုအမှုကို ပြုမိပါသည်ဟု ပြန်ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(မူစာ)က (ဤသို့)ပြောဆိုဖြေကြားခဲ့၏။ ငါသည် ယင်းအပြုအမူကို မဆင်ခြင် မသိတတ်သောအခါ၌ မေ့မှား ပြုမိခဲ့ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

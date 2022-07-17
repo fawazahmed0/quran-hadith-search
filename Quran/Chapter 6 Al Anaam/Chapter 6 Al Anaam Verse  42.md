@@ -710,6 +710,12 @@ I na obshtnostite predi teb izprashtakhme pratenitsi i s nishteta i bolesti gi s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	ငါအသျှင်မြတ်သည်လူသားတို့ထံသို့ သင်အလျင် တမန်တော်များကို စေလွှတ်တော်မူပြီ။ ထိုသူတို့ သည် မာန်မာနမကြီးဘဲ မိမိတို့ကိုယ်ကို မိမိတို့ နှိမ့်ချစေခြင်းငှာ သူတို့အား ဆင်းရဲဒုက္ခအမျိုးမျိုးကို ခံစားစေတော်မူပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) မချွတ်မလွဲ ငါအရှင်မြတ်သည် အသင့်အလျင် ရှိခဲ့ကြကုန်သောလူမျိုး များတို့ထံသို့လည်း(ရစူလ်တမန်တော်များကို) စေလွှတ်တော်မူခဲ့လေသည်။ ထို့နောက် (ယင်းလူမျိုးတို့သည် ထိုတမန်တော်များအား သွေဖည်ငြင်းပယ် ခဲ့ကြလေရာ) ငါအရှင်မြတ်သည် ယင်းသူတို့၌ဆင်းရဲဒုက္ဓများနှင့် ရောဂါဝေဒနာများ ဆိုက်ရောက်စေ တော်မူခဲ့လေသည်။ သို့မှသာလျှင် ထိုသူများသည် ကျိုးနွံကြပေမည်။ (နောင်တ တရားရရှိကြပေမည်။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ takŭv be obichayat na Allakh i predi. I ti ne shte otkriesh promyana v obichaya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	လွန်လေပြီးသောအတိတ်ကာလဝယ် အလ္လာဟ်အရှင်မြတ်၏ ပညတ်တရားတော်သည် တည်လေ၏၊ ထိုပညတ် တော်သည် မည်သည့်အခါမျှ တနည်းတဖုံပြောင်းလဲသည်ကို သင်တွေ့ရမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤသည်)ရှေးအထက်ကျော်ကာလက လွန်လေခဲ့ပြီးဖြစ်သော အလ္လာဟ်အရှင်မြတ်၏ စည်းကမ်းပင် ဖြစ်၏။ ၎င်းပြင် (အို-နဗီတမန်တော်၊)အသင်သည် အလ္လာဟ်အရှင်မြတ်၏ စည်းကမ်း၌ မည်သည့်ပြောင်းလဲမှုကိုမျှ အလျှင်းတွေ့ရှိမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

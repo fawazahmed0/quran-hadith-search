@@ -710,6 +710,12 @@ I se upovavaĭ na Vsemogŭshtiya, Milosŭrdniya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁၇။	ထို့အပြင်သင်သည် အနန္တတန်ခိုးတော်အရှင်၊ အနန္တကောင်းကြီးမင်္ဂလာတော်သခင်အား ယုံကြည်ကိုးစားလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်သည် အလွန်တရာ အားအင်ပြည့်စုံတော်မူသော အလွန်တရာ သနားကရုဏာပြုတော်မူသော အရှင်မြတ်အပေါ်၌ ယုံပုံ အားထားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ O, vyarvashti, ako se pokorite na nevernitsite, te shte vi tlaskat nazad [kŭm n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၉။	အို-ယုံကြည်သူတို့ သင်တို့သည် မိစ္ဆာဒိဌိတို့၏ သြဝါဒကို လိုက်နာဆောင်ရွက်လျှင် သူတို့သည် သင်တို့အား သင်တို့၏ခြေဖနောင့်များပေါ် လှည့်ပြေးစေမည်။ သင်တို့သည် ဆုံးရှုံးပျက်စီးကြမည်သာ တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ယုံကြည်ခြင်း သဒ္ဓါတရားထားရှိသူ အပေါင်းတို့၊ အသင်တို့သည် အကယ်၍သာ ကာဖိရ် ငြင်းပယ်သောသူတို့(ပြောဆိုကြသည့်အတိုင်း) လိုက်နာကြပါမူ၊ ယင်းသူတို့သည်အသင်တို့အား (အစ္စလာမ်သာသနာတော်မှ ကုဖ်ရ် အယူဝါဒများဖက်သို့) ပြန်လည်၍ လှည့်စေကြကုန်အံ့။ သို့ပြန်လှည့်သွားကြလျှင် အသင်တို့သည် နစ်နာဆုံးရှုံးသူများအဖြစ်သို့ရောက်ရှိသွားကြကုန်လတ္တံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

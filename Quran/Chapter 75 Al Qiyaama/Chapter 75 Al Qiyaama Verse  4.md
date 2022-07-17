@@ -710,6 +710,12 @@ Naistina Nie mozhem da vŭzstanovim i vŭrkhovete na prŭstite mu
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။ ယင်းသို့မထင်ကြလင့်၊ အမှန်ပင် ငါသည် လူသား၏ လက်ချောင်းဖျားများကို နဂိုရ်အတိုင်း ပြန်ဖြစ်စေတော် မူနိုင်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အဘယ်ကြောင့် မဟုတ်ပါသနည်း။ ငါအရှင်မြတ်သည် ထိုလူသား၏ လက်ဆစ်ခြေဆစ်များကိုပင်လျှင် မူလအခြေအနေအတိုင်း ပြန်၍ပြုပြင်ဖန်ဆင်းရန် တတ်စွမ်းနိုင်တော်မူသောအရှင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

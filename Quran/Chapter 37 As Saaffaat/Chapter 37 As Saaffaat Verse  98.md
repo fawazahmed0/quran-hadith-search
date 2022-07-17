@@ -710,6 +710,12 @@ Zamislikha kovarstvo spryamo nego, no Nie storikhme te da sa unizenite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၈။	ထိုမိစ္ဆာမိုက်တို့သည် တမန်တော်အေဗရာဟမ်ကို ယင်းကဲ့သို့သတ်ဖြတ်ရန် ဥပါယ်တမည်တစ်ခုကြံစည်ကြ၏၊ သို့သော်ငါအရှင်မြတ်သည် သူတို့အား ဆုံးရှုံးအောက်ကျစေတော်မူ၏၊ အနိမ့်ဆုံးသို့ ချတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အချုပ်မှာ ၎င်းတို့သည် ထိုအီဗ်ရာဟီမ်နှင့်ပတ်သက်၍ မကောင်းသောအကြံအစည်ကို ကြံရွယ်ခဲ့ကြသော်လည်း ငါအရှင်မြတ်သည် ၎င်းတို့အား (အရေး)နိမ့်စေတော်မူခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

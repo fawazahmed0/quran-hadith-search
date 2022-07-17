@@ -710,6 +710,12 @@ A ako gi popitash koĭ e sŭtvoril nebesata i zemyata, i e podchinil slŭntseto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၁။	တမန်တော်၊ သင်သည် အယူမှားသူတို့အား ဟယ်-အချင်းတို့၊ မိုးကောင်းကင်နှင့် ကမ္ဘာမြေကြီးကို အဘယ်သူ ဖန်ဆင်းသနည်း၊ နေနှင့်လတို့အား မိမိတို့သက်ဆိုင်ရာဝတ္တရားကို အဘယ်သူဆောင်ရွက်စေသနည်းဟု မေးခဲ့လျှင် သူတို့က အလ္လာဟ်အရှင်မြတ်ဟု ဖြေဆိုကြလတံ့၊ သို့ပါလျက်သူတို့သည် သစ္စာတရားတော်ကို ကျောပေးသွားရန် လှည့်စားခြင်းကို အဘယ်သို့ခံကြသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အကယ်၍ အသင်သည် ထိုသူတို့အား "မည်သူသည် မိုးကောင်းကင်များကို လည်းကောင်း၊ပထဝီမြေကိုလည်းကောင်း၊ ဖန်ဆင်းခဲ့သနည်း၊ ထိုနည်းတူစွာ မည်သူသည် လေကိုလည်းကောင်း၊ လကိုလည်းကောင်း၊ ပိုင်နိုင်စွာ ခိုင်းစေသနည်း"ဟု မေးမြန်းခဲ့ပါလျှင် ၎င်းတို့သည် ‘အလ္လာဟ်အရှင်မြတ်’ဟူ၍ပင် ဧကန်မလွဲ ပြောဆိုကြပေမည်။ သို့ပါလျက် ၎င်းတို့သည် (အလ္လာဟ်အရှင်မြတ် တစ်ဆူတည်း ဖြစ်တော်မူကြောင်းကို ယုံကြည်လက်ခံခြင်းမပြုဘဲ) အဘယ်သို့ လှည့်သွားကုန်ကြသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

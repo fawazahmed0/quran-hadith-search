@@ -710,6 +710,12 @@ I ako gi popitash koĭ e sŭtvoril nebesata i zemyata, shte rekat: “Sŭtvoril
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။ အို-တမန်တော်၊ သင်သည် ထိုမယုံကြည်သူတို့အား ဟယ်-အချင်းတို့၊ မိုးမြေကို အဘယ်သူဖန်ဆင်းသနည်းဟု မေးလျှင် သူတို့က အနန္တတန်ခိုးတော်သခင်၊ သဗ္ဗညုတဉာာဏ်တော်ရှင်၊ ဖန်ဆင်းတော်မူသည်ဟု ပြန်ဖြေကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် အကယ်၍ (အို-နဗီတမန်တော်၊) အသင်သည် ထိုသူတို့အား "မိုးကောင်းကင်များကို လည်းကောင်း၊ပထဝီမြေကိုလည်းကောင်း၊ မည်သူသည် ဖန်ဆင်းခဲ့သနည်း"ဟု မေးမြန်းခဲ့ပါလျှင် ထိုသူတို့က ယင်း(မိုးကောင်းကင်များနှင့်ပထဝီမြေ) တို့ကို အလွန်တရာ နိုင်နင်းလွှမ်းမိုးတော်မူသော၊ အကြွင်းမဲ့ သိတော်မူသော အရှင်မြတ် ဖန်ဆင်းတော်မူခဲ့သည်ဟူ၍ပင် ဧကန်မလွဲ ဖြေဆိုကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

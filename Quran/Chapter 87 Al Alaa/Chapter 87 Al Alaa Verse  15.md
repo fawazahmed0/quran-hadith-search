@@ -710,6 +710,12 @@ i spomenava imeto na svoya Gospod, i ot·sluzhva molitvata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၊၁၅။ သို့သော်မိမိကိုယ်ကို သန့်ရှင်းစေ၍ မိမိအရှင်သခင်၏ နာမတော်ကို သတိရလျက် ဆွလားသ်ဝတ်ပြုသောသူ မူကား အောင်မြင်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုသူသည် မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏နာမံတော်ကို အောက်မေ့ တသပြီးနောက် "ဆွလာတ်" ဝတ်ပြုခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

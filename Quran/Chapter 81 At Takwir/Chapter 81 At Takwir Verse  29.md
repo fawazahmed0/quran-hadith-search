@@ -710,6 +710,12 @@ Togava shte pozhelavate samo onova, koeto zhelae Allakh, Gospodŭt na svetovete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။ သို့သော်အနန္တစကြာဝဠာတို့၏ အရှင်သခင်၊ အလ္လာဟ်အရှင်မြတ်အလိုတော်မရှိပဲလျက် သင်တို့လိုက်လိုမည် မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား စကြဝဠာခပ်သိမ်းတို့ကို ဖန်ဆင်းမွေးမြူတော်မူသော အလ္လာဟ်အရှင်မြတ် အလိုရှိတော်မူမှသာလျှင် အသင်တို့သည် အလိုရှိနိုင်ကြပေ မည်တကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

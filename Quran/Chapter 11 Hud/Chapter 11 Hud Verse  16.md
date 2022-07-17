@@ -710,6 +710,12 @@ Tezi sa, koito v otvŭdniya zhivot shte imat samo Ogŭnya i shte se provali, kak
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	ဤလူများအတွက် နောင်ဘဝ၌ ငရဲမီးမှတပါး အခြားတစုံတရာမျှမရှိချေ။ သူတို့ကြံစည်မှုနှင့် ကြိုးပမ်းအားထုတ်မှု အားလုံးသည် အကျိုးမရှိအချည်းနှီးသာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသူများသည် အကြင်သူများပင်တည်း။ ထိုသူတို့အဖို့ နောင်တမလွန်ဘဝတွင် ငရဲမီးမှအပ အခြားတစ်စုံတစ်ရာမျှပင် (အကျိုးခံစားခွင့်) ရှိလိမ့် မည်မဟုတ်ပေ။ ထို့ပြင်၎င်းတို့ပြုလုပ်သမျှတို့သည် အချည်းနှီးပင်ဖြစ်သည့်ပြင် ၎င်းတို့ကျင့်မူဆောင်ရွက် ခဲ့သမျှတို့သည်လည်း နောင်တမလွန်ဘဝတွင် အကျိုးမဲ့ ဖြစ်လိမ့်မည်သာတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I ne podkanvashe da bŭde nakhranen nuzhdaeshtiyat se
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။ ထို့အပြင်သူသည် သူဆင်းရဲတို့အား ကျွေးမွေးရန် မတိုက်တွန်းခဲ့ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သူဆင်းရဲတို့အား ကျွေးမွေးရန် တိုက်တွန်းလေ့ရှိခဲ့သည်လည်း မရှိပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

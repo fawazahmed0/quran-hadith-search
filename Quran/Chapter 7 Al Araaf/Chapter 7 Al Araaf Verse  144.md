@@ -710,6 +710,12 @@ Kaza: “O, Musa, Az teb izbrakh nad khorata chrez Moite poslaniya i Moeto Slovo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၃။	အသျှင်မြတ်က ဗျာဒိတ်ချတော်မူ၏။ အို-မူဆာ ငါသည် သင့်အား နှုတ်ကပတ်တော်များ ပေးအပ် တော်မူခြင်း၊ တိုက်ရိုက် ဗျာဒိတ်စကားပြောတော်မူခြင်းတို့ဖြင့် လူသားအပေါင်းတို့ထက် သာလွန် မြတ်နိုးချီးမြှောက်တော်မူ၏။ ထို့ကြောင့် ငါပေးသနားတော်မူသော ကျမ်းတော်မြတ်ကို သဒ္ဒါကြည်ညို ရိုသေလေးမြတ်စွာ ကိုင်ထားလော့။ သင်သည် ဂုဏ်ကျေးဇူးတော်ကို ချီးကျူးသူတို့ဘောင်တွင် ပါဝင်လော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါအလ္လာဟ်)အရှင်မြတ်သည် (ဤသို့)မိန့်ကြားတော်မူခဲ့လေသည်။ အို-(နဗီတမန်တော်) မူစာ၊ ဧကန်စင်စစ် ငါအရှင်မြတ်သည် အသင့်အား လူအများပေါ်၌ မိမိရစူလ်တမန်တော်အဖြစ်ကို ချီးမြှင့်တော်မူခြင်းအားဖြင့်လည်းကောင်း၊ ငါအရှင်မြတ်သည် အသင်နှင့်စကားပြောဆိုတော်မူခြင်းအားဖြင့်လည်းကောင်း၊ ရွေးချယ်မြှောက်စားတော်မူ လိုက်ပြီ။ သို့ဖြစ်ပေရာ အသင်သည် အသင့်အား ငါအရှင်မြတ်ချီးမြှင့်ပေးသနားတော်မူသည်(များ)ကို ယူပါလေ။ ၎င်းပြင်အသင်သည် ကျေးဇူးတော်ကိုသိတတ်သူ တို့တွင် အပါအဝင်ဖြစ်ပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

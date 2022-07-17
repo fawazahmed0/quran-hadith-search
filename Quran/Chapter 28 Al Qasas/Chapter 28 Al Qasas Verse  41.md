@@ -710,6 +710,12 @@ I gi storikhme voditeli, prizovavashti kŭm Ogŭnya. I v Denya na vŭzkresenieto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	ထို့အပြင်ငါသည် သူတို့အား အဝီစိငရဲမီးထဲသို့ ဖိတ်ခေါ်သောသူတို့၏ စံနမူနာဖြစ်တော်မူ၏၊ သူတို့သည် ရှင်ပြန်ထမြောက်ရသောနေ့တော်ကြီး၌ အကူအညီရကြမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ငါအရှင်မြတ်သည် ၎င်းတို့အား ငရဲသို့ဖိတ်ခေါ်ကြကုန်သော ရှေ့ဆောင်ရှေ့ရပ်များအဖြစ် ပြုလုပ်တော်မူခဲ့၏။ ၎င်းပြင် ‘ကိယာမတ်’ ရှင်ပြန် ထမည့်နေ့တွင်ထိုသူတို့သည် ကူညီစောင်မခြင်းကို လုံးဝခံကြရမည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

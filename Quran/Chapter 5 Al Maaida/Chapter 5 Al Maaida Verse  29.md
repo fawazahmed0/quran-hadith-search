@@ -710,6 +710,12 @@ Iskam da se obremenish s grekha protiv men i sŭs svoya gryakh, i shte bŭdesh s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	သင်သည် ငါ၏အပြစ်ဒဏ်၊ သင်၏အပြစ်ဒဏ်များကိုခံစား၍ အဝီစိငရဲမီး၏ ပိုင်ရှင်များဘောင်တွင် အပါအဝင်ဖြစ်လိုလျှင် ဖြစ်စေတော့။ ငါကား မဖြစ်လို ငရဲမီးသည် ဒုစရိုက်မှုကျုးလွန်သူတို့၏ ဆုလာဘ်ဖြစ်၏ဟု ပြောပြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 “ဧကန်စင်စစ် ကျွန်ုပ် (အားသတ်ဖြတ်ခြင်း) ၏အပြစ်ကိုလည်းကောင်း၊ အသင်၏ (ယခင်) အပြစ်ကိုလည်းကောင်း အသင်သာလျှင် (မိမိပခုံးဖြင့်) ထမ်းဆောင်၍ ပြန်သွားရန် ကျွန်ုပ်ရည်စူး၏။ ထို့နောက် အသင်သည် ငရဲသားတို့တွင် အပါအဝင်ဖြစ်ချေမည်။ အမှန်စင်စစ် ဤသည်သာလျှင် မတော်မတရားပြုမူသောသူတို့၏ အကျိုးတည်း။”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

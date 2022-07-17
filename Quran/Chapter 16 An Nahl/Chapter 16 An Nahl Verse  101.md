@@ -710,6 +710,12 @@ I kogato podmenyakhme edno znamenie s drugo - a Allakh naĭ-dobre znae kakvo ni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၁။	အလ္လာဟ်အရှင်မြတ်သည် မိမိချပေးတော်မူသောကျမ်းတော်ကို ကောင်းစွာသိတော်မူ၏။ ငါအရှင်မြတ်သည် ကျမ်းတော်တစောင်ကို အခြားကျမ်းတော်တစောင်နှင့် အစားထိုးတော်မူသောအခါ အယူမှားသူတို့သည် သင့်အား မဟုတ်မမှန်လုပ်ဇာတ်ခင်းနေသည်ဟု စွပ်စွဲကြ၏။ သူတို့အနက် များစွာသောသူတို့သည် မသိမမြင်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ငါအရှင်မြတ်သည် အာယတ်တော်တစ်ပုဒ်ကို အာယတ်တော်တစ်ပုဒ်၏ နေရာတွင် ပြောင်းလဲတော်မူသောအခါ အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် မိမိချပေးတော်မူသော အမိန့်ပညတ်တော်ကို အသိတော်မူဆုံးပင်ချပေးတော်မူသော အမိန့်ပညတ်တော်ကို အသိတော်မူဆုံးပင်ဖြစ်တော်မူ၏။ ယင်း (ကာဖိရ်သွေဖည်ငြင်းပယ်သော)သူတို့ကအသင်သည် ကြံဖန်လီဆယ်သူမျှသာဖြစ်သည်ဟု ပြောဆိုကြကုန်၏။ ထိုသို့အလျှင်းမဟုတ်၊ စင်စစ်မှာကား ၎င်းတို့အနက်အများဆုံးသောသူတို့သည် မသိနားမလည်ကြပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I mu otredikhme dobrina v zemniya zhivot, i v otvŭdniya e sred pravednitsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၂။	ထို့အပြင်ငါအရှင်မြတ်သည် သူ့အား ဤဘဝ၌ ကောင်းကြီးမင်္ဂလာပြုတော်မူ၍ နောင်တမလွန်ဘဝ၌ သူသည် အရှင်မြတ်နှင့် တရားတော်ကို ကြည်ညိုသောသူတော်စင်တို့ဘောင်တွင် ပါဝင်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ထို(နဗီတမန်တော်) အစ်ဗ်ရာဟီမ်အား ဤမျက်မှောက်လောက၌လည်း၊ကောင်းမြတ်ခြင်းကို ချီးမြှင့်ပေးသနားတော်မူခဲ့၏။ ၎င်းပြင်ဧကန်စင်စစ် ယင်း(နဗီတမန်တော်) အစ်ဗ်ရာဟီမ်သည်တမလွန်ဘဝ၌လည်း အမှန်ပင် သူတော်စင်တို့အနက်မှဖြစ်အံ့သတည်း။ပြန်ထမည့်နေ့တွင် ၎င်းတို့သဘောကွဲလွဲလျက်ရှိခဲ့ကြသောအရာနှင့်စပ်လျဉ်း၍ အမှန်ပင် စီရင်ဆုံးဖြတ်တော်မူအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Koĭto vŭrshi pravedni dela, to e za samiya nego, a koĭto stori zlo, to e v 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။	သုစရိုက်ကောင်းမှုပွားများသူသည် မိမိဝိညာဉ်ကို အကျိုးပြု၏၊ ဒုစရိုက်မကောင်းမှုကို ပြုကျင့်သူတို့မှာမူကား မိမိဝိညာဉ်နစ်နာစေ၏၊ သင်၏အရှင်သခင်သည် မိမိ၏ ကျေးကျွန်များကို မည်သည့်အခါမှ မတရားနှိပ်စက် တော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သူမဆို ကောင်းမြတ်သောအကျင့်သီလကိုကျင့်မူဆောက်တည်ပါလျှင် မိမိအကျိုးငှာကျင့်မူ ဆောက်တည်ခြင်းပင် ဖြစ်ပေသည်။ ထိုနည်းတူစွာ မည်သူမဆို မကောင်းမှုကိုပြုလုပ်သည်ရှိသော်(ယင်းမကောင်းမှု၏ဆိုးကျိုးမှာ) ၎င်း၏အပေါ်၌သာကျ ရောက်မည်ဖြစ်၏။ အမှန်စင်စစ်သော်ကားအသင့်အား ဖန်ဆင်း မွေးမြူတော်မူသော အရှင်မြတ်သည်ကျွန်တို့အပေါ်ဝယ် နှိပ်စက်ကလူ ပြုတော်မူသောအရှင် မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

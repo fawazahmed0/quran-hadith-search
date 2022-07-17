@@ -710,6 +710,12 @@ Denyat na razdelenieto e urechen
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။ စင်စစ်အားဖြင့် စီရင်ဆုံးဖြတ်တော်မူသောနေ့တော်ကြီးသည် သတ်မှတ်ထားတော်မူသောအချိန်ကာလဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ စီရင်ဆုံးဖြတ်မည့်နေ့ကား သတ်မှတ်ပြီးဖြစ်သော အချိန်ကာလတစ်ခုပင် ဖြစ်ပေသည်၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Naistina v tova se sŭdŭrzha pouka za vseki, koĭto ima sŭrtse ili se vslushv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	မှတ်သားကြလော့၊ ဤအကြောင်းအရာများတွင် စိတ်နှလုံးအရင်းခံကောင်းသူအတွက်သော်လည်းကောင်း၊ ရေးခြားလိမ္မာစွာနားထောင်သူအတွက်သော်လည်းကောင်း၊ ဆုံးမသွန်သင်သတိပေးစကားများ ဧကန်အမှန်ပါရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်ဧကန် ဤသည်၌ စိတ်နှလုံးရှိသော သူတို့အဖို့ သို့မဟုတ် စိတ်ပါဝင်စားစွာ အသင့်ရောက် ရှိ၍ နားစိုက်သော သူတို့အဖို့ အမှန်ပင် သင်ခန်းစာရှိ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

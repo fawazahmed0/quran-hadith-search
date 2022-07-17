@@ -710,6 +710,12 @@ Posle [rabite] shte bŭdat vŭrnati pri Allakh, tekhniya istinski Gospodar. Edin
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	ထို့နောက် ထိုသေသူများသည် သူတို့၏ ကျေးဇူးတော်သခင်၊ မှန်ကန်ဖြောင့်မတ်သောအသျှင် အလ္လာဟ်ထံသို့ ပြန်ပို့ခြင်းခံကြရ၏။ အကယ်စင်စစ် ဆုံးဖြတ်စီရင်ချက်ချရန်မှာ အသျှင်မြတ်၏ ပိုင်ဆိုင်ခြင်းသာဖြစ်၏။ အသျှင်မြတ်သည် စာရင်းစစ်အပေါင်းတို့တွင် အမြန်ဆုံးဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် တဖန် ယင်းသူတို့သည် မိမိတို့၏အရှင်သခင် အစစ်အမှန် ဖြစ်တော်မူသော အလ္လာဟ်အရှင်မြတ်အထံတော်သို့ ပြန်လည်ပို့ဆောင်ခြင်းကို ခံကြရမည်။ နားထောင်ကြလေကုန်။ စီရင်ဆုံးဖြတ်ရန် တန်ခိုးအာဏာသည်ထိုအရှင်မြတ်၌သာရှိသည်။ ၎င်းပြင် ထိုအရှင်မြတ်သည်အမြန်ဆုံး စောကြောမေးမြန်းတော်မူမည့် အရှင်မြတ်ပင်ဖြစ်တော်မူသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I taka Nie gi propŭdikhme ot gradini i izvori
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၇။	ငါသည် ဖွာရောမင်း၏ လူမျိုးများကို ဥယျာဉ်၊ ပန်းမာလ်၊ ရေကန်၊ ရေစမ်းတို့မှ ထုတ်ယူတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ငါအရှင်မြတ်သည် ထိုသူတို့အား ဥယျာဉ်များမှလည်းကောင်း၊ စမ်းချောင်းများမှလည်းကောင်း၊ထုတ်ပစ်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

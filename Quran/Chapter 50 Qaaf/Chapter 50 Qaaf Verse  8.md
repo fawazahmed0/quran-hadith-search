@@ -710,6 +710,12 @@ pouka i napomnyane za vseki pokaĭvasht se rab
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	ယင်းကဲ့သို့ဖန်ဆင်းထားတော်မူခြင်းကား သတိသံဝေဂရသောကျေးကျွန်တော်တိုင်းအား အသိတရားနှင့် သတိပေး ဖို့ရာအတွက်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအလုံးစုံတို့မှာ) သံဝေဂရသော ကျွန်တိုင်းအဖို့ ဆင်ခြင်သုံးသပ်အပ်သောအရာ သည်လည်းကောင်း၊တရားရယူအပ်သောအရာ သည်လည်းကောင်း၊ ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

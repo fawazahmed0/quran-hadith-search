@@ -710,6 +710,12 @@ I gi zadrŭzhte!” Te nepremenno shte bŭdat pitani
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂၊၂၃၊၂၄။ ထို့အပြင်ကောင်းကင်တမန်တော်ထံသို့ ပြစ်မှုကျူးလွန်သူခဲ့သူများ၊ သူတို့၏ ဇနီးမိန်းမများ၊ အလ္လာဟ်အရှင် မြတ်မှတပါး သူတို့ကိုးကွယ်ခဲ့သောဘုရားတုဘုရားယောင်များအားလုံးကို စုရုံး၍ ငရဲလမ်းကို ညွှန်ပြကြလော့၊ သူတို့ကို စစ်ကြောစီရင်ဖို့ရာ ရပ်တန့်၍ ထားကြလော့ဟု ဗျာဒိတ်တော်လာ၏၊
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်တို့သည် ၎င်းတို့အား(အနည်းငယ်) ဆိုင်းငံ့၍ထားကြလေကုန်။ ဧကန်မလွဲ ၎င်းတို့သည် စစ်ဆေးမေးမြန်းခြင်း ခံကြရမည့်သူများပင် ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

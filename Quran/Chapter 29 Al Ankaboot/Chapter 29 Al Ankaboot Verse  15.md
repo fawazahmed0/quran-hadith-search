@@ -710,6 +710,12 @@ I spasikhme nego i obitatelite na Kovchega, i go storikhme znamenie za svetovete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	ထိုအခါငါသည် တမန်တော်နူဟိုကိုလည်းကောင်း၊ သူနှင့်အတူ သင်္ဘောပေါ်ရှိသူတို့ကိုလည်းကောင်း၊ ကယ်ဆယ် တော်မူ၏၊ ဤအဖြစ်အပျက်ကို လူသားအပေါင်းတို့အဖို့အရာ နိမိတ်လက္ခဏာအ့ံဖွယ်တော်တစ်ပါးဖြစ်စေ တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ငါအရှင်မြတ်သည် ထို’နူဟ်’ အားလည်းကောင်း၊ သင်္ဘော၌ပါရှိခဲ့သောသူတို့အား လည်းကောင်း၊ ကယ်တင်တော်မူခဲ့၏။ ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ထိုသင်္ဘောကို ကမ္ဘာသူကမ္ဘာသား ခပ်သိမ်းတို့အဖို့ သက်သေလက္ခဏာတစ်ရပ် ပြုလုပ်တော်မူခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

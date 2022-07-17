@@ -710,6 +710,12 @@ i ot Nego e povtornoto sŭtvoryavane
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	ထို့အပြင်အှင်မြတ်သည် ဒုတိယအကြိမ်ဖန်ဆင်းဦးမည်ဟု ဗျာဒိတ်ပေးတော်မူကြောင်းလည်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး မုချစင်စစ် ဒုတိယအကြိမ် ဖန်ဆင်းမှုသည် ထိုအရှင်မြတ်၏တာဝန်ပင် ဖြစ်သည်ဟူ၍ လည်းကောင်း၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

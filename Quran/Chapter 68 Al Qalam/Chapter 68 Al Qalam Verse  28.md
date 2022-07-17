@@ -710,6 +710,12 @@ Naĭ-razumniyat ot tyakh reche: “Ne vi li kazakh - zashto ne proslavyate Alla
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။ သို့သော် သူတို့အထဲက အခြားသူများထက် ဖြောင့်မတ်သောသူက ပြောဆိုသည်မှာ သင်တို့သည် အလ္လာဟ် အရှင်မြတ်အား အဘယ်ကြောင့်မချီးကျူး မတသ သနည်းဟု ငါမပြောခဲ့ဘူးလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့အနက် အလယ်အလတ်၊ အကောင်းဆုံး၊ဖြစ်သူက "ကျွန်ုပ် အသင်တို့အား (စောစောကပင် သတိပေးစကား) ပြောကြားခဲ့သည်မဟုတ်လော။ (သို့ဖြစ်ပေရာ ယခု)အသင်တို့သည် မည်သည့်အတွက်ကြောင့် (အလ္လာဟ်အရှင်မြတ်) စင်ကြယ်သန့်ရှင်းတော်မူကြောင်း မြွက်ဆိုခြင်းမပြုကြပါသနည်း" ဟု ပြောဆိုခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

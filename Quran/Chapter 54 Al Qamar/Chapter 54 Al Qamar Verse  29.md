@@ -710,6 +710,12 @@ No izvikakha tekhen drugar i toĭ se zae, i ya zakla
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	သို့သော် ထိုသူတို့သည် သူတို့အဆွေခင်ပွန်းတစ်ယောက်ကို ခေါ်၏၊ ထိုသူသည် ကုလားအုတ်မ၏ ဒူးကောက် ကြောကို လှီးဖြတ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ၎င်းတို့သည် မိမိတို့အဖော်အား ဟစ်ခေါ်ခဲ့ရာ ထိုအဖော်သည် လာရောက်ပြီးလျှင် ကုလားအုတ်မ၏ ခြေများကို ဖြတ်တောက်ခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

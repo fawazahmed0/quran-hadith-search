@@ -710,6 +710,12 @@ Mi Poslanika nismo pjesništvu učili, to mu ne priliči. Ovo je samo pouka – 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၉။	ငါသည် တမန်တော်မုဟမ္မဒ်အား လင်္ကာရေးအတတ်ပညာကို သင်ကြားပြသတော်မမူချေ၊ ထိုပညာသည် တမန်တော်နှင့် သင့်တင့်လျောက်ပတ်ခြင်းမရှိချေ၊ ဤကျမ်းတော်မြတ်ကား အခြားမဟုတ်၊ ဆုံမသြဝါဒဓမ္မနှင့် ကြေငြာထင်ရှားအဓိပ္ပါယ်နက်နဲလှသောကုရ်အာန်ဒေသနာတော်ကြီးသာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ငါအရှင်မြတ်သည် ထို (တမန်တော်မြတ်မုဟမ္မဒ်)အား လင်္ကာ (ဖွဲ့စပ်သီကုံးခြင်း)ကို သင်ကြားပို့ချ၍ ပေးတော်မူခဲ့သည် မဟုတ်ပေ။ ၎င်းပြင် ယင်းလင်္ကာ(စပ်ဆိုသီကုံးခြင်း)သည် ထို(တမန်တော်မြတ်)နှင့် အပ်စပ်သည်လည်းမဟုတ်ပေ။ ထို(တမန်တော်မြတ် ယူဆောင်လာသော) တရားဒေသနာမှာ ဆုံးမဩဝါဒနှင့် ထင်ရှားသော ကုရ်အာန်ကျမ်းမြတ်သာလျှင် ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

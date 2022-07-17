@@ -710,6 +710,12 @@ Reche tya: “O, znatni, spusnato mi be dostopochteno poslanie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	ရှီဗာပြည့်ရှင်ဘုရင်မက အို-မှုးမတ်တို့၊ အကျွနု်ပ်၏ သလွန်ထက်သို့ တန်ခိုးအာနုဘော်နှင့်ပြည့်စုံသောအမိန့်စာချွန် တော်တစ်စောင်ကို ပစ်ချ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(ရှီဗာဘုရင်မ)က (ဤသို့)ပြောကြားခဲ့လေ၏။အို-မှူးမတ်အပေါင်းတို့၊ ဧကန်စင်စစ် မြင့်မြတ်လှစွာသော စာတစ်စောင်သည် ကျွန်ုပ်၏ထံသို့ ပေးပို့ခြင်း ခံခဲ့ရလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

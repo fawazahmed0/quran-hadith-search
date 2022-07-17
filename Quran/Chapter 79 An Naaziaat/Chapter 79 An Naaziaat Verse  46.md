@@ -710,6 +710,12 @@ V Denya, kogato go vidyat, te syakash shte sa prebivavali samo edna privecher il
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။ ထိုနေ့တော်ကြီး၌ သူတို့သည် ထိုအချိန်ကို မြင်ရသောအခါ သူတို့သည် လောကဓာတ်၌ တစ်နေ့(သို့မဟုတ်) တစ်မနက်ခန့်မျှသာ နေခဲ့သကဲ့သို့ တွေးထင်ကြလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ယင်းကိယာမတ်ရှင်ပြန်ထမည့်နေ့ကို တွေ့မြင်ကြသောနေ့တွင် မိမိတို့မှ(ကမ္ဘာလောကလောကီဘဝ၌) တစ်ညနေချမ်းမျှ သို့မဟုတ် ထိုညနေချမ်း၏ တစ်နံနက်ခင်းမျှသာ နေထိုင်ခဲ့ဘိသကဲ့သို့ ထင်မှတ်ကြအံ့ သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

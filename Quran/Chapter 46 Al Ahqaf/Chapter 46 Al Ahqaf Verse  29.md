@@ -710,6 +710,12 @@ Kad ti poslasmo nekoliko džina da Kur’an slušaju, kad dođoše da ga čuju, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။ အို-တမန်တော်၊ ငါသည် ကျမ်းမြတ်ကုရ်အာန်ကို နာယူနားထောင်ရန် ဂျင်နတ်သားတစ်စုကို သင့်ထံသို့ လှည့်လာစေတော်မူ၏၊ သူတို့သည် ကျမ်းတော်ကို ဖတ်ရွတ်သောနေရာသို့ ရောက်သောအခါ သူတို့အချင်းချင်း ဆိတ်ငြိမ်စွာနားထောင်လော့ဟု ဆိုကြ၏၊ ကျမ်းတော်ကို ဖတ်ရွတ်ပြီးသောအခါ သူတို့သည် မိမိတို့လူများထံ ပြန်၍ သတိပေးနှိုးဆော်ကြလေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်၊ ပြန်လည်၍ ပြောပြပါလေ)တစ်ရံရောအခါဝယ် ငါအရှင်မြတ်သည် ဂျင်န်တစ်စုကို အသင်ရှိရာသို့ ရောက်ရှိစေတော်မူခဲ့ရာ ၎င်းတို့သည် ကုရ်အာန်ကျမ်းတော်မြတ်ကို နားထောင်ကြကုန်၏။ သို့ဖြစ်ပေရာ ၎င်းတို့သည် ထိုတမန်တော်မြတ်ရှိရာသို့ ရောက်ရှိခဲ့ကြသောအခါ ၎င်းတို့က (မိမိတို့အချင်းချင်း)အသင်တို့သည် ဆိတ်ဆိတ်နေကြလေကုန်ဟု ပြောဆိုခဲ့ကြကုန်၏။ ထို့နောက် ယင်းကုရ်အာန်ကျမ်းတော်မြတ် (ဖတ်ကြား၍)ပြီးဆုံးသွားသောအခါ ၎င်းတို့သည် မိမိတို့အမျိုးသားတို့ထံ သတိပေး နှိုးဆော်သူတို့အဖြစ် လှည့်ပြန်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

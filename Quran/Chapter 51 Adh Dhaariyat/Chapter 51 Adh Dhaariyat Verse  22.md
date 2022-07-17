@@ -710,6 +710,12 @@ Na nebeto ima prepitanie za vas i tam e onova, koeto vi e obeshtano
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	ထို့အပြင် အထက်ကောင်းကင်ဘုံတွင် သင်တို့အဖို့အရာ စားနပ်ရိက္ခာများရှိ၏၊ ထို့အပြင် သင်တို့အား ကတိထား တော်မူသောအရာများလည်းရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် မိုးကောင်းကင်၌ အသင်တို့၏ စားနပ်ရိက္ခာသည်လည်းကောင်း၊ အသင်တို့ ကတိပေးခြင်းခံကြရလေသော အရာသည်လည်းကောင်း၊ ရှိပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

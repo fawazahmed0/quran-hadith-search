@@ -710,6 +710,12 @@ Tya reche: “O, gorko mi! Az li shte rodya, sled kato sŭm prestaryala, a moyat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၂။	သူမက အို-ဒုက္ခပါပဲ၊ အကျွနု်ပ်သည် အသက်ကြီးပြီ၊ အကျွနု်ပ်၏ ဤခင်ပွန်းယောက်ျားသည်လည်း သက်ကြားအို ကြီးဖြစ်ပြီ၊ သို့ပါလျက် အကျွနု်ပ်သည် သားမွေးဦးမည်လော။ ဤသတင်းသည် အမှန်ပင်ဆန်းကျယ်လှပေ၏ဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ထိုကြင်ရာတော်(စာရာ)က ဪအကျုးိနည်းရလေခြင်း။ ကျွန်ုပ်သည် သားဖွားဦးမည်လော။စင်စစ်သော်ကား ကျွန်ုပ်သည် အသက်အရွယ်ကြီးရင့်သောအမယ်အိုတစ်ဦးဖြစ်ရုံမျှမက ဤကျွန်ုပ်၏ခင်ပွန်း (နဗီတမန်တော်အစ်ဗ်ရာဟီမ်) သည်လည်း အသက်အရွယ်ကြီးရင့်သောအဘိုးအိုတစ်ဦးပင်ဖြစ်ချေသည်။ ဧကန်စင်စစ် ဤသည်အလွန်အံ့ဖွယ်ရာ စကားတစ်ရပ်ပင်ဖြစ်ပေသည်တကားဟုပြောဆိုခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

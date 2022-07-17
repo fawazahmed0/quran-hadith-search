@@ -710,6 +710,12 @@ Nyama drug Bog osven Nego. Toĭ sŭzhivyava i Toĭ umŭrtvyava - vashiyat Gosp
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	အရှင်မြတ်မှတပါး အခြားအရှင်သခင်မရှိချေ၊ အလ္လာဟ်အရှင်မြတ်သာလျှင် အသက်ရှင်စေတော်မူ၏၊ အသက် သေစေတော်မူ၏၊ အရှင်မြတ်သည် သင်နှင့် သင်၏ မိဘဘိုးဘွားရှေးလူဟောင်းတို့၏ အသက်သခင်ကျေးဇူး ရှင်ကြီးဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်မှတစ်ပါး ခယရိုကျိုးဆည်းကပ် ကိုးကွယ်ရာအရှင်ဟူ၍ အလျှင်းမရှိပြီ။ ထိုအရှင်မြတ်သည် ရှင်စေတော်မူ၏။ ထိုအရှင်မြတ်သည်ပင် သေဆုံးစေတော်မူ၏။ထိုအရှင်မြတ်သည် အသင်တို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်၊ ရှေးသူဟောင်းများဖြစ်ကြသော အသင်တို့၏ အဘ ဘိုး ဘေးတို့အား လည်းကောင်း၊ ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

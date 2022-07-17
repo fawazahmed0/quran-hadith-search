@@ -710,6 +710,12 @@ I ne pristŭpvaĭte kŭm imota na siraka, osven s dobronamerenost, dokato ne do
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	မိဘမဲ့သူငယ်တို့အရွယ်ရောက်သည့်တိုင်အောင်၊ သူတို့၏ ဥစ္စာပစ္စည်းအနီးအပါးသို့ ထိုပစ္စည်းထက်သာသော ပစ္စည်းနှင့်မဟုတ်ပဲ မချဉ်းကပ်ကြလင့်။ ပဋီညာဉ်ဝန်ခံချက်ကို စောင့်စည်းကြလော့။ မှတ်သားကြလော့။ ထိုကတိ သစ္စာနှင့်စပ်လျဉ်း၍ စစ်ကြောစီရင်တော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်တို့သည် ကောင်းမွန်သောနည်းလမ်းမှတစ်ပါး အဖမဲ့ကလေးသူငယ်များ၏ ဥစ္စာ ပစ္စည်း၏အပါးသို့ပင် ၎င်းတို့ လူလားမြောက် အရွယ် ရောက်သည်အထိမချဉ်းကပ်ကြကုန်လင့်။ ထို့ပြင် အသင်တို့သည်(မိမိတို့ အချင်းချင်းတစ်ဖက်နှင့်တစ်ဖက်ထားရှိကြသော) ပဋိညာဉ်ကတိသစ္စာကို ကျေပွန်စွာဆောင်ရွက်ကြလေကုန်။ ဧကန်စင်စစ် ယင်းပဋိညာဉ် ကတိသစ္စာသည် စစ်ဆေးမေးမြန်းခံရမည့် အမှုကိစ္စပင်ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I razkrikhme na maĭkata na Musa: “Da go kŭrmish, a kogato se uplashish za n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	ထို့အပြင်ငါသည် မူစာ၏မိခင်အား ၎င်း၏စိတ်နှလုံးအတွင်းတွင် ဤဗျာဒိတော်ကို ထင်ရှားစေတော်မူ၏၊ သူ့အား နို့ရည်တိုက်ကျွေးလော့၊ သူ့အတွက် စိုးရိမ်ကြောင့်ကြဖြစ်လာသောအခါ သူ့ကို မြစ်ထဲသို့ပစ်ချလော့၊ မစိုးရိမ် ကြလင့်၊ စိတ်မပူပန်လင့်၊ မှတ်သားလော့၊ ငါသည် သင့်သားကို သင့်ထံပြန်ယူခဲ့တော်မူမည်၊ ငါသည် သူ့ကို ငါ၏ တမန်တော်တို့ဘောင်တွင် အပါအဝင်ဖြစ်စေတော်မူကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် မူစာ၏မိခင်ထံသို့ (ဤသို့) အသိပေးတော်မူခဲ့၏။ အသင်သည် ထိုမူစာအား နို့ရည်တိုက်ကျွေးလော့။ ထို့နောက် အသင်သည် ထိုမူစာနှင့်ပက်သက်၍ စိုးရိမ်သောအခါ ၎င်းအား မြစ်ထဲသို့ပစ်လေလော့။ထို့ပြင် အသင်သည် စိုးရိမ်ခြင်းလည်း မရှိလေနှင့်။ ပူဆွေးခြင်းလည်း မရှိလေနှင့်။ ဧကန်အမှန် ငါအရှင်မြတ်သည် ထိုမူစာအား အသင့်ထံသို့ ပြန်ပို့ပေးတော်မူမည့်အရှင် ထိုမှတစ်ပါး ထိုမူစာအား ရစူလ်တမန်တော်များတွင် တစ်ပါးအပါအဝင် ပြုလုပ်တော်မူမည့်အရှင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

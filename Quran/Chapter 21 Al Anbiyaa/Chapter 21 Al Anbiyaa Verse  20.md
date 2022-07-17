@@ -710,6 +710,12 @@ Proslavyat Go noshtem i denem, i ne prestavat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	သူတို့သည် အရှင်မြတ်အား နေ့ညမပြတ်အစဉ်အမြဲဝတ်ပြုချီးကျူးကြ၏၊ မောပန်းငြီးငွေ့ကြသည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်း (အပါးတော်၌ ရှိသူတို့သည်) (ထို အရှင်မြတ်) စင်ကြယ်သန့်ရှင်းတော်မူကြောင်းကို နေ့ညဉ့်မပြတ် မြွက်ဆိုဘာဝနာ စီးဖြန်းလျက်ရှိကြကုန်၏။ ရပ်တန့်ကြသည်ဟူ၍လည်း မရှိပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

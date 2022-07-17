@@ -710,6 +710,12 @@ I storikhme tam prepitanie za vas i za onzi, kogoto vie ne khranite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	ငါသည် သင်တို့အား ကမ္ဘာပေါ်၌ အသက်မွေးဝမ်းကျောင်းများကို ပေးသနားတော်မူ၏။ ထို့အပြင် သင်တို့မကျွေး မွေးသောသက်ရှိသက်မဲ့တို့ကိုလည်း အသက်မွေးဝမ်းကျောင်းများပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ထိုပထဝီမြေ၌အသင် တို့အဖို့လည်းကောင်း၊ အသင်တို့ စားနပ်ရိက္ခာ ထောက်ပံ့ခြင်းမပြုသော သူတို့အဖို့လည်းကောင်း၊ အသက်မွေးဝမ်းကျောင်းမှုများကို ပြုလုပ် (စီမံ) ထားတော်မူခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

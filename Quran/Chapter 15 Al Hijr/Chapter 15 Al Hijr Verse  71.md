@@ -710,6 +710,12 @@ Kaza: “Eto dŭshterite mi, ako shte vŭrshite!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၁။	သူက သင်တို့သည် မေထုန်မှီဝဲလိုပါလျှင်၊ သည်မှာ ငါ၏ သမီးတို့ရှိကြ၏ဟု ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ယင်း(နဗီတမန်တော်)လူ(တ်)ကအကယ်၍ အသင်တို့သည် (ငါပြောဆိုသည့်အတိုင်း လိုက်နာ)ပြုလုပ်မည့်သူများ ဖြစ်ကြပါလျှင် ဤငါ၏သမီးများသည် ရှိနေကြပေသည်ဟု ပြောဆိုခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

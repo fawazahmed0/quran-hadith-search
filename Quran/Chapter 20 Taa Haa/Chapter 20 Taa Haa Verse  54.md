@@ -710,6 +710,12 @@ Yazhte i pasete dobitŭka si! V tova ima znameniya za razumnite khora
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၄။	ထို့အပြင်ဗျာဒိတ်တော်လာသည်မှာ ထိုသစ်ပင်များမှ သင်တို့မှီဝဲသုံးစွဲကြလော့၊ သင်တို့၏တိရိစ္ဆာန်များကိုလည်း ကျွေးမွေးကြလော့၊ ဤဖြစ်ရပ်များ၌ စဉ်းစားဆင်ခြင်တတ်သူတို့အဖို့ နိမိတ်လက္ခဏာအ့ံဖွယ်တော်များပါရှိ၏၊ ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည်(မိမိတို့ကိုယ်တိုင်လည်း) စားသုံးကြလေကုန်။ ၎င်းပြင် မိမိတို့၏ခြေလေးချောင်း တိရစ္ဆာန်များကိုလည်း စားကျက်ချကြလေကုန်။ ဧကန်စင်စစ်(ဤသည်တို့)တွင် ဉာဏ်ရှင်များအဖို့ သက်သေသာဓကများရှိကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Gorko na nevernitsite v tekhniya Den, koĭto im e obeshtan
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆ဝ။	သို့ဖြစ်၍ မိစ္ဆာဒိဋ္ဌိတို့သည် မိမိတို့ထံ ဆိုက်ရောက်လာစေတော်မူမည်ဟု ကတိထားတော်မူသောနေ့တော်ကြီး ကြောင့် ပျက်စီးရတော့မည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အချုပ်မှာကား ‘ကာဖိရ်’ သွေဖည် ငြင်းပယ်သောသူတို့၌ ၎င်းတို့ ချိန်းဆိုခြင်းခံကြရသောနေ့တွင် ပျက်စီးခြင်းသည် ရှိချေအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

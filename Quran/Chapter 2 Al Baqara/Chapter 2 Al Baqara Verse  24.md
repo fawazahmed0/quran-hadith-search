@@ -710,6 +710,12 @@ No ne go li napravite - a nikoga ne shte [go] napravite - boĭte se ot Ogŭnya,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	သို့သော် သင်တို့သည် မစီကုံးမရေးသားနိုင်လျှင် အမှန်ပင် သင်တို့မရေးစွမ်းနိုင်ပေ။ သင်တို့သည် အဝီစိငရဲမီးမှ ကာကွယ်ကြလော့။ ထိုမီး၏ထင်းမှာ လူများနှင့်ကျောက်ခဲများဖြစ်၏။ ထိုငရဲကို မယုံကြည်သူတို့အဖို့ ပြင်ဆင်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် ကုရ်အာန်ကျမ်းမြတ်နှင့် ယှဉ်ပြိုင်ခြင်းများကို အတိတ်ကာလတွင် မလုပ်နိုင်ခဲ့ကြ၊ ယခုမျက်မှောက် ပစ္စုပ္ပန်ကာလတွင် လုပ်နိုင်ကြသည်လည်းမဟုတ်၊ နောင်အနာဂတ်ကာလတွင်လည်း အလျှင်းလုပ်နိုင်ကြမည် မဟုတ်ပေ၊ သို့ဖြစ်ရာ အသင်တို့သည် ငရဲမီးဘေးမှ ဝေးစွာရှောင်ရှားကြကုန်၊ ထိုမီး၏မီးစာမှာ (အယူမှောက်မှားသော) ကာဖိရ် မိစ္ဆာဒိဋ္ဌိ များနှင့် (ထိုမိစ္ဆာ ဒိဋ္ဌိများ ဆည်းကပ်ကိုးကွယ်ကြသည့်) ကျောက်တုံးများ ဖြစ်ချေသည်။ ထိုမီးသည် ကာဖိရ် များအဘို့ အသင့်ပြုလုပ်ထားရှိပြီး ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

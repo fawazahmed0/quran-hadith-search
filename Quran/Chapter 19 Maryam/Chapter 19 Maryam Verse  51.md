@@ -710,6 +710,12 @@ I spomeni v Knigata Musa! Toĭ be izbranik i be pratenik-prorok
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁။	ထို့အပြင်ကျမ်းတော်၌ တမန်တော်မူစာ၏ အတ္ထုပ္ပတ္တိကို ဖော်ပြထား၏။ မှတ်သားလော့၊ သူသည် ရွေးကောက် တော်မူခြင်းခံရ၏။ အရှင်မြတ်၏ အစေတော်တပါးနှင့် တမန်တော်တပါးဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် (အို-နဗီတမန်တော်) အသင်သည် (ဤ)ကျမ်းဂန်မှ (နဗီတမန်တော်)မူစာ၏အကြောင်း အတ္ထုပ္ပတ္တိကိုဖတ်ကြားပါလေ။ ဧကန်မုချ ယင်းမူစာသည် အထူးရွေးချယ်တော်မူခြင်းခံရသူဖြစ်သည့်ပြင် ရစူလ်တမန်တော်လည်း ဖြစ်ခဲ့၏။ နဗီတမန်တော်လည်းဖြစ်ခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

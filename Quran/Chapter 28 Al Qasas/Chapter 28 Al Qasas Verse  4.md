@@ -710,6 +710,12 @@ Faraonŭt se vŭzgordya na zemyata i razdeli na grupi neĭnite zhiteli. Obezsil
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	မှတ်သားကြလော့၊ ဖွာရောမင်းသည် မြေပေါ်၌ အထင်ကြီးထောင်လွှား၍ လူသားတို့အား အဆင့်အတန်းသီးခြား ခွဲခြား၏၊ လူမျိုးငယ်တစ်စုကို မတရားညှင်းဆဲ၏၊ ထိုလူတို့၏ မိန်းမသားများကို ချမ်းသာပေး၏၊ ယောက်ျားများကို သတ်ပစ်၏၊ မှတ်သားကြလော့၊ ထိုမင်းသည် တရားလက်လွတ်ပြုလုပ်သူတို့ဘာင်တွင် ပါဝင်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ဖစ်ရ်အောင်န်သည် တိုင်းပြည်တွင် လွန်စွာမောက်မာလာလေပြီ။ ထို့ပြင် ၎င်းသည် ထိုတိုင်းသူပြည်သားတို့အား အုပ်စုအသီးသီး(ဖြစ်အောင်) ပြုလုပ်၍ထားသည်။ ၎င်းသည် ထိုအုပ်စုများအနက် အုပ်စုတစ်ခုကို အားအင်လျော့နည်းပါးအောင် ပြုလုပ်ထားသည်။ ၎င်းတို့၏ သားယောက်ျားကလေးများကို သတ်ဖြတ်၍၊ ၎င်းတို့၏(သမီး) မိန်းကလေးများကိုမူကား သတ်ဖြတ်ခြင်းမပြုဘဲ အသက်နှင့်ထားသည်။ ဧကန်စင်စစ် ထိုဖစ်ရ်အောင်န်သည် ပျက်စီးရာပျက်စီးကြောင်း ပြုလုပ်သူတစ်ဦးပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

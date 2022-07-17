@@ -710,6 +710,12 @@ I kogato Nashata povelya doĭde s milost ot Nas, spasikhme Shuaĭb i onezi, ko
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၄။	ငါအရှင်မြတ်၏ အမိန့်တော်ကျရောက်လာသောအခါ ငါသည် မိမိအထံတော်မှ ကောင်းကြီးမင်္ဂလာတော်အားဖြင့် တမန်တော်ရှိုအိုက်(ဗ်)နှင့်အတူ ယုံကြည်သူတို့အား ကယ်နှုတ်တော်မူ၏။ အလွန်ထိတ်လန့်ကြောက်မက်ဖွယ်သော အသံကြီးသည် မတရားပြုကျင့်သူတို့အား ဖမ်းဆီး၏။ နံနက်မိုးသောက်သည် သူတို့အား မိမိတို့အိမ်တွင်းတွင် အလျားမှောက်လဲနေသည်ကို တွေ့ရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းနောက် ငါအရှင်မြတ်၏အမိန့်တော်သည်ရောက်ရှိလာသောအခါ ငါအရှင်မြတ်သည် မိမိ၏ ကရုဏာတော်ဖြင့်(နဗီတမန်တော်)ရှုအိုက်ဗ်နှင့်တကွ ယင်း (နဗီတမန်တော်)ရှုအိုက်ဗ်နှင့်အတူ သက်ဝင် ယုံကြည်ခဲ့ကြသော သူတို့ကိုပါကယ်ဆယ်တော်မူခဲ့လေသည်။ သို့ရာတွင် မတရား ပြုကျင့်ခဲ့ကြကုန်သောသူတို့ကိုကား ကျယ်လောင်သော အသံသည် ဖမ်းဆီးကွပ်မျက်ခဲ့လေရာ ၎င်းတို့သည် နံနက်အချိန်တွင် မိမိတို့နေအိမ်များ၌ မှောက်လျက်သား ဖြစ်နေခဲ့ကြကုန်သတည်း။ (သေကြေပျက်စီး သွားခဲ့ကြလေသတည်း။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

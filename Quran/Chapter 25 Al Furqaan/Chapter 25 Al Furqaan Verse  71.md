@@ -710,6 +710,12 @@ A koĭto se e pokayal i vŭrshil pravedni dela, toĭ se vrŭshta kŭm Allakh s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၁။	အကြင်သူသည် မိမိကျူးလွန်မိသောအပြစ်များကို နောင်တရ၍ ဝန်ချတောင်းပန်ပြီးလျှင် ကုသိုလ်ကောင်းမှုကို ပွားများအ့ံ၊ ထိုသူသည် အလ္လာဟ်အရှင်မြတ်ဘက်တော်သို့ မှန်ကန်သောသတိနောင်တရခြင်း၊ မှန်ကန်သော ယုံကြည်မှုတို့နှင့် လှည့်သူဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်သော်ကား၊ မည်သူမဆို(အပြစ်မှ)ဝန်ချတောင်းပန်၍ ကောင်းမြတ်သောအကျင့်သီလကို ကျင့်မူဆောက်တည်ခဲ့ပါမူ ဧကန်မလွဲ ထိုသူသည် အလ္လာဟ်အရှင်မြတ်ဖက်သို့ ပြန်လှည့်သူပင်ဖြစ်ပေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

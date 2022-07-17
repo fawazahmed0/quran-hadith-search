@@ -710,6 +710,12 @@ Vlyazokha pri nego i rekokha: “Mir!” Kaza: “Mir!” I si reche: “Nepozna
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	သူတို့သည် သူ့အပါးသို့ရောက်သောအခါ အေးချမ်းသာယာပါစေသော်ဝ်ဟု နှုတ်ဆက်မေတ္တာဆိုကြ၏၊ သူ ကလည်း အေးချမ်းသာယာပါစေသော်ဝ်ဟု ပြန်၍ မေတ္တာပို့ပြီးလျှင် ငါမသိသောသူစိမ်းများဖြစ်ကြ၏ဟု စိတ်တွင် တွေးမိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်အခါဝယ် ထိုဧည့်သည်တော်တို့သည် ထိုအိဗ်ရာဟီမ်၏ထံသို့ ဝင်ရောက်ခဲ့၍ ‘စလာမ်’ (ငြိမ်းချမ်းစွာရှိပါစေသား)ဟူ၍ ပြောဆိုခဲ့ကြကုန်၏။ ထိုအိဗ်ရာဟီမ်ကလည်း ‘စလာမ်’ဟူ၍ ပြန်ကြားခဲ့၏။ (တစ်ဖန် မိမိစိတ်ထဲတွင်ဤသူတို့မှာ ငါ)မသိသော သူစိမ်းများပင် ဖြစ်ကြသည်(ဟုမှတ်ချက်ချခဲ့လေ၏၊)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

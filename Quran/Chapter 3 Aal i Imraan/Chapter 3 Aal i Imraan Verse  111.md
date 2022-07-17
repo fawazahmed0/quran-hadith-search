@@ -710,6 +710,12 @@ Ne shte vi navredyat, osven s obida. A ako se srazhavat s vas, shte vi obŭrnat 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၁။	အနည်းငယ်နစ်နာမှုမှတစ်ပါး သူတို့သည် သင်တို့အား ဘေးပြုနိုင်မည်မဟုတ်ပေ။ သူတို့သည် သင်တို့အား တိုက်ခိုက်ကြလျှင် သူတို့သည် ကျောခိုင်းလျက်ထွက်ပြေးကြလိမ့်မည်။ ထို့နောက် သူတို့သည် အသျှင်မြတ်၏ အကူအညီတော်ကို ရမည်မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်း(ကျမ်းဂန်ရရှိသော) သူတို့သည်(မည်မျှပင်ရန်ရှာကြသော်လည်း) အသင်တို့အား အနည်းငယ်မျှသောအန္တရာယ်ဖြစ်စေနိုင်ရုံမျှမှအပ ဆုံးရှုံးနစ်နာ ပျက်စီးလေအောင်အလျင်းပြုနိုင်ကြမည် မဟုတ်ချေ။ တဖန် အကယ်၍သာယင်းသူတို့ သည် (တဆင့်တိုး၍) အသင်တို့နှင့် စစ်မက်ပြိုင်ဆိုင်တိုက်ခိုက်ကြပါမူ၊ ယင်းသူတို့သည် အသင်တို့ဘက်သို့ ကျောခိုင်း၍ ထွက်ပြေးကြလတံ္တ။ ထို့နောက် ယင်းသူတို့သည် (မည်သူတစုံတယောက်သောသူ၏) ကူညီစောင်မခြင်းကိုမျှ ခံကြရမည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

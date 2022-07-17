@@ -710,6 +710,12 @@ Reche [Allakh]: “O, Iblis, kakvo ti poprechi da se poklonish na onova, koeto s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၅။	အလ္လာဟ်အရှင်မြတ် ဗျာဒိတ်ပေးသည်မှာ အို-အီဗလစ်(စ်)၊ နင်သည် ငါ၏လက်တော်နှစ်ဘက်ဖြင့် ဖန်ဆင်းသော လူသားကို ဦးညွှတ်ချခြင်းမပြုအောင် နင့်အား အဘယ်အရာတစ်စုံတစ်ခုက တားဆီးကန့်ကွက်သနည်း၊ နင်သည် အလွန်မာနကြီးသလော၊ သို့မဟုတ် နင်သည် မြင့်မြတ်၍ တန်ခိုးကြီးသူတို့ဘောင်တွင် အပါအဝင်ဖြစ်သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ထိုအရှင်မြတ်သည် "အို-ဗ်လီစ်"၊ငါအရှင် မိမိလက်တော်နှစ်ဖက်ဖြင့် ပြုလုပ်တော်မူခဲ့သောသူ၏ရှေ့ဝယ် "စဂျ်ဒဟ်" ပျပ်ဝပ်ဦးချခြင်းမှ အသင့်အား မည့်သည့်အရာက တားမြစ်ခဲ့သနည်း။ အသင်သည် မာန်မာနထောင်လွှားလေသလော။ သို့တည်းမဟုတ် အသင်သည် (အကယ်စင်စစ်) မြင့်မြတ် သောသူတစ်ဦး ဖြစ်လေသလော" ဟု မိန့်ကြားတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

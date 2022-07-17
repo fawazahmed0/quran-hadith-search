@@ -710,6 +710,12 @@ Nad sebe si shte imat sloeve ot Ogŭnya, i pod sebe si - sloeve. S tova Allakh z
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	ထိုဆုံးရှုံးသူများတို့၏ အမိုးမှာ မီးအတိဖြစ်၏၊ သူတို့အောက်ကြမ်းပြင်မှာလည်း မီးအတိဖြစ်၏၊ ဤငရဲမီးအားဖြင့် အလ္လာဟ်အရှင်မြတ်သည် မိမိ၏ ကျေးကျွန်များကို ခြိမ်းခြောက်တော်မူ၏၊ အို-ငါအရှင်မြတ်၏ ကေ်ျးကျွန်အပေါင်း တို့၊ ထို့ကြောင့်ငါအရှင်မြတ်ကို ကြောက်ရွံ့ ကျိုးနွံကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ၎င်းတို့၏အထက်တွင်လည်း မီးဖြင့်ပြီးသော အမိုးများရှိကြပေမည်။ ၎င်းတို့၏ အောက်တွင်လည်း(မီးဖြင့်ပြီးသော) အခင်းများရှိကြပေမည်။ ဤသည် အကြင်(ပြစ်ဒဏ်)ပင်၊ အလ္လာဟ်အရှင်မြတ်သည် မိမိကျွန်တို့အား ပြစ်ဒဏ်ကို ကြောက်ရွံ့စေတော်မူ၏။ သို့ဖြစ်ပေရာ အို-ငါအရှင်မြတ်၏ ကျွန်အပေါင်းတို့၊ အသင်တို့သည် ငါအရှင်မြတ်အား ကြောက်ရွံ့ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

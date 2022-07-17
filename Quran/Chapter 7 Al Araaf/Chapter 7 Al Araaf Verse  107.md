@@ -710,6 +710,12 @@ I [Musa] metna toyagata si, i eto ya - yavna zmiya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(၁ဝ၇။	ထိုအခါ တမန်တော်သည် မိမိတောင်ဝှေးကိုပစ်ချလိုက်၏။ တောင်ဝှေးသည် ေြ)ွမအစစ်အမှန် ဖြစ်သွား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ထိုနဗီတမန်တော်(မူစာ)သည် မိမိတောင်ဝှေးကို (မြေကြီးပေါ်သို့) ပစ်ချလေရာ ရုတ်တရက် ထိုတောင်ဝှေးသည် ထင်ရှားသောမြွေ(နဂါး) တစ်ကောင်ဖြစ်နေလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

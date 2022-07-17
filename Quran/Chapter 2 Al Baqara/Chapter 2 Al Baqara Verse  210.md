@@ -710,6 +710,12 @@ Nima ochakvat samo Allakh i angelite da doĭdat pri tyakh v senkite na oblatsit
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁ဝ။	အလ္လာဟ်အရှင်မြတ်သည် မိုးတိမ်များအတွင်း ကောင်းကင်တမန်တော် အခြွေအရံများနှင့် ကြွလာ တော်မူရန်တပါး အခြားတစ်စုံတစ်ရာကိုမျှ မမျှော်ကိုးမစောင့်ဆိုင်းကြသလော။ ယင်းသို့ အရှင်မြတ် ကြွလာတော်မူပါလျှင် သူတို့အမှုအခင်းသည် ပြီးပြန်သွားလေပြီ။ အမှုကိစ္စအဝဝတို့သည် အလ္လာဟ် အရှင်မြတ်ဆုံးဖြတ်စီရင်ဖို့ရာ အရှင်မြတ်အထံတော်သို့ ပြန်လှည့်ရမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုသူများသည် သက်သေလက္ခဏာတော်များ ကို အထင်အရှား တွေ့မြင်ကြပါလျက်နှင့်ပင် တရားဒေ သနာတော်များကိုသွေဖည်လျက် ရှိကြကုန်၏) ယင်းသူတို့ သည် မိမိတို့ထံသို့ အလ္လာဟ်အရှင်မြတ်သည် အပါးတော် စေတမန်များနှင့်တကွ (ယင်းသူတို့အား) (ကွပ်မျက်တော်မူရန်) တိမ်တိုက်များ မိုးလျက်(ကရောက်လာပြီး၊ ကိစ္စပြီးဆုံးသွားခြင်း ကိုသာ စောင့်မျှော်နေကြကုန်၏။ အမှန်သော်ကား အရေးကိစ္စ ဟူသမျှတို့သည် အလ္လာဟ်အရှင်မြတ် ထံတော်ပါးသို့ ပြန်လည် ရောက်ကြ ရမည်သာ ဖြစ်ကုန်သတည်း။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

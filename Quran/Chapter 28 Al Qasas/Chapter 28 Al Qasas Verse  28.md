@@ -710,6 +710,12 @@ Reche [Musa]: “Tova e mezhdu men i teb. Koĭto i da izpŭlnya ot dvata sroka,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	ထိုအခါမူစာက အို--ဘခင်၊ ဘခင်နှင့်အကျွန်ုပ်၏ အလယ်ကြား၌ ဤစကားတည်ပါစေ၊ ယခုနှုတ်ကတိနှစ်မျိုး၌ တစ်မျိုးမျိုးကို အကျွနု်ပ်ဖြည့်သောအခါ ဘခင်လည်း အကျွန်ုပ်အပေါ်၌ စည်းကမ်းကို ကျူးလွန်၍ အနိုင်အထက် ပြုလိမ့်မည်မဟုတ်၊ အကျွနု်၏ ကတိစကားကို အလ္လာဟ်အရှင်မြတ်သည် အသိသက်သေဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူ(မူစာ)က ‘ဤစည်းကမ်းချက်သည် အသင်နှင့်ကျွန်ုပ်၏စပ်ကြား(အတည်)ဖြစ်ခဲ့လေပြီ။ ကန့်သတ်ပြီးဖြစ်သော ကာလအပိုင်းအခြား နှစ်ခုအနက် မည်သည့်ကာလ အပိုင်းအခြားကိုမဆို ကျွန်ုပ်ပြည့်စုံအောင် ဆောင်ရွက်ခဲ့ပါလျှင် ကျွန်ုပ်၏အပေါ်၌ မည်သို့မျှ အဓမ္မပြုလုပ်ရန် အကြောင်းမရှိတော့ပြီ။ထို့ပြင် အလ္လာဟ်အရှင်မြတ်သည် ကျွန်ုပ်တို့ ပြောဆိုကြကုန်သော အကြောင်းကိစ္စနှင့်စပ်လျဉ်း၍ သက်သေဖြစ်တော်မူပါသည်’ ဟု ပြောဆိုခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

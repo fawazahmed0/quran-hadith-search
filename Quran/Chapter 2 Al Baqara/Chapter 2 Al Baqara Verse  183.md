@@ -710,6 +710,12 @@ O, vyarvashti, predpisano vi e goveeneto, kakto be predpisano i za onezi predi v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈၃။	အို - ယုံကြည်သူတို့၊ သင်တို့သည် ဒုစရိုက်အမှုအခင်းများကို ရှောင်ကြဉ်စေခြင်းငှာ သင်တို့ထက် ရှေးကျသောလူဟောင်းတို့အား ဥပုသ်သီတင်းကျင့်သုံးဆောက်တည်ရန် ပညတ်တော်မူသကဲ့သို့ သင်တို့လည်း ပညတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-မုအ်မင်န် ယုံကြည်ခြင်းသဒ္ဒါတရား ရှိကြကုန်သောသူအပေါင်းတို့၊ အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့ထက် အလျင်ရှိခဲ့ကြသော သူတို့အပေါ်ဝယ် ဥပုသ် သီတင်းဆောက်တည်ရန် ပညတ်တော်ကို ပြဋ္ဌာန်းတော်မူ သကဲ့သို့ပင် အသင်တို့အပေါ်၌လည်း ဥပုသ်သီတင်းဆောက်တည်ရန် အမိန့်တော်ကို ပြဋ္ဌာန်း အတည်ပြုတော်မူခဲ့လေပြီ။ သို့ (ဥပုသ်သီတင်း ဆောက်တည်) မှသာလျှင် အသင်တို့သည် ပြစ်မှု ဒုစရိုက်တို့မှ ကြဉ်ရှောင်သူများ ဖြစ်တန်ကြရာ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

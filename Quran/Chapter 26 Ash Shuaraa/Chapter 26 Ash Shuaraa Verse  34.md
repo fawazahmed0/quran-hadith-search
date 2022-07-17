@@ -710,6 +710,12 @@ Kaza [Faraonŭt] na znatnite okolo nego: “Tozi e vesht mag’osnik
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	ထိုအခါဖွာရောမင်းသည် မိမိအပါးရှိ မှုးမတ်တို့အား ပြောဆိုသည်မှာ အို--အမတ်တို့၊ မူစာသည် ဝိဇ္ဇာအတတ်၌ တစ်ဘက်ကမ်းခတ်အောင် တတ်မြောက်သူတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ထိုဖစ်ရ်အောင်(န်)က မိမိအနီးအနား၌ရှိကုန်သော အကြီးအမှူးတို့အား ပြောကြားခဲ့သည်မှာ (အချင်းတို့၊) ဧကန်မလွဲ ဤသူမှာ ကျွမ်းကျင်သော ပဉ္စလက်ဆရာတစ်ဦးပင် ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

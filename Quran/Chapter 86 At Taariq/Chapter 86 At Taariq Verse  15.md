@@ -710,6 +710,12 @@ Te zamislyat s umisŭl
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။ သို့သော်မိစ္ဆာဒိဋ္ဌိတို့သည် သင်မိုဟမ္မဒ်အား ဆန့်ကျင်ဘက်ပြု၍ ဥပါယ်တမည်ကြံစည်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ထို("ကာဖိရ်"သွေဖည်ငြင်းပယ်သော)သူတို့သည် အကြံအစည် အမျိုးမျိုးကို ကြံစည်လျက် ရှိကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

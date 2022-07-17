@@ -710,6 +710,12 @@ A Allakh e sŭtvoril i vas, i onova, koeto pravite.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၆။	အလ္လာဟ်အရှင်မြတ်သည် သင်တို့ကိုလည်းကောင်း၊ သင်တို့ပြုအပ်သောအရာများကိုလည်းကောင်း၊ ဖန်ဆင်း တော်မူ၏ဟု ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည်သာလျှင် အသင်တို့အားလည်းကောင်း၊ အသင်တို့ ပြုလုပ်ကျင့်မူကြသော အရာဝတ္ထုများကိုလည်းကောင်း၊ (အားလုံးကိုပင်)ဖန်ဆင်းတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

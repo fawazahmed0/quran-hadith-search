@@ -710,6 +710,12 @@ i v plavashtite s lekota [korabi]
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	ထို့အပြင်သမုဒ္ဒရာပင်လယ်များတွင် ဖြည်းညှင်းသာယာစွာသွားလာသောလှေကြီးလှေငယ်သင်္ဘောများ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် ညင်သာစွာတိုက်ခတ်ကြသော သွားလာလှုပ်ရှားကြသော လေ၊ လှေများကို သက်သေထူတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

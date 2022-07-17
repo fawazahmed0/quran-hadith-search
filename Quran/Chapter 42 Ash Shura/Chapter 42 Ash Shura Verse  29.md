@@ -710,6 +710,12 @@ I ot Negovite znameniya e sŭtvoryavaneto na nebesata i na zemyata, i na tvarite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	အလ္လာဟ်အရှင်မြတ်၏ သာဓကတော်များအနက် အချို့သောသာဓကတော်များမှာ မိုးမြေကိုလည်းကောင်း၊ ကမ္ဘာမြေပေါ်တွင် လှုပ်လှုပ်ရွရွသွားလာကြနေကုန်သောသက်ရှိသတ္တဝါတို့ကိုလည်းကောင်း၊ ဖန်ဆင်းတော်မူ ခြင်းဖြစ်၏၊ အရှင်မြတ်သည် အလိုတော်ရှိသောသတ္တဝါတို့ကိုလည်းကောင်း၊ ဖန်ဆင်းတော်မူခြင်းဖြစ်၏၊ အရှင် မြတ်သည် အလိုတော်ရှိသောအခါ သတ္တဝါအပေါင်းတို့ကို စုဆောင်းခြင်းငှာပြုစွမ်းနိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုအရှင်မြတ်၏ သက်သေလက္ခဏာတော်တို့အနက် အပါအဝင်ဖြစ်၏။ မိုးကောင်းကင်များကို ဖန်ဆင်းတော်မူခြင်းသည်လည်းကောင်း၊ ပထဝီမြေကို ဖန်ဆင်းတော်မူခြင်းသည်လည်းကောင်း၊ ယင်း မိုးကောင်းကင်များနှင့်ပထဝီမြေနှစ်ခုလုံး၌ ဖြန့်ထား တော်မူသော သက်ရှိအပေါင်းတို့အား ဖန်ဆင်းတော် မူခြင်းသည်လည်းကောင်း၊ ထိုမှတစ်ပါးထိုအရှင်မြတ် သည် မိမိအလိုရှိတော်မူသောအခါ ၎င်းတို့အားစုရုံး ခြင်းကိုလည်းကောင်း၊ ပြုစွမ်းနိုင်တော်မူသောအရှင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

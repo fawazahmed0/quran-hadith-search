@@ -710,6 +710,12 @@ Nyama li da razmislyat nad Slovoto ili pri tyakh doĭde neshto, koeto ne e idva
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၈။	သူတို့သည် ဗျာဒိတ်တော်ကို စဉ်းစားဆင်ခြင်ကြည့်ကြပြီမဟုတ်လော၊ သူတို့၏မိဘဘိုးဘွားများထံသို့ မရောက် သောပညတ်တရားတော်သည် သူတို့ထံသို့ ရောက်သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ပါလျက် ၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ်၏ (ဤ)အာယတ်တော်(များ)ကို နက်နဲစွာဆင်ခြင် သုံးသပ်ခြင်း မပြုခဲ့ကြလေသလော။ သို့တည်းမဟုတ် ၎င်းတို့၏ ရှေးဟောင်း (လူကြီးများဖြစ်ကြသော) အဖ၊ ဘိုး၊ ဘေး၊ ဘီ၊ ဘင်တို့ထံ ရောက်ရှိမလာခဲ့ဘူးသော အရာသည်(ယခု)၎င်းတို့ထံ ရောက်ရှိလာခဲ့လေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

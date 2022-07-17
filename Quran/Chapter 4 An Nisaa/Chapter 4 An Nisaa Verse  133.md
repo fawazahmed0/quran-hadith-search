@@ -710,6 +710,12 @@ Ako pozhelae, Toĭ shte vi zalichi, o, khora, i drugi shte dovede. Allakh ima s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၃။	အို-လူသားတို့ အလ္လာဟ်အသျှင်မြတ်သည် အလိုရှိတော်မူပါလျှင် သင်တို့အားလုံးကို သုတ်သင် ရှင်းလင်း၍ သင်တို့အစား အခြားလူသားများကို ဖန်ဆင်းနိုင်တော်မူ၏။ အလ္လာဟ်အသျှင်မြတ်သည် ယင်းသို့ပြုစွမ်းနိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို- လူအပေါင်းတို့၊ အကယ်၍သာ ထိုအရှင်မြတ်သည် အလိုရှိတော်မူပါလျှင် အသင်တို့အား ပယ်ရှား (ဖျက်ဆီး) တော်မူ၍ (အသင်တို့၏အစား) အခြားသူတို့ကို ဖြစ်ထွန်းစေတော်မူအံ့။ အမှန်စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် ယင်းသည့်ကိစ္စကို စွမ်းဆောင်တော်မူနိုင်သောအရှင်မြတ်ပင် ဖြစ်တော်မူပေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

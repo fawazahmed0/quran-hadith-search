@@ -710,6 +710,12 @@ Sŭtvori Toĭ choveka ot zvŭnka glina kato grŭncharsko izdelie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	အရှင်မြတ်သည် လူသားကို အိုးထိန်း၏ မြေစေးကဲ့သို့ ရွှံ့မြေစေးမှ ဖန်ဆင်းတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည်ပင် 'မနုဿ' လူသားအား မြေအိုး-အိုးခြမ်းကွဲပမာ အသံမည်သော ရွှံ့ခြောက်ဖြင့် ဖန်ဆင်းတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A koĭto ne otklikne na zovyashtiya kŭm Allakh - toĭ e bezsilen na zemyata i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	အကြင်သူသည် အလ္လာဟ်အရှင်မြတ်အထံတော်သို့ ဆင့်ခေါ်သူအား မနာယူအ့ံ၊ ထိုသူသည် ကမ္ဘာမြေပြင်ပေါ်ဝယ် အရှင်မြတ်၏ လက်တော်မှ မည်သည့်နည်းအားဖြင့််မှ မလွတ်နိုင်ချေ၊ သင်တို့သည် အရှင်မြတ်မှတပါး အခြား ကာကွယ်စောင့်ရှောက်မည့်အဆွေခင်ပွန်းတွေ့ရှိနိုင်မည်မဟုတ်ချေ၊ ယင်းကဲ့သို့လူများသည် ထင်ရှားသောအမှား တွင် ကျက်စားသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် မည်သူမဆို အလ္လာဟ်အရှင်မြတ်ဘက်သို့ ဖိတ်ခေါ်သူ၏ ဖိတ်ခေါ်ချက်ကို နာယူလက်ခံခြင်းမပြုခဲ့မူ ထိုသူသည် (အလ္လာဟ်အရှင်မြတ်အား) ကမ္ဘာမြေဝယ် မစွမ်းဆောင်နိုင်အောင် ပြုစွမ်းနိုင်သူမဟုတ်ပြီ။ ထိုမှတစ်ပါး အလ္လာဟ်အရှင်မြတ်အပြင် ထိုသူ၌ ကာကွယ်စောင့်ရှောက်အံ့သော သူဟူ၍လည်း တစ်ဦးတစ်ယောက်မျှပင် ရှိလိမ့်မည်မဟုတ်ပြီ။ ထိုသူတို့ကား ထင်ရှားစွာသော လမ်းမှားမှု၌ ပင်ရှိနေကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

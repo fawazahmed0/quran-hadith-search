@@ -710,6 +710,12 @@ I kogato Nashata povelya doĭde, s milost ot Nas spasikhme Khud i onezi, koito 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈။	၎င်းအပြင် ငါအရှင်မြတ်၏ အပြစ်ဒဏ်ပေးသည့်အမိန့်တော်ကျရောက်လာသောအခါ ငါ၏ ကရုဏာတော်အားဖြင့် ငါသည် တမန်တော်ဟုဒ်နှင့်တကွ ယုံကြည်သူတို့အား ကယ်ဆယ်တော်မူ၏။ ငါသည် သူတို့ကို အလွန်ပြင်းထန် သောအပြစ်ဒဏ်တော်မှ ကယ်တင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် ငါအရှင်မြတ်၏ အမိန့်တော်ရောက်ရှိလာ သောအခါ ငါအရှင်မြတ်သည် (နဗီတမန်တော်)ဟူဒ်အားလည်း ကောင်း၊ ထို(နဗီတမန်တော်) ဟူဒ်နှင့်အတူ သက်ဝင်ယုံကြည် ခဲ့ကြသော သူတို့အား လည်း ကောင်း၊ မိမိကရုဏာတော်ဖြင့် ကယ်တင် တော်မူခဲ့လေသည်။ ၎င်းပြင် ငါအရှင်မြတ်သည် ထို သူတို့အား ပြင်းထန်လှစွာသော ပြစ်ဒဏ်တစ်ရပ်မှလည်း ကယ်တင်တော်မူခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A toĭ nyamashe vlast nad tyakh, osven za da uznaem koĭ vyarva v otvŭdniya z
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	အမှန်ဆိုသော်ရှိုင်တန်မာရ်န်တ်၌ ထိုသူတို့ကို ဖျက်ဆီးရန် အခွင့်မရှိချေ၊ ငါသည် နောင်တမလွန်ဘဝကိုယုံကြည် သူများအား ၎င်းဘဝကို မယုံကြည်သူတို့မှ ခွဲထုတ်ရန် စုံစမ်းခြင်းကြောင့် ရှိုင်တန်မာရ်နတ်သည် မိစ္ဆာတို့အား ဖျက်ဆီးနိုင်လေ၏၊ အို-မိုဟမ္မဒ်၊ သင်၏အရှင်သခင်သည် အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့မှတ်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ထို အီဗ်လီစ် သည် ၎င်းတို့အပေါ်၌ လွှမ်းမိုးနိုင်ခဲ့ခြင်းမှာ ငါအရှင်မြတ်သည် အာခိရတ်တမလွန်ဘဝကို ယုံကြည်သော သူတို့အား ယင်းအာခိရတ်တမလွန်ဘဝနှင့်စပ်လျဉ်း၍ ဒွိဟသံသယ၌ ရှိနေသောသူတို့နှင့်ခွဲခြား၍ သိတော်မူရန်သာလျှင်ဖြစ်ခဲ့၏။ စင်စစ်သော်ကားအသင့်အား ဖန်ဆင်းမွေးမြူ တော်မူသောအရှင်မြတ်သည်အရာခပ်သိမ်းတို့အပေါ်၌ ထိန်းသိမ်း စောင့်ရှောက်တော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

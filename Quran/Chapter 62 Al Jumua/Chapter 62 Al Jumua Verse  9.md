@@ -710,6 +710,12 @@ O, vyarvashti, shtom se prizove za molitvata v petŭchniya den, ustremete se kŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။ အို-ယုံကြည်သူအပေါင်းတို့၊ ဓမ္မ စည်းဝေးပွဲနေ့၏ ဆွလားသ် ဝတ်ပြုရန် ဆင့်ခေါ်သံကို ကြားသည်နှင့်တပြိုက်နက် အလုပ်အကိုင် ကုန်စည်ရောင်းဝယ် ကူးသန်းခြင်းကို လုံးလုံးစွန့်လွှတ်၍ အလ္လာဟ်အရှင်မြတ်အား သတိရဆွလားသ် ဝတ်ပြုရန် လျင်မြန်စွာ လာကြလော၊့ ယင်းပြုကျင့်မှုသည် သင်တို့အတွက် သာလွန်ကောင်းမြတ်၏၊ သင်တို့ သိလျှင် တော်လေစွ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-'မုအ်မင်န်' သက်ဝင်ယုံကြည်သူအပေါင်းတို့(ဂျူမုအဟ်)သောကြာနေ့တွင် ‘ဆွလာတ်’ ဝတ်ပြု အံ့သောငှာ’အဇာန်’ပေးသောအခါ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား တသ သတိရရှိရာသို့ အဆောတလျင် သွားကြလေကုန်။ ထိုမှတစ်ပါး အသင်တို့သည် ရောင်းဝယ်မှုကို စွန့်လွှတ်ကြလေကုန်။ အသင်တို့ သိရှိကြသည်ဖြစ်မူ အသင်တို့အဖို့ အကောင်းဆုံးပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

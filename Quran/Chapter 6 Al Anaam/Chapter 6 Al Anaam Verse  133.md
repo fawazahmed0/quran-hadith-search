@@ -710,6 +710,12 @@ Tvoyat Gospod e Prebogatiya, Vladetelya na milostta. Ako pozhelae, Toĭ shte vi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၃။	သင်တို့၏ ကျေးဇူးတော်သခင်သည် ဇာတိ ပကတိအားဖြင့် စုံလင်တော်မူ၏။ အနန္တကောင်းကြီး မင်္ဂလာတော်သခင်ဖြစ်တော်မူ၏။ အသျှင်မြတ်အလိုရှိတော်မူပါလျှင် သင်တို့ကို ရုပ်သိမ်းနိုင်တော် မူ၏။ သင်တို့ကိ အခြားသူတို့၏ မျိုးစေ့မှဖန်ဆင်းတော်မူဘိသကဲ့သို့ အသျှင်မြတ်သည် အလိုရှိတော် မူသောသူတို့ကို သင်တို့ပျောက်ကွယ်ပြီးနောက် ဖန်ဆင်းနိုင်တော်မူ၏။ ျ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား၊ အသင့်အား မွေးမြူတော်မူသောအရှင်မြတ်သည် လိုလားတောင့်တခြင်း ကင်းမဲ့တော်မူသောအရှင်၊ အနန္တကရုဏာတော်ရှင် ဖြစ်တော်မူပေသတည်း။အကယ်၍သာ ထိုအရှင်မြတ်သည် အလိုရှိတော်မူပါလျှင်အသင်တို့(အားလုံး)ကို ရုပ်သိမ်းတော်မူ၍ အသင်တို့မရှိသည့်နောက် အသင်တို့အား အခြားလူမျိုးတို့၏ သားသမီးများ(အဆက်အနွယ်)မှ ပေါက်ဖွားရှင်သန်တော်မူသကဲ့သို့ပင့် မိမိအလိုရှိတော် မူသောသူတို့အား အသင်တို့နေရာ၌ ဆက်ခံစေတော်မူအံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

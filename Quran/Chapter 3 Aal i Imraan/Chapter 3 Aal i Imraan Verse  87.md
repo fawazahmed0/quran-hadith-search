@@ -710,6 +710,12 @@ Vŭzmezdieto im e, che nad tyakh e proklyatieto na Allakh i na angelite, i na vs
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၇။	ဤသူမိုက်တို့မူကား သူတို့ခံစားရမည့် လက်စားဒဏ်သည် သူတို့အပေါ်သို့ အလ္လာဟ်အသျှင်မြတ်၏ ကျိန်ဆဲတော်မူခြင်း၊ ကောင်းကင်တမန်တော်များနှင့် လူသားတို့၏ ကျိန်ဆဲခြင်းစသည့် ကျိန်ဆဲခြင်းများ စုပေါင်းကျရောက်ခြင်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းသူတို့၏ အကျိုးကား မုချဧကန် ယင်းသူတို့အပေါ်ဝယ် အလ္လာဟ်အရှင်မြတ်၏ လအ်နတ် ရှုတ်ချခြင်းသည်လည်းကောင်း၊ မလာအိကဟ် ပါးတော်စေတမန်အပေါင်းတို့၏ ရှုတ်ချ ခြင်းသည်လည်းကောင်း၊ လူခပင်းတို့၏ရှုတ်ချခြင်းတို့သည်လည်းကောင်း အားလုံးတို့၏ ရှုတ်ချခြင်းသည် ကျရောက်လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

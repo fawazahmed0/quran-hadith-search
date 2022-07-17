@@ -710,6 +710,12 @@ I boĭte se ot Onzi, Koĭto vi e dal vasheto znanie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၂။	သင်တို့ကို သင်တို့သိသောစည်းစိမ်ဥစ္စာအားဖြင့် ချီးမြှောက်တော်မူသောအရှင်မြတ်၏ ဝတ်တော်ကို ကြေကုန် အောင် ပြုကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်တို့သည် အကြင်အရှင်မြတ်အား ကြောက်ရွံ့ကြလေကုန်၊ ထိုအရှင်မြတ်သည် အသင်တို့အား အသင်တို့ သိရှိကြကုန်သောအရာများဖြင့် ကူညီဆောင်မတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

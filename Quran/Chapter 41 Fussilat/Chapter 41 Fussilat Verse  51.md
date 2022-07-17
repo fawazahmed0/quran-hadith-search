@@ -710,6 +710,12 @@ I shtom oblagodetelstvame chovek, toĭ se otdrŭpva i se vŭzgordyava. A zasegn
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁။	ငါသည် လူသာအား ကျေးဇူးပြုတော်မူသောအခါ လူသားသည် ငါ့ဘက်တော်သို့ ချဉ်းကပ်လာမည့်အစား ဝေးသည်ထက်ဝေးအောင် ကျောပေးသွား၏၊ သို့သော်ဘေးဥပါဒ်ထိသောအခါ သူ၌ ဆုတောင်းပတ္တနာများပြား ကြွယ်ဝ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်မှာကား ငါအရှင်မြတ်သည် လူသား တို့၏အပေါ်၌ ကျေးဇူးပြုတော်မူသောအခါ ၎င်းမှာ မျက်နှာလွှဲကာအဝေးသို့ရှောင်ဖယ်၍ သွားလေ့ရှိ၏။ သို့တစေလည်း 4င်း၌ဘေးဒုက္ခသက်ရောက်သောအခါ (၎င်းမှာ)ကျယ်ဝန်းစွာ (တစ်နည်း)ရှည်လျားစွာဆုတောင်းပတ္ထနာ ပြုလေ့ရှိပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

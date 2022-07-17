@@ -710,6 +710,12 @@ i spusni kriloto si nad vyarvashtite, koito te posledvat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁၅။	ထို့အပြင်သင်၏ ယုံကြည်သူနောက်လိုက်တို့အား သနားကြင်နာခြင်းဖြင့် ဆက်ဆံလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အသင်သည် မိမိ၏နောက်သို့ လိုက်ကြသော မုအ်မင်န်သက်ဝင်ယုံကြည်သူတို့၏ ရှေ့ဝယ် (၎င်းတို့အားကရုဏာထား ရှိသောအားဖြင့်) ကျိုးနွံပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

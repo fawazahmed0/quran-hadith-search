@@ -710,6 +710,12 @@ Onezi, na koito dadokhme Pisanieto predi tova, vyarvat v nego
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၂။	ဤကျမ်းတော်အလျင် အကြင်သူတို့အား ငါသည် စကားတော်ကို သူတို့ထံရောက်စေတော်မူ၏။၊ ထိုသူတို့သည် ကျမ်းမြတ်ကုရ်အာန်၌ ယုံကြည်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤ(ကုရ်အာန်ကျမ်းမြတ်)၏အလျင် ငါအရှင် ကျမ်းဂန်ချီးမြှင့် ပေးသနားတော်မူခဲ့သော သူတို့မှာကား ဤ(ကုရ်အာန်ကျမ်းမြတ်)ကို ယုံကြည်ကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

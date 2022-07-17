@@ -710,6 +710,12 @@ Pri samudyanite pratikhme brat im Salikh: “Sluzhete na Allakh!” I eto gi - d
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	ထို့အပြင်အရှင်မြတ်သည် စမုဒ်လူမျိုးတို့ထံ သူတို့၏အမျိုးသားချင်းတမန်တော်ဆွာလေ(ဟ်)ကို တမန်တော်အရာ၌ မုချဧကန်ခန့်ထားစေလွှတ်တော်မူ၏၊ တမန်တော်က ၎င်းတို့အား ဟယ်-အချင်းတို့၊ အလ္လာဟ်အရှင်မြတ်အား ကိုးကွယ်ကြလော့ဟု ဟောကြား၏၊ မှတ်သားကြလော့၊ ထိုအခါစမုဒ်အမျိုးသားတို့သည် နှစ်သင်းကွဲပြီးလျှင် ခိုက်ရန်ဒေါသပွားများကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ဧကန်မလွဲ ငါအရှင်မြတ်သည် "ဆမူဒ်"အမျိုးသားတို့ထံ ၎င်းတို့၏နောင်တော်"ဆွာလိဟ်"အား အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား ဆည်းကပ်ကိုးကွယ်ကြရမည်(ဟူသောအမိန့်တော်နှင့်တကွ) စေလွှတ်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

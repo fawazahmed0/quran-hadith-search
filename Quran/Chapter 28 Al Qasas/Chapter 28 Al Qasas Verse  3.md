@@ -710,6 +710,12 @@ Chetem ti s istina ot istoriyata za Musa i za Faraona - za khora vyarvashti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	ငါသည် ယုံကြည်သူတို့အဖို့အရာ တမန်တော်မူစာနှင့် ဖွာရောမင်းတို့အကြောင်းအရာအမှန်အစစ်ကို သင် တမန်တော်မိုဟမ္မဒ်အား မိန့်ကြားတော်မူအ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည်"မုအ်မင်န်"သက်ဝင်ယုံကြည်ကြကုန်သော အမျိုးသားတို့အကျိုးငှာ မူစာနှင့်ဖစ်ရ်အောင်န်၏ အတ္ထုပ္ပတ္တိအချို့ကို အသင်၏ရှေ့ဝယ် တိကျမှန်ကန်စွာ ဖတ်ကြားတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

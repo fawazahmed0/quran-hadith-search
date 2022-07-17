@@ -710,6 +710,12 @@ I ako ti bi vidyal, kogato bŭdat izpraveni pred Ogŭnya, kak shte rekat: “O, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	သူတို့အား ငရဲမီးရှေ့၌ ချထားသောအခါ သူတို့က အကျွနု်ပ်တို့သည် ပြန်သွားခွင့်ရပါလျှင် တော်လေစွ။ ထိုအခါ အကျွနု်ပ်တို့သည် မိမိတို့၏ ကျေးဇူးတေ်သခင်၏ ဗျာဒိတ်တော်များကို ငြင်းပယ်ကြလိမ့်မည်မဟုတ်ပါ။ အကျွနု်ပ်တို့သည် ယုံကြည်သူတို့ဘောင်တွင် ပါဝင်ကြမည်ဟု ညည်းညူမြည်တမ်းကြမည်။ ထိုအခါ သူတို့ကို သင်မြင်ရလျှင် ကောင်းလေစွ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်တဝ၊ (အို-နဗီတမန်တော်) အကြင်အခါဝယ်၊ ၎င်းတို့သည် ငရဲဘုံ(အဝ)တွင် ရပ်စေခြင်းကိုခံရ၍ဪ ငါတို့သည် (လူ့ပြည်လောကသို့) ပြန်လွှတ်ခြင်းကိုခံရကြသော် ကောင်းလေစွတကား။ (အကယ်၍သာ ပြန်သွားရလျှင်) ငါတို့သည် မိမိတို့ အရှင်မြတ်၏သက်သေလက္ခဏာတော်များကို မဟုတ်မမှန်ဟု ငြင်းပယ်ခြင်းမပြုကြဘဲ၊ ငါတို့သည် ‘မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူတို့တွင် အပါအဝင် ဖြစ်ပေမည် ဟု ပြောဆိုကြလတ္တံ့။ အကယ်၍ အသင်သည် ထိုအဖြစ်ကိုကြည့်ရပါသော် (အလွန်ကြောက်မက်ဖွယ် ကောင်းသောမြင်ကွင်းကို တွေ့မြင်ရပေအံ့)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

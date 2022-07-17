@@ -710,6 +710,12 @@ Nima [o, sŭdruzhavashti] vashiyat Gospod e zadelil za vas sinovete, a za Sebe S
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄ဝ။	အို-မက္ကာဟ်မြို့သားတို့၊ သင်တို့၏ ကျေးဇူးတော်သခင်သည် သင်တို့အား သားရတနာများပေးသနားတော် မူခြင်းဖြင့် ချီးမြှောက်ဂုဏ်ပြုတော်မူပြီးလျှင် မိမိအဖို့အရာ ကောင်းကင်တမန်တော်များအထဲမှ အမများကိုသာ ရွေးချယ်တော်မူသလော၊ မှတ်သားကြလော့။ သင်တို့သည် အလွန်ကြောက်မက်ဖွယ်ကောင်းသောစကားကို ဆိုချေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင် မြတ်သည် အသင်တို့အား ထူးခြားစွာ သား ယောက်ျားကလေးများကိုသာ ချီးမြှင့်တော်မူ၍ မိမိကိုယ်တော်တိုင်မှာမူကားမလာအိကဟ် ကောင်းကင် တမန်တို့အား သမီးမိန်းကလေးများအဖြစ် မွေးစားတော်မူထားပါသလော။ ဧကန်မလွဲ အသင်တို့သည် ကြီးကျယ်လွန်မင်းသောစကားကို ပြောဆိုကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

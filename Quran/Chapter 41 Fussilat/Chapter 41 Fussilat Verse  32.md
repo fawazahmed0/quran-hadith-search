@@ -710,6 +710,12 @@ priem ot oproshtavasht, milosŭrden.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	ထိုဘုံနန်းသည် အပြစ်လွှတ်တော်မူသောအရှင်၊ ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူသောအရှင်၊ အထံတော်မှ ဧည့်ခံလက်ဆောင်တော်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤသည်) အလွန်တရာ ခွင့်လွှတ်ချမ်းသာပေးတော်မူသော။ လွန်စွာသနားကြင်နာ ညှာတာတော်မူသောအရှင်မြတ်အထံတော်မှ ဧည့်ခံတော်မူခြင်းပင် ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

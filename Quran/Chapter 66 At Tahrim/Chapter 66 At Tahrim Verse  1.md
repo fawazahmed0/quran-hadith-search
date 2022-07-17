@@ -710,6 +710,12 @@ O, Proroche, zashto si vŭzbranyavash onova, koeto Allakh ti e razreshil, streme
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။ အို-တမန်တော်၊ အလ္လာဟ်အရှင်မြတ်သည် သင်၏အဖို့အရာ တရားဝင်ခွင့်ပြုထားတော်မူသော အရာကို သင်သည် မိမိဇနီးများ နှစ်သိမ့်စေခြင်းငှာ အဘယ်ကြောင့် တရားမဝင်သည် ဟူ၍ တားမြစ်သနည်း၊ သို့သော် အလ္လာဟ်အရှင် မြတ်သည် အဖန်တလဲလဲ အပြစ်လွှတ်တော်မူ၏၊ ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-နဗီတမန်တော်၊ အသင်သည် မိမိအဖို့ အလ္လာဟ်အရှင်မြတ်က (ဟလာလ်) ခွင့်ပြုတော်မူခဲ့သောအရာကို မည်သည့်အတွက်ကြောင့် အသင်၏ ကြင်ရာတော်များ၏နှစ်သက်မှုကို ရှာဖွေသောအားဖြင့် (ဟရမ်)ဟူ၍ တားမြစ်သောအရာ ပြုလုပ်ပါသနည်း။ သို့တစေလည်း အလ္လာဟ်အရှင်မြတ်သည် အလွန်တရာ ခွင့်လွှတ်တော်မူသောအရှင်၊အလွန်တရာ ကရုဏာပြုတော်မူသောအရှင်၊ ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

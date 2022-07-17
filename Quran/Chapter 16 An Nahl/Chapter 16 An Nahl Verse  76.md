@@ -710,6 +710,12 @@ I dava Allakh primer s dvama mŭzhe - ediniyat e nyam, nesposoben na nishto, i e
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၆။	တဖန် အလ္လာဟ်အရှင်မြတ်သည် လူနှစ်ဦး၏ ဥပမာကို ဆောင်တော်မူ၏။ လူတဦးမှာ စကားမပြောနိုင်၊ ဆွံ့ အယနေသူဖြစ်၏။ သူသည် တစုံတရာမှ မစိုးပိုင်ချေ။ အုပ်ထိန်းစောင့်ရှောက်သူအတွက် တာဝန်ဒုက္ခကြီးတခု ဖြစ်၏။ သူ့ကို မည်သည့်အလုပ်နှင့်စေလွှတ်သော်လည်း သူသည် ဘာကောင်းကျိုးမှ မဆောင်ရွက်နိုင်ချေ။ ဤကဲ့သို့အသုံးမကျသူသည် တရားမှန်ကန်သူကို တိုက်တွန်းဆင့်ဆို၍ လမ်းမှန်ကို လိုက်သူနှင့်အတူတူပင် ဖြစ်သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ အလ္လာဟ် အရှင်မြတ်သည်(အခြား) ဥပမာတစ်ရပ်ကို(လည်း)ခိုင်းနှိုင်းတော်မူခဲ့လေသည်(ယင်းဥပမာကား) လူနှစ်ယောက်ရှိကြ၏။ မိမိအရှင်သခင်အပေါ်၌ ဝန်ထုပ်တစ်ခုလည်း ဖြစ်လျက်ရှိပေသည်။ ထိုသခင်သည် ၎င်းအား မည်သည့်နေရာသို့မဆို စေလွှတ်ခဲ့ပါလျှင် ထိုသူသည် တစ်စုံတစ်ရာ ကောင်းကျိုးကို ဆောင်ကြဉ်းလာသည်မရှိချေ။ ထိုသို့သောသူသည်(သူတစ်ပါးတို့အား)တရားမျှတမှုကို ညွှန်ကြားသည့်ပြင် မိမိကိုယ်တိုင်လည်း ဖြောင့်မတ်မှန်ကန်သောလမ်းပေါ်၌ တည်ရှိနေသောသူနှင့် တူညီနိုင်ပါမည်လော။ (အလျင်းမတူနိုင်ပေ)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

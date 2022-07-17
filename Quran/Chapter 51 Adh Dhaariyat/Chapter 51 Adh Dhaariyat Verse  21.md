@@ -710,6 +710,12 @@ i v samite vas. Nima ne sŭzirate
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	ထို့အပြင် သင်တို့၏ ကိုယ်တွင်း၌လည်း သာဓကတော်များရှိကြ၏၊ သို့ပါလျက် သင်တို့သည် မမြင်နိုင်ကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ အသင်တို့ကိုယ်များတွင်လည်း(သက်သေလက္ခဏာများ) ရှိကုန်၏။ သို့ပါလျက် အသင်တို့သည် မမြင်ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

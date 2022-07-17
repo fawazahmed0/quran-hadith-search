@@ -710,6 +710,12 @@ Ne sa ravni dobrinata i zlinata. Otblŭskvaĭ ya s naĭ-dobroto i togava onzi,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	အမှန်ကိုဆိုသော ကောင်းမှုနှင့် မကောင်းမှုသည် ထပ်တူထပ်မျှမဖြစ်နိုင်ချေ၊ မကောင်းမှုကို ကောင်းမှုအားဖြင့် တုံ့ပြန်ကြလော့၊ ထိုအခါသင့်ကို ရန်ငြိုးဖွဲ့သူသည် သင်၏ရင်းနှီးချစ်ခင်သောအဆွေခင်ပွန်းကဲ့သို့ ဖြစ်မလာနိုင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ်သော်ကား ကောင်းမှုနှင့်မကောင်းမှုတို့မှာ တူကြသည်မဟုတ်ပေ။ (သို့ဖြစ်ပေရာ) အသင်သည်(မကောင်းမှုကို) ကောင်းမှုဖြင့် ခုခံတွန်းလှန်ပါလေ။ သို့ဖြစ်လျှင် အကြင်သူနှင့်အသင်၏အကြား ၌ ရန်ငြိုးရှိ၏။ ထိုသူသည်မိတ်ဆွေအရင်းကဲ့သို့ ဖြစ်လာပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

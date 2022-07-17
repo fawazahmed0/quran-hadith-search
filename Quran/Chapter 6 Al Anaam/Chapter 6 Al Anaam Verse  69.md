@@ -710,6 +710,12 @@ Onezi, koito se poboyat, ne sa otgovorni za tyakh s nishto, ala tova e napomnyan
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၉။	ဒုစရိုက်မှုကို ရှောင်ကြဉ်သူတို့သည် ထိုမိစ္ဆာဒိဌိတို့အတွက် ချေပရန် တာဝန်မရှိပေ။ သို့သော် သူတို့မကောင်းမှုကို ရှောင်ရှားကောင်း ရှောင်ရှားရန် သူတို့အား တရားရေအေးကို တိုက်ကျွေးရမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (ရှရီအတ်၏တားမြစ်ချက်များမှ) ကြဉ်ရှောင်ကြကုန်သောသူတို့အပေါ်၌ မွတ်ရှ်ရစ်က် တို့နှင့်ပတ်သက်၍ စစ်ဆေးမေးမြန်းခြင်းသည် လုံးဝမရှိချေ။ သို့ရာတွင်ထိုသူတို့အပေါ်၌ ဆုံးမဩဝါဒ စကားပြောရန် တာဝန်ကားရှိပေသည်။ သို့မှသာလျှင် ထိုသူများသည် ရှောင်ကြဉ်ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

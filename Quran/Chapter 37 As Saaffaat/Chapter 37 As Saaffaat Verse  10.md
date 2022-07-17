@@ -710,6 +710,12 @@ osven koĭto dolovi slovo [ot angelite] i togava go posledva izgaryasht plamŭk
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	မည်သည့်မာရ်နတ်မဆို တခါတရံတိတ်တဆိတ်ကောင်းကင်သို့ ခိုးတက်လာပြီးလျှင် ကောင်းူကင်တမန်တို့၏ ဆွေးနွေးပွဲကို နာအာရုံခံမည်ရှိရာ အရှိန်အလျှံရဲရဲညီသောမီးလက်နက်တို့သည် ၎င်း၏နောက်က ထက်ချပ်မကွာ လိုက်ပါ၍ ဖွဲပြာဖြစ်အောင် ကျွမ်းလောင်ပျက်စီးစေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကြင်"ရှိုင်တွာန်" မိစ္ဆာကောင်သည်(သတင်းတစ်စုံတစ်ရာကို) ရုတ်တရက် သုတ်ယူခဲ့မူ တောက်လောင်သော မီးတောက်တစ်ခုသည် ၎င်း၏နောက်သို့ ထက်ကြပ်မကွာ လိုက်ခဲ့လေတော့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

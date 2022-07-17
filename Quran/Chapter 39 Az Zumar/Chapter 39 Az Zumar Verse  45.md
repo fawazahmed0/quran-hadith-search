@@ -710,6 +710,12 @@ I shtom biva spomenavan edinstveno Allakh, sŭrtsata na onezi, koito ne vyarvat 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	အလ္လာဟ်အရှင်မြတ်၏ နာမတော်ကို ထုတ်ဖော်ပြောဆိုသောအခါ နောင်တမလွန်ဘဝကို မယုံကြည်သူတို့၏ စိတ်နှလုံးသည် ထိခိုက်ညှိုးငယ်သွား၏၊ အလ္လာဟ်အရှင်မြတ်မှတပါး သူတို့ကိုးကွယ်သောဘုရားပျက်များ အကြောင်းကို ပြောပြသောအခါ သူတို့စိတ်နှလုံးသည် ရွှင်လန်းပျော်မြူးလာ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ် တစ်ဆူတည်းသာလျှင် အောက်မေ့တသ သတိရခြင်းကို ခံရတော်မူသောအခါ"အာခိရတ်"တမလွန်ဘဝကို သက်ဝင်ယုံကြည်ခြင်းမရှိကြသော သူတို့၏စိတ်နှလုံးများသည် စက်ဆုပ်ကြကုန်၏။ သို့ရာတွင် ထိုအရှင်မြတ်မှတစ်ပါး အခြားသူများ အောက်မေ့တသသတိရခြင်း ခံကြရသောအခါ၌မူကား ၎င်းတို့သည် ရုတ်တရက် ဝမ်းမြောက်သွားကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

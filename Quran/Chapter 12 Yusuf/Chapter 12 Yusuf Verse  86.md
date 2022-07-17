@@ -710,6 +710,12 @@ Reche: “Izplakvam svoyata skrŭb i tŭga samo pred Allakh i znam ot Allakh, ka
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၆။	ဖခင်က ချစ်သားတို့၊ ငါသည် မိမိ၏ စိတ်အတိဒုက္ခကို အလ္လာဟ်အရှင်မြတ်အားသာလျှင် ဖော်ပြ၏။ ငါသည် အရှင်မြတ်အထံတော်မှ သင်တို့မသိသည်ကို သိရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ယင်းခမည်းတော်သည်(ဤသို့) ပြောဆိုဖြေကြားခဲ့လေ၏။ ငါသည် အလ္လာဟ်အရှင်မြတ်၏အထံတော်၌သာလျှင် မိမိစိတ်သောကဖြစ်မှုကို လည်းကောင်း၊မိမိပူဆွေးမှုကိုလည်းကောင်း၊ လျှောက်ထားခြင်း ဖြစ်ပေသည်။စင်စစ်မှာမူကား ငါသည် အလ္လာဟ်အရှင်မြတ်ထံတော်မှအသင်တို့ မသိကြသောအရာကို သိရှိရပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

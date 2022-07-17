@@ -710,6 +710,12 @@ I dori da go byakhme nizposlali na nyakoĭ chuzhdenets
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉၈။	ထို့အပြင်အကယ်၍ငါသည် ကုရ်အာန်ကျမ်းတော်မြတ်ကို အာရပ်လူမျိုးမှတပါး အခြားအမျိုးသားတစ်ဦးတစ် ယောက်ထံသို့ ချပေးသနားတော်မူခဲ့လျှင်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် အကယ်တန္တု ငါအရှင်မြတ်သည် ယင်း(ကုရ်အာန်ကျမ်းတော်မြတ်)ကို အရဗ်အမျိုးသား မဟုတ်သူတစ်ဦးတစ်ယောက်၏ အပေါ်၌ ချပေးခဲ့တော်မူခဲ့အံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

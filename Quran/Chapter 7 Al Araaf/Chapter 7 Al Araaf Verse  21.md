@@ -710,6 +710,12 @@ I im se zakle: “Naistina za vas sŭm ot dobrozhelatelite.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	ထို့ပြင် သူသည် သူတို့အား မှတ်သားလော့။ အကျွနု်ပ်သည် သင်တို့အပေါ်တွင် သစ္စာရှိသော အကြံဉာဏ်ပေးသူဖြစ်၏ဟု ကျိန်ဆိုပြောကြား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ယင်း(ရှိုင်တွာန်မိစ္ဆာကောင်သည်) ၎င်းတို့(ဇနီးမောင်နှံ)နှစ်ဦး၏ရှေ့ဝယ် ဧကန်မလွဲ ကျွန်ုပ်သည်အသင်တို့နှစ်ဦး၏ ကောင်းရာကောင်း ကြောင်းကို လိုလားသူသာလျှင် ဖြစ်ပါသည် ဟု သစ္စာပြုကျိန်ဆိုလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

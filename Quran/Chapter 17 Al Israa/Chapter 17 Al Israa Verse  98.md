@@ -710,6 +710,12 @@ Tova e tyakhnoto vŭzmezdie, zashtoto ne povyarvakha v Nashite znameniya i kazva
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၈။	သူတို့သည် ငါ၏ နှုတ်ကပတ်တော်များကို မယုံကြည်ကြချေ။ အကျွနု်ပ်တို့သည် အရိုးများသော်လည်းကောင်း၊ အစိတ်စိတ်အပိုင်းပိုင်းသော်လည်းကောင်း၊ ဖြစ်သွားသောအခါတွင် အမှန်ပင်ရှင်ပြန်ထမြောက် လူသစ်ဖြစ်ရဦးမည် လောဟု ပြောဆိုကြ၏။ ထို့ကြောင့်သူတို့၏ ဆုလာဘ်မှာ ငရဲသာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤကား ၎င်းတို့၏အကျိုးတည်း။ အကြောင်းသော်ကား၊ ထိုသူတို့သည် ငါအရှင်မြတ်၏သက်သေ လက္ခဏာတော်များကို မယုံမကြည် ငြင်းဆိုခဲ့ကြခြင်း ကြောင့်လည်းကောင်း၊ ကျွန်ုပ်တို့သည် အရိုးများသာကျန်ရှိပြီး၊ အပိုင်းပိုင်းအစစဖြစ်ကြသောအခါ အသစ်(ပြန်လည်) ဖန်ဆင်းခြင်းအားဖြင့် ရှင်ပြန်ထစေခြင်းကို ခံကြရဦးမည်လောဟု ပြောဆိုခဲ့ကြခြင်းကြောင့် လည်းကောင်း၊ ဖြစ်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

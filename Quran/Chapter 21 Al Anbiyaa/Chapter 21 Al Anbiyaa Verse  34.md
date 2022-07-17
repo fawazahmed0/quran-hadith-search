@@ -710,6 +710,12 @@ I za nikoĭ chovek predi teb [o, Mukhammad] ne otredikhme da e bezsmŭrten. Sht
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	အို--တမန်တော်၊ သင့်အလျင်ရှေးလွန်လေပြီးသောကာလ၌ လူသားတို့အား မသေခြင်း၊ ထာဝရဖြစ်ခြင်းကို ငါအရှင်မြတ်ပေးတော်မူဖူးသည်မဟုတ်ချေ၊ အကယ်၍သင်ပင်လျှင် သေခြင်းတရားတို့ကို မလွန်ဆန်နိုင်လျှင် ထိုမိစ္ဆာညစ်တို့သည် မသေမပျောက်ရှိနိုင်ကြမည်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ငါအရှင်မြတ်သည် အသင့်အလျင် မည်သည့် လူသားတစ်ဦးတစ်ယောက်၌မျှပင် သေခြင်းကင်းသည့်အနေကို ပြုလုပ်တော်မမူခဲ့ချေ။ သို့ဖြစ်ပေရာ အကယ်၍ အသင်သည် သေဆုံးခဲ့ပါလျှင် ၎င်းတို့သည် အစဉ်ထာဝရ နေကြမည့် သူများ ဖြစ်ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

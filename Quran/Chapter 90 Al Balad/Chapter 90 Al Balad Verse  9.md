@@ -710,6 +710,12 @@ i ezik, i ustni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၊၉။ ငါသည် လူသား၏မျက်စိ၊ လျှာ၊ နှုတ်ခမ်းတို့ကို ဖန်ဆင်းတော်မူသည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် လျှာတစ်ခုကိုလည်းကောင်း၊ နှုတ်ခမ်းနှစ်ခုကိုလည်းကောင်း၊ (ပြုလုပ်ပေးသနားတော်မမူခဲ့ ပါသလော)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

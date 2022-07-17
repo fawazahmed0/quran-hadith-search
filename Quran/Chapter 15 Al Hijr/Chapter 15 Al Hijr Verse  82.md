@@ -710,6 +710,12 @@ I izsichakha domove v planinite - v bezopasnost
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၂။	သူတို့သည် တောင်များကို ဖောက်ထွင်း၍ နေအိမ်ဆောက်လုပ်ပြီးလျှင် ဘေးဘယာကင်းကွာလုံခြံုစွာနေကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့သည် တောင်များကို အိမ်များအဖြစ် ဖောက်ထွင်း၍ ဘေးရန်ကင်းငြိမ်းစွာ နေထိုင်လေ့ရှိခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Shte kazhat: “Na Allakh!” Kazhi: “Ne shte li se pouchite?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၅။	သူတို့က အလ္လာဟ်အရှင်မြတ်ဟု ဖြေလိမ့်မည်၊ ထို့ကြောင့်သင်တို့သည် တရားတော်ကို သတိရကြမည်မဟုတ် လားဟု ပြောလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့က အလ္လာဟ်အရှင်မြတ် စိုးပိုင်တော်မူ သောအရာများဖြစ်သည်ဟု အမှန်ပင် ဖြေကြားကြပေလိမ့်မည်။ (ထိုအခါ) အသင်သည် (၎င်းတို့အား အချင်းတို့၊) သို့ပါလျက် အသင်တို့သည် မဆင်ခြင်မသုံးသပ်ကြလေသလောဟု ပြောကြားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

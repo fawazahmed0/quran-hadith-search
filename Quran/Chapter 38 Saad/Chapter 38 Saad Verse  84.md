@@ -710,6 +710,12 @@ Reche [Allakh]: “Istina e, samo istinata kazvam
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၄၊၈၅။	အလ္လာဟ်အရှင် ဗျာဒိတ်ပေးတော်မူသည်မှာ အို-အီဗလစ်(စ်)၊ ငါသည် အမှန်ကိုသာ မိန့်တော်မူ၏၊ အမှန်စကား ကား ငါသည် ငရဲကို နင်နှင့်တကွ နင့်နောက်ကို လိုက်သူများနှင့် ပြည့်နှက်အောင် ဖြည့်တော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် မိန့်ကြားတော်မူခဲ့၏။ ငါအရှင်မြတ် အမှန်ကို မိန့်ကြားတော်မူမည်။ စင်စစ် ငါအရှင်သည် အမှန်ကိုသာ ပြောကြားတော်မူလေ့ရှိသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

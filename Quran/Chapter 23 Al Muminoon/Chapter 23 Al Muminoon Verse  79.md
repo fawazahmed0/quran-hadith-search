@@ -710,6 +710,12 @@ Toĭ e, Koĭto vi razmnozhi po zemyata i pri Nego shte bŭdete sŭbrani
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၉။	အရှင်မြတ်သည် သင်တို့အား မဟာပထဝီမြေပေါ်တွင် အနှံ့အပြားနေရာချပေးသနားတော်မူထသောအရှင်ဖြစ် တော်မူ၏၊ အရှင်မြတ်အထံတော်သို့ သင်တို့အားလုံးကို စုရုံးယူဆောင်တော်မူမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင်၊ ထိုအရှင်မြတ်သည်ပင် အသင်တို့အား ပထဝီမြေဝယ် ပျံ့နှံ့ပွားများစေတော်မူခဲ့သောအရှင် ဖြစ်တော်မူ၏။ ၎င်းပြင် အသင်တို့သည် ထိုအရှင်မြတ် အထံတော်သို့ပင် စုရုံးကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

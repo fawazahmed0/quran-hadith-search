@@ -710,6 +710,12 @@ A koito ne vyarvat i vzimat za lŭzha Nashite znameniya, tezi sa obitatelite na 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	သို့သော် အကြင်သူတို့သည် မယုံကြည်ကြ။ ငါအရှင်၏ နှုတ်ကပတ်တော်များကို ငြင်းပယ်ကြ၏။ ထိုသူတို့သည် ငရဲပြည်ကို တရားသဖြင့် ပိုင်သူများဖြစ်ကြ၏။ သူတို့သည် ငရဲပြည်၌ နေကြရမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ငါအရှင်၏တရားဒေသနာတော်များကို လိမ်လည်ထားသည့် တရားဒေသနာတော်များ ဖြစ်သည်ဟုစွပ်စွဲ၍ (ငါ့အား) ငြင်းပယ်သူများကား ငရဲသားများ ဖြစ်ကြသည်။ ယင်းသူတို့သည် ထိုငရဲတွင် ထာဝစဉ်ခံစားကြရမည့်သူ သစ္စာကတိကို အတည်ပြုတော်မူအံ့၊ (သို့ဖြစ်ရာ) အသင်တို့သည် ငါအရှင်ကိုသာလျှင် ကြောက်ရွံ့ ရိုသေ ကြကုန်လော့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

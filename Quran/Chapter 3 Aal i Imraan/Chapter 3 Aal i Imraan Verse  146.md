@@ -710,6 +710,12 @@ I s kolko prorotsi se srazhavakha ogromni mnozhestva, no te ne iznemoshtyavakha 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၆။	များပြားလှစွာသောတမန်တော်တို့နှင့်အတူတကွ စစ်ဆင်နွှဲသော သစ္စာရှိသူတို့ များစွာရှိကြ၏။ သူတို့သည် အလ္လာဟ်အသျှင်မြတ်၏လမ်းတော်တွင် ရင်ဆိုင်ရသော ဘေးဥပါဒ်ကို မကြောက်ရွံ့ကြ ချေ။ သူတို့သည် အားမပျော့ကြချေ။ သူတို့ကို ဖိနှိပ်၍မရချေ။ အလ္လာဟ်အသျှင်မြတ်သည် သည်းခံသောသူတို့ကို မြတ်နိုးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် မြောက်မြားစွာသော နဗီတမန်တော်များနှင့် အတူတကွ အလ္လာဟ်အရှင်မြတ်အား ကြည်ညိုမြတ်နိုးကြကုန်သော သူတော်ကောင်းများ သည် စစ်မက်ပြိုင်ဆိုင်တိုက်ခိုက်ခဲ့ကြလေသည်။ သို့ပါလျက် ထိုသူတို့သည် အလ္လာဟ်အရှင်မြတ်၏လမ်းတော်တွင် မိမိတို့၌ဆိုက်ရောက်ခဲ့သော ဘေးအန္တရာယ်ဆင်းရဲဒုက္ခများကြောင့် စိတ်အား လျော့ခြင်းသည်လည်းကောင်း၊ အင်အားလျော့နည်းခြင်းသည်လည်းကောင်း၊ကြို့ငဲ့ နိမ့်ကျခြင်းသည်လည်းကောင်း၊ မရှိခဲ့ကြချေ။အမှန်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် (ဇွဲသတ္တိနှင့်ပြည့်စုံ၍) ခန္တီတရားထားရှိသူတို့ကို ချစ်ကြည်မြတ်နိုးတော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

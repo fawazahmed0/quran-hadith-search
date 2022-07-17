@@ -710,6 +710,12 @@ i tvoyat Gospod doĭde s podredenite v reditsi angeli
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။ ထို့အပြင် သင်၏အရှင်သခင်သည် ကောင်းကင်တမန်တို့အထပ်ထပ်ခြံရံလျက် ကြွလာတော်မူသောအခါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် ကြွလာတော်မူသောအခါ၊ ထို့ပြင် "မလာအိကဟ်" ကောင်းကင်တမန်တို့သည် စီတန်းလျက် (လာကြသောအခါ။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

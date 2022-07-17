@@ -710,6 +710,12 @@ A koito vyarvat v Allakh i se privŭrzhat kŭm Nego - Toĭ shte gi vŭvede v mi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇၅။	အကြင်သူတို့သည် အလ္လာဟ်အသျှင်မြတ်ကို ယုံကြည်ကြ၏။ မြဲမြံစွာ ဆည်းကပ်ကြ၏။ ထိုသူတို့အား အလ္လာဟ်အသျှင်မြတ်သည် မိမိ၏ မဟာကရုဏာတော် အနန္တကောင်းကြီးမင်္ဂလာတော်အတွင်းသို့ ဝင်စေတော်မူလိမ့်မည်။ အထံတော်သို့ ဖြောင့်တန်းစွာလာသော လမ်းတော်ကြီးကိုလည်း ပြသတော် မူလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အကြင်သူတို့သည် အလ္လာဟ်အရှင်မြတ်ကို ယုံကြည်၍ ထိုအရှင်မြတ် (၏ ဒီန်သာသနာတော် အစ္စလာမ်) ကို မြဲမြံခိုင်ခံ့စွာ ဖက်ကိုင်ထားရှိကြကုန်၏။ သို့ဖြစ်လျှင် ထိုသူတို့အား မကြာမြင့်မီ ထိုအရှင်မြတ်သည် မိမိကရုဏာတော် (တည်းဟူသော ‘ဂျန္နတ်’ အမတသုခဘုံ) နှင့် ကျေးဇူးတော်တွင်းသို့ ဝင်ရောက်စေတော်မူအံ့။ ၎င်းပြင် ထိုအရှင်မြတ်သည် ယင်းသူတို့အား မိမိအထံတော်သို့ (ရောက်ရှိနိုင်ရန်) ဖြောင့်မတ်သော (တရား) လမ်းကိုလည်း ညွှန်ပြတော်မူလတ္တံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Allakh vi zabranyava samo da se sblizhavate s onezi, koito voyuvat s vas v relig
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။ အို-ယုံကြည်သူအပေါင်းတို့၊ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အား မိမိတို့ကို သာသနာ့အရေးကြောင့် စစ်ထိုး သောသူကို လည်းကောင်း၊ မိမိတို့အား အိမ်နေရာမှ နှင်ထုတ်သူကို လည်းကောင်း၊ ထိုနှင်ထုတ်ခြင်းကို ကူညီအားပေးသောသူကိုလည်းကောင်း၊ ထိုသူတို့ကိုသာလျှင် မိတ်မဖွဲ့ရန် ပညတ်တော်မူ၏၊ ထိုမိစ္ဆာဒိဋ္ဌိတို့နှင့် မိတ်ဖွဲ့သောသူတို့သည် ဒုစရိုက်မှုကျုးလွန်သူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (စင်စစ်သော်ကား) အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့အား အကြင်သူတို့ကို အဆွေခင်ပွန်းပြုလုပ်ခြင်းမှသာ တားမြစ်တော်မူ၏။ ထိုသူတို့သည် "ဒီန်" သာသနာနှင့်စပ်လျဉ်း၍ အသင်တို့ကို တိုက်ခိုက်ခဲ့ကြသည့်ပြင် အသင်တို့အား အသင်တို့၏နေအိမ်များမှလည်း နှင်ထုတ်ခဲ့ကြ၏။ အသင်တို့ကို နှင်ထုတ်ရေးနှင့်စပ်လျဉ်း၍ (သူတစ်ပါးတို့အား) ယိုင်းပင်းကူညီခဲ့ကြ၏။ စင်စစ်သော်ကား မည်သူမဆို ၎င်းတို့အား အဆွေခင်ပွန်း ပြုလုပ်သည်ရှိသော် ထိုကဲ့သို့သော သူတို့သည်သာလျှင် မတရားသောသူများ ဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

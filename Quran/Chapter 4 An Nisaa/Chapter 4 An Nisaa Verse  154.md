@@ -710,6 +710,12 @@ I vŭzdignakhme otgore im Planinata poradi tekhniya obet, i im rekokhme: “Vlez
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၄။	ထို့ပြင် သူတို့သည် ပဋိညာဉ်ပြုလုပ်သောအခါ ငါသည် တောင်တော်ကိုကြွ၍ သူတို့အပေါ်တွင် မိုးနေစေတော်မူ၏။ ထို့ပြင် ငါသည် သူတို့အား သင်တို့သည် တံခါးပေါက်ကို ကျိုးနွံ့ရိုသေစွာ ဝင်ကြလော့ဟု ဗျာဒိတ်ပေးတော်မူ၏။ တစ်ဖန် ငါသည် သူတို့အား ဥပုဒ်သီလကို မချိုးကြလင့်ဟု ပညတ်တော်မူ၏။ တစ်ဖန် ငါသည် သူတို့ထံမှ ခိုင်မာသောပဋိညာဉ်ကို ယူတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ငါအရှင်မြတ်သည် ထိုသူတို့ထံမှ ပဋိညာဉ် ယူခြင်းငှာ ထိုသူထက်ဝယ် ‘တူရ်’ မည်သောတောင်ကို ပင့်မြှောက်တော်မူခဲ့၏။ ထို့ပြင် ငါအရှင်မြတ်သည် ထိုသူတို့ကို အသင်တို့သည် (မြို့၏) တံခါးပေါက်သို့ ဝပ်တွား၍ဝင်ကြလေကုန် ဟူ၍လည်း မိန့်ကြားတော်မူခဲ့၏။ ၎င်းပြင် ထိုသူတို့အား အသင်တို့သည် ‘စဗ်တ်’ (စနေနေ့) ဥပုသ်နေ့နှင့်စပ်လျဉ်း၍ မကျူးလွန်ကြလေနှင့် ဟူ၍လည်း မိန့်ကြားတော်မူခဲ့၏။ ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ထိုသူတို့ထံမှ အလွန်ခိုင်မာသောပဋိညာဉ်ကိုလည်း ယူခဲ့တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

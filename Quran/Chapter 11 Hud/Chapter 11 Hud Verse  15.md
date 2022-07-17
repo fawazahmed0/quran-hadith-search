@@ -710,6 +710,12 @@ Koito zhelayat zemniya zhivot i negovata ukrasa, prez nego shte im izplatim za d
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	အကြင်သူတို့သည် လောကီစည်းစိမ်ကာမဂုဏ်အရောင်အရှိန်ကို တပ်မက်မောကြအ့ံ၊ ငါအရှင်မြတ်သည် သူတို့၏ ပြုကျင့်မှု၏ အကျိုးကို ဤဘဝတွင် ပေးသနားတော်မူမည်။ ဤပေးမှုတွင် သူတို့သည် မတရားညှင်းပမ်းခြင်းကို ခံကြရမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သူမဆိုလောကီဘဝကိုလည်းကောင်း၊ယင်းလောကီဘဝ၏ (ပကာသနဖြစ်သော) လှပ တင့်တယ်မှုကိုလည်းကောင်း၊ ရည်စူးပါလျှငငါ အရှင်မြတ်သည် ထိုကဲ့သို့သောသူတို့အား ၎င်းတို့၏ ကျင့်မူဆောင်ရွက်ချက်များ၏(အကျိုး)ကိုဤလောကီ ဘဝ၌ပင် အပြည့်ပေးတော်မူလေသည်။ ထို့ပြင်၎င်း တို့သည် ဤလောကီဘဝတွင် (အနည်းငယ်မျှပင်) ယုတ်လျော့စေခြင်းကို ခံကြရသည်မရှိချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

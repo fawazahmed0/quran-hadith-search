@@ -710,6 +710,12 @@ Ili ne be izvesten za onova, koeto e v svitŭtsite na Musa
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	ထိုသူသည် တမန်တော်မူစာအား ထုတ်ပြချပေးသနားတော်မူသောကျမ်းတော်ပါ အမင်္ဂလာသတင်းကို မကြား ရသေးဘူးလား။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းသည် ‘မူစာ’၏ ကျမ်းများ၌ လာရှိသည်ကိုလည်းကောင်း၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

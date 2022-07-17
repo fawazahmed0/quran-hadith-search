@@ -710,6 +710,12 @@ Taka se potvŭrdi Slovoto na tvoya Gospod za onezi, koito sa nechestivtsi, che t
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	သင်၏ အရှင်သခင်၏ စကားတော်သည် အကုသိုလ်ကောင်းမှုများကို ပြစ်မှားသူတို့နှင့်စပ်လျဉ်း၍ မှန်ကန်ကြောင်း ကို ဤသို့ထင်ရှားလာစေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤအတိုင်းပင် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏စကားတော်သည် အမိန့်တော်ကိုဖီဆန်ခဲ့သူနှင့်ပတ်သက်၍ အတည်ဖြစ်သွားခဲ့ချေပြီ။ အဘယ်ကြောင့်ဆိုသော် ၎င်း တို့သည် အီမာန် သက်ဝင်ယုံကြည်ကြမည်မဟုတ်သောကြောင့် ပင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

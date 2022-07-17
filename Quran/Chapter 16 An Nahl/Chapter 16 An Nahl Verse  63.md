@@ -710,6 +710,12 @@ Kŭlna se v Allakh, veche izprashtakhme pratenitsi i na obshtnosti predi teb [o,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၃။	အလ္လာဟ်အရှင်မြတ်၏ တန်ခိုးတော်ကြောင့် သင့်အလျင်၊ တမန်တော်များကို မိမိတို့လူမျိုးအသီးသီးထံ ငါအရှင် မြတ်မုချဧကန်စေလွှတ်တော်မူ၏။ သို့သော်ရှိုင်တန်မာရ်နတ်သည် သူတို့အား မိမိတို့အပြုအမူများကို တင့်တယ် စေ၏။ ယခုလည်း သူတို့၏ နာယကဖြစ်၏။ သူတို့၏ ဝေစုမှာ အလွန်ပြင်းပြနာကျင်ဖွယ်ကောင်းသောအပြစ်ဒဏ် ကြီးဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်၏ ကစမ်၊ ဧကန်မလွဲ ငါအရှင်မြတ်သည် အသင်၏အလျင် အုပ်စုအသီးသီးထံသို့(ရစူလ်တမန်တော်များကို) စေလွှတ်တော်မူခဲ့လေသည်။ သို့ရာတွင်ရှိုင်တွာန်မိစ္ဆာကောင်သည် ၎င်းတို့၏ပြုကျင့်မှုများကို ၎င်းတို့၏အမြင်တွင်လည်း လှပတင့်တယ်အောင် ပြုလုပ်ခဲ့လေသည်။သို့ဖြစ်ပေရာ ယင်းရှိုင်တွာန်မိစ္ဆာကောင်သည် ယနေ့လည်း၎င်းတို့၏ အဆွေခင်ပွန်းပင် ဖြစ်ပေသည်။ ထိုမှတစ်ပါး ၎င်းတို့၌ ပြင်းပြနာကျင်ဖွယ် ပြစ်ဒဏ်ရှိချေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

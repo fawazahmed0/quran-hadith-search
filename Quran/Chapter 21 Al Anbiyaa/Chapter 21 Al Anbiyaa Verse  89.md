@@ -710,6 +710,12 @@ I spomeni [Zakariya], koĭto prizova svoya Gospod: “Gospodi, ne me ostavyaĭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၉။	တဖန်တမန်တော်ဇကရီယာ၊ သူသည် သူ၏အရှင်သခင်အထံတော်၌ ဆုတောင်းပဋ္ဌနာပြုသည်မှာ အို--- အကျွနု်ပ်၏ကျေးဇူးတော်သခင်၊ အရှင်သည် သာလွန်မြင့်မြတ်သောအမွေစားအမွေခံဖြစ်တော်မူငြားသော်လည်း အကျွနု်ပ်ကို သားမဲ့သမီးမဲ့ပစ်ထားတော်မမူပါလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် (အို-နဗီတမန်တော်၊ အသင်သည် နဗီတမန်တော်)ဇကရီယာ(၏အကြောင်း)ကိုလည်း (ပြောကြားပါလေ)။ အခါတစ်ပါး၌ ထို(နဗီတမန်တော်) ဇကရီယာသည်မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်ကို "အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ ကျွန်တော်မျိုးအား (အမွေစားအမွေဆက်ခံသူ မရှိသောသူအဖြစ်)တစ်ဦးတည်း စွန့်ထားတော်မမူပါနှင့်။ စင်စစ်သော်ကား အရှင်မြတ်သည် အကောင်းဆုံးသော အမွေစားအမွေခံ ဖြစ်တော်မူပါသည်"ဟု ဟစ်ခေါ်တသ ပန်ကြားခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Vashiyat Gospod naĭ-dobre vi poznava. Ako pozhelae, shte vi pomilva, ili ako p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၄။	သင်တို့၏ အရှင်သခင်သည် သင်တို့ကို ကောင်းစွာသိတော်မူ၏။ အရှင်မြတ်သည် အလိုတော်ရှိပါလျှင် သင် တို့အား ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူမည်။ အရှင်မြတ်သည် အပြစ်ဒဏ်ခတ်လိုတော်မူပါလျှင် အပြစ်ဒဏ် တပ်ရိုက်တော်မူမည်။ မိုဟမ္မဒ် ငါသည် သင့်အား အုပ်ထိန်းသူအဖြစ်ဖြင့် စေလွှတ်တော်မူသည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည် အသင်တို့အား အကြွင်းမဲ့ သိတော် မူသောအရှင်မြတ်ပင်။ အကယ်၍ ထိုအရှင်မြတ်သည် အလိုရှိတော်မူပါလျှင် အသင်တို့အား သနားတော်မူပေမည်။ သို့တည်းမဟုတ် အကယ်၍ ထိုအရှင်မြတ်သည် အလိုရှိတော်မူပါလျှင်အသင်တို့အား ပြစ်ဒဏ်ခတ်တော် မူပေမည်။ စင်စစ် (အိုနဗီတမန်တော်)ငါအရှင်မြတ်သည် အသင့်အား ၎င်းတို့အပေါ်၌ ကြီးကြပ်အုပ်ထိန်း သူ(တာဝန်ခံ)အဖြစ် စေလွှတ်တော်မူသည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

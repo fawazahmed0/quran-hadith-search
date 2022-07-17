@@ -710,6 +710,12 @@ Reche: “Tova e toyagata mi. Opiram se na neya i brulya za ovtsete si [lista], 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	တမန်တော်မူစာက ဤဝထ္ထုသည် အကျွနု်ပ်စွဲကိုင်သောတောင်ဝှေးဖြစ်ပါ၏။ ဤတောင်ဝှေးအပေါ်၌ အကျွနု်ပ် သည် အမှီပြုရပါ၏။ ဤတောင်ဝှေးဖြင့် အကျွနု်ပ်၏ သိုးများအတွက် သစ်ကိုင်းရိုက်ချိုးရပါ၏။ ထို့အပြင်အကျွနု်ပ် သည် ထိုတောင်ဝှေး၌ အခြားအသုံးပြုခြင်းကို တွေ့ပါ၏ဟု တင်လျှောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းမူစာက (အို-အရှင်)ဤသည် ကျွန်တော်မျိုး၏တောင်ဝှေးဖြစ်ပါသည်။ ကျွန်တော်မျိုးသည် ယင်းတောင်ဝှေးပေါ်၌ အမှီသဟဲပြုပါသည်။ ကျွန်တော်မျိုးသည် ယင်း တောင်ဝှေးဖြင့် မိမိဆိတ်များအဖို့ သစ်ခက်သစ်ရွက်များကိုလည်းခြွေပါသည်။ ထိုမှတစ်ပါး ကျွန်တော်မျိုးအဖို့ ယင်းတောင်ဝှေး၌အခြားအလိုဆန္ဒများ (အလုပ်များ)လည်း ရှိပါသေးသည်ဟုလျှောက်ထား အစီရင်ခံခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

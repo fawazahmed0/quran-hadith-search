@@ -710,6 +710,12 @@ I kogato dadokhme na Musa Pisanieto i Razgranichenieto, za da se napŭtite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။	၎င်းပြင် ငါသည် သင်တို့အားလမ်းမှန်ကိုညွှန်ပြဖို့ရာ တမန်တော်မူဆာအား ကောင်းဆိုးနှစ်ပါးကို ခွဲခြားသိစွမ်းနိုင်ရာသောကျမ်းတော်ကို ချပေးသနားတော်မူသည်ကိုလည်း သတိရကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-အစ္စရာအီလီ မျိုးနွယ်အပေါင်းတို့၊ ပြန်လည်အောက်မေ့ သတိရကြကုန်) တရံရောအခါ ငါအရှင်မြတ်သည် အသင်တို့တရားရစိမ့်သောငှာ နဗီတမန်တော် မူစာ(အလိုင်ဟစ္စလာမ်) အား (တောင်ရာတ်) ကျမ်းဂန် (ဝါ) အမှားအမှန်ခွဲခြား၍ ညွှန်ကြားပြသသော ကျမ်းဂန်ကို ထုတ်ပြန်ပို့ချ ပေးသနားတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I stori dostoĭno spomenavaneto mi pred idnite [pokoleniya]
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၄။	နောင်လာနောက်သားတို့ဘောင်တွင် အကျွနု်ပ်ကို ကောင်းမွန်စွာဖော်ထုတ်ပြတော်မူပါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အရှင်မြတ်သည် ကျွန်တော်မျိုးအဖို့ နောင်လာနောက်သားများတွင် နာမည်ကောင်းခြင်းကို ပြုလုပ်၍ ပေးတော်မူပါ။ (တစ်နည်း) အရှင်မြတ်သည် ကျွန်တော်မျိုးအဖို့ နောင်လာနောက်သားများတွင် ကောင်းစွာ ကျော်ကြားမှုကို (ကောင်းစွာသတိရခြင်းကို) ပြုလုပ်၍ ပေးတော်မူပါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

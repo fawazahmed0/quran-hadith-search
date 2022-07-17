@@ -710,6 +710,12 @@ Tam ima plodove i palmi, i narove
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၈။	ဤဥယျာဉ်တော်များ၌ စွန်ပလွံသီး၊ သလဲသီးစသည့်သစ်သီးသစ်ဥအမျိုးမျိုးရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းဥယျာဉ်နှစ်ခု၌ သစ်သီးဝလံများသည်လည်းကောင်း၊ စွန်ပလွံပင်များသည် လည်းကောင်း၊ သလဲသီးများသည် လည်းကောင်း၊ ရှိကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

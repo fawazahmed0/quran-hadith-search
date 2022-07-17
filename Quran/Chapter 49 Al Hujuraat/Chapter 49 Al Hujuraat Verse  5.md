@@ -710,6 +710,12 @@ A ako byakha iztŭrpeli, dokato im se pokazhesh, shteshe da e naĭ-dobroto za t
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	အကယ်၍ထိုသူတို့သည် မိမိတို့ထံ သင်အလိုအလျောက်ထွက်လာသည့်တိုင်အောင် စိတ်ရှည်လက်ရှည်စောင့်ဆိုင်း နေလျှင် သူတို့အနက် သာလွန်လျှောက်ပတ်ချေ၏၊ စင်စစ်မှာ အလ္လာဟ်အရှင်မြတ်သည် အပြစ်လွှတ်တော်မူ၏၊ ကောင်းကြီးမင်္ဂလာပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အကယ်၍သာ ၎င်းတို့သည်အသင် ၎င်းတို့ထံ ထွက်လာသည်အထိ သည်းခံခဲ့ကြပါလျှင် ၎င်းတို့အဖို့ အကောင်းဆုံးပင် ဖြစ်ခဲ့ပေမည်။ အမှန်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် လွန်စွာ ခွင့်လွှတ် ချမ်းသာပေးတော်မူသောအရှင်၊ လွန်စွာ သနား ကရုဏာပြုတော်မူသောအရှင်၊ ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

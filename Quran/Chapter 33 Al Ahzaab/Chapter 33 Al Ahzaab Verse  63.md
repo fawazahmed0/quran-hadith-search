@@ -710,6 +710,12 @@ Khorata te pitat za Chasa. Kazhi: “Edinstveno Allakh znae za nego.” I otkŭd
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၃။	အို-တမန်တော်၊ လူသားတို့သည် သင့်အား နေ့တော်ကြီးအဘယ်ခါ ဆိုက်ရောက်မည်နည်းဟု မေးကြ၏၊ သင်ဟောကြားလော့၊ ဟယ်-အချင်းတို့၊ အလ္လာဟ်အရှင်မြတ်သာလျှင် ဤအကြောင်းကို သိတော်မူ၏၊ စင်စစ် အားဖြင့် ဤအကြောင်းကို အဘယ်မှာလျှင်သင်သိနိုင်မည်၊ သို့ရာတွင်ထိုအချိန်ကား အလွန်နီးကပ်ကောင်း နီးကပ်လိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 လူတို့သည် ကိယာမတ် ရှင်ပြန်ထမည့် အချိန်ကာလနှင့် စပ်လျဉ်း၍ အသင့်အား မေးမြန်းကြကုန်၏။ (အိုနဗီတမန်တော်)အသင်သည် ပြောကြား ပါလေ။ (အချင်းတို့၊)ယင်းကိယာမတ် ရှင်ပြန်ထမည့် အချိန်ကာလနှင့် စပ်လျဉ်းသော အသိပညာကား အလ္လာဟ်အရှင်မြတ်၌သာရှိ၏။ အသင်သည် အသို့လျှင် သိနိုင်ပါအံ့နည်း။ စင်စစ် ရှင်ပြန်ထမည့်အချိန် ကာလသည် နီးကပ်လျက် ရှိတန်ရာသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

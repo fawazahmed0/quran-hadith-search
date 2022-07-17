@@ -710,6 +710,12 @@ i kogato im se chete Koranŭt, ne svezhdat chela do zemyata v sudzhud
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။ သူတို့အား ကုရ်အာန်ကျမ်းမြတ်ကို ရွတ်ဖတ်ဟောပြောသောအခါ သူတို့သည် အဘယ်ကြောင့်အလ္လာဟ်အရှင်မြတ်အား မရှိခိုး မပူဇော်ကြသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့ရှေ့၌ ကုရ်အာန်ကျမ်းတော်မြတ် ဖတ်ကြားသောအခါဝယ် ၎င်းတို့သည်(မည်သည့်အကြောင်းကြောင့်) ပျပ်ဝပ်ဦးချခြင်း မပြုကြသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

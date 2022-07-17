@@ -710,6 +710,12 @@ Ne shte gi boli glava ot tova i ne shte gubyat um
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	ဤသောက်တော်ရေကို သောက်ခြင်းကြောင့် နိဗ္ဗာန်သားတို့သည် ဦးခေါင်းခဲခြင်း၊ မူးယစ်ရူးသွပ်ခြင်းရှိနမည် မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့မှာ ထိုအရက်ကြောင့် ခေါင်းခဲခြင်းကိုလည်း ခံစားကြရမည် မဟုတ်ပေ။ သတိလစ်ကြမည်လည်း မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

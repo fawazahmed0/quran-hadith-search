@@ -710,6 +710,12 @@ koito vŭzpirat ot pŭtya na Allakh, stremyat se da izkrivyat pŭtya i otvŭdniy
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	ထိုသူမိုက်တို့သည် လူသားတို့အား အရှင်မြတ်၏ လမ်းတော်မှ လူသားတို့ကို တားဆီးထားကြ၏။ လမ်းတော်ကို မဖြောင့်မမှန်ကွေ့ကောက်စေလိုကြ၏။ သူတို့သည် နောင်တမလွန်ဘဝ၌ မယုံကြည်ကြချေဟု ပြောဆိုမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုကျူးကျော်စော်ကားသော)သူများကားအကြင်သူတို့ပင်၊ ထိုသူတို့သည် (သူတစ်ပါးတို့ အားလည်း)အလ္လာဟ်အရှင်မြတ်လမ်းတော်မှ ပိတ်ပင်တားဆီးကြလေသည်။၎င်းပြင် ထိုသူတို့သည် ထိုလမ်းတွင် ကွေ့ကောက်မှုကို ရှာကြံကြလေသည်။ ထိုမှတစ်ပါး ၎င်းတို့ကိုယ်တိုင်ပင်နောင်တမလွန်ဘဝကို ငြင်းပယ်သူများ ဖြစ်ကြကုန်သတည်း။ (တစ်နည်း)၎င်းတို့သည်ကား နောင်တမလွန်ဘဝကိုပင် ငြင်းပယ်သူများဖြစ်ကြပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

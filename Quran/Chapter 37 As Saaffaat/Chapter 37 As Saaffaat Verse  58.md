@@ -710,6 +710,12 @@ A nali nie [vyarvashtite] ne shte umrem
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈၊၅၉။	အကျွနု်််ပ်တို့သည် ပထမကွယ်လွန်သေဆုံးပြီးနောက် နောက်တခါမသေရတော့ဘူးလားမဟုတ်လား၊ ထို့အပြင် အကျွနု်ပ်တို့ကို အပြစ်ဒဏ်မခတ်တော့ဘူးမဟုတ်လား။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်လျှင် ကျွန်ုပ်တို့သည် သေဆုံးကြအံ့သောသူများ မဟုတ်တော့ပြီလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

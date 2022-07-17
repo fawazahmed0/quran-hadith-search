@@ -710,6 +710,12 @@ I se pokoryavaĭte na Allakh i na Negoviya Pratenik, i ne se osporvaĭte edin 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။	အလ္လာဟ်အသျှင်မြတ်နှင် အသျှင်မြတ်၏ တမန်တော်ကို နာခံကြလော့။ အချင်းချင်း အငြင်းအခုံ မပြုကြလင့်။ သို့ပြုလျှင် သင်တို့သည် တွန့်ဆုတ်၍ အားပြတ်သွားတတ်၏။ သို့သော် တည်တံ့ခိုင်မြဲ ကြလော့။ အလ္လာဟ်အသျှင်မြတ်သည် တည်ကြည်မြဲမြံသောသူတို့နှင့်အတူတကွ ရှိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်တို့သည် အလ္လာဟ် အရှင်မြတ်၏အမိန့်တော်များကိုလည်းကောင်း၊ ထိုအရှင်မြတ်၏ရစူလ်တမန်တော်၏အမိန့်တော်များကို လည်းကောင်း၊လိုက်နာကြလေကုန်။ ထို့ပြင် အသင်တို့သည် အချင်းချင်းအငြင်းမပွားကြကုန်လင့်။ သို့အငြင်းပွားခဲ့ကြလျှင် အသင်တို့သည် စိတ်ဓါတ်ကျဆုံးကြပေမည်။ အသင်တို့၏ လေ(အားအင်)သည်လည်း ဆုတ်ယုတ် သွားချေမည်။ ၎င်းပြင် အသင်တို့သည်သည်းခံကြ လေကုန်။ ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည်သည်းခံသူတို့နှင့် အတူရှိတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

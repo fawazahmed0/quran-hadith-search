@@ -710,6 +710,12 @@ i e bogoboyazliv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၊၉၊၁၀။ သို့သော် သင့်ထံသို့ တရားအားထုတ်လိုသော ထက်သန်သောစိတ်သဘောနှင့်သော်လည်းကောင်း၊ ကြောက်ရွံ့သောစိတ်သဘောနှင့်သော်လည်းကောင်း၊ လာရောက် သူကိုမူကား သင်အရေးမယူ မျက်နှာလွှဲ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ထိုသူသည် (အလ္လာဟ်အရှင်မြတ်အား) ကြောက်ရွံ့ရိုသေသူလည်း ဖြစ်ခဲ့ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

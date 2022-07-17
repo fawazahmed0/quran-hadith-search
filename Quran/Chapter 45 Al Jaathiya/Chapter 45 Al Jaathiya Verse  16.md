@@ -710,6 +710,12 @@ I dadokhme na sinovete na Israil Pisanieto i ot·sŭzhdaneto, i prorochestvoto, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	လွန်လေပြီးသောအခါဝယ် ငါသည် အစ္စရာအီလ်လူမျိုးအား ကျမ်းတော်ဘုန်းတန်ခိုးအာဏာတော်တမန်တော် အဖြစ်ဖြင့် ချီးမြှောက်တော်မူ၏၊ သူတို့စားသောက်ဖို့ရာ ကောင်းမွန်သန့်ရှင်းသောအစာအဟာရကိုလည်း ချပေး သနားတော်မူ၏၊ သူတို့အား အခြားအမျိုးသားတို့ထက် သာလွန်၍ ကောင်းကြီးမင်္ဂလာချပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အမှန်စင်စစ် ငါအရှင်မြတ်သည် အစ္စရာအီလီအမျိုးသားတို့အား ကျမ်းဂန်ကိုလည်းကောင်း၊ စီရင်ဆုံးဖြတ်မှုကိုလည်းကောင်း၊ နဗီတမန်တော်အဖြစ် ကိုလည်းကောင်း၊ ချီးမြှင့်ပေးသနားတော်မူခဲ့၏။ ထို့ပြင် ငါအရှင်မြတ်သည် ၎င်းတို့အား သန့်ပြန့်စင်ကြယ်သော အစားအစာကို စားနပ်ရိက္ခာအဖြစ် ပေးသနားတော်မူခဲ့၏။ ထိုမှတစ်ပါး ၎င်းတို့အား ငါအရှင်မြတ်သည် ကမ္ဘာသူကမ္ဘာသားတို့ထက် ထူးကဲစေတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

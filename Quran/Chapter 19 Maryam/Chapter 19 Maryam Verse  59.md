@@ -710,6 +710,12 @@ No gi posledvakha pokoleniya, koito izostavikha molitvata i posledvakha strastit
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၉။	ထိုတမန်တော်တို့၏ နောက်တွင် ဖြစ်ပေါ်လာသောလူသားတို့သည် သာသနာတော်ကို ဖျက်ဆီး၏။ ကိလေသာ တဏှာဆွဲငင်ရာကိုသာ လိုက်ကြ၏။ သို့သော်သူတို့သည် လိမ်လည်ဖျားယောင်းခြင်းကိုသာ တွေ့ကြံုရကြလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် ၎င်းတို့နောက်တွင် အကြင်ဆိုးရွားသောအရိုက်ရာဆက်ခံသူတို့က ရိုက်ရာဆက်ခံခဲ့ကြကုန်၏။၎င်းတို့သည် ဆွလာတ်ဝတ်ပြုမှုကို ဖျက်ဆီးခဲ့ကြ၏။ (မိမိတို့)စိတ်အလိုဆန္ဒများကို လိုက်စားခဲ့ကြ၏။ သို့ဖြစ်ပေရာ ၎င်းတို့သည် မကြာမြင့်မီပင်ပျက်စီးမှုနှင့်တွေ့ကြုံရင်ဆိုင်ကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

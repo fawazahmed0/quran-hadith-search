@@ -710,6 +710,12 @@ Gospodi, Ti shte sŭberesh khorata v Denya, za koĭto nyama sŭmnenie. Allakh n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	အို - အကျွန်ုပ်တို့၏ အရှင်သည် လူသားတို့ကို နေ့တနေ့၌ စုရုံးတော်မူမည့်အရှင်ဖြစ်တော်မူပါ၏။ ထိုနေ့တော်ကြီး ဆိုက်ရောက်လာမည်ကို ယုံမှားသံသယလုံးဝမရှိနိုင်ပါ။ အလ္လာဟ်အရှင်မြတ်သည် ချိန်းဆိုထားတော်မူသည်ကို ဘယ်သောအခါမှ ဖျက်တော်မမူပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ကျွန်တော်မျိုးတို့အား မွေးမြူတော်မူသောအရှင်၊ မုချဧကန် အရှင်မြတ်သည် အကြင် (ရှင်ပြန်ထမည့်)နေ့တွင် လူခပ်သိမ်းတို့အား စုရုံးတော်မူမည့် အရှင်မြတ်ပင်တည်း။ထိုနေ့နှင့် စပ်လျဉ်း၍ လုံးဝ ယုံမှားသံသယမရှိပါ။ မုချဧကန်အလ္လာဟ်အရှင်မြတ်သည် ထားရှိတော်မူသော ကတိသစ္စာတော်ကို အလျင်း ဖောက်ဖျက်တော်မူမည် မဟုတ်ပါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Posle negoviyat Gospod go izbra - prie pokayanieto mu i go napŭti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၂။	ထို့နောက်သူ၏ကျေးဇူးတော်သခင်သည် သူ့အား ပြန်ရွေးကောက်တော်မူ၏၊ အမျက်ပြေတော်မူ၍ လမ်းပြတော် မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ယင်းအာဒမ်အား ၎င်းကို ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် ရွေးချယ်တော် မူခဲ့လေရာ၊ထိုအရှင်မြတ်သည် ၎င်း၏ဘက်သို့ ကရုဏာတော်နှင့် ပြန်လှည့်တော်မူ(၍၎င်း၏တောင်းပန်ချက်ကို သဘောတူလက်ခံတော်မူ)ခဲ့လေသည်။ ထို့ပြင်တရားလမ်းမှန်ကိုလည်းပြတော်မူခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

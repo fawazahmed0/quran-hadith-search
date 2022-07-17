@@ -710,6 +710,12 @@ No grupite sred tyakh izpadnakha v raznoglasie [otnosno Isa]. Gorko na ugnetitel
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၅။	သို့သော်ထိုအသင်းသားတို့သည် အချင်းချင်းအစုအစုကွဲပြားပြီးလျှင် အငြင်းအခုံပြုလုပ်ကြလေ၏၊ ထို့ကြောင့် သူတို့သည် အလွန်ပြင်းပြနာကျယ်ဖွယ်နေ့၏ အပြစ်ဒဏ်ကြောင့် ပျက်စီးဆုံးရှုံးကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ပါလျက် ၎င်းတို့၏အကြားမှ အုပ်စု(ဂိုဏ်းဂဏ)အသီးသီးကွဲခဲ့ကြကုန်၏။ သို့ဖြစ်ပေရာ မတရား ကျူးလွန်သူများ၌ ပြင်းပြနာကျင်ဖွယ်သောနေ့၏ ပြစ်ဒဏ်ကြောင့် ပျက်စီးခြင်းသည် ရှိပေအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

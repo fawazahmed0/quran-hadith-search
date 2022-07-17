@@ -710,6 +710,12 @@ Taka i onezi predi tyakh, shtom doĭdeshe pratenik, kazvakha: “Mag’osnik il
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၂။	ဤလူများအလျင် လူဟောင်းများထံသို့ တမန်တော်များမလာလေမှ လာလေလျှင် သူတို့က တမန်တော်တို့ကို စုန်းမှော်ပယောဂဆရာ(သို့မဟုတ်) အရူးအပေါဟု ပုန်ခတ်စွပ်စွဲကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ ၎င်းတို့အလျင် ရှိခဲ့ကြသောသူတို့ထံသို့ ရစူလ်တမန်တော်တစ်ပါးပါး လာရောက်ခဲ့တိုင်း ထိုသူတို့သည် (ရစူလ်တမန်တော်)အား ပဉ္စလက်ဆရာဖြစ်သည် ဟူ၍သော်လည်းကောင်း၊ ရူးသွပ်သောသူဖြစ်သည် ဟူ၍သော်လည်းကောင်း၊ ပြောဆို ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I pri aditite pratikhme brat im Khud. Kaza: “O, narode moĭ, sluzhete na Alla
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၅။	အာဒ်လူမျိုးထံသို့ ငါအသျှင်မြတ်သည် သူတို့၏သားချင်း တမန်တော်ဟူဒ်ကို စေလွှတ်တော်မူ၏။ သူဟောကြား၏။ အို-အမျိုးသားအပေါင်းတို့ သင်တို့သည် အလ္လာဟ်အသျှင်မြတ်ကို ကိုးကွယ်ကြ လော့။ သင်တို့၌ အလ္လာဟ်အသျှင်မြတ်မှတစ်ပါး အခြားအသျှင်သခင်မရှိပေ။ သင်တို့သည် ဒုစရိုက် မကောင်းမှုကို ရှောင်ကြဉ်ကြမည်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ(ငါအရှင်မြတ်သည်)အာဒ်အမျိုးသားတို့ထံ ၎င်းတို့၏ညီအစ်ကို သားချင်းဖြစ်သော (နဗီတမန်တော်)ဟူဒ် ကို(စေလွှတ်တော် မူခဲ့လေသည်။) ထိုအခါ ယင်း(နဗီတမန်တော် ဟူဒ် က အို-ငါ၏အမျိုးသားအပေါင်းတို့၊သင်တို့သည် အလ္လာဟ်အရှင်မြတ်ကိုသာလျှင် ခဝပ်ကိုးကွယ်ကြလေကုန်။ အသင်တို့၌ ထိုအလ္လာဟ်အရှင်မြတ် မှတစ်ပါးခဝပ် ကိုးကွယ်ရာဟူ၍ အလျင်းမရှိပြီ။ သို့ပါလျက် အသင်တို့သည်မကြောက်ရွံ့ကြပါသလော ဟု ဟောကြားခဲ့လေသတည်း။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kazhi na vyarvashtite da proshtavat na onezi, koito ne ochakvat dnite na Allakh,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	ယုံကြည်သူတို့အား အလ္လာဟ်အရှင်မြတ်၏ နေ့ထူးနေ့မြတ်ကို မမျှော်လင့်၊ မကိုးစားသူတို့ကို အပြစ်လွှတ်ရန် ဟောပြောလော့၊ အကြောင်းမူကား အရှင်မြတ်သာလျှင် လူသားတို့ကို မိမိတို့ပြုကျင့်ခဲ့သည့်အလျောက် ကောင်းမှု ဆိုးကျိုးပေးသနားစီရင်တော်မူရန်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် "မုအ်မင်န်"သက်ဝင်ယုံကြည်သူတို့အား ၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ် ပြုလုပ်တော်မူအံ့သော ကိစ္စများကို ယုံကြည်(စိုးရိမ်)ခြင်း မရှိကြသောသူတို့အား ခွင့်လွှတ်ကြရန် ပြောကြားပါလေ။ ထိုမှသာလျှင် ထိုအရှင်မြတ်သည် လူမျိုးတစ်မျိုးအား ၎င်းတို့ ရှာဖွေဆည်း ပူးခဲ့ကြသည် များနှင့်စပ်လျဉ်း၍ အစားပေးတော်မူအံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

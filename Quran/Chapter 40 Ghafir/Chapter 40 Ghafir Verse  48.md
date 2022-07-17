@@ -710,6 +710,12 @@ Onezi, koito se golemeekha, shte rekat: “Nie vsichki sme v nego. Allakh ot·s�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	မာနကြီးခဲ့သူများက ငါတို့အားလုံးသည် ဤငရဲမီးတွင် ဆင်းရဲဒုက္ခခံနေကြရ၏၊ အမှန်စင်စစ် အလ္လာဟ်အရှင် မြတ်သည် မိမိကျေးကျွန်တို့စပ်ကြားတွင် စစ်ကြောစီရင်တော်မူပြီဟု ဆိုကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) အကြီးအကဲတို့က "ဧကန်စင်စစ် ကျွန်ုပ်တို့အားလုံးတို့သည်ပင် ယင်းငရဲမီး၌ ရှိနေကြကုန်၏။ ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် (မိမိ) ကျွန်တို့၏အကြားဝယ် (ယတိပြတ်)စီရင်ဆုံးဖြတ်တော် မူလိုက်လေပြီ" ဟု ပြောဆိုဖြေကြားကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

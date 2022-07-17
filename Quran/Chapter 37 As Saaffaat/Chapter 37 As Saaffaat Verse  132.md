@@ -710,6 +710,12 @@ Toĭ be ot Nashite vyarvashti rabi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၂။	မှတ်သားကြလော့၊ တမန်တော်အီလ်ယား(စ်)သည် ငါ၏ သမ္မာတရားတော်ကို ယုံကြည်သူတို့ဘောင်တွင် အပါအဝင်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်ဧကန် ထို"အီလ်ယာစီန်"သည် ငါအရှင်မြတ်၏ သက်ဝင်ယုံကြည်ကုန်သော ကျွန်တို့တွင် တစ်ဦးအပါအဝင် ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

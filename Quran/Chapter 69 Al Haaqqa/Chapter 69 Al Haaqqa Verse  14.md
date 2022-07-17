@@ -710,6 +710,12 @@ i bŭdat vdignati zemyata i planinite, i bŭdat natrosheni s edin udar
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။ ထို့အပြင်ကမ္ဘာမြေနှင့်တကွ တောင်ကြီးတောင်ငယ်အလုံးစုံကို မပြီးလျှင် တစ်ကြိမ်တည်းနှင့်မြေမှုန့်အထိ ညက် ညက်ကြေအောင် ပစ်ချတော်မူသောအခါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ပထဝီမြေသည်လည်းကောင်း၊ တောင်များသည်လည်းကောင်း၊ ပင့်မြှောက်(ဖယ်ရှား)ခြင်းကို ခံကြရပြီးလျှင် တစ်ချက်တည်း ညက်ညက်ကြေအောင် ထုထောင်းခြင်းကို ခံခဲ့ကြရသော်၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

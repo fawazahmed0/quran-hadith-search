@@ -710,6 +710,12 @@ I kogato kervanŭt potegli, tekhniyat bashta reche: “Naistina useshtam mirisa 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၄။	ခရီးသွားကုန်သည်စုတို့ထွက်သွားသောအခါ ငါသည် ယူစွတ်(ဖ်)၏ အနံ့ကို အမှန်ရ၏ဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် ခရီးသည်တစ်စုသည် (အီဂျစ်ပြည်မှ)ထွက်ခွာခဲ့လေသောအခါ ၎င်းတို့၏ ခမည်းတော်က အကယ်၍အသင်တို့သည် ငါ့အား သူငယ်ပြန်သည် မယူဆကြပါလျှင်ဧကန်စင်စစ် ငါသည် ယူဆွဖ်၏အနံ့ကို ရနေပေသည်ဟုပြောဆိုခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

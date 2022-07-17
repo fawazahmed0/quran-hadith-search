@@ -710,6 +710,12 @@ Rekokha: “Izprateni sme pri khora-prestŭpnitsi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	ကောင်းကင်တမန်တို့က အကျွနု်ပ်တို့ကို အပြစ်ရှိသောသူတို့ထံ စေလွှတ်တော်မူ၏ဟု ပြန်ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့က ပြောကြားခဲ့ကြလေသည်။ ဧကန်အမှန် ကျွန်ုပ်တို့သည် အပြစ်ကျူးလွန်ကြကုန်သော အမျိုးသားတို့ထံ စေလွှတ်ခြင်း ခံခဲ့ကြရကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kazakha: “Povyarvakhme v Gospoda na svetovete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၁။	သူတို့က အကျွနု်ပ်တို့သည် စကြာဝဠာအားလုံး၏ ကျေးဇူးတော်အသျှင်သခင်အား ယုံကြည်ကြပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့က ကျွန်ုပ်တို့သည် စကြာဝဋ္ဌာ ခပ်သိမ်းတို့ကို ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်အား ယုံကြည်ကြပါပြီ ဟု ပြောဆိုကြလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

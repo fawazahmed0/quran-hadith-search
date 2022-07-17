@@ -710,6 +710,12 @@ a koito se stremyat kŭm drugo, osven tova, tezi sa prestŭpvashtite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	သို့သော်ထို့ထက်ပို၍ မက်မောသောသူတို့သည် တရားတော်ကို ကျူးလွန်သူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် မည်သူမဆို ထို(ဇနီးကြင်ယာများ သို့မဟုတ် တရားဝင်ကျွန်မများ)မှ ကျော်လွန်၍ (အခြား အမျိုးသမီးများကို) တောင့်တ ရှာဖွေခဲ့မူ ယင်းကဲ့သို့ သူတို့သည်သာလျှင် စည်းကမ်းကို ကျူးလွန်သူများ ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

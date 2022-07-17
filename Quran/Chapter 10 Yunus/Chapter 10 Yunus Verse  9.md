@@ -710,6 +710,12 @@ Koito vyarvat i vŭrshat pravedni dela - tekhniyat Gospod shte gi napŭti zaradi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	မှတ်သားကြလော့၊ အကြင်သူတို့သည် ယုံကြည်၍ ကုသိုလ်ကောင်းမှုပွားများကြ၏။ ထိုသူတို့အား သူတို့၏ အရှင်သခင်သည် သူတို့၏ ယုံကြည်မှုအားဖြင့် လမ်းပြတော်မူ၏။ သုခဥယျာဉ်တော်အတွင်း၌ သူတို့အောက်တွင် မြစ်ချောင်းအသွယ်သွယ်စီးဆင်းလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အကြင်သူများသည် သက်ဝင်ယုံကြည်ခဲ့ကြ၏။ ၎င်း ပြင် ထိုသူများသည် ကောင်းမြတ်သောအကျင့်သီလများကို ပြုလုပ်ဆောက်တည်ကြ၏။ ၎င်း တို့အား၎င်း တို့ကို ဖန်ဆင်းမွေးမြူတော် မူသောအရှင်မြတ်သည် ၎င်း တို့၏ အီမာန်သက်ဝင်ယုံကြည်မှုကြောင့် ချမ်းသာသုခနှင့် ပြည့်စုံသော ဥယျာဉ်များသို့ ပို့ဆောင်တော်မူမည် ဖြစ်သည်။ ၎င်း တို့(နေထိုင်ရာ)အောက်၌ စမ်းရေချောင်းများ စီးတွေလျက်ရှိပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kak se yavi pred svoya Gospod s chisto sŭrtse
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၄။	တမန်တော်အေဗရာဟမ်သည် မိမိ၏ အရှင်သခင်အထံတော်သို့ သန့်ရှင်းစင်ကြယ်သောစိတ်နှလုံးနှင့် ချဉ်းကပ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ပြန်လည်သတိရကြလေကုန်၊) အကြင်အခါဝယ် ထိုအီဗ်ရာဟီမ်သည် (ဒွိဟသံသယ စသောရောဂါများ)ကင်းရှင်းသော စိတ်နှလုံးနှင့်တကွ မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်ဘက်သို့ လှည့်ခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Izpratikhme Nukh pri negoviya narod i toĭ kaza: “O, narode moĭ, sluzhete n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၉။	ရှေးအတိတ်ကာလ၊ ငါအသျှင်မြတ်သည် တမန်တော်နူဟိုကို သူ၏ အမျိုးသားတို့ထံ စေလွှတ်တော် မူ၏။ သူသည် ဟောကြား၏။ ဟယ်-အချင်းတို့ သင်တို့သည် အလ္လာဟ်အသျှင်မြတ်အား ကိုးကွယ် ကြလော့။ သင်တို့၌ အလ္လာဟ်အသျှင်မြတ်မှတစ်ပါး အခြား အသျှင်သခင်မရှိပေ။ မှတ်သားကြလော့။ အကျွနု်ပ်သည် သင်တို့အတွက် အလွန်ကြောက်မက်ဖွယ်ကောင်းသော နေ့တော်ကြီး၏ ဂလဲ့စားခြေ အပြစ်ဒဏ်ကို ကြောက်လှပေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်ဧကန် ငါအရှင်မြတ်သည် (နဗီတမ်တော်)နူဟ်ကို၊ ၎င်း၏အမျိုးသားတို့ထံ စေလွှတ်တော်မူခဲ့လေသည်။ထိုအခါ ယင်း(နဗီတမန်တော်) နူဟ်က (မိမိအမျိုးသားတို့အား)အို-ငါ၏ အမျိုးသား အပေါင်းတို့၊ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်ကိုသာလျှင် ခဝပ်ကိုးကွယ်ကြလေကုန်။ အသင်တို့၌အလ္လာဟ်အရှင်မြတ်မှတစ်ပါး အခြားခဝပ်ကိုးကွယ်ရာ အလျဉ်းမရှိပြီ။ ငါသည် အသင်တို့အပေါ်၌ အလွန် ကြီးကျယ်သောနေ့၏ ပြစ်ဒဏ် (သက်ရောက်မည်) ကို မလွဲဧကန် စိုးရိမ်မိသည်ဟုပြောကြားခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I sŭtvorikhme sedem nebesa nad vas, i ne sme nekhaĭni kŭm tvorenieto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	၎င်းအပြင်ငါအရှင်မြတ်သည် သင်တို့အထက်မိုးခုနစ်ထပ်၊ လမ်းခုနစ်လမ်းကို အမှန်ပင်ဖန်ဆင်းထားတော်မူ၏၊ ငါသည် မိမိဖန်ဆင်းထားတော်မူသောအရာခပ်သိမ်းကုန်တို့ကို မည်သည့်အခါမျှမေ့လျော့ပစ်ထားတော်မူသည် မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် မချွတ်ဧကန် ငါအရှင်မြတ်သည် အသင်တို့၏ထက်ဝယ် (မိုး)ခုနစ်ထပ်ကို ဖန်ဆင်းတော်မူခဲ့၏။ စင်စစ် သော်ကား ငါအရှင်မြတ်သည် အဖန်ဆင်းခံတို့ကို လျစ်လျူရှုထားတော်မူသောအရှင် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I ne ubivaĭte chovek - Allakh e vŭzbranil tova, osven po pravo! A koĭto bŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	တရားသဖြင့် သတ်ဖြတ်ခြင်းမှတပါး အသက်ကို မသတ်ရဟု အလ္လာဟ်အရှင်မြတ်ပညတ်တော်မူသောတရားတော် ကို ကျူးလွန်၍ သူတပါးအသက်ကို မသတ်ကြလင့်၊ အကြင်သူကို မတရားသတ်ဖြတ်အ့ံ။ ထိုသူ၏ အမွေစား အမွေခံအား လက်စားချေခွင့် ငါပေးသနားတော်မူ၏။ သို့သော်သူသည် သတ်ဖြတ်ရာ၌ လွန်ကျူးခြင်းကို မပြုရချေ။ မှတ်သားလော့။ လက်စားချေမှု၌ သူ့ကို ကူညီစောင့်ရှောက်တော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်က တားမြစ်ပညတ်ထားတော်မူသော အသက်ဇီဝိန်ကို မှန်ကန်သော အကြောင်းမရှိဘဲလျက် သတ်ဖြတ်ခြင်း မပြုကြရချေ။စင်စစ်သော်ကား မတရားသဖြင့် သတ်ဖြတ်ခြင်း ခံရသောသူ၏ ပြောရေးဆိုခွင့်ရှိသောအမွေစားအမွေခံအား ဧကန်စင်စစ်ငါအရှင်မြတ်သည် အခွင့်အာဏာကို ချီးမြှင့်၍ထားတော်မူခဲ့လေသည်။ သို့ရာတွင် ယင်းအမွေစားအမွေခံသည် သတ်ဖြတ်မှုနှင့်စပ်လျဉ်း၍ စည်းကမ်းကို မကျူးလွန်ရချေ။ အကြောင်းသော်ကား ထိုအမွေ စားအမွေခံသည် (အလ္လာဟ်အရှင်မြတ်၏)ကူညီထောက်ခံမှုကို ရရှိပြီးဖြစ်သောကြောင့်ပင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Allakh obeshta na onezi, koito vyarvat i vŭrshat pravedni dela, oproshtenie za 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	အလ္လာဟ်အသျှင်မြတ်သည် ယုံကြည်လျှက် သုစရိုက်ကောင်းမှုပွားများသူတို့အား ဂတိဗျာဒိတ် ပေးတော်မူပြီ။ အပြစ်လွှတ်ခြင်းနှင့် အောင်ဆုမင်္ဂလာကြီးသည် သူတို့အဖို့ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် ‘အီမာန်’ ယုံကြည်ခြင်းသဒ္ဓါတရားထားရှိ၍ ကောင်းမြတ်သောအကျင့်သီလများကို ဆောက်တည်ကြကုန်သောသူတို့အား၊ ၎င်းတို့အဖို့ လွတ်ငြိမ်းချမ်းသာခွင့်နှင့် ကြီးကျယ်လှစွာသော အကျိုးဆုလဒ်သည် ရှိပေသည်ဟူ၍ ဝန်ခံကတိ ထားရှိတော်မူခဲ့ချေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

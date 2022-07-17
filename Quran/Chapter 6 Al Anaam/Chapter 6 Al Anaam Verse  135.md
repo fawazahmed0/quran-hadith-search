@@ -710,6 +710,12 @@ Kazhi: “O, narode moĭ, rabotete spored svoite vŭzmozhnosti, i az shte rabot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၅။	အို-မိုဟမ္မဒ် ဟောကြားလော့။ ဟယ်-အချင်းတို့ သင်တို့သည် အစွမ်းကုန် ကြိုးစားကြလော့။ အကျွနု်ပ်လည်း ကြိုးစားနေသည်။ အကျွနု်ပ်တို့အနက် အဘယ်သူတို့သည် ဝမ်းမြောက်ဖွယ်ကောင်း သော အကျိုးဆက်ကို ခံစားရမည်ကို သင်တို့မကြာခင် သိကြရလိမ့်မည်။ မှတ်သားကြလော့။ ဒုစရိုက်မှု ကျူးလွန်သူတို့သည် အောင်မြင်ကြမည်မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်တို့သည် (ထိုကာဖိရ်တို့အားဤသို့)ပြောကြားပါလေ အို-ငါ၏အမျိုးသားအပေါင်းတို့၊ အသင်တို့သည် မိမိတို့နည်းအတိုင်းသာ ပြုလုပ်ကြလေကုန်။ ငါသည်လည်း (မိမိနည်းလမ်းအတိုင်းပင်) ပြုလုပ်လျက်ရှိချေပြီ။ နောက်ဆုံး စိတ်ချမ်းသာမှုသည် မည်သူတို့အဖို့ဖြစ်သည်ကို မကြာမြင့်မီ အသင်တို့သိရှိ ကြရလတ္တံ့။ ဧကန်မုချမတရားပြုကျင့်သော သူတို့သည် အလျင်းအောင်မြင်ကြလိမ့်မည်မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I ako ne be ot vŭzkhvalyavashtite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၃။	အကယ်၍ သူသည် အလ္လာဟ်အရှင်မြတ်၏ ဂုဏ်ကျေးဇူးတော်ကို ချီးကျူးတသသူမဟုတ်ခဲ့လျှင်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အကယ်၍သာ ထို"ယူနွတ်စ်"သည် (ငါအရှင်မြတ်)စင်ကြယ်သန့်ရှင်းတော်မူကြောင်း မြွက်ဆိုသူ မဖြစ်ခဲ့မူ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

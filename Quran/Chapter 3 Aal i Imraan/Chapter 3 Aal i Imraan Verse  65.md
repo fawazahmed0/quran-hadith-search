@@ -710,6 +710,12 @@ O, khora na Pisanieto, zashto sporite za Ibrakhim? Torata i Evangelieto byakha n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၅။	အို...ရှေးကျမ်းတော်ရရှိသူတို့ တောင်ရတ်ကျမ်းတော်၊ အင်ဂျီလ်ကျမ်းတော်တို့ကို တမန်တော် အီဗရာဟီမ်၏လက်ထက်တော်အတွင်း ချပေးတော်မမူငြားသော်လည်း သင်တို့သည် ထိုတမန်တော်အကြောင်းကို အဘယ်ကြောင့် အငြင်းအခုံပြုလုပ်မည်နည်း။ သင်တို့၌ အသိဉာဏ် မရှိသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ရှေးအထက် ကျမ်းဂန်များကို ရရှိသူအပေါင်းတို့၊ အသင်တို့သည် တမန်တော် အစ်ဗ်ရာဟီမ် နှင့်ပတ်သက်၍ (ထိုတမန်တော်သည်ယဟူဒီဖြစ်သည်ဟူ၍လည်းကောင်း၊ ခရစ်ယာန်ဖြစ်သည်ဟူ၍လည်းကောင်း) အဘယ်ကြောင့် အချေအတင် ပြောဆိုငြင်းခုံကြသနည်း။ အမှန်စင်စစ်တောင်ရာတ် နှင့် အီန်ဂျီလ် ကျမ်းများသည် ထိုတမန်တော်အစ်ဗ်ရာဟီမ်၏နောက် (အတန်ကြာမှပင်) ကျရောက်လာသောကျမ်းဂန်များဖြစ်၏။ (ယဟူဒီနှင့်ခရစ်ယာန်ဘာသာ အယူဝါဒများသည် ထိုကျမ်းဂန်များကျရောက်ပြီးနောက်တွင်မှဖြစ်ပေါ်လာသောဘာသာ အယူဝါဒများသာ ဖြစ်ပေရာ တမန်တော် အစ်ဗ်ရာဟီမ်သည် အဘယ်သို့လျှင် ယဟူဒီ၊ သို့မဟုတ်ခရစ်ယာန်ဘာသာဝင် ဖြစ်နိုင်အံ့နည်း၊ ဤမျှ ထင်ရှားသောစကားကိုပင်) အသင်တို့ မသိမမြင် မဆင်ခြင်ကြပါသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

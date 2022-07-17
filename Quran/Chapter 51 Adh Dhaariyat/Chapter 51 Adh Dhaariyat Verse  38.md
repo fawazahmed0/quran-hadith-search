@@ -710,6 +710,12 @@ I za Musa, kogato go izpratikhme pri Faraona s yaven dovod
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	ထို့အပြင် ငါသည် ဖွာရောမင်းထံ ထင်ရှားသောအမိန့်တော်နှင့်တကွ စေလွှတ်တော်မူသည့်တမန်တော်မူစာ ၌လည်း သာဓကတော်တစ်ပါးပါရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် မူစာ(၏အကြောင်း အတ္ထုပ္ပတ္တိ)တွင်လည်း (သက်သေလက္ခဏာ)ရှိ၏။ အကြင်အခါဝယ် ငါအရှင်မြတ်သည် ထိုမူစာအား ‘ဖစ်ရ်အောင်န်’၏ထံ သို့ ထင်ရှားစွာသော သက်သေသာဓကနှင့်တကွ စေလွှတ်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

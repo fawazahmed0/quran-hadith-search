@@ -710,6 +710,12 @@ Izbyaga toĭ na natovaren korab
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄ဝ။	ထိုတမန်တော်သည် မိမိ၏အသင်းသားတို့ထံမှ ကုန်စည်ပစ္စည်းပြည့်နှက်နေသောသင်္ဘောတစ်စင်းရှိရာသို့ ထွက် ပြေး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အခါတစ်ပါး၌ ထို "ယူနွတ်စ်" သည် ကုန်စည်အပြည့်တင်ထားသော သင်္ဘော၏အနီးသို့ ပြေး၍သွားခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

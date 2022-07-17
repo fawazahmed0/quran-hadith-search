@@ -710,6 +710,12 @@ A kak shte bŭdat, shtom gi spoleti beda zaradi onova, koeto rŭtsete im sa stor
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	သူတို့တင်ကြိုပို့ထားနှင့်သော ပြုကျင့်မှုကြောင့် သူတို့ထံသို့ ဘေးအန္တရာယ်တစ်စုံတစ်ခု ဆိုက်ရောက် လာလျှင် သူတို့အသို့ရှိမည်နည်း။ ထိုအခါ သူတို့သည် သင့်ထံသို့လာပြီးလျှင် မိမိတို့သည် သင့်တင့် ညီညွှတ်မှုနှင့် သနားကြင်နာမှုမှတစ်ပါး အခြားတစ်စုံတစ်ရာကိုမျှ မရှာမှီးပါဟု အလ္လာဟ်အသျှင်မြတ် ကို တိုင်တည်၍ ကျိန်ဆိုကြလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် ထိုသူတို့၌ မိမိတို့၏ ကိုယ်ထိလက်ရောက်ပြုလုပ်မှုများကြောင့်ပင် တစ်စုံတစ်ရာ ဘေးဥပါဒ်အန္တရာယ်သည် ဆိုက်ရောက်လတ်သော် (ထိုသူတို့သည်) မည်သို့ဖြစ်သွားကြသနည်း။ ထို (သို့ဖြစ်ကြပြီး) နောက် ထိုသူတို့ကား “ကျွန်တော်များသည် အကောင်းဖြစ်စေခြင်းနှင့် (အချင်းချင်း) စိတ်တူကိုယ်မျှ ဖြစ်စေခြင်းမှတစ်ပါး အခြား မည်သည်ကိုမျှ ရည်စူးခဲ့ကြသည်မဟုတ်ပါ” ဟူ၍ အလ္လာဟ်ရှင်မြတ်အား တိုင်တည်ကျိန်ဆိုလျက် အသင့်ထံ လာကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

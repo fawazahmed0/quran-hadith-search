@@ -710,6 +710,12 @@ Zemniyat zhivot be razkrasen za nevernitsite, a te se prismivat na vyarvashtite.
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁၂။	မယုံကြည်သူတို့အဖို့ ဤဘဝကို အလွန်လှပတင့်တယ် မွေ့လျော်ဖွယ်ဖြစ်စေ၏။ သူတို့သည် ယုံကြည် သူတို့အား ပြောင်လှောင်ကြ၏။ သို့သော် အလ္လာဟ်အရှင်မြတ်သည် အလိုတော်ရှိသူအား တွန့်တိုခြင်း မရှိဘဲ ပေးကမ်းစွန့်ကြဲတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အမှန်စင်စစ်) မယုံမကြည်သွေဖည်ငြင်းဆန် ကြကုန်သော ကာဖိရ်တို့သည် ဤပစ္စုပ္ပန်ဘဝ၌ အသက်ထင် ရှားနေထိုင်ခြင်း(နှင့်လောကီစည်းစိမ် တို့)ကို ကောင်းမွန်သည် ဟု ထင်မြင်ယူဆပေရာ ယင်းသူတို့သည် ယုံကြည်သဒ္ဓါတရား ထားရှိကြကုန် သော မုအ်မင်န်တို့ကို ပြက်ရယ်ပြောင်လှောင်ကြ လေသည်။ စင်စစ်သော်ကား (အလ္လာဟ်အရှင်မြတ် အား) ကြောက်ရွံ့ရိုသေ၍ ပြစ်မှုဒုစရိုက်တို့မှကြဉ် ရှောင်သော သူများ သည် ရှင်ပြန်ထမည့်နေ့တွင် ထိုကာဖိရ်တို့ထက် သာလွန်မြင့် မြတ်ကြကုန်အံ့။ အမှန်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် မိမိ အလိုတော်ရှိသောသူတို့ကို အတိုင်းမရှိ စားနပ်ရိက္ခာ များကို ပေးသနားတော်မူလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

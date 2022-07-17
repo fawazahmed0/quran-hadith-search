@@ -710,6 +710,12 @@ Moyat pokrovitel e Allakh, Koĭto nizposla Knigata. Toĭ pokrovitelstva praved
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉၆။	မှတ်သားကြလော့။ အကျွနု်ပ်ကို ကာကွယ်စောင့်ရှောက်သူ အဆွေခင်ပွန်းမှာ အကျွနု်ပ်အား ကုရ်အာန်ကျမ်းတော်မြတ်ကို ချပေးသနားတော်မူသော အသျှင်မြတ်နှင့် တရားတော်ကို ကြည်ညို သူတို့နှင့် မိတ်ဖွဲ့တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် (ငါ့ထံသို့)ကျမ်းဂန်ဒေသနာတော်ကို ချပေးသနားတော်မူသော အလ္လာဟ်အရှင်မြတ်သည်ပင်ငါ့အား ကာကွယ်စောင့်ရှောက်တော်မူသော အဆွေခင်ပွန်းဖြစ်တော်မူပေသည်။ ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည်ပင် သူတော်ကောင်းအပေါင်းတို့ အားလည်း ကာကွယ်စောင့်ရှောက်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

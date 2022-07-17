@@ -710,6 +710,12 @@ I veche se razkri na teb i na onezi predi teb: “Ako sŭdruzhish s Allakh, tvoe
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၅။	အို-မိုဟမ္မဒ်၊ သင့်အလျင် ပွင့်သောတမန်တော်များကဲ့သို့ သင့်ကိုလည်း ဗျာဒိတ်ပေးတော်မူ၏၊ ဗျာဒိတ်တော်မှာ အကယ်၍ သင်သည် အရှင်မြတ်အား ဖက်စပ်သူပေးခြင်းကို ပြုလျှင် သင်၏အလုပ်သည် မအောင်မြင်၊ အ ချည်းနှီးသာဖြစ်မည်၊ သင်သည် မုချဧကန်ပျက်ပြားဆုတ်ယုတ်သူတို့ဘောင်တွင် အပါအဝင်ဖြစ်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ်သော်ကား အသင့်ထံသို့လည်းကောင်း၊ အသင့်အလျင်(ပွင့်ခဲ့ကြလေသော နဗီတမန်တော်များ)ထံသို့လည်းကောင်း၊ မုချမလွဲ(ဤသို့)"ဝဟ်ယ်"အမိန့်တော်ထုတ်ပြန်ခြင်း ခံခဲ့ရလေ၏။ "အမှန်ပင် အကယ်၍ အသင်သည် (တစ်စုံတစ်ရာကို အလ္လာဟ်အရှင်မြတ်နှင့်)နှိုင်းယှဉ် တွဲဖက်ကိုးကွယ်မှုကို ကျူးလွန်မိခဲ့ပါလျှင် မုချစင်စစ် အသင်၏ ပြုမူကျင့်ဆောင်ချက်တို့သည် အချည်းနှီးဖြစ်သွားမည့်ပြင် ဧကန်မလွဲ အသင်သည် ဆုံးရှုံးကြကုန်သော သူတို့တွင်လည်း အပါအဝင် ဖြစ်ချေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

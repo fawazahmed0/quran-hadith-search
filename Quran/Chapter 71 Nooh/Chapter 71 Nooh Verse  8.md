@@ -710,6 +710,12 @@ Posle gi zovyakh otkrito
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။ ထို့ကြောင့်အကျွနု်ပ်သည် သူတို့ကို ကြီးသောအသံဖြင့် ခေါ်ငင်ပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ကျွန်တော်မျိုးသည် စင်စစ်ဧကန် ၎င်းတို့အား အသံကျယ်စွာ ဖိတ်ခေါ်ခဲ့ပါ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

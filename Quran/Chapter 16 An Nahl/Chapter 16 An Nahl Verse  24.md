@@ -710,6 +710,12 @@ I kogato im se kazva: “Kakvo e nizposlal vashiyat Gospod?”, kazvat: “Legen
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	ထို့အပြင်သူတို့အား ဟယ်-အချင်းတို့၊ သင်တို့၏ ကျေးဇူးတော်သခင်သည် သင်တို့အား အဘယ်ဗျာဒိတ်ကို ချပေးတော်မူသနည်းဟု မေးသောအခါ သူတို့က ရှေးလူဟောင်းတို့၏ ဒဏ္ဍာရီများသာဟု ဖြေဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ၎င်းတို့ကို အသင်တို့အားဖန်ဆင်း မွေးမြူတော်မူသောအရှင်မြတ်က မည်သည့်အရာကို ချပေးသနားတော်မူပါသနည်းဟု မေးမြန်းလေသောအခါ၊ ၎င်းတို့ကရှေးသူဟောင်းတို့နှင့်စပ်လျဉ်း၍ဖန်တီးထားသောဒဏ္ဍာရီဝတ္ထုများပင်ဟုပြောဆိုဖြေကြားလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

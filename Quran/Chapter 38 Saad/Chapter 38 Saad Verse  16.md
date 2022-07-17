@@ -710,6 +710,12 @@ I kazvat: “Gospodi, uskori nashiya dyal predi Denya na ravnosmetkata!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	သူတို့သည် အို-အကျွနု်ပ်တို့၏အရှင်သခင်၊ အကျွနု်ပ်တို့အား ကံကြမ္မာအလျောက် တရားစီရင်တော်မူသော နေ့တော်ကြီးမတိုင်မီ အမြန်စီရင်တော်မူပါဟု ဆုတောင်းဝ့ံကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့သည် (တမန်တော်မြတ်အား ပြက်ရယ် ပြောင်လှောင်သောအားဖြင့်) အို-ကျွန်တော်မျိုးတို့အား ဖန်ဆင်း မွေးမြူတော်မူသောအရှင်၊ အရှင်မြတ်သည် စစ်ဆေးမေးမြန်းမည့်နေ့မတိုင်မီပင် ကျွန်တော်မျိုးတို့အား ကျွန်တော်မျိုးတို့၏ ဝေစုဝေပုံကို အလျင်အမြန် ပေးတော်မူပါဟု လျှောက်ထားခဲ့ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

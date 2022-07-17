@@ -710,6 +710,12 @@ I pri aditite - brat im Khud... Reche: “O, narode moĭ, sluzhete na Allakh! N
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅ဝ။	ထို့အပြင်အားဒ်လူမျိုးစုထံ ငါအရှင်မြတ်သည် သူတို့၏ သားချင်းဟုဒ်ကို စေလွှတ်တော်မူ၏။ သူက ဤသို့ ဟောကြား၏။ ဟယ်-အချင်းတို့၊ သင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား ကိုးကွယ်လော့။ သင်တို့တွင် အရှင်မြတ် မှတပါး အခြားအရှင်သခင်မရှိချေ။ ကြံဖန်လည်ဆယ်သူများသာဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် (ငါအရှင်မြတ်သည်) အာဒ်အမျိုးသားတို့ထံ ၎င်းတို့၏အစ်ကို (နဗီတမန်တော်)ဟူဒ်အား (စေလွှတ်တော်မူခဲ့လေသည်။) ထို(နဗီတမန်တော်)ဟူဒ်သည် (မိမိအမျိုးသားတို့အား ဤသို့)ပြောဆိုဆုံးမခဲ့လေသည်။ အို-ငါ၏အမျိုးသားတို့ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အားသာလျှင် ခဝပ်ကိုးကွယ်ဆည်းကပ်ကြလေကုန်။ အသင်တို့အဖို့ ထိုအရှင်မြတ်မှတစ်ပါး ဆည်းကပ်ကိုးကွယ်ရာအရှင်ဟူ၍ အလျဉ်းမရှိချေ။ (စင်စစ်သော်ကား)အသင်တို့သည် လီဆယ်ဖန်တီးသူများသာလျှင် ဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

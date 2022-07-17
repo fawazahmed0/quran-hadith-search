@@ -710,6 +710,12 @@ I ako Allakh ne im be predpisal otprashtane, shteshe da gi mŭchi v zemniya zhiv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	အလ္လာဟ်အရှငု်မြတ်သည် အကယ်၍ထိုသူမိုက်တို့ကို မိမိတို့တိုင်းပြည်နိုင်ငံမှ နှင်ထုတ်ခြင်းဖြင့် ပညတ်တော် မမူလေလျှင် အရှင်မြတ်သည် ထိုမသူတော်တို့အား ဤပစ္စုပ္ပန်ဘဝ၌ ဧကန်အမှန်အပြစ်ဒဏ်တပ်ရိုက်စီရင်တော်မူ လေလတ့ံ၊ ထို့အပြင်နောင်တမလွန်ဘဝ၌လည်း သူတို့သည် ငရဲမီးဒဏ်ကို အမှန်အကန်ခံကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အကယ်၍သာ အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့နှင့်ပတ်သက်၍ ပြည်နှင်ဒဏ် ပေးခြင်းကို ရေးမှတ်ပြဋ္ဌာန်းတော်မူခဲ့သည် မရှိပါလျှင် အမှန်ပင် ထိုအရှင်မြတ်သည် ပစ္စုပ္ပန်ဘဝ၌ ၎င်းတို့အား (ကွပ်မျက်သတ်ဖြတ်၍) ပြစ်ဒဏ်ခတ်တော်မူခဲ့ပေမည်။ စင်စစ်သော်ကား’အာခိရတ်’ တမလွန်ဘဝ၌မူ ငရဲ၏ပြစ်ဒဏ်သည် ၎င်းတို့၌ရှိပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

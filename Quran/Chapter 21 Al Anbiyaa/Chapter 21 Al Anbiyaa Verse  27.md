@@ -710,6 +710,12 @@ Ne Go izprevarvat sŭs slovo i po Negovata povelya deĭstvat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	ဤကျေးကျွန်တို့သည် အရှင်မြတ် ဗျာဒိတ်ချတော်မူသည့်တိုင်အောင် မဟောပြောကြချေ၊ ဗျာဒိတ်တော်အတိုင်း မှသာလျှင် ဟောကြားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်း(ကောင်းကင်တမန်)တို့မူကား ထိုအရှင်မြတ်၏ရှေ့တော်သို့ကျူး၍ စကားပြောဆိုနိုင်ကြသည် အလျှင်းမဟုတ်ပေ။ ထို့ပြင် ၎င်းတို့သည် ထိုအရှင်မြတ်၏အမိန့်တော်ကိုသာ (တစ်သွေမတိမ်း)လိုက်နာ ဆောင်ရွက်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

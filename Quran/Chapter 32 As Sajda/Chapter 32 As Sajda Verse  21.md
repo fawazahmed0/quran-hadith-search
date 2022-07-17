@@ -710,6 +710,12 @@ I im davame da vkusyat ot naĭ-blizkoto mŭchenie predi naĭ-golyamoto mŭchen
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	ထို့အပြင်သူတို့သည် သမ္မာတရားလမ်းတော်သို့ ပြန်ရောက်ကောင်းရောက်စေခြင်းငှာ သူတို့အား အပြစ်ဒဏ်ကြီး ကို မပေးမီ အပြစ်ဒဏ်ငယ်ကိုလည်း မုချဧကန်မြည်းစေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့သည် (မိမိတို့၏သွေဖည်မှုတွဲဖက်နှိုင်းယှဉ် ကိုးကွယ်မှုများကိုစွန့်ပြီး) ပြန်လှည့်၍လာကြအံ့သောငှာ မုချစင်စစ် ငါအရှင်မြတ်သည် ၎င်းတို့အား ထိုကြီးစွာသောပြစ်ဒဏ်အပြင် ဤပစ္စက္ခတွင်ပင် သေးငယ်သောပြစ်ဒဏ်ကိုလည်း မြည်း စမ်းစေအုံးမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

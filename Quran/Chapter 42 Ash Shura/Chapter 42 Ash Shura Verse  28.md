@@ -710,6 +710,12 @@ Toĭ e, Koĭto izsipva dŭzhda, sled kato se otchayat, i razprostira Svoyata m
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	အရှင်မြတ်သည် လူသားတို့ မိုးမြေကို မမျှော်လင့် လက်မှိုင်ချနေသောအခါ မိုးရွာသွန်းစေတော်မူ၍ ကောင်းကြီး မင်္ဂလာတော်ကို အနှံ့အပြားကြဲဖြန့်သနားတော်မူ၏၊ စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် ကာကွယ်စောင့်ရှောက် တော်မူသောအရှင်၊ ချီးမွမ်းခြင်းတည်ရာဖြစ်တော်မူသောအရှင်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည်ပင် လူတို့မျှော်လင့်ချက်ကင်းခဲ့ကြသည့်နောက်တွင် မိုးရေကို ရွာသွန်းစေတော်မူ၏။ ထို့ပြင် မိမိကရုဏာတော်ကို ပြန့်စေတော် မူ၏။စင်စစ်မှာကား ထိုအရှင်မြတ်သည် ကိစ္စအဝဝကို ပြီးစီးအောင်ဆောင်ရွက်ပေးတော်မူသောအရှင်၊ ချီးမွမ်း အပ်သည့် အထူးထူးသော ဂုဏ်၊ ဝိသေသအပေါင်းတို့ နှင့် ပြည့်စုံတော်မူသောအရှင်ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

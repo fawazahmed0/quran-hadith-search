@@ -710,6 +710,12 @@ Kaza: “Gospodi, moyat narod me vze za lŭzhets
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၇။	ထိုအခါသူက အို--ကျွနု်ပ်၏အရှင်သခင်၊ အကျွနု်ပ်၏လူတို့သည် အကျွနု်ပ်ကို ငြင်းပယ်ကြပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနူဟ်က (အလ္လာဟ်အရှင်မြတ်အထံတော်၌ဤသို့) လျှောက်ထားပန်ကြားခဲ့လေ၏။ အို-ကျွန်တော် မျိုးအားဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၊ ဧကန်စင်စစ် ကျွန်တော်မျိုး၏ အမျိုးသားတို့သည် ကျွန်တော်မျိုးအား မဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ်ခဲ့ကြလေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

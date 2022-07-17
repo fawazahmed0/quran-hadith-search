@@ -710,6 +710,12 @@ Kazhi: “Tova e moyat pŭt. Prizovavam kŭm Allakh s prozorlivost - az i vseki,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၈။	တမန်တော်မိုဟမ္မဒ်၊ ဟောကြားလော့။ ဤလမ်းသည် ငါ၏ လမ်းဖြစ်သည်။ ငါသည် အလ္လာဟ်အရှင်မြတ်အား သေချာသောအသိဉာာဏ်နှင့် ဆည်းကပ်ပါ၏။ ငါနှင့်ငါ၏ တပည့်သားမြေးတို့သည် ယင်းသို့ဆည်းကပ်ကြ၏။ အလ္လာဟ်အရှင်မြတ်သည် ချို့တဲ့ခြင်းကင်းတော်မူပါ၏။ အကျွနု်ပ်သည် ရုပ်ပွားဆင်းတုများကိုးကွယ်သောသူတို့ ဘောင်မှ မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (၎င်းတို့အားဤသို့)ပြောကြားပါလေ။ ဤသည်သာလျှင် ငါ၏ လမ်းစဉ်ဖြစ်ပေသည်။ ငါသည်(လူခပ်သိမ်းတို့အား) အလ္လာဟ်အရှင်မြတ်ဘက်သို့ဖိတ်ခေါ်သည်။ ငါနှင့်တကွ၊ ငါ၏နောက်လိုက်တို့သည်လည်း အလွန်ထင်ရှား ခိုင်လုံသော သက်သေသာဓကအပေါ်၌တည်ရှိနေကြပေသည်။ ထို့ပြင် အလ္လာဟ်အရှင်မြတ်သည်(ချို့တဲ့မှု အပေါင်းတို့မှ) သန့်ရှင်းစင်ကြယ်တော်မူသောအရှင်ဖြစ်တော်မူပေသည်။ ထိုမှတစ်ပါး ငါသည် တစ်စုံတစ်ရာကိုအလ္လာဟ်အရှင်မြတ်နှင့် တွဲဖက်နှိုင်းယှဉ် ကိုးကွယ်သောသူတို့မုရှ်ရစ်ကတို့အနက်မှ မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

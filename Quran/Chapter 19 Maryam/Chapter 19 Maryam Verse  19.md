@@ -710,6 +710,12 @@ Reche [Dzhibril]: “Az sŭm samo pratenik na tvoya Gospod, za da te darya s pre
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	လုလင်က အို-မရယမ်၊ အကျွနု်ပ်သည် သင်၏ ကျေးဇူးတော်သခင်အထံတော်မှ စေတမန်တဦးသာဖြစ်၏။ သင့်အား အပြစ်ကင်းမဲ့သောသားကောင်းရတနာပေးဖို့ရာ အကျွန်ုပ် သင့်ထံလာရ၏ဟု ပြောပြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ယင်းကောင်းကင်တမန်က (အိုမရ်ယမ်) ကျွန်ုပ်သည် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၏ စေတမန်သာလျှင်ဖြစ်ပေသည်။ ကျွန်ုပ်သည် အသင့်အား စင်ကြယ်သန့်ရှင်း အပြစ်ကင်းသော သားရတနာတစ်ပါးကိုပေးရန် သာလျှင် (လာရခြင်း)ဖြစ်သည်ဟုပြောကြားခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

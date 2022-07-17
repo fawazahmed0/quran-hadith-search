@@ -710,6 +710,12 @@ Ala ne! Ne izpŭlni toĭ Negovata povelya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။ အမှန်ကိုဆိုသော် လူသားသည် အရှင်မြတ်၏ ပညတ်တော်ကို မလိုက်နာမကျင့်သုံးချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုလူသားသည် ၎င်းအား ထိုအရှင်မြတ်က အမိန့်ပေးတော်မူသည်များကို ကျေပွန်အောင် ဆောင်ရွက်ခဲ့ခြင်း အလျင်း မရှိချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

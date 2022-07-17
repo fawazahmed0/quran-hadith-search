@@ -710,6 +710,12 @@ I shte premakhnem ot sŭrtsata im vsyaka omraza - bratya na prestoli edin sresht
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	ထို့အပြင် ငါအရှင်မြတ်သည် သူတို့၏ စိတ်နှလုံးအတွင်းရှိ ရန်ငြိုးထားခြင်စိတ်သဘောကို ဖယ်နှုတ်ပစ်တော်မူ၏။ သူတို့သည် ပလ္လင်များပေါ်၌ မျက်နှာချင်းဆိုင်၍ ခင်ခင်မင်မင်စံစားနေထိုင်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ငါအရှင်မြတ်သည် ယင်းသူတော်စင်တို့၏ စိတ်နှလုံးများတွင် (ကျန်)ရှိနေသေးသော ရန်ငြိုးရန်စအာဃာတကို ထုတ်ပစ်တော်မူမည်။ (၎င်းတို့သည်)သလွန်များပေါ်၌ မျက်နှာချင်းဆိုင်ကြလျက် ညီသားအစ်ကိုများဖြစ်ကာ(ခင်မင်ရင်းနှီးစွာ) ရှိနေကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Koĭto se e napŭtil, za sebe si se napŭtva, a koĭto se e zabludil, v svoĭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	အကြင်သူသည် လမ်းမှန်ကို လျှောက်လိုက်အ့ံ။ ထိုသူသည် မိမိဝိညာဉ်ကောင်းစားဖို့ရာသာ လမ်းမှန်ကို လိုက်သည်မည်၏။ အကြင်သူသည် မှားယွင်းအ့ံ။ ထိုသူသည် မိမိဝိညာဉ်၏ နစ်နာဖို့ရာသာ မှားယွင်းသည် မည်၏။ မိမိဝန်ထုပ်ဝန်ပိုးကို ရွက်ဆောင်နေရသူသည် သူတပါး၏ ဝန်ထုပ်ကို မရွက်ဆောင်နိုင်ချေ။ ငါသည် တမန်တော်တပါးပါးကို စေလွှတ်တော်မမူပဲ၊ အမျိုးတမျိုးကို အပြစ်ဒဏ်ခတ်နှိပ်တော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူသည် တရားလမ်းမှန်ကို ရရှိခဲ့လျှင်မိမိကိုယ်တိုင်၏အကျိုးငှာ တရားလမ်းမှန်ကို ရရှိခဲ့သည်သာ။ထိုနည်းတူစွာ အကြင်သူသည် လမ်းမှားခဲ့လျှင်လည်း မိမိကိုယ်နှင့်ဆန့်ကျင်၍ လမ်းမှားခဲ့သည်သာတည်း။ အမှန်စင်စစ် မည်သည့်သယ်ပိုးသူတစ်ဦးတယောက်မျှပင် သူတစ်ပါး၏ဝန်ထုပ်ကိုသယ်ပိုး လိမ့်မည် မဟုတ်ပေ။ စင်စစ်သော်ကား ငါအရှင်မြတ်သည် ရစူလ် တမန်တော်တစ်ပါးပါးကို စေလွှတ်တော်မမူသမျှကာလပတ်လုံး ပြစ်ဒဏ်ပေးတော်မူသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

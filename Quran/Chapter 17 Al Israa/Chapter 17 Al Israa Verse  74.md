@@ -710,6 +710,12 @@ I ako ne te byakhme Nie podkrepili, za malko shteshe da sklonish kŭm tyakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၄။ အကယ်၍ ငါသည် သင့်အား အထူးတည်ကြည်ခိုင်မြဲစေတော်မမူခဲ့လျှင် သင်သည် သူတို့ဘက်သို့ အနည်းငယ် ယိမ်းယိုင်ခဲ့လိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍သာ ငါအရှင်မြတ်သည် အသင့်အားရပ်တည်စေတော်မမူခဲ့လျှင် မလွဲဧကန် အသင်သည် ၎င်းတို့ဘက်သို့ ယိမ်းယိုင်ဖွယ်ရာရှိခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

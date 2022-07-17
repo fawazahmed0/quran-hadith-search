@@ -710,6 +710,12 @@ Sura, koyato Nie nizposlakhme i nalozhikhme. V neya nizposlakhme yasni znameniya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။	ဤစူရာဟ်တော်သည် ငါအရှင်မြတ်ချမှတ်ပြဋ္ဌာန်းတော်မူသောစူရာဟ်တော်တည်း၊ သင်တို့ရိုသေလေးစားကောင်း လေးစားဖို့ရာ ဤစူရာဟ်တော်တွင် အဓိပ္ပါယ်ရှင်းလင်းထင်ရှားသောပညတ်တော်များကို ပြဋ္ဌာန်းချပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤသည်)ကဏ္ဍတစ်ခုပင် ငါအရှင်မြတ်သည်ပင် ယင်းကဏ္ဍကို ချပေးတော်မူခဲ့သည်။ ၎င်းပြင် ငါအရှင်မြတ်သည်ပင် ယင်းကဏ္ဍကို သတ်မှတ်ပြဋ္ဌာန်းတော်မူခဲ့သည်။ ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် အသင်တို့ တရားရကြအံ့သောငှာ ယင်းကဏ္ဍ၌ ထင်ရှားစွာသော အာယတ်တော်များကို ချပေးတော်မူခဲ့သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

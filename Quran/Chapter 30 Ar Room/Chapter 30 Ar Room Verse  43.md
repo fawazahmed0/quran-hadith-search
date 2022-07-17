@@ -710,6 +710,12 @@ I obŭrni litseto si kŭm pravata vyara, predi da doĭde neizbezhniyat Den ot A
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	ထို့ကြောင့်ရှောင်တိမ်း၍မရနိုင်သောနေ့တော်ကြီးသည် အလ္လာဟ်အရှင်မြတ်အထံတော်မှ မကျရောက်မီ သင်သည် သာသနာအစစ်အမှန်ကို စိတ်အားထက်သန်စွာနှင့် ယုံကြည်အားထုတ်လော့၊ ထိုနေ့တော်ကြီး၌ လူသားအပေါင်း တို့ကို နှစ်မျိုးနှစ်စားခွဲခြားထားလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်သည် မိမိ၏မျက်နှာကို(ဤသို့) ဖြောင့်မတ်သော ‘ဒီန်’ သာသနာပေါ် မြဲမြံတည်တံ့စွာ ထားရှိလော့၊ အလ္လာဟ်အရှင်မြတ်အထံတော်မှ ရွှေ့ပြောင်းမှုအလျှင်းရှိမည် မဟုတ်သောနေ့ ဆိုက်ရောက်မလာမီ ထိုနေ့တွင်လူတို့သည် တကွဲစီရှိ ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

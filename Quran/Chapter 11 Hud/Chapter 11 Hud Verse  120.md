@@ -710,6 +710,12 @@ I vsichko ti razkazvame ot vestite za pratenitsite, za da ukrepim s nego sŭrtse
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂ဝ။	ငါအရှင်မြတ်သည် သင်တမန်တော်အား တမန်တော်များ၏ အတ္ထုပ္ပတ္တိအကြောင်းအချင်းရာများကို ဗျာဒိတ်တော် ရှိခြင်းအကြောင်းမှာ ထိုအဖြစ်အပျက်များအားဖြင့် သင့်ထံသို့ သစ္စာတရားတော်ကျရောက်လာပြီ။ ဤတရားတော် သည် ယုံကြည်သူတို့အတွက် ဆုံးမသြဝါဒနှင့်သတိပေးတရားဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ငါအရှင်မြတ်သည် ရစူလ်တမန်တော်များ၏ အကြောင်းသတင်းများအနက်မှ အကြင်အကြောင်းသတင်း အလုံးစုံကို အသင်အား ပြောကြားတော်မူ၏။ ငါအရှင်မြတ်သည် ထိုအကြောင်း သတင်းများဖြင့်အသင်စိတ်နှလုံးကို မြဲမြံကြံ့ခိုင် စေတော်မူ၏။ ၎င်းပြင် ဤကဏ္ဍတွင် အမှန်တရားလည်း အသင့်ထံ ရောက်ရှိလာခဲ့လေပြီ။ထိုနည်းတူစွာ (ဤအကြောင်းသတင်းများတွင်) မုအ်မင်(န်)သက်ဝင်ယုံကြည် သူတို့အဖို့ ဆုံးမဩဝါဒသည်လည်းကောင်း၊သတိပေး နှိုးဆော်ချက်သည်လည်းကောင်း၊ ရှိပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

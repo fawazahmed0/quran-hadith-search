@@ -710,6 +710,12 @@ posle napŭlno shte mu se vŭzdade
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	ထို့အပြင် လူသားအား မိမိပြုကျင့်မှု၏ အကျိုးအပြစ်ကို အပြည့်အစုံပေးမည့်အကြောင်းလည်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ထိုမနုဿ လူသားသည် ယင်းကြိုးပမ်းမှုနှင့်စပ်လျဉ်း၍ လွန်စွာပြည့်စုံသော အစားပေးခြင်းကို ခံရမည်ဟူ၍ လည်းကောင်း၊ (သတင်းပေးခြင်း မခံခဲ့ရလေသလော)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ O, vyarvashti, vstŭpete vsichki v pokorstvoto i ne sledvaĭte stŭpkite na sat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ၈။	အို - ယုံကြည်သူတို့ သင်တို့အားလုံးသည် အလ္လာဟ်အရှင်မြတ်အား ကျိုးနွံနာခံကြလော့။ ရှိုင်တွာန် မာနတ်၏နောက်သို့ ခြေရာများခံ၍ မလိုက်ကြလင့်။ မှတ်သားကြလော့။ ရှိုင်တွာန်သည် သင်တို့အဖို့ ထင်ရှားသောရန်သူကြီးအစစ်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ယုံကြည်သူ’မုအ်မင်န်’အပေါင်းတို့ အသင်တို့ သည်အစ္စလာမ်သာသနာတော်အတွင်းသို့လုံးလုံးလျားလျား(စိတ် ရောကိုယ်ပါ) ဝင်ကြကုန် လော့၊ ၎င်းပြင် ရှိုင်တွာန်၏ နောက်သို့ ဖဝါးခြေထပ် မလိုက်ကြ ကုန်လင့်၊ ထိုရှိုင်တွာန်သည် မုချ သင်တို့အဖို့ ထင်ရှားသော ရန်သူပင် ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

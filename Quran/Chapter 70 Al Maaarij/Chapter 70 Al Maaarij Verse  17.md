@@ -710,6 +710,12 @@ zove toĭ vseki, koĭto obrŭshta grŭb na vyarata i se otvrŭshta
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။ ထိုမီးတောက်မီးလျှံသည် သမ္မာတရားတော်ကို ကျောခိုင်းထွက်ပြေးသူတို့အား မိမိအထဲသို့ ဖိတ်ခေါ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းမီးကား (လောကီဘဝ၌ အီမာန် သက်ဝင်ယုံကြည်ခြင်းမပြုဘဲ) မျက်နှာလွှဲ ကျောခိုင်း၍ ထွက်သွားခဲ့သော၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

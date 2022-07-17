@@ -710,6 +710,12 @@ Nima Onzi, Koĭto e sŭtvoril, ne znae? Toĭ e Vsepronikvashtiya, Svedushtiya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။ အရှင်မြတ်သည် မိမိဖန်ဆင်းတော်မူသောအရာများကို သိတော်မူအပ်သည်မဟုတ်လော၊ အရှင်မြတ်သည် နက်နဲသိမ်မွေ့တော်မူသောအရှင်၊ အကြွင်းမဲ့သိတော်မူသောအရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဖန်ဆင်းတော်မူသော အရှင်မြတ်သည် သိတော်မူမည် မဟုတ်ပါသလော။ စင်စစ်မှာမူကား ထိုအရှင်မြတ်သည် သိမ်မွေ့သောအရာတို့ကို လွန်စွာ သိမြင်တော်မူသောအရှင်၊ အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့ ကြားသိတော်မူသောအရှင်၊ ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

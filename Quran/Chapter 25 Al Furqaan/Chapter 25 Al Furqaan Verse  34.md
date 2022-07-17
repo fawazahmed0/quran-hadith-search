@@ -710,6 +710,12 @@ Tezi, koito bŭdat podkarani kŭm Ada po ochi, shte sa na naĭ-loshoto myasto i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	အကြင်သူတို့အား ငရဲမီးထဲသို့ မျက်နှာမှောက်၍ ယူခဲ့လတဲ့၊ ထိုသူတို့သည် အလွန်ဆိုးဝါးသောအဖြစ်သို့ ဆိုက်ရောက်ကြ၍ ဓမ္မလမ်းကြောင်းမှ ဝေးကွာကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့ပင် "ဂျဟန္နမ်"ငရဲဘုံသို့ မျက်နှာမှောက်လျက် (တရွတ်တိုက်ဆွဲကာ) ပို့ဆောင်ခြင်းကို ခံကြရပေမည်။ ထိုသူတို့ကား နေရာဌာနအားဖြင့် အဆိုးဆုံးသောသူများ၊ တရားလမ်းစဉ်အားဖြင့် လွန်စွာ မှားယွင်းသောသူများသာ ဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

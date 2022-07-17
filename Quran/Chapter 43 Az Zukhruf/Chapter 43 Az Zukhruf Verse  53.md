@@ -710,6 +710,12 @@ I zashto ne mu byakha dareni grivni ot zlato ili zashto ne doĭdokha angelite s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။	မူစာသည် တမန်တော်ဖြစ်လျှင် သူ့ထံသို့ သူ၏အရှင်သခင်က ရွှေလက်ကောက်ရွှေစလွယ်စသည့် ဥစ္စာရတနာ များကို အဘယ်ကြောင့်ချပေးသနားတော်မမူပါသနည်း၊ သို့မဟုတ် ကောင်းကင်တမန်များကို သူနှင့်တကွ အဘယ်ကြောင့်မထည့်လိုက်ပါသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် ၎င်း၏(လက်များတွင်)ရွှေလက်ကောက်၊ လက်မောင်းပတ်၊ လက်ကြပ်များ အဘယ်ကြောင့် ဆင်ယင်ပေးခြင်းကို မခံရသနည်း။ သို့တည်းမဟုတ် "မလာအိကဟ်"ကောင်းကင်တမန်များသည် အဘယ်ကြောင့် ၎င်းနှင့်အတူ အစဉ်မပြတ် လိုက်ပါလာခြင်း မရှိကြသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

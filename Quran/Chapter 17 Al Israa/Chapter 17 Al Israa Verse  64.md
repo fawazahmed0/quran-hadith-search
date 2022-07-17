@@ -710,6 +710,12 @@ I podbuzhdaĭ s tvoya glas kogoto mozhesh ot tyakh, i gi prizovavaĭ s konnits
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၄။	နင်လှည့်စားနိုင်သောသူတို့ကို လှည့်စားလော့။ နင်၏ မြင်းစီးသူရဲ၊ ခြေသည်သူရဲစသည့်စစ်သည်တို့အား သူတို့ကို တိုက်ခိုက်ဖျက်ဆီးစေလော့။ သူတို့၏ ဥစ္စာပစ္စည်း၊ သားသမီးရတနာတို့တွင် အတူဖက်စပ်ပါဝင်လော့။ နင်သည် သူတို့အား ကတိသစ္စာပေးလော့ဟု ဗျာဒိတ်ချတော်မူ၏။ ရှိုင်တန်မာရ်နတ်သည် ဖျားယောင်းသွေးဆောင် ဖို့ရာသာ ကတိသစ္စာပေးတတ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် (အစ်ဗ်လီစ်)၊ အသင်သည် ၎င်းတို့အနက်မိမိလက်လှမ်းမီသောသူတို့အား မိမိအသံဖြင့် စိတ်ထကြွစေလော့၊ ခြိမ်းခြောက်လှည့်ဖြားလော့။ ထို့ပြင် အသင်သည် မိမိမြင်းစီးသူရဲဖြင့်လည်းကောင်း၊ ခြေလျင် သူရဲဖြင့်လည်းကောင်း၊ထိုသူတို့အား ဝိုင်းဝန်းလော့။ ထိုမှတစ်ပါး အသင်သည် ဥစ္စာပစ္စည်းများ၌လည်းကောင်း၊ သားသမီးများ၌လည်းကောင်း၊ ထိုသူတို့နှင့် အတူဖက်စပ်ပါဝင်လော့။ ထို့ပြင် အသင်သည် ၎င်းတို့အား(မဟုတ်မမှန် သော)ကတိကိုပြုလော့။ စင်စစ်သော်ကားရှိုင်တွာန် မိစ္ဆာကောင်သည် ၎င်းတို့အား ဖြားယောင်းသွေးဆောင်ခြင်းမှတစ်ပါး အခြားမည်သည်ကိုမျှ ကတိပေးသည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

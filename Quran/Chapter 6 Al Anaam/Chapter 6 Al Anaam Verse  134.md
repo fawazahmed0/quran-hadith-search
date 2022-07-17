@@ -710,6 +710,12 @@ Onova, koeto vi be obeshtano, nepremenno shte nastŭpi i ne mozhete da go vŭzpr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၄။	မှတ်သားကြလော့။ သင်တို့အား ဂတိဗျာဒိတ်ထားတော်မူသောအရာသည် မချွတ်ဧကန် ဆိုက်ရောက် လာမည်သညတည်း။ သင်တို့သည် ထိုအရာကို မရှောင်ရှားနိုင်ကြပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အသင်တို့အား ကတိထားရှိပြီးဖြစ်သော [ကိယာမတ် (ခေါ်)ရှင်ပြန်ထရမည့်နေ့နှင့် ပြစ်ဒဏ်တို့သည်] မလွဲဧကန် ဆိုက်ရောက်မည်သာဖြစ်၏။ ၎င်းပြင်အသင်တို့သည်(မိမိတို့၏ပရိယာယ်ဖြင့် အလ္လာဟ်အရှင်မြတ်အား ထိုသို့)မစွမ်းဆောင်နိုင်ရန် တားဆီးနိုင်ကြသူများလည်းမဟုတ်ကြပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

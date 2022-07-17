@@ -710,6 +710,12 @@ I izsipvame ot nebeto blagoslovena voda, i storvame da izrastvat chrez neya grad
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	ထို့အပြင် ငါသည် အထက်ကောင်းကင်မှ ကောင်းကြီးမင်္ဂလာနှင့်ပြည့်စုံသောမိုးကို ရွာသွန်းစေတော်မူ၏၊ ထိုမိုးရေအားဖြင့် ဥယျာဉ်ပန်းမာလ်စသည်တို့ကိုလည်းကောင်း၊ ကောက်ပဲသီးနှံများကိုလည်းကောင်း ပေါက် ရောက်စေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတပါး ငါအရှင်မြတ်သည် မိုးကောင်းကင်မှ ကျက်သရေ မင်္ဂလာနှင့်ပြည့်စုံသော(မိုး)ရေကို ရွာသွန်းစေတော်မူ၏။ တစ်ဖန် ထိုရေဖြင့် ငါအရှင်မြတ်သည် ဥယျာဉ်များကိုလည်းကောင်း၊ ရိတ်သိမ်းပြီးဖြစ်သော ကောက်ပင် မျိုးနွယ်များကိုလည်းကောင်း၊ ပေါက်ရောက်စေတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

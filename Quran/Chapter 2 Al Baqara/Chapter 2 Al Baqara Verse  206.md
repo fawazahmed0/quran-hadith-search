@@ -710,6 +710,12 @@ I kogato mu se kazhe: “Boĭ se ot Allakh!”, go obzema gordost ot grekha. St
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ၆။	တဖန်ထိုသူအား သင်သည် အလ္လာဟ်အရှင်မြတ်၏ အမှုတော်ကို အလ္လာဟ်အရှင်မြတ်၏ နှစ်သက် တော်မူခြင်းကို ရှားမီးသူလည်းရှိ၏။ အလ္လာဟ်အရှင်မြတ်သည် မိမိကျေးတော်မျိုး၊ ကျွန်တော်မျိုး တို့ကို သနားကြင်နာတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါးတုံ မည်သည့်အခါမဆို (မုစ်လင်မ် တစ်ဦးက) ထို(မုနာဖစ်က်)ကို အသင်သည် အလ္လာဟ် အရှင် မြတ်အား ကြောက်ရွံ့ပါလေဟု ပြောဆိုသည်ရှိသော် ထိုသူ့အား(ထိုသူ၏) ဂုဏ်မာနသည် မကောင်းမှုဒုစရိုက်ဖက်သို့ ဆွဲဆောင် သွားလေ၏။ သို့ဖြစ်ရာ ထိုသူအဘို့ ဂျဟန္နမ် ငရဲသည် လုံလောက်၏။ အမှန်သော်ကား (ဂျဟန္နမ် ငရဲသည်) အလွန်ဆိုး ရွားလှသောနေရာ ဌာနဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

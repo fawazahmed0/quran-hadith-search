@@ -710,6 +710,12 @@ Starayat se da izmamyat Allakh i onezi, koito povyarvakha, ala mamyat samo sebe 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	သူတို့သည် အလ္လာဟ်အရှင်မြတ်နှင့် ယုံကြည်သူတို့အား လိမ်လည်လှည့်ဖြားသည်ဟုထင်ကြ၏။ သို့သော် သူတို့သည် မိမိကိုယ်မှတပါး မည်သူကိုမှ မလှည့်စားကြပေ။ သူတို့သည် အသိအမြင် ခေါင်းပါးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(မုအ်မင်အသွင်ဆောင်သော) သူများသည်အလ္လာဟ် အရှင်မြတ်ကို လည်းကောင်း၊ (ယုံကြည်ခြင်း သဒ္ဓါတရား ရှိသော) မုအ်မင်များကို လည်းကောင်း၊ လိမ်လည် လှည့်ဖြားရန် ကြိုးစား အားထုတ်ကြ၏။ အမှန်သော်ကား ထိုသူများသည် (မည်သူ့ကိုမျှ) လိမ်လည် လှည့်ဖြားကြသည်မဟုတ်၊ မိမိတို့ကိုယ် ကိုသာလျှင် မိမိတို့ လိမ်လည်လှည့်ဖြားကြ၏။ သို့သော် ထိုသူများသည် (ဤသည်ကိုပင်) သိမြင်နားလည်ကြသည် မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

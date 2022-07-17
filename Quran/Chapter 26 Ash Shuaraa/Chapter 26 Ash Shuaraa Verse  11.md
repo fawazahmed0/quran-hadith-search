@@ -710,6 +710,12 @@ khorata na Faraona! Nima ne shte se poboyat?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၊၁၁။	သင်၏အသက်သခင်ကျေးဇူးရှင်က အို--တမန်တော်မူစာ၊ သင်သည် ပြစ်မှုကျူးလွန်နေသောဖွာရောမင်း၏ လူများထံသို့ သွားလော့ဟု ဗျာဒိတ်တော်နှင့်ခေါ်တော်မူ၏၊ ထိုသူတို့သည် မကောင်းမှုကို တားဆီးကြမည် မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (မိမိတို့ကိုယ်ကို မိမိတို့ နှိပ်စက်ညှဉ်းပန်းသူများကား) ဖစ်ရ်အောင်န်၏ အမျိုးသားပင်တည်း။ ၎င်းတို့သည် မကြောက်ရွံ့ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

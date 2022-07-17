@@ -710,6 +710,12 @@ Ala ne! Pred Nashite znameniya toĭ uporstva
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။ သို့သော် ယင်းသို့မဖြစ်ချေ၊ အမှန်မှာ ထိုသူသည် ငါ၏ တရားတော်ကို ခေါင်းမာစွာနှင့်ဆန့်ကျင်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (၎င်းမှာ ပိုမိုချီးမြှင့်တော်မူခြင်းကို)အလျှင်း (ခံရမည်) မဟုတ်ပေ။ ဧကန်မလွဲ ၎င်းမှာ ငါအရှင်မြတ်၏အာယတ်တော်၊ သက်သေလက္ခဏာတော်များကို ဆန့်ကျင်သူဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

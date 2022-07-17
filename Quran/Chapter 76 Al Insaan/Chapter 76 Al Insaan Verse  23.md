@@ -710,6 +710,12 @@ Nie ti nizposlakhme Korana postepenno
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။ အို-တမန်တော်၊ ငါသည် သင့်အား ကုရ်အာန်ကျမ်းမြတ်ကို ထုတ်ပြန်ပို့ချပေးသနားတော်မူပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) မလွဲဧကန် ငါအရှင်မြတ်သည်သာလျှင် အသင့်အပေါ်ဝယ် ကုရ်အာန်ကျမ်းတော်မြတ်ကို တဖြည်းဖြည်း ချပေးတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

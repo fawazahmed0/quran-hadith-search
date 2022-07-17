@@ -710,6 +710,12 @@ Za onezi, koito zhelayat pokvarata da se razprostranyava sred vyarvashtite, shte
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	မှတ်သားကြလော့၊ အကြင်သူတို့သည် ယုံကြည်သူတို့နှင့်စပ်လျဉ်း၍ အတင်းစကားလွှင့်ဆိုခြင်းကို နှစ်သက်ကြအ့ံ၊ ထိုသူတို့သည် ဤဘဝနောင်ဘဝနှစ်ဖြာသောဘဝ၌ အလွန်နာကျင်ဖွယ်ဖြစ်သောအပြစ်ဒဏ်ကို ခံကြရလတ့ံ၊ အလ္လာဟ်အရှင်မြတ်သည် သိတော်မူ၏၊ သင်တို့ကား မသိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ‘မုအ်မင်န်’သက်ဝင်ယုံကြည်သော သူတို့တွင် မဖွယ်မရာ ညစ်ညမ်းသောစကားပျံ့ပွားခြင်းကို နှစ်သက်လိုလားသောသူတို့၌ (ဤ) မျက်မှောက်လောကီဘဝတွင်လည်းကောင်း၊ တမလွန်ဘဝတွင်လည်းကောင်း၊ ပြင်းပြနာကျင်ဖွယ် ပြစ်ဒဏ်သည်ရှိပေမည်။ စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် သိရှိတော်မူ၏။ အသင်တို့မူကား မသိနားမလည်ကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

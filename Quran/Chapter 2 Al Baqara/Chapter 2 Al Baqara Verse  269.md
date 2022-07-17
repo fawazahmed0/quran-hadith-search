@@ -710,6 +710,12 @@ Toĭ daryava mŭdrostta komuto pozhelae, a koĭto e daren s mŭdrostta, e dare
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆၉။	အရှင်မြတ်သည် အလိုတော်ရှိသူအား ပညာအလင်းရောင်ကို ပေးသနားတော်မူ၏။ အကြင်သူသည် ပညာအလင်းရောင်ကို ရရှိ၏။ ထိုသူသည် ကြီးမားသောကောင်းကျိုးကို အမှန်ပင် ခံစားရ၏။ သို့သော် ပညာရှိတို့မှတပါး အခြားသူတို့သည် အလ္လာဟ်အရှင်မြတ်ကို သတိမရကြပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် မိမိနှစ်လိုတော်မူသောသူများ ကိုသာ ဉာဏ်ပညာ အမြော်အမြင်ကို ပေးသနားတော်မူလေသည်။ အမှန်စင်စစ်သော်ကား ဉာဏ်ပညာ အမြော်အမြင်ကို ပေးသနားတော်မူခြင်း ခံရသောသူသည် အလွန်တရာမျှ များပြားလှသော ဂုဏ်ကျေးဇူးတော်ကို ပေးသနားတော်မူခြင်းခံရသော သူတည်း။ သို့ရာတွင် စူးစမ်းဆင်ခြင်သော နိသမ္မ ဉာဏ်ရှင်များမှအပ လူတိုင်း သတိသံဝေဂတရားရရှိသည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

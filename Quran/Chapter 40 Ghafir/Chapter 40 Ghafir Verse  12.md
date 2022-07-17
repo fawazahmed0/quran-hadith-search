@@ -710,6 +710,12 @@ Tova e, zashtoto kato be pozovavan edinstveno Allakh, vie ne povyarvakhte, a kat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	သူတို့အား မိန့်တော်မူသည်မှာ ဤအဖြစ်သို့ ရောက်ရခြင်းကား တစ်ဆူတည်းအထီးထီး တည်တော်မူသော အလ္လာဟ်အရှင်မြတ်အားသာလျှင် ကိုးကွယ်ရမည်ဟုဆိုသော အယူဝါဒကို သင်တို့လက်မခံ ငြင်းဆန်သောကြောင့် ဖြစ်၏၊ ထို့အပြင် အလ္လာဟ်အရှင်မြတ်နှင့် ဘုရားတုဘုရားယောင်များကို တွဲဖက်၍ ကိုးကွယ်သည့်အယူဝါဒ ကိုကား သင်တို့ယုံကြည်ခြင်းကြောင့်လည်းဖြစ်သည်၊ အမိန့်ထုတ်ပြန်ခြင်းသည် အတိုင်းထက်အလွန်မြင့်မြတ် ကြီးကျယ်သော အလ္လာဟ်အရှင်မြတ်၏ အရာသာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်း(ကဲ့သို့ ထာဝရ ပြစ်ဒဏ်ခံကြရခြင်း)၏အကြောင်းမှာ အလ္လာဟ်အရှင်မြတ် တစ်ဆူတည်းသာလျှင် ဟစ်ခေါ်တမ်းတခြင်း ခံရတော်မူသောအခါ၊ အသင်တို့သည် ငြင်းပယ်လေ့ရှိခဲ့ကြကုန်၏။ သို့ရာတွင်(တစ်စုံတစ်ရာကို) ထိုအရှင်မြတ်နှင့် တွဲဖက်နှိုင်းယှဉ်ပါသော် အသင်တို့သည် ယုံကြည်လက်ခံလေ့ ရှိကြကုန်၏။ သို့ဖြစ်ပေရာ (ယခုသော်)စီရင်ဆုံးဖြတ်မှု(အာဏာ)သည် လွန်စွာမြင့်မြတ်ကြီးကဲလှတော်မူသော အလ္လာဟ်အရှင်မြတ်၌သာ ရှိချေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

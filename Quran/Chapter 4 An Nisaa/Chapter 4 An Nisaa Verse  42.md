@@ -710,6 +710,12 @@ V Denya togava onezi, koito ne povyarvakha i ne se podchinikha na Pratenika, sht
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	ထိုနေ့တော်ကြီး၌ အယူဝါဒမှောက်မှား၍အလ္လာဟ်အသျှင်မြတ်၏ တမန်တော်၏ သြဝါဒတော်ကို မလိုက်နာခဲ့ကြသောသူတို့သည် မိမိတို့ကို မြေနှင့်အညီ မြှုပ်နှံထားလိုကြလိမ့်မည်။ သူတို့သည် တစ်စုံတစ်ခုသောအရာကိုမှ အလ္လာဟ်အသျှင်မြတ်အထံတော်မှ လျှို့ဝှက်၍ မထားနိုင်ကြပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတို့သည် (အလ္လာဟ်အရှင်မြတ်အား) မယုံမကြည် သွေဖည်ငြင်းပယ်ခဲ့ကြ၏။ ရစူလ်တမန်တော်ကိုလည်း မထီမဲ့မြင်ပြုခဲ့ကြ၏။ ထိုနေ့တွင် ထိုသူတို့က ၎င်းတို့သည် မြေကြီးနှင့် တစ်သားတည်း ဖြစ်သွားခဲ့ပါလျှင် ကောင်းလေစွဟု တောင့်တကြမည်။ စင်စစ်သော်ကား ယင်းသူတို့သည် အလ္လာဟ်အရှင်မြတ်အပေါ်၌ မည်သည့်စကားကိုမျှ ဖုံးအုပ်ထားနိုင်ကြမည်လည်း မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

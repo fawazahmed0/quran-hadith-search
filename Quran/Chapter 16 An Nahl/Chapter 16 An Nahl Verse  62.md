@@ -710,6 +710,12 @@ I otrezhdat za Allakh onova, koeto mrazyat. I ezitsite im opisvat lŭzhata - che
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	သူတို့သည် မိမိမနှစ်မြို့သောအရာကို အလ္လာဟ်အရှင်မြတ်အား ဝေစုပေးကြ၏။ ကောင်းသောအရာသည် သူတို့၏ ဝေစုဟု မဟုတ်မလျားဆိုကြ၏။ အမှန်မှာ သူတို့၏ ဝေစုသည် ငရဲမီးသာဖြစ်၏။ သူတို့ကို ငရဲမီးထဲ၌ ပစ်ထားတော်မူလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့သည် မိမိတို့ စက်ဆုပ်ကြကုန်သောအရာများကို အလ္လာဟ်အရှင်မြတ်၌ရှိသည်ဟု ယိုးစွပ်ကြပေသည်။ သို့ပါလျက် ၎င်းတို့၏နှုတ်(လျှာ)များသည် ဧကန်စင်စစ် ၎င်းတို့အဖို့ ကောင်းကျိုးချမ်းသာရှိသည်ဟူ၍ပင်မုသားပြောဆိုကြသေးသည်။ မချွတ်မလွဲ ၎င်းတို့အဖို့ ငရဲမီးသည်(အဆင်သင့်)ရှိပေသည်။ ထိုမှတစ်ပါး ဧကန်စင်စစ် ၎င်းတို့သည်(ယင်းငရဲမီးထဲသို့)ရှေးဦးစွာပို့ဆောင်ခြင်း ခံကြရမည့်သူများပင် ဖြစ်ကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

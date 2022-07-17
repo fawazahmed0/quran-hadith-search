@@ -710,6 +710,12 @@ Gospodi, dari mi mŭdrost i me priobshti kŭm pravednite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၃။ ထို့နောက်သူသည် အလ္လာဟ်အရှင်မြတ်ကို ဤသို့ဆုတောင်း၏၊ အို--အကျွနု်ပ်၏အရှင်သခင် အကျွနု်ပ်အား ပညာအလင်းရောင်ကို ပေးသနားတော်မူပါ၊ အကျွနု်ပ်ကို သူတော်ကောင်းတို့နှင့် ပေါင်းသင်းပေးတော်မူပါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ အရှင်မြတ်သည် ကျွန်တော်မျိုးအား ဉာဏ်ပညာကို ချီးမြှင့်ပေးသနားတော်မူပါ။ ထို့ပြင် အရှင်မြတ်သည် ကျွန်တော်မျိုးအား သူတော်စင်များနှင့်အတူ ပေါင်းဖက် ပါဝင်စေတော်မူပါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

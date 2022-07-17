@@ -710,6 +710,12 @@ I gi popitaĭ [nevernitsite] kakvo mislyat - te li sa po-trudni za sŭtvoryavan
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	အို-တမန်တော်၊ မိစ္ဆာဒိဋ္ဌိတို့အား မေးလော့၊ ဟယ်-အချင်းတို့၊ သင်တို့ကို ဖန်ဆင်းခြင်းက သာလွန်ခဲယဉ်း သလော၊ သို့မဟုတ်ကောင်းကင်မိုးမြေနက္ခတ်တာရာတို့ကို ဖန်ဆင်းခြင်းက သာလွန်ခဲယဉ်းသလော၊ မှတ်သား ကြလော့၊ ငါအရှင်မြတ်သည် သူတို့ကို ရွှံ့မြေစေးမှ ဖန်ဆင်းတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်) အသင်သည် ၎င်းတို့အား မေးမြန်းပါလေ။ ၎င်းတို့အား ဖန်ဆင်းခြင်းသည် ပို၍ခဲယဉ်းလေသလော၊ သို့မဟုတ် ငါအရှင်မြတ် ဖန်ဆင်းတော်မူခဲ့သည့် (ကြယ်နက္ခတ်၊ မိုးကောင်းကင်၊ ပထဝီမြေ၊ အဖန်ဆင်းခံများအား ဖန်ဆင်းတော်မူခြင်းသည် ပို၍ခဲယဉ်းလေသလော)။ဧကန်မလွဲ ငါ အရှင်မြတ်သည် ၎င်းတို့အား စေးကပ်သော မြေကြီးမြေစေးဖြင့် ဖန်ဆင်းတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ tam shte prebivavat vechno i zavinagi. Pri Allakh ima ogromna nagrada
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	သူတို့သည် ထိုဥယျာဉ်တော်ကြီးများ၌ အစဉ်ထာဝရစံမြန်းရကြလိမ့်မည်။မှတ်သားကြလော့။အလ္လာဟ်အရှင် မြတ်အထံတော်၌ ဆုတော်ကြီးရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ထိုဥယျာဉ်များ၌ ထာဝရ နေထိုင်စံမြန်းကြပေမည်။ ဧကန်အမှန် အလ္လာဟ်အရှင်မြတ်၏ အထံတော်၌သာ ကြီးကျယ်မြင့်မြတ်လှစွာသော အကျိုးဆုလာဘ်သည် ရှိချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

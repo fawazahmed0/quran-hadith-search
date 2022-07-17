@@ -710,6 +710,12 @@ Sred nas ima otdali se na Allakh [myusyulmani], no sred nas ima i otklonili se [
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။ ငါတို့အထဲတွင် အချို့မှာ အလ္လာဟ်အရှင်မြတ်အား ကျိုးနွံရိုသေကြ၏၊ အချို့မှာမူကား မတရားသူဖြစ်ကြ၏၊ အမှန်မှာ အကြင်သူတို့သည် အရှင်မြတ်ကို ယုံကြည်ကျိုးနွံကြအံ့၊ ထိုသူတို့သည် လမ်းမှန်ကို လှိုက်လှိုက်လှဲလှဲ ယူကြသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ဧကန်မလွဲ ကျွန်ုပ်တို့တွင် အချို့မှာ မွတ်စ်လင်မ်(အမိန့်တော်ကို လိုက်နာသူ)များ ဖြစ်ကြကုန်၏။ ထိုနည်းတူစွာ ကျွန်ုပ်တို့တွင် အချို့မှာ မတရားသောသူများ ဖြစ်ကြကုန်၏။ စင်စစ် "အစ္စလာမ်" သာသနာတော်ကို လက်ခံသောသူတို့သည် လမ်းမှန်ကို ရှာဖွေ ရရှိခဲ့ကြသောသူများပင် ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

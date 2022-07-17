@@ -710,6 +710,12 @@ I shte vidish vsyaka obshtnost na kolene. Vsyaka obshtnost shte bŭde prizovana 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	ထိုနေ့တော်ကြီး၌ သင်သည် လူမျိုးတိုင်းအား ပဆစ်ဒူးတုပ်လျက် ထိုင်နေကြသည်ကို မြင်ရလိမ့်မည်၊ လူမျိုး အသီးသီးတို့အား သူတို့ပြုကျင့်မှုစာရင်းရှိရာသို့ ဆင့်ခေါ်ပြီးလျှင် ဤသို့မိန့်တော်မူမည်၊ ယနေ့သင်တို့ပြုခဲ့သော အမှုအခင်းများ၏ ကောင်းကျိုးဆိုးကျိုးများကို ပြန်ဆပ်တော်မူလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး (အို-နဗီတမန်တော်) အသင်သည်("ကိယာမတ်"နေ့တွင်)သာသနာဝင် အုပ်စုတိုင်းအား ဒူးထောက်လျက်ရှိကြမည်ကို တွေ့မြင်ရပေမည်။ သာသနာဝင်အုပ်စုတိုင်းမှ ၎င်းတို့၏မှတ်တမ်းစာအုပ် (ရှိရာ)သို့ ဖိတ်ခေါ်ခြင်းကို ခံကြရပေမည်။ "ယနေ့သော်ကား အသင်တို့သည် မိမိတို့၏ ကျင့်မူချက်များနှင့် စပ်လျဉ်း၍ အစားပေးခြင်းကို ခံကြရပေမည်"။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ala ne, ako znaete s dostovernoto znanie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။ သို့သော် ယင်းသို့မဖြစ်ထိုက်ချေ၊ သင်တို့သည် အဖြစ်မှန်ကို သင်တို့၏ အသိဉာဏ်ဖြင့် အသေအချာသိမြင်ခဲ့ရ ကြလျှင် တော်လေစွ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍သာ အသင်တို့သည် တပ်အပ်သေချာစွာ သိခြင်းအားဖြင့် သိရှိကြသည်ရှိသော် အလျှင်း (လျစ်လျူရူပေါ့တန်ကြမည်) မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

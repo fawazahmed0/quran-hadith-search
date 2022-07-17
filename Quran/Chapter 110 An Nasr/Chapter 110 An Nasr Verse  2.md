@@ -710,6 +710,12 @@ i vidish khorata da vstŭpvat na tŭlpi v religiyata na Allakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။ လူသားတို့သည် အလ္လာဟ်အရှင်မြတ်၏ သာသနာတော်ကြီးအတွင်းသို့ အစုလိုက်အသင်းလိုက်ဝင်ရောက်လာကြသည်ကို သင်ရှုမြင်ရသောအခါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်သည် လူတို့အား အလ္လာဟ်အရှင်မြတ်၏ "ဒီန်" သာသနာတော်၌ အသင်းလိုက် အဖွဲ့လိုက် ဝင်ရောက်လျက် ရှိကြသည်ကို တွေ့မြင် သောအခါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Allakh! Nyama drug Bog osven Nego. Negovi sa Naĭ-prekrasnite imena
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	အလ္လာဟ်အရှင်မြတ်၊ အရှင်မြတ်မှတပါး အခြားအရှင်သခင်မရှိချေ။ အရှင်မြတ်၏ နာမတော်များသည် အလွန် မြင့်မြတ်တင့်တယ်လှပေသည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအရှင်ကား) အလ္လာဟ်အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။ ထိုအရှင်မြတ်မှတစ်ပါး ခဝပ်ကိုးကွယ်ရာ အရှင်ဟူ၍ အလျှင်းမရှိပြီ။ ထိုအရှင်မြတ်၌ အမွန်မြတ်ဆုံးသော နာမံတော်များသည် ရှိကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

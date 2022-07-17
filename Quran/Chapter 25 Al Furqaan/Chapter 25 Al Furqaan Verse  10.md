@@ -710,6 +710,12 @@ Blagosloven e Onzi, Koĭto ako pozhelae, ti otrezhda po-dobroto ot tova - Gradi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	အို--တမန်တော်၊ ကောင်းကြီးမင်္ဂလာအဖြာဖြာနှင့်ပြည့်စုံတော်မူထသောအလ္လာဟ်အရှင်မြတ်သည် အကယ်၍ အလိုတော်ရှိပါလျှင် သင်၏အဖို့ ၎င်းတို့ပြောဆိုသည့်ဥယျာဉ်ပန်းမာလ်ထက် သာလွန်ကောင်းမြတ်သည့်ဥယျာဉ်ကို ပေးသနားတော်မူလတ့ံ၊ ထိုဥယျာဉ်အောက်၌ စိမ့်စမ်းရေမြောင်းများလည်း အယဉ်ထွေထွေစီးဆင်းလျက်ရှိ၏၊ သင့်အား များစွာသောဘုံနန်းပြဿဒ်တို့ကိုလည်း ပေးတော်မူလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်အရှင်မြတ်သည် ကောင်းချီးမင်္ဂလာနှင့် ပြည့်စုံတော်မူပေသည်။ အကယ်၍ ထိုအရှင်မြတ်သည် အလိုရှိတော်မူပါလျှင် အသင့်အား ထို့ထက်ပင်ပို၍ ကောင်းမွန်သော အကြင်ဥယျာဉ်များကို ချီးမြှင့်ပေးသနားတော်မူပေမည်။ ထိုဥယျာဉ်များ၏အောက်မှ ချောင်းများသည် စီးတွေလျက်ရှိချေ မည်။ ၎င်းပြင် ထိုအရှင်မြတ်သည် အသင့်အား ခမ်းနားသိုက်မြိုက်သော အဆောက်အအုံများကိုလည်း ချီးမြှင့်ပေးသနား တော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

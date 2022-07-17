@@ -710,6 +710,12 @@ I me pazi, Gospodi moĭ, da ne me spokhozhdat!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၈။	အို--အရှင်သခင်၊ ရှိုင်တွာန်မာရ်နတ်များသည် အကျွနု်ပ်နှင့်အတူတကွမရှိဖို့ရာ အရှင်မြတ်၌ ခိုလှုံပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ ကျွန်တော်မျိုးသည် မိမိထံသို့ ထိုရှိုင်တွာန် မိစ္ဆာကောင်များ ရောက်ရှိမလာနိုင်ကြရန်လည်း အရှင်မြတ်၏ အကာအကွယ်ကိုရလိုပါ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

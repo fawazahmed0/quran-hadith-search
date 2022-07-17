@@ -710,6 +710,12 @@ No Allakh na nikogo ne shte dade ot·srochka, shtom mu doĭde vremeto. Svedusht
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။ အမှန်မှာ ၄င်း၏ အချိန်စေ့သောအခါ မည်သည့်ဝိညာဉ်ကိုမှ အလ္လာဟ်သည် အချိန်အနည်းငယ်မျှပိုမိုပေးတော် မမူချေ၊ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့ပြုကျင့်မှုများကို လုံးဝဥဿံုသိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်မှာကား အလ္လာဟ်အရှင်မြတ်သည် မည်သူတစ်ဦးတစ်ယောက်ကိုမျှပင် ၎င်းနှင့်ပတ်သက်၍ သတ်မှတ်ပြဋ္ဌာန်းပြီးဖြစ်သော အချိန်ကာလ ဆိုက်ရောက်လာခဲ့လျှင် ရွှေ့ဆိုင်းခွင့် အလျှင်း ပြုတော်မူသည် မဟုတ်ပြီ။ ထိုမှတစ်ပါး အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့ ကျင့်မူသမျှတို့ကို အကြွင်းမဲ့ ကြားသိတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I ako presmyatate blagodeyaniyata na Allakh, ne shte gi izchislite. Allakh e opr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	အကယ်၍ သင်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ ဂုဏ်ကျေးဇူးတော်များကို ရေတွက်ကြလျှင် ရေတွက်၍ မဆုံးနိုင် ချေ၊ မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် မုချဧကန်အပြစ်လွှတ်တော်မူ၏။ ကောင်းကြီးမင်္ဂလာပေးသနား တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အကယ်၍ အသင်တို့သည်အလ္လာဟ်အရှင်မြတ်၏ ကျေးဇူးတော်များကို ရေတွက်ကြသည်ရှိသော် အသင်တို့သည် ယင်းကျေးဇူးတော်များကို (အလျှင်း)ရေတွက်နိုင်ကြမည်မဟုတ်ပေ။ ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် အလွန်တရာလွတ်ငြိမ်းချမ်းသာခွင့် ပေးတော်မူသော အရှင်၊အလွန်တရာ သနားကြင်နာညှာတာတော်မူသောအရှင်၊ ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

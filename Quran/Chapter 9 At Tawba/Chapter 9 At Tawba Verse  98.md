@@ -710,6 +710,12 @@ Nyakoi beduini priemat onova, koeto davat, za zaguba, i ochakvat da vi spoletyat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၈။	သဲကန္တာရသားအာရဗ်လူမျိုးအချို့သည် အလ္လာဟ်အရှင်မြတ်၏ ဘက်တော်၌ သုံးစွဲခြင်းကို ဆုံးရှုံးခြင်းဟု မှတ်ကြပြီးလျှင် သင်တို့အတိဒုက္ခရောက်သည်ကိုသာ စောင့်ဆိုင်းနေကြ၏။သူတို့သာလျှင် အတိဒုက္ခရောက်ကြ လိမ့်မည်။အလ္လာဟ်အရှင်မြတ်သည် ကြားတော်မူသောအရှင်၊ သိတော်မူသောအရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား၊ ကျေးရွာများ၌ နေထိုင်ကြကုန်သော အရဗ်အမျိုးသားတို့တွင် (ဇကာတ်၊ ဂျိဟာဒ် စသည့်မွန်မြတ်သောကိစ္စများတွင်)မိမိတို့ သုးံစွဲကြသည်တို့ကို ဒဏ်ဆောင် ခြင်း ဖြစ်သည် ဟု မှတ်ယူကြသူများလည်း ရှိကြကုန်၏၊၎င်းပြင် ထိုသူတို့သည် အသင်တို့နှင့်ပက်သက်၍ အလှည့်ကြုံခြင်းများကို စောင့်မျှော်နေကြကုန်၏။ (အမှန်အားဖြင့်)ထိုသူတို့အပေါ်၌ပင် မကောင်းသောအလှည့် ကြုံခြင်းသည်ရှိပေသည်။ အမှန်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အလုံးစုံတို့ကို ကြားတော်မူသောအရှင်၊ အရာခပ်သိမ်းတို့ကို သိတော်မူသောအသျှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

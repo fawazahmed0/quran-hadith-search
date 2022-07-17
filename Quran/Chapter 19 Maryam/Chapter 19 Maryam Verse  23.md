@@ -710,6 +710,12 @@ I rodilnite bolki ya dovedokha pri stvola na palmata. Reche: “O, da byakh umry
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	မရယမ်သည် သားဖွားဝေဒနာပြင်းထန်လာသဖြင့် စွန်ပလွံပင်ရှိရာသို့ လာ၍ ထုုိအပင်ကို မှီနေ၏။ သူမသည် ဤဝေဒနာကို မခံစားရမီ ငါသည် သေပျောက်၍ မေ့လျော့စရာဖြစ်သွားခဲ့လျှင် တော်လေစွဟု ညည်းညူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် သားဖွားခြင်း၏ဝေဒနာသည် ထိုမရ်ယမ်အား စွန်ပလွံပင်(တစ်ပင်)ရှိရာသို့ ဆောင်ကြဉ်း သွားခဲ့လေသည်။ ထိုအခါ ယင်းမရ်ယမ်ကဪ-ဖြစ်ရလေခြင်း၊ငါသည် ဤသို့(ဖမဲ့သားကို)မဖွားမီသေဆုံးခဲ့ပြီး လုံးဝမေ့ပျောက်စွန့်ပစ်ထားပြီးဖြစ်ခဲ့ပါလျှင် ကောင်းလေစွတကား ဟု ညည်းညူမြည်တမ်းခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

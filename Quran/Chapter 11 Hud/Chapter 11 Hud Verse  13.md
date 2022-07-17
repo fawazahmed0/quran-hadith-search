@@ -710,6 +710,12 @@ Ili kazvat: “Toĭ si go e izmislil.” Kazhi: “Donesete deset suri podobni 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	သို့မဟုတ် သူတို့က ရှင်မိုဟမ္မဒ်ကို သူ့ကျမ်းကို လုပ်ကြံဖန်တီးသည်ဟု ဆိုကြ၏။ အို-တမန်တော်သည်၊ သူတို့အား ဟယ်-အချင်းတို့၊ သင်တို့သည် စူရာဟ်နှင့်တူသောစူရာဟ်၁ဝပါးကို သင်တို့ဖန်တီးပြကြလော့၊ သင်တို့သည် အမှန်ဆိုသူဖြစ်လျှင် အလ္လာဟ်အရှင်မြတ်မှတပါး သင်တို့စိန်ခေါ်နိုင်သူတို့ကို ကူညီဖို့ရာ ခေါ်ကြ ကုန်လော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့က ယင်း(နဗီတမန်တော်)သည် ထို (ကုရ်အာန်)ကို လီဆယ်ဖန်တီးခဲ့သည်ဟု ပြောဆိုကြ လေသလော။(အို-နဗီတမန်တော်) အသင်သည် (၎င်းတို့အား) သို့ဖြစ်လျှင်အသင်တို့သည် ထိုကုရ်အာန်ကျမ်းလာ စူရဟ်ကဏ္ဍကဲ့သို့ လီဆယ်ဖန်တီးထားသော စူရဟ်ကဏ္ဍဆယ်ခုကိုပင် ယူဆောင်ခဲ့ကြလေကုန်။ ၎င်းပြင် အကယ်၍ အသင်တို့သည် သစ္စာဝါဒီမှန်ကန်စွာပြောဆိုသူများ ဖြစ်ကြပါလျှင် အလ္လာဟ် အရှင်မြတ်မှတစ်ပါး မိမိတို့တတ်စွမ်းနိုင်သောသူများ ကိုလည်း အသင်တို့ခေါ်ခဲ့ကြလေကုန်ဟု ပြောကြားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

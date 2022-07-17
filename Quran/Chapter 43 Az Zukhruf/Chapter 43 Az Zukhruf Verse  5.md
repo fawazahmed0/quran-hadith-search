@@ -710,6 +710,12 @@ Nima shte vi lishim ot Napomnyaneto, zashtoto ste khora prestŭpvashti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	အို-အယူမှားသူအပေါင်းတို့၊ သင်တို့သည် လေလွင့်သောသူများဖြစ်ကြသဖြင့် သင်တို့ကို ငါလုံးလုံးလျစ်လျူ ရှုတော်မူရမည်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်တို့သည် စည်းကမ်းကျူးလွန်သူများဖြစ်သောကြောင့် (ဤ)ဆုံးမဩဝါဒကျမ်းကို ငါအရှင်မြတ်သည် အသင်တို့ထံမှ လွှဲဖယ် တော်မူရမည်လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

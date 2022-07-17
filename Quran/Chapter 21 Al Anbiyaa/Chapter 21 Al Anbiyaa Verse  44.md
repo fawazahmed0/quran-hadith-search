@@ -710,6 +710,12 @@ No Nie ostavyame tezi i bashtite im da se ponasladyat, dokato vŭzrastta im napr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	ငါအရှင်မြတ်အား ခုခံတားဆီးနိုင်သူမရှိချေ၊ သို့သော်ငါလည်း သူတို့နှင့် သူတို့၏မိဘတို့အား အသက်ကြီးရင့်လာ သည့်တိုင်အောင် သာယာခြင်းကို ပေးသနားတော်မူ၏၊ ငါသည် မိစ္ဆာဒိဌိတို့၏နယ်ပယ်များကို တောရွာဇနပုဒ် မှစ၍ တဖြည်းဖြည်းနှိမ်နင်းလာတော်မူသည်ကို သူတို့မမြင်ကြသလော၊ ထို့ကြောင့်သူတို့သည် အောင်နိုင်သူများ ဖြစ်နိုင်ကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်မှာကား ငါအရှင်မြတ်သည် ယင်းတို့အားလည်းကောင်း၊ ယင်းတို့၏ အဘ၊ အဘိုး၊ ဘေးတို့ အားလည်းကောင်း၊ (လောကီစည်းစိမ်များကို ချီးမြှင့်တော်မူခြင်းအားဖြင့်) အသက်တာ ရှည်လျားသွားသည်အထိ စံစားစေတော်မူခဲ့၏။ ငါအရှင်မြတ်သည် (မက္ကာမြို့၏)မြေကို ဘေးပတ်ဝန်းကျင်များမှ(တဖြည်းဖြည်း)ယုတ်လျော့ (ကျဉ်းမြောင်း)အောင် ပြုလုပ်လာတော်မူသည်ကို ၎င်းတို့သည် မမြင်ကြလေသလော။ သို့ဖြစ်ရာ၎င်းတို့သည် အောင်မြင်သောသူများ ဖြစ်ကြမည်လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

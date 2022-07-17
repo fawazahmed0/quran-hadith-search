@@ -710,6 +710,12 @@ O, sinove na Israil, pomnete Moyata blagodat, s koyato vi obsipakh, i spazvaĭt
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄ဝ။	အေ အစ္စရာအီလ်အမျိုးသားတို့ သင်တို့အား ငါပြုတော်မူသော ဂုဏ်ကျေးဇူးတော်ကို သတိရကြ လော့။ သင်တို့သည် ငါနှင့်ဖွဲ့ထားသော ပဋိညာဉ်ကိုစောင့်ထိန်းကြလော့။ ငါ့ကိုကြောက်ရွံ့ ရိုကျိုး ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-အစ္စရာအီလီ မျိုးနွယ်ဝံသအပေါင်းတို့၊ အသင်တို့အား ငါအရှင်ပေးသနားတော်မူသော သုခချမ်းသာ၊ ဂုဏ်ကျေးဇူးတော်များကို (အမြဲတစေ) အောက်မေ့ သတိရကြကုန်၊(သို့သတိရခြင်းအားဖြင့်) သင်တို့သည် (ငါ အရှင့်ထံတော်၌ထားရှိပြီးသော) ပဋိညာဉ် ခံဝန်ချက်ကို စောင့်ရှောက် အတည်ပြုကြကုန်၊ ငါအရှင်သည်လည်း သင်တို့နှင့် ထားရှိပြီးဖြစ်သော သစ္စာကတိကို အတည်ပြုတော်မူအံ့။ (သို့ဖြစ်ရာ) အသင်တို့သည် ငါအရှင်ကိုသာလျှင် ကြောက်ရွံ့ရိုသေကြကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

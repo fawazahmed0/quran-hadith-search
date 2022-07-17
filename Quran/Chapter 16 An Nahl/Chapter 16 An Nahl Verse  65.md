@@ -710,6 +710,12 @@ I izsipva Allakh voda ot nebeto, i sŭzhivyava s neya zemyata sled neĭnata sm�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၅။	အလ္လာဟ်အရှင်မြတ်သည် မိုးကောင်းကင်မှ ရေကို သွန်းချတော်မူ၏။ ထိုရေအားဖြင့် သေပြီးသောမြေကြီးကို တဖန်ရှင်စေတော်မူ၏။ မှတ်သားကြလော့၊ ဤအချင်းအရာ၌ ကြားနာသူတို့အဖို့ သာဓကတော်တပါးပါရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အလ္လာဟ်အရှင်မြတ်သည်ပင်လျှင် မိုးကောင်းကင်မှရေကို ချပေးသနားတော်မူလေသည်။ တစ်ဖန်ထိုအရှင်မြတ်သည် ထိုရေဖြင့် သေပြီးသောမြေကို ရှင်စေတော်မူလေသည်။ ဧကန်စင်စစ် ဤသည် ၌ ကြားနာကြကုန် သောသူတို့အဖို့ အမှန်ပင် သက်သေသာဓက ရှိပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

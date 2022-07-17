@@ -710,6 +710,12 @@ Ili onezi, koito vŭrshat zlini, smyatat da ni ubyagnat? Kolko losho ot·sŭzhda
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	သို့မဟုတ်မကောင်းမှုကျူးလွန်သူတို့သည် ငါအရှင်မြတ်အထံတော်မှ လွတ်အောင် ပြေးနိုင်မည်ဟု အထင်ရှိ ကြသလော၊ သူတို့ကြံစည်ဆုံးဖြတ်သမျှသည် သူတို့အတွက် မကောင်းမှုသာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် မကောင်းမှု ဒုစရိုက်များကိုကျင့်မူ(ကျူးလွန်)နေကြကုန်သော သူတို့သည် မိမိတို့မှာ ‘ငါအရှင်မြတ်(ဖမ်းဆီးကွပ်မျက်တော်မူခြင်း)မှ ထွက်ပြေးလွတ်မြောက်သွားကြမည်’ ဟု ထင်မှတ်ကြ လေသလော။ ၎င်းတို့၏ အဆုံးအဖြတ်မှာ အလွန်ဆိုးရွားလှပေသည်တကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

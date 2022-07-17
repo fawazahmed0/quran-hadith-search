@@ -710,6 +710,12 @@ I gi prechistikhme, za da si spomnyat vinagi Doma [na otvŭdnoto]
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။	မှတ်သားကြလော့၊ ငါသည် ထိုတမန်တော်တို့အား နောင်တမလွန်ဘဝ၌ရှိသောဘုံဗိမာန်ကို အမြဲသတိရတတ် သောဖြူစင်သောစိတ်သဘောအားဖြင့် သန့်ရှင်းစင်ကြယ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ငါအရှင်မြတ်သည် တမလွန်ဘဝကို သတိရခြင်းတည်းဟူသော ထူးခြားချက်တစ်ရပ်ဖြင့်၊ ၎င်းတို့အား ထူးခြားစေတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

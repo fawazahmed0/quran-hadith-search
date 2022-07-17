@@ -710,6 +710,12 @@ Toĭ e, Koĭto sŭzhivyava i umŭrtvyava. I shtom ot·sŭdi neshto, mu kazva s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၈။	အလ္လာဟ်အရှင်မြတ်သည် သက်မဲ့မှ သက်ရှိကို ဖန်ဆင်းတော်မူ၏၊ သက်ရှိကိုလည်း သက်မဲ့ဖြစ်စေတော်မူ၏၊ အရှင်မြတ်သည် အရာတစ်ခုခုကို ကြံတော်မူသောအခါ ထိုအရာအား ဖြစ်စေဟူ၍သာ မိန့်တော်မူ၏၊ ထိုအခါ ထိုအရာသည် ဖြစ်ပေါ်လာ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည်ပင် အသက်ရှင်စေတော်မူ၏။ အသက်သေစေတော်မူ၏။ ထို့နောက် ထိုအရှင်မြတ်သည် အရေးကိစ္စတစ်စုံတစ်ရာကို ပြဌာန်းလိုတော်မူသောအခါ ဖြစ်စေဟု မိန့်ကြားတော်မူရုံဖြင့် ယင်းအရေးကိစ္စမှာ(ချက်ချင်း)ဖြစ်ပေါ်လာလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

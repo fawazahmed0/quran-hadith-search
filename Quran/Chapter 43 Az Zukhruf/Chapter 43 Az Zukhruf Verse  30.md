@@ -710,6 +710,12 @@ I shtom istinata doĭde pri tyakh, rekokha: “Tova e magiya. Nie ne vyarvame v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	သို့သော်သူတို့ထံ၌ သမ္မာတရားတော်ထွန်းလင်းတောက်ပလာသောအခါ သူတို့က ဤအရာသည် မျက်လှည့် ဆရာ၏ လိမ်လည်မှုသာဖြစ်၏၊ ငါတို့သည် ဤအရာကို ဖယ်ရှား၏ဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ၎င်းတို့ထံ (ကုရ်အာန်ကျမ်းတော်မြတ်တည်းဟူသော) အမှန်တရားသည် ရောက်ရှိလာခဲ့သောအခါ ၎င်းတို့က "ဤသည် စုန်းအတတ် ပညာဖြစ်၏။ ၎င်းပြင် ဧကန်စင်စစ် ကျွန်ုပ်တို့သည် ဤသည်ကို ငြင်းပယ်သူများပင် ဖြစ်ကြသည်ဟု ပြောဆိုခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

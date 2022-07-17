@@ -710,6 +710,12 @@ O, vyarvashti, razdavaĭte ot onova, koeto sme vi dali za prepitanie, predi da 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅၄။	အို - ယုံကြည်သူတို့ သင်တို့သည် ရောင်းဝယ်ဖောက်ကားမှုသော်လည်းကောင်း၊ အဆွေခင်ပွန်းဖွဲ့ ခြင်းသော်လည်းကောင်း၊ တောင်းပန်ကယ်နှုတ်ခြင်းသော်လည်းကောင်း၊ လုံးဝမရှိသောနေ့တော်ကြီး မဆိုက်ရောက်မီ ငါအရှင်ပေးသနားထားတော်မူသော ဥစ္စာပစ္စည်းများမှ သုံးစွဲကြလော့။ မယုံကြည် သူတို့၊ သူတို့သည် မကောင်းမှုပြုသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို- မုအ်မင်န်” ယုံကြည်ခြင်း သဒ္ဓါတရားထားရှိကြသူ အပေါင်းတို့၊ ငါအရှင်မြတ်သည် အသင်တို့အားပေးသနားတော်မူသော ဥစ္စာပစ္စည်းများအနက်မှ (အချို့အဝက်ကို) အသင်တို့သည် “ကိယာမတ်” နေ့မရောက်မီပင်လှူဒါန်းပေးကမ်းကြကုန်လော့။ ထိုနေ့တွင် မည်သည့် ရောင်းဝယ်မှုမျှရှိမည်မဟုတ်၊ မိတ်ဆွေဖြစ်မှုလည်း ရှိမည်မဟုတ်၊အသနားခံ တောင်းပေးမှုလည်းရှိမည် မဟုတ်။ “ကာဖိရ်”မယုံမကြည် သွေဖည်ငြင်းပယ် သောသူများသာလျှင် ကျူးကျော်စော်ကားသူများ ဖြစ်ကြသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

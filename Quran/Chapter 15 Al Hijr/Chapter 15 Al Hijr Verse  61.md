@@ -710,6 +710,12 @@ I kogato pratenitsite doĭdokha pri semeĭstvoto na Lut
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၁၊၆၂။	ကောင်းကင်တမန်တော်တို့သည် တမန်တော်လွတ်၏ အိမ်သို့ ရောက်လာသောအခါ သူက သင်တို့သည် အကျွနု်ပ်မသိမကျွမ်းသူတို့မုချဖြစ်ပါ၏ဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် စေလွှတ်ခြင်း ခံကြရကုန်သော(ကောင်းကင်တမန်)တို့သည် (နဗီတမန်တော်)လူတ်၏အိမ်ထောင်စုသားတို့ထံသို့ ရောက်ရှိလာကြသောအခါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

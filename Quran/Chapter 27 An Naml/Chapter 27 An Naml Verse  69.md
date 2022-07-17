@@ -710,6 +710,12 @@ Kazhi: “Vŭrvete po zemyata i vizhte kakŭv e krayat na prestŭpnitsite!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၉။	အို-မိုဟမ္မဒ်၊ သင်သည် သူတို့အား ဟောကြားလော့၊ ဟယ်-အချင်းတို့၊ ကမ္ဘာမြေပြင်ဝယ် လှည့်ပတ်သွားလာ၍ အပြစ်ကျူးလွန်သူအပေါင်းတို့သည် အဘယ်အဖြစ်သို့ ရောက်ကြသည်လေသည်ကို ကြည့်ရှုလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်၊)အသင်သည် ပြောကြားပါလေ။ (အချင်းတို့၊)အသင်တို့သည် ကမ္ဘာမြေ၌ လှည့်လည်သွားလာကြပြီးလျှင်၊ အပြစ်ထင်ရှားသော သူတို့၏ နောက်ဆုံးအကျိုးဆက် မည်သို့ဖြစ်ခဲ့သည်ကို ကြည့်ရှုကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

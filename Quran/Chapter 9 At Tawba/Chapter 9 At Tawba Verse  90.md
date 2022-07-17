@@ -710,6 +710,12 @@ I doĭdokha opravdavashtite se izmezhdu beduinite [koito ne izlyazokha] da iska
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၀။	အာရဗ်လူမျိုးတောသားများအနက် အကြောင်းပြစရာရှိသောသူများသည် ချမ်းသာခွင့်တောင်းရန် လာကြ၏။အလ္လာဟ်အရှင်မြတ်နှင့် အရှင်မြတ်၏ တမန်တော်ကို လိမ်သောသူတို့သည် အိမ်တွင် ထိုင်နေကြ၏။သူတို့အနက် မယုံကြည်သူတို့အပေါ်သို့ အလွန်ကြီးလေးသောအပြစ်ဒဏ်တော်ဆိုက်ရောက်လာလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား၊ ကျေးရွာများ၌ နေထိုင်ကြကုန်သောသူတို့အနက်မှ လိမ်လည်၍ အကြောင်းပြ သောသူတို့သည် မိမိတို့ခွင့်ပြုခြင်းခံကြရန်(အသင့်ထံသို့) လာခဲ့ကြကုန်၏။ သို့ရာတွင် အလ္လာဟ်အရှင်မြတ်အားလည်းကောင်း၊ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော်မြတ်အားလည်းကောင်း၊မုသားပြောဆိုခဲ့သောသူတို့မူကား (လိမ်လည်၍ အကြောင်းပြရန်ပင်မလာကြဘဲ) ထိုင်၍ပင် နေရစ်ခဲ့ကြကုန်၏။ ၎င်းတို့အနက် ကာဖိရ် သွေဖည်ငြင်းပယ်ကြသောသူတို့၌ နာကျင်စေသောပြစ်ဒဏ်သည် မကြာမြင့်မီပင် ဆိုက်ရောက်ပေလိမ့်မည်ဖြစ်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

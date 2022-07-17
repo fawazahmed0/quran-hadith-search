@@ -710,6 +710,12 @@ Na razdavashtite milostinya mŭzhe i zheni, koito davat khubav zaem na Allakh, s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	အကြောင်းမူကား လှုဒါန်းပေးကမ်းစွန့်ကြဲသောအလ္လာဟ်အရှင်မြတ်အား ချေးငှားခြင်းပြုသောယောက်ျားမိန်းမ တို့သည် မိမိတို့သုံးစွဲသောပစ္စည်းနှစ်ဆပြန်ရကြမည်၊ ထို့အပြင်အတိုင်းအထွာပမာဏမရှိသောအောင်ဆုမင်္ဂလာ တော်ကြီးကိုလည်း ခံစားကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် လှူဒါန်းကြကုန်သော ယောက်ျားမိန်းမတို့သည် အလ္လာဟ်အရှင်မြတ်အား ကောင်းမြတ်သော(စေတနာနှင့်) ကြွေးမြီ ချေးငှားခဲ့ကြကုန်၏။ ယင်းအလှူဒါနသည် ၎င်းတို့အဖို့ ဆထက်တိုးစေခြင်း ခံရသည့်ပြင် ၎င်းတို့အဖို့ မြင့်မြတ်လှစွာသော အကျိုးသည်လည်း ရှိချိမ့်မည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

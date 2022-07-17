@@ -710,6 +710,12 @@ Kazvat [litsemerite]: “Povyarvakhme v Allakh i v Pratenika, i se pokorikhme.�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	ထို့အပြင်သူတို့က အကျွနု်ပ်တို့သည် အလ္လာဟ်အရှင်မြတ်နှင့် အရှင်မြတ်၏ တမန်တော်အား ယုံကြည်ပါ၏၊ ကျိုးနွံနာခံကြပါ၏ဟု ဆိုကြ၏၊ ထို့နောက်သူတို့အထဲမှ လူတစ်စုသည် လှည့်သွားကြ၏၊ ယင်းလူများသည် ယုံကြည်သူများမဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ထို(မုနာဖစ်က်တို့က) ကျွန်ုပ်တို့သည် အလ္လာဟ်အရှင်မြတ်အားလည်းကောင်း၊ ရစူလ်တမန်တော်မြတ်အားလည်းကောင်း၊ ယုံကြည်ပါပြီ။ ၎င်းပြင် ကျွန်ုပ်တို့သည် (အလ္လာဟ်အရှင်မြတ်၏အမိန့်တော်များနှင့် ရစူလ်တမန်တော်မြတ်၏ အမိန့်တော်များကိုလည်း) နာခံကြပါပြီဟု ပြောဆိုကြ လေသည်။ တစ်ဖန် ထိုသည့်နောက်တွင် ၎င်းတို့အနက် လူတစ်စုသည် ရှောင်သွေကြလေသည်။ စင်စစ်သော်ကား ၎င်းတို့သည် ‘မုအ်မင်န်’ သက်ဝင် ယုံကြည်သူများ မဟုတ်ကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

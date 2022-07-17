@@ -710,6 +710,12 @@ Shte reche [Allakh]: “Kolko godini prestoyakhte v zemyata?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၂။	အလ္လာဟ်အရှင်မြတ်က သူတို့အား နင်တို့သည် ကမ္ဘာမြေပေါ်ဝယ် နှစ်ပေါင်းမည်မျှကြာခဲ့သနည်းဟု မေးတော် မူလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အရှင်မြတ်သည် (၎င်းတို့အား) အသင်တို့သည် ကမ္ဘာမြေဝယ် နှစ်ပရိစ္ဆေဒ အရေအတွက်အားဖြင့် မည်မျှကြာအောင် နေခဲ့ကြသနည်းဟု မေးမြန်းတော်မူမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

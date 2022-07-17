@@ -710,6 +710,12 @@ I ne pristŭpvaĭte kŭm prelyubodeyanieto! To e nepristoĭnost i e zlochest p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	ထို့အပြင်သင်တို့သည် မတရားသောကာမမှုအနီးအပါးသို့ မချဉ်းကပ်ကြလင့်။ မှတ်သားကြလော့။ ထိုအမှုသည် အလွန်စက်ဆုတ်ရွံရှာဖွယ်ကောင်း၍ ညစ်ညမ်းဆိုးဝါးသောအပြုအမူဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အသင်တို့သည် ကာမေသုမိစ္ဆာစာရ၏အပါးသို့ပင် မချဉ်းကပ်ကြကုန်လင့်။ ဧကန်မလွဲ ယင်းကာမေသုမိစ္ဆာစာရသည် အလွန်စက်ဆုပ်ရွံရှာဖွယ် ဖြစ်သည့်ပြင်အလွန် ဆိုးဝါးလှသော လမ်းစဉ်လည်း ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

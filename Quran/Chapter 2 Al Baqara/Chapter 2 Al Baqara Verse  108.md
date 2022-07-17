@@ -710,6 +710,12 @@ Ili iskate da pitate vashiya Pratenik, kakto be pitan i Musa predi? A koĭto po
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၈။	သို့မဟုတ် သင်တို့သည် မိမိတို့တမန်တော်အား တမန်တော်မူဆာကို ရှေးကာလက မေးမြန်းသကဲ့သို့ မေးမြန်းကြမည်လော။ အကြင်သူသည် သစ္စာတရားတော်အစား မိစ္ဆာတရားကို ရွေးယူ၏။ ထိုသူသည်လမ်းမှန်မှ လမ်းမှားသို့ အမှန်ပင် လွဲသွား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-အစ္စရာအီလ်၏ မျိုးနွယ်ဝံသအပေါင်းတို့) ရှေးအထက်ကျော်ကာလ၌ (အသင်တို့၏ ဘိုးဘေးများက) နဗီတမန်တော်မူစာ (အလိုင်ဟစ္စလာမ်) အား (မလျော်ကန်သောအချက်များကို) တောင်းဆို မေးမြန်းကြသကဲ့သို့ အသင်တို့ကလည်း မိမိတို့ခေတ်၌ ပွင့်တော်မူသော နဗီတမန်တော်(မိုဟမ္မဒ် ဆွာလ္လလ္လာဟု အလိုင်ဟိ ဝစလ္လာမ်) အား ထိုကဲ့သို့ပင် တောင်းဆို မေးမြန်းရန် အလိုဆန္ဒ ရှိကြပါသလော။ မည်သူမဆို ယုံကြည်ခြင်းသဒ္ဓါတရားကို စွန့်ပယ်၍ မိစ္ဆာအယူကို လဲလှယ်(လက်ခံ) နာယူပါမူ၊ ထိုသူသည် မချွတ်ဧကန် ဖြောင့်မတ် မှန်ကန်သော လမ်းမှ တိမ်းပါး လွဲချော်သွားချေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

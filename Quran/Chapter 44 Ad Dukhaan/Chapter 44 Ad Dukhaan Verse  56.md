@@ -710,6 +710,12 @@ Ne shte sa vkusili tam druga osven pŭrvata smŭrt [v zemniya im zhivot]. Shte g
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၆။	သူတို့သည် ပထမသေခြင်းမှတပါး နိဗ္ဗာန်တွင် သေခြင်းကို မတွေ့ကြံုရတော့ချေ၊ ထို့အပြင်အရှင်မြတ်သည် သူတို့ကို ငရဲဘေးဒဏ်မှ ကယ်နှုတ်တော်မူပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ပထမအကြိမ် သေဆုံးခဲ့ကြသည် မှတစ်ပါး ယင်းဥယျာဉ်များတွင် "မရဏ" သေခြင်းတရား၏ရသာကို မြည်းစမ်းကြရမည် မဟုတ်ပြီ၊ ထိုမှတစ်ပါး ၎င်းတို့အား ထိုအရှင်မြတ်သည် "ဂျဟန္နမ်" ငရဲဘုံ၏ ပြစ်ဒဏ်မှ(လည်း)လွတ်ကင်းစေတော် မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

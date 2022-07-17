@@ -710,6 +710,12 @@ A edna grupa ot khorata na Pisanieto reche: “Pri nachevaneto na denya vyarvai�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၂။	ရှေးကျမ်းတော်ရရှိသူများအနက် လူတစ်စုက အချင်းတို့ အသင်တို့သည် နံနက်အချိန်၌ ယုံကြည်သူတို့အား ချပေးတော်မူသောကျမ်းတော်ကို ယုံကြည်ကြလော့။ ညနေချမ်းအချိန်၌မူကား ထိုကျမ်းတော်ကို ဖယ်ရှားစွန့်ပစ်ကြလော့။ သို့မှသာလျှင် သူတို့သည် ၎င်းတို့ဘာသာကိုစွန့်၍ ငါတို့ဘက်သို့ ပြန်လာကြလတ္တံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ရှေးအထက် ကျမ်းဂန်ရရှိသောသူများအနက်မှလူတစ်စုက အသင်တို့သည် မုအ်မင်န်တို့အပေါ်၌ ကျရောက်သော(တရားဓမ္မ)ကို နံနက်ပိုင်းတွင် ယုံကြည်၍ ညနေချမ်းတွင်မူ သွေဖည်ငြင်းပယ်ကြကုန်။ သို့မှသာလျှင် ထို(မုအ်မင်န်)များသည် (မိမိတို့၏ တရားဓမ္မမှ) ဆုတ်ခွာ ပြန်လှည့်သွားကြပေမည်ဟု (အချင်းချင်း) ပြောဆိုကြလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

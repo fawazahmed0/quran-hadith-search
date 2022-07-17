@@ -710,6 +710,12 @@ Az se upovavam na Allakh, moya Gospod i vashiya Gospod. Nyama tvar, koyato Toĭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၆။	မှတ်သားကြလော့၊ ငါသည် ငါ၏ အရှင်သခင်နှင့် သင်တို့၏ အရှင်သခင်၊ အလ္လာဟ်အားသာလျှင် ကိုးစား ယုံကြည်၏။ ကမ္ဘာမြေပေါ်ရှိ သတ္တဝါတိုင်းကို အရှင်မြတ်သည် ဦးစွန်းဖုတ်ကို ဆွဲ၍ ယူတော်မူ၏။ မှတ်သား ကြလော့၊ ငါ၏ ကျေးဇူးတော်သခင်သည် ဖြောင့်မှန်သောလမ်းတော်၌ ရှိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်စင်စစ် ငါသည် ငါ၏အရှင်မြတ်လည်းဖြစ်တော်မူသော အသင်တို့၏အရှင်မြတ်လည်း ဖြစ်တော်မူသော အလ္လာဟ်အရှင်မြတ်အပေါ်၌ ယုံကြည်စိတ်ချလွှဲအပ်ခဲ့လေပြီ။ ထိုအရှင်မြတ်သည် ရှိရှိသမျှသော တိရစ္ဆာန်တို့၏နဖူး(ဆံစ)ကို ဆုပ် ကိုင်ထားတော်မူပေသည်။ ဧကန်မလွဲ ငါ၏ အရှင်မြတ်သည် ဖြောင့်မတ်မှန်ကန်သောလမ်းပေါ်၌ ပင်ရှိနေတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

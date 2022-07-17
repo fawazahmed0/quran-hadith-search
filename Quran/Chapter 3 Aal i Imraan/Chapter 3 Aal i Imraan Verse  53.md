@@ -710,6 +710,12 @@ Gospodi nash, povyarvakhme v onova, koeto Ti nizposla, i posledvakhme pratenika.
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။	အို-အကျွနု်ပ်တို့၏အသျှင်သခင် အကျွနု်ပ်တို့သည် အသျှင်ထုတ်ပြန်တော်မူသော ကျမ်းတော်မြတ်ကို ယုံကြည်ကြပါ၏။ အကျွနု်ပ်တို့သည် အသျှင်စေလွှတ်တော်မူသော တမန်တော်ကို လိုက်နာပါ၏။ အကျွနု်ပ်တို့အား သက်သေခံသူတို့စာရင်းတွင် ထည့်သွင်းမှတ်သားတော်မူပါဟု ဆုတောင်း၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထို့နောက် ယင်းဟဝါရီတို့က) အို-ကျွန်တော်မျိုးတို့၏ အရှင်မြတ်၊ ကျွန်တော်မျိုးတို့သည် အရှင်မြတ်ထုတ်ပြန် ပို့ချတော်မူသော အမိန့်တော်များကို ယုံကြည်၍(အရှင်မြတ် စေလွှတ်တော်မူသော) ရစူလ်တမန်တော် [အီစာ(အလိုင် ဟစ္စလာမ်)၏ ဩဝါဒများကို(လည်း တသွေမတိမ်း)]လိုက်နာ ကြပါပြီ။ သို့ဖြစ်ပါ၍ အရှင်မြတ် သည် ကျွန်တော်မျိုးတို့အား သက်သေခံသူအပေါင်း နှင့်အတူ ရေးမှတ်တော်မူပါ (ဟု အလ္လာဟ်အရှင်မြတ် အထံတော်၌ ဆက်လက်၍ ဆုတောင်း ပတ္ထနာပြုကြကုန်သတည်း)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ O, vyarvashti, ako podkrepite [deloto na] Allakh, i Toĭ shte vi podkrepi, i sh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	အို-ယုံကြည်သူအပေါင်းတို့၊ သင်တို့သည် အလ္လာဟ်အရှင်မြတ်ကို ကူညီထောက်ပ့ံလျှင် အရှင်မြတ်ကလည်း သင်တို့ကို မစတော်မူလိမ့်မည်၊ သင်တို့၏ ခြေကုပ်ကို မြဲမြံစေတော်မူလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-’မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူအပေါင်းတို့၊အကယ်၍ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ် (၏သာသနာကိုလည်းကောင်း ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော်)အား(လည်းကောင်း၊) ကူညီကြလျှင် ထိုအရှင်မြတ်သည် အသင်တို့အား ကူညီတော်မူမည်။ ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် အသင်တို့၏ခြေများကို(စစ်မက်တိုက်ခိုက်ရာ၌) မြဲမြံကြံ့ခိုင်စေတော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

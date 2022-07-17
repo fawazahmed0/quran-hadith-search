@@ -710,6 +710,12 @@ Vse edno e dali shte molish oproshtenie za tyakh, ili ne shte molish. Allakh ne 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။ သင်သည် ထိုသူတို့အတွက် အပြစ်လွှတ်ဆုကို တောင်းသည်ဖြစ်စေ၊ မတောင်းသည်ဖြစ်စေ၊ အလ္လာဟ်အရှင် မြတ်သည် သူတို့ကို အပြစ်လွှတ်တော်မူမည်မဟုတ်၊ စင်စစ်မှာ အလ္လာဟ်အရှင်မြတ်သည် ဒုစရိုက်ကောင်တို့ကို လမ်းညွှန်တော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်သည် ၎င်းတို့အဖို့ လွတ်ငြိမ်းခွင့်ကို ပန်ကြားသည်ဖြစ်စေ၊ ၎င်းတို့အဖို့ လွတ်ငြိမ်းခွင့်ကို ပန်ကြားခြင်းမပြုသည်ဖြစ်စေ၊ ၎င်းတို့အဖို့ အကြောင်းမထူးပြီ။ ဧကန်အမှန် အလ္လာဟ်အရှင်မြတ်သည် အမိန့်တော်ကို သွေဖည်သောသူတို့အား တရားလမ်းမှန်သို့ ပို့ပေးတော်မူသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

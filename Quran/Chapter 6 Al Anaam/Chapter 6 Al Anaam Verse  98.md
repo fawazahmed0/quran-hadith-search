@@ -710,6 +710,12 @@ Toĭ e Onzi, Koĭto vi sŭtvori ot edna dusha - i obitalishte, i khranilishte.
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၈။	အသျှင်မြတ်သည် သင်တို့ကို လူသားတစ်ယောက်တည်းမှ ဖန်ဆင်းထားတော်မူ၏။ နေထိုင်ဖို့ရာ နေရာ၊ မြှုပ်နှံင်္သဂြိုလ်ဖို့ရာ သုဿာန်င်္သချိုင်းများကို စီရင်ထားတော်မူ၏။ ငါသအသျှင်မြတ်သည် မိမိ၏ သက်သေသာဓကတော်များကို အသိဉာဏ်ရှိသူများအဖို့ အသေးစိတ် စီရင်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုအရှင်မြတ်သည်ပင်လျှင် အကြင်အရှင်မြတ်တည်း။ ထိုအရှင်မြတ်သည် အသင်(လူသား)တို့အားလူတစ်ဦးတယောက်တည်းမှ ဖြစ်ပွားစေတော်မူခဲ့လေသည်။တဖန်(အသင်တို့အဖို့) ကြာရှည်နေကြရန် နေရာတစ်ခု (မိခင်တို့၏သားအိမ်)လည်းရှိ၏။ ၎င်းပြင် ခေတ္တနေကြရန် နေရာတစ်ခု (သင်တို့၏ကျောက်ကုန်း)လည်းရှိ၏။ အမှန်စင်စစ်ငါအရှင်မြတ်သည် အသိဉာဏ် ရှိသောသူတို့အဖို့ (မိမိ)သက်သေသာဓကများကို အသေးစိတ် ရှင်းလင်းဖော်ပြတော်မူခဲ့ပြီးဖြစ်လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

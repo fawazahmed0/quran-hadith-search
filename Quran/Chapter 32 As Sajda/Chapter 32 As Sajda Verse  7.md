@@ -710,6 +710,12 @@ Koĭto sŭtvori sŭs sŭvŭrshenstvo vsyako neshto i nachena sŭtvoryavaneto na
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	အရှင်မြတ်သည် မိမိဖန်ဆင်းတော်မူသောအရာဝထ္ထုအလုံးစုံတို့ကို မင်္ဂလာဖြစ်စေတော်မူ၏၊ လူသားကို ရွှံ့စေးမှ စတင်ဖန်ဆင်းတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင် အရှင်မြတ်သည် မိမိဖန်ဆင်းတော်မူခဲ့သောအရာဝတ္ထုတိုင်းကို ကောင်းမွန်စွာ ပြုလုပ်ဖန်ဆင်း တော်မူခဲ့၏။ ၎င်းပြင် ထိုအရှင်မြတ်သည် လူသားအား ဖန်ဆင်းခြင်းကိုရွှံ့ညွန်ဖြင့်အစပြုတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

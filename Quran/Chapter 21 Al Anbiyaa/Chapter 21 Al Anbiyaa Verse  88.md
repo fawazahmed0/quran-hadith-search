@@ -710,6 +710,12 @@ I mu otkliknakhme Nie, i go spasikhme ot skrŭbta. Taka spasyavame vyarvashtite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၈။	ထိုအခါငါအရှင်မြတ်သည် သူ၏ဆုတောင်းပဋ္ဌနာကို ကြားတော်မူပြီးလျှင် သူ့အား ဘေးဒုက္ခမှ ကယ်နှုတ်တော် မူ၏၊ ငါသည် ယုံကြည်သူတို့အား ဤကဲ့သို့ပင်ကယ်တင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါဝယ် ငါအရှင်မြတ်သည် ၎င်း၏ (အသနားခံပန်ကြားချက်)ကို သဘောတူလက်ခံတော်မူ၍ ၎င်းအား(ပူပင်သောကဖြစ်ခြင်းမှ)ကယ်တင်တော်မူခဲ့၏။ စင်စစ်သော်ကား ငါအရှင်မြတ်သည် မုအ်မင်န် သက်ဝင်ယုံကြည်သူတို့အားဤနည်းနှင်နှင် ကယ်တင်လေ့ရှိတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

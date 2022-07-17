@@ -710,6 +710,12 @@ oblegnati tam na prestoli. Ne shte vizhdat tam ni znoĭ, ni mraz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။ နိဗ္ဗာန်ဥယျာဉ်တော်၌ မြင့်မားသောပလ္လင်တော်များတွင် လဲလျောင်းစံစားလျက် သူတို့သည် နေ၏အပူရှိန်ကို သော်လည်းကောင်း၊ အလွန်အပြင်း အေးမြသောဓာတ်ကိုသော်လည်းကောင်း တွေ့ကြံုကြရမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (၎င်းတို့သည်) ယင်း "ဂျန္နတ်" သုခဘုံ၌ သလွန်များထက်ဝယ် (မှီအုံးများကို) မှီ၍ ထိုင်နေကြပေမည်။ ၎င်းတို့သည် ယင်း "ဂျန္နတ်" သုခဘုံ၌ နေ၏ အပူအရှိန်ကိုလည်းကောင်း၊ ခံရခက်သော အအေးကိုလည်းကောင်း၊ တွေ့ရှိကြမည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Rekokha: “Nima ti ni nosish istinata, ili se sheguvash?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။	သူတို့က သင်သည် ငါတို့ထံသို့ သစ္စာတရားတော်ကို ယူခဲ့သလော၊ သို့မဟုတ် သင်သည် လူပျက်လောဟု မေးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့က(အို-အိဗ်ရာဟီမ်)အသင်သည် ကျွန်ုပ်တို့ထံ အမှန်ကို ယူဆောင်လာခဲ့လေသလော။ သို့တည်းမဟုတ် အသင်သည် ပြက်ချော်ပြောင်လှောင်သူတစ်ဦးပင် ဖြစ်လေသလောဟု ပြောဆိုခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

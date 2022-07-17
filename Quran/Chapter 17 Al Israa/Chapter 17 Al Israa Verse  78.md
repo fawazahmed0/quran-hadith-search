@@ -710,6 +710,12 @@ Ot·sluzhvaĭ molitvite ot zakhozhdaneto na slŭntseto do mraka na noshtta, i u
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၈။	သင်သည် နေ့လည်မွန်းလွဲအချိန်မှစ၍ ညနေမှောင်မိုက်လာသောအချိန်တိုင်အောင် ဆွလတ်ဝတ်ပြုလော့။ ထို့အပြင် နံနက်နေအာရုဏ်တက်အချိန်တွင် ဆွလတ်ဝတ်ပြု၍ ကုရ်အာန်ကျမ်းတော်ကြီးကို ရွတ်ဖတ်လော့။ အမှန်ကိုဆိုသော် နံနက် ကုရ်အာန်ကျမ်းတော်ကြီးကို ရွတ်ဖတ်ခြင်းကို အမြဲနားထောင်မှတ်သားထား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် နေမွန်းလွဲချိန်မှစ၍ ညဉ့်မှောင်ချိန်အထိ ဆွလာတ်ဝတ်ပြုမှုကို ဆောက်တည်ပါလေ။ ၎င်းပြင် မိုးသောက်ချိန် ဆွလာတ်ဝတ်ပြုမှုကို ဆောက်တည်ပါလေ။ ဧကန်မလွဲ မိုးသောက်ချိန် ဆွလာတ်ဝတ်ပြုမှုသည် (မလာအိကဟ် ကောင်းကင်တမန်များ) လာရောက်ချိန်ပင် ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

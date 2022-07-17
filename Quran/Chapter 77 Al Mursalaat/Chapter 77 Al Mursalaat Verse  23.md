@@ -710,6 +710,12 @@ I sme sposobni. I kak prekrasni sa sposobnite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။ ငါသည် ယင်းသို့စီမံခန့်ခွဲတော်မူ၏၊ ငါ၏ စီမံခန့်ခွဲခြင်းသည် အကောင်းဆုံးဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် ငါအရှင်မြတ်သည် စနစ်တကျ စီမံပြုပြင် ချိန်ဆခန့်မှန်းတော်မူခဲ့ရာ စင်စစ် (ငါအရှင်မြတ်သည်)အဘယ်မျှ ကောင်းမြတ်သော စီမံပြုပြင် ချိန်ဆ ခန့်မှန်းတော်မူသောအရှင်၊ ဖြစ်တော်မူပါ သနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

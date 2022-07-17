@@ -710,6 +710,12 @@ Shte imat tam, kakvoto pozhelayat, a pri Nas ima poveche
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	ဤနိဗ္ဗာန်ရွှေဘုံ၌ သူတို့လိုရာာအလုံးစုံကို ရရှိကြ၏၊ ထိုထက်ပိုမိုများပြားသောဆုလာဘ်တော်များသည် ငါ့အထံ တော်၌ ရှိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့အဖို့ ယင်း’ဂျန္နတ်’ သုခဘုံ၌ ၎င်းတို့ အလိုရှိကြသော အရာဟူ၍ ရှိရုံမျှမက ငါအရှင်မြတ် အထံတော်၌(ထိုထက်) အပိုကျေးဇူးတော်များလည်း ရှိချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

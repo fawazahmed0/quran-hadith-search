@@ -710,6 +710,12 @@ Slava na Allakh, Komuto prinadlezhi vsichko na nebesata i vsichko na zemyata! Ne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။	အလ္လာဟ်အရှင်မြတ်သည် ချီးမွမ်းခြင်းတည်ရာဖြစ်တော်မူ၏၊ ကောင်းကင်ဘုံနှင့် ကမ္ဘာမြေပေါ်တွင် ရှိသမျှအားလုံး တို့ကို သိမ်းရုံးစိုးပိုင်တော်မူ၏၊ နောင်တမလွန်ဘဝ၌ ချီးမွမ်းခြင်းသည် အရှင်မြတ်အဖို့သာလျှင်ဖြစ်၏၊ အရှင်မြတ် သည် ဉာာဏ်ပညာအလင်းရောင်တော်အရှင်၊ အကြွင်းမဲ့သိတော်မူသောအရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မိုးကောင်းကင်များ၌လည်းကောင်း၊ ပထဝီမြေ၌လည်းကောင်း၊ ရှိရှိသမျှသော (သက်ရှိသက်မဲ့)အရာဝတ္ထုအလုံးစုံတို့ကို ပိုင်ဆိုင်တော်မူသော အလ္လာဟ်အရှင်မြတ်သည်သာလျှင် ချီးမွမ်းထောပနာခြင်း အပေါင်းတို့ကို ခံယူထိုက်တော်မူ၏။ ထိုနည်းတူစွာ တမလွန်ဘဝ၌လည်း ထိုအရှင်မြတ်သည်သာလျှင် ချီးမွန်ထောပနာခြင်း အလုံးစုံတို့ကို ခံယူထိုက်တော်မူ၏။ အမှန်စင်စစ် ထိုအရှင်မြတ်သည်ပင် ဆင်ခြင်တုံ တရားနှင့်ပြည့်စုံတော်မူသောအရှင်၊ အကြွင်းမဲ့သိတော် မူသောအရှင်ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

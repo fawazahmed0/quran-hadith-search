@@ -710,6 +710,12 @@ Izostavete i yavniya gryakh, i skritiya! Koito pridobiyat gryakh, shte im bŭde 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၀။	အို-လူသားအပေါင်းတို့ သင်တို့သည် အပြင်အပြစ်နှင့် အတွင်းအပြစ်များကို ရှောင်ကြဉ်ကြလော့။ မှတ်သားကြလော့။ အကြင်သူတို့သည် အပြစ်ကို စုသိမ်းထားကြ၏။ ထိုသူတို့သည် သူတို့ ဆည်းပူး သောအကျိုးဆက်ကိုပေးခြင်း ခံကြရလတ္တံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် ထင်ရှားသော ပြစ်မှုဒုစရိုက်ကိုလည်းကောင်း၊ ဖုံးအုပ်လျက်ရှိသော ပြစ်မှုဒုစရိုက်ကိုလည်းကောင်း၊(တစ်နည်း)ထင်ရှားစွာပြုသော အပြစ်ကိုလည်းကောင်း၊ လျှို့ဝှက် စွာပြုသောအပြစ်များကိုလည်းကောင်း၊(တစ်နည်း)အပြစ်ထင်ရှား သောဒုစရိုက်များကို လည်းကောင်း၊အပြစ်မထင်ရှားသောဒုစရိုက်များကိုလည်း ကောင်း၊(တစ်နည်း) ကာယဝစီဒုစရိုက်ကိုလည်းကောင်း၊မနော ဒုစရိုက်ကိုလည်းကောင်း၊ စွန့်လွှတ်ကြလေကုန်။ ဧကန်စင်စစ် ပြစ်မှုဒုစရိုက်တို့ကို ဆည်းပူးကြကုန်သောသူတို့သည်မကြာမြင့်မီ၊ မိမိတို့ပြုလုပ်ကျူးလွန်စုဆောင်းခဲ့သည်တို့၏အကျိုးကို ခံစားကြရလတ္တံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

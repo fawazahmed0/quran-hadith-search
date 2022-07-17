@@ -710,6 +710,12 @@ Vladetelya na Trona, Predostoĭniya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။ မင်္ဂလာကျက်သရေကြီးလှစွာသောရာဇပလ္လင်တော်ကြီး၏ အရှင်သခင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အရ်ရှ်" ပလ္လင်တော်ကို စိုးပိုင်တော်မူသောအရှင်၊ အထူးဂုဏ်ကျက်သရေနှင့် ပြည်စုံတော်မူသောအရှင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

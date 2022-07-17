@@ -710,6 +710,12 @@ Ala za men Toĭ e Allakh, moyat Gospod, i ne sŭdruzhavam nikogo s moya Gospod
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	သို့သော်အရှင်မြတ်သည် အကျွနု်ပ်၏ အရှင်သခင်ဖြစ်တော်မူပါ၏။ အကျွနု်ပ်သည် မိမိ၏ ကျေးဇူးတော်သခင်အား ဖက်စပ်သူမပေးချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ကျွန်ုပ်မူကား ထိုအရှင်မြတ်သည်ကျွန်ုပ်အား ဖန်ဆင်းမွေးမြူ တော်မူသောအလ္လာဟ် အရှင်မြတ်ပင်ဖြစ်တော်မူသည်။ ၎င်းပြင် ကျွန်ုပ်သည် မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်နှင့် မည်သူတစ်ဦးတစ်ယောက်ကိုမျှ တွဲဖက်နှိုင်းယှဉ် ကိုးကွယ်သည် လည်းမဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

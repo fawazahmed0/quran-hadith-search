@@ -710,6 +710,12 @@ Toĭ opustoshava vsyako neshto po volyata na svoya Gospod. A ot tyakh ostanakha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	ထိုလေသည် မိမိ၏အရှင်သခင်၏ အမိန့်တော်အတိုင်း ခပ်သိမ်းကုန်သောအရာဝထ္ထုတို့ကို တိုက်ခတ်ဖျက်ဆီး၏၊ ထို့နောက်နံနက်ကျရောက်သောအခါ သူတို့နှင့်တကွ ဘာကိုမျှမမြင်ရချေ၊ သို့သော်သူတို့၏ တိုက်ပျက်အိမ်ပျက် များကိုသာ မြင်ရ၏၊ ယင်းကဲ့သို့ငါသည် ဒုစရိုက်ကောင်များကို ဆုလာဘ်ပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုလေကား မိမိအား ဖန်ဆင်းတော်မူသော အရှင်မြတ်၏အမိန့်တော်နှင့် အရာခပ်သိမ်းတို့ကို ဖျက်ဆီးပေမည်။ ထို့နောက် ထိုသူတို့မှာ ၎င်းတို့ နေအိမ်များမှတပါး အခြားတစ်စုံတစ်ရာကိုမျှ မမြင်ရလေသောအဖြစ်သို့ ရောက်သွားခဲ့ကြကုန်၏။ ငါအရှင်မြတ်သည် အပြစ်ရှိသူတို့အား ထိုနည်းအတိုင်းပင် အစားပေးတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

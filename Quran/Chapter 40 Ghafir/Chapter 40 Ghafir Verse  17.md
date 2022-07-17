@@ -710,6 +710,12 @@ Dnes shte se vŭzdade na vsyaka dusha za onova, koeto e pridobila. Nyama Dnes ug
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	ထိုနေ့တော်ကြီး၌ ဝိညာဉ်တိုင်းသည် မိမိပြုကျင့်ခဲ့သောအမှုအခင်းအတိုင်း ကောင်းကျိုးဆိုးကျိုးကို ခံစားရ၏၊ ထိုနေ့တော်ကြီး၌ မတရားမှု၊ နိုင်ထက်စီးနင်းညှင်းပန်းနှိပ်စက်မှုလုံးဝမရှိချေ၊ အကြောင်းမူကား အလ္လာဟ်အရှင် မြတ်သည် စစ်ကြောစီရင်ခြင်းတွင် အလွန်လျင်မြန်မှန်ကန်သောကြောင့်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယနေ့သော်ကား လူတိုင်းလူတိုင်းသည် မိမိတို့ ရှာဖွေဆည်းပူးခဲ့သမျှနှင့်စပ်လျဉ်း၍ အစားပေးခြင်းကို ခံကြရပေမည်။ ယနေ့ မတရားပြုလုပ်မှုဟူ၍ကား အလျင်းမရှိပြီ။ဧကန်အမှန် အလ္လာဟ်အရှင်မြတ်သည် လျင်မြန်စွာ စောကြောစစ်ဆေးတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

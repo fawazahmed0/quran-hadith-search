@@ -710,6 +710,12 @@ Reci onima koji ne vjeruju: "Bit ćete pobijeđeni i u džehennemu okupljeni, a 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	အို...မိုဟမ္မဒ် သင်သည် အယူမှားသူတို့အား ဟောကြားလော့။ ဟယ်-အချင်းတို့ သင်တို့ကို နှိမ်နင်းပြီးလျှင် ငရဲထဲတွင် စုဆောင်းလတ္တံ့။ ငရဲသည် အလွန်ဆိုးဝါးသော နေရာထိုင်ခင်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (ယင်း) မယုံမကြည် သွေဖည်ငြင်းပယ်ကြကုန်သော ကာဖိရ်တို့ကိုပြောကြားပါလေ။ မကြာမီအတွင်း အသင်တို့သည် (ဤပစ္စုပ္ပန်မျက်မှောက်ဘဝတွင်လည်းမုစ်လင်မ်တို့၏) နိုင်နင်းလွှမ်းမိုးခြင်းကို ခံကြရကုန်အံ့။ ၎င်းပြင် (နောင်တမလွန်ဘဝတွင်လည်း)ဂျဟန္နမ် ငရဲဘုံ၌ စုရုံးစေခြင်းကို ခံကြရကုန်အံ့။ စင်စစ်ထို(ငရဲဘုံတည်းဟူသော) နေရာထိုင်ခင်းသည် အလွန် ယုတ်ညံ့သိမ်ဖျင်းလှစွာတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

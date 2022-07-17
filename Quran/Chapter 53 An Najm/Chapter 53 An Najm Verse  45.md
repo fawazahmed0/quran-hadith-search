@@ -710,6 +710,12 @@ i Toĭ sŭzdava dvoĭkite - mŭzhko i zhensko
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	ထို့အပြင်အရှင်မြတ်သည် ဖိုမလင်မယားစုံတွဲကို ဖန်ဆင်းတော်မူကြောင်းလည်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ထိုအရှင်မြတ်သည်ပင် ဖိုနှင့်မ နှစ်မျိုးနှစ်စားလုံးကို ဖန်ဆင်းတော်မူခဲ့သည် ဟူ၍ လည်းကောင်း၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

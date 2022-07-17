@@ -710,6 +710,12 @@ I sŭzdavame tam gradini s palmi i grozde, i storvame tam da bliknat izvori
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	ထို့အပြင်ပထဝီမြေကြီးပေါ်တွင် စွန်ပလွန်၊ သပြက်စသောဥယျာဉ်များကို ဖန်ဆင်းတော်မူ၏၊ ထိုဥယျာဉ်များတွင် စိမ့်စမ်းရေကို ချောင်းမြောင်းအသွယ်သွယ်တို့တွင် အယဉ်ထွေထွေစီးဆင်းလျက်နေစေ၏၊
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ယင်းမြေ၌ စွန်ပလွံခြံများကိုလည်းကောင်း၊ စပျစ်ခြံများကိုလည်းကောင်း၊ စီရင်ပြုလုပ်တော်မူခဲ့သည်သာမက ယင်းမြေ၌ စိမ့်စမ်းများကိုလည်း စီးဆင်းစေတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

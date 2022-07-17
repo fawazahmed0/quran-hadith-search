@@ -710,6 +710,12 @@ i shte mu dade prepitanie ottam, otkŭdeto ne e predpolagal. I koĭto se upovav
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။ ထိုအပြင် ထိုသူ မမျှော်လင့်သောဘက်မှ ကျေးဇူးတော်ကို ချပေးသနားတော်မူလိမ့်မည်၊ အကြင်သူသည် အလ္လာဟ်အရှင်မြတ်အား ယြုံကည်ကိုးစားအံ့၊ ထိုသူအတွက် အရှင်မြတ်သည် လုံလောက်တော်မူမည်၊ အလ္လာဟ်အရှင်မြတ် သည် မိမိအမိန့်တော်ကိုအမှန်ပင် တည်စေတော်မူ၏၊ စင်စစ်အားဖြင့် အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ အတွက် သင့်လျော်သော အတိုင်းအထွာကို စီရင်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် ထိုသူအား ထိုသူ မထင်သောနေရာမှ စားနပ်ရိက္ခာကို ချီးမြှင့် ပေးသနားတော်မူပေမည်။ ထိုမှတစ်ပါး မည်သူမဆို အလ္လာဟ်အရှင်မြတ်အပေါ်၌ ယုံကြည်အားထားပါမူ ထိုအရှင်မြတ်သည် ထိုသူ၏အဖို့ လုံလောက်တော်မူ၏။ ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် မိမိအရေးကိစ္စကို ပြီးမြောက်အောင် ပြုလုပ်ပေးတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။ စင်စစ်ဧကန် အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့နှင့်စပ်လျဉ်း၍ အတိုင်းအတာ အချိန်အဆတစ်ခုကို ပြုလုပ်၍ ထားရှိတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

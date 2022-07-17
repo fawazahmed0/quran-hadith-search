@@ -710,6 +710,12 @@ Tova e Allakh, vashiyat Gospod! Nyama drug bog osven Nego - Tvoretsa na vsyako n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၂။	သင်တို့၏ ကျေးဇူးတော်သခင်၊ အလ္လာဟ်အသျှင်မြတ်သည် ယင်းကဲ့သို့ဖြစ်တော်မူ၏။ ခပ်သိမ်းကုန် သောအရာတို့ကို ဖန်ဆင်းတော်မူသော အသျှင်သခင်မှတစ်ပါး အလ္လာဟ်အသျှင်မရှိပေ။ ထို့ကြောင့် အသျှင်မြတ်အား ခဝပ်ကိုးကွယ်ကြလော့။ အသျှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို ထိန်းသိမ်း စောင့်ရှောက်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤသည်) ထိုအရှင်မြတ်သည်ပင်လျှင် အသင်တို့အား မွေးမြူဖန်ဆင်းတော်မူသောအလ္လာဟ် အရှင်မြတ်ပင်တည်း။ ထိုအရှင်မြတ်မှတပါး ခဝပ်ကိုးကွယ်ရာအရှင်မရှိပြီ။(ထိုအရှင်မြတ်သည်) အရာခပ်သိမ်းတို့ကို ဖန်ဆင်းတော်မူသောအရှင်ဖြစ်တော်မူ၏။ သို့ဖြစ်ပေရာ အသင်တို့သည် ထိုအရှင်မြတ်ကိုသာခဝပ်ကိုးကွယ်ကြလေကုန်။ စင်စစ်သော် ကားထိုအရှင်မြတ်သည်ပင်လျှင် အရာခပ်သိမ်းတို့ကို စီမံခန့်ခွဲပြီးငြိမ်းစေတော်မူသောအရှင်မြတ် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

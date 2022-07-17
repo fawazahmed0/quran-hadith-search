@@ -710,6 +710,12 @@ I se otvŭrna ot tyakh, i reche: “O, kak mi e zhal za Yusuf!” I pobelyakha o
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၄။	ထို့နောက်သူသည် သားတို့ထံမှ လှည့်သွားပြီးလျှင် ဒုက္ခကြီးလေစွ။ ယူစွတ်(ဖ်)အတွက် ငါအပူကြီးလေစွဟု ညည်းညူ၏။ သူ၏ မျက်စိများသည် မိမိမျိုသိပ်ထားသောပူဆွေးခြင်းကြောင့် ဖြူလာကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက်၊ ထိုခမည်းတော်သည် ၎င်းတို့ဘက်မှမျက်နှာလွှဲခဲ့ပြီးလျှင် ဪ-ယူဆွဖ်၊ ဖြစ်မှဖြစ်ရလေခြင်းဟုပြောဆို(ညည်းညူ)ခဲ့လေသည်။ ၎င်းပြင် ယင်း၏မျက်စိနှစ်လုံးတို့မှာလည်း ဝမ်းနည်းပူဆွေးမှုကြောင့် ဖြူ၍သွားခဲ့လေသည်။သို့တစေလည်း ယင်းသည်(မိမိ)မျိုသိပ်လျက် ရှိနေခဲ့ရရှာလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

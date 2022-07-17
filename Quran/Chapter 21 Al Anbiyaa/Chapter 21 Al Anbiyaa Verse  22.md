@@ -710,6 +710,12 @@ Nebesata i zemyata shtyakha da se razrushat, ako imashe na tyakh drugi bogove os
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	အကယ်၍ကမ္ဘာမြေကြီးအပေါ်ဝယ် အလ္လာဟ်အရှင်မြတ်မှတပါး အခြားဘုရားများရှိခဲ့လျှင် မိုးကောင်းကင်နှင့် ကမ္ဘာမြေကြီးသည် ဖရိုဖရဲဖြစ်ရာ၏၊ ရာဇပလ္လင်တော်ကြီးအရှင်၊ အလ္လာဟ်အရှင်မြတ်သည် မိစ္ဆာဒိဌိတို့စွပ်စွဲသော အညစ်အကြေးများမှ သန့်ရှင်းစုံလင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍သာ ယင်း(မိုးကောင်းကင်နှင့်ပထဝီမြေ)နှစ်ခုတွင် အလ္လာဟ်အရှင်မြတ်အပြင် အခြား(ထာဝရတည်ရှိသော)ကိုးကွယ်ရာများရှိခဲ့ကြပါမူ(မိုးကောင်းကင်နှင့်ပထဝီမြေ)နှစ်ခုစလုံးမှာ မလွဲဧကန် ပျက်စီးခဲ့ပြီးဖြစ်ကြပေမည်။ စင်စစ်သော်ကား အရ်(ရှ်)ပလ္လင်တော်ကို စိုးပိုင်တော်မူသော အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့ ကြံဖန် စွပ်စွဲကြသည်တို့မှ (လုံးဝ)စင်ကြယ်သန့်ရှင်း အပြစ်ကင်းတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

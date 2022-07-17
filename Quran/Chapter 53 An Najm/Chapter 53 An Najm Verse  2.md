@@ -710,6 +710,12 @@ ne se e zabludil vashiyat spŭtnik [Mukhammad] i ne se e otklonil
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	သင်တို့၏ အဆွေတော်သည် အယူလွဲသူမဟုတ်၊ အလိမ်ခံရသူလည်းမဟုတ်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့၏အဖော် (တမန်တော်မြတ် မုဟမ္မဒ်)သည် လမ်းလွဲနေသည်လည်း မဟုတ်ပေ။ လမ်းမှားကို လိုက်ခဲ့သည်လည်း မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

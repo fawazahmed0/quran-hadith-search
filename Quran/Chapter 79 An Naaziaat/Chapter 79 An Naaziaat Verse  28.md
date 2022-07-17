@@ -710,6 +710,12 @@ Vŭzdigna negoviya svod i go izravni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။ အရှင်မြတ်သည် ကောင်းကင်၏ မျက်နှာကျက်ကို မြင့်စွင့်စွာတင်မြှောက်ထားတော်မူ၏၊ ကောင်းကင်ကိုကျစ်လျစ်သပ်ရပ်စွာဖန်ဆင်းထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် ယင်းမိုးကောင်းကင်၏ မျက်နှာကျက်ကို မြင့်စွင့်စွာပြုလုပ်တော်မူခဲ့၏။ တစ်ဖန် ယင်းမိုးကောင်းကင်ကို အပြစ်အနာ ကင်းရှင်းစွာ ပြုလုပ်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

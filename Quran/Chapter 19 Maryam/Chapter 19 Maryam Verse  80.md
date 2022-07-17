@@ -710,6 +710,12 @@ I shte nasledim ot nego onova, za koeto govori, i shte doĭde toĭ pri Nas sam
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈ဝ။	ထိုအပြင်ငါသည် သူပြောဆိုသောဥစ္စာပစ္စည်းသားသမီးအခြွေအရံများကို သူ့ထံမှ အမွေခံတော်မူမည်၊ သူသည် ငါ့ထံသို့ ဥစ္စာပစ္စည်းသားသမီးတစုံတခုမှ မပါပဲ တကိုယ်တည်းလာရမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုသူပြောဆိုသည့်အရာများကို ငါအရှင်မြတ်သည်သာလျှင် ပိုင်ဆိုင်တော်မူပေမည်။ ထို့နောက်၎င်းသည် ငါအရှင်မြတ်အထံတော်သို့ တစ်ကိုယ်တည်းပင်ရောက်ရှိလာအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

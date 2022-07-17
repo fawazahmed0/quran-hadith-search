@@ -710,6 +710,12 @@ Reche [Allakh]: “O, Nukh, toĭ [veche] ne e ot tvoeto semeĭstvo. Negovoto d
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။	အရှင်မြတ်က နူဟို၊ မှတ်သားလော့၊ သူသည် သင်၏ အိမ်သားအထဲမှ မဟုတ်ချေ၊ သူသည် အကျင့်စာရိတ္တ ဆိုးဝါးသူအမှန်ဖြစ်၏။ ထို့ကြောင့်ငါ့အထံတော်မှ သင်မသိသောအရာကို မတောင်းလင့်၊ ငါသည် သင့်အား အသိဉာာဏ်ကင်းမဲ့သူမဖြစ်စိမ့်သောငှာ ဆုံးမသွန်သင်တော်မူ၏ဟု ဗျာဒိတ်ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် (ဤသို့)ပြန်ကြားတော်မူခဲ့လေသည်။ အို-နူဟ်၊ ဧကန်စင်စစ် ယင်းသားသည် အသင်၏အိမ်သားတို့အနက်မှမဟုတ်ပေ။ ဧကန်မလွဲ ၎င်းသည်မကောင်းမှုကို ပြုမူကျင့်ဆောင်သောသူပင်ဖြစ်ပေသည်။ သို့ဖြစ်ပေရာ အသင်သည် မိမိမသိသောအရာကို ငါအရှင်မြတ်အထံတော်တွင် လျှောက်ထားခြင်းမပြုပါလေနှင့်။ မုချစင်စစ် ငါအရှင်မြတ်သည် အသင့်အား(အနာဂတ်တွင်)အသင်သည် မသိသူတို့နှင့် အပါအဝင်မဖြစ်ရန် ဆုံးမတော်မူသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

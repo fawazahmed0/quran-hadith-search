@@ -710,6 +710,12 @@ I ako tezi te vzimat za lŭzhets [o, Mukhammad], to i predi tyakh narodŭt na Nu
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	အို--မိုဟမ္မဒ်၊ သူတို့သည် သင့်ကို မယုံကြည်ငြင်းပယ်လျှင် သင့်အထက်ပွင့်လေပြီးသောငါ၏တမန်တော်များ ကိုလည်း တမန်တော်နူဟို၏လူများ၊ အားဒ်လူမျိုးများနှင့် စမူးဒ်လူမျိုးများသည် ငြင်းဆန်ခဲ့ပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်အကယ်၍ ၎င်းတို့သည် အသင့်အား မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်ကြပါလျှင် (ယင်းသို့ ငြင်းပယ်ခြင်းကား အထူးအဆန်းမဟုတ်ပေ)။ ဧကန်မလွဲ ထိုသူတို့ထက်အလျင် (နဗီတမန်တော်)နူဟ်၏ အမျိုးသားတို့သည်လည်းကောင်း၊ အာဒ်၏အမျိုးသားတို့သည် လည်းကောင်း၊ဆမူဒ်၏အမျိုးသားတို့သည် လည်းကောင်း၊ မဟုတ်မမှန်ဟူ၍ငြင်းပယ်ခဲ့ကြပြီး ဖြစ်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

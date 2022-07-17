@@ -710,6 +710,12 @@ Naĭ-dobre Nie znaem kakvo chuvat, kogato te slushat [skrishom] i kogato si she
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	သင့်ကို သူတို့နားထောင်သောအခါ သူတို့သည် အဘယ်အရာကို ကြားနာချင်ကြသည်ကို ငါအရှင်မြတ်ကောင်းစွာ သိတော်မူ၏။ သူတို့အချင်းချင်း တိတ်တဆိတ်တိုင်ပင်နှီးနှောသောအခါ မကောင်းမှုပြုကျင့်သူတို့က သင်တို့သည် စုံးပူးနေသောသူကိုသာ လိုက်နာကြ၏ဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့သည် အသင်ဘက်သို့ နားစွင့်ကြ၍မည်သည့်အကြောင်းကြောင့် (ယင်းကုရ်အာန်ကျမ်းတော် ကို)နားထောင်ကြသည်ကိုလည်းကောင်း၊ ထိုမှတစ်ပါး ထိုသူတို့သည်(အချင်းချင်း)လျှို့ဝှက်စွာ ပြောဆိုတိုင်ပင်ကြသောအခါ အသင်တို့သည် စုန်းပြုစားခြင်းခံရသောသူ၏ နောက်သို့လိုက်နေကြသည် ဟု ပြော ဆိုကြသည်ကိုလည်းကောင်း၊ ငါအရှင်မြတ်သည်ကောင်းစွာ သိရှိတော်မူသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

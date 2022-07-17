@@ -710,6 +710,12 @@ To e zaradi onova, koeto s tvoite rŭtse predi si storil. Allakh ne ugnetyava ra
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	ထိုအခါသူ့အား အမိန့်တော်မူမည်မှာ ဤဒဏ်တော်သည် နင်၏လက်နှစ်ဘက်တင်ကြိုပို့ထားသောပြုကျင့်မှု အတွက်ဖြစ်၏၊ အကြောင်းမူကားအလ္လာဟ်အရှင်မြတ်သည် မိမိ၏ကျေးကျွန်များကို မတရားနှိပ်စက်ကလူ ပြုတော်မူသောအရှင်မဟုတ်သောကြောင့်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသို့ဖြစ်ရခြင်းမှာ အသင်၏လက်နှစ်ဖက်သည် တင်ကူး၍ပို့ခဲ့သော(ပြစ်မှုဒုစရိုက်များ)ကြောင့်ပင်။ အမှန်စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် (မိမိ)ကျွန်များအားနှိပ်စက်ကလူ ပြုတော်မူသောအရှင် မဟုတ်ပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

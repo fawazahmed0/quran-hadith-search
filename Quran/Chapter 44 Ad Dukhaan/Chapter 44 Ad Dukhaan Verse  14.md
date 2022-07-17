@@ -710,6 +710,12 @@ a te se otmetnakha ot nego i rekokha: “Toĭ e poduchen, lud.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။ သို့ပါလျက် ထိုသူတို့သည် ထိုတမန်တော်ကို မျက်နှာလွှဲကျောခိုင်းကြပြီးလျှင် သူတပါးသင်ကြားခြင်းခံရသော အရူးသာတည်းဟူ၍ ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက်သော်မှပင် ၎င်းတို့သည် ထိုရစူလ်တမန်တော်ဘက်မှ မျက်နှာလွှဲခဲ့ကြကုန်၏။ ထိုမှတစ်ပါး ၎င်းတို့က (ရစူလ်တမန်တော်အား သူတစ်ပါး)သင်ကြား ပို့ချ၍ပေးခြင်းကို ခံရသောသူ(ဟူ၍လည်းကောင်း၊) ရူးသွပ်နေသောသူ(ဟူ၍လည်းကောင်း၊) စွပ်စွဲ ပြောဆိုခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

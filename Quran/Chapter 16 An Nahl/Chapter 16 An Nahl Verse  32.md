@@ -710,6 +710,12 @@ na koito - prechisti - angelite pribirat dushite. Shte im kazhat: “Mir vam!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	သူတော်ကောင်းဘဝတွင် မိမိတို့၏ အသက်ဝိညာဉ်များကို ကောင်းကင်တမန်တော်များ၊ နှုတ်ယူသောသူများ၊ သူတို့အား အို-သူတော်ကောင်းအပေါင်းတို့၊ အေးချမ်းသာယာမှုသည် သင်တို့အပေါ်သို့ သက်ရောက်ပါစေ သော်ဝ်။ သင်တို့ပြုကျင့်သောကုသိုလ်ကောင်းမှုအဟုန်ကြောင့် နိဗ္ဗာန်ဥယျာဉ်တော်ကြီးကို ဝင်ရောက်ကြပါလော့ဟု ပြောဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူ(တော်စင်)တို့အား မလာအိကဟ်ကောင်းကင်တမန်တို့သည် ၎င်းတို့၏အသက်ကို(၎င်းတို့) သန့်ရှင်းစွာရှိနေကြစဉ် နှုတ်ယူကြလေသည်။ (၎င်းပြင်) ထိုမလာအိကဟ် ကောင်းကင်တမန်များက (ထိုသူတော်စင်တို့အားအသက်နုတ်ယူစဉ်အခါ၌ (စလာမွန်အလိုက်ကွန်မ်) ငြိမ်းချမ်းမှုသည် အသင်တို့အပေါ်၌ရှိပါစေသား။ အသင်တို့သည် မိမိတို့ကျင့်မူခဲ့ကြသော(ကောင်းမှုသုစရိုက်များ)ကြောင့်ပင် ဂျန္နတ်အမတသုခဘုံသို့ ဝင်ရောက်ကြလေကုန်ဟု ပြောဆိုကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

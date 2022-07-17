@@ -710,6 +710,12 @@ I vmesto na Allakh te sluzhat na onova, na koeto Toĭ ne e dal dovod, i na onov
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၁။	ထို့အပြင်မိစ္ဆာမိုက်တို့သည် အရှင်မြတ်မှတပါး ဘုရားတုကို ကိုးကွယ်ဆည်းကပ်ကြသည်၊ ယင်းသို့ပြုလုပ်ရန် သူတို့မှာ အကိုးအကားတစ်စုံတစ်ရာမရှိချေ၊ ထို့အပြင်သူတို့သည် မိမိတို့၏ဘုရားပျက်အကြောင်းကို တစ်စုံတစ်ရာ မသိရှိကြချေ၊ အကြောင်းမူကားဒုစရိုက်မကောင်းမှုကို ကျူးလွန်သူများအဖို့အရာ ကူညီစောင်မသူလုံးဝမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ်အား စွန့်၍ အကြင်အရာများကို ကိုးကွယ် ဆည်းကပ်ကြကုန်၏။ ထိုအရှင်မြတ်သည် ယင်းအရာများ(ကို ကိုးကွယ်နိုင်ခွင့်ရှိကြောင်းနှင့်စပ်လျဉ်း၍) မည်သည့်သက်သေခံ တစ်စုံတစ်ရာကိုမျှ ချပေးတော်မူခဲ့သည်မရှိပေ။ ယင်းအရာများ(ကိုကိုးကွယ် ဆည်းကပ်မှု)နှင့် စပ်လျဉ်း၍ ၎င်းတို့၌ မည်သည့်အသိပညာ အထောက်အထား တစ်စုံတစ်ရာမျှလည်း မရှိချေ။၎င်းပြင် မတရားသောသူတို့အား ကူညီစောင့်မမည့်သူ ဟူ၍လည်း တစ်ဦးတစ်ယောက်မျှ ရှိလိမ့်မည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

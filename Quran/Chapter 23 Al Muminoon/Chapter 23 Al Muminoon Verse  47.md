@@ -710,6 +710,12 @@ I rekokha: “Nima da povyarvame na dvama kato nas, shtom khorata im sa nashi sl
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	ထို့အပြင်သူတို့က အကျွနု်ပ်တို့သည် မိမိတို့ကဲ့သို့သောသေမျိုးနှစ်ဦးကို ယုံကြည်ရမည်လော၊ သူတို့၏ အမျိုးသား တို့သည် ငါတို့၏ကျေးကျွန်သာဖြစ်ကြ၏ဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့အတွက်ကြောင့်ပင် ၎င်းတို့သည်(ဤသို့) ပြောဆိုခဲ့ကြကုန်၏။ ကျွန်ုပ်တို့သည် မိမိတို့ကဲ့သို့သော လူသားနှစ်ဦးကိုပင် ယုံကြည်ကြရမည်လော။ စင်စစ်သော်ကား ၎င်းတို့နှစ်ဦး၏အမျိုးသားတို့မှာ ကျွန်ုပ်တို့၏လက်အောက်ခံ ကျေးကျွန်များပင် ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

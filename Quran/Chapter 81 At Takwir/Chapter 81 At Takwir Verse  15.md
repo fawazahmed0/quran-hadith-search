@@ -710,6 +710,12 @@ O, kŭlna se v zalyazvashtite planeti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၊၁၆၊၁၇၊၁၈။ အို-လူသားအပေါင်းတို့၊ ဂြိုဟ်၊ ထွက်ဝင်သောကြယ်နက္ခတ်တာရာအလုံးကိုသော်လည်းကောင်း၊ ကွယ်ပျောက်သွားသည့်ညဉ့်ကိုသော်လည်းကောင်း၊ ညအမိုက်အမှောင်ကို ဖယ်ရှားသည့်မိုးသောက်အာရုဏ်ကိုသော် လည်းကောင်း၊ ငါသက်သေထူတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ငါ အရှင်မြတ်သည် အကြင် နောက်ဆုတ်တတ်သော နက္ခတ်တို့ကို သက်သေထူတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

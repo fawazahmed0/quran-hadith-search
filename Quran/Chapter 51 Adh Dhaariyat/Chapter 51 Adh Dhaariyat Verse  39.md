@@ -710,6 +710,12 @@ I se otvŭrna toĭ sŭs svoyata opora, i kaza: “Mag’osnik ili lud.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	သို့သော် ဖွာရောဘုရင်သည် မာန်စောင်ပလွှား မိမိစွမ်းအားကို ယုံကြည်ကိုးစား၍ တမန်တော်ကို ငြင်းဆန်ပြီးလျှင် ပယောဂဆရာ(သို့မဟုတ်) ရူးသွပ်သောသူဟု ပုတ်ခတ်စွပ်စွဲ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ‘ဖစ်ရ်အောင်န်’မှာ မိမိစွမ်းအင်ကိုအားကိုး၍ မျက်နှာလွှဲခဲ့၏။ (မိမိ၏အခြွေအရံ အသင်း အပင်းများနှင့်အတူ သွေဖည် ကျောခိုင်းသွားခဲ့၏။) ထို့ပြင် ၎င်းကတမန်တော်(မူစာအား) ပဉ္စလက်ဆရာ သို့မဟုတ် ရူးသွပ်သူဖြစ်သည်ဟူ၍ ပြောဆိုခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

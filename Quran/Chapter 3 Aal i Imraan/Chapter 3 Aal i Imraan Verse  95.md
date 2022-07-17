@@ -710,6 +710,12 @@ Kazhi: “Allakh kazva istinata! I sledvaĭte vyarata na Ibrakhim, pravoverniya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၅။	တမန်တော် ဟောကြားလော့။ ဟယ် အချင်းတို့ အလ္လာဟ်အသျှင်မြတ်သည် အမှန်ကို မိန့်တော်မူ၏။ ထို့ကြောင့် ဖြောင့်မတ်မှန်ကန်သော တမန်တော်အီဗရာဟီမ်၏ဘာသာပယူဝါဒကို ယုံကြည်လိုက်နာ ကြလော့။ သူသည် ဆင်းတုကို ကိုးကွယ်သူတို့ဘောင်တွင် မပါဝင်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (ယင်းယဟူဒီ တို့အား ဤသို့) ပြောကြားပါလေ။ (ဟယ်-ယဟူဒီအပေါင်းတို့) အလ္လာဟ်အရှင်မြတ်ကမူ ဟုတ်တိုင်းမှန်ရာမြွက်ဟမိန့်ကြားတော် မူခဲ့ချေပြီ။ သို့ဖြစ်ပေရာ အသင်တို့သည်ဖြောင့်မတ်တည်ကြည် သော (နဗီတမန်တော်) အစ်ဗ်ရာဟီမ်(အလိုင်ဟစ္စလာမ်)၏ (အစ္စလာမ်) သာသနာကိုပင်လိုက်နာကြလေကုန်။စင်စစ်သော် ကား ယင်းနဗီတမန်တော(အစ်ဗ်ရာဟီမ် အလိုင်ဟစ္စလာမ်)သည် အခြားတစုံတရာကို အလ္လာဟ်အရှင်မြတ်နှင့် တွဲဖက်ကိုးကွယ်သူ များအနက်မှလည်း အပါအဝင်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

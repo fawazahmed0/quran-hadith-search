@@ -710,6 +710,12 @@ I ot nego imat drugi oblagi, i za piene. Ne shte li bŭdat priznatelni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၃။	ထို့အပြင်လူသားတို့သည် ထိုတိရိစ္ဆာန်များမှ အခြားများမြောင်သောအကျိုးစီးပွားကိုလည်း ရရှိကြ၏၊ သောက် စရာနို့ရည်ကိုလည်း ရရှိကြ၏၊ သူတို့သည် ငါ၏ ကျေးဇူးတော်ကို အဘယ်ကြောင့်မချီးမွမ်းကြသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ထိုသူတို့အဖို့ ယင်းတိရစ္ဆာန်များ၌(အခြား) အကျိုးကျေးဇူးများသည် လည်းကောင်း၊ သောက်သုံးဖွယ်ရာများသည် လည်းကောင်း၊ ရှိကြပေသည်။ သို့ပါလျက် ၎င်းတို့သည် ကျေးဇူးမတင်ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

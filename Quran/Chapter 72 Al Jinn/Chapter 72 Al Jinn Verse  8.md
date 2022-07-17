@@ -710,6 +710,12 @@ I dosegnakhme nebeto, i otkrikhme, che e pŭlno sŭs silna strazha i s izgaryash
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။ ထို့အပြင် ကုရ်အာန်ကျမ်းမြတ်ကို ကြားနာဖူးသော နတ်သားတို့ပြောဆိုကြသည်မှာ ငါတို့သည် အထက်ကောင်း ကင်ဘုံကို ရှာကြ၏၊ သို့သော်ထိုကောင်းကင်ကို ခက်ထန်ကြမ်းကြုတ်သောအစောင့်အရှောက်နှင့်တကွ ရဲရဲညီး သော မီးလက်နက်ဥက္ကာတို့ဖြင့် ပြည့်နှက်နေသည်ကို ငါတို့တွေ့မြင်ခဲ့ရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ဧကန်စင်စစ် ကျွန်ုပ်တို့သည် မိုးကောင်းကင်ကို စူးစမ်းခဲ့ကြရာ ယင်းမိုးကောင်းကင်ကို ကျွန်ုပ်တို့သည် သန်စွမ်းသော အစောင့်အကြပ်တို့ဖြင့်လည်းကောင်း၊ မီးကျီမီးခဲတို့ဖြင့် ပြည့်နှက်စွာ တွေ့ရှိ ခဲ့ကြရကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

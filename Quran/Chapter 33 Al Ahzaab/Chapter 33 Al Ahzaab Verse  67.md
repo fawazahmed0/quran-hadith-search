@@ -710,6 +710,12 @@ I shte rekat: “Gospodi nash, pokoryavakhme se na svoite upravnitsi i golemtsi,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၇။	ထို့အပြင်သူတို့က အို-အကျွနု်ပ်တို့၏အရှင်သခင်၊ အကျွနု်ပ်တို့သည် မိမိတို့၏ဘုရင်များ၊ အကြီးအကဲများ၏ စကားကို နားထောင်မိခဲ့ပါပြီ၊ ထိုသူတို့သည် အကျွနု်ပ်တို့အား သမ္မာတရားလမ်းတော်မှ သွေ၍ သွားစေပါ၏ဟု တင်လျှောက်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတပါး ၎င်းတို့သည် လျှောက်ထားကြပေမည်။ အို-ကျွန်တော်မျိုးတို့အား ဖန်ဆင်းမွေးမြူ တော်မူသောအရှင်မြတ်၊ ဧကန်စင်စစ် ကျွန်တော်မျိုးတို့သည် မိမိတို့၏ခေါင်းဆောင်များနှင့် မိမိတို့၏ အကြီးအကဲများ၏စကားကိုနာခံမိခဲ့ကြပါသည်။ ၎င်းတို့သည် ကျွန်တော်မျိုးတို့အား လမ်းလွဲမှားစေ ခဲ့ကြပါသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

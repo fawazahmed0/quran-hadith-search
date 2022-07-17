@@ -710,6 +710,12 @@ i izsipvame ot dŭzhdovnite oblatsi obilna voda
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။ ထို့အပြင် မိုးတိမ်တိုက်မှ မိုးရေကို များစွာရွာသွန်းစေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါအရှင်မြတ်သည်သာလျှင် ညှစ်ထုတ်သောတိမ်များမှ (ရေအပြည့်ရှိသောမိုးတိမ်များမှ) (မိုး)ရေကို သည်းထန်စွာ ရွာသွန်းစေတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

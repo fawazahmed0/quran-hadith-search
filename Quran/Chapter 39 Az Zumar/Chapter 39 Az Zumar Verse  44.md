@@ -710,6 +710,12 @@ Kazhi: “Na Allakh prinadlezhi zastŭpnichestvoto iztsyalo. Negovo e vladenieto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	တဖန်ဟောပြောလော့၊ အပြစ်မှ ကယ်နှုတ်ခြင်းအာဏာကို အလ္လာဟ်အရှင်မြတ်သာလျှင် စိုးပိုင်တော်မူ၏၊ အရှင်မြတ်သည် ကမ္ဘာမြေပြင်မိုးကောင်းကင်ကို စိုးပိုင်တော်မူ၏၊ အဆုံးစွန်၌ သင်တို့ကို အရှင်မြတ်အထံတော် သို့ ယူဆောင်ခဲ့လတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (၎င်းတို့ အားဤသို့)ပြောကြားပါလေ။ (အချင်းတို့၊) ကြားဝင် အသနားခံမှု အာဏာအလုံးစုံကား အလ္လာဟ်အရှင်မြတ်၌သာရှိ၏။ မိုးကောင်းကင်များကို စိုးမိုးအုပ်ချုပ်မှု အာဏာသည်လည်းကောင်း၊ ပထဝီမြေကို စိုးမိုးအုပ်ချုပ်မှု အာဏာသည်လည်းကောင်း၊ ထိုအရှင်မြတ်၌သာရှိ၏။ ထို့နောက် အသင်တို့သည် ထိုအရှင်မြတ်အထံတော်သို့သာလျှင် ပြန်ကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

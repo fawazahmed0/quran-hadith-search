@@ -710,6 +710,12 @@ Chovekŭt v tozi Den shte bŭde izvesten za rannite si dela i za kŭsnite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။ ထိုနေ့၌ လူသားသည် မိမိတင်ကြိုပို့ထားနှင့်သောကျင့်မှုများနှင့် မိမိနောက်တွင် ချန်ထားခဲ့သောကျင့်မှုများ၏ အကြောင်းကို ကြားရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနေ့တွင် လူသားသည် မိမိ တင်ကြို ပို့နှင့်ခဲ့သည်ကိုလည်းကောင်း၊ မိမိ နောက်ချန်ရစ်ခဲ့သည်ကိုလည်းကောင်း၊ ပြောပြခြင်းကို ခံရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

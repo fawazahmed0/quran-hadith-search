@@ -710,6 +710,12 @@ Kazhi [o, Mukhammad]: “Svetiyat Dukh [Dzhibril] go nizposlava ot tvoya Gospod 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၂။	တမန်တော်ဟောကြားလော့။ ကုရ်အာန်ကျမ်းတော်မြတ်သည် ယုံကြည်သူတို့၏ ယုံကြည်မှုကို ခိုင်ခန့်တည်မြဲစေဖို့ ရာသော်လည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ်အား ကျိုးနွံနာခံသောသူတို့အဖို့အရာ လမ်းညွှန်တော်ကြီးနှင့် သတင်းကောင်းမင်္ဂလာကြီးအဖြစ်ဖြင့်သော်လည်းကောင်း၊ ကုရ်အာန်ကျမ်းတော်မြတ်ကို ကောင်းကင်တမန် မင်းကြီးသည် သင်၏ ကျေးဇူးတော်သခင်ထံမှ ယူဆောင်လာ၍ သင့်အား ပေး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (၎င်းတို့အားဤသို့)ပြောဆို ဖြေကြားပါလေ။ ထိုအာယတ်တော်ကို ရူဟုလ်ကုဒွတ်စ် (ကောင်းကင်တမန်ဂျစ်ဗ်ရီလ်)သည် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင် မြတ်အထံတော်မှ မုအ်မင်န်သက်ဝင်ယုံကြည်သူတို့အား တည်တံ့မြဲမြံစေခြင်း ငှာလည်းကောင်း၊ (မုစ်လင်မ်) အမိန့်တော်ကို လိုက်နာသူတို့အဖို့ တရားလမ်းညွှန် အဖြစ်လည်းကောင်း၊ သတင်းကောင်းအဖြစ်လည်းကောင်း၊ (တိကျ)မှန်ကန်စွာချပေးခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

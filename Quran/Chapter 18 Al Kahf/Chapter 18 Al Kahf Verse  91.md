@@ -710,6 +710,12 @@ Taka Nie obgrŭshtame sŭs znanie vsichko, koeto e u nego
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၁။	ထိုမင်း၏ အကြောင်းမှာ ယင်းသို့တည်း။ ငါအရှင်မြတ်သည် သူ၏ အကြောင်းကို အကြွင်းမဲ့သိမြင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဇုလ်ကရ်နိုင်န်၏အထ္ထုပတ္တိအကြောင်းကား) ဤအတိုင်းပင်ဖြစ်၏။ စင်စစ်ဧကန် ငါအရှင်မြတ်သည် ယင်းဇုလ်ကရ်နိုင်န်ထံ၌ ရှိသမျှ(သောလက်နက် ကိရိယာအလုံးစုံ)တို့ကိုတစ်ခုမကျန် သိရှိတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

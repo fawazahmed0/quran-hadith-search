@@ -710,6 +710,12 @@ I gi pitaĭ [o, Mukhammad] za selishteto, koeto be kraĭ moreto - kak prestŭp
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၃။	အို-မိုဟမ္မဒ် သင်သည် သူတို့အား ပင်လယ်ကမ်းနားရှိသော သူတို့မြို့နယ်အကြောင်း၊ သူတို့ ဥပုသ် ချိုးခြင်း၊ ဥပုသ်နေ့၌ သူတို့၏ ငါးကြီးသည် သူတို့မြင်အောင်ပေါ်လာခြင်း၊ သူတို့ဥပုသ် မစောင့်သော နေ့၌ ထိုငါးကြီးမပေါ်လာခြင်းအကြောင်းတို့ကို မေးမြန်းစုံစမ်းလော့။ သူတို့၏ မကောင်းမှုများကြောင့် ငါအသျှင်မြတ်သည် သူတို့အား ယင်းသို့ စုံစမ်းတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး (အို-နဗီတမန်တော်) အသင်သည်၎င်းတို့အား သမုဒ္ဒရာပင်လယ်ဆိပ်ကမ်းရှိ မြို့ရွာ(နေလူတို့)နှင့်ပတ်သက်၍ မေးမြန်းပါလေ။ အကြင် အခါဝယ် ထိုသူတို့သည်စဗ်တ် နေ့နှင့်စပ်လျဉ်း၍ စည်းကမ်းကို ကျူးလွန်ကြလေသည်။အကြင်အခါဝယ် ၎င်းတို့၏ (သမုဒ္ဒရာမှ) ငါးများသည် ၎င်းတို့ထံသို့ ၎င်းတို့၏ စဗ်တ်နေ့တွင် (ရေပေါ်သို့) ထွက်ပြူ၍လာကြလေသည်။ သို့ရာတွင် စဗ်တ် မဟုတ်သောနေ့တွင်မူထိုငါးများသည် ၎င်းတို့ ထံသို့လာကြသည်မရှိချေ။ ထိုကဲ့သို့ပင်ငါအရှင်မြတ် သည် ၎င်းတို့အား ၎င်းတို့ ဖီဆန်လေ့ရှိခဲ့ကြသည့်အတွက် စမ်းသပ်တော်မူခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

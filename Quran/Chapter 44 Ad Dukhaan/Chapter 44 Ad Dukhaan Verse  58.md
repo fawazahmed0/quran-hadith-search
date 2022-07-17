@@ -710,6 +710,12 @@ Storikhme go [Korana] lesen - na tvoya ezik, za da se pouchat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈။	အို-တမန်တော်၊ သူတို့တရားရစေဖို့ရာ ငါသည် ဤကျမ်းမြတ်ကုရ်အာန်ကို လွယ်ကူစွာသိနိုင်ရန် သင်၏ ဘာသာစကားဖြင့် ထုတ်ပြန်ပို့ချပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ဧကန်မလွဲ ငါအရှင်မြတ်သည် ဤကုရ်အာန်ကျမ်းတော်ကို ၎င်းတို့ တရားရယူကြအံ့သောငှာ အသင်၏ဘာသာစကားဖြင့်ပင် လွယ်ကူစေတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

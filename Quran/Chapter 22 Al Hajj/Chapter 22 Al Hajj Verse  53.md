@@ -710,6 +710,12 @@ za da prevŭrne Toĭ namesata na satanata v izpitanie za onezi, v chiito sŭrts
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။	အလ္လာဟ်အရှင်မြတ်သည် ရှိုင်တန်မာရ်နတ်၏ အကြံပေးချက် စိတ်နှလုံးတွင် အယူဝါဒရောဂါစွဲကပ်သူများနှင့် စိတ်နှလုံးမာမြင်းသူတို့အား လှည့်ဖြားဖို့ရာ ဖြစ်စေတော်မူ၏၊ မှတ်သားကြလော့၊ ဒုစရိုက်မှုကျူးလွန်သူတို့သည် အတိအလင်းဂုဏ်းကွဲသူများဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤသို့ဖြစ်ရခြင်မှာ) ထိုအရှင်မြတ်သည် ရှိုင်တွာန်မိစ္ဆာကောင် ထည့်သွင်းသည့် (ဒွိဟသံသယမှုများ)ကို စိတ်တွင်းရောဂါဝေဒနာ ရှိနေသူတို့အဖို့ လည်းကောင်း၊ စိတ်နှလုံး ခက်ထန်မာကျောသူတို့အဖို့ လည်းကောင်း၊ စမ်းသပ်မှုပြုတော်မူရန်ဖြစ်ပေသည်။ ဧကန်မလွဲ မတရားကျူးလွန်သော သူတို့သည် ဝေးလံစွာသော ကွဲပြားမှု၌ပင် (ငြင်းခုံမှု၌ပင်)ရှိနေကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

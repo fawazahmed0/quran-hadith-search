@@ -710,6 +710,12 @@ O, vyarvashti, ne vzimaĭte za blizhni svoite bashti i bratya, ako sa predpoche
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	အို-ယုံကြည်သူအပေါင်းတို့၊ သင်တို့၏ အဘသော်လည်းကောင်း၊ ညီအစ်ကိုသော်လည်းကောင်း၊ ယုံကြည်မှု ၌ မဟုတ်ပဲ မယုံကြည်မှု၌ မွေ့လျော်ပျော်ပိုက်ကြလျှင် သင်တို့သည် သူတို့အား အဆွေခင်ပွန်းမဖွဲ့ကြလင့်။သင်တို့အနက် အကြင်သူတို့သည် ထိုသူတို့နှင့်အဆွေခင်ပွန်းဖွဲ့ကြ၏။ထိုသူတို့သည် အကုသိုလ်မှုကို ကျူးကျော် သူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-မုအ်မင်န် သက်ဝင်ယုံကြည်သူအပေါင်းတို့၊အသင်တို့၏ အဖ၊ ဘိုး၊ ဘေးတို့သည်လည်းကောင်း၊ အသင်တို့၏ညီသားအစ်ကိုတို့သည်လည်းကောင်း၊ အကယ်၍ ‘ကုဖ်ရ်သွေဖည်ငြင်းပယ်မှု’ကို ‘အီမာန်ယုံကြည်မှု’ထက် နှစ်သက်မြတ်နိုးကြပါလျှင် အသင်တို့သည် ၎င်းတို့အား အဆွေခင်ပွန်းများ မပြုလုပ်ကြကုန်လင့်။ စင်စစ်မူကား မည်သူမဆို အသင်တို့အနက်မှ ၎င်းတို့အား အဆွေခင်ပွန်း ပြုလုပ်ပါလျှင် ထိုကဲ့သို့သောသူများသည်သာ မတရာမှု ကျူးလွန်သူများ ဖြစ်ကြအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

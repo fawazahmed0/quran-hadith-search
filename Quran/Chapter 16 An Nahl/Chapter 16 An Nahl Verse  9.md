@@ -710,6 +710,12 @@ Allakh nasochva po Praviya pŭt, a drugite [pŭtishta] otklonyavat. I ako Toĭ 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	ထို့အပြင်အရှင်မြတ်အဖို့မှာ လမ်းညွှန်ပြခြင်းဖြစ်၏။ လမ်းအချို့တို့သည် မဖြောင့်မမတ် ကွေ့ကောက်၏။ အကယ်၍ အရှင်မြတ်အလိုတော်ရှိခဲ့ပါလျှင် သင်တို့အားလုံးအား လမ်းမှန်ကို ပြတော်မူခဲ့လတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ဖြောင့်မှန်သော လမ်းကိုပြတော်မူရန်မှာ အလ္လာဟ်အရှင်မြတ်အပေါ်၌သာလျှင် တည်ရှိပေသည်။ စင်စစ် ထိုလမ်းများအနက် ကွေ့ ကောက်သောလမ်းများသည်လည်းရှိပေသည်။ သို့ရာတွင် အကယ်၍သာ ထိုအရှင်မြတ်သည် အလိုရှိတော် မူခဲ့ပါလျှင် အသင်တို့အားလုံးကိုတရားလမ်းမှန်ကို ပြတော်မူခဲ့ပြီး ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

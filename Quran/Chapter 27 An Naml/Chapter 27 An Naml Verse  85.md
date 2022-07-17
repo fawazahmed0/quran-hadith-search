@@ -710,6 +710,12 @@ I shte se sbŭdne sreshtu tyakh slovoto, zashtoto ugnetyavakha, a te ne shte pro
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၅။	ထို့အပြင်သူတို့အပေါ်၌ ဗျာဒိတ်တော်ကို တည်စေတော်မူမည်၊ အကြောင်းမူကားသူတို့သည် ပြစ်မှုကျူးလွန်ခဲ့ခြင်း ကြောင့်တည်း၊ ထို့အပြင်သူတို့သည် ချေပလျှောက်လဲကြမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းနောက် (ထိုအချိန်အခါတွင်) ၎င်းတို့၏ ကျူးလွန်ခဲ့ကြခြင်းကြောင့် ကတိချိန်းဆိုချက်သည် ၎င်းတို့အပေါ်၌ အတည်ဖြစ်ပြီးဖြစ်ပေရာ၊ ၎င်းတို့မှာ စကားပြောဆိုနိုင်ကြမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

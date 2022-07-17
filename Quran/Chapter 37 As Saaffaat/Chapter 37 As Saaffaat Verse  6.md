@@ -710,6 +710,12 @@ Ukrasikhme Nie naĭ-niskoto nebe s ukrasa ot zvezdi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	မှတ်သားကြလော့၊ ငါအရှင်မြတ်သည် ကမ္ဘာမြေပြင်နှင့်အနီးဆုံးသောမိုးကောင်းကင်ကို နေလနက္ခတ်တာရာ တို့ဖြင့် တန်ဆာဆင်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ငါအရှင်မြတ်သည် အောက်ဆုံးဖြစ်သော မိုးကောင်းကင်ကို ကြယ်နက္ခတ်များတည်းဟူသော အဆင်အယင်ဖြင့် တန်ဆာဆင်ယင်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

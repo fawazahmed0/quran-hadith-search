@@ -710,6 +710,12 @@ Da, koĭto pridobiva zlina i grekhŭt mu go obgrazhda - tezi sa obitatelite na 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၁။	သင်တို့ပြောသည့်အတိုင်းမဟုတ်ချေ။ အကြင်သူတို့သည် ဒုစရိုက်ပြစ်မှုကို ကျူးလွန်၍ ထိုပြစ်မှု ဝိုင်းထားခြင်းကို ခံရ၏။ ထိုသူတို့သည် အဝီစိငရဲမီးကို တရားသဖြင့်ပိုင်ဆိုင်သူများဖြစ်ကြ၏။ သူတို့သည် ငရဲမီးအတွင်း၌ နေရကြလတ္တံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (၎င်းတို့၏စကားသည် လုံးဝမှန်ကန်သည်မဟုတ်) စင်စစ်မှာကား မည်သူမဆို မကောင်းမှုအကုသိုလ်များကို ဆည်းပူးအံ့။ တဖန် (ယင်းသို့ ဆည်းပူးခြင်းအားဖြင့်) ထိုသူ၏ ပြစ်မှုဒုစရိုက်များသည် ထိုသူအား ဝန်းခြုံလျက်ရှိအံ့။ သို့ဖြစ်ခဲ့ပါလျှင် ထိုကဲ့သို့သော သူတို့သည် ငရဲသားများသာ ဖြစ်ကြကုန်၏၊ ထိုသူတို့သည် ထိုငရဲဘုံ၌ပင် ထာဝစဉ် နေထိုင်ကြရလတ္တံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

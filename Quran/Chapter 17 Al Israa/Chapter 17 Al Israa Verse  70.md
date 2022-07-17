@@ -710,6 +710,12 @@ I pochetokhme Nie sinovete na Adam, i gi prenasyame po sushata i moreto, i im da
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇ဝ။	အကယ်စင်စစ် ငါအရှင်မြတ်သည် အာဒမ်၏ သားမြေးမြစ်တို့အား ဂုဏ်ပြုချီးမြှောက်တော်မူ၏။ ငါသည် ကုန်းလမ်း၊ ရေလမ်းဖြင့် သယ်ယူပို့ဆောင်တော်မူ၏။ သူတို့အား မွန်မြတ်သောအစာအဟာရကို ပေးသနားတော် မူ၏။ သူတို့အား ငါဖန်ဆင်းတော်မူသောအရာဝထ္ထုများအနက် သာလွန်၍ ထူးချွန်စွာနှစ်ခြိုက်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ငါအရှင်မြတ်သည် အာဒမ်၏သားသမီးများကို ဂုဏ်သိန်ထူးကဲ မြင့်မြတ်စေတော်မူခဲ့လေသည်။ထို့ပြင် ငါအရှင်မြတ်သည် ၎င်းတို့အား ကုန်းပေါ်၌ (ကုလားအုတ်၊ မြင်း၊ ကုန်းယာဉ်၊ လေယာဉ် ပျံ၊ စသောအစီးအနင်းတို့ကို)လည်းကောင်း၊ သမုဒ္ဒရာ ပင်လယ်၌(သင်္ဘော၊ လှေ၊ သမ္ဗန်စသောယာဉ်များကို)လည်းကောင်း၊ စီးနင်းစေတော်မူခဲ့သည်။ ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ၎င်းတို့အား (စားသုံးရန်) စင်ကြယ်ကောင်းမွန်သောအရာများကို ချီးမြှင့်ပေးသနားတော် မူခဲ့သည်။တစ်ဖန် ငါအရှင်မြတ်သည် ၎င်းတို့အား ငါအရှင်မြတ် ဖန်ဆင်းထားတော်မူသော အရာများအနက် များစွာ(သောသက်ရှိသက်မဲ့)တို့ထက် ထူးကဲမြင့်မြတ်စေတော်မူခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

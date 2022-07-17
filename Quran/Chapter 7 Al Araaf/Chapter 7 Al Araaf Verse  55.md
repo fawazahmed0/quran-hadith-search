@@ -710,6 +710,12 @@ Zovete svoya Gospod sŭs smirenie i dori v uedinenie! Toĭ ne obicha prestŭpva
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။	အို-လူသားအပေါင်းတို့ သင်တို့သည် သင်တို့၏ကျေးဇူးတော်သခင်အား ကျိုးနွံ့ရိုသေစွာနှင့် လျှို့ဝှက်စွာ တသကြလော့။ မှတ်သားကြလော့။ အသျှင်မြတ်သည် တရားတော်ကို ကျူးလွန်သူတို့ကို နှစ်ခြိုက်တော်မမူပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်၌ (တစ်နည်းကျိုးနွံစွာ ဆုတောင်းပတ္ထနာပြုကြလေကုန်၊ ဧကန်စင်စစ် ထိုအရှင်မြတ်သည် စည်းကမ်းကျူးလွန် ဖောက်ဖျက်သူတို့အား နှစ်မြို့တော်မူသည်မဟုတ်ချေ။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

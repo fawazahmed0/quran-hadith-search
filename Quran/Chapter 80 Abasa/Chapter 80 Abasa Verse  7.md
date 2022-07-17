@@ -710,6 +710,12 @@ I ne e tvoya grizha, che ne se prechistva
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။ အို-တမန်တော်၊ သူသည် တရားအလင်းရောင်တော်ကို မရသဖြင့် သင့်အပေါ်၌ တစ်စုံတစ်ရာအပြစ်မရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ထိုသူ မစင်ကြယ်သည့်အတွက် အသင့်အပေါ်၌ မည်သို့မျှ အပြစ်မရှိချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

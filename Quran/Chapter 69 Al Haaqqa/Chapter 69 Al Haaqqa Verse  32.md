@@ -710,6 +710,12 @@ Posle go nanizhete na veriga, dŭlga sedemdeset lakti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။ ထို့အပြင်သူ့ကို အတောင်ခုနှစ်ဆယ်ရှည်လျားသောသံကြိုးနှင့် တုပ်နှောင်ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် အသင်တို့သည် ၎င်းအား အရှည်အလျား အတောင်-ကိုက်ခုနစ်ဆယ်ရှိသော သံကြိုးဖြင့် တုပ်နှောင်ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

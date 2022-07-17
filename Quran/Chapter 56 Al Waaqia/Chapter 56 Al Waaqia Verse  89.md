@@ -710,6 +710,12 @@ togava - pokoĭ i udovletvorenie, i Gradinata na blazhenstvoto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၉။	သူသည် မွှေးကြိုင်ထုံသင်း စည်းစိမ်ချမ်းသာ ပေါများကြွယ်ဝ မွေ့လျော်ဖွယ်ကောင်းသောသုခဥယျာဉ်တော်၌ ပျော်စံနေထိုင်ရလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်လျှင် (ထိုသူ၏အဖို့) ချမ်းသာမှုသည်လည်းကောင်း၊ အစားအစာသည်လည်းကောင်း၊ မွေ့ လျော်စံပျော်ရာ ‘ဂျန္နတ်’ သုခဘုံသည်လည်းကောင်း၊ ရှိချေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I zovŭt im, kogato gi zastigashe Nasheto mŭchenie, be edinstveno da kazhat: �
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	ငါ၏အပြစ်ဒဏ်တော်သည် သူတို့ထံသို့ကျရောက်လာသောခါ သူတို့တွင် ထုခြေချက်မရှိချေ။ အကျွနု်ပ်တို့သည် ပြစ်မှုကျူးလွန်သူများဖြစ်ပါ၏ဟုသာ ဝန်ခံကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ထိုသူတို့ထံ ငါအရှင်မြတ်၏ ပြစ်ဒဏ်ဆိုက်ရောက်လာသောအခါ ထိုသူတို့ကကျွန်ုပ်တို့သည်သာ လျှင်မတရား ကျူးလွန်သူများ ဖြစ်ကြပါသည် ဟု ပြောဆိုခြင်းမှတစ်ပါး အခြားတစ်စုံတစ်ရာမျှ ဆင်ခြေပေးနိုင်ခြင်းမရှိခဲ့ကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

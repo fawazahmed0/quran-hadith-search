@@ -710,6 +710,12 @@ I ne mislya, che Chasŭt shte nastŭpi. A dori da bŭda vŭrnat pri moya Gospod,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	အချိန်တော်ကြီးသည် ဆိုက်ရောက်လာမည်ဟု အကျွနု်ပ်မထင်ချေ။ အကယ်၍အကျွနု်ပ်အား မိမိအရှင်သခင် အထံတော်သို့ တဖန်အမှန်ပင်ယူဆောင်ခဲ့ပါလျှင် အကျွနု်ပ်သည် ဤဥယျာဉ်ထက် သာယာမွေ့လျော်ဖွယ်သော ဌာနကို အမှန်တွေ့ရလတ့ံဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ ကျွန်ုပ်သည် ကိယာမတ်ဖြစ်လိမ့်မည်ဟူ၍လည်းမထင်။ သို့ရာတွင် အကယ်၍ ကျွန်ုပ်သည်မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်သို့ပြန်ပို့ခြင်းကို ခံခဲ့ရသည့်တိုင်လည်း၊ ဧကန်မလွဲ ကျွန်ုပ်သည်ယင်းဥယျာဉ်ထက် ပိုမို၍ကောင်းမြတ်သောနေရာကိုပင် ရရှိအံ့သတည်းဟူ၍လည်း ပြောဆိုပြန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

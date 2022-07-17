@@ -710,6 +710,12 @@ I byakha pobedeni tam, i stanakha unizeni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၉။	ဤကဲ့သို့ ပယောဂဆရာများသည် အနိုင်ခံနှင့် အနှိမ့်ချခံကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်၍ လည်းကောင်း(ဖစ်ရ်အောင်နှင့်ယင်း၏မှူးမတ်)တို့သည် ထိုနေရာ၌ပင် အရေးရှုံးနိမ့်ခဲ့သည့်ပြင်ကျိုးယုတ်ရှက်ရလည်း ဖြစ်ခဲ့ကြရလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A nie nyamakhme vlast nad vas. Da, vie byakhte prestŭpvashti khora
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	ငါတို့သည် သင်တို့အပေါ်၌ သြဇာမညောင်းချေ၊ သို့သော်သင်တို့သည် မိမိစိတ်အလိုကို လိုက်သောသူများ ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ကျွန်ုပ်တို့၌ အသင်တို့အပေါ်ဝယ် ဩဇာအာဏာ တစ်စုံတစ်ရာမျှလည်း မရှိခဲ့ပေ။ စင်စစ်မှာကား အသင်တို့ ကိုယ်တိုင်ပင် လွန်စွာ သောင်းကျန်းဆိုးသွမ်းများ ဖြစ်ခဲ့ကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ala ne! Toĭ [- Koranŭt] e pouchenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၄။ စင်စစ်အားဖြင့် ဤကုရ်အာန်ကျမ်းမြတ်သည် အဆုံးအမတော်ကြီးဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မှတ်ယူကြလေကုန်။ ဧကန်မလွဲ ယင်းကုရ်အာန်ကျမ်းတော်မြတ်သည် ဆုံးမဩဝါဒပင် ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

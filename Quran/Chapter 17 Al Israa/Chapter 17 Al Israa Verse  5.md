@@ -710,6 +710,12 @@ I kogato nastŭpi obeshtanoto za pŭrvoto ot dvete, izpratikhme sreshtu vas Nash
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	ထို့ကြောင့်ယင်းညှင်းပန်းမှုကြီးနှစ်ပါးအနက် ပထမနှိပ်စက်မှုကြီးအချိန်ကျရောက်လာသောအခါ ငါသည် ခွန်အား ဗလကြီးမားသော ငါ၏ကျေးကျွန်တို့ကို သင်တို့အား ခုခံတိုက်ခိုက်အောင် လှုံ့ဆော်တော်မူ၏။ သူတို့သည် သင်တို့၏ တိုင်းပြည်ကို စီးနင်းဝင်ရောက်ဖျက်ဆီးကြ၏။ ဤခြိမ်းခြောက်ခြင်းသည် တကယ်ဖြစ်လာ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် ထိုနှစ်ကြိမ်အနက် ပထမအကြိမ် (ပျက်စီးရာပျက်စီးကြောင်းကို အသင်တို့ ပြုလုပ်ခဲ့ ကြသည့်)အတွက်ချိန်းချက်ထားသော ပြစ်ဒဏ်(ကျရောက်ရန်အချိန်)သည် ဆိုက်ရောက်လာသောအခါ ငါအရှင်မြတ်သည် အလွန်အမင်း တိုက်ခိုက်ကြသော မိမိကျွန်များကို အသင်တို့အပေါ်ဝယ် နိုင်လိုမင်းထက် ပြုမူစေတော်မူပေမည်။ ထိုအခါ၎င်းတို့သည် (အသင်တို့အား ဖျက်ဆီးသတ်ဖြတ်ကြရန် အသင်တို့၏) နေအိမ်များအတွင်းသို့ဝင်ရောက်ကြပေမည်။ စင်စစ်သော်ကား(ငါအရှင်မြတ်၏ ဤချိန်းချက်မှုသည် မုချ) ပြီးမြောက် အောင်မြင်မည့်ချိန်းချက်မှုပင် ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

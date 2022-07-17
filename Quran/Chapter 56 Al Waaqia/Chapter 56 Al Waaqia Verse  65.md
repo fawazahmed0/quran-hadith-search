@@ -710,6 +710,12 @@ Ako pozhelaekhme, bikhme go storili na sukhi sŭchki i shtyakhte da ostanete sli
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၅။	ငါသည် အလိုတော်ရှိခဲ့လျှင် ထိုလယ်မြေတွင် ပေါက်ရောက်သောကောက်ပင်များကိ မြက်ခြောက်ဖြစ်အောင် အမှန်ဖျက်ဆီးတော်မူနိုင်၏၊ ထိုအခါသင်တို့သည် ဤသို့ငိုကြွေးမြည်တမ်းခြင်းကို ရပ်တန့်ကြမည်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍သာ ငါအရှင်မြတ်သည် အလိုရှိတော်မူပါလျှင် ယင်းစိုက်ပျိုးခင်းကို စဉ်းထားသောကောက်ရိုးများ၊ မြက်ခြောက်များ ဖြစ်စေတော်မူခဲ့ပေ မည်။ ထိုအခါ အသင်တို့သည် တွေဝေ ငေးမှိုင်လျက် ရှိကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

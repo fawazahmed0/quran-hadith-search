@@ -710,6 +710,12 @@ I ne zovi vmesto Allakh onova, koeto nito ti pomaga, nito ti vredi! A storish li
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၆။	အကျိုးအပြစ်မပေးစွမ်းနိုင်သောဘုရားတုဘုရားယောင်များကို အလ္လာဟ်အရှင်မြတ်နှင့်တွဲဖက်၍ ဝတ်ပြုပန်ထွာခြင်း မပြုလင့်။ ပြုလျှင် သင်သည် ပြစ်မှုကျုးလွန်သူတို့အထဲတွင် အပါအဝင်ဖြစ်ချေမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်း ပြင် အသင်သည် အလ္လာဟ်အရှင်မြတ်အပြင် မိမိအား အကျိုးလည်းမဖြစ်ထွန်းစေနိုင်သော အကျိုးယုတ်စေခြင်းကိုလည်း မပြုနိုင်စွမ်းနိုင်သော အရာများကို ဟစ်ခေါ်ခြင်း မပြုပါလေနှင့်။ တစ်ဖန် အကယ်၍ အသင်သည်ပြုမိခဲ့ပါသော် ဧကန်စင်စစ် အသင်သည် ထိုသို့ပြုမိသောကြောင့် (မိမိတို့ကိုယ်ကို မိမိတို့ပင်) နှိပ်စက် ညှဉ်းပန်းသူတို့တွင်အပါအဝင် ဖြစ်သွားပေမည်(ဟူ၍လည်း အမိန့်တော်ရရှိ၏။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

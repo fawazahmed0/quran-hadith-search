@@ -710,6 +710,12 @@ I kogato te gi zŭrnat otdalech, shte dolovyat tyakhnata yarost i voĭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	ငရဲသည် သူတို့ကို အဝေးမှ မြင်သောအခါ သူတို့သည် ထိုမီးတောက်မီးလျှံ၏ ဖြောက်ဖြောက်မည်သံနှင့် ဟိန်းသံကြီးကို ကြားကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်း မီးတောက်မီးလျှံသည် ထိုသူတို့အား အဝေးမှ မြင်လေသောအခါ၊ ထိုသူတို့သည် ယင်းမီးတောက်မီးလျှံ၏ ဆူညံခြင်းနှင့် အမျက်ဒေါသ ထွက်ခြင်းကိုလည်းကောင်း၊ မြည်ဟိန်းခြင်းကိုလည်းကောင်း၊ ကြားကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I Koĭto sŭtvori vsichki vidove, i napravi za vas ot korabite i ot dobitŭka o
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	အရှင်မြတ်သည် အရာဝထ္ထုအားလုံးတို့ကို အဖိုနှင့်အမတွဲ၍ ဖန်ဆင်းတော်မူ၏၊ သင်တို့အဖို့အရာ သင်တို့စီးနင်း သောလှေသင်္ဘောများနှင့် ခြေလေးချောင်းရှိတိရိစ္ဆာန်များကိုလည်း ဖန်ဆင်းတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အကြင်အရှင်မြတ်ပင်။ ထိုအရှင်မြတ်သည် အလုံးစုံသော ဖိုမ-စုံတွဲအမျိုးအစားများကို ဖန်ဆင်းတော်မူခဲ့၏။ ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် အသင်တို့ စီးနင်းကြကုန်သော သင်္ဘောများကိုလည်းကောင်း၊ ခြေလေးချောင်းတိရစ္ဆာန်များကိုလည်းကောင်း ပြုလုပ်ဖန်ဆင်းတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

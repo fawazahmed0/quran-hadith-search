@@ -710,6 +710,12 @@ i koito davat, kakvoto davat, s boyazlivi sŭrtsa, zashtoto pri svoya Gospod sht
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆ဝ။	ထို့အပြင်မိမိတို့၏အရှင်သခင်ထံသို့ ပြန်ရမည်ဖြစ်သောကြောင့် အရှင်မြတ်အား ကြောက်ရွံ့ခြင်းဖြင့် လှုဒါန်းစွန့်ကြဲ သူများ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတို့သည်လည်းကောင်း ထိုသူတို့သည် မိမိတို့ ပေးကမ်း(စွန့်ကြဲ) ကြသည်များကို ပေးကမ်း(စွန့်ကြဲ)လျက်ရှိကြငြားသော်လည်း မိမိတို့ သည် မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ် အထံတော်သို့ ပြန်သွားကြရမည် ဖြစ်သောကြောင့် ၎င်းတို့၏ စိတ်နှလုံးများမှာမူကား ထိတ်လန့်စိုးရိမ်လျက် ရှိကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

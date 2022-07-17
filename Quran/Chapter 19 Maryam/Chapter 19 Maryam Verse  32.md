@@ -710,6 +710,12 @@ I da bŭda nezhen kŭm svoyata maĭka. I ne me stori Toĭ gordeliv, nepokoren
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	အကျွန်ုပ်အား မိမိမွေးသမိခင်၏ ဝတ်ကို ကျေကုန်စေတော်မူ၏။ ဂုဏ်မောက်စေတော်မမူချေ။ ကောင်းကြီးမင်္ဂလာ ကင်းမဲ့စေတော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး (ထိုအရှင်မြတ်သည် ကျွန်ုပ်အား)ကျွန်ုပ်၏မိခင်ကို ကောင်းစွာပြုစု ကျေးဇူးပြုတတ်သူလည်း(ဖြစ်စေတော်မူခဲ့၏၊) ၎င်းပြင် ထိုအရှင်မြတ်သည် ကျွန်ုပ်အားမာန်မာနထောင်လွှားသူ၊ အကြောင်းမလှသူအဖြစ်လည်း ပြုလုပ်တော်မမူခဲ့ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

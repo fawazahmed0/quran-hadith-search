@@ -710,6 +710,12 @@ I toĭ, i voĭskite mu bez pravo se vŭzgordyakha na zemyata. I smyatakha, che
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	ထိုမင်းနှင့်တကွ အသင်သားစစ်သည်တပ်အလုံးတို့သည် မြေပေါ်၌ ဝင့်ဝါပလွှားအထင်ကြီး၍ မတရားမှုကိုသာ ပြုနေကြကုန်၏၊ သူတို့သည် သူတို့ကို ငါ့ထံသို့ မည်သည့်အခါမှ ပြန်ယူခဲ့မည်မဟုတ်ဟု ထင်မှတ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ထိုဖစ်ရ်အောင်န်သည် လည်းကောင်း၊ ဖစ်ရ်အောင်န်၏ရဲမက်တို့သည် လည်းကောင်း၊ တိုင်းပြည်တွင် မတရားသဖြင့် မာန်မာနထောင်လွှားခဲ့ကြသည် သာမက၊ ၎င်းတို့သည် ငါအရှင်မြတ်အထံတော်သို့ ပြန်လည်ရောက်ရှိကြရမည် မဟုတ်ဟု ထင်မှတ်နေခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

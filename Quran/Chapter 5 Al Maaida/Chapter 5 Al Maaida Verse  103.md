@@ -710,6 +710,12 @@ Ne Allakh e storil ot kamila s tsepnati ushi, ot pusnata na volya, ot blizneshta
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၃။	အလ္လာဟ်အသျှင်မြတ်သည် နတ်ပူဇောသော ဗဟီးရာ၊ သို့မဟုတ် ဆိုင်ဘား၊ သို့မဟုတ် ဝသီးလား၊ သို့မဟုတ် ဟမီးခေါ် ယဇ်ကောင်ကို ပညတ်တော်မမူပေ။ သို့သော် မိစ္ဆာဒိဌိတို့သည် အလ္လာဟ် အသျှင်မြတ်နှင့် ဆန့်ကျင်မှုကို မဟုတ်မလျား ဖန်တီးကြ၏။ သူတို့အနက် များလှစွာသောသူတို့သည် အသိအလိမ္မာ၊ ဉာဏ်ပညာ ခေါင်းပါးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် ‘ဗဟီရဟ်’ ကိုလည်း (ရှရီအတ်တရားဥပဒေတွင်) သတ်မှတ်ပြဌာန်းတော်မူခဲ့သည်မဟုတ်ပေ။ ‘စာအိဗဟ်’ ကိုလည်း သတ်မှတ်ပြဌာန်းတော်မူခဲ့သည် မဟုတ်ပေ။ ‘ဝဆွီလဟ်’ ကိုလည်း သတ်မှတ်ပြဌာန်းတော်မူခဲ့သည် မဟုတ်ပေ။ ‘ဟာမီ’ ကိုလည်း အသိအမှတ်ပြုတော်မူခဲ့သည် မဟုတ်ပေ။ သို့ရာတွင် မယုံမကြည် သွေဖည်ငြင်းပယ်သောသူတို့မူကား အလ္လာဟ်အရှင်မြတ် အပေါ်၌ မဟုတ်မမှန်လုပ်ကြံ၍ မုသားစကား ပြောဆိုကြကုန်၏။ စင်စစ်သော်ကား ၎င်းတို့အနက် များစွာသောသူတို့သည် အသိဉာဏ်ကင်းမဲ့ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

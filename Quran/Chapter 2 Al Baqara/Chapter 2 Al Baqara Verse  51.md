@@ -710,6 +710,12 @@ i kogato opredelikhme za Musa chetirideset noshti, posle vie podir nego priekhte
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁။	၎င်းပြင် ငါသည် တမန်တော်မူဆာအား ဆိတ်ငြိမ်ရာတွင် ညဉ့်ပေါင်းလေးဆယ်နေရန် ဗျာဒိတ် ပေးတော်မူ၏။ သူသည် သင်တို့နှင့် ယင်းသို့ ခွဲခွာနေစဉ် သင်တို့သည် နွားကလေးရုပ်ကို ပြုလုပ်၍ ကိုးကွယ်ကြပြီးလျှင် ဒုစရိုက်မှု ကျူးလွန်သူများဖြစ်ကြသည်ကိုလည်း သတိရကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-အစ္စရာအီလ်၏ မျိုးနွယ်အပေါင်းတို့၊ ပြန်လည်အောက်မေ့သတိရကြကုန်) တနေ့သောအခါ ငါအရှင်သည် နဗီတမန်တော်မူစာအားရက်ပေါင်းလေးဆယ် (ကုန်လွန်ပြီးနောက် တောင်ရာတ် ကျမ်းဂန်ကို ထုတ်ပြန်ပို့ချ ပေးသနားတော်မူမည်ဟု ) ပဋိညာဉ် ထားတော်မူသည်။(ထိုပဋိညာဉ်တော်အရ နဗီတမန်တော် မူစာသည် ထိုကျမ်းဂန်ကို ဦးထိပ် ရွက်ပန်ဆင်ရန် သိနတောင်၌ ရက်ပေါင်းလေးဆယ် သီတင်းသုံးနေခိုက်) သူ၏ နောက်ကွယ်ရာ၌ အသင်တို့သည် နွားငယ်ကို (ဘုရားအဖြစ်) ပြုလုပ် ကိုးကွယ်ကြကုန်သည်၊ အမှန်စင်စစ် အသင်တို့သည် ကျူးလွန်သူများ ဖြစ်ကြကုန်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

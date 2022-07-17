@@ -710,6 +710,12 @@ A dzhinovete sŭtvorikhme ot plamŭka na ogŭnya predi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	လူသားတို့ကို မဖန်ဆင်းမီ ငါသည် ဂျင်နတ်သားတို့ကို မီးမှ ဖန်ဆင်းတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ဂျင်(န်)သတ္တဝါကို (လူသားအားဖန်ဆင်းတော်မမူမီ)အလျင်က ပူပြင်းလှစွာသော မီးဖြင့် ဖန်ဆင်းတော်မူခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Nima pritezhavat dyal ot vlastta! Togava te ne shte dadat na khorata i brazditsa
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။	သို့မဟုတ် ထိုသူများသည် အလ္လာဟ်အသျှင်မြတ်၏ အချုပ်အခြာအာဏာပိုင်သတော်မူခြင်း၌ ဝေစုရှိကြသလော။ ယင်းသို့ရှိခဲ့လျှင် သူတို့သည့် လူသားတို့အား စွန်ပလွံ့စေ့အပေါ်တွင်ရှိသော အစွန်းကွက်ကလေးမျှလောက်ပင် ပေးကမ်းကြမည်မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ်၊ ၎င်း (ယဟူဒီ) တို့၌ တစ်စိတ်တဒေသမျှ ဩဇာအာဏာသည် ရှိလေသလော။ သို့ ရှိခဲ့ပါလျှင် (မိမိတို့ရရှိထားသော ဩဇာအာဏာများအနက်မှ) နှမ်းစေ့ခန့်မျှပင်၊ သူတစ်ပါးတို့အား ပေးကြလိမ့်မည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ot milost kŭm vas Toĭ stori noshtta i denya, za da si pochivate v neya i da t
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၃။	အလ္လာဟ်အရှင်မြတ်သည် မိမိ၏ကောင်းကြီးမင်္ဂလာတော်အနန္တများအနက် ညဉ့်နှင့်နေ့ကို သင်တို့အဖို့အရာ ဖန်ဆင်းတော်မူ၏၊ ညဉ့်သည် သင်တို့အိပ်စက်အမောဖြေရန်အတွက်၊ နေ့သည် သင်တို့အရှင်မြတ်၏ ကျေးဇူး တော်ကို ရှာမီးရန်အတွက်ဖြစ်၏၊ ယင်းသို့စီရင်ခြင်းသည် သင်တို့ကျေးဇူးသိကောင်းသိဖို့ရာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ထိုအရှင်မြတ်သည် မိမိကရုဏာတော်ဖြင့် အသင်တို့အဖို့ ညဉ့်နှင့်နေ့ကို၊ အသင်တို့သည် ညဉ့်၌ အနားယူကြအံ့သောငှာလည်းကောင်း၊ အသင်တို့သည်(နေ့၌)ထိုအရှင်မြတ်၏ ကျေးဇူးတော်တည်းဟူသော စားနပ်ရိက္ခာ ဖွေရှာကြအံ့သောငှာလည်းကောင်း၊ ပြုလုပ်ဖန်ဆင်းတော်မူခဲ့ပေသည်။ သို့မှသာလျှင် အသင်တို့သည် ကျေဇူးသိတတ်ကြရာသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

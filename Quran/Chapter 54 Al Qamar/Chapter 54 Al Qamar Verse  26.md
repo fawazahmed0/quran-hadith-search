@@ -710,6 +710,12 @@ Utre shte nauchat koĭ e nadmenen lŭzhets
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	ထိုသူတို့၏ တမန်တော်အား ဤသို့မိန့်တော်မူ၏၊ အို-တမန်တော်၊ မိုးသောက်နံနက်တွင် အဘယ်သူသည် မာနကြီးသောမုသားကောင်ဖြစ်သည်ကို သူတို့သိကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် မည်သူ လွန်စွာမုသားပြောဆို သူ၊ ဝင့်ကြွားသူ၊ ဖြစ်ကြောင်း မကြာမြင့်မီ နက်ဖြန်ပင် သိရှိကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

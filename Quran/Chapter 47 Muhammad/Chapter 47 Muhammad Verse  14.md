@@ -710,6 +710,12 @@ Nima sa ravni onzi, koĭto ima yasen znak ot svoya Gospod, i onzi, chieto losho
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	မိမိ၏ အရှင်သခင်အထံတော်မှ ထင်ရှားသောသက်သေသာဓကတော်ကို လိုက်နာသူသည် မတရားမှုကို နှစ်သက် သူထက်သော်လည်းကောင်း၊ တဏှာရာဂနောက်သို့ တကောက်ကောက်လိုက်သူထက် သော်လည်းကောင်း၊ သာလွန်ကောင်းမွန်သည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်မှ ထင်ရှားစွာသော သက်သေလက္ခဏာပေါ်၌ ရပ်တည်လျက်ရှိကြသော သူတို့သည် အကြင်သူတို့ကဲ့သို့ ဖြစ်ကြပါမည်လော။ ထိုသူတို့၏ မကောင်းမှုများမှာ ၎င်းတို့၏အမြင်၌ လှပတင့်တယ်အောင် ပြုလုပ်ခြင်းခံခဲ့ရလေ၏။ ထိုမှတစ်ပါး ထိုသူတို့သည် မိမိတို့၏စိတ်အလိုဆန္ဒများကို လိုက်နာခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

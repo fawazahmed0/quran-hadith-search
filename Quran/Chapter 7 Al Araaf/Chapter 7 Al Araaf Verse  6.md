@@ -710,6 +710,12 @@ Nepremenno shte razpitame onezi, pri koito otide pratenik, i shte razpitame izpr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	ထိုအခါ အကယ်စင်စစ် ငါသည် ငါ၏ကျမ်းတော်ရရှိသူတို့ကို စစ်ကြောတော်မူမည်။ ငါသည် တမန်တော်တို့ကို အမှန်ပင် စစ်ကြောတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ပြီးနောက် တဖန် ငါအရှင်မြတ်သည် တမန်တော်များ စေလွှတ်ခြင်းခံခဲ့ကြရသူတို့အား မုချစစ်ဆေး မေးမြန်းတော်မူအံ့။ ထိုနည်းတူစွာ ငါအရှင်မြတ်သည် ရစူလ်တမန်တော်တို့အားလည်း ဧကန်မလွဲ စစ်ဆေးမေးမြန်းတော်မူအံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

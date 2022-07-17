@@ -710,6 +710,12 @@ Za teb tam ima, da ne si nito gladen, nito gol
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၈။	သင်သည် ဥယျာဉ်တော်၌ မွတ်သိပ်ဆာလောင်ခြင်းကို ခံရမည်မဟုတ်၊ အဝတ်မဲ့နေရမည်လည်းမဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် အသင်၌ ယင်းဂျန္နတ်အမတသုခဘုံတွင် ဆာလောင်ခြင်းလည်း ရှိလိမ့်မည်မဟုတ်ပေ။ ၎င်းပြင်အသင်သည် အဝတက် ကင်းမြဲ့ခင်း ဖြစ် လိမ့်မည်လည်း မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

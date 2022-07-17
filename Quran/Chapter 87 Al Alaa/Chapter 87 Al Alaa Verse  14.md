@@ -710,6 +710,12 @@ Spoluchil e onzi, koĭto se prechistva
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၊၁၅။ သို့သော်မိမိကိုယ်ကို သန့်ရှင်းစေ၍ မိမိအရှင်သခင်၏ နာမတော်ကို သတိရလျက် ဆွလားသ်ဝတ်ပြုသောသူ မူကား အောင်မြင်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ အကြင်သူသည် အောင်မြင်ခဲ့လေပြီ၊ ထိုသူသည် "အီမာန်" သက်ဝင်ယုံကြည်ခြင်းအားဖြင့် စင်ကြယ်သန့်ရှင်းခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

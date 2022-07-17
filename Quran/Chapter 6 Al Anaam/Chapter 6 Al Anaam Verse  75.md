@@ -710,6 +710,12 @@ I taka pokazvame na Ibrakhim vladenieto na nebesata i na zemyata, za da e ot ube
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၅။	တမန်တော် အီဗရာဟီမ်သည် ယုံကြည်ခြင်းတရားကို မြဲမြံစွာကိုင်ထားသောသူတို့ဘောင်တွင် ပါဝင်စေခြင်းငှာ ငါသအသျှင်မြတ်သည် သူ့အား မိုးမြေနိုင်ငံတော်ကို ဤသို့ပြသတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ ငါအရှင်မြတ်သည် အစ်ဗ်ရာဟီမ်အား လေးနက်စွာ သက်ဝင်ယုံကြည်သောသူတို့တွင် အပါအဝင်ဖြစ်စေခြင်းငှာ၊ ငါအရှင်မြတ်သည် မိုးများနှင့်ကမ္ဘာမြေကို စိုးပိုင်တော်မူကြောင်းကို ပြသတော်မူခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

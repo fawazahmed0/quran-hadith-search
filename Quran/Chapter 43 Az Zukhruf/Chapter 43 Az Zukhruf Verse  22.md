@@ -710,6 +710,12 @@ Ne! Rekokha: “Zavarikhme predtsite si s religiya. I nie po tekhnite stŭpki v�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	ပေးသနားတော်မမူချေ၊ သူတို့က အကျွန်ုပ်တို့သည် မိမိတို့ဘိုးဘွားတို့အား ဘာသာအယူဝါဒတစ်မျိုးကို လိုက်နာ ကျင့်မူလျက် တွေ့ရပါ၏၊ သူတို့၏လမ်းကို လိုက်လျှောက်ကြပါ၏ဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသို့ အလျှင်းမဟုတ်။ စင်စစ်မှာကား ၎င်းတို့သည် (ဤသို့) ပြောဆိုကြကုန်၏။ ဧကန်အမှန် ကျွန်ုပ်တို့သည် မိမိတို့၏အဘ၊ ဘိုး၊ ဘေးတို့အား သာသနာ့လမ်းစဉ် တစ်ခုပေါ်၌ တွေ့ရှိခဲ့ကြပါ၏။ ဧကန်မလွဲ ကျွန်ုပ်တို့သည် ထိုအဘ၊ အဘိုး၊ဘေးတို့၏နောက်သို့ပင် ဖဝါးခြေထပ် လိုက်နာသူများပင် ဖြစ်ကြပါ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

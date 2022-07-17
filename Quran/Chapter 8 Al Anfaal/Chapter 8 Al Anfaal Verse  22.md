@@ -710,6 +710,12 @@ Naĭ-loshite tvari pred Allakh sa glukhite, nemite, koito ne proumyavat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	မှတ်သားကြလော့။ အလ္လာဟ်အသျှင်မြတ်ရှေ့တော်ဝယ် အဆိုးယုတ်ဆုံးသောတိရစ္ဆာန်မှာ အသိဉာဏ်ကင်းမဲ့သော နားပင်းသူနှင့် ဆွံ့အသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 း22| ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်အထံတော်တွင် အဆိုးဆုံးသတ္တဝါသည် အကြင် ဆွံ့အ၊ နားပင်း သောသတ္တဝါများပင် ဖြစ်ကြကုန်၏။ ထိုသတ္တဝါတို့သည်ကား (မည်သည့်တစ်စုံတစ်ရာကိုမျှ) မသိနားမလည် ကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A na Men da sluzhite! Tova e praviyat pŭt
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၁။	ထို့အပြင်ငါ့အား ခဝပ်ကိုးကွယ်ကြကုန်လော့၊ ထိုကိုးကွယ်ခြင်းသာလျှင် လမ်းမှန်ဖြစ်ကြောင်းကို ဗျာဒိတ်ချပေး တော်မူသည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အသင်တို့သည် ငါအရှင်မြတ်အားသာလျှင် ဆည်းကပ်ကိုးကွယ်ကြလေကုန်၊ ဤသည်သာလျှင် ဖြောင့်မတ်မှန်ကန်သော တရားလမ်းဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

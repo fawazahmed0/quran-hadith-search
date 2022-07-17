@@ -710,6 +710,12 @@ za da nakazhe Allakh litsemernite mŭzhe i zheni, i sŭdruzhavashtite mŭzhe i z
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၃။	ထို့ကြောင့်ဟန်ဆောင်သူယောက်ျားမိန်းမများ၊ ဘုရားတုဘုရားယောင်များကို ကိုးကွယ်ဝတ်ပြုသူယောက်ျား မိန်းမများကို အပြစ်ဒဏ်ခပ်နှပ်တော်မူ၏၊ သို့သော်အလ္လာဟ်အရှင်မြတ်သည် ယုံကြည်သူယောက်ျားမိန်းမအပေါင်း တို့ကို အပြစ်လွှတ်တော်မူ၏၊ အလ္လာဟ်အရှင်မြတ်သည် အဖန်တလဲလဲအပြစ်ဒဏ်လွှတ်တော်မူထသောအရှင်၊ အနန္တကောင်းကြီးမင်္ဂလာတော်သခင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 နောက်ဆုံးတွင် အလ္လာဟ်အရှင်မြတ်သည် မုနာဖစ်က် အယောင်ဆောင်မုစ်လင်မ် ယောက်ျား မိန်းမတို့အားလည်းေကောင်း၊ မုရှ်ရစ်က်’ တစ်စုံတစ်ရာကို အလ္လာဟ်အရှင်မြတ်နှင့်တွဲဖက်ကိုးကွယ်သူ ယောက်ျား၊ မိန်းမတို့အား လည်းကောင်း၊ ပြစ်ဒဏ်ပေးတော်မူပေမည်။ ထိုမှတစ်ပါး အလ္လာဟ်အရှင်မြတ်သည် မုအ်မင်န် သက်ဝင်ယုံကြည်သူ ယောက်ျားမိန်းမတို့ဘက်သို့ ကရုဏာတော်နှင့် ပြန်လှည့်တော်မူပေမည်။စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည်အလွန်တရာ ခွင့်လွှတ်ချမ်းသာပေးတော်မူသော၊ အလွန်တရာ သနားညှာတာတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

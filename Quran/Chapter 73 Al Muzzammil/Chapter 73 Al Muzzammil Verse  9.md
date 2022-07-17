@@ -710,6 +710,12 @@ Gospoda na Iztoka i na Zapada! Nyama drug Bog osven Nego. Nego vzemi za pokrovit
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။ အရှင်မြတ်သည် အရှေ့မျက်နှာစွန်းနှင့် အနောက်မျက်နှာစွန်း၏ အရှင်သခင်ဖြစ်တော်မူ၏၊ အရှင်မြတ်မှတပါး အခြားအရှင်သခင်မရှိချေ၊ သို့ဖြစ်၍ သင်သည် မိမိကို ကာကွယ်စောင့်ရှောက်ဖို့ရာ အရှင်မြတ်အားသာ ရွေးချယ် လော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအရှင်မြတ်)သည် နေထွက်ရာ အရပ်ကိုလည်းကောင်း၊ နေဝင်ရာ အရပ်ကိုလည်းကောင်း၊ ဖန်ဆင်းတော်မူသောအရှင် ဖြစ်တော်မူ၏။ သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်) အသင်သည် ထိုအရှင်မြတ်အားသာလျှင် ကိစ္စအဝဝကို ပြီးစီးအောင်ဆောင်ရွက်ပေးတော်မူသော အရှင်မြတ်အဖြစ် ရွေးချယ်ပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

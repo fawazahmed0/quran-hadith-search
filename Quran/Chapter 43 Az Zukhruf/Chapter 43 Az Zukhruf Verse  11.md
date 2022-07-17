@@ -710,6 +710,12 @@ I Koĭto izsipva ot nebeto voda s myarka, i sŭzhivyava s neya mŭrtvata zemya.
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	အရှင်မြတ်သည် အထက်ကောင်းကင်မှ သင့်လျော်အောင် နှိုင်းဆတိုင်းဆ၍ မိုးရေကို ရွာသွန်းစေတော်မူ၏၊ အေ-ကြားနရသူအပေါင်းတို့၊ ငါသည် ထိုမိုးရေဖြင့် မြေသေကို တဖန်ရှင်စေတော်မူ၏၊ ထိုနည်းတူသင်တို့ကို လည်း ပြန်ရှင်စေတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အကြင်အရှင်မြတ်ပင်။ ထိုအရှင်မြတ်သည် မိုးကောင်းကင်မှမိုးရေကို အတိုင်းအတာ အချိန်အဆနှင့် ရွာသွန်းစေတော်မူခဲ့၏။ တစ်ဖန် ထို အရှင်မြတ်သည် ထိုမိုးရေဖြင့်(သွေ့ခြောက်)သေလွန်ပြီးဖြစ်သော မြို့ရွာ(မြေယာ)များကို ရှင်ပြန်(စိမ်းစို) စေတော်မူခဲ့၏။ ဤနည်းအတိုင်းပင် အသင်တို့သည်လည်း (မိမိတို့သင်္ချိုင်းတွင်းမှ ရှင်ပြန်)ထွက်စေခြင်းကို ခံကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

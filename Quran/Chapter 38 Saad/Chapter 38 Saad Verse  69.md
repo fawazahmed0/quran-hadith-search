@@ -710,6 +710,12 @@ Nyamakh znanie za naĭ-vŭrkhovnite na nebesata [angeli] kak sporyat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၉။	ဟယ်-အချင်းတို့၊ ကောင်းကင်းတမန်တော်ကြီးများအချင်းချင်း ငြင်းခုံကြသောအခါ သူတို့အကြောင်းကို ငါ မသိရချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါသည် အထက်ကောင်းကင်ရှိ ပရိသတ်နှင့်၏ပတ်သက်၍၊ ၎င်းတို့အချင်းချင်း ပြောဆိုအငြင်းပွားလျက်ရှိကြစဉ် မည်သည်ကိုမျှ မသိခဲ့ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

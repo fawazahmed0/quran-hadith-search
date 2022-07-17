@@ -710,6 +710,12 @@ Mir e tya do nachaloto na razvidelyavaneto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။ ဤညသည် နံနက်အာရုဏ်တက်သည့် တိုင်အောင် ဧချမ်းသာခြင်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုညဉ့်ကား နံနက်မိုးသောက်ချိန်တိုင် ငြိမ်းချမ်းသောညပင် ဖြစ်ချေသတည်း။(ငြိမ်းချမ်းမှုချည်းသာတည်း)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

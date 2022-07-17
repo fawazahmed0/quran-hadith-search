@@ -710,6 +710,12 @@ za da yadat ot tekhnite plodove i ot onova, koeto sŭs svoite rŭtse pridobivat.
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။ထိုဥယျာဉ်များဖြင့် ကမ္ဘာမြေကြီးကို တန်ဆာဆင်ယင်ထားရခြင်းအကြောင်းမူကား ထိုဥယျာဉ်များမှ ထွက်သောအသီးအနှံ၊ ဝတ်ဆံ ပွင့်ဖူးအထူးထူးကို သူတို့မှီဝဲသုံးစားဖို့ရာ အလို့ငှာဖြစ်၏၊ ထိုသီးနှံပွင့်ဖူးများကို သူတို့ပြုလုပ်နိုင်ကြသည်မဟုတ်၊ ထို့ကြောင့်သူတို့သည် ငါ၏ကျေးဇူးတော်ကို ချီးမွမ်းကြမည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ယင်းစွန်ပလွံပင် သို့မဟုတ် စပျစ်ပင်၏အသီးများမှ စားသုံးအံ့သောငှာ စင်စစ် ထိုအသီးများကို(ကောက်ပဲသီးနှံများကို) ၎င်းတို့၏လက်များက [(တစ်နည်း)၎င်းတို့ ကိုယ်တိုင်က] ပြုလုပ်ခဲ့သည် မဟုတ်ပေ။ သို့ပါလျက် ၎င်းတို့သည် ကျေးဇူးမတင် ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

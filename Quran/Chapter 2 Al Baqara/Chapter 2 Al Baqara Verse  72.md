@@ -710,6 +710,12 @@ I kogato ubikhte edin chovek, sporekhte za tova. No Allakh razkriva, kakvoto spo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၂။	သင်တို့သည် လူတစ်ယောက်ကို သတ်ဖြတ်ပြီးလျှင် ထိုအကြောင်းနှင့်ပတ်သက်၍ အချင်းချင်း သဘောကွဲလွဲနေသောအခါ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့ဖုံးကွယ်ထားသော အကြောင်းအရာ ကို ထင်ရှားပေါ်ပေါက်စေတော်မူ၏။ ဤအဖြစ်အပျက်ကို သင်တို့ သတိရကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (အို-အစ္စရာအီလ်၏ မျိုးနွယ် အပေါင်းတို့၊ အသင်တို့သည် ပြန်လည်၍ အောက်မေ့ သတိရကြကုန်လော့) အခါတပါး၌ အသင်တို့သည် လူတဦးကို သတ်ဖြတ်ကြပြီးနောက် ယင်းလူသတ်မှုနှင့် စပ်လျဉ်း၍ အသင်တို့ အချင်းချင်း တစ်ဦးကိုတစ်ဦး စွပ်စွဲခဲ့ကြကုန်သည်။ သို့ရာတွင် အလ္လာဟ် အရှင်မြတ်သည် သင်တို့ (အနက်မှ ကာယကံရှင်များက) ထိမ်ချန် လျှို့ဝှက်ထားသော ကိစ္စကို ဖွင့်ထုတ်ဖော်ပြ ရှင်းလင်းတော်မူမည့်အရှင် ဖြစ်တော်မူသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

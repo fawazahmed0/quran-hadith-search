@@ -710,6 +710,12 @@ i ako se razboleya, Toĭ me iztselyava
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈ဝ။	ထိုအရှင်သည် ငါမနာကျန်းဖြစ်သောအခါ ဝေဒနာကင်းပျောက်ကျန်းမာခြင်းကို ပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါသည် နာဖျားသောအခါ ထိုအရှင်မြတ်သည်ပင်လျှင် ငါ့အား(ဝေဒနာ)ပျောက်ကင်းစေတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

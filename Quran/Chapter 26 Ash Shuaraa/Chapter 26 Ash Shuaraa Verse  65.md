@@ -710,6 +710,12 @@ I spasikhme Musa i vsichki, koito byakha s nego
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၅။	ငါသည် တမန်တော်မူစာနှင့်တကွ နောက်ပါအသင်းသားတို့ကို တစ်ယောက်မကျန်ကယ်ဆယ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် မူစာအားလည်းကောင်း၊ ထိုမူစာ၏အပေါင်းပါတို့ အားလည်းကောင်း၊အားလုံးကိုပင် ကယ်တင်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

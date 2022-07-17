@@ -710,6 +710,12 @@ Tezi [satani] gi vŭzpirat ot pŭtya, a te mislyat, che sa napŭteni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	အမှန်မှာ ဤရှိုင်တန်မာရ်နတ်များသည် ထိုသူတို့ကို သမ္မာတရားလမ်းတော်မှ ကာဆီးထားကြ၏၊ သို့သော် သူတို့သည် မိမိတို့လမ်းမှန်သို့ ပို့သခြင်းခံနေရသည်ဟု ထင်မှတ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ယင်း"ရှိုင်တွာန်" မိစ္ဆာကောင်တို့မှာ ထိုသူတို့အား (ဖြောင့်မတ်မှန်ကန်သောတရား) လမ်းမှ ပိတ်ပင်တားဆီးလေ့ရှိကြကုန်၏။ သို့ရာတွင် ထိုသူတို့သည် မိမိတို့မှာ လမ်းမှန်ကို ရရှိသူများဖြစ်ကြသည် ဟူ၍ပင် ထင်မှတ်လေ့ရှိကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Posle vi storikhme namestnitsi na zemyata podir tyakh, za da vidim kak postŭpva
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	ထိုရှေးလူဟောင်းများနောက် ငါသည် သင်တို့အား ကမ္ဘာမြေပေါ်ဝယ် ငါ၏ ကိုယ်စားလှယ်တော်များခန့်တော်မူ၏။ သင်တို့သည် မည်သို့ပြုကျင့်ကြမည်ကို ရှုတော်မူရန်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ငါအရှင်မြတ်သည် ၎င်း တို့၏နောက်အသင်တို့ မည်သို့ပြုလုပ်ကြသည်ကို ကြည့်ရှုတော်မူရန် အသင်တို့အား ကမ္ဘာမြေပြင်ဝယ် ကိုယ်စားလှယ်များ ပြုလုပ် တော်မူသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

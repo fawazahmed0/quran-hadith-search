@@ -710,6 +710,12 @@ Kazhi: “Dori i da ste kamŭni ili zhelyazo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅ဝ။	တမန်တော် ဟောကြားလော့၊ သင်တို့သည် ကျောက်ခဲ သို့မဟုတ် သံခဲအတိဖြစ်ငြားသော်လည်းကောင်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည်(၎င်းတို့အားဤသို့) ပြောဆိုဖြေကြားပါလေ။ အသင်တို့သည် ကျောက်ခဲသော်လည်းကောင်း၊ သံခဲသော်လည်းကောင်း၊ ဖြစ်ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

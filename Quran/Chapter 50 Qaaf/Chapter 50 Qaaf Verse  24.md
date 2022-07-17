@@ -710,6 +710,12 @@ Bacite vas dvojica u Džehennem svakog nezahvalnika, buntovnika
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	ထိုအခါအလ္လာဟ်အရှင်မြတ်မိန့်တော်မူသည်မှာ အေ-ကောင်းကင်တမန်တော်နှစ်ဦး၊ သင်တို့သည် ငရဲထဲသို့ ထောင်ထားခြားနားသော ကျေးဇူးကန်းသူကို ပစ်ချကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအရှင်မြတ်သည် ကောင်းကင်တမန် နှစ်ပါးတို့အား မိန့်ကြားတော်မူပေမည်။) အသင်တို့နှစ်ဦးသည် အကြင်သူတိုင်းအား ‘ဂျဟန္နမ်’ ငရဲဘုံထဲသို့ ပစ်ချကြလေကုန်။ ထိုသူသည် ကျေးဇူးကန်းသော၊ ဇွတ်တရွတ်နိုင်သော၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

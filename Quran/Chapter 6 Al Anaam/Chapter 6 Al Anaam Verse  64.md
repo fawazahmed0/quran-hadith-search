@@ -710,6 +710,12 @@ Kazhi: “Allakh vi spasyava ot tova i ot vsyaka gorest, a posle pak sŭdruzhava
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၄။	တစ်ဖန် ဟောကြားလော့။ အလ္လာဟ်အသျှင်မြတ်သည် သင်တို့အား ဘေးရန်အားလုံးမှ ကယ်နှုတ် တော်မူ၏။ သို့ပါလျက် သင်တို့သည် အသျှင်မြတ်အား ဘက်စပ်သူများပေးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (၎င်းတို့ အားဤသို့) ပြောကြားပါလေ၊ (အချင်းတို့) အလ္လာဟ်အရှင်မြတ်သည်သာလျှင် အသင်တို့အား ထို(ဘေးအန္တရာယ်)တို့မှလည်းကောင်း၊ (အခြားအခြားသော) ဘေးအန္တရာယ်တိုင်းမှလည်းကောင်း၊ (စိတ်ဒုက္ခအပေါင်းမှလည်ေးကာင်း၊) လွတ်မြောက်စေတော်မူ၏။ ထို(သို့ လွတ်မြောက်စေတော်မူပြီး) နောက်၌လည်းအသင်တို့သည် (အခြားအရာများကို) ထိုအရှင်မြတ်နှင့် တွဲဖက်(ယှဉ်တွဲ၍) ကိုးကွယ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kogato vlyazokha pri nego i rekokha: “Mir!”, reche: “Nie se strakhuvame ot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၂။	ထိုဧည့်သည်တော်များသည် တမန်တော်အေဗရာဟမ်ထံ လာရောက်၍ အေးချမ်းသာယာပါစေသော်ဝ်ဟု မေတ္တာပို့ နှုတ်ဆက်ကြ၏။ တမန်တော်က အကျွနု်ပ်တို့သည် သင်တို့ကို အမှန်ပင်ကြောက်ရွံ့ပါ၏ဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ရံရောအခါဝယ် ထိုဧည့်သည်များသည်ယင်း (နဗီတမန်တော်)အစ်ဗ်ရာဟီမ်၏ထံသို့ ဝင်ရောက်ခဲ့ကြကုန်၏။ ထိုအခါဝယ် ယင်းဧည့်သည်တို့က စလာမ်ငြိမ်းချမ်းသာယာမှုသည်(အသင်တို့အပေါ်၌)သက်ရောက်ပါစေသားဟုပြောဆိုခဲ့ကြကုန်၏။ (ထိုအခါ) ယင်း(နဗီတမန်တော်)အစ်ဗ်ရာဟီမ်က ဧကန်စင်စစ် ကျွန်ုပ်တို့သည် အသင်တို့အားကြောက်ရွံ့ စိုးရိမ်ကြပါသည်ဟု ပြောဆိုခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

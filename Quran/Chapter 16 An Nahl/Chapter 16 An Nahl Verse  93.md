@@ -710,6 +710,12 @@ I ako Allakh pozhelaeshe, Toĭ shteshe da vi stori edna obshtnost. Ala ostavya 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၃။	အလ္လာဟ်အရှင်မြတ်သည် အလိုရှိတော်မူပါလျှင် သင်တို့အားလုံးကို လူမျိုးတမျိုးတည်းဖြစ်စေတော်မူခဲ့လတ့ံ။ သို့သော် အရှင်မြတ်သည် လမ်းမှားကို သွားစေတော်မူလိုသူအား လမ်းမှားကို သွားစေတော်မူ၏။ လမ်းမှန်ကို ပြသလိုသူအား လမ်းမှန်ကို ပြသတော်မူ၏။ သင်တို့အား သင်တို့ပြုကျင့်လေ့ရှိမှုများကို မုချစစ်ကြောမေးမြန်း တော်မူလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့အြုပင် အကယ်၍သာ အလ္လာဟ် အရှင်မြတ်သည် အလိုရှိတော်မူခဲ့ပါလျှင် အမှန်ပင် အသင်တို့အား သာသနာဝင် အုပ်စုတစ်စုတည်း ပြုလုပ်တော်မူခဲ့ပေမည်။ သို့ရာတွင်ထိုအရှင်မြတ်သည် မိမိအလိုမရှိတော်မူသောသူအား လမ်းမှား၌ထားရှိတော်မူ၍ မိမိအလိုရှိတော်မူသောသူအား တရားလမ်းမှန်သို့ ပို့တော်မူလေသည်။ ထိုမှတစ်ပါး အသင်တို့သည် မိမိတို့ကျင့်မူခဲ့သမျှသော အမှုများနှင့်စပ်လျဉ်း၍ အမှန်မုချ စစ်ဆေးမေးမြန်းခြင်းကို ခံကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

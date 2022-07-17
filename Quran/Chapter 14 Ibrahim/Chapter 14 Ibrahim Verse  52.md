@@ -710,6 +710,12 @@ Tova e [Poslanie] za khorata i za da bŭdat uveshtavani s nego, i za da znayat, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၂။	ဤကုရ်အာန်ကျမ်းတော်မြတ်သည် စာရင်းရှင်းမှု၌ လျင်မြန်တော်မူ၏။ ရှင်းလင်းထင်ရှားသောဗျာဒိတ်တော် ဖြစ်၏။ သူတို့ကို ကျမ်းတော်မြတ်အားဖြင့် သွန်သင်ဆုံးမသတိပေးရန်သော်လည်းကောင်း၊ အရှင်မြတ်သည် တဆူတည်းသောအရှင်သခင်ဖြစ်ကြောင်းကို သူတို့သိနားလည်ရန်သော်လည်းကောင်း၊ စဉ်းစားဆင်ခြင်တတ်သော ပုဂ္ဂိုလ်တို့သည် သတိတရားရရှိရန်သော်လည်းကောင်း၊ ဤကျမ်းတော်မြတ်ကို ပြဋ္ဌာန်းချပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤ(ကုရ်အာန်ကျမ်းတော်မြတ်)သည်ကား လူတို့အဖို့ အကြောင်းကြားချက်သည်လည်းကောင်း၊ ထို့ပြင် ထိုသူတို့သည် သတိပေးနှိုးဆော်ခြင်း ခံကြရ အံ့သောငှာလည်းကောင်း၊ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် တစ်ဆူတည်းသောကိုးကွယ်ရာအရှင်ဖြစ်တော်မူကြောင်း။ ထိုသူတို့ သိရှိယုံကြည်အံ့သောငှာလည်းကောင်း၊ ထို့ပြင်တစ်ဝ နိသမ္မဉာဏ်ရှင်တို့သည် တရားရကြအံ့သောငှာလည်းကောင်း၊ ဖြစ်ချေသတည်း
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

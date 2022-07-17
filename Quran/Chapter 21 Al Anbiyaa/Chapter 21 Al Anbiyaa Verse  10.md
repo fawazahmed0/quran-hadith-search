@@ -710,6 +710,12 @@ Veche vi nizposlakhme Kniga, v koyato ima proslava za vas. Nima ne proumyavate
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	ယခုငါအရှင်မြတ်သည် သင်တို့အား သင်တို့၏ သတိပေးတရားတော်ပါသောကျမ်းတော်မြတ်ကို ပြန်ထုတ်ပေး သနားတော်မူပြီး သင်တို့၌ ဆင်ခြင်တုံတရားမရှိသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မလွဲဧကန် ငါအရှင်မြတ်သည် အသင်တို့ထံအကြင်ကဲ့သို့သော ကျမ်းဂန်တစ်စောင်ကို ပေးသနားတော်မူခဲ့ပြီးဖြစ်၏။ ယင်းကျမ်းဂန်တွင် အသင်တို့အား သတိပေး နှိုးဆော်ချက်(များ)ပါရှိ၏။ သို့ပါလျက် အသင်တို့သည် မသိ နားမလည်ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

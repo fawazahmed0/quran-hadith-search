@@ -710,6 +710,12 @@ I koĭ ima po-khubavo slovo ot onzi, koĭto zove kŭm Allakh i vŭrshi pravedn
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	အကြင်သူသည် မိမိတို့၏ အရှင်သခင်အား ဝတ်ပြု၏၊ သုစရိုက်ကောင်းမှုကို ပြကျင့်၏၊ အကျွနု်ပ်သည် ယုံ ကြည်ကျိုးနွံသူတို့ဘောင်တွင် ပါဝင်ပါသည်ဟု ဆို၏၊ ထိုသူ၏ စကားထက် အဘယ်သူ၏စကားသည် သာလွန် သာယာနာပျော်ဖွယ်ဖြစ်သနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အကြင်သူထက် စကားအရာ၌ ကောင်းမြတ်သူကား အဘယ်သူနည်း။ ထိုသူသည်(သူတစ်ပါးတို့အား) အလ္လာဟ်အရှင်မြတ်ဘက်တော်သို့ ဖိတ်ခေါ်သည့်ပြင် (မိမိကိုယ်တိုင်လည်း) ကောင်းမြတ်သော အကျင့်သီလကိုကျင့်မူဆောက်တည်၏။ ထိုမှတစ်ပါး ဧကန်မလွဲ ကျွန်ုပ်သည်(မုစ်လင်မ်)အမိန့်တော်ကို နာခံသောသူတစ်ဦးဖြစ်သည်ဟုပြော၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

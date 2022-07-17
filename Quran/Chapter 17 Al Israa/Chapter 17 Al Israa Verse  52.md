@@ -710,6 +710,12 @@ Denya, v koĭto Toĭ shte vi pozove i shte otkliknete na Negovata povelya, i s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၂။	အရှင်မြတ်သည် သင်တို့အား ခေါ်တော်မူသောနေ့တော်ကြီး၌ သင်တို့သည် အရှင်မြတ်၏ ဂုဏ်ကျေးဇူးတော်ကို ချီးကျူးခြင်းဖြင့် ထူးကြလတ့ံ။ ထိုအခါသင်တို့သည် ခေတ္တခဏမျှနေခဲ့ရသည်ဟု ထင်ကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်နေ့တွင် ထိုအရှင်မြတ်သည် အသင်တို့အား ခေါ်တော်မူမည်။ ထိုအခါ အသင်တို့သည် ထို အရှင်မြတ်အား ချီးမွမ်းကာထူးကြပေမည်။ (အမိန့် တော်နာခံကြပေမည်)ထို့ပြင် အသင်တို့သည် မိမိတို့မှာ(လူ့လောကတွင်) အနည်းငယ်မျှသာနေထိုင်ခဲ့သည်ဟု ထင်မြင်ယူဆကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

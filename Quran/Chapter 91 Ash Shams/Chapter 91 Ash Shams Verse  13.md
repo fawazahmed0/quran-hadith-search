@@ -710,6 +710,12 @@ i pratenikŭt na Allakh [Salikh] im kaza: “Ne posyagaĭte na kamilata na Alla
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။ အလ္လာဟ်၏ တမန်တော်က သူတို့အား အချင်းတို့၊ ဤကုလားအုတ်မသည် အလ္လာဟ်အရှင်မြတ်၏ ဘဏ္ဍာတော် ဖြစ်၏၊ ၄င်းကို ရေမသောက်စေခြင်းငှာ ပိတ်ပင်တားဆီးခြင်း မပြုလုပ်ကြလင့်ဟု မိန့်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ အလ္လာဟ်အရှင်မြတ်၏ရစူလ်တမန်တော်(ဆွာလစ်ဟ်)က ၎င်းတို့အား(အချင်းတို့) အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ ကုလားအုတ်မကို (သတ်ဖြတ်ခြင်းမှ)လည်းကောင်း၊ ထိုကုလားအုတ်မ ရေသောက်ခြင်းကို (တားမြစ်ခြင်းမှ)လည်းကောင်း၊ (ရှောင်ကြဉ်ကြလေကုန်ဟု) ပြောကြား(သတိပေး)ခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

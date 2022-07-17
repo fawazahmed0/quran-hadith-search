@@ -710,6 +710,12 @@ I reche: “O, znatni, koĭ ot vas shte mi donese neĭniya tron, predi da doi�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	ထို့အပြင်စိုလိုင်မာန်က အမတ်ကြီးတို့၊ ထိုရှင်ဘုရင်မသည် အကျွနု်ပ်ထံ ကျိုးနွံစွာချဉ်းကပ်မလာမီ သူမ၏ ရာဇပလ္လင်ကို အကျွန်ုပ်ထံသို့ သင်တို့အနက် အဘယ်သူယူဆောင်လာမည်နည်းဟု မေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုစုလိုင်မာန်က "အို-မှူးမတ်အပေါင်းတို့။ ၎င်းတို့သည် ငါ့ထံသို့ "မွတ်စ်လင်မ်" အမိန့်ကို နာခံသူများအဖြစ် မရောက်လာကြမီ၊ အသင်တို့အနက် မည်သူသည် ထိုဘုရင်မ၏ရာဇပလ္လင်ကို ငါ့ထံသို့ ယူလာနိုင်သနည်း" ဟု ပြောဆိုမေးမြန်းခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

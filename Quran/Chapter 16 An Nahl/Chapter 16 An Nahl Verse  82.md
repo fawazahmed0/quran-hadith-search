@@ -710,6 +710,12 @@ A otmetnat li se [o, Mukhammad], tvoĭ dŭlg e samo yasnoto poslanie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၂။	သို့ဖြစ်ပါလျက် သူတို့သည် တရားတော်ကို မနာယူကျောခိုင်းသွားလျှင်၊ မိုဟမ္မဒ်၊ သင်၏ တာဝန်မှာ တရား ဒေသနာတော်ကို ဟောကြားသွန်သင်ရန်သာလျှင်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ပါလျက် အကယ်၍ ၎င်းတို့သည် မျက်နှာလွဲလွှဲဖယ်ခဲ့ကြပါလျှင် (အို-နဗီတမန်တော်) အသင်၏အပေါ်၌(ငါအရှင်မြတ်၏အမိန့်တော်များကို) အတိအလင်း ပို့ဆောင်ရန်တာဝန်သာလျှင်ရှိပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

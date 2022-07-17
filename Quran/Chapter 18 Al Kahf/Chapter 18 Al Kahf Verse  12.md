@@ -710,6 +710,12 @@ Posle gi sŭbudikhme, za da otlichim koya ot dvete grupi shte presmetne kakŭv s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	ထို့နောက်သူတို့နှစ်စုအနက် အဘယ်အစုသည် မိမိတို့လှိုင်ဂူထဲတွင် အချိန်မည်မျှကြာသည်ကို ကောင်းမွန်စွာ တွက်ချက်နိုင်သည်ကို သိတော်မူဖို့ရာ ငါသည် သူတို့ကို ပြန်ထစေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနောက် ငါအရှင်မြတ်သည် ၎င်းတို့အား ထိုအုပ်စုနှစ်စုအနက် မည်သည့်အုပ်စုသည် ၎င်းတို့ နေထိုင်ခဲ့ကြသော (အချိန်ကာလ၏)အဆုံးအစွန်ကို ရေတွက်မှတ်သားခဲ့သည်ကို သိအံ့သောငှာ ပြန်နိုးစေတော်မူခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

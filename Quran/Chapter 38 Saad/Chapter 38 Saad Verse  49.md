@@ -710,6 +710,12 @@ Tova e napomnyane. Za bogoboyazlivite ima prekrasna obitel
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	ဤကျမ်းတော်မြတ်သည် အဆုံးအမသတိပေးတရားတော်ဖြစ်၏၊ မှတ်သားကြလော့၊ ဒုစရိုက်မကောင်းမှုကို ရှောင်ကြဉ်သူတို့အတွက်မူကား သူတို့၏ ခရီးပန်းတိုင်သည် သုမင်္ဂလာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည် ဆုံးမဩဝါဒတစ်မျိုးပင်၊ (ဤသည် အဆုံးအမ ဩဝါဒတစ်ပါးပင်)၊ ၎င်းပြင် ဧကန်မလွဲ သူတော်စင်တို့အဖို့ ကောင်းမြတ်သော နောက်ဆုံး အကျိုးဆက်သည် အမှန်ပင်ရှိ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

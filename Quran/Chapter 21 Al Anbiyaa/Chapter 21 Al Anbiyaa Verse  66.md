@@ -710,6 +710,12 @@ Reche: “Nima vmesto na Allakh shte sluzhite na onova, koeto nito mozhe da vi p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၆။	ထိုအခါသူဟောပြောသည်မှာ ဟယ်-အချင်းတို့၊ သို့ပါလျက်သင်တို့သည် အလ္လာဟ်အရှင်မြတ်မှတပါး သင်တို့ကို ကောင်းကျိုးဆိုးကျိုးလုံးဝမပေးနိုင်သောဘုရားပျက်တို့ကို မြတ်နိုးကိုးကွယ်ကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(အခါ)အိဗ်ရာဟီမ်က သို့ပါလျက် အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အပြင် အကြင်အရာကို ခ၀ပ်ကိုးကွယ်ကြလေသလော။ ထိုအရာသည် အသင်တို့အား လုံးဝအကျိုးဖြစ်ထွန်း စေနိုင်သည်လည်းမဟုတ်ပေ။ အသင်တို့အား အကျိုးယုတ်စေနိုင်သည်လည်း မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

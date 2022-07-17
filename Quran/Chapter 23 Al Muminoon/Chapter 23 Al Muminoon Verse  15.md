@@ -710,6 +710,12 @@ Posle podir tova shte umrete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	ထို့နောက်သင်တို့သည် မုချအမှန်သေကြရမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် ဧကန်အမှန် အသင်တို့သည် ထို (ထူး ဆန်းအံ့ဖွယ်ဖြစ်သော အခြေအနေတို့ကို ကျော်လွန်ပြီး)နောက် အမှန်ပင် အသက်သေဆုံးကြရမည့်သူများ ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

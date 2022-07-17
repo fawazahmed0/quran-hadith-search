@@ -710,6 +710,12 @@ I reche tsaryat: “Dovedete mi go!” I kogato pratenikŭt doĭde pri nego, [Y
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅ဝ။	မင်းကြီးသည် အိပ်မက်ပြန်သူကို ငါ့ထံသို့ ယူခဲ့လော့ဟု မိန့်တော်မူ၏။ မင်းကြီးစေလွှတ်သူသည် ယူစွတ်(ဖ်)ထံ ရောက်သောအခါ ထိုသူအား သင်၏ သခင်ထံသို့ ပြန်၍ မိမိတို့လက်ကို သားလှီးဓားနှင့်လှီးမိသောမိန်းမတို့သည် မည်သို့နေပါသနည်းဟု လျှောက်လော့။ စင်စစ်အားဖြင့်ငါ၏ အရှင်၊ သခင်သည် သူတို့၏ ပရိယာယ်မာယာကို သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ဘုရင်မင်းက အသင်တို့သည် ထိုယူဆွဖ်အား ငါ့ထံသို့ ပင့်ဆောင်ခဲ့ကြလေကုန်ဟု မိန့်ကြားခဲ့လေသည်။ တစ်ဖန် စေတမန်သည် ထိုယူဆွဖ် ထံသို့ရောက်ရှိလေသော် ထိုယူဆွဖ်က(စေတမန်အား) အသင်သည် မိမိသခင်ထံသို့ ပြန်၍သွားပါလေ။ ထို့နောက် အသင်သည်ထိုဘုရင်အား မိမိလက်များကိုလှီးခဲ့ကြသော အမျိုးသမီးတို့၏(လက်ရှိ) အခြေအနေသည် မည်သို့ရှိပါသနည်းဟု လျှောက်ထားမေးမြန်းပါလေ။ ဧကန်အမှန် ငါ့အားဖန်ဆင်း မွေးမြူတော်မူသော အရှင်မြတ်သည် ထိုအမျိုးသမီးတို့၏ ပရိယာယ်မာယာကို ကောင်းစွာသိရှိတော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

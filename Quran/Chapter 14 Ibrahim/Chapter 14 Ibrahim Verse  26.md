@@ -710,6 +710,12 @@ A loshata duma e kato loshoto dŭrvo. Iztrŭgnato e ot zemyata i nyama to ustoi�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	မကောင်းစကားသည် မမြဲမမြံမြေမှ နှုတ်ပစ်ခံရသောသစ်ပင်ဆိုးနှင့်တူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ညစ်ညမ်းသောစကား၏ ဥပမာပုံဆောင်ချက်ကား အကြင်ညစ်ညမ်းသော သစ်ပင်တစ်ပင်ကဲ့သို့ပင်။ ထိုသစ်ပင်သည် မြေ၏အပေါ်ယံမှ နှုတ်ပစ်ခြင်းကို ခံခဲ့ရလေရာ၊ ၎င်း၌ မြဲမြံခိုင်ခံ့မှု အလျင်းမရှိချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

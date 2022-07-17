@@ -710,6 +710,12 @@ Nie veche ti dadokhme sedemte povtaryashti se znameniya i velikiya Koran
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၇။	ငါသည် မကြာခဏဖတ်ရွတ်ရသောဂါထာတော်ခုနစ်ပါးနှင့် ကုရ်အာန်ကျမ်းတော်ကြီးကို သင့်အား ထုတ်ပြန် ချပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ဧကန်မလွဲ ငါအရှင်မြတ်သည် အသင့်အား အဖန်တလဲလဲ (ရွတ်ဖတ်သရဇ္ဈာယ်ရ)သော (အာယတ်တော်)ခုနစ်ပါးကိုလည်းကောင်း၊ ကြီး ကျယ်မြင့်မြတ်လှစွာသောကုရ်အာန်ကျမ်းတော်မြတ်ကိုလည်းကောင်း၊ ချီးမြှင့်ပေးသနားတော်မူခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

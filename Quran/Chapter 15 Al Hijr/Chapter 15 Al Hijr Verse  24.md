@@ -710,6 +710,12 @@ Znaem predishnite ot vas i znaem ostavashtite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	အကယ်စင်စစ် ငါသည် သင်တို့အနက် စိတ်အားထက်သန်လျင်မြန်သူနှင့် ပျင်းရိဖင့်နွဲသောအပေါင်းတို့ကို အကုန်အစင်သိမြင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် မုချစင်စစ် ငါအရှင်မြတ်သည် အသင်၏တို့အနက်မှ ရှေးလူဟောင်းတို့ကိုလည်း ကောင်းစွာ သိတော်မူပြီးဖြစ်လေသည်။ ထိုနည်းတူစွာ မုချစင်စစ် ငါအရှင်မြတ်သည်အသင်တို့အနက်မှ နောင်လာနောက်သားတို့ကိုလည်း ကောင်းစွာ သိတော်မူပြီး ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A koito vyarvat i vŭrshat pravedni dela, shte gi vŭvedem v Gradinite, sred koi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၂။	အကြင်သူတို့သည် ယုံကြည်လျက် သုစရိုက်ကောင်းမှုများကို ပြုကျင့်ကြ၏။ ထိုသူတို့အား ငါအသျှင်မြတ်သည် မြစ်ချောင်းအသွယ်သွယ် စီးဆင်းလျက်ရှိသော သုခဥယျာဉ်တော်များသို့ အမြဲထာဝစဉ်နေရန် ပို့ဆောင်တော်မူလိမ့်ည်။ ဤအကြောင်းသည် အလ္လာဟ်အသျှင်မြတ်၏ ဂတိဗျာဒိတ်တော်အစစ်ဖြစ်၏။ စကားပြောဆိုရာ၌ အဘယ်သူသည် အလ္လာဟ်အသျှင်မြတ်ထက် သာွန်၍ အမှန်ကို ဆိုနိုင်သနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကြင်သူများသည်‘အီမာန်’ ယုံကြည်ခဲ့ကြ၏။ ၎င်းပြင် ကောင်းမြတ်သောကျင့်ဝတ်များကိုလည်း ကျင့်မူခဲ့ကြ၏။ ငါအရှင်မြတ်သည် မကြာမြင့်မီ ထိုသူတို့အား (အကြင်သို့သော) ဥယျာဉ်များသို့ ဝင်ရောက်နေထိုင်စေတော်မူအံ့။ ထိုဥယျာဉ်များအောက်မှ စမ်းရေချောင်းများသည် စီးတွေလျက်ရှိကြအံ့။ ထိုသူများသည် ထိုဥယျာဉ်များတွင် အမြဲထာဝစဉ် နေထိုင်စံမြန်းကြအံ့။ အလ္လာဟ်အရှင်မြတ်သည် မှန်ကန်သောကတိကိုပြုထားတော်မူသည်။ အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်ထက်ပိုမို၍ စကားအရာ၌မှန်ကန်သောသူသည် မည်သူရှိအံ့နည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

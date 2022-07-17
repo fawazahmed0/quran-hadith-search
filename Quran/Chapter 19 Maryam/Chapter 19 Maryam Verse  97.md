@@ -710,6 +710,12 @@ Ulesnikhme go [kato go nizposlakhme] na tvoya ezik [o, Mukhammad], samo za da bl
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၇။	အို-တမန်တော်၊ ငါသည် ကုရ်အာန်ကျမ်းတော်မြတ်ကို လွယ်လင့်တကူနားလည်စေရန်၊ သင်၏ ဘာသာစကား ဖြင့် ထုတ်ပြန်ချပေးသနားတော်မူ၏။ ထိုကျမ်းတော်သည် ဒုစရိုက်မကောင်းမှုကို ရွံရှာမုန်းတီး၍ ရှောင်ကြဉ် သူတို့အား အကျိုးသုခရမည့်သတင်းကောင်းကိုသော်လည်းကောင်း၊ ဆိုဆုံးမ၍ မရသူတို့အား အပြစ်ဒုက္ခခံရမည့် သတင်းဆိုးကိုသော်လည်းကောင်း၊ ပေးဖို့ရာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ငါအရှင်မြတ်သည်ပင် ယင်း(ကုရ်အာန်ကျမ်းတော်မြတ်)ကို အသင်၏ဘာသာစကားဖြင့် လွယ်ကူအောင် ပြုလုပ်တော်မူခဲ့ပေသည်။ သို့မှသာလျှင် အသင်သည်ယင်း(ကုရ်အာန်ကျမ်းတော်မြတ်)ဖြင့် မွတ္တကီသူတော်စင်တို့အားသတင်းကောင်းပြောကြားခြင်းကိုလည်းကောင်း၊ စကားအငြင်းပွားအားကြီးသောအမျိုးသားတို့အား ယင်း(ကုရ်အာန်ကျမ်းတော်မြတ်)ဖြင့် သတိပေးနှိုးဆော်ခြင်းကိုလည်းကောင်း၊ ပြုနိုင်မည် ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

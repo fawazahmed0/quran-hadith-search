@@ -710,6 +710,12 @@ prepitanie za rabite. I sŭzhivyavame s neya mŭrtva zemya. Taka shte bŭde i v�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	ထိုအသီးအနှံများကို လူသားတို့အတွက် ရိက္ခာဖြစ်စေသောငှာ ဖန်ဆင်းတော်မူ၏၊ ငါသည် မိုးရေအားဖြင့် သေနေသောမြေကြီးကို တဖန်ရှင်စေတော်မူ၏၊ ထို့အတူသင်တို့ကိုလည်း သေပြီးသည့်နောက် ပြန်ရှင်စေတော် မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကျွန်များအဖို့ စားနပ်ရိက္ခာအဖြစ် ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ထိုမိုးရေဖြင့် သေလွန်ခြောက်သွေ့ လျက်ရှိသောမြေကို ရှင်စေတော်မူ၏။ (လူအပေါင်းတို့ရှင်၍) ပြန်ထွက်ခြင်းမှာလည်း ထိုနည်းအတိုင်းပင် ဖြစ်ချေအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

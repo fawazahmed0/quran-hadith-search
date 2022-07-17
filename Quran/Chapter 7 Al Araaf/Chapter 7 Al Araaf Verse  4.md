@@ -710,6 +710,12 @@ I kolko selishta pogubikhme! Zastigashe gi Nasheto mŭchenie noshtem ili kogato 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	ငါအသျှင်မြတ်သည် များလှစွာသော မြို့ရွာနယ်ပယ်တို့ကို ဖျက်ဆီးတော်မူပြီး ငါ၏အပြစ်ဒဏ်တော် သည် သူတို့အပေါ်သို့ ညဉ့်အခါသောလည်းကောင်း၊ နေ့အခါ သူတို့အိပ်နေစဉ်သော်လည်းကောင်း ဆိုက်ရောက်လာ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် များစွာသော မြို့ရွာများကိုဖျက်ဆီးတော်မူခဲ့လေသည်။ သို့ဖျက်ဆီးရာတွင် ငါအရှင်မြတ်၏ပြစ်ဒဏ်သည် ထိုမြို့သူမြို့သားရွာသူရွာသားတို့အပေါ်ဝယ်ညဉ့်အချိန်၌သော်လည်းကောင်း၊ ထိုသူတို့သည် နေ့လည်အချိန်တွင် အပန်းဖြေနေကြသောအခါ၌သော်လည်းကောင်း၊ ဆိုက်ရောက်ခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

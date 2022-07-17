@@ -710,6 +710,12 @@ I povecheto ot tyakh ne vyarvat v Allakh, osven sŭdruzhavaĭki
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၆။	သူတို့အနက်များလှစွာသောသူတို့သည် အလ္လာဟ်အရှင်မြတ်နှင့် ဘုရားတုများကို တွဲဖက်ခြင်းမှတပါး အရှင်မြတ် အား မယုံကြည်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ၎င်းတို့အနက် များစွာသောသူတို့သည် အလ္လာဟ်အရှင်မြတ်အား တစ်စုံတစ်ရာကို ထိုအရှင်မြတ်နှင့်တွဲဖက်နှိုင်းယှဉ်ကိုးကွယ်ခြင်း မပြုဘဲ သက်ဝင်ယုံကြည်ကြသည် မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

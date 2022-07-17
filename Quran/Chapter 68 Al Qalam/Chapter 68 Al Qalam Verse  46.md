@@ -710,6 +710,12 @@ Ili tŭrsish ot tyakh otplata, ta sa obremeneni s dŭlg
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။ သို့တည်းမဟုတ်၊ အို-တမန်တော်၊ သင်သည် သူတို့ထံမှ အဖိုးအခတောင်းသောကြောင့် သူတို့ကို ယင်းအဖိုး အခက ကြီးလေးစွာဖိစီးထားသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ၎င်းတို့ထံ အကျိုးကျေးဇူး တစ်စုံတစ်ရာကို တောင်းဆိုသဖြင့် ၎င်းတို့သည် ဒဏ်ငွေဆောင်မှုကြောင့် ဖိစီးခြင်းခံနေ ကြရလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

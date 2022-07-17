@@ -710,6 +710,12 @@ Da bŭde sŭbrano [v tvoite gŭrdi] i cheteno [ot teb] e Nasha grizha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။ အမှန်မှာ ကုရ်အာန်ဂါထာတော် အလုံးစုံကို စုရုံး၍ ပြဌာန်း ကြေငြာခြင်းမှာ ငါ၏ တာဝန်တော်သာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ယင်း(ကုရ်အာန်ကျမ်းတော်မြတ်)ကို စုပေါင်းခြင်းသည်လည်းကောင်း၊ ထိုနည်းတူစွာ (ယင်းကုရ်အာန်ကျမ်းမြတ်ကို) ဖတ်စေခြင်းသည်လည်းကောင်း၊ ငါအရှင်မြတ်၏ တာဝန်ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

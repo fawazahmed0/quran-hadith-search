@@ -710,6 +710,12 @@ V tozi Den zastŭpnichestvoto ne shte pomogne, osven na onzi, komuto Vsemilostiv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၉။	ထိုနေ့တော်ကြီး၌ မဟာဂရုဏာတော်သခင်ခွင့်ပြုထားတော်မူသောသူ၏ တောင်းပန်ကယ်နှုတ်ခြင်းမှတပါး အခြား တောင်းပန်ကယ်နှုတ်ခြင်းသည် အကျိုးမပေးချေ၊ ထိုအခွင့်ရသူ၏ တောင်းပန်ခြင်းကို လက်ခံတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနေ့တွင် ကြားဝင်အသနားခံခြင်းသည်အကြင်သူမှတစ်ပါး(မည်သူတစ်ဦးတစ်ယောက်အဖို့မျှပင်)အကျိုးပေးလိမ့်မည်မဟုတ်ပေ။ ထိုသူနှင့် ပတ်သက်၍ ရဟ်မာန်အနန္တကရုဏာတော်ရှင်သည် ခွင့်ပြုတော်မူခဲ့လေသည်။ ၎င်းပြင် ထိုအရှင်မြတ်သည် ၎င်း၏စကား တစ်စုံတစ်ရာကို နှစ်သက်တော်မူခဲ့ လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I nima Onzi, Koĭto sŭtvoryava, e kato onzi, koĭto ne mozhe da sŭtvoryava? 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	ဖန်ဆင်းခြင်းကို ပြုသောအရှင်မြတ်သည် ဖန်ဆင်းခြင်းကို မပြုသူနှင့်အတူတူပင်လော၊ သို့ပါလျက် သင်တို့သည် သတိရကြမည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ပါလျက် ဖန်ဆင်းတော်မူသော အရှင်မြတ်သည် တစ်စုံတစ်ရာကိုမျှ မဖန်ဆင်းနိုင်သော သူကဲ့သို့ ဖြစ်တော်မူပါမည်လော။ သို့ပါလျက် အသင်တို့သည် (ဤမျှပင်) သတိမရကြလေသသလော။ (နားမလည်ကြလေသလော)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ S tova gi nakazakhme za tyakhnoto neverie. Nima nakazvame drugi osven neblagodar
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	ငါ၏ ကျေးဇူးတော်ကို မသိ၊ မချီးကျူးခြင်းကြောင့် ငါသည် သူတို့အား ဤပြစ်ဒဏ်တော်ကြီးကို ခပ်နှိပ်တော် မူ၏၊ ငါသည် ကျေးဇူးကန်းသောမိစ္ဆာမိုက်မှတပါး အခြားသူတို့ကို အပြစ်ဒဏ်ပေးတော်မူဖူးသဘော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤကား ငါအရှင်မြတ်သည် ၎င်းတို့အား ၎င်းတို့၏ ကျေးဇူးကန်းမှုကြောင့် ပေးတော်မူခဲ့သော အပြစ်ဒဏ်ပင်ဖြစ်၏။ စင်စစ်သော်ကား ငါအရှင်မြတ်သည် အလွန်ကျေးဇူးကန်းသော သူတို့အားသာလျှင်(ယင်းကဲ့သို့သော)အပြစ်ပေးလေ့ရှိတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

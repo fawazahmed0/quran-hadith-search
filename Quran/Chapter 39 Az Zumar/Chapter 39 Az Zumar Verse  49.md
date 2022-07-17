@@ -710,6 +710,12 @@ I shtom beda spoleti chovek, toĭ Nas zove. Posle, shtom mu darim ot Nashata bl
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	ယခုမူကား လူသားတစ်ယောက်အား ဘေးဥပါဒ်ထိခိုက်လျှင် ထိုလူသည် ငါအရှင်မြတ်ထံ ငိုကြွေးဆုတောင်း၏၊ ထို့ကြောင့် ငါသည် သူ့အား ကောင်းကြီးမင်္ဂလာပြုတော်မူသောအခါ သူက ဤချမ်းသာမှုကို ငါ၏ ပညာဉာာဏ် အစွမ်းဖြင့်သာ ငါရ၏ဟု ဝါကြွား၏၊ ယင်းသို့မဟုတ်ချေ၊ သူ့အား စုံစမ်းခြင်းမျှသာဖြစ်၏၊ သို့သော်သူတို့အနက် များစွာသောသူတို့သည် မသိကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ်သော်ကား မနုဿလူသား၌ ဘေးဒုက္ခတစ်စုံတစ်ရာ ဆိုက်ရောက်ခဲ့သောအခါ ထိုလူသားသည် ငါအရှင်မြတ်အား ဟစ်ခေါ်တမ်းတ၏။ ထို့နောက် ငါအရှင်မြတ်သည် ၎င်းအား မိမိအထံတော်မှ ကျေးဇူးတော်တစ်စုံတစ်ရာကို ချီးမြှင့်ပေးသနားတော် မူသောအခါ ထိုလူသားက "ငါသည် ဤသည့်ကျေးဇူးတော်ကို (မိမိ)အကြံအစည် တစ်ခုကြောင့်သာလျှင် ရရှိခဲ့ခြင်းဖြစ်သည်"ဟု ပြောဆို၏။ ထိုသို့ အလျှင်းမဟုတ်။ စင်စစ် ဤသည့် ကျေးဇူးတော်မှာကား စမ်းသပ်မှုတစ်ရပ်ပင်တည်း။ သို့ရာတွင် ထိုလူသားတို့အနက် အများဆုံးသောသူတို့မှာ သိရှိကြသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

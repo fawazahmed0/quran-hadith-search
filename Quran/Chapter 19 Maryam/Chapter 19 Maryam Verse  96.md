@@ -710,6 +710,12 @@ Na onezi, koito vyarvat i vŭrshat pravedni dela, Vsemilostiviya shte otredi lyu
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၆။	မှတ်သားကြလော့၊ ယုံကြည်၍ သုစရိုက်အမှုအခင်းများကို ပွားများသူတို့သည် မဟာဂရုဏာတော်သခင်၏ ချစ်မြတ်နိုးခြင်းဆုမင်္ဂလာတော်ကို ရကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အကြင်သူတို့သည် သက်ဝင် ယုံကြည်ကြကုန်၏။ ၎င်းပြင် ထိုသူတို့သည် ကောင်း မြတ်သောအကျင့်သီလများကိုလည်း ကျင့်မူ ဆောက်တည်ကြကုန်၏။ရဟ်မာန် အနန္တကရုဏာတော်ရှင်သည် မကြာမြင့်မီပင် ၎င်းတို့အဖို့ ချစ်ကြည်မြတ်နိုးမှုကို ပြုလုပ်၍ ပေးတော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

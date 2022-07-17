@@ -710,6 +710,12 @@ Gospodi nash, vŭzdaĭ im dvoĭno ot mŭchenieto i gi prokŭlni s golyamo prok
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၈။	အို-အကျွနု်ပ်တို့၏အရှင်သခင်၊ ထိုသူတို့အား အကျွနု်ပ်တို့ထက် နှစ်ဆထမ်းပိုးတိုး၍ ညှင်းပန်းတော်မူပါ၊ အလွန်ပြင်းထန်သောကျိန်ဆဲခြင်းနှင့်လည်း ကျိန်ဆဲတော်မူပါဟု ဆက်လက်တင်လျှောက်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ကျွန်တော်မျိုးတို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ အရှင်မြတ်သည် ၎င်းတို့အား ပြစ်ဒဏ်နှစ်ဆပေးတော်မူပါ။ ထိုမှတစ်ပါး အရှင်မြတ်သည် ၎င်းတို့အားကရုဏာတော်မှ အလွန့်အလွန် ကင်းဝေးစေတော်မူပါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

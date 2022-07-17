@@ -710,6 +710,12 @@ Shtom pristignat, Toĭ shte kazhe: “Nima vzekhte za lŭzha Moite znameniya, v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၄။	ထိုသူတို့သည် မိမိတို့၏အရှင်သခင်၏ ရှေ့တော်မှောက်သို့ ရောက်ရှိသောအခါ အရှင်မြတ်သည် သူတို့အား သင်တို့သည် ငါ၏ကျမ်းမြတ်ကုရ်အာန်ကို ကျနသေသပ်စွာနားမလည်ပဲလျက် ကျမ်းတော်ကို မယုံကြည်ဖယ်ရှားခဲ့ ကြသလော၊ သို့မဟုတ်သင်တို့သည် အဘယ်အရာကို ပြုခဲ့ကြသနည်းဟု မေးမြန်းတော်မူလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 နောက်ဆုံးတွင် ၎င်းတို့သည်(အလ္လာဟ်အရှင်မြတ်၏ ရှေ့တော်မှောက်သို့) ရောက်ရှိ၍ လာခဲ့ကြသောအခါ ထိုအရှင်မြတ်က အသင်တို့သည် ငါအရှင်မြတ်၏ အာယတ်တော်များကို မိမိတို့အသိပညာအားဖြင့် ယင်းအာယတ်တော်များ ဝန်းခြုံခြင်းမရှိကြသေးမီပင် မဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ်ခဲ့ကြလေသလော။ သို့တည်းမဟုတ် အသင်တို့သည် မည်သည်တို့ကို ပြုလုပ်လျက်ရှိခဲ့ကြသနည်းဟု မိန့်ကြားတော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

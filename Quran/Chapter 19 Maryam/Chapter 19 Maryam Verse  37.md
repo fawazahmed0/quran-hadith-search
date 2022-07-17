@@ -710,6 +710,12 @@ No izpadnakha v raznoglasie grupite pomezhdu si. Gorko na onezi, koito ne vyarva
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	သူတို့အထဲ၌ ဂိုဏ်းအသင်းများကွဲပြားခြားနားကြ၏။ အလွန်ကြောက်မက်ဖွယ်သောနေ့တော်ကြီး၏ အစည်းအဝေး ကို မယုံကြည်သူတို့သည် ပျက်စီးရမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ၎င်း(ခရစ်ယာန်)တို့အနက် အုပ်စုအသီးသီးတို့သည် အထင်အမြင် အယူအဆ ကွဲပြားခဲ့ ကြလေသည်။ သို့ဖြစ်ပေရာ ကြီးကျယ်လှစွာသော (ကိယာမတ်)နေ့ရောက်ရှိလာသောအခါ ကာဖိရ်သွေဖည်ငြင်းပယ်သူတို့၌(အကြီးအကျယ်) ပျက်စီးမှုသည် ရှိအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Reche: “Ne! Moyat Gospod e s men i Toĭ shte me napŭti!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	တမန်တော်က ယင်းသို့မဟုတ်ချေ၊ အကြောင်းမူကားအကျွန်ုပ်၏ အရှင်သခင်သည် အကျွနု်ပ်နှင့်တကွ မုချ ရှိတော်မူ၏၊ အရှင်မြတ်သည် အကျွနု်ပ်အား ညွှန်ပြတော်မူမည်ဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) မူစာက အလျှင်း(အဖမ်းခံကြရမည်)မဟုတ်။ မလွဲဧကန် ငါ့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် ငါနှင့်အတူ ရှိတော်မူပေရာ၊ ယခုပင် ထိုအရှင်မြတ်သည် ငါ့အား(ပင်လယ်မှထွက်နိုင်ရန်) လမ်းညွှန်တော်မူမည်ဟုပြန်ကြားခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

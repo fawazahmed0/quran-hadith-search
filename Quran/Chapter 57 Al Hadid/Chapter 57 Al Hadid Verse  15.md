@@ -710,6 +710,12 @@ Dnes ne shte bŭde vzet otkup nito ot vas, nito ot onezi, koito ne povyarvakha. 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	ထို့ကြောင့်ယနေ့၌မူကား သင်တို့နှင့်မိစ္ဆာဒိဋ္ဌိတို့အပြစ်ချမ်းသာစေရန် လျော်ကြေးကို ယူမည်မဟုတ်ချေ၊ သင်တို့ နေထိုင်ရာဋ္ဌာနသည်ကား ငရဲပြည်သာတည်း၊ ထိုငရဲပြည်သာတည်း၊ ထိုငရဲပြည်သည် သင်တို့၏ နာယကဖြစ်၏၊ ကံဆိုးမိုးမှောင်ဖြစ်ရသောခရီးအဆုံးတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ယနေ့သော်ကား အသင်တို့ထံမှလည်း မည်သည့်လျော်ကြေးမျှ လက်ခံယူမည်မဟုတ်ပေ၊’ကာဖိရ်’ သွေဖည်ငြင်းပယ် သူတို့ထံမှလည်း လက်ခံမည် မဟုတ်ပေ၊ အသင်တို့ (အားလုံးတို့)၏ နေရာထိုင်ခင်းများမှာ(ငရဲ)မီးပင်ဖြစ်၏။ ယင်း(ငရဲ) မီးသည်ပင်လျှင် အသင်တို့၏အဖော်ဖြစ်၏။ စင်စစ်မှာမူကား ယင်းပြန်လည်ရာစခန်းမှာ ဆိုးယုတ်လှပေစွတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

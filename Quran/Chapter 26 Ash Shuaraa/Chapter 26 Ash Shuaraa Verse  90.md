@@ -710,6 +710,12 @@ I Rayat shte bŭde priblizhen za bogoboyazlivite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉ဝ။	နိဗ္ဗာန်ဥယျာဉ်တော်အား ဒုစရိုက်မှုကို ရှောင်ကြဉ်သူတို့အတွက် နီးကပ်လာစေတော်မူလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (ထိုနေ့တွင်) ‘ဂျန္နတ်’ သုခဘုံသည် ပြစ်မှုဒုစရိုက်တို့မှ ကြဉ်ရှောင်ကြကုန်သော သူတော်စင်တို့နှင့် နီးကပ်စွာထားရှိပြီး ဖြစ်ပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

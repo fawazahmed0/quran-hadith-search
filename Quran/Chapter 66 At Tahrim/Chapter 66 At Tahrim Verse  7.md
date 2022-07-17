@@ -710,6 +710,12 @@ O, nevernitsi, ne se opravdavaĭte Dnes! Shte vi se vŭzdade samo za onova, koe
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။ ဟယ်-မိစ္ဆာဒိဋ္ဌိတို့၊ နင်တို့သည် ယနေ့မှ နင်တို့အပြစ်လွှတ်ရန် မချေဆိုကြလင့်၊ နင်တို့အား နင်တို့ပြုကျင့်ခဲ့သော မကောင်းမှု၏ အကျိုးကိုသာ ပေးခြင်းဖြစ်၏ဟု မိန့်တော်မူလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-"ကာဖိရ်" သွေဖည်ငြင်းပယ်သူအပေါင်းတို့၊ ယနေ့ အသင်တို့သည် (မည်သို့မျှ) အကြောင်း မပြကြကုန်လင့်။ အသင်တို့သည် မိမိတို့ ကျင့်မူနေခဲ့ကြသော (အမှုကိစ္စ)နှင့် စပ်လျဉ်း၍သာ အစားပေးခြင်းကို ခံနေကြရခြင်း ဖြစ်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

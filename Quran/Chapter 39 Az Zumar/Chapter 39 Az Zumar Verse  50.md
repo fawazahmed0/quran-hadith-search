@@ -710,6 +710,12 @@ Kazvakha go veche i onezi predi tyakh. I ne gi izbavi onova, koeto sa pridobili
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅ဝ။	ထိုသူတို့မဖြစ်ပေါ်မီ ဖြစ်ထွန်းလာသောရှေးလူဟောင်းတို့လည်း ဤကဲ့သို့ပင် ဝါကြွားခဲ့၏၊ သို့သော်သူတို့၏ စည်းစိမ်ချမ်းသာများသည် သူတို့အား တစုံတခုသောအကျိုးကို မပေးချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ဤသည့်ပြောဆိုမှုကို ၎င်းတို့အလျင် ရှိခဲ့ကြသောသူများကလည်း ပြောဆိုခဲ့ဘူးကြကုန်၏။ သို့တစ်စေလည်း ၎င်းတို့၏ဆည်းပူးချက် တို့မှာ (ပြစ်ဒဏ်ကာကွယ်ရန်) ၎င်းတို့အဖို့ အသုံးဝင်ခဲ့သည် မရှိပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

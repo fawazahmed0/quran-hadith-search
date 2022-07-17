@@ -710,6 +710,12 @@ Prakhosnitsite sa bratya na satanata. Satanata kŭm svoya Gospod e golyam neblag
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	မှတ်သားကြလော့။ ဥစ္စာပစ္စည်းဖြုန်းတီးသူသည် ရှိုင်တန်မာရ်နတ်များ၏ ညီအစ်ကိုများဖြစ်ကြ၏။ ရှိုင်တန် မာရ်နတ်သည် မိမိ၏ ကျေးဇူးတော်သခင်အား အမြဲကျေးဇူးကန်းသူဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ အလဟဿဖြုန်းတီးသူတို့သည်ရှိုင်တွာန်မိစ္ဆာကောင်၏ ညီသားအစ်ကိုများပင် ဖြစ်ကြကုန်သည်။ စင်စစ် ရှိုင်တွာန်မိစ္ဆာကောင်သည် မိမိကို ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အား အလွန် ကျေးဇူးကန်းသူပင်ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

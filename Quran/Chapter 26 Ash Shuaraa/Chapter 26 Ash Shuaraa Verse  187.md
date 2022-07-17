@@ -710,6 +710,12 @@ Spusni vŭrkhu nas kŭsove ot nebeto, ako govorish istinata!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈၇။	သင်သည် အမှန်ဆိုပါလျှင် အထက်ကောင်းကင်၏ အစအနများ အကျွနု်ပ်တို့အပေါ်သို့ကျအောင် သင်ပြုလော့ဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်သည် သစ္စာဝါဒီတို့တွင် အပါအဝင်ဖြစ်မူ ကျွန်ုပ်တို့အပေါ်၌ မိုးကောင်းကင်၏ အစိတ်အပိုင်းတစ်ခုခု ကျလာအောင် သင်ပြုလုပ်ပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

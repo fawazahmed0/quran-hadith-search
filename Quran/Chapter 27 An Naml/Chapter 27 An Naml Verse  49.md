@@ -710,6 +710,12 @@ Rekokha: “Da se zakŭlnem v Allakh, che prez noshtta shte napadnem Salikh i ne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	သူတို့က ဟယ်-အချင်းတို့၊ အကျွနု်ပ်တို့သည် ဆွာလေ(ဟ်)နှင့် သူ၏အိမ်သူအိမ်သားတို့ကို ညဉ့်တွင် အမှန် တိုက်ခိုက်သတ်ဖြတ်ပြီးနောက် သူ၏မိတ်ဆွေတို့အား သူတို့အား သတ်ဖြတ်ဖျက်ဆီးနေသည်ကို အကျွနု်ပ်တို့သည် မမြင်ကြချေ၊ မှတ်သားကြလော့၊ အကျွနု်ပ်တို့သည် မှန်ကန်သောစကားကို ဆိုသူများအမှန်ဖြစ်ကြ၏ဟု အကျွနု်ပ် တို့သည် အလ္လာဟ်အား တိုင်တည်၍ အချင်းချင်းသစ္စာဆိုကြအ့ံဟု ပြောကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့က ပြောဆို(တိုင်ပင်)ခဲ့ကြကုန်၏။ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား တိုင်တည်၍ ထိုဆွာလိဟ်အားလည်းကောင်း၊ ထိုဆွာလိဟ်နှင့် ပတ်သက်သော သူတို့အားလည်းကောင်း၊ ညဉ့်အချိန်၌ သွားရောက်သတ်ဖြတ်ရန် ကျိန်ဆိုခဲ့ကြလေသည်။ ပြီးနောက် ထိုဆွာလိဟ်၏ အမွေစားအမွေခံတို့အား ၎င်းနှင့်ပက်သက်သောသူများ အသတ်ခံကြရသောအချိန်တွင် ကျွန်ုပ်တို့ တွေ့မြင်ခဲ့ကြသည် မဟုတ်ပေ။ ထို့ပြင် ဧကန်မလွဲ ကျွန်ုပ်တို့သည် သစ္စာဝါဒီများပင် ဖြစ်ကြသည်ဟု ပြောဆိုကြမည့်အကြောင်း အချင်းချင်း ပြောဆိုခဲ့ကြလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I khorata vŭrkhu Stenata shte izvikat kŭm mŭzhe, koito uznavat po tekhniya be
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	အထက်ဘဝဂ်တွင် နေထိုင်ကြသောသူတို့သည် အမှတ်သညာရှိသူတို့ကို ၎င်းတို့ အမှတ်သညာ အားဖြင့် သိရှိ၍ ခေါ်ပြီးလျှင် သင်တို့၏ အချွေအရံနှင့် သင်တို့ဂုဏ်ယူသောရာတို့သည် သင်တို့အား အဘယ်အကျိုးပေးကြသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အအ်ရာဖ် ၌ ရှိသူတို့က အကြင်(များပြားစွာသော) သူတို့ကို ဟစ်ခေါ်ကြကုန်အံ့။ ၎င်းတို့သည်ထိုသူတို့အား ထိုသူတို့၏အမှတ်အသားဖြင့် မှတ်မိကြကုန်အံ့။(ထို့နောက်) ၎င်း(အမြင့်၌ရှိသူ) တို့က (ဤသို့)ပြောဆိုကြလတ္တံ့။အသင်တို့၏အသင်းအဖွဲ့ လူစုများပြားခြင်းသည်လည်းကောင်း၊ အသင်တို့ မာန်မာနထောင်လွှားခြင်းသည်လည်းကောင်း အသင်တို့အဖို့ အသုံးမဝင်ခဲ့ချေပြီတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

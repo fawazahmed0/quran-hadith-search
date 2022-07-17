@@ -710,6 +710,12 @@ Za kakvo Allakh da vi izmŭchva, ako ste priznatelni i vyarvashti? Allakh e priz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၇။	သင်တို့သည် အလ္လာဟ်အသျှင်မြတ်၏ဂုဏ်ကျေးဇူးတော်များကို ချီးကျူး၍ အသျှင်မြတ်အား ယုံကြည် ကြလျှင် အလ္လာဟ်အသျှင်မြတ်သည် သင်တို့အား အပြစ်ဒဏ်ခတ်တော်မူရန် အဘယ်အကြောင်း ရှိသနည်း။ အလ္လာဟ်အသျှင်မြတ်သည် ကောင်းမှုကို နှစ်သက်တော်မူသောအသျှင်၊ သိမြင်တော် မူသောအသျှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို- ‘မုနာဖစ်က်’ အယောင်ဆောင်မွတ်စ်လင်မ်အပေါင်းတို့၊ အကယ်၍သာ အသင်တို့သည် (အလ္လာဟ်အရှင်မြတ်၏ အတိုင်းမသိ အဆုံးမရှိသော) ကျေးဇူးတော်များကိုသိကြ၍ ‘အီမာန်’ ယုံကြည်ခြင်း သဒ္ဓါတရားထားရှိကြပါမူ အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့အား အဘယ်သို့လျှင် အပြစ်ဒဏ်ပေးတော်မူအံ့နည်း။ အမှန်စင်စစ်သော်ကား အလ္လာလ်အရှင်မြတ်သည် ကောင်းမှုပြုသူတို့အား ရက်ရောစွာ ကောင်းကျိုးပေးသနားတော်မူသောအရှင်၊ အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့သိရှိတော်မူသော အရှင်မြတ်ပင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

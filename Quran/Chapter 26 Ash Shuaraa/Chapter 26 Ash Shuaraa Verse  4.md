@@ -710,6 +710,12 @@ Ako Nie pozhelaem, shte im spusnem znamenie ot nebeto i shte svedat glavi pred n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	ငါအလိုတော်ရှိလျှင် အထက်ကောင်းကင်ဘုံမှ တစ်ခုတစ်ခုသောနိမိတ်လက္ခဏာအ့ံဖွယ်တော်ကို ၎င်းတို့အပေါ်သို့ ချပေးတော်မူလတ့ံ၊ ထိုအခါသူတို့၏ လည်ကုတ်များသည် ထိုနိမိတ်လက္ခဏာတော်ရှေ့မှောက်၌ ကိုင်းညွတ်လျက် နေကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍သာ ငါအရှင်မြတ်သည် အလိုရှိတော်မူပါလျှင် မိုးကောင်းကင်မှ သက်သေလက္ခဏာတော် တစ်ပါးကို ၎င်းတို့အပေါ်၌ ချပေးတော်မူမည်။ ထိုအခါ ၎င်းတို့၏ လည်တိုင်များသည် ယင်းသက်သေလက္ခဏာ၏ ရှေ့မှောက်ဝယ် ကိုင်းညွှတ်ရိုကျိုး လာကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

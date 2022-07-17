@@ -710,6 +710,12 @@ Kratko naslazhdenie - i za tyakh ima bolezneno mŭchenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၇။	ခေတ္တခဏ်စိမ်ခံခြင်းသည် သူတို့၏ ဝေစုဖြစ်၏။ သူတို့အဖို့ အပြစ်ဒဏ်သည် အလွန်ပြင်းပြနာကျင်သော ဒဏ်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အနည်းငယ်မျှအကျိုးခံစားမှုပင် ဖြစ်ပေသည်။၎င်းပြင် ထိုသူတို့၌ ပြင်းပြနာကျင်ဖွယ်ဖြစ်သော အပြစ်ဒဏ်သည် ရှိပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

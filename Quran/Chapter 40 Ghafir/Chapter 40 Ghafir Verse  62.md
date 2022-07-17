@@ -710,6 +710,12 @@ Tova e Allakh, vashiyat Gospod, Tvoretsŭt na vsyako neshto. Nyama drug Bog osve
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	သင်တို့၏ အသင်သခင်ကျေးဇူးရှင်၊ ခပ်သိမ်းကုန်သောဝထ္ထုအစုစုကို ဖန်ဆင်းတော်မူသောအရှင်၊ အလ္လာဟ် အရှင်မြတ်သည် ယင်းကဲ့သို့ဖြစ်တော်မူ၏၊ အရှင်မြတ်မှတပါး အခြားအရှင်သခင်မရှိချေ၊ သို့ပါလျက် သင်တို့သည် အဘယ်ကြောင့်လမ်းလွဲကြသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည်ပင် အသင်တို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရာခပ်သိမ်းတို့ကို ဖန်ဆင်းတော်မူသော အလ္လာဟ်အရှင်မြတ် ဖြစ်တော်မူ၏။ ထိုအရှင်မြတ်မှတစ်ပါး ဆည်းကပ်ကိုးကွယ်ရာ အရှင်ဟူ၍ အလျှင်းမရှိချေ။ သို့ဖြစ်ပေရာ အသင်တို့သည် အဘယ်သို့ ပြန်လှည့်ခြင်းခံကြရသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

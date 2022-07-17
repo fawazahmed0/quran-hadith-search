@@ -710,6 +710,12 @@ Toĭ e, Koĭto razprostrya zemyata i stori po neya nepoklatimi planini i reki,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	တဖန် အလ္လာဟ်အရှင်မြတ်သည် မဟာပထဝီမြေကြီးကို ဖြန့်ခင်း၍လည်းကောင်း၊ မြေပေါ်၌ တောတောင်မြစ် ချောင်းစသည်တို့ကို ဖန်ဆင်းထားတော်မူ၏။ ထိုမြေပေါ်တွင် အသီးအနှံများ၊ ဖို-မစုံတွဲ စုံတွဲစီစီရင်ထားတော်မူ၏။ အရှင်မြတ်သည် ညဉ့်ကို နေ့အားဖြင့် ဖုံးလွှမ်းထားတော်မူ၏။ မှတ်သားကြလော့။ ဤအချင်းအရာများတွင် စဉ်းစားတတ်သူတို့အဖို့အရာ သက်သေသာဓကတော်များပါရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည်ပင်လျှင် ပထဝီမြေကို ဖြန့်ခင်းတော်မူခဲ့သောအရှင် ဖြစ်တော်မူပေသည်။ ၎င်းပြင် ထိုအရှင်မြတ်သည်ပင် ထိုပထဝီမြေ၌ တောင်များကိုလည်းကောင်း၊ ချောင်းမြစ်တို့ ကိုလည်းကောင်း၊ ပြုလုပ်ဖန်ဆင်းတော်မူခဲ့၏။ ထို့ပြင် ထိုအရှင်မြတ်သည် ယင်းပထဝီမြေ၌သစ်သီးဝလံ အသီးသီးကို နှစ်မျိုးစီ ဖန်ဆင်းတော်မူခဲ့၏။ ထိုအရှင်မြတ်သည် ညဖြင့်နေ့ကို ဖုံးအုပ်ခဲ့တော်မူ၏။ ဧကန်မလွဲဤသည်တို့၌ စဉ်းစားဆင်ခြင်ကုန်သော သူတို့အဖို့ အမှန်ပင်သက်သေလက္ခဏာများသည် ရှိချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

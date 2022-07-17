@@ -710,6 +710,12 @@ koito razdavat i v radost, i v beda, i za sdŭrzhashtite gneva si, i za izvinyav
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၄။	ထိုသူတို့သည် ချမ်းသာဆင်းရဲမဟူ အသျှင်မြတ်ပေးသနားတော်မူသော ဥစ္စာပစ္စည်းမှ အလှူဒါန ပေးကြ၏။ မိမိတို့စိတ်ဒေါသကို ချုပ်တည်းကြ၏။ သူတစ်ပါးကို အပြစ်လွှတ်ကြ၏။ အလ္လာဟ် အသျှင်မြတ်သည် သူတော်ကောင်းတို့ကို ချစ်မြတ်နိုးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတော်စင်များသည် စီးပွားတိုးတက်ချောင်လည်စွာရှိသော အချိန်အခါများ၌လည်းကောင်း၊ ဆင်းရဲဒုက္ခရောက်ရှိသောအခါများ၌လည်းကောင်း (အချိန်အခါမရွေး)ပေးကမ်းစွန့်ကြဲ လှူဒါန်းကြကုန်၏။ (ထိုသူတော်စင်များသည်)အမျက်ဒေါသကို ချုပ်တည်းမျိုသိပ်သောသူများလည်းဖြစ်ကြကုန်၏။ လူသားတို့အား ခွင့်လွှတ်သူများလည်း ဖြစ်ကြကုန်၏။ စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် (ယင်းသို့)ကောင်းမှုပြုလုပ်သောသူများအား နှစ်သက်တော်မူချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

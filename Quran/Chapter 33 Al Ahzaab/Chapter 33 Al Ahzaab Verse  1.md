@@ -710,6 +710,12 @@ O, Proroche, boĭ se ot Allakh i ne slushaĭ nevernitsite i litsemerite! Allak
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။	အို-တမန်တော်၊ သင်သည် အလ္လာဟ်အရှင်မြတ်၏ ဝတ်ကို ပြေအောင်ပြုလော့၊ မယုံကြည်သူနှင့် ယုံကြည် ဟန်ဆောင်သူများ၏ စကားကို နားမထောင်လင့်၊ မှတ်သားလော့၊ အရှင်မြတ်သည် အကြွင်းမဲ့သိတော်မူ၏၊ ပညာရှိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-နဗီတမန်တော်၊ အသင်သည် အလ္လာဟ်အရှင်မြတ်အား ကြောက်ရွံ့၍ပင်နေပါလေ၊ ထို့ပြင် အသင်သည် ကာဖိရ်သွေဖည်ငြင်းပယ်သော သူတို့၏ ပြောဆိုချက်ကိုလည်းကောင်း၊မုနာဖစ်က် အယောင်ဆောင်မုစ်လင်မ်တို့၏ပြောဆိုချက်ကိုလည်းကောင်း၊ မလိုက်နာပါလေနှင့်။ ဧကန်မလွဲအလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို အကြင်းမဲ့သိတော်မူသော၊ ဆင်ခြင်တုံတရားနှင့်ပြည့်စုံတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

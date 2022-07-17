@@ -710,6 +710,12 @@ I dadokhme na Musa Pisanieto, i go storikhme napŭt·stvie za sinovete na Israil
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	ငါသည် တမန်တော်မူစာအား ကျမ်းတော်တစောင်ကို ချပေးသနားတော်မူ၏။ ထိုကျမ်းတော်မြတ်ကို အစ္စရာအီလ် အမျိုးသားတို့အတွက် လမ်းညွှန်ကျမ်းတော်ဖြစ်စေတော်မူ၏။ ငါ၏ ဗျာဒိတ်တော်မူကား သင်တို့သည် ငါမှတပါး အခြားအုပ်ထိန်းသူမရှာကြလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ငါအရှင်မြတ်သည် (နဗီတမန်တော်)မူစာအား ကျမ်းဂန်ဒေသနာတော်ကို ချီးမြှင့်ပေးသနားတော်မူခဲ့လေသည်။ ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ယင်းကျမ်းဂန်ဒေသနာတော်ကို အစ္စရာအီလီမျိုးနွယ်အဖို့ အသင်တို့သည်ငါအရှင်မြတ်မှတစ်ပါး အခြားမည်သည့် တစ်စုံတစ်ရာကိုမျှ အားကိုးအားထားရာမပြုလုပ်ကြကုန်လင့်ဟူ၍ တရားလမ်းညွှန်ပြုတော် မူခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

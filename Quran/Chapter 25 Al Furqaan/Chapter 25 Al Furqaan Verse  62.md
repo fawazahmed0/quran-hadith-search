@@ -710,6 +710,12 @@ Toĭ e, Koĭto stori noshtta i denyat da se sledvat za zhelaeshtiya da se pouc
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	၎င်းအပြင် အကြင်သူသည် သတိရလိုပါ၏၊ သို့မဟုတ်ကျေးဇူးတင်လို၏၊ ထိုသူအတွက် နေ့နှင့်ညကို အလှည့်ကျ အဆက်မပြတ်ဖြစ်ပေါ်လာအောင် ဖန်ဆင်းသောသူသည် အရှင်မြတ်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည်ပင် အကြင်သူ၏အဖို့ ညဉ့်ကိုလည်းကောင်း၊ နေ့ကိုလည်းကောင်း၊ တစ်ခု၏ နောက်တစ်ခု အလှည့်ကျသွားလာသောအရာများပင် ပြုလုပ်တော်မူခဲ့၏။ ထိုသူသည် သိနားလည်ရန်အလိုရှိခဲ့၏။ သို့တည်းမဟုတ် ကျေးဇူးသိတတ်ရန် ရည်စူးခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

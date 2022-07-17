@@ -710,6 +710,12 @@ I Allakh go sgrabchi s nakazanie v otvŭdniya i v zemniya zhivot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။ သို့သော်အလ္လာဟ်အရှင်မြတ်သည် ထိုသူအား ဖမ်းဆီးတော်မူ၏၊ ဤဘဝနောင်ဘဝအတွက် စံနမူနာတပါးဖြစ်စေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အလ္လာဟ်အရှင်မြတ်သည် ထိုဖစ်ရ်အောင်န်အား အာခိရတ်တမလွန်ဘဝ၏ ပြစ်ဒဏ်၌လည်းကောင်း၊ လောကီဘဝ၏ပြစ်ဒဏ်၌လည်းကောင်း၊ ဖမ်းဆီး ကွပ်မျက်တော်မူခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

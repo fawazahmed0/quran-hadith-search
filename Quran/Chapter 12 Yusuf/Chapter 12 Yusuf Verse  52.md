@@ -710,6 +710,12 @@ To je zato da on zna da ga ja nisam tajno iznevjerila i da Allah ne da da se ost
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၂။	ဤအကြောင်းအရာကို ကြားရသောအခါ ယူစွတ်(ဖ်)က အကျွနု်ပ်သည် မိမိသခင်အား သူ၏ ကွယ်ရာတွင် တိတ်ဆိတ်လျှို့ဝှက်စွာသစ္စာမဖောက်ကြောင်းကို အကျွနု်ပ်၏ သခင်သိဖို့ရာ ဤအမှုအခင်းအကြောင်းကို အကျွနု်ပ် စုံစမ်းမေးမြန်းပါ၏။ အမှန်ကိုဆိုသော် အလ္လာဟ်အရှင်မြတ်သည် သစ္စာဖောက်သူတို့၏ ဖျားယောင်းမှုများကို ထမြောက်အောင်မြင်စေတော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤ(သို့အပြစ်ကင်းကြောင်းကို ထင်ရှားစေခြင်းသည်)ကား ထိုအဇိဇ်သည် ၎င်း၏နောက်ကွယ်ရာတွင် ၎င်းအားကျွန်ုပ် အမှန်ပင် သစ္စာမဖောက်ခဲ့ကြောင်း ၎င်းပြင် ဧကန်အမှန် အလ္လာဟ်အရှင်မြတ်သည် သစ္စာဖောက်သောသူတို့၏အကြံအစည်ကို (အထမြောက်အောင်မြင်စေရန်အလို့ငှာ)နည်းလမ်းပေးတော်မူသည်မဟုတ်ကြောင်း (ပိုမိုကောင်းမွန်စွာ)သိနားလည်ရန် ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

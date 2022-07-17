@@ -710,6 +710,12 @@ WE MA NETENEZZELU ‘ILLA BI’EMRI RABBIKE LEHU MA BEJNE ‘EJDINA WE MA HALFEN
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၄။	ကောင်းကင်တမန်တော်ဖြစ်သောအကျွနု်ပ်တို့သည် သင်၏ ကျေးဇူးတော်သခင်၏ ဗျာဒိတ်တော်နှင့်သာ သက် ဆင်းလာကြ၏။ အကျွနု်ပ်တို့၏ ရှေ့၌သော်လည်းကောင်း၊ နောက်၌သော်လည်းကောင်း၊ ရှေ့နောက်စပ်ကြား၌ သော်လည်းကောင်း၊ ရှိရှိသမျှအပေါင်းတို့သည် အလ္လာဟ်အရှင်မြတ်၏ ဘဏ္ဍာတော်များသာတည်း။ သင်၏ ကျေးဇူးတော်သခင်သည် မည်သည့်အခါမှ မေ့လျော့တော်မူမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ကျွန်ုပ်တို့(ကောင်းကင်တမန်များ)သည်အသင်အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၏ အမိန့်တော်မရှိဘဲလျက် ဆင်းသက်ကြသည် မဟုတ်ပေ။ ကျွန်ုပ်တို့ရှေ့၌ရှိသောအရာများသည်လည်းကောင်း၊ ကျွန်ုပ်တို့၏ နောက်၌ရှိသော အရာများသည်လည်းကောင်း၊ ယင်း၏အကြား၌ရှိသောအရာများသည်လည်းကောင်း၊ ထိုအရှင်မြတ်ပိုင်ဆိုင်တော်မူသောအရာများသာလျှင် ဖြစ်ကုန်၏။ စင်စစ် အသင်အားဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည် မေ့လျော့တော်မူသောအရှင် အလျှင်းမဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

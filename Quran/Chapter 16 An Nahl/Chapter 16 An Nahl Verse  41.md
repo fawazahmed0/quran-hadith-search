@@ -710,6 +710,12 @@ A koito se preselikha zaradi Allakh, sled kato byakha ugneteni, shte gi nastanim
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	အကြင်သူတိုပသည် အလ္လာဟ်အရှင်မြတ်၏ သာသနာတော်ကြီးကြောင့် မတရားနှိပ်စက်ခံရသဖြင့် မိမိတို့နေရာ အရပ်ကို စွန့်ပစ်ထွက်ပြေးရကြအ့ံ။ ထိုသူတို့အား ငါသည် အကယ်စင်စစ်ဤပစ္စုပ္ပန်ဘဝလောကတွင် အိုးအိမ် ပေးသနားတော်မူမည်။ အမှန်မှာ နောင်ဘဝ၏ ဆုတော်သည် သာလွန်ကြီးမား၏။ သူတို့သိလျှင် ကောင်းလေစွ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား နှိပ်စက်ညှဉ်းပန်းမှုကို ခံကြရပြီးနောက် အလ္လာဟ်အရှင်မြတ်၏ သာသနာတော်ထွန်းကားမှုကိုရည်စူး၍ ရွှေ့ပြောင်းနေထိုင်သူတို့အား အမှန်ပင် ငါအရှင်မြတ်သည် ကောင်းမွန်သောနေရာတွင် နေရာချပေးတော်မူမည်ဖြစ်၏။ ထိုမှတစ်ပါး တမလွန်ဘဝ၏ အကျိုးဆုလာဘ်ကြီးသည် အကြီးဆုံးပင်ဖြစ်ပေသတည်း။ အကယ်၍ ၎င်းတို့သိကြပါလျှင် ကောင်းစွ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

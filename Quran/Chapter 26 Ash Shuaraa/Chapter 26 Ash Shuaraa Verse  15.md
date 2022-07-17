@@ -710,6 +710,12 @@ Kaza: “Ne [nyama da te ubiyat]! Dvamata vŭrvete s Nashite znameniya! Nie sme 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	အလ္လာဟ်အရှင်မြတ်က ယင်းသို့မဖြစ်စေရ၊ ထို့ကြောင့်သင်တို့ညီနောင်သည် ငါ၏နိမိတ်လက္ခဏာအ့ံဖွယ်တော် များနှင့် သွားကြလော့၊ မှတ်သားကြလော့၊ ငါသည် နားထောင်လျက် သင်တို့နှင့်အတူတကွရှိတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် (ဤသို့)မိန့်ကြားတော်မူခဲ့၏။ (အို-မူစာ၊ ၎င်းတို့သည် အသင့်အား) အလျှင်း (သတ်ဖြတ်နိုင်ကြမည်) မဟုတ်ပေ။ သို့ဖြစ်ပေရာ အသင်တို့ (ညီနောင်)နှစ်ဦးသည် ငါအရှင်မြတ်၏ အမိန့်တော်များနှင့်တကွ သွားကြလေကုန်။ ဧကန်မလွဲ ငါအရှင်မြတ်သည် အသင်တို့နှင့်အတူ(အသင်တို့နှစ်ဦးနှစ်ဖက် ပြောဆိုကြသည်တို့ကို)နားထောင်လျက်ပင် ရှိတော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

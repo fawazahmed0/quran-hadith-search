@@ -710,6 +710,12 @@ Koito vyarvat i sa bogoboyazlivi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၃။	အကြင်သူတို့သည် ယုံကြည်၍ အရှင်မြတ်၏ အမှုတော်ကို ထမ်းဆောင်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်း (အဆွေတော်)တို့သည် အကြင်သူတို့ပင်ထိုသူတို့သည် အီမာန်ယုံကြည်မှုထားရှိကြသည့်ပြင် (ပြစ်မှုဒုစရိုက်များမှလည်း) ရှောင်ကြဉ်လျက် ရှိခဲ့ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

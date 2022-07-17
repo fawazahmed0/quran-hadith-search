@@ -710,6 +710,12 @@ I reche: “Vmesto Allakh priekhte idoli samo zaradi priyatelstvoto mezhdu vas v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	တမန်တော်က ဟယ်-အချင်းတို့၊ သင်တို့သည် အလ္လာဟ်အရှင်မြတ်အစား ဆင်းတုများကို ခဝပ်ကိုးကွယ်ကြ၏၊ သင်တို့အချင်းချင်းသည် ဤဘဝအတွက်သာဖြစ်၏၊ ထို့နောက်ရှင်ပြန်ထမြောက်ရသောနေ့တော်ကြီး၌ သင်တို့ သည် အချင်းချင်တစ်ဦးကို တစ်ဦးက ငြင်းပယ်ကျိန်ဆဲကြလတ့ံ၊ ထို့အပြင်သင်တို့၏ဗိမာန်သည်ကား အဝီစိ ငရဲမီးဖြစ်၏၊ သင်တို့၌ ကယ်ဆယ်စောင်မသူများရှိမည်မဟုတ်ချေဟု ပြောကြား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုအီဗ်ရာဟီမ်က(မိမိ၏အမျိုးသားတို့အား)ပြောကြားခဲ့သေး၏။ အသင်တို့သည် ဤမျက်မှောက်လောကီဘဝ၌ မိမိတို့အချင်းချင်း မေတ္တာ ရှိကြသောကြောင့်သာလျှင် အလ္လာဟ်အရှင်မြတ်အား စွန့်၍ရုပ်တုများကို ရွေးချယ်ပြုလုပ်ကြခြင်း ဖြစ်ပေသည်။ ထို့နောက် ‘ကိယာမတ်’ရှင်ပြန်ထမည့်နေ့ တွင်မူကား၊ အသင်တို့အချင်းချင်း အချို့ကအချို့ကို ငြင်းပယ်ကြမည်။ အချင်းချင်း အချို့ကအချို့ကို ကျိန်ဆဲကြပေမည်။ ၎င်းပြင် ငရဲသည် အသင်တို့၏ ခိုလှုံရာဌာန ဖြစ်မည်။ထိုမှတစ်ပါး အသင်တို့အဖို့ ကူညီစောင်မအံ့သော သူများဟူ၍လည်း တစ်ဦးတစ်ယောက်မျှ ရှိလိမ့်မည် မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

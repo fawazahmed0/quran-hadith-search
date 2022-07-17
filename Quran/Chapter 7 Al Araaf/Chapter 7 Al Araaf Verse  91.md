@@ -710,6 +710,12 @@ I gi obkhvana sŭtresenieto, i osŭmnakha bezzhizneni v domovete si
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၁။	ထို့ကြောင့် ငလျင်လှုပ်ခြင်းဒဏ်တော်သည် သူတို့ကို ဖမ်းဆီးကြ၍ နံနက်မိုးသောက်လျှင် သူတို့ကို ၎င်းတို့အိမ်အသီးသမီးတွင် ဒူးထောက်မှောက်ခုန်လဲလျက် တွေ့ကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ၎င်းတို့အား မြေငလျင်သည် ဖမ်းဆီးကွပ်မျက်လိုက်၏။ သို့ဖြစ်ရာတွင် ၎င်းတို့သည် မိမိတို့နေအိမ်(ဝါ)မြို့ရွာတွင် မှောက်လျက်သေကြေ ပျက်စီးသွားကြချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

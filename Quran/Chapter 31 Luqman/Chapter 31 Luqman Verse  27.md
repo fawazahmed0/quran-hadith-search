@@ -710,6 +710,12 @@ I ako vsichki dŭrveta na zemyata stanat kalemi, i v moreto pridoĭdat oshte se
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။ ဤကမ္ဘာမြေပြင်တွင် ပေါက်ရောက်သည့်သစ်ပင်အားလုံးတို့သည် မင်တံများဖြစ်၍ သမုဒ္ဒရာရေကို မင်ရည်ပြု လျက် အလ္လာဟ်အရှင်မြတ်၏ စကာတော်များကို အက္ခရာရေးတင်မှတ်သားလျှင် သမုဒ္ဒရာရေကုန်ခန်း၍ နောက် သမုဒ္ဒရာခုနစ်ခုထပ်ပေးငြားသော်လည်း ထိုသမုဒ္ဒရာများ၏ ရေသာကုန်ခန်းမည်၊ အရှင်မြတ်၏ ဗျာဒိတ်တော် များကား ရေး၍ မကုန်ဆုံးနိုင်ချေ၊ အလ္လာဟ်အရှင်မြတ်သည် အနန္တတန်ခိုးတော်သခင်၊ သဗ္ဗညုတဉာာဏ်တော်ရှင် မုချဧကန်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား၊ အကယ်၍ အမှန်ဧကန်ပထဝီမြေ၌ ရှိကုန်သော သစ်ပင်အသီးသီးတို့သည် ကလောင်များဖြစ်၍ သမုဒ္ဒရာပင်လယ်သည် (မင်ဖြစ်ပြီး၊ ယင်းပင်လယ်ကုန်ခန်းပြီးနောက်) သမုဒ္ဒရာ ပင်လယ်ခုနစ်ခုသည် ယင်း(ခန်းခြောက်ပြီးဖြစ်သော) ပင်လယ်ကို ထပ်မံ၍ဖြည့်အံ့ငြားလည်းအလ္လာဟ်အရှင်မြတ်၏ အာယတ်တော်များကား ကုန်ဆုံးမည်မဟုတ်ပေ။ မချွတ်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် တန်ခိုးအာနုဘော်နှင့် ပြည့်စုံတော်မူသော၊ ဆင်ခြင်တုံတရားနှင့် ပြည့်စုံတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

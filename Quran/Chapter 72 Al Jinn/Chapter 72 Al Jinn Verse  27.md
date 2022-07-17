@@ -710,6 +710,12 @@ osven na onzi pratenik, kogoto e izbral. I storva Toĭ pred nego i zad nego da 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။ သို့ရာတွင် အရှင်မြတ်သည် မိမိ၏တမန်တော်အား သိသင့်သိထိုက်သောစကားရပ်များကို သိစေတော်မူ၏၊ စင်စစ်မှာ အရှငြ်မတ်သည် တမနေ် တာ်၏ရှေ့နောက်ဝဲယာတွင် ကောင်း ကင်တမန်တော်များကို အစောင့်အရှောက် ချထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ထိုအရှင်မြတ်သည် မိမိကျေနပ် နှစ်သက်တော်မူသော ရစူလ်တမန်တော်တစ်ပါးပါးအား (ဖုံးကွယ်လျက်ရှိသော အကြောင်းအရာ တစ်စုံ တစ်ရာကို သိစေလိုတော်မူပါလျှင် (ဧကန်အမှန် ထိုအရှင်မြတ်သည် ထိုရစူလ်တမန်တော်၏ ရှေ့၌လည်းကောင်း၊ နောက်၌လည်းကောင်း၊ စောင့်ကြပ်သူ (ကောင်းကင်တမန်)ကို စေလွှတ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

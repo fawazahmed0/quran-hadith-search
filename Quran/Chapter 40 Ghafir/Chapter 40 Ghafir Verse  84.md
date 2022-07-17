@@ -710,6 +710,12 @@ I kogato vizhdakha Nasheto nakazanie, kazvakha: “Povyarvakhme v Allakh, edinst
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၄။	သူတို့သည် ငါအရှင်မြတ်၏ အပြစ်ဒဏ်တော်ကို မျက်ဝါးထင်ထင်မြင်ရကြသောအခါ သူတို့က အကျွနု်ပ်တို့သည် အလ္လာဟ်အရှင်မြတ်အားသာလျှင် ယုံကြည်ကြပါ၏၊ အရှင်နှင့်တွဲဖက်ကိုးကွယ်ခဲ့သောဘုရားတုများကို အကျွနု်ပ် တို့ စွန့်ပါ၏ဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ၎င်းတို့သည် ငါအရှင်မြတ်၏ ပြစ်ဒဏ်ကို မြင်ခဲ့ကြသောအခါ "ကျွန်တော်မျိုးတို့သည် အလ္လာဟ်အရှင်မြတ်တစ်ဆူတည်းကိုသာ သက်ဝင်ယုံကြည်ပါပြီ၊ ၎င်းပြင် ကျွန်တော်မျိုးတို့သည် မိမိတို့ ထိုအရှင်မြတ်နှင့် တွဲဖက်နှိုင်းယှဉ်ကိုးကွယ်လျက် ရှိခဲ့ကြသည်တို့ကို ငြင်းပယ်ကြပါပြီ" ဟု ပြောဆိုခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

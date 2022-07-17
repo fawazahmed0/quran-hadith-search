@@ -710,6 +710,12 @@ Tova e Rayat, koĭto vi e ostaven v nasledstvo zaradi vashite dela
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၂။	ဤဥယျာဉ်တော်ကား ဆည်းပူးခဲ့သောအကျင့်သီလများကြောင့် သင်တို့အား အမွေပေးသနားတော်မူသောဥယျာဉ် တော်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ဤသည်ပင် အကြင်"ဂျန္နတ်"သုခဘုံဖြစ်၏။ အသင်တို့သည် မိမိတို့ ကျင့်မူခဲ့ကြကုန်သော ကောင်းမှုသုစရိုက်များကြောင့် ယင်း"ဂျန္နတ်"သုခဘုံကို အမွေအဖြစ် ချီးမြှင့်ပေးသနားတော်မူခြင်းကို ခံကြရပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ v Denya, kogato na ugnetitelite ne shte pomogne opravdanieto im. Nad tyakh e pro
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၂။	ထိုနေ့တော်ကြီး၌ မကောင်းမှုပြုသူတို့၏ ဆင်ခြေများသည် တစ်စုံတစ်ခုသော အကျိုးကျေးဇူးရှိမည်မဟုတ်၊ သို့သော်သူတို့အပေါ်၌ အရှင်မြတ်၏ ကျိန်ဆဲခြင်းကျရောက်မည်သာဖြစ်၏၊ စင်စစ်အားဖြင့် သူတို့နေထိုင်ရန် ဌာနကား အလွန်ဆိုးဝါးဆင်းရဲလှသောနေရာဌာနသာ ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်နေ့တွင် ကျူးလွန်သူတို့အား ၎င်းတို့၏အကြောင်းပြချက်သည် အကျိုးမပေးမည်သာမက၊ ၎င်းတို့၌ ကရုဏာတော်မှ ကင်းဝေးခြင်းသည်လည်း ရှိပေမည်။ ထိုမှတစ်ပါး ၎င်းတို့၌ ဆိုးရွားလှသော ဌာနလည်းရှိပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Denya, kogato nito khitrinata im shte gi izbavi, nito shte im se pomogne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။	ထိုနေ့တော်ကြီး၌ ထိုသူတို့၏ ပရိယာယ်သည် သူတို့အတွက် တစ်စုံတစ်ခုမျှစွမ်းဆောင်နိုင်မည်မဟုတ်၊ ထို့အပြင် သူတို့သည် ကူညီစောင်မခြင်းကို ခံကြရလိမ့်မည်မဟုတ်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်နေ့တွင် ၎င်းတို့အဖို့ ၎င်းတို့၏အကြံအစည်သည် လုံးဝအသုံးမဝင်မည့်အပြင် ၎င်းတို့သည် ကူညီစောင်မခြင်းကိုလည်း ခံကြရမည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

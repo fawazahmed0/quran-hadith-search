@@ -710,6 +710,12 @@ I kogato im bŭdat cheteni Nashite znameniya, kazvat: “Chukhme veche. Ako pozh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	မိစ္ဆာဒိဌိတို့အား ငါအသျှင်မြတ်၏ နှုတ်ကပတ်တော်များကို ရွတ်ဖတ်ပြသောအခါ သူတို့သည် အကျွနု်ပ်တို့သည် ကြားကြပြီ။ အကျွနု်ပ်တို့သည် အလိုရှိလျှင် ယင်းဂါထာများကဲ့သို့ ဂါထာများကို ပြောဆိုစွမ်းနိုင်ကြ၏။ မှတ်သားကြလော့။ ဤကျမ်းသည် ရှေးဟောင်းတို့ဖန်တီးသောပုံပြင်ဝထ္ထုများ သာတည်း။ အခြားအရာတစ်စုံတစ်ခုမျှမဟုတ်ပေဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ၎င်းတို့ရှေ့ဝယ် ငါအရှင်မြတ်၏ကျမ်းဂန်လာ ဒေသနာတော်များကို ရွတ်ဖတ်၍ ပြခဲ့ပါလျှင်၊၎င်းတို့က ငါတို့သည် အမှန်ပင် (ဤသည်တို့ကို အဖန်တလဲလဲ)ကြားခဲ့ဖူးကြချေပြီ။ ငါတို့သည် အလိုရှိလျှင် ငါတို့သည်လည်းဤအတိုင်းပင် ဧကန်မလွဲ (စီကုံး)ပြောဆိုနိုင်ကြပေသည်။ ဤသည်ကား ရှေးသူတော်ကောင်းတို့၏ ဒဏ္ဍာရီပုံပြင်မျှသာ ဖြစ်သည် ဟုပြောဆိုကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

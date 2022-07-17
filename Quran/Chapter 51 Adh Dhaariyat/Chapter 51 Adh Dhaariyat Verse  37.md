@@ -710,6 +710,12 @@ I ostavikhme tam znamenie za onezi, koito se strakhuvat ot boleznenoto mŭchenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	ထိုအရပ်ဒေသတွင် အလွန်ပြင်းပြနာကျင်ဖွယ်သောအပြစ်ဒဏ်တော်ကို ကြောက်ရွံ့သောသူတို့အဖို့အရာ သင်ခန်းစာတော်တစ်ပါးကို ငါအထင်အရှားထားခဲ့တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ထိုမြို့ရွာတွင် နာကျင်ဖွယ်ဖြစ်သောပြစ်ဒဏ်ကို ကြောက်ရွံ့စိုးရိမ် သောသူတို့အကျိုးငှာ သက်သေလက္ခဏာတစ်ပါးကို ကျန်ရစ်စေတော်မူခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

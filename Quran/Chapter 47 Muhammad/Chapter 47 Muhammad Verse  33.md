@@ -710,6 +710,12 @@ O, vyarvashti, pokoryavaĭte se na Allakh i se pokoryavaĭte na Pratenika, i n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	အို-ယုံကြည်သူအပေါင်းသူတော်ကောင်းတို့၊ အလ္လာဟ်အရှင်မြတ်နှင့် အရှင်မြတ်၏ တမန်တော်ကို နာခံကြလော့၊ သင်တို့၏ ပြုကျင့်မှုများကို အကျိုးမဲ့မဖြစ်စေကြလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘အို-မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူအပေါင်းတို့၊ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်၏အမိန့်တော်ကို လိုက်နာကြလေကုန်။ ထို့ပြင် အသင်တို့သည် ရစူလ်တမန်တော်မြတ်၏ အမိန့်တော်ကို(လည်း) လိုက်နာကြလေကုန်။ ထိုမှတစ်ပါး အသင်တို့သည် မိမိတို့၏ အပြုအမူ ဆောင်ရွက်ချက်များကို အချည်းနှီး မဖြစ်စေကြကုန်လင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

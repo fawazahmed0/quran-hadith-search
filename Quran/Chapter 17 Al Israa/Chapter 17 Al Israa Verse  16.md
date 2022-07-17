@@ -710,6 +710,12 @@ I ako pozhelaem da iztrebim selishte, povelyavame na zhiveeshtite v okholstvo ta
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	ငါသည် မြို့ရွာနယ်ပယ်တခုခုကို ဖျက်ဆီးတော်မူလိုလျှင် ထိုအရပ်ဒေသ၌ လောကီစည်းစိမ်တွင် ယဇ်မူးနေသော သူတို့ထံသို့ ပညတ်တော်ချပေးတော်မူ၏။ သူတို့သည် ငါ၏ ပညတ်တော်ကို ကျူးလွန်ကြ၏။ ထို့ကြောင့်အပြစ် ဒဏ်ခတ်မည်ဆိုသည့်ဗျာဒိတ်တော်သည် အတည်ဖြစ်၏။ ထိုအခါငါသည် ထိုမြို့နယ်ပယ်ကိ ညက်ညက်ကျေ အောင် ချေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် ငါအရှင်မြတ်သည် ရွာတစ်ရွာကို ဖျက်ဆီးရန် ရည်စူးတော်မူသောအခါ ထိုရွာရှိ စည်းစိမ်ရှင်များကို(အီမာန်ယုံကြည်ရန်၊ အမိန့်တော်နာခံရန်) အမိန့်ပေးတော်မူ၏။ထိုအခါ ၎င်းတို့သည် ထိုရွာတွင် ဆိုးသွမ်းကြလေသည်။ သို့ဖြစ်ပေရာ ချိန်းချက်ထားသောပြစ်ဒဏ်သည် ထိုရွာ၌သက်ရောက်လေသည်။ ထိုအခါ ငါအရှင်မြတ်သည် ထိုရွာကို ဖျက်ဆီးတော်မူလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

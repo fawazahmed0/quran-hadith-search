@@ -710,6 +710,12 @@ gradinite na Adn s raztvoreni za tyakh vrati
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၀။	ထိုပန်းတိုင်သည် သုခဥယျာဉ်တော်များဖြစ်၏၊ ထိုဥယျာဉ်တော်များ၏ တံခါးများကို သူတို့အတွက် ဖွင့်ထား တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထာဝစဉ်နေထိုင်ရန် ဥယျာဉ်များသည် ရှိကြပေသည်။ (ယင်းဥယျာဉ်များ၏)တံခါးမှာ ၎င်းတို့အဖို့ (အသင့်)ဖွင့်လှစ်၍ထားပြီး ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

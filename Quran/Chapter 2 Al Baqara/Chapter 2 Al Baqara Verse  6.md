@@ -710,6 +710,12 @@ Za onezi, koito ne povyarvakha, za tyakh e vse edno dali si gi predupredil, ili 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	မယုံကြည်သူတို့မူကား သင်သည် သူတို့ကို သတိပေး ခြောက်လှန့်သော်လည်းကောင်း၊ သတိမပေး မခြောက်မလှန့်သော်လည်းကောင်း မထူးချေ။ သူတို့သည် မယုံကြည်ကြပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မုချ အသင်သည် သွေဖည်ငြင်းဆန် သောကာဖိရ်များအား (ထိတ်လန့်ဘွယ်ရာ အကြောင်းများကို) သတိပေး နှိုးဆော်သည်ဖြစ်စေ၊ မနှိုးဆော်သည်ဖြစ်စေ ထိုသူတို့အဖို့ အကြောင်းမထူး၊ ထိုသူတို့တမူကား ယုံကြည်ကြမည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

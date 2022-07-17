@@ -710,6 +710,12 @@ Kazakha: “Daĭ ot·srochka na nego i brat mu, i prati po gradovete sŭbirachi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၁။	သူတို့သည် ဖာရောဘုရင်အား တင်လျှောက်ကြသည်။ သူနှင့်သူ၏အစ်ကို ခေတ္တခဏ ဆိုင်းငံ့ ထားတော်မူပါ။ မြို့များသို့ ကြွေးကြော်ဆင့်ခေါ်သူ အနှံ့အပြားလွှတ်တော်မူပါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ယင်း(ဖစ်ရ်အောင်န်၏မှူးမတ်)တို့က(ဖစ်ရ်အောင်န်အား ဤသို့)လျှောက်ထားအကြံဉာဏ် ပေးကြလေသည်။ ၎င်းနဗီတမန်တော်(မူစာ)နှင့် ၎င်း၏နောင်တော်နဗီတမန်တော်ဟာရူန်)အား ဆိုင်းခွင့်ပေးပါ။ ဆိုင်းငံ့၍ထားပါ။ထို့ပြင် အမြို့မြို့အရွာရွာသို့ မင်းစေများကို စေလွှတ်ပါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ osven [zhena mu -] edna staritsa, koyato be sred ostavashtite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၅။	သို့သော်သူ့အိမ်တွင် ကျန်ရစ်ခဲ့သောသက်ကြီးအိုမတစ်ယောက်ကိုမူကား ကယ်နှုတ်တော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အမယ်အိုတစ်ဦးမှာ ကျန်ရစ်ခဲ့သူတို့တွင် ပါဝင်ခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

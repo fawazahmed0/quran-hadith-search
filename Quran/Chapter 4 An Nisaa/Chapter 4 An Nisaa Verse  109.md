@@ -710,6 +710,12 @@ Eto, vie sporekhte zaradi tyakh v zemniya zhivot, no koĭ shte spori s Allakh z
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၉။	မှတ်သားကြလော့။ သင်တို့သည် ဤဘဝ၌ သူတို့အတွက် ပန်ထွာကြ၏။ သို့သော် ရှင်ပြန်ထမြောက် သောနေ့တော်ကြီး၌ သူတို့အတွက် အဘယ်သူသည် အလ္လာဟ်အသျှင်မြတ်ရှေ့တော်ဝယ် တောင်းပန်မည်နည်း။ ထိုအခါ သူတို့ကို အဘယ်သူသည် ကာကွယ်စောင့်ရှောက်မည့်သူဖြစ်သနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဟယ် (သစ္စာဖောက်တို့ကို ထောက်ခံသူအပေါင်းအပေါင်းတို့) အသင်တို့သည် ယင်းသစ္စာဖောက်တို့ဘက်မှ (ဤမျက်မှောက်) လောကီဘဝတွင် ချေဆိုလျှောက်လဲခဲ့ကြချေပြီ။ သို့ရာတွင် ရှင်ပြန်ထမည့်နေ့၌မူ ထိုသူတို့ဘက်မှ အလ္လာဟ်အရှင်မြတ်အား မည်သူသည် ချေပပြောဆိုအံ့နည်း။ သို့တည်းမဟုတ် ထိုသူတို့အတွက် ကာကွယ်ခုခံပြောဆိုမည့်သူ မည်သူရှိအံ့နည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

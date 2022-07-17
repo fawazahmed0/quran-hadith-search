@@ -710,6 +710,12 @@ Reche tya: “Tsarete, kogato nakhluyat v nyakoe selishte, go razrushavat i uniz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	ထိုအခါဘုရင်မက မှတ်သားလော့၊ ပြည့်ရှင်ဘုရင်မင်းတို့မည်သည် သူတစ်ပါးတိုင်းပြည်တွင်းသို့ ဝင်ရောက်သော အခါ ၎င်းပြည်ကို ဖျက်ဆီးကြ၏၊ ထိုပြည်သူပြည်သားတို့ကို အရှက်တကွဲဖြစ်စေကြ၏၊ ဤကဲ့သို့ရှင်ဘုရင်တို့ ပြုလုပ်ကြမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(ရှီဗာဘုရင်မ)က ပြောကြားခဲ့လေ၏။ ဧကန်မလွဲ ဘုရင်မင်းတို့ မည်သည် မြို့ရွာတစ်ခုသို့ ဝင်ရောက်ကြလေသောအခါ ထိုမြို့ရွာကို ဖျက်ဆီးလေ့ရှိကြကုန်၏။ ထို့ပြင် ၎င်းတို့သည် ယင်းမြို့ရွာမှ ဂုဏ်အသရေရှိသူတို့အား ဂုဏ်အသရေသေးသိမ်သူများ ဖြစ်စေကြကုန်၏။ ၎င်းတို့သည်လည်း ဤအတိုင်းပင် ပြုမူကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

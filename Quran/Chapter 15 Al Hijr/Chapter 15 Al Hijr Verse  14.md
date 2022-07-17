@@ -710,6 +710,12 @@ I da raztvorekhme nad tyakh vrata v nebeto, i da prodŭlzhakha tam da se izkachv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၊၁၅။	အကယ်၍ ငါအရှင်မြတ်သည် သူတို့အား နိဗ္ဗာန်တံခါးတပေါက်ကို ဖွင့်ပေးတော်မူ၍ သူတို့သည် ထိုတံခါးပေါက်ကို တက်ဝင်နေကြသော်လည်း သူတို့က အကျွနု်ပ်တို့သည် စုန်းပယောဂဖမ်းဆီးခံရသဖြင့် အမြင်မှောက်မှား၏ဟု ပြောကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍ ငါအရှင်မြတ်သည် ၎င်းတို့အပေါ်ဝယ် မိုးကောင်းကင်၌ တံခါးပေါက်တစ်ခုခုကို ဖွင့်ပေးတော်မူခဲ့ပါလျှင် ထို့နောက် ၎င်းတို့သည် နေ့ကြောင်တောင်ပင် ထိုတံခါးပေါက်မှ (ဆင်း)တက်(သွားလာ)ကုန်ကြအံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

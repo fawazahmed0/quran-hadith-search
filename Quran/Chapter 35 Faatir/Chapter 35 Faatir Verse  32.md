@@ -710,6 +710,12 @@ Posle ostavikhme Knigata v nasledstvo na onezi, koito Nie izbrakhme sred Nashite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။ ထို့နောက်ငါအရှင်မြတ်သည် ကျမ်းမြတ်ကုရ်အာန်ကို ငါ၏ကျေးကျွန်များအနက် ရွေးကောက်ခြင်းခံရသော သူတို့အား အမွေအနှစ်အဖြစ်ဖြင့် ပေးသနားတော်မူ၏၊ သို့သော်သူတို့အနက် အချို့တို့ကား ကိုယ့်ကိုကိုယ် ပြစ်မှားကြ၏၊ အချို့တို့ကား အလယ်အလတ်လမ်းကို လိုက်ကြ၏၊ အချို့တို့ကား အလ္လာဟ်အရှင်မြတ်၏ အလိုတော်အားဖြင့် ကောင်းကျိုးကောင်းရာဘက်သို့ သူတပါးတို့ထက် သဒ္ဓါစေတနာထူးမြတ်စွာနှင့် ပိုမိုလွန်ကဲ အောင် ကြိုးစားအားထုတ်ကြ၏၊ ယင်းသည် အလွန်ကြီးကျယ်သောကောင်းကြီးမင်္ဂလာတော်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ငါအရှင်မြတ်သည် မိမိကျွန်များအနက်မှ ငါအရှင်မြတ် ရွေးချယ်တော်မူသောသူတို့အား (ဤ)ကျမ်းဂန်ကို အမွေအဖြစ် ချီးမြှင့်ပေးသနားတော်မူ၏။ သို့ရာတွင် ၎င်းတို့အနက်အချို့မှာ မိမိကိုယ်ကို မိမိရက်စက်သောသူရှိ၏။ အချို့မှာ မဇိ္ဈမဋိပဒါစနစ်ကို လိုက်နာသူရှိ၏။ အချို့မှာကား အလ္လာဟ်အရှင်မြတ်၏အမိန့်တော်ဖြင့် ကောင်းမှုများနှင့်တကွ ရှေ့မှသွားသူရှိ၏။ ဤသည်ကား ကြီးကျယ်စွာသောကျေးဇူးတော်ပင်ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

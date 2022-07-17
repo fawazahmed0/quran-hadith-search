@@ -710,6 +710,12 @@ I otgovorŭt na naroda mu be samo da kazhat: “Ubiĭte go ili go izgorete!” 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	သို့သော်တမန်တော်၏ အမျိုးသားများက သူ့ုကို သတ်ပစ်ကြလော့(သို့မဟုတ်) မီးရှို့ပစ်ကြလော့ဟုသာ ပြန်ပြော ကြ၏၊ ထိုအခါအလ္လာဟ်အရှင်မြတ်သည် သူ့အား မီးမသန်းစေပဲ ကယ်နှုတ်တော်မူ၏၊ မှတ်သားကြလော့၊ ဤအကြောင်းအရာများတွင် ယုံကြည်သူတို့အဖို့ နိမိတ်လက္ခဏာအ့ံဖွယ်များအမှန်ပင်ပါရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ထိုအိဗ်ရာဟီမ်၏အမျိုးသားတို့မှာ’အသင်တို့သည် ထိုအိဗ်ရာဟီမ်အား သတ်ပစ်ကြလေကုန်၊ သို့တည်းမဟုတ် အသင်တို့သည် ၎င်းအား မီးတင်ရှို့ကြလေကုန်’ဟု ပြောဆိုကြခြင်းမှတစ်ပါး အခြားမည်သည်ကိုမျှ အဖြေပေးနိုင်ခြင်းမရှိခဲ့ကြချေ။ သို့ဖြစ်ပေရာ ငါအရှင်မြတ်သည် ထိုအိဗ်ရာဟီမ်အား မီးမှ ကယ်ဆယ်တော်မူခဲ့လေသည်။ ဧကန်အမှန် ဤသည့်(ဖြစ်ရပ်)၌ သက်ဝင်ယုံကြည်ကုန်သော အမျိုးသားတို့အဖို့ သက်သေသာဓကများရှိပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

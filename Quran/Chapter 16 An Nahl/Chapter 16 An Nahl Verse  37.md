@@ -710,6 +710,12 @@ Dori ako ti kopneesh da gi napŭtish [o Mukhammad], Allakh ne napŭtva onzi, koi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	မိုဟမ္မဒ်၊ အကယ်၍ သင်သည် သူတို့အတွက် လမ်းမှန်ညွှန်ခြင်းကို လိုသော်လည်း၊ အလ္လာဟ်အရှင်မြတ်သည် လမ်းမှားသို့ ဖျားယောင်းသူအား မုချလမ်းပြတော်မမည်မဟုတ်ချေ။ ဤသူတို့၌ ကူညီစောင်မသူများမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်)အသင်သည် ၎င်းတို့တရားလမ်းမှန် ရရှိရေးအလို့ငှာ မည်မျှပင်အာသာရမ္မက် ပြင်းပြသော်လည်း ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် မိမိလမ်းလွဲစေတော်မူသောသူအား လမ်းမှန်ကိုပြတော်မူသည် မဟုတ်ပေ။ထိုမှတပါး ၎င်းတို့၏ ကူညီစောင့်မမည့်သူများဟူ၍လည်းအလျှင်း ရှိကြလိမ့်မည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

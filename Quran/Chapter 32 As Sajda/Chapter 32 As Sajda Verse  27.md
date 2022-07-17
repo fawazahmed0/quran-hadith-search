@@ -710,6 +710,12 @@ I nima ne vizhdat, che Nie nasochvame vodata kŭm sukhata zemya, i storvame s ne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	ငါသည် သွေ့ခြောက်သယောင်းနေသောမြေသို့ မြစ်ရေချောင်းရေများကို စိမ့်ဝင်စီးဆင်းစေတော်မူ၏၊ ထိုရေ အားဖြင့် ကောက်ပဲသီးနှံကို ပေါက်ရောက်ဖြစ်ထွန်းစေတော်မူ၏၊ ထိုအသီးအနှံများကို သူတို့၏ကျွဲနွားတိရိစ္ဆာန် နှင့်တကွ သူတို့မှီဝဲသုံးဆောင်ကြ၏၊ ဤအကြောင်းအရာများကို သူတို့မဆင်ခြင်မသုံးသပ်ကြသလော၊ သို့ဖြစ်၍ သူတို့သည် မြင်ကြမည်မဟုတ်ပေလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် စဉ်းစားဆင်ခြင်တွေ့မြင်ကြသည်မဟုတ်လော၊ ဧကန်အမှန် ငါအရှင်မြတ်သည် (မိုး)ရေကိုခြောက်သွေ့လျက်ရှိသောမြေယာသို့ မောင်းနှင်ပို့ပေးတော်မူ၏။ထို့နောက် ငါအရှင်မြတ်သည် ထိုမိုးရေဖြင့် ကောက်ပဲသီးနှံများကို ထွက်စေတော်မူ၏။ ထို(ပေါက်ရောက်သော) ကောက်ပဲသီးနှံတို့မှ ၎င်းတို့ ကုလားအုတ်၊ ကျွဲ၊ နွား၊ တိရစ္ဆာန်များလည်းစားကြကုန်၏။ ၎င်းတို့ကိုယ်တိုင်လည်း စားသုံးကြကုန်၏။ သို့ပါလျက် ၎င်းတို့သည် မမြင်ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

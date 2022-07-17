@@ -710,6 +710,12 @@ I rekokha: “Allakh se sdobi sŭs sin.” Prechist e Toĭ! Da, Negovo e vsichk
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၆။	၎င်းပြင် သူတို့က အလ္လာဟ်အရှင်မြတ်၌ သားတော်ရှိသည်ဟု ဆိုကြ၏။ အရှင်မြတ်သည် ချို့တဲ့ခြင်း ကင်းတော်မူ၏။ ထို့ပြင်မက မိုးကောင်းကင်နှင့် ကမ္ဘာမြေပေါ်ဝယ် ရှိရှိသမျှအပေါင်းတို့ကို အလ္လာဟ် အရှင်မြတ်သည် ပိုင်တော်မူ၏။ အရာခပ်သိမ်းကုန်တို့သည် အလ္လာဟ်အရှင်မြတ်အား ကျိုးနွံကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(ခရစ်ယာန်) တို့သည် အလ္လာဟ် အရှင်မြတ်၌ သားတော်ရှိသည်ဟူ၍ (မဟုတ်မလျား စွပ်စွဲ) ပြောဆိုကြကုန်၏။ (ဤစကားသည် မှားလေစွ၊ အကြောင်းမှာ) အလ္လာဟ် အရှင်မြတ်သည် (ဃရာဝါသ အိမ်ထောင်မှုကိစ္စတို့မှ) လုံးလုံးကင်းစင်တော်မူသော အရှင်တည်း။ စင်စစ်တမူကား မိုးကောင်းကင်နှင့် ပထဝီမြေပြင်၌ ရှိရှိသမျှသော အရာခပ်သိမ်းတို့ကို အလ္လာဟ် အရှင်မြတ်သာလျှင် ပိုင်ဆိုင်တော်မူ၏။ ထိုထိုသော အရာခပ်သိမ်းတို့ သည်လည်း ထိုအရှင်မြတ်၏ အမိန့်တော်ကို နာခံလျက် ရှိကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

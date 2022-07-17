@@ -710,6 +710,12 @@ da pripisvat sin na Vsemilostiviya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၁။	ထိုစကားမှာကား မဟာဂရုဏာတော်သခင်တွင် သားသမီးရှိသည်ဟု သင်တို့မတော်မလျားပြောဆိုခြင်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ရဟ်မာန် အနန္တကရုဏာတော်ရှင်၌ သားသမီး(ရှိသည်ဟု) ယိုးစွပ်ခဲ့ကြသောကြောင့်ပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

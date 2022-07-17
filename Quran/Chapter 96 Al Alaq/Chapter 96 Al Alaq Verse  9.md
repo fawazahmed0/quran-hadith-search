@@ -710,6 +710,12 @@ Vidya li ti onzi, koĭto prechi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၊၁၀။ အို-တမန်တော်၊ ငါ၏ ကျေးကျွန်တော်အား သူဆွလားသ်ဝတ်ပြုသောအခါ ဝတ်မပြုရန် တားမြစ်သောသူယုတ် မာကို သင်သိမြင်ပြီမဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် အကြင်သူအား မြင်ခဲ့လေသလော။ ထိုသူသည် တားမြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

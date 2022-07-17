@@ -710,6 +710,12 @@ Tova, koeto Allakh vi ostavya, e po-dobro za vas, ako ste vyarvashti. Az ne sŭm
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၆။	သင်တို့သည် ယုံကြည်သူများဖြစ်ကြလျှင် အလ္လာဟ်အရှင်မြတ်သည် သင်တို့နှင့် ချန်ထားတော်မူသောပစ္စည်းသည် သင်တို့အဖို့ သာလွန်မွန်မြတ်၏။ ငါသည် သင်တို့ကို ထိန်းသိမ်းအုပ်ချုပ်ရသူမဟုတ်ချေဟု ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍ အသင်တို့သည် မုအ်မင်န် သက်ဝင်ယုံကြည်သူများဖြစ်ကြပါလျှင် အလ္လာဟ်အရှင်မြတ် (ချီးမြှင့်တော်မူသော အရာများအနက်မှ) ကြွင်းကျန်သော ဟလာလ်(ပစ္စည်း)ကား အသင်တို့အဖို့ အကောင်းဆုံးပင်။ စင်စစ်သော်ကား ငါသည် အသင်တို့အား (အလ္လာဟ်အရှင်မြတ်၏ ပြစ်ဒဏ်မှ)ထိန်းသိမ်းစောင့်ရှောက်သူမဟုတ်ချေ။ (တာဝန်ခံမဟုတ်ချေ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

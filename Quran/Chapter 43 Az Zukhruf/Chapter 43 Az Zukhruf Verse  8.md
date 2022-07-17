@@ -710,6 +710,12 @@ I pogubikhme po-silni ot tyakh. Otminakha mnogo primeri s predtsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	ထို့ကြောင့်ယခုလူများထက် သာလွန်ခွန်အားဗလရှိသောရှေးလူဟောင်းများကို ငါသည် ကွပ်မျက်စီရင်တော် မူလိုက်၏၊ ရှေးလူဟောင်းတို့၏ ထုံးဟောင်းဥပမာသည် သူတို့ရှေ့တွင် ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ငါအရှင်မြတ်သည် လက်ရှိ ဤသူတို့ထက် ခွန်အားဗလ ရဲစွမ်းသတ္တိအရာ၌ ပိုမိုပြင်းထန်သောသူတို့ကိုပင် ဖျက်စီးတော်မူခဲ့ပေသည်။ စင်စစ်သော်ကား ရှေးဟောင်းသူတို့၏ (ဤ)အကြောင်းမှာ လွန်လေခဲ့ပြီး ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

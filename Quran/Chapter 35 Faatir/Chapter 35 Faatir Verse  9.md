@@ -710,6 +710,12 @@ Allakh e, Koĭto prashta vetrovete i te ponasyat oblatsi, i gi nasochvame Nie k
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	အလ္လာဟ်အရှင်မြတ်သည် လေများကို စေလွှတ်တော်မူ၏၊ ထိုလေတို့သည် တိမ်များကို ဆောင်ကြဉ်း၏၊ ထို့နောက်ငါအရှင်မြတ်သည် ထိုမိုးတိမ်ကို သွေ့ခြောက်သောမြေသေအရပ်ဒေသကို ယူဆောင်၍ မိုးရွာသွန်းစေ တော်မူ၏၊ ယင်းကဲ့သို့ပင်သေသူတို့ကို ရှင်ပြန်ထမြောက်စေတော်မူမည်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် အလ္လာဟ်အရှင်မြတ်သည်ပင် လေများကို စေလွှတ်တော်မူသော အရှင်မြတ်ဖြစ်တော်မူ၏။ ထို့နောက်ယင်းလေများသည် မိုးတိမ်များကို သယ်ဆောင်၍ သွားကြလေ၏။ ထို့နောက် ငါအရှင်မြတ်သည် ယင်းမိုးတိမ်များကို(သွေ့ခြောက်)သေလျက်ရှိသော နယ်မြေဒေသများသို့ မောင်းနှင်တော်မူ၏။ ထို့နောက် ငါအရှင်မြတ်သည် ထို(မိုးတိမ်များမှရွာသွန်းသော)ရေဖြင့် (သွေ့ခြောက်)သေနေသောမြေကိုပြန်လည် စိမ်းလန်းစိုပြည်စေတော်မူ၏။ ရှင်ပြန်ထခြင်းသည်လည်း ဤနည်းအတိုင်းပင် ဖြစ်ချေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

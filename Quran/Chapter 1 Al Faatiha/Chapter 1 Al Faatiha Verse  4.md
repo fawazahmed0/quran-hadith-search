@@ -710,6 +710,12 @@ Vladetelya na Sŭdniya den
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+တရားစီရင်သောနေ့၏အရှင်ဖြစ်တော်မူပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အလ္လာဟ်အရှင်မြတ်သည် ခပ်သိမ်းကုန် သောသတ္တဝါတို့ကို ရှင်ပြန်ထစေတော်မူ၍ သူတော်စင်တို့အား)ကောင်းကျိုး၊ (မသူတော်တို့အား)မကောင်းကျိုး ပေးတော်မူမည်ဖြစ်သောနေ့ ကိုအစိုးရတော်မူသောအရှင်ဖြစ်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

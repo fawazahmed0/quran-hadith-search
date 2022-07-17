@@ -710,6 +710,12 @@ V Denya na vŭzkresenieto shte bŭde udvoeno za nego mŭchenieto, v koeto unizen
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၉။	ယင်းပြစ်မှုကို ကျူးလွန်သူသည် ရှင်ပြန်ထမြောက်ရသောနေ့တော်ကြီး၌ နှစ်ဆတပိုးကြီးလေးသောအပြစ်ဒဏ် ခံရလတ့ံ၊ ထို့အပြင်သူသည် ငရဲမီးထဲ၌ မိုက်မဲယုတ်ည့ံသောအဖြစ်နှင့် အစဉ်အမြဲခံနေရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကိယာမသ်"ရှင်ပြန်ထမည့်နေ့တွင် ထိုသူ၌ ပြစ်ဒဏ်သည် တိုးတက်(သက်ရောက်)စေခြင်းကိုခံရမည့်ပြင်၊ ထိုသူသည် အမြဲထာဝရ ယင်းပြစ် ဒဏ်၌ပင် ဂုဏ်သရေယုတ်ညံ့စွာ ခံစားနေရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Rekokha: “O, tatko nash, zashto ne ni poverish Yusuf? Dobronamereni sme kŭm n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	နောင်တော်တို့က အို-ခမည်းတော်၊ အကျွနု်ပ်တို့သည် ယူစွတ်(ဖ်)၏ မိတ်ဆွေစစ်ဖြစ်ပါလျက် ခမည်းတော်သည် အကျွနု်ပ်တို့အား သူ့ကို အဘယ်ကြောင့်မအပ်နှံပါသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထို့နောက်) ၎င်းတို့သည်(ဖခမည်းတော်ထံသွားရောက်ပြီး ဤသို့)ပြောဆိုလျှောက်ထားကြကုန်၏။ အို-ကျွန်ုပ်တို့၏ဖခမည်းတော်၊ ခမည်းတော်သည် ယူဆွဖ်နှင့် ပတ်သက်၍ကျွန်ုပ်တို့အပေါ်၌ အဘယ်ကြောင့် စိတ်မချပါသနည်း။ စင်စစ်သော်ကား ကျွန်ုပ်တို့သည် ၎င်းနှင့်ပတ်သက်၍ ကောင်းကျိုးကိုသာ လိုလားသူများဖြစ်ကြပါသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

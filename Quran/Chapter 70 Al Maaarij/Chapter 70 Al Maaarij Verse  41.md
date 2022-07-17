@@ -710,6 +710,12 @@ da gi zamenim s po-dobri ot tyakh. I ne shte bŭdem vŭzpreni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၀၊၄၁။ ငါသည် ထိုသူတို့ကို သူတို့ထက်သာသောသူများဖြင့် အစားထိုးနိုင်တော်မူကြောင်းကို ငါသည် နေထွက်ရာအရပ်များနှင့် နေဝင်ရာအရပ်များ၏ အရှင်သခင်အား တိုင်တည်၍ မိန့်တော်မူ၏၊ ငါ့ဆီမှ ပြေး၍ မလွတ်နိုင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့၏အစား ၎င်းတို့ထက် သာလွန်မြင့်မြတ်သောသူအား လဲလှယ်တော်မူရန်။ စင်စစ်သော်ကား ငါအရှင်မြတ်သည် မစွမ်းဆောင်နိုင်တော်မူသော အရှင်မြတ် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

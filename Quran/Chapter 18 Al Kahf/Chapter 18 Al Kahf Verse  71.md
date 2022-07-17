@@ -710,6 +710,12 @@ I togava trŭgnakha. Kogato se kachikha na koraba, [al-Khidr] go probi. Reche [M
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၁။	ထို့နောက်သူတို့နှစ်ဦးသည် ခရီးဆက်ဆက်သွားကြ၏။ သူတို့သည် သင်္ဘောတစင်းထဲသို့ ရောက်သောအခါ၊ သူသည် လှေသင်္ဘောတွင် အပေါက်တပေါက်ဖောက်ထွင်း၏။ ထိုအခါမူစာက သင်္ဘောရှိ လူများနစ်မြုပ်စေရန် လှေသင်္ဘောတွင် အပေါက်ဖောက်သလော၊ သင်သည် အလွန်ဆိုးဝါးသောအလုပ်တခုကို ပြုလုပ်ခဲ့ဘိတကား ဟု ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် 4င်း(မူစာနှင့်ခဿွရ်)တို့နှစ်ဦးသည်လျှောက်သွားကြပြီး နောက်ဆုံးတွင် ၎င်းတို့နှစ်ဦးသည် ရွက်သင်္ဘောပေါ်သို့ စီးနင်းကြသောအခါ ယင်း(ခစ်ဿွ်ရ်)သည်ထိုရွက်သင်္ဘောကို ဖောက်ခဲ့လေသည်။ (ထိုအခါ) ယင်း(မူစာ)က (ဤသို့)ပြောဆိုခဲ့လေသည်။ အသင်သည် ဤသင်္ဘောကိုသင်္ဘောပေါ်၌ ပါရှိသောသူတို့အား နစ်မြုပ်စေအံ့သောငှာဖောက်ခဲ့လေသလော။ ဧကန်မလွဲ အသင်သည် အလွန်ဆိုးရွားသော အပြုအမူတစ်ရပ်ကို ပြုလုပ်ခဲ့ချေပြီတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

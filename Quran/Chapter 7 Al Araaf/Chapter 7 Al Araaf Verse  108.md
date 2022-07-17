@@ -710,6 +710,12 @@ I izvadi rŭkata si, i eto ya - siyaĭnobyala za gledashtite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၈။	တစ်ဖန် မိမိလက်ကို ရင်ဘတ်မှ ဆွဲထုတ်လိုက်၏။ ထိုလက်သည် မြင်ရသူတို့အဖို့ အမှန်ပင် တောက်ပ ဖြူစင်သွား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုနဗီတမန်တော်(မူစာ)သည် မိမိလက်ကို (မိမိရင်ချိုင်းကြားမှ) အပြင်သို့ဆွဲ၍ ထုတ်ခဲ့ရာ ရုတ်တရက် ထိုလက်မှာ ကြည့်ရှုသူတို့ရှေ့တွင် ထွန်းတောက် လျက်ရှိနေလေသည်။(ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

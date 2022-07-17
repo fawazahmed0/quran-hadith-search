@@ -710,6 +710,12 @@ Toĭ shte gi napŭti i shte podobri polozhenieto im
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	အရှင်မြတ်သည် သူတို့ကို လမ်းညွှန်တော်မူမည်၊ သူတို့၏အခြေအနေကို တိုးပွားကောင်းမွန်လာစေတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် အမှန်ပင် ၎င်းတို့အား လမ်းမှန်သို့ ပို့ပေးတော်မူသည့်ပြင် ၎င်းတို့၏ အခြေအနေကိုလည်း ကောင်းအောင်ပြုပြင်၍ ပေးတော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

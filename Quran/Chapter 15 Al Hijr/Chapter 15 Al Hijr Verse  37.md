@@ -710,6 +710,12 @@ Reche: “Ti si sred ot·srochenite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇၊၃၈။	အရှင်မြတ်က ကောင်းပြီ၊ သင်သည် သတ်မှတ်ထားတော်မူသောအချိန်ကာလတိုင်အောင် စောင့်ဆိုင်းခွင့်ရ၏ဟု ဗျာဒိတ်ချတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်က မိန့်ကြားတော်မူခဲ့သည်မှာသို့ဖြစ်လျှင် ဧကန်မလွဲ အသင်သည် ရွှေ့ဆိုင်းထားခြင်းကို ခံရသောသူတစ်ဦးပင် ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

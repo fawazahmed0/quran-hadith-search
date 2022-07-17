@@ -710,6 +710,12 @@ I stori Toĭ tova slovo da ostane u negovite potomtsi, za da se vŭrnat [kŭm n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	တမန်တော်အေဗရာဟမ်က ထိုတရားစကားကို ၎င်း၏သားမြေးအဆက်ဆက်တို့လက်ထက်တိုင်အောင် ကျန်ရစ် စေ၏၊ သူတို့တရားတော်ဘက်သို့ ပြန်လှည့်ကောင်းလှည့်ရန် အလို့ငှာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ထိုအိဗ်ရာဟီမ်သည် ယင်း("တောင်ဟီဒ်"တည်းဟူသောအယူဝါဒ)ကို ထို(မက္ကဟ်မြို့သား၊ မုရှ်ရစ်က်)တို့(အနာဂတ်ကာလ၌လည်း "တောင်ဟီဒ်" ဘက်သို့ ပြန်လှည့်ကြအံ့သောငှာ မိမိနောက်တွင် ဆက်လက်တည်ရှိခဲ့သော စကားမွန်တစ်ရပ် ဖြစ်စေခဲ့၏။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

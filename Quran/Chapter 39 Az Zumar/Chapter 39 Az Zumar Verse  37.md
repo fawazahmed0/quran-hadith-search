@@ -710,6 +710,12 @@ I kogoto Allakh napŭtva, nikoĭ ne shte go zabludi. Nima Allakh ne e vsemogŭs
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	ထို့အပြင် အကြင်သူအား အလ္လာဟ်အရှင်မြတ်သည် လမ်းပြတော်မူ၏၊ ထိုသူအား လမ်းတော်ကို သွေဖွယ်သွားစေ နိုင်သူမရှိချေ၊ အလ္လာဟ်အရှင်မြတ်သည် အနန္တတန်ခိုးတော်သခင်၊ အပြစ်များကို လက်စားချေစွမ်းနိုင်တော်မူသော အရှင်ဖြစ်တော်မူသည်မဟုတ်တုံလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ အကြင်သူအား အလ္လာဟ်အရှင်မြတ်သည် တရားလမ်းမှန်သို့ ပို့ပေးတော်မူပါလျှင် ထိုသူအား လမ်းမှားစေအံ့သောသူဟူ၍ တစ်ဦး တစ်ယောက်မျှ မရှိတော့ပြီ။ အလ္လာဟ်အရှင်မြတ်သည် လွန်စွာနိုင်နင်း လွှမ်းမိုးတော်မူသောအရှင်၊ လက်စားချေတော်မူသောအရှင်၊ ဖြစ်တော်မူသည် မဟုတ်ပါလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

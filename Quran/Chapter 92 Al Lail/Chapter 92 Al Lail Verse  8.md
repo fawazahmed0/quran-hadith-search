@@ -710,6 +710,12 @@ A koĭto e skŭpernik i prenebregva
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၊၉၊၁၀။ သို့သော် အကြင်သူသည် လောဘရမ္မက်ကြီးအ၊ံ့ စေးနဲသူဖြစ်အံ၊့ မိမိကိုယ်ကို မိမိကတိအားဖြင့် ကလုံ ပြည့်စုံသည်ဟု ထင်မှတ်အံ့၊ ကောင်းမှု၌ မယုံကြည်အံ့၊ ထိုသူအတွက် ငါသည် ဒုက္ခလမ်းကို ဧကန်အမှန်လွယ်ကူချောမော စေတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် မည်သို့ပင်ဖြစ်စေ၊ အကြင်သူသည်(ပေးကမ်း လှူဒါန်းခြင်းမပြုဘဲ) စေးနဲ၏။ ၎င်းပြင် ထိုသူသည်(မိမိကိုယ်ကို) လိုလားတောင့်တခြင်း ကင်းမဲ့သည်ဟု ထင်မှတ်လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

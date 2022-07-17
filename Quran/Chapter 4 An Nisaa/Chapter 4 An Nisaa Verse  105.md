@@ -710,6 +710,12 @@ Nie ti nizposlakhme Knigata s istinata, za da ot·sŭdish mezhdu khorata s onova
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၅။	အို-တမန်တော် မှတ်သားလော့။ သင်သည် အလ္လာဟ်အသျှင်မြတ် ချပေးသနားတော်မူသော ဤကုရ်အာန်ကျမ်းတော်ဖြင့် လူသားတို့အလယ်တွင် စီရင်ဆုံးဖြတ်နိုင်စေရန် ငါသည် သင့်အား ဤကျမ်းတော်မြတ်ကို မုချဧကန် ထုတ်ပြန်ချပေးသနားတော်မူ၏။ သင်သည် သစ္စာဖောက်တို့အတွက် တောင်းပန်သူတစ်ဦးမဖြစ်လင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို- နဗီတမန်တော်) အသင်သည် လူတို့၏စပ်ကြားဝယ် အလ္လာဟ်အရှင်မြတ်က အသင့်အားပြသတော်မူသည့်အတိုင်း စီရင်ဆုံးဖြတ်ခြင်းငှာ၊ ငါအရှင်မြတ်သည် အသင်၏ထံသို့ ကျမ်းမြတ်ကုရ်အာန်ကို မှန်ကန်မှုနှင့်တကွ ချပေးသနားတော်မူခဲ့၏။ ၎င်းပြင် အသင်သည် သစ္စာဖောက် လိမ်လည်လှည့်ဖြား အလွဲသုံးစားပြုသူများဘက်မှ ကာကွယ်ချေပပြောဆိုသူ မဖြစ်ပါလေနှင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

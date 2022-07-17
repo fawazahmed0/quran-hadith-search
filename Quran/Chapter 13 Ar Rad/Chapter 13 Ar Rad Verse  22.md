@@ -710,6 +710,12 @@ i koito tŭrpyat, stremeĭki se kŭm Lika na svoya Gospod, i ot·sluzhvat molit
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	ဤလူတို့သည် မိမိတို့၏ အရှင်သခင်၏ မျက်နှာတော်ကို ဖူးမြင်ဖို့ရာ ကြိုးစားအားထုတ်ကြ၏။ ဆွလတ်ဝတ်ကို မှန်မှန်ပြုကြ၏။ ငါအရှင်မြတ်ချပေးသနားတော်မူသောစည်းစိမ်ဥစ္စာများမှ တိတ်တဆိတ်သော်လည်းကောင်း၊ ထင်ရှားစွာသော်လည်းကောင်း၊ သုံးစွဲကြ၏။ မကောင်းမှုကို ကောင်းမှုဖြင့် အောင်ကြ၏။ သူတို့၏ အကျိုးဆက် သည် နိဗ္ဗာန်ဘုံဗိမာန်ဖြစ်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့သည် မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ နှစ်သက်မှုကို ရှာဖွေဆည်းပူးရာ၌ တည်တံ့ကြံ့ခိုင်စွာ ရှိကြကုန်၏။ ၎င်းပြင် ထိုသူတို့သည်ဆွလာတ်ဝတ်ပြုမှုကို ဆောက်တည်ကြကုန်၏။ ထိုနည်းတူစွာယင်းတို့သည် ငါအရှင်မြတ် ၎င်းတို့အား ချီးမြှင့်ပေးသနားတော်မူခဲ့သည့်ဥစ္စာပစ္စည်းများအနက်မှ လျှို့ဝှက်စွာတစ်ဖုံ၊ ထင်ရှားစွာတစ်မျိုးလှူဒါန်းသုံးစွဲကြကုန်၏။ ထိုမှတစ်ပါး ၎င်းတို့သည်မကောင်းမှုကို ကောင်းမှုဖြင့်လွှဲဖယ်ကြကုန်၏။ ဤကဲ့သို့သောသူတို့အဖို့ နောင်တမလွန်ဘဝ၏ကောင်းကျိုးသည်ရှိပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

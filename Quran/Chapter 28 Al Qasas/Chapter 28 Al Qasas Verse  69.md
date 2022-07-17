@@ -710,6 +710,12 @@ Tvoyat Gospod znae kakvo potulvat sŭrtsata im i kakvo razkrivat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၉။	ထို့အပြင်သင်၏အသက်သခင်ကျေးဇူးရှင်သည် ထိုမိစ္ဆာယုတ်တို့၏ မိမိတို့စိတ်နှလုံးတွင် ဖုံးကွယ်ထားသော အရာ၊ သူတို့ထုတ်ဖော်ပြောသောအရာအလုံးစုံကို အကြွင်းမဲ့သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် ထိုသူတို့၏ စိတ်နှလုံးများ၌ ကိန်းအောင်းလျက်ရှိသည် တို့ကိုလည်းကောင်း၊ ထိုသူတို့ ထင်ရှားစေကြသည်တို့ကိုလည်းကောင်း၊ (အလုံးစုံ)သိရှိတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

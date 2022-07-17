@@ -710,6 +710,12 @@ I izpratikhme pratenitsi predi teb, i im otredikhme sŭprugi i potomstvo. I ne e
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	အကယ်စင်စစ်မှာ ငါအရှင်မြတ်သည် သင့်အလျင် တမန်တော်များကို လူသားတို့ထံသို့ စေလွှတ်တော်မူ၏။ ထိုတမန်တော်တို့အား ဇနီးမိန်းမများ၊ သားသမီးများကို ပေးသနားတော်မူ၏။ မည်သည့်တမန်တော်မှ အလ္လာဟ် အရှင်မြတ်၏ အခွင့်တော်မရှိပဲ အ့ံဖွယ်သရဲကို မဆောင်နိုင်ချေ။ အရာဝထ္ထုတိုင်းအဖို့ သတ်မှတ်ထားသောအချိန် ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် မချွတ်ဧကန် ငါအရှင်မြတ်သည်အသင်၏အလျင် ရစူလ်တမန်တော်များကို စေလွှတ် တော်မူခဲ့လေသည်။ ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ထိုရစူလ်တမန်တော်များအဖို့ ဇနီးကြင်ရာများကိုလည်းကောင်း၊ သားသမီးများကိုလည်းကောင်း စီမံပြုလုပ်၍ ပေးတော်မူခဲ့လေသည်။ စင်စစ်သော်ကား မည်သည့် ရစူလ်တမန်တော်တစ်ပါး၌မျှ အလ္လာဟ်အရှင်မြတ်၏ ခွင့်ပြုချက်မရှိဘဲလျက် အာယတ်တော် (သက်သေလက္ခဏာ) တစ်စုံတစ်ရာကို ယူဆောင်လာရန် အခွင့်အာဏာမရှိချေ။ ခေတ်ကာလ အပိုင်းအခြားတိုင်းအဖို့ ကျမ်းဂန်တစ်စောင်သည် ရှိချေသတည်း။ (ခေတ်တိုင်းအဖို့ သီးသန့်အမိန့်တော်များရှိသည်)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Nakara go Toĭ da vilnee sreshtu tyakh sedem noshti i osem dni pored, i vizhdas
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။ အရှင်မြတ်သည် ထိုလေပြင်မုန်တိုင်းကြီးကို ခုနှစ်ညဉ့်နှင့် ရှစ်ရက်တိုင်တိုင် မပြတ်မစဲတိုက်ခတ်စေတော်မူ၏၊ အေ-တမန်တော်၊ သင်သည် သူတို့အားလုံးကို လေပြင်မုန်တိုင်းကြီး၏ လမ်းတစ်လျှောက်လုံးတွင် မြေဝယ်လဲ၍ သေကြေပျက်စီးနေသည်ကို မြင်ခဲ့ရလတံ့၊ သူတို့ပျက်စီးပုံမှာ ကြီးမားသောစွန်ပလွံပင်အို ဖရိုဖရဲမြစ်ရင်းက ပြုတ်၍ လဲနေဘိသကဲ့သို့ လဲနေခြင်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် ယင်းလေပြင်းမုန်တိုင်းကို ခုနစ်ညနှင့်ရှစ်ရက်တိုင်တိုင် တစ်ဆက်တည်း ၎င်းတို့ အပေါ်ဝယ် တာဝန်ပေးခန့်အပ်တော်မူခဲ့၏။ သို့ဖြစ်ပေရာ အသင်သည် ယင်းလူမျိုးတို့အား ပြိုလဲနေသော၊ သစ်ခေါင်းပွဖြစ်သော၊ စွန်ပလွံပင်များပမာ ယင်းလေပြင်းမုန်တိုင်းအောက်တွင် လဲ၍နေကြသည်ကို တွေ့မြင်ရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

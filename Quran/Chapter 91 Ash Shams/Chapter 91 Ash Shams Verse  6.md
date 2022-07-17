@@ -710,6 +710,12 @@ i v zemyata, i v Onzi, Koĭto ya e razprostryal
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။ ပထဝီမြေကြီးနှင့် ၄င်းကို ခင်းကျင်းထားတော်မူသောအရှင်မြတ်ကိုသော်လည်းကောင်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် (ငါအရှင်မြတ်သည်)ပထဝီမြေကို လည်းကောင်း၊ ထိုပထဝီမြေကို ဖြန့်ခင်းတော်မူသော အရှင်ကိုလည်းကောင်း၊ သက်သေထူတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

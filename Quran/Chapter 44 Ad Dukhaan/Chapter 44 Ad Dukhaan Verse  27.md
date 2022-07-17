@@ -710,6 +710,12 @@ i blazhenstvo, na koeto se naslazhdavakha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	ထို့အပြင်လည်း ၎င်းတို့အလွန်မွေ့လျော်ပျော်ပါးစံစားသည့်လောကီစည်းစိမ်ရိပ်ငြိမ်ချမ်းသာစသည်တို့ကိုလည်း စွန့်လွှတ်ပစ်ထားခဲ့ကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မိမိတို့ မွေ့လျော်စံပျော်လျက် ရှိခဲ့ကြသော စည်းစိမ်ချမ်းသာတို့ကိုလည်းကောင်း၊ စွန့်ထားခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Nima tŭrsyat sŭda ot vremenata na Nevezhestvoto? Koĭ ot·sŭzhda po-dobre ot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅ဝ။	၎င်းတို့သည် မိစ္ဆာဒိဌိအယူဝါဒခေတ်က စီရင်ဆုံးဖြတ်ချက်ကို ရှိမှီးနေကြသလော။ ယုံကြည်မှု အကယ်စင်စစ်ရှိသူတို့အတွက် အလ္လာဟ်အသျှင်မြတ်ထက် သာလွန်မြင့်မြတ်သော တရားသူကြီး အဘယ်သူရှိသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ပြီးနောက် ယင်းသူတို့သည် အမိုက်ခေတ်၏ စီရင်ဆုံးဖြတ်မှုကို လိုလားကြလေသလော။ အမှန်စင်စစ်သော်ကား ယုံကြည်မှုထားရှိသော အမျိုးသားတို့အဖို့ အလ္လာဟ်အရှင်မြတ်ထက် ပိုမိုကောင်းမွန်စွာ စီရင်ဆုံးဖြတ်မည့်သူကား အသူနည်း။ (ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

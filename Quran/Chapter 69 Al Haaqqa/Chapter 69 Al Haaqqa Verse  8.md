@@ -710,6 +710,12 @@ I nima vizhdash nyakoĭ ostanal ot tyakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။ အို-တမန်တော်၊ သင်သည် ယခုအခါထိုလူမျိုးတို့တစ်ဦးတစ်ယောက်ြွကင်းကျန်ရစ်သည်ကို မြင်နိုင်သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ရာ အသင်သည် ၎င်းတို့အနက်(သေကြေပျက်စီးခြင်းမရှိဘဲ) ကြွင်းကျန်လျက်ရှိသူ တစ်ဦးတစ်ယောက်အား တွေ့မြင်ရလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I vi, i oni kojima se, pored Allaha, klanjate bit ćete gorivo u džehennemu, a 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၈။	အို--သင်ရုပ်ပွားဆင်းတုဝါဒီတို့၊ မှတ်သားကြလော့၊ သင်တို့နှင့်တကွ အရှင်မြတ်မှတပါး သင်တို့ကိုးကွယ်သော ဘုရားပျက်တို့သည် အဝီစိငရဲမီး၏ လောင်စာထင်းများသာဖြစ်ကြ၏၊ သင်တို့သည် ငရဲမီးထဲသို့ လားကြရမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အသင်တို့သည်လည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ်မှတစ်ပါး အသင်တို့ ကိုးကွယ်ကြ သည်များသည်လည်းကောင်း၊ ဂျဟန္နမ်ငရဲဘုံ၏ လောင်စာများပင် ဖြစ်ကြကုန်၏။ အသင်တို့အားလုံး ပင် ယင်းဂျဟန္နမ်ငရဲဘုံတွင်းသို့ ဆိုက်ရောက်ရမည့် သူများသာ ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

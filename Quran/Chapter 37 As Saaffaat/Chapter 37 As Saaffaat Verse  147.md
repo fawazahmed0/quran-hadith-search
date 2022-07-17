@@ -710,6 +710,12 @@ I go izpratikhme pri sto khilyadi dushi, dori poveche
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၇။	ထို့နောက်ငါသည် လူနေအိမ်ခြေသောင်းသိန်းမက များလှစွာသောမြို့သူမြို့သားတို့အား တရားဓမ္မဟောကြားရန် တမန်တော်ယူနွတ်(စ်)ကို ထပ်မံစေလွှတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ငါအရှင်မြတ်သည် ၎င်းအား (လူဦးရေ)တစ်သိန်း သို့မဟုတ် တစ်သိန်းကျော်ရှိ အမျိုးသားတို့ထံ(ရစူလ်တမန်တော်အဖြစ်) စေလွှတ်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

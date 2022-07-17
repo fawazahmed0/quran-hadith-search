@@ -710,6 +710,12 @@ I ne smesvaĭte istinata s lŭzhata, i ne skrivaĭte istinata, kogato [ya] zna
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	သင်တို့သည် တရားအမှန်နှင့် တရားအမှားကို ရှုပ်ထွေးအောင်မပြုကြလင့်။ တရားမှန်ကိုသိလျက်နှင့် ဖုံးမထားကြလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-အစ္စရာအီလီ မျိုးနွယ်အပေါင်းတို့) အသင်တို့သည် (သဒ္ဓမ္မ) တရားမှန်ကို (ကွဖ်ရ်) မိစ္ဆာဒိဋ္ဌိ အယူမှားနှင့် မရောနှောကြကုန်လင့်။ အသင်တို့သည် တရားမှန် တရားစစ်ကို မိမိတို့ကိုယ်တိုင် သိရှိကြပါလျက် ဖုံးကွယ်ထိန်ချန်၍ မထားကြကုန်လင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

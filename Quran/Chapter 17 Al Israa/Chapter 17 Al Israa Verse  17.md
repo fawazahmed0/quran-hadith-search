@@ -710,6 +710,12 @@ I kolko pokoleniya pogubikhme sled Nukh! Dostatŭchen e tvoyat Gospod - svedusht
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	ငါသည် တမန်တော်နူဟိုလက်ထက်တော်မှစ၍ များလှစွာသောလူမျိုးအဆက်ဆက်ကို ဖယ်ရှားသုတ်သင်တော် မူလိုက်၏။ အလ္လာဟ်အရှင်မြတ်သည် မိမိ၏ ကျေးကျွန်တို့၏ အပြစ်များကို သိတော်မူသောအရှင်၊ မြင်တော်မူ သောအရှင်အဖြစ်ဖြင့် လုံလောက်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ငါအရှင်မြတ်သည်(နဗီတမန်တော်)နူဟ်၏နောက်တွင် မြောက်မြားစွာသော လူမျိုးဆက်တို့ကိုဖျက်ဆီးတော်မူခဲ့လေသည်။ စင်စစ် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည်ပင် မိမိကျွန်များ၏ပြစ်မှုတို့ကိုသိတော်မူသောအရှင်၊ မြင်တော်မူသောအရှင်အဖြစ်လုံလောက်တော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

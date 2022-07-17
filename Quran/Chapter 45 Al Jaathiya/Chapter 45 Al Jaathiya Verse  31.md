@@ -710,6 +710,12 @@ A na onezi, koito ne vyarvat [shte se kazhe]: “Ne vi li byakha cheteni Moite z
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	သို့သော်အကြင်သူတို့သည် မယုံကြည်ငြင်းပယ်ခဲ့ကြအ့ံ၊ ထိုသူတို့အား ဤသူမိန့်တော်မူလိမ့်မည်၊ ငါ၏ ပညတ် တော်များကို သင်တို့အား ရွတ်ဖတ်ပြခဲ့သည်မဟုတ်လော၊ သို့သော် သင်တို့သည် တရားတော်ကို ရွံရှာ၍ အပြစ်ရှိသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် သွေဖည်ငြင်းပယ်ကြကုန်သော သူတို့မှာမူကား (ဤသို့ပြောဆိုခြင်းကိုခံကြရပေမည်)။ ငါအရှင်မြတ်၏ အာယတ်တော်များသည် အသင်တို့ရှေ့ဝယ် ဖတ်ကြားခြင်းခံခဲ့ရသည် မဟုတ်လော။ သို့တစေလည်း အသင်တို့သည် မာနထောင်လွှားခဲ့ကြကုန်၏။ ၎င်းပြင် အသင်တို့သည် ပြစ်မှုကျူးလွန်သူများပင် ဖြစ်ခဲ့ကြကုန်၏။ (တစ်နည်း) အမှန်သော်ကား အသင်တို့သည် ပြစ်မှုကျူးလွန်သူများပင် ဖြစ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

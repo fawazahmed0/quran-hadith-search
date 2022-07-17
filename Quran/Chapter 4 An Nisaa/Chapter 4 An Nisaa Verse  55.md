@@ -710,6 +710,12 @@ Nyakoi ot tyakh povyarvakha v nego, a drugi se otvŭrnakha. Dostatŭchni sa plam
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။	ထို့ပြင် သူတို့အနက် အချို့သောသူတို့သည် ထိုကျမ်းတော်ကို ယုံကြည်ကြ၏။ အချို့မူကား မယုံကြည် ကြပေ။ သူတို့လောင်ကျွမ်းဖို့ရာ ငရဲမီးနှင့် လုံလောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တစေလည်း ယင်း (နဗီတမန်တော်၏အဆက်အနွယ်) တို့အနက် အချို့သူတို့သည် ထို (ကျမ်းဂန်နှင့် ဉာဏ်ပညာ စသည်တို့) ကို ယုံကြည်ခဲ့ကြလေ၏။ သို့ရာတွင် ၎င်းတို့အနက် အချို့သူတို့မှာမူကား ထို (ကျမ်းဂန်နှင့် ဉာဏ်ပညာ စသည်တို့ကိုယုံကြည်ခြင်း) မှ သွေရှောင်ခဲ့ကြလေ၏။ အမှန်သော်ကား (ယင်းကဲ့သို့သူတို့အဖို့) အလျှံပြောင်ပြောင်တောက်လောင်သော ‘ဂျဟန္နမ်’ ငရဲဘုံသည်ပင် ပြစ်ဒဏ်အဖြစ် လုံလောက်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

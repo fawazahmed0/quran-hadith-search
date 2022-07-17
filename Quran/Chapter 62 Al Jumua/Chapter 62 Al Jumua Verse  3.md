@@ -710,6 +710,12 @@ I pri drugi osven tyakh, koito oshte ne sa gi posledvali... Toĭ e Vsemogŭshti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။ ထို့အပြင်ငါသည် ထိုတမန်တော်ကို မိမိအမျိုးသား မဟုတ်၍ သူတို့အထဲမပါဝင်သေးသည့်တပါးအမျိုးသားတို့ ကိုလည်း သွန်သင် ဆုံးမစိမ့်သောငှာ စေလွှတ်တော်မူ၏၊ အရှင်မြတ်သည် အနန္တတန်ခိုးတော်သခင်၊ သဗ္ဗညုတ ဉာဏ်တော်ရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး (ထိုအရှင်မြတ်သည်) ၎င်းတို့အနက်မှ ၎င်းတို့နှင့် လာရောက်ပူးပေါင်းခြင်း မရှိကြသေးသောသူတို့အဖို့လည်း(ထိုရစူလ်တမန်တော်အား စေလွှတ်တော်မူခဲ့၏)။ စင်စစ်သော်ကား ထိုအရှင်မြတ်သည် လွန်စွာ ခန့်ညားတော်မူသောအရှင်၊ လွန်စွာ နူးညံ့သိမ်မွေ့သော ဆင်ခြင်တုံတရားနှင့် ပြည့်စုံတော်မူသော အရှင်မြတ်ပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

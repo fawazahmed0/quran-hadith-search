@@ -710,6 +710,12 @@ naistina shte bŭdat sŭbrani po vreme na znaĭniya Den.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉၊၅ဝ။	အို-တမန်တော်မိုဟမ္မဒ်၊ ထိုသူယုတ်မာတို့အား ဟောပြောလော့၊ အို-မိစ္ဆာဒိဋ္ဌိတို့၊ မုချဧကန်ရှေးလူဟောင်းများ၊ နောက်လူများအားလုံးပင်လျှင် ချိန်းချက်ထာတော်မူသောနေ့တော်ကြီး၏ အစည်းအဝေးသဘင်ကြီးကို တက်ကြ ရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်ပင် သတ်မှတ်ပြီးဖြစ်သောနေ့ ဆိုက်ရောက်လာသောအချိန်တွင် စုရုံးခြင်း ခံကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

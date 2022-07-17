@@ -710,6 +710,12 @@ I ne podobava na prorok da izmeni. A koĭto izmeni, v Denya na vŭzkresenieto s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၁။	မည်သည့်တမန်တော်မှ လူသားတို့ကို လှည့်စားသည်မဟုတ်ပေ။ အကြင်သူသည် လိမ်လည် ကောက်ကျစ်အံ့။ ထိုသူသည် မိမိ၏ လိမ်လည်မှုကို မိမိနှင့်အတူတကွ ရှင်ပြန်ထမြောက်ရသော နေ့တော်ကြီး၌ ယူလာရမည်။ ထိုနေ့တော်ကြီး၌ ဝိညာဉ်တိုင်းကို မိမိဆည်းပူးခဲ့သော ကောင်းကျိုး ဆိုးပြစ်ကို ပြည့်စုံစွာပေးတော်မူလတ္တံ။ သူတို့သည် မတရားပြုကျင့်ခြင်းခံကြရမည်မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင်၊ မည်သည့် နဗီတမန်တော်တစ်ပါးမျှထိမ်ချန်လျှို့ဝှက်ခြင်း (သစ္စာမဲ့ခြင်း) မရှိခဲ့ပြီ။ အမှန်စင်စစ်သော်ကား မည်သူမဆို ထိမ်ချန်လျှို့ဝှက်ခဲ့ပါမူ ထိုသူသည်ရှင်ပြန်ထမည့်နေ့တွင် မိမိထိမ်ချန်လျှို့ဝှက်သောအရာများကို(အလ္လာဟ် အရှင်မြတ်၏ရှေ့တော်မှောက်သို့) ယူဆောင်လာအံ့။ထို့နောက် လူတိုင်းသည် မိမိရှာဖွေဆည်းပူး ခဲ့သမျှ(သောကုသိုလ် အကုသိုလ်၏အကျိုး)ကို အပြည့် အစုံရရှိကြလတ္တံ့။၎င်းပြင် ထိုသူတို့သည် မတရား ပြုခြင်းကို အလျင်း ခံကြရမည်မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

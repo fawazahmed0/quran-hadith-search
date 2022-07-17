@@ -710,6 +710,12 @@ I gi pitaĭ [o, Mukhammad] kakvo mislyat - nima za tvoya Gospod sa dŭshterite,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၉။	အို-တမန်တော်မိုဟမ္မဒ်၊ သူတို့အား ဟယ်-အချင်းတို့၊ သင်တို့မှာ သားယောက်ျားများရှိကြ၍ အလ္လာဟ်အရှင် မြတ်မှာ သမီးမိန်းမများသာ ရှိကြသလောဟု မေးမြန်းလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယခုသော် အသင်သည် ၎င်းတို့အား မေးမြန်းပါလေ။ အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၌ သမီးမိန်းကလေးများရှိကြ၍၊ ၎င်းတို့၌မူကား သားယာက်ျားကလေးများ ရှိကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

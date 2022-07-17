@@ -710,6 +710,12 @@ Vina imat samo onezi, koito ugnetyavat khorata i prestŭpvat po zemyata bez prav
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	အကြင်သူတို့သည် လူသားတို့ကို မတရားညှင်းပန်းနှိပ်စက်လျက် ကမ္ဘာမြေတဝှမ်းမတရားသောင်းကျန်းတော်လှန် ကြအ့ံ၊ ထိုသူများအပေါ်၌ အပြစ်ထိုက်၏၊ သူတို့အတွက် အလွန်ပြင်းပြနာကျယ်ဖွယ်သောအပြစ်ဒဏ်တော်ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အပြစ်တင်ရန်နည်းလမ်းမှာကား လူတို့အပေါ်၌နှိပ်စက်ကြသော တိုင်းပြည်၌ မတရားသဖြင့် ဆူပူသောင်းကျန်းဆိုးသွမ်းကြသော သူတို့အပေါ်၌သာလျှင် ရှိပေသည်။ ယင်းကဲ့သို့သောသူတို့၌ နာကျင်ဖွယ်ဖြစ်သော ပြစ်ဒဏ်သည်ရှိချေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

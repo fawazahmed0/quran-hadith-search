@@ -710,6 +710,12 @@ Loshoto vŭv vsichko tova e omrazno pri tvoya Gospod
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	ယခုပြဆိုခဲ့သောအရာများ၏ မကောင်းဆိုးသွမ်းခြင်းသည် သင်၏ ကျေးဇူးတော်သခင်၏ ရှေ့မှောက်တော်ဝယ် မုန်းတီးဖွယ်ရာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤ(အမိန့်ပညတ်) အသီးသီးတို့အနက် မကောင်းမှုတို့မှာ အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်တွင် စက်ဆုပ်ရွံရှာဖွယ်များ ပင် ဖြစ်ကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

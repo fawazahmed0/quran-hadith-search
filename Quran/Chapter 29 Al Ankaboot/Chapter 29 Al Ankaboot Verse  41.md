@@ -710,6 +710,12 @@ Onezi, koito vzimat za pokroviteli drugi osven Allakh, prilichat na payaka. Toi�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	အလ္လာဟ်အရှင်မြတ်မှတပါး အခြားကိုးကွယ်သူရှာသောသူတို့၏ပမာကို ဆိုသော် ထိုသူတို့အတွက် မိမိအတွက် အိမ်ဆောက်သောပင့်ကူနှင့်တူ၏၊ မှတ်သားကြလော့၊ အိမ်အပေါင်းတို့တွင် အပျော့ဆုံး၊အပျက်လွယ်ဆုံးသောအိမ် သည်ကား ပင့်ကူအိမ်ဖြစ်၏၊ ဤအကြောင်းကို သူတို့သိလျှင် တော်လေစွ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်အားစွန့်၍ အခြားတစ်စုံတစ်ရာကို (မိမိတို့၏) ကိစ္စအဝဝကို ပြီးစီးအောင် ပြုလုပ်ဆောင်ရွက်ပေးသူများဟု ရွေးချယ်ပြုလုပ်ကြ ကုန်သောသူတို့၏ ဥပမာကား၊ ပင့်ကူ၏ဥပမာ အလားတူ၏။ ထိုပင့်ကူမှာ အိမ်တစ်ခုကိုပြုလုပ်၏။ သို့ရာတွင် ဧကန်မလွဲ နုန့်နဲ့ဆုံး(အားအနည်းဆုံး) သောအိမ်မှာ ပင့်ကူ၏အိမ်ပင်ဖြစ်ကြောင်း၊၎င်းတို့ သိရှိကြလျှင် ကောင်းလေစွ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

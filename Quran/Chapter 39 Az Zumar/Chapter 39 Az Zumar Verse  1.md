@@ -710,6 +710,12 @@ Nizposlavaneto na Knigata e ot Allakh, Vsemogŭshtiya, Premŭdriya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။	ကျမ်းမြတ်ကုရ်အာန်ကို အနန္တတန်ခိုးတော်သခင်၊ သဗ္ဗညုတဉာာဏ်တော်ရှင်၊ အလ္လာဟ်အရှင်မြတ် ထုတ်ပြန် ချပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည် တန်ခိုးအာနုဘော်ဖြင့် လွှမ်းမိုးတော်မူသော၊ ဆင်ခြင်တုံတရားနှင့် ပြည့်စုံတော်မူသော အလ္လာဟ်အရှင်မြတ်အထံတော်မှ ချပေးသနားတော်မူသော (ကုရ်အာန်)ကျမ်းတော်မြတ်ပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

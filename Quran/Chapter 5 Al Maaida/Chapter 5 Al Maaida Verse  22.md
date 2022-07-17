@@ -710,6 +710,12 @@ rekokha: “O, Musa, na neya ima narod ot ispolini i ne shte vlezem, dokato ne i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	သူတို့က အို-မူဆာ အလွန်ကြီးမားသောလူမျိုးသည် ထိုအရပ်ဒေသ၌ အမှန်နေထိုင်ကြ၏။ သူတို့သည် ထိုနေရာမှထွက်မသွားသည့်ကာလအတွင်း အကျွနု်ပ်တို့သည် အမှန်ပင် ထိုနေရာကို ဝင်ကြမည် မဟုတ်ပေ။ သူတို့ထွက်ခွာသွားသောအခါ အကျွနု်ပ်တို့ ဝင်ကြမည်ဟုဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်း (အမျိုးသား) တို့ကမူ (ဤသို့) ဖြေကြားခဲ့ကြလေသည်။ “အို- မူစာ၊ မုချဧကန် ထို (နယ်) မြေ၌ လုံးရပ်အင်အားကြီးမားသော လူမျိုးတစ်မျိုးသည် ရှိနေကြကုန်၏။ ထိုလူမျိုးတို့သည် ၎င်း (နယ်) မြေအတွင်းမှ ထွက်ခွာ၍မသွားသမျှကာလပတ်လုံး ကျွန်ုပ်တို့သည် ယင်း (နယ်) မြေအတွင်းသို့ အလျင်းဝင်ရောက်ကြမည်မဟုတ်ပေ။ အကယ်၍ ထိုလူမျိုးတို့သည် ၎င်း (နယ်) မြေအတွင်းမှ ထွက်ခွာသွားကြပါမူ၊ ကျွန်ုပ်တို့သည် ဧကန်စင်စစ် (ထိုနယ်မြေအတွင်းသို့) ဝင်ရောက်ကြလတ္တံ့။”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

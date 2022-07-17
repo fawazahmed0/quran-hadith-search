@@ -710,6 +710,12 @@ Posle vi dadokhme nadmoshtie nad tyakh i vi podpomognakhme s imoti i sinove, i v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။ ထို့နောက်သင်တို့အား ထိုသူတို့ကို တလှည့်နိုင်ခွင့်ပေးတော်မူ၏။ ငါသည် သင်တို့အား စည်းစိမ်ချမ်းသာ၊ သားသမီးအခြွေအရံနှင့် မြှောက်စားတော်မူ၏။ သင်တို့အား စစ်မှုရေးရာတွင် သာလွန်လိမ္မာစေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ငါအရှင်မြတ်သည် အသင်တို့အား၎င်းတို့အပေါ်၌ (လွှမ်းမိုးရန်) အလှည့်ပြန်ပေးတော်မူမည်။ထို့ပြင် ငါအရှင်မြတ်သည် အသင်တို့အား ပစ္စည်းဥစ္စာများဖြင့်လည်းကောင်း၊ သား(သမီး)များဖြင့်လည်းကောင်း၊ ကူညီစောင်မတော်မူမည်။ ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် အသင်တို့အားလူစုလူရုံး အားဖြင့်လည်း (လူဦးရေ)မြားမြောင်သော လူစုလူရုံးဖြစ်စေတော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

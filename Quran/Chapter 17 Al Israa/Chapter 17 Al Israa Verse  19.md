@@ -710,6 +710,12 @@ A koĭto vŭzzhelae otvŭdniya zhivot i kakto podobava se starae za nego, vyarv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	အကြင်သူတို့သည် နောင်တမလွန်ဘဝကို မက်မောကြ၏။ ယုံကြည်သူအဖြစ်ဖြင့် ထိုဘဝအတွက် လိုအပ်သော ကြိုးစားမှုနှင့် ကြိုးစားအ့ံ။ ထိုသူတို့၏ ကြိုးစားမှုကို သူတို့၏ ကျေးဇူးတော်သခင်သည် နှစ်ခြိုက်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် မည်သူမဆို တမလွန်ဘဝကို ရည်စူးခဲ့သော်၊ ၎င်းပြင် ထိုသူသည် တမလွန်ဘဝနှင့်လျော်ညီသောကြိုးစားမှုကိုလည်း အပတ်တကုတ် အားထုတ်ကြိုးစားခဲ့သော်၊ထိုမှတစ်ပါး ၎င်းသည် မုအ်မင်န်သက်ဝင်ယုံကြည်သူလည်းဖြစ်ခဲ့သော်၊ ထိုကဲ့သို့သောသူတို့၏ ကြိုးပမ်းမှုကား သဘောတူလက်ခံပြီးဖြစ်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

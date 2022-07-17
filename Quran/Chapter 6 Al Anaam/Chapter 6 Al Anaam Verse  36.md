@@ -710,6 +710,12 @@ Otklikvat samo tezi, koito chuvat, a mŭrtvite Allakh shte vŭzkresi, posle pri 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	ကြားသူများသာလျှင် လက်ခံနိုင်ကြ၏။ သေသူများကိုကား အလ္လာဟ်အသျှင်မြတ်သည် ရှင်ပြန် ထမြောက်စေတော်မူလိမ့်မည်။ ထို့နောက် သူတို့အားလုံးကို အသျှင်မြတ်အထံတော်သို့ ပြန်ပို့လိမ့် မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (စိတ်စေတနာ ဖြူစင်စွာဖြင့် တရားကို) နားထောင်သောသူများသာလျှင် တရားကို လက်ခံနာယူကြပေသည်။ အမှန်စင်စစ် သူသေတို့မူကား အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့အား ရှင်ပြန်ထစေတော်မူမည်။ ထို့နောက်၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ်အထံတော်သို့သာလျှင် ပြန်သွားကြရမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

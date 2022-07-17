@@ -710,6 +710,12 @@ I doĭdokha Nashite pratenitsi s radostnata vest pri Ibrakhim. Kazakha: “Mir!
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၉။	ငါအရှင်မြတ်၏ စေတမန်များသည် တမန်တော်အေဗရာဟမ်ထံသို့ သတင်းကောင်းနှင့်လာခဲ့ကြ၏။ သူတို့က အေးချမ်းသာယာပါစေသော်ဝ်ဟု နှုတ်ဆက်ကြ၏။ အေဗရာဟမ်ကလည်း အေးချမ်းသာယာပါစေသော်ဝ်ဟု တုံ့ပြန်နှုတ်ဆက်၏။ ကာလမကြာမြင့်မီ နွားကလေးတစ်ကောင်ကို ထုတ်ယူလာ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် မချွတ်မလွဲ ငါ၏အရှင်မြတ်၏ကောင်းကင်တမန်များသည် (နဗီတမန်တော်)အစ်ဗ်ရာဟီမ်၏ထံသို့ဝမ်းမြောက်ဖွယ်ရာသတင်းကောင်းကို ဆောင်ယူခဲ့ကြလေသည်။ (ထို့နောက်) ၎င်းတို့က (နဗီတမန်တော်အစ်ဗ်ရာဟီမ်အား) စလာမ်(အသင်သည်) ငြိမ်းချမ်းစွာရှိပါစေသား ဟုပြောဆို(နှုတ်ခွန်းဆက်)ခဲ့ကြပေရာ၊ထို(နဗီတမန်တော်) အစ်ဗ်ရာဟီမ်က (အသင်တို့သည်လည်း) ငြိမ်းချမ်းစွာ ရှိကြပါစေသားဟု(တုန့်ပြန်)ပြောဆို(နှုတ်ခွန်းဆက်)ခဲ့လေ၏။ ထို့နောက် ထို(နဗီတမန်တော်)အစ်ဗ်ရာဟီမ်သည် ကင်ထားသော နွားကလေးကိုမဆိုင်းမတွ ယူဆောင်(၍ဧည့်ခံ)ခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

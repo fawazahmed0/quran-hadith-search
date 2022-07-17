@@ -710,6 +710,12 @@ Toĭ e, Koĭto nizposlava na Svoya rab yasni znameniya, za da vi izvede ot tŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	အရှင်မြတ်သည် မိမိကျေးကျွန်တမန်တော်ထံသို့ သင်တို့ကို အမှောင်ထုမှ အလင်းရောင်သို့ ကယ်တင်ဖို့ရာ ကျော်ဇောထင်ရှားသောနှုတ်ကပတ်တော်များကို ထုတ်ပြန်ချပေးသနားတော်မူ၏၊ အကြောင်းမူကား အရှင်မြတ် သည် သင်တို့အား အတိုင်းထက်အလွန်သနားတော်မူ၏၊ ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် အကြင်အရှင်မြတ်ပင်။ ထိုအရှင်မြတ်သည် အသင်တို့အား အမှောင်ထုမှအလင်းသို့ ထွက်စေအံ့သောငှာ မိမိကျွန်တော်(တမန်တော်မြတ်မုဟမ္မဒ်)၏အပေါ်၌ ထင်ရှားစွာသော အာယတ်တော်များကို ချပေးတော်မူ၏။ စင်စစ်မှာကား ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့အပေါ်ဝယ် အလွန်တရာ နူးညံ့သိမ်မွေ့တော်မူသော၊ အလွန်တရာ ကြင်နာသနားတော်မူသော အရှင်မြတ်ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

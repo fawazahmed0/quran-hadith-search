@@ -710,6 +710,12 @@ I obitatelite na Gorichkata byakha ugnetiteli
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၈။	ထို့အပြင် တောတွင်းနေသူခေါ် မဒယမ်လူမျိုးတို့သည်လည်း ဒုစရိုက်မကောင်းမှုကို ကျူးလွန်သူများအမှန်ဖြစ် ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ဧကန်အမှန် အိုင်ကဟ် (တောအုပ်)၌ နေထိုင်သောသူတို့သည်လည်း မတရားကျူးလွန်သူများပင် ဖြစ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

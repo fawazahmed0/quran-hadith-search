@@ -710,6 +710,12 @@ Togava, shtom vidyat mŭchenieto, onezi, koito sa bili sledvani, shte se otrekat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၆။	တရားစီရင်တော်မူသောနေ့တော်ကြီး၌ အကြီးအကဲ ေ့ရှဆောင်တို့က မိမိတို့ နောက်လိုက်တို့ကို အသိမပြု စွန့်ပစ်ထားသောနေ့ သူတို့အားလုံးသည် အပြစ်ဒဏ်တော်ကို မျက်ဝါးထင်ထင် မြင်ရသော နေ့ မျှော်မှန်းချက်ပန်းတိုင်များသည် သူတို့နှင့်အတူ ပျက်ပြုန်းရသောနေ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်အချိန်အခါဝယ် (လူအပေါင်းတို့ကို လှည့် ဖြားသွေးဆောင်ကြကုန်သော) ခေါင်းဆောင် တို့သည် မိမိတို့၏ တပည့်နောက်လိုက်တို့အား စွန့်ပစ်ကြကုန်အံ့၊ ထိုအခါ ယင်း ခေါင်းဆောင်များနှင့် နောက်လိုက်တပည့်တို့သည် ပြစ်ဒဏ်များ ကို (မျက်ဝါးထင်ထင်) ရှုမြင်ကြအံ့၊ (၎င်းပြင်) ယင်းသူတို့၌ တဦးနှင့်တဦး ဆက်သွယ်မှုများသည်လည်း ပြတ်တောက်သွားလတ္တံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

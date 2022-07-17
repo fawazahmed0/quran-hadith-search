@@ -710,6 +710,12 @@ I reche Nukh: “Gospodi moĭ, ne ostavyaĭ po zemyata nito edin nevernik
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။ တဖန် တမန်တော်နူဟိုတင်လျှောက်သည်မှာ အို-အကျွနု်ပ်၏ အရှင်သခင်၊ ကမ္ဘာကြီးပေါ်တွင် အယူမှားသူ တစ်ယောက်ကိုမှ ချန်ထားတော်မမူပါလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင်(နဗီတမန်တော်)နူဟ်က(ဤသို့)လျှောက်ထားပန်ကြားခဲ့ပြန်၏။ အို-ကျွန်တော်များအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ အရှင်မြတ်သည် ပထဝီမြေဝယ် ကာဖိရ် သွေဖည်ငြင်းပယ်သောသူတို့အနက် မည်သည့်နေထိုင်သူ တစ်ဦးတစ်ယောက်ကိုမျှ ချန်ထားတော်မမူပါနှင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

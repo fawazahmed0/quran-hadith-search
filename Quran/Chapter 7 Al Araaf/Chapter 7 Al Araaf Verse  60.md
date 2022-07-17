@@ -710,6 +710,12 @@ Znatnite ot negoviya narod kazakha: “Vizhdame, che si v yavna zabluda.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆ဝ။	သူ၏ အမျိုးသားထဲမှ ရှေ့ဆောင်လူကြီးများက အို-နူဟို သင်သည် အမှားရောက်နေသည်ကို အကျွနု်ပ်တို့ မချွတ်ဧကန် မြင်ကြရ၏ဟု ပြောကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(နဗီတမန်တော်နူဟ်)၏ အမျိုးသားတို့အနက်မှ အကြီးအကဲတို့က ဧကန်မလွဲ ကျွန်ုပ်တို့သည် အသင်(နူဟ်)အား၊ ထင်ရှားလှစွာသော မှောက်မှားမှုတွင် (ကျရောက်နေသည်ကို) တွေ့မြင်နေရပါသည်ဟု ပြောဆိုကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

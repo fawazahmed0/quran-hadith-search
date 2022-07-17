@@ -710,6 +710,12 @@ I Vikŭt obkhvana onezi, koito ugnetyavakha, i osŭmnakha bezzhizneni v domovete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၇။	အလွန်ကြောက်မက်ဖွယ်ဖြစ်သောအသံကြီးသည် ဒုစရိုက်မှုပြုကျင့်သူတို့အား ဖမ်းဆီး၏။ ထို့ကြောင့်နံနက်သည် သူတို့အားလုံးကို မိမိတို့နေအိမ်များအတွင်း အလျားလိုက်လဲလျက်တွေ့၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် မတရားပြုမူသောသူတို့အား ကျယ်လောင်သောအသံသည် ဖမ်းဆီးကွပ်မျက်ခဲ့လေသည်။ သို့ဖြစ်ပေရာ ၎င်းတို့သည် မိမိတို့နေအိမ်များတွင် နံနက်အချိန်၌မှောက်လျက်(သေကြေပျက်စီးသွားခဲ့ကြလေသည်။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

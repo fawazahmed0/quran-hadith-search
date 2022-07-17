@@ -710,6 +710,12 @@ Reche: “Daĭ mi ot·srochka do Denya, kogato bŭdat vŭzkreseni!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	သူက အို-အသျှင်မြတ်၊ အကျွနု်ပ်၏အပြစ်ဒဏ်ကို သူတို့ရှင်ပြန်ထမြောက်ရသော နေ့တော်ကြီး တိုင်အောင် ရွေ့ဆိုင်းထားတော်မူပါဟု တင်လျှောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ယင်းအစ်ဗ်လီးစ်က အို-အရှင်အရှင်မြတ်သည် ကျွန်တော်မျိုးအား ပြစ်ဒဏ်ပေး တော်မူခြင်းမှလည်းကောင်း၊ အသက်သေခြင်းမှလည်းကောင်း၊ သတ္တဝါအပေါင်းတို့ ရှင်ပြန်ထကြရမည့်နေ့အထိ ရွှေ့ဆိုင်းပေးတော်မူပါဟု လျှောက်ထားခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

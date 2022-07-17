@@ -710,6 +710,12 @@ Gospodŭt na nebesata i na zemyata, i na vsichko mezhdu tyakh. Na Nego sluzhi i 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၅။	အရှင်မြတ်သည် မိုးမြေနှင့်မိုးမြေစပ်ကြားရှိသမျှအားလုံးတို့ကို စိုးပိုင်တော်မူ၏။ ထို့ကြောင့်သင်သည် အလ္လာဟ် အရှင်မြတ်အားသာလျှင် ကိုးကွယ်လော့၊ အရှင်မြတ်၏ အမှုတော်၌ တည်ကြည်မြဲမြံလော့၊ သင်သည် အရှင် မြတ်နှင့် တုဖက်နှိုင်းယှဉ်ရန် နာမတော်တူသူဂုဏ်တော်တူသူဟူ၍ တစုံတရာကို သိမြင်သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအရှင်မြတ်သည်) မိုးကောင်းကင်များကိုလည်းကောင်း၊ ပထဝီမြေကိုလည်းကောင်း၊ ယင်း မိုးကောင်းကင်နှင့်ပထဝီမြေနှစ်ခုစလုံး၏အကြား၌ ရှိသမျှတို့ကိုလည်းကောင်း၊ ဖန်ဆင်းတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသည်။ သို့ဖြစ်ပေရာ အသင်သည် ထိုအရှင်မြတ်အားခဝပ်ကိုးကွယ်ပါလေ။ ၎င်းပြင် ထိုအရှင်မြတ်အား ခဝပ်ကိုးကွယ်ရာ၌ တည်ကြည်စွဲမြဲစွာ ရှိပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

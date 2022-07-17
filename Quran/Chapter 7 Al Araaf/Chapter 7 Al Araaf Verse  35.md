@@ -710,6 +710,12 @@ O, sinove na Adam, yavyat li vi se pratenitsi izmezhdu vas, razkazvaĭki vi za 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	အို-အာဒမ်၏သားသမီးအပေါင်းတို့ သင်တို့၏ သားချင်းဖြစ်သော တမန်တော်များသည် သင်တို့ထံသို့ လာရောက်၍သင်တို့အား ငါအသျှင်မြတ်၏ နှုတ်ကပတ်တော်များကို ရွတ်ဖတ်တင်ပြကြသောအခါ အကြင်သူတို့သည် ဒုစရိုက်မကောင်းမှုကို ရှောင်ရှား၍ မိမိကိုယ်ကို မိမိတို့ ပြုပြင်ကြ၏။ ထိုသူတို့ အပေါ်သို့ ကြောက်ရွံ့စိုးရိမ်စရာ ကျရောက်မည်မဟုတ်။ သူတို့သည် ပူဆွေးရမည်လည်း မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-အာဒမ်၏သားသမီးအပေါင်းတို့၊ အကယ်၍အသင်တို့ထံ အသင်တို့အနက်မှပင် ငါအရှင်မြတ်၏ အမိန့်တော်များကို အသင်တို့ရှေ့ဝယ် ရှင်းလင်း ပြောပြကြကုန်သောရစူလ်တမန်တော်များ ရောက်လာခဲ့ကြသောအခါ အကြင်သူသည် ဒုစရိုက်တို့မှ ကြဉ်ရှောင်အံ့။ ၎င်းပြင် (အပြုအမူများကို)ပြုပြင်အံ့။ ထို(ကဲ့သို့သော) သူတို့အပေါ်၌ စိုးရိမ် ကြောင့်ကြမှုလည်း ရှိလိမ့်မည် မဟုတ်ပေ။ ၎င်းပြင်ထိုသူတို့သည် ပူဆွေးကြရမည်လည်း မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

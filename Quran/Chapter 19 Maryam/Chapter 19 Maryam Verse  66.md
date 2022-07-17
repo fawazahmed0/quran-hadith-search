@@ -710,6 +710,12 @@ I kazva chovekŭt: “Dali kato umra, naistina shte bŭda sŭzhiven?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၆။	ထို့အပြင်လူသားက အကျွန်ုပ်သည် သေကျေပျက်စီးပြီးမှ အမှန်ပင်ရှင်ပြန်ထမြောက်ရမည်လောဟု မေး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် လူသားသည် ကျွန်ုပ်သေဆုံးပြီး နောက်(ပြန်လည်၍) အသက်ရှင်လျက် (သင်္ချိုင်းတွင်းမှ) ထွက် စေခြင်းကိုခံရဦးမည်လောဟုမေး၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

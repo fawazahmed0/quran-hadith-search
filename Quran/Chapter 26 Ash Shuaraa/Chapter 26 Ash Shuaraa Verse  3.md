@@ -710,6 +710,12 @@ Ne pogubvaĭ sebe si, zadeto ne iskat da povyarvat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	အို--တမန်တော်မိုဟမ္မဒ်၊ သူတို့သည် မယုံကြည်သဖြင့် သင်သည် မိမိကိုယ်ကို မိမိနှိပ်စက်ကလူပြုချင်လုမတတ် ရှိနေတော့သည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်၊)၎င်း(မက္ကာမြို့သား)တို့သည် သက်ဝင်ယုံကြည်ခြင်း မရှိကြသောကြောင့် အသင်သည် မိမိကိုယ်ကို သတ်သေချင်လုမတတ် ဖြစ်နေဘိ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ za da izsipem vŭrkhu tyakh kamŭni ot glina
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃၊၃၄။	သို့စေလွှတ်တော်မူခြင်းမှာ ၎င်းသူဆိုးသူညစ်တို့ကို ဖျက်ဆီးဖို့ရာ သင်၏ အသက်သခင်ကျေးဇူးရှင်ကြီး တံဆိပ် ခတ်နှိပ်ပြီးဖြစ်သောရွှံ့လုံးများကို သူတို့အပေါ်သို့ ပစ်ချဖို့အလို့ငှာဖြစ်၏ဟု ဆက်လက်၍ ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကျွန်ုပ်တို့သည် ၎င်းတို့အပေါ်၌ ရွှံ့စေးဖြင့် ပြီးသော (ကျောက်)ခဲများကို ရွာသွန်းချစေရန် (စေလွှတ်ခြင်းခံခဲ့ကြရလေသည်)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

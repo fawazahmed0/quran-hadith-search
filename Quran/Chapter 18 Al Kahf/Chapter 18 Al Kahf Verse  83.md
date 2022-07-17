@@ -710,6 +710,12 @@ I te pitat za Zu-l-Karnaĭn. Kazhi [o, Mukhammad]: “Shte vi izvestya neshto z
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၃။	အို-တမန်တော်၊ မိစ္ဆာမိုက်တို့သည် သင့်အား ဇူလ်ကရ်နိုင်မင်း၏ အကြောင်းကို မေးမြန်းကြလတ့ံ။ သင်သည် သူတို့အား အကျွနု်ပ်သည် ထိုမင်း၏ အကြောင်းကို ပြောကြားလတ့ံဟု ပြောလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်း(ကုရိုက်ရှ်အမျိုးသား)တို့သည်ဇုလ်ကရ်နိုင်န် နှင့်ပတ်သက်၍ အသင့်အား မေးမြန်းကြလေသည်။ (အို-နဗီတမန်တော်) အသင်သည် ၎င်းတို့အား (အချင်းတို့၊) ငါသည် ယခုပင် ယင်း(ဇုလ်ကရ်နိုင်န်)၏ (အကြောင်းများ)အနက် အကြောင်းတစ်ခုကို အသင်တို့ရှေ့ဝယ် ပြန်၍ပြောပြမည်ဟူ၍ ပြောကြားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

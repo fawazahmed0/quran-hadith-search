@@ -710,6 +710,12 @@ na onezi, vŭrkhu chiito ochi ima pokrivalo pred Moeto napomnyane i ne mogat da 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၁။	ထိုမိစ္ဆာမိုက်တို့သည် ငါ၏ သတိပေးကျမ်းတော်မှ သူတို့မျက်စိကို ပိတ်ထားခြင်းခံရကြ၏။ သူတို့သည် တရား ဒေသနာတော်ကို ကြားပြင်းကပ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင် (ကာဖိရ်သွေဖည်ငြင်းပယ်သော)သူတို့သည် ထိုသူတို့၏မျက်စိများမှာ ငါအရှင်မြတ်အား အောက်မေ့သတိရခြင်းမှ ဖုံးအုပ်လျက်ပင်ရှိခဲ့ကြ၏။ ထို့ပြင် ၎င်းတို့သည်(ယင်းကုရ်အာန်ကျမ်းမြတ်တော်ကိုနားဝင်အောင်) နားထောင်နိုင်ခြင်းလည်း မရှိခဲ့ကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

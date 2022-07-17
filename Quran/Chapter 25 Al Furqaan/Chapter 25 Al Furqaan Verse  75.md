@@ -710,6 +710,12 @@ na tezi shte se vŭzdade naĭ-izdignatoto myasto v Raya, zashtoto sa tŭrpeli, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၅။	ထိုသူတို့သည် ၎င်းတို့၏ခန္တီပါရမီ၊ သမာဓိဂုဏ်သိက္ခာကြောင့် မြင့်မြတ်သောနိဗ္ဗာန်ဗိမာန်ကို အသနားတော်မြတ် ခံကြရလတ့ံ၊ သူတို့သည် နိဗ္ဗာန်တော်၌ ရွှင်လန်းစွာခရီးဦးကြိုဆိုခြင်းနှင့် အေးချမ်းသာယာခြင်းမင်္ဂလာမေတ္တာပို့သ ခြင်းတို့ကို တွေ့ကြံုကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(ဝိသေသဂုဏ်ထူးနှင့် ပြည့်စုံကြကုန်သော ‘ရဟ်မာန်’ ကြီးမားလှသော ကရုဏာတော်ရှင်၏ကျွန်)တို့မှာကား မိမိတို့ တည်တံ့ကြံ့ခိုင်စွာ ရှိခဲ့ကြသည့်အတွက်ကြောင့် (ဂျန္နတ်သုခဘုံ၏)မြင့်မြတ်သော အဆောင်များကိုပင် အစားပေးချီးမြှင့်ခြင်း ခံကြရပေမည်။ ထိုမှတစ်ပါး ထိုသူတို့သည် ယင်းအဆောင်များ၌("မလာအိကဟ်" ကောင်းကင်တမန်များ၏) နှစ်ထောင်းအားရကြောင်း ထုတ်ဖော်ပြောဆိုခြင်းကို လည်းကောင်း၊ ‘စလာမ်’ မေတ္တာပို့ နှုတ်ခွန်းဆက်သခြင်းကို လည်းကောင်း၊ (တွေ့ကြုံစေခြင်း)ခံကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Nima ne razmishlyavat nad Korana? I ako be ot drug, a ne ot Allakh, shtyakha da 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၂။	သူတို့သည် ကုရ်အာန်ကျမ်းတေ်ကို စဉ်းစားဆင်ခြင်ကြမည်မဟုတ်လော။ ကုရ်အာန်ကျမ်းတော်သည် အလ္လာဟ်အသျှင်မြတ်အထံတော်မှမဟုတ်ဘဲ အခြားသူတို့ထံမှဖြစ်ခဲ့လျှင် သူတို့သည် ထိုကျမ်းတော်၌ များစွာသော မညီညွတ်၊ ကွဲလွဲချက်များကို တွေ့ကြရမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ကုရ်အာန်ကျမ်းတော်မြတ်ကို လေ့လာဆင်ခြင် သုံးသပ်ခြင်းမရှိကြပါသလော။ အကယ်၍သာ ယင်း (ကုရ်အာန်ကျမ်းတော်မြတ်) သည် အလ္လာဟ်အရှင်မြတ်မှတစ်ပါး အခြားသူ၏ထံမှ (ရောက်ရှိလာသောကျမ်းဂန်) သာဖြစ်ခဲ့ပါမူ ထိုသူတို့သည် ၎င်း (ကုရ်အာန် ကျမ်းတော်) တွင် မြောက်မြားစွာသောကွဲလွဲမှုတို့ကို မလွဲဧကန် တွေ့ရှိခဲ့ကြကုန်အံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I ne davaĭte na nesŭznavashtite svoite imoti, koito Allakh e storil opora za 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	အလ္လာဟ်အသျှင်မြတ်က သင်တို့အား အသက်မွေးမြူရန်ပေးသော ဥစ္စာပစ္စည်းများကို သင်တို့သည် စိတ်မနှံ့သူအရူးတို့အား မလွဲအပ်ကြလင့်။ သို့သော် ထိုပစ္စည်းမှ သူတို့ကို ကျွေးမွေး ဝတ်ဆင်ထား ကြလော့။ သူတို့အား သနားကြင်နာယုယသောစကားကို ဆိုကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်တို့သည် မိမိတို့ (ထံ၌ ထိန်းသိမ်းထားသော ဖမဲ့ကလေးများ၏) ဥစ္စာပစ္စည်းများကို အသိအလိမ္မာ ဉာဏ်ပညာနည်းပါးသောသူတို့အား မပေးကြကုန်လင့်။ အလ္လာဟ်အရှင်မြတ်သည် ထိုဥစ္စာပစ္စည်းများကို အသင်တို့အဖို့ အသက်မွေးဝမ်းကျောင်းမှုအတွက် အရင်းအနှီးအဖြစ် ပြုထားတော်မူသည်။ သို့ရာတွင် အသင်တို့သည် ထိုဥစ္စာပစ္စည်းများအနက်မှ ထိုသူတို့အား ကျွေးမွေးကြလေကုန်၊ ၎င်းပြင် ထိုသူတို့အား ဝတ်စားတန်ဆာ ဆင်ယင်ပေးကြလေကုန်။ ၎င်းပြင် ထိုသူတို့အား ကောင်းမွန်သောစကားကို ပြောဆိုသွန်သင် ဆုံးမကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

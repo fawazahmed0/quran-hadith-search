@@ -710,6 +710,12 @@ i na neya e posochil [shto e] nechestivost i bogoboyazlivost
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။ ဝိညာဉ်အား မိမိအတွက် မည်သည်က မှားသည်၊ မည်သည်က မှန်သည်ကို ခွဲခြားဝေဖန်နိုင်သည့် ဉာဏ်ပညာ ပေးသနားတော်မူခြင်းကိုသော်လည်းကောင်း ငါသက်သေထူတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တဖန် ထိုအရှင်မြတ်သည် ထိုအသက်ဇီဝိန်တွင်းဝယ် ထိုအသက်ဇီဝိန်၏ ပြစ်မှုဒုစရိုက်(၏အသိ) ကိုလည်းကောင်း၊ ကောင်းမှုသုစရိုက်(၏အသိ)ကို လည်းကောင်း၊ ထည့်သွင်းပေးတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

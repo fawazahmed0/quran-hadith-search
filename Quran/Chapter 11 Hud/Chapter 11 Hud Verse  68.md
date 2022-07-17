@@ -710,6 +710,12 @@ syakash ne byakha prebivavali tam. Da, samudyanite otrekokha svoya Gospod. Da, g
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၈။	ထိုအခါသူတို့၏ နေရပ်ဌာနေအလုံးတို့သည် သူတို့တခါတရံမှ မနေဘူးသောအရပ်ကဲ့သို့ဖြစ်သွား၏။ မှတ်သားကြ လော့။ စမုဒ်လူမျိုးစုသည် မိမိတို့၏ အရှင်သခင်အား မယုံကြည်ကြချေ။ ထို့ကြောင့်သူတို့ကို ကောင်းစွာရှင်းလင်း ပစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ထိုအိမ်များတွင် မနေခဲ့ဘူးကြသကဲ့သို့ပင် ဖြစ်သွားခဲ့ကြလေသည်။ သတိပြုကြလေကုန်။ဧကန်အမှန်ဆမူဒ် အမျိုးသားတို့သည် မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်(၏အမိန့်တော်)ကို သွေဖည်ငြင်းဆန်ခဲ့ကြကုန်သည်။ သတိပြုကြလေကုန်။ ဆမူဒ်အမျိုးသားတို့၌ (ကရုဏာတော်မှ)ကင်းဝေးခြင်းသည်ရှိစေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

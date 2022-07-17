@@ -710,6 +710,12 @@ O, vyarvashti, ako se zhenite za vyarvashti zheni, posle im dadete razvod, predi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	အို-ယုံကြည်သူအပေါင်းတို့၊ အကယ်၍သင်တို့သည် မိန်းမများနှင့်ထိမ်းမြားလက်ထပ်၍ ထိုမိန်းမများထံမဝင် သေးမီ ကွာရှင်းကြလျှင် လင်ကွာမိန်းမတို့စောင့်ဆိုင်းရသောကျင့်စဉ်ပညတ်တော်သည် ထိုမိန်းမများနှင့်မသက် ဆိုင်ချေ၊ သို့သော်သူတို့အား ခန်းဝင်ပစ္စည်းများကို ကျေနပ်စွာပေး၍ ကောင်းမွန်စွာလွတ်လပ်ခွင့်ပေးလိုက် ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-မုအ်မင်န် သက်ဝင်ယုံကြည်သူအပေါင်းတို့၊ အကယ်၍ အသင်တို့သည် မုအ်မင်န် သက်ဝင် ယုံကြည်သူ အမျိုးသမီးများနှင့် ‘နီကာဟ်’ ပြု ထိမ်းမြားခဲ့ပြီးနောက်၎င်းတို့အား ထိတွေ့ခြင်းမပြုကြသေးမီ အသင်တို့သည် တွလာက်ပေး ကွာရှင်းခဲ့ကြလျှင်၊ အသင်တို့နှင့်ပတ်သက်၍၎င်းတို့အပေါ်၌မည်သည့် အစ်ဒ္ဒတ် ရက်ဆိုင်းငံ့ခြင်းကိုမျှပင်အသင်တို့ ရေတွက်ကြရန် မရှိတော့ပြီ။ သို့ဖြစ်ပေရာ အသင်တို့သည် ၎င်းတို့အား အကျိုးကျေးဇူး ခံစားစေပြီး ကောင်းမွန်စွာစွန့်လွှတ်ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

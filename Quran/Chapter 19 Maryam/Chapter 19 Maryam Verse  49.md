@@ -710,6 +710,12 @@ I shtom se ottegli ot tyakh i ot onova, na koeto sluzhat vmesto na Allakh, Nie g
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	ထိုသို့ပြောပြီးလျှင် သူတို့နှင့်တကွ အလ္လာဟ်အရှင်မြတ်မှတပါး သူတို့ကိုးကွယ်သောဘုရားတုတို့မှ တမန်တော် အေဗရာဟမ်သည် ထွက်ခွာသွားလေ၏။ ငါအရှင်မြတ်သည် သူ့အား အစ္စဟတ်(က်)၊ ယာကုဗ်ခေါ် သားမြေး တို့ကို ပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် အကြင်အခါဝယ် ယင်းအစ်ဗ်ရာဟီမ်သည် ထိုသူတို့ကိုလည်းကောင်း၊ အလ္လာဟ်အရှင် မြတ်အားစွန့်၍ ထိုသူတို့ကိုးကွယ်လျက်ရှိကြသော အရာဝတ္ထုများကိုလည်းကောင်း၊(စွန့်၍)ဘေးဖယ်ခဲ့သောအခါ ငါအရှင်မြတ်သည်ထိုအစ်ဗ်ရာဟီမ်အား (သားတော်)အစ္စဟာက်ကိုလည်းကောင်း၊ (မြေးတော်) ယအ်ကူဗ်ကိုလည်းကောင်း၊ ချီးမြှင့်ပေးသနားတော်မူခဲ့လေသည်။ ထိုမှတစ်ပါး ငါအရှင်မြတ်သည်(ယင်းအစ္စဟာက်နှင့်ယအ်ကူဗ်တို့အနက်)အသီးသီးကို နဗီ တမန်တော်အဖြစ်သို့ချီးမြှင့်တော်မူခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

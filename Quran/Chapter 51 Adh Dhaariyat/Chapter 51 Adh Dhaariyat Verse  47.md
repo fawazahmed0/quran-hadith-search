@@ -710,6 +710,12 @@ I nebeto izgradikhme s [Nashata] sila. Nie davame prostor
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	ငါသည် တန်ခိုးတော်အနန္တအားဖြင့် မိုးကောင်းကင်ကို ဖန်ဆင်းတော်မူ၏၊ ငါပင်လျှင် ထိုကောင်းကင်ကို အလွန်ကျယ်ပြန့်စေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ငါအရှင်မြတ်သည် မိုးကောင်းကင်ကို တန်ခိုးတော်ဖြင့် ပြုလုပ်တော်မူခဲ့၏။ စင်စစ်သော်ကား ဧကန်မလွဲ ငါအရှင်မြတ်သည် ကျယ်ဝန်းစွာသော တန်ခိုးတော်ရှင်ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

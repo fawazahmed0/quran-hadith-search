@@ -710,6 +710,12 @@ Allakh obicha onezi, koito se srazhavat po Negoviya pŭt v reditsa, syakash sa z
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။ အလ္လာဟ်အရှင်မြတ်သည် အရှင်၏ သာသနာတော်ရေးအတွက် အလွန်ထူထဲခိုင်ခန့်သောမြို့ရိုးတံတိုင်းကဲ့သို့ ခိုင်ခန့်မြဲမြံစွာရပ်တန့်လျက် စစ်တိုက်ခိုက်ကြသူတို့ကို အမှန်မြတ်နိုးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် ထိုအရှင်မြတ်၏လမ်းတော်၌ စီတန်းလျက် လွန်စွာသိပ်သည်း ခိုင်ခံ့လှစွာသော အဆောက်အအုံကဲ့သို့ပင် (မဆုတ်မနစ်၊ စိတ်ဓာတ် တည်ကြည်ကြံ့ခိုင်စွာ) တိုက်ခိုက်ကြကုန်သော သူတို့အား နှစ်မြို့တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

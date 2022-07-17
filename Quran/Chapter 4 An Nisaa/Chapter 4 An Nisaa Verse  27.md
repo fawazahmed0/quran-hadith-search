@@ -710,6 +710,12 @@ Allakh iska da prieme pokayanieto vi, a onezi, koito sledvat strastite, iskat s�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	အလ္လာဟ်အသျှင်မြတ်သည် သင်တို့အား ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူမည်။ သို့သော် မိမိတို့၏ ဝါကြွားလိုသောဆန္ဒနောက်သို့ တကောက်ကောက်လိုက်သောသူတို့ကား လမ်းအမှားကြီး မှားပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့ဘက်သို့ (မိမိ) ကရုဏာတော်ဖြင့် လှည့်တော်မူရန် ရည်စူးတော်မူသည်။ သို့ရာတွင် မိမိတို့၏အလိုဆန္ဒများကို လိုက်စားကြကုန်သော သူတို့မှာကား အသင်တို့ (ဖြောင့်မတ်မှန်ကန်သော တရားလမ်းစဉ်မှ) အကြီးအကျယ် ယိမ်းယိုင် ချွတ်ချော်တိမ်းပါးခြင်းကိုသာ ရည်စူးကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

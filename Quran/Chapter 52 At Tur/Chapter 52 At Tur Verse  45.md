@@ -710,6 +710,12 @@ Ostavi gi, dokato sreshtnat svoya Den, kogato shte bŭdat porazeni ot mŭlniyata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	အို-တမန်တော်မိုဟမ္မဒ်၊ ထိုသူတို့သည် ၎င်းတို့၏ နေ့တော်ကြီးကို တွေ့မြင်ရသည့်တိုင်အောင် သူတို့ကို လျစ်လျူရှုလော့၊ ထိုနေ့တော်ကြီး၌ သူတို့သည် မိုးကြိုးအပစ်ခံကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်) အသင်သည် ၎င်းတို့အား ၎င်းတို့၏အကြင်နေ့နှင့် တွေ့ကြုံကြရသည်အထိ စွန့်လွှတ်၍ ထားရှိပါလေ၊ ထိုနေ့တွင် ၎င်းတို့သေဆုံးကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ili koĭ mozhe prepitanie da vi dade, ako Toĭ zadŭrzhi Svoeto prepitanie? Al
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။ သို့မဟုတ် အရှင်မြတ်သည် ရိက္ခာတော်ကို ရပ်တန့်ထားတော်မူလျှင် သင်တို့ကို အဘယ်သူသည် ရိက္ခာပေး မည်နည်း၊ အမှန်မှာ သူတို့သည် မာန်တက်၍ တရားတော်ကို ကျူးလွန်သူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် အကယ်၍ ထိုအရှင်မြတ်သည် မိမိ (ထံမှ)ရိက္ခာကို ပိတ်ပင်တော်မူခဲ့ပါလျှင် အသင်တို့အား ရိက္ခာပေးအံ့သောသူသည် မည်သူနည်း။ စင်စစ်မှာကား ထိုသူတို့သည် ဆိုးသွမ်းမှု၌လည်းကောင်း၊ စက်ဆုပ်ရွံရှာမှု၌လည်းကောင်း၊ စွဲမြဲစွာ ရှိနေကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

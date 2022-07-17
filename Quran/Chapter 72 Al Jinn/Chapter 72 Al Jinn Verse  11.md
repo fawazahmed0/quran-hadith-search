@@ -710,6 +710,12 @@ Sred nas ima pravdivi, sred nas ima i drugi osven tova. Sledvame razlichni pŭti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။ ငါတို့အထဲတွင် အချို့တို့သည် ဖြောင့်မတ်မှန်ကန်သောလမ်းကို လိုက်ကြ၏၊ အချို့မှာမူကား လမ်းကောက်ကို လိုက်ကြ၏၊ ငါတို့သည် အမျိုးမျိုးအဖုံဖုံကွဲပြားသည့်လမ်းများကို လိုက်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ဧကန်အမှန် ကျွန်ုပ်တို့တွင် အချို့မှာ သူတော်ကောင်းများဖြစ်ကြ၏။ ကျွန်ုပ်တို့တွင် အချို့မှာ ထိုမှတစ်ပါးသောသူများ ဖြစ်ကြကုန်၏။ (စင်စစ်သော်ကား)ကျွန်ုပ်တို့သည် ဂိုဏ်းဂဏအမျိုးမျိုး ဖြစ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

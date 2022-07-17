@@ -710,6 +710,12 @@ Reche: “Gospodi moĭ, pomogni mi, zashtoto me vzekha za lŭzhets!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	ထိုအခါတမန်တော်နူဟိုသည် အို-အကျွနု်ပ်၏ အသက်သခင်ကျေးဇူးရှင်၊ ဤလူများသည် အကျွနု်ပ်ကို ငြင်းပယ် ကြပါသည်၊ အကျွနု်ပ်ကို မှိုင်းမတော်မူပါဟု အလ္လာဟ်အရှင်မြတ်အား တင်လျှောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(နဗီတမန်တော်) နူဟ်က အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ ၎င်းတို့သည် ကျွန်တော်မျိုးအား မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်ခဲ့ကြသောကြောင့် အရှင်မြတ်သည် ကျွန်တော်မျိုးအား ကူညီစောင်မတော်မူပါဟု လျှောက်ထားအသနားခံခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

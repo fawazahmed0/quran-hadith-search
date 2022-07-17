@@ -710,6 +710,12 @@ Kŭlna se v tvoya Gospod! Shte gi pitame vsichki
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၂၊၉၃။	သင်၏ ကျေးဇူးတော်သခင်၏ တန်ခိုးတော်အားဖြင့် ငါတို့သည် သူတို့အားလုံးကို တစ်ယောက်မကျန်သူတို့ ပြုကျင့်လေ့ရှိသောအမှုအခင်းအကြောင်းကို စစ်ကြောတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင့်အား ဖန်ဆင်းမွေးမြူ တော်မူသောအရှင်မြတ်၏ ကစမ် ဧကန်အမှန် ငါအရှင်မြတ်သည်၎င်းတို့အားလုံးကို မုချစစ်ဆေးမေးမြန်းတော်မူမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

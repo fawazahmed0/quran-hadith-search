@@ -710,6 +710,12 @@ I shte vidish angelite, obgradili Trona, proslavyashti s vŭzkhvala svoya Gospod
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၅။	အို-မိုဟမ္မဒ်၊ ကောင်းကင်တမန်တော်တို့သည် ငါအရှင်မြတ်၏ ကျေးဇူးတော်ဂုဏ်တော်တို့ကို ချီးကျိုးတသ လျက် ငါ၏ ရာဇပလ္လင်ကို ခြံရံခစားနေကြသည်ကို သင်မြင်ရ၏၊ ထိုအခါအလ္လာဟ်အရှင်မြတ်သည် လူသား တို့ကို တရားသဖြင့်မှန်ကန်စွာစစ်ကြောစီရင်တော်မူ၏၊ ထို့အပြင်အနန္တစကြာဝဠာအပေါင်းတို့၏ အရှင်သခင် အလ္လာဟ်အရှင်မြတ်သည် အ့ံချီးမဆုံးဖြစ်တော်မူ၏ဟု ကျုးအေးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး (အို-နဗီတမန်တော်) အသင်သည် "မလာအိကဟ်" ကောင်းကင်တမန်တို့အား "အရ်ရှ်ပလ္လင်"တော်၏ပတ်လည်၌ ဝန်းရံလျက် မိမိတို့ကို ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အား ချီးမွမ်းထောပနာပြုခြင်းနှင့်တကွ(ထိုအရှင်မြတ်)စင်ကြယ် သန့်ရှင်းတော်မူကြောင်း မြွက်ဆိုလျက်ရှိကြသည်ကို တွေ့မြင်ရပေမည်။ ထို့ပြင် ထို(လူသား)တို့၏အကြားဝယ် တိကျမှန်ကန်စွာ (စစ်ဆေး)စီရင်ဆုံးဖြတ်ပြီး ဖြစ်ပေမည်။ထိုမှတစ်ပါး "ချီးမွမ်းထောပနာ အပေါင်းတို့သည် စကြာဝဠာခပ်သိမ်းတို့ကို ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်နှင့်သာသက်ဆိုင်သည်" ဟူ၍ ပြောဆို(ချီးကျူးဩဘာပေး)ခြင်းကို ကြားရပေအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ispolin ot dzhinovete reche: “Az shte ti go donesa, predi da stanesh ot myasto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	ထိုအခါဂျင်နတ်သားများအနက် သတ္တိကောင်းတစ်ဦးက အို-ပြည့်ရှင်မင်းကြီး၊ ကိုယ်တော်သည် မိမိနေရာမှ ထတော်မမူနိုင်မီ အကျွနု်ပ်သည် ထိုပလ္လင်ကို ကိုယ်တော့်ထံသို့ ယူဆောင်လာပါမည်၊ အကျွနု်ပ်သည် အမှန် ခွန်အားဗလကောင်း၍ ထိုအလုပ်ကို ဆောင်ရွက်ဖို့ရာ ယုံကြည်လောက်သူဖြစ်ပါ၏ဟု လျှောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဂျင်(န်)သတ္တဝါတို့အနက်မှ အလွန်ခွန်အားဗလကြီးသော ဂျင်(န်)တစ်ဦးက ကိုယ်တော်သည် မိမိနေရာမှမထမီ ကျွန်တော်မျိုးသည် ထိုရာဇပလ္လင်ကို ကိုယ်တော်ထံသို့ဆောင်ကြဉ်းခဲ့ပါမည်။ အမှန်သော်ကား ကျွန်တော်မျိုးသည် ဧကန်မလွဲ ဤကိစ္စနှင့်စပ်လျဉ်း၍ ပြုစွမ်းနိုင်သူ၊ ယုံကြည်စိတ်ချရသူတစ်ဦးပင် ဖြစ်ပါသည်ဟု လျှောက်ထားခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

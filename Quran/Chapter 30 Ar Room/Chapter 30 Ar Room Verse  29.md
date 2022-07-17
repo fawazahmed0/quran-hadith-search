@@ -710,6 +710,12 @@ Da, onezi, koito ugnetyavat, sledvat svoite strasti v nevedenie. A koĭ mozhe d
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	ထိုသို့စီရင်တော်မူသော်လည်း မတရားမှုကျူးလွန်သူတို့သည် အသိပညာမရှိပဲ မိမိတို့ကိလေသာဖုံးပိတ် မကောင်း ဓာတ်ဆွဲငင်ရာကိုသာ အမြဲလိုက်နာပြုမူကြ၏၊ အကြင်သူအား အလ္လာဟ်အရှင်မြတ်သည် လမ်းမှားတွင် ပစ်ထား ပါမူ ထိုသူအား အဘယ်သူသည် လမ်းမှန်ကို ညွှန်ပြနိုင်အ့ံနည်း၊ ဤကဲ့သို့သောအမိုက်တုံးတို့အား ကူညီစောင်မ မည့်သူမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ပါလျက် မတရားပြုလုပ်ကြသော သူတို့မှာမူကား၊ သက်သေအထောက်အထား မရှိဘဲလျက် မိမိတို့၏စိတ်အလိုဆန္ဒများကိုသာ လိုက်နာလိုက်စား ခဲ့ကြကုန်၏။ သို့ဖြစ်ပေရာ အလ္လာဟ်အရှင်မြတ်က လမ်းမှားစေတော်မူခဲ့သောသူအား တရားလမ်းမှန်ကို မည်သူညွှန်ကြားပြသနိုင်မည်နည်း။ ထိုမှတစ်ပါး ၎င်းတို့၌ ယိုင်းပင်းကူညီသူများဟူ၍လည်း ရှိကြမည်မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ osven onezi, koito vyarvat i vŭrshat pravedni dela, i vzaimno se nastavlyavat z
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။ သို့သော် ယုံကြည်လျက် ကောင်းမှုပွားများ၍ သစ္စာတရား၊ ခန္တီပါရမီများသို့ တိုက်တွန်းနှိုးဆော်သောသူတို့သည် ယင်းဆုံးရှုံးခြင်းသို့ မရောက်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတို့မှတပါး ထိုသူတို့သည် (အီမာန်)သက်ဝင်ယုံကြည်ခဲ့ကြ၏။ ၎င်းပြင် ကောင်းမြတ်သော အကျင့်သီလများကိုလည်း ကျင့်မူဆောက်တည်ခဲ့ကြ ၏။ ထို့ပြင် အချင်းချင်း မှန်ကန်သော (သာသနာပေါ်၌ ကြံ့ခိုင်စွာ)တည်ရှိကြရန်လည်း ဆုံးမကြကုန်၏။ ထိုမှတပါး ၎င်းတို့သည် သည်းခံကြရန်လည်း အချင်းချင်း ဆုံးမကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

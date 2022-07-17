@@ -710,6 +710,12 @@ A onezi, koito ne vyarvat v otvŭdniya zhivot, ot pŭtya se otklonyavat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၄။	တဖန်မှတ်သားလော့၊ နောင်တမလွန်ဘဝကို မယုံကြသည်သူတို့သည် လမ်းမှန်မှ မုချသွေဖယ်သွားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ဧကန်စင်စစ် တမလွန်ဘဝကို မယုံကြည်သောသူတို့မှာမူကား (ထိုဖြောင့်မတ်မှန်ကန်သော)တရားလမ်းမှ လွှဲဖယ်သူများပင် ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

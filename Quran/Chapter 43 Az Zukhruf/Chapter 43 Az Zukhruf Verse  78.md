@@ -710,6 +710,12 @@ Donesokhme vi istinata, ala povecheto ot vas mrazyat istinata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၈။	အို-လူသားအပေါင်းတို့၊ ငါသည် သင်တို့ထံသို့ သစ္စာတရားတော်ကို အမှန်အကန်ယူဆောင်တော်မူခဲ့၏၊ သို့သော်သင်တို့အနက် များလှစွာသောလူတို့သည် တရားမှန်ကို မနှစ်သက်မုန်းတီးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ငါအရှင်မြတ်သည် (နဗီတမန်တော်မှတစ်ဆင့်) မှန်ကန်သော "ဒီန်"သာသနာတော်ကို အသင်တို့ထံ ပို့ဆောင်တော်မူခဲ့သော်လည်း အသင်တို့အနက် အများစုမှာ မှန်ကန်သော "ဒီန်"သာသနာတော်ကို စက်ဆုပ်သူများပင် ဖြစ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

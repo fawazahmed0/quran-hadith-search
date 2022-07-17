@@ -710,6 +710,12 @@ Litsemerite se opasyavat da ne bŭde nizposlana protiv tyakh sura, koyato shte i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၄။	ယုံကြည်ဟန်ဆောင်သူတို့လည်း မိမိတို့စိတ်နှလုံးအတွင်း လျှို့ဝှက်ထားသောအရာများကို ဖော်ထုတ်ပြသော သူတို့နှင့်စပ်လျဉ်းသောစူရာဟ်တစ်စောင်ကို ထုတ်ပြန်ပေးသနားတော်မူမည်ကို ကြောက်လန့်ကြ၏။ဟောကြား လော့။သင်တို့သိအောင် ကဲ့ရဲ့ကြလော့၊ မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့မပေါ်စေချင်သော အရာများကို ထုတ်ဖော်ပြသနေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မုနာဖစ်က် တို့သည် ထို ‘မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူတို့အပေါ်၌ မိမိတို့၏ စိတ်နှလုံး တွင်းရှိသည်တို့ကိုထိုမုအ်မင်န်တို့အား သိကြားစေသောကဏ္ဍတစ်ခုခု ချပေးခြင်းခံရမည်ကို ကြောင့်ကြစိုးရိမ်လျက်ရှိကြလေသည်။ (အို-နဗီတမန်တော်) အသင်သည် (ထိုမုနာဖစ်က်တို့အား ဤသို့)ပြောကြားပါလေ။ အသင်တို့သည် ပြက်ရယ်ပြောင်လှောင် နေကြကုန်၊ ဧကန်အမှန် အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့ စိုးရိမ်လျက်ရှိကြသည်ကို ထုတ်ဖော်တော်မူမည့် အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

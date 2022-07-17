@@ -710,6 +710,12 @@ Vseki e zalozhnik na onova, koeto e pridobil
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။ အမှန်မှာ ဝိညာဉ်တိုင်းသည် မိမိပြုကျင့်မှုများအတွက် အာမခံပစ္စည်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 လူတိုင်းလူတိုင်းမှာ မိမိတို့ ရှာဖွေဆည်းပူးခဲ့ကြသော အပြုအမူများနှင့်စပ်လျဉ်း၍ ချုပ်နှောင်ထားပြီး ဖြစ်ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

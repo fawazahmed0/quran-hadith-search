@@ -710,6 +710,12 @@ Allakh veche nalozhi izkuplenie pri otmyatane ot vashite kletvi. Allakh e vashiy
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။ အို-လူသားအပေါင်းတို့၊ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အဖို့အရာ မိမိတို့ ကျိန်ဆိုမှုများကို ချေဖျက်နိုင်ရန် ခွင့်ပြုတော်မူပြီ၊ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့ကို ကာကွယ်သော အရှင်ဖြစ်တော်မူ၏၊ အရှင်မြတ်သည် သိတော်မူသောအရှင်၊ ဉာဏ်ပညာရှိတော်မူသောအရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့အကျိုးငှာ အသင်တို့၏ ကျိန်ဆိုချက်များကို ဖြေနိုင်ရန် (နည်းလမ်း)သတ်မှတ်၍ ပေးတော်မူခဲ့၏။ စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့၏ ကိစ္စအဝဝကို ဆောင်ရွက်ပေးတော်မူသည့်ပြင် ထိုအရှင်မြတ်သည် ခပ်သိမ်းကုန်တို့ကို အကြွင်းမဲ့သိတော်မူသောအရှင်၊ အလွန်တရာ နက်နဲသိမ်မွေ့သော ဆင်ခြင်တုံတရားနှင့် ပြည့်စုံတော်မူသောအရှင်၊ ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

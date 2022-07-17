@@ -710,6 +710,12 @@ Reche [Musa]: “Tova e, kŭm koeto se stremyakhme.” I se vŭrnakha obratno, s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၄။	တမန်တော်မူစာက ဤနေရာသည် ငါတို့ရှာမှီးနေသောနေရာတည်းဟု ဆို၏။ ထို့ကြောင့်သူတို့သည် မိမိတို့လာခဲ့ သောလမ်းအတိုင်း ပြန်လာကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ယင်းမူစာက ထို(နေရာ)သည်ပင်ကျွန်ုပ်တို့ ရှာဖွေနေသော(နေရာ)ဖြစ်သည်ဟု ပြောဆိုခဲ့လေသည်။ ထို့နောက် ၎င်းတို့နှစ်ဦးစလုံးသည် မိမိတို့ ခြေရာများပေါ်၌ ခြေထပ်၍ နောက်သို့ ပြန်ခဲ့ကြလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

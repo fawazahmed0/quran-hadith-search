@@ -710,6 +710,12 @@ Khora predi vas veche pitakha za tyakh, posle gi otrekokha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၂။	သင်တို့ထက် ရှေးကျသောလူမျိုးတစ်မျိုးက ယင်းအကြောင်းအရာများကို ဖော်ပြရန် တောင်းပန်ကြ ၏။ သို့သော် ထုတ်ဖော်ပြသောအခါ သူတို့သည် ထိုအကြောင်းအရာများကို မယုံကြည်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့အလျင် အထက်ကျော်ကာလ၌ရှိခဲ့ကြသော သူတို့သည်လည်း ယင်းကဲ့သို့သောအကြောင်းအရာများကို မေးမြန်းခဲ့ဖူးကြလေသည်။ ထို့နောက် ၎င်းတို့သည် ယင်းအကြောင်းအရာများကို မယုံမကြည် သွေဖည်ငြင်းပယ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

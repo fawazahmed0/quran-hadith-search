@@ -710,6 +710,12 @@ Negovo e vsichko na nebesata i vsichko na zemyata. Allakh e Prebogatiya, Vseslav
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၄။	အလ္လာဟ်အရှင်မြတ်သည် အထက်မိုးကောင်းကင်နှင့် အောက်ကမ္ဘာမြေကြီးပေါ်ဝယ် ရှိရှိသမျှတို့ကို သိမ်းရုံးစိုးပိုင် တော်မူ၏၊ မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် ဇာတိပကတိအားဖြင့် ကုံလုံပြည့်စုံတော်မူ၏၊ အ့ံချီးမဆုံး ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မိုးကောင်းကင်များ၌ ရှိသမျှတို့သည်လည်းကောင်း၊ကမ္ဘာမြေဝယ်ရှိသမျှတို့သည် လည်းကောင်း၊ ထိုအရှင်မြတ်ပိုင်ဆိုင်သော အရာများချည်းသာ ဖြစ်ကုန်၏။ ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည်သာလျှင် မှီခိုအားထားခြင်း ကင်းမဲ့တော်မူသော၊ ချီးမွမ်းထောပနာကိုခံယူထိုက်တော်မူသော၊အရှင်မြတ်ပင် ဖြစ်တော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I kazakha: “Kakvoto i znamenie da ni donesesh, za da ni omag’osash s nego, n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၂။	ထို့ပြင် သူတို့ကပြောကြသေး၏။ အို-မူဆာ သင်သည် အကျွနု်ပ်တို့အား ပြုစားရန် မည်သည့် အတိတ် နမိတ်ကို ယူဆောင်သော်လည်း အကျွနု်ပ်တို့သည် သင့်အား ယုံကြည်ကြမည်မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထို(ဖစ်ရ်အောင်န်၏ အမျိုးသား) တို့က(ဤသို့) ပြောဆိုကြကုန်၏။ (အို-မူစာ) အသင်သည် ကျွန်ုပ်တို့အား ပြုစားရန် မည်သို့ပင် သက်သေလက္ခဏာများကို ကျွန်ုပ်တို့ရှေ့ဝယ် ယူဆောင်၍ လာသော်ငြားလည်း ကျွန်ုပ်တို့မူကားအသင့်အား ယုံကြည်ကြမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

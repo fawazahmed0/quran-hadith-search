@@ -710,6 +710,12 @@ Reche [bashtata]: “Nima se otvrŭshtash ot moite bogove, o, Ibrakhim? Ako ne p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။	ထိုအခါသူ၏ မွေးသဖခင်က အေဗရာဟမ် သင်သည် ငါ၏ ဘုရားများကို ငြင်းပယ်သလော၊ သင်သည် မိမိ အယူဝါဒကို မစွန့်လွှတ်လျှင် ငါသည် သင့်အား အမှန်ပင်ခဲနှင့်ပေါက်မည်၊ သင်သည် ငါ့ထံမှ နှစ်ရှည်လများ ထွက်သွားလော့ဟု ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ နဗီတမန်တော်အစ်ဗ်ရာဟီမ်၏ဖခင်)ထို(အာဇရ်)က (ဤသို့)ပြောဆို (ကြိမ်းမောင်း)ခဲ့လေသည်။ အိုအစ်ဗ်ရာဟီမ်၊ အသင်သည် ကျွန်ုပ်၏ ကိုးကွယ်ရာတို့ဘက်မှမျက်နှာလွှဲသူ(ကျောခိုင်း)သူ ဖြစ်နေပါသလော။ အကယ်၍သာအသင်သည် (မိမိလက်ရှိအယူဝါဒကိုလည်းကောင်း၊ မိမိအယူဝါဒနှင့်စပ်လျဉ်း၍ ကျွန်ုပ်၏ရှေ့ဝယ် ဟောပြောခြင်းကိုလည်းကောင်း၊) မစွန့်ခဲ့ပါလျှင် မလွဲဧကန် ကျွန်ုပ်သည် အသင့်အားခဲဖြင့် ပစ်ပေါက်သတ်ရလိမ့်မည်။ ၎င်းပြင် အသင်သည် ကျွန်ုပ်အား ကာလရှည်ကြာစွာ စွန့်ခွာသွားလော့ဟုဆိုလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

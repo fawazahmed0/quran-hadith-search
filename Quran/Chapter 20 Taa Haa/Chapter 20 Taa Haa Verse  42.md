@@ -710,6 +710,12 @@ Idete ti i brat ti s Moite znameniya, i ne prestavaĭte da Me spomenavate
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	ထို့ကြောင့်ယခုသင်နှင့် သင်၏အစ်ကိုသည် ငါ၏သက်သေသာဓကတော်များနှင့် သွားကြလော့၊ ငါ့အား အောက် မေ့တသဖို့ရာ မပေါ့လျော့ကြလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (သို့ဖြစ်ပေရာ ယခုမူကား) အသင်သည်လည်းကောင်း၊ အသင်၏နောင်တော်(ဟာရူန်)သည်လည်း ကောင်း၊ငါအရှင်မြတ်၏သက်သေလက္ခဏာတော်များနှင့်တကွ သွားကြလေကုန်။ ၎င်းပြင် အသင်တို့နှစ်ဦးသည် ငါအရှင်မြတ်အားအောက်မေ့တသခြင်းနှင့် စပ်လျဉ်း၍ ဝီရိယ မပေါ့ကြကုန်လင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

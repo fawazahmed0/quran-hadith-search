@@ -710,6 +710,12 @@ A otnosno momcheto - roditelite mu byakha vyarvashti i se opasyavakhme to da ne 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၀။	လုလင်ပျိုအကြောင်း၊ သူ၏ မိဘတို့သည် ယုံကြည်သူများဖြစ်ကြ၏။ သူသည် မိဘတို့အား ပုန်ကန်ခြင်းဖြင့် သော်လည်းကောင်း၊ မိစ္ဆာအယူဝါဒတို့ဖြင့်သော်လည်းကောင်း၊ ညှင်းပန်းနှိပ်စက်မည်ကို အကျွနု်ပ်တို့ကြောက်ရွံ့ ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုသူငယ်ကား ၎င်း၏မိဘနှစ်ပါးမှာမုအ်မင်န်သက်ဝင်ယုံကြည်သူများ ဖြစ်ခဲ့ကြရာ ယင်းသူငယ်သည်(မိမိ)၏ ဆိုးသွမ်းမှုဖြင့်လည်းကောင်း၊ သွေဖည်မှုဖြင့်လည်းကောင်း၊ ထိုမိဘနှစ်ပါးအား ဖိစီးနှိပ်စက်မည်ကို ကျွန်ုပ်တို့စိုးရိမ် ခဲ့ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

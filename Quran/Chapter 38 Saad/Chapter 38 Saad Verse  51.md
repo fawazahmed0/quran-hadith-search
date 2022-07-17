@@ -710,6 +710,12 @@ Oblegnati tam, pozhelavat razni plodove i pitieta
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁။	သူတို့သည် ထိုဥယျာဉ်တော်များတွင် လဲလျောင်းလျက် ဥယျာဉ်ရှိ မွန်မြတ်များပြားသော သစ်သီးသစ်ဥနှင့် အေးမြသောသောက်စရာတို့ကို တောင်းသောက်စားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (၎င်းတို့သည်) ယင်းဥယျာဉ်များ၌ မှီအုံးများကိုမှီလျက် ရှိကြပေမည်။ များစွာသော သစ်သီးဝလံများကိုလည်းကောင်း၊ သောက်သုံးဖွယ်ရာများကို လည်းကောင်း၊ ယင်းဥယျာဉ်များတွင် မှာယူကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

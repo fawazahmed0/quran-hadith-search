@@ -710,6 +710,12 @@ I na vsyaka dusha Nie vŭzlagame samo po silite ĭ. Pri Nas ima Kniga, koyato k
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	ငါသည် မည်သည့်ဝိညာဉ်တော်အား မိမိ၏အင်အားနှင့်မမျှသောတာဝန်ကို ပေးတော်မမူချေ၊ ငါ့အထံတော်၌ မှန်ကန်သောမှတ်ပုံတင်စာအုပ်တော်ကြီးရှိ၏။ လူသားတို့သည် မတရားနှိပ်စက်ခြင်းခံကြရမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ် ငါအရှင်မြတ်သည် မည်သူတစ်ဦး တစ်ယောက်ကိုမျှ ၎င်း စွမ်းရည်ထက်ပို၍ တာဝန်ထမ်းဆောင် စေတော်မူသည်မဟုတ်ပေ။ ၎င်းပြင် ငါအရှင်မြတ်အထံတော် တွင် မှတ်တမ်းစာအုပ်တစ်အုပ် ရှိနေပေရာ ထိုမှတ်တမ်းစာအုပ်သည် တိကျမှန်ကန်စွာ ထုတ်ဖော်ပြောဆိုမည်ဖြစ်၏။ သို့ရာတွင် ၎င်းတို့သည် (စိုးစဉ်းမျှပင်) မတရားနှိပ်စက်ခြင်းကို ခံကြရမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

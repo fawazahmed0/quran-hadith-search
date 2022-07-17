@@ -710,6 +710,12 @@ Na Allakh e vsichko na nebesata i na zemyata. Allakh e Prebogatiya, Vseslavniya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	မိုးကောင်းကင်နှင့် ကမ္ဘာမြေပြင်ဝယ်ရှိရှိသမျှအပေါင်းတို့ကို အလ္လာဟ်အရှင်မြတ်စိုးပိုင်တော်မူ၏၊ မှတ်သား ကြလော့၊ အရှင်မြတ်သည် ဇာတိပကတိအားဖြင့် ကုံလုံပြည့်စုံတော်မူ၏၊ ချီးမွမ်းခြင်းတည်ရာဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မိုးကောင်းကင်များ၌ ရှိသမျှတို့သည်လည်းကောင်း၊ ပထဝီမြေ၌ ရှိသမျှတို့သည်လည်းကောင်း အလ္လာဟ်အရှင်မြတ် ပိုင်ဆိုင်တော်မူသော အရာချည်းသာဖြစ်ကုန်၏။စင်စစ်ဧကန် အလ္လာဟ်အရှင်မြတ် သည်သာလျှင် လိုလားတောင့်တခြင်းကင်းမဲ့တော်မူသော၊ ချီးမွမ်းခြင်းခံရတော်မူသောအရှင်မြတ်ပင်ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

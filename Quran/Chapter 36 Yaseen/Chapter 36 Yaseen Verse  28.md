@@ -710,6 +710,12 @@ I ne izpratikhme sreshtu naroda mu sled nego voĭnstvo ot nebeto. Nyamashe [nuz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	ထိုသူမြတ်သေလွန်ပြီးသည်နောက် သူ၏အမျိုးသားတို့ကို တိုက်ခိုက်ဖို့ရာ ငါအရှင်မြတ်သည် ကောင်းကင်ဘုံမှ စစ်သည်တော်များကို စေလွှတ်တော်မမူချေ၊ သူတို့ကို တိုက်ခိုက်ရန် စစ်ဆင်ဖို့ရာမလိုချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ငါအရှင်မြတ်သည် ထိုသူ(သေဆုံးပြီး)နောက်တွင် ထိုသူ၏ အမျိုးသားတို့အပေါ်ဝယ် မိုးကောင်းကင်မှ မည်သည့်စစ်တပ်ကိုမျှပင် စေလွှတ်တော်မူခဲ့သည် မဟုတ်ပေ။ ၎င်းပြင် ငါအရှင်မြတ်မှာ စေလွှတ်တော်မူရန်လည်း မလိုပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

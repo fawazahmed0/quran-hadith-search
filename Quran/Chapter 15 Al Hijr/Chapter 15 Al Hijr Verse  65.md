@@ -710,6 +710,12 @@ Trŭgni sŭs svoeto semeĭstvo v chast ot noshtta i vŭrvi zad tyakh! I nikoĭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၅။	ထို့ကြောင့်ညဉ့်ကာလအချိန်တွင် သင်၏ အိမ်ထောင်သူအိမ်ထောင်သားတို့နှင့်တကွ၊ ဤအရပ်ဒေသမှ ထွက်သွား ပါလော့၊ သင်သည် သူတို့၏ နောက်မှ လိုက်ပါသွားကုန်လော့။ သင်တို့အနက် တစုံတယောက်မှ ပြန်လှည့်မလာပဲ အမိန့်ပေးတော်မူရာသို့ ထွက်သွားကြပါလော့ဟု ပြောဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်သည် မိမိအိမ်သူအိမ်သားတို့ကို ည၏အစိတ်အပိုင်းတစ်ခုခုတွင် ခေါ်ဆောင်၍ ထွက်ခွာသွားပါလေ။ ၎င်းနောက် အသင်သည် ၎င်းတို့၏နောက်မှ လိုက်သွားပါလေ။ ၎င်းပြင် အသင်တို့၏အနက်မှ တစ်ဦးတစ်ယောက်မျှပင်(နောက်သို့) ပြန်လှည့်၍မကြည့်ရ။ ၎င်းနောက် အသင်တို့(အားလုံး)သည် မိမိတို့၏အမိန့်ပေးခြင်းခံရသော နေရာသို့သာလျှင် (အာရုံစူးစိုက်၍)သွားကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

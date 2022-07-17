@@ -710,6 +710,12 @@ I gi izbrakhme - znaeĭki - da prevŭzkhozhdat te narodite [po tyakhno vreme]
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	ငါသည် အစ္စရာအီလ်အမျိုးသားတို့ကို လူမျိုးတကာတို့အထဲမှ ရွေးကောက်ချီးမြှောက်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ဧကန်အမှန် ငါအရှင်မြတ်သည် သိတော်မူလျက် ထိုအီစ်ရာအီလီအမျိုးသားတို့အား ကမ္ဘာသူကမ္ဘာသားတို့ ထက်ဝယ် ရွေးချယ်မြှောက်စားတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

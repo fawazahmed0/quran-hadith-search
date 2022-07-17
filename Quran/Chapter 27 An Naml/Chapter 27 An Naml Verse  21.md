@@ -710,6 +710,12 @@ Shte go mŭcha sŭs surovo mŭchenie ili shte go zakolya, ako ne mi donese yaven
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	အကျွနု်ပ်သည် မုချအမှန်သူ့အား ကြီးမားသောအပြစ်ဒဏ်နှင့် အပြစ်ပေးတော်မူမည်၊ သို့မဟုတ်အကျွနု်ပ်သည် သူ့အား အမှန်ပင်သတ်ပစ်မည်၊ သို့မဟုတ်သူသည် အကျွနု်ပ်အား အကြောင်းလုံလောက်သောအကြောင်းပြချက် ကို အမှန်တင်ပြရမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ငါသည် အမှန်ပင် ၎င်းအား ပြင်းထန်စွာ ပြစ်ဒဏ်ပေးမည်။ သို့တည်းမဟုတ် မုချဧကန် ငါသည်၎င်းအား လှီးဖြတ်မည်။ သို့တည်းမဟုတ် ၎င်းသည် ငါ့ထံသို့ ထင်ရှားစွာသော သက်သေအထောက်အထားကို ဆောင်ယူလာရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

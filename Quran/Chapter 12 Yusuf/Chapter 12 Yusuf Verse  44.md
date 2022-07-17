@@ -710,6 +710,12 @@ Rekokha: “Obŭrkani sŭnishta. A i nie ne znaem da tŭlkuvame sŭnishtata.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	မှုးမတ်တို့က ရောနှောရှုပ်ထွေးနေသောအိပ်မက်များ၊ အကျွနု်ပ်တို့သည် အိပ်မက်များကို အဓိပ္ပါယ်မကောက်တတ် ပါဟု လျှောက်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုရောကာလ) ယင်းမှူးကြီးမတ်ရာတို့က (အိုဘုရင်မင်းမြတ် ဤကား) ဂယောင်ဂယက် မြင်မက်သော အိပ်မက်မျှသာဖြစ်ပါသည်။ ၎င်းပြင် ကျွန်တော်မျိုးတို့မှာမူကားဂယောင်ဂယက် အိပ်မက်များ၏ဒိဗ်ဓုမ်ကို နားလည်သူများလည်း မဟုတ်ကြပါဟု လျှောက်ထားခဲ့ကြလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

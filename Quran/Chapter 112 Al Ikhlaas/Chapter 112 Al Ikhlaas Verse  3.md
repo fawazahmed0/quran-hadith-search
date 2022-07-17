@@ -710,6 +710,12 @@ Nito e razhdal, nito e roden
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။ အရှင်မြတ်သည် ဇာတိပဋိသန္ဓေအညစ်အကြေးများမှ ကင်းစင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် မည်သူတစ်ဦးတစ်ယောက်ကိုမျှ မွေးဖွားတော်မူခဲ့သည် မဟုတ်ပေ။ မည်သူတစ်ဦးတစ်ယောက်၏ မွေးဖွားခြင်းကိုလည်း ခံခဲ့ရ တော်မူသည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

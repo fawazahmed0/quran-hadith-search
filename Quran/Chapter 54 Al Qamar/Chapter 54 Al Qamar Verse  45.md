@@ -710,6 +710,12 @@ Shte bŭde razgromeno mnozhestvoto i shte obŭrne to grŭb v byag
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	ထိုစစ်တပ်ကြီးသည် စစ်လှန်ခြင်းခံရလတ့ံ၊ ဗရမ်းဗတာထွက်ပြေးရလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းအုပ်စုမှာ မကြာမြင့်မီမှာပင် အရေးရှုံးနိမ့်ကြပြီး ကျောခိုင်း၍ ထွက်ပြေးကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

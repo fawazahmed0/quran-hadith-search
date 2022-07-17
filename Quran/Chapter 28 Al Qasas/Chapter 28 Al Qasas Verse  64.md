@@ -710,6 +710,12 @@ I shte im bŭde kazano: “Prizovete svoite sŭdruzhnitsi!” I shte gi prizovat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၄။	ထိုအခါသူတို့က ဟယ်-သူမိုက်တို့၊ နင်တို့သည် အရှင်မြတ်နှင့်တွဲဘက်ထားသောသင်တို့၏ဘုရားတုများ၌ ခဝပ်ဆုတောင်းကြလော့ဟု ဗျာဒိတ်တော်ပေးတော်	မူလတ့ံ၊ သူတို့လည်း ဆုတောင်းကြလတ့ံ၊ သို့သော်ဘုရား ပျက်တို့က အဖြေမပေးချေ၊ ထိုသူတို့သည် ငရဲမီးကိုသာ မြင်ကြရလတ့ံ၊ သူတို့သည် လမ်းမှန်ကို ရခဲ့လျှင် ကောင်းလေစွ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး (၎င်းတို့မှာ) ‘အသင်တို့သည် မိမိတို့(ဆည်းကပ်ကိုးကွယ်ခဲ့ကြကုန်သော)တွဲဖက်များအား ခေါ်ယူကြလေကုန်’ ဟု အမိန့်ပေးတော်မူခြင်းကို ခံကြရပေမည်။ ထိုအခါ ၎င်းတို့သည် ထိုတွဲဖက်များအား ဟစ်ခေါ်ကြငြားလည်း ထိုတွဲဖက်များက ၎င်းတို့အား ပြန်၍ထူးကြမည် မဟုတ်ပေ။ ထိုမှတစ်ပါး ၎င်းတို့သည် ပြစ်ဒဏ်ကို(မျက်ဝါးထင်ထင်)တွေ့မြင်ကြပေမည်။ အကယ်၍သာ ၎င်းတို့သည်(လောကီဘဝ၌ အသက်ထင်ရှားရှိခဲ့ကြစဉ်အခါ၌) တရားလမ်းမှန်ကို ရရှိသူများ ဖြစ်ခဲ့ကြပါလေသော်(ထိုပြစ်ဒဏ်ကို တွေ့မြင်ကြရမည် မဟုတ်ပေတကား)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ V dobrata zemya rastenieto iznikva s pozvolenieto na neĭniya Gospod, a v losha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈။	မြေကောင်းမှ ၎င်း၏အသျှင်သခင် ခွင့်ပြုတော်မူချက်ကြောင့် သစ်သီးဟင်းရွက်၊ ကောက်ပဲသီးနှံ အမျိုးမျိုးပေါက်ကြ၏။ သို့သော် မြေဆိုးမှ မကောင်းမှုသာ ပေါ်ထွက်လာ၏။ ဤကဲ့သို့ ငါအသျှင်မြတ် သည် သက်သေသာဓကတော်ကြီးများကို ကျေးဇူးတော်ကို ချီးမွမ်းသူတို့အဖို့ ရှင်းလင်းပြတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်သော်ကား (မြေဩဇာ)ကောင်းမွန် သန့်စင်သောမြေ၌၊ထိုမြေမှ ၎င်းကိုဖန်ဆင်းတော်မူသောအရှင်မြတ်၏အမိန့်တော်ဖြင့် ဟင်းသီးဟင်းရွက်၊ ကောက်ပဲသီးနှံများသည်(ကောင်းမွန်များပြားစွာ)ပေါက်ရောက်လေ၏။ သို့ရာတွင်(မြေဩဇာ) မကောင်းသောမြေမှာမူကား၊ အလွန်ခဲယဉ်းစွာပေါက်ရောက်လေ၏။ ငါအရှင်မြတ်သည် ဤနည်းအတိုင်းပင်သက်သေသာဓကများကို ကျေးဇူးသိတတ်သူတို့အဖို့ နည်းအမျိုးမျိုးဖြင့် ညွှန်ပြမိန့်ကြားတော်မူခဲ့လေသတည်း။(ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

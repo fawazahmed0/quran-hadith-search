@@ -710,6 +710,12 @@ Kazhi: “Podchinete se na Allakh i na Pratenika!” A otvŭrnete li se - Allakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	အို...တမန်တော်ဟောကြားလော့။ ဟယ်အချင်းတို့ အလ္လာဟ်အသျှင်မြတ်နှင့် အသျှင်မြတ်၏ တမန်တော်ကို လေးစားနားထောင်ကြလော့။ သို့သော် သူတို့သည် နားမထောင် ကျောခိုင်းသွားမူ အလ္လာဟ်အသျှင်မြတ်သည် မိစ္ဆာမိုက်တို့အား မြတ်နိုးတော်မမူကြောင်းကို မှတ်သားကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်သည် (ယင်းသူတို့အား) ပြောကြားပါလေ။ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ အမိန့်တော်များကိုလည်းကောင်း၊ ရစူလ်တမန်တော်၏ အမိန့်တော်များကိုလည်းကောင်း၊ (တသဝေမသိမ်း) လိုက်နာ ကြကုန်။ တဖန်အကယ်၍ ယင်းသူတို့သည် သွေဖည် ကျောခိုင်း၍ လွှဲရှောင်သွားကြပါမူ မလွဲဧကန် အလ္လာဟ်အရှင်မြတ်သည် (ယင်းကဲ့သို့)မယုံ မကြည် သွေဖည်ငြင်းပယ်သော ကာဖိရ် တို့ကိုကားနှစ်သက်တော်မမူချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

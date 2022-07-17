@@ -710,6 +710,12 @@ S milost ot Nas spasikhme nego i onezi, koito byakha s nego, i izkorenikhme i po
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၂။	ငါအသျှင်မြတ်သည် မိမိ၏ ကောင်းကြီးမင်္ဂလာတော်အားဖြင့် သူနှင့်တကွ သူနှင့်အတူရှိသူများကို ကယ်နှုတ်တော်မူ၏။ သို့သော် ငါ၏ ဗျာဒိတ်တော်များကိုငြင်းပယ်၍ အယူဝါဒမှောက်မှားသူတို့ကို မမြစ်မကျန် သုတ်သင်ရှင်းလင်းတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ငါအရှင်မြတ်သည် ယင်း(နဗီတမန်တော်ဟူဒ်)ကိုလည်းကောင်း၊ ယင်း(နဗီတမန်တော်ဟူဒ်)၏အပေါင်းပါတို့ကိုလည်းကောင်း၊ မိမိကရုဏာတော်ဖြင့် ကယ်ဆယ်တော်မူခဲ့လေသည်။ ၎င်းပြင် ငါအရှင်မြတ်၏ ဒေသနာတော်များ ကို ငြင်းပယ်သောသူတို့၏ အမြစ်ကို ဖြတ်တောက်တော်မူခဲ့လေသည်။ အမှန်စင်စစ်မူကား ၎င်းတို့သည် မုအ်မင်န် သက်ဝင်ယုံကြည်သူများပင်မဖြစ်ခဲ့ကြချေ။(ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

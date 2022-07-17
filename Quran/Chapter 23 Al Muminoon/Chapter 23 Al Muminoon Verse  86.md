@@ -710,6 +710,12 @@ Kazhi: “Koĭ e Gospodŭt na sedemte nebesa i Gospodŭt na velikiya Tron?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၆။	တဖန်ပြောလော့၊ အထက်ကောင်းကင်ခုနစ်ထပ်နှင့် ကြီးကျယ်မြင့်မြတ်သောရာဇပလ္လင်တော်ကြီးတို့၏ အရှင် သခင်သည် အဘယ်သူဖြစ်သနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (၎င်းတို့အား အချင်းတို့၊)မိုးခုနစ်ထပ်ကို စိုးပိုင်တော်မူသောအရှင် သည်လည်းကောင်း၊ မြင့်မြတ်လှစွာသော ‘အရ်ရှ်’ ပလ္လင်တော်ကိုစိုးပိုင်တော်မူသောအရှင် သည်လည်းကောင်း၊ မည်သူနည်းဟု မေးမြန်းပါဦးလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Otdrŭpni se ot tyakh [o, Mukhammad] i kazhi: “Mir!” Te shte uznayat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၉။	သို့သော် သင်သည် သူတို့ကို သည်းခံလော့၊ အေးချမ်းသာယာပါစေဟု မေတ္တာပို့လော့၊ သူတို့သည် အဖြစ်အမှန် ကို သိကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်)အသင်သည် ၎င်းတို့ဘက်မှ လျစ်လျူရှု၍နေပါလေ။ ထိုမှတစ်ပါး အသင်သည် ၎င်းတို့အား စလာမ် ဆိုပါလေ။ ထို့နောက် မကြာမြင့်မီပင် ၎င်းတို့သည်သိရှိကြ ကုန်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

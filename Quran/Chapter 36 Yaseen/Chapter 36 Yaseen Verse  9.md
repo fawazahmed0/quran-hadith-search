@@ -710,6 +710,12 @@ I slozhikhme pred tyakh ograda, i zad tyakh - ograda, i gi zatulikhme, ta ne viz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	တဖန်သူတို့ကို ရှေ့မှလည်းကောင်း၊ အမှောင်ထုတံတိုင်းကြီးများဖြင့် ငါအရှင်မြတ်ကာဆီးထားတော်မူ၏၊ အမှောင် ထုဖြင့်လည်း ဖုံးလွှမ်းထားတော်မူ၏၊ ထို့ကြောင့်သူတို့သည် အလင်းမရ၊ မျက်မမြင်ကဲ့သို့ ဖြစ်ရကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ငါအရှင်မြတ်သည် ထိုသူတို့ရှေ့၌ အကာအဆီးတစ်ခုကိုလည်းကောင်း၊ ထိုသူတို့၏ နောက်၌ အကာအဆီးတစ်ခုကိုလည်းကောင်း၊ ပြုလုပ်တော်မူခဲ့၏။ ထို့နောက် ငါအရှင်မြတ်သည် ၎င်းတို့အား (အထက်မှလည်း)ဖုံးလွှမ်းထားတော်မူခဲ့ရာ (တစ်နည်း) ထိုသို့အားဖြင့် ငါအရှင်မြတ်သည် ၎င်းတို့အား (အဖက်ဖက်မှ) ဝိုင်းဝန်းထားတော်မူခဲ့ရာ၊ ၎င်းတို့မှာ မြင်နိုင်ကြတော့သည် မဟုတ်ပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

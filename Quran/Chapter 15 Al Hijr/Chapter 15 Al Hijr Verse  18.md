@@ -710,6 +710,12 @@ vseki, koĭto slusha skrishom, go sledva yarŭk plamŭk
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	သို့စောင့်ရှောက်လျက် ရှိုင်တန်မာရ်နတ်အချို့သည် ကောင်းကင်ဘုံသို့ တက်၍ ချောင်းမြောင်းနားထောင်ကြလျှင် သူတို့ကို မီးတောက်မီးလျှံက လိုက်လောင်လတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကြင် ရှိုင်တွာန်မိစ္ဆာကောင် (တစ်ဦးဦး)သည် တိတ်တဆိတ် (စကားကို) နားထောင်ခဲ့ပါလျှင်(ခိုးဝှက်နားထောင်ခဲ့ပါလျှင်) လင်းဝင်းသော မီးတောက်မီးလျှံသည်၎င်း၏နောက်သို့ (ထက်ကြပ်မကွာ) လိုက်လေတော့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

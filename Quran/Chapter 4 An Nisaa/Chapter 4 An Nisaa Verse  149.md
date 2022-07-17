@@ -710,6 +710,12 @@ Ako pokazvate dobro ili go prikrivate, ili izvinyavate zlo - Allakh e izvinyavas
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၉။	သင်တို့သည် သုစရိုက်ကောင်းမှုကို လူသိရှင်ကြားသော်လည်းကောင်း၊ တိတ်တိတ်တိုးတိုးသော် လည်းကောင်း၊ ပြုကျင့်သည်ဖြစ်စေ၊ မကောင်းမှုကို ခွင့်လွှတ်သည်ဖြစ်စေ၊ အလ္လာဟ်အသျှင်မြတ်သည် မုချဧကန် အပြစ်လွှတ်တော်မူ၏။ အနန္တတန်ခိုးတော်သျှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ညှဉ်းပန်းနှိပ်စက်ခြင်း ခံရသောသူ၌ မိမိ မကျေမနပ်ဖြစ်ကြောင်းကို ထုတ်ဖေါ်ပြောဆို ညည်းညူနိုင်ခွင့်ရှိငြားလည်း) အကယ်၍ အသင်တို့သည် ကောင်းမှုတစ်စုံတစ်ရာကို ထုတ်ဖေါ်ကြပါလျှင်၊ သို့မဟုတ် ယင်းကောင်းမှုကို ဖုံးအုပ်ကြပါလျှင်၊ သို့တည်းမဟုတ် အသင်တို့သည် တစ်စုံတစ်ယောက်ကို ခွင့်လွှတ်ကြပါလျှင် (ဤသည် အကောင်းဆုံးပင်တည်း။ အကြောင်းသော်ကား) ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည်လည်း အလွန်တရာ ခွင့်လွှတ်တော်မူသောအရှင်၊ အလွန်တရာ စွမ်းဆောင်နိုင်တော်မူသောအရှင်လည်း ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

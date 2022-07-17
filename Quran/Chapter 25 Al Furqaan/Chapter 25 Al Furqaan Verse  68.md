@@ -710,6 +710,12 @@ I koito ne zovat drug bog zaedno s Allakh, i ne otnemat zhivot - Allakh e vŭzbr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၈။	၎င်းအပြင်ထိုသူတို့သည် အလ္လာဟ်အရှင်မြတ်နှင့်တွဲဖက်၍ မည်သည့်အရာဝထ္ထုကိုမှ ဆည်းကပ်ကိုးကွယ်ကြသည် မဟုတ်၊ သူတို့သည် အရှင်မြတ်ပညတ်တော်မူသည့်အတိုင်း သူ့အသက်ကို တရားသောနည်းနှင့်မှတပါး အခြား နည်းနှင့်မသတ်ကြချေ၊ မတရားကာမမှုကို မပြုကျင့်ကြချေ၊ မည်သူမဆိုအထက်ဖော်ပြပါပြစ်မှုများကို ကျူးလွန် လျှင် ကြီးလေးသောအပြစ်ဒဏ်သင့်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အကြင်သူများပင်။ ထိုသူတို့သည် အလ္လာဟ်အရှင်မြတ်နှင့်(တွဲဖက်၍)အခြားကိုးကွယ်ရာ တစ်စုံတစ်ရာကိုမျှ ဟစ်ခေါ်တ သ(ကိုးကွယ်ဆည်းကပ်)ကြသည်မဟုတ်ပေ။ ၎င်းပြင် ထိုသူများသည် အလ္လာဟ်အရှင်မြတ်က ‘ဟရာမ်’ ဟူ၍ တားမြစ်ထားတော်မူသော အသက်ဇီဝိန်ကိုလည်း တရားသဖြင့်မှတစ်ပါး သတ်ဖြတ်ခြင်း မပြုကြပေ။ ထိုမှတစ်ပါး ၎င်းတို့သည် ကာမေသုမိစ္ဆာစာရကိုလည်း ကျူးလွန်းကြသည်မဟုတ်ပေ။ စင်စစ်သော်ကား မည်သူမဆို ထိုသည့်ပြစ်မှုများကိုကျူးလွန်ပါမူ ထိုသူသည် (အလွန်ကြီးလေးသော) ပြစ်ဒဏ်နှင့်တွေ့ကြုံရမည်သာ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

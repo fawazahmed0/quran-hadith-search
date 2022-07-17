@@ -710,6 +710,12 @@ I ne padaĭte dukhom, i ne skŭrbete! Vie shte naddeleete, ako ste vyarvashti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၉။	စိတ်မပျက်ကြလင့်။ စိတ်မပူကြလင့်။ အကြောင်းမူကား သင်တို့သည် ယုံကြည်သူ အစစ်အမှန် ဖြစ်ကြလျှင် သူတို့အား အောင်နိုင်မည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုပြင့်တဝအသင်တို့သည် အားလည်းမလျှော့ကြကုန်လင့်၊ ပူပင်သောကလည်းမဖြစ်ကြကုန်လင့်။ စင်စစ်သော်ကား အကယ်၍သာ အသင်တို့သည် မုအ်မင်န် ယုံကြည်ခြင်းသဒ္ဓါတရားထားရှိသူများ ဖြစ်ကြပါမူ (နောက်ဆုံးတွင်)အသင်တို့သည်သာလျှင် အနိုင်ရရှိသူများ ဖြစ်ကြလတ္တံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

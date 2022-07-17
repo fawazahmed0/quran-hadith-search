@@ -710,6 +710,12 @@ a shtom im otmervat ili im preteglyat, prichinyavat zaguba
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။ သို့သော် သူတပါးအား အတိုင်းအထွာအချိန်အတွယ်အားဖြင့် ပေးရသောအခါ မတရားလျှော့ပေါ့တိုင်းထွာချိန်တွယ်ပေးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ၎င်းတို့သည် သူတစ်ပါးတို့အား ခြင်တွယ်၍သော်လည်းကောင်း၊ သူတစ်ပါးတို့အား ချိန်တွယ်၍သော်လည်းကောင်း၊ ပေးကြသောအခါ လျှော့၍ပေးကြလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

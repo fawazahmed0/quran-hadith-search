@@ -710,6 +710,12 @@ I iskashe da gi progoni ot Zemyata [na Egipet]. I izdavikhme nego i vsichki zaed
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၃။	ထို့အပြင်ဖွာရောမင်းသည် မိမိတိုင်းပြည်မှ အစ္စရာအီလ်အမျိုးသားတို့ကို ခြောက်လှန့်မောင်းထုတ်လိုက်၏။ သို့သော် သူနှင့်တကွ သူ့အလူအားလုံးကို ငါအရှင်မြတ်သည် ရေတွင် နှစ်သတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ယင်းဖစ်ရ်အောင်န်သည် ထိုအစ္စရာအီလီမျိုးနွယ်တို့အား ထို(အီဂျစ်)နိုင်ငံမှ ချွတ်ချော်တိမ်းပါးစေရန်ကြံရွယ်ခဲ့လေသည်။ သို့ရာတွင် ငါအရှင်မြတ်သည် ယင်းဖိရ်အောင်(န်)အားလည်းကောင်း၊ ယင်းဖိရ်အောင်(န်)နှင့်အတူရှိကြသူအားလုံးတို့ကိုလည်းကောင်း၊ (ပင်လယ်နီ)တွင် နှစ်မြှုပ်တော်မူခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

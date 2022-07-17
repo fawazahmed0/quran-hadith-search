@@ -710,6 +710,12 @@ Kakvato i beda da vi spoleti, tya e zaradi onova, koeto sami ste izvŭrshili. A 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	သင်တို့ထံ ဆိုက်ရောက်လာသော ဘေးအန္တရာယ်တိုင်းသည် သင်တို့၏ လက်ဖြင့် ပြုကျင့်သောဒုစရိုက်မကောင်းမှု ၏ အကျိုးဆက်သာဖြစ်၏၊ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့၏ အပြစ်များအနက် များလှစွာသောအပြစ်များကို ခွင့်လွှတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အသင်တို့၌ သက်ရောက်လေ့ရှိသော ဘေးဒုက္ခဟူသရွေ့သည် အသင်တို့၏လက်များကဆည်းပူးခဲ့ကြသော အပြုအမူတို့ကြောင့်ပင် သက်ရောက်ခဲ့သည်သာ။ ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် များစွာသောပြစ်မှုများကိုမူကား ခွင့်လွှတ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I se ottegli Faraonŭt, i podgotvi svoyata khitrina, posle pak doĭde
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆ဝ။	ထို့နောက်ဖာရောမင်းသည် မိမိ၏အင်အားကို စုဆောင်းပြီးလျှင် ချိန်းဆိုသောနေရာသို့ အချိန်မီလာလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ဖိရ်အောင်(န်)သည် ပြန်သွားခဲ့ပေသည်။ တစ်ဖန် ၎င်းသည် မိမိလျှို့ဝှက်ကြံစည်ချက်များကို စုဆောင်းပြီးနောက်(ချိန်းချက်ထားသောနေရာသို့)လာခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

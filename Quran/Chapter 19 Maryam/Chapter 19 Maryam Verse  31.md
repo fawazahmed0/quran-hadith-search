@@ -710,6 +710,12 @@ I me stori blagosloven, kŭdeto i da se namiram, i mi poveli da ot·sluzhvam mol
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	အရှင်မြတ်သည် အကျွနု်ပ်မည်သည့်နေရာရှိရှိ ရှိသောနေရာတွင် အကျွနု်ပ်အား ကောင်းကြီးပေးတော်မူ၏။ အကျွနု်ပ်အသက်ရှင်နေစဉ်ကာလပတ်လုံး ဆွလတ်ဝတ်ပြုစုရန်နှင့် အလှုဒါနပေးရန် အကျွနု်ပ်အား ဆင့်ဆိုတော် မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုအရှင်မြတ်သည် ကျွန်ုပ်အား မည်သည့်နေရာ၌မဆကျွန်ုပ်ရှိနေစေကာမူ ဗရ်ကတ်မင်္ဂလာ နှင့်ပြည့်စုံသူ ပြုလုပ်တော်မူခဲ့ပေသည်။ ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် ကျွန်ုပ်အား အသက်ထင်ရှား ရှိနေသမျှကာလပတ်လုံးဆွလာတ်ဝတ်ပြုရန်လည်းကောင်း၊ ဇကာတ်ပေးဆောင်ရန်လည်းကောင်း၊ အမိန့်ပေးတော် မူခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ za da sluzhite edinstveno na Allakh - az sŭm za vas predupreditel i blagovestit
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	တမန်တော်ဟောကြားသည်မှာ ဟယ်-အချင်းတို့၊ အလ္လာဟ်အရှင်မြတ်မှတပါး အခြားတစ်စုံတစ်ရာကို မကိုးကွယ် ကြလင့်၊ မှတ်သားလော့။ ငါသည် သင်တို့ထံ အရှင်မြတ်အထံတော်မှ သတိပေးသူ၊ သတင်းကောင်းယူလာသူ တစ်ဦးဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်မှ တစ်ပါးတစ်စုံတစ်ရာကိုမျှ မကိုးကွယ်၊ မဆည်းကပ် ကြကုန်လင့်။ဧကန်စင်စစ် ငါသည် အသင်တို့အဖို့ ထို အရှင်မြတ်အထံတော်မှ သတိပေးနှိုးဆော်သူနှင့် ဝမ်းမြောက်ဖွယ်ရာ သတင်းကောင်းယူလာသူ ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

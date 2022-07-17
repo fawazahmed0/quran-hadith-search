@@ -710,6 +710,12 @@ Kogato kaza na bashta si: “O, tatko moĭ, zashto sluzhish na onova, koeto nit
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	သူသည် သူ၏ ဖခင်အား ဤသို့ဟောကြား၏။ အို-မွေးသဖခင်ကျေးဇူးရှင်၊ ကြားလည်းမကြား၊ မြင်လည်းမမြင်၊ ဖခင်အား အကျိုးအကြောင်းတစုံတခုမှ မပေးစွမ်းနိုင်သောအရာကို ဖခင်သည် အဘယ်ကြောင့်ခဝပ်ကိုးကွယ် ပါသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ရံရောအခါ ထို(နဗီတမန်တော်အစ်ဗ်ရာဟီမ်)သည် မိမိဖခင်(အာဇရ်)အား (ဤသို့)ပြောကြားခဲ့လေသည်။ အို-ကျွန်ုပ်၏ဖခင်၊ အသင်(ဖခင်)သည် အဘယ်ကြောင့်အကြင်အရာကို ခဝပ်ကိုးကွယ်နေပါသနည်း။ ထိုအရာသည်(တစ်စုံတစ်ရာကိုမျှပင်)ကြားသည်လည်းမဟုတ်၊မြင်သည်လည်းမဟုတ်ချေ။ ထိုမှတစ်ပါး ယင်းအရာသည် အသင်(ဖခင်)အဖို့စိုးစဉ်းမျှပင် အသုံးဝင်နိုင်မည်လည်းမဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

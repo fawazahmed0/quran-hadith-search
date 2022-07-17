@@ -710,6 +710,12 @@ Iska da vi progoni s magiyata si ot vashata zemya. Kakvo shte posŭvetvate?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	အို--အမတ်တို့၊ ဤသူသည် မိမိ၏ ဝိဇ္ဇာအတတ်ပညာအားဖြင့် သင်တို့ငါတို့ကို မိမိတို့ပြည်မှ နှင်ထုတ်ရန် ကြံစည်၏၊ ယခုသင်တို့ ဘယ်အကြံကို ပေးကြမည်နည်းပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းသည် မိမိပဉ္စလက်အတတ်ဖြင့် အသင်တို့အား အသင်တို့၏တိုင်းပြည်မှ နှင်ထုတ်ရန် ကြံရွယ်လျက် ရှိပေသည်။ သို့ဖြစ်ပေရာ အသင်တို့သည် မည်သို့ (အကြံ)ပေးလိုကြသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

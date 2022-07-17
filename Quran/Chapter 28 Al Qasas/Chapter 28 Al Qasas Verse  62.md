@@ -710,6 +710,12 @@ V tozi Den Toĭ shte gi prizove i shte kazhe: “Kŭde sa onezi, za koito tvŭr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	ထိုနေ့တော်ကြီး၌ အရှင်မြတ်သည် သူတို့အား ခေါ်တော်မူပြီးလျှင် နင်တို့က ငါ၏ဘက်စပ်သူဟု ယူဆသော ဘုရားတုများသည် အဘယ်မှာနည်းဟု မေးတော်မူလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်နေ့တွင် ထိုအရှင်မြတ်သည် ၎င်းတို့အား’အသင်တို့ ထင်မှတ်(ကိုးကွယ်)လျက် ရှိခဲ့ကြကုန်သော ငါအရှင်မြတ်၏ တွဲဖက်များသည် အဘယ်မှာနည်း’ ဟု ဟစ်ခေါ်မိန့်ကြားတော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A koĭto ot tyakh kazhe: “Az sŭm bog osven Nego!”, tozi shte nakazhem s Ad
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	သူတို့အနက် အကြင်သူသည် အလ္လာဟ်အရှင်မြတ်မှတပါး ငါသည် မုချဧကန်ဘုရားဖြစ်၏ဆိုမူ၊ ထိုသူအား ငါအရှင်မြတ်သည် ငရဲဖြင့် လက်စားချေတော်မူ၏၊ ဤကဲ့သို့ငါအရှင်မြတ်သည် မကောင်းမှုပွားများသူတို့အား လက်စားချေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ၎င်းတို့အနက် မည်သူမဆို ကျွန်ုပ်သည်လည်း ထိုအရှင်မြတ်အပြင် ကိုးကွယ်ရာအရှင်(တစ်ပါး) ဖြစ်သည်ဟု ပြောဆိုပါမူ ငါအရှင်မြတ်သည် ၎င်းအား ဂျဟန္နမ်ငရဲဘုံ၏ ပြစ်ဒဏ်ကို ပေးတော်မူမည်။ ငါအရှင်မြတ်သည် ကျူးလွန်သူတို့အား ဤနည်းအတိုင်းပင် ပြစ်ဒဏ်ပေးတော်သည်သာ ဖြစ်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Na onezi, koito ne vyarvat v otvŭdniya zhivot, razkrasikhme delata im i te se l
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	မှတ်သားကြလော့၊ နောင်ဘဝကို မယုံကြည်သူတို့မှာမူကား သူတို့ပြုကျင့်မှုများကို သူတို့အား ကောင်းနိုးရာရာ ငါထင်စေတော်မူ၏၊ ထို့ကြောင့်သူတို့အားလုံးသည် လမ်းမှားသို့ ရောက်ကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ အာခိရတ် တမလွန်ဘဝကို မယုံကြည်သောသူတို့၏အမြင်တွင် ငါအရှင်မြတ်သည် ၎င်းတို့၏ပြုမူချက်များကို လှပတင့်တယ်စေတော်မူခဲ့၏။ သို့ဖြစ်ပေရာ ၎င်းတို့မှာ တဝဲလည်လည် ဖြစ်နေကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

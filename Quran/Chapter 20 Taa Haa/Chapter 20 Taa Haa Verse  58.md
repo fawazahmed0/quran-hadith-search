@@ -710,6 +710,12 @@ No nie shte napravim magiya, podobna na neya. Nasrochi mezhdu nas i teb sreshta,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈။	သို့သော်အကျွနု်ပ်တို့လည်း ထိုအတတ်ကို တတ်ကြ၏။ ထို့ကြောင့်ဝိဇ္ဇာအတတ်ပြိုင်ရန် အချိန်နေ့ရက်ကို သတ်မှတ်ချိန်းချက်ကြအ့ံ၊ ထိုချိန်းဆိုသောအချိန်တွင် မပျက်မကွက်ပဲ သင်တို့၊ကျွနု်ပ်တို့သည် နှစ်ဦးနှစ်ဖက် အတွက် သင့်တော်လွယ်ကူသောနေရာသို့ လာကြပါစို့ဟု ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်လျှင် ကျွန်ုပ်တို့သည်လည်း အသင်နှင့်ယှဉ်ပြိုင်ရန် ယင်းကဲ့သို့သောစုန်းအတတ်ကိုပင် ယူဆောင်လာခဲ့ကြမည်။ သို့ဖြစ်ပေရာ အသင်သည် ညီညာသော ကွင်းပြင်တစ်ခု၌ (ပြိုင်ဆိုင်နိုင်ရန်) ကျွန်ုပ်တို့နှင့်မိမိအကြားဝယ် အချိန်တစ်ချိန်ကို ချိန်းဆိုသတ်မှတ်လော့။ ထိုချိန်းဆိုသော အချိန်ကိုကျွန်ုပ်တို့လည်း ပျက်ကွက်စေကြမည်မဟုတ်။ အသင်သည်လည်း မပျက်ကွက်လေနှင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

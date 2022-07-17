@@ -710,6 +710,12 @@ I spomni si Nashite rabi Ibrakhim i Iskhak, i Yakub - pritezhateli na sila i pro
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။ အို-တမန်တော်မိုဟမ္မဒ်၊ ငါ၏ ကျေးကျွန်တမန်တော်အေဗရာဟမ်၊ အစ်စ်ဟတ်(က်)၊ ယအ်ကွတ်(ဘ်)တို့၏ အကြောင်းူအရာကို ဟောပြောလော့၊ ထိုတမန်တော်တို့သည် အရည်အချင်းကောင်းမြတ်၏၊ အမြော်အမြင်ကြီး သူတို့ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် (အို-နဗီတမန်တော်) အသင်သည် စွမ်းရည်သတ္တိရှိသူများ၊ ဉာဏ်အမြော်အမြင်ရှိသူများဖြစ်ကြသော၊(နဗီတမန်တော်)"အီဗ်ရာဟီမ်" (နဗီတမန်တော်) "အီစ်ဟာက်"နှင့်(နဗီတမန်တော်) "ယအ်ကူဗ်" တို့(၏အကြောင်း အတ္ထုပ္ပတ္တိများ)ကို ပြန်လည်စဉ်းစား သတိရပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

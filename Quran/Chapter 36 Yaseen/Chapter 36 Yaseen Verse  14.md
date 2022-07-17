@@ -710,6 +710,12 @@ Izpratikhme im dvama, a te gi vzekha za lŭzhtsi. Togava gi podkrepikhme s treti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	ငါသည် ထိုမြို့သူမြို့သားတို့ထံ တမန်တော်နှစ်ပါးကို ရှေးဦးစွာစေလွှတ်တော်မူသောအခါ သူတို့သည် တမန်တော် များကို မယုံကြည်ငြင်းပယ်ကြ၏၊ သို့သော်ငါသည် ထိုတမန်တော်တို့ကို တတိယတမန်တော်အားဖြင့် ဖြည့်တင်း တော်မူ၏၊ သူတို့ဟောပြောကြသည်မှာ အချင်းတို့၊ သင်တို့အား သမ္မာတရားတော်ကို ဟောပြောသွန်သင်ပေး ဖို့ရာ ငါတို့ကို အလ္လာဟ်အရှင်မြတ်စေလွှတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်အခါဝယ် ငါအရှင်မြတ်သည် ထိုမြို့သူမြို့သားတို့ထံ (ရစူလ်တမန်တော်)နှစ်ပါးကို စေလွှတ်တော်မူခဲ့ရာ ၎င်းတို့က ထိုနှစ်ပါးလုံးအား မုသာဝါဒီများဟူ၍ စွပ်စွဲငြင်းပယ်ခဲ့ကြကုန်၏။ သို့ဖြစ်ပေရာ ငါအရှင်မြတ်သည် တတိယ(ရစူလ်တမန်တော်)တစ်ပါးကို (စေလွှတ်တော်မူခြင်းအား)ဖြင့်(အားအင် တိုးတက်စေ)တော်မူခဲ့၏။ ထိုအခါ ထိုရစူလ်တမန်တော်တို့က "စင်စစ်ဧကန် ငါတို့သည် အသင်တို့ထံ စေလွှတ်ခြင်းခံကြရသော (ရစူလ်တမန်တော်များပင်) ဖြစ်ကြသည်" ဟုပြောကြားခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Vŭrnete se kŭm Nego s pokayanie! I boĭte se ot Nego, i ot·sluzhvaĭte moli
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	ထိုသဘောတရားအတိုင်း အလ္လာဟ်အရှင်မြတ်ဘက်တော်သို့သာ လှည့်ရကြ၏၊ အရှင်မြတ်၏ အမှုတော်ကို ကြေကုန်အောင် ထမ်းကြလော့၊ ဆွလားသ်ဝတ်ပြုကြလော့၊ အရှင်မြတ်နှင့်တွဲဖက်၍ ဘုရားတုဘုရားယောင် များကို ကိုးကွယ်သူတို့ဘောင်တွင် မပါဝင်ကြလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်ဘက်သို့သာလျှင် ပြန်လှည့်ကြသူများအဖြစ် (အစ္စလာမ်၏ သဘာဝဓမ္မကို နာယူ ကျင့်မူကြကုန်)။ထို့ပြင် အသင်တို့သည် ထိုအရှင်မြတ်အား ကြောက်ရွံ့ ရိုသေခန့်ညားကြလေကုန်။ ထိုမှတစ်ပါး အသင်တို့သည် "ဆွလာတ်"ဝတ်ပြုမှုကို ဆောက်တည်ကြလေကုန်။ ထို့ပြင် အသင်တို့သည် "မုရှ်ရစ်က်" တစ်စုံတစ်ရာကို အလ္လာဟ်အရှင်မြတ်နှင့် တွဲဖက်နှိုင်းယှဉ် ကိုးကွယ်သူတို့အနက်မှ မဖြစ်ကြကုန်လင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

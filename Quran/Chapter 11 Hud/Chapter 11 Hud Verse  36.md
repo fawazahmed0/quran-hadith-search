@@ -710,6 +710,12 @@ I be razkrito na Nukh: “Shte vyarva izmezhdu tvoya narod samo onzi, koĭto ve
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	တမန်တော်နူဟို၏ စိတ်နှလုံးတွင် ဤဗျာဒိတ်တော်ကို ထင်ရှားစေတော်မူ၏။ တမန်တော် ယခုယုံကြည်ပြီ၊ သူမှတပါး သင်၏ အမျိုးသားတို့သည် ယုံကြမည်မဟုတ်ချေ။ သူတို့ပြုကျင့်မှုကြောင့် သင်သည် စိတ်မပူပန်လင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်(နဗီတမန်တော်) နူဟ်ထံ (ဤသို့)အမိန့်တော် ထုတ်ပြန်ခြင်းခံခဲ့ရလေသည်။ (အို-နူဟ်)ဧကန်စင်စစ်အသင်၏အမျိုးသားတို့သည် (၎င်းတို့အနက်) အီမာန်သက်ဝင်ယုံကြည်ပြီးဖြစ်သောသူတို့မှတစ်ပါး အီမာန်သက်ဝင်ယုံကြည်ကြတော့မည် မဟုတ်ပေ။ သို့ဖြစ်ပေရာ အသင်သည် ၎င်းတို့ပြုလုပ်လျက် ရှိကုန်သော ပြစ်မှုများနှင့်စပ်လျဉ်း၍ ပူပင်သောကမဖြစ်ပါလေနှင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

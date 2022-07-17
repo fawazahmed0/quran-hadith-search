@@ -710,6 +710,12 @@ i vsyakoga, shtom doĭde pri tyakh znamenie ot znameniyata na tekhniya Gospod, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။ ထိုသူတို့သည် သူတို့၏အရှင်သခင်၏ တန်ခိုးနိမိတ်လက္ခဏာတော်များအနက် တစ်ပါးပါးသောလက္ခဏာတော် ပေါ်ပေါက်လာလျှင် ထိုသူယုတ်တို့သည် ထိုနိမိတ်လက္ခဏာတော်ကို ကျောခိုင်းသွားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ၎င်းတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ အမိန့်တော်များအနက် အမိန့်တော်တစ်ပါးပါးသည် ၎င်းတို့ထံ ရောက်ရှိ၍လာတိုင်းပင်၊ ၎င်းတို့သည် ယင်းအမိန့်တော်ဘက်မှ မျက်နှာလွှဲခဲ့ကြသည်သာ ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

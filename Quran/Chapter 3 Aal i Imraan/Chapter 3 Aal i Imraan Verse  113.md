@@ -710,6 +710,12 @@ Te ne sa ednakvi. Sred khorata na Pisanieto ima i pravedna obshtnost - chetat zn
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၃။	ထိုသူတို့အားလုံးသည် ထပ်တူထပ်မျှမဟုတ်ပေ။ ရှေးကျမ်းတော်ကိုရရှိသူများအနက် လူတစ်စုသည် စိတ်ထက်သန် ခိုင်မာပြီးလျှင် ဦးချလျက် အလ္လာဟ်အသျှင်မြတ်၏ နှုတ်ကပတ်တော်များကို ညဉ့်အခါ ရွတ်ဖတ်သရဇ္ဈာယ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်း (အထက်ကျမ်းဂန်ရရှိသော) သူတို့သည်အားလုံးမတူကြချေ။ (အမှန်စင်စစ် ထိုအထက်) ကျမ်းဂန်ရရှိသူတို့အနက်မှပင် (မှန်ကန်သော တရားလမ်းစဉ်၌) ဖြောင့်မတ်စွာ တည်တံ့နေသော လူစုတစ်စုသည်လည်း ရှိနေကြကုန်၏။ယင်းသူတို့သည် ညဉ့်ယံများ၌ အလ္လာဟ်အရှင်မြတ်၏ မုခပါဌ်တော်များကို ရွတ်ဖတ်သရဇ္ဈာယ်ကြကုန်၏။ 4င်းပြင်(အလ္လာဟ် အရှင်မြတ်၏ ရှေ့တော်မှောက်ဝယ်) ‘စဂျ်ဒဟ်’ ဦးချကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

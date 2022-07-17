@@ -710,6 +710,12 @@ O, sinove na Israil, pomnete Moyata blagodat, s koyato vi obsipakh, i che byakh 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၂။	အေ - အစ္စရာအီလ်အမျိုးသားတို့ ငါ အရှင်သည် သင်တို့အား ပေးသနားတော်မူသော ဂုဏ်ကျေးဇူး တော်ကိုသော်လည်းကောင်း၊ သင်တို့ကို ဝေနေယျ သတ္တဝါအပေါင်းထက် သာလွန်ချစ်မြတ်နိုး သည်ကိုသော်လည်းကောင်း သတိရကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-အစ္စရာအီလ်၏ မျိုးနွယ်ဝံသအပေါင်းတို့၊ အသင်တို့အား ငါအရှင်မြတ် ပေးသနားတော်မူသော သူခချမ်းသာ ဂုဏ်ကျေးဇူးတော်များကို (အမြဲတစေ) အောက်မေ့ သတိရကြကုန်လော့။ ထိုနည်းတူစွာ ငါအရှင်မြတ်သည် အသင်တို့အား(အထူးထူးသော) ဂုဏ်ထူးဝိသေသများဖြင့် စကြာဝဋ္ဌာအပေါင်းတို့ထက် ထူးကဲစွာ ခြီးမြှင့်တော်မူခဲ့လေသည်ကိုလည်း ပြန်လည် သတိရကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

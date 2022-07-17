@@ -710,6 +710,12 @@ Gospodi moĭ, stori men i potomstvoto mi da ot·sluzhvame molitvata! Gospodi na
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄ဝ။	အို-အကျွနု်ပ်၏ ကျေးဇူးတော်သခင်၊ အကျွနု်ပ်နှင့် အကျွနု်ပ်၏ သားမြေးအဆက်ဆက်တို့အား ဆွလဝတ်ပြုခြင်း၌ တည်မြဲစေတော်မူပါ။ အို-ကျေးဇူးတော်သခင်။ ထိုဝတ်ပြုခြင်းကို လက်ခံတော်မူပါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ ကျွန်တော်မျိုးအား အမြဲတစေ ဆွလာတ်ဝတ်ပြုသူ ပြုလုပ်တော်မူပါ။ ထိုနည်းတူစွာ ကျွန်တော်မျိုး၏နောက်သားနောက်မြေးတို့အနက်မှလည်း (ဆွလာတ်ဝတ်ပြုသူများပြုလုပ်တော်မူပါ)။ အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ အရှင်မြတ်သည် ကျွန်တော်မျိုး၏(ဤ) ဆုမွန်ပတ္ထနာကို သဘောတူ လက်ခံတော်မူပါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

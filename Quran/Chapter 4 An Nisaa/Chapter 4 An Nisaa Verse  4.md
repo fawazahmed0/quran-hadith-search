@@ -710,6 +710,12 @@ I davaĭte na zhenite zadŭlzhitelnata plata ot sŭrtse! A ako vi ot·stŭpyat 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	သင်တို့သည် မိမိတို့၏ လက်ထပ်မိန်းမများအား သူတို့၏ ခန်းဝင်ပစ္စည်းများကို ရွှင်ရွှင်လန်းလန်း ပေးကမ်းကြလော့။ သို့သော် သူတို့သည် ၎င်းတို့အလိုအလျောက် ခန်းဝင်ပစ္စည်းများအနက် အချို့ တစ်ဝက်ကိုလျော့ပေါ့လျှင် ထိုလျော့ပေါ့သည်ပစ္စည်းကို သင်တို့ပစ္စည်းအတွင်းသို့ သွင်းနိုင်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်တဝ အသင်တို့သည် (မိမိတို့၏) ဇနီးမိန်းမတို့အား ၎င်းတို့၏ ‘မဟရ်’ ကို ကြည်ဖြူစွာ ပေးကြကုန်လော့။ သို့ရာတွင် အကယ်၍ ထိုဇနီးမိန်းမတို့က ယင်း ‘မဟရ်’ အနက်မှ တချို့တစ်ဝက်ကို (သော်လည်းကောင်း၊ အားလုံးကိုသော်လည်းကောင်း) အသင်တို့အဖို့ သဒ္ဓါစိတ်ကြည်ဖြူစွာနှင့် စွန့်လွှတ်ကြပါလျှင် အသင်တို့သည် (စွန့်လွှတ်သော) ထို ‘မဟရ်’ ကို အရသာရှိရှိ မြိန်ရှက်စွာ စားသုံးနိုင်ကြသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Az sŭm tvoyat Gospod. Svali sandalite si! Ti si v sveshtenata dolina Tua
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	ထို့အပြင်ဆက်လက်ကြားရသည်မှာ မှတ်သားလော့၊ ငါသည် သင်၏ အရှင်သခင်ဖြစ်တော်မူ၏။ အကြောင်းမူကား သင်သည် မင်္ဂလာကျက်သရေရှိသောတိုပါချိုင့်ဝှမ်းသို့ ရောက်လာချေပြီ။ သို့ဖြစ်၍ သင်၏ခြေနင်းကို ချွတ်လော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ငါအရှင်မြတ်သည် အသင့်အားဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်ပင်။ သို့ဖြစ်ပေရာအသင်သည် မိမိ ဖိနပ်နှစ်ဖက်ကို ချွတ်ပါ လေ။ ဧကန်စင်စစ်အသင်သည် ထူးမြတ်သော တွုဝါ တောင်ကြားအရပ်၌(ရောက်)ရှိနေချေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

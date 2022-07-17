@@ -710,6 +710,12 @@ Reche toĭ: “Gospodi, predpochitam zatvora pred onova, kŭm koeto me podkanya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	ထိုသူက အို-အကျွနု်ပ်၏ အရှင်သခင်၊ ထောင်သည် သူတို့တိုက်တွန်းသောအရာထက် အကျွနု်ပ်အဖို့ သာလွန် နှစ်သက်ဖွယ်ဖြစ်ပါ၏။ အကယ်၍ အရှင်ကသာလျှင် သူတို့၏ ပရိယာယ်မာယာများကို အကျွနု်ပ်ဘက်ကနေ၍ တွန်းလှန်တော်မမူပါလျှင် အကျွနု်ပ်သည် သူတို့ဘက်သို့ ယိမ်းယိုင်ပြီးလျှင် သူမိုက်သူရူးတို့ဘောင်တွင် ပါဝင်ရပါ မည်ဟု ဆုတောင်း၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ယင်းယူဆွဖ်က (အလ္လာဟ်အရှင်မြတ်အထံတော်၌ ဤသို့)လျှောက်ထားပန်ကြားခဲ့လေ၏။ အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ ထိုမိန်းမတို့သည် ကျွန်တော်မျိုးအား ဖိတ်ခေါ်လျက်ရှိသော ကိစ္စ(ကိုလိုက်နာ ဆောင်ရွက်ရမည်)ထက် ကျွန်တော်မျိုးအဖို့ အကျဉ်းထောင်သည်ပင် သာ၍နှစ်သက်ဖွယ်ရာဖြစ်ပါ၏။ စင်စစ်မှာမူကား အကယ်၍သာ အရှင်မြတ်သည် ထိုမိန်းမတို့၏ ပရိယာယ်မာယာကို ကျွန်တော်မျိုးထံမှ ကွေကွင်းစေတော်မမူခဲ့ပါလျှင်ကျွန်တော်မျိုးသည် ၎င်းတို့ဘက်သို့ယိမ်းညွတ်သွားမိပါလိမ့်မည်။ထိုအခါ ကျွန်တော်မျိုးသည် မသိမိုက်မဲသူတို့တွင် တစ်ဦး အပါအဝင် ဖြစ်သွားပါလိမ့်မည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

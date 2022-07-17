@@ -710,6 +710,12 @@ I ne e idval pri tyakh prorok, bez da mu se podigrayat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	ထိုရှေးလူဟောင်းများသည် မိမိတို့ထံသို့ တမန်တော်ပွင့်မလာလေမှ လာလေလျှင် တမန်တော်ကို ပျက်ရယ် ကျီစယ်ပြုလေ့ရှိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တစေလည်း ၎င်းတို့သည် မိမိတို့ထံ ရောက်ရှိလာသော နဗီတမန်တော်တိုင်းကိုပင် ပြက်ရယ် ပြောင်လှောင်ခဲ့ကြသည်သာ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

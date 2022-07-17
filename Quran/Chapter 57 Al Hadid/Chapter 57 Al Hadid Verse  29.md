@@ -710,6 +710,12 @@ Za da uznayat khorata na Pisanieto, che nyamat vlast nad nishto ot blagodatta na
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	ဤသို့ ဗျာဒိတ်တော်ခတ်နှိပ်တော်မူရခြင်းအကြောင်းမှာကား အလ္လာဟ်အရှင်မြတ်၏ ကောင်းကြီးမင်္ဂလာတော်ကို သူတို့အစိုးမရပဲ အရှင်မြတ်သာလျှင် အစိုးရတော်မူလျက် မိမိပေးသနားတော်မူလိုသူမည်သူမဆို ကောင်းကြီး မင်္ဂလာတော်ချပေးသနားတော်မူကြောင်းကို ရှေးကျမ်းတော်ရအသင်းသားတို့သိရှိနားလည်စိမ့်သောငှာဖြစ်၏၊ အလ္လာဟ်အရှင်မြတ်သည် အနန္တကောင်းကြီးမင်္ဂလာတော်သခင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ယင်းသို့ ချီးမြှင့် ပေးသနားတော်မူမည့် အကြောင်းမှာ) ရှေးကျမ်းကို ရရှိခဲ့သောသူတို့သည် ၎င်းတို့မှာ အလ္လာဟ်အရှင်မြတ်၏ကျေးဇူးတော်အနက် အနည်းငယ်မျှကိုပင် (ရယူ)နိုင်ကြသည် မဟုတ်ကြောင်းကိုလည်းကောင်း၊ ကျေးဇူးတော်မှာ အလ္လာဟ်အရှင်မြတ်၏ လက်တော်တွင်း၌သာရှိ၍ ထိုအရှင်မြတ်သည် မိမိ အလိုရှိတော်မူသောသူအား ယင်းကျေးဇူးတော်ကို ချီးမြှင့်ပေးသနားတော်မူကြောင်းကိုလည်းကောင်း၊ သိရှိအံ့သောငှာဖြစ်၏။ အမှန်စင်စစ်မှာမူကား အလ္လာဟ်အရှင်မြတ်သည် ကြီးကျယ်လှသော ကျေးဇူးတော်ကို ပိုင်ဆိုင်တော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

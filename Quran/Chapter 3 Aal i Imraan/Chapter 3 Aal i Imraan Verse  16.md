@@ -710,6 +710,12 @@ koito kazvat: “Gospodi nash, povyarvakhme! Oprosti grekhovete ni i opazi ni ot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	ထိုသူတို့သည် အို...အကျွနု်ပ်တို့၏အသျှင်သခင်၊ အကျွနု်ပ်တို့သည် မုချဧကန် ယုံကြည်ကြပါ၏။ အကျွနု်ပ်တို့ကို အပြစ်လွှတ်တော်မူပါ။ အကျွနု်ပ်တို့အား ငရဲမီးဘေးဒဏ်မှလည်း ကာကွယ်တော် မူပါဟု ဆုတောင်းကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူ(တော်စင်)တို့သည်(အလ္လာဟ်အရှင်မြတ်အထံတော်၌) အို-ကျွန်တော်မျိုးတို့အား မွေးမြူတော်မူသောအရှင်၊ ကျွန်တော်မျိုးတို့သည် မလွဲဧကန် (အရှင်မြတ်ကို)သက်ဝင်ယုံကြည်ကြပါပြီ။ သို့ဖြစ်ပါ၍ အရှင်မြတ်သည် ကျွန်တော်မျိုးတို့၏ ပြစ်မှုဒုစရိုက်တို့ကို ခွင့်လွှတ်တော်မူပါ။ ၎င်းပြင်(နောင်တမလွန်ဘဝတွင်) ကျွန်တော်မျိုးတို့အား ငရဲ မီးဘေးမှလည်း ကာကွယ်စောင့်ရှောက်တော်မူပါဟု လျှောက်ထားပန်ကြားကြလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

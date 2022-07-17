@@ -710,6 +710,12 @@ Kazhi: “Da! I shte bŭdete unizeni.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	အို-တမန်တော် ဟောကြားလော့၊ ဟယ်-သူမိုက်တို့၊ သင်တို့နှင့်တကွသင်တို့၏ မိဘဘိုးဘွားသူဟောင်းအားလုံး ပင် အမှန်ရှင်ပြန်ထမြောက်ကြရဦးမည်၊ သင်တို့သည် အရှက်တကွဲရှုံ့ချခြင်းကို ခံရကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ပြောကြားပါလေ။ "ဟုတ်ပေသည်"(အသင်တို့သည် အမှန်ပင် ရှင်ပြန်ထကြရပေမည်)။ ၎င်းပြင် အသင်တို့သည် ဂုဏ်ရည် သေးသိမ်သူများလည်း ဖြစ်ကြရပေဦးမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

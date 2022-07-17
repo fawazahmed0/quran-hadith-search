@@ -710,6 +710,12 @@ A koĭto podmeni [zaveshtanieto], sled kato go e chul, grekhŭt e samo nad onez
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈၁။	အကြင်သူသည် သေတမ်းစာကို ကြားပြီးနောက်ပြောင်းလဲ၏။ ထိုပြောင်းလဲသူတို့အပေါ်၌သာလျှင် ဤပြုကျင့်မှု၏အပြစ်ကို ကျရောက်၏။ ကြည့်ကြလော့။ အလ္လာဟ်အရှင်မြတ်သည် ကြားတော်မူသော အရှင်၊ သိတော်မူသောအရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တဖန်အကြင်သူတို့သည် ထိုမှာကြားချက်ကို ကြားနာကြပြီးသည့်နောက် (တစ်မျိုးတစ်ဖုံ) ပြောင်းလွှဲခဲ့ပါမူ၊ ထိုမှာကြားချက်ကို ပြောင်းလွှဲသူတို့အပေါ်၌ သာလျှင် ထိုပြောင်းလွှဲခြင်း၏အပြစ်သည် ထိုက်ချေသည်။ မုချဧကန် အလ္လာဟ်အရှင်မြတ်သည် (ယင်းသူတို့ မှာထားခဲ့သည်များကို) အကြွင်းမဲ့ ကြားတော်မူသောအရှင် (ယင်းသူတို့၏စေတနာ သဒ္ဓါတရားများကိုလည်း) အကြွင်းမဲ့သိတော်မူသော အရှင်ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

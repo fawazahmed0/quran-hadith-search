@@ -710,6 +710,12 @@ I se prokradna pri bogovete im, i reche: “Nyama li da pokhapnete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၁။	ထိုအခါသူတို့သည် တမန်တော်အေဗရာဟမ်သည် သူတို့၏ဘုရားတုဘုရားယောင်များရှိရာသို့ သွား၍ အို-ဆင်းတုရုပ်ပွားဘုရားများတို့၊ ဘောဇဉ်ချိုချဉ်ရသာများကို သုံးစားမည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ထိုအီဗ်ရာဟီမ်သည် ထိုအမျိုးသားတို့၏ ကိုးကွယ်ရာ(ဆင်းတု)များထံ ဝင်ရောက်ခဲ့ပြီးလျှင်(ဤသို့)ပြောဆိုခဲ့၏။ အသင်တို့သည် အဘယ်ကြောင့် မစားကြသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

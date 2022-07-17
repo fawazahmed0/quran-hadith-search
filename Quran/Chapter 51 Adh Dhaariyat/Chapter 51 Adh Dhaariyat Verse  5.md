@@ -710,6 +710,12 @@ che e istina tova, koeto vi e obeshtano
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	မှတ်သားကြလော့၊ သင်တို့အား ခြိမ်းခြောက်ထားတော်မူသောအရာသည် မုချဧကန်မှန်ကန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ အသင်တို့ ချိန်းဆိုခြင်းခံကြရလေသော ချိန်းဆိုချက်မှာ အမှန်ပင် မှန်ကန်သော ချိန်းဆိုချက်ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

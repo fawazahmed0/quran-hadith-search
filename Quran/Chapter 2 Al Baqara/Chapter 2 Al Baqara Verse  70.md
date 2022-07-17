@@ -710,6 +710,12 @@ Rekokha: “Pozovi ni tvoya Gospod, da ni razkrie kakva da bŭde - za nas kravit
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇ဝ။	တဖန် သူတို့က အဘယ်နွားမဖြစ်သည်ကို မိန့်တော်မူရန် သင်၏အရှင်သခင်ထံ တောင်းပန်ပါလေ။ နွားမများသည် အတူတူပင်ဖြစ်သည်ဟု အကျွန်ုပ်တို့ထင်ကြ၏။ အလ္လာဟ်အရှင်မြတ်အလိုတော်ရှိပါ လျှင် အကျွန်ုပ်တို့အား လမ်းမှန်ကို ပို့သတော်မူမည်ဟုဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းသူတို့က (ထပ်မံ၍) ပြောဆိုကြသည်မှာ(အို-နဗီတမန်တော်မူစာ) ကျွန်တော်မျိုးတို့၏ မျက်မြင်တွင်မူ နွားများသည် ရုပ်ဆင်းသဏ္ဌာန်အရာ၌ (တစ်ကောင်နှင့်တစ်ကောင်) ဆင်တူရိုးမှား ဖြစ်နေကြသဖြင့် ကျွန်တော်များ အဖို့ထိုနွားမသည် အဘယ်ကဲ့သို့သော (ကြန်အင်လက္ခဏာ) ရှိသည်ကို ရှင်းလင်း ဖော်ပြပေးသနားတော်မူပါရန် အသင့်ကို မွေးမြူတော်မူသော အရှင့်အထံတော်၌ ဆုတောင်း ပတ္တနာပြုပေးတော်မူပါဦး၊ အကယ်၍သာ အလ္လာဟ် အရှင်မြတ်၏အလိုတော်ရှိခဲ့ပါလျှင် ကျွန်တော်မျိုးတို့သည်(ထိုနွားမကိုရှာဖွေရာ၌) နည်းမှန်လမ်းမှန်ကို ဧကန်မလွဲ တွေ့ရှိ သောသူများ ဖြစ်ကြပါအံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

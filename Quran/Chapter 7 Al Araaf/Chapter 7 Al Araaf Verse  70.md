@@ -710,6 +710,12 @@ Kazakha: “Nima doĭde pri nas, za da sluzhim edinstveno na Allakh i da izosta
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇ဝ။	သူတို့ပြောကြသည် အကျွနု်ပ်တို့ထံသို့ အလ္လာဟ်အသျှင်မြတ်မှတစ်ပါးအားသာလျှင် ကိုးကွယ် အပ်ကြောင်းသြဝါဒနှင့်လာသလော။ သို့ဖြစ်ပါလျှင် သင်သည် သစ္စာစကားဆိုသူဖြစ်ပါသော် သင် ခြိမ်းခြောက်သောအပြစ်ဒဏ်ကို အကျွနု်ပ်တို့အပေါ်သို့ ရောက်စေပါလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ၊ ၎င်း(နဗီတမန်တော်ဟူဒ်၏အမျိုးသား)တို့က (အို-ဟူဒ်) ကျွန်ုပ်တို့သည် အလ္လာဟ်အရှင်မြတ်တစ်ဆူတည်းကိုသာ ကိုးကွယ်၍မိမိတို့၏ အဖ၊ ဘိုးဘေး၊ ဘီဘင်တို့ကိုးကွယ်ခဲ့ကြသည့် (ဘုရား)များကိုစွန့်လွှတ်ရန် အသင်သည်ကျွန်ုပ်တို့ထံ ရောက်ရှိလာခဲ့ပါသလော။ သို့ဖြစ်လျှင် အကယ်၍သာ အသင်သည် မှန်ကန်စွာပြောဆိုသူတဦးဖြစ်ပါမူ အသင်ခြိမ်းခြောက်လေ့ရှိသော(ပြစ်ဒဏ်)ကို ယူခဲ့ပါလေ ဟုပြောဆိုကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Znatnite ot naroda mu, koito se vŭzgordyakha, kazakha: “Shte propŭdim ot nas
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၈။	သူ၏ သားချင်းထဲမှ ဂုဏ်မောက်သော၊ မလေးစားသော၊ ရှေ့ဆောင်လူကြီးများသည် မြွက်ဆိုကြ၏။ အို-ရှူအိုက်(ဘ်) သင်တို့သည် အကျွနု်ပ်တို့ဘာသာအယူဝါဒဘက်သို့ ပြန်မလှည့်လျှင် အကျွနု်ပ်တို့ သည် သင်နှင့်တကွ သင့်ဘာသာကို ယုံကြည်သူတို့ကို အကျွနု်ပ်တို့ တိုင်းပြည်နေရပ်မှ အမှန်ပင် နှင်ထုတ်ကြမည်။ သူက ထိုဘာသာကို အကျွနု်ပ်တို့ မုန်းသော်လည်း သင်တို့ ယင်းသို့ ပြုကျင့်ကြမည် လောဟု မေး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ယင်းနဗီတမန်တော်(ရှုအိုက်ဗ်)၏အမျိုးသားတို့အနက်မှ မောက်မာပလွှားကြသော အကြီးအကဲ တို့ကအို-ရှုအိုက်ဗ် ကျွန်ုတို့သည် အသင်နှင့်တကွ အသင်နှင့် အတူသက်ဝင်ယုံကြည်သောသူတို့ကိုပါ မိမိတို့မြို့ရွာမှ မုချနှင်ထုတ်ပစ်ကြမည်။ သို့မဟုတ်လျှင် အသင်တို့သည် ကျွန်ုပ်တို့၏ ဘာသာ သာသနာတွင်းသို့ ပြန်လည် (ဝင်)ခဲ့ကြလေကုန် ဟု ပြောဆိုခဲ့ကြလေသည်။ ထိုအခါ ထိုနဗီတမန်တော် (ရှုအိုက်ဗ်)ကငါတို့သည် (အသင်တို့၏ဘာသာကို) စက်ဆုပ်ပါလျက်နှင့်ပင်(ပြန်ဝင်ကြရပါမည်)လောဟု ဖြေကြားခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

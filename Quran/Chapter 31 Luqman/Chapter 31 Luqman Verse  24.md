@@ -710,6 +710,12 @@ Davame im da se nasladyat malko, posle shte gi podkarame kŭm tezhko mŭchenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	ငါသည် ထိုမိစ္ဆာတို့အား ခေတ္တခဏစည်းစိမ်ချမ်းသာပေးသနားတော်မူ၏၊ ထို့နောက်သူတို့ကို အလွန်ကြီးလေး သောအပြစ်ဒဏ်တော်အတွင်းသို့ မောင်းသွင်းတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် နေ့ရက်အနည်းငယ်မျှပင်၊၎င်းတို့အား အကျိုးခံစားခွင့်ပေးတော်မူသည်။ ထို့နောက်ငါအရှင်မြတ်သည် ၎င်းတို့အား ပြင်းထန်လှစွာသော ပြစ်ဒဏ်သို့ အတင်းအကြပ်မောင်းနှင် ပို့ဆောင်တော်မူအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

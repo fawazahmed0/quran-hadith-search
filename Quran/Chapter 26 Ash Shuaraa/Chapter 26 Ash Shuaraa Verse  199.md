@@ -710,6 +710,12 @@ i toĭ im go cheteshe, pak nyamashe da mu povyarvat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉၉။	ထိုပုဂ္ဂိုလ်သည် ဤကျမ်းတော်မြတ်ကို ရွတ်ဖတ်ဟောကြားလျှင် အာရပ်အမျိုးသားတို့သည် ကျမ်းတော်မြတ်ကို သက်ဝင်ယုံကြည်ကြမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် ထိုသူသည် ၎င်း(ကုရိုက်ရှ်မျိုးနွယ်ဝင်)တို့ ရှေ့ဝယ် ထို(ကုရ်အာန်ကျမ်းတော်မြတ်)ကို ဖတ်ကြားခဲ့အံ့။သို့ပင်တစေလည်း ၎င်းတို့သည် ယင်း (ကုရ်အာန်ကျမ်းတော်မြတ်)ကို ယုံကြည်ကြမည့်သူများ မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ V Denya, kogato shte gi sŭberem vsichki, posle shte rechem na onezi, koito sŭd
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	ငါအရှင်မြတ်သည် သူတို့အားလုံးကို အတူတကွစုဆောင်းတော်မူသောနေ့တော်ကြီး၌ ငါနှင့်ဘုရားများကို တွဲထား သူတို့အား သင်တို့နှင့်သင်တို့၏ ဘုရားပျက်တို့သည် နောက်ဆုတ်ကြလော့ဟု မိန့်တော်မူမည်၊ ငါသည် သူ တို့ကို ခွဲခြာထားတော်မူ၏။ ဘုရားများက သင်တို့သည် အကျွနု်ပ်တို့ကို မကိုးကွယ်ကြပေဟု ပြောဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်း ပြင် အကြင်နေ့က ို(သတိရပါလေ)ငါအရှင်မြတ်သည် (ထိုနေ့တွင်) ၎င်း တို့အားလုံးကို စုရုံးစေတော်မူမည်။ထိုနောက် ငါအရှင်မြတ်သည်(အခြားအရာများကို ငါအရှင်မြတ်နှင့်) တွဲဖက်နှိုင်းယှဉ် ကိုးကွယ်ကြသူတို့အား အသင်တို့နှင့်အသင်တို့ ယှဉ်တွဲကိုးကွယ်ခဲ့ကြသော ပေါင်းဖော်ပေါင်းဖက်တို့သည် မိမိတို့၏နေရာတွင်ပင် ရပ်တည်၍နေကြလေကုန်ဟု မိန့်ကြားတော်မူမည်။ ထို့နောက် ငါအရှင်မြတ်သည် ၎င်း တို့အားအချင်းချင်းကွဲစေတော်မူမည်။ (ထိုအခါ) ၎င်း တို့ တွဲဖက်နှိုင်းယှဉ်၍ ကိုးကွယ်ခဲ့ကြကုန်သော ပေါင်းဖော်ပေါင်းဖက်တို့က(၎င်း တို့အား) အသင်တို့သည် ငါတို့အား ကိုးကွယ်ခဲ့ကြသည်မဟုတ်ဟု ပြောဆိုကြလတ္တံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

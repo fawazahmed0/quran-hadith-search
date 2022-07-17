@@ -710,6 +710,12 @@ Toĭ e, Koĭto provodi pri negramotnite [arabi] Pratenik izmezhdu tyakh da im 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။ အရှင်မြတ်သည် စာမတတ်သော လူမျိုးအထဲတွင် မိမိတို့သားချင်းဖြစ်သော တမန်တော်တစ်ပါးကို စေလွှတ်တော်မူ၏၊ ထိုတမန်တော်သည် သူတို့အား အရှင်မြတ်၏ နှုတ်ကပတ်တော်များကို ဖတ်ပြရန် သူတို့ကို သန့်ရှင်း စင်ကြယ်စေရန် ကျမ်းမြတ်ကုရ်အာန်ကို သင်ကြားရန် ပညာအလင်းရောင်ပေးရန်ဖြစ်၏၊ ထိုသူများသည် ရှေးအခါက လမ်းမှားရောက်နေသူများစင်စစ်ဖြစ်သော်လည်း သူတို့ကို သွန်သင်ဆုံးမတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည်ပင် စာပေမတတ်သော သူတို့ထံ ၎င်းတို့အနက်မှပင် ရစူလ်တမန်တော်တစ်ပါးကို စေလွှတ်တော်မူခဲ့၏။ ထိုရစူလ်တမန်တော်သည် ၎င်းတို့ရှေ့ဝယ် ထိုအရှင်မြတ်၏အာယတ်တော်များကို ဖတ်ကြားလေ၏။ ထို့ပြင် ၎င်းတို့အား စင်ကြယ်သန့်ရှင်းအောင် ပြုလုပ်လေ၏။ ထိုမှတစ်ပါး ထိုသူတို့အား ကျမ်းဂန်ကိုလည်းကောင်း၊ ဉာဏ်ပညာကိုလည်းကောင်း၊ သင်ကြားပို့ချလေ၏။ စင်စစ်မှာမူကား ၎င်းတို့သည် ယခင်က ထင်ရှားစွာသော လမ်းမှားမှု၌ပင် ရှိနေခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

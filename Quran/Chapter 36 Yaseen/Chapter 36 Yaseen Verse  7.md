@@ -710,6 +710,12 @@ Sbŭdna se slovoto za povecheto ot tyakh - te ne sa vyarvashti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	ဤစကားသည် ထိုသူများအနက် အများအပြားအတွက် မှန်ကန်ပေ၏၊ အဘယ်ကြောင့်ဆိုသော်သူတို့၌ ယုံကြည် ခြင်းသဘောကင်းမဲ့သောကြောင့်ပေတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ၎င်းတို့အနက် မြောက်မြားစွာသော သူတို့အပေါ်၌ အမိန့်တော်သည် အတည်ဖြစ်ခဲ့ပေရာ ၎င်းတို့မှာ "အီမာန်" သက်ဝင်ယုံကြည်ကြမည် မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

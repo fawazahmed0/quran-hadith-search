@@ -710,6 +710,12 @@ Ne shte gi zasegne tam umora i ne shte bŭdat ottam izvedeni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	သူတို့သည် နိဗ္ဗာန်ဥယျာဉ်တော်များ၌ အပင်ပန်းမခံရချေ။ နိဗ္ဗာန်မှ နှင်ထုတ်ခြင်းလည်း မခံရချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်း(သူတော်စင်)တု့ိ၌ ယင်းဥယျာဉ်များတွင်မည်သည့် ဘေးဒုက္ခမျှလည်း သက်ရောက်မည်မဟုတ်ပေ။ ၎င်းပြင် ထိုသူတို့သည် ယင်းဥယျာဉ်များမှ နှင်ထုတ်ခြင်း ခံကြရမည်လည်း မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

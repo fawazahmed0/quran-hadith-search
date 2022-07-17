@@ -710,6 +710,12 @@ I Faraonŭt, i onezi predi nego, i srinatite [selishta na Lut] vŭrshekha gryakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။ ထို့အပြင်ဖွာရောမင်းသော်လည်းကောင်း၊ သူ၏ အထက်ရှေးလူများသော်လည်းကောင်း၊ ဖျက်ဆီးတော်မူလိုက် သောလူမျိုးစုတို့သော်လည်းကောင်း၊ သူတို့သည် အစဉ်အမြဲ အပြစ်ကျူးလွန်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် "ဖစ်ရ်အောင်န်"သည်လည်းကောင်း၊ ထို"ဖစ်ရ်အောင်န်"၏အလျင်ရှိခဲ့ကြသောသူတို့သည် လည်းကောင်း၊ ထက်အောက် ပြောင်းပြန်လှန်ခြင်းကို ခံခဲ့ကြရသောရွာ(သူရွာသား)တို့သည်လည်းကောင်း၊ ပြစ်မှုကို ကျူးလွန်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

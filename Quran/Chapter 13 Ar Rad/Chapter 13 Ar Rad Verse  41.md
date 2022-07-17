@@ -710,6 +710,12 @@ I nima ne vizhdat, che Nie stesnyavame [za nevernitsite] zemyata po neĭnite kr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	ငါအရှင်မြတ်သည် တိုင်းပြည်တိုင်းတွင် မြို့ရွာဇနပုဒ်မှစ၍ တတိုင်းပြည်လုံးအတွင်း၌ သာသနာတော်ကြီးထွန်းလင်း တောက်ပစေတော်မူသည်ကို မိစ္ဆာမိုက်တို့မသိမမြင်ကြသလော။ အလ္လာဟ်အရှင်မြတ်သည် အပြစ်ဒဏ်တော် တပ်ရိုက်တော်မူသောအခါ ထိုအပြစ်ဒဏ်တော်ကို ရွှေ့ဆိုင်းထားနိုင်သူတစုံတယောက်မျှမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် မြေကိုဘေးပတ်ဝန်းကျင်များမှ(တဖြည်းဖြည်း)ယုတ်လျော့စေအောင်ပြုလုပ် လာတော်မူသည်ကို ၎င်းတို့သည် မမြင်ကြလေသလော။ အလ္လာဟ်အရှင်မြတ်သည် (မိမိအလိုရှိတော်မူသည်ကို) အမိန့်တော်ချမှတ်တော်မူလေသည်။ ထိုအရှင်မြတ်၏အမိန့်တော်ကို ရွှေ့ဆိုင်းနိုင်သူဟူ၍ တစ်ဦးတစ်ယောက်မျှပင် အလျှင်းမရှိပေ။ ထိုမှတစ်ပါးထိုအရှင်မြတ်သည် လျင်မြန်စွာ စစ်ဆေးတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

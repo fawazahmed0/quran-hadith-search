@@ -710,6 +710,12 @@ Tazi Kniga - bez sŭmnenie v neya - e napŭt·stvie za bogoboyazlivite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	ဤတော်မြတ်သည် သံသယကင်းသောကျမ်းတော်ဖြစ်၏။ ဒုစရိုက်မကောင်းမှုကို ရှောင်သူတို့အဖို့ လမ်းညွှန်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤကျမ်းသည် (ထုတ်ပြန် ပို့ချပြီးသော ကျမ်းဂန်အသီးသီးတို့၌ ဗျာဒိတ်ပေးထားပြီးဖြစ်သော ကုရ်အာန်) ဓမ္မက္ခန်တည်း။ ယင်းကျမ်းမြတ် နှင့်စပ်လျဉ်း၍ ယုံမှားသံသယ ဝိစိကိစ္ဆာဖြစ်ဘွယ်ရာ အကြောင်း အလျှင်းမရှိပြီ။ ယင်းကျမ်းမြတ်သည် သူတော်စင်များအဘို့ တရားလမ်းမှန်ကို ညွှန်ကြားပြသသော တရားဓမ္မဖြစ်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

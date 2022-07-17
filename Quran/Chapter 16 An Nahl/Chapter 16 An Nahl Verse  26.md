@@ -710,6 +710,12 @@ I onezi predi tyakh lukavstvakha, no Allakh razrushi tyakhnoto zdanie iz osnovi 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	သူတို့ထက်ရှေးကျသောသူတို့သည် အကြံအစည်ထုတ်ကြ၏။ ထို့ကြောင့်အလ္လာဟ်အရှင်မြတ်သည် သူတို့၏ အဆောက်အဦး၏ အခြေအမြစ်များကို ဖြိုဖျက်တော်မူ၏။ ထိုအခါအဆောက်အဦး၏ အမိုးအကာသည် သူတို့ အပေါ်သို့ အထက်မှ ပြိုကျ၏။ အပြစ်ဒဏ်တော်သည် အဘယ်နေရာမှာ ကျရောက်လာသည်ကို သူတို့မသိပဲ သူတို့အပေါ်သို့ ဆိုက်ရောက်လာ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် ၎င်းတို့အလျင်ရှိခဲ့ကြသောသူတို့သည် လျှို့ဝှက်ကြံစည်ခဲ့ကြလေသည်။ သို့ဖြစ်ပေရာ အလ္လာဟ်အရှင်မြတ်သည် 4င်းတို့၏ အဆောက်အဦကို အခြေမမြစ်မှပြိုပျက်စေတော်မူခဲ့ရာ ၎င်းတို့ထက်မှ အိမ်ခေါင်မိုးသည် ၎င်းတို့အပေါ်၌ ပြိုကျလာခဲ့လေသည်။ ထိုမှတစ်ပါး ၎င်းတို့ထံပြစ်ဒဏ်သည် ၎င်းတို့ မထင်သောနေရာမှ ဆိုက်ရောက်၍ လာခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Te nyamat pokroviteli, koito da gi branyat, osven Allakh. A kogoto Allakh ostavy
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။	ထိုသူတို့မှာ အလ္လာဟ်အရှင်မြတ်မှတပါး အခြားကူညီစောင်မမည့်မိတ်ဆွေများမရှိချေ၊ အကြင်သူအား အလ္လာဟ် အရှင်မြတ်သည် လမ်းမှား၌ ပစ်ထားအ့ံ၊ ထိုသူအတွက် လမ်းမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အလ္လာဟ်အရှင်မြတ်မှလွဲ၍ ၎င်းတို့အား ကူညီစောင်မကြအံ့သော ကာကွယ်စောင့်ရှောက် မည့်သူများဟူ၍လည်း ၎င်းတို့၌ရှိကြမည်မဟုတ်ပေ။ စင်စစ်သော်ကား အကြင်သူအား အလ္လာဟ်အရှင်မြတ်သည် လမ်းမှား၌ပင်ရှိစေတော်မူပါလျှင် ထိုသူ၌ (လွတ်မြောက်ရန်ဟူ၍) မည်သည့်နည်းလမ်းမျှပင် မရှိတော့ပြီတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

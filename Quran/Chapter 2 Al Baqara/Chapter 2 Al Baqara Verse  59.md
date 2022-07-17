@@ -710,6 +710,12 @@ Ala ugnetitelite podmenikha slovoto, koeto im be kazano, s drugo. I izsipakhme n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၉။	သို့သော် မကောင်းမှုပြုကျင့်သူတို့သည် သူတို့ထံ ချပေးတော်မူသော ဗျာဒိတ်စကားတော်ကို အခြား စကားသို့ပြောင်းကြ၏။ ထို့ကြောင့် ငါသည် ဒုစရိုက်ကောင်များအပေါ်သို့ သူတို့၏ စုစရိုက်အမှုများ ကြောင့် ကောင်းကင်ဘုံမှ အပြစ်ဒဏ်တော်ချပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် (တရားတော်ကို) ကျူးလွန် ကြသောထို(အစ္စရာအီလီ) လူမျိုးတို့သည် မိမိတို့အား သင်ကြားပို့ချထားသော စကားရပ်နှင့် ဆန့်ကျင်သည့် အခြား (မလျော်ကန်သော) စကားရပ်ကို ပြောင်းလွှဲ၍ သုံးစွဲကြလေသည်။ သို့ဖြစ်ရာငါအရှင်သည် တရားတော်ကို ကျူးလွန်သော ထို(အစ္စရာအီလ်) မျိုးနွယ်အပေါ်သို့ ဒုစရိုက်မှုများ ပြုလေ့ရှိကြ သည့်အတွက် မိုးကောင်းကင်မှ ရောဂါကပ်ကို စိုက်ရောက်စေတော်မူလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

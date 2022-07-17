@@ -710,6 +710,12 @@ Ili smyatakhte da vlezete v Raya, bez Allakh da e izpital koi ot vas se boryat i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၂။	အလ္လာဟ်အသျှင်မြတ်သည် သင်တို့အနက် အဘယ်သူသည် မုချဧကန် ကြိုးပမ်းအားထုတ်သည်။ အဘယ်သူသည် တည်ကြည်ခိုင်မြဲသည်ကို သိတော်မမူဘဲ သင်တို့သည် သုခဘုံနန်းသို့ ဝင်ကြရမည် ထင်မှတ်ကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-မုစ်လင်မ်အပေါင်းတို့) အသင်တို့သည်’ဂျန္နတ်’အမတသုခဘုံသို့(လွယ်လင့်တကူလျင်မြန်ထုတ်ချောက်)ဝင်ရောက်နိုင်ကြလိမ့်မည်ဟု ထင်မှတ်ကြလေသလော။ အမှန်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် (ယခုတိုင်)အသင်တို့အနက် စစ်မက်ပြိုင်ဆိုင်တိုက် ခိုက်သော သူတို့ကိုလည်း တွေ့ရှိတော်မမူသေးပေ။ ထိုနည်းတူစွာ ခန္တီတရား ထားရှိသူတို့ကိုလည်း တွေ့ရှိတော်မမူသေးချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

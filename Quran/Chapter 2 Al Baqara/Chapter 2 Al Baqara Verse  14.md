@@ -710,6 +710,12 @@ I shtom sreshtnat onezi, koito povyarvakha, kazvat: “Nie povyarvakhme.” No s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	ထို့ပြင် သူတို့သည် ယုံကြည်သူတို့နှင့်တွေ့ဆုံသောအခါ အကျွန်ုပ်တို့သည် ယုံကြည်ကြ၏ဟု ပြောကြ ၏။ သို့သော် သူတို့သည် သူတို့၏ မာရ်နတ်များနှင့်အချင်းချင်း တွေ့ဆုံသောအခါ မှတ်သားကြလော့။ အကျွန်ုပ်တို့သည် သင်တို့ဘက်က ဖြစ်ကြ၏။ အကျွန်ုပ်တို့သည် ပြောင်လှောင်သည်သာ ဖြစ်၏ဟု ပြောပြကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မုစ်လင်(မ်) အသွင်ဆောင်သောသူများ သည်မုစ်လင်(မ်) များနှင့် တွေ့ဆုံကြသည့်အခါ ဥပါယ်တံမျဉ်ဖြင့် ယုံကြည်ဟန်ပြု၍ အကျွန်ုပ်တို့သည် (သင်တို့ ယုံကြည်သကဲ့သို့ပင်) ယုံကြည်ကြပါ၏ဟု ပြောဆိုကြ၏။ ထိုသို့ပြောဆိုပြီးသည့်နောက် မိမိတို့၏(အကြီးအမှူးများဖြစ်သော) သူယုတ်များနှင့် ဆိတ်ကွယ်ရာတွင် ထည်းထည်းတွေ့ဆုံကြပြန် သောအခါ အကျွန်ုပ်တို့သည် အသင်တို့ နှင့်အတူ (တသင်းတည်းတဝါဒတည်း) ပင်ဖြစ်ကြပါ၏။ သို့သော် မုချဧကန်အကျွန်ုပ်တို့သည် (ထိုမုစ်လင်(မ်)များအား) သက်သက် ပြက်ရယ် ကျီစယ် ကရော်ကမည် ပြုသူများသာ ဖြစ်ကြပါ၏ ဟုဆိုကြပြန်ကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

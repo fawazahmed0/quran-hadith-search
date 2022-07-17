@@ -710,6 +710,12 @@ Naistina v promyanata na noshtta i denya, i v sŭtvorenoto ot Allakh na nebesata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	မှတ်သားကြလော့၊ နေ့နှင့်ညဉ့်ကို ပြောင်းလဲတော်မူခြင်းတို့၌လည်းကောင်း၊ မိုးမြေတွင် အလ္လာဟ်ဖန်ဆင်းထား တော်မူသောအရာများ၌သော်လည်းကောင်း၊ အကုသိုလ်မကောင်းမှုကို ရှောင်ရှားသူတို့အဖို့ သက်သေသာဓက တော်များပါရှိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ညဉ့်နှင့်နေ့တို့၏ပြောင်းလွဲမှု၌ လည်းကောင်း၊ မိုးကောင်းကင်များနှင့်ပထဝီမြေတွင် အလ္လာဟ် အရှင်မြတ် ဖန်ဆင်းထားတော်မူသော အရာများ၌လည်းကောင်း၊(အလ္လာဟ်အရှင်မြတ်အား)ကြောက်ရွံ့ရိုသေ ခန့်ညားသူတို့အဖို့သက်သေလက္ခဏာများသည် ဧကန်မုချ ရှိချေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

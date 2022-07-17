@@ -710,6 +710,12 @@ Vseki otrichashe pratenitsite i zatova se izpŭlni Moeto nakazanie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	ဤအသင်းသားတို့တစ်ယောက်မျှမကျန် အားလုံးသည် မိမိတို့ထံလာသောတမန်တော်များကို မယုံကြည် မထီ မဲ့မြင်ပြုကြသောကြောင့် ငါအရှင်မြတ်၏ ပြင်းပြသောအပြစ်ဒဏ်တော်နှင့်သာ ထိုက်တန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ယင်းအုပ်စုကြီးများအနက်) အသီးသီးတို့သည် ရစူလ်တမန်တော်တို့အား မုသာဝါဒီများဟူ၍ စွပ်စွဲ ငြင်းပယ်ခဲ့ကြပေရာ ငါအရှင်မြတ်၏ပြစ်ဒဏ်သည် (၎င်းတို့အပေါ်၌)သက်ရောက်ခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

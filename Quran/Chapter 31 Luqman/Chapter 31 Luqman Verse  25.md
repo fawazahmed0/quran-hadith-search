@@ -710,6 +710,12 @@ I ako gi popitash koĭ e sŭtvoril nebesata i zemyata, nepremenno shte rekat: �
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	အို-တမန်တော်၊ သင်သည် ထိုအယူလွဲသူတို့အား မိုးကောင်းကင်နှင့် ကမ္ဘာမြေပြင်ကို အဘယ်သူဖန်ဆင်း သနည်းဟု မေးသောအခါ သူတို့က အလ္လာဟ်အရှင်မြတ်ဟု ပြန်ဖြေလတ့ံ၊ သို့ပြောဆိုလျှင် ဟယ်-အချင်းတို့၊ အလ္လာဟ်အရှင်မြတ်သည် ချီးမွမ်းခြင်းတည်ရာဖြစ်တော်မူ၏ဟု သူတို့အား သင်ဟောပြောလော့၊ သို့သော်သူတို့ အနက်များလှစွာသောသူတို့သည် အသိဉာာဏ်ကင်းမဲ့သူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အကယ်၍ အသင်သည် ထိုသူတို့အား မိုးကောင်းကင်များနှင့်ပထဝီမြေကို မည်သူဖန်ဆင်းခဲ့သနည်းဟု မေးမြန်းခဲ့ပါလျှင် မုချဧကန် ၎င်းတို့က အလ္လာဟ်အရှင်မြတ်ပင် (ဖန်ဆင်းတော်မူခဲ့သည်)ဟု ပြောဆိုကြမည်သာ။(အို-နဗီတမန်တော်) အသင်သည် ပြောကြားပါလေ။ ချီးမွမ်းထောပနာ အပေါင်းတို့ကို အလ္လာဟ်အရှင်မြတ်သည်သာလျှင်ခံယူထိုက်တော်မူ၏။ သို့ရာ တွင် ၎င်းတို့အနက် အများစုမှာမူကား မသိကြပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A koĭto se otdava na Allakh i blagodetelstva, toĭ se e khvanal za naĭ-zdra
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	အကြင်သူသည် အလ္လာဟ်အရှင်မြတ်အား ကျိုးနွံနာခံသောရည်ရွယ်ချက်ဖြင့် ကုသိုလ်ကောင်းမှုပြုအ့ံ၊ ထိုသူသည် တောင့်တင်းခိုင်မာသောကြိုးစကို မုချအမှန်ဆုပ်ကိုင်ဆွဲမိသည်မည်၏၊ အရာခပ်သိမ်းကုန်တို့၏ အကျိုးဆက်ကို အလ္လာဟ်အရှင်မြတ်စိုးပိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား မည်သူမဆို မိမိကိုယ်ကိုအလ္လာဟ်အရှင်မြတ် အထံတော်သို့ လုံးဝအပ်နှင်းလွှဲအပ် သည့်ပြင်၊ ထိုသူသည် ကောင်းမှုပြုသူလည်းဖြစ်ပါမူ၊ မလွဲဧကန် ထိုသူသည် လွန်စွာခိုင်မြဲသော ကြိုးကွင်းကိုဆွဲကိုင်၍ ထားရှိပြီဖြစ်၏။စင်စစ် အမှုကိစ္စအလုံးစုံတို့၏ အဆုံးသတ်ခြင်းမှာ အလ္လာဟ်အရှင်မြတ် အထံတော်၌ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I se vŭzprotivikha na pratenika ot svoya Gospod, zatova Toĭ s mosht gi sgrabc
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၀။ ထို့အပြင်သူတို့သည် မိမိတို့၏ အရှင်သခင်၏ စေတမန်တော်ကို မနာခံဖီဆန်ကြ၏၊ ထို့ကြောင့်အရှင်မြတ်သည် သူတို့ကို ပြင်းပြအားကြီးသောဖမ်းခြင်းဖြင့် ဖမ်းဆီးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် ၎င်းတို့သည် မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်မှ စေလွှတ်တော်မူသော ရစူလ်တမန်တော်၏အမိန့်ကို ဖီဆန်ခဲ့ကြကုန်၏။ သို့ဖြစ်ပေရာ ထိုအရှင်မြတ်သည် ၎င်းတို့အား (အခြား လူမျိုးများထက်) ပိုမို၍တင်းကြပ်စွာ ဖမ်းဆီး အရေးယူတော်မူခြင်းအားဖြင့် ဖမ်းဆီးအရေးယူတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

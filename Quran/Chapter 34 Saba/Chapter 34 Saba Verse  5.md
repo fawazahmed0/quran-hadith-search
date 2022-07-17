@@ -710,6 +710,12 @@ A za onezi, koito se starayat da osuetyat Nashite znameniya, ima unizitelno, bol
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	သို့သော်ငါအရှင်မြတ်ကို ရန်ဘက်ပြု၍ ငါ၏ပညတ်တော်များကို ဆန့်ကျင်သူတို့အဖို့မှာကား အလွန်ပြင်းပြ နာကျင်ဖွယ်သောအပြစ်ဒဏ်အသင့်ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ငါအရှင်မြတ်၏ အာယတ်တော်များကိပျက်ပြားအောင် ကြိုးပမ်းဆောင်ရွက်လျက်ရှိကြသူတို့မှာမူကား ၎င်းတို့၌ ပြင်းပြနာကျင်ဖွယ်ဖြစ်သော ဘေးအန္တရာယ်တည်းဟူသော ပြစ်ဒဏ်သည် ရှိပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

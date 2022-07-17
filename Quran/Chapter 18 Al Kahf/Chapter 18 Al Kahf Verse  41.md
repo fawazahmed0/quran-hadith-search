@@ -710,6 +710,12 @@ Ili vodata ĭ da potŭne na dŭnoto i ti ne shte si v sŭstoyanie da ya izdiris
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	သို့မဟုတ် တခုခုသောနံနက်တွင် သင့်ဥယျာဉ်၏ စိမ့်စမ်းသွေ့ခြောက်ပျောက်ကွယ်သွား၍ ရေကြောင်းကို ရှာမတွေ့နိုင်ဖြစ်ကောင်းဖြစ်လတ့ံဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် (အသင်ဥယျာဉ်အနီး၌ရှိ သော)ချောင်းရေသည် (မြေကြီးအောက်သို့) နက်ဝင်သွားတန်ရာ၏။သို့ဖြစ်လျှင် အသင်သည် ထိုရေကို အလျှင်း ရှာဖွေ(ထုတ်ယူ)နိုင်မည် မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

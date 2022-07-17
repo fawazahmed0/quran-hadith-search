@@ -710,6 +710,12 @@ Kazakha: “Tezi dvamata naistina sa mag’osnitsi, iskat da vi progonyat s magi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၃။	သူတို့က မှတ်သားကြလော့၊ ဤသူနှစ်ယောက်သည်ကား ပဥ္စလက်ဆရာများဖြစ်ကြ၏။ သူတို့သည် ၎င်းတို့၏ ဝိဇ္ဇာအတတ်အားဖြင့် သင်တို့တိုင်းပြည်မှ နှင်ထုတ်၍ သင်တို့၏ရိုးရာထုံးတမ်းစဉ်လာကောင်းများကို ဖျက်ဆီးပစ် လိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (နောက်ဆုံးတွင်) ၎င်းတို့သည် (ဤသို့) ပြောဆို(ဆုံးဖြတ်)ခဲ့ကြကုန်၏။ ဧကန်စင်စစ် ဤ (မူစာနှင့်ဟာရူန်နှစ်ဦးတို့မှာ ပဉ္စလက်ဆရာနှစ်ဦးသာ ဖြစ်ကြကုန်၏။ ၎င်းတို့နှစ်ဦးသည် မိမိတို့၏ ပဉ္စလက်အတတ်ဖြင့် အသင်တို့အားအသင်တို့၏တိုင်းပြည်မှ နှင်ထုတ်ကြရန်လည်းကောင်း၊ အသင်တို့၏ ကောင်းမွန် မြင့်မြတ်လှစွာသော(ဘာသာအယူဝါဒ) ယဉ်ကျေးမှုကို ဖျက်ဆီးပစ်ကြရန်လည်းကောင်း၊ ကြံရွယ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

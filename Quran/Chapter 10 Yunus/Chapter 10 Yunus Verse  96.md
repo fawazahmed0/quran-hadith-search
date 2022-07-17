@@ -710,6 +710,12 @@ Onezi, spryamo koito se potvŭrdi slovoto na tvoya Gospod, ne shte povyarvat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၆။	မှတ်သားကြလော့၊ အကြင်သူတို့နှင့်ဆန့်ကျင်၍ သင်၏ အရှင်သခင်၏ ဗျာဒိတ်စကာတော်ကို ပြည့်စုံလာ၏။ ထိုသူတို့သည် ယုံကြည်ကြမည်မဟုတ်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ် အကြင်သူတို့ကား ၎င်း တို့အပေါ်၌အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသောအသျှင်မြတ်၏ အမိန့်တော်သည် အတည်ဖြစ်ခဲ့လေပြီ၊ ထိုသူတို့သည်ကား သက်ဝင်ယုံကြည်ကြမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

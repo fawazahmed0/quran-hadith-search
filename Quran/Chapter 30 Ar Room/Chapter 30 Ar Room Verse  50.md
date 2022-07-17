@@ -710,6 +710,12 @@ I vizh sledite ot milostta na Allakh! Kak sŭzhivyava zemyata sled neĭnata sm�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅ဝ။	ထို့ကြောင့်သင်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ ကောင်းကြီးမင်္ဂလာတော်၏ အမှတ်အသားကို သေပြီးသောမြေ အား ပြန်ရှင်စေခြင်း၌ ကြည့်ရှုကြလော့၊ အရှင်မြတ်သည် သေသူတို့ကို ရှင်ပြန်ထမြောက်စေတော်မူသောအရှင်၊ အရာရာတို့ကို ပြုနိုင်စွမ်းတော်မူသောအရှင်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်သည် အလ္လာဟ်အရှင်မြတ်၏ကရုဏာတော်(တည်းဟူသော မိုးရွာသွန်းခြင်း)၏ အမှတ်လက္ခဏာများကို ကြည့်လေ။ ထိုအရှင်မြတ်သည် ပထဝီမြေကို ယင်းပထဝီမြေ (သွေ့ခြောက်) သေပြီးနောက် မည်သို့ ရှင်စေတော်မူခဲ့ပါသနည်း။ ဧကန်မလွဲ ထိုအရှင်မြတ်သည်ပင် သူသေတို့အား ရှင်စေတော်မူမည့် အရှင်ဖြစ်တော်မူ၏။ ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို စွမ်းဆောင်နိုင်တော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

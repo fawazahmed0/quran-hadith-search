@@ -710,6 +710,12 @@ Ako Allakh vi podkrepi, nyama koĭ da vi nadvie, a ako vi izostavi, koĭ sled 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆ဝ။	အလ္လာဟ်အသျှင်မြတ်သည် သင်တို့အား ကူညီစောင့်ရှောက်တော်မူပါလျှင် သင်တို့အား မည်သူမျှ မနိုင်နိုင်ပေ။ အသျှင်မြတ်သည် မိမိ၏အစောင့်အရှောက်တော်ကို သင်တို့ထံမှ ရုတ်သိမ်းတော် မူပါလျှင် သင်တို့ကို ကူညီနိုင်သူ အဘယ်သူရှိသနည်း။ ယုံကြည်သူတို့သည် အလ္လာဟ်အသျှင်မြတ် အားသာ ယုံကြည်ကိုးစားစေကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-သက်ဝင်ယုံကြည်သူ အပေါင်းတို့) အကယ၍ အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့အား ကူညီစောင်မတော်မူပါလျှင်၊ အသင်တို့အပေါ်၌ အောင်မြင် လွှမ်းမိုးမည့်သူဟူ၍ မည်သူတစ်ဦးတစ်ယောက်မျှ ရှိတော့မည်မဟုတ်ပေ။သို့ရာတွင် အကယ်၍သာ ထိုအရှင်မြတ်သည် အသင်တို့အား(ကူညီစောင်မတော်မူခြင်း မပြုဘဲ) စွန့်ပစ်ထားတော်မူပါလျှင်၊ထိုကဲ့သို့ စွန့်ပစ်ထားတော်မူပြီးနောက် အသင်တို့အား ကူညီစောင်မမည့်သူသည် အဘယ်သူ ရှိပါသေးသနည်း။ သို့ဖြစ်ရကား ယုံကြည်ခြင်းသဒ္ဓါတရား ထားရှိသော သူတို့သည်အလ္လာဟ်အရှင်မြတ် အပေါ်၌သာလျှင် ယုံကြည်စိတ်ချအားထားကြရမည်သာတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

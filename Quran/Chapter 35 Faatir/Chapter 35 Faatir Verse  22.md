@@ -710,6 +710,12 @@ I ne sa ravni zhivite i mŭrtvite. Allakh pravi chuvasht kogoto pozhelae. No ti 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	သူသေနှင့် သူရှင်တို့သည် ထပ်တူထပ်မျှမဟုတ်ချေ၊ မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် အလိုတော် ရှိသူအား ကြားနာစေတော်မူ၏၊ သင်တမန်တော်သည် သင်္ချိုင်းအတွင်း မြှုပ်နှံထားသောသူသေများကြားအောင် ဟောပြောနိုင်မည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသက်ရှင်သူများနှင့် သေသူများသည်လည်း မတူကြချေ။ ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် မိမိအလိုရှိတော်မူသေသူအား ကြားစေတော်မူ၏။ သို့ရာတွင် အသင်သည် သချုႋင်းများတွင် ရှိသူတို့အား ကြားစေနိုင်သည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

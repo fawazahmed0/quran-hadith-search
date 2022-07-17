@@ -710,6 +710,12 @@ I kazvat nevernitsite: “Nima sled kato stanem prŭst, nie i bashtite ni, nima 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၇။	သို့ပါလျက်မယုံကြည်သူတို့သည် ဤသို့ဆိုကြ၏၊ အကျွနု်ပ်တို့သည် မိမိတို့၏မိဘဘိုးဘွားကဲ့သို့ မြေမှုန့်အတိ ဖြစ်ပြီးမှ ရှင်ပြန်ထမြောက်ရဦးမည်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် "ကာဖိရ်" သွေဖည်ငြင်းပယ်ခဲ့ကြကုန်သောသူတို့က ကျွန်ုပ်တို့သည် မြေကြီးဖြစ်သွားခဲ့ကြသည့်အခါ အလားတူ ကျွန်ုပ်တို့၏အဘ၊ ဘိုးဘေး တို့သည်လည်း(မြေကြီးဖြစ်သွားခဲ့ကြသည့်အခါ) ကျွန်ုပ်တို့သည် (သင်္ချိုင်းတွင်းမှ) ထွက်စေခြင်းကို ခံကြရဦးမည်လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

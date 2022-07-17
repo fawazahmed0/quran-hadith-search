@@ -710,6 +710,12 @@ Rekokha: “Prechist si Ti! Nyamame drugo znanie, osven tova, na koeto Ti ni nau
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	သူတို့က အို အရှင်၊ အရှင်သည် ကုံလုံတော်မူပါ၏။ အရှင် သင်တော်မူသည်မှတပါး အခြားပညာ သည် ကျွန်ုပ်တို့၌မရှိပါ။ အရှင်သာလျှင် သိတော်မူသောအရှင်၊ အနန္တဉာဏ်တော်ရှင် ဖြစ်တော်မူပါ၏ ဟု လျှောက်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အပါးတော် စေတမန်များက (အလ္လာဟ်အရှင်မြတ်၏အထံတော်၌ ဤသို့လျှောက်ထားကြကုန်သည်) အိုအရှင်၊ ကိုယ် တော်အရှင်မြတ်သည် ချို့တဲ့ခြင်းအပေါင်းတို့မှ သန့်ရှင်း စင်ကြယ်တော်မူသော အရှင် ဖြစ်တော်မူပါသည်။ အရှင်သင်ကြား ပေးသနားတော်မူသော ပညာရပ်များမှအပ ကျွန်တော်မျိုးတို့အဘို့မှာ အခြားအသိတရား ဟူ၍ အလျင်းမရှိပါ။ ဧကန်မုချ ကိုယ်တော် အရှင်သည်သာလျှင် အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့ သိရှိတော်မူသောအရှင်၊ ကျိုးကြောင်းဆင်ခြင်တုံ တရားနှင့် ပြည့်စုံတော်မူသော အရှင် ဖြစ်တော်မူပါသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

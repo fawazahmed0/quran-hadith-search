@@ -710,6 +710,12 @@ Gospodŭt na nebesata i na zemyata, i na vsichko mezhdu tyakh, i Gospodŭt na iz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	အရှင်မြတ်သည် မိုးမြေနှင့် မိုးမြေစပ်ကြား ရှိရှိသမျှတို့၏ အရှင်သခင်၊ နေ့ထွက်ပေါ်လာရသောစက်ဝန်း၏ အရှင်သခင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအရှင်မြတ်သည်) မိုးကောင်းကင်များကိုလည်းကောင်း၊ ပထဝီမြေကိုလည်းကောင်း၊ ယင်းမိုးကောင်းကင်များနှင့် ပထဝီမြေနှစ်ခုလုံး၏အကြား၌ ရှိသမျှတို့ကိုလည်းကောင်း၊ ဖန်ဆင်းစိုးပိုင်တော်မူသောအရှင်၊ ထိုမှတစ်ပါး နေထွက်ရာအရပ်များကို ဖန်ဆင်းစိုးပိုင်တော်မူသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I spasikhme nego i Lut [i gi nasochikhme] kŭm zemyata, koyato blagoslovikhme za
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၁။	ငါအရှင်မြတ်သည် တမန်တော်အေဗရာဟမ်နှင့် တမန်တော်လွတ်တို့အား ကယ်နှုတ်တော်မူ၍ လူသားအပေါင်း တို့ကို ငါအရှင်မြတ် ကောင်းကြီးမင်္ဂလာပြုသောနယ်မြေသို့ ယူဆောင်လာခဲ့တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့အပြင် ငါအရှင်မြတ်သည် ထိုအိဗ်ရာဟီမ်အားလည်းကောင်း၊ လူ(တ်) အားလည်းကောင်း၊ အကြင်နယ်မြေသို့ (စေလွှတ်တော်မူခြင်းအားဖြင့်) ကယ်တင်တော်မူခဲ့၏။ ငါအရှင်မြတ်သည် ယင်းနယ်မြေ ကမ္ဘာသူ၊ကမ္ဘာသားတို့အဖို့ ကျက်သရေမင်္ဂလာ၊ သုခချမ်းသာများ၊ ရှိတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

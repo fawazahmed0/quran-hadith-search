@@ -710,6 +710,12 @@ I oprosti bashta mi! Toĭ naistina e ot zabludenite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၆။	အကျွနု်ပ်၏ ဖခင်ကို အပြစ်လွှတ်တော်မူပါ၊ သူသည် အယူမှားများသူတို့အထဲမှ ဖြစ်ပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အရှင်မြတ်သည် ကျွန်တော်မျိုး၏ဖခင်အား လွတ်ငြိမ်းချမ်းသာခွင့် ပေးသနားတော်မူပါ။ ဧကန်စင်စစ် ၎င်းမှာ လမ်းလွဲသူတို့တွင် အပါအဝင် ဖြစ်ပါသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Vizh kak predpochetokhme edni nad drugi, a otvŭdniyat zhivot e po-velik po step
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	တမန်တော် ငါသည် အချို့သောသူကို အချို့သောသူထက် မည်သို့သာလွန်နှစ်သက်တော်မူသည်ကို ကြည့်ရှု ကြလော့။ အမှန်မှာ နောင်တမလွန်ဘဝသည် သာ၍ ကြီးကျယ်မြင့်မြတ်၍ လိုလားဖွယ်ကောင်းလှ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် ၎င်းတို့အနက် အချို့ကိုအချို့ထက် မည်သို့မည်ပုံ ထွတ်မြတ်စေတော်မူခဲ့ သည်ကိုအသင်သည်ရှုပါလေ။ အမှန်စင်စစ် နောင်တမလွန်ဘဝသည်အဆင့်အတန်းအားဖြင့်လည်းကောင်း၊ ထွတ်မြတ်မှုအားဖြင့်လည်းကောင်း၊ အလွန် ကြီးကျယ်လှပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

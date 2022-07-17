@@ -710,6 +710,12 @@ I go prodadokha na niska tsena, za broeni srebŭrnitsi. I se otnesokha spryamo n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	သူတို့သည် ယူစွတ်(ဖ်)အား ရွှေဒင်္ဂါးအချို့ဖြစ်သောအဖိုးအနည်းငယ်နှင့် ရောင်းစားကြ၏။ သူတို့သည် သူ့အား အဖိုးမထားကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ထိုနောင်တော်များသည် ထိုယူဆွဖ်အား အနည်းငယ်မျှသောအဖိုး ဒစ်ရ်ဟမ် ငွေဒင်္ဂါးများဖြင့်ရောင်းချခဲ့ကြလေသည်။ အမှန်မှာ မူကား ၎င်းတို့သည် ယင်းယူဆွဖ်အား မလိုလားသူများပင် ဖြစ်ခဲ့ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

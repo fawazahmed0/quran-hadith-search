@@ -710,6 +710,12 @@ I kogato doĭdokha pri Sulaĭman, toĭ reche: “Nima shte mi pomognete s imo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	ထို့ကြောင့်ဘုရင်မ၏ သံတမန်များသည် စိုလိုင်မာန်ထံသို့ ရောက်သောအခါ ပြည့်ရှင်ဘုရင်က အို--အမတ်တို့၊ သင်တို့သည် အကျွန်ုပ်အား ဥစ္စာပစ္စည်းနှင့်ထောက်ပ့ံမည်ကြံကြသလော၊ သို့သော်အလ္လာဟ်အရှင်မြတ်က အကျွန်ုပ်အား ပေးသနားတော်မူသောအရာတို့သည် သင်တို့အား အလ္လာဟ်အရှင်မြတ်ပေးသနားတော်မူသော အရာများထက် သာလွန်ကောင်းမြတ်ချေ၏၊ သို့သော်အကျွန်ုပ်မဟုတ်ပဲ သင်တို့သာလျှင် မိမိတို့၏လက်ဆောင် ပစ္စည်းကို အထင်ကြီးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ထို(သံတမန်တို့)သည် စုလိုင်မာန်၏ထံသို့ ရောက်ရှိခဲ့လေသော် ထိုစုလိုင်မာန်က(ဤသို့)ပြောကြားခဲ့၏။အသင်တို့သည် ငါ့အား ပစ္စည်းဥစ္စာဖြင့် ကူညီလိုကြလေသလော။စင်စစ် ငါ့အား အလ္လာဟ်အရှင်မြတ် ချီးမြှင့်ပေးသနားထားတော်မူသည်များမှာ ထိုအရှင်မြတ်က အသင်တို့အား ချီးမြှင့်ပေးသနား ထားတော်မူသည်တို့ထက်ပင် ပိုမို၍ ကောင်းမြတ်လှပေသည်။ စင်စစ်မှာကား အသင်တို့သည်ပင်လျှင် မိမိတို့၏လက်ဆောင်ပဏ္ဏာနှင့် မော်ကြွားလျက် ရှိကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

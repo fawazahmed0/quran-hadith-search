@@ -710,6 +710,12 @@ Nima ochakvat drugo osven Chasŭt da doĭde pri tyakh vnezapno, bez da usetyat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၆။	သူတို့သည် မိမိတို့မသိမမြင်ပဲ ရုတ်တရက်ရှောင်တခင်ကျရောက်လာမည့်အချိန်တော်ကြီးမှတပါး အခြားတစ်စုံ တစ်ခုမျှ စောင့်ဆိုင်းနေကြမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် မိမိတို့ထံ "ကိယာမတ်" ရှင်ပြန်ထမည့်အချိန်ကာလ ၎င်းတို့ အမှုမဲ့အမှတ်မဲ့ရှိနေခိုက် ရုတ်တရက် ရှောင်တခင် ရောက်လာရန်ကိုသာလျှင် စောင့်စား၍ နေကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

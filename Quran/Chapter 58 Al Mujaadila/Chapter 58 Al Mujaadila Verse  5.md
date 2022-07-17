@@ -710,6 +710,12 @@ Koito se protivyat na Allakh i na Negoviya Pratenik, shte bŭdat slomeni, kakto 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	အလ္လာဟ်အရှင်မြတ်နှင့် အရှင်မြတ်၏ တမန်တော်ကို တော်လှန်သောသူတို့သည် သူတို့အလျင်တော်လှန်သော လူတို့နည်းတူ ပြာမှုန့်အထိဖျက်ဆီးနှိမ့်ချခြင်းကို ခံကြရလတ့ံ၊ အကြောင်းမူကား ငါသည် ထင်ရှားပေါ်လွင်သော နိမိတ်လက္ခဏာတော်များကို ချပေးသနားတော်မူပြီ၊ ထို့ကြောင့်မိစ္ဆာဒိဋ္ဌိတို့သည် အလွန်ရှက်ဖွယ်ဖြစ်သောရှုံ့ချခြင်း အပြစ်ဒဏ်တော်ကို ခံစားကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်အား လည်းကောင်း၊ ထိုအရှင်မြတ်၏ရစူလ်တမန်တော်မြတ်အား လည်းကောင်း၊ ကဏ္ဍက ပြုလုပ်ကြသောသူတို့ကား မိမိတို့အလျင်ရှိခဲ့ကြသော ရှေးသူဟောင်းတို့ ဂုဏ်ရည်သေးသိမ်စေခြင်း ခံခဲ့ကြရသည့်နည်းတူ ဂုဏ်ရည် သေးသိမ်စေခြင်းကို ခံကြရပေမည်။အမှန်စင်စစ်သော်ကား ငါအရှင်မြတ်သည် ထင်ရှားလှစွာသော သက်သေ လက္ခဏာတော်များကို ချပေးတော်မူခဲ့ပြီးဖြစ်၏။၎င်းပြင် "ကာဖိရ်" သွေဖည်ငြင်းပယ်သောသူတို့၌ ဂုဏ်ရည်ပျက်ပြားစေသော ပြစ်ဒဏ်သည် ရှိပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Toĭ razpukva zazoryavaneto i Toĭ sŭzdade noshtta za pokoĭ, a slŭntseto i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၆။	အသျှင်မြတ်သည် နံနက်အလင်းရောင်ကို ဖန်ဆင်းတော်မူ၏။ ဆိတ်ငြိမ်သောညကိုလည်း ဖန်ဆင်း တော်မူ၏။ နေနှင့်လကို အချိန်ကာလ ရေတွက်ဖို့ရာ စီရင်ထားတော်မူ၏။ ဤအရာများသည် အနန္တ တန်ခိုးတော်သခင်၊ အနန္တဉာဏ်တော်ရှင်၏ စီမံခန့်ခွဲမှုဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအရှင်မြတ်သည် ညဉ့်၏အမိုက်မှောင်အတွင်းမှ) နံနက်မိုးသောက်ချိန်ကိုခွဲ၍ ထုတ်တော်မူသောအရှင်ဖြစ်တော်မူ၏။ ၎င်းပြင် ထိုအရှင်မြတ်သည်ပင်လျှင်ညဉ့်အချိန်ကို(လူသတ္တဝါအပေါင်းတို့) အနားယူရန် ပြုလုပ်ထားတော်မူ၏။ နေနှင့်လတို့ကိုလည်း(နေ့ရက်လများ)တွက်ချက်ရန်အတိုင်းအတာနှင့် ပြုလုပ်ထားတော်မူသည်။ ဤသည် တန်ခိုးအာနုဘော်နှင့်ပြည့်စုံတော်မူသောအရှင်၊ အလုံးစုံတို့ကို အကြွင်းမဲ့သိရှိတော် မူသောအရှင်မြတ်၏ စီမံခံ့ခန့်ခွဲမှုပင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

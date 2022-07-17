@@ -710,6 +710,12 @@ Ot kogoto bŭde otkloneno v tozi Den, Toĭ go e pomilval. Tova e yavnoto spasen
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	အကြင်သူသည် ထိုနေ့တော်ကြီး၌လည်းကောင်း၊ လက်စားချေခြင်းမှ လွတ်ကင်း၏။ ထိုသူကို အလ္လာဟ်အသျှင်မြတ် အမှန်ပင် ကောင်းကြီးမင်္ဂလာ ပေးသနားတော်မူ၏။ ထိုမင်္ဂလာသည် ထင်ရှား အောင်မြင်ခြင်းဖြစ်ပေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သူမဆို ၎င်း၏အပေါ်မှ ထို(ကိယာမတ်ရှင်ပြန်မည့်)နေ့တွင် ယင်းအပြစ်ဒဏ်သည် ဖယ်ရှားခြင်းခံရလျှင် မလွဲဧကန် ထိုအရှင်မြတ်သည် ၎င်း၏အပေါ်ဝယ် အလွန်တရာမျှပင် သနားကြင်နာ ညှာတာ တော်မူပြီး ဖြစ်ချေသည်။အမှန်စင်စစ် ဤ(ကဲ့သို့ အပြစ်ဒဏ်ဖယ်ရှားခြင်းနှင့် သနားကြင်နာမှုကို ခံစားရခြင်း)သည်ပင်လျှင် ထင်ရှားစွာသောအောင်မြင် မှုပင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

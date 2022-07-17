@@ -710,6 +710,12 @@ i v roditelya [Adam], i v negovoto potomstvo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။ တဖန်မိဘနှင့် သားသမီးတို့ကို နှောင်ဖွဲ့ထားသောချစ်ကြိုးနွယ်ကိုလည်း ငါသက်သေထူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (ငါအရှင်မြတ်သည်) ဖခင်ကိုလည်းကောင်း၊ ထိုဖခင်က မွေးဖွားသည့်(သားသမီး)ကို လည်းကောင်း၊ သက်သေထူတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

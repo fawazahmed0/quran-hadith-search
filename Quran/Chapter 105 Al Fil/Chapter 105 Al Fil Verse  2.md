@@ -710,6 +710,12 @@ Ne prevŭrna li Toĭ kovarstvoto im v zabluda
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။ သင်၏ အရှင်သခင်သည် သူတို့၏ သစ္စာမဲ့သောအကြံအစည်ကို ဖျက်ဆီးတော်မူလိုက်သည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် ၎င်းတို့၏ လျှို့ဝှက်ကြံစည်မှုကို ပျက်ပြားစေတော်မူခဲ့သည် မဟုတ်လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

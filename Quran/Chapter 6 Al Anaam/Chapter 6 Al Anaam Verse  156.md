@@ -710,6 +710,12 @@ Da ne kazvate: “Pisanieto be nizposlano samo na dve obshtnosti dopredi nas i k
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၆။	သင်တို့သည် ကျမ်းတော်ကို အကျွနု်ပ်တို့ လူမဖြစ်မှီ လူမျိုးနှစ်မျိုးအားသာ ပေးသနားတော်မူ၏။ အကျွနု်ပ်တို့သည် သူတို့ရွတ်ဖတ်သောကျမ်းတော်များကို အမှန်ပင် မသိကြပေဟု မပြောနိုင်ရန်သော် လည်းကောင်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့က (ကိယာမတ်၊ ရှင်ပြန်ထမည့်နေ့တွင်) ကျွန်တော်မျိုးတို့အလျင်ရှိခဲ့သော(ယဟူဒီနှင့်ခရစ်ယာန်)အုပ်စုနှစ်ခုအပေါ်၌သာလျှင် ကျမ်းဂန်များ ကျရောက်လာလေသည်။ ကျွန်တော်မျိုးတို့မူကား ၎င်းတို့ဖတ်ကြားလေ့လာသည်(များ)ကို (လည်း)မသိနားမလည်ခဲ့ကြချေ ဟု မပြောနိုင်ကြရန်(ငါအရှင်မြတ်သည် ဤကျမ်းတော်မြတ်ကို ချပေး သနားတော်မူခဲ့လေသတည်း။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

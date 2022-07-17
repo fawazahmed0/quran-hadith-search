@@ -710,6 +710,12 @@ Tvoyat narod go vze za lŭzha [Korana], vŭpreki che toĭ e istinata. Kazhi: �
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၆။	အို-မိုဟမ္မဒ် ကုရ်အာန်ကျမ်းတော်မြတ်သည် တရားမှန်ဖြစ်သော်လည်း သင်၏အမျိုးသားတို့သည် ထိုကျမ်းတော်ကို မယုံကြည် ပစ်ပယ်ကြ၏။ ဟောကြားလော့။ ဟယ်-အချင်းတို့ ငါသည် သင်တို့အား စောင့်ထိန်းရသည်မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် (အို-နဗီတမန်တော်) ထိုအရာကိုအသင်၏အမျိုးသားများက မဟုတ်မမှန်ဟုငြင်းပယ် ခဲ့ကြကုန်၏။ စင်စစ်သော်ကား ၎င်း(အပြစ်ဒဏ်)သည် အမှန်ပင်(သက်ရောက်မည်သာ)တည်း။ (အို-နဗီတမန်တော်) အသင်သည်(၎င်းတို့အား) ငါသည် အသင်တို့အပေါ် ကြီးကြပ်အုပ်ထိန်းသူမဟုတ်ပါ ဟု ပြောကြားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

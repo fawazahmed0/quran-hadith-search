@@ -710,6 +710,12 @@ v Denya, kogato shte bŭdat izyaveni taĭnite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၊၁၀။ ထိမ်ချန် လျှို့ ဝှက်ထားသောအကြံအစည်များကို ထင်ရှားပေါ်လာစေသော စစ်ကြောသောနေ့တော်ကြီးဝယ် လူသား၌ တန်ခိုးအာဏာသော်လည်းကောင်း၊ ကူညီမည့်သူသော်လည်းကောင်း၊ လုံးဝရှိမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 လျှို့ဝှက်ချက်များ စစ်ဆေးစူးစမ်းခြင်း ခံရသောနေ့တွင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

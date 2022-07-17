@@ -710,6 +710,12 @@ V Denya, kogato Toĭ shte gi sŭbere, syakash sa se zabavili samo edin chas ot 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	အရှင်မြတ်သည် သူတို့အားလုံးကို အတူတကွစုဆောင်းထားတော်မူသောနေ့တော်ကြီး၌ သူတို့သည် တစ်နာရီ မျှသာနေထိုင်ကြသည်ဟု ထင်မှတ်ကြမည်။ အချင်းချင်းတယောက်ကို တယောက်က မှတ်မိကြမည်၊ အလ္လာဟ် အရှင်မြတ်ကို မျက်ဝါးထင်ထင်ဖူးမြင်ရမည်ကို မယုံကြည်၊ လမ်းပြခြင်းမခံရသူတို့သည်ကား မုချဧကန်ပျက်စီး ဆုံးရှုံးရမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် (အသင်သည် ၎င်း တို့အား) အကြင်နေ့ကို သတိပေးပါလေ။ ထိုနေ့တွင် ထိုအရှင်မြတ်သည် ၎င်း တို့အားစုရုံးတော်မူပေမည်။ ထိုအခါ ၎င်း တို့သည်(မိမိတို့မှာ လောကတွင်) နေ့၏တစ်နာရီခန့်မျှသာ နေခဲ့ကြရသည်(ဟု ထင်မှတ်ကြပေမည်)။ ၎င်း တို့သည် အချင်းချင်း တစ်ဦးကိုတစ်ဦးလည်းမှတ်မိကြပေမည်။ (သို့သော်ငြားလည်း တစ်ဦးသည်တစ်ဦးအဖို့အသုံးကျမည် မဟုတ်ချေ)။ အလ္လာဟ်အရှင်မြတ်နှင့် တွေ့ဆုံခြင်းကို မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်သောသူတို့သည် ဧကန်မလွဲကျိုးယုတ်ဆုံးရှုံးကြခဲ့လေပြီတကား။ စင်စစ်သော်ကား ၎င်း တို့သည် တရားလမ်းမှန်ကို ရရှိအံ့သောသူများ မဟုတ်ခဲ့ကြပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

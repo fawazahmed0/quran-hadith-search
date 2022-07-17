@@ -710,6 +710,12 @@ V Denya, kogato Toĭ shte gi sŭbere vsichki i shte reche na angelite: “Tezi 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄ဝ။	လူသားအပေါင်းတို့ကို စုဆောင်းတော်မူသောနေ့တော်ကြီး၌ အရှင်မြတ်သည် ကောင်းကင်တမန်တို့အား ဤ လူသားတို့သည် သင်တို့ကိုးကွယ်ဝတ်ပြုကြလေသလောဟု မေးမြန်းတော်မူလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အကြင်နေ့တွင် ထိုအရှင်မြတ်သည်၎င်းတို့အားလုံးကို စုရုံးတော်မူပြီးနောက် မလာအိကဟ်ကောင်းကင်တမန်တို့အား ဤသူတို့သည် အသင်တို့အားဆည်းကပ်ကိုးကွယ်လျက် ရှိခဲ့ကြသည်လော ဟု မေးမြန်းတော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

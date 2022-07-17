@@ -710,6 +710,12 @@ Allakh e, Koĭto sŭzdade za vas dobitŭka - nyakoi da yazdite, drugi da yadete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၉။	သင်တို့သည် အချို့တိရိစ္ဆာန်များကို စီးနင်းရန် အချို့ကို အာဟာရအဖြစ်ဖြင့် မှီဝဲစားသုံးရန်အလို့ငှာ အခြေ လေးချောင်းရှိ တိရိစ္ဆာန်များကို အလ္လာဟ်အရှင်မြတ်ကို ဖန်ဆင်းတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည်ပင် အသင်တို့အဖို့ ခြေလေးချောင်းတိရစ္ဆာန်(များဖြစ်သော ကုလားအုပ်၊ နွား၊ သိုး၊ ဆိတ်)တို့ကို ဖန်ဆင်းတော်မူခဲ့၏။ အသင်တို့သည် ၎င်းတို့အနက် အချို့ကို စီးနင်းကြကုန်၏။ ထို့ပြင် အသင်တို့သည် ၎င်းတို့အနက် အချို့ကို စားသုံးကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

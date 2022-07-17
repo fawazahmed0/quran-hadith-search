@@ -710,6 +710,12 @@ I kogato im se reche: “Razdavaĭte ot onova, koeto Allakh vi e dal!”, never
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	ထို့အပြင်ထိုသူတို့အား အချင်းတို့၊ သင်တို့၏ ကျေးဇူးတော်သခင်ချပေးသနားတော်မူသောစည်းစိမ်ဥစ္စာများ မှ ပေးကမ်းစွန့်ကြဲကြလော့ဟု ပြောသောအခါ အယူလွဲသူတို့က အယူမှန်သူတို့အား ပြန်ပြောကြသည်မှာ အကြင်သူတို့ကို အလ္လာဟ်အရှင်မြတ်အလိုတော်ရှိပါလျှင် ကျွေးမွေးနိုင်ပါလျက် ထိုသူတို့ကို ငါတို့ကျွေးမွေး ရမည်လော၊ သင်တို့၏အယူဝါဒသည် အမှားကြီးမှားပေစွ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့အား အသင်တို့သည် မိမိတို့အား အလ္လာဟ်အရှင်မြတ် ချီးမြှင့်ပေးသနားတော်မူခဲ့သည်များအနက်မှ သုံးစွဲ လှူဒါန်းကြလေကုန်ဟု ပြောဆိုသောအခါ "ကာဖိရ်" သွေဖည်ငြင်းပယ်သောသူတို့က "အလ္လာဟ်အရှင်မြတ်သည် အကယ်၍ အလိုရှိတော်မူပါလျှင် ကိုယ်တော်တိုင် ကျွေးမွေးတော်မူမည်ဖြစ်သော သူတို့အား ကျွန်ုပ်တို့က ကျွေးမွေးကြရမည်လော၊ အသင်တို့သည် ထင်ရှားစွာသော လမ်းမှားမှု၌ ရှိနေကြသည်" ဟု မုအ်မင်န် သက်ဝင်ယုံကြည်သူတို့အား ပြောဆို(ဖြေကြား)ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

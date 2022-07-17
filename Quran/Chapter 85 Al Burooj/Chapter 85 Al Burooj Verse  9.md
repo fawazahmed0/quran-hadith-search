@@ -710,6 +710,12 @@ Komuto prinadlezhi vladenieto na nebesata i na zemyata. Allakh na vsyako neshto 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။ အလ္လာဟ်အရှင်မြတ်သည် မိုးကောင်းကင်နှင့် ကမ္ဘာမြေကြီးကို စိုးပိုင်တော်မူ၏၊ အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့ သိမြင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မိုးကောင်းကင်များကိုလည်းကောင်း၊ ကမ္ဘာမြေကိုလည်းကောင်း၊ စိုးမိုးအုပ်ချုပ်မှု အာဏာသည် ထိုအလ္လာဟ်အရှင်မြတ်၌သာ ရှိပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

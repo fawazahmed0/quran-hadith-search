@@ -710,6 +710,12 @@ Kazakha: “O, Nukh, ti sporeshe s nas i vse poveche ni osporvash, donesi ni ono
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	သူတို့က အို-နူဟို၊ သင်သည် ငါတို့နှင့်ငြင်းခုံမှုကို ပြုပြီး ငြင်းခုံမှုကို ပွားများစေပြီး သင်သည် အမှန်ဆိုသူ ဖြစ်လျှင် သင်ခြိမ်းခြောက်သောအပြစ်ဒဏ်တော်ကို ငါတို့အပေါ်သို့ ရောက်စေလော့ဟု ပြောဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ အမျိုးသားများက ဤသို့) ပြောဆိုခဲ့ကြလေသည်။ အို-နူဟ်၊ ဧကန်မလွဲ အသင်သည် ကျွန်ုပ်တို့နှင့်အငြင်းအခုံ ပြုခဲ့လေသည်။ တစ်ဖန် အသင်သည်(ယင်းကဲ့သို့)ကျွန်ုပ်တို့နှင့် အငြင်းအခုံ ပြုခြင်းကို အလွန်များမြောင် (ကျယ်ပြန့်)စေခဲ့ပြန်၏။ သို့ဖြစ်ပေရာ အကယ်၍ အသင်သည်သစ္စာဝါဒီ မှန်ကန်စွာပြောဆိုသူဖြစ်ပါလျှင် ကျွန်ုပ်တို့အား ခြိမ်းခြောက်လျက်ရှိသော ပြစ်ဒဏ်ကို အသင်သည် ကျွန်ုပ်တို့ထံယူဆောင်ခဲ့လော့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

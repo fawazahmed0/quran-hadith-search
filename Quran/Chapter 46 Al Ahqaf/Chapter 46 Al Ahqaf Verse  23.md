@@ -710,6 +710,12 @@ Reche: “Znanieto e samo pri Allakh, a az vi opovestyavam samo onova, s koeto s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	တမန်တော်က ပြန်ပြောသည်မှာ နေ့တော်ကြီးဆိုက်ရောက်လာမည့်အချိန်ကို အလ္လာဟ်အရှင်မြတ်သာလျှင် သိတော်မူ၏၊ ငါသည် မိမိအား ပေးလိုက်တော်မူသောတရားတော်ကို သင်တို့အား ဟောကြား၏၊ သို့သော် သင်တို့သည် အသိပညာကင်းမဲ့သောသူများဖြစ်ကြောင်းကို ငါမြင်ရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနောင်တော်က(ဤသို့)ပြောကြားခဲ့လေ၏။(အပြစ်ဒဏ်နှင့် စပ်လျဉ်း၍ တိကျသော) အသိပညာကား အလ္လာဟ်အရှင်မြတ်အထံတော်၌ သာရှိ၏။ စင်စစ်သော်ကား ငါသည် အသင်တို့ထံ အကြင်အမိန့်တော်များကိုသာ ပို့ဆောင်၏။ငါသည် ယင်းအမိန့်တော်များနှင့်တကွ စေလွှတ်ခြင်းခံခဲ့ရလေ၏။ သို့ရာတွင် ငါသည် အသင်တို့အား အသိပညာကင်းမဲ့သော အမျိုးသားများအဖြစ် တွေ့မြင်ရပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

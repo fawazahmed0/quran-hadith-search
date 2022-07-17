@@ -710,6 +710,12 @@ Negova e vlastta na nebesata i na zemyata. Toĭ sŭzhivyava i Toĭ umŭrtvyava
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	အရှင်မြတ်သည် အထက်ကောင်းကင်ဘုံနှင့် အောက်ပထဝီမြေကြီးကို အစိုးရတော်မူ၏၊ အရှင်မြတ်သည် အသက်ရှည်ခြင်း၊ သေခြင်းကို ပေးသနားတော်မူ၏၊ အရာရာကို ပြုစွမ်းနိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မိုးကောင်းကင်များကို လည်းကောင်း၊ ကမ္ဘာမြေကိုလည်းကောင်း၊ စိုးမိုးအုပ်ချုပ်မှုအာဏာသည် ထိုအရှင်မြတ်၌သာရှိ၏။ ထိုအရှင်မြတ်သည်ပင် အသက်ရှင်စေတော်မူ၏။ ထိုနည်းတူစွာ ထိုအရှင်မြတ်သည်ပင် အသက်သေဆုံးစေတော်မူ၏။ ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည်ပင် အရာခပ်သိမ်းတို့ကို စွမ်းနိုင်တော်မူသောအရှင်၊ ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

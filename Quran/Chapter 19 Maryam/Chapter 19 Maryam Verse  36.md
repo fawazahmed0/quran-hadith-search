@@ -710,6 +710,12 @@ WE ‘INNALL-LLAHE RABBI WE REBBUKUM FA’BUDUHU HADHA SIRATUN MUSTEKIMUN
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	ထို့အပြင်မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် အကျွနု်ပ်၏ အရှင်သခင်နှင့် သင်တို့၏ အရှင်သခင် ဖြစ်တော်မူ၏။ ထို့ကြောင့်အရှင်မြတ်ကို ခဝပ်ကိုးကွယ်ကြလော့။ ဤသည်သာလျှင် လမ်းမှန်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ဧကန်အမှန် အလ္လာဟ်အရှင်မြတ်သည်ကျွန်ုပ်အားလည်း ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်၊ အသင်တို့အားလည်း ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်ပင်၊ဖြစ်တော်မူပေသည်။ သို့ဖြစ်ပေရာ အသင်တို့သည် ထိုအရှင်မြတ်အားသာလျှင် ခဝပ်ကိုးကွယ်ကြလေကုန်။ ဤသည်သာလျှင် ဖြောင့်မတ်သော တရားလမ်းပင်ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

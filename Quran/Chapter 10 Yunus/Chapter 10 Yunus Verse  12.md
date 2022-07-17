@@ -710,6 +710,12 @@ I ako beda zasegne chovek, toĭ Ni zove na khŭlbok ili sednal, ili prav. A sht
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	အကယ်၍ လူသားသည် ဘေးဒုက္ခတွေ့ကြံုသောအခါ ငါ့အထံတော်၌ လျောင်း၍သော်လည်းကောင်း၊ ထိုင်၍ သော်လည်းကောင်း၊ ရပ်၍သော်လည်းကောင်း၊ ဆုတောင်းပန်ထွာ၏။ သို့သော်ငါသည် သူ့ကို ဒုက္ခမှ ကယ်နှုတ် တော်မူသောအခါ သူသည် ငါ့အား သူ့ကို ဘေးမှ ကယ်နှုတ်တော်မူရန် ဆုမတောင်းလေသကဲ့သို့ သွားမြဲလမ်းကို သွား၏။ တရားတော်ကို ကျူးလွန်သောသူတို့သည် မိမိတို့ကျင့်ကြံမှုများကို ဤသို့မင်္ဂလာရှိသည်ဟု ထင်မှတ် ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် လူသား၌ ဘေးဒုက္ခ(အချို့) ဆိုက်ရောက်လာသောအခါ ၎င်း သည် ငါအရှင်မြတ်အား လဲလျောင်းလျက်ဖြစ်စေ၊ ထိုင်လျက်ဖြစ်စေ မတ်တတ်ရပ်လျက်ဖြစ်စေ ဟစ်ခေါ်လေတော့၏။ တစ်ဖန် ငါအရှင်မြတ်သည် ၎င်း ၏ဘေးဒုက္ခ ကို ကင်းဝေးပပျောက်စေတော်မူခဲ့သည်ရှိသော် ၎င်း သည်ငါအရှင်မြတ်အား မိမိ၌ ဆိုက်ရောက်ခဲ့သော ဘေးဒုက္ခအတွက်(တစ်ကြိမ်တစ်ခါမျှ) ဟစ်ခေါ်ခြင်း မပြုခဲ့ဘိသကဲ့သို့ပင် ဖြစ်သွားပြန်၏။ ဤကဲ့သို့ပင် စည်းမဲ့ကမ်းမဲ့ ပြုလုပ်သော သူတို့အမြင်၌ ၎င်း တို့ ပြုလုပ်လျက် ရှိခဲ့သည်များသည် လှပတင့်တယ်စွာ တွေ့မြင်ရလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

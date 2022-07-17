@@ -710,6 +710,12 @@ Allakh vi nastavlyava nikoga da ne povtorite podobno neshto, ako ste vyarvashti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	သင်တို့သည် ယုံကြည်သူအမှန်ဖြစ်ကြလျှင်၊ ဤကဲ့သို့သောမတရားမှုကို ထပ်မံမကျူးလွန်ဖို့ရာ အလ္လာဟ်အရှင် မြတ်သည် သင်တို့အား သြဝါဒပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍ အသင်တို့သည် ‘မုအ်မင်န်’ သက်ဝင် ယုံကြည်သူများ ဖြစ်ကြပါလျှင် အသင်တို့သည် ယင်းကဲ့သို့သော အပြုအမူမျိုးကို နောက်ထပ်၍ မပြုရန် အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့အား ဆုံးမတော် မူလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

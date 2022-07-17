@@ -710,6 +710,12 @@ I kogato chetesh Korana, spuskame nevidima zavesa mezhdu teb i onezi, koito ne v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	တမန်တော်၊ သင်သည် ကုရ်အာန်ကျမ်းတော်မြတ်ကိ ရွတ်ဖတ်သောအခါ ငါသည် သင်နှင့် နောင်ဘဝကို မယုံကြည်သူတို့အလယ်ကြားတွင် ဖုံးကွယ်ထားသောအကာအဆီးကို စီရင်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (အို-နဗီတမန်တော်)အသင်သည် ကုရ်အာန်ကျမ်းတော်မြတ်ကို ရွတ်ဖတ်သရဇ္ဈာယ်သောအခါငါအရှင်မြတ်သည် အသင်နှင့်နောင်တမလွန်ဘဝကို မယုံကြည်သောသူတို့၏အကြားဝယ် လျှို့ဝှက်လျက်ရှိသော အကာအဆီးကို ချထားတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

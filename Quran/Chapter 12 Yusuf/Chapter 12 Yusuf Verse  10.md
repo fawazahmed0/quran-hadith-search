@@ -710,6 +710,12 @@ Edin ot tyakh reche: “Ne ubivaĭte Yusuf, a go khvŭrlete na dŭnoto na klade
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	အခြားနောင်တော်တစ်ဦးက ယူစွတ်(ဖ်)ကို မသတ်ပါနှင့်။ သို့သော်သင်တို့သည် သူ့အား တစုံတခုပြရမည်ဆိုသော် သူ့ကို တွင်းနက်တခုထဲသို့ ပစ်ချပါ။ ခရီးသည်အချို့သည် သူ့အား တွေ့လတ့ံဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့အနက် ပြောဆိုသူတစ်ဦးက (ဤသို့)ပြောဆိုပြန်၏။ (အချင်းတို့) အသင်တို့သည် ယူဆွဖ်အား မသတ်ကြပါလေနှင့်။ သို့ရာတွင် အကယ်၍ အသင်တို့သည် (တစ်စုံတစ်ရာကိုမုချ) ပြုလုပ်ကြတော့မည့်သူများဖြစ်ကြပါလျှင် အသင်တို့သည် ၎င်းအား ရေတွင်း၏ စောက်နက်ထဲသို့ ပစ်ချကြလေကုန်။၎င်းအား ခရီးသည်စုအနက်မှ တစ်ဦးဦးသည် (ထိုရေတွင်းထဲမှ)ဆယ်ယူသွားပေလိမ့်မည် ဖြစ်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

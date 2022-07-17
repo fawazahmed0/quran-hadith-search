@@ -710,6 +710,12 @@ I ne bŭrzaĭ protiv tyakh! Nie im otbroyavame dnite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၄။	ထို့ကြောင့်အို-မိုဟမ္မဒ်၊ သူတို့ကို အဆောတလျင်အပြစ်ဒဏ်ထိဖို့ကို မလိုလားလင့်၊ ငါသည် သူတို့အား အချိန်သတ်မှတ်ပေးထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်သည် ယင်း(သွေဖည်ငြင်းပယ်သောသူ)တို့နှင့်ပတ်သက်၍ အလျင်မလိုလေနှင့်။ ငါအရှင်မြတ်ကိုယ်တော်တိုင်ပင် ၎င်းတို့(၏အပြုအမူများ)ကို ရေတွက်လျက် ရှိနေတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

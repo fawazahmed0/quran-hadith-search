@@ -710,6 +710,12 @@ Da, vŭznese go Allakh pri Sebe si. Allakh e vsemogŭsht, premŭdŭr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၈။	သို့သော် အလ္လာဟ်အသျှင်မြတ်သည် အထံတော်သို့ မြှင့်တင်တော်မူ၏။ အလ္လာဟ်အသျှင်မြတ်သည် အနန္တတန်ခိုးတော်သခင်၊ အနန္တဉာဏ်တော်ရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသို့အလျင်းမဟုတ်ပေ။ စင်စစ်မှာကား အလ္လာဟ်အရှင်မြတ်သည် ထိုနဗီတမန်တော်အီစာအား မိမိအထံတော်သို့ ပင့်ချီမယူတော်မူခဲ့လေသည်။ စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အလွန်အင်အား ကြီးမားတော်မူသောအရှင်၊ ဉာဏ်ပညာနှင့် အလွန်ပြည့်စုံတော် မူသောအရှင်၊ ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

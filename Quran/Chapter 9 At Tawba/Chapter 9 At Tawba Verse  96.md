@@ -710,6 +710,12 @@ Kŭlnat vi se, za da bŭdete dovolni ot tyakh. No dori vie da ste dovolni ot tya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၆။	သင်တို့သည် သူတို့ကို လက်ခံစေစိမ့်ငှာ သူတို့သည် သင်တို့အား ကျိန်ပြောသည်၊ သင်တို့သည် သူတို့ကို လက်ခံငြားသော်လည်း အလ္လာဟ်အရှင်မြတ်သည် ဒုစရိုက်ပြစ်မှုကျူးလွန်သူတို့ကို အမှန်ပင်လက်ခံတော်မမူပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့သည် အသင်တို့ ထိုသူတို့အပေါ်၌ကျေနပ်အံ့သောငှာ ကျိန်ဆိုကြပေမည်။ သို့ရာတွင် အကယ်၍အသင်တို့သည် ထိုသူတို့အပေါ်၌ ကျေနပ်ခဲ့အံ့ငြားလည်းအလ္လာဟ်အရှင်မြတ်သည် အမိန့်တော် ဖီဆန်သူတို့အပေါ်၌ကျေနပ်တော်မူမည် မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

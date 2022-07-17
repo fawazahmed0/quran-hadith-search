@@ -710,6 +710,12 @@ A kogato detsata vi dostignat zrelost, da iskat pozvolenie, kakto iskat i vsichk
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၉။	ထို့အပြင်သင်တို့အထဲမှ သူငယ်များသည် အရွယ်ရောက်လာခဲ့မူ သူတို့အား အထက်ပါလူများကဲ့သို့ အခွင့်ပန် ကြစေလော့၊ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အတွက် ပညတ်တရားတော်များကို ဤကဲ့သို့ရှင်းလင်းစေတော် မူ၏၊ အရှင်မြတ်သည် သိတော်မူ၏၊ လိမ္မာတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အသင်တို့အနက်မှ ယောက်ျားကလေးများသည် အရွယ်ရောက်လာခဲ့ကြသော်၊ ၎င်းတို့သည်လည်း မိမိတို့အလျင် ခွင့်တောင်းခဲ့ကြသော သူများနည်းတူ ခွင့်တောင်းကြရပေမည်။ အလ္လာဟ်အရှင်မြတ်သည် ဤနည်းနှင်နှင် မိမိအမိန့်ပညတ်တော်များကို အသင်တို့အကျိုးငှာ ထုတ် ဖော်မိန့်ကြားတော်မူလေသည်။ စင်စစ်မူကား အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့သိတော်မူသော၊ ကျိုးကြောင်း ဆင်ခြင်တုံတရားနှင့် ပြည့်စုံတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

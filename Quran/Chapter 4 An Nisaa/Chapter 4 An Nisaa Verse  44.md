@@ -710,6 +710,12 @@ Ne vidya li ti, che darenite s dyal ot Pisanieto kupuvat zabludata i iskat da se
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	အို-တမန်တော် ရှေးကျမ်းတော် တစ်စိတ်တစ်ပိုင်းကိုရရှိသောသူတို့သည် အမှားကိုပယ်ကြ၍ သင်တို့အား လမ်းမှန်မှ တိမ်းစောင်းစေရန် ကြိုးစားအားထုတ်နေကြသည်ကို သင်သည် မမြင်သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်သည် ကျမ်းဂန်များအနက် တစ်စိတ်တစ်ဒေသကို ခြီးမြှင့်ပေးသနားတော်မူခြင်း ခံကြရကုန်သောသူတို့၏ (ဖြစ်အင်) ကို မတွေ့မမြင်ပါလေသလော။ ထိုသူတို့သည် (လမ်းမှန်ကိုစွန့်၍) လမ်းမှားကို လိုက်စားကြသည်။ ၎င်းပြင် အသင်တို့လမ်းမှားခြင်းကိုလည်း လိုလားကြသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

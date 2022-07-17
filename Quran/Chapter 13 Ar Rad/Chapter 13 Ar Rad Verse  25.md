@@ -710,6 +710,12 @@ A koito narushavat obeta pred Allakh, sled kato sa go potvŭrdili, i prekŭsvat 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	သို့သော်အကြင်သူတို့သည် အလ္လာဟ်အရှင်မြတ်နှင့် ကတိသစ္စာပြုပြီးမှ မိမိကတိသစ္စာကို ဖောက်ကြ၏။ အလ္လာဟ် အရှင်မြတ်က အတူတကွစုရုံးပေါင်းသင်းထားရမည်ဟု ဗျာဒိတ်ပေးတော်မူသောအရာများကို တကွဲတပြားဖြစ်စေ ကြ၏။ ကမ္ဘာမြေပေါ်၌ ဒုစရိုက်မကောင်းမှုပွားများကြ၏။ ထိုသူတို့အဖို့ ကျိန်ဆဲခြင်းရှိ၏။ သူတို့အဖို့ မကောင်း သောဗိမာန်ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကြင်သူသည် အလ္လာဟ်အရှင်မြတ်နှင့်ထားရှိသော ပဋိညာဉ်ဝန်ခံချက်ကို ယင်းပဋိညာဉ်ခံဝန်ချက်ကို အခိုင်အမာပြုလုပ်ပြီးနောက် ဖောက်ဖျက်ကြကုန်၏။ ထို့ပြင်၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ်က ဆက်စပ်၍ထားရန် အမိန့်ပေးတော်မူသည်များကိုလည်း ဖြတ်တောက်ကြကုန်၏။ ထိုမှတစ်ပါး ၎င်းတို့သည် ကမ္ဘာမြေဝယ် ဆူပူသောင်း ကျန်းလျက်လည်းရှိကြကုန်၏။ ထိုကဲ့သို့သူတို့၌ ကရုဏာတော်မှ ကင်းဝေးခြင်းသည်ရှိပေမည်။ ထိုမှတစ်ပါး ၎င်းတို့၌ ထိုလောက၏အကျိုးယုတ်မှုသည်လည်း ရှိပေမည်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

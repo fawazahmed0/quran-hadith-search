@@ -710,6 +710,12 @@ Povelyata Mu, kogato zhelae neshto, e samo da mu kazhe: “Bŭdi!” I to stava
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၂။	အကယ်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် တစ်စုံတစ်ခုကို ကြံတော်မူခဲ့ပါလျှင် ထိုအရာအား ဖြစ်စေဟုသာ ဗျာဒိတ်တော်ချတော်မူ၏၊ ထိုအခါထိုအရာသည် ဖြစ်ပေါ်လာ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်၏ အမိန့်တော်ကား တစ်စုံတစ်ရာကို ထိုအရှင်မြတ်သည် (ဖန်ဆင်းတော်မူရန်) ရည်စူးတော်မူသောအခါ ထိုအရာကို ဖြစ်စေဟု မိန့်ကြားတော်မူခြင်းမျှဖြစ်၏။ ထိုအခါ ယင်းအရာသည် ဖြစ်လာလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

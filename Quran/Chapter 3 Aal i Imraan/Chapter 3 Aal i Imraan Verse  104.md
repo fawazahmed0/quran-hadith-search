@@ -710,6 +710,12 @@ I neka sred vas ima obshtnost, koyato zove kŭm blagoto i povelyava odobryavanot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၄။	ထို့ပြင် သုစရိုက်မှုသို့ ဖိတ်ခေါ်သောတရားသဖြင့် ကျင့်ကြံမှုကိုဆင့်ဆိုသော ညစ်ပတ်မှုကို တားမြစ်သော အမျိုးအနွယ်တို့သည် သင်တို့ထံမှ ဆင်းသက်ပေါက်ဖွားလာရန်လည်းဖြစ်၏။ ဤသူများသာလျှင် အောင်ဆုမင်္ဂလာတော်ကို ရရှိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်တို့တွင် (အကြင်သို့သော) အဖွဲ့အစည်းတစ်ခု ရှိရပေမည်။ ထိုအဖွဲ့အစည်းသည် (လူသားတို့အား) ကောင်းရာကောင်းကြောင်းဖက်သို့ ဖိတ်ခေါ်ကြရမည်။ထို့ပြင် ကောင်းမြတ်သောအရာ များကို ညွှန်ကြားကြရမည်။၎င်းပြင် ထိုအဖွဲ့ အစည်းသည် မကောင်းမှုများမှ မြစ်တားကြရမည်။ ဤသို့သောသူများသည်ပင်လျှင် (လုံးဝ) အောင်မြင်မည့်သူများ ဖြစ်ကြပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

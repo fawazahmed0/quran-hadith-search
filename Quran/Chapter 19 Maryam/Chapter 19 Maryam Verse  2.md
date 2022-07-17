@@ -710,6 +710,12 @@ Kazivanje o milosti Gospodara tvog prema robu Njegovu Zekerijjau…
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	သင်၏ ကျေးဇူးတော်သခင်အထံတော်မှ အရှင်၏ ကျေးကျွန်တမန်တော်ဇကရိယာအား ပေးတော်မူသောကောင်း ကြီးမင်္ဂလာတော်ကို ဖော်ပြချက်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည်ကား အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်က မိမိကျွန် (နဗီတမန်တော်)ဇကရီယာ၏အပေါ်၌ ကရုဏာပြုတော်မူခဲ့ခြင်းကို ထုတ်ဖော် မြွက်ဟတော်မူခြင်းပင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

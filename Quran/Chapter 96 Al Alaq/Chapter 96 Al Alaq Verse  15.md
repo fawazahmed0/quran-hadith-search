@@ -710,6 +710,12 @@ Ala ne! Ako ne prestane, shte go povlechem za perchema
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။ ထိုသူယုတ်မာသည် ရပ်တန့်လျှင် ငါသည် သူ၏ ဦးထိပ်ဆံကို ဆွဲငင်တော်မူလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မှတ်ယူလော့၊ အကယ်၍ ထိုသူသည် (မိမိ အပြုအမူကို) မရပ်စဲခဲ့သော်၊ ဧကန်မလွဲ ငါအရှင်မြတ်သည် (၎င်း၏) ဦးစွန်းကိုကိုင်၍ ဆွဲတော်မူမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

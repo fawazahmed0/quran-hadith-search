@@ -710,6 +710,12 @@ Toĭ e samo rab, komuto Nie dadokhme blagodat i go storikhme primer za sinovete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၉။	တမန်တော်အီစာသည် ငါ၏ကျေးကျွန်မှတပါး အခြားဘာမျှမဟုတ်ချေ၊ သူ့အား ကောင်းကြီးမင်္ဂလာတော်ချပေး သနားတော်မူ၍ အစ္စရာအီလူမျိုးတို့အတွက် စံနမူနာခေါင်းဆောင်ဖြစ်စေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမရ်ယမ်၏သား (အီစာ)ကား ကျွန်တစ်ပါးမျှဖြစ်၏။ ငါအရှင်မြတ်သည် ၎င်း၏အပေါ်၌ ကျေးဇူးပြုတော်မူခဲ့သည့်ပြင် ၎င်းအား အီစ်ရာအီလီအမျိုးသားတို့အဖို့ စံနမူနာတစ်ခု ပြုလုပ်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

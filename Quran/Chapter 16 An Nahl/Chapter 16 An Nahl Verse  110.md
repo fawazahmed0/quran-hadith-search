@@ -710,6 +710,12 @@ Posle tvoyat Gospod... - za onezi, koito se preselyat sled svoeto izpitanie, pos
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁ဝ။	သို့သော်အကြင်သူတို့သည် သာသနာတော်ကြီးအတွက် နှိပ်စက်ညှင်းပန်းခြင်းခံရ၏။ ထွက်ပြေးတိမ်းရှောင်ကြရ၏။ ထို့နောက်သာသနာစစ်တော်ကြီးကို တိုက်ခိုက်ကြ၏။ သည်းခံတည်ကြည်ခြင်းဂုဏ်ရှိ၏။ ထိုသူတို့ကို ၍ သင်၏ ကျေးဇူးတော်သခင်သည် မုချဧကန်အပြစ်လွှတ်တော်မူ၏။ ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည် အကြင်သူတို့အဖို့ ထိုသူတို့သည် စမ်းသပ်ခြင်းကို ခံကြရပြီးနောက် ရွှေ့ပြောင်းနေထိုင်ခဲ့ကြ၏။ ၎င်းပြင် ထိုသူများသည် သက်စွန့်ကြိုးပမ်းဆောင်ရွက်ခဲ့ကြကုန်၏။၎င်းပြင် ထိုသူများသည် ချုပ်တည်းသည်းခံခဲ့ကြကုန်၏။ မုချအမှန် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည် ယင်း(ကိစ္စများ)၏နောက်တွင် အမှန်ပင် အလွန်တရာလွတ်ငြိမ်းချမ်းသာခွင့်ပေးတော်မူသောအရှင်၊ အလွန်တရာသနားကြင်နာညှာတာတော်မူသော အရှင်မြတ်၊ ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

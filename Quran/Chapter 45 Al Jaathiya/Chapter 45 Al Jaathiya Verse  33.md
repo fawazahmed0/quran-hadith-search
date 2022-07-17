@@ -710,6 +710,12 @@ I shte se poyavyat pred tyakh zlinite, koito te izvŭrshikha, i shte gi obgradi 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	ထိုအခါသူတို့ပြုကျင့်ခဲ့သောဒုစရိုက်အမိုက်တရားများသည် သူတို့မျက်မှောက်၌ ထင်ရှားလာလိမ့်မည်၊ သူတို့ ပြောင်လှောင်ပျက်ချော်ပြုလေ့ရှိသောအရာတို့သည် သူတို့အပေါ်သို့ ကျရောက်လာလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (ထိုနေ့တွင်) ၎င်းတို့ရှေ့ဝယ် ၎င်းတို့ပြုမူခဲ့ကြကုန်သော မကောင်းမှုများ၏ ဆိုးယုတ်မှုများသည် ပေါ်လွင်၍လာခဲ့ပေမည်။ ထို့ပြင် ၎င်းတို့ ပြက်ရယ်ပြောင်လှောင်ခဲ့ကြသော အရာများသည်လည်း ၎င်းတို့အား ဝန်းဝိုင်းလျက်ရှိပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

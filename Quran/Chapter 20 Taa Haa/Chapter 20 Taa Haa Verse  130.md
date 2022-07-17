@@ -710,6 +710,12 @@ Bŭdi tŭrpeliv za tova, koeto kazvat, i proslavyaĭ s vŭzkhvala tvoya Gospod 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃ဝ။	ထို့ကြောင့်သင်သည် သူတို့ပြောဆိုစွပ်စွဲခြင်းကို သည်းခံလော့၊ နေမထွက်မီ နေမဝင်မီအချိန်ကာလ၌ သင်၏ အရှင်သခင်၏ ဂုဏ်ကျေးဇူးတော်ကို ချီးကျူးလော့၊ ညအချိန်နှင့် နေ့အစအဆုံးတွင်လည်း ဆွလားသ်ဝတ်ပြုလော့၊ အလ္လာဟ်အရှင်မြတ်သည် သင့်ကို လက်ခံတော်မူစေခြင်းငှာ ယင်းသို့ကောင်းမှုကို ဆောက်တည်လော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်) အသင်သည်၎င်းတို့ပြောဆိုကြသော ကိစ္စနှင့်စပ်လျဉ်း၍ သည်းခံပါလေ။ထို့ပြင် အသင်သည် (မိမိ)ကျေနပ်မှုရှိအံ့သောငှာ နေမထွက်မီလည်းကောင်း၊ နေမဝင်မီလည်းကောင်း၊ မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အား ချီးမွမ်းခြင်းနှင့်တကွ (ထိုအရှင်မြတ်အား) ဂုဏ်တော်မွှမ်းပါလေ။ ထို့ပြင် အသင်သည်ညဉ့်အချိန်များတွင်လည်းကောင်း၊ နေ့၏အစွန်များ၌ လည်းကောင်း၊ (ထိုအရှင်မြတ်) သန့်ရှင်းစင်ကြယ်တော် မူကြောင်းကိုမြွက်ဆိုပါလေ။ (ဤသို့အားဖြင့်)အသင်သည် ထိုအရှင်မြတ်၏နှစ်သက်မှုကို ရတန်ရာ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

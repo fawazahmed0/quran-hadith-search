@@ -710,6 +710,12 @@ Vseki ima posoka, nakŭdeto se obrŭshta. Nadprevarvaĭte se v dobrinite! Kŭde
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၈။	လူတိုင်းလူတိုင်းမှာပင် မိမိတို့မျှော်မှန်းချက်ပန်းတိုင်တစ်ခုစီရှိ၏။ ထို့ကြောင့်သင်တို့သည် ကောင်းမှု များ၌ အချင်းချင်းပြိုင်ဆိုင်ကြလော့။ သင်တို့သည် မည်သည့်နေရာအရပ်၌ပင် ရှိငြားသော်လည်း အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အားလုံးကို အတူတကွ စုရုံးတော်မူမည်။ ကြည့်ကြလော့။ အလ္လာဟ် အရှင်မြတ်သည် အရာခပ်သိမ်းကုန်တို့ကို ပြုနိုင်စွမ်းတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတပါး လူမျိုးအသီးသီးတို့၌ (မျက်နှာမူရာ) အရပ်တခုကျစီရှိ၏။ ထို(လူမျိုးအသီးသီး) တို့သည် (ဝတ်ပြုရာ ၌မိမိတို့ဘာသာတရားနှင့်အညီ) ထိုမျက်နှာမူရာဘက်သို့ မျက်နှာမူလေ့ရှိကြကုန်၏။ သို့ဖြစ်လေရာ အသင်တို့သည် ကုသိုလ်ကောင်းမှု ဆည်းပူးရာ၌ သူ့ထက်ငါသာအောင် (လုံ့လဝီရိယစိုက်ထုတ်ကာ)အဆောတလျင်ပြုလုပ်ကြကုန်လော့။ အသင်တို့သည် မည်သည့်နေရာ၌မဆို ရှိကြအံ့၊ အလ္လာဟ် အရှင်မြတ်သည် အသင်တို့ အားလုံးတို့ကို (တဌာနတည်း၌) စုရုံးတော်မူအံ့။ မုချဧကန် အလ္လာဟ်အရှင်မြတ်သည် အရာခပ် သိမ်းတို့ အပေါ်ဝယ် စွမ်းဆောင်နိုင်တော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူ လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

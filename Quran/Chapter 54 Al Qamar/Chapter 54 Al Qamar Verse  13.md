@@ -710,6 +710,12 @@ A nego ponesokhme vŭrkhu [Kovchega ot] dŭski i gvozdei
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	ထို့အပြင်ငါသည် တမန်တော်နူဟိုကို ပျဉ်ချပ်များ၊ သံမှုများနှင့်ပြုအပ်သောအရာပေါ်တွင် ချီဆောင်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ထို ‘နူဟ်’ အားပျဉ်ချပ်များဖြင့်လည်းကောင်း၊ သံများဖြင့်လည်းကောင်း၊ ပြုလုပ်၍ထားသော (သင်္ဘော)ပေါ်သို့ စီးနင်းစေတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

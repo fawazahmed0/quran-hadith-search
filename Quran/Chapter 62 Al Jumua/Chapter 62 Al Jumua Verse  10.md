@@ -710,6 +710,12 @@ I shtom molitvata zavŭrshi, razprŭsnete se po zemyata i tŭrsete blagodat ot A
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၀။ ထိုဆွလားသ်ဝတ် တက်ပြီးသောအခါ သင်တို့သည် မြေပေါ်တွင် အနှံ့အပြားသွားလာ လှည့်ပတ်၍ အလ္လာဟ် အရှင်မြတ်၏ ကောင်းကြီးမင်္ဂလာတော်ကို ရှာဖွေကြလော့၊ ထို့အပြင်အရှင်မြတ်ကို များစွာ သတိရကြလော့၊ သို့မှသာလျှင် သင်တို့သည် အောင်မြင်ကြလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ‘ဆွလာတ်’ ဝတ်ပြုမှု ပြီးဆုံးခဲ့သောအခါ အသင်တို့သည် ပထဝီမြေဝယ် အနှံ့အပြား သွားလာကြလျက် အလ္လာဟ်အရှင်မြတ်၏ကျေးဇူး တော်တည်းဟူသော ရိက္ခာကို ဖွေရှာဆည်းပူးကြလေကုန်။ ထိုမှတစ်ပါး အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား များစွာ တသ သတိရလျက် ရှိကြလေကုန်။ သို့မှသာလျှင် အသင်တို့သည် အောင်မြင်ကြကုန် အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

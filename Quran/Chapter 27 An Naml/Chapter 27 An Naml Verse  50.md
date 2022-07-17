@@ -710,6 +710,12 @@ I lukavstvakha te s umisŭl, no provalikhme Nie tyakhnoto lukavstvo, bez da uset
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅ဝ။	သူတို့သည် အကြံတစ်ခုကို ကြံဖန်ကြ၏၊ ငါလည်း အကြံထုတ်တော်မူ၏၊ သို့သော်သူတို့သည် မသိမမြင်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ၎င်းတို့သည် အကြံအစည်တစ်ခုကို လျှို့ဝှက်ကြံစည်ခဲ့ကြကုန်၏။ ထိုနည်းတူစွာ ငါအရှင်မြတ်သည်လည်း အကြံအစည်တစ်ခုကို ကြံစည်တော်မူခဲ့၏။ စင်စစ်၎င်းတို့သည် (ဤသည်ကို) မသိကြပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

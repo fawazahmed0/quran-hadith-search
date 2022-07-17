@@ -710,6 +710,12 @@ A petiya pŭt - proklyatieto na Allakh da e nad nego, ako lŭzhe
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	ထို့နောက်ပဥ္စမမြောက်ဤသို့ကျန်ဆိုရမည်၊ အကျွနု်ပ်သည် မဟုတ်မလျား၊ မုသားသက်သေထွက်ဆိုပါလျှင်၊ အရှင်မြတ်၏ ကျိန်ဆဲတော်မူခြင်းကို ခံရပါစေသောဝ်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ပဉ္စမအကြိမ်တွင် အကယ်၍ မိမိသည် မုသာဝါဒီဖြစ်ခဲ့မူ မိမိအပေါ်၌ အလ္လာဟ်အရှင်မြတ်၏ ကျိန်ဆဲချက်သည် ကျရောက်ပါစေဟုဆိုရမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

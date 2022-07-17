@@ -710,6 +710,12 @@ I kogato chetesh Korana, pri Allakh tŭrsi ubezhishte ot prokudeniya satana
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၈။	သင်သည် ကုရ်အာန်ကျမ်းတော်မြတ်ကို ရွတ်ဖတ်သောအခါ နှင်ထုတ်ခံရသောရှိုင်တန်မာရ်နတ်ထံမှ အလ္လာဟ် အရှင်မြတ်၌ ခိုလှုံလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်) အသင်သည်ကုရ်အာန်ကျမ်းတော်မြတ်ကို ရွတ်ဖတ် သရဇ္ဈာယ်သောအခါနှင်ထုတ်ခြင်းခံရသော ရှိုင်တွာန်မိစ္ဆာကောင် (၏နှောင့်ယှက်မှု)မှ (လွတ်ကင်းနိုင်ရန်)အလ္လာဟ်အရှင်မြတ်၏ အကာအကွယ်ကို ယူပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

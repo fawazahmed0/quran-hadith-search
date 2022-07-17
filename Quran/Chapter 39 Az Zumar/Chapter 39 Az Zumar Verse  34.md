@@ -710,6 +710,12 @@ Te shte imat pri svoya Gospod, kakvoto pozhelayat. Takava e nagradata za dobrotv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	ထိုသူတော်ကောင်းတို့သည် သူတို့၏ အရှင်သခင်၏ ကောင်းကြီးမင်္ဂလာတော်အနန္တမှ ၎င်းူတို့လိုရာကို ရရှိကြ ရမည်၊ ဤဆန္ဒပြည့်ဝရခြင်းသည် သူတော်မွန်သူတော်မြတ်တို့၏ အောင်ဆုမင်္ဂလာတော်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့အဖို့ ၎င်းတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်တွင် ၎င်းတို့ အလိုရှိသမျှတို့သည် ရှိကြကုန်၏။ ဤသည်ကား အကောင်းပြုသူတို့၏ အကျိုးပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

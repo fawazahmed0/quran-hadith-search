@@ -710,6 +710,12 @@ I nauchi Toĭ Adam na imenata na vsichki [neshta], posle gi predstavi na angeli
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	ထို့နောက် အရှင်မြတ်သည် အာဒမ်အား အရာခပ်သိမ်းကုန်တို့၏ အမည်များကို သင်ပေးတော်မူ၏။ ထိုအရာများကို ကောင်းကင်တမန်များကို ပြသပြီးလျှင် အေ ကောင်းကင်တမန်တော်တို့ သင်တို့သည် အမှန်စကားကို ဆိုကြလျှင် ဤအရာများ၏အမည်များကို ငါ့အားပြောပြကြလော့ဟု မိန့်တော်မူခဲ့ ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် ကမ္ဘာဦးဖခင် အာဒမ်(အ) အား အရာဝတ္ထုများ၏ အမည်နာမ အားလုံးတို့ကို သင်ကြားပေးသနားတော်မူ၏။ သို့ သင်ကြားပြီးသည့်နောက် အလ္လာဟ်အသျှင်မြတ်သည် ထိုအမည်ပါ ဝတ္ထုအစုစုကို အပါးတော်စေတမန်များ၏ ရှေ့ဝယ်၌ ပြတော်မူ၍ ဤသို့မိန့်တော်မူ၏၊(အပါးတော် စေတမန် အပေါင်းတို့) အကယ်၍အသင်တို့သည် မှန်ကန်သောစကားကို ပြောဆိုသောသူများ ဖြစ်ကြ ပါလျှင် ဤအရာဝတ္ထုများ၏ အမည်နာမများကို ငါ့အား(သေချာဂနစွာ) တင်လျှောက်ကြကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

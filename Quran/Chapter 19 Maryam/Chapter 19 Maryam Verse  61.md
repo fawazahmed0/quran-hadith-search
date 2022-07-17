@@ -710,6 +710,12 @@ v Gradinite na Adn, koito Vsemilostiviya obeshta na Svoite rabi ot nevedomoto. N
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၁။	ထိုသူမြတ်တို့သသည် နိဗ္ဗာန်သို့ ဝင်ရကြလတ့ံ။ နိဗ္ဗာန်ဥယျာဉ်တော်များသည် မဟာဂရုဏာတော်ရှင် ကတိ ဗျာဒိတ်ချမှတ်တော်မူသော မမြင်စွမ်းနိုင်သောဥယျာဉ်တော်များဖြစ်ကြ၏။ မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ် ၏ ကတိဗျာဒိတ်တော်သည် ပြည့်စုံရမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (၎င်းတို့သည်)အကြင်ထာဝရ ဥယျာဉ်များသို့(လားကြရပေမည်)။ ရဟ်မာန် အနန္တကရုဏာတော်ရှင်သည် မိမိကျွန်များအား (၎င်းတို့) မမြင်ဘဲလျက် အကျေအပွန်ဆောင်ရွက်ပြီးသာဖြစ်လိမ့်မည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

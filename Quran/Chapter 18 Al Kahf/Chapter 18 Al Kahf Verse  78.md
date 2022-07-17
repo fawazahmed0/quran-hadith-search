@@ -710,6 +710,12 @@ Reche: “Tova e razdyalata mezhdu men i teb. Shte ti sŭobshtya tŭlkuvaneto na
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၈။	ထိုအခါထိုသူက ဤနေရာမှ သင်နှင့်အကျွနု်ပ်ခွဲကြစို့၊ သင်သည် သည်းခံပြီး စောင့်၍ မကြည့်နိုင်သောအဖြစ် အပျက်များ၏ အဓိပ္ပါယ်ကို အကျွနု်ပ်သည် သင့်အား ရှင်းလင်းပြအ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ)ယင်း(ခစ်ဿွ်ရ်)က(အချင်း-မူစာ၊) ဤသည်ကား အသင်နှင့်ကျွန်ုပ်ခွဲခွာရန်(အချိန်)ပင်တည်း။ ယခုသော်ကား ကျွန်ုပ်သည် အသင်သည်းမခံ နိုင်ခဲ့သောကိစ္စနှင့်စပ်လျဉ်း၍ အဖြစ်မှန်ကို အသင့်အားသိစေပါတော့မည်ဟုပြော ဆိုခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

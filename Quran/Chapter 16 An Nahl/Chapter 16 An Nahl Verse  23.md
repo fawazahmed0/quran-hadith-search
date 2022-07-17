@@ -710,6 +710,12 @@ Bez sŭmnenie, Allakh znae kakvo spotaĭvat i kakvo razkrivat. Toĭ ne obicha 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	မုချဧကန်အလ္လာဟ်အရှင်မြတ်သည် သူတို့ထိမ်ချန်လျှို့ဝှက်ထားသောအရာ၊ ထုတ်ဖော်ကြေငြာသောအရာအလုံးစုံ ကို အကုန်အစင်သိတော်မူ၏။ မှတ်သားကြလော့၊ အရှင်မြတ်သည် စိတ်ကြီးဝင်သောသူတို့ကို နှစ်သက်တော် မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မလွဲဧကန် အလ္လာဟ်အရှင်မြတ်သည် ထိုသူို့လျှို့ဝှက်ကြသောအမှုကိစ္စတို့ကိုလည်းကောင်း၊ ထိုသူတို့ ထင်ရှားစေကြကုန်သောအမှုကိစ္စတို့ကိုလည်းကောင်း၊ (အကြွင်းမဲ့)သိတော်မူပေသည်။ ဧကန်အမှန် ထိုအရှင်မြတ်သည် မာန်မာနထောင်လွှားသူတို့အား နှစ်သက်တော်မူသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

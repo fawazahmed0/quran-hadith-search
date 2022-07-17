@@ -710,6 +710,12 @@ Gospodi moĭ, dari me s pravedni potomtsi!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝဝ။	အို-အကျွနု်ပ်၏ အရှင်သခင်၊ အကျွနု်ပ်အား သားကောင်းသားမြတ်တစ်ယောက်ပေးသနားတော်မူပါဟု ဆုပန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်၊ အရှင်မြတ်သည် ကျွန်တော်အား သူတော်ကောင်း(သား)တစ်ယောက် ချီးမြှင့်ပေးသနားတော်မူပါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Blagodetelnite shte imat Naĭ-prekrasnoto, i dori poveche, i ne shte pocherni t
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	ကုသိုလ်ကောင်းမှုဆည်းပူးသူတို့အတွက် အလွန်မွန်မြတ်သောဆုတော်ရှိ၏။ သူတို့သည် အားထုတ်ဆည်းပူး ခဲ့သည်ထက် ပိုမို၍ အကျိုးခံစားရကြ၏။ သူတို့၏ မျက်နှာများသို့ မြေမှုန့်သော်လည်းကောင်း၊ အရှက်ကွဲမှု သော်လည်းကောင်း၊ မချဉ်းကပ်ပေ။ သူတို့သည် နိဗ္ဗာန်ဥယျာဉ်တော်ကို တရားသဖြင့်ပိုင်ဆိုင်သူများဖြစ်ကြ၏။ ဥယျာဉ်တော်တွင် ခံစားနေထိုင်ကြလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကောင်းမှုကို ပြုခဲ့ကြသောသူတို့အဖို့ ကောင်းမြတ်သောအကျိုး(ဝါ)ဂျန္နတ်သုခဘုံရှိသည့်ပြင် အပို(ဆုလာဘ်များ)လည်း ရှိချေသည်။ ထိုမှတစ်ပါး ၎င်း တို့၏မျက်နှာများကိုမြူ၊ဖုန်များ ဖုံးလွှမ်းမည်မဟုတ်။ ကျိုးယုတ်ရှက်ရ ဂုဏ်သိက္ခာကျခြင်းသည် လည်း ဖုံးလွှမ်းမည်မဟုတ်ပေ။ ထိုသူတို့သည်ပင်ဂျန္နတ်သုခဘုံသားများ ဖြစ်ကြကုန်၏။ ၎င်း တို့သည် ယင်းဂျန္နတ်သုခဘုံတွင် ထာဝစဉ်နေထိုင်စံမြန်း ကြမည့်သူများ ဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

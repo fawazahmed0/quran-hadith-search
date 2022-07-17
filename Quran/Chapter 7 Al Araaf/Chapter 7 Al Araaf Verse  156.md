@@ -710,6 +710,12 @@ Pishi ni dobrina i v zemniya zhivot, i v otvŭdniya! Nie se zavŭrnakhme pokayan
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၆-	အကျွနု်ပ်တို့အား ဤဘဝ၊ နောင်ဘဝ၌ ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူပါ။ ကြည့်ပါလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အရှင်မြတ်သည် ကျွန်တော်မျိုးတို့အဖို့ ဤလောက၌လည်းကောင်း၊ နောင်တမလွန်ဘဝ၌လည်းကောင်း၊ ကောင်းကျိုးချမ်းသာကို သတ်မှတ် ပြဌာန်း၍ပေးတော်မူပါ။ ကျွန်တော်မျိုးသည် ဧကန်စင်စစ် အရှင်မြတ်ဘက်တော်သို့သာလျှင် ပြန်၍လှည့်ခဲ့ကြလေပြီ။ (ထိုအခါ)အရှင်မြတ်က(ဤသို့)မိန့်ကြားတော်မူခဲ့လေသည်။ ငါအရှင်မြတ်သည် မိမိအပြစ်ဒဏ်ကို မိမိအလိုရှိတော်မူသောသူ၏အပေါ်၌သာလျှင် သက်ရောက်စေတော်မူ၏။ သို့ရာတွင် ငါအရှင်မြတ်၏ ကရုဏာတော်သည်ကား အရာခပ်သိမ်းတို့ကို လွှမ်းခြုံလျက်ရှိချေပြီ။သို့ဖြစ်ပေရာ ငါအရှင်မြတ်သည် ထိုကရုဏာတော်ကို ပြစ်မှုဒုစရိုက်တို့မှ ကြဉ်ရှောင်ကြသည့်ပြင် ဇကာတ်ခေါ် တရားဝင်ဒါနကြေးကို ပေးဆောင်သော သူတို့အဖို့လည်းကောင်း၊ ငါအရှင်မြတ်၏ သက်သေလက္ခဏာတော်တို့ကို ယုံကြည်သော သူတို့အဖို့လည်းကောင်း၊ မုချ သတ်မှတ်ပြဌါန်းတော်မူပေအံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

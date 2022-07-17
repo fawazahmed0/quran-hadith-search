@@ -710,6 +710,12 @@ Reche [Faraonŭt]: “Vashiyat pratenik, izpraten pri vas, e lud.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	ထိုအခါဖွာရောမင်းက သူ၏မှုးမတ်တို့အား မှတ်သားကြလော့၊ သင်တို့ထံသို့ စေလွှတ်တော်မူသောသင်တို့၏ တမန်တော်သည် သူရူးသူနှမ်းအစစ်ဖြစ်၏ဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(ဖစ်ရ်အောင်န်)က ဧကန်စင်စစ် အသင်တို့ထံ စေလွှတ်ခြင်းခံခဲ့ရသော ရစူလ်တမန်တော်သည် အမှန်ပင် ရူးနှမ်းသူဖြစ်သည်ဟု ဆိုခဲ့ပြန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

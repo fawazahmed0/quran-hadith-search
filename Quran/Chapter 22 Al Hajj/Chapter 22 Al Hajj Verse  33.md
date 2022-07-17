@@ -710,6 +710,12 @@ Ot tyakh [- zhivotnite] imate oblaga do opredelen srok. Nakraya myastoto [za zhe
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	သတ်မှတ်ထားသောအချိန်ကာလအတွင်း ထိုအလှုကောင်တို့သည် သင်တို့အဖို့အရာအကျိုးဖြစ်စေ၏၊ ထို့နောက် ၎င်းတို့ကို လှုဒါန်းဖို့ရာ ရှေးလက်ဟောင်းကျောင်းတော်ကြီးသို့ ယူဆောင်လာကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့အဖို့ သတ်မှတ်ထားသော အချိန်ကာလတိုင်အောင် ယင်းအထိမ်းအမှတ်တော်များ (ကုရ်ဗာနီသားကောင်များ) အကျိုးခံစားခွင့်ရှိပေသည်။ ထို့နောက် ယင်းသားကောင်များ(ကိုလှီးဖြတ်ရန်)နေရာကား ရှေးဟောင်းအိမ်တော်၏အနီး၌ပင် ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

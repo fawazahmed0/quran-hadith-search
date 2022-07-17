@@ -710,6 +710,12 @@ v domovete, koito Allakh pozvoli da bŭdat vŭzviseni i da se spomenava v tyakh 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	အလ္လာဟ်အရှင်မြတ်၏ နာမတော်ကို ချီးကျူးတသဖို့ရာ အလ္လာဟ်အရှင်မြတ်ချီးမြှင့်ထားတော်မူသောကျောင်း တော်များ၌ ယင်းမှန်အိမ်ကို တွေ့ရှိရ၏၊ ထိုကျောင်းတော်များ၌ နေ့ညမပြတ်အရှင်မြတ်အား ဝတ်ပြလျက်ချီးမွမ်း ကြသည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ယင်းမှန်အိမ်သည်) အကြင်အိမ်တော်များ၌ရှိ၏။ အလ္လာဟ်အရှင်မြတ်သည် ထိုအိမ်တော်များကို ရိုသေ ချီးမြှောက်ရန်လည်းကောင်း၊ ထိုအိမ်တော်များ၌ အလ္လာဟ်အရှင်မြတ်၏နာမံတော်ကို အောက်မေ့တသရန်လည်းကောင်း၊ အမိန့်တော် ထုတ်ပြန်ထားတော်မူ၏။ ထိုအိမ်တော်များတွင် နံနက်ယံ၌လည်းကောင်း၊ ညနေချမ်းများ၌လည်းကောင်း၊ ထိုအရှင်မြတ် စင်ကြယ် သန့်ရှင်းတော်မူကြောင်း မြွက်ဆိုလျက်ရှိကြ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

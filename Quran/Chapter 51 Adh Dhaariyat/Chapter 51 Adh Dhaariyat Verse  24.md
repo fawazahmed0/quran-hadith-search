@@ -710,6 +710,12 @@ Stigna li do teb razkazŭt za pochetnite gosti na Ibrakhim
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	အို-တမန်တော်မိုဟမ္မဒ်၊ တမန်တော်အေဗရာဟမ်၏ မြင့်မြတ်သည့်ဧည့်သည်တော်အကြောင်းအရာများကို သင် ကြားနာရပြီမဟုတ်လား။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်၊)အသင့်ထံသို့(နဗီတမန်တော်)အိဗ်ရာဟီမ်၏ ဂုဏ်သရေရှိ ဧည့်သည်တော်များ၏ အကြောင်းရောက်ရှိခဲ့လေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

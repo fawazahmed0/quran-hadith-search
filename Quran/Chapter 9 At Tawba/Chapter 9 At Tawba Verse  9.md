@@ -710,6 +710,12 @@ Prodavat na nishtozhna tsena znameniyata na Allakh i vŭzpirat ot Negoviya pŭt.
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	သူတို့သည် အလ္လာဟ်အရှင်မြတ်၏ နှုတ်ကပတ်တော်များကို ပေး၍ အလွန်သေးသိမ်သောအကျိုးကျေးဇူးကို ဝယ်ယူကြ၏။ထို့ကြောင့်သူတို့သည် လူသားတို့ကို အလ္လာဟ်အရှင်မြတ်၏ ကျမ်းတော်မှ တားဆီးကြ၏။မှတ်သားကြလော့။သူတို့ပြုကျင့်လေ့ရှိသသောအမှုသည် အကုသိုလ်မကောင်းမှုသာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ်၏ အာယတ်တော်များဖြင့် အနည်းငယ်မျှသောအဖိုးငွေကို လဲလှယ်ဝယ်ယူခဲ့ကြလေသည်။ သို့ဖြစ်ပေရာ ၎င်းတို့သည် ထိုအရှင်မြတ်၏လမ်းတော်မှ ဖောက်ပြန် သွေချော်တိမ်းစောင်းလျက်ရှိခဲ့ကြကုန်၏။ဧကန်စင်စစ် ၎င်းတို့ပြုမူသမျှတို့ကား အလွန်ဆိုးရွားလှပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

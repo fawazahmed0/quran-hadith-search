@@ -710,6 +710,12 @@ Kaza Faraonŭt: “Nima mu povyarvakhte, predi az da sŭm vi pozvolil? Tova e lu
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၃။	ဖာရောပြော၏။ ငါအမိန့်မပေးဘဲ သင်တို့သည် ထိုအသျှင်သခင်ကို ယုံကြည်ကြသလော။ ဤအမှု အခင်းကို မြို့သူ၊ မြို့သားများအား မြို့တော်မှ မောင်းထုတ်ရန် သင်တို့ဖန်တီးလာသော ဥပါယ်တမည် ဖြစ်၏။ သို့သော် သင်တို့ကို သိစေမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ဖစ်ရ်အောင်န်က ငါသည် အသင်တို့အားခွင့်မပြုမီပင် အသင်တို့သည် [ထို(မူစာနှင့်ဟာရူန် တို့၏)အရှင်အား] [(တနည်း)(မူစာ)အား] သက်ဝင် ယုံကြည်ခဲ့ကြချေပြီလော။ ဤသည်ကား ဧကန်စင်စစ် ပရိယာယ် မာယာကာရတစ်ရပ်ပင် ဖြစ်ချေသည်။ အသင်တို့သည် ယင်းပရိယာယ်မာယာကာရကို မြို့ထဲ၌ ထိုမြို့တွင် နေထိုင်ကြသောသူတို့အား မြို့တွင်းမှ ထုတ်ပစ်ကြရန် (မူစာနှင့်လျှို့ဝှက်စွာပူးပေါင်း၍) ကြံစည်ခဲ့ကြကုန်သည်။ သို့ဖြစ်ပေရာ မကြာမြင့်မီပင် အသင်တို့သည် (အကြောင်း) သိရှိကြ(ရပေလိမ့်) မည်ဟုပြောဆို ကြိမ်းဝါးခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Posle se otvŭrnakhte i ako ne be nad vas shtedrostta na Allakh i Negovata milos
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၄။	ထို့နောက် သင်တို့သည် ကျမ်းတော်မြတ်ကို ကျောပေးသွားကြ၏။ အကယ်၍ အရှင်မြတ်က သင်တို့အား ကရုဏာပြုတော်မမူ၊ ကောင်းချီးပေးတော်မမူပါလျှင် သင်တို့သည် ဆုံးရှုံးသူတို့အထဲမှ ဖြစ်ကြမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် အသင်တို့သည် (ထိုကဲ့သို့ တိကျခိုင်လုံစွာ) ပဋိညာဉ် ကတိသစ္စာကို ထုံးဖွဲ့ ပြီးသည့်နောက်(ကတိမတည်) နောက်သို့ ပြန်လှည့် ထွက်သွားခဲ့ကြကုန်၏။ထို့နောက် အကယ်၍ အလ္လာဟ်အရှင်မြတ်၏ ကျေးဇူးတော်နှင့် မဟာကရုဏာတော်သည် အသင်တို့အပေါ်ဝယ် သက်ရောက်ခြင်း မရှိခဲ့ပါမူ အသင်တို့သည် မုချဧကန် ဆုံးရှုံးနစ်နာပျက်စီးသူများ ဖြစ်ကြပေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

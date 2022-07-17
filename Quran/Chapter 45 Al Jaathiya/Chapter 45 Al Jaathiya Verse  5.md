@@ -710,6 +710,12 @@ I promyanata na noshtta i denya, i onova, koeto Allakh izsipva ot nebeto za prep
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	နေ့နှင့်ညဉ့်ကို အလှည့်ကျလဲလှယ်တော်မူခြင်း၊ မိုးကောင်းကင်မှ ရိက္ခာချပေးသနားတော်မူခြင်း၊ မြေသေ မြေဟောင်းတို့ကို ထိုမိုးရေဖြင့် တဖန်ပြန်ရှင်တော်မူခြင်း၊ လေများကို တိုက်ခတ်စေတော်မူခြင်းများသည် အမျှော်အမြင်စဉ်းစားဉာာဏ်ရှိသူတို့အဖို့အရာ သက်သေသာဓကတော်များဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ညဉ့်နှင့်နေ့တို့ကို ပြောင်းလဲခြင်း၌လည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ်သည် ကောင်းကင်မှ (မိုးရေကိုရွာသွန်းစေတော်မူ၍) စားနပ်ရိက္ခာကို ချပေးတော်မူခြင်း၊တဖန် ယင်းမိုးရေဖြင့် ပထဝီမြေကိုသွေ့ခြောက် သေလွန်ပြီးနောက် ရှင်ပြန်(စိမ်းလန်း)စေတော်မူခြင်း၌လည်းကောင်း၊ လေများကို (ဒိသာအရာခပ်သိမ်းသို့) ပြောင်းလဲတိုက်ခတ်စေခြင်း၌ လည်းကောင်း၊ သိနားလည်ကြသောသူတို့အဖို့ သက်သေလက္ခဏာများသည် ရှိကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

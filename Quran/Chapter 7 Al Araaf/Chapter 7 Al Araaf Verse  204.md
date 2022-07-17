@@ -710,6 +710,12 @@ Kogato se chete Koranŭt, slushaĭte go i mŭlchete, za da bŭdete pomilvani!�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ၄။	ကုရ်အာန်ကျမ်းတော်မြတ်ကို ရွတ်ဖတ်သောအခါ သင်တို့သည် ကောင်းကြီးမင်္ဂလာတော် ခံစား ရသောငှာ နားစွင့်ကြလော့။ ဂရုစိုက်လေးစားကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်တို့သည် (မိမိတို့ရှေ့ဝယ်) ကုရ်အာန် ကျမ်းတော်မြတ်ကို ဖတ်ရွတ်သရဇ္ဈယ် သောအခါ ထိုကုရ်အာန်ကျမ်းတော်မြတ်ကို ဂရုပြု၍ ဆိတ်ငြိမ်စွာ နားစိုက်ကြလေကုန်။ သို့မှသာလျှင် အသင်တို့သည် (အလ္လာဟ်အရှင်မြတ်၏) ကရုဏာ တော်ကို ခံစားကြရလတ္တံ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

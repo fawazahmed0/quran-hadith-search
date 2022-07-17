@@ -710,6 +710,12 @@ dodeto stigna mezhdu dvete planini. Nameri v podnozhieto im khora, koito pochti 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၃။	ထိုအခါ သူသည် တောင်နှစ်ခုစပ်ကြားသို့ ရောက်ရှိ၏။ သူသည် ထိုတောင်နှစ်လုံးနှင့် ခရီးမကွာလှသောအရပ် တွင် လူတသင်းကို တွေ့ပြန်၏။ ထိုသူတို့သည် စကားတခွန်းတပါဒမျှနားမလည်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 နောက်ဆုံးတွင်ယင်းဇုလ်ကရ်နိုင်န်သည် တောင်နှစ်လုံး၏အကြားသို့ ရောက်ရှိခဲ့သောအခါ ယင်းတောင် နှစ်လုံး၏ဤမှာဘက်တွင် မည်သည့်စကားကိုမျှ နားမလည်နိုင်ကြသောလူမျိုးတစ်မျိုးကို တွေ့ရှိခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

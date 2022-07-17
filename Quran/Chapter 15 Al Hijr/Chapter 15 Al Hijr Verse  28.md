@@ -710,6 +710,12 @@ Tvoyat Gospod kaza na angelite: “Az shte sŭtvorya chovek ot izsŭkhnala glina
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	မှတ်သားလော့။ သင်၏ ကျေးဇူးတော်သခင်သည် ကောင်းကင်တမန်များအား ကြည့်လော့။ ငါသည် ရွှံ့မြေစေးမှ ပုံသွင်းပြီးလျှင် လူသားကို ဖန်ဆင်းတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အခါတစ်ပါး၌ အသင့်အားဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည် မလာအိကဟ် ကောင်းကင်တမန်တို့အား (ဤသို့) မိန့်ကြားတော်မူခဲ့လေသည်။ ဧကန်အမှန် ငါအရှင်မြတ်သည် လူသားကို ပုံသွင်းပြီးဖြစ်သော အသမြည်သော ရွှံ့ပုပ်ခြောက်ဖြင့် ဖန်ဆင်းတော်မူမည် ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

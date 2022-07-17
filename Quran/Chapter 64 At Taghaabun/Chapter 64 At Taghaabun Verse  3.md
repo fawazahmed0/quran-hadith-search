@@ -710,6 +710,12 @@ Toĭ sŭtvori nebesata i zemyata s mŭdrost, i vi pridade obraz, i napravi obra
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။ အရှင်မြတ်ကို မိုးကောင်းကင်နှင့် ကမ္ဘာမြေကြီးကို အမှန်ပင်ဖန်ဆင်းတော်မူ၏၊ သင်တို့ကိုလည်း ပုံသဏ္ဍာန် ပေးသနားတော်မူ၏၊ ထိုပုံသဏ္ဍာန်ကို လှပတင့်တယ်စေတော်မူ၏၊ အရှင်မြတ်အထံတော်သို့သာလျှင် ခရီးရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည်ပင် မိုးကောင်းကင်များကိုလည်းကောင်း၊ ပထဝီမြေကိုလည်းကောင်း၊ နက်နဲသိမ်မွေ့သော ဆင်ခြင်တုံတရားနှင့်လျော်ညီစွာ ဖန်ဆင်းတော်မူခဲ့၏။၎င်းပြင် ထိုအရှင်မြတ်သည် အသင်တို့၏ပုံပန်းသဏ္ဌာန်ကို ပြုလုပ်တော်မူခဲ့ရာ အသင်တို့၏ပုံပန်းသဏ္ဌာန်များကို ကောင်းမွန်လှပစွာ ပြုလုပ်တော်မူခဲ့၏။ ထိုမှတစ်ပါး (အသင်တို့၏ နောက်ဆုံး) ပြန်လည်ရာစခန်းမှာလည်း ထိုအရှင်မြတ်ထံတော်၌ပင် ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

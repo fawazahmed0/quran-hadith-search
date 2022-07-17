@@ -710,6 +710,12 @@ V tozi Den shte posledvat zovyashtiya, bez da se otklonyat ot nego, i glasovete 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၈။	ထိုနေ့တော်ကြီး၌ သူတို့သည် လိမ်လည်ကောက်ကျစ်ခြင်းကင်းမဲ့သောဆင့်ခေါ်သူနောက်သို့ လိုက်ကြရလတ္တံ့၊ မဟာဂရုဏာတော်အရှင်အား ကြောက်ရွံ့ခြင်းဖြင့် အသံများတို့သည် ဆိတ်ငြိမ်လျက်ရှိလတ္တံ့၊ သင်သည် တီးတိုးစကားပြောဆိုသံမှတပါး တစ်စုံတစ်ခုသောအသံကို ကြားရမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနေ့တွင် လူတို့သည် ဆင့်ခေါ်သူ၏နောက်သို့ကွေ့ကောက်ခြင်းမရှိဘဲ (ဖြောင့်တန်းစွာ) လိုက်ကြပေမည်။၎င်းပြင်ရဟ်မာန်အနန္တကရုဏာတော်ရှင် ၏ရှေ့တော်မှောက်ဝယ် (၎င်းတို့၏) အသံများမှာ ငြိမ်ဆိမ်၍ သွားကြပေမည်။သို့ဖြစ်ပေရာ အသင်သည် (တိုးတိုးပြောဆိုချက်) ခြေသံမှတစ်ပါး မည်သည့်အသံကိုမျှ ကြားလိမ့်မည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

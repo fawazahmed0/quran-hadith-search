@@ -710,6 +710,12 @@ Sŭtvorikhme gi samo s mŭdrost. Ala povecheto ot tyakh ne znayat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	ငါသည် ၎င်းတို့ကို တရားတော်အတွက်သာ ဖန်ဆင်းတော်မူ၏၊ သို့သော်အရေအတွက်များစွာသောသူတို့သည် မသိကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အမှန်စင်စစ်)ငါအရှင်မြတ်သည် ယင်းမိုးကောင်းကင်များနှင့် ပထဝီမြေနှစ်ခုစလုံးကို နက်နဲသိမ်မွေ့ တိကျမှန်ကန်သော အကြောင်းနှင့်တကွ ဖန်ဆင်းတော်မူခဲ့၏။ သို့ရာတွင် ၎င်းတို့အနက် များစွာသောသူတို့မှာ သိရှိကြသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Koito ne vyarvat i vŭzpirat ot pŭtya na Allakh, te dŭlboko se zabluzhdavat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၇။	မှတ်သားကြလော့။ အကြင်သူတို့သည် မယုံကြည်ကြ။ သူတစ်ပါးတို့ကို အလ္လာဟ်အသျှင်မြတ်၏ လမ်းတော်မှ တားဆီးပိတ်ပင်ကြ၏။ ထိုသူတို့သည် တရားလမ်းကြောင်းမှဝေးစွာ တိမ်းစောင်းသွား သူတို့ အမှန်ပင်ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အကြင်သူတို့သည် (တမန်တော်မုဟမ္မဒ်သည် နဗီဖြစ်ခြင်းနှင့်စပ်လျဉ်း၍ သက်သေခံအထင်အရှားရှိပါလျက်) မယုံမကြည် သွေဖည်ငြင်းပယ်ခဲ့ကြ၏။ ၎င်းပြင် အခြားသူများကို အလ္လာဟ်အရှင်မြတ်၏ (တရား) လမ်းတော်မှလည်း မြစ်တားခဲ့ကြ၏။ မလွဲဧကန် ထိုသူတို့သည် (တရားလမ်းမှန်မှ) အလွန်ကမ်းလှမ်းဝေးကွာသော လမ်းမှားသို့ ရောက်ရှိခဲ့ကြချေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

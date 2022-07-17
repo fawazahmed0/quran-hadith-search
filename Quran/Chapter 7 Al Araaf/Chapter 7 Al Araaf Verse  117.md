@@ -710,6 +710,12 @@ I dadokhme na Musa otkrovenie: “Metni svoyata toyaga!” I eto ya - poglŭshta
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၇။	ထိုအခါ ငါအသျှင်မြတ်သည် တမန်တော်မူဆာအား အို-မူဆာ သင်၏တောင်ဝှေးကို ပစ်ချလော့ဟု ဗျာဒိတ်ပေးတော်မူ၏။ တောင်ဝှေးသည် ပယောဂဆရာတို့ ဖန်တီးသောအရာများကို မြိုပစ်လိုက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ငါအရှင်မြတ်သည် (နဗီတမန်တော်)မူစာထံ အသင်သည် မိမိလှင်ကန်တောင်ဝှေးကို ပစ်ချလော့ဟူ၍ အမိန့်တော် ထုတ်ပြန်တော်မူခဲ့လေသည်။ သို့ဖြစ်ရာ[နဗီတမန်တော်(မူစာ)သည် မိမိလှင်ကန်တောင်ဝှေးကို ပစ်ချလေရာ] ထိုလှင်ကန် တောင်ဝှေးသည် ရုတ်တရက် (ေ)မနဂါးကြီးဖြစ်လာပြီး) ထိုမျက်လှည့်ဆရာများ လှည့်စားကြသည့် အရာများကို မျိုလေတော့သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

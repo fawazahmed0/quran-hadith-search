@@ -710,6 +710,12 @@ I reche: “Napusnete dvamata ottuk - vsichki! Vie ste [sŭs satanata] vragove e
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၃။	အရှင်မြတ်က သင်တို့နှစ်ဦးသည် ဥယျာဉ်တော်မှ ချက်ခြင်းထွက်သွားကြလော့၊ သင်တို့သည် ရန်သူများဖြစ် ကြလတ္တံ့၊ သို့သော်သင်တို့ထံသို့ ငါ့အထံတော်မှ အဆုံးအမတော်ကျရောက်လာသောအခါ အကြင်သူသည် ထိုညွှန်ပြချက်ကို လိုက်နာ၏၊ ထိုသူသည် လမ်းမှားသို့ ရောက်မည်မဟုတ်၊ ပျက်စီးဆုံးရှုံးခြင်းသို့လည်း ဆိုက်ရောက်မည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်က (ဤသို့)မိန့်ကြားတော်မူခဲ့၏။အသင်တို့နှစ်ဦးသည် ယင်းဂျန္နတ်အမတသုခဘုံမှ ဆင်းသွားကြလေကုန်။ အသင်တို့(၏သားသမီးများ) အနက် တစ်ဦးသည်တစ်ဦး၏ ရန်သူပင်ဖြစ်ပေမည်။ ထို့နောက် အကယ်၍ အသင်တို့ထံ ငါအရှင်မြတ်အထံတော်မှ တစ်စုံတစ်ရာ တရားလမ်းညွှန်ရောက်ရှိ လာသောအခါ မည်သူမဆို ငါအရှင်မြတ်၏ တရားလမ်းညွှန်အတိုင်း လိုက်နာခဲ့မူ ထိုသူသည် လမ်းမှားလိမ့်မည်လည်းမဟုတ်ပေ။ ဆင်းရဲဒုက္ခ(ပျက်စီးဆုံးရှုံးခြင်းနှင့်)တွေ့ကြုံရမည်လည်း မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

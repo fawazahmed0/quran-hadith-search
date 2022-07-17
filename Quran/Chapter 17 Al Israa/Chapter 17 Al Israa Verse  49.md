@@ -710,6 +710,12 @@ I kazvat: “Nima sled kato stanem kosti i prŭst, nima naistina shte bŭdem vŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	တဖန် သူတို့က အကျွနု်ပ်တို့သည် အရိုးများသော်လည်း၊ အရိုးအစိတ်စိတ်အမွှာမွှာသော်လည်းကောင်း၊ ဖြစ်သွား သောအခါ အကျွနု်ပ်သည် အမှန်ပင်လူသစ်ဖြစ်၍ ရှင်ပြန်ထမြောက်ရဦးမည်လောဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ၎င်းတို့က အသို့ပါနည်း၊ ကျွန်ုပ်တို့သည်အရိုးများသာကျန်ရှိ၍ စိစိကြေညက်လျက်ရှိကြသော အခါအသစ်ဖန်ဆင်း၍ ရှင်ပြန်ထစေခြင်းကို ခံကြရဦး မည်လောဟုပြောဆိုမေးမြန်းကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

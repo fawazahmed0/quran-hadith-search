@@ -710,6 +710,12 @@ i v tekhnite imoti imashe dyal za prosyaka i nuzhdaeshtiya se
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	ထို့အပြင်သူတို့၏ စည်းစိမ်ဥစ္စာမှ သူတောင်းစား၊ ဆင်းရဲသားနှင့် အခြားအောက်ကျနောက်ကျသူဆင်းရဲတို့ အတွက် သူတို့ရအပ်သောဝေစုရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ထိုသူတို့၏ ပစ္စည်းဥစ္စာများတွင် တောင်းရမ်းသော သူဆင်းရဲအဖို့လည်းကောင်း၊ (သိက္ခာစောင့်စည်းသောအားဖြင့်) တောင်းရမ်းခြင်းမပြုသော သူဆင်းရဲအဖို့လည်းကောင်း၊ ဝေစုဝေပုံ (အခွင့်အရေး) ရှိခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

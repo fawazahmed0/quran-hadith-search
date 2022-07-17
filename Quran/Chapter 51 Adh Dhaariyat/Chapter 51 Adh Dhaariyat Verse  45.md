@@ -710,6 +710,12 @@ I ne mozhakha da se izpravyat, i ne im se pomogna
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	ထိုအခါ သူတို့သည် ထိုင်ရာမှမထနိုင်ချေ၊ မိမိကိုယ်ကို မကူညီမစောင့်ရှောက်နိုင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ၎င်းတို့မှာ မတ်တပ်ရပ်နေရန်ပင် မတတ်စွမ်းနိုင်ခဲ့ကြပေ။ ထိုမှတစ်ပါး ၎င်းတို့သည် လက်စားချေနိုင်ခဲ့ကြသည်လည်း မရှိချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

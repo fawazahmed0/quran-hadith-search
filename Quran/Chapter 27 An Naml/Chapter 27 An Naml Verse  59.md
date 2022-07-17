@@ -710,6 +710,12 @@ Kazhi [o, Mukhammad]: “Slava na Allakh i mir za Negovite rabi, koito Toĭ e i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၉။	အို-မိုဟမ္မဒ်၊ ဟောကြားလော့၊ အလ္လာဟ်အရှင်မြတ်သည် ချီးမွမ်းခြင်းတည်ရာဖြစ်တော်မူပါ၏၊ အရှင်မြတ် ရွေးကောက်တော်မူခြင်းခံရသောအရှင်မြတ်၏ ကျေးတော်မျိုးကျွန်တော်မျိုးတို့အပေါ်သို့ အေးချမ်းသာယာခြင်း သက်ရောက်ပါစေသောဝ်၊ အလ္လာဟ်အရှင်မြတ်သည် အမြတ်ဆုံးလော၊ သို့မဟုတ်သင်တို့အရှင်မြတ်နှင့်တွဲဖက် သောဘုရားပျက်များအမြတ်ဆုံးလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ပြောကြားပါလေ။ ချီးမွမ်းထောပနာအပေါင်းတို့သည် အလ္လာဟ်အရှင်မြတ်နှင့်သာထိုက်၏။ ၎င်းပြင် ငြိမ်းချမ်းသာယာမှုသည် ထိုအရှင်မြတ် ရွေးချယ်တော်မူခဲ့သော ကျွန်များအပေါ်၌ ရောက်ပါစေသား။ အလ္လာဟ်အရှင်မြတ်သည် သာ၍ မြင့်မြတ်တော်မူပါသလော၊ သို့တည်းမဟုတ် ၎င်းတို့(အလ္လာဟ်အရှင်မြတ်နှင့်) တွဲဖက်နှိုင်းယှဉ် ကိုးကွယ်ကြသောအရာများသည်(သာ၍မြင့်မြတ်ကြ လေသလော။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

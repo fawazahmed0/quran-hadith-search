@@ -710,6 +710,12 @@ pri kogo shte doĭde pozoryashto go mŭchenie i kogo shte spoleti postoyanno m�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄ဝ။	ထိုအခါဘယ်သူဘယ်ဝါတို့ကို ဂုဏ်သရေယုတ်ညံ့စေသောအပြစ်ဒဏ်ထိသည်၊ ဘယ်သူဘယ်ဝါအပေါ်၌ အစဉ် အမြဲဆင်းရဲကြီးစွာ ခံစားရသည့်အတွက် အပြစ်ဒဏ်ရောက်လာသည်ကို သိရကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤပစ္စက္ခတွင်) မည်သူ၏ထံသို့ ၎င်းအား ဂုဏ်ရည်သေးသိမ်စေသော ပြစ်ဒဏ်ရောက်ရှိလာ၍ (နောင်တမလွန်ဘဝတွင်) မည်သူ၏အပေါ်၌ ထာဝစဉ် တည်ရှိနေမည်ဖြစ်သော ပြစ်ဒဏ် သက်ရောက်မည်ကို။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

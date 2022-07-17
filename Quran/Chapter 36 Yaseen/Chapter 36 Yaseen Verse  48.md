@@ -710,6 +710,12 @@ I kazvat: “Koga [shte se sbŭdne] tova obeshtanie, ako govorite istinata?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။ တဖန်ထိုသူမိုက်တို့မေးမြန်းကြသည်မှာ သင်တို့သည် အမှန်စကားကိုဆိုလျှင် ကတိထားတော်မူသောစစ်ကြော စီရင်မည့်နေ့တော်ကြီး မည်သည့်အခါကျရောက်မည်နည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ၎င်းတို့က "အကယ်၍ အသင်တို့သည် သစ္စာဝါဒီများဖြစ်ကြလျှင် ဤချိန်းဆိုချက်သည် မည်သည့်အခါ၌ ဖြစ်မြောက်လတ္တံ့"ဟု မေးမြန်းကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

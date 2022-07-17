@@ -710,6 +710,12 @@ I iskakhme tekhniyat Gospod da gi dari v zamyana s po-dobro po chistota i po-mil
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၁။	ထို့အပြင် ထိုလုလင်၏ မိဘတို့အား ၎င်းတို့၏ ကျေးဇူးတော်သခင်သည် သူထက်သာလွန်သန့်ရှင်းစင်ကြယ်၊ သနားကြင်နာတတ်သောသားကောင်းနှင့် သူ့ကို အစားထိုးဖို့ရာကို အကျွနု်ပ်တို့လိုလား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ၎င်းတို့နှစ်ဦးအား ၎င်းတို့၏ အရှင်မြတ်က ထိုသူငယ်ထက်(အကျင့်စာရိတ္တ)စင်ကြယ်သန့်ရှင်းရာတွင် ပိုမိုကောင်းမြတ်၍ (မိဘနှစ်ပါးအား) ချစ်ခင်မြတ်နိုး၍ထောက်ပံ့ရာတွင်လည်း ပိုမိုထူးကဲသော(သားသမီးမျိုးကို)အစားပေးတော်မူရန် ကျွန်ုပ်ရည်ရွယ်ခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

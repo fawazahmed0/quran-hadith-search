@@ -710,6 +710,12 @@ Allakh e s bogoboyazlivite i s blagodetelnite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၈။	မှတ်သားလော့။ အလ္လာဟ်အရှင်မြတ်သည် အရှင်မြတ်အား ကြောက်ရွံ့သူတို့နှင့်သော်လည်းကောင်း၊ သုစရိုက် ကောင်းမှုကို ပြုကျင့်သူတို့နှင့်သော်လည်းကောင်း၊ အတူတကွရှိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် (ပြစ်မှုဒုစရိုက်များမှ) ကြဉ်ရှောင်ကြကုန်သော သူတို့နှင့် အတူလည်းကောင်း၊ ကောင်းမြတ်သော အကျင့်သီလကို ကျင့်မူကြကုန်သောသူတို့နှင့်အတူလည်းကောင်း၊ ရှိတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

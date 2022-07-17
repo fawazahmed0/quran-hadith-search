@@ -710,6 +710,12 @@ do opredeleniya Den.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၀၊၈၁။	နင်သည် ချိန်းချက်သတ်မှတ်ထားသောအချိန်တိုင်အောင် အပြစ်ဒဏ်တော်ကို ရွှေ့ဆိုင်းထားခြင်းခံရသော သူတို့ဘောင်တွင် အပါအဝင်ဖြစ်၏ဟု အရှင်မြတ်ဗျာဒိတ်ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သတ်မှတ်ပြဋ္ဌာန်းပြီးဖြစ်သော အချိန်ကာလ(ဆိုက်ရောက်အံ့သော) နေ့တိုင်အောင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

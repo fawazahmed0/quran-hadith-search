@@ -710,6 +710,12 @@ i koito, ako gi spoleti nasilie, se branyat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	ထို့အပြင် ထိုသူတော်ကောင်းတို့သည် မိမိတို့အား မတရားညှင်းပန်းနှိပ်စက်သောအခါ ခေါင်းငုံ့မခံပဲ မိမိကို်ယ်ကို ကာကွယ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အကြင်သူတို့အဖို့ဖြစ်၏။ ထိုသူတို့သည် မတရားသဖြင့်နှိပ်စက်မှုကို ခံကြရသောအခါ ၎င်းတို့သည် မိမိတို့ခံကြရသည်နှင့်အမျှ လက်စားချေ လေ့ရှိကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

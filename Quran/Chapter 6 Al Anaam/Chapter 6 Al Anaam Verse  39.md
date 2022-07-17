@@ -710,6 +710,12 @@ A tezi, koito vzekha za lŭzha Nashite znameniya, sa glukhi i nemi v tŭmninite.
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	အကြင်သူတို့သည် ငါအသျှင်မြတ်၏ နှုတ်ကပတ်တော်များကို ငြင်းပယ်အံ့။ ထိုသူတို့သည် အမှောင်ထုထဲ၌ နားပင်းသူ၊ ဆွံ့အသူတို့ဖြစ်ကြ၏။ အလ္လာဟ်အသျှင်မြတ်သည် လမ်းမှားတွင် ပစ်ထားလိုတော်မူသောသူကို လမ်းမှားတွင် ပစ်ထားတော်မူ၏။ လမ်းမှန်ကိုရောက်စေလိုတော်မူသော သူကို လမ်းမှန်သို့ ပို့ဆောင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ငါအရှင်မြတ်၏ သက်သေလက္ခဏာတော်များကို မဟုတ်မမှန်ဟု ငြင်းပယ်သော သူတို့ကား နားပင်းသူများနှင့် ဆွံ့အသူများပင်ဖြစ်ကြကုန်၏။ အမှောင်အမျိုးမျိုးတွင်(တဝဲလည်လည်)ရှိကြကုန်၏။ အလ္လာဟ်အရှင်မြတ်သည်မိမိ အလိုရှိတော်မူသောသူအား (အမှန်တရားကိုသွေဖည်မှုကြောင့်) လမ်းလွဲ၌ပင် ရှိစေတော်မူ၏။ ၎င်းပြင် ထိုအရှင်မြတ်သည် မိမိအလိုတော်ရှိတော်မူသော သူအား (မိမိ၏ကျေးဇူးတော်ဖြင့်) ဖြောင့်မတ် မှန်ကန်သောတရားလမ်းပေါ်၌ တည်စေတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

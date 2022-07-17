@@ -710,6 +710,12 @@ Dvete grupi prilichat na slepiya i glukhiya, i na zryashtiya i chuvashtiya. Nima
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	မိစ္ဆာဝါဒီနှင့် သမ္မာဝါဒီတို့၏ ပမာမှာ အယူမှားသူတို့ကား မျက်စိမမြင်၊ နားမကြား၊ အယူမှန်သူတို့ကား မျက်စိမြင်နားကြားသူတို့အသီးသီးဖြစ်ကြ၏။ ထိုဥပမာနှစ်ချက်သည် ထပ်တူထပ်မျှဖြစ်သလော၊ သို့ပါလျက် သင်တို့သည် အဆုံးအမခံကြမည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (သက်ဝင်ယုံကြည်သူနှင့် သွေဖည်ငြင်းပယ်သူ)အုပ်စုနှစ်စု၏ ဥပမာကား မျက်စိကန်းသူနှင့်နားပင်းသူ၊ မျက်စိမြင်သူနှင့်နားကြားသူကဲ့သို့ပင်။ ထိုသူတို့နှစ်ဦးသည် အခြေအနေအားဖြင့် တူကြလေသလော။ သို့ဖြစ်ပါလျက် အသင်တို့သည် သတိတရား မရရှိကြပါသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

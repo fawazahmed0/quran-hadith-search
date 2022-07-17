@@ -710,6 +710,12 @@ I napravi, kakvoto napravi. Ti si ot neblagodarnite.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	အို--မူစာ၊ သင်အမှုအခင်းတစ်ခုကို ပြုကျင့်ခဲ့သည်ကို သင်ကောင်းစွာသိ၏၊ သင်သည် ကျေးဇူးကန်းသူတို့ ဘောင်တွင် ပါဝင်၏ဟု ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်သည် မိမိပြုခဲ့သောပြစ်မှုကိုလည်း ကျူးလွန်ခဲ့သည် မဟုတ်လော။ စင်စစ် အသင်သည် ကျေးဇူးမသိတတ်သူ တစ်ဦးပင် ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

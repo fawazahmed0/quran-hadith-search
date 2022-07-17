@@ -710,6 +710,12 @@ v Denya, kogato bŭdat vlacheni po litse v Ogŭnya: “Vkusete dopira na Ada!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	ထိုသူယုတ်မာတို့ကို မျက်နှာမှောက်ခုံထား၍ ငရဲမီးထဲသို့ ဆွဲငင်ပစ်ချသောနေ့တော်ကြီး၌ သူတို့အား ငရဲမီးကို စမ်းသပ်ကြည့်ကြလော့ဟု မိန့်တော်မူလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် မှောက်လျက် ငရဲမီး၌ တရွတ် တိုက်ဆွဲချခြင်းကို ခံကြရသောနေ့တွင် ‘အသင်တို့သည် ငရဲမီး ထိရောက်ခြင်း၏ ရသာကို မြည်းစမ်းကြ ကုန်’(ဟု မိန့်ကြားတော်မူခြင်းကို ခံကြရလတ္တံ့)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ za tyakh e radostnata vest v zemniya zhivot i v otvŭdniya. Neizmenni sa Slovata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၄။	ထိုသူတို့သည် ဤဘဝနောင်တမလွန်ဘဝ၌ သတင်းကောင်းမင်္ဂလာများရှိကြ၏။ ယင်းသည် အထွဋ်အထိပ် အောင်မြင်မှုဖြစ်သည်။ အလ္လာဟ်အရှင်မြတ်၏ ဗျာဒိတ်စကားတော်များ၌ ပြောင်းလဲခြင်းမရှိပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်း(အဆွေတော်)တို့အဖို့ လောကီဘဝတွင်လည်းကောင်း၊ တမလွန်ဘဝတွင် လည်းကောင်း၊ ဝမ်းမြောက်ဖွယ်ရာ သတင်းကောင်းသည် ရှိပေသည်။ အလ္လာဟ်အရှင်မြတ်၏အာယတ်တော်များ၌ ပြောင်းလဲခြင်း အလျဉ်းမရှိချေ။ ဤသည်သာလျှင် ကြီးကျယ်မြင့်မြတ်လှစွာသော အောင်မြင်မှုပေတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ i se vslusha v svoya Gospod, i se podchini
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၊၂။ မိုးကောင်းကင်သည် အစိတ်စိတ်အမွှာမွှာစုတ်ပြတ်သွား၍ မိမိအရှင်သခင်၏ အမိန့်တော်ကို ကြောက်ရွံ့သေချာစွာ နာခံရသောအခါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုမိုးကောင်းကင်သည် မိမိအား ဖန်ဆင်းတော်မူသော အရှင်မြတ်၏ အမိန့်တော်ကို နာခံပေမည်။စင်စစ် ယင်းမိုးကောင်းကင်သည် (ယင်းသို့ နာခံရန်သာ)ထိုက်တန်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

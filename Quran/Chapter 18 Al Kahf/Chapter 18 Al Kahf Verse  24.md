@@ -710,6 +710,12 @@ ne dodavši: “Ako Bog da!” A kad zaboraviš, sjeti se Gospodara svog i reci:
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	အကယ်၍ အလ္လာဟ်အရှင်မြတ်အလိုတော်ရှိပါလျှင်၊ ဆောင်ရွက်ပါမည်ဟု ပြောလော့။ အဘယ်အခါမဆို သင် သည် ယင်းသို့တိုင်ကြားရမည်ကို သတိလစ်ခဲ့လျှင် သတိရသည်နှင့်တပြိုင်နက် သင်၏ အရှင်သခင်ကို အောက်မေ့တသလော့။ ထို့အပြင်အကျွနု်ပ်၏ ကျေးဇူးတော်သခင်သည် ဤသည်ထက် သစ္စာတရားတော်နှင့် သာလွန်နီးကပ်သောအရာသို့ အကျွနု်ပ်အား ညွှန်ပြတော်မူကောင်းမူလိမ့်မည်ဟု ပြောလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အလ္လာဟ်အရှင်မြတ် အလိုရှိတော်မူပါလျှင်(ပြုလုပ်အံ့ဟုပြောပါလေ)။ ထိုမှတစ်ပါး အသင်သည်မေ့လျော့၍သွားခဲ့သော်(ပြန်လည်၍ သတိရလာသောအခါ ချက်ချင်း) မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်ကိုအောက်မေ့တသ သတိရပါလေ။ ၎င်းပြင် အသင်သည် (၎င်းတို့အား အချင်းတို့၊)ငါ့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် တရားလမ်းညွှန်ရာ၌ ဤသည်ထက်ပိုမို၍ နီးစပ်သောအရာကို ညွှန်ပြတော်မူတန်ရာသည် ဟု ပြောကြားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

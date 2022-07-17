@@ -710,6 +710,12 @@ I veche dadokhme na Musa devet yasni znameniya. I pitaĭ [o, Mukhammad] sinovet
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၁။	အကယ်စင်စစ်ငါသည် တမန်တော်မူစာအား အလ္လာဟ်အရှင်မြတ်၏ အချုပ်အခြာအာဏာကို ထောက်ခံသော ခိုင်မာသည့်သက်သေခံချက်လက္ခဏာတော်ကိုးပါးကို ပေးသနားတော်မူ၏။ သို့သော်အစ္စရာအီလ်အမျိုးသားတို့ အား တမန်တော်မူစာသည် သူသည် ၎င်းတို့ထံသို့ အဘယ်သို့လာရောက်သည်ကို မေးမြန်းလော့။ ထိုအခါ ဖွာရောမင်းက တမန်တော်အား အို-မူစာ၊ အကျွနု်ပ်သည် သင့်အား စုံးပူးခံရသူဟု ယူဆ၏ဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (နဗီတမန်တော်) မူစာသည် အစ္စရာအီလီမျိုးနွယ်တို့ထံ ရောက်ရှိလာသောအခါ မချွတ်မလွဲ ငါအရှင်မြတ်သည် ယင်းမူစာအား တန်ခိုးပြာဋိဟာကိုးပါးကို ချီးမြှင့်ပေးသနားတော်မူခဲ့လေသည်။ သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်)အသင်သည် (ဤအကြောင်းကို) အစ္စရာအီလီမျိုးနွယ်တို့အားမေးမြန်းစုံစမ်း၍ကြည့်ပါလေ။ ထို(ကဲ့သို့မူစာ ရောက်လာသော)အခါ ယင်းမူစာအား ဖိရ်အောင်(န်)က အို-မူစာ၊ ဧကန်စင်စစ်ကျွန်ုပ်သည် အသင့်အား စုန်းပြုစားခြင်းခံရသူဖြစ်သည်ဟု ထင်မှတ်ကြောင်း ပြောဆိုခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Predpochetokha da sa zaedno s ostavashtite i byakha zapechatani sŭrtsata im, ta
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၇။	သူတို့သည် အသုံးမကျသူတို့နှင့် အတူတကွနေထိုင်ခြင်းဖြင့် တင်းတိမ်ရောင့်ရဲကြ၏။သူတို့၏ စိတ်နှလုံးကို တံဆိပ်ခတ်နှိပ်ထားတော်မူ၏။ထို့ကြောင့်သူတို့သည် မသိနားမလည်ကြပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့သည် (စစ်မက်ပြိုင်ဆိုင် တိုက်ခိုက်ရန်မလိုက်ကြပဲ) နောက်၌ကျန်ရစ်ခဲ့သော အမျိုးသမီးတို့နှင့်အတူနေရစ်ခဲ့ခြင်းကိုပင်၊ နှစ်သက်ခဲ့ကြလေသည်။ ၎င်းပြင် ထိုသူတို့၏ စိတ်နှလုံးများအပေါ်၌လည်း တံဆိပ်ခတ်နှိပ်ပြီး ဖြစ်ခဲ့လေသည်။ သို့ဖြစ်ပေရာ ၎င်းတို့သည် (ဂျိဟာဒ် စစ်မက်ပြိုင်ဆိုင်တိုက်ခိုက်ခြင်း၏ သဘောတရား အစစ်အမှန်ကို အလျှင်း)သိမြင်နားလည်ကြသည် မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

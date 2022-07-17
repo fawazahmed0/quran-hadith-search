@@ -710,6 +710,12 @@ Naistina Allakh znae vyarvashtite i znae litsemerite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	အကယ်စင်စစ်အလ္လာဟ်အရှင်မြတ်သည် ယုံကြည်သူတို့ကို မုချသိတော်မူ၏၊ ယုံကြည်ဟန်ဆောင်သူတို့ကိုလည်း အမှန်သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် "မုအ်မင်န်"သက်ဝင်ယုံကြည်သူတို့အား ခွဲခြားသိမြင်အောင် ပြုလုပ်တော်မူမည်။ ထိုနည်းတူစွာ ထိုအရှင်မြတ်သည် ‘မုနာဖစ်က်’ အယောင်ဆောင်တို့အားလည်း ခွဲခြားသိမြင်အောင် ပြုလုပ်တော်မူအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Naistina Nie sŭzhivyavame i umŭrtvyavame, i Nie sme naslednitsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	မှတ်သားကြလော့။ ငါသာလျှင် အသက်ရှင်ခြင်း၊ သေခြင်းတို့ကို စီရင်တော်မူ၏။ ငါသည် ဝေနေယျသတ္တဝါ အပေါင်းတို့၏ အမွေစားအမွေခံဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ဧကန်မလွဲ ငါအရှင်မြတ်သည်ပင်လျှင် ရှင်စေတော်မူ၏။ ထိုနည်းတူစွာ ငါအရှင်မြတ် သည်ပင်လျှင်သေစေတော်မူ၏။ ၎င်းအပြင် ငါအရှင် မြတ်သည်ပင်လျှင်အမွေစားအမွေခံ ဖြစ်တော်မူ၏။ (ကျန်ရစ်တော်မူမည့်အရှင်ဖြစ်တော်မူ၏။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

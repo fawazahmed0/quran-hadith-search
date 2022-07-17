@@ -710,6 +710,12 @@ I kogato vidya, che rŭtsete im ne posyagat kŭm nego, tova ne mu kharesa i spot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇ဝ။	ဧည့်သည်တော်တို့သည် အစားအစာသို့ လက်မလှမ်းသည်ကို သူမြင်ရသောအခါ သူတို့ကို မသင်္ကာဖြစ်ပြီးလျှင် ကြောက်စိတ်ပေါ်လာ၏။ သူတို့က တမန်တော် မစိုးရိမ်ပါလင့်။ အကျွနု်ပ်တို့အား တမန်တော်လွတ်၏ အမျိုးသား တို့ထံသို့ အမှန်စေလွှတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် ထိုစေတမန်များ၏ လက်များသည်ထိုကင်ထားသော နွားကလေးသို့ ကမ်းလှမ်းခြင်းမရှိသည်ကိုယင်း(နဗီတမန်တော်)အစ်ဗ်ရာဟီမ်တွေ့မြင်ခဲ့လေရာ ထို(နဗီတမန်တော်)အစ်ဗ်ရာဟီမ်သည် ၎င်းတို့အား မယုံသင်္ကာဖြစ်ခဲ့လေ၏။ ထို့ပြင် ယင်း(နဗီတမန်တော်)အစ်ဗ်ရာဟီမ်သည်(မိမိ)စိတ်ထဲတွင် ၎င်းတို့ဖက်မှစိုးရိမ်ခဲ့လေ၏။ (ထိုအခါ) ၎င်းစေတမန်တို့က (အို-နဗီ တမန်တော်အစ်ဗ်ရာဟီမ်) အသင်သည်မစိုးရိမ်ပါလေနှင့်၊ ဧကန်စင်စစ် ကျွန်ုပ်တို့သည် (နဗီတမန်တော်လူ(တ်)၏အမျိုးသားတို့ထံ စေလွှတ်ခြင်းခံခဲ့ကြရ(ကုန်သောကောင်းကင်စေတမန်များပင်ဖြစ်ကြ)သည်ဟု ပြောဆိုခဲ့ကြလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

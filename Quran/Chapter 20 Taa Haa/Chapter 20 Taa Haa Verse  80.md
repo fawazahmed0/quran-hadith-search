@@ -710,6 +710,12 @@ O, sinove na Israil, Nie vi spasikhme ot vashiya vrag i opredelikhme za sreshta 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈ဝ။	အို--အစ္စရာအီလ်အမျိုးသားတို့ ငါအရှင်မြတ်သည် သင်တို့အား ရန်သူ၏လက်မှ ကယ်နှုတ်တော်မူ၏။ ငါသည် သင်တို့နှင့် မြင့်မြတ်၍ မင်္ဂလာရှိသောတောင်ကဘယံပေါ်တွင် ပဋိညာဉ်ဖွဲ့တော်မူ၏။ ထို့အပြင်သင်တို့ထံသို့ ငုံးနှင့် မန်နကို ချပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-အစ္စရာအီလီမျိုးနွယ်အပေါင်းတို့၊ ဧကန်အမှန်၊ ငါအရှင်မြတ်သည် အသင်တို့အား အသင်တို့၏ ရန်သူ(၏ဘေးအန္တရာယ်)မှ ကယ်တင်တော်မူခဲ့လေပြီ။ ၎င်းပြင်ငါအရှင်မြတ်သည် အသင်တို့အား(အသင်တို့၏)လက်ယာဘက်၌ရှိသော တူရ်မည်သောတောင်၏နံဘေး(သို့လာကြရန်) ချိန်းချက်တော်မူခဲ့လေသည်။ ထိုမှတစ်ပါး ငါအရှင်မြတ်သည်အသင်တို့အပေါ်၌ မန္န(မုန့်ချိုတစ်မျိုး)ကိုလည်းကောင်း၊စလ်ဝါ(ငုံးသတ္တဝါတစ်မျိုး)ကိုလည်းကောင်း၊ ချပေးသနားတော်မူခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

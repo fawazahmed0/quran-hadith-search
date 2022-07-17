@@ -710,6 +710,12 @@ Nito te imat znanie za tova, nito predtsite im. Golyama duma izliza ot ustata im
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၊၅။	မိမိတို့မိဘဘိုးဘွားသော်လည်းကောင်း၊ သူတို့သော်လည်းကောင်း၊ မသိပဲလျက် အလ္လာဟ်အရှင်မြတ်သည် သားရတနာတပါးကို ရွေးကောက်ထားတော်မူ၏ဟု ဆိုသူတို့အား သတိပေးဆုံးမဖို့ရာ ကျမ်းတော်မြတ်ကို ထုတ်ပြန်တော်မူ၏။ သူတို့နှုတ်မှ ထွက်သောစကားသည် အလွန်ကြောက်မက်ဖွယ်ကောင်းလှ၏။ သူတို့သည် မုသားမှတပါး အခြားစကားကို မဆိုချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (စင်စစ်)ထိုသူတို့လည်းဤ(စွပ်စွဲချက်)နှင့်စပ်လျဉ်း၍မည်သည့်သက်သေသာဓက တစ်စုံတစ်ရာမျှပင်မရှိပေ။ ထိုနည်းတူစွာ ၎င်းတို့၏ အဖ၊ ဘိုး၊ ဘေးတို့၌လည်း (မည်သည့်အသိပညာ သက်သေသာဓက တစ်စုံတစ်ရာမျှပင်မရှိချေ။ ၎င်းတို့၏နှုတ်မှထွက်သောစကားသည်အလွန်ကြီးကျယ်လှပေသည်။၎င်းတို့သည် မဟုတ်မမှန်မုသား(စကား)ကိုသာ ပြောဆိုကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

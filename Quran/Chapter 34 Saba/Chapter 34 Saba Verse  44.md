@@ -710,6 +710,12 @@ I ne im dadokhme predi teb pisaniya, koito da izuchavat, i ne im izpratikhme pre
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	ထို့အပြင်အို-တမန်တော်၊ သင်မပွင့်မီထိုသူတို့ထံသို့ ငါအရှင်မြတ်သည် သူတို့လေ့လာဖို့ရာ ကျမ်းတော်ထုတ်ပြန် ပို့ချပေးသနားတော်မမူခဲ့ချေ၊ သူတို့ကို သွန်သင်ဆုံးမသတိပေးဖို့ရာ တမန်တော်ကိုလည်း စေလွှတ်တော်မမူခဲ့ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်မှာမူကား ငါအရှင်မြတ်သည် ၎င်းတို့အား ကျမ်းဂန်များကို ချီးမြှင့်ပေးသနားတော်မူခဲ့ သည်လည်းမဟုတ်။ ၎င်းတို့သည် ယင်းကျမ်းဂန်များကို ဖတ်ရွတ်သင်ကြားလျက်ရှိကြသည်(လည်းမဟုတ် ပေ)၊ ငါအရှင်မြတ်သည် အသင့်အလျင် ၎င်းတို့ထံ သတိပေး နှိုးဆော်သူတစ်ဦးတစ်ယောက်ကိုမျှစေလွှတ် တော်မူခဲ့သည်လည်း မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

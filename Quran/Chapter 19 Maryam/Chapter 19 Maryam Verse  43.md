@@ -710,6 +710,12 @@ O, tatko moĭ, na men naistina mi se yavi ot znanieto onova, koeto ne doĭde p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	အို-မွေးသဖခင်၊ ဖခင်ထံသို့ မကျရောက်လာသောပညာအလင်းရောင်သည် အကျွနု်ပ်ထံသို့ ကျရောက်လာပြီ၊ ထို့ကြောင့်အကျွနု်ပ်နောက်သို့ လိုက်ပါလော့၊ အကျွနု်ပ်သည် ဖခင်အား လမ်းမှန်သို့ ညွှန်ပါမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ကျွန်ုပ်၏ဖခင်၊ အသင်(ဖခင်)၏ထံသို့ မရောက်ခဲ့သော အသိပညာ(ဝဟီအမိန့်တော်)ကား ဧကန်မလွဲကျွန်ုပ်ထံရောက်လာခဲ့ပြီဖြစ်ပါ၍ အသင်(ဖခင်)သည် ကျွန်ုပ်၏နောက်သို့လိုက်ခဲ့ပါ။ ကျွန်ုပ်သည် အသင်(ဖခင်)အား ဖြောင့်မတ်သောတရားလမ်း မှန်ကို ပြသပါမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

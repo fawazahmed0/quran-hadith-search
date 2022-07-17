@@ -710,6 +710,12 @@ Samudyanite i aditite vzekha za lŭzha Bedstvieto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။ စမူးဒ်အသင်းသားနှင့် အားဒ်အသင်းသားတို့သည် တရားစီရင်တော်မူသောနေ့တော်ကြီး ဆိုက်ရောက်လာမည်ကို မယုံကြည်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဆမူဒ်"လူမျိုးတို့သည်လည်းကောင်း၊ "အာဒ်"လူမျိုးတို့သည်လည်းကောင်း၊ ဆိုက်ရောက်အံ့သော ဘေးကြီး(ဝါ) "ကိယာမတ်"ကို မဟုတ်မမှန်ဟူ၍ စွပ်စွဲ ငြင်းပယ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

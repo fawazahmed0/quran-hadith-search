@@ -710,6 +710,12 @@ Allakh! Nyama drug Bog osven Nego - Vechnozhiviya, Neizmenniya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	အလ္လာဟ်အရှင်မြတ်မှတပါး အခြားအရှင်သခင်မရှိပေ။ အရှင်မြတ်သည် အသက်ရှင်နေတော် မူသောအရှင်၊ နိစ္စထာဝရ တည်ရှိတော်မူသော အရှင်မြတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည်သာလျှင် (ခဝပ်ကိုးကွယ် ရာအရှင်ဖြစ်တော်မူ၏။) ထိုအရှင်မြတ်မှတစ်ပါး ခဝပ်ကိုးကွယ်ရာဟူ၍ အလျင်းမရှိချေ။ (ထိုအရှင်မြတ်သည် မရဏသေခြင်းတရားမှ လုံးဝကင်းစင်တော်မူ၍) နိစ္စထာဝရ အမြဲရှင်နေတော်မူသောအရှင်၊ (မိမိကိုယ်တော်တိုင် အမြဲထာဝရတည်နေတော်မူ၍ သက်ရှိသက်မဲ့ အပေါင်းတို့အား) ထိန်းသိမ်းစောင့်ရှောက်တော် မူသောအရှင်မြတ် ဖြစ်တော်မူလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

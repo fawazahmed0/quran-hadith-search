@@ -710,6 +710,12 @@ Rekokha: “Kŭlnem se v Allakh, veche uznakhte - ne sme doshli da pakostim po z
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၃။	ထိုခရီးသည်တို့က အလ္လာဟ်အရှင်မြတ်ကို တိုင်တည်ပါ၏။ အကျွနု်ပ်တို့သည် ပြစ်မှုကျူးလွန်ဖို့မလာကြောင်းကို သင်တို့ကောင်းစွာသိပါ၏။ အကျွနု်ပ်တို့သည် သူခိုးမဟုတ်ပါဟု ပြောပြကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ၎င်းတို့က(ဤသို့)ပြောဆိုဖြေ ကြားခဲ့ကြလေသည်။ အလ္လာဟ်အရှင်မြတ်အား တိုင်တည်၍ပြောအံ့။ကျွန်ုပ်တို့သည် တိုင်းပြည်တွင် ဆူပူသောင်းကျန်ရန်အတွက်လာခဲ့ကြသည်မဟုတ်ကြောင်း။ ထို့ပြင် ကျွန်ုပ်တို့သည် ခိုးသားများလည်း မဟုတ်ကြောင်း။ အသင်တု့ိသည် ကောင်းစွာ သိရှိခဲ့ကြပြီးဖြစ်ကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

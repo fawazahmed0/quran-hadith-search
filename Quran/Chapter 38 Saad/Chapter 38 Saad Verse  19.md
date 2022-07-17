@@ -710,6 +710,12 @@ I ptitsite nasŭbrani - vsichki mu se podchinikha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	ထို့အပြင်ငှက်အပေါင်းတို့လည်း စုရုံးစည်းဝေး၍ အလ္လာဟ်အရှင်မြတ်အား နားစွင့်နေကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ(ငါအရှင်မြတ်သည်)ငှက် တိရစ္ဆာန်များကိုလည်း စုရုံးစေလျက်(လိုက်နာစေတော်မူခဲ့ရာ ယင်းငှက်တိရစ္ဆာန်များမှာ) ထို"ဒါဝူဒ်" နှင့်အတူ (အလ္လာဟ်ဘက်တော်သို့)လွန်စွာ ပြန်လှည့်သူများ(ဘာဝနာစီးဖြန်းသူများ)ပင် ဖြစ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

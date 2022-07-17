@@ -710,6 +710,12 @@ Denya, v koĭto khorata shte zastanat pred Gospoda na svetovete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။ ထိုနေ့တော်ကြီး၌ လူသားအားလုံးတို့သည် အနန္တစကြာဝဠာတို့၏ အရှင်သခင်မျက်မှောက်တော်သို့ ဝင်၍ အစစ်ခံရန် စီတန်းကြရလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်နေ့တွင် လူခပ်သိမ်းတို့သည် စကြဝဠာခပ်သိမ်းကို ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ ရှေ့တော်မှောက်တွင် ရပ်ကြကုန်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

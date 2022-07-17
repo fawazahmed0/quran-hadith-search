@@ -710,6 +710,12 @@ Allakh uvelichava prepitanieto za kogoto pozhelae i Toĭ go namalyava. I radvat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	အလ္လာဟ်အရှင်မြတ်သည် စည်းစိမ်ဥစ္စာကို ကျယ်ဝန်းစေတော်မူလိုသောသူအဖို့ ကျယ်ဝန်းစေတော်မူ၏။ ရှားပါး ကျပ်တည်းစေတော်မူလိုသောသူအဖို့ ရှားပါးကျပ်တည်းစေတော်မူ၏။ သူတို့သည် လောကီစည်းစိမ်၌ မက်မော ပျော်ရွှင်ကြ၏။ သို့သော်နောင်တမလွန်ဘဝနှင့်နှိုင်းယှဉ်လျှင် ဤမျက်မှောက်ဘဝသည် ခေတ္တခဏအချိန်မျှသာ ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် မိမိအလိုရှိတော်မူသောသူအား စားနပ်ရိက္ခာကို တိုးချဲ့၍ပေးတော်မူ၏။ ထိုနည်းတူစွာ ထိုအရှင်မြတ်သည်(မိမိအလိုရှိတော်မူသောသူ၏အပေါ်၌ စားနပ်ရိက္ခာကို) ကျဉ်းမြောင်း စေတော်မူ၏။ သို့ရာတွင်ထိုသူတို့သည် ဤလောကီဘဝ၌ အသက်ရှင်မှုကြောင့်ပင် ဝမ်းမြောက်ရွှင်မြူးခဲ့ကြလေသည်။ စင်စစ်မှာမူကား ဤလောကီဘဝ၌ အသက်ရှင်မှုသည် အနည်းငယ်တဒင်္ဂမျှ အကျိုးခံစားခြင်းသာလျှင် ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

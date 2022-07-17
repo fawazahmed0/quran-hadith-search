@@ -710,6 +710,12 @@ No Allakh ne shte gi mŭchi, dokato si sred tyakh, i Allakh ne shte gi mŭchi, d
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	သို့သော အလ္လာဟ်အသျှင်မြတ်သည် သူတို့အား သင်သည် သူတို့နှင့်အတူတကွရှိနေစဉ် အပြစ်ဒဏ် တပ်ရိုက်တော့မည်မဟုတ်ပေ။ သူတို့သည် ငါအသျှင်မြတ် အပြစ်လွှတ်တော်မူခြင်းကို ရှာမှီးနေစဉ် လည်း သူတို့ကို အပြစ်ဒဏ်ခတ်မည်မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့တွင် အသင်(နဗီတမန်တော်)ရှိနေစဉ် ၎င်းတို့အားပြစ်ဒဏ်ပေးတော်မူမည် မဟုတ်ပေ။ ထိုနည်းတူစွာ ၎င်းတို့သည် ပြစ်မှုဒုစရိုက်တို့မှ လွတ်ငြိမ်းချမ်းသာခွင့်ရရန် ဆုပန်လျက် ရှိနေခိုက်လည်း အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့အားပြစ်ဒဏ်ပေးတော်မူမည် မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

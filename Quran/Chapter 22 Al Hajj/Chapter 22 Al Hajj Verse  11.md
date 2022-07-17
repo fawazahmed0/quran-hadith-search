@@ -710,6 +710,12 @@ Nyakoĭ ot khorata sluzhi na Allakh s kolebanie. Ako mu se sluchi dobro, toĭ 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	လူသားတို့အနက် သူတစ်ဦးတစ်ယောက်ရှိ၏၊ ထိုသူသည် နှစ်ခွသောစိတ်နှင့်သာ အလ္လာဟ်အရှင်မြတ်အား ခဝပ်ကိုးကွယ်၏၊ ထိုသူသည် လောကီစည်းစိမ်ရရှိသောအခါ၊ သာသနာတော်၌ ရောင့်ရဲတင်းတိမ်ပျော်မွေ့၏၊ သို့သော်ဘေးဥပါဒ်အားဖြင့် စုံစမ်းခြင်းကို ခံရသောအခါ သူသည် တရားတော်ကို စွန့်လွှတ်၏၊ ထိုသူသည် ဤဘဝနောင်ဘဝ၊ နှစ်ဘဝများကို ဆုံးရှုံး၏၊ ဤသည်ကား ဆုံးရှုံးခြင်းတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် လူတို့တွင် ဘေးအစွန်းဖျား၌(ရပ်တည်၍)အလ္လာဟ်အရှင်မြတ်အား ခဝပ်ကိုးကွယ်သူ လည်းရှိပေသည်။ တစ်ဖန် အကယ်၍ ထိုသူ၌အကျိုးကျေးဇူး တစ်စုံတစ်ရာသက်ရောက်ခဲ့သည်ရှိသော် ထိုသူသည် ထိုအခြေအနေကို နှစ်သိမ့်ကျေနပ်ခဲ့လေသည်။ သို့ရာတွင် အကယ်၍ ထိုသူ၌စမ်းသပ်မှု တစ်စုံတစ်ရာသက်ရောက်ခဲ့မှု ထိုသူသည် မိမိမျက်နှာလှည့်၍ ပြန်သွားခဲ့လေသည်။ ထိုသူသည် (ဤ)ပစ္စက္ခ လောကီဘဝကိုလည်းကောင်း၊ နောင်တမလွန်ဘဝကို လည်းကောင်း၊(နှစ်ခုစလုံးကိုပင်)လက်လွတ်ဆုံးရှုံးခဲ့လေသည်။ ဤသည်ထင်ရှားသော ပျက်စီးဆုံးရှုံးမှုပင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

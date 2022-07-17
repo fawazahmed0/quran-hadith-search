@@ -710,6 +710,12 @@ I ako se podchinish na povecheto ot tezi, koito sa na zemyata, shte te otklonyat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၆။	အကယ်၍ သင်သည် ကမ္ဘာမြေပေါ်ဝယ်ရှိသူတို့အနက် များပြားသူတို့၏စကားကို နားထောင်လျှင် သူတို့သည် သင့်ကို အလ္လာဟ်အသျှင်မြတ်၏ လမ်းတော်မှဝေးစွာ တိမ်းစောင်းစေကြလိမ့်မည်။ သူတို့သည် မိမိတို့စိတ်ထင်မြင်ရာမှတစ်ပါး အခြားအရာ တစ်စုံတစ်ရာကိုမျှ မလိုက်နာကြပေ။ သူတို့သည် ရမ်းဆခြင်းကိုသာ ပြုလုပ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အကယ်၍သာ အသင်သည်ကမ္ဘာမြေဝယ်ရှိ မြောက်မြားစွာသောသူတို့၏ စကားကို လိုက်နာခဲ့မူ၊ ထိုသူတို့သည် အသင့်အား အလ္လာဟ်အရှင်မြတ်၏လမ်းမှလွဲချော်မှောက်မှားစေကြကုန်အံ့။ ၎င်းတို့သည် ထင်မြင်ချက်မှအပ အခြားမည်သည်ကိုမျှ လိုက်နာကြမည်မဟုတ်ပေ။ စင်စစ်သော်ကား ထိုသူတို့သည် ရမ်းဆပြောဆိုသူများသာ ဖြစ်ကြချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

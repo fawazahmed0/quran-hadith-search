@@ -710,6 +710,12 @@ A vie minavate pokraĭ tyakh sutrin
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၇၊၁၃၈။ တဖန်မှတ်သားကြလော့၊ ကြားနရသူအပေါင်းတို့၊ သင်တို့သည် ၎င်းလူဟောင်းတို့နေထိုင်ဖူးသောမြို့ဟောင်း ရွာဟောင်းများသို့ နေ့ညဉ့်မပြတ်အထပ်ထပ်မုချဧကန် သွားလာရောက်ပေါက်ဖူးကြ၏၊ ထိုိ့ကြောင့်သင်တို့တွင် စဉ်းစားဉာာဏ်မရှိကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်ဆိုသော် မုချဧကန် အသင်တို့သည် နေ့အခါ၌ ၎င်းတို့၏(ပျက်စီးနေသောမြို့ရွာ)အနီးမှ ဖြတ်သန်းသွားလာလျက်ပင် ရှိကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

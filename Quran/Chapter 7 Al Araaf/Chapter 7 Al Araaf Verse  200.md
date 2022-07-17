@@ -710,6 +710,12 @@ A ako te izkusi ot satanata izkushenie, potŭrsi ubezhishte pri Allakh! Toĭ e 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝဝ။	ရှိုင်တန်မာရ်နတ်သည် သင့်အား ဖြားယောင်းသွေးဆောင်သောအခါ သင်သည် အလ္လာဟ်အသျှင်မြတ် ၌ ခိုလှုံ့လော့။ မှတ်သားလော့။ အသျှင်မြတ်သည် ကြားတော်မူသောအသျှင် ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အကယ်၍ ရှိုင်တွာန်၏ထံမှ တစ်စုံတစ်ရာ အကြံပေးချက်သည် အသင်(၏စိတ်နှလုံး)၌ သက် ရောက်ခဲ့ါမူ အသင်သည်(ချက်ချင်းပင်)အလ္လာဟ် ရှင်မြတ်၏ကာကွယ်စောင့်ရှောက်မှုကို ဆည်းပူးရှာဖွေ (ရယူ)ပါလေ။ စင်စစ်ဧကန် ထိုအရှင်မြတ်သည် (အလုံးစုံကို) အကြွင်းမဲ့ ကြားတော်မူ သောအရှင်၊ (အရာခပ်သိမ်းတို့ကို) အကြွင်းမဲ့ သိရှိတော်မူသောအရှင်မြတ်ပင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

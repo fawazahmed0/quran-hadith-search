@@ -710,6 +710,12 @@ I namerikha edin ot Nashite rabi, komuto byakhme okazali milost i go byakhme nau
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၅။	ထိုအခါသူတို့သည် ငါ့အထံတော်မှ ကောင်းကြီးမင်္ဂလာတော်နှင့် အသိဉာာဏ်ပညာတို့ဖြင့် ငါချီးမြှောက်တော်မူသော ငါ၏ ကျေးကျွန်တယောက်ကို တွေ့ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ထိုနှစ်ဦးသည် ငါအရှင်မြတ်၏ ကျွန်များအနက် ကျွန်တစ်ပါးကို တွေ့ရှိကြလေသည်။ ငါ အရှင်မြတ်သည် ထိုကျွန်အား မိမိအထံတော်မှ အထူးကျေးဇူးတော်တစ်ရပ်ကို ချီးမြှင့်ပေးသနားတော်မူခဲ့၏။ ၎င်းပြင် ငါအရှင်မြတ်သည် (အထူး)ပညာတစ်ရပ်ကို လည်း ထိုကျွန်အား သင်ကြား၍ပေးတော်မူခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

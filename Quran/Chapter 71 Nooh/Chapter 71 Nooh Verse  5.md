@@ -710,6 +710,12 @@ Reche: “Gospodi moĭ, zovyakh naroda si noshtem i denem
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။ သူသည် ငါ့အား တင်လျှောက်သည်မှာ အို-အကျွနု်ပ်၏ အရှင်သခင်၊ အကျွနု်ပ်သည် မိမိအမျိုးသားတို့အား နေ့ညမပြတ်ဖိတ်ခေါ်ပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထို့နောက်) ထို(နဗီတမန်တော်"နူဟ်")သည်(ဤသို့)လျှောက်ထားခဲ့၏။ အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ ဧကန်အမှန် ကျွန်တော်မျိုးသည် မိမိအမျိုးသားတို့အား နေ့ညဉ့် (မပြတ်) ဖိတ်ခေါ်ခဲ့ပါ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ i Adŭt bŭde dokaran v tozi Den, chovekŭt shte si spomni togava, ala zashto sh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။ ထို့အပြင် အပယ်ငရဲကို အနီးသို့ ယူဆောင်လာတော်မူသောအခါ ထိုနေ့တော်ကြီး၌ လူသားသည် အလ္လာဟ် အရှင်မြတ်အား သတိရလတံ့၊ သို့သော်ဤအချိန်မမှီ သတိရခြင်းသည် သူ့အား အဘယ်အကျိုးဖြစ်ထွန်းအံ့နည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုနေ့တွင် "ဂျဟန္နမ်" ငရဲသည် (လူတို့ရှေ့မှောက်ဝယ်) ယူဆောင်လာခြင်းကို ခံရသောအခါ၊ ထိုနေ့တွင် လူသားသည် အသိတရား ရလာပေမည်။ သို့ရာတွင် (ထိုအခါ) သတိတရားရခြင်းသည် အဘယ်မှာလျှင် ၎င်း၌ အကျိုးရှိစေတော့မည်နည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

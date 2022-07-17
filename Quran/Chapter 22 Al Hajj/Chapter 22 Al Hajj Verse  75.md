@@ -710,6 +710,12 @@ Allakh izbira pratenitsi i sred angelite, i sred khorata. Allakh e vsechuvasht, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၅။	အလ္လာဟ်အရှင်မြတ်သည် ကောင်းကင်တမန်တော်နှင့် လူသားတို့အထဲမှ မိမိ၏ တမန်တော်များကို ရွေးကောက် တော်မူ၏၊ မှတ်သားကြလော့၊ အရှင်မြတ်သည် ကြားတော်မူသောအရှင်၊ မြင်တော်မူသောအရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် "မလာအိကဟ်"ကောင်းကင်တမန်တို့အနက်မှလည်းကောင်း၊ လူတို့အနက်မှလည်းကောင်း၊ စေတမန်များ(တမန်တော်များ)ကို ရွေးချယ်တော်မူခဲ့၏။ ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အကြွင်းမဲ့ကြားတော်မူသော ကောင်းစွာ မြင်တော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

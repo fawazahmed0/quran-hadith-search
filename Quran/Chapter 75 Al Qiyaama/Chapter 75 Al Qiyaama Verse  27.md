@@ -710,6 +710,12 @@ i se reche: “Koĭ shte te izbavi?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။ သူ့ကို ယခုကယ်နိုင်သည့်မျက်လှည့်ဆရာဘယ်မှာနည်းဟု လူများဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်း ပြင် (ထိုဝေဒနာရှင်၏ အနီးအနား၌ ရှိသူတို့က) မန်းမှုတ်မည့်သူ ရှိပါသလောဟု ဟစ်အော် ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

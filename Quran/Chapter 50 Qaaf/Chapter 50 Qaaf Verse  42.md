@@ -710,6 +710,12 @@ V tozi Den shte chuyat Vika s istinata. Tova e Denyat na vŭzkresenieto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	ထိုနေ့တော်ကြီး၌ သူခပ်သိမ်းတို့သည် အလွန်ပြင်းပြသောအသံကြီးကို အမှန်ကြားရလိမ့်မည်၊ ထိုနေ့ကား သေသူအားလုံးတို့သည် သချုႋင်းများအတွင်းမှ ထွက်လာရကြမည့်နေ့ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်နေ့တွင် ယင်း(ကြောက်မက်ဖွယ် ကောင်းသော) ဟစ်အော်သံကို (အားလုံးတို့ပင်) မုချဧကန် မှန်ကန်စွာကြားကြရပေမည်။ ထိုနေ့သည် (သင်္ချိုင်းများမှ)ထွက်ကြရမည့်နေ့ပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

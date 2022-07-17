@@ -710,6 +710,12 @@ Da, Nie im dadokhme istinata, a te sa lŭzhtsi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉ဝ။	ငါအရှင်မြတ်သည် သူတို့ထံသို့ သစ္စာတရားတော်ကို ယူခဲ့တော်မူပြီ၊ မှတ်သားကြလော့၊ ထိုမိစ္စာမိုက်တို့သည် မုသားကောင်များဖြစ်ကြသည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသို့ အလျှင်းမဟုတ်။ စင်စစ်မှာကား ငါအရှင်မြတ်သည် ၎င်းတို့ထံ အမှန်တရားကို ထုတ်ပြန်ပို့ဆောင်တော်မူခဲ့၏။ ထို့ပြင် ၎င်းတို့သည် (ထို) အမှန်တရားကို ငြင်းပယ်ရာတွင် မုသားပြောဆိုသူများပင် ဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

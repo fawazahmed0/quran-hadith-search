@@ -710,6 +710,12 @@ I dadokhme na Musa otkrovenie: “Otpŭtuvaĭ s Moite rabi noshtem! Vas shte vi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၂။	ထို့နောက်ငါသည် တမန်တော်မူစာအား ၎င်း၏စိတ်နှလုံးတွင် သင်တို့ကို လိုက်လံဖမ်းဆီးကြမည်ဖြစ်သောကြောင့် သင်သည် ငါ၏ကျေးကျွန်များကို ညဉ့်ချင်းတွင်းပင် တိတ်တဆိတ်ခေါ်ငင်သွားလော့ဟူသောဗျာဒိတ်ကို ထင်ရှား စေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ငါအရှင်မြတ်သည် မူစာ၏ထံသို့ အသင်သည် ငါအရှင်မြတ်၏ (ဤ)ကျွန်တို့အား ညဉ့်အချိန်၌ခေါ်ဆောင်၍သွားပါလေ။ ဧကန်အမှန် အသင်တို့သည်(မိမိတို့အား) နောက်မှလိုက်လံခြင်းကို ခံကြရမည့်သူများပင်ဖြစ်ကြပေသည်ဟု ‘ဝဟ်ယ်’ အမိန့်တော်ကို ထုတ်ပြန်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

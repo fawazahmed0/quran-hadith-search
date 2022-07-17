@@ -710,6 +710,12 @@ Kakvo im e na nevernitsite, vtrenchili v teb pogledi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။ အေ-တမန်တော်၊ မယုံကြည်သူတို့သည် သင့်အား ပြူးပြဲသောမျက်စိနှင့် စိုက်ကြည့်နေကြ၏၊ သူတို့သည် ဘာဖြစ်ကြသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ကာဖိရ် သွေဖည်ငြင်းပယ်သောသူတို့သည် မည်သည့်အကြောင်းကြောင့် အသင့်ဘက်သို့ လျှင်မြန်စွာ ပြေးလာလျက်ရှိကြသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

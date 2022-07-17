@@ -710,6 +710,12 @@ Allakh e vashiyat bog. Nyama drug bog osven Nego. Toĭ vsyako neshto obkhvashta
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၈။	သင်တို့၏အရှင်သခင်သည် အလ္လာဟ်အရှင်မြတ်သာလျှင် ဖြစ်တော်မူ၏။ အရှင်မြတ်မှတပါး အခြားအရှင်သခင် မရှိချေ၊ အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို ဉာာဏ်တော်အတွင်း သိမ်းကြံုးထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (စင်စစ်မှာမူကား) အသင်တို့၏ ခဝပ်ကိုးကွယ်ရာအရှင်သည် အကြင် အလ္လာဟ်အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။ထိုအရှင်မြတ်မှတစ်ပါး ခဝပ်ကိုးကွယ် ရာအရှင်ဟူ၍ကားအလျှင်း မရှိပြီ။ ထိုအရှင်မြတ်သည် (မိမိ)အသိပညာတော်ဖြင့်အရာခပ်သိမ်းတို့ကို လွှမ်းခြုံလျက် ရှိတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

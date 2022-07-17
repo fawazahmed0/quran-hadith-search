@@ -710,6 +710,12 @@ dori da dava izvineniya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၊၁၅။ ထိုမျှမက လူသားသည် မိမိထုချေချက်များကို တင်ပြငြားသော်လည်း သူသည်ပင်လျှင် သူ့အပေါ်မှာ ခိုင်မာသော သက်သေဖြစ်လိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ၎င်းသည် မိမိ အကြောင်းပြချက်များကို(မည်မျှပင်) တင်ပြငြားအံ့လည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I ne iskam ot vas otplata. Moyata otplata e edinstveno ot Gospoda na svetovete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၉။	ထို့အပြင်ငါသည် သင်တို့ထံမှ တရားဟောခတစ်ပြားတစ်ချပ်မှ မတောင်းချေ၊ ငါ့အဖိုးအခသည် အနန္တစကြာဝဠာ များ၏ အရှင်သခင်နှင့်သာသက်ဆိုင်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ငါသည် ဤအမိန့်တော်ကို ပို့ဆောင်ခြင်းနှင့်စပ်လျဉ်း၍ အသင်တို့ထံ မည်သည့်အကျိုး တစ်စုံတစ်ရာကိုမျှ တောင်းဆိုသည်မဟုတ်ပေ။ ငါ့အား အကျိုးပေးရန်တာဝန်မှာ စကြာဝဠာခပ်သိမ်းတို့ကို ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အပေါ်၌သာရှိ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

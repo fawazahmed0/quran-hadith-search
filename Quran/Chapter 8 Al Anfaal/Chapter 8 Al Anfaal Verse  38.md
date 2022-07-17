@@ -710,6 +710,12 @@ Kazhi na nevernitsite, che ako prestanat, shte im se oprosti onova, koeto e bilo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	မယုံကြည်သူတို့အား သူတို့သည် ယုံကြည်သူတို့အား မတရားနှိပ်စက်ညှင်းပန်းမှုကို ရပ်တန့်ကြလျှင် သူတို့၏ လွန်ပြီးသောပြစ်မှုများကို ချမ်းသာပေးတော်မူမည်။ သို့သော် မတရားညှင်းပန်းမှုကို တဖန် ပြန်၍ပြုကျင့်ကြသော် သူတို့အလျင် သွားလေသူတို့၏အဖြစ်အပျက်သည် သူတို့အတွက် သတိပေး သင်ခန်းစာတစ်စောင်ဖြစ်၏ဟု ဟောကြားလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် မယုံမကြည်သွေဖည်ငြင်းပယ်သောလူတို့အား (ဤသို့)ပြောကြားပါလေ။၎င်းတို့သည် အကယ်၍သာ (မယုံမကြည် သွေဖည်ငြင်းပယ်ခြင်းမှ) ရပ်စဲကြပါမူ၊ လွန်လေပြီးသော ပြစ်မှုဒုစရိုက်တို့သည်၎င်းတို့အဖို့ ခွင့်လွှတ်ပြီးဖြစ်ချေမည်။ သို့ရာတွင် အကယ်၍သာ၎င်းတို့သည် ထပ်မံ၍ ပြုလုပ်ကြပါလျှင်၊ ဧကန်မလွဲ ရှေးသူဟောင်းတို့နှင့် ပတ်သက်သော (ငါအရှင်မြတ်၏) စည်းကမ်းဥပဒေသည်လည်း လွန်ခဲ့ပြီး ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

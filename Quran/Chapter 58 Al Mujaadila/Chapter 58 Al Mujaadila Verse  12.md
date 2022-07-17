@@ -710,6 +710,12 @@ O, vyarvashti, ako shte razgovaryate nasame s Pratenika, razdaĭte predi vashiy
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	အို-ယုံကြည်သူအပေါင်းတို့၊ သင်တို့သည် ငါ၏ တမန်တော်နှင့် မိမိတို့အတွင်းရေးကို တိုင်ပင်ဆွေးနွေးသော အခါ မိမိတို့ကိစ္စကို မဆွေးနွေးမီ အလှုပေးကြကုန်လော့၊ ယင်းသို့လှုခြင်းသည် သင်တို့အဖို့အရာ သာလွန် ကောင်းမြတ်သန့်ရှင်းဖြူစင်စေရာဖြစ်၏၊ သို့သော်သင်တို့သည် ပေးလှုရန် ဝထ္ထုတစ်စုံတစ်ရာကို လွယ်ကူစွာ မရလျှင် အရှင်မြတ်သည် မုချဧကန်ထပ်ခါထပ်ခါအပြစ်လွှတ်တော်မူ၏၊ ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-မုအ်မင်န် သက်ဝင်ယုံကြည်သူ အပေါင်းတို့၊ အသင်တို့သည် ရစူလ်တမန်တော်မြတ်နှင့် လျှို့ဝှက်ပြောဆို တိုင်ပင်ကြသောအခါ မိမိတို့ လျှို့ဝှက် ပြောဆိုတိုင်ပင်မှု မပြုကြမီ အလှူဒါန တစ်စုံတစ်ရာကို ကြိုတင်ပေးနှင့်ကြလေကုန်။ဤသည် အသင်တို့အဖို့ အကောင်းဆုံးလည်းဖြစ်၏။ အသန့်ရှင်းဆုံးလည်းဖြစ်၏။ သို့ရာတွင် အကယ်၍ အသင်တို့သည်(အလှူဒါနပြုရန် ဝတ္ထုပစ္စည်းတစ်စုံတစ်ရာကို) မရခဲ့ကြလျှင် ဧကန်အမှန် အလ္လာဟ်အရှင်မြတ်သည် အလွန်တရာ ခွင့်လွှတ်တော်မူသောအရှင်၊ အလွန်တရာ သနားကရုဏာပြုတော်မူသောအရှင်မြတ် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

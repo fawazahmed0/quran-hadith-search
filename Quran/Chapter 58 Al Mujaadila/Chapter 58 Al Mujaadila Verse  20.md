@@ -710,6 +710,12 @@ Onezi, koito se protivyat na Allakh i na Negoviya Pratenik, te sa sred naĭ-uni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်နှင့် အရှင်မြတ်၏ တမန်တော်ကို တော်လှန်သူတို့သည် အနိမ့်စွန်ဆုံး ဘဝသို့ ကျဆင်းရသူတို့ဘောင်တွင် ဖြစ်ကြရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မချွတ်ဧကန် အလ္လာဟ်အရှင်မြတ်အားလည်းကောင်း၊ ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော်မြတ်အားလည်းကောင်း၊ ပမာမခန့် ပြုလုပ်ကြကုန်သောသူတို့ မှာ အယုတ်ညံ့ဆုံးသောသူတို့တွင် အပါအဝင်ဖြစ်ကြ ပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

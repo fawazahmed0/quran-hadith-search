@@ -710,6 +710,12 @@ sŭs stepeni ot Nego i s oproshtenie, i milost. Allakh e oproshtavasht, milosŭr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၆။	ထိုဆုတော်ကြီးသည် အဆင့်အတန်းပေးတော်မူခြင်း၊ အပြစ်လွှတ်တော်မူခြင်း၊ ကောင်းကြီးင်္ဂလာ ပေးတော်မူခြင်းတို့ဖြစ်၏။ အလ္လာဟ်အသျှင်မြတ်သည် အမြဲ အပြစ်လွှတ်တော်မူသောအသျှင်၊ ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူသောအသျှင်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်အထံတော်မှ ဂုဏ်ရည်အဆင့်အတန်း အမျိုးမျိုးတို့ကို ချီးမြှင့် ပေးသနားတော်မူခြင်းအားဖြင့်လည်းကောင်း၊ အပြစ်များမှ လွတ်ငြိမ်းချမ်းသာခွင့် ပေးသနားတော်မူခြင်းအားဖြင့်လည်းကောင်း၊ ကရုဏာ ပြုတော်မူခြင်းအားဖြင့်လည်းကောင်း (ထိုသူတို့အား မြင့်မြတ်စေတော်မူခဲ့လေပြီ။) အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အကြိမ်ကြိမ် လွတ်ငြိမ်းချမ်းသာခွင့် ပေးသနားတော်မူသောအရှင်၊ အစဉ်အမြဲ သနားကြင်နာညှာတာတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

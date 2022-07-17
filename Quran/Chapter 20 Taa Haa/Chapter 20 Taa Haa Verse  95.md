@@ -710,6 +710,12 @@ Reche [Musa]: “A kakvo ti be namerenieto, o, as-Samiri?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၅။	ထိုအခါတမန်တော်မူစာက အို-စာမရီ၊ အသင်ဘာပြောစရာရှိသနည်းဟု မေး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မူစာက သို့ဖြစ်လျှင် အို-စာမိရီ၊ အသင်၏ရည်ရွယ်ချက်ကား အသို့နည်းဟု ပြောဆို(မေးမြန်း) ခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

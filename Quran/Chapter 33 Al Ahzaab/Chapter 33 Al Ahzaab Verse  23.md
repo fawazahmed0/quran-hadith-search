@@ -710,6 +710,12 @@ Sred vyarvashtite ima mŭzhe, predani v svoya obet kŭm Allakh. Nyakoi ot tyakh 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	ယုံကြည်သူများတွင် အလ္လာဟ်အရှင်မြတ်အား ပြုသည့်ကတိသစ္စာကို တည်သူများရှိကြ၏၊ သူတို့အနက်အချို့ သူတို့သည် စစ်ပွဲတွင် ကျခြင်းအားဖြင့် မိမိတို့ဖွဲ့စည်းထားသောပဋိညာဉ်ကို အတည်ပြုသွားကြ၏၊ အချို့မူကား သာသနာအတွက် အသက်စွန့်သောအာဇာနည်ဘဝသို့ ပြောင်းသွားရန် စောင့်ဆိုင်းကြ၏၊ သူတို့သည် မိမိတို့သစ္စာ ပန္နက်ကို အနည်းငယ်မျှပျက်ကွက်ဖောက်ပြန်ခြင်းမရှိ၊ တည်ကြည်စွာစောင့်ရှောက်သွားသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မုအ်မင်န် သက်ဝင်ယုံကြည်သူတို့အနက်အလ္လာဟ်အရှင်မြတ်နှင့် မိမိတို့ထားရှိခဲ့ကြသော ပဋိညာဉ်နှင့်အညီ မှန်ကန်စွာပြုလုပ်ခဲ့ကြသူများလည်း ရှိကြကုန်၏။ သို့ဖြစ်ပေရာ ၎င်းတို့အနက် မိမိတို့၏အဓိဋ္ဌာန်ကို ပြီးစီးအောင်ဆောင်ရွက်ခဲ့သူများလည်းရှိကြ၏။ ထို့ပြင် ၎င်းတို့အနက်(မိမိတို့၏ အဓိဋ္ဌာန်ကို ပြီးစီးအောင်ဆောင်ရွက်ရန်)စောင့်စားနေသူများလည်းရှိကြကုန်၏။ ၎င်းတို့သည် အနည်းငယ် စိုးစဉ်းမျှပင် မပြောင်းလဲခဲ့ကြပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

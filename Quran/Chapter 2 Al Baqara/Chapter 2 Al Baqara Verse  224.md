@@ -710,6 +710,12 @@ I ne pravete kletvite si v imeto na Allakh prechka da ste pravedni, da se boite 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂၄။	သင်တို့သည် အလ္လာဟ်အရှင်မြတ်ကို တိုင်တည်၍ကျိန်ဆိုခြင်းသည် အရှင်မြတ်အား သင်တို့အဖို့ တရားတော်ကို စောင့်စည်းရိုသေမှုမှသော်လည်းကောင်း၊ အရှင်မြတ်၏ အမှုတော်ကိုထမ်းဆောင်မှုမှ သော်လည်းကောင်း၊ လူသားတို့အထဲတွင် သင့်တင့်ညီညွတ်အောင်ပြုမှုမှသော်လည်းကောင်း၊ အတားအဆီးမဖြစ်စေလင့်။ အလ္လာဟ်အရှင်မြတ်သည် အကြွင်းမဲ့ ကြားတော်မူသောအရှင်၊ အကြွင်းမဲ့ သိတော်မူသောအရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အသင်တို့သည် ကုသိုလ်ကောင်းမှုများ ကို မပြုကြရန်လည်းကောင်း၊ ဒုစရိုက်မှုများကို မကြဉ်ရှောင် ကြရန်လည်းကောင်း၊ လူသားတို့စပ်ကြားတွင် ခိုက်ရန်ဖြစ်ပွားမှု များကိုမဖြန် ဖြေကြရန်လည်ေးကာင်း၊ မိမိတို့၏ကျိန်ဆိုချက် များဖြင့် အလ္လာဟ်အရှင်မြတ်အား ဒိုင်းကြီးသဖွယ် အကာ အကွယ် မပြုလုပ်ကြကုန်လင့်။ အမှန်သော် ကား အလ္လာဟ် အရှင်မြတ်သည် အကြွင်းမဲ့ကြားတော်မူသောအရှင်၊ အကြွင်းမဲ့ သိတော်မူသောအရှင်၊ ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

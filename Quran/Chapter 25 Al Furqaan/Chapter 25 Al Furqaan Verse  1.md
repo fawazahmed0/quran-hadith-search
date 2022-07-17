@@ -710,6 +710,12 @@ Blagosloven e Onzi, Koĭto nizposla na Svoya rab Razgranichavaneto, za da bŭde
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။	အရှင်မြတ်၏ ကျေးကျွန်တမန်တော်အား အမှားနှင့်အမှန်ကို ခွဲခြားဆုံးဖြတ်ဖို့ရာ စံနှုန်းကျမ်းတော်ကို ထုတ်ပြန် ပို့ချပေးသနားတော်မူသောအရှင်မြတ်သည် မင်္ဂလာအဖြာဖြာနှင့်ပြည့်စုံတော်မူပါ၏၊ ယင်းသို့ထုတ်ပြန်ပေးသနား တော်မူခြင်းမှာ တမန်တော်သည် လူသားအပေါင်းတို့သို့ သတိပေးသူဖြစ်ရန်အလို့ငှာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှားအမှန် ဝေဖန်ပိုင်းခြားပေးအပ်သော(ကျမ်းဂန်ကုရ်အာန်)ကို မိမိ၏ကျွန်အပေါ်၀ယ် ချပေးသနားတော်မူခဲ့သော အရှင်မြတ်သည် ကောင်းချီး မင်္ဂလာအပေါင်းနှင့် ပြည့်စုံတော်မူပါပေသည်။ သို့ချပေးသနားတော်မူခြင်းမှာ ထိုကျွန်(ဝါ)တမန်တော်မုဟမ္မဒ်)သည် စကြာဝဠာခပ်သိမ်းတို့ကို သတိပေးနှိုးဆော်သူ ဖြစ်အံ့သောငှာ ချပေးသနားတော်မူခြင်းပင် ဖြစ်ပေသည်။ (တစ်နည်း) မိမိကျွန်၏ အပေါ်ဝယ် ထိုကျွန်သည် စကြာဝဠာခပ်သိမ်းတို့ကို သတိပေးနှိုးဆော်သူ ဖြစ်အံ့သောငှာ အမှားအမှန် ဝေဖန်ပိုင်းခြားပေးအပ်သော(ကျမ်းဂန်ကုရ်အာန်)ကို ချပေးသနားတော်မူသော အရှင်မြတ်သည် ကောင်းချီးမင်္ဂလာနှင့် ပြည့်စုံတော်မူပါပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

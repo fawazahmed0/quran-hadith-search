@@ -710,6 +710,12 @@ Shte reche: “Prestoyakhte samo malko, ako znaete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၄။	အလ္လာဟ်အရှင်မြတ်က နင်တို့သည် ကာလအနည်းငယ်မျှသာနေခဲ့ကြ၏၊ ဤအကြောင်းကို နင်တို့သိခဲ့လျှင် တော်လေစွဟု မိန့်တော်မူလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ)ထိုအရှင်မြတ်က(ဤသို့)မိန့်ကြားတော်မူမည်။ အသင်တို့သည် (ကမ္ဘာမြေဝယ်) အနည်းငယ်မျှသာ ကြာမြင့်ခဲ့ကြပေသည်။ အကယ်၍သာ (ဤသည်ကို) အသင်တို့သည် (ယခင်ကပင်) သိရှိခဲ့ကြလျှင် ကောင်းလေစွတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

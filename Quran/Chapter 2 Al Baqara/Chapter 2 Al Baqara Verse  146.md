@@ -710,6 +710,12 @@ Onezi, na koito darikhme Pisanieto, go znayat, kakto znayat sinovete si. No edni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၆။	ရှေးကျမ်းတော်ကို ရရှိသူတို့သည် မိမိတို့သားများကို မှတ်မိသကဲ့သို့ ကုရ်အာန်ကျမ်းတော်ကို မှတ်မိကြ ၏။ သို့သော် သူတို့အနက် လူတစ်စုသည် အမှန်ကိုသိလျက် ထိန်ဝှက်ထားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ် [တောင်ရာတ်နှင့်အင်(န်)ဂျီလ်)] ကျမ်းများကို ငါအရှင်မြတ်ပေးသနားတော်မူသော(ယဟူဒီ နှင့်ခရစ်ယာန်တို့၏ပညာရှိသုခမိန်)တို့သည် မိမိတို့၏ သားမြေး တို့ကို သိဘိသကဲ့သို့ပင် ထို[နဗီတမန်တော်မုဟမ္မဒ်(ဆွ)] ကို လည်း သိကြလေသည်။ သို့ရာတွင် ဧကန်မုချ ယင်းသူတို့ အနက်မှ လူတစ်စုသည် အမှန်ကို (အမှန်ဟူ၍) သိရှိပါလျက် နှင့်ပင် ထိမ်ချန်ထားရှိကြလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

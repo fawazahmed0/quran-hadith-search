@@ -710,6 +710,12 @@ Nyakoĭ shte kazhe: “O, gorko mi, che nekhaekh za podchinenieto pred Allakh i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၆။	အလိုလေး၊ ဒုက္ခပဲ၊ ငါသည် အလ္လာဟ်အရှင်မြတ်ကို ဂရုမစိုက်မလေးစားခဲ့ချေ၊ ငါသည် ပျက်ချော်ပြောင်လှောင် သူတို့ဘောင်တွင် ပါဝင်ခဲ့၏ဟု သတိသံဝေဂရ၍ မြည်တမ်းငိုကြွေးခြင်းမပြုရအောင်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤသည့်အမိန့်တော်ကို ထုတ်ပြန်တော်မူခြင်းမှာ) မည်သူတစ်ဦးတစ်ယောက်မျှပင် "ဪ-ငါသည်အလ္လာဟ်အရှင်မြတ်၏ အမိန့်တော်ကို လိုက်နာ ခြင်းနှင့်စပ်လျဉ်း၍ ပျက်ကွက်လစ်ဟင်းပေါ့ဆခဲ့သောကြောင့် ဝမ်းနည်းရလေခြင်း" ဟူ၍ မပြောဆိုနိုင်ရန် လည်းကောင်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

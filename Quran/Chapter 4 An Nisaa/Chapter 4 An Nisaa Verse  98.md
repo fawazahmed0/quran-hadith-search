@@ -710,6 +710,12 @@ osven za slabite ot mŭzhete, zhenite i detsata, koito sa nemoshtni i ne namirat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၈။	သို့သော် သူတို့အနက်အား ချိနဲ့သူဒုက္ခိတယောကျ်ားများ၊ မိန်းမသားများ၊ ကလေးသူငယ်များသည် ပြောင်းရွှေ့သွားရန် မကြံစည်နိုင်ကြပေ။ ထွက်မြောက်ရာလမ်းလည်း အပြမခံကြရ။ သူတို့သည် ယင်းသို့ မေးမြန်းခြင်းခံရသောသူတို့ဘောင်တွင် မပါဝင်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အင်အားချည့်နဲ့ မစွမ်းမသန်သော အကြင်ယောက်ျား၊ မိန်းမ၊ ကလေးသူငယ်တို့သည် (ဟစ်ဂျ်ရတ်ပြုလုပ်ရန်အတွက်) မည်သည့်အကြံအစည်ကိုမျှ မတတ်စွမ်းနိုင်ကြအံ့။ ၎င်းပြင် မည်သည့် လမ်းကိုမျှလည်း မတွေ့ရှိကြအံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

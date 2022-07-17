@@ -710,6 +710,12 @@ I se udivikha, che im e doshŭl predupreditel izmezhdu tyakh. I rekokha nevernit
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။ ထို့အပြင်မိစ္ဆာမိုက်တို့သည် မိမိတို့အမျိုးသားတစ်ဦး တမန်တော်ဖြစ်လာသည်ကို အ့ံသြကြ၏၊ ဤသူကား မှော်စုံးမျက်လှည့်အတတ်တတ်မြောက်သည့်မုသားကောင်စင်စစ်ဖြစ်သည်ဟု ပြောဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်မှာမူကား ၎င်းတို့သည် မိမိတို့အနက်မှပင် သတိပေး နှိုးဆော်သူတစ်ဦး ရောက်ရှိ၍လာခဲ့ခြင်းကို အံ့ဩခဲ့ကြကုန်၏။ ၎င်းပြင် "ကာဖိရ်"သွေဖည် ငြင်းပယ်သောသူတို့က ဤသည် လွန်စွာမုသားပြောဆိုသူ ပဉ္စလက်ဆရာတစ်ဦးပင်ဖြစ်သည်ဟု ဆိုခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

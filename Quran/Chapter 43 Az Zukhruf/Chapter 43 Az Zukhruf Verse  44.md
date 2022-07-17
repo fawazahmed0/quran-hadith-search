@@ -710,6 +710,12 @@ To naistina e chest za teb i za tvoya narod. I shte bŭdete razpitvani
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	အမှန်ကိုဆိုသော် ကုရ်အာန်ကျမ်းတော်သည် သင်နှင့် သင့်အသင်းသားအပေါင်းတို့အဖို့ သတိပေးကျမ်းတော် ဖြစ်၏၊ သင်တို့သည် စစ်ကြောတော်မူခြင်းကို ခံကြရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး မုချဧကန် ယင်းကုရ်အာန်ကျမ်းတော်မြတ်သည် အသင်အဖို့ လည်းကောင်း၊ အသင်၏အမျိုးသားအဖို့ လည်းကောင်း၊ (ထူးကဲမြင့်မြတ်လှစွာသော) ဂုဏ်ကျက်သရေပင် ဖြစ်၏။ ထိုမှတစ်ပါး အသင်တို့အားလုံးသည် မကြာမြင့်မီပင် စစ်ဆေးမေးမြန်းခြင်းကို ခံကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

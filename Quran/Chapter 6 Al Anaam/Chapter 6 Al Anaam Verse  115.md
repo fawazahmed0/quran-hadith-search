@@ -710,6 +710,12 @@ Slovoto na tvoya Gospod be zavŭrsheno s istina i spravedlivost. Nikoĭ ne shte
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၅။	သင်၏ကျေးဇူးတော်သခင်၏ ဗျာဒိတ်တော်စကားသည် မှန်ကန်ခြင်း၊ တရားခြင်းများဖြင့် စုံလင်၏။ အသျှင်မြတ်၏ ဗျာဒိတ်စကားတော်ကို ပြောင်းလွှဲနိုင်စွမ်းသူ တစ်စုံတစ်ယောက်မျှမရှိပေ။ အသျှင်မြတ် သည် ကြားတော်မူသောအသျှင်၊ သိတော်မူသောအသျှင် ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းအပြင် အသင့်အား မွေးမြူဖန်ဆင်းတော်မူသောအရှင်မြတ်၏ (ဤ)မုက္ခပါဌ်တော်သည် မှန်ကန်ခြင်း အရာ၌လည်းကောင်း၊ တရားမျှတခြင်းအရာ၌လည်းကောင်း၊စုံလင်ပြည့်စုံလှပေသည်။ ထိုအရှင်မြတ်၏ မုက္ခပါဌ်တော်များကို ပြောင်းလွှဲနိုင်သူဟူ၍ကား အလျင်းမရှိပြီ။ စင်စစ်မူကားထိုအရှင်မြတ်သည် အကြွင်းမဲ့ကြားတော်မူသောအရှင်၊ အကြွင်းမဲ့သိမြင်တော်မူသော အရှင်မြတ်ပင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

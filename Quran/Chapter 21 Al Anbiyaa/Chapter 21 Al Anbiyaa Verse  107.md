@@ -710,6 +710,12 @@ I te izpratikhme [o, Mukhammad] naistina kato milost za svetovete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၇။	ငါသည် သင်တမန်တော်ကို လူသားတို့အဖို့အရာ ကောင်းကြီးမင်္ဂလာတော်အဖြစ်ဖြင့်မှတပါး အခြားအဖြစ်ဖြင့် စေလွှတ်တော်မူသည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား (အို-နဗီတမန်တော်) ငါအရှင်မြတ်သည် အသင့်အား ကမ္ဘာခပ်သိမ်းတို့အဖို့ ကရုဏာ တော်အဖြစ်နှင့်သာလျှင် စေလွှတ်တော်မူခဲ့ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

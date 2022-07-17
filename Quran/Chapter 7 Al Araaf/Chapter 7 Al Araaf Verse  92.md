@@ -710,6 +710,12 @@ Koito vzekha za lŭzhets Shuaĭb, syakash ne byakha prebivavali tam. Koito vzek
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၂။	အကြင်သူတို့သည် တမန်တော် ရှူအိုက်(ဘ်)ကို မယုံကြည်ကြ။ ထိုသူတို့သည် ထိုအရပ်တွင် မနေဘူးသကဲ့သို့ ပျောက်ကွယ်သွားကြ၏။ တမန်တော် ရှူအိုက်(ဘ်)ကို မယုံကြည်သူတို့သည် ဆုံးရှုံး ပျက်စီးသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 နဗီတမန်တော်(ရှုအိုက်ဗ်)အား မဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ်ခဲ့ကြသော သူတို့သည် ထိုအိမ် (ဝါ)မြို့ရွာတွင် အလျင်း နေထိုင်ခဲ့ကြဖူးသည်မရှိသကဲ့သို့ပင် ပျက်စီးခဲ့ကြကုန်၏။ နဗီတမန်တော် (ရှုအိုက်ဗ်)ကို မဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ်ခဲ့ကြသောသူတို့သည်ပင်လျှင် ဆုံးရှုံးနစ်နာသူများ ဖြစ်ခဲ့ကြသည်တကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

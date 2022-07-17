@@ -710,6 +710,12 @@ Na Allakh prinadlezhi vladenieto na nebesata i na zemyata, i na vsichko po tyakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂ဝ။	အလ္လာဟ်အသျှင်မြတ်သည် မိုးမြေနှင့် မိုးမြေပေါ်တွင် ရှိရှိသမျှအပေါင်းတို့ကို သိမ်းရုံးစိုးပိုင်တော် မူ၏။ အသျှင်မြတ်သည် အရာရာကို ပြုစွမ်းနိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မိုးကောင်းကင်များကိုလည်းကောင်း၊ ပထဝီမြေပြင်ကိုလည်းကောင်း၊ ထိုမိုးကောင်းကင်များနှင့် ပထဝီမြေကြီး၌ ရှိသမျှတို့ကိုလည်းကောင်း၊ စိုးမိုးအုပ်ချုပ်ခြင်း (အာဏာ) သည် အလ္လာဟ်အရှင်မြတ်၌သာ ရှိချေသည်။ စင်စစ်မူကား ထိုအရှင်မြတ်သည် အရာရာကို ပြုစွမ်းနိုင်တော်မူသောအရှင်ပင် ဖြစ်တော်မူချေသတည်း။ (ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

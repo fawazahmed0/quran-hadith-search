@@ -710,6 +710,12 @@ Nima priemat te drugi pokroviteli vmesto Nego? No Allakh, Toĭ e Pokrovitelya. 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	သူတို့သည် အလ္လာဟ်အရှင်မြတ်မှတပါး အခြားစောင့်ရှောက်သူအဆွေခင်ပွန်းများကို မှီခိုဆည်းကပ်ကြသလော၊ အလ္လာဟ်အရှင်မြတ်သာလျှင် စောင့်ရှောက်ကာကွယ်သူမိတ်ဆွေစစ်ဖြစ်တော်မူ၏၊ အရှင်မြတ်သာလျှင် သေသူကို ပြန်ရှင်စေတော်မူ၏၊ အရှင်မြတ်သည် အရာခပ်သိမ်းကို ပြုစွမ်းနိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ထိုအရှင်မြတ်မှတစ်ပါး အခြားသူတို့အား ကိစ္စအဝဝကို ပြီးစီးအောင်ဆောင်ရွက်ပေးသူ များအဖြစ် ရွေးချယ်ပြုလုပ်ထားခဲ့ကြလေသလော။ အမှန်စင်စစ်မှာကား အလ္လာဟ်အရှင်မြတ်သာလျှင် ကိစ္စအဝဝကို ပြီးစီးအောင် ဆောင်ရွက်ပေးတော်မူသော အရှင်ဖြစ်တော်မူ၏။၎င်းပြင် ထိုအရှင်မြတ်သည်သာလျှင် သူသေတို့အားရှင်စေတော်မူမည်။ ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည်သာလျှင် အရာခပ်သိမ်းတို့ကို ပြုစွမ်းနိုင်တော်မူသော အရှင်ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Strakhuvame se ot [mŭchenieto na] Nashiya Gospod v Denya svŭsen, zlovesht.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၀။ အကျွနု်ပ်၏ အရှင်သခင်အထံတော်မှ အမျက်တော်ရှ၍ ကြောက်မက်ဖွယ်ကောင်းသောနေ့တော်ကြီးကိုသာလျှင် အကျွနု်ပ်တို့ဧကန်အမှန်ထိတ်ရွံ့ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ကျွန်ုပ်တို့သည် ကျွန်ုပ်တို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်မှ ကြမ်းကြုတ်ခက်ထန်စွာသော နေ့ကို ကြောက်ရွံ့စိုးရိမ် ကြကုန်၏၊ (ဟုပြောပြကြကုန်၏။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

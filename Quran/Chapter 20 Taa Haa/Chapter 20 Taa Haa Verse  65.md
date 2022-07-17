@@ -710,6 +710,12 @@ Kazakha: “O, Musa, ti li shte metnesh, ili nie pŭrvi da metnem?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၅။	သူတို့က အို--မူစာ၊ သင်သည် ရှေးဦးစွာပစ်ချမည်လော၊ သို့မဟုတ်အကျွနု်ပ်တို့ရှေးဦးစွာပစ်ချရမည်လောဟု မေး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထို့နောက်) ယင်းပဉ္စလက်ဆရာတို့က အို-မူစာ၊အသင်သည် (မိမိတောင်ဝှေးကို ဦးစွာ)ပစ်ချလော့။ သို့တည်းမဟုတ် ကျွန်ုပ်တို့သည်ပင် ဦးစွာပထမ(မိမိတို့၏ကြိုးများ၊ တုတ်ရှည်များကို)ပစ်ချကြမည်လောဟု ပြောဆိုခဲ့ကြလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kŭdeto i da poglednesh tam, shte vidish blazhenstvo i ogromno vladenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၀။ သင်သည် ထိုရှုမျှော်ခင်းကို ကြည့်သောအခါ သင်သည် အလွန်မြင့်မြတ်သာယာသောနိုင်ငံတော်ကို မြင်ကြရ လတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်သည် ထိုနေရာတွင် ကြည့်သောအခါ ထူးကဲ ကြီးကျယ်လှစွာသော စည်းစိမ်ကိုလည်းကောင်း၊ စိုးမိုးအုပ်ချုပ်မှု၊ ဂုဏ်ရည် အဆင့် အတန်းကိုလည်းကောင်း၊ တွေ့ရှိရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

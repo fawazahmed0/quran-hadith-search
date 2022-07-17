@@ -710,6 +710,12 @@ A prestanat li - Allakh e oproshtavasht, milosŭrden
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉၂။	သို့သော် သူတို့သည် စစ်ကိုရပ်စဲလျှင် အရှင်မြတ်သည် အမှန်ပင်အပြစ်လွှတ်တော်မူ၏။ ကောင်းချီး မင်္ဂလာပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့သော် အကယ်၍သာ ယင်းသူတို့သည် (အလ္လာဟ်အရှင်မြတ်၏ အမိန့်တော်ကို သွေဖည်ခြင်း၊ မုစ်လင်မ် တို့အားညှဉ်းဆဲခြင်းနှင့် ပြိုင်ဆိုင်တိုက်ခိုက်ခြင်းတို့ကို) ရပ်စဲခဲ့ကြပါလျှင် မုချဧကန် အလ္လာဟ် အရှင်မြတ်သည် (ပြစ်မှုဒုစရိုက်တို့ကို)အဖန်တလဲလဲ လွတ်ငြိမ်းချမ်းသာခွင့် ပေးသနားတော်မူသောအရှင်၊ (သတ္တဝါအပေါင်းတို့အား) မပြတ်မစဲ သနားကြင်နာ ညှာတာတော်မူသော အရှင်ဖြစ်တော် မူလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I kogato Musa otide pri tyakh s Nashite yasni znameniya, kazakha: “Tova e samo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	သို့သော်တမန်တော်မူစာသည် ငါ၏ထင်ရှားသောနိမိတ်လက္ခဏာတော်များကို သူတို့ထံ ယူဆောင်လာသောအခါ သူတို့က ဤအရာသည် ဘာမျှမဟုတ်၊ သူဖန်ဆင်းသောဝိဇ္ဇာအတတ်သာဖြစ်၏၊ ဤအကြောင်းအရာများကို ရှေးလူကြီးမိဘများလက်ထက်တွင် ရှိကြောင်းကို အကျွနု်ပ်တို့သည် မကြားဖူးချေဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် မူစာသည် ၎င်းတို့ထံ ငါအရှင်မြတ်၏ ထင်ရှားစွာသော သက်သေလက္ခဏာတော်များကို ဆောင်ကြဉ်းခဲ့လေရာ ၎င်းတို့က ‘ဤသည် အသစ်တီထွင်ဖန်တီးထားသော ပဉ္စလက်အတတ်မျှသာ ဖြစ်သည်။ စင်စစ် ကျွန်ုပ်တို့သည် မိမိတို့၏ ရှေးဟောင်း အဘ၊ ဘိုးဘေးတို့(လက်ထက်)တွင် ဤသို့သောစကား (ရှိခဲ့ဖူးသည်ဟူ၍လည်း) မကြားခဲ့ဖူးကြပါဟု ဆိုကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

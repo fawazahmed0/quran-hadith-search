@@ -710,6 +710,12 @@ A ako [dlŭzhnik] e v zatrudnenie, da ima ot·srochka do oblekchenie! I da se sm
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈ဝ။	အကယ်၍ မြီစားသည် မချောင်မချိ ကြပ်တည်းနေလျှင် သူချောင်ချိသည်တိုင်အောင် အချိန် ပေးလော့။ သင်တို့သည် ရစရာရှိသောကြေးငွေကို အလှူဒါနအဖြစ် လျော်ပစ်လျှင် သင်တို့ အဖို့ သာလွန်ကောင်းမြတ်၏။ သင်တို့သိလျှင် ကောင်းလေစွ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တဖန် အကယ်၍ (မြီစားသည်) ဆင်းရဲ နွမ်းပါးသူဖြစ်၍ (အသင်တို့၏ကြွေးမြီများကို အချိန်မှီ မပေးဆပ်နိုင်ခဲ့ပါမူ ထိုသူအား) ဥစ္စာပစ္စည်း ချောင်လည်သည်အထိ အချိန်ကိုရွှေ့ဆိုင်း၍ပေးရမည်။ သို့ရာတွင် အကယ်၍ အသင်တို့သည်သိတတ်ကြ ပါမူ (မြီစား၏ဒုက္ခကို ထောက်ထားညှာတာသည့်သဘောဖြင့် မိမိတို့ရထိုက်သောကြွေးမြီကိုပင်) အလှူဒါနအဖြစ်(စာရင်းချေဖျက်) စွန့်လွှတ်ခြင်းသည် အသင်တို့အဖို့သာ၍ပင် ကောင်းမြတ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

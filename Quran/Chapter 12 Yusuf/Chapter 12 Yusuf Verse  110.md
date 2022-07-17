@@ -710,6 +710,12 @@ Togava, kogato pratenitsite se otchaĭvakha i mislekha, che sa gi vzeli za lŭz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁ဝ။	ရှေးတမန်တော်တို့သည် သူတို့ကို လူသားတို့မယုံကြည်ငြင်းဆန်ကြသည်ဟု စိတ်ပျက်လက်လျှော့သောအခါ ငါအရှင်မြတ်၏ ကူညီစောင့်ရှောက်ခြင်းကျေးဇူးတော်သည် သူတို့ထံသို့ ကျရောက်၏။ ထိုအခါအရှင်မြတ်အလို တော်ရှိသူတို့သည် ကယ်နှုတ်ခြင်းကို ခံကြရ၏။ ငါအရှင်မြတ်၏ အမျက်ဒဏ်တော်ကို အပြစ်ရှိသူတို့ထံမှ ဖယ်ရှား၍ မရချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 နောက်ဆုံးတွင် ရစူလ်တမန်တော်များသည်မျှော်လင့်ချက်ကင်း၍ အမျိုးသားတို့ကလည်း ယင်း ရစူလ်တမန်တော်များသည် အလိမ်ခံခဲ့ကြရလေပြီ ဟုထင်မှတ်ခဲ့ကြသောအခါ ငါအရှင်မြတ်၏အကူအညီသည် ယင်းရစူလ်တမန်တော်များထံ(ရုတ်တရက်)ရောက်ရှိခဲ့လေသည်။ ထိုအခါ ငါအရှင်မြတ်အလို ရှိတော်မူသောသူသည် ကယ်တင်ခြင်းကို ခံခဲ့ရလေသည်။ စင်စစ်သော်ကား ငါအရှင်မြတ်၏ ပြစ်ဒဏ်သည် ပြစ်မှုကျူးလွန်သူတို့အပေါ်မှ ပယ်ရှားသွားသည် မဟုတ်ချေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ot dvete izlizat biseri i korali
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	ထိုသမုဒ္ဒရာနှစ်ပြင်ရေယဉ်မှ ပုလဲသန္တာစသောရတနာများထွက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းပင်လယ်နှစ်ခုမှ ပုလဲရတနာများ သည်လည်းကောင်း၊ သန္တာ ပင်လယ်ထွက် ကျောက်နီများ သည်လည်းကောင်း၊ ထွက်ကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

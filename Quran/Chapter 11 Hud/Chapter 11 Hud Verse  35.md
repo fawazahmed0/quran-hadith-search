@@ -710,6 +710,12 @@ Ili kazvat: “Toĭ go e izmislil.” Kazhi: “Ako az sŭm go izmislil, nad me
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	သို့မဟုတ် မိစ္ဆာယုတ်တို့က သူသည် တရားတော်ကို လုပ်ကြံဖန်တီး၏ဟု တဖန်ဆိုကြသလော။ တမန်တော် သင်သည် သူတို့အား ပြောလော့၊ ငါသည် တရားတော်ကို လုပ်ကြံဖန်တီးလျှင် ငါ့၌ အပြစ်သင့်၏။ သို့သော် ငါသည် သင်တို့ကျုးလွန်သောပြစ်မှုများမှ လွတ်ကင်းသန့်စင်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့က ထို(နဗီတမန်တော် မုဟမ္မဒ်)သည်ယင်း(ကုရ်အာန်)ကို လီဆယ်ဖန်တီးခဲ့သည်ဟု ပြောဆိုကြလေသလော။ (အို-နဗီတမန်တော်) အသင်သည်(၎င်းတို့အား ဤသို့) ပြောဆိုဖြေကြားပါလေ။ (ဟယ်-အချင်းတို့) ထိုသို့ဖြစ်ခဲ့ပါမူငါ၏အပြစ်သည် ငါ၏ အပေါ်၌သာလျှင် ရှိပေမည်။ သို့ရာတွင် ငါသည် အသင်တို့ ကျူးလွန်လျက်ရှိကုန်သော ပြစ်မှုများမှလွတ်ကင်းသူဖြစ်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

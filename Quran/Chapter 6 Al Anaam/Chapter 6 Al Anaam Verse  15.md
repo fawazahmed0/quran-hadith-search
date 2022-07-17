@@ -710,6 +710,12 @@ Kazhi: “Strakhuvam se ot mŭchenie vŭv velikiya Den, ako se vŭzprotivya na s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	ဟောကြားလော့။ အကယ်၍ ငါသည် မိမိ၏အသျှင်သခင်အား ထောင်ထားခြားနားလျှင် ငါသည် အလွန်မြောက်မက်ဖွယ်ကောင်းသော နေ့တော်ကြီး၏ လက်စားချေခြင်းကို ကြောက်လန့်တုန်လှုပ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (၎င်းတို့အား) အချင်းတို့ အကျွန်ုပ်သည် မိမိအသျှင်မြတ်၏ (‘မုစ်လင်မ်’ဖြစ်ရန်နှင့် ရှစ်ရ်က် တွဲဖက်ယှဉ်ပြိုင်ကိုးကွယ်ခြင်း မပြုရန်)ပညတ်တော်ကို အကယ်၍သာ ဖီဆန်ခဲ့ပါမူ၊ အလွန်ကြီးကျယ်လှသော (ကိယာမတ်ရှင်ပြန်ထမည့်)နေ့၏ ပြစ်ဒဏ် (ခံစားရမည်)ကို ဧကန်စင်စစ် ကြောက်ရွံ့စိုးရိမ်ရပါသည် ဟုပြောကြားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

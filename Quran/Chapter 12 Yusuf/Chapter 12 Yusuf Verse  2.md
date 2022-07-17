@@ -710,6 +710,12 @@ Nie go nizposlakhme - Koran na arabski, za da proumeete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	မှတ်သားကြလော့။ သင်တို့နားလည်ဖို့ရာ ကုရ်အာန်ကျမ်းတော်ကို အာရဗီဘာသာဒေသနာအဖြစ်ဖြင့် ထုတ်ပြန် ချပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ငါအရှင်မြတ်သည် ယင်းကျမ်းဂန်ကိုအသင်တို့နားလည်အံ့သောငှာ (စကားအဖွဲ့အနွဲ့ အသုံးအနှုန်းအလွန်ကောင်းသော) ကုရ်အာန်ကျမ်းတော်မြတ်အဖြစ် အရဗီဘာသာစာပေဖြင့် ချပေးသနားတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

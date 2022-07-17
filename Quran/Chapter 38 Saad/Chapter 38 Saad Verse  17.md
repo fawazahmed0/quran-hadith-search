@@ -710,6 +710,12 @@ Ti otrpi ono što oni govore i sjeti se roba Našeg, Davuda, čvrstog u vjeri, k
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	အို-တမန်တော်၊ ဤသူမိုက်တို့၏ စကားကို သည်းခံ၍ ဘုန်အာနုဘော်နှင့် ပြည့်စုံသောငါ၏ ကျေးကျွန်တမန် တော်ဒါဝတ်(ဒ်)၏ ထုံးကို စဉ်းစားဆင်ခြင်လော့၊ မှတ်သားလော့၊ ထိုတမန်တော်သည် တရားသံဝေဂရ၍ ငါ့ အား ဝတ်အထူးပြု၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်)အသင်သည် ၎င်းတို့၏ပြောဆိုချက်များအပေါ်၌ သည်းခံပါလေ။ ၎င်းပြင် အသင်သည် ငါအရှင်မြတ်၏ကျွန် စွမ်းအားသတ္တိရှင်ဖြစ်သူ (နဗီတမန်တော်)"ဒါဝူဒ်"(၏အကြောင်းအတ္ထုပ္ပတ္တိ)ကို ပြန်လည်စဉ်းစား သတိရပါလေ။ ဧကန်မလွဲ ထို "ဒါဝူဒ်" သည် (ငါအရှင်မြတ်ဘက်သို့)လွန်စွာ ပြန်လှည့်သူဖြစ်ခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

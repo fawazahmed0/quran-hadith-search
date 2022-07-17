@@ -710,6 +710,12 @@ Pogubikhme Nie tezi selishta, kogato ugnetyavakha, i storikhme za tyakhnata gibe
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၉။	ထိုမြို့ရွာနယ်ပယ်အားလုံး ၎င်းတို့သည် မကောင်းမှုဒုစရိုက်ကို ကျူးလွန်သောအခါ ငါအရှင်မြတ်သည် ၎င်းတို့ကို ဖျက်ဆီးပစ်တော်မူ၏။ ငါသည် ၎င်းတို့ကို ဖျက်ဆီးဖို့အတွက် အချိန်သတ်မှတ်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ဤသည်(တို့သည်)အကြင်မြို့(သူ) ရွာ(သား)များပင်။ ငါအရှင်မြတ်သည် ၎င်းတို့အား ၎င်းတို့ မတရားကျူးလွန်ခဲ့ကြသောအခါ ဖျက်ဆီး တော်မူခဲ့၏။ အမှန်သော်ကားငါအရှင်မြတ်သည် ၎င်းတို့ပျက်စီးကြရန်အလို့ငှာ ချိန်းချက်ထားသောကာလတစ်ခုကို ပြုလုပ်သတ်မှတ်တော်မူခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

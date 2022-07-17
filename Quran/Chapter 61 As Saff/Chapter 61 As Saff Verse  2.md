@@ -710,6 +710,12 @@ O, vyarvashti, zashto govorite onova, koeto ne vŭrshite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။ အို-ယုံကြည်သူအပေါင်းတို့၊ သင်တို့သည် မိမိတို့မပြုလုပ်သောအရာများကို ပြုလုပ်လေဟန်အဘယ်ကြောင့် ပြောဆိုကြသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-"မုအ်မင်န်" သက်ဝင်ယုံကြည်သူ အပေါင်းတို့၊ အသင်တို့သည် မည်သည့်အတွက်ကြောင့် မိမိတို့ မပြုလုပ်ကြသောကိစ္စကို (ပြုလုပ်လေဟန်) ပြောဆိုကြသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

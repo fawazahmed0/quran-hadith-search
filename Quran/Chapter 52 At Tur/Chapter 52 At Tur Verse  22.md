@@ -710,6 +710,12 @@ I shte im darim v izobilie plodove i meso, kakvito pozhelayat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	ထို့အပြင် ငါသည် နိဗ္ဗာန်သူနိဗ္ဗာန်သားတို့အား သူတို့အလိုရှိသည့်အတိုင်း သစ်သီးသစ်ဥအမျိုးမျိုး၊ သားငါး အဖုံဖုံတို့ကို ပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ထိုသူတို့အား ထိုသူတို့ အလိုဆန္ဒရှိကြလေသော အမျိုးအစားမှ သစ်သီးဝလံများကိုလည်းကောင်း၊ အသားများကိုလည်းကောင်း၊ အစဉ်မပြတ် တိုး၍ ပေးသနားတော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

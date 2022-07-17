@@ -710,6 +710,12 @@ Skriva se ot khorata zaradi loshoto, koeto sa mu sŭobshtili - dali da ya poshta
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၉။	သူသည် မိမိရရှိသောအမင်္ဂလာသတင်းကြောင့် လူများကို မျက်နှာမပြ၊ ပုံးရှောင်နေ၏။ သူသည် ထိုသမီး ကလေးကို သေးသိမ်ယုတ်ညံ့သောဘဝတွင် ထားမည်လော။ သို့မဟုတ် အရှင်မြှုပ်မည်လော။ အမှန်မှာ သူတို့၏ ဆုံးဖြတ်ချက်သည် မကောင်းမှုဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းသည် မိမိကို မကောင်းသတင်းပေးခြင်းကိုခံရသောကြောင့် လူများထံမှမမြင်နိုင်ကြလေအောင် ပုန်းကွယ်လေသည်။ (ထို့ပြင်) ယင်းသည် ထိုမိန်းကလေးကို ယုတ်ညံ့သောအခြေအနေနှင့် ထိန်းသိမ်း၍ ထားရပါမည်လော။ သို့တည်းမဟုတ် ၎င်းအား မြေကြီးထဲ၌ မြှုပ်ရပါမည်လောဟု(သို့လော၊ သို့လော ဖြစ်၍နေပေသည်)။ သတိပြုကြလေကုန်။၎င်းတို့၏ ဆုံးဖြတ်ချက်သည် အလွန်ယုတ်ညံ့လှပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ili imate obeshtanie ot Nas do Denya na vŭzkresenieto da imate onova, koeto sam
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။ သို့တည်းမဟုတ် တရားဆုံးဖြတ်သောနေ့တော်ကြီးတိုင်အောင် နင်တို့လိုသမျှကို ရရှိစေမည်ဟူသော ပဋိညာဉ်ဝန်ခံ ချက်တော်ကို နင်တို့ငါတို့ထံမှ ရထားကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် အသင်တို့အဖို့ ငါအရှင်မြတ်အပေါ်၌ "ကိယာမတ်" ရှင်ပြန်ထမည့်နေ့ တိုင်အောင် တည်ရှိအံ့သော ဧကန်စင်စစ် အသင်တို့အဖို့ အသင်တို့ စီရင်ဆုံးဖြတ်သည့်အတိုင်း ဖြစ်ရမည်ဟူ၍ လေးနက်ခိုင်မာစွာ ကျိန်ဆို၍ ပြုလုပ်ထားသော ကတိ သစ္စာခံဝန်ချက်များ ရှိလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

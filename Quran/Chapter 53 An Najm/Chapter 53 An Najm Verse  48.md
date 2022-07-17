@@ -710,6 +710,12 @@ i Toĭ daryava bogat·stvo i udovletvorenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	ထို့အပြင်အရှင်မြတ်သည် ပေါများကြွယ်ဝခြင်းနှင့် ရောင့်ရဲတင်းတိမ်ခြင်းကို ပေးသနားတော်မူသောအရှင်ဖြစ်တော် မူကြောင်းလည်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်ဧကန် ထိုအရှင်မြတ်သည် ကုံလုံကြွယ်ဝစေတော်မူသည်၊ ဆင်းရဲနွမ်းပါးစေ- ဥစ္စာပစ္စည်းချီးမြှင့် ပေးသနား တည်မြဲစေတော်မူသည်ဟူ၍ လည်းကောင်း၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

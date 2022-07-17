@@ -710,6 +710,12 @@ Kazva: “Propilyakh ogromno bogat·stvo.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။ လူသားသည် မိမိဥစ္စာပစ္စည်းအမြောက်အမြားသုံးစွဲဖြုန်းတီးခဲ့ပြီဟု ကြွားဝါပြောတတ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းက ကျွန်ုပ်သည် မြောက်မြားစွာသော ပစ္စည်းဥစ္စာကို သုံးဖြုန်းခဲ့သည်ဟု (ဝါကြွား)ပြောဆိုလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Nito slŭntseto mozhe da nastigne lunata, nito noshtta da izprevari denya. Vsich
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၀။ နေသည် ရာသီစက်ဝန်းတွင် ကူးပြောင်းသွားလာရာ၌ လကို မှီအောင် လိုက်ခွင့်မရှိချေ၊ ညဉ့်သည်လည်း နေ့ကို ကျော်လွန်သွားနိုင်ခွင့်မရှိချေ၊ ထိုနေ့နှင့်လစသည့်ကောင်းကင်တန်ဆာတို့သည် အလ္လာဟ်အရှင်မြတ် ပညတ်ထားတော်မူသောနည်းဥပဒေသအတိုင်းသာလျှင် မိမိတို့စက်ဝန်းအတွင်းတွင် လူးလာပြန်ခတ်သွားလာ နေကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 နေသည် လကို မမီနိုင်ပေရာ ထိုနည်းတူစွာ ညဉ့်သည်လည်း နေ့ကို ကျော်လွန်နိုင်သည် မဟုတ်ပေ။ စင်စစ်မှာကား အသီးသီးတို့သည် ဂြိုဟ်နက္ခတ် သွားလာရာ လမ်းကြောင်းတစ်ခုစီ၌ ကူးခတ်သွားလာ၍ နေကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

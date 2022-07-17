@@ -710,6 +710,12 @@ koito, shtom beda gi spoleti, kazvat: “Nie na Allakh prinadlezhim i pri Nego s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၆။	ဘေးအန္တရာယ်ကျရောက်သောအခါ ထိုသူတို့က ကြည့်လော့။ အကျွန်ုပ်တို့သည် အရှင်မြတ်၏ ကျေးကျွန်များဖြစ်ကြ၏။ ကြည့်ကြလော့။ အကျွန်ုပ်တို့သည် အရှင်မြတ်အထံတော်သို့ ပြန့်နေကြသည် ဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့သည် မိမိတို့အပေါ်၌ ဘေးဥပဒ်အန္တ ရာယ် တစ်စုံတစ်ရာ ဆိုက်ရောက်လာသောအခါ ဧကန်အမှန် အကျွန်ုပ်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ အဖို့အရာသာ ဖြစ်၍ မုချဧကန် ထိုအရှင်မြတ်၏ အထံတော်သို့သာ ပြန်လည် သွားကြရမည့်သူများ ဖြစ်ကြပါသည်ဟု ဆိုလေ့ရှိကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

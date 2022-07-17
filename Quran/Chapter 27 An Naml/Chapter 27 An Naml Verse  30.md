@@ -710,6 +710,12 @@ To e ot Sulaĭman i e: “V imeto na Allakh, Vsemilostiviya, Milosŭrdniya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	မှတ်သားကြလော့၊ ထိုစာချွန်မှာ စိုလိုင်မာန်ဘုရင်ထံမှ ဖြစ်သည်၊ ထိုစာချွန်အဆိုမှာ မဟာကရုဏာတော်အရှင်၊ အနန္တကောင်းကြီးမင်္ဂလာတော်သခင်၊ အလ္လာဟ်အရှင်မြတ်၏ နာမတော်အားဖြင့် အစပြုပါအ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ထိုစာမှာ စုလိုင်မာန်ထံမှ ဖြစ်၏။ထို့ပြင် ဧကန်အမှန် ၎င်းမှာ ဤသို့ဖြစ်၏။ ကြီးမားလှသော၊ ကရုဏာရှင်ဖြစ်တော်မူသော၊ အလွန်တရာ သနားညှာတော်မူသော အလ္လာဟ်အရှင်မြတ်၏ နာမံတော်ဖြင့် အစပြု၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

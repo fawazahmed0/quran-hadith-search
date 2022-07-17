@@ -710,6 +710,12 @@ kogato okovite i verigite shte sa na vrata im. Shte bŭdat vlacheni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၁။	ထိုသိရသောအချိန်၌ကား သူတို့သည် မိမိတို့၏လည်ပင်းတွင် လည်ထိပ်ခတ်၍ မီးသံကြိုးစွပ်တပ်လျက် ဆွဲငင်ခြင်း ကို ခံကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်အခါဝယ် ထိုသူတို့၏ လည်ကုပ်များ၌ လည်ကွင်းများနှင့် သံကြိုးများသည် ရှိနေကြပေမည်။(ထို့ပြင်)၎င်းတို့သည် ဒရွတ်တိုက်ဆွဲချခြင်းကို ခံကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ne sa ravni obitatelite na Ogŭnya i obitatelite na Raya. Obitatelite na Raya sa
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	အဝီစိငရဲမီးကို ပိုင်ဆိုင်သူတို့နှင့် နိဗ္ဗာန်ဥယျာဉ်တော်ကို ပိုင်ဆိုင်သူတို့မတူညီနိုင်ချေ၊ နိဗ္ဗာန်ဥယျာဉ်ရှင်တို့သည်သာ အောင်မြင်သူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငရဲသားတို့နှင့် ‘ဂျန္နတ်’ သုခဘုံသားတို့သည် တူကြသည်မဟုတ်ပေ။ သုခဘုံသားတို့မှာမူကား အောင်မြင်သူများပင် ဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

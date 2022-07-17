@@ -710,6 +710,12 @@ A koĭto ne vyarva, da ne te naskŭrbyava neverieto mu! Kŭm Nas e tyakhnoto za
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	အို-တမန်တော်၊ အကြင်သူသည် သမ္မာတရားတော်ကို မယုံကြည်အ့ံ၊ ထိုသူ၏ မိစ္ဆာအယူဝါဒသည် သင်၏ စိတ်ကို မထိခိုက်စေလင့်၊ ထိုအယူမှားသူတို့သည် ငါ့အထံတော်သို့ ပြန်ကြရမည်သာတည်း၊ ထိုအခါငါသည် သူတို့အား သူတို့ပြုကျင့်မှုများကို မိန့်ကြားတော်မူမည်၊ မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် လူသား တို့၏ စိတ်နှလုံးအတွင်းရှိရှိသမျှအပေါင်းကို အကြွင်းမဲ့သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် မည်သူမဆို သွေဖည်ငြင်းပယ်ခဲ့ပါမူ၊ထိုသူ၏ သွေဖည်မှုသည် အသင့်အား ပူဆွေးစေခြင်း မဖြစ်စေရ။ ၎င်းတို့သည် ငါအရှင်မြတ်အထံတော်သို့ သာလျှင် ပြန်လည်ရောက်ရှိကြရပေမည်။ ထိုအခါ ငါအရှင်မြတ်သည် ၎င်းတို့အား၎င်းတို့ကျင့်မူပြုလုပ်ခဲ့ ကြသည်များကို သိစေတော်မူမည်။ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် စိတ်နှလုံးများအတွင်း၌ရှိသည်တို့ကို အကြွင်းမဲ့သိတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

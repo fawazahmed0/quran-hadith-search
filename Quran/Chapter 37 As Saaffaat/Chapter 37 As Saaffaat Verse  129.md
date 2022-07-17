@@ -710,6 +710,12 @@ I ostavikhme za nego spomen sred setnite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၉၊၁၃ဝ။ တဖန်ငါသည် နောင်လာနောက်သားအပေါင်းတို့အား အေးချမ်းသာယာခြင်းမင်္ဂလာတော်ကျရောက်ပါစေသောဝ် ဟူ၍ ဆုတောင်းမေတ္တာပို့သစေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ငါအရှင်မြတ်သည် ထိုအီလ်ယာစ်နှင့်ပတ်သက်၍ နောင်လာနောက်သားတို့တွင် (၎င်းအား ကောင်းမွန်စွာ သတိရခြင်းကို) ရှိစေတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

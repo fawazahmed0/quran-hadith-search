@@ -710,6 +710,12 @@ Nima vseki ot tyakh kopnee da vleze v Gradinata na blazhenstvoto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။ ထိုသူမိုက်တို့အနက် လူတိုင်းပင်လျှင် သုခဥယျာဉ်တော်သို့ ဝင်ရလိမ့်မည်ဟု မျှော်လင့်သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့အနက် လူတိုင်းသည် စည်းစိမ်ချမ်းသာနှင့် ပြည်စုံလျက်၊ ဂျန္နသ်သုခဘုံသို့ ဝင်ရောက်ရောက် အလိုရမ္မက် ရှိလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

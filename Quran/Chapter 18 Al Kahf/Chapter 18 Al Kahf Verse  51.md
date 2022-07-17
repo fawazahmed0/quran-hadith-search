@@ -710,6 +710,12 @@ Ne gi storikh Az svideteli pri sŭtvoryavaneto na nebesata i na zemyata, nito pr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁။	ငါသည် မိုးမြေနှင့်ရှိုင်တန်မာရ်နတ်တို့ကို ဖန်ဆင်းတော်မူသောအခါလည်းကောင်း၊ သူတို့အား အသိသက်သေ များဖြစ်စေတော်မမူချေ။ သို့မဟုတ် လမ်းမှားပြသူတို့ကို ငါ့အား ကူညီဖို့ရာ ရွေးချယ်တော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် ယင်းရှိုင်တွာန်မိစ္ဆာကောင်တို့အား မိုးကောင်းကင်များကို ဖန်ဆင်းတော်မူရာ၌ လည်းကောင်း၊ ပထဝီမြေကို ဖန်ဆင်းတော်မူရာ၌လည်းကောင်း၊အဆင်သင့် ခေါ်ထားတော်မူခဲ့သည်မဟုတ်ပေ။ ထိုနည်းတူစွာ၎င်းတို့အား ဖန်ဆင်းတော်မူရာ၌လည်း(အဆင့်သင့်ခေါ်ထားခြင်းကိုပြုတော်)မမူခဲ့ချေ။ အမှန်စင်စစ်သော်ကား ငါအရှင်မြတ်သည် (သူတစ်ပါးကို)လမ်းလွဲစေသောသူတို့အား (မိမိ)လက်ရုံးအဖြစ် ပြုတော်မူမည့်အရှင် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

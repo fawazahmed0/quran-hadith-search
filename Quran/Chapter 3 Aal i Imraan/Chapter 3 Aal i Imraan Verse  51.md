@@ -710,6 +710,12 @@ Naistina Allakh e moyat Gospod i vashiyat Gospod. Na Nego sluzhete! Tova e pravi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁။	မှတ်သားကြလော့။ အလ္လာဟ်အသျှင်မြတ်သည် ငါ၏အသျှင်သခင်ဖြစ်တော်မူ၏။ သင်တို့၏ အသျှင်သခင်ကလည်း ဖြစ်တော်မူ၏။ ထို့ကြောင့် အသျှင်မြတ်အား ခဝပ်ကိုးကွယ်ကြလော့။ ယင်းအယူသည် လမ်းမှန်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည်အကျွန်ုပ်ကို မွေးမြူတော်မူသော အရှင်လည်း ဖြစ်တော်မူ၏။အသင်တို့ကို မွေးမြူတော်မူသော အရှင်မြတ်လည်း ဖြစ်တော်မူ၏။ သို့ဖြစ်ပေရာ အသင်တို့သည် ထိုအရှင်မြတ်ကိုသာလျှင်ခဝပ် ကိုးကွယ်ကြကုန်။ ဤကား ဖြောင့်မတ်မှန်ကန်သောတရားလမ်းပင် ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I zashto, kogato vleze v svoyata gradina, ti ne reche: “Tova e, koeto Allakh p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	သင်သည် မိမိဥယျာဉ်အတွင်းသို့ ဝင်သောအခါ အလ္လာဟ်အရှင်မြတ်၏ အလိုတော်အတိုင်းဖြစ်ပျက်ရမည် သာတည်း။ အရှင်မြတ်မှတပါး အခြားအရာ၌ ခွန်အားဗလမရှိချေဟု သင်ပြောဆိုလျှင် ကောင်းလေစွ၊ ဥစ္စာပစ္စည်း သားသမီးအခြွေအရံတွင် အကျွနု်ပ်သည် သင့်ထက် နည်းပါးသည်ဟု သင်မြင်သော်လည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်သည် မိမိဥယျာဉ်သို့ ဝင်ရောက်ခဲ့စဉ်အခါက(မာရှာအလ္လာဟ်လာကူးဝသအစ်လ္လာဗစ်လ္လာဟ်)ဤသည် အလ္လာဟ်အရှင်မြတ် အလိုရှိတော်မူသောအရာကိစ္စသာလျှင် ဖြစ်မြောက်၏။ အလ္လာဟ်အရှင်အကူအညီမရှိလျှင်မည်သို့မျှ စွမ်းဆောင်နိုင်ခြင်း မရှိပါ ဟု အဘယ်ကြောင့် မဆိုခဲ့ပါသနည်း။ အကယ်၍ အသင်သည် ကျွန်ုပ်အား အသင့်ထက်ပစ္စည်းဥစ္စာအားဖြင့် လည်းကောင်း၊ သားသမီးဥစ္စာအားဖြင့်လည်းကောင်း နည်းပါးသူဖြစ်သည်ဟု မြင်နေပါသော်လည်း၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

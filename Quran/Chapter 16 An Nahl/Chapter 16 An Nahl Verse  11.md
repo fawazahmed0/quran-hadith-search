@@ -710,6 +710,12 @@ S neya Toĭ za vas izvazhda posevite i maslinite, i palmite, i grozdeto, i vsic
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	အရှင်မြတ်သည် ထိုရေအားဖြင့် သင်တို့အဖို့ သံလွင်သီး၊ စွန်ပလွံသီး၊ အသီးအမျိုးမျိုးစသည့်အသီးအနှံများ ကို သီးစေတော်မူ၏။ မှတ်သားကြလော့၊ ဤအချင်းအရာ၌ တွေးတောဆင်ခြင်တတ်သူတို့အဖို့အရာ သာဓက တော်အမှန်ပင်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် အသင်တို့၏အကျိုးငှာ ထိုရေဖြင့် ကောက်ပဲသီးနှံများကိုလည်းကောင်း၊ သံလွင်ပင် များကိုလည်းကောင်း၊ စွန်ပလွံပင်များကိုလည်းကောင်း၊ စပျစ်(ပင်)များကိုလည်းကောင်း၊ သီးနှံမျိုးစုံတို့ကို လည်းကောင်း၊ ပေါက်ရောက်စေတော်မူ၏။ ဧကန်မလွဲ ဤသည်၌စဉ်းစားဆင်ခြင်ချင့်ချိန် သုံးသပ်သူတို့ အဖို့ အမှန်ပင်သက်သေလက္ခဏာသည်ရှိချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

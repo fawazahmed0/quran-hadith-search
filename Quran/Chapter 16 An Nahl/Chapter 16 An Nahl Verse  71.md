@@ -710,6 +710,12 @@ Allakh predpochete edni ot vas pred drugi v prepitanieto. A onezi, koito sa pred
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၁။	အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အနက် အချို့သောသူတို့အား အခြားသူများထက် စည်းစိမ်ဥစ္စာများ၌ ပိုမို ကျေးဇူးပြုတော်မူ၏။ သို့သော်ဤကဲ့သို့ကျေးဇူးပြုတော်မူခြင်းခံရသူတို့သည် မိမိတို့ဥစ္စာပစ္စည်းများကို မိမိတို့ ကျေးကျွန်များနှင့် ညီတူညီမျှဖြစ်စေရန် မည်သည့်နည်းနှင့်မျှ ဝေယူကြမည်မဟုတ်ချေ။ သူတို့သည် အလ္လာဟ် အရှင်မြတ်၏ ဂုဏ်ကျေးဇူးတော်ကို ငြင်းခုံကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည်ပင်အသင်တို့အနက် အချို့ကိုအချို့ထက် စားနပ်ရိက္ခာ တိုးမြှင့်ပေးသနားတော်မူခဲ့၏။ သို့ရာတွင် (ယင်းကဲ့သို့) တိုးမြှင့်ခြင်းခံကြရသောသူတို့သည် မိမိတို့၏ ဝေစုဝေပုံကို မိမိတို့ပိုင်ဆိုင်ကြကုန်သော ကျေးကျွန်တို့အား ဤ(ဥစ္စာပစ္စည်း)အရာ၌ ၎င်းတို့ (ကျွန်နှင့်သခင်)အားလုံး သာတူညီမျှဖြစ်အံ့သောငှာ ခွဲဝေပေးမည့်သူများ မဟုတ်ကြချေ။ သို့ပါလျက် ၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ်၏ကျေးဇူးတော်ကို ငြင်းပယ်ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

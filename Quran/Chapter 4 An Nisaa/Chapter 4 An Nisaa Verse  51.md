@@ -710,6 +710,12 @@ Ne vidya li ti darenite s dyal ot Pisanieto? Vyarvat v magiyata i v satanata, i 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁။	အို-တမန်တော် ကျမ်းတော်ကို (တစ်စိတ်တစ်ဒေသ)ရရှိသူတို့သည် ဆင်းတုများ၊ ဘုရားတုများကို ခဝပ်ကိုးကွယ်သည်ကိုသော်လည်းကောင်း၊ သူတို့က အယူဝါဒမှောက်မှားသူတို့သည် ယုံကြည်သူများ ထက် သလွန်မှန်ကန်သောနည်းလမ်း ညွှန်ပြချက်ကို ရရှိကြ၏ဟု ပြောဆိုသည်ကိုသော်လည်းကောင်း၊ သင်သိမြင်ပြီးပြီမဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို- နဗီ) အသင်သည် ကျမ်းဂန်အနက်မှ တစ်စိတ်တစ်ဒေသကို ရရှိခဲ့သူတို့ (၏ဖြစ်အင်) ကို မတွေ့ မမြင်ပါလေသလော။ ထိုသူတို့သည် ရုပ်ပွားဆင်းတုများကိုလည်းကောင်း၊ ရှိုင်တွာန်ကိုလည်းကောင်း ယုံကြည်ကြ၏။ ၎င်းပြင် ထိုသူတို့က ကာဖိရ်များနှင့်စပ်လျဉ်း၍ ‘ဤသူများသည် မုအ်မင်န်များထက် ပိုမို၍ တရားလမ်းမှန်ရသောသူများ ဖြစ်ကြသည်’ ဟူ၍ ပြောဆိုကြ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

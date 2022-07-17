@@ -710,6 +710,12 @@ Onezi, koito vyarvat i vŭrshat pravedni dela, te sa naĭ-dobrite ot tvoreniyat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။ သို့သော် ယုံကြည်လျက် သုစရိုက်ကောင်းမှုပွားများသူတို့မူကား ဝေနေယျသတ္တဝါအပေါင်းတို့တွင် အမွန်မြတ်ဆုံး ဖြစ်ကြကုန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အီမာန်" သက်ဝင်ယုံကြည်၍ ကောင်းမြတ်သော အကျင့်သီလများကို ကျင့်မူဆောက်တည်ခဲ့ကြကုန်သော သူတို့မှာမူကား ဧကန်မလွဲ အဖန်ဆင်းခံတို့တွင် အကောင်းဆုံးသောသူများပင် ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

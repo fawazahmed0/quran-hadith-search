@@ -710,6 +710,12 @@ Kazhi [o, Mukhammad]: “Da vi izvestim li za naĭ-gubeshtite po deyaniya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၃။	အို-တမန်တော်၊ ဟောကြားလော့၊ ဟယ်-အချင်းတို့၊ အဘယ်သူတို့သည် မိမိတို့ပြုကျင့်မှုများကြောင့် ဆုံးရှုံးသူ အကြီးဆုံးများဖြစ်ကြမည်ကို အကျွနု်ပ်ပြောပြရမည်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (၎င်းတို့အားအချင်းတို့၊) ငါသည် အသင်တို့အား အကျင့်အမူအားဖြင့် လုံးဝဆုံးရှုံးသောသူတို့နှင့်ပတ်သက်၍ အသင်တို့အား အသိပေးရမည်လောဟု ပြောကြားပါလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

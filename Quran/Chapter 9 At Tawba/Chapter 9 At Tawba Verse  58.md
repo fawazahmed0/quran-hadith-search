@@ -710,6 +710,12 @@ Nyakoi sred tyakh te klevetyat zaradi milostinyata. I ako im se dade neshto ot n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈။	သူတို့အနက် သင့်အား အလှုပစ္စည်းများနှင့်စပ်လျဉ်း၍ အသရေဖျက်သူလည်းရှိ၏။သူတို့ကို ထိုအလှုပစ္စည်း မှ ပေးလျှင် သူတို့သည် စိတ်ကျေနပ်ကြ၏။သူတို့ကို မပေးလျှင် ကြည့်လော့၊ သူတို့သည် ဒေါသအမျက် ထောင်းထောင်းထွက်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ယင်း(မုနာဖစ်က်)တို့တွင် အသင့်အားအလှူပစ္စည်းများနှင့်စပ်လျဉ်း၍ ကဲ့ရဲ့ပြစ်တင်ရှုတ်ချ သူများလည်းရှိကြသေး၏။ သို့ရာတွင် အကယ်၍ ထိုသူတို့သည် ယင်းအလှူပစ္စည်းများအနက်မှ (မိမိတို့ စိတ်တိုင်းကျ) ရရှိခဲ့ကြလျှင်ထိုသူတို့သည် ကျေနပ်ကြလေသည်။ သို့ရာတွင် အကယ်၍၎င်းတို့သည် ထိုအလှူပစ္စည်းများအနက်မှ (မိမိတို့ စိတ်တိုင်းကျ)မရရှိခဲ့ကြပါလျှင် ရုတ်တရက်အမျက်ထွက်ကြလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

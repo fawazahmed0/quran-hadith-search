@@ -710,6 +710,12 @@ i nie sme proslavyashtite.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၆။	မှတ်သားကြလော့၊ ငါတို့ကောင်းကင်တမန်များပင်လျှင် အရှင်မြတ်၏ ကျေးဇူးတော်ဂုဏ်တော်ကို ချီးမွမ်းသူများ ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ဧကန်စင်စစ် ကျွန်ုပ်တို့သည်(အလ္လာဟ်အရှင်မြတ်) စင်ကြယ် သန့်ရှင်းတော်မူကြောင်း မြွက်ဆိုသူများပင် ဖြစ်ကြကုန်သည်။ (ဟုဆိုကြသည်)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

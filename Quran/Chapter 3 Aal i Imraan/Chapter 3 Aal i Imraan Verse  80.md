@@ -710,6 +710,12 @@ I ne shte vi poveli takŭv da priemete za gospodari angelite i prorotsite. Nima 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈ဝ။	ထို့ပြင် ထိုသူမြတ်သည် သင်တို့အား ကောင်းကင်တမန်တော်များနှင့် လူသားတမန်တော်များကို အသျှင်သခင်အဖြစ်ဖြင့် ကိုးကွယ်ခိုင်းမည်မဟုတ်ပေ။ သင်တို့သည် အလ္လာဟ်အသျှင်မြတ်အား ကျိုးနွံ့ပြီးနောက် သင်တို့အား မယုံကြည်ရန် ဆင့်ဆိုမည်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ ယင်း(ကဲ့သို့ချီးမြှင့်ခြင်းခံရသော)သူက အသင်တို့အား မလာအိကဟ် အပါးတော်စေတမန်များကိုလည်းကောင်း၊ ဗီတမန်တော်များကိုလည်းကောင်း၊(မိမိတို့အား) မွေးမြူတော်မူသောအသျှင်များအဖြစ် ပြုလုပ်ကြရန်လည်း (မည်သည့်အခါမျှ) ညွှန်ကြားမည် မဟုတ်ပေ။အသင်တို့ (မွတ်စ်လင်မ်)အမိန့်နာခံ သောသူများ ဖြစ်ကြပြီးနောက် ထို(နဗီအဖြစ် ချီးမြှင့်ခြင်းခံရသော)သူသည် အသင်တို့အား သွေဖည်ငြင်းပယ်ရန် ညွှန်ကြားပါမည်လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

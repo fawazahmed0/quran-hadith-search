@@ -710,6 +710,12 @@ I ako se pokayat i ot·sluzhvat molitvata, i davat milostinyata zakat, togava te
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	အကယ်၍သူတို့သည် သတိနောင်တရ၍ အပြစ်ကို ဝန်ချတောင်းပန်ခြင်း၊ ဆွလတ်ဝတ်၌ တည်မြဲခြင်း၊ ဇကတ် အလှုကို ပေးခြင်းတို့ကို ပြုကြလျှင် သူတို့သည် သင်တို့၏ ဘာသာရေးညီအစ်ကိုများဖြစ်ကြ၏။ငါအရှင်မြတ်သည် မိမိ၏ နှုတ်ကပတ်တော်များကို အသိပညာရှိသူတို့အဖို့ အကျယ်တဝန့်ချပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကယ်၍ ထိုသူတို့သည် (မိမိတို့၏အယူဝါဒများကိုစွန့်လွှတ်ကာ အီမာန် ယုံကြည် ခြင်းသဒ္ဓါတရား ထားရှိခြင်းအားဖြင့်) ဝန်ချတောင်းပန်၍ ဆွလာတ်ဆောက်တည်ခြင်းကိုလည်းကောင်း၊ ဇကာတ် တရားဝင်ဒါနကြေး ပေးဆောင်ခြင်းကိုလည်းကောင်း ပြုခဲ့ကြပါလျှင်၊ ထိုသူတို့သည် ဒီန်သာသနာရေးတွင် အသင်တို့၏ညီသားအစ်ကိုများပင်ဖြစ်ကြကုန်သည်။ အမှန်သော်ကား ငါအရှင်မြတ်သည် (မိမိ)အာယတ်တော်များကို သိနားလည်သူတို့အဖို့ အသေးစိတ်ထုတ်ဖော် မိန့်ကြားတော်မူလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

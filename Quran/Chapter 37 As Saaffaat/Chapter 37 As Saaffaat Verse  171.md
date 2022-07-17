@@ -710,6 +710,12 @@ Oshte predi kazakhme na nashite rabi-pratenitsi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇၁။	ရှေးလွန်လေပြီးသောအခါ ငါအရှင်မြတ်သည် မိမိစေလွှတ်တော်မူသောကျေးကျွန်တော်များသို့ ကတိဗျာဒိတ် တော်များသို့ ဂတိဗျာဒိတ်ပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်သော်ကား ငါအရှင်မြတ်၏ ရစူလ်တမန်တော်များဖြစ်ကြသော ကျွန်တို့နှင့်ပတ်သက်၍ ငါအရှင်မြတ်၏ အမိန့်ဗျာဒိတ်တော်သည် ရှေးဦး မဆွကပင် သတ်မှတ်ပြီးဖြစ်ခဲ့ပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

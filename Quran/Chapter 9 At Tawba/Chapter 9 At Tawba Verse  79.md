@@ -710,6 +710,12 @@ Koito klevetyat i se prismivat na davashtite po svoya volya milostinya izmezhdu 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၉။	အကြင်သူတို့သည် ယုံကြည်သူများ၏ စိတ်ထက်သန်စွာအလှုဒါနပေးသူတို့ကိုသော်လည်းကောင်း၊ ဥစ္စာပစ္စည်း မရှိ၍ မိမိတို့အင်အားကို လှုသောသူတို့ကိုသော်လည်းကောင်း၊ လက်ညှိုးထိုး၍ ကဲ့ရဲ့လှောင်ပြောင်ကြ၏။ထိုသူတို့ကို အလ္လာဟ်အရှင်မြတ်သည် ပျက်ရယ်ပြောင်လှောင်ကြ၏။သူတို့အပြစ်ဒဏ်သည် အလွန်ပြင်းပြနာကျင် ဖွယ်ကောင်းသောအပြစ်ဒဏ်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထို’မုနာဖစ်က်’ မုစ်လင်မ် အယောင်ဆောင်များသည်)အကြင်သူများပင်၊ ယင်း(မုနာဖစ်က်)သူများသည် ‘မုအ်မင်န်’သက်ဝင်ယုံကြည်သူတို့အနက်မှ သဒ္ဓါကြည်ဖြူစွာပေးကမ်း လှူဒါန်းသူတို့အား ပြစ်တင်ပြောဆိုကြလေသည်။ ၎င်းပြင်မိမိတို့ အားသွန်ခွန်စိုက်ရှာဖွေရရှိသော ချွေးနှဲစာမှအပ၊ အခြားတစ်စုံတစ်ရာကို မရရှိနိုင်ကြသောသူတို့အားလည်း ထို(မုနာဖစ်က်မုစ်လင်မ်အယောင်ဆောင်)တို့သည်ပြက်ချော်ပြောင်လှောင်ကြပေသည်။ အလ္လာဟ်အရှင်မြတ်သည် ယင်း(မုနာဖစ်က်)တို့အား ပြောင်လှောင်တော်မူခဲ့လေသည်။ ထို့ပြင် ၎င်းတို့၌ ပြင်ပြနာကျင်စေသော ပြစ်ဒဏ်သည်လည်း ရှိပေအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ne ochakvaĭte pri Allakh bogat·stvo za onova, koeto davate s likhva, za da se
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	သူတပါး၏ ပစ္စည်းဥစ္စာအားဖြင့် မိမိစီးပွားဖြစ်စေခြင်းငှာ အတိုးချသောအရင်းပစ္စည်းသည် အလ္လာဟ်အရှင်မြတ်၏ မျက်နှာတော်ကို ဖူးမြင်လိုသောဆန္ဒဖြင့် ပေးသောအလှုဒါနသည် အဆပေါင်းများစွာတိုးပွား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်မှာမူကား အသင်တို့သည် လူတို့၏ပစ္စည်းများတွင် (ရောစပ်၍)တိုးပွားပြီးလျှင် အသင်တို့ထံ ရောက်လာရန် ပေးခဲ့ကြသော လက်ဆောင်ပစ္စည်းမှာ အလ္လာဟ်အရှင်မြတ်အထံတော်တွင် တိုးပွားသည်မဟုတ်ပေ။ သို့ရာတွင် အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ နှစ်သက်ကျေနပ်မှုကို လိုလား၍တစ်စုံတစ်ရာ အလှူဒါနကို ပေးကမ်းလှူဒါန်းကြပါမူ၊ ယင်းကဲ့သို့(ပေးကမ်းလှူဒါန်းကြ)သောသူတို့သာလျှင် (မိမိတို့ ပေးကမ်းလှူဒါန်းခဲ့ကြသည်များကို အလ္လာဟ်အရှင်မြတ်အထံတော်၌)တိုးပွားစေကြသူများဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

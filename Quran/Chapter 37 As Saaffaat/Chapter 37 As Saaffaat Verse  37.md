@@ -710,6 +710,12 @@ Da, toĭ donese istinata i potvŭrdi pratenitsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	စင်စစ်အားဖြင့် တမန်တော်သည် သမ္မာတရားတော်ကို ယူဆောင်လာ၏၊ သူ့ထက်အလျင်ပွင့်တော်မူသောတမန် တော်များကိုလည်း တမန်တော်အစစ်ဟု ထောက်ခံ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်မှာကား ထို(တမန်တော်မြတ်)သည် အမှန်တရားကို ယူဆောင်ခဲ့သည့်ပြင်(အခြားသော)"ရစူလ်"တမန်တော်အပေါင်းတို့အားလည်း (ဟုတ်မှန်ကြောင်း)ယုံကြည် ထောက်ခံခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

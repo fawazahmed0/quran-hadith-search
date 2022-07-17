@@ -710,6 +710,12 @@ I go opazi Allakh ot zlinite, koito te zamislyakha. I zloto mŭchenie obgradi ro
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	ထို့နောက် အလ္လာဟ်အရှင်မြတ်သည် ထိုသူတော်ကောင်းအား ထိုသူတို့ကြံစည်သောဘေးဥပါဒ်တိုင်းမှ ကယ်တင် တော်မူ၏၊ ဖွာရောမင်း၏ အသင်းသားတို့ကိုမူ အပြစ်ဒဏ်တော်ဖြင့် ဝိုင်းဝန်းထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် အလ္လာဟ်အရှင်မြတ်သည် ထို ("မုအ်မင်န်") သက်ဝင်ယုံကြည်သူအား ၎င်းတို့ ကြံစည်ခဲ့ကြကုန်သော အကြံအစည်၏ဘေးအန္တရာယ်တို့မှ ဖယ်ရှားပေးတော်မူခဲ့၏။သို့ရာတွင် ‘ဖစ်ရ်အောင်န်’၏ ခြွေရံသင်းပင်တို့ကိုမူကား ဆိုးယုတ်သော ပြစ်ဒဏ်သည် ဝန်းဝိုင်းခဲ့ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

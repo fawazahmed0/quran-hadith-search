@@ -710,6 +710,12 @@ Be samo edin Vik i eto gi - izpepeleni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	အလွန်ကြီးမားပြင်းထန်သည့်ပေါက်ကွဲခြင်းကြောင့်သာ သူတို့သည် ပြာအတိဖြစ်လျက် ဆိတ်ဆိတ်ငြိမ်သွားလေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (စင်စစ် ထိုမြို့သူမြို့သားတို့၌ သက်ရောက်ခဲ့သောပြစ်ဒဏ်မှာ) ပြင်းထန်စွာသော ဟစ်အော်သံ တစ်ခုသာလျှင် ဖြစ်ခဲ့၏။ ထိုအခါ ၎င်းတို့မှာ ရုတ်တရက် (ဇီဝိန်ချုပ်)ငြိမ်းသွားသူများပင် ဖြစ်ခဲ့ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

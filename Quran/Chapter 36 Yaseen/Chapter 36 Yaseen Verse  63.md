@@ -710,6 +710,12 @@ Tova e Adŭt, koĭto vi be obeshtan
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၃။	နင်တို့အား အထပ်ထပ်ခြိမ်းခြောက်ဟောပြောခဲ့သည့်ငရဲသည်ကား ဤအရာပင်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည် အသင်တို့ ကတိပေးချိန်းဆိုခြင်း ခံခဲ့ကြရကုန်သော "ဂျဟန္နမ်" ငရဲဘုံပင် ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

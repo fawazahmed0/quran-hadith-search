@@ -710,6 +710,12 @@ A byakhme im ustroili vidni selishta mezhdu tyakh i selishtata, koito Nie blagos
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	ထို့အပြင်ငါသည် ထိုသူတို့မှီတင်းနေထိုင်သောမြို့ရွာနယ်မြေနှင့် ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူခြင်းခံရသော မြို့ရွာများ၏ အလယ်ကြား၌ လွယ်လင့်တကူမြင်နိုင်သောရွာငယ်ရွာကြီးများကို ဆက်ကာဆက်ကာ ဖန်ဆင်း တော်မူ၏၊ ယင်းသို့ပြုလုပ်ထားတော်မူရာတစ်ရွာနှင့်တစ်ရွာခရီးထောက်မဝေး လွယ်ကူစေရန်ဖြစ်၏၊ ၎င်းတို့အား ငါက အို-အသင်းသားတို့၊ သင်တို့နေ့ညမရွေး ရန်ဘေးကင်းကွာချမ်းချမ်းသာသာသွားလာကြလော့ဟု မိန့်တော် မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ထိုသူတို့နှင့်ငါအရှင်မြတ် သုခချမ်းသာနှင့် ပြည့်စုံစေတော်မူခဲ့သော မြို့ရွာများ၏အကြား၌ မြင်လွယ်သောမြို့ရွာများကို စည်ကားစေတော်မူခဲ့၏။ ၎င်းပြင် ငါအရှင်မြတ်သည် ထိုမြို့ရွာများ၌ခရီး ထောက်များကိုလည်း သတ်မှတ်၍ ပေးတော်မူခဲ့၏။(၎င်းပြင် ငါအရှင်မြတ်သည် ဤသို့ မိန့်ကြားတော်မူခဲ့၏။)အသင်တို့သည် ယင်းမြို့ရွာများတွင် ဘေးအန္တရာယ် ကင်းငြိမ်းစွာ နေ့ရောညပါ ခရီးသွားလာကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

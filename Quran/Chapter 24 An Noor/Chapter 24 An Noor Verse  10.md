@@ -710,6 +710,12 @@ I ako ne be blagodatta na Allakh kŭm vas, i Negovata milost, i ne be Allakh pri
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	အရှင်မြတ်သည် သင်တို့အပေါ်၌ ကရုဏာသက်ခြင်း၊ ကောင်းကြီးမင်္ဂလာပေးခြင်း၊ ကျေးဇူးတော်တို့ကို ပြုတော် မမူပါလျှင်၊ သင်တို့သည် မုချဧကန်ပျက်စီးရမည်သာတည်း၊ အလ္လာဟ်အရှင်မြတ်သည် သနားညှာတာတော်မူ၏၊ လိမ္မာတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အကယ်၍သာ အသင်တို့ အပေါ်ဝယ် အလ္လာဟ်အရှင်မြတ်၏ ကျေးဇူးတော်သည်လည်းကောင်း၊ ထိုအရှင်မြတ်၏ ကရုဏာတော်သည်လည်းကောင်း၊ မရှိခဲ့လျှင် (အမှန်ကိုပေါ်လွင်စေတော်မူခဲ့မည်သာ။) သို့ရာတွင် ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်မှာမူကား တောင်းပန်ဝန်ခံ ချက်ကို အလွန်တရာ လက်ခံတော်မူသောအရှင်၊ အလွန်တရာ ဆင်ခြင်တုံတရားနှင့် ပြည့်စုံတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေရာ အသင်တို့အား ဝန်ချတောင်းပန်နိုင်ကြရန် အလို့ငှာ အခွင့်အရေးပေးတော်မူခြင်းပင် ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Toĭ e, Koĭto stori zemyata da e postelya za vas i prokara tam pŭtishta za v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။ အရှင်မြတ်သည် မဟာပထဝီမြေကြီးကို အိပ်ရာအဖြစ်ဖြင့် ခင်းထားတော်မူ၏။ ထိုမြေပေါ်တွင် သင်တို့သွားလာ ဖို့ရာ လမ်းများကို စီရင်ထားတော်မူ၏။ ထို့အပြင်အထက်ကောင်းကင်ဘုံမှ မိုးရေကို ရွာသွန်းစေတော်မူ၏။ ထိုမိုးရေအားဖြင့် ငါအရှင်မြတ်သည် သီးပင်၊ ပွင့်ပင်၊ ဟင်းသီးဟင်းရွက်အမျိုးမျိုးကို ပေါက်ရောက်စေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအရှင်မြတ်သည်)အကြင်အရှင်မြတ်ပင်။ ထိုအရှင်မြတ်သည်ပင် ပထဝီမြေကို အခင်းအကျင်း ပြုလုပ်တော်မူခဲ့၏။ ၎င်းပြင် ထိုအရှင်မြတ်သည်ပင် ယင်းပထဝီမြေ၌အသင်တို့အဖို့ လမ်းများကိုလည်း ပြုလုပ်တော်မူခဲ့၏။ ထို့ပြင်ငါအရှင်မြတ်သည်ပင် မိုးကောင်းကင်မှ မိုးရေကို ရွာသွန်းစေတော်မူခဲ့၏။ ထို့နောက် ငါအရှင် မြတ်သည်ပင် ထိုရေဖြင့်(အနံ့အရသာ)ကွဲပြားခြားနားသော ဟင်းသီးဟင်းရွက် အမျိုးမျိုးတို့ကို ပေါက်ရောက်စေတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

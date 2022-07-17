@@ -710,6 +710,12 @@ I vseki ot vas shte mine prez Ada. Tova e okonchatelna prisŭda ot tvoya Gospod
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၁။	သင်တို့အနက် မည်သူမဆို ငရဲသို့ ချဉ်းကပ်ရမည်သာတည်း။ ဤအမိန့်တော်သည် သင်၏ အရှင်သခင်ပြဋ္ဌာန်း ထားတော်မူသောဗျာဒိတ်တော်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် အသင်တို့အနက် လူတိုင်းလူတိုင်းသည်ယင်းဂျဟန္နမ်ငရဲဘုံ၌ ဆိုက်ရောက်ရမည့်သူချည်း ဖြစ်ကုန်၏။(ဤသည်) အသင့်အား ဖန်ဆင်းမွေးမြူ တော်မူသောအရှင်မြတ်က မိမိအပေါ်၌ ယတိပြတ်ဆုံး ဖြတ်ပြီးဖြစ်သောတာဝန်တစ်ရပ်ပင် ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

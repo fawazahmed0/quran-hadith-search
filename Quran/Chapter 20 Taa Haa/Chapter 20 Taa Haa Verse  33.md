@@ -710,6 +710,12 @@ za da Te proslavyame mnogo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	အကျွနု်ပ်တို့နှစ်ဦးသည် အရှင်၏ကျေးဇူးတော်ကို ချီးကျူးဖို့ရာဖြစ်ပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကျွန်တော်မျိုးတို့သည် အရှင်မြတ်၏ တဆ်ဗီဟ်(သန့်ရှင်းစင်ကြယ်တော်မူကြောင်း)ကို များစွာဂုဏ်တော်မွှမ်းနိုင်ကြအံ့သောငှာလည်းကောင်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ O, narode moĭ, rabotete, kakto mozhete! I az shte rabotya. Shte uznaete pri ko
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၃။	ဟယ်-အချင်းတို့၊ သင်တို့သည် မိမိတို့စွမ်းနိုင်သမျှပြုကြလော့။ ငါလည်း မုချအမှန်ပြုနေ၏။ အဘယ်သူကို ယုတ်ည့ံအောက်ကျစေသောအပြစ်ဒဏ်ထိခိုက်သည်ကိုသော်လည်းကောင်း၊ အဘယ်သူသည် မုသားစကား ဆိုသည်ကိုသော်လည်းကောင်း၊ ကာလမကြာမြင့်မီ သင်တို့သိရကြလတ့ံ။ သင်တို့စောင့်ကြည့်ကြလော့။ ငါလည်း သင်တို့နှင့်အတူ အမှန်ပင်စောင့်ကြည့်၏ဟု ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (ဤသို့ပြောကြားခဲ့၏။) အို-ငါ၏အမျိုးသားတို့၊ အသင်တို့သည် မိမိတို့(နေရာတွင် မိမိတို့) တတ်စွမ်းနိုင်သမျှ ကျင့်မူကြလေကုန်။ ဧကန်စင်စစ် ငါသည်(လည်းမိမိအနေနှင့်)ကျင့်မူလျက်ပင်။ အသင်တို့သည် မည်သူ့ထံထိုသူအား အရှက်တကွဲ အကျိုးနည်းဖြစ်စေသော ပြစ်ဒဏ် ရောက်ရှိလာသည်ကိုလည်းကောင်း၊ မည်သူမုသာဝါဒီဖြစ် သည်ကိုလည်းကောင်း၊ မကြာမြင့်မီပင် သိရှိကြပေမည်။ ထိုမှတစ်ပါး အသင်တို့သည် စောင့်မျှော် ကြလေကုန်။ ဧကန်အမှန် ငါသည်လည်းအသင်တို့ နှင့်အတူ စောင့်မျှော်မည့်သူပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

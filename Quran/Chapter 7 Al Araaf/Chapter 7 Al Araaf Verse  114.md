@@ -710,6 +710,12 @@ Kaza: “Da, i shte bŭdete ot priblizhenite.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၄။	ဖာရောသည် မိန့်တော်မူ၏။ မှန်ပေသည်။ သင်တို့သည် အကျွနု်ပ်အနားတွင် ခစားရသူများ အမှန်ပင် ဖြစ်ကြရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ယင်း(ဖစ်ရ်အောင်န်)က (ပြန်၍) ပြောဆို သည်မှာ ဟုတ်ပေသည်၊ (အသင်တို့သည် ဆုလာဘ်များကိုမုချရရှိမည်)။ ၎င်းပြင် ထိုသို့ဖြစ်ခဲ့လျှင် အသင်တို့သည် (ငါနှင့်အတူ) လက်ပွန်း တတီးနေထိုင် (ချစ်ကျွမ်း)သူတို့တွင်လည်းမုချ အပါအဝင် ဖြစ်ကြလတ္တံ ဟု ပြောဆိုလေ၏။(တစ်နည်း)(ထိုအခါ) ယင်း(ဖစ်ရ်အောင်န်)ကကောင်း၏(အသင်တို့ တောင်းဆိုကြသည့်အတိုင်း ဆုလာဘ်တော် ကိုလည်းငါပေးမည်။) ထို့ပြင်တဝ အသင်တို့သည် အပါးတော်၌ရာထူးဌာနန္တရဖြင့် မြှောက်စားခြင်း ခံရသူများ၊ လူယုံတော်များလည်း မုချဖြစ်ကြပေမည်ဟု ပြောဆိုလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I kogato im se kazhe: “Poklonete se!”, ne se poklanyat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။ ထိုမိစ္ဆာဒိဋ္ဌိတို့အား ဦးချကြလော့ဟု ဆိုသောအခါ သူတို့ဦးမချချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ၎င်းတို့အား အသင်တို့သည် 'ရူကူအ်' ဦးညွှတ်ကြလေကုန်၊ ဟု အမိန့်ပေးတော်မူသောအခါ ၎င်းတို့သည် "ရူကူအ်" ဦးညွှတ် ခြင်းကို ပြုကြသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

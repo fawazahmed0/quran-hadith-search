@@ -710,6 +710,12 @@ koito vzekha svoyata religiya za zabavlenie i za igra, i gi sŭblazni zemniyat z
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁။	ထိုသူတို့သည် မိမိတို့ဘာသာတရားကို ကစားစရာ၊ အပျင်းဖြေပျော်ရွှင်စရာဟု ထင်မှတ်ကြ၏။ သူတို့ကို ဤဘဝကလှည့်စားထား၏ဟု ပြန်ပြောကြ၏။ သူတို့သည် ဤနေ့တော်ကြီး၏ အစည်းအဝေး သဘင်ကိုမေ့ခြင်း၊ ငါအသျှင်မြတ်၏ သက်သေသာဓကတော်ကြီးများကို မယုံကြည် ငြင်းဆန်ခြင်းများကို ပြုသကဲ့သို့ ငါသည်လည်း ဤနေ့တော်ကြီး၌ သူတို့ကို မေ့လျော့ပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင် (ကာဖိရ်မယုံမကြည် သွေဖည်ငြင်းပယ်)သူတို့သည် မိမိတို့ ယုံကြည်လိုက်နာကြရမည် ဖြစ်သော) ဒီန်သာသနာတော်ကို ပျော်ရွှင်ဖွယ်ရာနှင့် ကစားစရာများ ပြုလုပ်ခဲ့ကြကုန်၏။ ၎င်းပြင် ပစ္စုပ္ပန်လောကီဘဝ၌ အသက်ရှင်ခြင်းသည် ထိုသူအား ဖြားယောင်းခဲ့လေသည်။ သို့ဖြစ်ပေရာ ယနေ့မူကား ထိုသူတို့သည် ဤ(ကိယာမတ်ခေါ်ရှင်ပြန်ထရမည့်) နေ့နှင့် ကြုံကြိုက်သည်ကို မေ့ပျောက်ခဲ့ကြဘိသကဲ့သို့လည်းကောင်း၊ငါအရှင်မြတ်၏ဒေသနာတော်များကို ငြင်းပယ်ခဲ့ ကြဘိသကဲ့သို့လည်းကောင်း၊ ငါအရှင်မြတ်သည်လည်း ထိုသူတို့အား မေ့ပစ်ထားတော်မူအံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

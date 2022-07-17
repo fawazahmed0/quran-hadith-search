@@ -710,6 +710,12 @@ Toĭ e, Koĭto provodi Svoya Pratenik s napŭt·stvieto i s pravata vyara, za 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	အလ္လာဟ်အရှင်မြတ်သည် မိမိတမန်တော်ကို လမ်းပြကျမ်းတော်၊ သစ္စာဘာသာအယူဝါဒနှင့်တကွ စေလွှတ်တော် မူ၏။အကြောင်းရင်းကား ဆင်းတုရုပ်ပွားကိုးကွယ်သောသူတို့သည် မည်မျှပင်မနှစ်သက်သော်လည်း မိမိ၏ ဘာသာအယူဝါဒသည် အခြားအယူဝါဒအားလုံးကို လွှမ်းမိုးအောင်နိုင်ဖို့ရာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို (အလ္လာဟ်) အရှင်မြတ်သည်အကြင်အရှင်မြတ် ပင်ဖြစ်တော်မူ၏။ ထိုအရှင်မြတ်သည်’မွတ်ရှ်ရစ်က်’ များက မနှစ်သက်ကြသော်လည်း မိမိရစူလ်တမန်တော်အား ဘာသာသာသနာ အားလုံးတို့အပေါ်ဝယ် လွှမ်းမိုးစေခြင်းငှာတရားဓမ္မနှင့်အတူလည်းကောင်း၊ မှန်ကန်သော ‘ဒီန်’ သာသနာနှင့်အတူစေလွှတ်တော်မူခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ KULU WE TEMETTA’U KALILÆN ‘INNEKUM MUXHRIMUNE
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။ အို-မသူတော်အပေါင်းတို့၊ သင်တို့သည် ဤလောကီ ဘဝတွင်လည်း အနည်းငယ်စားကြလော့၊ သောက်ကြလော့၊ ပျော်ရွှင်ကြလော့၊ သင်တို့သည် အမှန်ပင် အပြစ်ရှိသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် (ဤပစ္စက္ခဘဝ၌) အနည်းငယ်မျှ (ကာလတိုင်အောင်) စားသုံးခြင်းကိုလည်းကောင်း၊ အကျိုးခံစားခြင်းကိုလည်းကောင်း၊ ပြုကြ လေကုန်။ ဧကန်မလွဲ အသင်တို့သည် အပြစ်ရှိသူများပင် ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

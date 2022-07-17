@@ -710,6 +710,12 @@ Reche [angelŭt]: “Tŭĭ kaza tvoyat Gospod: “Tova za Men e lesno. I za da 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	ကောင်းကင်တမန်က အို-မရယမ်၊ ထိုအဆိုမှန်ပေ၏။ သို့သော်သင်၏ ကျေးဇူးတော်သခင်သည် ဤသို့မိန့်တော် မူ၏၊ သားရတနာပေးသနားတော်မူခြင်းသည် ငါအရှင်မြတ်အဖို့ လွယ်ကူလှ၏။ ငါသည် သူ့အား လူသားတို့ အဖို့ တရားတော်နှင့် ငါ၏ ကောင်းကြီးမင်္ဂလာတော်ဖြစ်စေတော်မူမည်။ ဤအကြောင်းအရာသည် ငါဆုံးဖြတ်ပြီး သောအရာသာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကောင်းကင်တမန်က(အို-မရ်ယမ်) ဤအတိုင်းပင်ဖြစ်ပေမည်။ အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်က ဤသည်ကား ငါအရှင်မြတ်၌ အလွန်လွယ်ကူလှကြောင်း၊ ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ယင်းသား ရတနာအား လူတို့အဖို့ သက်သေလက္ခဏာတစ်ရပ် အဖြစ်လည်းကောင်း၊ ငါအရှင်မြတ် အထံတော်မှ ကရုဏာတော်အဖြစ်လည်းကောင်း၊ ပြုလိုတော်မူကြောင်း၊ ဤသည်စီရင်ဆုံးဖြတ်ပြီးဖြစ်သောကိစ္စတစ်ရပ်ပင်ဖြစ်ကြောင်း၊ မိန့်ကြားတော်မူလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

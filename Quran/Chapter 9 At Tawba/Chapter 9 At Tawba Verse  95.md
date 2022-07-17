@@ -710,6 +710,12 @@ Shte vi se kŭlnat v Allakh, kogato se vŭrnete pri tyakh, za da se otdrŭpnete 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၅။	သင်တို့သည် သူတို့ထံသို့ ပြန်ရောက်သောအခါ သင်တို့ကို ဘာသီးဘာသာထားစေခြင်းငှာ သူတို့သည် သင်တို့ အား အလ္လာဟ်အရှင်မြတ်ကို တိုင်တည်ကျိန်ဆိုကြလတ္တံ့။သူတို့ကို ဘာသီးဘာသာထားကြလော့။အကြောင်းမှာ သူတို့သည် အမှန်ပင်အပြစ်မကင်း၊ မသန့်ရှင်းသူများဖြစ်ကြ၏။သူတို့၏ ပြုကျင့်မှုအဟုန်ကြောင့် သူတို့၏ ဗိမာန်သည် ငရဲဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မကြာမြင့်မီ အသင်တို့ (စစ်တလင်းမှ) ၎င်းတို့ထံ (မဒီနာမြို့သို့)ပြန်ခဲ့ကြသောအခါ၊ အသင်တို့သည် ၎င်းတို့အား (တစ်စုံတစ်ရာ ပြစ်တင်အရေးယူခြင်းမပြုဘဲ) ခွင့်လွှတ်ကြရန် ၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ်အား တိုင်တည်၍ကျိန်ဆိုကြပေလိမ့်မည်။ သို့ဖြစ်ပေရာ အသင်တို့သည် ၎င်းတို့အား စွန့်ထားကြလေကုန်။ အမှန်သော်ကား ၎င်းတို့သည်ညစ်ညမ်းသူများပင် ဖြစ်ကြကုန်၏။ ထို့ပြင် ၎င်းတို့၏ခိုလှုံရာစခန်းသည် ဂျဟန္နမ် ငရဲဘုံပင် ဖြစ်ချေသည်။ စင်စစ်သော်ကား ၎င်းတို့ ရှာဖွေဆည်းပူးလျက် ရှိခဲ့ကြသည်တို့၏ အကျိုးအားဖြင့် ၎င်းတို့၏ခိုလှုံရာစခန်းမှာ ဂျဟန္နမ် ငရဲဘုံပင် ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

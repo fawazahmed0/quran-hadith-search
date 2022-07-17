@@ -710,6 +710,12 @@ Onzi, Komuto prinadlezhi vladenieto na nebesata i na zemyata. I ne se e sdobival
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	အရှင်မြတ်သည် မိုးမြေနိုင်ငံတော်ကြီးကို စိုးပိုင်တော်မူ၏၊ အရှင်မြတ်၌ သားသမီးမရှိချေ၊ အချုပ်အချာအာဏာ ၌ အရှင်မြတ်မှာ ဘက်စပ်ပူးပေါင်းသူအလျဉ်းမရှိချေ၊ အရှင်မြတ်သည် အရာဝထ္ထုတိုင်းကို ဖန်ဆင်းတော်မူ၏၊ ၎င်းကို တိကျအောင်စီမံထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် အကြင်အရှင်မြတ်ပင်၊ မိုးကောင်းကင်ကို စိုးမိုးအုပ်ချုပ်မှုအာဏာ သည်လည်းကောင်း၊ ကမ္ဘာမြေကို စိုးမိုးအုပ်ချုပ်မှုအာဏာသည် လည်းကောင်း၊ ထိုအလ္လာဟ်အရှင်မြတ်၌သာရှိပေသည်။ စင်စစ် ထိုအရှင်မြတ်သည် တစ်ဦးတစ်ယောက်ကိုမျှလည်း (မိမိ၏)သားအဖြစ် ပြုလုပ်တော်မူခဲ့သည် မဟုတ်ပေ။ ထို့ပြင် ထိုအရှင်မြတ်၌ စိုးမိုးအုပ်ချုပ်မှုတွင် တွဲဖက်ဟူ၍လည်း တစ်ဦးတစ်ယောက်မျှမရှိချေ။ ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို ဖန်ဆင်းတော်မူခဲ့သည့်ပြင် ထိုအရာများကို နှိုင်းချိန်တိုင်းဆ ထားတော်မူခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

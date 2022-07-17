@@ -710,6 +710,12 @@ Onova, koeto vi porazi v denya, kogato dvete mnozhestva se sreshtnakha, e s pozv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၆။	စစ်တပ်ကြီးနှစ်တပ် ရင်ဆိုင်တိုက်ခိုက်သောနေ့၌ သင်တို့ခံရသောဒဏ်သည် အလ္လာဟ်အသျှင်မြတ် ၏အမိန့်တော်ကြောင့်ဖြစ်၏။ အသျှင်မြတ်သည် အမှန်ယုံကြည်သူတို့ကို ခွဲခြားသိတော်မူရန် ယင်းသို့ စီရင်တော်မူ၏ဟု ဟောကြားလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (အုဟုဒ်စစ်မြေပြင်ဝယ်) လူစုနှစ်စုတို့သည် တစ်စုနှင့်တစ်စု ရင်ဆိုင်ကြသောနေ့တွင် အသင်တို့၌ဆိုက်ရောက်ခဲ့သော ဆင်းရဲဒုက္ခသည် အလ္လာဟ်အရှင်မြတ်၏အမိန့်တော်ဖြင့် (ဆိုက်ရောက်သောဆင်းရဲဒုက္ခပင်) ဖြစ်ပေသည်။ (ယင်းသို့ ဆိုက်ရောက်ခြင်းသည်ကား) အလ္လာဟ်အရှင်မြတ်သည် မုအ်မင်န် ယုံကြည်သူတို့အား သိရှိ တော် မူခြင်းငှာဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

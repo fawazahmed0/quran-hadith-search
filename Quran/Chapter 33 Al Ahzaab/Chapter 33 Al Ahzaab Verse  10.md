@@ -710,6 +710,12 @@ Kogato nastŭpikha i otgore, i otdolu sreshtu vas, i kogato pogledite se vtsepen
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	ထိုရန်သူတို့သည် သင်တို့နယ်မြေ၏ အထက်ပိုင်းအောက်ပိုင်းတို့မှ ဝန်းအုံချီတက်လာသောအခါ သင်တို့သည် မျက်လုံးမျက်ဆံဝိုင်းအောင် အ့ံအားသင့်လျက် ကြောက်ရွံ့စိုးရိမ်မငြိမ်သောသင်တို့၏ နှလုံးကား လည်မျိုသို့ ရောက်လုမတတ်ရှိ၏၊ ထိုအခါသင်တို့သည် အလ္လာဟ်အရှင်မြတ်ကို အမျိုးမျိုးအဖုံဖုံမတရာတွေးထင်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်အခါဝယ် ထိုစစ်တပ်များသည် အသင်တို့၏ အထက်ဘက်မှလည်းကောင်း၊ အသင်တို့၏ အောက်ဘက်မှလည်းကောင်း၊ (စုရုံး) ချီတက်လာခဲ့ကြကုန်၏။ ထိုမှတစ်ပါးအကြင်အခါဝယ် မျက်စိများသည် (ကြောက်ရွံ့ထိတ်လန့်မှုကြောင့်) ပြူး၍သွားခဲ့ကြကုန်၏။ ထို့ပြင် နှလုံးများမှာလည်းလည်မျိုသို့ရောက်ရှိ၍သွားခဲ့ကြ၏။ ထိုမှတစ်ပါး အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အပေါ်၌ အမျိုးမျိုးသောထင်မြင်ယူဆချက်များကို ထင်မြင်ယူဆခဲ့ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

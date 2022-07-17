@@ -710,6 +710,12 @@ Obeshtano e ot Allakh. Allakh ne narushava Svoeto obeshtanie, ala povecheto khor
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	ဤအရာများသည် အလ္လာဟ်အရှင်မြတ်၏ ကတိသစ္စာတော်ဖြစ်၏၊ အရှင်မြတ်သည် မိမိကတိသစ္စာကို ဖျက်တော် မမူချေ၊ သို့သော်လူသားတို့အနက် အများအပြားတို့သည် မသိကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤသည်) အလ္လာဟ်အရှင်မြတ်၏ ကတိပင်၊အလ္လာဟ်အရှင်မြတ်သည် မိမိထားရှိတော်မူသော ကတိကိုဖောက်ဖျက်တော်မူသည် မဟုတ်ပေ၊ သို့ရာတွင် အများဆုံးသော သူတို့မှာမူကား မသိကြပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

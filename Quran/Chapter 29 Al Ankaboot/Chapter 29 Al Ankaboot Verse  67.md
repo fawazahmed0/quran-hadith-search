@@ -710,6 +710,12 @@ Ne vizhdat li, che Nie storikhme [Meka] sveshteno, sigurno myasto, a khorata oko
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၇။	သူတို့၏ပတ်ဝန်းကျင်အရပ်ဒေသများ၌ လူသားတို့ကို အနိုင်အထက်လုယက်သတ်ဖြတ်နေသော်လည်း အရှင် မြတ်သည် ဘေးမဲ့ပြည်နယ်တစ်ခုသတ်မှတ်ထားသည်ကို သူတို့မမြင်ကြသလော၊ သို့ပါလျက်သူတို့သည် မိစ္ဆာ အယူဝါဒကို ယုံကြည်ကြသလော၊ အလ္လာဟ်အရှင်မြတ်၏ ရက်ရောပေးကမ်းခြင်းကျေးဇူးတော်ကို မယုံကြည် ကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ငါအရှင်မြတ်သည် (၎င်းတို့ နေထိုင်လျက်ရှိကြသော မက္ကဟ်မြို့တော်ကို) ဘေးရန်ကင်းငြိမ်း သော’ဟရမ်’ ပြုလုပ်တော်မူခဲ့သည်ကို ၎င်းတို့သည် မတွေ့မမြင်ခဲ့ကြလေသလော။ စင်စစ်သော်ကား ၎င်းတို့ ၏ပတ်ဝန်းကျင်၌ လူတို့သည် လုယက်တိုက်ခိုက် (သတ်ဖြတ်)ခြင်းကို ခံနေခဲ့ကြရကုန်၏။ သို့ပါလျက် ၎င်းတို့သည် အမှားကိုယုံကြည်လက်ခံ၍ အလ္လာဟ်အရှင်မြတ်၏ ကျေးဇူးတော်များကို ငြင်းပယ် ကျေးဇူးကန်းကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

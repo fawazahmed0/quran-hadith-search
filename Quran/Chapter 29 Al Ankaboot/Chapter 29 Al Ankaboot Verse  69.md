@@ -710,6 +710,12 @@ A koito se boryat v Nashe ime, nepremenno shte gi vodim po Nashite pŭtishta. Al
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၉။	ငါ၏သာသနာတော်တွင် ကြိုးစားအားထုတ်သူတို့ကိုမူကား ငါသည် သူတို့အား ငါ၏လမ်းတော်ကို မုချဧကန် ညွှန်ပြတော်မူ၏၊ မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် သူတော်ကောင်းတို့နှင့်အတူတကွရှိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ငါအရှင်မြတ်၏ လမ်းတော်၌ သက်စွန့်ကြိုးပမ်း ဆောင်ရွက်ကြကုန်သော သူတို့မှာမူကား ငါအရှင်မြတ်သည် မိမိလမ်းများကို ၎င်းတို့အား မချွတ်မလွဲ ပြသတော်မူပေမည်။ ထိုမှတစ်ပါး မလွဲဧကန် အလ္လာဟ်အရှင်မြတ်သည် သူတော်ကောင်းတို့နှင့် အတူတကွ အမှန်ပင် ရှိတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

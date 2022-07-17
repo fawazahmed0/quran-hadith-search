@@ -710,6 +710,12 @@ Kaza: “Vie myataĭte!” A kogato metnakha, omag’osakha ochite na khorata i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၆။	သူက သင်တို့ပစ်ကြလော့ဟုဆို၏။ သူတို့ပစ်ချသောအခါ သူတို့သည် လူထု၏မျက်စိကို ဂါထာ မန္တရားအားဖြင့် လှည့်စားထားကြ၏။ လူထုကို ကြောက်ရွံ့စေ၏။ ကောင်းစွာ လှည့်စားထားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(တမန်တော်မူစာ)က၊ အသင်တို့သည် ပင်လျှင် ပစ်ချလေကုန်ဟု ပြောကြားလေ၏။ ထို့နောက် ၎င်း(ပဉ္စလက်ဆရာ)တို့သည် (မိမိတို့ လှင်ကန်များနှင့် ကြိုးများကို)ပစ်ချကြ ၍ လူတို့၏မျက်စိများကို လှည့်စားကြလေသည်။ ၎င်းပြင် ထိုသူတို့အား ကြောက်လန့်စေခဲ့ကြလေသည်။ စင်စစ်သော်ကား ၎င်းတို့သည် ကြီးကျယ်သော စုန်းပယောဂကိုဆောင်ယူခဲ့ ကြလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

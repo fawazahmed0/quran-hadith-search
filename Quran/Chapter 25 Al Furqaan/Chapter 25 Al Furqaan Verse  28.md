@@ -710,6 +710,12 @@ Akh, gorko mi, da ne byakh vzimal takŭv za priyatel
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	အကျွနု်ပ်အတွက် ဒုက္ခပဲ၊ အကျွန်ုပ်သည် ဤကဲ့သို့သောသူကို အဆွေခင်ပွန်းမဖွဲ့ခဲ့လျှင် ကောင်းလေစွဟုလည်း ဆိုလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဪ-ဖြစ်မှဖြစ်ရလေခြင်း၊ ငါသည် မည်သူမည်ဝါကို အဆွေခင်ပွန်း မပြုခဲ့လျှင် တော်လေစွ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

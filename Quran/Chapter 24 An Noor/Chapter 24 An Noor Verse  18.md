@@ -710,6 +710,12 @@ I vi razyasnyava Allakh znameniyata. Allakh e vseznaesht, premŭdŭr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	ထို့အပြင်အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အား မိမိ၏တရားတော်များကို ရှင်းလင်းဖော်ပြတော်မူ၏၊ အလ္လာဟ် အရှင်မြတ်သည် သိတော်မူ၏၊ လိမ္မာတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့အဖို့ အမိန့်ပညတ်တော်များကို ရှင်းလင်းစွာ မိန့်ကြားတော်မူပေသည်။ စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့သိတော်မူသောအရှင်၊ ဆင်ခြင်တုံတရားနှင့် ပြည့်စုံတော်မူသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

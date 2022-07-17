@@ -710,6 +710,12 @@ zatova Dnes nyama tuk za nego blizhen
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။ ထို့ကြောင့်ဤနေ့တော်ကြီး၌ ဤနေရာတွင် သူ့မှာ ခင်မင်သူတစ်စုံတစ်ယောက်မျှမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ယနေ့ ဤနေရာတွင် ၎င်း၏အဆွေခင်ပွန်းဟူ၍ တစ်ဦးတစ်ယောက်မျှမရှိပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

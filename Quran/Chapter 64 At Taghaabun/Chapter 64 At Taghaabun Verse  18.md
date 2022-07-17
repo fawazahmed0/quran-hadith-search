@@ -710,6 +710,12 @@ Znaeshtiya i nevedomoto, i yavnoto, Vsemogŭshtiya, Premŭdriya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။ အလ္လာဟ်အရှင်မြတ်သည် မမြင်ရသောအရာ မြင်ရသောအရာ၊ ခပ်သိမ်းကုန်တို့ကို အကြွင်းမဲ့သိတော်မူ၏၊ အနန္တတန်ခိုးတော်သခင်၊ သဗ္ဗညုတ ဉာဏ်တော်ရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 လျှို့ဝှက်စွာ ရှိသည်တို့ကိုလည်းကောင်း၊ ထင်ရှားစွာ ရှိသည်တို့ကိုလည်းကောင်း၊ သိရှိတော်မူသောအရှင်၊ အလွန်တရာ ခန့်ညားတော်မူသောအရှင်၊ လွန်စွာ နက်နဲသိမ်မွေ့သော ဆင်ခြင်တုံတရားနှင့် ပြည့်စုံတော်မူသောအရှင်၊ ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

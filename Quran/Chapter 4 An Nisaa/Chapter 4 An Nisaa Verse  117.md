@@ -710,6 +710,12 @@ Te ne zovat Nego, a samo zhenski bozhestva, i zovat samo satana-nepokornik
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၇။	သူတို့သည် အလ္လာဟ်အသျှင်မြတ်အစား မိန်းမများကို ဝတ်ပြုကိုးကွယ်တသကြ၏။ သူတို့သည် ထောင်ထားခြားနားခံရသူ ရှိုင်တန်မာရ်နတ်မှတစ်ပါး ဘာကိုမျှ ခဝပ်ကိုးကွယ်သည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်း (မုရှ်ရိက်) တို့သည် ထိုအရှင်မြတ်မှတစ်ပါး‘ဣတ္ထိ’ ‘မ’ များကိုသာ ကိုးကွယ်ကြ၏။ ၎င်းပြင် ထိုသူတို့သည် ပုန်ကန်သော ရှိုင်တွာန်ကိုသာ တိုင်တည်ကိုးကွယ်ကြသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

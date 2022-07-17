@@ -710,6 +710,12 @@ Zatova i ti [o, Mukhammad] bŭdi tŭrpeliv kŭm povelyata na tvoya Gospod, i ne 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။ ထို့ကြောင့်သင်သည် မြဲမြံသောသည်းခံခြင်းတရားဖြင့် မိမိအရှင်သခင်၏ ဗျာဒိတ်ပညတ်တော်ကို ကျိုးနွံလိုက်နာ လော့၊ သူတို့အနက် အပြစ်ရှိသူကိုလည်းကောင်း၊ အယူမှားသူကိုလည်းကောင်း၊ နားမထောင်လင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်သည် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ အမိန့်တော်၏အပေါ်၌ ကြံ့ခိုင်စွာရပ်တည်၍နေပါလေ။ ၎င်းပြင် အသင်သည် ထိုသူတို့အနက်မှ မည်သည့်အပြစ် ကျူးလွန်သူ၏ ပြောဆိုချက်ကိုမျှသော်လည်းကောင်း၊ မည်သည့် သွေဖည်ငြင်းပယ်သူ၏ ပြောဆိုချက်ကို မျှသော်လည်းကောင်း၊ မလိုက်နာပါလေနှင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

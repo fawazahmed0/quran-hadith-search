@@ -710,6 +710,12 @@ A tvoyat Gospod... - za onezi, koito vŭrshat zlo v nevedenie i sled tova se raz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၉။	မကောင်းမှုကို မသိသောကြောင့် ကျူးလွန်မိ၍ သိသောအခါ သတိသံဝေဂရပြီးလျှင် မိမိကိုယ်ကို မိမိပြုပြင်သူတို့ ကိုမူကား သင့်ကို ဖန်ဆင်းမွေးမြူတော်မူသောကျေးဇူးတော်သခင်သည် အမှန်ပင်အပြစ်လွှတ်တော်မူ၏။ ကောင်း ကြီးမင်္ဂလာပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ဧကန်စင်စစ် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည် အကြင်သူတို့အဖို့၊ ၎င်းတို့သည် အသိပညာကင်းမဲ့သောကြောင့် မကောင်းမှုကို ကျင့်မူခဲ့ကြကုန်၏။ ထို့နောက် ၎င်းတို့သည် ဝန်ချတောင်းပန်ခဲ့ကြကုန်၏။ ထို့ပြင် ၎င်းတို့သည်(မိမိတို့အခြေအနေကိုလည်း) ပြုပြင်ခဲ့ကြကုန်၏။ ဧကန်မလွဲ အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် ထို(သူတို့ဝန်ချတောင်းပန်ပြီး)နောက်တွင် အလွန်တရာ လွတ်ငြိမ်းချမ်းသာခွင့် ပေးသနားတော်မူသောအရှင်၊ အလွန်တရာ သနားကြင်နာ ညှာတာတော်မူသောအရှင်၊ ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

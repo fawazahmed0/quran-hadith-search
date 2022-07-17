@@ -710,6 +710,12 @@ I kogato go otvedokha, i se sgovorikha da go spusnat v kladenetsa na dŭnoto, Ni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	ထို့နောက်သူတို့သည် ယူစွတ်(ဖ်)အား ယူသွားသည်။ သူ့ကို တွင်းနက်ထဲသို့ ပစ်ချဖို့ အားလုံးသဘောတူကြသည်။ ထိုအခါငါအရှင်မြတ်သည် ယူစွတ်(ဖ်)အား ၎င်း၏ စိတ်တွင် ဤသို့ထင်ရှားစေတော်မူ၏။ သင်သည် သူတို့အား ဤရက်စက်ကြမ်းကြုတ်မှုကို ပြန်ပြောရလတ့ံ။ ထိုအခါသူတို့သည် သင် ယူစွတ်(ဖ်)ဖြစ်ကြောင်းကို သိမည် မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ထိုနောင်တော်တို့သည် ထိုယူဆွဖ်အား ခေါ်ဆောင်သွားကြပြီးလျှင် ၎င်းအားရေတွင်း၏ စောက်နက်ထဲတွင်ပစ်ချကြရန် တညီတညွတ်တည်း ပြဌာန်းခဲ့ကြသောအခါ ငါအရှင်မြတ်သည် ထိုယူဆွဖ်ထံ (အို-ယူဆွဖ်) အသင်သည် (တစ်ချိန်တွင်) ၎င်းတို့အား ၎င်းတို့၏ ဤအပြုအမူကိုအမှန်ပင်ထုတ်ဖော်၍ပြောကြားမည်ဖြစ်၏။ သို့ရာတွင် (ထိုအချိန်တွင်) ၎င်းတို့သည် အသင်အားသိရှိ၍ မှတ်မိကြလိမ့်မည်မဟုတ်ကြောင်း အမိန့်တော်ထုတ်ပြန်တော်မူခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

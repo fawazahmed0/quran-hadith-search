@@ -710,6 +710,12 @@ O Ibrahime, prođi se toga, naređenje od Gospodara tvoga je stiglo; njih će st
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၆။	ငါအရှင်မြတ်က အေဗရာဟမ်၊ သင်သည် ဤတောင်းပန်ခြင်းကို စွန့်လွှတ်လော့။ မှတ်သားလော့၊ သင်၏ အရှင်သခင်၏ အမိန့်တော်ထွက်သွားပြီး၊ မှတ်သားလော့။ သူတို့အပေါ်သို့ မတွန်းလှန်မဖယ်ရှားနိုင်သောအပြစ် ဒဏ်ကြီးရောက်ပြီဟု ဗျာဒိတ်ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-အစ်ဗ်ရာဟီမ်၊ အသင်သည် ဤသည်မှရှောင်ဖယ်၍နေပါလေ။ ဧကန်မလွဲ အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏အမိန့်တော်သည် ရောက်ရှိခဲ့လေပြီ။ ထိုမှတစ်ပါး ၎င်းတို့ထံ ပြန်လည် ရုပ်သိမ်းခြင်းမရှိသော ပြစ်ဒဏ်ကျရောက်တော့မည်မှာ ဧကန်မလွဲတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A kogato se yavi pri nyakogo ot tyakh smŭrtta, toĭ kazva: “Gospodi moĭ, v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၉။	သူတို့သည် သေဆုံးသည့်တိုင်အောင်ဒုစရိုက်မကောင်းမှု၌ နစ်မြုပ်နေကြ၏၊ ထိုသူယုတ်တို့အနက် တစ်ယောက် ယောက်သေဆုံးသောအခါ ထိုသူသည် အို--အကျွနု်ပ်၏အရှင်သခင်၊ အရှင်သည် အကျွနု်ပ်အား လောကသို့ တဖန်ပြန်၍ လွှတ်တော်မူပါဦး။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထို ကာဖိရ်တို့သည် နောင်တရကြမည့်သူ မဟုတ်ပေ၊) နောက်ဆုံးတွင် ၎င်းတို့အနက် တစ်ဦးတစ်ယောက်၏ထံသို့ မရဏသေခြင်းတရားသည် ရောက်ရှိလာသောအခါ၊ ထိုသူသည် (ဤသို့) လျှောက်ထားလေ၏။ "အို-ကျွန်တော်မျိုးအား ဖန်ဆင်း မွေးမြူတော်မူသောအရှင်မြတ်၊ အရှင်မြတ်သည် ကျွန်တော်မျိုးအား ပြန်လွှတ်တော်မူပါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

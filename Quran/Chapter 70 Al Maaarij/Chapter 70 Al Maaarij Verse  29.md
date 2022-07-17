@@ -710,6 +710,12 @@ i koito tselomŭdrieto si pazyat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။ ထို့အပြင် ထိုသူတို့သည် မတရားကာမအညစ်အကြေးမှ ကင်းစင်အောင် မိမိတို့ကိုယ်ကို ထိန်းသိမ်းကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အကြင်(ဆွလာတ်ဝတ်ပြု)သူတို့သည် မိမိတို့၏အရှက်အင်္ဂါများကို ထိန်းသိမ်းကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ ot Onzi, Koĭto stori za vas ot zemyata postelya i ot nebeto - svod, i izsipva 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	အရှင်မြတ်သည် ကမ္ဘာ ့မြေကြီးကို သင်တို့၏အိပ်ယာအဖြစ် ခင်းထားတော်မူ၏။ မိုးကောင်းကင်ကို အမိုးအဖြစ် ထားတော်မူ၏။ မိုးကောင်းကင်မှမူ မိုးရေကို ရွာသွန်းစေတော်မူ၏။ မိုးရေအားဖြင့် သင်တို့၏ စားနပ်ရိက္ခာအတွက် သစ်သီးများကို သီးစေတော်မူ၏။ ထို့ကြောင့် သင်တို့ဥည် အရှင်မြတ် နှင့် အတုအပြိုင်မထားကြလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့ (နေထိုင် သွားလာနိုင်ရန် အလို့ငှာ) ဤပထဝီမြေပြင်ကို အခင်းအဖြစ်လည်းကောင်း၊ မိုးကောင်းကင်ကို အမိုးအဖြစ်လည်းကောင်း၊ ပြုလုပ်ပေးသနားတော်မူ၍ ယင်းမိုးကောင်းကင်မှပင် မိုးရွာသွန်းစေပြီး ထိုမိုးရေဖြင့် ကောက်ပဲသီးနှံ အမျိုးမျိုးတို့ကို အသင်တို့အဘို့ ရိက္ခာအဖြစ် ပေါက်ရောက်စေတော်မူ၏၊ သို့ဖြစ်ရာ အသင်တို့သည် (အနန္တကျေးဇူးတော်ရှင် ဖြစ်တော်မူထသော) အလ္လာဟ်အရှင်မြတ်နှင့် မည်သည့်အရာကိုမျှ တွဲဖက်၍ ခဝပ်ကိုးကွယ်ခြင်းကို အလျှင်း မပြုကြလင့်၊ (သို့ အလ္လာဟ်အရှင်မြတ်နှင့် တွဲဖက်၍ ခဝပ်ကိုးကွယ်ခြင်း မပြုအပ်သည့်အကြောင်းကို) အသင်တို့ကိုယ်တိုင်လည်း အသိ ပင် ဖြစ်ကြသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Vyarvat v Nashite znameniya samo onezi, koito shtom im se spomene za tyakh, pada
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	ငါ၏တရားတော်များကို ယုံကြည်သူများသာလျှင် တရားတော်ကို ကြားနာရသောအခါ ဦးညွှတ်ချကြ၏၊ သူတို့ သည် သူတို့၏အရှင်သခင်၏ ဂုဏ်ကျေးဇူးတော်ကို ရင့်ကျုးကြ၏၊ ဤသူတို့သည် မာန်မာနခက်ထန်သူများ မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်၏ အာယတ်တော်များကို အကြင်သူတို့သည်သာလျှင် သက်ဝင်ယုံကြည်ကြကုန်၏။ ထိုသူတို့သည်ယင်းအာယတ်တော်များဖြင့် သတိပေးခြင်းကိုခံခဲ့ကြရသောအခါ ၎င်းတို့သည်(အလ္လာဟ်အရှင်မြတ်၏ရှေ့တော်မှောက်ဝယ်) စဂျ်ဒဟ် ပျပ်ဝပ် ဦးချလျက်ကျလာကြကုန်၏။ ထို့ပြင်၎င်းတို့သည် မိမိတို့၏အရှင်မြတ်အား ချီးမွမ်းခြင်းနှင့်တကွ(ထိုအရှင်မြတ်) စင်ကြယ်သန့်ရှင်းတော်မူကြောင်းကို မြွက်ဆိုကြသည့်ပြင် ၎င်းတို့သည် မာနထောင်လွှားခြင်း လည်း မရှိကြပေ။(စဂျ်ဒဟ်)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

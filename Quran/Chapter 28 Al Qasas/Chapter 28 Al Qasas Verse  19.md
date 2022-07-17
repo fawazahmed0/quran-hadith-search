@@ -710,6 +710,12 @@ I kogato [Musa] poiska da napadne onzi, koĭto e vrag i na dvamata, [drugiyat] 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	ထို့အပြင်သူသည် သူတို့နှစ်ဦး၏ရန်သူအား တိုက်ခိုက်မည်ဟု ကြံစည်အားထုတ်သောအခါ ထိုရန်သူက အို-မူစာ၊ သင်သည် ယမန်နေ့က လူတစ်ယောက်ကို အသေသတ်သကဲ့သို့ အကျွနု်ပ်ကို သတ်မည်လော၊ သင်သည် မြေပေါ်တွင် သူတစ်ပါးကို နိုင်ထက်စီးနင်းနှိပ်စက်ကလူပြုသူမှတပါး အခြားမဟုတ်ချေ၊ သင်သည် လောကကြီးကို ကောင်းအောင် ပြုပြင်သူတို့တွင် အပါအဝင်မဟုတ်ချေဟု ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် ထိုမူစာသည် မိမိတို့နှစ်ဦးလုံး၏ ရန်သူဖြစ်သောသူ(ကစ်ဗ်တွီ)အား လက်ရောက်ပြုရန် ကြံရွယ်ခဲ့လေရာ ထို(မိမိအုပ်စုထဲမှဖြစ်သော)သူက အို-မူစာ၊ အသင်သည် ယမန်နေ့က လူတစ်ယောက်အားသတ်ဖြတ်ဘိသကဲ့သို့ (ယခုမူ)ကျွန်ုပ်အား သတ်ဖြတ်လိုသလော။ အသင်သည် တိုင်းပြည်တွင် ရက်စက်စွာ စိုးမိုးအုပ်ချုပ်လိုသူ ဖြစ်ရန်သာလျှင်အလိုရှိပေသည်။ အသင်သည် စေ့စပ်၍ပေးသူမဟုတ်ဟု ပြောဆိုခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

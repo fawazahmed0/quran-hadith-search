@@ -710,6 +710,12 @@ Te sa nyakakvo tam razgromeno voĭnstvo ot sŭyuznitsi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	ရှိရှိသမျှသောမိစ္ဆာအသင်းတို့သည် အရေးနိမ့်ဆုံးရှုံးသောစစ်တပ်သာဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (၎င်းတို့သည်)ထိုနေရာတွင်(မက္ကာမြို့တော်တွင်)အုပ်စုများအနက်မှ အုပ်စုကလေးတစ်ခုပင် ဖြစ်သည်။ မကြာမီ ရှုံးနိမ့်ရတော့မည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

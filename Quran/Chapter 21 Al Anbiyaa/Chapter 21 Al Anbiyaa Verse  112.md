@@ -710,6 +710,12 @@ Kaza [Mukhammad]: “Gospodi, ot·sŭdi s pravdata! Nashiyat Gospod e Vsemilosti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၂။	တမန်တော်တင်လျှောက်သည်မှာ အို--အကျွနု်ပ်၏အရှင်သခင်၊ အရှင်သည် တရားသဖြင့် စီရင်ဆုံးဖြတ်တော် မူပါ၊ အကျွနု်ပ်တို့၏ ကျေးဇူးတော်သခင်သည် မဟာဂရုဏာတော်အရှင်ဖြစ်တော်မူ၏၊ သင်တို့သည် အရှင်မြတ် အား မတရားစွပ်စွဲကြ၏၊ ထိုစွပ်စွဲချက်များကို ဖယ်ရှားရန် အရှင်မြတ်၏ စောင့်ရှောက်ခြင်းကျေးဇူးတော်ကို ဆုတောင်းရသည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (နဗီတမန်တော်မြတ်သည် ဤသို့)လျှောက်ထားပန်ကြားခဲ့လေသည်။ အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ် အရှင်မြတ်သည် မှန်ကန်စွာစီရင်ဆုံးဖြတ်၍ ပေးသနားတော်မူပါ။ စင်စစ်ငါတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် "ရဟ်မာန်" အနန္တ ကရုဏာတော်ရှင် ဖြစ်တော်မူပေသည်။ ထိုအရှင်မြတ်သည် အသင်တို့ထုတ်ဖော်ပြောဆိုကြကုန်သော အကြောင်းအရာ များနှင့်စပ်လျဉ်း၍ အကူအညီတောင်းခြင်းကို ခံရတော် မူသောအရှင်လည်း ဖြစ်တော်မူပေသတည်း
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

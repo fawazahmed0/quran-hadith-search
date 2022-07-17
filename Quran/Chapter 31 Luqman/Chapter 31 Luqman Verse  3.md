@@ -710,6 +710,12 @@ napŭt·stvie i milost za blagodetelnite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	ဤကျမ်းတော်မြတ်သည် သူတော်ကောင်းတို့အဖို့အရာ အဆုံးအမတော်နှင့် ကောင်းကြီးမင်္ဂလာတော်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ယင်း အာယတ်တော်များသည် အကြင်) သူမွန်သူမြတ်တို့အဖို့ တရားလမ်းညွှန်သည်လည်း ကောင်း၊ ကရုဏာတော်သည်လည်းကောင်း ဖြစ်ကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

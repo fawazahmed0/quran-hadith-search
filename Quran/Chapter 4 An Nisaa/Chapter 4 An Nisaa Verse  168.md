@@ -710,6 +710,12 @@ Koito ne vyarvat i ugnetyavat, Allakh ne shte im prosti i ne shte im posochi pŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၈။	မှတ်သားကြလော့။ အကြင်သူသည် မတရားမမှန်မှု၌ ရောင်းဝယ်ဖောက်ကားကြ၏။ ထိုသူတို့ကို အလ္လာဟ်အသျှင်မြတ်သည် ဘယ်သောအခါမှ အပြစ်လွှတ်တော်မူမညမဟုတ်။ လမ်းမှန်သို့ ညွှန်မည်လည်းမဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အကြင်သူတို့သည် မယုံမကြည် သွေဖည်ငြင်းပယ်ကြ၏။ ၎င်းပြင် မတော်မတရားပြုမူခဲ့ကြ၏။ ထိုသူတို့အား အလ္လာဟ်အရှင်မြတ်သည် လွတ်ငြိမ်းချမ်းသာခွင့် ပေးသနားတော်မူမည်လည်း မဟုတ်ပေ။ မည်သည့်လမ်းကိုမျှ ညွှန်ကြားပြသတော်မူမည်လည်း မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

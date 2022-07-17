@@ -710,6 +710,12 @@ Onezi, koito ne vyarvat v Napomnyaneto, sled kato doĭde pri tyakh... a to e za
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	မိမိတို့ထံသို့ သတိပေးကျမ်းတော်မြတ်ကျရောက်လာသောအခါ ထိုကျမ်းတော်ကို မယုံကြည်ပယ်ရှားသောသူ တို့သည် အပြစ်ရှိကြ၏၊ စင်စစ်အားဖြင့်ထိုကျမ်းတော်သည် ဆင်ခြေမဝင်သော၊ အလွန်နက်နဲစုံလင်သောကျမ်း မြတ်ကုရ်အာန်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်ဧကန် အကြင်သူတို့သည် (ဤ)ဆုံးမဩဝါဒ(ကျမ်း)သည် 4င်းတို့ထံရောက်ရှိလာသောအခါ ငြင်းပယ်ကြကုန်၏။ (ငါအရှင်မြတ်သည် ၎င်းတို့အား အပြစ်ပေးတော်မူမည်။) အမှန်စင်စစ်သော်ကား ယင်းသည် မြင့်မြတ်လှစွာသောကျမ်းဂန်ပင် ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

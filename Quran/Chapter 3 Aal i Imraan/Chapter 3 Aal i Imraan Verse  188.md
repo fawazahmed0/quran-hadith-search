@@ -710,6 +710,12 @@ Ne smyataĭ, che radvashtite se na onova, koeto sa izvŭrshili i obichashtite d
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈၈။	အကြင်သူတို့သည် မိမိတို့ပြုကျင့်မှု၌ ဂုဏ်ယူကြ၏။ မိမိတို့မပြုသောအမှုအတွက် ချီးမွမ်းခံလိုကြ၏။ ထိုသူတို့သည် အပြစ်ဒဏ်မှ လွတ်ငြိမ်းချမ်းသာသည်ဟုမထင်မှတ်ကြလင့်။ အလွန်ပြင်းပြသော အပြစ်ဒဏ်သည် သူတို့၏အပြစ်ဒဏ်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် အလျင်းမထင်မှတ်လေနှင့်။ အကြင်သူတို့သည် မိမိတို့၏ (မဟုတ်မလျား) အကျင့်မှားဖြင့် အားရဝမ်းသာ မွေ့လျော်ပျော်ရွှင်လျက်ရှိကြကုန်၏။ ၎င်းပြင် ထိုသူတို့သည် မိမိတို့ မပြုခဲ့ကြသော(ကောင်းမှု)ကိစ္စနှင့်စပ်လျဉ်း၍ (လူအများ၏) ချီးမွမ်းခြင်းကိုခံလိုကြကုန်၏။ သို့ဖြစ်ပေရာ အသင်သည် ထိုသူတို့အား (ဤလောကတွင်လည်း) ပြစ်ဒဏ်မှ လွတ်မြောက်ကြမည်ဟူ၍အလျင်း မထင်မှတ်လေနှင့်။ ၎င်းပြင် ထိုသူတို့အဖို့ (နောင်တမလွန်ဘဝ၌လည်း) ပြင်းပြနာကျင်ဖွယ်ဖြစ်သော ပြစ်ဒဏ်သည် (အသင့်) ရှိချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

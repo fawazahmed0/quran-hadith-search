@@ -710,6 +710,12 @@ Nevernitsite da ne smyatat, che kato udŭlzhavame zhivota im, tova e dobro za du
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇၈။	ငါအသျှင်သည် မယုံကြည်သူတို့အား ပေါက်လွှတ်ပဲစား လွှတ်ထားတော်မူခြင်းသည် သူတို့အတွက် နိမိတ်ကောင်းဟု သူတို့မထင်ထိုက်ချေ။ ငါအသျှင်သည် သူတို့အား အပြစ်ကျူးလွန်ခြင်း၌ ပိုမို ကျူးလွန်စေရန် လွှတ်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါးတုံ သွေဖည် ငြင်းပယ်ကြကုန် သောသူတို့သည် မိမိတို့အား ငါအရှင်မြတ်က (အပြစ်ဒဏ်ပေးတော်မူခြင်းမှ) ဆိုင်ငံ့ထားတော် မူသည်ကို မိမိတို့အဖို့ ကောင်းမြတ်လှပေသည်ဟု အလျင်းမထင်မှတ်ကြချေ။ငါအရှင်မြတ်သည် ယင်းသူတို့အား (အပြစ်ဒဏ်ပေးတော်မူခြင်းမှ) ဆိုင်းငံ့ထားတော်မူသည်မှာ စင်စစ် ယင်းသူတို့သည် အပြစ်ဒုစရိုက်မှုများ၌ ပိုမိုတိုးပွားစိမ့်သောငှာသာလျှင် ဖြစ်ချေသည်။ တဖန်(နောင်တမလွန်ဘဝတွင်လည်း)ထိုသူတို့အဖို့ ဂုဏ်အသရေပျက်စေသော အပြစ်ဒဏ်သည်(အသင့်ပြင်ဆင်ပြီး)ရှိပေ သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

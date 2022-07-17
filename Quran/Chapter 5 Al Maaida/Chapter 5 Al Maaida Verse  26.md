@@ -710,6 +710,12 @@ Reche: “Pod vŭzbrana im e za chetirideset godini - te shte skitat po zemyata.
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	သူတို့၏အသျှင်သခင်က အို-မူဆာ ထို့ကြောင့် သူတို့သည် ထိုမြေထူးမြေမြတ်ကို နှစ်ပေါင်းလေးဆယ် မုချဧကန် ဝင်ကြရမည်မဟုတ်ပေ။ သူတို့သည် ကမ္ဘာမြေပေါ်ဝယ် အယောင်ယောင်အမှားမှား လှည့်ပတ်သွားလာရမည်။ သို့ဖြစ်၍ ဒုစရိုက်မှုပြုကျင့်သူများကြောင့် စိတ်ပူဆွေးခြင်း မရှိလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါဝယ် (အလ္လာဟ်အရှင်မြတ်ကမူ) “သို့ဖြစ်လျှင် ဧကန်စင်စစ် ထို (နယ်) မြေသည် ၎င်းတို့အဖို့ နှစ်ပေါင်းလေးဆယ်တိုင်တိုင် ‘ဟရာမ်’ မြစ်တားထားပြီးဖြစ်ချေပြီ။ ၎င်းတို့သည် (ဤ သိနကျွန်းစွယ်၏ နယ်) မြေ၌ပင် တဝဲလည်လည် ဖြစ်ကြလတ္တံ့။ သို့ဖြစ်ပေရာ အသင် (နဗီတမန်တော်မူစာ) သည် (ဤ) စည်းကမ်းဖောက်ဖျက် အမိန့်တော်ကိုသွေဖည်ငြင်းဆန်သော လူမျိုးနှင့်ပတ်သက်၍ (လုံးဝ) ပူဆွေးဝမ်းနည်းခြင်း မရှိပါလေနှင့်” ဟု မိန့်ကြားတော်မူခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

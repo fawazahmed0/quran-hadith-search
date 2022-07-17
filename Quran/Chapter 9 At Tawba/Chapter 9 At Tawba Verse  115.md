@@ -710,6 +710,12 @@ Allakh nikoga ne zabluzhdava khora sled tyakhnoto napŭtvane, dokato ne im izyas
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၅။	အလ္လာဟ်အရှင်မြတ်သည် လူမျိုးတစ်မျိုးအား လမ်းမှန်ကို ညွှန်ပြတော်မူပြီးမှ သူတို့ကို လမ်းမှားကို ပြသတော်မူ သည်မဟုတ်ပေ။အရှင်မြတ်သည် သူတို့အား ၎င်းတို့ရှောင်ကြဉ်ရမည့်အရာတို့ကို ထင်ရှားစွာဗျာဒိတ်ပေးတော် မူ၏။အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းကုန်တို့ကို အကြွင်းမဲ့အမှန်ပင်သိမြင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည်မည်သည့်လူမျိုးကိုမဆို ထိုလူမျိုးတို့အား တရားလမ်းမှန်သို့ ပို့တော်မူပြီးနောက်၊ ၎င်းတို့ ရှောင်ကြဉ်ကြရမည့်အရာများကို ထင်ရှားစွာ မိန့်ကြားတော်မူခြင်း ပြုတော်မမူသမျှ ကာလပတ်လုံး လမ်းလွဲစေ တော်မူသည် မဟုတ်ချေ။ ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့ သိရှိတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Vie me zovete da ne vyarvam v Allakh i da sŭdruzhavam s Nego onova, za koeto ny
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	သင်တို့ကား ငါ့အား အလ္လာဟ်အရှင်မြတ်ကို မယုံကြည်ရန်နှင့် ငါမသိသောသူများကို အရှင်မြတ်နှင့်တန်းတူ တွဲဖက်ရန် သွေးဆောင်ကြ၏၊ သို့သော်ငါမူကား သင်တို့အား အနန္တတန်ခိုးတော်အရှင်၊ အဖန်တလဲလဲ အပြစ် လွှတ်တော်မူသောသခင်ဘက်တော်သို့ ခေါ်ငင်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် ကျွန်ုပ်အား ကျွန်ုပ် အလ္လာဟ်အရှင်မြတ်အား သွေဖည်ငြင်းပယ်ရန်လည်းကောင်း၊ ကျွန်ုပ်တွင် မည်သည့်အသိပညာ၊ မည်သည့်သက်သေသာဓက တစ်စုံတစ်ရာမျှမရှိသောအရာကို ကျွန်ုပ် ထိုအရှင်မြတ်နှင့် တွဲဖက်နှိုင်းယှဉ် ကိုးကွယ်ရန်လည်းကောင်း၊ ဖိတ်ခေါ်ကြကုန်၏။ အမှန်စင်စစ်သော်ကား ကျွန်ုပ်သည် အသင်တို့အား လွန်စွာနိုင်နင်း၊ လွှမ်းမိုးတော်မူသော၊ အလွန်တရာ ခွင့်လွှတ်ချမ်းသာ ပေးသနားတော်မူသော အရှင်မြတ်အထံတော်သို့ပင် ဖိတ်ခေါ်လျက် ရှိပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

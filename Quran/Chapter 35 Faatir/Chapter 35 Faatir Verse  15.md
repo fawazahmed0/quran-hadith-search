@@ -710,6 +710,12 @@ O, khora, vie ste nuzhdaeshtite se ot Allakh, a Allakh e Prebogatiya, Vseslavniy
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	အို-လူသားအပေါင်းတို့၊ သင်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ စောင့်ရှောက်ခြင်းကျေးဇူးတော်ကို အမြဲတစေ လိုကြ၏၊ အရှင်မြတ်မှာမူကား အလိုဆန္ဒကင်းမဲ့၍ ဇာတိပကတိအားဖြင့် ကုံလုံပြည့်စေတော်မူ၏၊ ချီးမွမ်းခြင်း အပေါင်းကို စိုးပိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-လူအပေါင်းတို့၊ အသင်တို့သည်(သာလျှင်)(မိမိတို့၏ကိစ္စအရပ်ရပ်တွင်) အလ္လာဟ်အရှင်မြတ်အား လိုလားတောင့်တကြရသူများပင် ဖြစ်ကြကုန်၏။ သို့ရာတွင် အလ္လာဟ်အရှင်မြတ်မှာမူကား လိုလားတောင့်တခြင်း လုံးဝ ကင်းမဲ့သောအရှင်၊ ချီးမွမ်းအပ်သော ဝိသေသ ဂုဏ်ထူးနှင့် ပြည့်စုံတော်မူသောအရှင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

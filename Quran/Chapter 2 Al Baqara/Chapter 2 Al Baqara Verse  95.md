@@ -710,6 +710,12 @@ A ne shte ya vŭzzhelayat nikoga, zaradi onova, koeto rŭtsete im sa storili pre
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၅။	သို့သော် သူတို့သည် မိမိတို့ တင်ကြိုပို့ထားနှင့်သော ပြုကျင့် ပြုမှုများကြောင့် ဘယ်သောအခါမှ သေဘို့ရာ တောင့်တကြမည်မဟုတ်ချေ။ အလ္လာဟ်အရှင်မြတ်သည် မှန်သောစကားကိုဆိုလျှင် သေဖို့ရာ ဆုတောင်းကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ထိုသူတို့သည် မိမိတို့ကိုယ်တိုင် ကျင့်မူ၍ (ငါအသျှင်ထံသို့) တင်ကြို၍ ပို့ထား ခဲ့လေပြီးဖြစ်သော(အကုသိုလ်ဒုစရိုက်များ၏ ပြစ်ဒဏ် များကို စိုးရိမ်ကြောင့်ကြသော) ကြောင့် မည်သည့် အခါမျှမရဏသေခြင်းကို အလျင်းလိုလား တောင်းတ ကြလိမ့်မည်မဟုတ်။ စင်စစ်သော်ကား အလ္လာဟ် အရှင်မြတ်သည် ကျူးလွန်သူများ(၏ အကြောင်းများ) ကို အကြွင်းမဲ့ သိတော်မူသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

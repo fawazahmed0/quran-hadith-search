@@ -710,6 +710,12 @@ Popitaĭ sinovete na Israil kolko yasni znameniya im dadokhme! A koĭto podmen
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁၁။	အို - တမန်တော် ငါအရှင်မြတ်သည် အစ္စရာအီလ်အမျိုးသားတို့အား ရှင်းလင်းထင်ရှားသော ကျမ်းတော် အဘယ်မျှလောက်ကို ချပေးသနားတော်မူသည်ကို သင်သည် သူတို့အား မေးမြန်းလော့။ အကြင်သူသည် မိမိထံသို့ အရှင်မြတ်၏ ကောင်းချီးမင်္ဂလာတော်ဖြစ်သောကျမ်းတော် ကျရောက် လာပြီးမှ ထိုကျမ်းတော်ကို တစ်နည်းတစ်ဖုံပြောင်းလဲအ့ံ။ အလ္လာဟ်သည် ထိုသူအား အပြစ်ဒဏ်ပေး ခြင်း၌ ပြင်းထန်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) ငါအရှင်သည် ထို (အစ္စရာအီလီ) မျိုးနွယ်ဝင်တို့အား ထင်ရှားသော သက်သေလက္ခဏာများကို အဘယ်မျှ ပေးသနားတော် မူခဲ့သည်ကို အသင်သည် ယင်းအစ္စရာအီလီမျိုးနွယ် ဝင်တို့အား မေးမြန်းပါလေ။ အကြင် သူသည် ၎င်းထံသို့ အလ္လာဟ်အရှင်မြတ်၏ကျေးဇူးတော်များ ရောက်ပြီး သည့်နောက် တနည်းတဖုံ ပြောင်းလွှဲခဲ့ပါမူ အလ္လာဟ် အရှင်မြတ်သည် အပြစ်ဒဏ်ကို ပြင်းထန်စွာစီရင် တော်မူသော အရှင် ဖြစ်တော်မူလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

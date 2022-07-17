@@ -710,6 +710,12 @@ S khorata Allakh govori samo chrez otkrovenie ili zad pregrada, ili kato izprati
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁။	လူသားသည် အလ္လာဟ်အရှင်မြတ်သည် မိမိအလိုတော်ကို လူသားအား ၎င်း၏ စိတ်နှလုံးတွင် ထင်ရှားစေခြင်းဖြင့် သော်လည်းကောင်း၊ အကာအကွယ်အတွင်းမှ မိန့်တော်မူခြင်းဖြင့်သော်လည်းကောင်း၊ ကောင်းကင်တမန်စေလွှတ် ခြင်းဖြင့်သော်လည်းကောင်း ထုတ်ပြန်မိန့်ဆိုတော်မူ၏၊ မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် အတိုင်း ထက်အလွန်မြင့်မြတ်တော်မူ၏၊ သဗ္ဗညုတဉာာဏ်တော်ရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သည့်လူသား တစ်ဦးတစ်ယောက်နှင့်မျှအလ္လာဟ်အရှင်မြတ်သည် ဝဟီအမိန့်တော် ထုတ်ပြန်တော်မူခြင်းမှတစ်ပါး၊ အရိပ်အခြည် ပြတော်မူခြင်းမှတစ်ပါး၊ သို့တည်းမဟုတ် အကွယ်အကာ တစ်စုံတစ်ရာ၏နောက်မှတစ်ပါးစကားပြောတော်မူသည် မဟုတ်ပေ။ သို့တည်းမဟုတ် ထိုအရှင်မြတ်သည် စေတမန်တစ်ပါးပါးကို စေလွှတ်တော်မူ၏။ ထိုအခါထိုစေတမန်သည် ထိုအရှင်မြတ်၏ အမိန့်တော်နှင့် ထိုအရှင်မြတ်အလိုရှိတော်မူသော ဝဟီထုတ်ပြန်ချက်ကို ပို့ပေးလေ၏။ဧကန်စင်စစ် ထိုအရှင်မြတ်သည် လွန်စွာ မြင့်မြတ်တော်မူသောအရှင်၊ ဆင်ခြင်တုံတရားနှင့် ပြည့်စုံတော်မူသောအရှင်၊ ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

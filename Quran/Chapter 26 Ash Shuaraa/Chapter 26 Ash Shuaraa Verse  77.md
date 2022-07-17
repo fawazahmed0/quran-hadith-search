@@ -710,6 +710,12 @@ Te sa moi vragove, a ne Gospodŭt na svetovete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၇။	အနန္တစကြာဝဠာတို့၏ အသက်သခင်ကျေးဇူးရှင်မှတပါး အခြားသောကိုးကွယ်ရာတို့သည် အကျွနု်ပ်၏ ရန်သူ အစစ်အမှန်ဖြစ်သည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြောင်းမှာမူ ဧကန်မလွဲ ၎င်းတို့သည် ငါ၏ရန်သူများပင် ဖြစ်ကြကုန်၏။ သို့ရာတွင် စကြာဝဠာခပ်သိမ်းတို့ကို ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မှာမူကား လောကီဘ၀တွင်လည်းကောင်း၊ "အာခိရတ်" တမလွန်ဘ၀တွင်လည်းကောင်း၊ ငါ၏အဆွေခင်ပွန်းပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

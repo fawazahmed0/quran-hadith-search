@@ -710,6 +710,12 @@ Ili kroyat khitrina? Ala onezi, koito ne vyarvat, te shte sa nadkhitrenite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	သို့မဟုတ် သူတို့သည် တမန်တော်ကို ဥပါယ်တမည်ဖြင့် လှည့်စားဖို့ရာ ကြံစည်ကြသလော၊ သို့သော်မယုံကြည် သူတို့သာလျှင် လှည့်ဖြားခြင်းခံကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် ၎င်းတို့သည် တစ်စုံတစ်ရာမကောင်း ကြံစည်ရန် ရည်ရွယ်ကြလေသလော။ သို့ ဖြစ်လျှင် 'ကာဖိရ်' သွေဖည် ငြင်းပယ်ကြကုန်သော သူတို့သည်ပင်လျှင် မကောင်းသော အကြံအစည်၌ မိနေကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

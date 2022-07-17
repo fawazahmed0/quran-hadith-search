@@ -710,6 +710,12 @@ O, vyarvashti, ne vzimaĭte yudeite i khristiyanite za blizhni! Edin na drug sa
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁။	အို-ယုံကြည်သူအပေါင်းတို့ သင်တို့သည် ရဟူဒီအမျိုးသားနှင့် ခရစ်ယာန်ဘာသာဝင်တို့အား အဆွေခင်ပွန်းများဟု မမှတ်ကြလင့်။ သူတို့သည် အချင်းချင်း မိတ်ဆွေများဖြစ်ကြ၏။ သင်တို့အနက် အကြင်သူသည် သူတို့နှင့် မိတ်ဖွဲ့၏။ ထိုသူသည် သူတို့ဘောင်တွင် အပါအဝင်ဖြစ်၏။ မှတ်သားကြ လော့။ အလ္လာဟ်အသျှင်မြတ်သည် ပြစ်မှုကျူးလွန်သူတို့ကို လမ်းညွှန်တော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို- ‘မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူအပေါင်းတို့ အသင်တို့သည် ယဟူဒီတို့အားလည်းကောင်း၊ ခရစ်ယာန်တို့အားလည်းကောင်း မိတ်သဟာယ အဆွေခင်ပွန်းများ မပြုကြကုန်လင့်။ ၎င်း (ယဟူဒီနှင့်ခရစ်ယာန်) တို့သည် (အသင်တို့ကိုဆန့်ကျင်ရာတွင်) အချင်းချင်း တစ်ဦးကိုတစ်ဦး ယိုင်းပင်းကူညီသော အဆွေခင်ပွန်းများပင် ဖြစ်ကြပေသည်။ အမှန်သော်ကား အသင်တို့အနက် မည်သူမဆို ထိုသူတို့အား ‘ကလျာဏ’ အဆွေခင်ပွန်းပြုလုပ်သည်ရှိသော် ထိုသူသည် ဧကန်မုချ ၎င်းတို့တွင် (အပါအဝင်) ဖြစ်၏။ မလွဲဧကန် အလ္လာဟ်အရှင်မြတ်သည် မတရားကျူလွန်သူတို့အား တရားလမ်းမှန်သို့ ပို့ပေးတော်မူမည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

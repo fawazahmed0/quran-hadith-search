@@ -710,6 +710,12 @@ Pŭrvosŭzdatelya na nebesata i na zemyata! Kak da ima Toĭ dete, shtom nyama s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၁။	မိုးကောင်းကင်များနှင့် ကမ္ဘာမြေကြီးကို စတင်ဖန်ဆင်းတော်မူသောအသျှင် အလ္လာဟ်အသျှင်မြတ်၌ ကြင်ယာတော်မရှိဘဲ မည်သို့ သားသမီးရှိနိုင်အံ့နည်း။ အသျှင်မြတ်သည် ခပ်သိမ်းကုန်သောအရာများ ကို ဖန်ဆင်းတော်မူ၏။ အရာရာကို သိမြင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအရှင်မြတ်သည်) မိုးများနှင့်ပထဝီမြေကိုစတင်ဖန်ဆင်းတီထွင်တော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသည်။ ထိုအရှင်မြတ်၌ ကြင်ရာကြင်ဘက်မရှိဘဲလျက်အဘယ်မှာလျှင် ထိုအရှင်မြတ်၌ သားသမီးရှိနိုင်ပါအံ့နည်း။စင်စစ်သော်ကား ထိုအရှင်မြတ်သည်ပင်လျှင် အရာခပ်သိမ်းတို့ကို ဖန်ဆင်းတော်မူခဲ့လေသည်။ ၎င်းပြင် ထိုအရှင်မြတ်သည်ပင်လျှင် အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့ သိရှိတော်မူသောအရှင်ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

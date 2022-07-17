@@ -710,6 +710,12 @@ Zatova kŭm Allakh se ustremete! Az sŭm Negov yaven predupreditel za vas
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅ဝ။	ထို့ကြောင့် အရှင်မြတ်အထံတော်သို့ ပြေးကြလော့၊ ငါ့မှာမူကား သင်တို့အတွက် အရှင်မြတ်အထံတော်မှ သတိပေးသူရိုးရိုးသာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အထံတော်သို့ ပြေးလွှားကြလေကုန်။ ဧကန်စင်စစ် ငါသည် အသင်တို့အဖို့ ထိုအရှင်မြတ်၏အထံတော်မှ ထင်ရှားစွာ သတိပေးနှိုးဆော်သူဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

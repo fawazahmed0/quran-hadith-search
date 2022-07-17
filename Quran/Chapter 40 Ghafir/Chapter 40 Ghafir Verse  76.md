@@ -710,6 +710,12 @@ Vlezte prez vratite na Ada - tam shte prebivavate vechno! I kolko losho e obital
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၆။	ယနေ့မူကား နင်တို့သည် ငရဲ၏ တံခါးများအတွင်းသို့ ဝင်၍ ငရဲအတွင်းနေထိုင်ကြလော့၊ တရားတော်ကို ရွံ ရှာသူတို့၏ နေထိုင်ရာသည် မင်္ဂလာမရှိသောဌာနဆိုးဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ယခုမူကား) အသင်တို့သည် "ဂျဟန္နမ်" ငရဲဘုံ၏တံခါးပေါက်များသို့ ယင်းဂျဟန္နမ် ငရဲဘုံ၌ အမြဲထာဝရ နေထိုင်ကြသူတို့အဖြစ် ဝင်ရောက်ကြကုန်လော့။ စင်စစ် ဘဝင်မြင့် မာန်မာနထောင်လွှားကြကုန်သောသူတို့၏ နေထိုင်ရာဌာနမှာမူကား လွန်စွာ ဆိုးရွားလှပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

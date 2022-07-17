@@ -710,6 +710,12 @@ I kazhi na Moite rabi da govoryat naĭ-khubavoto! Satanata see razdor mezhdu ty
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။	တမန်တော်၊ သင်သည် ငါ၏ ကျေးကျွန်များအား ဂရုဏာစကားကိုသာ ဆိုကြလော့ဟု သြဝါဒပေးလော့၊ မှတ်သားလော့၊ ရှိုင်တန်မာရ်နတ်သည် သူတို့အထဲတွင် စိတ်ဝမ်းကွဲပြားမှုကိုသာ လှုံ့ဆော်၏။ မှတ်သားလော့။ ရှိုင်တန်မာရ်နတ်သည် လူသား၏ ပွင့်လင်းသောရန်သူအစစ်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (အို-နဗီတမန်တော်)ငါအရှင်မြတ်၏(မုအ်မင်န်) ကျွန်များအား အကောင်းဆုံးသော စကားကိုသာပြောဆိုကြရန်အသင်ပြောကြားပါလေ။ ဧကန်အမှန် ရှိုင်တွာန်မိစ္ဆာကောင်သည် ၎င်းတို့၏စပ်ကြားတွင် နှောင့်ယှက်ဖျက်ဆီးလေ့ရှိပေသည်။ မလွဲဧကန် ရှိုင်တွာန်မိစ္ဆာကောင်သည် မနုဿလူသားတို့၏ အလွန်ထင်ရှားသောရန်သူပင် ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ a ako nyakoĭ e ugnetil, posle e zamenil zloto s dobro - Az sŭm oproshtavasht,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	သို့သော်အကြင်သူသည် ပြစ်မှုကျူးလွန်မိ၏၊ ထို့နောက်မိမိမကောင်းမှုအစား ကောင်းမှုကို ပြုကျင့်လျှင် ငါသည် ထိုသူ၏အပြစ်ကို မုချလွှတ်တော်မူ၏၊ ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် မည်သူမဆို မတရားကျူးလွန်ခဲ့လျှင် တစ်ဖန်ထိုသူသည် မကောင်းမှု၏နောက်တွင် ကောင်းမှုကို ပြောင်းလဲ၍ပြုခဲ့လျှင် မလွဲဧကန် ငါ အရှင်မြတ်သည် အလွန်တရာ ခွင့်လွှတ်တော်မူသော အလွန်တရာ သနားကရုဏာပြုတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

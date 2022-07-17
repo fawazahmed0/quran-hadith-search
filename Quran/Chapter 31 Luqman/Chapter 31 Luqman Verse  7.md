@@ -710,6 +710,12 @@ I kogato Nashite znameniya mu bivat cheteni, toĭ se otvrŭshta visokomerno, sy
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	ထို့အပြင် ငါ၏ပညတ်တော်များကို ရွတ်ဖတ်ပြသောအခါ ထိုသူသည် မကြားသကဲ့သို့၊ နားပင်းနေသကဲ့သို့ တစ်ဘက်သို့ကြီးစွာသောမာနဖြင့် လှည့်သွား၏၊ ထို့ကြောင့်ထိုသူအား အလွန်ပြင်းပြနာကျင်ဖွယ်ရှိသောအပြစ်ဒဏ် တော်သတင်းကို အကြောင်းကြားလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုသူ၏ရှေ့၌ ငါအရှင်မြတ်၏ အာယတ် တော်များ ဖတ်ကြားသောအခါ ထိုသူသည် ယင်း(အာယတ်တော်)များကို မကြားဘိသကဲ့သို့ လည်းကောင်း၊ ထိုသူ၏နားနှစ်ဖက်သည် ပင်းနေဘိသကဲ့သို့လည်းကောင်း မျက်နှာလွှဲ၍ သွားလေ၏။ သို့ဖြစ်ပေရာ(အို-နဗီတမန်တော၊်)အသင်သည်၎င်းအား ပြင်းပြနာကျင်ဖွယ်ဖြစ်သော ပြစ်ဒဏ်နှင့်စပ်လျဉ်းသော သတင်းကို ပြောကြားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Tezi, na koito dadokhme Pisanieto, go chetat s pravdivo chetene. Te vyarvat v ne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၁။	အကြင်သူတို့ထံ ငါသည် ကျမ်းတော်ကို ချပေးတော်မူ၏ ထိုသူတို့သည် ကျမ်းတော်ကို ဝတ္တရား ရှိသည်အတိုင်း ရိုသေလေးမြတ်စွာ ရွတ်ဖတ်ကြအ့ံ။ ထိုသူတို့သည် ကျမ်းတော်ကို ယုံကြည်သူများ ဖြစ်ကြ၏။ အကြင်သူတို့သည် ကျမ်းတော်ကို မယုံကြည်အ့ံ။ ထိုသူတို့သည် ဆုံရှုံးသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတို့အား ငါအရှင်မြတ်သည် ဒေသနာတော်ကျမ်းမြတ်ကို ပေးသနားတော်မူခဲ့၏။ အကယ်၍ ထိုသူတို့သည် ယင်းဒေသနာတော် ကျမ်းမြတ်ကို ထိုက်သင့်သောနည်းဖြင့် စိတ်ရင်းစေတနာ ဖြူစင်စွာဖြင့် ရွတ်ဘတ်ကြ၍ လိုက်နာကျင့်ကြံကြပါမူ ထိုသူတို့သည်သာလျှင် ကျမ်းတော်မြတ်ကို အမှန်ယုံကြည်သူများ ဖြစ်ကြအံ့၊ အကြင်မည်သူမဆို ယင်းကျမ်းတော်မြတ်ကို ငြင်းပယ်ကြပါမူ ထိုသူတို့သည်သာလျှင် ပျက်စီးဆုံးရှုံးခြင်းသို့ ကျရောက်သော သူများပင်ဖြစ်အံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I gi sgrabchikhme s mŭchenieto, ala te nito se pokorikha na svoya Gospod, nito 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၆။	ငါသည် ထိုသူမိုက်တို့အား အပြစ်ဒဏ်နှင့်ဖမ်းဆီးတော်မူပြီ၊ သို့သော်သူတို့သည် မိမိ၏အရှင်သခင်ထံ မိမိကိုယ်ကို နှိမ့်ချကြသည်မဟုတ်၊ ဆွလားသ်ဝတ်ပြုကြသည်လည်းမဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် မလွဲဧကန် ငါအရှင်မြတ်သည် ထိုသူတို့အား ပြစ်ဒဏ်ဖြင့် ဖမ်းဆီးကွပ်မျက်တော်မူခဲ့လေသည်။ သို့တစေလည်း ၎င်းတို့သည် မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ရှေ့တော်မှောက်တွင် ကျိုးနွံ့ နိမ့်ကျလာခဲ့ကြသည်လည်းမရှိပေ။ တိုးလျှိုးတောင်းပန် အသနားခံခဲ့ကြသည်လည်း မရှိချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

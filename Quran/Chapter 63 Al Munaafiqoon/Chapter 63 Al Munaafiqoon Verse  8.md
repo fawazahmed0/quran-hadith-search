@@ -710,6 +710,12 @@ Kazvat: “Shtom se vŭrnem v al-Medina, po-mogŭshtiyat tam nepremenno shte pro
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။ ထို့အပြင်သူတို့က အကျွနု်ပ်တို့သည် အကယ်၍ မဒီနာမြို့သို့ ပြန်ရောက်ကြလျှင် အားရှိသူတို့က အားသေးသူ တို့ကို မကြာမီအမှန်ပင် နှင်ထုတ်ကြမည်ဟု ဆိုကြ၏၊ အမှန်မှာ ဘုန်းတန်ခိုးအာဏာကို အလ္လာဟ်အရှင်မြတ်၊ အရှင်မြတ်၏ တမန်တော်နှင့် ယုံကြည်သူတို့သာ ပိုင်ဆိုင်ကြ၏၊ သို့သော်ယုံကြည်ဟန်ဆောင်သူတို့သည် မသိကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့ကပင် (ယခုသော်)ကျွန်ုပ်တို့သည် ‘မဒီနာ’မြို့သို့ ပြန်၍သွားခဲ့ကြလျှင် ဂုဏ်အသရေ အားအင်ရှိသူတို့သည် ဂုဏ်အသရေ အားအင်မဲ့သောသူတို့အား ထိုမြို့မှ ဧကန်မလွဲ နှင်ထုတ်ကြပေမည်’ ဟူ၍(လည်း) ပြောဆိုကြကုန်၏။ စင်စစ်မှာမူကား ဂုဏ်အသရေ အားအင်ဟူသည် အလ္လာဟ်အရှင်မြတ်၌သာလည်းကောင်း၊ ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော်မြတ်၌သာလည်းကောင်း၊ ‘မုအ်မင်န်’ သက်ဝင် ယုံကြည်သူတို့၌သာလည်းကောင်း၊ ရှိပေသည်။ သို့တစေလည်း ‘မုအ်မင်န်’ အယောင်ဆောင်တို့မှာမူကား သိရှိကြသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Tova e Nashata Kniga. Tya govori istinata za vas. Nie sme zapisali vashite dela.
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	ငါ၏ စာရင်းစာအုပ်သည် သင်တို့၏ ပြုကျင့်မှုများကို မှန်ကန်စွာထုတ်ဖော်ပြထား၏၊ မှတ်သားကြလော့၊ ငါ သည် သင်တို့ပြုကျင့်သမျှတို့ကို အကုန်အစင်မှတ်ပုံတင်ထားစေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည် ငါအရှင်မြတ်၏ မှတ်တမ်းစာအုပ်ပင်။ ယင်းမှတ်တမ်းစာအုပ်သည် အသင်တို့နှင့်ပတ်သက်၍ တိကျမှန်ကန်စွာ ပြောပြနေပေသည်။ ဧကန်မလွဲ ငါအရှင်မြတ်သည် အသင်တို့ ကျင့်မူခဲ့ကြသည်ကို ရေးမှတ်စေလျက် ရှိတော်မူခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

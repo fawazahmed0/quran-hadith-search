@@ -710,6 +710,12 @@ Kazakha: “Ti si samo omag’osan
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈၅။	သူတို့က ဟယ်-ရှုအိုက်(ဘ်)၊ သင်သည် စုံးပယောဂပူးသူတို့အထဲတွင် အပါအဝင်သာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအမျိုးသားတို့က ပြောဆိုခဲ့ကြကုန်၏။ (အို-ရှုအိုက်ဗ်၊) အသင်သည် ပြင်းထန်စွာ စုန်းပြုစားခြင်း ခံရသူတစ်ဦးပင်ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

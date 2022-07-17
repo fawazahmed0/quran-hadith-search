@@ -710,6 +710,12 @@ I neka khorata na Evangelieto ot·sŭzhdat spored onova, koeto Allakh e nizposla
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	အင်ဂျီလ်ကျမ်းတော်ရရှိသူအပေါင်းတို့သည် ထိုကျမ်းတော်တွင်ပါရှိသော အသျှင်မြတ်၏ဗျာဒိတ်တော် အတိုင်း ကျင့်ကြံဆုံးဖြတ်ရမည်။ အကြင်သူတို့သည် အသျှင်မြတ်ချပေးသနားတော်မူသော ထိုကျမ်းတော်အတိုင်း မစီရင်မဆုံးဖြတ်ကြ။ ထိုသူများသည် ဒုစရိုက်မှုများကို ကျုးလွန်သူတို့ ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်တဝ အီန်ဂျီလ်ကျမ်းတော်ကို ရရှိသောသူတို့သည်လည်း ယင်း အီန်ဂျီလ်ကျမ်းတော်တွင် အလ္လာဟ်အရှင်မြတ်က ထုတ်ပြန်ချမှတ်တော်မူသည့်အတိုင်း စီရင်ကြရပေမည်။ စင်စစ် မည်သူမဆို အလ္လာဟ်အရှင်မြတ် ထုတ်ပြန်ချမှတ်တော်မူသည့် အမိန့်တော်အတိုင်း တရားစီရင်ဆုံးဖြတ်ခြင်းမပြုခဲ့သော် ထိုကဲ့သို့သောသူများသည် အမိန့်တော်ကို ကျူးလွန်ဖေါက်ဖျက်သောသူများပင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

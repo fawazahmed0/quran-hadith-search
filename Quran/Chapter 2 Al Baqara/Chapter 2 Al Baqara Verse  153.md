@@ -710,6 +710,12 @@ O, vyarvashti, iskaĭte pomoshtta na Allakh s tŭrpenie i molitva! Allakh e s t
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၃။	အေ၊ ယုံာကည်သူတို့ သင်တို့သည် အစောင်အမတော်ကို သည်းခံခြင်းတရား ဆွလာသ်ဝတ်ပြုခြင်း အားဖြင့် ရှားမှီးကြကုန်လော့။ ကြည့်ကြလော့။ အလ္လာဟ်သည် သည်းခံသူတို့နှင့်အတူတကွ ရှိတော် မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို- ယုံကြည်ခြင်းသဒ္ဓါတရား ထားရှိကြသူ အပေါင်းတို့၊ သင်တို့သည် သည်းခံတရားထားခြင်းဖြင့်လည်းကောင်း၊ ဆွလာတ်ဝတ်ပြုခြင်းဖြင့်လည်းကောင်း၊ (အလ္လာဟ် အရှင်မြတ်၏ အထံတော်မှ) ကူညီထောက်ပံ့ စောင်မတော် မူခြင်းကို ရယူကြကုန်လော့။ ဧကန်အမှန် အလ္လာဟ်အရှင် မြတ်သည် ခန္တီတရားထားရှိသောသူ တို့နှင့်အတူတကွ (အမြဲ) ရှိတော်မူလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

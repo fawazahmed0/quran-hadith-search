@@ -710,6 +710,12 @@ Nishto ne e skrito ot Allakh nito na zemyata, nito na nebeto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	မှတ်သားကြလော့။ ကမ္ဘာမြေပေါ်၌သော်လည်းကောင်း၊ မိုးကောင်းကင်၌သော်လည်းကောင်းရှိသော အရာဝထ္ထုတစ်စုံတစ်ခုကိုမျှ အလ္လာဟ်အရှင်မြတ်အထံတော်မှ ဖုံးကွယ်၍ မရပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မုချ ပထဝီမြေပြင်၌ ရှိရှိသမျှသော အရာဝတ္ထုများသည်လည်းကောင်း၊ အာကာသကောင်းကင်၌ရှိရှိသမျှသော အရာဝတ္ထုများသည်လည်းကောင်း၊ မည်သည့်တစုံတခုမျှ အလ္လာဟ်အရှင်မြတ်ထံတော်၌ ဖုံးကွယ်နေသည်ဟူ၍ မရှိချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

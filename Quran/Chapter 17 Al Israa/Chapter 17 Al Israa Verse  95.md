@@ -710,6 +710,12 @@ Kazhi: “Ako imashe na zemyata angeli, koito da khodyat spokoĭno, shtyakhme d
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၅။	တမန်တော် သင်ဟောကြားလော့။ အကယ်၍မဟာပထဝီမြေကြီးပေါ်တွင် ကောင်းကင်တမန်များဘေးမဲ့သာယာစွာ သွားလာနေထိုင်ကြလျှင် ငါသည် သူတို့ထံသို့ ကောင်းကင်ဘုံမှ ကောင်းကင်တမန်တော်တပါးကို စေလွှတ်တော် မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (၎င်းတို့အားဤသို့) ပြောဆိုဖြေကြားပါလေ။ (အချင်းတို့) အကယ်၍ ပထဝီမြေ၌ ကောင်းကင်တမန်များသည် အတည်တကျ နေထိုင်သွားလာနေကြပါလျှင် ဧကန်မလွှဲ ငါအရှင်မြတ်သည် ၎င်းတို့အပေါ်၌ မိုးကောင်းကင်မှ ကောင်းကင်တမန်တော်တစ်ပါးကိုပင်ရစူလ်တမန်တော်အဖြစ်ချပေး(စေလွှတ်)တော် မူခဲ့အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

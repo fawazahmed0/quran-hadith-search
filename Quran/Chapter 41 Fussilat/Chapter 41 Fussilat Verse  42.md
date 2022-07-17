@@ -710,6 +710,12 @@ koyato lŭzha ne ya doblizhava nito otpred, nito otzad, i e nizposlanie ot prem�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	မုသားစကားသည် ထိုကျမ်းတော်ကို ရှေ့မှသော်လည်းကောင်း၊ နောက်မှသော်လည်းကောင်း၊ မချဉ်းကပ်နိုင်ချေ၊ ထိုကျမ်းတော်သည် သဗ္ဗညုတဉာာဏ်တော်ရှင်၊ ချီးမွမ်းခြင်းတည်ရာအရှင်၏ အထံတော်မှ ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှားသည် ယင်းကျမ်းမြတ်တွင် ၎င်း၏ရှေ့မှလည်း လာရောက်စွက်ဖက်နိုင်ခြင်းမရှိချေ။ ၎င်း၏ နောက်လည်း လာရောက်စွက်ဖက်နိုင်ခြင်းမရှိပေ။ ဤကျမ်းမြတ်မှာဆင်ခြင်တုံတရားနှင့် ပြည့်စုံတော်မူသော ချီးမွမ်းထောပနာကိုခံယူထိုက်တော်မူသောအရှင်မြတ် အထံတော်မှ ချပေးတော်မူသောကျမ်းမြတ်ပင် ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

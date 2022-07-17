@@ -710,6 +710,12 @@ I shte pretsenim vsyako delo, koeto te sa izvŭrshili, i shte go prevŭrnem v ra
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	ထို့အပြင်ငါသည် သူတို့ပြုခဲ့သောအမှုဘက်သို့ လှည့်တော်မူမည်၊ ငါသည် ၎င်းကို လွင့်ပါးသောသဲမှုန့်ကလေးများ ဖြစ်စေတော်မူလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ငါအရှင်မြတ်သည် (ထိုနေ့တွင်) ၎င်းတို့ပြုလုပ်ခဲ့ကြသော အပြုအမူများဘက်သို့ လှည့်တော်မူမည်။ ထို့နောက် ငါအရှင်မြတ်သည် ယင်းအပြုအမူများကို ကြဲဖြန့်ထားသော မြူမှုန့်များ ဖြစ်စေတော်မူမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

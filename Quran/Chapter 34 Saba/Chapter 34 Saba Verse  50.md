@@ -710,6 +710,12 @@ Kazhi: “Ako sŭm se zabludil, az se zabluzhdavam samo v svoya vreda, a ako sŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅ဝ။	တဖန်ဟောကြားလော့၊ ဟယ်-အချင်းတို့၊ ငါ့အမှားကို ပြုမိပါလျှင် ငါသည် မိမိဆုံးရှုံးဖို့ရာမှား၏၊ အကယ်၍ ငါသည် လမ်းမှန်ကို ပြသခြင်းခံရပါလျှင် ထိုအောင်မြင်ခြင်းသည် ငါ၏အရှင်သခင် ထုတ်ပြန်ချပေးသနားတော် မူသောအလင်းပြကျမ်းတော်ကြောင့်ဖြစ်၏၊ မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းကုန်တို့ကို အကြွင်းမဲ့ကြားတော်မူ၏၊ ကျေးတော်မျိုးကျွန်တော်မျိုးတို့နှင့် အလွန်နီးကပ်လျက်ရှိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ပြောကြားပါလေ။ (အချင်းတို့၊) အကယ်၍ ငါသည် လမ်းမှားခဲ့မူ၊ ငါသည်မိမိကိုယ်နှင့်ဆန့်ကျင်၍သာ လမ်းမှားခဲ့ခြင်းဖြစ်မည်။ (ငါ၏အမှားဒဏ်ကို ငါသာခံရမည်၊) သို့ရာတွင် အကယ်၍ ငါသည်တရားလမ်းမှန် ရရှိခဲ့သည်ဖြစ်မူ ငါ့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်က ငါ့ထံသို့ ဝဟီ အမိန့်တော်ထုတ်ပြန်တော်မူသောကြောင့်ပင်ဖြစ်၏။ ဧကန်မလွဲ ထိုအရှင်မြတ်သည်အလွန်တရာကြားသိတော်မူသော၊ အလွန်တရာ နီးကပ်စွာရှိတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

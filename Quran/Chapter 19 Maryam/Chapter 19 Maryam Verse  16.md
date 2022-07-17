@@ -710,6 +710,12 @@ I spomeni [o, Mukhammad] v Knigata Mariam, kogato se uedini ot svoeto semeĭstv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	ထို့အပြင်ကျမ်းဂန်တော်၌ မရယမ်၏ အကြောင်း ဖော်ပြကြလော့။ သူမသည် မိမိအပေါင်းအဖော်များနှင့်ခွဲခွာ၍ အရှေ့ဘက်သို့ မျက်နှာမူသောနေရာဗိမာန်သို့ ကြွသွား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (အို-နဗီတမန်တော်) အသင်သည်(ဤကုရ်အာန်)ကျမ်းတော်မှ မရ်ယမ်(၏အတ္ထုပ္ပတိ) အကြောင်းကို ဖတ်ကြားပါလေ။ တစ်ရံရောအခါဝယ် ယင်းမရ်ယမ်သည်မိမိအိမ်သူအိမ်သားတို့ထံမှ ခွဲခွာ၍ အရှေ့ဖက်၌ရှိသောအခန်းတစ်ခန်းသို့ သွားခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

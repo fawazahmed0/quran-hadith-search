@@ -710,6 +710,12 @@ I [spomeni Mariam -] onazi, koyato se opazi devstvena i v koyato vdŭkhnakhme ot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၁။	တဖန်သူမသည် ယောက်ျားမထိသေးသောကညာအစစ်ဖြစ်၏၊ ငါသည် သူမ၏ ဝမ်းတွင်းသို့ ငါ၏ဝိညာဉ်မှ အသက်ဝိညာဉ်တစ်ခုကို မှုတ်သွင်းတော်မူ၏၊ သူမနှင့်တကွ သူမ၏သားတော်ကို လူသားအပေါင်းတို့အတွက် နိမိတ်လက္ခဏာအ့ံဖွယ်တော်ဖြစ်စေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (အို-နဗီတမန်တော်၊ အသင်သည်)ထိုအမျိုးသမီး၏ အတ္ထုပ္ပတ္တိအကြောင်းကိုလည်း (ပြောကြားပါလေ)။ ထို(အမျိုးသမီး)သည် မိမိဂုဏ်အသရေကို စောင့်စည်းထိန်းသိမ်းခဲ့လေ၏။ သို့ဖြစ်ပေရာ ငါအရှင်မြတ်သည် ထို(အမျိုးသမီး)၌ မိမိအထံတော်မှ အသက်ဇီဝိန်ကို မှုတ်သွင်းတော်မူခဲ့၏။ ထို့ပြင် ငါအရှင်မြတ်သည် ထို(အမျိုးသမီး)အားလည်းကောင်း၊ ထို(အမျိုးသမီး)၏ သားတော်အားလည်းကောင်း၊ကမ္ဘာသူကမ္ဘာသားခပ်သိမ်းတို့အဖို့ သက်သေ လက္ခဏာတော်တစ်ရပ် ပြုလုပ်တော်မူခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

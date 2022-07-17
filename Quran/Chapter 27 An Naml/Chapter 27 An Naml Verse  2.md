@@ -710,6 +710,12 @@ napŭt·stvie i blaga vest za vyarvashtite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	ယုံကြည်သူတို့အတွက် လမ်းညွှန်တော်သော်လည်းကောင်း၊ သတင်းကောင်းသော်လည်းကောင်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မုအ်မင်န်" သက်ဝင်ယုံကြည်သူတို့အဖို့ တရားလမ်းညွှန်ရာနှင့် သတင်းကောင်းဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

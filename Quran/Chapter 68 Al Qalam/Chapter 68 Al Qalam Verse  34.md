@@ -710,6 +710,12 @@ Naistina za bogoboyazlivite pri tekhniya Gospod sa Gradinite na blazhenstvoto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။ စင်စစ်အားဖြင့် အကုသိုလ်မကောင်းမှုကို ရှောင်ကြဉ်သောသူတို့အတွက် သူတို့၏ အရှင်သခင်အထံတော်၌ သုခဥယျာဉ်တော်များရှိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် "မွတ္တကီ"သူတော်စင်တို့အဖို့ ၎င်းတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ် အထံတော်တွင် စည်းစိမ်ချမ်းသာနှင့် ပြည့်စုံသော ဥယျာဉ်များ ရှိကြလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

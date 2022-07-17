@@ -710,6 +710,12 @@ I slŭntseto e ustremeno kŭm svoeto mestoprebivanie. Taka e otredil Vsemogŭsht
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	ထို့အပြင်နေလည်း ငါပြဋ္ဌာန်းထားသောရာသီအလိုက်သာလျှင် သွားလာဝင်ထွက်ရ၏၊ စင်စစ်အားဖြင့်ယင်းအချက် တော်သည် အနန္တတန်ခိုးတော်သခင်၊ သဗ္ဗညုတဉာာဏ်တော်ရှင်၊ အလ္လာဟ်အရှင်မြတ်၏ စီမံခန့်ခွဲတော်မူခြင်း ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် နေသည်(လည်း သက်သေလက္ခဏာတစ်ရပ်)ပင်။ ထိုနေသည် မိမိ(သွားလာရာ)လမ်းအတိုင်း သွား(လာ)လျက် ရှိနေလေ၏။ ဤသည်ကား အလွန်တရာ နိုင်နင်းလွှမ်းမိုးတော်မူသော အကြွင်းမဲ့သိရှိတော်မူသော အရှင်မြတ်၏ တိုင်းတာ သတ်မှတ်ချက်ပင် ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

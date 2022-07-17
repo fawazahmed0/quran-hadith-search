@@ -710,6 +710,12 @@ Kazhi: “Toĭ e, Koĭto vi namnozhi po zemyata i pri Nego shte bŭdete sŭbra
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။ ထို့အပြင် ဟယ်-အချင်းတို့၊ အရှင်မြတ်သည် သင်တို့ကို ကမ္ဘာမြေပေါ်တွင် ပွားမျာစေတော်မူ၏၊ သင်တို့သည် အရှင်မြတ်အထံတော်၌ စုဝေးကြရမည်သာတည်းဟုလည်း သင်ဟောပြောလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ပြောကြားပါလေ။ (အချင်းတို့၊) ထိုအရှင်မြတ်သည်ပင် အသင်တို့အား ပထဝီမြေ၌ ပြန့်ပွားစေတော်မူခဲ့သောအရှင် ဖြစ်တော်မူ၏။၎င်းပြင် ထိုအရှင်မြတ် အထံတော်သို့ပင် အသင်တို့သည် စုရုံးကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

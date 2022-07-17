@@ -710,6 +710,12 @@ Ne storikhme li zemyata da sŭbere
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅၊၂၆။ ငါသည် ဤကမ္ဘာမြေကြီးကို ရှင်သူ၊သေသူလူသားအားလုံးတို့ကို လက်ခံဖို့ရာ နေရာအဖြစ်ဖြင့် ဖန်ဆင်းထား တော်မူသည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် ပထဝီမြေကို စုရုံးပေါင်းစပ်ရာနေရာဌာန၊ စုရုံးပေါင်းစပ်သောအရာ၊ ပြုလုပ်တော်မူခဲ့သည်မဟုတ်လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

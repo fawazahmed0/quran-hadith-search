@@ -710,6 +710,12 @@ koĭto iska da vi propŭdi ot vashata zemya.” [A Faraonŭt reche:] “I kakvo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁ဝ။	သူသည် သင်တို့ကို မိမိတို့တိုင်းပြည်မှ နှင်ထုတ်ပစ်လမ့်မည်။ ယခု သင်တို့သည် အဘယ် အကြံဉာဏ်ကို ပေးကြမည်နည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းသည် (မိမိ ပဉ္စလက်ပညာ၏အစွမ်းဖြင့်)အသင်တို့အား အသင်တို့၏နယ်မြေ(ဝါ)တိုင်းပြည်မှ ထုတ်ပစ်ရန် ကြံရွယ်လျက်ရှိနေလေသည်။ သို့ဖြစ်ပေရာ အသင်တို့သည်(ဤကိစ္စနှင့်စပ်လျဉ်း၍)မည်သို့ အကြံပေးလိုကြသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Reche: “Kak shte imam momche, shtom ne me e dokosval mŭzh i ne sŭm bludnitsa
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	ထိုအခါသူမက လူသားယောက်ျားမထိပဲလျက် အကျွနု်ပ်သည် အဘယ်ကဲ့သို့သားရတနာဖွားမြင်နိုင်ပါအ့ံနည်း၊ အကျွနု်ပ်သည် အကျင့်မကောင်းမိန်းမပေါ့လည်းမဟုတ်ချေဟု ပြောပြန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ယင်းမရ်ယမ်က (အို-ကောင်းကင်တမန်)စင်စစ် ကျွန်ုပ်အား မည်သည့်လူသားတစ်ဦးတစ်ယောက်မျှပင် ထိတွေ့ခဲ့ဖူးသည်လည်း မရှိပါဘဲလျက်လည်းကောင်း၊ ကျွန်ုပ်သည် အကျင့်မကောင်းသူ တစ်ဦးလည်း မဖြစ်ပါဘဲလျက်လည်းကောင်း၊ အသို့လျှင် ကျွန်ုပ်မှာ သားရတနာထွန်းကားနိုင်အံ့နည်းဟု ပြန်ပြောခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

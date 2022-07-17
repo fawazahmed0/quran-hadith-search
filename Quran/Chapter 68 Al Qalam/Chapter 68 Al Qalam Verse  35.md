@@ -710,6 +710,12 @@ Nima otdadenite na Allakh shte storim da sa kato prestŭpnitsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။ ထို့ကြောင့်ငါသည် ကျိုးနွံနာခံသူတို့အား မိစ္ဆာဒိဋ္ဌိကို စီရင်တော်မူသကဲ့သို့ စီရင်တော်မူမည်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အရှင်မြတ်သည် မွတ်စ်လင်မ်၊ အမိန့်နာခံသောသူတို့အား အမိန့်ကိုဖီဆန်သော သူတို့ကဲ့သို့ ပြုလုပ်တော်မူရပါမည်လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

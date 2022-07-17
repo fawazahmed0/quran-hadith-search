@@ -710,6 +710,12 @@ I kogato rekokhme na angelite: “Poklonete se na Adam!”, te se poklonikha, os
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၆။	ငါအရှင်မြတ်သည် ကောင်းကင်တမန်တော်တို့အား သင်တို့သည် အာဒမ်ရှေ့တွင် ဝပ်တွားဦးညွတ်ချကြလော့ဟု ဗျာဒိတ်ချတော်မူသောအခါ အီဗလစ်မှတပါး တမန်တော်အားလုံးသည် ဦးညွတ်ကြ၏၊ အီဗလစ်သည် ငြင်းဆန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ပြန်လည်အောက်မေ့ သတိရကြလေကုန်)။တစ်ရံရောအခါဝယ် ငါအရှင်မြတ်သည် မလာအိကဟ် ကောင်းကင်တမန်များအား အသင်တို့သည် အာဒမ်၏ရှေ့ဝယ် စစ်ဂျဒဟ်ပျပ်ဝပ်ဦးချကြလေကုန်ဟု မိန့်ကြားတော်မူခဲ့ရာ အစ်ဗ်လီစ်မှတပါး ကောင်းကင်တမန် အပေါင်းတို့သည် ပျပ်ဝပ်ဦးချခဲ့ကြလေသည်။ ယင်းအစ်ဗ်လီစ်မှာမူကား (ပျပ်ဝပ်ဦးချခြင်းမပြုဘဲအမိန့်တော်ကို) သွေဖည် ငြင်းပယ်ခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

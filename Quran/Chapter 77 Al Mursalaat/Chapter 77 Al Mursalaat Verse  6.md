@@ -710,6 +710,12 @@ s izvinenie ili preduprezhdenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၊၆။ အပြစ်လွှတ်တော်မူမည့် အကြောင်း(သို့မဟုတ်) အပြစ်ပေးတော်မူမည့် အကြောင်းကြေငြာသည့် သတိပေးနှိုးဆော် ကျမ်းမြတ်ကို ယူဆောင်လာသော တမန်တော်များအားဖြင့်လည်းကောင်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဝန်ချ တောင်းပန်ရန်သော်လည်းကောင်း၊ သတိပေးနှိုးဆော်ရန်သော်လည်းကောင်း၊ (တစ်နည်း) အကြောင်းပြချက် မပြုနိုင်ရန်သော်လည်းကောင်း၊ သတိပေး နှိုးဆော်ရန်သော်လည်းကောင်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

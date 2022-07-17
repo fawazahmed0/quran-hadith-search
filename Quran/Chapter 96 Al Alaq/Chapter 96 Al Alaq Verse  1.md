@@ -710,6 +710,12 @@ Cheti [o, Mukhammad] v imeto na tvoya Gospod, Koĭto sŭtvori
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။ အို-တမန်တော်၊ ဖန်ဆင်းတော်မူသောသင်၏ အရှင်သခင်၏ နာမတော်အားဖြင့် ဖတ်ရွတ်လော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် မိမိ အရှင်မြတ်၏နာမံတော်ဖြင့် (အစပြု၍) ဖတ်ပါလေ။ ထို အရှင်မြတ်သည် (သက်ရှိသက်မဲ့ အရာခပ်သိမ်းတို့ကို) ဖန်ဆင်းတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

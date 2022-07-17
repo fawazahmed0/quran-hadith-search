@@ -710,6 +710,12 @@ Allakh ne ugnetyava dori s tezhestta na prashinka. A shtom e dobrina, Toĭ ya u
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄ဝ။	မှတ်သားကြလော့။ အလ္လာဟ်အသျှင်မြတ်သည် မြှူမှုန်တစ်မှုန်ခန့်မျှ မတရားပြုတော်မမူပေ။ ကောင်းမှုတစ်ခုရှိလျှင် ထိုကောင်းမှုကို အသျှင်မြတ်သည် နှစ်ဆဖြစ်စေတော်မူမည်။ ထိုကောင်းမှု ပြုသူအား အထံတော်မှ ကြီးမားသော ဆုလာဘ်ပေးသနားတော်မူလတ္တံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် (အကျိုးပေးတော်မူရာတွင်) မြူမှုန့်ခန့်ပင် မတော်မတရား ပြုတော်မမည်မဟုတ်ပေ။ စင်စစ် အကယ်၍ ကောင်းမှုတစ်ရပ်ဖြစ်ခဲ့ပါလျှင်၊ ထိုအရှင်မြတ်သည် ယင်းကောင်းမှုကို ဆထက်ထမ်းပိုး တိုးပွားစေတော်မူအံ့၊ ကုသိုလ်အကျိုး ပေးသနားတော်မူအံ့။ ၎င်းပြင် မိမိအထံတော်မှ အလွန်ကြီးကျယ်သော အကျိုးဆုလာဘ်ကိုလည်း ခြီးမြှင့်ပေးသနားတော်မူအံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

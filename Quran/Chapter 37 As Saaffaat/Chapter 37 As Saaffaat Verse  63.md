@@ -710,6 +710,12 @@ Storikhme go izpitanie za ugnetitelite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၃။	မှတ်သားကြလော့၊ ငါအရှင်မြတ်သည် ရှားစောင်းကြီးပင်ကို အမှားပြုသူဒုစရိုက်ကောင်များအား ညှင်းဆဲဖို့ရာ စီရင်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် ငါအရှင်မြတ်သည် ယင်းသစ်ပင်ကို မတရားကျူးလွန်ကြသော သူတို့အဖို့ စမ်းသပ်မှုတစ်ရပ်ပင် ပြုလုပ်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

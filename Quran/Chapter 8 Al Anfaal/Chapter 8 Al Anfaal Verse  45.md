@@ -710,6 +710,12 @@ O, vyarvashti, kogato se srazhavate s otred, ustoyavaĭte i spomenavaĭte Alla
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	အို-ယုံကြည်သူအပေါင်းတို့ သင်တို့သည် ရန်သူစစ်တပ်နှင့် ပြိုင်ဆိုင်တိုက်ခိုက်သောအခါ တည်တံ့ ခိုင်မြဲကြလော့။ အသျှင်မြတ်အား အာရုံများစွာပြုကြလော့။ သို့မှသာလျှင် သင်တို့သည် အောင်နိုင် ကြလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-’မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူအပေါင်းတို့၊အသင်တို့သည် အုပ်စုတစ်စုစုနှင့် (ရင်ဆိုင်)တွေ့ဆုံ ကြရသောအခါ၊ မြဲမြံကြံ့ခိုင်စွာတည်ရှိကြလေကုန်။ ၎င်းပြင် အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား များစွာအောက်မေ့ တသကြလေကုန်။ သို့မှသာလျှင် အသင်တို့သည် အောင်မြင်ကြမည်ဖြစ်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ i zashtoto vzimakha likhvata, a im be vŭzbranena, i izyazhdakha imotite na khor
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၁။	အတိုးငွေစားခြင်းကို တားမြစ်ထားသော်လည်း သူတို့သည် အတိုးယူခြင်းကြောင့် သူတို့သည် သူတစ်ပါးတို့၏ ဥစ္စာစီးပွားများကို ဥပါယ်တမည်ဖြင့် စားသောက်ခြင်းကြောင့် ငါသည် သူတို့အနက် မယုံကြည်သူတို့အတွက် အလွန်နာကျင်ဘွယ်သောအပြစ်ဒဏ်ကို စီရင်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်တဝ ထိုသူတို့၏ အတိုးအညွန့်ကို ယူငင် (စားသုံး) မှုကြောင့်လည်းကောင်း၊ အမှန်မှာ ထိုသူတို့သည် ထို (သို့ အတိုးအညွန့်စားသုံးခြင်း) မှ မြစ်တားခြင်းခံခဲ့ကြရပေပြီ။ သူတစ်ပါးတို့၏ ဥစ္စာပစ္စည်းများကို မတရားသောနည်းဖြင့် စားသုံးမှုကြောင့်လည်းကောင်း၊ (ငါအရှင်မြတ်သည် ထိုသူတို့အဖို့ ကောင်းမွန်သောအရာများကို မြစ်တားတော်မူခဲ့လေသည်။) ထိုမှတစ်ပါးတုံ ငါအရှင်မြတ်သည် ထိုသူတို့အနက်မှ သွေဖည်ငြင်းပယ်သောသူတို့အဖို့ အလွန်ပြင်းပြနာကျင်ဖွယ်ဖြစ်သော ပြစ်ဒဏ်ကိုလည်း အဆင်သင့် ပြုလုပ်ထားရှိတော်မူပြီး ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ za da vŭzdade Allakh na vsyaka dusha, kakvoto e pridobila. Allakh bŭrzo pravi 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁။	အလ္လာဟ်အရှင်မြတ်သည် ဝိညာဉ်တစ်ခုစီအား မိမိပြုကျင့်ဆည်းပူးခဲ့သောအမှု၏ အကျိုးအပြစ်ကို ပြန်ဆပ်တော် မူရန် ယင်းကဲ့သို့လူသားတို့ကို စုဝေးစေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤသည်တို့ကား) အလ္လာဟ်အရှင်မြတ်သည်လူတိုင်းလူတိုင်းအား ၎င်းတို့ရှာဖွေ ဆည်းပူးခဲ့ကြ သည်များနှင့်စပ်လျဉ်း၍ အစားပေးတော်မူရန် ဖြစ်ပေသည်။ ဧကန်အမှန်အလ္လာဟ်အရှင်မြတ်သည် လျင်မြန်စွာ စစ်ဆေးတော်မူသည့်အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

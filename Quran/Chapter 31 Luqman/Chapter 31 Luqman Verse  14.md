@@ -710,6 +710,12 @@ I povelikhme na choveka da se otnasya dobre s roditelite si... Nosi go maĭka m
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	ငါအရှင်မြတ်သည် လူသားအား မိမိ၏ မိဘတို့နှင့်စပ်လျဉ်း၍ ပညတ်တော်မူသည်မှာ သူ၏မိခင်သည် သူ့အား ဒုက္ခအမျိုးမျိုနှင့် မွေးဖွား၏၊ နှစ်နှစ်စေ့၍ နို့ဖြတ်သည့်တိုင်အောင် ယုယပိုက်ထွေး၊ နို့ချိုတိုက်ကျွေး၏၊ အို-လူသား၊ ငါ၏ကျေးဇူးတော်နှင့် မိဘနှစ်ပါး၏ ကျေးဇူးရပ်ကို အာရုံပြု၍ ချီးမွမ်းလော့၊ ငါ့အထံတော်သို့ သာ ခရီးရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါ(အလ္လာဟ်)အရှင်မြတ်သည်မနုဿ လူသားအား ၎င်း၏မိဘနှစ်ပါးနှင့် ပတ်သက်၍ (ဤသို့)လေးနက်စွာ အမိန့်ပေးတော်မူခဲ့၏။ ၎င်း၏မိခင်မှာ အားအင်ချည့်နဲ့မှုအပေါ်၌ အားအင်ချည့်နဲ့မှုကို ခံစားလျက် ၎င်းအား (မိမိဝမ်းတွင်း၌) လွယ်ပိုက်ခဲ့လေ၏။ ထိုမှတစ်ပါးနှစ်နှစ်မြောက်သောအခါ၌သာလျှင် ၎င်းအား နို့ဖြတ်လေ၏။(သို့ဖြစ်ပေရာ) အသင်သည် ငါအရှင်မြတ်အားလည်းကောင်း၊အသင်၏မိဘနှစ်ပါးတို့အားလည်းကောင်း၊ ကျေးဇူးတင်လော့၊(အသင်လူသား၏) ပြန်လည်ရာဌာနသည် ငါ အရှင်မြတ်အထံတော်၌ပင် ဖြစ်လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

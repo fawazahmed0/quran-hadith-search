@@ -710,6 +710,12 @@ Tova e pouchenie. Koĭto zhelae, poema pŭtya kŭm svoya Gospod
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။ စင်စစ်အားဖြင့် ဤကုရ်အာန်ကျမ်းမြတ်သည် အဆုံးအမကျမ်းတော်မြတ်ဖြစ်၏၊ အလိုရှိသူမည်သူမဆို မိမိအရှင် သခင်အထံတော်သို့ ရောက်ရာလမ်းတော်ကို ယူနိုင်စေရန်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ဤ "စူရဟ်" ကဏ္ဍသည် ဆုံးမဩဝါဒပင်ဖြစ်၏။ သို့ဖြစ်ပေရာ မည်သူမဆို အလိုရှိပါလျင် ၎င်းအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင် မြတ်အထံတော်သို့ (သွားရာ)လမ်းကို ရွေးချယ်ရမည်သာ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

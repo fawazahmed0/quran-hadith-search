@@ -710,6 +710,12 @@ I davat khrana - vŭpreki che i te ya obichat - na nuzhdaesht se i na sirak, i n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။ ထိုသူတော်စင်တို့သည် အလ္လာဟ်အရှင်မြတ်ကို ကြည်ညိုလေးမြတ်သောသဘောဖြင့် သူဆင်းရဲမိဘမဲ့နှင့် သုံ့ပန်း တို့ကို ကျွေးမွေးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ထိုသူတို့သည် အစားအစာကို ခုံမင်စုံမက်ကြလျက်နှင့်ပင် ထိုအရှင်မြတ်အား ချစ်ကြည်မြတ်နိုးသောကြောင့် သူဆင်းရဲတို့အားလည်းကောင်း၊ ဘမဲ့ကလေးသူငယ်တို့အားလည်းကောင်း၊ သုံ့ပန်းတို့အားလည်းကောင်း၊ ကျွေးမွေးကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

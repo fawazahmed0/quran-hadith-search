@@ -710,6 +710,12 @@ A koĭto doĭde pri Nego kato vyarvasht, vŭrshil pravedni dela, za takiva sa 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ရ၅။	သို့သော်အကြင်သူတို့သည် အလ္လာဟ်အရှင်မြတ်ထံတော်သို့ ကုသိုလ်ကောင်းမှုပွားများခဲ့ပြီးသောယုံကြည်သူအဖြစ် ဖြင့် လာကြအ့ံ၊ ထိုသူအတွက် မြင့်မြတ်သောဘုံနန်းပြဿဒ်များရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကြင်သူသည် ထိုအရှင်မြတ် အထံတော်သို့ ဧကန်အမှန် ကောင်းမြတ်သောအကျင့် သီလများကိုကျင့်မူဆောက်တည်ခဲ့သော မုအ်မင်န် သက်ဝင်ယုံကြည်သူအဖြစ်ရောက်ရှိလာသည်ရှိသော် ထိုကဲ့သို့သောသူတို့အဖို့ မြင့်မြတ်လှစွာသော အဆင့်အတန်းများသည်(ရှိပေမည်)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

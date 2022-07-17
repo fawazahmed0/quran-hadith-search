@@ -710,6 +710,12 @@ Shte im izpratya podarŭk i shte vidya s kakvo shte se vŭrnat pratenitsite.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	သို့သော်မှတ်သားကြလော့၊ အကျွန်ုပ်သည် သူတို့ထံသို့ လက်ဆောင်ပဏ္ဍာဆက်သစေတော်မူမည်၊ အကျွနု်ပ်၏ သံတမန်များသည် အဘယ်စကားလက်ဆောင်နှင့် ပြန်လာသည်ကို စောင့်ကြည့်ကြစို့ဟု မိန့်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ကျွန်မမူကား ၎င်းတို့ထံ လက်ဆောင်ပဏ္ဏာတစ်စုံတစ်ခုကို ပေးပို့ပြီးနောက် စေတမန်တို့သည် မည်သို့သော ပြန်ကြားချက် ယူဆောင်လာကြသည်ကို (စောင့်၍)ကြည့်မည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

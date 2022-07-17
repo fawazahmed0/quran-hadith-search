@@ -710,6 +710,12 @@ Zatova ot·sluzhvaĭ molitvata kŭm svoya Gospod i [zhertveno zhivotno] koli
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။ သို့အတွက် သင်သည် မိမိ၏ အရှင်သခင်အား ဝတ်ပြုလော့၊ သားကောင်လှုလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်သည် မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အား ရည်သန်၍ ဆွလာတ်ဝတ်ပြုပါလေ။ ထိုမှတစ်ပါး အသင်သည် (ထိုအရှင်မြတ်အား ရည်သန်၍ သားကောင်ကို) ကုရ်ဗာနီပြုပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

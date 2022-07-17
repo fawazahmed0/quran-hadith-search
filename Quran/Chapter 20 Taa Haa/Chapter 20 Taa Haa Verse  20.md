@@ -710,6 +710,12 @@ I ya metna, i eto ya - pŭlzyashta zmiya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	ဗျာဒိတ်တော်အတိုင်း ပစ်ချလိုက်သောအခါ ၎င်းသည် လူးလိမ့်သွားလာသောမြွေမုချဖြစ်လာသည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ထိုမူစာသည် ယင်းတောင်ဝှေးကို(မြေကြီးပေါ်သို့)ပစ်ချခဲ့သောအခါ ရုတ်တရက် ယင်းတောင်ဝှေးသည် လှုပ်ရှား သွားလာနေသော မြွေတစ်ကောင် ဖြစ်နေလေေတော့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

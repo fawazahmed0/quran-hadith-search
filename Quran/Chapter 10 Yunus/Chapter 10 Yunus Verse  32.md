@@ -710,6 +710,12 @@ Tova e Allakh, vashiyat istinski Gospod. I kakvo drugo ima izvŭn istinata osven
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	သင်တို့တရားသဖြင့် အရှင်သခင်အလ္လာဟ်အရှင်မြတ်သည် ယင်းသို့တည်း။ စီရင်တော်မူ၏။ သမ္မာတရားတော် ကြီးမှ တပါးသောတရားသည် မိစ္ဆာတရားသာဖြစ်၏။ သင်တို့သည် တရားတော်ကို အဘယ်ကြောင့်ကျောခိုင်း ကြသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်လေရာ သင်တို့၏အရှင် အစစ်အမှန်သည် အလ္လာဟ်အရှင်မြတ်ပင် ဖြစ်တော်မူပေသည်။ အသင်တို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည် အစစ်အမှန်ပင်။ သို့ဖြစ်သောကြောင့် အမှန်တရား (ထင်ရှားပြီးသည်)၏နောက် အမှားမှအပ အခြားမည်သည့်အရာ ရှိလေတော့သနည်း။ သို့ပါလျက် အသင်တို့သည် အဘယ်သို့ ပြန်လှည့်၍သွားကြပါသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A koito se starayat da obezsilyat Nashite znameniya, tezi sa obitatelite na Ada
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁။	သို့သော်ငါ၏ နှုတ်ကပတ်တော်များကို ခုခံပယ်ဖျက်ရန် ကြိုးစားသူတို့မှာမူကား ငရဲမီးကို တရားသဖြင့် ပိုင်ဆိုင်သူ များဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ငါအရှင်မြတ်၏ သက်သေ လက္ခဏာတော်များနှင့်စပ်လျဉ်း၍ (နဗီတမန်တော်မြတ် အားလည်းကောင်း၊ မွတ်စ်လင်မ်တို့ အားလည်းကောင်း၊ နှိမ်နင်းရန်(ရှုံးနိမ့်စေရန်) ကြိုးပမ်း(ဆောင်ရွက်) သူတို့ကား၊ ထိုသူတို့သည်ပင်လျှင် ငရဲများဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

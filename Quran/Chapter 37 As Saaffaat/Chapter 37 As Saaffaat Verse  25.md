@@ -710,6 +710,12 @@ MA LEKUM LA TENASERUNE
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	အလ္လာဟ်အရှင်မြတ်က ဟယ်-မိစ္ဆာမိုက်အပေါင်းတို့၊ သင်တို့သည် ယခုအခါတစ်ယောက်ကို တစ်ယောက် မထောက်ပံမကယ်ဆယ်နိုင်လောက်အောင် အဘယ်အဖြစ်သို့ ဆိုက်ရောက်နေကြသနည်းဟု မေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် မည်သည့်အကြောင်းကြောင့် မိမိတို့အချင်းချင်း တစ်ဦးကိုတစ်ဦး ကူညီယိုင်းပင်းခြင်း မပြုကြပေသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

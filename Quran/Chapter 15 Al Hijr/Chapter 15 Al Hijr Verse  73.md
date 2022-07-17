@@ -710,6 +710,12 @@ I Vikŭt gi obze pri izgrev slŭntse
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၃။	နံနက်မိုးသောက်ကာလ၊ အလွန်ကြောက်မက်ထိတ်လန့်ဖွယ်သောအသံကြီးသည် သူတို့ကို ဖမ်းဆီး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ၎င်းတို့အား ကျယ်လောင်သောအသံသည် နေထွက်ချိန်တွင် ဖမ်းဆီးကွပ်မျက်ခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

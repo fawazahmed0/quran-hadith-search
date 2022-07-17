@@ -710,6 +710,12 @@ I kogato Nashite pratenitsi otidokha pri Lut, toĭ se natŭzhi za tyakh i otmal
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၇။	၎င်းအပြင် ငါအရှင်မြတ်၏ စေတမန်တော်တို့သည် တမန်တော်လွတ်ထံသို့ ရောက်ရှိသောအခါ သူသည် စိတ်ညစ်ခြင်းဒုက္ခကို ခံစားရ၏။ ဧည့်သည်တော်တို့ကို မည်သို့ကာကွယ်စောင့်ရှောက်ရမည်ကို မသိချေ။ သူက ယနေ့မူကား အလွန်စိတ်ညစ်စရာကောင်းသောနေ့ဖြစ်၏ဟု ညည်းညူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ငါအရှင်မြတ်၏ စေတမန်တော်များသည် (နဗီတမန်တော်)လူ(တ်)၏ထံသို့ ရောက်ရှိလာ ခဲ့ကြသောအခါ ထို(နဗီတမန်တော်)လူ(တ်)သည် ၎င်းတို့အတွက် ရတက်မအေးဖြစ်ခဲ့ရသည့်ပြင် ၎င်းတို့အတွက် အလွန် စိတ်ကျဉ်းကျပ်ခြင်းလည်း ဖြစ်ခဲ့လေသည်။ ထိုမှတစ်ပါး ဤနေ့သည် အလွန်ခက်ခဲသောနေ့ပင် ဖြစ်ပေသည်တကားဟု ထို(နဗီတမန်တော်)လူ(တ်)သည် ပြောဆိုမြည်တမ်းခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

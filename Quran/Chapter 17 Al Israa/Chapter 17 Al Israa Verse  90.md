@@ -710,6 +710,12 @@ I kazakha: “Ne shte ti povyarvame, dokato ne napravish da blikne za nas izvor 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉ဝ။	ထို့အပြင် သူတို့ပြောကြသည်၊ သင်သည် အကျွနု်ပ်တို့အတွက် မြေကြီးမှ စိမ့်စမ်းတစ်ခုပန်းထွက်လာစေမှသာ အကျွနု်ပ်တို့သည် သင့်အား ယုံကြည်ကြမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး၊ ၎င်းတို့က(အို-မုဟမ္မဒ်)အသင်သည်ကျွန်ုပ်တို့အဖို့ ပထဝီမြေမှစမ်းရေချောင်းတစ်ခုကို သွင်သွင်စီးထွက်လာအောင် မပြုလုပ်သမျှကာလပတ်လုံး ကျွန်ုပ်တို့သည်အသင်၏စကားကို အလျှင်းယုံကြည်လက်ခံကြမည် မဟုတ်ပါဟုပြောဆိုခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

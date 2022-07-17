@@ -710,6 +710,12 @@ Ako pozhelae, Toĭ shte vi pogubi i shte vi zameni s novo tvorenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	အကယ်၍အလ္လာဟ်အရှင်မြတ်အလိုတော်ရှိပါလျှင် သင်တို့အလုံးစုံကို ဖျက်ဆီးသိမ်းရုပ်တော်မူ၍ သင်တို့အစား လူသစ်ကို ဖန်ဆင်းနိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍ ထိုအရှင်မြတ်သည် အလိုရှိတော်မူပါလျှင် အသင်တို့အား ပယ်ရှားတော်မူ၍ အဖန်ဆင်းခံအသစ်ကို ယူလာတော်မူနိုင်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

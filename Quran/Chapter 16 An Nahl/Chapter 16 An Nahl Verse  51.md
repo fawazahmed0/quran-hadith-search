@@ -710,6 +710,12 @@ I otredi Allakh: “Ne priemaĭte dva boga! Edin e Bog. Ot Men se boĭte, samo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁။	အလ္လာဟ်အရှင်မြတ်က သင်တို့သည် အရှင်သခင်နှစ်ဆူမရှာကြလင့်။ အရှင်သခင်တဆူတည်းသာလျှင် ရှိတော် မူ၏။ ထို့ကြောင့်ငါ့ကိုသာလျှင် ကြောက်ရွံ့ရိုကျိုးကြလော့ဟု ဗျာဒိတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် အလ္လာဟ်အရှင်မြတ်က (ဝေနေယျသတ္တဝါအပေါင်းတို့အား နဗီတမန်တော်များမှတစ်ဆင့်) အသင်တို့သည် ကိုးကွယ်ရာအရှင်နှစ်ပါး(ရှိသည်ဟု ယူဆကိုးကွယ်ခြင်း) မပြုကြကုန်လင့်။ ထိုကိုးကွယ်ရာ အရှင်ကား တစ်ဆူတည်းသာလျှင် ဖြစ်တော်မူပေသည်။ သို့ဖြစ်ပေရာ အသင်တို့သည် ငါအရှင်မြတ်အားသာလျှင် ကြောက်ရွံ့ကြလေကုန်ဟု(အမိန့်တော်ထုတ်ပြန်) မိန့်ကြားတော်မူခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

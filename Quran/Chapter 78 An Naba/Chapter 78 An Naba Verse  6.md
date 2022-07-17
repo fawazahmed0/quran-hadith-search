@@ -710,6 +710,12 @@ Ne storikhme li Nie zemyata postelya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။ ငါသည် ကမ္ဘာမြေကြီးကို ကျယ်ဝန်းစွာ ဖန်ဆင်းထားတော်မူသည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (စင်စစ် ကိယာမတ်မဖြစ်နိုင်ဟု ငြင်းပယ်ခြင်းသည် ငါအရှင်မြတ်၏ တန်ခိုးတော်ကို ငြင်းပယ် စော်ကားခြင်းသာ ဖြစ်ပေသည်။ ငါအရှင်မြတ်၏ ထူးကဲ ဆန်းပြားလှစွာသော တန်ခိုးတော်ကို ၎င်းတို့သည် မတွေ့ကြလေသလော၊)ငါအရှင်မြတ်သည်သာလျှင် ပထဝီမြေကို (လူသတ္တဝါ အပေါင်းတို့၏အကျိုးငှာ) အခင်း ပြုလုပ်တော်မူခဲ့သည် မဟုတ်လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

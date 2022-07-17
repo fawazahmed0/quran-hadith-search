@@ -710,6 +710,12 @@ I gi stori na otlomki, osven naĭ-golemiya ot tyakh, za da se obŭrnat kŭm neg
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈။	ထိုအခါသူသည် ရုပ်ပွားအကြီးဆုံးမှတပါး အခြားသောရုပ်ပွားများကို အစိတ်စိတ်အပိုင်းပိုင်းချိုးဖဲ့ဖျက်ဆီး၏၊ ထိုသို့ပြုခြင်းမှာ သူတို့သည် ရုပ်ပွားများထံ ပြန်ကောင်းပြန်လိမ့်မည်ဖြစ်သောကြောင့်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ထိုအိဗ်ရာဟီမ်သည် ယင်းရုပ်ပွားဆင်းတုတော်များကို အစိတ်စိတ်အပိုင်းပိုင်းဖြစ်အောင် ပြုလုပ်ခဲ့လေသည်။ သို့ရာတွင် ယင်းတို့အနက် အကြီးဆုံးကိုမူကား ချန်၍ထားခဲ့လေ၏။ သို့မှသာလျှင် ၎င်းတို့သည် ထိုတမန်တော်အိဗ်ရာဟီမ်ထံသို့ (စုံစမ်းရန်) ပြန်လာကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

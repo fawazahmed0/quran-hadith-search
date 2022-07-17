@@ -710,6 +710,12 @@ I onezi predi tyakh smyatakha, che e lŭzha, a tezi ne dostignakha i edna deseta
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	ထိုသူတို့ထက် ရှေးကျသောသူတို့လည်း တရားတော်ကို မယုံကြည်ငြင်းဆန်ကြ၏၊ ဤလူများသည် ရှေး လူဟောင်းတို့အား ငါအရှင်မြတ်ပေးသနားတော်မူသောစည်းစိမ်ဥစ္စာဆယ်ပုံတစ်ပုံမျှသော စီးပွားဥစ္စာမရတတ် သေးချေ၊ သို့ငြားသော်လည်းသူတို့သည် ငါအရှင်မြတ်၏ တမန်တော်များကို မယုံကြည်မထီမဲ့မြင်ပြုကြ၏၊ ထို့ကြောင့်ငါသည် သူတို့အား အလွန်စက်ဆုတ်ရွံရှာတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့အလျင် ရှိခဲ့ကြသောသူများသည်လည်းမဟုတ်မမှန်ဟူ၍ စွပ်စွဲ ငြင်းပယ်ခဲ့ကြကုန်၏။ စင်စစ် ဤ(လက်ရှိ)သူတို့မှာ ထို(ရှေး)သူတို့အား ငါအရှင်မြတ် ချီးမြှင့်ပေးသနားတော်မူခဲ့သည့် (စည်းစိမ်ချမ်းသာ)၏ ဆယ်ပုံတစ်ပုံကိုမျှရရှိကြသည် မဟုတ်ပေ။ မည်သို့ ပင်ဖြစ်စေ၊ ထို(ရှေး)သူတို့သည်ငါအရှင်မြတ်၏ ရစူလ်တမန်တော်များအား မုသာဝါဒီများဟူ၍စွပ်စွဲ ငြင်းပယ်ခဲ့ကြပေရာ ငါအရှင်မြတ်၏ ပြစ်ဒဏ်သည် ကားမည်သို့ရှိခဲ့ချေသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I vsichki angeli se poklonikha zaedno
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	ထို့ကြောင့် ကောင်းကင်တမန်တော်အပေါင်းတို့သည် လူသားကို ဦးခေါင်းဝပ်လျှိုးရှိခိုးပူဇော်ကြကုန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ မလာအိကဟ်ကောင်းကင်တမန်အပေါင်းတို့သည် အားလုံးပင် အသီးသီး စဂျ်ဒဟ် ပျပ်ဝပ်ဦးချခဲ့လေကြသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

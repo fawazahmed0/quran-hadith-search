@@ -710,6 +710,12 @@ I kakvo be Moeto mŭchenie i Moeto preduprezhdenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	အို-လူသားတို့၊ ငါ၏ သတိပေးတရားတော်များရောက်လာပြီးသည့်နောက် ငါ၏ အပြစ်ဒဏ်တော်သည် မည်ရွေ့ မည်မျှကြောက်မက်ဖွယ်ကောင်းသည်ကို ကြည့်ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ငါအရှင်မြတ်၏ ပြစ်ဒဏ်သည်လည်းကောင်း၊ ငါအရှင်မြတ်၏ သတိပေးနှိုးဆော်မှု များသည်လည်းကောင်း၊ မည်သို့မည်ပုံ ရှိခဲ့သည်ကို (ဆင်ခြင်သုံးသပ်ကြလေကုန်)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

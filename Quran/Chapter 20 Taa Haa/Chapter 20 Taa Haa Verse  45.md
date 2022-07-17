@@ -710,6 +710,12 @@ Kazakha: “Gospodi, strakhuvame se da ne izbŭrza s nakazanieto ili da ne prest
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	ထိုအခါသူတို့က အို--အကျွနု်ပ်တို့၏အရှင်သခင်၊ သူသည် အကျွနု်ပ်တို့အား မာနထောင်လွှားမည်ကို သော် လည်းကောင်း၊ အာဏာရှင်ကဲ့သို့မတရားကျင့်ကြံမည်ကိုသော်လည်းကောင်း၊ အကျွနု်ပ်တို့စိုးရိမ်ပါ၏ဟု လျှောက် တင်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ယင်း(မူစာနှင့်ဟာရူန်)တို့နှစ်ဦးကအို-ကျွန်တော်မျိုးတို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ ဧကန်အမှန် ကျွန်တော်မျိုးတို့သည် မိမိတို့အားယင်းဖိရ်အောင်(န်)က ကြိုတင်(စတင်) ဒုက္ခပေးမည်ကိုလည်းကောင်း၊ယင်းသည် ပိုမို၍ပင် ဆိုးသွမ်းလာမည်ကိုလည်းကောင်း၊ စိုးရိမ်မိကြပါသည်ဟု လျှောက်ထား ပန်ကြားခဲ့ကြလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Allakh ne proshtava da se sŭdruzhava s Nego, no osven tova proshtava na kogoto 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၆။	မှတ်သားကြလော့။ အလ္လာဟ်အသျှင်မြတ်သည် အသျှင်မြတ်အား ဖက်စပ်ပေးမှုကို အပြစ်လွှတ်တော် မမူချေ။ ထိုပြစ်မှုမှတစ်ပါး အခြားပြစ်မှုများကို အလိုတော်ရှိသူအား ခွင့်လွှတ်တော်မူ၏။ အကြင်သူ သည် အလ္လာဟ်အသျှင်မြတ်အား ဖက်စပ်သူများပေးအံ့။ ထိုသူသည် တရားလမ်းကြောင်းမှဝေးစွာ တိမ်းစောင်းသွားသူဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မုချဧကန် အလ္လာဟ်အရှင်မြတ်သည် (အခြားတစ်စုံတစ်ရာကို) မိမိနှင့် တွဲဘက်ယှဉ်ပြိုင်ကိုးကွယ်ခြင်းကို အလျင်း ချမ်းသာခွင့်ပေးတော်မူမည်မဟုတ်ပေ။ သို့ရာတွင် ထိုမှတစ်ပါး အခြားအပြစ်ကိုမူ မိမိအလိုရှိတော်မူသူအား ခွင့်လွှတ်တော်မူပေမည်။ အမှန်စင်စစ်သော်ကား မည်သူမဆို (တစ်စုံတစ်ရာကို) အလ္လာဟ်အရှင်မြတ်နှင့် တွဲဖက် (ယှဉ်ပြိုင်ကိုးကွယ်) ပါမူ၊ ထိုသူသည် မလွဲဧကန် (မှန်ကန်သောတရားလမ်းတော်မှ) အလွန်ကမ်းလှမ်းဝေးကွာသော လမ်းမှားသို့ရောက်ရှိချေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

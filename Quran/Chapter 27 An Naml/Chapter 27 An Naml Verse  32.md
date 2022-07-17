@@ -710,6 +710,12 @@ Reche tya: “O, znatni, posŭvetvaĭte me v deloto mi! Ne sŭm reshila nikoe d
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	ရှင်ဘုရင်မက အို-အမတ်မင်းတို့၊ သင်တို့သည် အကျွနု်ပ်အား ဤအရေးအရာတွင် အကြံဉာာဏ်ပေးကြလော့၊ သင်တို့သည် အကျွနု်ပ်နှင့်အတူတကွမရှိပဲ မည်သည့်ကိစ္စကိုမျှ အကျွနု်ပ်သည် မဆုံးဖြတ်ဖူးချေဟု မိန့်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(ရှီဗာဘုရင်မ)က အို-မှူးမတ်အပေါင်းတို့။အသင်တို့သည် ကျွန်မ၏အရေးနှင့်စပ်လျဉ်း၍ ကျွန်မအား အကြံဉာဏ်ပေးကြလေကုန်။ အသင်တို့သည် ကျွန်မ၏အပါး၌ မရှိသမျှကာလပတ်လုံး ကျွန်မသည် မည်သည့်ကိစ္စကိုမျှပင် စီရင်ဆုံးဖြတ်လေ့မရှိပါဟု ပြောကြားခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

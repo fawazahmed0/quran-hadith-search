@@ -710,6 +710,12 @@ I sjeti se kada si poranio, porodicu svoju ostavio, da vjernicima odrediš mjest
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၁။	ထို့ပြင် နံနက်မိုးသောက်သောအခါ၌ သင်သည် မိမိအိမ်သူ၊ အိမ်သားတို့ထံမှ စစ်တိုက်ရန်အတွက် ယုံကြည်သူတို့အား နေထားကျနစွာချထားဘို့ရန် ထွက်သွားသောအခါ အလ္လာဟ်အသျှင်မြတ်သည် အရာရာကို အကြွင်းမဲ့ ကြားသိမြင်တော်မူသောအသျှင်ဖြစ်သည်ကို သင်မှတ်သားလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အခါတစ်ပါး၌ အသင်သည် မိမိအိမ်သူ အိမ်သားများထံမှ (စစ်မက်ပြိုင်ဆိုင်ရန် အလို့ငှာ အုဟုဒ်တောင်ခြေသို့) နံနက် စောစော ထွက်ခဲ့၍ တပ်စွဲရန်နေရာများတွင် မုအ်မာန် ယုံကြည်ခြင်း သဒ္ဓါတရားထားရှိသော သူတို့အား နေရာချပေးလျက် ရှိခဲ့သည် (ကို အသင်သည်ပြန်လည်၍ သတိရှိပါလေ)။ စင်စစ် အလ္လာဟ်အရှင်မြတ်သည်(ထိုအခါ က အသင်တို့နှင့် တကွ အသင်တို့၏ ရန်သူများပြောဆိုကြသော စကားအရပ်ရပ်တို့ကို) အကြွင်းမဲ့ ကြားသိတော်မူသောအရှင်။ (အသင်တို့နှင့်တကွ အသင့်တို့၏ရန်သူများ၏ အဖြစ်အပျက်အခြေအနေ အလုံးစုံတို့ကို) အကြွင်းမဲ့သိရှိတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

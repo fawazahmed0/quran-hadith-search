@@ -710,6 +710,12 @@ I ne rushete po zemyata, sled kato e v poryadŭk! I Go zovete sŭs strakh i kopn
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၆။	ကမ္ဘာမြေကြီးကို သင့်တင်လျှောက်ပတ်အောင် စီရင်ထားတော်မူပြီးသည့်နောက် သင်တို့သည် ပထဝီမြေပေါ်တွင် ရှုတ်ထွေးပွေလီအောင် မကျင့်ကြံလင့်။ အသျှင်မြတ်အား ကြောက်ရွံ့ခြင်းနှင့် မျှော်ကိုးခြင်းအားဖြင့် တသကြလော့။ မှတ်သားကြလော့။ အလ္လာဟ်အသျှင်မြတ်၏ ကောင်းကြီး မင်္ဂလာတော်သည် သူတော်စင်၊ သူတော်ကောင်းတို့နှင့် နီးကပ်စွာရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်တို့သည် ကမ္ဘာမြေပြင်ကို တင့်တယ်ကောင်းမွန်အောင် ပြုလုပ်ပြီးသည့်နောက် ထိုကမ္ဘာမြေပြင်၌ ပျက်စီးရာပျက်စီးကြောင်းကို မပြုလုပ်ကြကုန်လင့်။ ထို့ပြင်အသင်တို့သည် ထိုအရှင်မြတ်ကို ကြောက်ရွံ့စွာဖြင့်လည်းကောင်း၊ မျှော်လင့်ချက်ထားကာ ဟစ်ခေါ်ကြလေကုန်။ စင်စစ်ဧကန် အလ္လာဟ်အရှင်မြတ်၏ကရုဏာတော်သည်ကားကောင်းမှု ပြုသူတို့နှင့် အလွန်နီးကပ်လျက်ရှိပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

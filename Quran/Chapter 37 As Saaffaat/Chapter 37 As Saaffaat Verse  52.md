@@ -710,6 +710,12 @@ koĭto kazvashe: “Nima naistina si ot povyarvalite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁၊၅၂၊၅၃။ ထို့အပြင်သူတို့အနက် တစ်ပါးက တရားသံပြောဆိုသည်မှာ အဆွေတို့၊ ငါ့မှာ အဆွေခင်ပွန်းတစ်ယောက်ရှိ၏၊ သင်သည် တမန်တော်၏ တရားဒေသနာကို အမှန်ယုံကြည်သူများအနက် တစ်ဦးဖြစ်သလောဟု သူသည် ငါ့အား မေးလေ့ရှိ၏၊ ငါတို့သည် သေကြေပျက်စီး၍ မြေမှုန့်နှင့် အရိုးများသာဖြစ်သောအခါ တဖန်ရှင်ပြန်ထ မြောက်နိုင်ပါဦးမည်လောဟု သူက ဆက်လက်မေးလေ့ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအဖော်သည် ကျွန်ုပ်အား ပြောဆို(မေးမြန်း)လေ့ရှိ၏။ အသင်သည်လည်း ("ကိယာမတ်" ရှင်ပြန်ထမည့်နေ့ကို) ယုံကြည်ထောက်ခံသူတစ်ဦး ဖြစ်လေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

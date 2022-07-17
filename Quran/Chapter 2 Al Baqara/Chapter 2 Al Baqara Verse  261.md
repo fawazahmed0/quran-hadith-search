@@ -710,6 +710,12 @@ Khorata, koito razdavat svoite imoti po pŭtya na Allakh, prilichat na zŭrno, r
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆၁။	အလ္လာဟ်အရှင်မြတ်၏လမ်းတော်ဝယ် မိမိဥစ္စာပစ္စည်းများကို သုံးစွဲသောသူတို့၏ ဥပမာကား စပါးစေ့ တစ်စေ့မှ စပါးနှံ ဆယ်နှံပေါက်၍ တစ်နှံတွင် စပါးစေတစ်ရာသီးသော မျိုးစပါးစေ့နှင့်တူ၏။ အလ္လာဟ် အရှင်မြတ်သည် အလိုတော်ရှိသူအား ဥစ္စာပစ္စည်းဆပေါင်းများစွာ တိုးပွားစေတော်မူ၏။ အလ္လာဟ် အရှင်မြတ်သည် အရာခပ်သိမ်းကုန်တို့ကို ဂရုစိုက်တော်မူသောအရှင်၊ သိမြင်တော်မူသော အရှင် ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မိမိတို့၏ ဥစ္စာပစ္စည်းများကို အလ္လာဟ်အရှင်မြတ်၏လမ်းတော်၌ ပေးကမ်းလှူဒါန်း သုံးစွဲသူတို့၏ (အလှူပစ္စည်းများသည်) အကြင်မျိုးစေ့ နှင့်အလားတူ၏။ ယင်းမျိုးစေ့သည် ကောက်နှံခုနှစ်နှံကို ပေါက်ရောက်စေ၏။ ထိုကောက်နှံအသီးသီးတို့တွင် အစေ့ပေါင်း တစ်ရာစီပါရှိလေသည်။ စင်စစ်မူကား အလ္လာဟ်အရှင်မြတ်သည် မိမိနှစ်လိုတော်မူသော သူတို့အဖို့ (ယင်းကဲ့သို့ပင်) ဆထက်ထမ်းပိုး တိုးပွားစေတော်မူလေသည်။ အကြောင်းသော်ကား အလ္လာဟ်အရှင်မြတ်သည် ရက်ရောစွာ ပေးသနားတော်မူသောအရှင်၊ အရာခပ်သိမ်း တို့ကိုအြွကင်းမရှိ သိတော်မူသောအရှင် ဖြစ်တော်မူလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

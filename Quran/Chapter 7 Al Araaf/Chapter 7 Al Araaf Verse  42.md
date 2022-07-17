@@ -710,6 +710,12 @@ A koito vyarvat i vŭrshat pravedni dela - na vsyaka dusha vŭzlagame samo po si
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	သို့သော် အကြင်သူတို့သည် မယုံကြည်လျက် သုစရိုက်ကောင်းမှုများကို ပြုကျင့်ကြ၏။ ငါအသျှင် မြတ်သည် မည်သည့်ဝိညာဉ်ကိုမှ မိမိ၏အင်အားနှင့် မမျှတသောတာဝန်ကို ပေးတော်မမူပေ။ ထိုသူတို့သည် သုခဥယျာဉ်တော်ကို တရားသဖြင့် ပိုင်ဆိုင်သူများဖြစ်ကြ၏။ ထိုသူတို့သည် ထိုဥယျာဉ်တော်၌ နေထိုင်စံမြန်းကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကြင်သူတို့သည် သက်ဝင်ယုံကြည်ကြ၏။ ၎င်းပြင် ကောင်းမြတ်သော အကျင့် သီလများကိုလည်းဆောက်တည်ကြကုန်၏။ (အမှန်သော်ကား) ငါအရှင်မြတ်သည်မည်သူ့ကိုမဆို ၎င်း ၏အင်အားနှင့် အမျှသာလျှင် တာဝန်ပေးတော်မူ၏။ ထိုသူတို့သည်ပင်လျှင် ဂျန္နတ်အမတ သုခဘုံသားများဖြစ်ကြကုန်၏။ ထိုသူတို့သည် ယင်းဂျန္နသ်အမတသုခဘုံ၌ပင် ထာဝစဉ် နေထိုင်စံမြန်းကြလတ္တံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

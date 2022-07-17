@@ -710,6 +710,12 @@ A za nevernitsite e Ogŭnyat na Ada. Tam ne shte im bŭde sŭdeno da umrat, nito
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	သို့သော်မယုံကြည်သူမိစ္ဆာမိုက်တို့မှာမူကား သူတို့အတွက် ငရဲမီးအသင့်ရှိ၏၊ ထိုမီးသည် သူတို့ကို သေဆုံးအောင် လောင်သည်မဟုတ်၊ ထိုမီး၏ ညှင်းပန်းနှိပ်စက်ခြင်းကို စိုးစဉ်းမျှလျှော့မည်မဟုတ်၊ ဤနည်းအတိုင်းငါအရှင်မြတ် သည် ကျေးဇူးကန်းသူတို့အား အပြစ်ဒဏ်ခပ်နှိပ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင်ကာဖိရ်သွေဖည်ငြင်းပယ်သူတို့ အဖို့ဂျဟန္နမ် ငရဲဘုံ၏ မီးသည်ရှိပေမည်။ ၎င်းတို့အပေါ်၌ ၎င်းတို့သေဆုံးနိုင်ကြအံ့သောငှာ အမိန့်တော်ပြဋ္ဌာန်းခြင်း ခံရမည်လည်း မဟုတ်ပေ။ ယင်းငရဲဘုံ၏ပြစ်ဒဏ်သည် ၎င်းတို့မှပေါ့လျော့စေခြင်းခံရမည်လည်းမဟုတ်ပေ။ ငါအရှင်မြတ်သည် ဤနည်းအတိုင်းပင် သွေဖည်သူတိုင်းကို အစားပေး တော်မူသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

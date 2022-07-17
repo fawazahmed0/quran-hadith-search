@@ -710,6 +710,12 @@ plodove. I shte sa udostoeni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂၊၄၃။	သစ်သီးဝလံများ၊ ထို့အပြင်သူတို့သည် သုခဥယျာဉ်တော်များ၌ ဂုဏ်ပြုခြင်း၊ ချီးမြှင့်ခြင်းခံရကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သစ်သီးဝလံများပင်၊ ထိုမှတစ်ပါး ၎င်းတို့သည် ဂုဏ်အင် ချီးမြှင့်ခံကြရသူများ ဖြစ်ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

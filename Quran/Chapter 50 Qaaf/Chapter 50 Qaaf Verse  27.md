@@ -710,6 +710,12 @@ Sŭpŭt·stvaliyat go [satana] shte kazhe: “Gospodi nash, ne az go nakarakh da
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	ထိုအခါ ဤသူယုတ်မာ၏ အဖော်က တင်လျှောက်သည်မှာ အို-အကျွနု်ပ်တို့၏ အသက်သခင်ကျေးဇူးရှင်၊ အကျွနု်ပ်သည် သူ့အား ထောင်ထားခြားနားရန် သွေးမဆောင်ခဲ့ပါ၊ သို့သော်သူသည် မိမိအလိုအလျောက် လမ်းမှားတွင် ခရီးကျွံနေခဲ့ပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်း၏အဖော်(ရှိုင်တွာန် မိစ္ဆာကောင်)ကပြောဆို(လျှောက်ထား)ပေမည်။ အို-ကျွန်တော်မျိုးတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၊ ကျွန်တော်မျိုးသည် ၎င်းအား ဆိုးသွမ်းမိုက်ကန်းစေခဲ့သည် မဟုတ်ပါ။ စင်စစ်မှာ ၎င်းကိုယ်တိုင်သည်ပင်လျှင် ဝေးလံစွာသော လမ်းမှားမှု၌ ရှိနေခဲ့ပါသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

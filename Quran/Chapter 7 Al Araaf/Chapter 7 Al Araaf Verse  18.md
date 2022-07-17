@@ -710,6 +710,12 @@ Reche: “Izlez ot nego poritsan, prokuden! Koĭto izmezhdu tyakh te posledva -
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	အသျှင်မြတ်က သင်သည် ဤမှထွက်သွားလော့။ သင်သည် ဂုဏ်သရေပျက်ပြားခြင်းခံရပြီး၊ ပြည်နှင်ဒဏ်လည်းခံရပြီး သင်၏နောက်သို့လိုက်သောသူများမူကား ငါသည် အဝီစိငရဲကို သင်တို့ အားလုံးနှင့် မုချဖြည့်တော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ)ထိုအရှင်မြတ်က(ဤသို့)မိန့်ကြားတော်မူခဲ့လေသည်။ (ဟယ်-အစ်ဗ်လီးစ်) အသင်သည် ထို(ဂျန္နတ်အမတသုခဘုံ)မှ ဂုဏ်သရေသိမ်ဖျင်းစွာ နှင်ထုတ်ခြင်းခံရသူအဖြစ် ထွက်သွားလော့။ အမှန်စင်စစ်၊ ၎င်းတို့အနက် မည်သူမဆိုအသင်၏နောက်ကိုလိုက်ခဲ့ပါမူ ငါအရှင်မြတ်သည် ဂျဟန္နမ်ငရဲဘုံကို မလွဲဧကန် အသင်တို့အားလုံးဖြင့် ဖြည့်တော်မူအံ့။[အသင်ထိုမှထွက်လေ ဆိုလိုသည်ကား အသင်သည် ဂျန္နတ်မှထွက်လေ။ သို့မဟုတ် အသင်သည် အလ္လာဟ်အရှင်မြတ်နှင့်ထိုအရှင်မြတ်၏ ကောင်းကင်တမန်များ၏ ကဲ့ရဲ့ပြစ်တင်ရှုတ်ချခြင်းခံရသူအဖြစ်’ဂျန္နတ်’မှ အနှင်ခံရသူအဖြစ်နှင့် ထွက်လေ။ဆိုလိုသည်ကား အခြားမုခပါဌ်တော်များတွင် ပါရှိသည့်အတိုင်း’အစ်ဗ်လစ်’ သည် အလ္လာဟ်အရှင်မြတ်၏ ကရုဏာတော်မှကင်းဝေးခဲ့ရသည်။ အပါးတော်မှ အနှင်ခံခဲ့ရသည်ဟူ၏။]
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

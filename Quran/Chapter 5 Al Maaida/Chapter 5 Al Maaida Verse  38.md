@@ -710,6 +710,12 @@ A na kradetsa, mŭzh ili zhena, ot·sichaĭte rŭtsete kato nakazanie za onova,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	သူခိုးမှာမူကား ယောကျ်ားဖြစ်စေ၊ မိန်းမဖြစ်စေ သူတို့၏လက်များကို ဖြတ်ပစ်ကြလော့။ ဤအပြစ် ဒဏ်သည် သူတို့ပြုလုပ်မှု၏ အကျိုးဆုလာဘ်ဖြစ်၏။ အလ္လာဟ်အသျှင်မြတ်အထံတော်မှ လူသား အများ မှတ်လောက်သော ပြစ်ဒဏ်တော်ဖြစ်၏။ အသျှင်မြတ်သည် အနန္တဘုန်းတန်ခိုးတော်သခင်၊ အနန္တဉာဏ်တော်ရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းအပြင် (အို- တရားသူကြီးအပေါင်းတို့) ခိုးသူယောက်ျားပင်ဖြစ်စေ၊ ခိုးသူမိန်းမပင်ဖြစ်စေ၊ အသင်တို့သည် ၎င်းတို့နှစ်ဦးလုံး၏လက်များကို ဖြတ်တောက်ကြလေကုန်။ (ဤသည်) ထိုသူတို့နှစ်ဦး ပြုမူခဲ့ကြသော ပြုမူချက်၏ ပြစ်ဒဏ်လည်းဖြစ်၏။ အလ္လာဟ်အရှင်မြတ်အထံတော်မှ (အခြားသူများ) သတိသံဝေဂရစေရန် ဆုံးမချက်တစ်ရပ်လည်းဖြစ်၏။ အမှန်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် တန်ခိုးအာနုဘော်နှင့် ပြည့်စုံတော်မူသောအရှင်၊ ဉာဏ်အမြော်အမြင်နှင့်ပြည့်စုံတော်မူသော အရှင်မြတ်ပင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

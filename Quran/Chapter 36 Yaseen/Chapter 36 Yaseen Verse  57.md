@@ -710,6 +710,12 @@ Tam shte imat plodove i shte imat, kakvoto pozhelayat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၇။	ထိုဥယျာဉ်တော်တွင် သူတို့မှီဝဲစားသုံးရန်အတွက် သစ်သီးသစ်ဥအမျိုးမျိုးရှိလတ့ံ၊ သူတို့သည် မိမိလိုရာဟူသမျှကို ရရှိကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့အဖို့ ယင်း"ဂျန္နတ်" သုခဘုံ၌ (အမျိုးမျိုးသော) သစ်သီးဝလံများလည်း ရှိကြပေမည်။ ၎င်းတို့အဖို့ ၎င်းတို့တောင်းသမျှသော အရာများလည်း ရှိကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

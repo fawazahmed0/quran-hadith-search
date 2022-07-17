@@ -710,6 +710,12 @@ Da, Nego shte zovete i Toĭ shte premakhne onova, za koeto zovete, ako e pozhel
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	ယင်းသို့မဟုတ်ပေ။ သင်တို့သည် အလ္ဇာဟ်အသျှင်မြတ်အထံတော်၌သာလျှင် ဆုပန်ထွာကြ၏။ အလိုတော်ရှိပါလျှင် သင်တို့ဆုတောင်းသည့်အတိုင်း ပြုတော်မူ၏။ ထိုအခါ အသင်တို့သည် အသျှင်မြတ်နှင့် တွဲဖက်ထားသောအရာများကို မေ့လျော့ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤသို့) အလျင်းမဟုတ်ပေ၊ အမှန်စင်စစ်သော်ကား(ယင်းကဲ့သို့သောအချိန်အခါမျိုးတွင်)အသင်တို့သည်အထူးသဖြင့်(တစ်ဆူတည်းသော)ထိုအရှင်မြတ်ကိုသာလျှင် ဟစ်ခေါ်ကြပေမည်။ ၎င်း နောက် ထိုအရှင်မြတ်သည် မိမိအလိုတော်ရှိခဲ့ပါလျှင်၊ အကြင်(ဘေးအန္တရာယ်)ကိုလည်း ဖယ်ရှားတော်မူအံ့၊ထိုအရာ (ဘေးအန္တရာယ်ကိုဖယ်ရှားရန်)အတွက် အသင်တို့သည် (ထိုအရှင်မြတ်ကို) ဟစ်ခေါ်ကြကုန်၏။ ၎င်းပြင်(ထိုအခါဝယ်) အသင်တို့သည်လည်း မိမိတို့ (ယခု)တွဲဖက်(ကိုးကွယ်နေ)ကြကုန်သော အရာများကို မေ့ပျောက်သွားကြလတ္တံ့။ (ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

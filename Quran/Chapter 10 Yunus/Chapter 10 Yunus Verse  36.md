@@ -710,6 +710,12 @@ Povecheto ot tyakh sledvat samo dogadki. Dogadkata s nishto ne zamestva istinata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	သူတို့အနက် များစွာသောသူတို့သည် ရမ်းဆခြင်းမှတပါး မည်သည်ကိုမျှမလိုက်ကြပေ။ ရမ်းဆခြင်းသည် သစ္စာတရား၏ နေရာမုချဧကန်မယူနိုင်ချေ၊ မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့ပြုကျင့်သမျှ အပေါင်းတို့ကို အကြွင်းမဲ့သိမြင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ၎င်း တို့အနက် အများဆုံးသောသူတို့ သည်(မိမိတို့၏) ထင်မြင်ယူဆချက်ကိုသာ လိုက်နာ ကြကုန်၏။အမှန်စင်စစ်သော်ကား ထင်မြင်ချက်သည် အမှန်နှင့်ဆန့်ကျင်၍ အနည်းငယ်စိုးစဉ်းမျှပင်အကျိုးပေးသည်မဟုတ်ပေ။ ဧကန်အမှန် အလ္လာဟ်အရှင်မြတ်သည် ၎င်း တို့ပြုမူလျက်ရှိသည်တို့ကိုအကြွင်းမဲ့ သိရှိတော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

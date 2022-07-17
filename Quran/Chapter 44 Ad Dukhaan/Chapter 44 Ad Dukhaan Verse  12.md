@@ -710,6 +710,12 @@ Gospodaru naš, otkloni patnju od nas, mi ćemo, sigurno, vjerovati!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	ထိုအခါမယုံကြည်သူတို့က ဟစ်အော်လျှောက်တင်ကြမည်မှာ အို-အကျွနု်ပ်တို့၏ အသက်သခင်ကျေးဇူးရှင်၊ အကျွန်ုပ်တို့ကို အပြစ်ဒဏ်တော်မှ ကယ်နှုတ်တော်မူပါ၊ အကျွနု်ပ်တို့သည် ယုံကြည်သူအမှန်ပင်ဖြစ်ကြပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုရောကာလ ၎င်းတို့သည် ဤသို့လျှောက်ထားပေမည်)။ အို-ကျွန်တော်မျိုးတို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်၊ အရှင်မြတ်သည် ပြစ်ဒဏ်ကို ကျွန်တော်မျိုးမှ ဖယ်ရှား၍ ပေးသနားတော်မူပါ။ ဧကန်မလွဲ ကျွန်တော်မျိုးတို့သည် သက်ဝင်ယုံကြည် ကြပါတော့မည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

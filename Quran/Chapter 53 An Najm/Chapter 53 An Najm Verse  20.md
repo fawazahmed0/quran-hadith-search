@@ -710,6 +710,12 @@ i sŭshto - tretoto [bozhestvo] Manat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	ထို့အပြင် မနတ်ခေါ်တတိယမြောက်ဘုရားတုအကြောင်းကိုလည်း စဉ်းစားဆင်ခြင်ပြီးပြီလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အခြား တတိယမြောက်ဖြစ်သော ‘မနားတ်’နှင့်စပ်လျဉ်း၍လည်းကောင်း၊ ဆင်ခြင်သုံးသပ်ခြင်းကို ပြုခဲ့ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

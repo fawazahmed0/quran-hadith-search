@@ -710,6 +710,12 @@ I minavat [nevernitsite] kraĭ selishteto, nad koeto be izsipan bedstveniyat d�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄ဝ။	ထို့အပြင်သူတို့သည် ကျောက်စရစ်မိုး၊ ကျောက်ခဲမိုးများအလွန်ကြောက်မက်ဖွယ်ရွာသွန်းသော ရှေးမယုံကြည် သူတို့ နေရာအရပ်ရပ်သို့ အထပ်ထပ်အဖန်ဖန်ဖြတ်သန်းသွားလာကြဖူး၏၊ သူတို့သည် ထိုပျက်စီးယိုယွင်းသော နေရာတို့ကို မမြင်ပဲ ရှိနိုင်မည်လား၊ ယင်းသို့မဖြစ်နိုင်ချေ၊ သို့သော်သူတို့သည် ရှင်ပြန်ထမြောက်ရမည်ကို မမျှော်လင့်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ၎င်းတို့သည်(မက္ကာမြို့သား ကာဖိရ်များသည်) အလွန်ဆိုးရွားသော မိုးရွာသွန်းစေခြင်းကို ခံခဲ့ရသောမြို့ရွာသို့ ဧကန်အမှန် ရောက်ရှိခဲ့ကြကုန်၏။ သို့ပါလျက် ၎င်းတို့သည် ယင်း(ပြစ်ဒဏ်၏အမှတ်လက္ခဏာများ)ကို မမြင်ခဲ့ကြလေသလော။ ထိုသို့ အလျှင်းမဟုတ်။ စင်စစ်မှာမူကား ၎င်းတို့သည် ရှင်ပြန်ထခြင်းကို ဖြစ်ရန်လက္ခဏာရှိသည် ဟူ၍ပင် မမျှော်လင့်ကြပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

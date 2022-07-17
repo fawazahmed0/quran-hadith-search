@@ -710,6 +710,12 @@ I ot Negovite znameniya e sŭnyat vi noshtem i denem i stremezhŭt vi kŭm Negov
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	တဖန်အလ္လာဟ်အရှင်မြတ်၏ တန်ခိုးတော်အ့ံဖွယ်တော်များအနက် တစ်ပါးမှာ သင်တို့သည် နေ့နှင့် ညတွင် အိပ်စက်အမောအပန်းဖြေခြင်းနှင့် အရှင်မြတ်၏ ရိက္ခာကျေးဇူးတော်ကို ရှာမီးခြင်းတို့ဖြစ်ကြ၏၊ မှတ်သားကြလော့၊ ဤအချင်းအရာတွင် တရားတော်ကို လေးစားသူတို့အဖို့အရာ နိမိတ်လက္ခဏာတော်ကြီးများအမှန်ပါရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုအရှင်မြတ်၏ သက်သေလက္ခဏာတော်များအနက်မှပင် ညနှင့်နေ့၌ အသင်တို့အိပ်စက်ခြင်းသည်လည်းကောင်း၊ ထိုအရှင်မြတ်၏ ကျေးဇူးတည်းဟူသော စားနပ်ရိက္ခာကို အသင်တို့ ဆည်းပူး ရှာဖွေခြင်းသည်လည်းကောင်း၊ ဧကန်မုချ ဤသည်၌ ကြားနာသူတို့အဖို့ အမှန်ပင် သက် သေလက္ခဏာများသည် ရှိကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

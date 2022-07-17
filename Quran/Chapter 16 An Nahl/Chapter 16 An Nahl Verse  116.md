@@ -710,6 +710,12 @@ I ne izrichaĭte lŭzhata, koyato ezitsite vi opisvat: “Tova e pozvoleno, a t
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၆။	လူသားအပေါင်းတို့၊ သင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား မတော်မတရားလုပ်ကြံစွပ်စွဲအ့ံသောငှာ ဤအရာကား တရားဝင်၏။ ဤအရာကား တရားမဝင်ဟု ပညတ်တော်နှင့်ဆန့်ကျင်စွာမပြောမဆိုကြလင့်။ မှတ်သားကြလော့။ အလ္လာဟ်အရှင်မြတ်ကို မဟုတ်မမှန်လုပ်ကြံစွပ်စွဲသောသူတို့သည် အောင်မြင်ကြမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်တို့သည် မိမိတု့ိ၏နှုတ်လျှာများက မုသားကိုပြောဆိုပြဋ္ဌာန်းခဲ့သောကြောင့် ဤကားဟလာလ်ခွင့်ပြုထားသောအရာဖြစ်သည်။ ဤကား ဟရာမ်တားမြစ်ထားသောအရာ ဖြစ်သည်ဟူ၍ မပြောဆိုကြကုန်လင့်။ ထိုသို့ပြောဆိုလျှင် အသင်တို့သည် အလ္လာဟ်အရှင်မြတ် အပေါ်၌ မုသားကိုလီဆယ်စွပ်စွဲကြသည်သာ ဖြစ်ပေမည်။ ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်အပေါ်၌ မုသားကို လီဆယ်စွပ်စွဲကြသောသူတို့သည် အောင်မြင်ကြမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

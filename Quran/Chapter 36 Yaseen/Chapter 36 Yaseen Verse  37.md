@@ -710,6 +710,12 @@ I noshtta e znamenie za tyakh. Nie otdelyame ot neya denya i eto gi - v mrak
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	ထို့အပြင်သူတို့အတွက် ငါပြထားတော်မူသောတပါးသောနိမိတ်လက္ခဏာတော်မှာ ညဉ့်ဖြစ်၏၊ ငါသည် ညဉ့်မှ နေ့၏ အလင်းရောင်ကို ထုတ်ယူတော်မူလိုက်သည်နှင့်တပြိုင်နက်သူတို့သည် အမှောင်ထုအတွင်းသို့ ကျရောက် သွားကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုသူတို့အဖို့ သက်သေလက္ခဏာ တစ်ရပ်မှာ ညဉ့်ပင်ဖြစ်၏။ ငါအရှင်မြတ်သည် ထိုညဉ့်မှ နေ့ကိုချွတ်ခွာ၍ ယူတော်မူ၏။ ထိုအခါ ၎င်းတို့သည် အမှောင်ထဲ၌ ရှိနေကြရကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

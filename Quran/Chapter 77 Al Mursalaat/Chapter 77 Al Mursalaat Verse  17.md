@@ -710,6 +710,12 @@ Kŭm tyakh shte dobavim i setnite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။ ထို့နောက်နောက်လူများကိုလည်း ရှေးလူတို့နောက်သို့ လိုက်စေတော်မူသည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက်တစ်ဖန် ငါအရှင်မြတ်သည် နောင်လာနောက်သားတို့အားလည်း ထိုရှေးသူဟောင်းတို့၏ နောက်သို့ပင် လိုက်စေတော်မူမည်ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

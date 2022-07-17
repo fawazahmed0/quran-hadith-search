@@ -710,6 +710,12 @@ I kogato Nashite pratenitsi [-angeli] otidokha s radostnata vest pri Ibrakhim, k
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	ထို့အပြင်ငါ၏ ကောင်းကင်တမန်တော်တို့သည် တမန်တော်အေဗရာဟမ်ထံသို့ သတင်းကောင်းကို ယူဆောင် လာ၍ အို-တမန်တော်သခင်၊ အကျွနု်ပ်တို့သည် ထိုမြို့ရွာနယ်ပယ်ကို မုချဖျက်ဆီးတော့မည်၊ အကြောင်းမူကား ထိုဒေသတွင် မှီတင်းနေထိုင်သူတို့သည် မတရားမှုကျူးလွန်သူများဖြစ်ကြ၏ဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ငါအရှင်မြတ်၏ စေတမန်များသည် ဝမ်းမြောက်ဖွယ်သတင်းကို အိဗ်ရာဟီမ်၏ထံသို့ ဆောင်ကြဉ်းခဲ့ကြလေသောအခါ၊ ၎င်းတို့က ‘ဧကန် မလွဲ ကျွန်ုပ်တို့သည် ဤမြို့ရွာသားတို့အား ဖျက်ဆီးမည့်သူများပင် ဖြစ်ကြပေသည်။ဧကန်စင်စစ် ယင်းမြို့ရွာ၌ နေထိုင်သောသူတို့မှာ အလွန်တရာပြစ်မှု ကျူးလွန်သူများပင် ဖြစ်ကြကုန်သည်’ ဟု ပြောဆိုခဲ့ကြလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

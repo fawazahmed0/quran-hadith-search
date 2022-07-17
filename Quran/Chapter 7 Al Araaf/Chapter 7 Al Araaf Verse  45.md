@@ -710,6 +710,12 @@ koito vŭzpirat ot pŭtya na Allakh, stremeĭki se da izkrivyat pŭtya, i otvŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	ထိုသူတို့သည် လူသားတို့အား အလ္လာဟ်အသျှင်မြတ်၏လမ်းတော်ကြီးမှ ကာဆီးပိတ်ပင်ထားကြ၏။ ထိုလမ်းတော်ကြီးကို ကွေးကောက်သွားစေလိုကြ၏။ နောက်ဆုံးနေ့တော်ကြီးကို မယုံကြည်သူများ ဖြစ်ကြပေသည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင် (မတရား ကျူးလွန်သော) သူတို့ သည်အလ္လာဟ်အသျှင်မြတ်၏လမ်းတော်မှ တိမ်းရှောင်ခဲ့ကြသည့်ပြင် ထိုလမ်းတော်၌ အကွေ့အကောက်ကို ရှာဖွေစူးစမ်းခဲ့ကြကုန်၏။ ၎င်းပြင် ထိုသူတို့သည် နောင်တမလွန်ဘဝကိုလည်း ငြင်းပယ်သူများပင် ဖြစ်ခဲ့ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

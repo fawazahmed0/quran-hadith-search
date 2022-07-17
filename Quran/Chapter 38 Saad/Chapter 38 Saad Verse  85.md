@@ -710,6 +710,12 @@ nepremenno shte napŭlnya Ada s teb i vsichki ot tyakh, koito te posledvat.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၄၊၈၅။	အလ္လာဟ်အရှင် ဗျာဒိတ်ပေးတော်မူသည်မှာ အို-အီဗလစ်(စ်)၊ ငါသည် အမှန်ကိုသာ မိန့်တော်မူ၏၊ အမှန်စကား ကား ငါသည် ငရဲကို နင်နှင့်တကွ နင့်နောက်ကို လိုက်သူများနှင့် ပြည့်နှက်အောင် ဖြည့်တော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ငါအရှင်မြတ်သည် အသင်အားဖြင့်လည်းကောင်း၊ ထိုလူသားတို့အနက် အသင်၏နောက်လိုက်ကြသော သူတို့အားဖြင့်လည်းကောင်း၊ "ဂျဟန္နမ်" ငရဲဘုံကို ဖြည့်တော်မူအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

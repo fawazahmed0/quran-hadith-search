@@ -710,6 +710,12 @@ I si vikakha edin drugimu na sutrinta
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။ နံနက်မိုးသောက်ရောက်လတ်သောအခါ ထိုဥယျာဉ်ရှင်တို့သည် တစ်ဦးကို တစ်ဦး ဥယျာဉ်သို့သွားရန် ခေါ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနောက် ၎င်းတို့သည် နံနက်စောစော ထကြလျက် တစ်ဦးက တစ်ဦးအား ဟစ်ခေါ်ခဲ့ကြ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

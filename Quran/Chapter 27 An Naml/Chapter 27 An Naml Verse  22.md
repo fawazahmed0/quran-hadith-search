@@ -710,6 +710,12 @@ No [papunyakŭt] ne se zabavi dŭlgo i reche: “Uznakh neshto, koeto ti ne si u
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	သို့သော်ကာလမကြာမြင့်မီ ထိုငှက်ရောက်လာ၍ ဤသို့လျှောက်၏၊ အို-တမန်တော်သခင်၊ သခင်မသိသော အကြောင်းအရာတစ်ခုကို အကျွနု်ပ်တွေ့ခဲ့ပါသည်၊ အကျွနု်ပ်သည် ရှီဗာနိုင်ငံမှ မှန်ကန်သောသတင်းကို ယူဆောင် လာပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် မကြာမီပင် ထိုဘီးတောင်ပိုငှက်သည် လာရောက်လျှောက်ထားလေ၏။ ကျွန်တော်မျိုးသည် ကိုယ်တော်မသိသောအကြောင်းကို သိခဲ့ပါသည်။ ၎င်းပြင် ကျွန်တော်မျိုးသည် ကိုယ်တော်၏ထံသို့ ရှီဗာမှ မှန်ကန်သောသတင်းတစ်ခုကို ဆောင်ကြဉ်းခဲ့ပါသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

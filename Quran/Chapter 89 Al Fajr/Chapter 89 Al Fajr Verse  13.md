@@ -710,6 +710,12 @@ Togava tvoyat Gospod stovari vŭrkhu tyakh bicha na mŭchenieto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။ ထို့ကြောင့်သင်၏ အရှင်သခင်သည် သူတို့အပေါ်သို့ အမျိုးမျိုးသော ဒဏ်ကို သက်ရောက်စေတော်မူခဲ့၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် ၎င်းတို့အပေါ်၌ ပြစ်ဒဏ်၏ကျာပွတ်၊ ပြစ်ဒဏ်တစ်မျိုးကို သွန်းချတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

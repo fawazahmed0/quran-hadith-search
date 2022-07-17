@@ -710,6 +710,12 @@ s Nego. I lukavstvaĭte sreshtu men vsichki, i ne me izchakvaĭte
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။	ထို့ကြောင့်သင်တို့အားလုံးသည် ငါ၏ ပျက်စီးရာပျက်စီးကြောင်းကို ကြံစည်ကြလော့။ ငါ့ကို အနားမပေးကြလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်တို့အားလုံးသည် ငါနှင့်ဆန့်ကျင်၍ လျှို့ဝှက်ကြံစည်ကြလေကုန်။ ထို့နောက် အသင်တို့သည် ငါအား (အနည်းငယ်မျှပင်) ရွှေ့ဆိုင်း ခွင့်မပေးကြကုန်လင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Te [- selishtata] sa na vse oshte sŭshtestvuvasht pŭt
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၆။	မှတ်သားကြလော့၊ သူတို့၏ နေရပ်ဒေသသည် မပျောက်ကွယ်သေးပဲ လမ်းမတော်ကြီးတစ်ခုအပေါ်၌ ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ဧကန်အမှန် ထို(မြို့ရွာ)သည် စည်ကားလျက်ရှိသောလမ်း၌ အမှန်ပင် တည်ရှိပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

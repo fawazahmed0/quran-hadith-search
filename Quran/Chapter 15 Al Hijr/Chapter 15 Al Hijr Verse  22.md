@@ -710,6 +710,12 @@ I izprashtame vetrovete - oplozhdashti, i utolyavame zhazhdata s voda, koyato iz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	ထို့အပြင်ငါသည် မြေသြဇာကောင်းစေသောလေများကို တိုက်ခတ်စေတော်မူ၏။ မိုးကောင်းကင်မှ မိုးရွာသွန်းစေ တော်မူ၏။ ထိုရေကို သင်တို့သောက်ဖို့ရာ ပေးသနားတော်မူ၏။ ထိုရေကို ထိန်းသိမ်းရသူတို့မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ငါအရှင်မြတ်သည် လေများကိုရေထမ်းလျက် စေလွှတ်တော်မူခဲ့လေသည်။ တဖန် ငါ အရှင်မြတ်သည်မိုးကောင်းကင်မှရေကို ရွာသွန်းစေတော်မူခဲ့လေသည်။ ထို့နောက် ငါအရှင်မြတ်သည် အသင်တို့အား ထိုရေကိုတိုက်ကျွေးတော်မူခဲ့လေသည်။ စင်စစ်သော်ကား အသင်တို့သည် ထိုရေကိုစုဆောင်း သိုလှောင်နိုင်ကြသောသူများ မဟုတ်ကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

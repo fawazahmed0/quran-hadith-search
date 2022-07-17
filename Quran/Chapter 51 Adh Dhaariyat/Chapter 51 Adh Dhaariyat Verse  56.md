@@ -710,6 +710,12 @@ Sŭtvorikh Az dzhinovete i khorata edinstveno za da Mi sluzhat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၆။	ငါသည် ဂျင်နတ်သားများနှင့် လူသားတို့ကို ငါ့အား ကိုးကွယ်ဝတ်ပြုဖို့အတွက်သာ ဖန်ဆင်းတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ငါအရှင်မြတ်သည် ဂျင်န်သတ္တဝါတို့အားလည်းကောင်း၊ မနုဿ လူသားတို့အား လည်းကောင်း၊ ငါအရှင်မြတ်အား ဆည်းကပ်ကိုးကွယ် ကြရန်သာလျှင် ဖန်ဆင်းတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

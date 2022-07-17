@@ -710,6 +710,12 @@ I zashto, kogato chukhte tova, ne rekokhte: “Ne ni podobava da prikazvame za n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	ထိုအကြောင်းကို ကြားရသောအခါ သင်တို့သည် အဘယ်ကြောင့်ဤသို့မပြောမဆိုကြသနည်း၊ ဤမကောင်း အတင်းစကားကို ငါတို့မပြောဆိုအပ်၊ အို--အလ္လာဟ်အရှင်၊ အရှင်သည် ချို့တဲ့ခြင်းမဲ့သောအနန္တဂုဏ်တော်ရှင် ဖြစ်ပါ၏၊ ဤအတင်းစကားသည် အလွန်မိုက်မဲရိုင်းပျသောမတရားစွပ်စွဲချက်ဖြစ်ပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်တို့သည် ယင်းမုသားစွပ်စွဲချက်ကို ကြားခဲ့ကြသောအခါ "(အို-အလ္လာဟ်အရှင်မြတ်) အရှင်မြတ် သည် စင်ကြယ်သန့်ရှင်းတော်မူပါ၏။ ကျွန်ုပ်တို့သည် ဤသည်ကို (မိမိတို့နှုတ်ဖြင့်) ပြောဆိုကြရန် အလျှင်းမထိုက်။ ဤသည် ကြီးကျယ်လှစွာသော သွားပုပ်လေလွင့် မတရားပြောဆိုချက်မျှသာဖြစ်ပေသည်" ဟု အဘယ်ကြောင့် မပြောဆိုခဲ့ကြသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Rekokha: “Nima doĭde pri nas da ni otlŭchish ot nashite bogove? Donesi ni o
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	ထိုသူတို့က ဟယ်-အချင်း၊ သင်သည် ငါတို့အား မိမိတို့ဘုရားများကို ကျောပေး၍ သွားစေခြင်းငှာ သွေးဆောင် ဖို့ရာ လာခဲ့သလော၊ သင်သည် အမှန်စကားကို ဆိုပါလျှင် မိမိခြိမ်းခြောက်ပြောဆိုသောနေ့တော်ကြီးကို ငါ တို့ထံ ဆိုက်ရောက်လာပါစေလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့က (ဤသို့) ပြောဆိုခဲ့ကြကုန်၏။ "အသင်သည် ကျွန်ုပ်တို့အား ကျွန်ုပ်တို့၏ ကိုးကွယ်ရာတို့မှ လွှဲဖယ်ရန် ကျွန်ုပ်တို့ထံ လာခဲ့လေသလော။ သို့ဖြစ်လျှင် အသင်သည် သစ္စာဝါဒီတစ်ဦးဖြစ်ပါမူ အသင်ကျွန်ုပ်တို့အား ခြိမ်းခြောက်လျက်ရှိသော(ပြစ်ဒဏ်)ကို ကျွန်ုပ်တို့ထံ ယူဆောင်ခဲ့လော့"။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

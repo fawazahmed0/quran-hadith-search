@@ -710,6 +710,12 @@ A tya be otklonena ot onova, na koeto sluzheshe vmesto na Allakh. Tya naistina b
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	ထို့အပြင်အလ္လာဟ်အရှင်မြတ်အစား ဤဘုရင်မခဝပ်ကိုးကွယ်လေ့ရှိသောဘုရားတုများသည် သူမအား လမ်းမှန်မှ ဆီးတားထား၏၊ အကြောင်းမူကားဘုရင်မသည် မိစ္ဆာဒိဋ္ဌိတို့ဘောင်မှ ဖြစ်၏ဟု မိန့်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ထိုဘုရင်မအား အလ္လာဟ်အရှင်မြတ်ကိုစွန့်၍ ၎င်းကိုးကွယ်လျက်ရှိခဲ့သောအရာများက သူမအား (အီမာန်သက်ဝင်ယုံကြည်ခြင်းမှ) တားဆီးထားခဲ့ခြင်း ဖြစ်ပေသည်။ (တနည်း) [၎င်းပြင် အလ္လာဟ်အရှင်မြတ်က သို့မဟုတ် ထိုအရှင်မြတ်၏ အမိန့်တော်အရ တမန်တော်စုလိုင်မာန်က ထိုဘုရင်မအား အလ္လာဟ်အရှင်မြတ်အား မကိုးကွယ်ဘဲနှင့် ၎င်းဆည်းကပ်ကိုးကွယ်နေခဲ့သော အရာများမှ တားဆီးလိုက်လေသည်။]ဧကန်စင်စစ် ထိုဘုရင်မသည် "ကာဖိရ်"သွေဖည်ငြင်းပယ်ကြသော အမျိုးသားတို့အနက်မှပင် ဖြစ်ခဲ့ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

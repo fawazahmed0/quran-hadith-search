@@ -710,6 +710,12 @@ I kŭlna se v mnogoukoryavashtata [se] dusha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။ မိမိကိုယ်ကို မိမိအပြစ်တင်လေ့ရှိသောစိတ်ကိုလည်း ငါတိုင်တည်တော်မူသည်၊ ဤကျမ်းမြတ်သည် အစစ်အမှန်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် (မိမိကိုယ်ကို)လွန်စွာ ပြစ်တင်ဆုံးမတတ်သောစိတ်ကို သက်သေထူ ကျိန်ဆိုတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

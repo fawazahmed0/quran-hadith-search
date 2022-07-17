@@ -710,6 +710,12 @@ O, vyarvashti, da ne vi otvlichat ot spomenavaneto na Allakh nito vashite imoti,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။ အို-ယုံကြည်သူအပေါင်းတို့၊ သင်တို့၏ စည်းစိမ်ဥစ္စာတို့ကသော်လည်းကောင်း၊ သားသမီးတို့ကသော်လည်းကောင်း၊ သင်တို့ကို အရှင်မြတ်အား အာရုံပြုခြင်းမှ မလေလွင့်စေလင့်၊ ယင်းကဲ့သို့ပြုသော သူတို့သည် ဆုံးရှုံးသူ များဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-'မုအ်မင်န်' သက်ဝင်ယုံကြည်သူအပေါင်းတို့၊ အသင်တို့ကို အလ္လာဟ်အရှင်မြတ်အား တသ သတိရခြင်းမှ အသင်တို့၏ ပစ္စည်းဥစ္စာများသည်လည်း လျစ်လျူရှု ပေါ့တန်စေခြင်း မရှိစေရ။ အသင်တို့ သားသမီးများသည်လည်း လျစ်လျူရှု ပေါ့တန်စေသည် မရှိစေရ။ စင်စစ်သော်ကား မည်သူမဆို ထိုသည်ကို ပြုမူသည်ရှိသော် ထိုကဲ့သို့ သူတို့သည်သာလျှင် ဆုံးရှုံးသူများ ဖြစ်ကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

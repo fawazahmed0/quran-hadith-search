@@ -710,6 +710,12 @@ I razyasnikhme za khorata vsyakakvi primeri v tozi Koran. A povecheto khora se p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၉။	အကယ်စင်စစ် ငါသည် ဤကျမ်းတော်၌ လူသားတို့အဖို့အရာ ဥပမာအမျိုးမျိုးအဖုံဖုံကို တင်ပြထားတော်မူ၏။ သို့သော် လူသားတို့အနက် များလှစွာသောသူတို့သည် မိစ္ဆာအယူဝါဒမှတပါး အခြားတစုံတခုမှ လက်မခံကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ဧကန်မလွဲ ငါအရှင်မြတ်သည် လူတို့ (သိနားလည်ကြစေအံ့သော)ငှာ ဤကုရ်အာန်ကျမ်းတော် မြတ်တွင်ဥပမာပုံဆောင်ချက်အလုံးစုံကို နည်းအမျိုးမျိုးဖြင့် မိန့်ကြားထားတော်မူသည်။ သို့တစေလည်း(မက္ကာသားတို့အနက်)အများဆုံးသောသူတို့သည် ငြင်းပယ်မှုမှတစ်ပါး အခြားမည်သည်ကိုမျှ နှစ်သက်ခဲ့ ကြသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

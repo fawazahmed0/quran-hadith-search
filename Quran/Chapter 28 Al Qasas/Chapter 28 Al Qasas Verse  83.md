@@ -710,6 +710,12 @@ Shte otredim Otvŭdniya dom za onezi, koito nito iskat da se vŭzgordyavat na ze
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၃။	နောင်တမလွန်ဗိမာန်ကြီးကိုမူကား ငါသည် ကမ္ဘာမြေအပေါ်ဝယ် ညှင်းပန်းနှိပ်စက်ခြင်းနှင့် မတရားညစ်ပတ်မှုကို မပြုကျင့်သူတို့အဖို့အရာ စီရင်ထားတော်မူ၏၊ ဤဗိမာန်သည် မကောင်းမှုတို့ကို ကြဉ်ရှောင်သူတို့၏ အကျိုးဆက် ပေတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည် တမလွန်ဘဝ၏ ဗိမာန်တည်း။ ငါအရှင်မြတ်သည် ထိုဗိမာန်ကို အကြင်သူတို့အဖို့ သတ်မှတ်ပေးသနားတော်မူသည်။ ထိုသူတို့သည် တိုင်းပြည်တွင် မောက်မာပလွှားမှုကိုလည်း အလိုရှိကြသည် မဟုတ်ပေ။ ဖျက်ဆီးမှုကိုလည်း လိုလားကြသည်မဟုတ်ပေ။ စင်စစ်သော်ကား (ကောင်းမြတ်သော) အကျိုးဆက်သည် ပြစ်မှုဒုစရိုက်များမှ ကြဉ်ရှောင်ကြကုန်သော သူတို့အဖို့သာ ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

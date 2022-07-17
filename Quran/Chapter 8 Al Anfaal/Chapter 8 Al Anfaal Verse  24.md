@@ -710,6 +710,12 @@ O, vyarvashti, otklikvaĭte na Allakh i na Pratenika, shtom vi zove kŭm onova,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	အို-ယုံကြည်သူအပေါင်းတို့ အသျှင်မြတ်သည် သင်တို့အား အသက်ရှင်စေသောအရာသို့ ခေါ်တော် မူသောအခါ သင်တို့သည် အလ္လာဟ်အသျှင်မြတ်နှင့် အသျှင်မြတ်၏ တမန်တော်ကို နာခံကြလော့။ အသျှင်မြတ်သည် လူသားနှင့် လူသား၏စိတ်နှလုံးစပ်ကြားတွင် ရှိတော်မူကြောင်း အသျှင်မြတ် အထံတော်၌ သင်တို့ကို စုဝေးမည်ဖြစ်ကြောင်းတို့ကို မှတ်သားကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-မုအ်မင်န် သက်ဝင်ယုံကြည်သူအပေါင်းတို့၊ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်နှင့် ရစူလ်တမန်တော်၏ အမိန့်တော်များကို ထိုရစူလ်တမန် တော်သည် အသင်တို့ကိုအသင်တို့ အသက်ရှင်စေနိုင်သော အကြောင်းများသို့ ဖိတ်ခေါ်သောအခါ လိုက်နာကြလေကုန်။ ထိုမှတစ်ပါး ဧကန်စင်စစ်အလ္လာဟ်အရှင်မြတ်သည် လူနှင့်လူ၏စိတ်နှလုံးအကြားတွင်အကာအဆီး ဖြစ်တော်မူသည်ကိုလည်းကောင်း၊ ထို့ပြင် အသင်တို့သည် ဧကန်မလွဲ ထိုအရှင်မြတ်၏ အထံတော်၌ပင် စုံရုံးကြရမည်ကိုလည်းကောင်း၊ အသင်တို့သည် ကောင်းစွာ သိထားကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Gospoda na nebesata i na zemyata, i na vsichko mezhdu tyakh, Vsemilostiviya. Ne 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။ မိုးမြေနှင့် မိုးမြေစပ်ကြားရှိသမျှတို့၏ အရှင်သခင်၊ မဟာကရုဏာတော်အရှင်၊ အရှင်မြတ်အား မည်သူတစ်စုံတစ်ယောက်မျှ စကားပြောဆိုတင်လျှောက်ခြင်းငှာ မစွမ်းနိုင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အကြင်အရှင်မြတ်သည်) မိုးကောင်းကင်များကိုလည်းကောင်း၊ ပထဝီမြေကိုလည်းကောင်း၊ ယင်း မိုးကောင်းကင်များနှင့် ပထဝီမြေနှစ်ခု၏ အကြား၌ ရှိသမျှတို့ကိုလည်းကောင်း၊ ပိုင်ဆိုင်တော်မူသောအရှင် (ရဟ်မာန်) မဟာကရုဏာတော်ရှင် ဖြစ်တော်မူပေသည်။ မည်သူတဦးတယောက်မျှပင် ထိုအရှင်မြတ်နှင့် စကားပြောဆိုပိုင်ခွင့်ရှိမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

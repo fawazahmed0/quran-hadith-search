@@ -710,6 +710,12 @@ za Faraona i za samudyanite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇၊၁၈။ (ဖွာရော)ဘုရင်နှင့် (သမုဒ်)လူမျိုးတို့၏ စစ်သည်တော်များ၏ အတ္ထုပ္ပတ္တိအကြောင်းအရာကို သင်တမန်တော် ကြားနာသိရှိရပြီလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဖစ်ရ်အောင်န်" ၏တပ်များ အကြောင်းသည်လည်းကောင်း၊ "ဆမူဒ်"အမျိုးသားတို့၏အကြောင်းသည်လည်းကောင်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

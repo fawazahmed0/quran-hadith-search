@@ -710,6 +710,12 @@ I shte go nauchi Toĭ na knigata i na mŭdrostta, i na Torata, i na Evangelieto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	အလ္လာဟ်အသျှင်မြတ်သည် သူ့အား တရားတော်၊ ပညာအလင်းရောင် တောင်ရတ်ကျမ်း၊ အင်ဂျီလ်ကျမ်း စသည်တို့ကို သင်ကြားပေးတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် ယင်း (သားတော်)အား ကျမ်းဂန်ကိုလည်းကောင်း၊ ဉာဏ်ပညာ အမြော်အမြင်ကိုလည်းကောင်း၊ တော်ရာတ် ကျမ်းမြတ်ကို လည်းကောင်း၊ အီန်ဂျီလ် ကျမ်းမြတ်ကိုလည်းကောင်း သင်ကြားပြသတော် မူလတ္တံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

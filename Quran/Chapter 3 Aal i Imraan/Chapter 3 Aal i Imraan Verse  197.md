@@ -710,6 +710,12 @@ kratko naslazhdenie, posle myastoto im e Adŭt. Kolko losha postelya e toĭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉၇။	ထိုအောင်မြင်မှုသည် ခေတ္တခဏအတွက်သာဖြစ်၏။ ထို့နောက် သူတို့၏နေထိုင်ရာဌာနသည် ငရဲ ဖြစ်လိမ့်မည်။ အလွန်ဆင်းရဲလှသောဗိမာန်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အမှန်စင်စစ်သော်ကား ယင်းသွားလာမှုနှင့်စည်းစိမ်ချမ်းသာများသည်) တဒင်္ဂ တခဏမျှသော အကျိုးခံစား မှုမျှသာဖြစ်သည်။ နောက်ဆုံးတွင်မူကားထိုသူတို့၏ပြန်လည် ရာဌာနသည် ဂျဟန္နမ် ငရဲဘုံသည်သာလျှင်ဖြစ်လတ္တံ့။ စင်စစ် ယင်း ဂျဟန္နမ် ငရဲဘုံသည် အလွန်တရာဆိုးဝါးလှသော နေရာပင်ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

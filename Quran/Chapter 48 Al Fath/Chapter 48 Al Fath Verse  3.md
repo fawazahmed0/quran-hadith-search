@@ -710,6 +710,12 @@ i za da te podkrepi Allakh s mogŭshta podkrepa
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	အလ္လာဟ်အရှင်မြတ်သည် သင့်အား အင်အားကြီးမားသောစောင်မခြင်းဖြင့် မစတော်မူရန် အလို့ငှာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် အသင့်အား ကြံ့ခိုင်သော၊ ဘုန်းကျက်သရေရှိသော၊ အောင်မြင်မှုကို ချီးမြှင့် တော်မူအံ့သောငှာလည်းကောင်း၊ ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

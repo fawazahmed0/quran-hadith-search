@@ -710,6 +710,12 @@ I taka ostavikhme tova v nasledstvo na drug narod
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	၎င်းတို့သည် ဤကဲ့သို့ပင် ဘဝပြောင်းသွားကြရ၏၊ နောက်သူတို့ပိုင်ပစ္စည်းဥစ္စာများကို အခြားအသင်းသား တို့အား အမွေပစ္စည်းဖြစ်စေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤအဖြစ်အပျက်သည်) ဤအတိုင်းပင်ဖြစ်၏။သို့ရာတွင် ငါအရှင်သည် ယင်းစည်းစိမ်ချမ်းသာများကို အခြားသော အမျိုးသားတို့အား အမွေဆက်ခံစေတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

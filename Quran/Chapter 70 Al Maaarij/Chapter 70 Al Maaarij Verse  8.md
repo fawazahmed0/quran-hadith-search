@@ -710,6 +710,12 @@ V tozi Den nebeto shte e kato raztopena med
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။ မိုးကောင်းကင်သည် အရည်ကျိုထားသောကြေးနီကဲ့သို့ ဖြစ်မည့်နေ့တော်ကြီး။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ယင်းပြစ်ဒဏ်သည်) အကြင်နေ့တွင် (ကျရောက်အံ့၊) ထိုနေ့တွင် မိုးကောင်းကင်မှာ ဆီအနည်အရည်ကျိုထားသော (ကြေးနီ၊ ကြေးဝါ၊ ငွေစသည့်) တွင်းထွက်သတ္တုကဲ့သို့ ဖြစ်သွားပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

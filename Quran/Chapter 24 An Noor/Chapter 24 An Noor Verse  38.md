@@ -710,6 +710,12 @@ za da im vŭzdade Allakh naĭ-dobroto za onova, koeto sa vŭrshili, i da im nad
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	ထိုနေ့တော်ကြီး၌ အလ္လာဟ်အရှင်မြတ်သည် သူတို့အား မိမိတို့ပြုကျင့်ခဲ့သောကုသိုလ်ကောင်းမှု၏ အကျိုးသုခကို ပေးသနားတော်မူအ့ံ၊ ထို့အပြင်အနန္တကောင်းကြီးမင်္ဂလာတော်မှ သူတို့၏အောင်ဆုမင်္ဂလာကို ပိုမိုပေးသနားတော် မူလတ့ံ၊ အလ္လာဟ်အရှင်မြတ်သည် အလိုတော်ရှိသူအား အတိုင်းအထွာပမာဏမရှိပဲ ရက်ရက်ရောရောကောင်း ကြီးမင်္ဂလာပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 နောက်တွင်မူ အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့အား ၎င်းတို့ ကျင့်မူခဲ့ကြကုန်သော ကောင်းမှုသုစရိုက်များနှင့် စပ်လျဉ်း၍ အကောင်းဆုံးသော အကျိုးကျေးဇူးတော်ကို ချီးမြှင့်ပေးသနားတော်မူမည့်ပြင် မိမိကျေးဇူးတော်ဖြင့် ပို၍ပင် ချီးမြှင့်ပေးသနားတော်မူဦးမည် ဖြစ်ပေသည်။ စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် မိမိအလိုရှိတော်မူသောသူအား အကန့်အသတ်မရှိ ချီးမြှင့်ပေးသနားတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

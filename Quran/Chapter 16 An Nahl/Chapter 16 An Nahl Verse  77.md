@@ -710,6 +710,12 @@ Na Allakh prinadlezhi nevedomoto na nebesata i na zemyata. Povelyata za Chasa e,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၇။	တဖန် အလ္လာဟ်အရှင်မြတ်သည် မိုးမြေတွင်းရှိ မမြင်စွမ်းနိုင်သောအရာခပ်သိမ်းကုန်များကို စိုးပိုင်တော်မူ၏။ အပြစ်ဒဏ်တော်ဆိုက်ရောက်လာမည့်အချိန်ကာလမှာ မျက်စိတမှိတ်လျှပ်တပြက်နှင့်ဖြစ်ပေါ်လာ၏။ သို့မဟုတ် ထိုထက်မြန်ဆန်၏။ မှတ်သားကြလော့။ အလ္လာဟ်အရှင်မြတ်သည် အရာရာတို့ကို ပြုစွမ်းနိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား မိုးကောင်းကင်များ၌ ရှိကုန်သော လျှို့ဝှက်ချက်များသည်လည်းကောင်း၊ ပထဝီမြေ၌ရှိကုန်သော လျှို့ဝှက်ချက်များသည်လည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ်နှင့်သာ သက်ဆိုင်၏။ ထိုမှတစ်ပါး ရှင်ပြန်ထမည့်ကိစ္စသည် မျက်စိတစ်မှိတ်ကဲ့သို့သာလျှင် လျင်မြန်စွာဖြစ်မည်။ ထိုသို့အလျင်း မဟုတ်။ စင်စစ်မှာကား (ထိုထက်ပင်)ပို၍လျင်မြန်စွာ ဖြစ်မည်။ မုချဧကန် အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို စွမ်းဆောင်နိုင်တော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

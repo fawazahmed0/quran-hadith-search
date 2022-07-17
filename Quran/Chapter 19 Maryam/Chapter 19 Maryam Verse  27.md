@@ -710,6 +710,12 @@ I otide s nego pri svoya narod, noseĭki go. Rekokha: “O, Mariam, ti stori ne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	သားဖွားပြီးသောအခါ သူမသည် မိမိ၏ သားငယ်ကို မိမိသားချင်းတို့ထံသို့ ချီဆောင်လာ၏။ သူတို့က အို-မရယမ်၊ သင်သည် အလွန်အ့ံအားသင့်ဖွယ်ကို ယူဆောင်လာချေပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းနောက် ထိုမရ်ယမ်သည် ယင်းသားရတနာကို(မိမိရင်ခွင်ဝယ်)ပွေ့ချီလျက် မိမိအမျိုးသားတို့ထံ လာခဲ့လေ၏။ (ထိုအခါ)ယင်းအမျိုးသားတို့က(ဤသို့) ပြောကြားခဲ့ကြကုန်၏။ အို-မရ်ယမ် အသင်မ သည် အလွန်ဆိုးဝါးလှသောပြစ်မှုကိုကျူးလွန်ခဲ့သည် တကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

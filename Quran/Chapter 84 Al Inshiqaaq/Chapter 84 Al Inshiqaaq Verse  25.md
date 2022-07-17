@@ -710,6 +710,12 @@ osven onezi, koito vyarvat i vŭrshat pravedni dela! Za tyakh ima bezspirna nagr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။ သို့သော် ယုံကြည်လျက် ကုသိုလ်ကောင်းမှုပွားများသောသူတို့ကား ထိုအပြစ်ဒဏ်မှ ချမ်းသာရကြလတံ့၊ မကုန်မခန်းနိုင်သည့်ဆုတော်ကို ရရှိကြလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် "အီမာန်" သက်ဝင်ယုံကြည်၍ ကောင်းမြတ်သော အကျင့်သီလများကို ကျင့်မူဆောက်တည်ကြကုန်သော သူတို့အဖို့မှာမူကား အဆုံးမရှိသော အကျိုးကျေးဇူးသည် ရှိပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

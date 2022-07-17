@@ -710,6 +710,12 @@ Shuaĭb im kaza: “Ne se li boite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇၇။	တမန်တော်ရှိုအိုက်(ဘ်)က သူတို့အား ဤသို့ဟောကြား၏၊ ဟယ်-အချင်းတို့၊ သင်တို့သည် ဒုစရိုက်မကောင်းမှုကို ရှောင်ကြဉ်ကြမည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်အခါဝယ် ၎င်းတို့အား "ရှုအိုက်ဗ်"ကပြောကြားခဲ့၏။ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား မကြောက်ရွံ့ ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

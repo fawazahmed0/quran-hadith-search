@@ -710,6 +710,12 @@ I pŭrvite ot tyakh shte kazhat na poslednite: “Vie nyamakhte pred nas predims
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	ထိုအခါ ရှေ့ဆုံးအမျိုးက နောက်ဆုံးအမျိုးအား သင်တို့သည် ငါတို့ထက် စိုးစဉ်းမျှ သာလွန်ကောင်းမွန် ကြသည်မဟုတ်ပေ။ ထို့ကြောင့် သင်တို့သည် သင်တို့ပြုကျင့်လေ့ရှိသောအမှုအခင်းများ၏ အပြစ် ဒုက္ခကို ခံစားကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ၎င်းတို့၏ ရှေးလူများက မိမိတို့၏ နောင်လာနောင်သားများအား (ဤသို့) ပြောဆိုကြလတ္တံ့။ သို့ဖြစ်လျှင်အသင်တို့၌ (အပြစ်ဒဏ်လျှော့ခြင်းနှင့်စပ်လျဉ်း၍) ငါတို့ထက်မည်သို့မျှသာ ပိုခြင်းမရှိပြီ၊ သို့ဖြစ်လေရာ အသင်တို့သည် မိမိတို့ဆည်းပူးခဲ့ကြသည့် (မကောင်းမှုဒုစရိုက်) များကြောင့်ပြစ်ဒဏ်(၏ရသာ)ကို မြည်းစမ်းကြလေကုန်။(ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

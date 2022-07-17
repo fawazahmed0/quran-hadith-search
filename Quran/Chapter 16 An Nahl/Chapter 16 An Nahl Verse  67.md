@@ -710,6 +710,12 @@ I ot plodovete na palmite i grozdeto vzimate opiyanyavashta napitka i khubava kh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၇။ ထို့အပြင်စွန်ပလွံ၊ သပျက်သီးစသောသီးမျိုးမှ သောက်စရာပြင်းသောအရည်၊ စားစရာအစာအာဟာရတို့ကို သင်တို့ရရှိကြ၏။ မှတ်သားကြလော့၊ ဤအကြောင်းအရာ၌ ပညာရှိသူတို့အဖို့အရာ သာဓကတော်တပါး အမှန်ပင် ပါရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး စွန်ပလွံပင်များ၏ အသီးများ၌လည်းကောင်း၊ စပျစ်သီးများ၌လည်းကောင်း၊ အသင်တို့သည်ထိုအရာဖြင့် မူးယစ်စေသောအရာကိုလည်းကောင်း၊ ကောင်းမွန်သော စားကောင်းသောက်ဖွယ် ရာကိုလည်းကောင်း၊ ပြုလုပ်ကြကုန်၏။ ဧကန်စင်စစ် ဤသည်၌ သိနားလည်ကြသောသူတို့အဖို့ အမှန်ပင် သက်သေသာဓက ရှိပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ V Denya, kogato Allakh sŭbere pratenitsite i reche: “Kakvo vi be otvŭrnato?�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၉။	အလ္လာဟ်အသျှင်မြတ်သည် တမန်တော်တို့ကို စုရုံးတော်မူသော နေ့တော်ကြီး၌ သူတို့အား ''အို-တမန်တော် သင်တို့သည် လူသားတို့ထံမှ အဘယ်အားပေးတုန့်ပြန်ခြင်းကို ရခဲ့ကြပါသနည်း''ဟု ဗျာဒိတ်ရှိတော်မူ၏။ သူတို့က ''အို-ကျေးဇူးတော်သခင် အကျွနု်ပ်တို့မသိပါ'' ''အသျှင်မြတ် အသျှင်သာလျှင် လျှို့ဝှက်နက်နဲသောအရာများကို အကြွင်းမဲ့သိမြင်တော်မူပါ၏''ဟု တင်လျှောက် ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အသင်တို့သည် အကြင်နေ့ကို သတိရကြလေကုန်။ ကြောက်ရွံ့ကြလေကုန်။) ထိုနေ့တွင် အလ္လာဟ်အရှင်မြတ်သည် ရစူလ်တမန်တော်များအား စုရုံးစေတော်မူပြီး (ထိုရစူလ်တမန်တော်များကို) “အသင် တို့သည် (မိမိတို့၏ နောက်လိုက်များထံမှ) မည်သို့ သောပြန်ကြားခြင်းကို ရရှိခဲ့ကြပါသနည်း” ဟု မေးမြန်းတော်မူအံ့။ (ထိုအခါ ထိုရစူလ်တမန်တော် များက) “ကျွန်တော်မျိုးတို့တွင် အလျင်းမသိကြပါ။ ဧကန်စင်စစ် အရှင်မြတ်သည်သာလျှင် အကွယ်၌ရှိသောအရာများကို အကြွင်းမဲ့သိတော်မူသောအရှင် ဖြစ်တော်မူပါသည်။” ဟု လျှောက်ထားခဲ့ကြကုန်အံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

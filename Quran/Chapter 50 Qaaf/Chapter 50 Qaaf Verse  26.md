@@ -710,6 +710,12 @@ koĭto prie za bog drug zaedno s Allakh! Zatova go khvŭrlete v surovoto mŭche
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	ထို့အပြင် ဤသူမိုက်သည် အလ္လာဟ်အရှင်မြတ်နှင့်တကွ အခြားဘုရားတုကို တွဲဖက်ခဝပ်ကိုးကွယ်၏၊ သင်တို့ နှစ်ဦးသည် ဤသူမိုက်အား အလွန်ပြင်းပြကြောက်မက်ဖွယ်သောအပြစ်ဒဏ်တော်ထဲသို့ ဆွဲငင်ပစ်ချကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်နှင့်အတူ အခြားသောကိုးကွယ်ရာကို တွဲဖက်သတ်မှတ်သောသူဖြစ်သည်။ သို့ဖြစ်ပေရာ အသင်တို့နှစ်ဦးသည် ထို(ကဲ့သို့သော)သူအား ပြင်းထန်စွာသော ပြစ်ဒဏ်၌ပစ်ချကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

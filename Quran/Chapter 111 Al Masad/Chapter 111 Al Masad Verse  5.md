@@ -710,6 +710,12 @@ Na shiyata ĭ shte ima vŭzhe ot spleteni vlakna
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၊၅။ သူ၏ မိန်းမ၊ ထင်းစီးထမ်းသောသူ၏ မိန်းမလည်ပင်းတွင် စွန်ပလွံလျှော်လည်ဆွဲကြိုးတပ်ထားလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုဇနီးဖြစ်သူသည် လည်ကုပ်၌ စွန်ပလွံလျှော်ကို ကောင်းစွာကျစ်ထားသော ကြိုးတစ်ချောင်းလည်း ရှိချေအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

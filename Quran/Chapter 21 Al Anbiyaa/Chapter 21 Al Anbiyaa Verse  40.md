@@ -710,6 +710,12 @@ A Ogŭnyat shte gi vrŭkhleti vnezapno i shte gi slisa, i nito shte mogat da go 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄ဝ။	သူတို့သိကြမည်မဟုတ်ချေ၊ ဤအချိန်သည် ရုတ်တရက်ရှောင်တခင်သူတို့အပေါ်သို့ ကျရောက်လာ၍ သူတို့ကို သတိမေ့လျော့ကြက်သေသေစေ၏၊ သူတို့သည် ထိုအချိန်ကို တွန်းလှန်ဖယ်ရှားနိုင်မည်မဟုတ်ချေ၊ သူတို့၏ အပြစ်ဒဏ်ကိုလည်း ရွှေ့ဆိုင်းထားတော်မူမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်မှာကား ယင်းမီးသည် ၎င်းတို့၌ ရုတ်တရက် သက်ရောက်ပြီးလျှင် ၎င်းတို့အား တွေဝေသွားစေမည် ဖြစ်သည်။ ထိုအခါ ၎င်းတို့သည် ထိုမီးကို တွန်းလှန်နိုင်ကြမည်လည်း မဟုတ်ပေ။ ထို့ပြင် ၎င်းတို့ သည်ရွှေ့ဆိုင်းခွင့်ကိုလည်း ရရှိကြမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

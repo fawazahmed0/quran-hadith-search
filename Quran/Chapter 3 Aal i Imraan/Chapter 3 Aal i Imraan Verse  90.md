@@ -710,6 +710,12 @@ Ot onezi, koito se otrichat, sled kato sa povyarvali, a posle neverieto im poras
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉ဝ။	မှတ်သားကြလော့။ အကြင်သူတို့သည် ယုံကြည်ပါသည်ဟု သစ္စာဆိုပြီးနောက် မယုံကြည်သူ ဖြစ်ကြ၏။ ထိုသူတို့၏ မယုံကြည်မှုသည် ကြီးမားပြင်းတန်လာ၏။ ထိုသူတို့၏ ဝန်ချတောင်းပန်ခြင်းကို လက်ခံမည်မဟုတ်ပေ။ ဤသူများသည် လမ်းမှားသွားသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် အကြင်သူတို့သည် မိမိတို့ ယုံကြည်ခြင်းသဒ္ဓါတရားထားရှိပြီး နောက်မှ တဖန် သွေဖည်ငြင်းပယ်ကြကုန်၏။ ထို့နောက် ယင်းသူ တို့သည် သွေဖည်ငြင်းပယ်မှု၌ပင် နစ်မွန်း၍ နေကြကုန်သည်။ ယင်းသို့သောသူတို့၏နောင်တ တရားရရှိခြင်းသည် (အလ္လာဟ်အရှင်မြတ် အထံတော်၌) ဘောတူလက်ခံတော်မူခြင်းကို အလျင်း ခံရမည်မဟုတ်ပေ။ အမှန်သော်ကား ဤသူတို့သည် (အစဉ်) လမ်းလွဲသောသူများသာတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

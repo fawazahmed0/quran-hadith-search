@@ -710,6 +710,12 @@ No onzi, koĭto izpŭlnyava svoya obet i e bogoboyazliv - Allakh obicha bogoboy
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၆။	အမှန်မှာ အလ္လာဟ်အသျှင်မြတ်ရွေးကောက်တော်မူသောသူသည် မိမိ၏ဂတိသစ္စာကို စောင့်ထိန်း၍ ဒုစရိုက်မကောင်းမှုကို ရှောင်ရှားသောသူဖြစ်၏။ အကြောင်းမူကား အလ္လာဟ်အသျှင်မြတ်သည် ဒုစရိုက်မှုကို ရှောင်ကြဉ်သူအား မြတ်နိုးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသို့အလျင်းမဟုတ်၊ စင်စစ်(ထိုသူတို့အပေါ်၌အပြစ်ရှိပေသည်၊ အဘယ်ကြောင့်ဟူမူ) အကြင်သူသည်မိမိထားရှိအပ်သောပဋိညာဉ်ကို အတည်ပြု၍ (အလ္လာဟ်အရှင်မြတ်အား) ကြောက်ရွံ့ရိုသေပါမူ အလ္လာဟ်အရျှှင်မြတ်သည် ကြောက်ရွံ့ရိုသေသော သူတော်စင်တို့အား မုချ နှစ်သက်တော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

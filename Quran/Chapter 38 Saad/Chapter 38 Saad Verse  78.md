@@ -710,6 +710,12 @@ I nad teb shte tegne Moeto proklyatie do Sŭdniya den.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၈။	ထို့အပြင် မှတ်သားလော့၊ စစ်ကြောစီရင်တော်မူသောနေ့တော်ကြီးတိုင်အောင် ငါ၏ ကျိန်ဆဲခြင်းသည် နင့်ကို နှိပ်စက်လတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ဧကန်မလွဲ အသင့်အပေါ်၌ ငါအရှင်မြတ်၏ စက်ဆုပ်မှုသည် အစားပေးမည့်နေ့တိုင်အောင်ပင် ရှိနေပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

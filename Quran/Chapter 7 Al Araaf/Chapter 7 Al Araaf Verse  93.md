@@ -710,6 +710,12 @@ I se otvŭrna ot tyakh, i kaza: “O, narode moĭ, izvestikh vi poslaniyata na 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၃။	ထို့ကြောင့် တမန်တော်သည် သူတို့ထံမှလှည့်ပြီးလျှင် ဟောကြား၏။ ဟယ်-အချင်းတို့ အကျွနု်ပ်တို့ သည် မိမိ၏ ကျေးဇူးတော်သခင်၏ ဗျာဒိတ်တော်များကို သင်တို့အား ဟောပြောပြီးပြီ။ ကောင်းသော သြဝါဒကိုပေးပြီးပြီ။ ထို့နောက် သစ္စာတရားတော်ကို ပယ်ရှားသူတို့အတွက် အကျွနု်ပ်သည် အဘယ်ကြောင့် ဝမ်းနည်းပက်လက်ရှိရမည်နည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ယင်းနဗီတမန်တော်(ရှုအိုက်ဗ်)သည်၎င်းတို့ထံမှ မျက်နှာလွှဲ၍ ထွက်ခဲ့လေသည်၊ ၎င်းပြင် အိုငါ၏အမျိုးသားတို့ ငါသည် ဧကန်စင်စစ် မိမိ အရှင်မြတ်ကမှာကြားတော်မူလိုက်သော အမိန့်ပညတ်တော်များကို အသင်တို့ထံအရောက် ပို့ဆောင် ခဲ့ချေပြီ။ ၎င်းပြင် ငါသည် အသင်တို့၏ကောင်းကျိုး ကိုလည်း (မုချ) သယ်ပိုးဆောင်ရွက်ခဲ့ပေပြီ။သို့ဖြစ်ပေရာ ငါသည် သွေဖည်ငြင်းပယ်ကြကုန်သော အမျိုးသားတို့ နှင့်ပက်သက်၍ အသို့လျှင် ဝမ်းနည်း ပူဆွေးရပါမည်နည်း ဟု ပြောကြားခဲ့လေသတည်း။(ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

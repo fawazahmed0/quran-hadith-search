@@ -710,6 +710,12 @@ Nizposlavaneto na Knigata e ot Allakh, Vsemogŭshtiya, Vseznaeshtiya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	ဤကျမ်းမြတ်ကုရ်အာန်သည် အနန္တဘုန်းတန်ခိုးတော်သခင်၊ သဗ္ဗညုတဉာာဏ်တော်ရှင် အလ္လာဟ်အရှင်မြတ် အထံတော်မှ ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည် လွန်စွာ နိုင်နင်းလွှမ်းမိုးတော်မူသော အလွန်တရာ အသိပညာနှင့်ပြည့်စုံတော်မူသော အလ္လာဟ်အရှင်မြတ်ထံတော်မှ ချပေးသနားတော်မူသော ကျမ်းဂန်ပင် ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

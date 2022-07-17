@@ -710,6 +710,12 @@ za da pridobiyat oblagi za sebe si [i v zemniya zhivot, i v otvŭdniya] i v opre
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	လူသားတို့သည် မိမိတို့အကျိုးဖြစ်ထွန်းစေသောအရာများကို တွေ့မြင်ကြရန် ယင်းသို့လာကြလိမ့်မည်၊ သူတို့သည် သတ်မှတ်ထားသောရက်များ၌ အလ္လာဟ်အရှင်မြတ်ပေးသနားတော်မူသော အခြေလေးချောင်းတိရိစ္ဆာန်များအပေါ် ၌ ငါ၏နာမတော်ကို ရွတ်ဖတ်ရန် လာကြလိမ့်မည်၊ ထိုအခါသင်တို့သည် သားကောင်၏ အသားများကို မိမိ တို့လည်း စားသုံးကြလော့၊ ကံဆိုးလှသောသူဆင်းရဲတို့ကိုလည်း ကျွေးမွေးကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မိမိတို့အဖို့ အကျိုးကျေးဇူးရှိရာများသို့ ရောက်ရှိကြအံ့သောငှာလည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ်၏နာမံတော်ကို ထိုအရှင်မြတ်က မိမိတို့အား ချီးမြှင့်ပေးသနားတော်မူခဲ့သော ခြေလေးချောင်းတိရစ္ဆာန်အပေါ်၌ သတ်မှတ်ထားသော နေ့ရက်များတွင် (ရွတ်ဖတ်)တသကြအံ့သောငှာလည်းကောင်း၊ ထို့နောက်(တမန်တော်မြတ်၏တပည့်သားတို့)(အသင်)တို့လည်း ယင်းတိရစ္ဆာန်များအနက်မှ မိမိတို့ကိုယ်တိုင်လည်း စားသုံးကြလေကုန်။ မရှိဆင်းရဲသောဒုက္ခိတများအားလည်း ကျွေးမွေးကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ i kogato bremennite kamili bŭdat izostaveni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။ ကိုယ်ဝန်ရင့်သောကုလားအုတ်မများကို ပစ်ထားသောအခါ၌လည်းကောင်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ကိုယ်ဝန်ဆောင် ဆယ်လစေ့သော ကုလားအုတ်မများသည် (ထိန်းကျောင်းသူမရှိဘဲ) စွန့်လွှတ်ထားခြင်းကို ခံကြရသောအခါ၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

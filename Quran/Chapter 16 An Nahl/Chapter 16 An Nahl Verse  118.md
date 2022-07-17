@@ -710,6 +710,12 @@ A na yudeite vŭzbranikhme onova, za koeto ti razkazakhme predi. I ne Nie gi ugn
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၈။	သင့်အား ငါအရှင်ဖော်ပြတော်မူပြီးသောအစာများကိုလည်း ငါသည် ယဟူဒီလူမျိုးတို့အား တားမြစ်တော်မူ၏။ ငါသည် သူတို့အား မတော်မတရားပြစ်မှားတော်မမူချေ။ သူတို့သည် မိမိကိုယ်ကို မိမိပြစ်မှားလေ့ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့အပြင် ငါအရှင်မြတ်သည် ယဟူဒီဖြစ်ခဲ့သောသူတို့အပေါ်၌ အသင့်အား ငါအရှင်မြတ် ယခင်ကထုတ်ဖော်မိန့်ကြားတော်မူခဲ့သောအရာများကို ဟရာမ်ဟူ၍ မြစ်တားတော်မူခဲ့လေသည်။ စင်စစ်သော်ကား ငါအရှင်မြတ်သည် ၎င်းတို့အား နှိပ်စက်ကလူ ပြုတော်မူခဲ့သည် မဟုတ်ပေ။ သို့ရာတွင်၎င်းတို့ကိုယ်တိုင် မိမိတို့ကိုယ်များကို နှိပ်စက်ကလူ ပြုလျက်ရှိခဲ့ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

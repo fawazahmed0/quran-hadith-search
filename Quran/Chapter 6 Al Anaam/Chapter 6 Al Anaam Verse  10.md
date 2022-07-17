@@ -710,6 +710,12 @@ Podigravakha se i na pratenitsi predi teb, no onezi, koito im se prismivakha, gi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	သင့်အရင်ပွင့်ခဲ့သော အလ္လာဟ်အသျှင်မြတ်၏တမန်တော်တို့လည်း သရောပျက်ချော်ခြင်းကိုခံကြရ ၏။ သို့သော် ထိုပြောင်လှောင်သူတို့အား သူတို့ပြက်ရယ်ပြုသောအရာက ဝိုင်းဝန်းထား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်၏အထက် အဆက်ဆက်က ရစူလ်တမန်တော်များသည်လည်း ပြက်ချော်ပြောင်လှောင်ခြင်းကို ထင်ရှားဧကန်အမှန် ခံ၍သွားခဲ့ကြရသည်။ထို့နောက် ယင်းရစူလ်တမန်တော်တို့အား ပြက်ချော်ပြောင်လှောင်ကြလေသောသူတို့ကို ၎င်းတို့ပြက်ချော်ပြောင် လှောင်ခဲ့ကြသော အပြစ်ဒဏ်သည်ပင်လျှင်ဝန်းဝိုင်းခဲ့ လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

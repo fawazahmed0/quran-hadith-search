@@ -710,6 +710,12 @@ I nikoĭ sred vas ne shte Ni vŭzpre ot tova
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။ သင်တို့အနက် တစ်စုံတစ်ယောက်သောသူမျှ ငါ့အား တမန်တော်ထံမှ ဆွဲငင်ထားနိုင်မည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ အသင်တို့အနက် မည်သူတစ်ဦးတစ်ယောက်မျှပင် သူ့အား ယင်းပြစ်ဒဏ်မှ ကာကွယ်တားဆီးပေးနိုင်သော သူဟူ၍လည်း ရှိမည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

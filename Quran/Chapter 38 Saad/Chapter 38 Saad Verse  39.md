@@ -710,6 +710,12 @@ Tova e Nashiyat dar [za teb, o, Sulaĭman], oblagodetelstvaĭ, ili se vŭzdŭr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	ထို့နောက် တမန်တော်ကို ငါမိန့်တော်မူသည်မှာ အို-စိုလိုင်မာန်၊ ဤသည်ဤဟာများသည် ငါက သင့်အား ချပေးသနားတော်မူသောစည်းစိမ်ဥစ္စာများတည်း၊ ထို့ကြောင့်ပေးကမ်းူစွန့်ကြဲလိုလျှင် စွန့်ကြဲလော့၊ သိုမှီးသိမ်း ဆည်းထားလိုလျှင် သိမ်းဆည်းထားလော့၊ သင့်အား ဤပစ္စည်းများအတွက် တစ်စုံတစ်ရာစစ်ကြောမေးမြန်းမည် မဟုတ်ချေဟု ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (၎င်းပြင် ငါအရှင်မြတ်သည် "စုလိုင်မာန်"အားမိန့်ကြားတော်မူခဲ့၏။) ဤသည် ငါအရှင်မြတ်၏ဆု၊ ကျေးဇူးတော်ပင်ဖြစ်၏။ သို့ရာတွင် အသင်သည် (တစ်ဦးတစ်ယောက်အား) ပေးကမ်းသည်ဖြစ်စေ၊ မပေးဘဲနေသည်ဖြစ်စေ မည်သို့မျှ စာရင်းရှင်းရန် မလိုပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

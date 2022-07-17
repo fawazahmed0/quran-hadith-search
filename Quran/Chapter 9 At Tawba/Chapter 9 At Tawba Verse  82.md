@@ -710,6 +710,12 @@ Da se smeyat malko i da plachat mnogo - vŭzmezdie za onova, koeto pridobikha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၂။	ထို့ကြောင့်သူတို့အား အနည်းငယ်ရယ်ကြစေကုန်။သူတို့သည် မိမိတို့ပြုကျင့်လေ့ရှိသောအမှုများ၏ အကျိုးဆက် ကြောင့် များစွာငိုကြွေးခြင်းဆုလာဘ်ကို ရကြလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ၊ ၎င်းတို့သည် (ဤလောကတွင်)အနည်းငယ်မျှ ရယ်မောကြစေ။ တစ်ဖန် (နောင်တမလွန်ဘဝတွင်မူ) မိမိတို့ ရှာဖွေဆည်းပူးခဲ့ကြသည်များကြောင့် များစွာငိုကြွေးကြစေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

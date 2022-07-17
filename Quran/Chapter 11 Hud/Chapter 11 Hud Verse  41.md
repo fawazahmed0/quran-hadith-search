@@ -710,6 +710,12 @@ I reche: “Kachete se v nego! V imeto na Allakh toĭ shte plava i shte se zako
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	တမန်တော်နူဟိုက မိမိအသင်းသားတို့အား အို-အသင်းသားတို့၊ ဤသင်္ဘောထက်သို့ တက်စီးကြလော့။ သင်္ဘော၏ သွားလမ်းနှင့် ကျောက်စူးချခြင်းသည် အရှင်မြတ်၏ နာမတော်၌ ဖြစ်စေလော့၊ မှတ်သားကြလော့၊ ငါ၏ အရှင်သခင်သည် အပြစ်လွှတ်တော်မူ၏။ ကောင်းကြီးမင်္ဂလာတော်ပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ထို(နဗီတမန်တော်နူဟ်) က (မိမိအိမ်သူအိမ်သားများနှင့် မုအ်မင်န်သက်ဝင်ယုံကြည်သူတို့အားအချင်းတို့) အသင်တို့သည် ထိုသင်္ဘောပေါ်သို့ စီးနင်းကြလေကုန်။ ထိုသင်္ဘော၏ သွားလာလှုပ်ရှားမှုသည်လည်းကောင်း၊ထိုသင်္ဘောဆိုက်ကပ် (ရပ်ဆိုင်း)ခြင်းသည်လည်းကောင်း၊အလ္လာဟ်အရှင်မြတ်၏နာမံတော်ဖြင့်သာ ဖြစ်ပေသည်။ ဧကန်မလွဲ ငါ့အား ဖန်ဆင်းမွေးမြူတော် မူသောအရှင်မြတ်သည်အမှန်ပင် အလွန်တရာ လွတ်ငြိမ်းချမ်းသာခွင့်ပေးတော်မူသောအရှင်၊ အလွန်တရာ သနားကြင်နာညှာတာတော်မူသောအရှင်မြတ်ပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

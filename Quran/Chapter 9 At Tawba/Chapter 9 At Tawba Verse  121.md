@@ -710,6 +710,12 @@ I malko da dadat, i mnogo da dadat, i dolina da prekosyat, shte im se zapishe, z
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၁။	နည်းများမဆို၊ သူတို့လှုသမျှကိုသော်လည်းကောင်း၊ သူတို့တောင်ကြားအရပ်ဒေသကို ဖြတ်သန်းသွားလာခြင်း ကိုသော်လည်းကောင်း၊ သူတို့ပြုသမျှကို မှတ်ပုံတင်ထားစေတော်မူ၏။သူတို့ပြုကျင့်လေ့ရှိသောအကောင်းဆုံး အမှုအခင်းများ၏ အကျိုးကို အလ္လာဟ်အရှင်မြတ်ပေးသနားတော်မူရန် ယင်းသို့စာရင်းတင်ထားစေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းအပြင် ထိုသူတို့သည် အသေးအဖွဲ သုံးစွဲခြင်းကိုလည်းကောင်း၊ အကြီးအကျယ် သုံးစွဲခြင်းကို လည်းကောင်း၊သုံးစွဲကြသည်ရှိသော်၊ ထို့အတူ ထိုသူတို့သည် မည်သည့်တောင်ကြားအရပ် တစ်ရပ်ရပ်ကိုမဆို ဖြတ်ကျော်ကြသည်ရှိသော်၊ထိုသူတို့အဖို့ ရေးသားထားရှိပြီး ဖြစ်ခဲ့သည်သာတည်း။ (ယင်းကဲ့သို့ ရေးသား၍ထားရှိခြင်းမှာ) အလ္လာဟ်အရှင်မြတ်သည်ထိုသူတို့အား ထိုသူတို့၏အပြုအမူများနှင့်စပ်လျဉ်း၍အကောင်းဆုံးသောအကျိုးကျေးဇူးတော်ကို ချီးမြှင့်ပေးသနားတော်မူခြင်းငှာ ဖြစ်ချေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ V tova ima znamenie, no povecheto ot tyakh ne sa vyarvashti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	မှတ်သားကြလော့၊ ဤအဖြစ်အပျက်တွင် နိမိတ်လက္ခဏာအ့ံဖွယ်တော်တစ်ခုအမှန်ပါရှိ၏၊ သို့ပါလျက်သူတို့အနက် များလှစွာသောသူတို့ကား မယုံကြည်သူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ဤသည်၌ ကြီးကျယ်လှစွာသော သက်သေလက္ခဏာတစ်ရပ်ရှိပေသည်။ သို့ရာတွင် ၎င်းတို့အနက် အများဆုံးသော သူတို့မှာမူကား သက်ဝင်ယုံကြည် ကြသည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

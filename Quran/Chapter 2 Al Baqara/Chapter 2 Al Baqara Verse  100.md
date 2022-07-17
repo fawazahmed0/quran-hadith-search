@@ -710,6 +710,12 @@ Nali vsyakoga, shtom se dogovaryakha s dogovor, nyakoi ot tyakh go otkhvŭrlyakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝဝ။	သင်တို့သည် ပဋိညာဉ်စာချုပ် ချုပ်ဆိုသောအခါတိုင်း သင်တို့အနက် လူတစ်စုသည် ထိုစာချုပ်ကို မရိုသေ ဖောက်ဖျက်ကြသည်မဟုတ်လော။ အမှန်ဆိုသော် သူတို့အနက် များလှစွာသောသူတို့သည် အယူမှားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုယဟူဒီဘာသာဝင်တို့သည် အလ္လာဟ် အရှင်မြတ်နှင့် ကတိဝန်ခံချက် တစ်စုံတစ်ခု ထားရှိပြီးတိုင်း ထိုသူတို့အနက်မှ လူတစ်စုသည် (အစဉ်အမြဲ) ထိုဝန်ခံချက်ကို ပယ်ဖျက်လေ့ရှိကြသည် မဟုတ်ပါလော၊ အမှန်သော်ကား၊ ယင်းသူတို့ တွင်မြောက်မြားစွာသော သူတို့သည် (မိမိတို့ထံသို့ ထုတ်ပြန်ပို့ချထားသော ကျမ်းဂန်များကိုပင်) မယုံကြည်ကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

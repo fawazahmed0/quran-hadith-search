@@ -710,6 +710,12 @@ da slijedimo čarobnjake, ako oni budu pobjednici!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄ဝ။	တိုင်းသူပြည်သားတို့က အကျွနု်ပ်တို့လည်း အစည်းအဝေးသို့ တက်ရောက်မည်။ ဝိဇ္ဇာဆရာတို့နိုင်လျှင် အကျွန်ုပ် တို့သည် သူတို့နောက်သို့ လိုက်လိုကြ၏ဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့မှသာလျှင် ကျွန်ုပ်တို့သည် ပဉ္စလက်ဆရာတို့၏ လမ်းစဉ်ကိုပင် အကယ်၍ ၎င်းတို့သည် အောင်နိုင်ကြသည်ရှိသော် လိုက်နိုင်ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kogato Denyat nastŭpi, nikoĭ ne shte progovori osven s Negovoto pozvolenie. S
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၅။	တရားစီရင်တော်မူသောနေ့တော်ကြီးကျရောက်လာသောအခါ အရှင်မြတ်၏ ခွင့်ပြုတော်မူချက်ဖြင့်မှတပါး မည်သည့်ဝိညာဉ်မျှ ပြောဆိုလိမ့်မည်မဟုတ်ချေ။ သူတို့အနက် အချို့သည် စိတ်ညစ်ကြလတ့ံ။ အချို့ကား စိတ်ရွှင်လန်းကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနေ့သည် ဆိုက်ရောက်လာသောအခါ ထိုအရှင်မြတ်၏ ခွင့်ပြုချက်မရဘဲ မည်သူတစ်ဦး တစ်ယောက်မျှပင် စကားပြောဆိုနိုင်မည်မဟုတ်ပေ။ တစ်ဖန် ထိုသူတို့အနက်အချို့မှာ အကြောင်းမလှသူများ ဖြစ်ကြပေအံ့။ အချို့မှာမူကားအကြောင်းလှသူများပင် ဖြစ်ကြလတ္တံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

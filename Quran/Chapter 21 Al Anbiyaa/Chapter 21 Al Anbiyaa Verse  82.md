@@ -710,6 +710,12 @@ I mu podchinikhme ot satanite nyakoi, koito se gmurkakha za nego i vŭrshekha i 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၂။	တဖန်ငါသည် ရှိုင်တန်နတ်ဘီလူးများကို ထိုတမန်တော်၏ အလုပ်အကျွေးဖြစ်စေတော်မူ၏၊ ထိုဘီလူးများအနက် အချို့သည် တမန်တော်စိုလိုင်မာန်အဖို့အရာ ပုလဲသန္တာစသောရတနာတို့ကို သမုဒ္ဒရာပင်လယ်အတွင်းမှ ငုတ်ယူ ကြ၏၊ အခြားအလုပ်အကိုင်များကိုလည်း လုပ်ကိုင်ကြ၏၊ ငါသည် ထိုနတ်ဆိုးတို့ကို ထိန်းသိမ်းအုပ်ချုပ်သူ ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတပါး ရှိုင်တွာန်မိစ္ဆာကောင်တို့တွင် အကြင်ရှိုင်တွာန် မိစ္ဆာကောင်များလည်း ရှိခဲ့ကြ၏။ ယင်း ရှိုင်တွာန်မိစ္ဆာကောင်များသည် ထိုစုလိုင်မာန်၏ အကျိုးငှာ(သမုဒ္ဒရာပင်လယ်၌)ရေငုပ်ခြင်းကိုလည်းကောင်း၊ အခြားအလုပ်ကိစ္စဆောင်ရွက်ခြင်းကိုလည်း ကောင်း၊ ပြုလုပ်ကြကုန်၏။ စင်စစ်သော်ကား ငါအရှင်မြတ်သည်ပင် ယင်းရှိုင်တွာန် မိစ္ဆာကောင်တို့အား ထိန်းသိမ်းစောင့်ရှောက်တော်မူသော အရှင်မြတ်ဖြစ်တော်မူ ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

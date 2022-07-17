@@ -710,6 +710,12 @@ Toĭ be ot Nashite vyarvashti rabi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၁။	မှတ်သားကြလော့၊ တမန်တော်အေဗရာဟမ်သည် ငါ၏ သမ္မာတရားတော်ကို ယုံကြည်သောကျေးတော်မျိုး ကျွန်တော်မျိုးတို့၏ ဘောင်တွင် အပါအဝင်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ထိုအီဗ်ရာဟီမ်သည် ငါအရှင်မြတ်၏ "မုအ်မင်န်" သက်ဝင်ယုံကြည်ကြကုန်သော ကျွန်တို့အနက် အပါအဝင်ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

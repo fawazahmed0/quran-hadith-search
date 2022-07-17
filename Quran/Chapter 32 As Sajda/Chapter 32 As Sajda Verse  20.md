@@ -710,6 +710,12 @@ A koito sa nechestivtsi, myastoto im e Ogŭnyat. Vsyakoga, shtom poiskat da izly
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	အကြင်သူတို့သည် ဒုစရိုက်မကောင်းမှုများကို ကျူးလွန်ကြအ့ံ၊ ထိုသူတို့နေထိုင်စံစားဖို့ရာ ငရဲမီးအသင့်ရှိ၏၊ သူတို့သည် ငရဲမီးမှ ထွက်ပြေးသောအခါတိုင်း သူတို့ကို မီးအတွင်းသို့ ပြန်ယူခဲ့၏၊ ထိုသူညစ်တို့အား မိန့်တော် မူသည်မှာ သင်တို့မရှိဟု ငြင်းသောငရဲမီး၏နှိပ်စက်ညှင်းပန်းခြင်းကို မြည်းကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် မည်သို့ပင်ဖြစ်စေ၊ အမိန့်တော်ကိုဖီဆန်ခဲ့ကြကုန်သော သူတို့၏ခိုလှုံရန်ဌာနမှာမူကား ငရဲပင်ဖြစ်လေ၏။ ၎င်းတို့သည် မည်သည့်အခါမျိုးမဆို ယင်းငရဲမှထွက်ရန် ကြံရွယ်ခဲ့ကြလျှင် ထိုငရဲမီးထဲသို့ပင် ပြန်လည်တွန်းပို့ြ့ခင်းကိုခံကြရပေမည်။ ထိုမှတစ်ပါး ၎င်းတို့မှာ အသင်တို့သည်မဟုတ်မမှန်ဟု စွပ်စွဲငြင်းပယ်လျက် ရှိခဲ့ကြကုန်သော ငရဲမီး၏ပြစ်ဒဏ်ကို မြည်းစမ်းကြလေကုန် ဟု ပြောဆိုခြင်းကိုလည်းခံကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

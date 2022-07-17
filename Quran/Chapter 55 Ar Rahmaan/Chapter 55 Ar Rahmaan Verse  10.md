@@ -710,6 +710,12 @@ I polozhi Toĭ zemyata za tvarite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	မဟာကရုဏာတော်ရှင်သည် ဝေနေယျသတ္တဝါအပေါင်းတို့အဖို့ရာ မဟာပထဝီမြေကြီးကို ကျယ်ဝန်းပြန့်ပြူးစွာ ခင်းထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ပထဝီမြေကို ထိုအရှင်မြတ်သည်ပင် အဖန်ဆင်းခံတို့၏အကျိုးငှာ ထားရှိတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

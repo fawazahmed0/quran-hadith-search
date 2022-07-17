@@ -710,6 +710,12 @@ I popitaĭ selishteto, v koeto byakhme, i kervana, s koĭto pristignakhme! Nie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၂။	အကျွနု်ပ်တို့တည်းခိုနေထိုင်ခဲ့သောမြို့သူမြို့သားတို့နှင့် အကျွနု်ပ်တို့နှင့်အတူသွားအတူလာသောခရီးသည်တို့ကို မေးမြန်းပါ။ အကယ်စင်စစ်အကျွနု်ပ်တို့သည် အမှန်စကားကို ဆိုကြပါ၏ဟု ပြောလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်(ဖခင်)သည် ကျွန်တော်တို့ နေထိုင်ခဲ့ကြသော (အီဂျစ်)မြို့သူမြို့သားများကို လည်းကောင်း၊ကျွန်တော်မျိုးတို့နှင့် အတူလာခဲ့ကြသော ခရီးသည်စုကိုလည်းကောင်း၊ စုံစမ်းမေးမြန်း၍ကြည့်ပါ။ ဧကန်မလွဲ ကျွန်တော်တို့သည် သစ္စာဝါဒီများပင် ဖြစ်ကြပါသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

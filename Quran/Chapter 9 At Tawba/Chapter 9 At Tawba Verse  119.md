@@ -710,6 +710,12 @@ O, vyarvashti, boĭte se ot Allakh i bŭdete s pravdivite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၉။	အို-ယုံကြည်သူအပေါင်းတို့၊ သင်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ အမှုတော်ကို ကောင်းစွာသတိပြုကြလော့။မှန်ကန်ဖြောင့်မတ်သူတို့နှင့် အတူတကွရှိကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-မုအ်မင်န် သက်ဝင်ယုံကြည်သူအပေါင်းတို့၊ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား ကြောက်ရွံ့ကြလေကုန်၊ ထို့ပြင် အသင်တို့သည် သစ္စာဝါဒီတို့နှင့်အတူ ရှိကြလေကုန်။ သစ္စာဝါဒီနှင့်အတူ နေထိုင်ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

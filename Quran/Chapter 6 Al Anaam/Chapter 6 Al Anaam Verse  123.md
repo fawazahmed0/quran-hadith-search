@@ -710,6 +710,12 @@ Taka storikhme vŭv vsyako selishte golemtsi da sa negovite prestŭpnitsi, za da
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၃။	အလ္လာဟ်အသျှင်မြတ်သည် မြို့ကြီးတိုင်း၌ မိုက်မဲသော မြို့သူ၊ မြို့သားတို့အနက် အကြီးအကဲ တင်မြှောက်တော်မူ၏။ သူတို့သည် မကောင်းသော အကြံအဖန်များထုတ်ဖို့ရန်ဖြစ်၏။ သူတို့သည် မိမိတို့ အကျိုးဆုတ်ယုတ်စေရန်သာ ကြံဖန်ကြ၏။ သူတို့သည် မသိမမြင်ကြပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုနည်းနှင်နှင် ငါအရှင်မြတ်သည် မြို့ရွာတိုင်းတွင် ထိုမြို့ရွာများ၏ အကြီးအကဲများကို မကောင်းကြံစည်ကြရန် ပြစ်မှုကျူးလွန်သူများ ဖြစ်စေတော်မူခဲ့၏။အမှန်သော်ကား ယင်းသူတို့သည် မိမိတို့ ကိုယ်နှင့်ဆန့်ကျင်၍သာ မကောင်းကြံစည်ကြသည်။ သို့ရာတွင် ယင်းသူတို့သည်(ဤသည်ကိုပင်) မသိ နားမလည်ကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

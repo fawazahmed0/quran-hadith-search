@@ -710,6 +710,12 @@ I shtom uznae neshto ot Nashite znameniya, toĭ im se podigrava. Za tezi shte i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	ထိုသူသည် ငါ၏နှုတ်ကပတ်တော်များမှ တစ်စုံတစ်ခုသောဂါထတော်ကို သိရသောအခါ သူသည် ထိုဂါထာတော် ကို ပျက်ရယ်၏၊ ဤလူအမျိုးအစားအဖို့အရာ အလွန်ရှက်ဖွယ်သောအပြစ်ဒဏ်တော်ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုသူသည် ငါအရှင်မြတ်၏ အာယတ်တော်များအနက် အာယတ်တော် တစ်စုံတစ်ရာကို သိရှိခဲ့သောအခါ ၎င်းသည် ယင်းအာယတ်တော်ကိုပင် ပြက်ရယ်ပြောင်လှောင်ဖွယ်ရာ ပြုလုပ်လေ့ရှိ၏။ ထိုကဲ့သို့သောသူတို့၌ ကျိုးယုတ်ရှက်ရဖြစ်စေသော ပြစ်ဒဏ်သည် ရှိချေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

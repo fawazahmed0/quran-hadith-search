@@ -710,6 +710,12 @@ Sŭobshtavam vi poslaniyata na moya Gospod i vi nastavlyavam, i znam ot Allakh o
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	အကျွနု်ပ်သည် မိမိ၏ကျေးဇူးတော်သခင်၏ ဗျာဒိတ်တော်များကို သင်တို့အား ပို့ဆောင်ဟောပြော ၏။ ဆုံးမသြဝါဒပေး၏။ သင်တို့မသိသည်ကို အကျွနု်ပ်သည် အလ္လာဟ်အသျှင်မြတ်အထံတော်မှ သိရှိရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါသည် မိမိအရှင်မြတ် မှာကြားလိုက်သောအမိန့်တော်များကို အသင်တို့ထံ ပို့ဆောင်ပါသည်။ ၎င်းပြင်ငါသည် အသင်တို့၏အကျိုးကိုလည်း လိုလားပါသည်။ ထို့ပြင်တဝ ငါသည် အလ္လာဟ်အရှင်မြတ်အထံတော်မှ အသင်တို့ မသိနားမလည်သော အရာများကိုလည်း သိရှိပါသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

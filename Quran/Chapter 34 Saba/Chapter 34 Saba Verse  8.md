@@ -710,6 +710,12 @@ Toĭ lŭzha li za Allakh izmislya, ili pŭk e lud?” Ala ne, koito ne vyarvat 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	ထိုသူသည် အလ္လာဟ်အရှင်မြတ်အပေါ်၌ မဟုတ်မမှန်လုပ်ကြံစွပ်စွဲလေသလော၊ သို့တည်းမဟုတ်သူရူးသူနှမ်းပင် ဖြစ်လေသလောဟုလည်း ပြောဆိုကြသေး၏၊ သို့မဟုတ်ချေ၊ နောင်တမလွန်ဘဝကို မယုံကြည်သူတို့သည် အပြစ်ဒဏ်ညှင်းပမ်းနှိပ်စက်ခြင်း၌သော်လည်းကောင်း၊ လမ်းမှားလမ်းလွဲ၌သော်လည်းကောင်း၊ နစ်မွန်းမျောပါ သူများသာဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူသည် အလ္လာဟ်အရှင်မြတ်အပေါ်၌ မုသားကို ကြံဖန်စွပ်စွဲခဲ့လေသလော၊ သို့တည်းမဟုတ် ထိုသူ၌ ရူးသွပ်ခြင်းဝေဒနာ ရှိနေသလော။ ထိုသို့ အလျှင်းမဟုတ်။ စင်စစ်မှာကား အာခိရတ် တမလွန်ဘဝကို မယုံကြည်သောသူတို့သည်သာလျှင် ပြစ်ဒဏ်၌လည်းကောင်း၊ ဝေးလံသော လမ်းမှားမှု၌လည်းကောင်း၊ ရှိနေကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

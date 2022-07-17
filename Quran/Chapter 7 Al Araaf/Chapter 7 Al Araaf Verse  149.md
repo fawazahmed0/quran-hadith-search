@@ -710,6 +710,12 @@ I kogato sŭzhalikha, i razbrakha, che sa se zabludili, kazakha: “Ako nashiyat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၉။	သူတို့သည် ထိုနွားကိုးကွယ်မှု၏အပြစ်ကို ကြောက်ရွံ့တုန်လှုပ်ကြသောအခါ မိမိတို့သည် လမ်းမှားသို့ ရောက်နေသည်ကိုမြင်ကြသောအခါ သူတို့ပြောဆိုမြည်တမ်းကြသည်မှာ အကယ်၍ အကျွနု်ပ်တို့၏ အသျှင်သခင်သည် အကျွနု်ပ်တို့အား သနားစောင့်ရှောက်ချီးမြှောက်တော်မမူ၊ အပြစ်လွှတ်တော် မမူပါလျှင် အကျွနု်ပ်တို့သည် ပျက်စီးဆုံးရှုံးသူတို့ဘောင်တွင် ပါဝင်သူများ မုချဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ၎င်းတို့သည် ဝမ်းနည်းပက်လက်ဖြစ် ၍မိမိတို့သည် လမ်းမှားနေကြပြီဖြစ်ကြောင်း သိမြင်ကြသောအခါ(ဤသို့ညည်းညူမြီတမ်းပြောဆိုကြကုန်၏။) အကယ်၍ ငါတို့၏အရှင်မြတ်သည် ငါတို့အား သနားကြင်နာတော်မမူခဲ့ပါလျှင်(အပြစ်)မှလွတ်ငြိမ်းချမ်းသာခွင့်ပေးတော်မမူခဲ့ပါလျှင် ဧကန်မလွဲ ငါတို့သည် ဆုံးရှုံးနစ်နာသူတို့တွင် အပါအဝင် ဖြစ်ကြရတော့မည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

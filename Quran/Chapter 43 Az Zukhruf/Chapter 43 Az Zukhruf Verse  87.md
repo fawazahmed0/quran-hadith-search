@@ -710,6 +710,12 @@ I ako gi popitash koĭ gi e sŭtvoril, shte kazhat: “Allakh!” Kak togava bi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၇။	အို-တမန်တော်၊ သင်သည် သူတို့အား သူတို့ကို အဘယ်သူဖန်ဆင်းသနည်းဟု မေးလျှင် သူတို့က အလ္လာဟ် အရှင်မြတ်ဟု မုချဧကန်ပြန်ပြောကြလတ့ံ၊ သို့ပါလျက်သူတို့သည် အဘယ်ကြောင့် လှည့်သွားကြသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား (အို-နဗီတမန်တော်)အကယ်၍သာ အသင်သည် ၎င်းတို့အား အသင်တို့ကို မည်သူ ဖန်ဆင်းခဲ့သနည်းဟု စုံစမ်းမေးမြန်းခဲ့ပါလျှင် ၎င်းတို့က အလ္လာဟ်အရှင်မြတ်ပင်(ဖန်ဆင်းတော်မူခဲ့သည်)ဟု ဧကန်မလွဲ ပြောဆို(ဖြေကြား)ကြပေမည်။ သို့ပါလျက် ၎င်းတို့သည် အဘယ်သို့ ပြန်လှည့်သွားနေကြသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

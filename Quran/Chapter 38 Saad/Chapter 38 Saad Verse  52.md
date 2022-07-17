@@ -710,6 +710,12 @@ I shte ima pri tyakh vrŭstnichki s tselomŭdren pogled
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၂။ ထို့အပြင်သူတို့အပါးတွင် စက္ခုအိန္ဒြေရှိသောနတ်ကညာများူလည်းရှိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး၊ ၎င်းတို့ထံတွင် မျက်စိကို အောက်သို့ နှိမ့်ထားလေ့ရှိကြသော မိန်းမများလည်း ရှိကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

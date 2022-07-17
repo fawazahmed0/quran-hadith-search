@@ -710,6 +710,12 @@ Az oproshtavam vseki, koĭto se pokae i vyarva, i vŭrshi pravedni dela, setne 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၂။	မှတ်သားကြလော့၊ အကြင်သူသည် တရားသံဝေဂရ၏။ ယုံကြည်၏၊ ကုသိုလ်ကောင်းမှုပြုကျင့်၏၊ ထို့နောက် လမ်းမှန်ကို လိုက်အံ့၊ ထိုသူအားငါသည် အပြစ်လွှတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကြင်သူ နောင်တတရားရရှိခဲ့သည့်ပြင်(အလ္လာဟ်အရှင်မြတ်အားလည်း) သက်ဝင်ယုံကြည်ခဲ့ပေသည်။ ထိုမှတစ်ပါး ကောင်းမြတ်သောအကျင့်သီလများကိုလည်းကျင့်မူ ဆောက်တည်ခဲ့ပေသည်။ ထို့နောက် တရားလမ်းမှန်ပေါ်၌ တည်ရှိနေခဲ့၏။ ထိုသူအား ငါအရှင်မြတ်သည်အလွန်တရာ ခွင့်လွှတ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ i vecher. Ne shte li proumeete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၇၊၁၃၈။ တဖန်မှတ်သားကြလော့၊ ကြားနရသူအပေါင်းတို့၊ သင်တို့သည် ၎င်းလူဟောင်းတို့နေထိုင်ဖူးသောမြို့ဟောင်း ရွာဟောင်းများသို့ နေ့ညဉ့်မပြတ်အထပ်ထပ်မုချဧကန် သွားလာရောက်ပေါက်ဖူးကြ၏၊ ထိုိ့ကြောင့်သင်တို့တွင် စဉ်းစားဉာာဏ်မရှိကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ (အသင်တို့သည်) ညဉ့်အခါ၌လည်း(ဖြတ်သန်းသွားလာလျက် ရှိကြပေသည်၊)သို့ပါလျက် အသင်တို့သည် (မစဉ်းစားမဆင်ခြင်) မသိ နားမလည်ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

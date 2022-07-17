@@ -710,6 +710,12 @@ I ne vzimaĭ drug za Bog zaedno s Allakh, ta da ne se okazhesh poritsavan, uniz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	လူသား သင်သည် အပြစ်တင်ခံရခြင်းနှင့် စွန့်ပစ်ခြင်းတို့မှ ကင်းဝေးစိမ့်သောငှာ အလ္လာဟ်အရှင်မြတ်နှင့် အခြားဘုရားကို မတွဲဖက်လင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်သည် အလ္လာဟ်အရှင်မြတ်နှင့်အတူမည်သည့် ကိုးကွယ်ရာကိုမျှ (တွဲဖက်ကိုးကွယ်ခြင်းကို) မပြုလုပ်လေနှင့်။ သို့ပြုခဲ့ပါလျှင် အသင်သည် ပြစ်တင်ရှုတ်ချခြင်းခံရလျက် (ကူညီစောင်မသူအဆွေခင်ပွန်းများကင်းမဲ့စွာ) စွန့်ပစ်ထားခြင်းခံရလျက်(တစ်ကိုယ်တည်း)ထိုင်၍နေရမည်သာတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

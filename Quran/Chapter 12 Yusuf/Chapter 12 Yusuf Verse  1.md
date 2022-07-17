@@ -710,6 +710,12 @@ Alif. Lam. Ra. Tezi sa znameniyata na yasnata Kniga
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။	အလီ(ဖ်)၊လမ်၊မြီ၊ရာ၊ ဤဂါထာတော်များသည် အလွန်ထင်ရှားရှင်းလင်းသောကျမ်းတော်မြတ်၏ ဂါထာတော် များတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလစ်ဖ်၊ လာမ်၊ ရာ။ ဤသည်တို့ကားအလွန်ထင်ရှားသော ကျမ်းဂန်၏ စာပိုဒ်များပင် ဖြစ်ကြပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

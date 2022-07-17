@@ -710,6 +710,12 @@ Posle losh shte bŭde krayat za onezi, koito zlostorstvat, zashtoto vzimat za l�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	မကောင်းမှုကို ပြုကျင့်သူတို့သည် မကောင်းကျိုးကိုသာ ခံစားရ၏၊ အကြောင်းမူကားသူတို့သည် အလ္လာဟ် အရှင်မြတ်၏ နှုတ်ကပတ်တော်များကို မယုံကြည်ပြောင်လှောင်ရယ်မောကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ဆိုးယုတ်သောအမှုကိစ္စကို ပြုမူပွားများခဲ့ကြကုန်သော သူတို့၏ နောက်ဆုံးအကျိုးမှာ အဆိုးဆုံးပင်ဖြစ်ခဲ့လေ၏။ အကြောင်းသော်ကား ၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ်၏ သက်သေလက္ခဏာများကို မဟုတ်မမှန်ဟု စွပ်စွဲငြင်းပယ်ခဲ့ကြသည်သာမက ယင်းသက်သေ လက္ခဏာများကိုပင် ပြက်ချော်ပြောင်လှောင်သမှု ပြုခဲ့ကြပေသေးသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

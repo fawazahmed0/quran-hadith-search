@@ -710,6 +710,12 @@ Rekokha: “Ne narushikhme obeshtanieto si kŭm teb po sobstvena volya, a byakhm
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၇။	သူတို့က အကျွနု်ပ်တို့သည် သင်နှင့်ထားသောကတိသစ္စာကို မိမိတို့အလိုအလျောက်ဖျက်ကြသည်မဟုတ်ချေ၊ အကျွနု်ပ်တို့သည် တစ်မျိုးလုံး၏ရွေငွေတန်ဆာပလာများကို သယ်ပိုးထမ်းဆောင်ရကြ၏။ လေးလံသဖြင့် ၎င်း တို့ကို မီးထဲသို့ ပစ်ချကြ၏။ ယင်းသို့ပြုလုပ်ရန် စာမရီက အကြံပေး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ယင်းအမျိုးသားတို့က (ဤသို့) ပြောကြားခဲ့ကြကုန်၏။ (အို-နဗီတမန်တော်မူစာ၊ စင်စစ်) ကျွန်ုပ်တို့သည် အသင်နှင့်ထားရှိခဲ့သော ကတိကို မိမိတို့ အလိုသဘောနှင့်ဖောက်ဖျက်ခဲ့ကြသည်မဟုတ်။ သို့ရာတွင် ကျွန်ုပ်တို့မှာမူကား(ကစ်ဗ်တီ) အမျိုးသားတို့၏လက်ဝတ်လက်စားများကို သယ်ပိုးယူဆောင်လာခဲ့ကြရလေသည်။ သို့ဖြစ်ပေရာ ကျွန်ုပ်တို့သည်ယင်းလက်ဝတ်လက်စားများကို(မီးထဲသိ)ု့ပစ်ချခဲ့ကြပေသည်။ထို့နောက် စာမိရီသည်လည်းထိုနည်းအတိုင်းပင်ပစ်ချခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ i konje, i mazge, i magarce – da ih jašete, i kao ukras – a stvara i ono š
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	ထို့အပြင်အရှင်မြတ်သည် သင်တို့စီးနင်းသွားလာဖို့ရာသော်လည်းကောင်း၊ ခန့်ငြားတင့်တယ်ဖို့ရာသော်လည်း ကောင်း၊ မြင်း၊ မြည်းတိရိစ္ဆာန်များကို ဖန်ဆင်းတော်မူ၏။ ထို့အပြင်သင်တို့မသိသောအရာများကိုလည်း ဖန်ဆင်း တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (ထိုအရှင်မြတ်သည်ပင်လျှင်)မြင်း၊ လားနှင့်မြည်းတိရစ္ဆာန်များကိုလည်း အသင်တို့သည် ၎င်းတို့ကို စီးနင်းကြရန်လည်းကောင်း၊ (အသင်တို့အဖို့)လှပတင့်တယ်မှုရှိစေရန်လည်းကောင်း၊ (ဖန်ဆင်းတော်မူခဲ့ပေသည်)။ ထိုနည်းတူစွာထိုအရှင်မြတ်သည် အသင်တို့မသိကြသော (မြောက်များစွာသော)အရာများကိုလည်း ဖန်ဆင်းတော်မူလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

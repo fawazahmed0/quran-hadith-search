@@ -710,6 +710,12 @@ Nauchi go [na nego] mnogosilniyat [Dzhibril]
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	ထိုဗျာဒိတ်တော်သည် သူ့အား တန်ခိုးစွမ်းအားနှင့်ပြည့်စုံသောကောင်းကင်တမန်တော်တစ်ပါး သင်ကြားပေး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အသင်တို့၏) ထိုအဖော်အား အလွန်အားအင်ကြီးမားသူ (ကောင်းကင်တမန်)သည် သင်ကြားပို့ချ၍ ပေးခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

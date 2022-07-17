@@ -710,6 +710,12 @@ Nima onzi, koĭto sledva blagovolenieto na Allakh, e kato onzi, koĭto e izpit
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၂။	အကြင်သူသည် အလ္လာဟ်အသျှင်မြတ်၏ နှစ်သက်တော်မူခြင်းကိုရှာမှီး၏။ ထိုသူသည် အလ္လာဟ် အသျှင်မြတ် ကျိန်ဆဲတော်မူခြင်းခံရသော အလွန်ယုတ်သော ခရီးဆုံးဖြစ်သည့် ငရဲတွင် နေရသောသူနှင့် ထပ်တူထပ်မျှဖြစ်မည်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ရာ အလ္လာဟ်အရှင်မြတ်၏ နှစ်သက်လိုလားမှုကို လိုက်နာပြုလုပ်သောသူသည် အကြင် သူ(ယုတ်)ကဲ့သို့အဘယ်မှာလျှင် ဖြစ်နိုင်အံနည်း။ ထိုသူယုတ်သည် အလ္လာဟ်အရှင်မြတ်၏ အမျက်တော်ကိုခံစားခဲ့ရ၏။ ထိုသူ၏ ပြန်လည်ရာဌာနသည် ငရဲဘုံဖြစ်၏။ ထိုငရဲဘုံသည် အလွန် ယုတ်ညံ့ဆိုးရွားလှသော ပြန်လည်ရာဌာနပင် ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

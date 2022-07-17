@@ -710,6 +710,12 @@ Nikoĭ ne shte vŭzpre milostta na Allakh, ako Toĭ reshi da ya dari na khorat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	အလ္လာဟ်အရှင်မြတ်သည် လူသားတို့အတွက် မိမိ၏ကောင်းကြီးမင်္ဂလာတံခါးတော်ကို ဖွင့်ထားတော်မူလျှင် ထိုတံခါးတော်ကို ပိတ်ဆို့နိုင်သူတစ်စုံတစ်ယောက်မျှမရှိ၊ ထိုကောင်းကြီးမင်္ဂလာတံခါးတော်ကို အရှင်မြတ်ပိတ်ထား ပါလျှင် မည်သူတစ်စုံတစ်ယောက်မျှ ဖွင့်ထားခြင်းငှာမတတ်စွမ်းနိုင်ချေ၊ အလ္လာဟ်အရှင်မြတ်သည် အနန္တ တန်ခိုးတော်သခင်၊ သဗ္ဗညုတဉာာဏ်တော်ရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်က လူတို့အဖို့ ဖွင့်ပေးတော်မူသော ကရုဏာတော်ကို ပိတ်ပင်တားဆီးနိုင်သူဟူ၍ အလျင်းမရှိချေ။ ထိုနည်းတူစွာ ထိုအရှင်မြတ် ပိတ်ပင် တားဆီးတော်မူသောအရာကိုလည်း ထိုအရှင်မြတ်ပိတ်ပင် တားဆီးတော်မူပြီးနောက် ပို့ပေးနိုင်သောသူဟူ၍ အလျှင်းမရှိပြီ။ စင်စစ်ထိုအရှင်မြတ်သည်ပင် အလွန်တရာ လွှမ်းမိုးတော်မူသောအရှင်၊ အလွန်တရာ ဆင်ခြင်တုံတရားနှင့် ပြည့်စုံတော်မူသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

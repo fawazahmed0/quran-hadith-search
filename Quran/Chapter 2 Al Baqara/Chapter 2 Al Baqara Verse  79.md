@@ -710,6 +710,12 @@ Gorko na onezi, koito s rŭtsete si pishat Pisanieto, posle izrichat: “Tova e 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၉။	ထို့ကြောင့် အကြင်သူတို့သည် မိမိတို့စိတ်ထင်ရာလုပ်ကြံ၍ရေးသောကျမ်းကို ဤကျမ်းတော်ကား အလ္လာဟ်အရှင်မြတ်ထံမှ ကျရောက်လာသောကျမ်းစာတည်းဟု ပြောကြအ့ံ။ ထိုသူတို့သည် ပျက်စီး ဆုံးရှုံးရမည်သာတည်း။ သူတို့သည် ကျမ်းတော်ကို အရင်းအနှီးပြု၍ အနည်းငယ်သော ကျမ်းစာ ကြောင့် အပြစ်ဒဏ်ခံရကြမည်။ ထိုလုပ်ကြံမှုမှရသော ဥစ္စာပစ္စည်းကြောင့်လည်း အပြစ်ဒဏ် ခံရ ကြမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်၍ ကျမ်းဂန်များကို မိမိတို့ကိုယ်တိုင် မိမိတို့လက်ဖြင့် စီရင်ရေးသားပြီး အနည်းငယ် မျှသောအဖိုးအခနှင့် လဲလှယ်ရောင်းချ(စားသုံး)ရန် အလို့ငှါ၊ ဤကျမ်းဂန်သည်ကား အလ္လာဟ် အရှင်မြတ်အထံတော်မှ (ထုတ်ပြန်ပို့ချတော်မူသောတရား ဒေသနာတော်ကျမ်းဂန်)တည်း ဟူ၍(လိမ်လည်) ပြောဆိုကြသော သာသနာ့ ရှေ့ဆောင် ရှေ့ရပ်တို့သည် ပျက်စီးကြရကုန်လတ္တံ့။ တဖန် ယင်းသူတို့သည် မိမိတို့ကိုယ်တိုင် မိမိတို့လက်ဖြင့် (မဟုတ်မမှန်) ရေးသား ခဲ့ခြင်းကြောင့်လည်းကောင်း၊ (မပြုထိုက်မပြုအပ်သော နည်းမျိုးဖြင့်ဥစ္စာပစ္စည်း) ရှာဖွေခြင်းကြောင့်လည်းကောင်း ပျက်စီးကြရလတ္တံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

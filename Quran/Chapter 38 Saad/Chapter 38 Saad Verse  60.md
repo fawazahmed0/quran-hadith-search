@@ -710,6 +710,12 @@ Shte otvŭrnat: “Ne, za vas nyama pozdrav. Vie ni navlyakokhte tova. I kolko l
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၀။	သူတို့က ဟယ်-လမ်းမှားသို့ သွေးဆောင်သောသူယုတ်မာကြီးတို့၊ သင်တို့ကို ခရီးဦးကြိုဆိုဖို့ရာ နှစ်သိမ့်စေ သောစကားမရှိချေ၊ သင်တို့သည် မိမိတို့ဖျားယောင်းသွေးဆောင်ခြင်းအားဖြင့် ငါတို့ကို ဤဘေးဒဏ်သို့ ယူဆောင် လာကြ၏၊ ယခုမူကား ကံဆိုးမိုးမှောင်ဘဝသို့ ရောက်ရချေပြီဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ နောက်လိုက်ငယ်သားတို့က "ထိုသို့အလျှင်းမဟုတ်၊ စင်စစ်မှာကား အသင်တို့သည်သာလျှင် ခုံမင်စွာ နှုတ်ဆက်ခြင်းနှင့် ကင်းဝေးနေကြစေသား။ အသင်တို့သည်ပင်လျှင် ဤဒုက္ခကို ကျွန်ုပ်တို့၏ ရှေ့ဝယ် ယူဆောင်ခဲ့ကြလေသည်"ဟု ပြောဆိုကြပေမည်။ စင်စစ်မှာကား ယင်းနေရာထိုင်ခင်းသည် လွန်စွာဆိုးရွားလှသော နေရာထိုင်ခင်းပင်ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

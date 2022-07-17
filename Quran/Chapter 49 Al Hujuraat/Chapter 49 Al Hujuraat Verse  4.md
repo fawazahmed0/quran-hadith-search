@@ -710,6 +710,12 @@ Onezi, koito te prizovavat izzad staite - povecheto ot tyakh ne proumyavat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	အို-တမန်တော်၊ အကြင်သူတို့သည် သင့်အား အဆောင်တော်၏ အပြင်မှ ခေါ်ဝေါ်ကြားလျှောက်ကြအ့ံ၊ ထို သူတို့အနက် များစွာသောသူတို့သည် အသိဉာာဏ်သေးသူတို့ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အသင့်အား အခန်းများ၏ အပြင်ဘက်မှ ဟစ်ခေါ်ကြကုန်သော သူတို့အနက် အများစုမှာ မသိနားမလည်ကြပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

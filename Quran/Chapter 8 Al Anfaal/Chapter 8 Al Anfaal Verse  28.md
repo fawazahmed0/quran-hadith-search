@@ -710,6 +710,12 @@ I znaĭte, che imotite i detsata vi sa izpitanie, i che pri Allakh ima ogromna 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(၂၈။	သင်တို့၏ စည်းစိမ်ဥစ္စာ၊ သားသမီး အေြ)ွခအရံတို့သည် သင်တို့အား စမ်းသပ်ဖို့ရာဖြစ်ကြကြောင်း အလ္လာဟ်အသျှင်မြတ်အထံတော်၌ ကြီးမားသောဆုတော်ရှိကြောင်းတို့ကို မှတ်သားကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အသင်တို့၏ဥစ္စာပစ္စည်းများနှင့်သားသ္မီးများသည် စမ်းသပ်မှုတရပ်သာလျှင်ဖြစ်သည်ကို လည်းကောင်း၊အလ္လာဟ်အရှင်မြတ်အထံတော်တွင် အလွန်ကြီးကျယ်သောအကျိုးဆုလာဘ်သည် ဧကန်စင်စစ်ရှိသည်ကိုလည်းကောင်း၊အသင်တို့ (ကောင်းစွာ) သိထားကြလေကုန်။(ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

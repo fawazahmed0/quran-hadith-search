@@ -710,6 +710,12 @@ Kakvoto i znamenie da otmenim ili nakarame da se zabravi, donasyame po-dobro ili
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၆။	အကြင်ကျမ်းတော်များကို ငါအရှင်မြတ်သည် ရုပ်သိမ်းတော်မူ၏။ သို့မဟုတ် မေ့လျော့ပျောက်ကွယ် စေတော်မူ၏။ ထိုကျမ်းတော်များအစား ငါသည်သာလျှင် ကောင်းမြတ်သော သို့မဟုတ် တူမျှသော ကျမ်းတော်ကို စီရင်ပေးတော်မူ၏။ အလ္လာဟ်အရှင်မြတ်သည် အရာရာကို ပြုစွမ်းနိုင်တော်မူသည်ကို မသိသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍ ငါအရှင်သည် အကြင် အာယတ်တော်(၏အမိန့်တော်)ကို ရပ်စဲတော်မူအံ့၊ သို့တည်း မဟုတ် ထိုအာယတ်တော်ကိုပင် မေ့ပျောက်စေတော် မူအံ့၊ ငါအရှင်သည် ထိုအာယတ်တော်ထက် ပိုမို သင့်မြတ်သော အာယတ်တော်ကို သော်လည်းကောင်း၊ ထိုအာယတ်တော်နှင့် အလားတူ အာယတ်တော်ကို သော်လည်းကောင်း၊ ထုတ်ပြန်ပို့ချတော်မူသည်။ ဧကန်အမှန် အလ္လာဟ် အရှင်မြတ်သည် ချင့်ချိန် မှန်းဆ၍ စွမ်းဆောင်နိုင်တော်မူသော အနန္တတန်ခိုးတော်ရှင်ဖြစ်သည်ကို အသင်သည် မသိပါသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

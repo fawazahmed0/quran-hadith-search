@@ -710,6 +710,12 @@ i vi dava ot vsichko, za koeto Go molite. I ako presmyatate blagodeyaniyata na A
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	တဖန်အရှင်မြတ်သည် သင်တို့ဆုတောင်းသမျှကို ပေးသနားတော်မူ၏။ အကယ်၍သင်တို့သည် အရှင်မြတ်၏ ကျေးဇူးတော်ကို ရေတွက်သော် ရေတွက်၍ မကုန်ဆုံးနိုင်ချေ။ မှတ်သားကြလော့။ လူသားသည် မတရားမှု ပြုကျင့်သူ၊ ကျေးဇူးကန်းသူအမှန်ပင်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် အသင်တို့အားထိုအရှင်မြတ်အထံတော်၌ အသင်တို့ အသနားခံခဲ့ကြသည့်အရာအလုံးစုံတို့အနက်မှလည်း ချီးမြှင့်ပေးသ နားတော်မူခဲ့ပေသည်။ စင်စစ်သော်ကား အကယ်၍ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ ကျေးဇူးတော် (များ)ကို ရေတွက်ကြသည်ရှိသော်အသင်တို့သည် ယင်းကျေးဇူးတော်(များ)ကို ရေတွက်နိုင်ကြမည် မဟုတ်ပေ။ မလွဲဧကန် မနုဿလူသား(တို့)သည် အမှန်ပင် အလွန်မတရားသောသူ(များ)အလွန်ကျေးဇူးကန်းသူ(များ)ပင် ဖြစ်(ကြ)ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

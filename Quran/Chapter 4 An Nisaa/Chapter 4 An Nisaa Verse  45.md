@@ -710,6 +710,12 @@ Allakh naĭ-dobre znae vragovete vi. Dostatŭchen e Allakh za pokrovitel i dost
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	အဘယ်သူတို့သည် သင်တို့၏ရန်သူများဖြစ်သည်ကို အလ္လာဟ်အသျှင်မြတ်သည် ကောင်းစွာ သိမြင်တော်မူ၏။ အလ္လာဟ်အသျှင်မြတ်သည် အဆွေခင်ပွန်းအဖြစ်ဖြင့် လုံလောက်တော်မူ၏။ အလ္လာဟ်သည် ကူညီစောင်မသူအဖြစ်ဖြင့်လည်း လုံလောက်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့၏ရန်သူများကို ကောင်းစွာ သိရှိတော်မူလေသည်။ ၎င်းပြင် အလ္လာဟ်အရှင်မြတ်သည် (အသင်တို့အဖို့) ပြုစုစောင့်ရှောက်တော်မူသော မိတ်သဟာယအဖြစ်လည်း လုံလောက်တော်မူပေသည်။ ထိုမှတစ်ပါး အလ္လာဟ်အရှင်မြတ်သည် (အသင်တို့အဖို့) ကူညီစောင်မတော်မူသော အရှင်မြတ်အဖြစ်လည်း လုံလောက်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Toĭ shte obgŭrne khorata. “Tova e bolezneno mŭchenie.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	ထိုအခိုးအလျှံတို့သည် လူသားတို့ကို ဝိုင်းဝန်းဖုံးအုပ်ထားလိမ့်မည်၊ ဤသည်ကား အလွန်ပြင်းပြနာကျယ်ဖွယ်သော အပြစ်ဒဏ်တော်ကြီးဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းအခိုးအငွေ့သည် (ဤ)သူအားလုံးတို့ကို ဖုံးလွှမ်း၍သွားပေမည်။ ဤသည် အလွန်တရာ နာကျင်ဖွယ်ကောင်းသော ပြစ်ဒဏ်ပင်ဖြစ်မည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

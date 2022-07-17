@@ -710,6 +710,12 @@ Shte vi ot·seka rŭtsete i krakata krŭstom, posle vsichki vi shte razpŭna.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၄။	မုချဧကန် ငါသည် သင်တို့၏ လက်ခြေများကို လက်ဝဲ၊ လကျ်ာတစ်ဖက်စီ ဖြတ်စေမည်။ ထို့နောက် ငါသည် သင်တို့ကို တစ်ယောက်မကျန် ကားတိုင်တင်၍ ကွပ်မျက်စေမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါသည် မုချမလွဲ အသင်တို့၏လက်များကိုလည်းကောင်း၊ အသင်တို့၏ခြေများကိုလည်းကောင်း၊ (ဝဲယာ)လွှဲ၍ ဖြတ်တောက်မည်။ ထို့နောက် ငါသည် မုချဧကန်အသင်တို့ အားလုံးကို လက်ဝါးကပ်တိုင်တင်မည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

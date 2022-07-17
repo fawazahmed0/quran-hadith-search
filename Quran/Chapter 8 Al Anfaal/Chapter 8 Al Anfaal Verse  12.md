@@ -710,6 +710,12 @@ Tvoyat Gospod razkri na angelite: “Az sŭm s vas. Podkrepyaĭte vyarvashtite!
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	သင်၏အသျှင်သခင်သည် ကောင်းကင်တမန်တော်တို့အား ငါအသျှင်မြတ်သည် သင်တို့နှင့်အတူ တကွရှိတော်မူ၏။ ထို့ကြောင့် ယုံကြည်သူတို့အား ရဲရင့်တည်ကြည်စေကြလော့။ ငါသည် မယုံကြည်သူ တို့ နှလုံးအိမ်အတွင်းသို့ ကြောက်ရွ့ံခြင်းကို ထည့်သွင်းတော်မူမည်။ သူတို့၏လည်ပင်းကို ခုတ်ဖြတ် ကြလော့။ သူတို့၏လက်ဖျားကို ဖြတ်ကြလော့ဟု ဗျာဒိတ်ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ပြန်လည်၍ သတိရရှိပါလေ) တစ်ရံရောအခါအသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည်မလာအိကဟ်ကောင်းကင်စေတမန်များထံ(ဤသို့) ဝဟ်ယ်အမိန့်တော် ချမှတ်တော်မူခဲ့လေသည်။ ငါအရှင်မြတ်သည်ဧကန်စင်စစ် အသင်တို့ နှင့်အတူရှိတော်မူ၏။ သို့ဖြစ်ပေရာအသင်တို့သည် မုအ်မင်န် သက်ဝင်ယုံကြည်သူတို့အား (ကြံ့ခိုင်စွာ) တည်မြဲစေကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

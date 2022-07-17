@@ -710,6 +710,12 @@ I da preduprezhdava onezi, koito kazvat: “Allakh se sdobi sŭs sin.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၊၅။	မိမိတို့မိဘဘိုးဘွားသော်လည်းကောင်း၊ သူတို့သော်လည်းကောင်း၊ မသိပဲလျက် အလ္လာဟ်အရှင်မြတ်သည် သားရတနာတပါးကို ရွေးကောက်ထားတော်မူ၏ဟု ဆိုသူတို့အား သတိပေးဆုံးမဖို့ရာ ကျမ်းတော်မြတ်ကို ထုတ်ပြန်တော်မူ၏။ သူတို့နှုတ်မှ ထွက်သောစကားသည် အလွန်ကြောက်မက်ဖွယ်ကောင်းလှ၏။ သူတို့သည် မုသားမှတပါး အခြားစကားကို မဆိုချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် သားတော်တစ်ပါးမွေးစားတော်မူခဲ့သည်ဟု ပြောဆိုကြကုန်သောသူတို့အား သတိပေးနှိုးဆော်အံ့သောငှာလည်းကောင်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Prechist e Onzi, Koĭto sŭtvori po dvoĭki vsichko ot onova, koeto zemyata ra
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	ပထဝီမြေကြီးပေါ်၌ ပေါက်ရောက်သောသစ်ပင်ဝါးပင်များ၊ လူသားတို့နှင့် လူသားတို့မသိသေးသောအခြားအရာ ဝထ္ထုစသည့်အရာခပ်သိမ်းကုန်သောအရာများကို အစုံစုံတွဲဖက်၍ ဖန်ဆင်းတော်မူသောအလ္လာဟ်အရှင်မြတ်သည် စုံလင်တော်မူသောအနန္တဂုဏ်တော်ရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မြေ၌ပေါက်ရောက်သော အရာများတွင်လည်းကောင်း၊ ထိုသူတို့ကိုယ်များတွင်လည်းကောင်း၊ ထိုသူတို့ မသိကြသောအရာများတွင်လည်းကောင်း၊ ဖို၊ မများ၊ စုံတွဲများ အမျိုးမျိုးအစားစား ဖန်ဆင်းထားတော်မူသော အရှင်မြတ်သည် ချို့တဲ့မှုအပေါင်းတို့မှ စင်ကြယ် သန့်ရှင်းတော်မူပါ၏တကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

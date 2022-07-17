@@ -710,6 +710,12 @@ khora, koito nito tŭrgoviya, nito prodazhba gi otvlicha ot spomenavaneto na All
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	ဆွလားသ်ဝတ်တက်ကြကုန်သောသူတော်ကောင်းတို့အား အရှင်မြတ်အား အောက်မေ့တသခြင်း၊ ဆွလားသ် ဝတ်ပြုခြင်း၊ ဇကားသ်အလှုပေးခြင်းတို့ကို မေ့လျော့ပျက်ကွက်အောင် ၎င်းတို့၏ရောင်းဝယ်ဖောက်ကားခြင်းစသော လောကီရေးရာအဖြာဖြာတို့က တစ်စုံတစ်ရာမနှောင့်ယှက်နိုင်ချေ၊ သူတို့သည် ကမ္ဘာအသစ်တွင် စိတ်နှလုံးနှင့် မျက်လုံးတို့လည်နေမည့်နေ့တော်ကြီးကိုသာလျှင် အလွန်ကြောက်ရွံ့ကြကုန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်ကဲ့သို့သော ယောက်ျားတို့သည် ထိုယောက်ျားတို့အား မည်သည့်ကုန်သွယ်မှုနှင့် မည်သည့်ရောင်း(ဝယ်ဖောက်ကား)မှုမျှပင် အလ္လာဟ်အရှင်မြတ်အား အောက်မေ့တသခြင်းမှလည်းကောင်း၊ ‘ဆွလာတ်’ ဝတ်ပြုမှုကို ဆောက်တည်ခြင်းမှလည်းကောင်း၊ ‘ဇကာတ်’ ပေးဆောင် ခြင်းမှလည်းကောင်း၊ အာရုံပြောင်းစေခြင်းမရှိပေ။ ထိုယောက်ျားတို့သည်ကား စိတ်နှလုံးများနှင့်မျက်စိများ ယောက်ယက်ခတ်နေမည့်နေ့ကို ကြောက်ရွံ့ စိုးရိမ်လျက် ရှိကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

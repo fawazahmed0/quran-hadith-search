@@ -710,6 +710,12 @@ I kogato sinŭt na Mariam be daden za primer, eto - tvoyat narod mu se podigra
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၇။	အို-တမန်တော်၊ မရ်ယမ်၏သား အီစာ၏အတ္ထုပ္ပတ္တိကို ဥပမာဆောင်၍ ပြောဆိုသောအခါ သူတို့သည် ပျက်ရယ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် မရ်ယမ်၏သား(နဗီတမန်တော်အီစာ)သည် စံနမူနာအဖြစ် ခိုင်းနှိုင်းတင်ပြခြင်းကို ခံရလေသောအခါ၊ အသင်၏အမျိုးသားတို့မှာ ယင်းဥပမာကြောင့် နှစ်ထောင်းအားရ ရွှင်ပြ ဟစ်အော်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ne vizhdash li onzi, koĭto priema strastta si za bozhestvo? Nima nad nego si p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	မိမိ၏ တပ်မက်ခြင်းအညစ်အကြေးကို သူ၏ဘုရားဟုဆိုသောသူကို သင်မြင်ရပြီလော၊ သင်သည် ထိုသူကို အုပ်ထိန်းသူလုပ်မည်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်၊) မိမိ၏စိတ်အလိုဆန္ဒကို မိမိ၏ကိုးကွယ်ရာအဖြစ် ပြုလုပ်ခဲ့သောသူ၏အကြောင်းကို အသင်သည် သိမြင်ခဲ့ပြီ မဟုတ်လော။ သို့ပါလျက် အသင်သည် ထိုသူ၏အပေါ်၌ အုပ်ထိန်းသူအဖြစ် ရှိနေနိုင်ပါသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

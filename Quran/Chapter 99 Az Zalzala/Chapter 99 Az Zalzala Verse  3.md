@@ -710,6 +710,12 @@ i chovek reche: “Kakvo ĭ e?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။ လူသားတို့သည် ဤမဟာပထဝီမြေကြီးသည် အသို့ဖြစ်လာသနည်းဟု ဆိုသောအခါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် လူက ဤပထဝီမြေ၌ (ယင်းကဲ့သို့ တုန်လှုပ်ရန်) မည်သည့်အကြောင်း ရှိသနည်းဟု ပြောဆိုသောအခါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

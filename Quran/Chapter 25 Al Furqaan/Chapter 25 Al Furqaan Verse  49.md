@@ -710,6 +710,12 @@ za da sŭzhivim s neya mŭrtvata zemya i da piyat sŭtvorenite ot Nas mnogobroi�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	ထိုမိုးရေအားဖြင့် ငါသည် သေနေသောမြေအား အသက်ပေးတော်မူ၏၊ ငါသည် ငါဖန်ဆင်းတော်မူသည့်များလှ စွာသောတိရိစ္ဆာန်သတ္တဝါ၊ လူသတ္တဝါတို့သောက်ဖို့ရာ မိုးရေကို ပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ယင်းကဲ့သို့ ချပေးသနားတော်မူခြင်းမှာ) ငါ အရှင်မြတ်သည် အသက်မရှိသော (ဝါ) သွေ့ခြောက်လျက်ရှိသောမြို့ရွာကို ထိုရေဖြင့် ရှင်စေတော်မူအံ့သောငှာ (ဝါ) စိုပြည်စိမ်းလန်းစေတော်မူအံ့သောငှာ လည်းကောင်း၊ ငါအရှင် ဖန်ဆင်းတော်မူခဲ့သော မြောက်မြားစွာသော ကုလားအုတ်၊ ကျွဲ၊ နွား တိရစ္ဆာန်များနှင့် လူတို့အား ထိုရေကို တိုက်ကျွေးတော်မူအံ့သောငှာ လည်းကောင်း၊ ဖြစ်ပေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

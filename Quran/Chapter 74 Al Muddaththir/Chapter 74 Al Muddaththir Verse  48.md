@@ -710,6 +710,12 @@ Zatova ne shte im pomogne nichie zastŭpnichestvo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။ ကြားဝင်တောင်းပန်သူတို့၏ တောင်းပန်ခြင်းသည် သူတို့အတွက် အကျိုးမဖြစ်နိုင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ကြားဝင်အသနားခံ၍ ပေးသူတို့၏ ကြားဝင်အသနားခံပေးမှုသည် ၎င်းတို့အား အကျိုးပေးမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Nima kato umrem i stanem prŭst i kosti, nima naistina shte bŭdem vŭzkreseni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	ထို့အပြင်သူတို့က ငါတို့သည် အနိစ္စရောက်၍ ဖုံမှုန့်နှင့် အရိုးများသာဖြစ်ပြီးနောက် တဖန်ရှင်ရဦးမည်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သို့နည်း ကျွန်ုပ်တို့သည် သေဆုံးကြပြီး မြေကြီးဖြစ်သွားကြသောအခါ ကျွန်ုပ်တို့သည် ရှင်ပြန်ထစေခြင်းကို ခံကြရဦးမည်လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

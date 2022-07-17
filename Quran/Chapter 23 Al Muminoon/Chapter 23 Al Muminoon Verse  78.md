@@ -710,6 +710,12 @@ Toĭ e Onzi, Koĭto sŭzdade za vas slukha i zrenieto, i sŭrtsata. Kolko malk
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၈။	အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အဖို့ နားများ၊ မျက်စိများ၊ နှလုံးများကို ဖန်ဆင်းတော်မူ၏၊ သင်တို့သည် ကျေးဇူးအနည်းငယ်သာ တင်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ထိုအရှင်မြတ်သည်ပင် အသင်တို့အဖို့ နားများကိုလည်းကောင်း၊ မျက်စိများကိုလည်းကောင်း၊ စိတ်နှလုံးများကိုလည်းကောင်း၊ ဖန်ဆင်းတော်မူခဲ့၏။ (သို့ရာတွင်) အသင်တို့သည် အနည်းငယ် စိုးစဉ်းမျှသာလျှင် ကျေးဇူးသိတတ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

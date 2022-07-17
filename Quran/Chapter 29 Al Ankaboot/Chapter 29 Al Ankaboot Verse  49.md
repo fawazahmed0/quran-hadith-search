@@ -710,6 +710,12 @@ Da, tova sa yasni znameniya, zapechatani v sŭrtsata na darenite sŭs znanie. Sa
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	သို့သော်အသိအလိမ္မာပညာဉာာဏ်ပေးသနားတော်မူခြင်းခံရသူ ပညာရှိတို့၏ စိတ်နှလုံးများတွင်မူကား ကုရ်အာန် ကျမ်းတော်သည် ထင်ရှားတောက်ပလျက် ရှိ၏၊ ဒုစရိုက်မှုပြုကျင့်သူများမှတပါး အဘယ်သူတစ်ဦးတစ်ယောက်မှ ငါ၏ကျမ်းတော်ကို မငြင်းခုံမဖယ်ရှားချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသို့အလျှင်းမဟုတ်၊ စင်စစ်မှာမူကား ဤကျမ်းဂန်(ကုရ်အာန်ကျမ်းမြတ်)သည် အသိပညာကို ချီးမြှင့်ပေးသနားတော်မူခြင်း ခံခဲ့ကြရသောသူတို့၏ စိတ်နှလုံးများတွင် (ထိန်းသိမ်းထားသော) လွန်စွာထင်ရှားလှသည့် သက်သေလက္ခဏာများပင် ဖြစ်ပေသည်။ စင်စစ်သော်ကား မတရားသော သူတို့သည်သာလျှင် ငါအရှင်မြတ်၏အာယတ်တော်များကို ငြင်းပယ်ကုန်ကြသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

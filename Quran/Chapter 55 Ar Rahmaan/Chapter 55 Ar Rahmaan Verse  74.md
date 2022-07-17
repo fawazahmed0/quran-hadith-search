@@ -710,6 +710,12 @@ nedokosnati nito ot chovek predi tyakh, nito ot dzhin
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၄။	ထိုနတ်ကညာများမှာ လူယောက်ျား ဂျင်ယောက်ျားမထိသေးသောကညာအစစ်ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့အလျင် ထိုမိန်းမတို့အား မည်သည့် လူသား တစ်ဦးတစ်ယောက်မျှလည်းကောင်း၊ မည်သည့် ဂျင်န် တစ်ဦးတစ်ယောက်မျှလည်းကောင်း၊ ထိတွေ့ခဲ့ဖူးသည် မရှိပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

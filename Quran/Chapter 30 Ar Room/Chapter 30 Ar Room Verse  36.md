@@ -710,6 +710,12 @@ I ako dadem na khorata da vkusyat milost, radvat ĭ se. A shtom gi spoleti zlin
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	ငါသည် လူသားတို့အား ကောင်းကြီးမင်္ဂလာတော်ကို မြည်းစေတော်မူသောအခါ သူတို့သည် ဝမ်းမြောက်ရွှင်လန်း စွာမြည်းကြကုန်၏၊ သို့သော် သူတို့၏ပြုကျင့်မှုကြောင့် တစ်စုံတစ်ခုသောအန္တရာယ်သည် သူတို့အပေါ်သို့ ကျရောက်လာလျှင် သူတို့သည် မုချဧကန်စိတ်ပျက်လက်လျှော့၍ မျှော်ကိုးရာကင်းမဲ့သကဲ့သို့ ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် လူသားတို့အား အနည်းငယ်သော ကျေးဇူးတော်၏ အရသာကို မြည်းစမ်းစေတော်မူသောအခါ ၎င်းတို့သည် ယင်းကျေးဇူးတော်နှင့် စပ်လျဉ်း၍ ဝမ်းမြောက်လေ့ရှိကြကုန်၏။ သို့ရာတွင် အကယ်၍ ၎င်းတို့၏လက်များက ကြိုတင်ပို့နှင့်ခဲ့ကြသော (ပြစ်မှုဒုစရိုက်) များကြောင့် ၎င်းတို့၌ ဘေးဒုက္ခ တစ်စုံတစ်ရာ သက်ရောက်သည်ရှိသော် ၎င်းတို့သည် ရုတ်တရက် ချက်ချင်းပင် မျှော်လင့်ချက်ကင်းမဲ့၍ သွားကြလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

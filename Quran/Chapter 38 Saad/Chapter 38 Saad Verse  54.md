@@ -710,6 +710,12 @@ Tova e Nashata nagrada. Nyama tya izcherpvane.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၄။	မှတ်သားကြလော့၊ ဤကျေးဇူးတော်များသည် ငါပေးသနားတော်မူသောဘောဇဉ်ရိက္ခာများအမှန်ဖြစ်၏၊ ၎င်းတို့ သည် ဘယ်သောအခါမျှ မပုပ်သိုးမပျက်စီးချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ဤသည် ငါအရှင်မြတ်၏ ဆုကျေးဇူးတော်ပင် ဖြစ်ပေသည်။ ယင်းဆုကျေးဇူးတော်မှာ ကုန်ခန်းခြင်းသည် အလျှင်း မရှိပြီတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

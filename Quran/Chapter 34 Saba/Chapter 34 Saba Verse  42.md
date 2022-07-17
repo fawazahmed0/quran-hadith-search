@@ -710,6 +710,12 @@ Dnes nikoĭ ot vas ne shte bŭde ot polza za drug, nito vŭv vreda.” I shte k
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	ထိုနေ့တော်ကြီး၌ သင်တို့အချင်းချင်း တစ်ဦးကို တစ်ဦးက ကောင်းကျိုးဆိုးကျိုးမပေးနိုင်ကြချေ၊ ထို့အပြင် ငါအရှင်မြတ်သည် မတရာပြုကျင့်ခဲ့သူတို့အား မိန့်တော်မူမည်မှာ ဟယ်-မိစ္ဆာမိုက်တို့၊ နင်တို့မယုံကြည်ငြင်းပယ် လေ့ငရဲမီးကို မြည်းကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ယနေ့သော်ကား အသင်တို့အနက်အချို့သည်အချို့ကို အကျိုးပြုရန်လည်း ပိုင်ဆိုင်ခွင့်မရှိပြီ။အကျိုးယုတ်စေရန်လည်း ပိုင်ဆိုင်ခွင့်မရှိတော့ပြီ။ ထိုမှတစ်ပါးငါအရှင်မြတ်သည် (မိမိကိုယ်မိမိ) နှိပ်စက် ညှဉ်းပမ်းခဲ့ကြသောသူတို့အား အသင်တို့သည် မဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ်ခဲ့ကြသောငရဲမီး ၏ပြစ်ဒဏ်ကို မြည်းစမ်းကြလေကုန် ဟုမိန့်ကြား တော်မူအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

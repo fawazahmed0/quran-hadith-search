@@ -710,6 +710,12 @@ Ostavi na Men [o, Mukhammad] vzimashtite za lŭzha tazi Vest! Postepenno shte gi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။ အို-တမန်တော်၊ ဤကျမ်းမြတ်ကုရ်အာန်တော်မြတ်ကို မဟုတ်မမှန်ဟု စွပ်စွဲသူတို့အား ငါနှင့်ပင် စွန့်လွှတ်၍ ထားလော့၊ ငါသည် သူတို့အား တဖြည်းဖြည်း အပြစ်ပေးစီရင်တော်မူမည်၊ သူတို့သည် ထိုအပြစ်ဒဏ်တော်များ အဘယ်နေရာက ကျရောက်လာသည်ကို အနည်းငယ်မျှမရိပ်မိကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်) အသင်သည် ဤသည့်အာယတ်တော်ကို မဟုတ်မမှန်ဟူ၍ စွပ်စွဲ ငြင်းပယ်သူတို့အား ငါအရှင်မြတ်နှင့်ပင် လွှတ်ထားပါလေ။ အမှန်ပင် ငါအရှင်မြတ်သည် ၎င်းတို့အား ၎င်းတို့မသိကြသော-နည်းဖြင့်၊ နေရာမှ၊ တဖြည်းဖြည်း ဆွဲချတော်မူမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I predi teb izprashtakhme Nie samo mŭzhe, na koito davakhme otkrovenie. I pitai
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	ထို့အပြင် အို--တမန်တော်မိုဟမ္မဒ်၊ သင်မပွင့်မီ ပွင့်ကြသောတမန်တော်များသည် မိမိတို့စိတ်နှလုံးအတွင်း၌ ငါအရှင်မြတ်သွန်သင်နှိုးဆော်သောလူသားများမှတပါး အခြားသူများမဟုတ်ချေ၊ အကယ်၍သင်မသိလျှင် ရှေး ကျမ်းတော်ရသူတို့အား မေးမြန်းလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ငါအရှင်မြတ်သည် အသင့်အလျင်ကလည်း ယောက်ျားများကိုသာလျှင်(ရစူလ်တမန်တော်များအဖြစ်) စေလွှတ်တော်မူခဲ့၏။ ငါအရှင်မြတ်သည် ၎င်းတို့ထံ "ဝဟ်ယ်"အမိန့်တော်ကို ပို့တော်မူလေသည်။ သို့ဖြစ်ပေရာ အကယ်၍အသင်တို့သည် (မိမိကိုယ်တိုင်)မသိကြလျှင် (ရှေး)ကျမ်းဂန်ရရှိသူများအား မေးမြန်း(၍ကြည့်)ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

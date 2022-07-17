@@ -710,6 +710,12 @@ I kogato tya doĭde, be kazano: “Takŭv li e tvoyat tron?” Reche tya: “Pr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	ထို့နောက်ဘုရင်မကြွလာသောအခါ သူမအား ဤရာဇပလ္လင်သည် သင်၏ရာဇပလ္လင်လောဟု မေး၏၊ ဘုရင်မက ဤရာဇပလ္လင်သည် အစစ်ကဲ့သို့ဖြစ်၏ဟု ပြန်ပြော၏၊ ထိုအခါတမန်တော်စိုလိုင်မာန်က တရားအလင်းရောင်တော် ကို ဤဘုရင်မအား မသနားမီ အကျွနု်ပ်တို့အား သနားတော်မူ၍ အကျွန်ုပ်တို့သည် အလ္လာဟ်အရှင်မြတ်အား ကျိုးနွံယုံကြည်သူများဖြစ်ကြပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ထိုဘုရင်မသည် ရောက်ရှိ၍လာသောအခါ တစ်စုံတစ်ယောက်က အသင်၏ ရာဇပလ္လင်သည် ဤအတိုင်းပင် ဖြစ်ပါသလောဟု မေးရာ၊ ထိုဘုရင်မက "ဤရာဇပလ္လင်မှာ ထိုရာဇပလ္လင်ပင် ဖြစ်ဟန်တူပါသည်။ စင်စစ် ကျွန်ုပ်တို့သည် ဤသည့် အလျင်ကပင် အသိပညာကို ချီးမြှင့်ပေးသနားတော်မူခြင်းကို ခံခဲ့ကြရပြီ။ ၎င်းပြင် ကျွန်ုပ်တို့သည် "မွတ်စ်လင်မ်" အမိန့်ကိုနာခံသူများပင် ဖြစ်ခဲ့ပေပြီ" ဟု ပြောဆိုဖြေကြားခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

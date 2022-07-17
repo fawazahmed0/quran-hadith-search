@@ -710,6 +710,12 @@ Dŭlg za Pratenika e samo poslanieto. Allakh znae kakvo razkrivate i kakvo potul
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၉။	တမန်တော်၏တာဝန်မှာ အသျှင်မြတ်၏တရားဒေသနာကို ဟောကြားရန်သာဖြစ်၏။ အလ္လာဟ်အသျှင်မြတ်သည် သင်တို့ထုတ်ဖော်ပြောသည်ကိုသော်လည်းကောင်း၊ ထိန်ချန်ထားသည် ကိုသော်လည်းကောင်း အကြွင်းမဲ့သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ရစူလ်တမန်တော် (မုဟမ္မဒ်) ၏အပေါ်၌ (အလ္လာဟ်အရှင်မြတ်၏ အမိန့်ဗျာဒိတ်တော်များကို လူတို့ထံသို့) ပို့ဆောင် (ဟောကြား) ရန် တာဝန်သာရှိ၏။ အသင်တို့ ထင်ရှားစွာပြုလုပ်သော အရာများကိုလည်းကောင်း၊ အသင်တို့ ထိမ်ချန်လျှို့ဝှက်စွာပြုသော အရာများကိုလည်းကောင်း စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် ကာင်းစွာသိရှိတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

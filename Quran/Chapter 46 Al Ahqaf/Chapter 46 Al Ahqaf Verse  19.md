@@ -710,6 +710,12 @@ Za vsichki ima stepeni ot onova, koeto sa izvŭrshili. Toĭ shte im izplati za 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	အရှင်မြတ်သည် လူသားအပေါင်းတို့အား သူတို့၏ ပြုကျင့်မှုအတိုင်း အဆင့်အတန်းခြားနားစေ၍ ထိုအကျင့် အတိုင်းအကျိုးအပြစ်ကို ပေးသနားတော်မူမည်၊ သူတို့အား မတရားစီရင်တော်မူမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား (မုအ်မင်န်၊ကာဖိရ်) အသီးသီးတို့၌ ၎င်းတို့ ကျင့်မူခဲ့ကြကုန်သော အကျင့်အမူများအလိုက် အဆင့်အတန်းများ ရှိကြလေ၏။ ၎င်းပြင်(အလ္လာဟ်အရှင်မြတ်သည် ဤသို့အကျိုးပေးတော်မူခဲ့ခြင်းမှာ)ထိုအရှင်မြတ်သည် ၎င်းတို့အား ၎င်းတို့၏ အကျင့်အမူများ၏အစားကို အပြည့်အစုံပေးတော်မူအံ့သောငှာ ဖြစ်ပေသည်။ သို့ရာတွင် ၎င်းတို့မှာ(မည်သို့မျှ) မတရားပြုမူခြင်းကို ခံကြရမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

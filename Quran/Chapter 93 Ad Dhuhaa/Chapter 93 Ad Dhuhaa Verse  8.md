@@ -710,6 +710,12 @@ I te nameri beden, i te zamogna
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။ အရှင်မြတ်သည် သင့်အား ဆင်းရဲချို့တဲ့ခြင်းဘဝတွင် တွေ့တော်မူ၍ ကြွယ်ဝစေတော်မူခဲ့သည် မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် အသင့်အား ပစ္စည်းမဲ့အဖြစ် တွေ့ရှိတော်မူခဲ့ရာ ဥစ္စာပစ္စည်းကြွယ်ဝ စေတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

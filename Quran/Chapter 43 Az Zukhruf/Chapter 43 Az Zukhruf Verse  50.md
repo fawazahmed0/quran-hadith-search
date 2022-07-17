@@ -710,6 +710,12 @@ I kogato otmakhnakhme ot tyakh mŭchenieto, eto gi - narushikha obeshtanieto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅ဝ။	သို့သော်ငါသည် သူတို့ထံမှ အပြစ်ဒဏ်ဘေးဥပါဒ်ကို ဖယ်ရှားတော်မူသောအခါ သူတို့သည် စကားမတည် ကတိဖျက်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တစေလည်း ငါအရှင်မြတ်သည် ပြစ်ဒဏ်ကို ၎င်းတို့မှဖယ်ရှား၍ ပေးတော်မူခဲ့သောအခါ ၎င်းတို့သည် ရုတ်တရက် ချက်ချင်းပင် ကတိကို ဖေါက်ဖျက်ကြလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

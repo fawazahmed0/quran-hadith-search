@@ -710,6 +710,12 @@ ot onezi, koito razdelikha svoyata religiya i stanakha na chasti! Vsyaka grupa l
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	ဤသူများသည် မိမိတို့သာသနာကို အစိတ်စိတ်အမွှာအမွှာပြုလုပ်ကြ၏၊ များလှစွာသောဂိုဏ်းများကို ထောင်ကြ ၏၊ ထိုဂိုဏ်းသားတို့သည် မိမိတို့အယူဝါဒအသီးသီးတွင် မြူးတူးပျော်ရွှင်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင် (မုရှ်ရစ်က်) တို့အနက်မှ ထိုသူတို့သည် မိမိတို့၏ "ဒီန်"သာသနာကို အစိတ်စိတ်အပိုင်းပိုင်း ပြုလုပ်ခဲ့ကြပြီးလျှင် ဂိုဏ်းဂဏအမျိုးမျိုး ဖြစ်သွားခဲ့ကြကုန်၏။ (၎င်းတို့အနက်) ဂိုဏ်းဂဏအသီးသီး အသကအသကတို့သည် မိမိတို့၌ရှိသော (ဝါဒလမ်းစဉ်များ)နှင့်ပင် ကျေနပ်ဝမ်းမြောက်လျက် ရှိကြပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ne vizhdat li kak Allakh nacheva tvorenieto, posle go povtarya? Za Allakh tova e
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	အလ္လာဟ်အရှင်မြတ်သည် စတင်ဖန်ဆင်းတော်မူ၏၊ နောက်ထပ်တဖန်ဖန်ဆင်းတော်မူမည်ကို သူတို့သည် မသိ မမြင်ကြသလော၊ ၎င်းဖန်ဆင်းတော်မူခြင်းသည် အလ္လာဟ်အရှင်မြတ်အဖို့အရာ အလွန်လွယ်ကူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် အဖန်ဆင်းခံတို့ကိုမည်သို့ စတင်ဖန်ဆင်းတော်မူသည်ကို ၎င်းတို့သည် မတွေ့မမြင် မဆင်ခြင်ခဲ့ကြလေသလော။ ထို့နောက် တစ်ဖန် ထိုအရှင်မြတ်သည်ပင် ထိုအဖန်ဆင်းခံတို့ကို ထပ်မံ၍ ဖန်ဆင်းတော်မူမည်။ ဧကန်အမှန် ဤသည် အလ္လာဟ်အရှင်မြတ်အဖို့ လွန်စွာ လွယ်ကူလှပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

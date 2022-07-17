@@ -710,6 +710,12 @@ I kazvat nevernitsite: “Zashto ne mu be nizposlano znamenie ot negoviya Gospod
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	မယုံကြည်သူတို့က ရှင်မိုဟမ္မဒ်ထံသို့ သူ၏ အရှင်သခင်အထံတော်မှ သက်သေသာဓကတော်တပါးသို့ ချပေး သနားတော်မူပါလျှင် တော်လေစွဟု ဆိုကြ၏။ တမန်တော်ဟောကြားလော့။ အလ္လာဟ်အရှင်မြတ်သည် အလို တော်ရှိသူတို့ကို လမ်းမှန်လိုက်ရောက်စေတော်မူ၏။ အရှင်မြတ်အထံတော်သို့ မျက်နှာမူသူတို့ကို လမ်းညွှန်တော် မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် မယုံမကြည် သွေဖည်ငြင်းပယ်ကြကုန်သောသူတို့က ၎င်း၏အပေါ်၌ ၎င်းအားမွေးမြူဖန်ဆင်း တော်မူသောအရှင်မြတ်အထံတော်မှ တန်ခိုးပြာဋိဟာ တစ်ရပ်ရပ်သည် အဘယ့်ကြောင့် ချပေးခြင်းကို မခံခဲ့ရပါသနည်းဟု ပြောဆိုကြကုန်၏။ (အို-နဗီတမန်တော်) အသင်သည် (၎င်းတို့အားဤသို့)ပြောဆိုဖြေကြားပါလေ။ (အချင်းတို့)ဧကန်မလွဲအလ္လာဟ် အရှင်မြတ်သည် မိမိအလိုရှိတော်မူသော သူတို့အားလမ်းမှား၌ပင် ရှိစေတော်မူ၏။ သို့ရာတွင် ထိုအရှင်မြတ်သည်မိမိဘက်သို့ ပြန်လှည့်သောသူတို့ ကိုမူကား တရားလမ်းမှန်ကိုပြသတော်မူပေသတည်း၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

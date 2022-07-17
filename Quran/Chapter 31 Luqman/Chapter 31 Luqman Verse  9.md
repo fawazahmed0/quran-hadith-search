@@ -710,6 +710,12 @@ tam shte prebivavat vechno - istinno obeshtanie ot Allakh. Toĭ e Vsemogŭshtiy
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	ထိုသူတို့သည် ထိုဥယျာဉ်တော်များ၌ စံစားနေထိုင်ကြရလတ့ံ၊ ဤသတင်းသည်ကား ထိုဥယျာဉ်တော်များ၌ စံစားနေထိုင်ကြရလတံ့၊ ဤသတင်းသည်ကား အလ္လာဟ်အရှင်မြတ်၏ ကတိဗျာဒိတ်တော်အမှန်ဖြစ်၏၊ အရှင် မြတ်သည် အနန္တတန်ခိုးတော်သခင်၊ သဗ္ဗညုတဉာာဏ်တော်ရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (၎င်းတို့သည်) ယင်းဥယျာဉ်များ၌ အမြဲထာဝစဉ် နေထိုင်စံမြန်းကြပေမည်။ (ဤသည်) အလ္လာဟ် အရှင်မြတ်က မှန်ကန်စွာ ကတိထားရှိတော်မူခြင်းပင် ဖြစ်ပေသည်။ အမှန်စင်စစ်သော်ကား ထိုအရှင်မြတ်သည် တန်ခိုးအာနုဘော်ဖြင့်လွှမ်းမိုးတော်မူသော၊ ဆင်ခြင်တုံတရားနှင့် ပြည့်စုံတော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

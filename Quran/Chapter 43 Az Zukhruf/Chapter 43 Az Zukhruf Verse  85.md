@@ -710,6 +710,12 @@ Da bŭde blagosloven Onzi, Chieto e vladenieto na nebesata i na zemyata, i na vs
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၅။	မိုးကောင်းကင်၊ ကမ္ဘာမြေကြီးနှင့် မိုးမြေအကြားရှိရှိသမျှအရာအပေါင်းတို့ကို စိုးပိုင်တော်မူသောအရှင်မြတ်သည် မင်္ဂလာအဖြာဖြာနှင့် ပြည့်စုံတော်မူ၏၊ အချိန်နာရီတော်ကို အရှင်မြတ်သာ သိတော်မူ၏၊ ထို့အပြင်သင်တို့အားလုံး သည် အရှင်မြတ်အထံတော်သို့ ပြန်လာကြရမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အကြင်အရှင်မြတ်သည် ကောင်းခြင်းမင်္ဂလာအပေါင်းနှင့် ပြည့်စုံတော်မူသည်။ မိုးကောင်းကင်များ၌လည်းကောင်း၊ ပထဝီမြေ၌လည်းကောင်း၊ ယင်းမိုးကောင်းကင်များနှင့် ပထဝီမြေနှစ်ခု၏အကြား၌ ရှိသမျှတို့ကိုလည်းကောင်း၊ စိုးမိုးအုပ်ချုပ်မှုသည် ထိုအရှင်မြတ်၌သာရှိသည်။ ထိုမှတစ်ပါး "ကိယာမတ်" ရှင်ပြန်ထမည့် အချိန်ကာလကိုလည်း ထိုအရှင်မြတ်ပင် သိမြင်တော်မူ၏။ ၎င်းပြင် အသင်တို့သည် ထိုအရှင်မြတ် အထံတော်သို့ပင် ပြန်သွားကြရမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

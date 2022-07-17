@@ -710,6 +710,12 @@ Kazhi: “Smŭrtta, ot koyato byagate, nepremenno shte vi sreshtne. Posle shte b
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။ အို-တမန်တော်ဟောပြောလော့၊ အို-အချင်းတို့၊ သင်တို့ကြောက်ရွံ့သောသေဘေးသည် သင်တို့ကို အမှန်ထိမည်သာတည်း၊ ထို့နောက်သင်တို့ကို မမြင်ရသောအရာ၊ မြင်ရသောအရာအလုံးစုံကို သိတော်မူသော အရှင်မြတ် ထံတော်သို့ ပြန်ပို့လတံ၊့ ထိုအခါ အရှင်မြတ်သည် အသင်တို့ ပြုကျင့်ခဲ့ သမျှသောအမှုအခင်းတို့ကို မိန့်တော်မူလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ပြောကြားပါလေ။ (အချင်းတို့) အသင်တို့ ထွက်ပြေးတိမ်းရှောင်လျက်ရှိသော ‘မရဏ’ သေခြင်းတရားမှာ ဧကန်မလွဲ အသင်တို့နှင့် တွေ့ဆုံမည်ပင်ဖြစ်၏။ ထို့နောက် အသင်တို့သည် လျှို့ဝှက်စွာ ရှိသည်တို့ကိုလည်းကောင်း၊ ထင်ရှားစွာ ရှိသည်တို့ကိုလည်းကောင်း၊ အကြွင်းမဲ့ သိတော်မူသော အရှင်မြတ်အထံတော်သို့ ပြန်လည်ရောက်စေခြင်းကို ခံကြရပေမည်။ ထိုအခါ ထိုအရှင်မြတ်သည် အသင်တို့အား အသင်တို့ ကျင့်မူခဲ့ကြသည်တို့ကို သိစေတော်မူအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

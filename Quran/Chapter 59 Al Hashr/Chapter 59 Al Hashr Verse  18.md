@@ -710,6 +710,12 @@ O, vyarvashti, boĭte se ot Allakh! I vseki da vidi kakvo e prigotvil za Utre! 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	အို-ယုံကြည်သူအပေါင်းတို့၊ သင်တို့သည် မိမိတို့၏ အရှင်သခင်၏ အမှုတော်ကို ထမ်းဆောင်ကြလော့၊ ဝိညာဉ်တိုင်းသည် မိမိတို့အတွက် နောင်တမလွန်ဘဝသို့ မည်သည့်ကျင့်မှုများကို တင်ကြိုပို့ထားနှင့်သည်ကိုလည်း စစ်ဆေးကြည့်ကြလော့၊ အရှင်မြတ်အား သင်တို့ပြုအပ်သောဝတ်ကို စောင့်ထိန်းကြလော့၊ မှတ်သားကြလော့၊ အရှင်မြတ်သည် သင်တို့ပြုကျင့်သမျှတို့ကို အကြွင်းမဲ့သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-’မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူအပေါင်းတို့၊ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား ကြောက်ရွံ့ကြလေကုန်။ ၎င်းပြင် လူတိုင်းလူတိုင်းသည် မနက်ဖြန်အဖို့ မိမိ တင်ကြို ပို့နှင့်ထားသည်ကို ကြည့်ရပေမည်။ ထို့ပြင် အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား ကြောက်ရွံ့ကြလေကုန်။ ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့ ကျင့်မူသမျှတို့ကို အကြွင်းမဲ့ ကြားသိတော်မူသော အရှင်မြတ်ပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

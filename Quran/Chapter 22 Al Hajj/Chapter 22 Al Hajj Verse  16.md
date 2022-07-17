@@ -710,6 +710,12 @@ Taka go nizposlakhme Nie - yasni znameniya. Allakh napŭtva kogoto pozhelae
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	ဤကဲ့သို့ငါသည် ကုရ်အာန်ကျမ်းတော်မြတ်ကို ရှင်းလင်းသောနှုတ်ကပတ်တော်များအဖြစ်ဖြင့် ထုတ်ပြန်ချပေး သနားတော်မူ၏၊ အမှန်မှာ အလ္လာဟ်အရှင်မြတ်သည် အလိုတော်ရှိသူအား လမ်းပြတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ဤနည်းအတိုင်းပင် ငါအရှင်မြတ်သည် ယင်းကုရ်အာန်ကျမ်းတော်မြတ်ကို ထင်ရှားလှစွာသော သက်သေလက္ခဏာ အာယတ်တော်များအဖြစ် ချပေးသနားတော်မူခဲ့ပေသည်။ ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် မိမိရည်စူးတော်မူသောသူအား တရားလမ်းမှန်ကို ညွှန်ပြတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

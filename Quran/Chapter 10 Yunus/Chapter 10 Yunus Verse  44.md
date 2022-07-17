@@ -710,6 +710,12 @@ Allakh ne ugnetyava khorata s nishto, a khorata sami sebe si ugnetyavat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် လူသားအပေါင်းတို့ကို စိုးစဉ်းမျှမတရားစီရင်တော်မမူချေ။ သို့သော် လူသားတို့သည် မိမိကိုယ်ကို မိမိတို့ပြစ်မှားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် လူသားတို့အား အနည်းငယ်စိုးစဉ်းမျှပင် နှိပ်စက်ကလူ ပြုတော်မူသည်မဟုတ်ပေ။ စင်စစ်မှာမူကား လူတို့သည် မိမိကိုယ်တိုင် မိမိတို့ကိုယ်ကို နှိပ်စက်ကလူ ပြုကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

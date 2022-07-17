@@ -710,6 +710,12 @@ I napuskat postelite si, i sŭs strakh i kopnezh zovat svoya Gospod, i ot onova,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	ထိုသူတို့သည် မအိပ်စက်ပဲ သူတို့၏အရှင်သခင်အား ကြောက်ရွံ့ရိုကျိုးခြင်း၊ ကျေးဇူးတော်မျှော်လင့်ခြင်းတို့ဖြင့် အရှင်မြတ်အား ဝတ်ပြုကြ၏၊ ငါအရှင်မြတ်ချပေးသနားတော်မူသောစည်းစိမ်ဥစ္စာများမှ အချို့အဝကို လှုဒါန်း စွန့်ကြဲကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့၏ နံဘေးများသည် အိပ်ရာများမှ ခွဲခွာလျက်ရှိကြပေသည်။ ထိုသူတို့သည် မိမိတို့၏အရှင်မြတ်အားကြောက်ရွံ့စွာလည်းကောင်း၊ မျှော်လင့်စွာလည်းကောင်း၊ ဟစ်ခေါ်တçသကြသည့်ပြင် ၎င်းတို့အား ငါအရှင်မြတ် ချီးမြှင့်ပေးသနားတော်မူခဲ့သည်များအနက်မှ သုံးစွဲလှူဒါန်းခြင်းကိုလည်းပြုလုပ်ကြကုန်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

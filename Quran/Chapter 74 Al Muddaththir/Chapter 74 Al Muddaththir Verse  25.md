@@ -710,6 +710,12 @@ Tova e samo khorska rech.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။ ဤကျမ်းသည် သေမျိုးတစ်ဦး၏ မိန့်ခွန်းမှတပါး အခြားဘာမျှမဟုတ်ချေဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည် လူသား၏ ပြောဆိုချက်မှတစ်ပါး အခြားမဟုတ်ဟူ၍လည်းကောင်း၊ ပြောဆိုခဲ့လေ၏၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

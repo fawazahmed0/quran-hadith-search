@@ -710,6 +710,12 @@ Ne vlizaĭ v neya nikoga! Dzhamiyata [Kubaa], osnovana vŭrkhu bogoboyazlivostt
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၈။	သင်သည် ဗလီကျောင်း၌ ဆွလတ်ဝတ်ကို မပြုလင့်။အစကနဦးကပင် အလ္လာဟ်အရှင်မြတ်၏ အမှုတော်ကို ထမ်းဆောင်ဖို့ရာ ဆောက်တည်သောဗလီသည် သာလွန်မြင့်မြတ်၏။သင်သည် ထိုဗလီအတွင်း ဆွလတ်ဝတ် တက်ထိုက်၏။ထိုဗလီအတွင်း၌ မိမိတို့ကိုယ်ကို မိမိတို့သန့်ရှင်းဖြူစင်အောင် ပြုလုပ်လိုသူတို့ရှိကြ၏။အလ္လာဟ် အရှင်မြတ်သည် သန့်ရှင်းစင်ကြယ်အောင် ပြုကျင့်သူတို့ကို ချစ်မြတ်နိုးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ထိုဗလီဝတ်ကျောင်းတွင် မည်သည့်အခါ၌မျှ (ဆွလာတ်ဝတ်ပြုရန်) မတ်တတ်မရပ်ပါလေနှင့်။ မုချဧကန် အကြင် မတ်စ်ဂျစ်ဒ်ဗလီဝတ်ကျောင်းတော်သည် ပထမနေ့မှစ၍ (အလ္လာဟ်အရှင်မြတ်အား) ကြောက်ရွံ့ရိုသေခန့်ညားခြင်းအပေါ်၌(မူတည်၍) အုတ်မြစ်ချခဲ့ပြီးဖြစ်၏။ အသင်သည် ထိုဗလီဝတ်ကျောင်းတော်၌သာလျှင် ပိုမို၍ ရပ်ထိုက်၏။ ထိုဗလီဝတ်ကျောင်း တော်တွင်အလွန်သန့်ရှင်းစင်ကြယ်ကြရန် နှစ်သက်သောသူတို့သည် ရှိကြကုန်၏။ စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အလွန်သန့်ရှင်း စင်ကြယ်ကြကုန်သော သူတို့အား နှစ်မြို့တော်မူချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

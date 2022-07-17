@@ -710,6 +710,12 @@ I ako grupa ot vas povyarva v onova, s koeto byakh izpraten, a grupa ne povyarva
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၇။	အကယ်၍ သင်တို့အနက် လူတစ်စုသည် အကျွနု်ပ်အား ပေးတော်မူသော တရားတော်ကို ယုံကြည်၏။ အခြားလူတစ်စုသည် မယုံကြည်လျှင် အလ္လာဟ်အသျှင်မြတ်သည် ကျွနု်ပ်တို့အလယ် တွင် စစ်ကြောစီရင်တော်မူသည့်တိုင်အောင် သည်းခံကြလော့။ အသျှင်မြတ်သည် တရားစီရင်သော တရားသူကြီးတို့တွင် အကောင်းဆုံးဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အကယ်၍ အသင်တို့အနက်မှ အုပ်စုတစ်စုသည် ငါမှာကြားစေလွှတ်ခြင်းခံရသော အမိန့် ပညတ်တော်များကို သက်ဝင်ယုံကြည်၍ အုပ်စုတစ်စုကမူ မယုံကြည်ဘဲနေခဲ့ကြပါလျှင် ငါတို့၏စပ်ကြားတွင် အလ္လာဟ်အရှင်မြတ်ကစီရင်ဆုံးဖြတ်၍ ပေးတော်မူသည်အထိ အသင်တို့သည် သည်းခံစောင့်ဆိုင်း၍ နေကြလေကုန်။ အမှန်သော်ကား ထိုအရှင်မြတ်သည် အကောင်းဆုံး စီရင်ဆုံးဖြတ်ပေးတော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

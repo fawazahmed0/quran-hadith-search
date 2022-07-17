@@ -710,6 +710,12 @@ Nebeto togava shte se raztsepi. Obeshtanieto Mu se sbŭdva
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။ ထိုနေ့တော်ကြီး အထက်ကောင်းကင် အားလုံး အက်ကွဲပြိုကျလိမ့်မည်၊ အရှင်မြတ်၏ ကတိဗျာဒိတ်စက် အချိန်း အချက်မုချဧကန်ဖြစ်ရမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မိုးကောင်းကင်မှာလည်း ယင်းနေ့(၏ပြင်းထန်သောအဟုန်)ကြောင့် အက်ကွဲသွားပေမည်။ ထိုအရှင်မြတ်၏ ချိန်းဆိုချက်မှာကား ပြီးမြောက်အောင် ဆောင်ရွက်ပြီး ဖြစ်သည်သာတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

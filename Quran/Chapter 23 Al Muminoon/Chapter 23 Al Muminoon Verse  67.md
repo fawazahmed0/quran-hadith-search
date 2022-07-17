@@ -710,6 +710,12 @@ visokomerni kŭm nego, praznosloveshti po vecherni sŭbiraniya.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၇။	နင်တို့သည် ငါ၏ကုရ်အာန်ကျမ်းတော်ကို မထီလေးစားမထီမဲ့မြင်ပြုကြ၏၊ ည၌ နင်တို့သည် အရူးစကားပြောဆို ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မထီလေးစား ပြုလုပ်ကြလျက် ဤ(ကုရ်အာန်ကျမ်းတော်မြတ်)နှင့်စပ်လျဉ်း၍ ညဉ့်အချိန်များတွင် အကြောင်းမဲ့ အချည်းနှီးသော စကားများကို ပြောဆိုကြလျက်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

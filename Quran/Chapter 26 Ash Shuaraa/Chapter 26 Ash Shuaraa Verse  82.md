@@ -710,6 +710,12 @@ i na Kogoto se nadyavam da mi oprosti grekha v Sŭdniya den
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၂။	ထိုအရှင်မြတ်သည် ငါ၏အပြစ်ကို တရားစီရင်တော်မူသောနေ့တော်ကြီး၌ ခွင့်လွှတ်တော်မူမည်ဟု ကြီးစွာ မျှော်ကိုး၏ဟု တမန်တော်အေဗရာဟမ်သည် ဟောပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည်ပင် တရားစီရင်မည့်နေ့တွင် ငါ၏မှားယွင်းချက်များကို ခွင့်လွှတ်တော်မူမည်ဖြစ်ကြောင်း ငါမျှော်လင့်လျက်ပင် ရှိပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

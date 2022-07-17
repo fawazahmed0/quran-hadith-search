@@ -710,6 +710,12 @@ I taka, predi teb ne izpratikhme v nikoe selishte predupreditel, bez zhiveeshtit
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	အေ-တမန်တော် သင်မပွင့်လာမီကာလကလည်း ဤနည်းအတိုင်းပင်ဖြစ်၏၊ ငါသည် လူမျိုးတစ်မျိုးထံ သာသနာ ပြုတမန်တော်စေလွှတ်သောအခါတိုင်း သူတို့အနက် သူဌေးသူကြွယ်တို့က အကျွနု်ပ်တို့သည် မိမိတို့ဘိုးဘွား တို့အား ဘာသာအယူဝါဒတစ်မျိုးကို လိုက်နာကျင့်ဆောင်လျက် တွေ့ရပါ၏၊ အကျွနု်ပ်တို့လည်း သူတို့လမ်းကို သူတို့ခြေရာအတိုင်း လိုက်လျှောက်ကြပါ၏ဟု ဆိုကြလေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုနည်းတူစွာ ငါအရှင်မြတ်သည် မည်သည့်မြို့ရွာ၌မဆို သတိပေးနှိုးဆော်သူ(နဗီတမန်တော်)တစ်ပါးပါးကို စေလွှတ်တော်မူခဲ့တိုင်း ယင်းမြို့ရွာမှ စည်းစိမ်ရှင်တို့က(ဤသို့) ပြောဆိုခဲ့ကြ သည်သာ၊ "စင်စစ်ဧကန် ကျွန်ုပ်တို့သည်မိမိတို့၏အဘ၊ ဘိုး၊ ဘေးတို့အား သာသနာ့ လမ်းစဉ်တစ်ခုပေါ်၌ တွေ့ရှိခဲ့ကြပါ၏။ မုချဧကန် ကျွန်ုပ်တို့သည် ၎င်းတို့၏ ခြေရာများပေါ်၌ လိုက်ကြသူများပင် ဖြစ်ကြပါ၏"။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

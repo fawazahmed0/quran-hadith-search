@@ -710,6 +710,12 @@ Nevernitsite tvŭrdyat, che ne shte bŭdat vŭzkreseni. Kazhi: “Ne, kŭlna se 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။ မိစ္ဆာဒိဋ္ဌိတို့က မိမိတို့သည် ပြန်ရှင်ရမည်မဟုတ်ဟု အခိုင်အမာပြောဆိုကြ၏၊ အေ-တမန်တော် ဟောပြောလော့၊ ဧကန်အမှန် ငါ၏အသက်သခင်ကျေးဇူးရှင်ကြီး၏ တန်ခိုးတော်ကြောင့် သင်တို့သည် ပြန်ရှင်ရဦးမည်သာတည်း၊ ထိုအခါသင်တို့ပြုကျင့်သမျှတို့ကို သင်တို့အား မိန့်တော်မူလိမ့်မည်၊ ယင်းအမှုသည် အလ္လာဟ်အရှင်မြတ်အဖို့ လွယ်ကူသောအရာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘ကာဖိရ်’ သွေဖည်ငြင်းပယ်သောသူတို့က ၎င်းတို့သည် အလျှင်း ရှင်ပြန်ထကြရမည် မဟုတ်ဟူ၍ ထင်မြင် ပြောဆိုခဲ့ကြကုန်၏။ (အို-နဗီတမန်တော်) အသင်သည် ပြောကြားပါလေ။ (အချင်းတို့) အဘယ်ကြောင့် မဟုတ်သနည်း။ ငါ့အား ဖန်ဆင်း မွေးမြူတော်မူသော အရှင်မြတ်အား တိုင်တည်၍(ပြောအံ့)၊ ဧကန်မလွဲ အသင်တို့သည် ရှင်ပြန်ထကြရပေမည်။ ထို့နောက် ဧကန်မုချ အသင်တို့သည် မိမိတို့ကျင့်မူခဲ့သမျှတို့ကို သိစေခြင်း ခံကြရမည်။ စင်စစ်သော်ကား ဤသည် အလ္လာဟ်အရှင်မြတ်၌ လွန်စွာလွယ်ကူလှ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

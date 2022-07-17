@@ -710,6 +710,12 @@ I kazvat: “Sŭshtestvuva samo zemniyat ni zhivot. Umirame i zhiveem, i samo vr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	သူတို့သည် ဤသို့ပြောကြ၏၊ ဤဘဝမှတပါး အခြားဘဝမရှိချေ၊ ကျွနု်ပ်တို့သည် ဓမ္မတာအတိုင်း သေကြရှင်ကြ ၏၊ အချိန်ကာလမှတပါး အခြားမည်သည့်အရာမျှ ငါတို့ကို မဖျက်ဆီးနိုင်ချေ၊ သူတို့သည် ဤအကြောင်းအရာ ကို မသိပဲ ရမ်းဆ၍သာ ပြောဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ၎င်းတို့က အသက်ရှင်ခြင်းဟူသည် (ဤ)လောကီဘဝ၌ ကျွန်ုပ်တို့၏အသက်ရှင်ခြင်းမှ တစ်ပါးအခြားမရှိပြီ။ ကျွန်ုပ်တို့သည် (တစ်ကြိမ်တစ်ခါသာလျှင်) အသက်သေဆုံးကြ၍ (တစ်ကြိမ်တစ်ခါသာလျှင်) အသက်ရှင်ကြကုန်၏။စင်စစ် ကျွန်ုပ်တို့အား ခေတ်ကာလသည်သာလျှင် ပျက်စီးစေ၏။ အမှန်စင်စစ်မှာမူကား ဤသည်နှင့်စပ်လျဉ်း၍ ၎င်းတို့၌ မည်သည့်အသိပညာမျှပင် မရှိချေ။ ၎င်းတို့သည် ရမ်းဆ(ပြောဆို) နေကြသည်သာ ဖြစ်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

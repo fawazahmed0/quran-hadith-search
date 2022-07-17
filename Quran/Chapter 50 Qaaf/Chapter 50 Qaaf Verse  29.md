@@ -710,6 +710,12 @@ Ne se promenya Moeto Slovo. I ne sŭm ugnetitel na rabite.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	ငါ ချမှတ်တော်မူသောစီရင်ချက်တော်ကို ပြောင်းလဲ၍ မရနိုင်ချေ၊ ငါသည် မိမိ၏ ကျေးကျွန်များကို မတရား နှိပ်စက်တော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်အထံတော်၌ စကားပြောင်းလဲသည် ဟူ၍မရှိပြီ။ ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ကျွန်တို့အား မတရားပြုလုပ်တော်မူသော အရှင်လည်း မဟုတ်ပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A za onzi, koĭto umishleno ubie vyarvasht, vŭzmezdieto mu e Adŭt, tam shte p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၃။	အကြင်သူသည် ယုံကြည်သူတစ်ဦးကို သေစေလိုသောစိတ်ဖြင့် သတ်အံ့။ ထိုသူ၏ဆုလာဘ်မှာ ငရဲ၌ အစဉ်အမြဲ ခံစားရခြင်းဖြစ်၏။ အလ္လာဟ်အသျှင်မြတ်သည် သူ့ကို အမျက်ရှတော်ူ၏။ ကျိန်ဆဲတော်မူ၏။ အလွန်ကြောက်မက်ဖွယ်ကောင်းေသောအပြစ်ဒဏ်ကို စီရင်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကြင်သူသည် မွတ်စ်လင်မ်စ်တစ်ဦးတစ်ယောက်ကို တမင်သက်သက် ကြံစည်သတ်ဖြတ်ခဲ့ပါမူ ထိုသူ၏အပြစ်သည် ‘ဂျဟန္နမ်’ ငရဲဘုံပင်ဖြစ်သည်။ (ထိုသူသည်) ယင်း‘ဂျဟန္နမ်’ ငရဲဘုံ၌ အစဉ်အမြဲလားရမည်။ ထိုမှတစ်ပါးတုံ အလ္လာဟ်အရှင်မြတ်သည် ၎င်း၏အပေါ်၌ အမျက်တော်ထားတော်မူအံ့။ ထိုသူအား ကရုဏာတော်မှလည်း ကင်းဝေးစေတော်မူအံ့။ ထိုသူ၏အဖို့ ကြီးလေးသောပြစ်ဒဏ် တော်ကိုလည်း အဆင်သင့်ပြုထားတော်မူလတ္တံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

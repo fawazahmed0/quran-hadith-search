@@ -710,6 +710,12 @@ Vsevishen e Allakh, Istinskiya vladetel! I ne izbŭrzvaĭ [o, Mukhammad] s [che
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၄။	အလ္လာဟ်အရှင်မြတ်သည် ဘုရင်အစစ်ဖြစ်တော်မူပါ၏၊ အလွန်ကြီးကျယ်မြင့်မြတ်တော်မူလှပါ၏၊ အို--မိုဟမ္မဒ်၊ သင့်ထံသို့ အလ္လာဟ်အရှင်မြတ်သည် ကုရ်အာန်ကျမ်းတော်မြတ်ကို ထုတ်၍ ချပေးသနားတော်မူရာ၌ ဂါထာ တစ်ပုဒ်စုံလင်စွာမကျရောက်မီ ထိုဂါထာကို ဆောလျင်စွာထုတ်ဖော်ဟောပြောခြင်းကို မပြုလင့်၊ သို့သော် အို--အကျွနု်ပ်၏အရှင်သခင်၊ အကျွန်ုပ်၌ ပညာပွားများစေတော်မူပါဟု ဆုတောင်းလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ စိုးမိုးအုပ်ချုပ်တော်မူသော(ဘုရင်)အစစ်အမှန်ဖြစ်တော်မူသော အလ္လာဟ်အရှင်မြတ်သည် မြင့်မြတ်လှတော်မူ၏။ ထို့ပြင် အသင်သည် မိမိထံသို့ ထိုအရှင်မြတ်၏ ဝဟီ အမိန့်တော်ပြီးဆုံးသည်အထိ မကျရောက်မီ ကုရ်အာန်ကျမ်းတော်မြတ်(ကိုရွတ်ဖတ်သရဇ္ဈာယ်ရာ)၌ အလျင်စလိုမပြုလေနှင့်။ ၎င်းပြင် အသင်သည် အို-ကျွန်တော်မျိုးအားဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ အရှင်မြတ်သည် ကျွန်တော်မျိုး၌ အသိပညာကို တိုးပွားစေတော်မူပါ ဟု လျှောက်ထား (အသနားခံ)ပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

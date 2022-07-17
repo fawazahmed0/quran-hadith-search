@@ -710,6 +710,12 @@ Kazhi [o, Mukhammad]: “Ako Vsemilostiviya imashe sin, Az shtyakh da sŭm pŭrv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၁။	အို-တမန်တော်၊ ဟောပြောလော့၊ မဟာကရုဏာတော်အရှင်၌ သားတော်မရှိချေ၊ ငါသည် အရှင်မြတ်အား ကိုးကွယ်သူတို့အနက် ရှေးဦးပထမဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်ပြောကြားပါလေ။(အချင်းတို့၊)အကယ်၍ အလ္လာဟ်အရှင်မြတ်၌ သားတစ်ဦးတစ်ယောက် ရှိပါအံ့။ ငါသည် ရှေးဦးပထမ (ထိုသားကို) ဆည်းကပ်ကိုးကွယ်သူဖြစ်အံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ne vizhdash li ti, che izprashtame satanite sreshtu nevernitsite, za da gi podst
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၃။	အို-တမန်တော်၊ ငါသည် မိစ္ဆာမိုက်တို့အား ဖျားယောင်းသွေးဆောင်ပြီးလျှင် ထောင်းထောင်းကြေမွအောင် ဖျက်ဆီးရန် ရှိုင်တန်မာရ်နတ်များကို စေလွှတ်တော်မူသည်ကို သင်မသိမမြင်လေသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်)အသင်သည် မသိမမြင်ခဲ့ပါသလော။ ဧကန်မလွဲ ငါအရှင်မြတ်သည် ကာဖိရ် သွေဖည်ငြင်းပယ်သောသူတို့အပေါ်၌ ရှိုင်တွာန်မိစ္ဆာကောင်များကို စေလွှတ်ထားတော်မူခဲ့လေသည်။ ထိုရှိုင်တွာန်မိစ္ဆာကောင်များသည် ယင်းသွေဖည်ငြင်းပယ်သောသူတို့အား လွန်စွာလှုံ့ဆော်လျက်ရှိကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

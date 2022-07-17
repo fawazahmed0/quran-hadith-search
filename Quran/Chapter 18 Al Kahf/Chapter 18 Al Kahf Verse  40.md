@@ -710,6 +710,12 @@ moyat Gospod mozhe da mi dade po-dobra ot tvoyata gradina i da prati vŭrkhu ney
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၀။	အကျွနု်ပ်၏ ကျေးဇူးတော်သခင်သည် အကျွနု်ပ်အား သင်၏ ဥယျာဉ်ထက်သာသောအရာဝထ္ထုကို ပေးကောင်း ပေးတော်မူလတ့ံ။ သင်၏ ဥယျာဉ်ပေါ်သို့ မိုးကြိုပစ်ချကောင်းပစ်ချတော်မူလတ့ံ။ တခုသောနံနက်တွင် သင်၏ ဥယျာဉ်သည် ပျက်ပြုန်းကြေမွ၍ တောင်ကုန်းပြောင်ပြောင်ဖြစ်သွားကောင်းဖြစ်သွားလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကျွန်ုပ်အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည် အသင်၏ဥယျာဉ်ထက် ပိုမိုကောင်းမြတ်သော(ဥယျာဉ်ကို) ကျွန်ုပ်အား ချီးမြှင့်ပေးသနားတော်မူ၍ (အသင်၏)ထိုဥယျာဉ်ပေါ်၌ မိုးကောင်ကင်မှ မိုးကြိုးလောင်မီးဘေးအန္တရာယ်တစ်စုံတစ်ရာကို ချတော်မူလတ္တံ့။ သို့ဖြစ်လျှင်(အသင်၏) ထိုဥယျာဉ်မှာချောမွတ်သော မြေပြင်တစ်ခုသာဖြစ်သွားအံ့တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

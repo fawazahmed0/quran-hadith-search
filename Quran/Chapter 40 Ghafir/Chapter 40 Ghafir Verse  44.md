@@ -710,6 +710,12 @@ I shte si pripomnite kakvo vi kazvam. Az poveryavam svoeto delo na Allakh. Allak
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	သင်တို့သည် ငါဟောပြောသောတရားဒေသနာကို သတိရကြလတ့ံ၊ ငါသည် မိမိ၏ အမှုကိစ္စအဝဝကို အလ္လာဟ် အရှင်မြတ်အား ပုံ၍ အပ်၏၊ အကြောင်းမူကား အရှင်မြတ်သည် မိမိ၏ ကျေးကျွန်များကို အမြဲမြင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား မကြာမြင့်မီ အသင်တို့သည် ကျွန်ုပ်တို့ အသင်တို့အား ပြောဆိုသောစကားများကို ပြန်လည်၍ သတိရရှိကြပေမည်။ ထို့ပြင် ကျွန်ုပ်မူကား မိမိအရေးကိစ္စကို အလ္လာဟ်အရှင်မြတ်အထံတော်သို့ လွှဲအပ်လိုက်ပြီ။ ဧကန်အမှန် အလ္လာဟ်အရှင်မြတ်သည် (မိမိ)ကျွန်တို့အား ကောင်းမွန်စွာ ကြည့်ရှုစောင့်ရှောက်တော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

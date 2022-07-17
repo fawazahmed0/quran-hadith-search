@@ -710,6 +710,12 @@ Allakh razpukva zŭrnoto i kostilkata. Izvazhda Toĭ zhivoto ot mŭrtvoto i izv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၅။	မှတ်သားကြလော့။ အလ္လာဟ်အသျှင်မြတ်သည် စပါးစေ့၊ စွန်ပလွန်စေ့ကို အညှောင့်ပေါက်ဖို့ရာ ခွဲစိ်တ်တော်မူ၏။ အသျှင်မြတ်သည် သက်မဲ့မှ သက်ရှိကို ဖန်ဆင်းတော်မူ၏။ သက်ရှိကို သက်မဲ့ ဖြစ်စေတော်မူ၏။ အလ္လာဟ်အသျှင်မြတ်သည် ယင်းသို့ဖန်ဆင်းတော်မူထသော အသျှင်သခင် ဖြစ်တော်မူ၏။ သို့ပါလျက် သင်တို့သည် တရားတော်ကို မယုံကြည်ဘဲ လှည့်စားခြင်းကို အဘယ်ကြောင့် ခံရသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် မျိုးစေ့များနှင့်သစ်စေ့များကို (အညှောက်အတက်ထွက်စေရန်) အက်ကွဲစေတော်မူသော အရှင်မြတ်ဖြစ်တော်မူ၏။ ထိုအရှင်မြတ်သည်သာလျှင် သက်မဲ့အရာ များမှသက်ရှိသတ္တဝါများကိုထုတ်တော်မူလေသည်။ ထို့ပြင်တဝ ထိုအရှင်မြတ်သည်သက်ရှိသတ္တဝါများမှ သက်မဲ့အရာများကို ထုတ်တော်မူသောအရှင်မြတ် လည်း ဖြစ်တော်မူ၏။ သို့ပြုစွမ်းနိုင်တော်မူသောအရှင်သည်ကား အလ္လာဟ်အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။သို့ဖြစ်ပေရာ အသင်တို့သည် (ထိုအရှင်မြတ်အားခဝပ်ကိုးကွယ်ခြင်း ကိုစွန့်၍) အဘယ်သို့ပြန်လှည့်သွားကြလေသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

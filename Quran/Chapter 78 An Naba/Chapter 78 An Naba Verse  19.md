@@ -710,6 +710,12 @@ i shte se raztvori nebeto, i shte stane na dveri
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။ ထို့အပြင် ထိုနေ့တော်ကြီး၌ အာကာသကောင်းကင်သည် ကွဲအက်ပွင့်၍ တံခါးကြီးများကဲ့သို့ဖြစ်ရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (ထိုနေ့တွင်) မိုးကောင်ကင်သည် ပွင့်သွားပေမည်။ ထိုအခါ ယင်းမိုးကောင်းကင်၌ တံခါးများသာ ဖြစ်သွားကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

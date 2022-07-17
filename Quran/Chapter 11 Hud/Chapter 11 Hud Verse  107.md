@@ -710,6 +710,12 @@ tam shte prebivavat vechno, dokato sŭshtestvuvat nebesata i zemyata, osven ako 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၇။	သင်၏ အရှင်သခင်အလိုရှိတော်မူသည်မှတပါး သူတို့သည် ငရဲမီးထဲ၌ မိုးမြေတည်ရှိသမျှကာလပတ်လုံး ခံစား ကြရလတ့ံ။ မှတ်သားလော့။ သင်၏ ကျေးဇူးတော်သခင်သည် မိမိအလိုရှိရာကို စီရင်တော်မူသောအရှင်ဖြစ်တော် မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (င်းတို့သည်)မိုးကောင်းများနှင့် ပထဝီမြေတည်နေသမျှကာလပတ်လုံး ထိုငရဲဘုံတွင် အသင် ၏အရှင်မြတ်အလိုရှိတော်မူသည်မှတပါး ထာဝစဉ်နေထိုင်သူများအဖြစ် ရှိကြပေမည်။ ဧကန်စင်စစ် အသင်၏အရှင်မြတ်သည် မိမိကြံရွယ်တော်မူသောကိစ္စကို အပြီးအစီး ပြုလုပ်တော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ i [vizhda] tvoite dvizheniya sred poklanyashtite se v sudzhud
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁၉။ ထို့အပြင် ဆွလတ်ဝတ်၌ ပျပ်ဝတ်ညွှတ်ချ၍ သူတို့ ဆွလတ်ဝတ်၌ ပျပ်ဝတ်ချသူတို့ အထဲ၌ သင်၏ ဦးညွှတ်နှိမ့်ချခြင်းကိုသော်၄င်း မြင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ (ထိုအရှင်မြတ်သည်) "ဆွလာတ်"ဝတ်ပြုသူတို့တွင် အသင်၏ ပါဝင်နေထိုင် သွားလာမှု ကိုလည်း(မြင်တော်မူ၏)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

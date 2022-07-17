@@ -710,6 +710,12 @@ Reche: “Napusni Raya! Ne ti podobava da se gordeesh tuk. Vŭn! Ti si ot unizen
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	အသျှင်မြတ်က အို-အီဗလစ် သင်သည် ချက်ချင်း ထွက်သွားလော့။ ဤနေရာတွင် သင်သည် မာန်မာနပြစရာမဟုတ်။ ထို့ကြောင့် ထွက်သွားလော့။ မှတ်သားလော့။ သင်သည် ဂုဏ်သရေပျက် သူတို့ဘောင်တွင် အပါအဝင်ဖြစ်၏ဟု မိန့်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုရောကာလ) ထိုအရှင်မြတ်သည် (ယင်းအစ်ဗ်လီးစ်အား ဤသို့) မိန့်ကြားတော်မူခဲ့လေသည်။ (ဟယ်-ဣဗ်လီးစ်) သို့ဖြစ်လျှင် အသင်သည် ဤ(ဂျန္နတ် အမတသုခဘုံ)မှ ဆင်းလော့။ အသင်သည် ဤ(ဂျန္နတ်အမတသုခဘုံ)၌မောက်မာပလွှား[တနည်း] ဂုဏ်ဟိတ်ထုတ်ရန် မထိုက်ပေ။ သို့ဖြစ်ပေရာ အသင်သည်(ဤမှ)ထွက်လော့။ မုချဧကန် အသင်သည် ဂုဏ်သိရ်သိမ်ဖျင်းသူတို့တွင် အပါအဝင် ဖြစ်ချေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

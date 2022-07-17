@@ -710,6 +710,12 @@ v Denya, kogato nito bogat·stvo, nito sinove shte pomognat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၈။	ထိုနေ့တော်ကြီး၌ ဥစ္စာပစ္စည်းနှင့် သားသမီးတို့သည် အသုံးကြမည်မဟုတ်ပါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်နေ့တွင် ပစ္စည်းဥစ္စာသည် လည်းကောင်း၊သား(သမီး)များသည် လည်းကောင်း၊ အသုံးဝင်မည် မဟုတ်ပါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Nie izprashtame pratenitsite edinstveno kato blagovestiteli i preduprediteli. Za
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	တမန်တော်များအား ဝမ်းမြောက်ဖွယ်သတင်းကောင်းကို ယူဆောင်လာသူများနှင့် ထိတ်လန့် ကြောက်လန့်ဖွယ်သတင်းဆိုးအားဖြင့် သတိပေးသူများအဖြစ်ဖြင့်မှတစ်ပါး၊ အခြားသူတို့အဖြစ်ဖြင့် စေလွှတ်တော်မမူပေ။ အကြင်သူတို့သည် ယုံကြည်ခြင်းတရားကို လက်ကိုင်ထား၍ မှန်ကန်မှုကို ကျင့်ဆောင်ကြ၏။ ထိုသူတို့ပေါ်တွင် ကြောက်ရွံ့ခြင်းကျရောက်မည်မဟုတ်။ သူတို့ ပူဆွေးရမည် မဟုတ်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ငါအရှင်မြတ်သည် ရစူလ်တမန်တော်အပေါင်းတို့ကို ဝမ်းမြောက်ဘွယ်သတင်းပေးသူများနှင့် သတိပေးနှိုးဆော်သူများအဖြစ်သာလျှင် စေလွှတ်လေ့ရှိတော်မူ၏။သို့ဖြစ်ပေရာ မည်သူမဆို အီမာန် ယုံကြည်ခြင်း သဒ္ဓါတရားထားရှိကာ(မိမိအခြေအနေကို)ပြုပြင်ခဲ့ပါမူ ထိုကဲ့သို့သောသူတို့၌ မည်သည့်စိုးရိမ်မှုမျှမရှိချေ။ ၎င်းတို့သည် ပူဆွေးကြရမည်လည်းမဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I zhrebiĭ khvŭrlikha, i toĭ be ot gubeshtite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၁။	ထို့နောက်စာရေးတံမဲချကြရာ ထိုတမန်တော်သည် စွန့်ပစ်ရမည့်လူတို့အထဲတွင် အပါအဝင်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ထို"ယူနွတ်စ်"သည်(သင်္ဘောသားများ) မဲစာရေးတံချရာတွင် ပါဝင်မဲချစေခဲ့ရာ၊ ၎င်းမှာ အရေးရှုံးနိမ့်သူ ဖြစ်ခဲ့ရလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

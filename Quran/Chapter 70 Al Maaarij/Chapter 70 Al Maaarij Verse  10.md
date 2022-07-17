@@ -710,6 +710,12 @@ i ne shte pita priyatel za priyatelya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၀။ ပွန်းတီးသောအဆွေခင်ပွန်းသည် မိမိမိတ်ဆွေအကြောင်းကို မမေးသောနေ့တော်ကြီး။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အဆွေခင်ပွန်း တစ်ဦးတစ်ယောက်ကမျှပင် မည်သည့် အဆွေခင်ပွန်းကိုမျှပင် မေးမြန်းမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

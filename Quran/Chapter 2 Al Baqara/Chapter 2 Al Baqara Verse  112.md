@@ -710,6 +710,12 @@ Da! Koĭto vsetsyalo se e otdal na Allakh i e blagodetelen, shte ima nagradata 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၂။	သူတို့မပြနိုင်ချေ။ အကြင်သူသည် မိမိ၏သုစရိုက်ကောင်းမှုကို အလ္လာဟ်အရှင်မြတ်အား ကျိုးနွံ နာခံသောရည်ရွယ်ချက်နှင့်ပြုလုပ်၏။ ထိုသူအတွက် အောင်ဆုမင်္ဂလာတော်သည် အလ္လာဟ် အရှင်မြတ်ထံတော်၌ရှိ၏။ ထိုသူတို့အပေါ်၌ စိုးရိမ်ကြောင့်ကြခြင်းကျမည်မဟုတ်။ ပူဆွေးရကြတော့ မည်လည်းမဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(ယဟူဒီဘာသာဝင်များနှင့် ခရစ်ယာန်တို့ပြောဆို ကြသောစကားသည်၊ အဘယ်မှာလျှင် ဟုတ်မှန်ပါအံ့နည်း) စင်စစ်သော်ကား မည်သူမဆို မိမိကိုယ်ကို အလ္လာဟ် အရှင်မြတ်အား လုံးဝ အပ်နှင်းပြီး (ခယရိုကျိုးရှိခိုး၍) ကောင်းမှုကုသိုလ် များကို ပွားများခဲ့ပါလျှင် ထိုကဲ့သို့သော သူတို့သည် မိမိတို့၏ အသျှင့်အထံတော်၌ အကျိုးကျေးဇူးများ ကို မုချရရှိ၍ စိုးရိမ်ကြောင့်ကြ ပူဆွေးကြရမည်လည်း မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

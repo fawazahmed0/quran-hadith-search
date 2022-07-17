@@ -710,6 +710,12 @@ I spomni si Nashiya rab Aĭyub. Toĭ pozova svoya Gospod: “Satanata mi prich
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	ထို့အပြင်အို-မိုဟမ္မဒ်၊ ငါ၏ ကျေးကျွန်အိုင်ယူး(ဘ်)၏ အကြောင်းကိုလည်း သင်ဟောပြောလော့၊ သူသည် မိမိ၏ အသက်သခင်ကျေးဇူူးတော်ရှင်ကို တင်လျှောက်သည်မှာ အို-အရှင်မြတ်၊ ရှိုင်တန်မာရ်နတ်သည် အကျွနု်ပ် အား ဆင်းရဲဒုက္ခအမျိုးမျိုးနှင့် နှိပ်စက်နေပါသည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် "(အို-နဗီတမန်တော်) အသင်သည် ငါအရှင်မြတ်၏ကျွန်(နဗီတမန်တော်)"အိုက်ယူဗ်" (၏အကြောင်း အတ္ထုပ္ပတ္တိ)ကို ပြန်လည်စဉ်းစား သတိရပါလေ။ တစ်ရံရောအခါဝယ် ထို"အိုက်ယူဗ်"သည် မိမိအရှင်မြတ်အား "စင်စစ်ဧကန် ရှိုင်တွာန်မိစ္ဆာကောင်သည် ကျွန်တော်မျိုး၌ ရောဂါဝေဒနာကိုလည်းကောင်း၊ ဘေးဒုက္ခကိုလည်းကောင်း၊ သက်ရောက်စေခဲ့ပါသည်"ဟုဟစ်အော်(လျှောက်ထား)ခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

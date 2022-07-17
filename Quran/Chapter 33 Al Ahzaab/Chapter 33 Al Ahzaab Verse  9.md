@@ -710,6 +710,12 @@ O, vyarvashti, pomnete blagodatta na Allakh kŭm vas, kogato nasreshta vi nastŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	အို-ယုံကြည်သူအပေါင်းတို့၊ သင်တို့ကို တိုက်ခိုက်ရန် ရန်သူစစ်သားအမြောက်အမြားချီတက်လာသောအခါ ငါသည် ထိုရန်သူများကို တိုက်ဖျက်ရန် လေပြင်းမုန်တိုင်းနှင့်တကွ သင်တို့မမြင်နိုင်စွမ်းသောရဲမက်တို့အား စေလွှတ်တော်မူ၏၊ စင်စစ်မှာ အလ္လာဟ်အရှင်မြတ်ကို အမျိုးမျိုးအဖုံဖုံမတရားတွေးထင်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-မုအ်မင်န် သက်ဝင်ယုံကြည်သူ အပေါင်းတို့၊ အသင်တို့သည် မိမိတို့အပေါ်၌ အလ္လာဟ်အရှင်မြတ် (ပြုတော်မူခဲ့သော) ကျေးဇူးတော်ကို ပြန်လည်သတိရရှိ ကြလေကုန်။ အခါတစ်ပါး၌ အသင်တို့ထံသို့ များစွာသော စစ်တပ်များသည်(တိုက်ခိုက်ရန်)ချီတက်၍လာခဲ့ကြကုန်၏။ ထို့ နောက်ငါအရှင်မြတ်သည်စစ်တပ်များအပေါ်၌ လေပြင်းတစ်ခုကိုလည်းကောင်း၊ အသင်တို့မမြင်ကြရသော စစ်တပ်များကိုလည်းကောင်း၊ စေလွှတ်တော်မူခဲ့၏။ အမှန်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့ ပြုလုပ်လျက်ရှိခဲ့ကြသည် တို့ကိုကောင်းစွာ ရှုမြင်တော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A koyato ot vas se pokori na Allakh i na Negoviya Pratenik, i vŭrshi pravedni d
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	ထို့အပြင်သင်တို့အနက် အကြင်သူသည် အလ္လာဟ်အရှင်မြတ်နှင့် အရှင်မြတ်၏ တမန်တော်အား ကျိုးနွံနာခံအ့ံ၊ ဖြောင့်မတ်မှန်ကန်မှုကို ကျင့်ကြံအ့ံ၊ ထိုသူမအား သာမန်မိန်းမများထက် နှစ်ဆထမ်းပိုးကို ငါအရှင်မြတ်ပေးသနား တော်မူမည်၊ ထို့အပြင်ထိုသူတော်ကောင်းမအဖို့အရာ အလွန်မွန်မြတ်သောဘောဇဉ်ခဲဖွယ်တို့ကို အသင့်ပြင်ဆင် ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ မည်သူမဆို အသင်မတို့အနက်အလ္လာဟ်အရှင်မြတ်၏ အမိန့်တော်ကိုလည်းကောင်း၊ ထိုအရှင်မြတ်၏ရစူလ်တမန်တော်မြတ်၏ အမိန့်တော်ကိုလည်းကောင်း၊လိုက်နာသည်ရှိသော်၊ ၎င်းပြင် ကောင်းမြတ်သော အကျင့်သီလကို ဆောက်တည်သော် ငါအရှင်မြတ်သည် ၎င်းအား ၎င်း၏အကျိုးကို နှစ်ဆချီးမြှင့် ပေးသနားတော်မူပေမည်။ ထိုမှတစ်ပါးငါအရှင်မြတ်သည် ၎င်း၏အဖို့ မြင့်မြတ်လှစွာသော ရိက္ခာကိုလည်း အဆင်သင့်ပြုလုပ်၍ ထားရှိတော်မူပြီး ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

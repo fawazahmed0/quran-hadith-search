@@ -710,6 +710,12 @@ I shtom izvestyat nyakogo ot tyakh za zhenska rozhba, litseto mu pomrachnyava i 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈။	သူတို့အနက် တစ်ဦးတစ်ယောက်သည် သမီးရတနာဖွားမြင်ကြောင်းသတင်းရသောအခါ သူသည် မျက်နှာမသာ မဲသွား၏။ သူသည် ကိုယ်တွင်း၌ ဒေါသထွက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ၎င်းတို့အနက် တစ်စုံတစ်ယောက်သည် သမီးမိန်ကလေးနှင့်ပတ်သက်၍ သတင်းကောင်းပေးခြင်းကို ခံရလေသောအခါ ၎င်း၏မျက်နှာသည် (ရုတ်တရက်ချက်ချင်း) ညိုမည်း၍ သွားလေတော့၏။ ထိုမှတစ်ပါး၎င်းသည် ကျိတ်၍ ပူဆွေးလျက်ရှိပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I kolko tvari ima, koito ne si nabavyat prepitanieto - Allakh dava prepitanie i 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆ဝ။	မိမိတို့စားဖို့ရာ ရိက္ခာအစားအစာကို ထမ်းဆောင်သယ်ပိုးသိမ်းဆည်း၍ မထားနိုင်သောတိရိစ္ဆာန်တို့သည် များ ပြားလေစွ၊ ငါသည် ထိုတိရိစ္ဆာန်များနှင့် သင်တို့ကို ကျွေးမွေးတော်မူ၏၊ အရှင်မြတ်သည် ကြားတော်မူသော အရှင်၊ သိတော်မူသောအရှင်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား မြောက်မြားစွာသော တိရစ္ဆာန်တို့မှာ မိမိတို့၏စားနပ်ရိက္ခာကို သယ်ပိုးထားကြသည် မဟုတ်ပေ။ အလ္လာဟ်အရှင်မြတ်သည်ပင် ထိုတိရစ္ဆာန်တို့ကိုလည်းကောင်း၊ အသင်တို့အားလည်းကောင်း၊ စားနပ်ရိက္ခာကို ပေးသနားတော်မူ၏။ စင်စစ်သော်ကား ထိုအရှင်မြတ်သည်အလုံးစုံတို့ကို အကြွင်းမဲ့ကြားတော်မူသော၊ သိတော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

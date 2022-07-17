@@ -710,6 +710,12 @@ Onova, koeto te izrazkhodvat v zemniya zhivot, prilicha na mrazovit vikhŭr, por
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၇။	ဤသူတို့၏လောကဘဝ၌ သုံးစွဲလှူဒါန်းခြင်း၏ ဥပမာသည် အလွန်အေးမြပြင်းထန်သောလေနှင့် တူ၏။ ထိုလေသည် မိမိကိုယ်ကို မိမိပြစ်မှားသူတို့၏ ကောက်ပဲသီးနှံများကို တိုက်ခတ်ဖျက်ဆီး၏။ အလ္လာဟ်အသျှင်မြတ်သည် သူတို့ကို ပြစ်မှားတော်မမူချေ။ သူတို့သည် မိမိကိုယ်ကို မိမိတို့ ပြစ်မှား ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤပစ္စုပ္ပန်ဘဝတွင် ယုံကြည်ခြင်းသဒ္ဓါတရားကင်းမဲ့ကြကုန်သော ထို(ကာဖိရ်) တို့၏ လှူဒါန်းစွန့်ကြဲခြင်း၏ဥပမာ ပုံဆောင်ချက်ကား အကြင်လေနှင့်အလားတူ၏။ ထိုလေ၌ အလွန်ပြင်းထန်သော အအေးဓါတ်သည်ရှိ၏။ ထိုလေသည် မိမိတို့ကိုယ်ကို နှိပ်စက်ကလူ ပြုကြကုန်သော အကြင်လူစုတစ်စု၏ လယ်ယာကို တိုက်ခတ်၍ ထိုလယ်ယာကိုင်းကျွန်းကို(ဆွေးမြေ့)ပျက်စီးစေခဲ့၏။ (ထိုနည်းပမာ ယုံကြည်ခြင်းသဒ္ဓါတရား ကင်းမဲ့သောသူတို့၏ အလှူဒါနများသည်လည်း နောင်တမလွန်ဘဝ၌ အချည်းနှီးပင် ဖြစ်ပေမည်)။ အမှန် သော်ကားအလ္လာဟ်အရှင်မြတ်သည် ယင်းသူတို့အား နှိပ်စက်ညှဉ်းပန်းတော်မူသည် မဟုတ်ပေ။ သို့ရာတွင် ယင်းသူတို့သည် မိမိတို့ကိုယ်ကို မိမိတို့ကိုယ်တိုင်ပင် နှိပ်စက်ကလူ ပြုကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

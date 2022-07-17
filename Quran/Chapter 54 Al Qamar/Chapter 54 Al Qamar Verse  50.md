@@ -710,6 +710,12 @@ Nashata povelya se izpŭlnyava, dokato migne okoto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅ဝ။	ထို့အပြင် ငါ၏အမိန့်ဗျာဒိတ်တော်သည် တစ်ချက်လွှတ်အမိန့်တော်ဖြစ်၏၊ မျက်စိတမှိတ်လျှပ်တပြက်တွင် ဖြစ် ပေါ်လာ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ငါအရှင်မြတ်၏ အမိန့်တော်မှာ တစ်ကြိမ်တည်း အမိန့်ပေးရုံကာမျှဖြင့် မျက်စိတစ်မှိတ်အတွင်း ဖြစ်မြောက်သွားပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

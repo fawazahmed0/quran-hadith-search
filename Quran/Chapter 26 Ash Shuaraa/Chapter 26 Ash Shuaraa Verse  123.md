@@ -710,6 +710,12 @@ I aditite vzekha pratenitsite za lŭzhtsi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၃။	အာဒ်လူမျိုးသည် အလ္လာဟ်အရှင်မြတ်၏ တမန်တော်များကို ငြင်းဆန်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘အာဒ်’ အမျိုးသားတို့သည်လည်း ရစူလ်တမန်တော်တို့အား မဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ် ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Allakh promenya noshtta i denya. V tova ima pouka za prozorlivite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	အလ္လာဟ်အရှင်မြတ်သည် နေ့နှင့်ညဉ့်ကို အလှည့်ကျလည်စေတော်မူ၏၊ မှတ်သားကြလော့၊ ဤအခြင်းအရာ၌ မြင်သူတို့အဖို့ သင်ခန်းစာအမှန်ပါရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် ညဉ့်နှင့်နေ့ကို(အလှည့်ကျ) လွှဲပြောင်းတော်မူပေသည်။ ဧကန်မလွဲ ဤသည်၌ (ဉာဏ်)မျက်စိရှိသူတို့အဖို့ (မှတ်သားဖွယ်) သင်ခန်းစာသည် အမှန်ပင် ရှိပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

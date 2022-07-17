@@ -710,6 +710,12 @@ Kazhi [o, Mukhammad]: “Tova li e po-dobroto, ili Gradinata na vechnostta, obes
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	အို--တမန်တော်၊ ဟောကြားလော့၊ ငရဲမီးသည် သာလွန်ကောင်းမြတ်သလော၊ သို့မဟုတ်ဒုစရိုက်မကောင်းမှုကို တွန်းလှန်ပစ်သူတို့အား ပေးသနားတော်မူမည်ဟု ကတိထားတော်မူသော၊ အိုခြင်း၊နာခြင်း၊သေခြင်းကင်းမဲ့သော နိဗ္ဗာန်ဥယျာဉ်တော်က သာလွန်ကောင်းမြတ်သလော၊ထိုဥယျာဉ်တော်သည် သူတော်ကောင်းတို့၏ ဆုနှင့်ဘဝခရီး ဆုံးရာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (၎င်းတို့အား ဤသို့)ပြောကြားပါလေ။ (အချင်းတို့၊) ဤ (ဒုက္ခ)သည် ကောင်းလေသလော၊ သို့တည်းမဟုတ် "မွတ္တကီ" သူတော်စင်များ ကတိပေးခြင်းခံကြရသော အမြဲထာဝစဉ် နေထိုင်စံမြန်းကြရမည့် "ဂျန္နတ်" သုခသည် ကောင်းမြတ်လေသလော။ ယင်း ဂျန္နတ် သုခသည် ထိုမွတ္တကီသူတော်စင်တို့အဖို့ အကျိုးလည်းဖြစ် သည်။ နောက်ဆုံး ပြန်လည်ရာဌာနလည်း ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

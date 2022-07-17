@@ -710,6 +710,12 @@ I kogato stignakha myastoto, kŭdeto dvete se sŭbirat, zabravikha svoyata riba 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၁။	ထို့အပြင်သူတို့သည် မြစ်နှစ်သွယ်ဆုံရာဌာနသို့ ရောက်ရှိသောအခါ သူတို့သည် မိမိတို့၏ ငါးကို မေ့လျော့နေ ကြ၏။ ငါးလည်း လွတ်မြောက်ခြင်းကြောင့် ရေထဲသို့ ခုန်ဆင်းသွား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနောက် ၎င်း(မူစာနှင့်နောက်ပါတပည့်) နှစ်ဦးစလုံးသည် ထိုမြစ်နှစ်သွယ်ဆုံရာသို့ ရောက်ရှိခဲ့ ကြသော အခါ၎င်းတို့နှစ်ဦးသည် မိမိတို့၏ငါးကို မေ့သွားခဲ့ကြ၏။ စင်စစ်ယင်းငါးသည် မြစ်ထဲတွင် မိမိလမ်းကို အက်ကြောင်းရှည်ကြီးပြုလုပ်လျက် လျှောဆင်း၍ သွားခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

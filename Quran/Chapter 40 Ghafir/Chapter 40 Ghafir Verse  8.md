@@ -710,6 +710,12 @@ Gospodi nash, i vŭvedi gi v Gradinite na Adn, koito si obeshtal na tyakh i na p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	အို-အကျွနု်ပ်တို့၏ အသက်သခင်ကျေးဇူးရှင်၊ အရှင်ကတိပြုတော်မူသောထာဝရဥယျာဉ်တော်အတွင်းသို့ ထိုသူတို့ သူတို့မိဘများ၊ သားမယား၊ နောင်လာနောက်သားများအနက် တရားသဖြင့် ကျင့်ကြံသူတို့အား ဝင်စေတော်မူပါ၊ အရှင်သာလျှင် အနန္တတန်ခိုးတော်သခင်၊ သဗ္ဗညုတဉာာဏ်တော်ရှင် ဖြစ်တော်မူပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ကျွန်တော်မျိုးတို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ ၎င်းပြင် အရှင်မြတ်သည် ထိုသူတို့အား အရှင်မြတ် ၎င်းတို့အား ကတိပြုတော်မူခဲ့သည့် အမြဲထာဝရ နေထိုင်ရအံ့သော ဥယျာဉ်များသို့လည်း ဝင်ရောက်စေတော်မူပါ။ ထို့ပြင် ထိုသူတို့၏ ဖခင်တို့အနက်မှလည်းကောင်း၊ ထိုသူတို့၏ သား၊ မြေး၊ မြစ်တို့အနက်မှလည်းကောင်း၊(ဂျန္နတ်နှင့်)သင့်လျော်ကြကုန်သော သူတို့အားလည်း (ယင်း အမတ သုခဥယျာဉ်များသို့ ဝင်ရောက်စေတော်မူပါ၊) ဧကန်မလွဲ အရှင်မြတ်သည်ပင် လွန်စွာနိုင်နင်း လွှမ်းမိုးတော်မူသောအရှင်၊ ဆင်ခြင်တုံတရားနှင့်အလွန်တရာ ပြည့်စုံတော်မူသောအရှင် ဖြစ်တော်မူပါ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I veche zabludikha te mnozina. I nadbavyaĭ na ugnetitelite samo zabluda!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။ စင်စစ်အားဖြင့် ထိုသူတို့သည် များစွာသော လူသားတို့အား လမ်းမှားသို့ ပို့ဆောင်ပါပြီ၊ အရှင်သည် ဒုစရိုကကောင်များအား မတရားမှုမှတပါး အခြားအရာများတွင် တိုးပွားစေတော်မူသည်မဟုတ်ပါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ်သော်ကား ၎င်းတို့သည် မြောက်မြားစွာသောသူတို့အား လမ်းလွဲစေခဲ့ကြပါသည်။ (သို့ ဖြစ်ပါ၍)အရှင်မြတ်သည် မတရားသောသူတို့၌ လမ်းလွဲမှုကိုသာလျှင် တိုးပွားစေတော်မူပါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

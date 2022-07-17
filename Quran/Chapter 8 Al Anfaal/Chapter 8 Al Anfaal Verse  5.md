@@ -710,6 +710,12 @@ kakto tvoyat Gospod te izvede ot doma ti s istinata, a na chast ot vyarvashtite 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	သင်၏အသျှင်သခင်သည် သင့်ကို သင်၏အိမ်မှ သမ္မာတရားတော်နှင့်တကွ ထွက်ခွာသွားစေတေ်ာမ မူသော်လည်း ယုံကြည်သူများအနက် လူတစ်စုသည် ယင်းသို့ ထွက်သွားခြင်းကို မနှစ်သက်ကြပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည် မှန်ကန်စွာဆုံးဖြတ်၍ အသင့်ကို အသင်၏အိမ်မှထွက်စေတော်မူသကဲ့သို့ပင်။ စင်စစ် သော်ကား(ထိုအချိန်ကလည်း) မုအ်မင်န် သက်ဝင်ယုံကြည်သူတို့အနက်မှ လူတစ်စုသည်(ယင်းသို့ထွက်ကြရသည်ကို)မနှစ်သက်မလိုလား ခဲ့ကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

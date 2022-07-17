@@ -710,6 +710,12 @@ Denya, v koĭto shte obŭrnete grŭb v byagstvo i nikoĭ ne shte vi zashtiti o
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	ထိုနေ့တော်ကြီး၌ သင်တို့သည် ကျောခိုင်း၍ ပြေးကြလတ့ံ၊ သို့သော်အလ္လာဟ်အရှင်မြတ်အထံတော်မှ လွတ်မြေက် အောင် သင်တို့ကို ကာကွယ်မည့်သူဆို၍ တစ်စုံတစ်ယောက်မျှမရှိချေ၊ အကြင်သူအား အလ္လာဟ်အရှင်မြတ်သည် လမ်းမှားတွင် ပစ်ထားတော်မူအ့ံ၊ ထိုသူအား လမ်းမှန်ကို ပြမည့်သူတစ်စုံတစ်ယောက်မျှရှိမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်နေ့တွင် အသင်တို့သည် ကျောခိုင်း၍ ထွက်ပြေးကြပေမည်။ (ထိုနေ့တွင်) အလ္လာဟ်အရှင်မြတ်အား ဆန့်ကျင်၍ ကာကွယ်စောင့်ရှောက်အံ့သောသူဟူ၍ တစ်ဦးတစ်ယောက်မျှပင် အသင်တို့၌ ရှိလိမ့်မည်မဟုတ်ပေ။ စင်စစ်သော်ကား မည်သူ့ကိုမဆို အလ္လာဟ်အရှင်မြတ်သည် လမ်းမှား၌(ဆက်လက်၍) ထားရှိတော်မူပါလျှင် ထိုသူ၌ လမ်းမှန်သို့ ပို့ပေးအံ့သောသူဟူ၍ တစ်ဦးတစ်ယောက်မျှမရှိပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

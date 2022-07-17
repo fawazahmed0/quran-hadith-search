@@ -710,6 +710,12 @@ Kazhi: “Ne shte vi e ot polza bogat·stvoto, ako byagate ot smŭrtta ili ubii�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	အို-တမန်တော်၊ ဆက်လက်၍ဟောကြားလော့၊ ဟယ်-အချင်းတို့၊ သင်တို့သည် ရိုးရိုးသေရသောဘေးမှသော် လည်းကောင်း၊ သတ်ဖြတ်၍ သေရသောဘေးမှသော်လည်းကောင်း၊ ရုန်းကန်ထွက်ပြေး၍ မလွတ်နိုင်ချေ၊ သို့ဖြစ်၍လောကီစည်းစိမ်တွင် တစ်ခဏမျှနစ်မွန်းနေကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-နဗီတမန်တော်၊ အသင်သည် ပြောကြားပါလေ၊(အို-အချင်းတို့) အကယ်၍ အသင်တို့သည် သေဘေးမှသော်လည်းကောင်း၊ အသတ်ခံရမည့်ဘေးမှ သော်လည်းကောင်း၊ ထွက်ပြေးခဲ့ကြလေသော် အသင်တို့အား ယင်းထွက်ပြေးခြင်းသည် အလျှင်းအကျိုးရှိ စေမည်မဟုတ်ပေ။ ၎င်းပြင်ထိုအခါ အသင်တို့သည်(ထွက်ပြေးခြင်းဖြင့်) အနည်းငယ်မျှမှအပ အကျိုးခံစား ရမည်လည်း မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

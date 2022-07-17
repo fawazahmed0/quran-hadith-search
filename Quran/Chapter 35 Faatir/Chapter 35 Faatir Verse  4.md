@@ -710,6 +710,12 @@ I ako teb [o, Mukhammad] vzimat za lŭzhets, to i drugi pratenitsi predi teb bya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	ထို့အပြင် အို-မိုဟမ္မဒ်၊ သူတို့သည် သင့်အား မယုံကြည်ငြင်းပယ်ကြလျှင် သင့်အလျင်ပွင့်လာသောအလ္လာဟ်၏ တမန်တော်များကိုလည်း ယင်းကဲ့သို့ပင်ငြင်းဆန်ကြ၏၊ ခပ်သိမ်းကုန်သောအရာအပေါင်းတို့ကို အလ္လာဟ်အရှင် မြတ်အထံသို့လည်း ပြန်ယူခဲ့သည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အကယ်၍ ၎င်းတို့သည်အသင့်အား မုသာဝါဒီဟု စွပ်စွဲငြင်းပယ်ကြပါလျှင် (အသင်သည် စိတ်ငြိုငြင်မှုမရှိပါလေနှင့်၊) ဧကန်အမှန် အသင့်အလျင်ရှေးရစူလ်တမန်တော်များသည်လည်း မုသာဝါဒီများဟူ၍စွပ်စွဲငြင်းပယ်ခြင်း ခံခဲ့ကြရလေ၏။ အမှန်သော်ကား အရေးကိစ္စအလုံးစုံတို့မှာ အလ္လာဟ် အရှင်မြတ်ထံတော်သို့သာလျှင်ပြန်လည် ရောက်ကြ ရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

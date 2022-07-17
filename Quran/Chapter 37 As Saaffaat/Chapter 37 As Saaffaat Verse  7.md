@@ -710,6 +710,12 @@ i go opazvame ot vsichki nepokorni satani
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	ထောင်ထားခြားနားသောမာရ်နတ်၏ နှောက်ယှက်ခြင်းမှ ကင်းလွတ်အောင် မိုးကောင်းကင်ကို ကာကွယ်စောင့် ရှောက်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (ငါအရှင်မြတ်သည်) "ရှိုင်တွာန်" မိစ္ဆာကောင်အသီးသီးမှ အကာအကွယ် ပြုလုပ်တော် မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

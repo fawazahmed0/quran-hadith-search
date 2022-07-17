@@ -710,6 +710,12 @@ Izvesti onova, koeto ti be poveleno, i se otdrŭpni ot sŭdruzhavashtite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၄။	ထို့ကြောင့် သင့်ထံသို့ ကျရောက်လာသောဗျာဒိတ်တော်ကို ဟောကြားကြေငြာလော့။ ဆင်းတုရုပ်ပွားကိုးကွယ် သောသူတို့ထံမှ ဆုတ်ခွာလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်သည် မိမိအမိန့်ပေးခြင်းခံရသော အကြောင်းအရာကို အတိအလင်း ကြေညာပါလေ။၎င်းပြင် အသင်သည် မုရှ်ရစ်က် (အခြားအရာများကို အလ္လာဟ်အရှင်မြတ်နှင့်တွဲဖက်ကိုးကွယ်သောသူ)တို့အား (အလျှင်းဂရုမစိုက်ဘဲ) လျစ်လျူရှု၍ ထားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

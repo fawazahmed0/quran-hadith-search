@@ -710,6 +710,12 @@ Ili te sŭtvorikha nebesata i zemyata? Ne, ala ne se ubezhdavat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	သို့မဟုတ် သူတို့သည် မိုးကောင်းကင်နှင့် ကမ္ဘာမြေကြီးကို ဖန်ဆင်းကြသလော၊ မဖန်ဆင်းချေ၊ သူတို့သည် မည်သည့်အရာမှ တပ်အပ်သေချာစွာမသိကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် ထိုသူတို့သည် မိုးကောင်းကင်များနှင့်ပထဝီမြေကို ဖန်ဆင်းခဲ့ကြလေသလော။ စင်စစ်မှာကား ၎င်းတို့သည် ယုံကြည်ကြသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

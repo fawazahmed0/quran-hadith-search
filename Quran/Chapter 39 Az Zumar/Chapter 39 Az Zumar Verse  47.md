@@ -710,6 +710,12 @@ I dori da pritezhavakha vsichko na zemyata, a i oshte tolkova otgore, ugnetiteli
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	မကောင်းမှုပြုကျင့်သူများသည် အကယ်၍ ကမ္ဘာပေါ် ရှိသမျှကို ပိုင်ဆိုင်သည်မက ထပ်မံတဆထမ်းပိုးတိုး၍ ကြွယ်ဝငြားသော်လည်း ထိုပစ္စည်းဥစ္စာအားလုံးကို မိမိတို့အား တရားစီရင်တော်မူသောနေ့တော်ကြီး၌ တွေ့ကြံု ရမည့်ကြောက်မက်ဖွယ်အပြစ်ဒဏ်မှ လွတ်ကင်းချမ်းသာရအောင် မုချဧကန်ပေးလိုကြလတ့ံ၊ ထိုနေ့တော်ကြီး ၌ အလ္လာဟ်အရှင်မြတ်အထံတော်မှ ထိုသူတို့မမျှော်လင့်သောအပြစ်ဒဏ်တော်များသည် သူတို့ရှေ့မှောက်ကျ ရောက်လာလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ်သော်ကား တွဲဖက်ယှဉ်ပြိုင်ကိုးကွယ်မှုကို ကျူးလွန်ခဲ့ကြကုန်သောသူတို့၌ ကမ္ဘာမြေဝယ်ရှိရှိသမျှသော ပစ္စည်းဥစ္စာအလုံးစုံတို့အပြင် ၎င်းနှင့်အတူ ထိုမျှလောက် နောက်ထပ်ရှိငြားအံ့လည်း အမှန်ပင် ထိုသူတို့သည် ယင်းဥစ္စာပစ္စည်း(အလုံးစုံ) တို့ကို "ကိယာမတ်" ရှင်ပြန်ထမည့်နေ့တွင် ဆိုးရွား ပြင်းထန်လှသော ပြစ်ဒဏ်မှလွတ်မြောက်ရန် လျော်ကြေးပေးကြမည်သာ။ ထို့ပြင် ၎င်းတို့ရှေ့ဝယ် ၎င်းတို့ မထင်မှတ်ခဲ့ကြသော အကြောင်းကိစ္စများသည် အလ္လာဟ်အရှင်မြတ်အထံတော်မှ ထင်ရှားပေါ်လွင်လာခဲ့ပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ da bi im objasnio ono oko čega su se razilazili i da bi saznali oni koji nisu v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	ရှင်ပြန်ထမြောက်ခြင်းမှာ လူသားတို့အား မိမိတို့ကွဲပြားမှုကို အရှင်မြတ်က ရှင်းလင်းပြသတော်မူဖို့ရာသော် လည်းကောင်း၊ မယုံကြည်သူတို့သည် မိမိတို့မုသားကောင်များဖြစ်ကြောင်းကို သိဖို့ရာသော်လည်းကောင်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (သို့ရှင်ပြန်ထစေတော်မူခြင်းမှာ) ထိုသူတို့ ရှေ့ဝယ် ထိုသူတို့ကို ကွဲလွဲခဲ့ကြသောအကြောင်းကို ထင်ရှားစေတော်မူအံ့သောငှာလည်းကောင်း၊ ကာဖိရ်သွေဖည်ငြင်းပယ် သူတို့သည် ဧကန်စင်စစ် မိမိတို့မှာ မုသာဝါဒီများဖြစ်ခဲ့ကြသည်ကိုကောင်းစွာ သိကြအံ့ သောငှာလည်းကောင်း၊ ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

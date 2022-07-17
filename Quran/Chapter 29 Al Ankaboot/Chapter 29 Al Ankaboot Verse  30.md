@@ -710,6 +710,12 @@ Kaza: “Gospodi, podkrepi me sreshtu khorata, seeshti razvala!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	ထိုအခါတမန်တော်လွဒ်က အို-အကျွနု်ပ်၏ အရှင်သခင်၊ မတရားညစ်ညမ်းမှုကို ပွားများနေသူတို့ကို အကျွနု်ပ် အား အောင်စေတော်မူပါဟု ဆုတောင်းပဌနာပြု၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုရောအခါဝယ် ထို ‘လူ(တ်)’ က ‘အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ အရှင်မြတ်သည် ကျွန်တော်မျိုးအား ဖျက်ဆီးမှုကို ကျူးလွန်ပြုလုပ်ကြကုန်သော အမျိုးသားတို့အပေါ်၌ အောင်နိုင်မှုကို ပေးသနားတော်မူပါ’ဟု လျှောက်ထား ပန်ကြားခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

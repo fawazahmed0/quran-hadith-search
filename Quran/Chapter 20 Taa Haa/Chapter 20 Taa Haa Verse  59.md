@@ -710,6 +710,12 @@ Kaza [Musa]: “Sreshtata s vas shte bŭde v denya za razkrasyavane i khorata da
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၉။	မူစာက ပွဲတော်နေ့ကြီးကို သတ်မှတ်ချိန်းချက်ကြပါစို့၊ ထိုနေ့၌ လူထုအား နေမြင့်ချိန်၌ အတတ်ပညာပြိုင်မည့် နေရာတွင် စုဝေးစေပါလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ယင်းမူစာက[အို-ဖိရ်အောင်(န်)]အသင်တို့၏ ချိန်းဆိုသော(နေ့)သည် ပွဲနေ့ပင်ဖြစ်သည်။ ၎င်းပြင် လူတို့သည်(လည်း) နေတက်ချိန်၌ စုရုံးပြီး ဖြစ်ကြရမည်ဟုပြောကြားခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

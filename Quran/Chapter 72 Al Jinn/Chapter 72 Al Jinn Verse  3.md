@@ -710,6 +710,12 @@ Toĭ - previsoko e velichieto na nashiya Gospod! - ne se e sdobival nito sŭs s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။ ငါတို့၏ အရှင်သခင်သည် အနန္တ တန်ခိုးအာနုဘော်တော်နှင့် ပြည့်စုံတော်မူ၏၊ အရှင်မြတ်သည် သားမယားရှိခြင်း အညစ်အကြေးမှ ကင်းစင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ဧကန်မုချ ကျွန်ုပ်တို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ ဂုဏ်ကျက်သရေသည် မြင့်မြတ်လှ၏။ ထိုအရှင်မြတ်သည် မည်သူတစ်ယောက်ကိုမျှ ကြင်ရာကြင်ဖက်အဖြစ် ရွေးကောက် တင်မြှောက်တော်မူခဲ့သည်လည်း မရှိပေ။ သားသမီးအဖြစ် ပြုလုပ်တော်မူခဲ့သည်လည်း မရှိချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

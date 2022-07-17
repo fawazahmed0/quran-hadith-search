@@ -710,6 +710,12 @@ Nie shte otmakhnem za malko mŭchenieto, no pak shte se vŭrnete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	မှတ်သားကြလော့၊ ငါသည် အပြစ်ဒဏ်ကို ခေတ္တခဏဖယ်ရှားထားတော်မူ၏၊ မှတ်သားကြလော့၊ သင်တို့သည် မိစ္ဆာဒိဋ္ဌိအယူဝါဒသို့ ပြန်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် ငါအရှင်မြတ်သည် အနည်းငယ်မျှ ကာလတိုင်အောင် ပြစ်ဒဏ်ကို ဖယ်ရှား၍ ပေးတော်မူမည်ဖြစ်သည်။ သို့တစေလည်း ဧကန်မလွဲ အသင်တို့သည် (မူလအခြေအနေသို့) ပြန်ပြောင်း၍ လာကြအံ့သော သူတို့ပင် ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

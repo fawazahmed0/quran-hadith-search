@@ -710,6 +710,12 @@ Ala ne! Shte otrekat sluzheneto na tyakh i shte im stanat protivnitsi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၂။	တန်ခိုးမရှိနိုင်ချေ၊ သို့သော်ထိုဘုရားတုဘုရားယောင်များက ထိုသူတို့ဝတ်ပြုခြင်းကို ငြင်းပယ်ကြလတ့ံ။ သူတို့၏ ရန်သူများဖြစ်ကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ယင်းကိုးကွယ်ရာများသည် ၎င်းတို့အား အကူအညီပေးသူများ) အလျှင်း (ဖြစ်ကြမည်)မဟုတ်ပေ။ (စင်စစ်)မကြာမီပင် (ယင်းကိုးကွယ်ရာများသည်) ၎င်းတို့အား ကိုးကွယ်မှုကိုငြင်းပယ်၍ ၎င်းတို့၏ ရန်သူရန်ဘက်များပင် ဖြစ်သွားကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

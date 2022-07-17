@@ -710,6 +710,12 @@ Iskat da ugasyat svetlinata na Allakh sŭs slovata si, no Allakh priema edinstve
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	သူတို့သည် အလ္လာဟ်အရှင်မြတ်၏ တရားအလင်းရောင်တော်ကို မိမိတို့ပါးစပ်ဖြင့် မှုတ်ပစ်ရန် လိုလားကြ၏။သို့သော်အလ္လာဟ်အရှင်မြတ်သည် မိစ္ဆာမိုက်တို့မည်မျှပင် မနှစ်သက်သော်လည်း မိမိတရားတော်ကို စုံလင်စေ တော်မူမည်၊ တရားတော်မှတပါး အခြားအယူဝါဒများကို စက်ဆုတ်ရွံရှာတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ်၏ ရောင်ခြည်တော်ကို မိမိတို့၏ပါးစပ်များဖြင့် ငြိမ်းစေလိုကြကုန်၏။ သို့ရာတွင်မူကား အလ္လာဟ်အဲရှင်မြတ်သည် ကာဖိရ် မယုံကြည်သွေဖည်ငြင်းပယ်သောသူတို့က မနှစ်မြို့ကြသော်လည်း မိမိ၏ရောင်ခြည်တော်ကို ပြည့်ဝစုံလင်စေတော်မူခြင်း မှတစ်ပါး(အခြား) မည်သည့်တစ်စုံတစ်ရာကိုမျှ သဘောတူတော် မူမည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

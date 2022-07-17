@@ -710,6 +710,12 @@ Kŭlna se v nebeto, ot koeto vali
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၊၁၂။ အဖန်တလဲလဲမိုးပေးသောအာကာသကိုသော်လည်းကောင်း၊ သီးပင်ပွင့်ပင်ပေါက်ထွက်လာဖို့ရာ မိမိကိုယ်ကိုမိမိဖွင့်ပေးသောကမ္ဘာမြေကြီးကိုသော်လည်းကောင်း၊ ငါသက်သေထူတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ငါအရှင်မြတ်သည်) မိုးရေရွာသွန်းသော မိုးကောင်းကင်ကို သက်သေထူတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kaza: “Gospodi, ubikh chovek izmezhdu tyakh i me e strakh da ne me ubiyat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	ထိုအခါမူစာက အို--အကျွနု်ပ်၏အရှင်သခင်၊ အကျွနု်ပ်သည် ဖွာရောမင်း၏လူတစ်ယောက်ကို အမှန်ဧကန် သတ်ပြီးပါပြီ၊ သူတို့သည် အကျွနု်ပ်ကို သတ်ဖြတ်ကြမည်ကို စိုးရိမ်ပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမူစာသည် (ဤသို့) လျှောက်ထား ပန်ကြားခဲ့လေ၏။ အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၊ ဧကန်စင်စစ် ကျွန်တော်မျိုးသည် ၎င်းတို့အနက် လူတစ်ယောက်အား သတ်ဖြတ်မိခဲ့သည် ဖြစ်ရကား၊၎င်းတို့သည် ကျွန်တော်မျိုးအား သတ်ဖြတ်ကြမည်ကို ကျွန်တော်မျိုး စိုးရိမ်မိပါသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

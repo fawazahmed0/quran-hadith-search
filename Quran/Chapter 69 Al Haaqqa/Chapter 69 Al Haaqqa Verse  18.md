@@ -710,6 +710,12 @@ V tozi Den shte bŭdete izpraveni [pred Allakh]. Ne shte bŭde skrita i edna vas
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။ ထိုနေ့တော်ကြီး၌ သင်တို့အားလုံးကို ဖွင့်ပြတော်မူမည်၊ သင်တို့၏ လျှို့ဝှက်နက်နဲမှုများကို ဖုံးကွယ်ထားမည် မဟုတ်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနေ့တွင် အသင်တို့သည် ရှေ့တော်မှောက်သို့သွင်းစေခြင်းကို ခံကြရပေမည်။ (ထိုနေ့တွင်) အသင်တို့အပေါ်ဝယ် မည်သည့်ဖုံးကွယ်၍နေသော အရာမျှပင် ဖုံးကွယ်၍နေချိမ့်မည် မဟုတ်ပေတကား။ (တစ်နည်း)(ထိုနေ့တွင်)အသင်တို့ဖုံးကွယ်သော မည်သည့်အရာမျှပင် (၎င်းအရှင်မြတ်)အပေါ်ဝယ် ဖုံးကွယ်၍ နေချိမ့်မည် မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

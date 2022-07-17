@@ -710,6 +710,12 @@ Taka vŭzlagame edni na drugi ugnetitelite zaradi onova, koeto sa pridobili
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၉။	ငါအသျှင်မြတ်သည် ဒုစရိုက်ကောင်များအနက် အချို့အား အခြားသူတို့ကို လွှမ်းမိုးစေတော်မူ၏။ သူတို့ပြုကျင့်မှုကြောင့် ဤသို့ လွှမ်းမိုးစေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းအပြင် ငါအရှင်မြတ်သည် ဤနည်းအတိုင်းင် ကျူးကျော်စော်ကားသူများအနက် အချို့ကို အချို့အပေါ်၌၎င်းတို့၏အပြုအမူတို့ကြောင့် ကြီးစိုး စေတော်မူအံ့။(တစ်နည်း။)၎င်းပြင် ငါအရှင်မြတ်သည် ဤနည်းအတိုင်းပင်အချို့မတရားသောသူတို့အား အချို့ မတရားသောသူတို့နှင့်နီးကပ်စေတော်မူအံ့။ (အချို့ မတရားသောသူတို့၏အနီး၌ထားရှိတော်မူအံ့၊)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

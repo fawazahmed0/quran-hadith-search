@@ -710,6 +710,12 @@ Koĭto e pozhelal nagradata na zemniya zhivot - pri Allakh e nagradata i na zem
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၄။	အကြင်သူသည် လောကီကို လိုချင်မက်မော၏။ အသျှင်မြတ်အထံတော်၌ ဤဘဝ၊ နောင်ဘဝ၏ ဆုတော်ရှိကြောင်းကို ထိုသူအားသိစေလော့။ အလ္လာဟ်အသျှင်မြတ်သည် အကြွင်းမရှိကြားတော် မူသော၊ အကြွင်းမရှိမြင်တော်မူသောအသျှင်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သူမဆို မျက်မှောက်လောကီဘဝ၏ အကျိုးကို (သာ) အလိုရှိပါမူ၊ (ထိုသူသည် အသိအလိမ္မာကင်းမဲ့သူဖြစ်၏။ အဘယ်ကြောင့်ဆိုသော်) အလ္လာဟ်အရှင်မြတ်အထံတော်၌ မျက်မှောက်လောကီဘဝနှင့် နောင်တမလွန်ဘဝ (နှစ်ဘဝလုံး) ၏ အကျိုးကျေးဇူးသည် ရှိ၏။ ၎င်းပြင် အလ္လာဟ်အရှင်မြတ်သည် (လျှောက်ထားပန်ကြားချက်အလုံးစုံတို့ကို) အကြွင်းမဲ့ ကြားသိတော်မူသောအရှင်၊ (လူခပင်းတို့၏ စိတ်စေတနာများကို) အကြွင်းမဲ့ ခွဲခြားသိမြင်တော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။ (ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

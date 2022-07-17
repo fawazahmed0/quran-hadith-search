@@ -710,6 +710,12 @@ Reche: “Ne me uprekvaĭ za tova, che zabravikh, i ne me natovarvaĭ s neshto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၃။	မူစာက အကျွနု်ပ်သတိမေ့လျော့ပါ၏။ စိတ်မဆိုးပါနှင့်၊ အကျွနု်ပ်အပြစ်ကြောင့် အကျွနု်ပ်အပေါ်တွင် မရက်စက်ပါ နှင့်ဟု တောင်းပန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်း(မူစာက) အသင်သည် ကျွန်ုပ်မေ့လျော့ခဲ့သော ကိစ္စနှင့်စပ်လျဉ်း၍ ကျွန်ုပ်အား အရေးမယူပါလေနှင့်။၎င်းပြင် အသင်သည် ကျွန်ုပ်၏ (ဤ) ကိစ္စတွင် ကျွန်ုပ်အပေါ်၌ကျပ်တည်းမှုမပြုပါနှင့်ဟု ပြောဆိုခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

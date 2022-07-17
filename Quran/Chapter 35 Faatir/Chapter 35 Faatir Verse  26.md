@@ -710,6 +710,12 @@ Posle Az sgrabchvakh onezi, koito ne povyarvakha. I kakvo be Moeto nakazanie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	ထို့နောက်မယုံကြည်သူမိစ္ဆာမိုက်များကို ငါအရှင်မြတ်ဖမ်းဆီးတော်မူ၏၊ ငါသည် ထိုသူမိုက်တို့ကို အပြင်းအထန် စက်ဆုပ်ရွံရှာတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနောက် ငါအရှင်မြတ်သည် သွေဖည်ငြင်းပယ်ခဲ့ကုန်သောသူတို့အား ဖမ်းဆီးကွပ်မျက်တော်မူခဲ့ရာ ငါအရှင်မြတ်၏ ပြစ်ဒဏ်သည် မည်သို့ရှိခဲ့ပေသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

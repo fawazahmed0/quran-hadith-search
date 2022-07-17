@@ -710,6 +710,12 @@ Stavaneto [za molitva] noshtem e naĭ-silno po vŭzdeĭstvie i naĭ-podkhodya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။ အို-တမန်တော်၊ ညဉ့်အခါထခြင်းသည် စင်စစ်အားဖြင့် စိတ်နှလုံးကို သာ၍ကြည်လင်ထက်မြက်စေ၍ ရွတ်ဖတ် ပြောဆိုခြင်းကိုလည်း အလွန်မှန်ကန်ပီသစေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်ဧကန် ညဉ့်၌ (အိပ်ရာမှ)ထခြင်းသည်(ကိုယ်နှုတ်နှလုံးတို့ကို) ပိုမို၍ သပ္ပာယဖြစ်စေသည်၊ စကားပြောဆိုရာတွင်လည်း ပိုမို၍ပင် တိကျမှန်ကန်စေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

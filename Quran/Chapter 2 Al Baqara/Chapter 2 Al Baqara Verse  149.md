@@ -710,6 +710,12 @@ Otkŭdeto i da trŭgnesh, obrŭshtaĭ litse kŭm Sveshtenata dzhamiya! Tova e i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၉။	အို - တမန်တော် မုဟမ္မဒ်၊ သင်သည် မည်သည့်နေရာ၌ ဆွလာသ်ဝတ်ပြုရန်ထွက်လာသောအခါ ဘေးမဲ့ဖြစ်သော ကအဘာဗလီကျောင်းတော်ဘက်သို့ မျက်နှာမူလော့။ ကြည့်လော့။ ၎င်းသည် သင်၏ အရှင်သခင်အထံတော်မှ တရားမှန်ဖြစ်၏။ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့ပြုသည်ကို သိတော်မမူမဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်တဝ (အို-နဗီတမန်တော်) အသင်သည် မည်သည့်နေရာဌာနမှမဆို (ခရီး) ထွက်အံ့၊ (ဝါ) မည်သည့် နေရာ၌မဆိုရှိနေအံ့၊ ဆွလာတ်ဝတ်ပြု ရာ၌ မိမိမျက်နှာကို (ထိုဌာနမှ) မတ်စ်ဂျိဒေ့ဟရာမ် ကျောင်းတော်ဘက်သို့သာ လျှင်လှည့်ပါလေ။ စင်စစ် သော်ကား မုချဧကန် ဤအမိန့်တော် သည် အသင့် အား မွေးမြူတော်မူသော အရှင်မြတ်၏အထံ တော်မှ လုံးဝမှန်ကန်သော အမိန့်တော်ပင်ဖြစ်သည်။ ၎င်းပြင် အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့ ပြုလုပ် ကျင့်မူကြကုန် သော ကိစ္စရပ်များကို မေ့လျော့ လျစ်လျူရှုတော်မူမည့်အရှင် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

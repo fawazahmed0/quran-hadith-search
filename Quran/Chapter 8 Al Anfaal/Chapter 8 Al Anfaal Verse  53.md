@@ -710,6 +710,12 @@ Tova e, zashtoto Allakh ne promenya blagodatta, s koyato e oblagodetelstval khor
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။	ယင်းသို့ အပြစ်ဒဏ်ခတ်တော်မူခြင်းမှာ အလ္လာဟ်အသျှင်မြတ်သည် လူမျိုးတစ်မျိုးအား မိမိပေးသနား တော်မူသော ကောင်းကြီးမင်္ဂလာတော်ကို ထိုသူတို့သည် မိမိတို့၏ စိတ်နှလုံးအတွင်းရှိသည်ကို ရှေးဦးပထမ မပြောင်းလဲသမျှကာလပတ်လုံး ပြောင်းလဲတော်မမူသောကြောင့်ဖြစ်၏။ အသျှင်မြတ် သည် ကြားတော်မူသောအသျှင်၊ သိတော်မူသောအသျှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည်ကား အဘယ်ကြောင့်ဆိုသော် အလ္လာဟ်အရှင်မြတ်သည် အကြင်လူမျိုးတမျိုး၏ အပေါ်၌ပြုတော်မူခဲ့သော မည်သည့်ကျေးဇူးတော်ကိုမျှ ထိုလူမျိုးတို့သည် မိမိတို့ကိုယ်တိုင် မိမိတို့၏ အခြေအနေကို မပြောင်းလဲသမျှ ကာလပတ်လုံး ပြောင်းလဲပေးတော်မူသည်ဟူ၍မရှိချေ။ ၎င်းပြင်ဧကန်မုချ အလ္လာဟ်အရှင်မြတ်သည် အကြွင်းမဲ့ ကြားတော်မူသောအရှင်၊ အကြွင်းမဲ့သိတော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

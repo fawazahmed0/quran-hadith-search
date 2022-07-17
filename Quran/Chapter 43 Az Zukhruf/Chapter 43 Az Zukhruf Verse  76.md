@@ -710,6 +710,12 @@ Ne gi ugnetikhme Nie, a te sebe si ugnetyavakha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၆။	ငါသည် သူတို့ကို မတရားစီရင်တော်မူသည်မဟုတ်၊ သူတို့သာလျှင် မိမိကိုယ်ကို မိမိပြစ်မှားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ငါအရှင်မြတ်သည် ၎င်းတို့၏အား မတရားနှိပ်စက်တော်မူခဲ့သည် မဟုတ်ပေ။ သို့ရာတွင် ၎င်းတို့သည် မိမိတို့ကိုယ်တိုင်ပင် မတရားသောသူများ ဖြစ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

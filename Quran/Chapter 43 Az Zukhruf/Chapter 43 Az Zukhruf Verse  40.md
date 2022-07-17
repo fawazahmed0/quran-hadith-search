@@ -710,6 +710,12 @@ Nima ti [o, Mukhammad] shte nakarash glukhiya da chue ili shte napŭtish slepiya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄ဝ။	အို-တမန်တော်၊ သင်သည် နားပင်းသူကို ကြားစေနိုင်သလော၊ သို့မဟုတ် မျက်စိကန်းသူကိုသော်လည်းကောင်း၊ တမင်္ဂလာလမ်းမှားလိုက်သူကိုသော်လည်းကောင်း၊ လမ်းမှန်ကို ပြသနိုင်သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ(အို-နဗီတမန်တော်) အသင်သည် နားပင်းသူတို့အား (ဓမ္မဩဝါဒကို)ကြားစေနိုင်ပါသလော။ သို့တည်းမဟုတ် အသင်သည် မျက်စိကန်းသူတို့အား လည်းကောင်း၊ ထင်ရှားလှစွာသော လမ်းမှား၌ရှိနေသူတို့အား လည်းကောင်း၊ တရားလမ်းမှန်ကို ညွှန်ပြနိုင်ပါသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

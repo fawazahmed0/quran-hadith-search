@@ -710,6 +710,12 @@ Nevernitsite prilichat na chovek, revyasht kŭm neshto, koeto chuva samo kryasŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇၁။	တမန်တော်ကို မယုံကြည်သောသူသည် ဟစ်အော်ကြွေးကြော်သောအသံမျွှပါး အခြားအသံကို ကြားလည်း မကြား၊ နားလည်မလည်သောသူကိုခေါ်သောသူပမာကဲ့သို့ဖြစ်၍ သူတို့သည် အပင်း၊ အအ၊ အကန်းဖြစ်သောကြောင့် အသိဉာဏ်ကင်းမဲ့ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကာဖစ်ရ် တို့ (အားသွန်သင်ဆုံးမသူ) ၏ပမာကား ခေါ်သံနှင့် ဟစ်အော်ကြွေးကြော်သံမှတစ်ပါး အဘယ် တစ်စုံတစ်ရာကိုမျှ မကြားသောတိရစ္ဆာန်များကို ဟစ်အော်ဆုံးမသူနှင့် တူချေသည်။ (အမှန်သော်ကား ထိုကာဖိရ်တို့သည် တရားဒေသနာတော်ကို မနာခံသော) နားပင်းသူများ၊ (မှန် သောစကားကို မပြောဆိုသော) ဆွံ့အသူများ၊ (သက်သေ လက္ခဏာ တော်များကိုမမြင်သော) အကန်းများပင်တည်း။ သို့ ဖြစ်လေရာ ယင်းသူတို့သည် မည်သည့်အရာတစ်စုံတစ်ခုကိုမျှ တွေးတောဆင်ခြင် သိမြင်သူများမဟုတ်ကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

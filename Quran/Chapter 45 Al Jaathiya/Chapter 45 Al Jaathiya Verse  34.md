@@ -710,6 +710,12 @@ I shte se reche: “Dnes shte vi zabravim, kakto i vie zabravikhte sreshtata v t
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	ထို့အပြင် သူတို့အား ဤသို့မိန့်တော်မူလတ့ံ၊ နင်တို့သည် ဤနေ့တော်ကြီး၏ စည်းဝေးပွဲသဘင်ကို မေ့လျော့ သကဲ့သို့ ငါသည်လည်း ငါသည်လည်း သင်တို့ကို ဤနေ့တော်ကြီး၌ မေ့လျော့တော်မူမည်၊ နင်တို့၏ နေထိုင်ရာ ဌာနမှာကား ငရဲမီးဖြစ်၏၊ နင်တို့ကို ကူညီစောင်မမည့်သူဆို၍ တစ်စုံတစ်ယောက်မျှမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး (၎င်းတို့သည် ဤသို့)ပြောဆို ခြင်းခံရပေမည်။ အသင်တို့သည် မိမိတို့၏ ဤနေ့ နှင့်တွေ့ဆုံခြင်းကို မေ့လျော့ခဲ့ကြသည့်နည်းတူ ငါအရှင်မြတ်သည်လည်း ယနေ့အသင်တို့အား မေ့လျော့တော်မူမည်။ ထို့ပြင် အသင်တို့၏ ခိုလှုံရာဌာနမှာ ငရဲမီးပင်ဖြစ်သည်။ ထိုမှတစ်ပါး အသင်တို့၌ ကူညီစောင်မအံ့သော သူများဟူ၍လည်း မရှိတော့ပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ shteshe da prekara v korema mu do Denya, kogato shte bŭdat te vŭzkreseni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၄။	သူသည် ငါးကြီးဝမ်းထဲတွင် ရှင်ပြန်ထမြောက်ရသောနေ့တော်ကြီးတိုင်အောင် နေရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်ပင် ထို"ယူနွတ်စ်" သည် "ကိယာမတ်"ရှင်ပြန်ထမည့်နေ့တိုင်အောင် ထိုငါး၏ ဝမ်းဗိုက်ထဲ၌သာ နေခဲ့ရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

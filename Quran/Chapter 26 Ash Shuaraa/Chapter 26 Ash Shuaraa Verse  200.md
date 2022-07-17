@@ -710,6 +710,12 @@ Taka vlozhikhme tova [neverie] v sŭrtsata na prestŭpnitsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝဝ။	ဤနည်းအားဖြင့် ငါသည် ကုရ်အာန်ကျမ်းတော်ကို အပြစ်ကျူးလွန်သူတို့၏ နှလုံးတွင်းသို့ ထိုးဖောက်ဝင်သွား စေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် ဤနည်းအတိုင်းပင် ပြစ်မှုကျူးလွန်သူတို့၏ စိတ်တွင်းဝယ် ယင်းငြင်းပယ်မှုကို ထည့်သွင်းတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

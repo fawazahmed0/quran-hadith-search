@@ -710,6 +710,12 @@ I prekarali v peshterata si trista godini i oshte devet
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	ထို့အပြင်လုလင်ပျိုတို့သည် လှိုင်ဂူအတွင်း၌ နှစ်ပေါင်းသုံးရာအပေါင်းကို ကြာသည်ဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် (ယင်းလုလင်) တို့သည် မိမိတို့၏ဥမင်လိုဏ်ခေါင်းတွင် တိုနှစ်ပေါင်းသုံးရာနှင့်ကိုးနှစ် တိုင်တိုင် နေခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

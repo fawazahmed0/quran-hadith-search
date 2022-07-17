@@ -710,6 +710,12 @@ Sgrabchvaneto na tvoya Gospod e mogŭshto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။ သင်၏အရှင်သခင်၏ အပြစ်ဒဏ်တော်သည် အလွန်ပြင်းပြကြီးမား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မလွဲဧကန် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ ဖမ်းဆီးမှု၊ (အရေးယူ)မှုသည် အမှန်ပင် ပြင်းထန်လှပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

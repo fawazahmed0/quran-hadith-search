@@ -710,6 +710,12 @@ Khvŭrli toyagata si!” I kogato ya vidya da se vie kato zmiya, toĭ se obŭrn
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	သင်၏ လှံတံတောင်ဝှေးကို ပစ်ချလော့၊ ထိုအခါလှံတံသည် မြွေနဂါးကဲ့သို့ တွန့်လိမ်လာသည်ကို မြင်ရသောအခါ တမန်တော်မူစာသည် အတင်းထွက်ပြေး၏၊ ထိုအခါသူ့အား အို--မူစာ၊ ထိတ်လန့်တုန်လှုပ်ခြင်းမရှိလင့်၊ မှတ်သားလော့၊ ငါ၏မျက်မှောက်တွင် တမန်တော်များမကြောက်ရွံ့ရချေဟု ဗျာဒိတ်ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်သည် မိမိတောင်ဝှေးကို(မြေကြီးပေါ်သို့)ပစ်ချပါလေ။ ထို့နောက် ထိုမူစာသည် (ယင်းတောင်ဝှေးကို အမိန့်တော်အတိုင်း ပစ်ချခဲ့ရာ) ထိုတောင်ဝှေးမှာ မြွေကဲ့သို့ တွန့်လိမ်လှုပ်ရှားလျက်ရှိသည်ကို တွေ့မြင်သောအခါ နောက်သို့ပြန်၍မကြည့်ဘဲ ကျောခိုင်း၍ လှည့်ထွက်သွားခဲ့လေ၏။ (ထိုအခါ အလ္လာဟ်အရှင်မြတ်က မိန့်ကြားတော်မူခဲ့၏၊)အို-မူစာ၊ အသင်သည် မကြောက်ပါလေနှင့်။ ဧကန်မလွဲ ငါအရှင်မြတ်အထံတော်တွင် ရစူလ်တမန်တော်တို့သည် ကြောက်ရွံ့လေ့မရှိကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

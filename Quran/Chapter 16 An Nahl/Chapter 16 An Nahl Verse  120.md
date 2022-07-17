@@ -710,6 +710,12 @@ Naistina Ibrakhim be voditel, pokoren na Allakh, pravoveren, i ne be ot sŭdruzh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂ဝ။	မှတ်သားကြလော့။ တမန်တော်အေဗရာဟမ်သည် အလ္လာဟ်အရှင်မြတ်၏ ဗျာဒိတော်ကို ဦးထိပ်ထက်တင် ရွက်ဆောင်လိုက်နာ၍ ဇာတိပကတိအားဖြင့် ဖြောင့်မှန်၏။ သူသည် ဆင်းတုရုပ်ပွားကို ကိုးကွယ်သူတို့ဘောင်တွင် မပါဝင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မချွတ်မလွဲ (နဗီတမန်တော်)အစ်ဗ်ရာဟီမ်သည်အလွန်အတုယူထိုက်သောရှေ့ဆောင်ရှေ့ရပ်၊ အလ္လာဟ် အရှင်မြတ်(၏အမိန့်တော်များ)ကို (တစ်သဝေမတိမ်း) လိုက်နာသူ၊တစ်စိတ်တစ်လက်တည်း ဖြောင့်မတ်တည်ကြည်သူဖြစ်ခဲ့ လေသည်။ ထို့ပြင် ယင်း(နဗီတမန်တော်)အစ်ဗ်ရာဟီမ်သည် မုရှ်ရစ်က် တစ်စုံတစ်ရာကို အလ္လာဟ်အရှင်မြတ်နှင့်တွဲဖက်နှိုင်းယှဉ်ကိုးကွယ်သူတို့အနက်မှ မဖြစ်ခဲ့ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

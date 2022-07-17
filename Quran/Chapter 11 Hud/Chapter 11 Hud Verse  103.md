@@ -710,6 +710,12 @@ Naistina v tova ima znamenie za vseki, koĭto se strakhuva ot mŭchenieto na ot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၃။	မှတ်သားကြလော့။ ဤအချင်းအရာ၌ နောင်တမလွန်ဘဝ၏ အပြစ်ဒဏ်ကို ထိပ်လန့်သူတို့အဖို့အရာ သက်သေ သာဓကတော်ကြီးတစ်ပါးအမှန်ပါရှိ၏။ ထို့နေ့တော်ကြီးကား လူသားအပေါင်းတို့ကို စုရုံးမည့်နေ့တော်ကြီးဖြစ်၏။ မျက်ဝါးထင်ထင်မြင်ရမည့်နေ့ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ဤသည့်(အဖြစ်အပျက်)တို့တွင်နောင်တမလွန်ဘဝ၏ပြစ်ဒဏ်ကို ကြောက်ရွံ့စိုးရိမ် သောသူတို့အဖို့ အမှန်ပင်သက်သေလက္ခဏာရှိပေသည်။ ထိုနေ့သည်ကားလူခပ်သိမ်းတို့ စုရုံးခြင်းခံကြရပေမည်။ ထိုနေ့သည်ကား(လူခပ်သိမ်းတို့သည် အလ္လာဟ်အရှင်မြတ်၏ ရှေ့တော်မှောက်တွင်)အသင့် ရောက်ရှိစေခြင်းခံကြရမည့်နေ့ပင်ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

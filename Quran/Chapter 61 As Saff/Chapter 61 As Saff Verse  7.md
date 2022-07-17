@@ -710,6 +710,12 @@ I koĭ e po-golyam ugnetitel ot onzi, koĭto izmislya lŭzha za Allakh, kogato
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။ အလ္လာဟ်အရှင်မြတ်အား မဟုတ်မမှန် လုပ်ကြံစွပ်စွဲသော သူတို့ထက် သာလွန်ဆိုးယုတ်သော ဒုစရိုက်ကောင်သည် အဘယ်မှာလျှင်ရှိတော့အံ့နည်း၊ အရှင်မြတ်သည် လူသားတို့အား အစ္စလာမ်တရားတော်သို့ ခေါ်တော်မူ၏၊ အမှန်မှာ အလ္လာဟ်အရှင်မြတ်သည် ဒုစရိုက်ကောင်များအား လမ်းပြတော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ်သော်ကား မိမိကိုယ်တိုင် အစ္စလာမ်သာသနာတော်သို့ ဖိတ်ခေါ်ခြင်း ခံရသည်ဖြစ်ပါလျက် အလ္လာဟ်အရှင်မြတ်အပေါ်ဝယ် မုသားကို လီဆယ်စွပ်စွဲသောသူထက် ပိုမို၍မတရားသောသူကား အသူရှိအံ့နည်း။ စင်စစ်မှာကား အလ္လာဟ်အရှင်မြတ်သည် မတရားသော လူမျိုးတို့အား တရားလမ်းမှန်သို့ ရောက်စေတော်မူသည် မဟုတ်ပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

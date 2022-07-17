@@ -710,6 +710,12 @@ Te sa, koito kupikha zabludata vmesto napŭt·stvieto i mŭchenieto - vmesto opr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇၅။	သူတို့သည် မှားယွင်းမှုကို လမ်းညွှန်တရားပေး၍ ဝယ်သူနှင့်အပြစ်ဒဏ်ကို အပြစ်လွှတ်ခြင်းပေး၍ ဝယ်သူများဖြစ်ကြ၏။ သူတို့သည် ငရဲပြည်သို့ရောက်အောင် မနားမနေကြိုးစားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤဘဝတွင်)လမ်းမှားကို လမ်းမှန်ဖြင်လည်းကောင်း၊ ပြစ်ဒဏ်ကို လွတ်ငြိမ်းချမ်းသာခွင့်ဖြင့် လည်းကောင်း၊ လဲလှယ်ဝယ်ယူသူများသည် ဤသူများပင်တည်း၊ ယင်းသူတို့သည် အဘယ်နည်းဖြင့် ငရဲမီး၏ဒဏ်ကို ခံဝံ့ကြပါဘိသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Toĭ e, Koĭto sŭtvori noshtta i denya, i slŭntseto, i lunata. Vsichki po or
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	အလ္လာဟ်အရှင်မြတ်သည် ညဉ့်၊ နေ့၊ နေ၊ လတို့ကို ဖန်ဆင်းတော်မူထသောအရှင်ဖြစ်တော်မူ၏၊ သူတို့သည် မိမိတို့ဂြိုဟ်နက္ခတ်လမ်းတွင် သွားလာလှည့်ပတ်နေကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ထိုအရှင်မြတ်သည်ပင် ညဉ့်ကိုလည်းကောင်း၊ နေ့ကိုလည်းကောင်း၊ နေကိုလည်းကောင်း၊ လကိုလည်းကောင်း၊ ဖန်ဆင်းတော်မူခဲ့သော အရှင် ဖြစ်တော်မူ၏။(ထို ဂြိုဟ်နက္ခတ်) အသီးသီးတို့သည် (မိမိတို့သက်ဆိုင်ရာ)ဂြိုဟ်နက္ခတ်လမ်း အသီးသီးတွင် လှည့်ပတ်သွားလာ လှုပ်ရှားလျက် ပင် ရှိကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

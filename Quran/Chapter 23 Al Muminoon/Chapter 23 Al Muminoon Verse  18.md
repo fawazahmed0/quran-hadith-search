@@ -710,6 +710,12 @@ I izsipvame ot nebeto voda s myara, i ya sŭkhranyavame v zemyata, i nesŭmneno 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။ ၎င်းအပြင်ငါသည် မိုးကောင်းကင်မှ မိုးရေကို သင့်လျော်ရုံမျှရွာသွန်းချ၍ မြေထဲတွင် နေရာပေးထားတော်မူ၏၊ စင်စစ်အားဖြင့် ငါသည် ထိုမိုးရေကို ရုပ်သိမ်းနိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ငါအရှင်မြတ်သည် မိုးကောင်းကင်မှ (မိုး) ရေကို (သင့်တော်သော) အတိုင်းအတာ ချိန်ဆချက်နှင့်တကွ ရွာသွန်းစေတော်မူခဲ့၏။ တစ်ဖန် ငါအရှင်မြတ်သည် ထို(မိုး) ရေကို ပထဝီမြေဝယ် ရပ်တည်စေတော်မူခဲ့၏။ စင်စစ်သော်ကား ငါအရှင်မြတ်သည် ထို(မိုး)ရေကို ပပျောက်စေခြင်းငှာ တတ်စွမ်းနိုင်တော်မူသော အရှင်လည်း ဖြစ်တော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

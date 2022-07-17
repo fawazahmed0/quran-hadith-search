@@ -710,6 +710,12 @@ I mŭrtvata zemya e znamenie za tyakh. Nie ya sŭzhivyavame i izvazhdame ot neya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	ထိုသူတို့အနက်ငါအရှင်မြတ်ပြထားတော်မူသောနိမိတ်လက္ခဏာတော်များအနက် တစ်ပါးသောလက္ခဏာတော်မှာ သွေ့ခြောက်သယောင်း၍ နေသောမြေသေမြေဟောင်းများပင်ဖြစ်၏၊ ထိုမြေသေမြေဟောင်းများကို ငါတဖန် ရှင်စေတော်မူ၏၊ ငါသည် ထိုမြေမှ ကောက်ပဲသီးနှံများကို ဖြစ်ထွန်းစေတော်မူ၏၊ ထိုအသီးအနှံတို့ကို သင်တို့မှီဝဲ စားသုံးကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ၎င်းတို့အဖို့ သက်သေ လက္ခဏာတစ်ရပ်မှာ (သွေ့ခြောက်လျက်ရှိသော) မြေသေပင်ဖြစ်၏။ငါအရှင်မြတ်သည် ယင်းမြေသေကို ရှင်စေတော်မူပြီးနောက် ယင်းမြေမှ ကောက်ပဲသီးနှံကို ထွက်စေတော်မူခဲ့ရာ ၎င်းတို့သည် ယင်းကောက်ပဲသီးနှံများကို စားသုံးလျက် ရှိကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

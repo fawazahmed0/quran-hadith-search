@@ -710,6 +710,12 @@ Ili imate kniga, ot koyato se uchite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။ သို့တည်းမဟုတ် နင်တို့၌ နင်တို့သင်အံ့ဖို့ရာ ကျမ်းစာအုပ်ရှိကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့၌ ကျမ်းဂန်အစောင်စောင်ရှိနေ၍ အသင်တို့သည် ယင်းကျမ်းဂန်၌ ဖတ်ရှုသင်ကြား ကြလေသလော၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

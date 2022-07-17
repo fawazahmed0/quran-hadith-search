@@ -710,6 +710,12 @@ Posle Allakh nizposla uspokoenieto Si na Svoya Pratenik i na vyarvashtite. I niz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	ထိုအခါအလ္လာဟ်အရှင်မြတ်သည် မိမိ၏ တမန်တော်နှင့် ယုံကြည်သူတို့ထံ စိတ်အေးချမ်းသာယာမှုကို ချပေး တော်မူ၏။ထို့အပြင်သင်တို့မမြင်ရသောစစ်သည်တော်များကိုလည်း ချပေးတော်မူ၏။မိစ္ဆာဒိဋ္ဌိတို့ကို အပြစ် ပေးတော်မူ၏။၎င်းမှာ မိစ္ဆာဒိဋ္ဌိတို့၏ ဆုလာဘ်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက်တဖန် အလ္လာဟ်အရှင်မြတ်သည် မိမိအထံတော်မှ မိမိရစူလ်တမန်တော်၏ အပေါ်၌လည်းကောင်း၊’မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူတို့ အပေါ်၌လည်းကောင်း၊စိတ်တည်ငြိမ်မှုကို ချပေးသနားတော်မူခဲ့လေသည်။ ၎င်းပြင်ထိုအရှင်မြတ်သည် အသင်တို့ မမြင်နိုင်သော စစ်သည်ရဲမက်တို့ကိုလည်း စေလွှတ်ပေးတော်မူခဲ့လေသည်။ ထို့ပြင်ထိုအရှင်မြတ်သည် ‘ကာဖိရ်’ မယုံမကြည်သွေဖည် ငြင်းပယ်သောသူတို့အား ပြစ်ဒဏ်ပေးတော်မူခဲ့လေသည်။ အမှန်သော်ကား ဤသည်သာလျှင် ‘ကာဖိရ်’မယုံမကြည် သွေဖည်ငြင်းပယ်သောသူတို့၏ အကျိုးပင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

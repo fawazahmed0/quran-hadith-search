@@ -710,6 +710,12 @@ I kogato im se reche: “Svedete chela do zemyata v sudzhud pred Vsemilostiviya!
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆ဝ။	ထို့အပြင်သူတို့အား မဟာကရုဏာတော်အရှင်အား ခဝပ်ကိုးကွယ်ကြလော့ဟု ဆိုသောအခါ သူတို့က မဟာကရု ဏာတော်အရှင်သည် အဘယ်ဟာနည်း၊ရှင်မိုဟမ္မဒ်၊ သင်က ဝတ်ပြုဦးညွတ်လော့ဟုဆိုသောမည်သည့်အရာမဆို ငါတို့ပျပ်ဝပ်ကြမည်လောဟု တုံ့ပြန်ပြောဆိုကြ၏၊ ယင်းတိုက်တွန်းနှိုးဆော်ခြင်းသည် ထိုသူတို့၌ မုန်းတီးခြင်းကို တိုးပွားစေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ၎င်းတို့အား အသင်တို့သည် ‘ရဟ်မာန်’ ကြီးမားလှသော ကရုဏာတော်ရှင်အား ‘စဂျီဒဟ်’ ပျပ်ဝပ် ဦးချကြလေကုန်ဟု ပြောကြားခဲ့ပါလျှင် ၎င်းတို့က ‘ရဟ်မာန်’ ဟူသည် အဘယ်နည်း။ ကျွန်ုပ်တို့သည် အသင် အကျွန်ုပ်တို့အား အမိန့်ပေးသောအရာကို ‘စဂျ်ဒဟ်’ ပျပ်ဝပ်ဦး ချကြရပါမည်လောဟု ဆိုကြကုန်၏။ စင်စစ် (ဤပြောဆို ညွှန်ကြားမှုသည်) ၎င်းတို့၌ စက်ဆုပ်မှုကို ပိုမိုတိုးတက်စေခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

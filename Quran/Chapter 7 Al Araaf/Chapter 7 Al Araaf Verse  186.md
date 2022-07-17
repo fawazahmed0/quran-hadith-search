@@ -710,6 +710,12 @@ Kogoto Allakh ostavya v zabluda, za nego nyama voditel. I gi ostavya v tyakhnata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈၆။	အကြင်သူတို့အား အလ္လာဟ်အသျှင်မြတ်သည် လမ်းမှားသို့ ပို့တော်မူ၏။ ထိုသူတို့အဖို့ လမ်းပြမည့်သူ မရှိပေ။ အသျှင်မြတ်သည် သူတို့အား ၎င်းတို့၏ ထောင်ထားခြားနားမှုလမ်းတွင် သိမြင်ခြင်းတရား မရှိဘဲ တဝဲလည်လည် ဆက်လက်လျှောက်သွားရန် ပစ်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူအား အလ္လာဟ်အရှင်မြတ်သည် လမ်းမှားစေတော်မူအံ့။ ထိုသူ၌ တရားလမ်းမှန်ကို ညွှန်ကြားပြသမည့်သူဟူ၍ အလျင်းရှိတော့မည် မဟုတ်ပေ။ ၎င်းပြင် ထိုအရှင်မြတ်သည် ၎င်းတို့အား ၎င်းတို့၏ခေါင်းမာမှု၌ပင် တဝေ့လည်လည် ဖြစ်စေလျက် စွန့်ပစ်၍ထားတော်မူအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

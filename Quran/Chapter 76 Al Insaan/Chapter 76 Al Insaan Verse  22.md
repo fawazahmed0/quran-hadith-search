@@ -710,6 +710,12 @@ Uistinu, ovo je za vas plaća i biće trud vaš pohvalan
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။ သူတို့အား မိန့်တော်မူမည်မှာ အို-သူတော်ကောင်းတို့၊ ဤနိဗ္ဗာန်ဘုံသည် သင်တို့အတွက် ဆုတော်ကြီးဖြစ်၏၊ သင်တို့၏ ကြိုးစားမှုကို လက်ခံတော်မူပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ဤသည်ကား အသင်တို့အား (ချီးမြှင့်တော်မူသော) အကျိုးကျေးဇူးပင်ဖြစ်၏။ စင်စစ်သော်ကား အသင်တို့၏ ကြိုးပမ်းမှုသည် (အရှင်မြတ်အထံတော်၌) ကျေနပ် လက်ခံပြီး ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

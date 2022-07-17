@@ -710,6 +710,12 @@ No sŭrtsata im sa v bezdna [ot zabluda] otnosno tova. Za tyakh [-nevernitsite] 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၃။	သို့သော်မိစ္ဆာမိုက်တို့၏ စိတ်နှလုံးများသည် ကုရ်အာန်ကျမ်းတော်မြတ်ကို မသိကြချေ၊ ထို့အပြင်သူတို့ပြုကျင့် နေသည်မှတပါး အခြားအမှုအခင်းများ သူတို့မှာ ရှိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသို့အလျှင်းမဟုတ်၊ စင်စစ်မှာကား ၎င်းတို့၏ စိတ်နှလုံးများသည် ဤအချက်နှင့်စပ်လျဉ်း၍ မသိမိုက်မဲမှု၌ပင် ရှိနေကြပေသည်။ ထိုမှတစ်ပါး ၎င်းတို့၌ ၎င်းတို့ လုပ်ကိုင်ဆောင်ရွက်လျက် ရှိကြကုန်သော အခြားဆောင်ရွက်ချက်များလည်း ရှိကြသေး၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

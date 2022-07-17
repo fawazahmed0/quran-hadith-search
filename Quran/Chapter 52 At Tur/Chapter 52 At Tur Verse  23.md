@@ -710,6 +710,12 @@ Shte si podavat tam edin na drug chasha, ot koyato ne shte ima nito praznoslovie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	ထို့အပြင် သူတို့သည် တစ်ဦးလက်မှ တစ်ဦးလက်သို့ ရေခွက်တစ်ခုကို ကမ်းလှမ်းယူငင်ပေးကြ၏၊ ထိုခွက်ရှိ သောက်စရာကြောင့် သောက်သူတို့သည် ယစ်မူးမေ့လျော့ခြင်းလည်းမရှိ၊ စကားအသိမ်အဖျင်းကို ပြောဆိုခြင်း လည်းမရှိ၊ အပြစ်ကျုးကျော်ခြင်းလည်းမရှိဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့မှာ ယင်း ‘ဂျန္နတ်’ သုခဘုံ၌ အရက်အပြည့်ရှိသော ခွက်များကို လုယက်ယူငင်ကြပေမည်။ ယင်းအရက်(ကိုသောက်သုံးခြင်း)၌ အချည်းနှီးသော စကားပြောဆိုမှု ရှိလိမ့်မည်မဟုတ်ပေ။ အပြစ်ဖြစ်ရန် အကြောင်းလည်း ရှိချိမ့်မည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

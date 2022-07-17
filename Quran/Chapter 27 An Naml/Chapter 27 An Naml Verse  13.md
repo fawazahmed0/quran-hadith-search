@@ -710,6 +710,12 @@ I kogato Nashite znameniya doĭdokha pri tyakh ochevidni, rekokha: “Tova e ya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	သို့သော်ငါ၏သာဓကတော်များသည် သူတို့ထံသို့ ဒိဌမျက်မြင်ဆိုက်ရောက်လာသောအခါ သူတို့က ဤအရာသည် ဝိဇ္ဇာအတတ်သာဖြစ်ဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ၎င်းတို့ထံ ငါအရှင်မြတ်၏ ရှင်းလင်းသော တန်ခိုးတော်များ ရောက်ရှိလာခဲ့လေသော်၊ ၎င်းတို့က ဤသည် ထင်ရှားသော ပဉ္စလက် အတတ်ပညာပင် ဖြစ်သည်ဟုဆိုခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

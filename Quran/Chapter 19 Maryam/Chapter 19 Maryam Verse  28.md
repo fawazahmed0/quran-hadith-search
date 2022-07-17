@@ -710,6 +710,12 @@ O, sestro na Kharun, bashta ti ne beshe losh chovek i maĭka ti ne beshe bludni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	အို-ဟာရွန်၏ နှမ၊ သင်၏ ဖခင်သည် သူယုတ်မာမဟုတ်ချေ၊ သင်၏ မိခင်လည်း ပြည့်တန်ဆာမ မဟုတ်ချေ ဟု ကဲ့ရဲ့ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ဟာရူန်၏နှမ၊ အသင်မ၏ ဖခင်မှာလည်းအကျင့်မကောင်းသူ မဟုတ်ခဲ့ပေ။ အသင်မ၏ မိခင်မှာလည်းအကျင့်ပျက်သူတစ်ဦး မဟုတ်ခဲ့ချေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ kazakha: “Nima shte ti povyarvame, shtom te sledvat naĭ-prezrenite?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၁။	သူတို့က အို--နူဟို၊ အောက်ဆုံးအလွှာသားလူနုံချာတို့သည် သင့်ကို ယုံကြည်မြတ်နိုးသောကြောင့် ငါတို့လည်း သင့်ကို ယုံရမှာလောဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအမျိုးသားတို့က ကျွန်ုပ်တို့သည် အသင့်အား ယုံကြည်ကြရမည်လော။ အမှန်စင်စစ် ဂုဏ်အသရေ သေးသိမ်သူတို့သာလျှင် အသင်၏နောက်လိုက်များ ဖြစ်ကြသည်ဟု ပြောဆိုခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

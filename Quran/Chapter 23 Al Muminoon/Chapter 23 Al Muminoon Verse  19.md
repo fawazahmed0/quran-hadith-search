@@ -710,6 +710,12 @@ S neya sŭtvoryavame za vas gradini s palmi i grozde - tam ima za vas mnogo plod
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	ထို့နောက်ငါသည် ထိုမိုးရေဖြင့် သင်တို့အဖို့ရာ စွန်ပလွံ၊ သပြက်ဥယျာဉ်များကို ဖန်ဆင်းတော်မူ၏၊ ထိုဥယျာဉ်များ ကို ဖန်ဆင်းတော်မူ၏၊ ထိုဥယျာဉ်များ၌ သင်တို့အဖို့အရာ သစ်သီးအများအပြားသီးကြ၏၊ ထိုအသီးများကို သင်တို့စားသုံးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ငါအရှင်မြတ်သည် ထို(မိုး)ရေဖြင့် အသင်တို့အဖို့ စွန်ပလွံခြံများကို လည်းကောင်း၊ စပျစ်ခြံများကို လည်းကောင်း၊ ပေါက်ရောက်စေတော် မူခဲ့၏။ အသင်တို့အဖို့ ယင်းခြံများတွင် မြောက်မြားစွာသော သစ်သီးဝလံများသည်ရှိ ၏။ ထို့ပြင် အသင်တို့သည် ယင်းခြံများမှ စားသုံးကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

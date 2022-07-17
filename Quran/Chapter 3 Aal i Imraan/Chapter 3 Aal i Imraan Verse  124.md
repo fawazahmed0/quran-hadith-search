@@ -710,6 +710,12 @@ Kogato kaza na vyarvashtite: “Ne vi li stiga da vi podkrepi vashiyat Gospod s 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၄။	ထိုအခါ သင်သည် ယုံကြည်သူ စစ်သည်တော်တို့အား ဟယ်-အချင်းတို့ သင်တို့၏အသျှင်သခင်သည် သင်တို့ထံ ကောင်းကင်တမန် စစ်သည်တော် သုံးထောင်ကို ချပေးခြင်းအားဖြင့် ကူညီမှိုင်းမခြင်းသည် သင်တို့အတွက် မလုံလောက်သေးဘူးလားဟု မေးမြန်း၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို - နဗီတမန်တော်) ထိုအခါ သင်သည် (စစ်မြပြင်၌) မုအ်မင်န် သက်ဝင်ယုံကြည်သူတို့ အား (ဤသို့)ပြောကြားလျက် ရှိခဲ့လေသည်။ (ဟယ်-အချင်းတို့) အသင်တို့ကိုမွေးမြူတော်မူသော အရှင်မြတ်သည် အသင်တို့အား (ထိုအရှင်မြတ် အထံတော်မှ) ဆင်းသက်စေတော်မူခြင်း ခံရလေ သော’မလာအိကဟ်’အပါးတော်စေတမန်သုံးထောင်ဖြင့် ကူညီစောင်မတော်မူခြင်းသည် အသင်တို့အဖို့ မလုံလောက်ပါသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

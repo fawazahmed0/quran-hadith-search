@@ -710,6 +710,12 @@ Da, na tezi [nevernitsi] i na tekhnite predtsi dadokh da se nasladyat, dokato pr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	စင်စစ်အားဖြင့် ထိုသူယုတ်တို့နှင့် သူတို့မိဘထံသို့ သမ္မာတရားတော်နှင့် ထိုတရားတော်ကို ရှင်းလင်းဟောပြော သောတမန်တော်ရောက်လာသည့်တိုင်အောင် ငါသည် သူတို့အားလုံးကို လောကီစည်းစိမ်ပေးသနားတော်မူခဲ့ပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်မှာကား ငါအရှင်မြတ်သည် ဤသူတို့အားလည်းကောင်း၊ ဤသူတို့၏အဘ၊ ဘိုး၊ ဘေးတို့အားလည်းကောင်း၊ စည်းစိမ်ချမ်းသာကို ချီးမြှင့်တော်မူခဲ့၏။ နောက်ဆုံးတွင် ထိုသူထံသို့ (ကုရ်အာန်ကျမ်းတော်မြတ် တည်းဟူသော)အမှန်တရားသည် လည်းကောင်း၊ (အမိန့်ပညတ်တော်များကို)ဖော်ပြထင်ရှားစေသော ရစူလ်တမန်တော်တစ်ပါးသည် လည်းကောင်း ရောက်ရှိ၍လာခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

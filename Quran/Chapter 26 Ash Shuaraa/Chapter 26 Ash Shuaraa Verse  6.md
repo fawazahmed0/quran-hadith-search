@@ -710,6 +710,12 @@ Te go vzimakha za lŭzha, no shte doĭdat pri tyakh vestite za onova, na koeto 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	ယခုလည်းသူတို့သည် သစ္စာတရားတော်ကို လက်မခံငြင်းပယ်ကြ၏၊ သို့သော်သူတို့ထံသို့ သူတို့ပျက်ရယ်ပြု ကြလေ့ရှိသောအမှုအခင်း၏ သတင်းသည် လာလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယခုသော် ၎င်းတို့သည် (ယင်းဆုံးမဩဝါဒကို)မဟုတ်မမှန်ဟူ၍ပင် စွပ်စွဲငြင်းပယ်ခဲ့ကြပေရာ ၎င်းတို့ ပြက်ရယ်သမှုပြုလျက် ရှိခဲ့ကြသောအရာ၏ အဖြစ်မှန်သည် မကြာမြင့်မီပင် ၎င်းတို့ထံ ရောက်ရှိလာပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

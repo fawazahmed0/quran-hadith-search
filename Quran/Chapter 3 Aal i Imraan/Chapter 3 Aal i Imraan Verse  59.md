@@ -710,6 +710,12 @@ Primerŭt s Isa pred Allakh e kato primera s Adam. Sŭtvori go Toĭ ot prŭst, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၉။	မှတ်သားကြလော့။ အလ္လာဟ်အသျှင်မြတ်အထံတော်၌ တမန်တော်အီဆာသည် တမန်တော် အာဒမ်ကဲ့သို့ပင်ဖြစ်၏။ အသျှင်မြတ်သည် သူ့အား မြေမှုန့်မှ ဖန်ဆင်းတော်မူ၏။ အသျှင်မြတ်သည် သူ့အား သင်ဖြစ်ပေါ်လာလော့ဟု မိန့်တော်မူ၏။ ထိုအခါ သူဖြစ်ပေါ်လာရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်၏အထံတော်၌ (နဗီတမန်တော်)အီစာ၏ (ထူးဆန်းသော) အဖြစ်ကား(နဗီတမန်တော်) အာဒမ်၏ (ထူးဆန်း သော) အဖြစ်ကဲ့သို့ပင်တည်း။ ထိုအရှင်မြတ်သည် (ဦးစွာပဌမ) ထို (နဗီတမန်တော်အာဒမ်)အား မြေကြီးဖြင့် ဖန်ဆင်းတော်မူခဲ့လေသည်၊ ပြီးနောက် ထိုအရှင်မြတ်သည် ထိုတမန်တော်အာဒမ်(၏ပုံ သဏ္ဌာန်)ကို ဖြစ်စေဟုမိန့်ကြားတော်မူခဲ့ရာ ထိုတမန်တော်အာဒမ်(၏ပုံသဏ္ဌာန်)သည် (အသက် ထင်ရှားရှိသောလူသတ္တဝါ)ဖြစ်လာခဲ့ရလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

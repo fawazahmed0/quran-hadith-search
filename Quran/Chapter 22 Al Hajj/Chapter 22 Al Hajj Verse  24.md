@@ -710,6 +710,12 @@ Te byakha vodeni kŭm blagoto slovo i byakha vodeni kŭm pŭtya na Vseslavniya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	သူတို့အား သန့်ရှင်းသာယာနာပျော်ဖွယ်သောစကားသို့ ညွှန်ပြတော်မူ၏၊ သူတို့ကို ချို့တဲ့ခြင်းကင်း၍ တန်ခိုး ကြီးမားတော်မူသောအရှင်၏ လမ်းတော်သို့ ညွှန်ပြတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ၎င်းတို့သည်(ဤပစ္စက္ခဘဝတွင်) စင်ကြယ်သန့်ရှင်းသောစကား (ကလိမတ် တွိုက်ယိဗဟ်)ကိုလည်း ညွှန်ကြားပြသခြင်းခံခဲ့ကြရလေသည်။ ထိုမှတစ်ပါး ချီးမွမ်းထောမနာပြုခြင်းကို ခံယူထိုက်တော်မူသော အရှင်မြတ်၏လမ်းတော်ကိုလည်း ညွှန်ကြားပြသခြင်း ခံခဲ့ကြရကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

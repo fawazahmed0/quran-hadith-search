@@ -710,6 +710,12 @@ Nizposlavaneto na Knigata - bez sŭmnenie v neya - e ot Gospoda na svetovete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	ယုံမှားသံသယကင်းသောကျမ်းမြတ်ကုရ်အာန်ကို အနန္တစကြဝဋ္ဌာများ၏ အရှင်သခင်ထုတ်ပြန်ချပေးသနားတော် မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤသည်) ချပေးတော်မူသောကျမ်းဂန်ဖြစ်၏။ဤကျမ်းဂန်နှင့် စပ်လျဉ်း၍ ဒွိဟသံသယဟူ၍ အလျှင်းမရှိပြီ။(ဤသည်) စကြာဝဠာခပ်သိမ်းတို့ကို ဖန်ဆင်း မွေးမြူတော်မူသော အရှင်မြတ်ထံတော်မှဖြစ်သည်။(တနည်း) ဤကျမ်းဂန်သည် စကြာဝဠာ ခပ်သိမ်းတို့ကိုဖန်ဆင်း မွေးမြူတော်မူသော အရှင်မြတ်အထံတော်မှချပေးတော်မူခြင်း ဖြစ်၏။ ယင်းကျမ်းဂန်နှင့်စပ်လျဉ်း၍ ဒွိဟသံသယဟူ၍ အလျှင်းမရှိပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

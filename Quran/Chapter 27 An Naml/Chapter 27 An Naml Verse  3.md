@@ -710,6 +710,12 @@ koito ot·sluzhvat molitvata i davat milostinyata zakat, i za otvŭdniya zhivot 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	ထိုယုံကြည်သူတို့သည် ဆွလားသ်ဝတ်ကို ပြုကြ၏၊ ဇကားသ်အလှုကို ပေးကြ၏၊ နောင်တမလွန်ဘဝကို စွဲလမ်းယုံကြည်ကြသည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင် "မုအ်မင်န်" သက်ဝင်ယုံကြည်သူတို့သည် ဆွလာတ်ဝတ်ပြုမှုကို ဆောက်တည်ကြသည့်ပြင် ဇကာတ်လည်း ပေးဆောင်ကြကုန်၏။ "အာခိရတ်" တမလွန်ဘဝကိုလည်း ယုံကြည်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I onezi predi tyakh otrichakha, i mŭchenieto gi vrŭkhletya, otkŭdeto ne im e 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	ဤသူမိုက်တို့ထက်ရှေးကျသောလူဟောင်းတို့လည်း သမ္မာတရားတော်ကို မယုံကြည်ငြင်းပယ်ကြ၏၊ ထို့ကြောင့် သူတို့အပေါ်သို့ အပြစ်ဒဏ်တော်ကြီး ကျရောက်လာ၏၊ အဘယ်နေရာက ကျရောက်လာသည်ကို သူတို့မသိ ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့အလျင် ရှိခဲ့ကြသော သူတို့သည်လည်း(အမှန်တရားကို) မဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ်ခဲ့ကြကုန်၏။ သို့ဖြစ်ပေရာ ပြစ်ဒဏ်သည် ၎င်းတို့ထံ ၎င်းတို့ မထင်မမြင်ကြသောနည်းဖြင့် ရောက်ရှိ၍ လာခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ O, narode nash, otkliknete na zovyashtiya kŭm Allakh i mu vyarvaĭte! Shte vi 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	အို-အချင်းတို့၊ အလ္လာဟ်အရှင်မြတ်အထံတော်သို့ ပင့်ဖိတ်သူကို ကြားနာကြလော့၊ အရှင်မြတ်၌ ယုံကြည်ကြ လော့၊ အရှင်မြတ်သည် သင်တို့၏အပြစ်အချို့ကို လွှတ်တော်မူမည်၊ အလွန်ပြင်းပြသောအပြစ်ဒဏ်တော်မှ ကာကွယ်စောင့်ရှောက်တော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ကျွန်ုပ်တို့၏ အမျိုးသားတို့၊ အသင်တို့ သည် အလ္လာဟ်အရှင်မြတ်ဘက်သို့ ဖိတ်ခေါ်သူ၏ ဖိတ်ခေါ်ချက်ကို နာယူလက်ခံကြလေကုန်။ ထို့ပြင် အသင်တို့သည် ထိုဖိတ်ခေါ်သူအား သက်ဝင်ယုံကြည်ကြလေကုန်။ ထိုအရှင်မြတ်သည် အသင်တို့အဖို့ အသင်တို့၏ ပြစ်မှုတို့ကို ခွင့်လွှတ်ချမ်းသာ ပေးသနားတော်မူပေမည်။ ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် အသင်တို့အား နာကျင်ဖွယ်ဖြစ်သော ပြစ်ဒဏ်မှလည်း ကာကွယ် စောင့်ရှောက်တော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I da te priberem, Nie shte im otmŭstim
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	ငါသည် အကယ်၍ သင်၏အသက်ဝိညာဉ်ကို ခေါ်တော်မူသော်လည်း ထိုသူများကို ဧကန်အမှန်အပြစ်ဒဏ်ပေး၍ လက်စားချေတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် အကယ်၍ ငါအရှင်မြတ်သည် အသင့်အား(ဤလောကမှ)ဆောင်ယူသွားတော်မူပါလျှင်လည်း ဧကန်မလွဲ ငါအရှင်မြတ်သည် ၎င်းတို့အား လက်စား ချေတော်မူအံ့သော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

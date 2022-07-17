@@ -710,6 +710,12 @@ Otdrŭpni se ot tyakh i chakaĭ! I te shte chakat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	ထို့ကြောင်အို-မိုဟမ္မဒ်၊ ထိုသူယုတ်မာတို့ထံမှ ခွဲထွက်သွားလော့၊ သူတို့ကို လျစ်လျူရှုလော့၊ အဖြစ်အပျက် တော်ကြီးကို စောင့်စားမျှော်လင့်နေလော့၊ မှတ်သားလော့၊ သူတို့လည်း စောင့်စားမျှော်လင့်နေကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်)အသင်သည်4င်းတို့(၏ပြန်ပြောဆိုမှုကို လျစ်လျူရှု၍)အလ္လာဟ်အရှင်မြတ်ချိန်းချက်ထားတော်မူသော အဆုံးအဖြတ်ကိုစောင့်ဆိုင်းလျက်၊ရှိကြပါလေ။ 4င်းတို့သည်လည်း(မိမိတို့ ယူဆချက်အရ အသင့်အား အန္တရာယ်ပြုရန် စောင့်ဆိုင်းနေကြသူများပင် ဖြစ်ကြကုန်သတည်း။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

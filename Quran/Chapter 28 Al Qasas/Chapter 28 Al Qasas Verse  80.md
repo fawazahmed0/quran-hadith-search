@@ -710,6 +710,12 @@ darenite sŭs znanieto kazvakha: “Gorko vi! Naĭ-dobroto e nagradata na Allak
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈ဝ။	သို့သော်ပညာဉာာဏ်ရှိသူတို့က ဟယ်-အချင်းတို့၊ သင်တို့သည် ပျက်စီးခြင်းဒုက္ခသို့ ဆိုက်ရောက်ရာသာတည်း၊ ယုံကြည်လျက် ကုသိုလ်ကောင်းမှုအားထုတ်သူအား အလ္လာဟ်အရှင်မြတ်ပေးသနားတော်မူသည့်ဆုတော်သည် ၎င်းဥစ္စာရတနာတို့ထက် မြင့်မြတ်၏၊ ထိုအကျိုးသုခကို ခန္တီပါရမီနှင့် သမာဓိခိုင်မြဲခြင်း၊ ဂုဏ်ရှိသူသာလျှင် ခံစားရမည်ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အသိပညာကို ချီးမြှင့်ပေးသနားတော်မူခြင်း ခံကြရသောသူတို့ကမူကား ‘အသင်တို့၌ (အကျိုးနည်းပါစေ၊) ‘အီမာန်’ သက်ဝင် ယုံကြည်ပြီး ကောင်းမြတ်သောအကျင့်သီလကို ကျင့်မူဆောက်တည်ကြကုန်သောသူတို့အဖို့ အလ္လာဟ်အရှင်မြတ် အထံတော်မှ(ချီးမြှင့်ပေးသနားတော်မူအံ့သော)အကျိုး ‘ဆဝါဗ်’ သည် အကောင်းဆုံးပင် ဖြစ်ပေသည်။သို့ရာတွင် ယင်းအကျိုး ‘ဆဝါဗ်’ကို သည်းခံတရား ထားရှိသောသူတို့သည်သာလျှင် ရရှိကြပေသည်’ဟု ပြောဆိုခဲ့ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

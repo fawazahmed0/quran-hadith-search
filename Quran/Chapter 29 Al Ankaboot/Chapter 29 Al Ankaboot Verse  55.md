@@ -710,6 +710,12 @@ v Denya, kogato mŭchenieto shte gi obkhvane otgore i izpod krakata im. I shte k
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။	တရားစီရင်တော်မူသောနေ့တော်ကြီး၌ အပြစ်ဒဏ်တော်သည် သူတို့အပေါ်သို့ ခေါင်းပေါ်မှသော်လည်းကောင်း၊ ခြေအောက်မှသော်လည်းကောင်း၊ အထက်အောက်ကျရောက်လွှမ််းမိုးလတံ့၊ ထိုအခါအရှင်မြတ်က သင်တို့ပြုကျင့် လေ့ရှိသောအမှုုတို့ကို ကြည့်လော့ဟု ဗျာဒိတ်စကားမိန့်တော်မူလတဲ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်နေ့တွင် ပြစ်ဒဏ်သည် ထိုသူတို့အား၊ ထိုသူတို့၏ အထက်မှလည်းကောင်း၊ ထိုသူတို့၏ ခြေများအောက်မှလည်းကောင်း၊ (အဖက်ဖက်မှ) ဖုံးလွှမ်းဝန်းရံလျက် ရှိချေမည်။၎င်းပြင် ထိုအရှင်မြတ်က (၎င်းတို့အား) ‘အသင်တို့သည် မိမိတို့ကျင့်မူ ပြုလုပ်လျက်ရှိခဲ့ကြသည့် (ပြစ်မှုဒုစရိုက်)များ၏ အရသာကို မြည်းစမ်းကြကုန်လော့’ဟု မိန့်ကြားတော် မူအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ O, Proroche, bori se sreshtu nevernitsite i litsemerite, i bŭdi tvŭrd s tyakh!
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၃။	အို-တမန်တော်၊ မိစ္ဆာဒိဋ္ဌိတို့နှင့် ယုံကြည်ဟန်ဆောင်သူတို့ကို တိုက်ခိုက်လော့၊ သူတို့အပေါ် ခက်ထန်ကြမ်းကြုတ် လော့။သူတို့၏ နောက်ဆုံးဗိမာန်သည် ငရဲဖြစ်၏။အလွန်ဆိုးဝါးယုတ်ည့ံလှသောခရီးဆုံးတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-နဗီတမန်တော်၊ အသင်သည် ‘ကာဖိရ်’ သွေဖည်ငြင်းပယ်သူတို့အားလည်းကောင်း၊ ‘မုနာဖစ်က်’ မုစ်လင်မ်အယောင်ဆောင်သူတို့အားလည်းကောင်း၊ ဂျိဟာဒ်ပြုပါလေ။ထို့ပြင် ၎င်းတို့အပေါ်၌ အသင် သည် ပြင်းထန်ကျပ်တည်းမှုကိုပြုပါလေ။ ထိုမှတစ်ပါး ၎င်းတို့၏ခိုကိုးရာဌာနသည် ‘ဂျဟန္နမ်’ငရဲဘုံသည်ပင်ဖြစ်သည်။ အမှန်သော်ကား၊ ထိုစခန်းသည်အလွန် ဆိုးရွားလှပေသည်တကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

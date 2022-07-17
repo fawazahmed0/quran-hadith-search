@@ -710,6 +710,12 @@ Nima zhitelite na selishtata imakha sigurnost, che Nasheto mŭchenie ne shte gi 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၇။	ငါ၏ အမျက်တော်သည် သူတို့အိပ်နေစဉ် ညဉ့်အချိန်ကိုဝင်တိုက်သည့် စစ်သည်တော်ကဲ့သို့ သူတို့ အပေါ်သို့ ဆိုက်ရောက်လာခြင်းမှ သူတို့သည် လုံခြံုချမ်းသာကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ပါလျက် (မက္ကာဟ်မြို့နှင့်တကွ ပတ်ဝန်းကျင်)မြို့ရွာဒေသများ၌ မှီတင်းနေထိုင်ကြကုန် သောသူတို့သည် ညအခါ၌ ၎င်းတို့အိပ်ပျော်နေကြစဉ် ငါအရှင်မြတ်၏ပြစ်ဒဏ်သည် (ရုတ်တရက်) ၎င်းတို့ထံ ရောက်ရှိလာမည်ကိုစိုးရိမ်ခြင်းကင်းမဲ့၍ စိတ်ချ၍နေကြပါသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

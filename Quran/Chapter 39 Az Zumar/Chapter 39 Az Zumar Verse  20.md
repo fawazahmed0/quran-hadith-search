@@ -710,6 +710,12 @@ A onezi, koito se boyat ot svoya Gospod, shte imat vŭzdignati obitalishta, izgr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	သို့သော်အကြင်သူတို့သည် မိမိ၏ အရှင်သခင်၏ ဝတ်ကို ပြေလည်အောင် ပြု၏၊ ထိုသူတို့စံမြန်းဖို့ရာ မြင့်စွင့် သောဘုံဗိမာန်များကို တဘုံပေါ်တဘုံဆင့်၍ မြင့်သည်ထက်မြင့်အောင် စီရင်ထားတော်မူ၏၊ ထိုနန်းပြဿဒ်တို့ အောက်၌ စိမ့်စမ်းရေမြောင်း၊ ချောင်းအသွယ်သွယ်တို့လည်း အယဉ်ထွေထွေစီးဆင်းလျက်ရှိ၏၊ ဤအရာများ သည် အလ္လာဟ်အရှင်မြတ်၏ ကတိသစ္စာတော်အတိုင်းဖြစ်၏၊ အရှင်မြတ်သည် မိမိထားတော်မူသောကတိသစ္စာ တော်ကို မည်သည့်အခါမှ ဖျက်တော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် မိမိတို့ကို ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အား ကြောက်ရွံ့သောသူတို့အဖို့မှာမူကား မြင့်စွင့်သောအဆောင်များ ရှိနေကြပေသည်။ ယင်း မြင့်စွင့်သောအဆောင်များထက်ဝယ် (အခြား) ပြုလုပ်တည်ဆောက်ထားသော မြင့်စွင့်သောအဆောင်များ ရှိကြပေသည်။ ယင်းမြင့်စွင့်သောအဆောင်များအောက်၌ ရေချောင်းများသည် စီးတွေလျက်ရှိကြပေသည်။ (ဤသည်) အလ္လာဟ်အရှင်မြတ်၏ကတိတော်ပင်၊ အလ္လာဟ်အရှင်မြတ်သည် ကတိကို ဖောက်ဖျက်တော်မူသည် မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

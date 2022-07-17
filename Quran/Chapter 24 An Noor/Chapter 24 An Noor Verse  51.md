@@ -710,6 +710,12 @@ Ako vyarvashtite bŭdat prizovani kŭm Allakh i Negoviya Pratenik, za da ot·sŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁။	ယုံကြည်သူတို့သည် မိမိတို့အလည်ကြားတွင် တရားဆုံးဖြတ်ဖို့ရာ အလ္လာဟ်အရှင်မြတ်နှင့် တမန်တော်ကို တောင်းပန်လျှောက်ကြသောအခါ သူတို့သည် အကျွနု်ပ်တို့ကြားကြပါ၏၊ နာခံကြပါ၏ဟုသာ ဆိုကြ၏၊ ဤလူ ဤလူတို့သည် အောင်မြင်သူများသာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (သို့ရာတွင်)’မုအ်မင်န်’သက်ဝင်ယုံကြည်သူတို့၏ စကားမှာ ၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ်အထံတော်သို့ လည်းကောင်း၊ ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော်မြတ်ထံသို့ လည်းကောင်း၊ ထိုရစူလ်တမန်တော်မြတ်သည် ၎င်းတို့အကြား၌ စီရင်ဆုံးဖြတ်၍ ပေးတော်မူအံ့သောငှာ အခေါ်ခံကြရသောအခါ၊ ၎င်းတို့က ကျွန်တော်မျိုးတို့သည် ကြားနာကြပါပြီ၊ ထို့ပြင် ကျွန်တော်မျိုးတို့သည် လိုက်နာကြပါပြီဟူ၍ ပြောဆိုကြကုန်၏။ စင်စစ်မှာမူကား ဤကဲ့သို့သော သူသာလျှင် အောင်မြင်မှုရရှိသူများ ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Zabludi toĭ mnogo narodi sred vas. Ne ste li proumeli
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	သို့သော်ရှိုင်တန်မာရ်နတ်သည် နင်တို့အနက် အမြောက်အမြားသောသူတို့ကို လမ်းမှားသို့ လှည့်ဖြားပို့ဆောင် လေ၏၊ ထိုဖျားယောင်းခြင်းသည် နင်တို့မသိမမြင်ကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် မချွတ်မလွဲ ထို "ရှိုင်တွာန်" မိစ္ဆာကောင်သည် အသင်တို့အနက် မြောက်များစွာသော အဖန်ဆင်းခံတို့အား လမ်းလွဲစေခဲ့လေပြီ။ သို့ပါလျက် အသင်တို့သည် (ဤမျှပင်) မသိ နားမလည်ခဲ့ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

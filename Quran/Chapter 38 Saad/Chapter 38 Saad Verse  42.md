@@ -710,6 +710,12 @@ ERKUD BIRIXHLIKE HADHA MUGTESELUN BARIDUN WE SHERABUN
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	ထိုအခါသူ့အား အို-အိုင်ယူး(ဘ်)၊ သင်သည် မိမိခြေဖနောင့်ဖြင့် မြေကို ဆောင့်ေျလာ့ဟု ဗျာဒိတ်ပေးတော်မူ၏၊ သို့ဆောင့်သောအခါ စမ်းရေထွက်လာ၏၊ ဤရေသည် ရေချိုးဖို့ရာ ရေအေးလည်း ဖြစ်၏၊ သောက်ဖို့ရာရေ၊ အမောဖြေအားဖြည့်ဖို့ ရေလည်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုရောအခါဝယ် ငါအရှင်မြတ်သည် မိန့်ကြားတော်မူခဲ့၏။ အို-အိုက်ယူဗ်) အသင်သည် မိမိ ခြေထောက်ဖြင့်(မြေကြီးကို)ဆောင့်ပါလေ၊ ဤသည် (အသင့်အဖို့) အေးမြသောချိုးရေသည်လည်းကောင်း၊ သောက်ရေသည်လည်းကောင်း၊ ဖြစ်ပါ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

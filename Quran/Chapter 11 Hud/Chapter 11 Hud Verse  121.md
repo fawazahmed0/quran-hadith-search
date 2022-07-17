@@ -710,6 +710,12 @@ I kazhi na onezi, koito ne vyarvat: “Rabotete kakto mozhete! I nie shte raboti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၁။	တမန်တော်၊ သင်သည် မိစ္ဆာမိုက်တို့အား အချင်းတို့၊ သင်တို့တတ်စွမ်းနိုင်သမျှပြုကျင့်ကြလော့။ ငါတို့လည်း အမှန်ပင်ပြုကျင့်နေကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်(အို-နဗီတမန်တော်)အသင်သည် အီမာန်ယုံကြည်သူတို့အား (ဤသို့)ပြောကြားပါလေ။ (ဟယ်-အချင်းတို့) အသင်တို့သည် (မိမိတို့နေရာတွင် မိမိတို့)တတ်စွမ်းနိုင်သမျှကျင့်မူကြလေကုန်။ ဧကန်စင်စစ် ငါတို့သည်လည်း (မိမိတို့အနေနှင့်) ဆန့်ကျင်လျက်ပင် ရှိကြကုန်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

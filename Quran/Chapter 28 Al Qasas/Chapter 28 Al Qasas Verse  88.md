@@ -710,6 +710,12 @@ I ne prizovavaĭ drug bog zaedno s Allakh! Nyama drug bog osven Nego! Vsichko p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၈။	ထို့အပြင်သင်သည် အလ္လာဟ်အရှင်မြတ်နှင့်တွဲဖက်၍ မည်သည့်အရာကိုမျှ မကိုးကွယ်လင့်၊ အလ္လာဟ်အရှင်မြတ် မှတပါး အခြားအရှင်သခင်မရှိချေ၊ အရှင်မြတ်၏ မျက်နှာတော်မှတပါး ခပ်သိမ်းကုန်သောအရာဝထ္ထုတို့သည် အကုန်အစင်ပျက်စီးရမည်သာတည်း၊ တစ်ချက်လွှတ်အမိန့်တော်သည် အရှင်မြတ်၏အမိန့်တော်သာတည်း၊ အရှင်မြတ်ထံသို့ သင်တို့ကို ပြန်ပို့မည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်သည် အလ္လာဟ်အရှင်မြတ်နှင့်အတူ မည်သည့်ကိုးကွယ်ရာကိုမျှပင် ဟစ်ခေါ် (တသ)ခြင်း မပြုပါလေနှင့်။ ထိုအရှင်မြတ်မှတပါး ဆည်းကပ်ကိုးကွယ်ရာဟူ၍ အလျှင်းမရှိပြီ။ ထိုအရှင်မြတ်မှတစ်ပါး၊ အခြားအရာခပ်သိမ်းကုန်တို့သည် ပျက်စီးဆုံးပါးမည့် အရာချည်း သာဖြစ်ကုန်၏။ အမိန့်အာဏာ အလုံးစုံတို့သည် ထိုအရှင်မြတ်၌သာ ရှိကုန်၏။ ထိုမှတစ်ပါး အသင်တို့သည် ထိုအရှင်မြတ် အထံတော်သို့သာလျှင် ပြန်ပို့ပေးခြင်း ခံကြရကုန်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

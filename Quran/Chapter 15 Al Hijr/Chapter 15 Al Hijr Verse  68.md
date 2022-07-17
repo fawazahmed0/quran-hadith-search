@@ -710,6 +710,12 @@ Kaza [Lut]: “Tezi sa mi gosti. Ne me opozoryavaĭte
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၈။	သူက ဤလူများသည် ငါ၏ ဧည့်သည်များဖြစ်ကြ၏။ သူတို့ကို မပြစ်မှားကြလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ယင်း(နဗီတမန်တော်)လူတ်က ဧကန်စင်စစ် ဤသူတို့ကား ငါ၏ဧည့်သည်များပင် ဖြစ်ကြပေရာအသင်တို့သည် ငါ့အားအရှက်မခွဲကြကုန်လင့်ဟု ပြောကြားခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I ot·sluzhvaĭte molitvata, i boĭte se ot Nego! Toĭ e Onzi, pri Kogoto sht
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၂။	ဆွလာသ်ပြုရန်နှင့် ဒုစရိုက်မှုကိုရှောင်ကြဉ်ရန် ဗျာဒိတ်ပေးတော်မူခြင်း ခံကြရ၏။ သင်တို့အားလုံးကို အသျှင်မြတ် မျက်မှောက်တော်ဝယ် စုရုံးစေတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး (ငါတို့သည် အမိန့်ပေးတော်မူခြင်းကို ခံကြရသည်မှာ) အသင်တို့သည် စွဲမြဲစွာဆွလာတ် ဝတ်ပြုကြလေကုန်။ ၎င်းပြင် အသင်တို့ သည် ထိုအရှင်မြတ်အားကြောက်ရွံ့ကြလေကုန်။ စင်စစ်သော်ကား အသင်တို့သည်ထိုအရှင်မြတ် ထံတော်သို့သာလျှင် စုရုံးကြရမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

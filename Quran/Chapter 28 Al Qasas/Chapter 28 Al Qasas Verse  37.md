@@ -710,6 +710,12 @@ A Musa kaza: “Moyat Gospod naĭ-dobre znae koĭ e doshŭl s Negovoto napŭt�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။ ထိုအခါတမန်တော်မူစာသည် ဤသို့ဟောကြား၏၊ အကျွနု်ပ်၏အရှင်သခင်သည် မိမိအထံတော်မှ လမ်းညွှန်တော် ကို ယူဆောင်လာသူအဘယ်သူဖြစ်သည်ကို အသိဆုံးဖြစ်တော်မူ၏၊ ထို့အပြင်အဘယ်သူ၏အကျိုးဆက်သည် သုခနိဗ္ဗာန်ဖြစ်မည်ကိုလည်း အသိဆုံးဖြစ်တော်မူ၏၊ မှတ်သားကြလော့၊ မတရားမှုကျူးလွန်သူတို့သည် အောင်မြင် ကြလိမ့်မည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် မူစာက ပြောကြားခဲ့၏။ ငါ့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် မိမိအထံတော်မှ မည်သူတရားလမ်းညွှန်ကို ဆောင်ကြဉ်းခဲ့သည်ကို လည်းကောင်း၊ဤလောကီဘဝ၏ နောက်ဆုံးအကျိုးသည် မည်သူ့အဖို့ရှိမည်ကို လည်းကောင်း၊ အသိတော်မူဆုံးပင် ဖြစ်တော်မူ၏။ ဧကန်အမှန် မတရားကျူးလွန်သောသူတို့သည် အောင်မြင်မှုကိုရရှိကြမည် မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

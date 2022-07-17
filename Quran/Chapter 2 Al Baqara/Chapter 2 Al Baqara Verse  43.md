@@ -710,6 +710,12 @@ I ot·sluzhvaĭte molitvata, i davaĭte milostinyata zakat, i se poklanyaĭte
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	သင်တို့သည် မိမိတို့ကိုယ်တိုင် တရားစောင့်စည်းရိုသေရန် မေ့လျော့လျက် လူသားတို့ကို တရား စောင့်စည်းရန် ဆင့်ဆိုကြသလော။ သင်တို့သည် သမ္မာကျမ်းတော်ကို ရွတ်ဖတ်သူမျးဖြစ်ကြသလော။ သင်တို့၌ ဆင်ခြင်တုံတရားမရှိကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-အစ္စရာအီလီ မျိုးနွယ်အပေါင်းတို့) အသင်တို့သည် ဆွလာတ် ဝတ်ပြုကြကုန်၊ တရား ဝင်ဒါနကြေးဖြစ်သော ဇကာတ်ကိုလည်း ပေးဆောင်ကြကုန်၊ ထို့ပြင်တဝ ကိုင်းညွှတ်ရိုကျိုးသော သူများနှင့်အတူ (ညီညာဖျဖျ) ကိုင်းညွှတ်ရိုကျိုးကြကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

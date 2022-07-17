@@ -710,6 +710,12 @@ I reche Musa: “Opazil me moyat Gospod i vashiyat Gospod ot vseki gordelivets, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	တမန်တော်(မူစာ)ပြောဆိုသည်မှာ အချင်းတို့၊ ဤကဲ့သို့ဂုဏ်မာနပလွှား၍ တရားစစ်ကြောစီရင်တော်မူသော နေ့ကြီးကို မယုံကြည်သူအားလုံးတို့မှ ကင်းဝေးချမ်းသာရန် ငါသည် မိမိ၏ အရှင်သခင်နှင့် သင်တို့၏ အရှင် သခင်၌ ခိုလှုံပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် မူစာသည် (ဤသို့) ပြောကြားခဲ့လေ၏။ ဧကန်စင်စစ် ငါသည် စောကြောမေးမြန်းမည့်နေ့ကို သက်ဝင်ယုံကြည်ခြင်းမရှိသော ဘဝင်မြင့် မာန်မာန ထောင်လွှားသူတိုင်း(၏ဘေးရန်ခပ်သိမ်းတို့)မှ (ကင်းလွတ်အံ့သောငှာ) ငါ့အားလည်းကောင်း၊ အသင်တို့အားလည်းကောင်း၊ (အားလုံးတို့အား)ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်၌ အကာအကွယ်ယူထားပြီး ဖြစ်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

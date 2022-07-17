@@ -710,6 +710,12 @@ Koĭto dopusne, che [Mukhammad] ne shte go podkrepi Allakh i v zemniya zhivot, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	အကြင်သူက အလ္လာဟ်အရှင်မြတ်သည် တမန်တော်မိုဟမ္မဒ်အား ဤဘဝနောင်ဘဝနှစ်ဖြာသောဘဝတွင် စောင်မ တော်မူမည်မဟုတ်ဟု တွေးတောလတ့ံ၊ ထိုသူအား ကြိုးတစ်ချောင်းကို မိုးကောင်းကင်အထိ ဆန့်စေလော့၊ ထို့နောက်ထိုကြိုးကို ဖြတ်စေလော့၊ ထိုသူသည် မိမိ၏ဥပါယ်တမျည်သည့် သူ့အား ဒေါသထွက်စေသောအရာကို ဖယ်ပစ်နိုင်သလားကို ကြည့်စေလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သူမဆို အလ္လာဟ်အရှင်မြတ်သည် ထိုရစူလ်တမန်တော်(မုဟမ္မဒ်) အား (ဤ)ပစ္စက္ခ မျက်မှောက်လောကတွင်လည်းကောင်း၊ နောင်တမလွန်တွင်လည်းကောင်း၊ အလျင်း အကူအညီပေးတော်မူမည်မဟုတ်ဟု ထင်မြင်ယူဆလျှက်ရှိလျှင် ထိုသူသည် ကြိုးတစ်ချောင်းကို မိုးကောင်းကင်အထိ ဆန့်တန်းဆွဲချိတ်ရမည်။ ထို့နောက် ၎င်းသည်(ယင်းအကူအညီကို)ဖြတ်တောက် (ရပ်စဲစေ)ရမည်။(တစ်နည်း)ထိုသူသည် ကြိုးတစ်ချောင်းကို(ယူကာ)မိမိလည်ပင်းကို ချည်၍ (အိမ်)ခေါင်မိုးအထိ ဆွဲငင်ဆန့်တန်းပြီးနောက်(မိမိလည်မျိုကို)ညှစ်သတ်ရမည်။ တစ်ဖန် မိမိကြံစည်ချက်သည်(မိမိအား) အမျက်ထွက်စေသောကိစ္စကို ပျောက်လွင့်စေသလောဟု စဉ်းစားဆင်ခြင်၍ ကြည့်ရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

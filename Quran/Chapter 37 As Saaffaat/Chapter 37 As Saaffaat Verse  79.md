@@ -710,6 +710,12 @@ Mir za Nukh sred narodite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၉။	ထိုသူတို့ပို့ရသောဆုတောင်းမေတ္တာစကားမှာ ခပ်သိမ်းကုန်သောလူသားအပေါင်းတို့တွင် တမန်တော်နူဟိုအပေါ်သို့ အေးချမ်းသာယာခြင်းမင်္ဂလာကျရောက်ပါစေသောဝ်ဟူ၍ ဖြစ်သည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ခပ်သိမ်းကုန်သော ကမ္ဘာသူကမ္ဘာသားများ တွင်"နူးဟ်" ၏အပေါ်ဝယ် "စလာမ်" ချမ်းမြေ့ သာယာမှုသည်ကျရောက်ပါစေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

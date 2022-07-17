@@ -710,6 +710,12 @@ I grupa ot tyakh reche: “O, zhiteli na Yasrib, [tuk] nyama myasto za vas, vŭr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	၎င်းတို့အနက် အသင်းတစ်သင်းက အို-ယသရစ်ဗ်မြို့သူမြို့သားအပေါင်းတို့၊ သင်တို့၌ ခုခံတိုက်ခိုက်နိုင်စရာ အကြောင်းမရှိချေ၊ သို့ဖြစ်၍ပြန်ကြလော့ဟု ဆိုကြ၏၊ ထို့အပြင်သူတို့အနက် အချို့သူများက အို-တမန်တော် အကျွနု်ပ်တို့နေအိမ်များကို လူသူမရှိပဲ အိမ်ချည်းသာ ဟာလာပစ်ထားခဲ့ရပါ၏ဟု လျှောက်ထား၍ အိမ်ကို ပြန်ခွင့်တောင်းကြ၏၊ သို့သော်သူတို့၏အိမ်များမှာ ထိုသို့ဟာလာဟင်းလင်းမဟုတ်ချေ၊ သူတို့၌ ထွက်ပြေးလိုသော ဆန္ဒမရှိသာမရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အကြင်အခါဝယ် ထိုသူတို့အနက် လူတစ်စုကအို-ယတ်ဆရစ်ဗ်မြို့သားတို့၊ အသင်တို့အဖို့ရပ်တည်ရာဌာနဟူ၍ အလျှင်းမရှိပြီဖြစ်ရာ အသင်တို့သည် ပြန်သွားကြကုန်လော့ ဟု ပြောဆိုခဲ့ကြကုန်၏။ ထိုမှတစ်ပါး ၎င်းတို့အနက် လူတစုသည် ဧကန်အမှန် ကျွန်ုပ်တို့၏အိမ်များမှာလုံခြုံမှုမရှိပါ ဟုပြောဆိုကာ နဗီတမန်တော်မြတ်ထံမှ ခွင့်ပန်လျက် ရှိကြကုန်၏။ စင်စစ်သော်ကား ယင်းအိမ်များမှာ လုံခြုံမှုကင်းမဲ့စွာ ရှိနေကြသည်မဟုတ်ပေ။ ၎င်းတို့မူကား ထွက်ပြေးရန်သာ ကြံရွယ်နေကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

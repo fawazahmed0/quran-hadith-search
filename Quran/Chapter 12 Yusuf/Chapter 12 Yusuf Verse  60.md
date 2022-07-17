@@ -710,6 +710,12 @@ Ako ne mi go dovedete, ne shte merite poveche pri men i ne shte me doblizhite.�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆ဝ။	သင်တို့သည် သူ့ကို မယူခဲ့လျှင် အကျွနု်ပ်ထံမှ ရိက္ခာဝယ်၍ ရမည်မဟုတ်။ အကျွနု်ပ်ကို ချဉ်းကပ်ရမည်လည်း မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အကယ်၍သာ အသင်တို့သည်ထိုညီတော်အား ကျွန်ုပ်ထံသို့ ခေါ်ဆောင်ခြင်းမပြုခဲ့ ကြပါလျှင်အသင်တို့အဖို့ ကျွန်ုပ်ထံတွင် ခြင်တွယ်ခြင်းအလျဉ်း ရှိလိမ့်မည်မဟုတ်ပေ။ အသင်တို့သည် ကျွန်ုပ်ထံလည်း မချဉ်းကပ်ကြကုန်လင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

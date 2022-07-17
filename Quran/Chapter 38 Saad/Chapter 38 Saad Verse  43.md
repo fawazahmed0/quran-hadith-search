@@ -710,6 +710,12 @@ I mu darikhme [otnovo] negovoto semeĭstvo, i oshte tolkova zaedno s tyakh - mi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	ထို့အပြင်ငါသည် မိမိ၏ မဟာဂရုဏာတော်ဖြင့် တမန်တော်အိုင်ယူး(ဘ်)အား ၎င်း၏ အိမ်သူအိမ်သားကိုသော် လည်းကောင်း၊ သူတို့နှင့်တူသူများကိုသော်လည်းကောင်း၊ ပေးသနားတော်မူ၏၊ ယင်းသို့ပေးသနားတော်မူခြင်း ကား ငါ့ထံမှ ကောင်းကြီးမင်္ဂလာတော်ဖြစ်၏၊ အသိဉာာဏ်ရှိသူတို့အဖို့ အမှတ်သညာလည်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ငါအရှင်မြတ်သည် မိမိအထံတော်မှ ကရုဏာတော်ဖြင့်လည်းကောင်း၊ အသိဉာဏ်ရှိသူတို့ သတိရစေခြင်းငှာလည်းကောင်း၊ ထို "အိုက်ယူဗ်" အား ၎င်း၏ အိမ်သူအိမ်သားတို့ကို ချီးမြှင့်တော်မူသည့်အပြင် ထိုအိမ်သူအိမ်သားတို့နှင့် အညီအမျှ(ဖြစ်သောဦးရေ)ကိုလည်း ၎င်းတို့နှင့်အတူ (ထပ်လောင်း၍) ချီးမြှင့်ပေးသနားတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

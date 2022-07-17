@@ -710,6 +710,12 @@ Tova e praviyat pŭt na tvoya Gospod. Veche razyasnikhme znameniyata na khora, k
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၆။	ဤလမ်းသည် သင့်ကျေးဇူးတော်သခင်၏ ဖြောင့်မတ်မှန်ကန်သောလမ်းတော်ကြီးဖြစ်၏။ ငါသည် ငါ၏ နှုတ်ကပတ်တော်များကို သတိတရားရှိသူတို့အဖို့ ချပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ်သော်ကား ဤ(အစ္စလာမ်သာသနာ တော်) သည်သာလျှင် အသင့်အား မွေးမြူ တော်မူသောအရှင်မြတ်၏ ဖြောင့်မတ်မှန်ကန် သောတရားလမ်းပင် ဖြစ်ချေသည်။ မုချဧကန် ငါအရှင်မြတ်သည်(မိမိ)သက်သေလက္ခဏာတော်များကို နာခံသောသူတို့ အကျိုးငှာ အသေးစိတ် လင်းပြတော်မူပြီး ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

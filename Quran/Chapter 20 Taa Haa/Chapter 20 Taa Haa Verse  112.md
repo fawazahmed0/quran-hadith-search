@@ -710,6 +710,12 @@ A koĭto vŭrshi pravedni dela i e vyarvasht, ne shte se strakhuva nito ot ugne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၂။	သို့သော်အကြင်သူသည် ယုံကြည်သူဖြစ်၍ သုစရိုက်ကောင်းမှုအချို့ကို ပြုလုပ်ခဲ့၏။ ထိုသူသည် မိမိဆုလာဘ်နှင့် ပတ်သက်၍ မတရားတွန့်တိုမှုများကို မစိုးရိမ်မကြောက်ကြရချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကြင်သူသည်ကောင်းမြတ်သောအကျင့်သီလများကို ကျင့်မူဆောက်တည်ရုံမျှမက ထိုသူသည်မုအ်မင်န် သက်ဝင်ယုံကြည်သူလည်းဖြစ်ခဲ့မူ၊ ထိုသူကား မတရားမှုကိုလည်းကောင်း၊ လျော့နည်းစေခြင်းကိုလည်းကောင်း၊စိုးရိမ်ရမည် မဟုတ်ချေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

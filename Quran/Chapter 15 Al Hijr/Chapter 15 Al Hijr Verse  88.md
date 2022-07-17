@@ -710,6 +710,12 @@ Ne ustremyavaĭ pogled kŭm onova, koeto dadokhme za naslada na grupi ot tyakh,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၈။	ငါက မိစ္ဆာဒိဋ္ဌိတို့အနက် စုံတွဲများအား ပေးသနားတော်မူသောလောကီစည်းစိမ်ကို သင်တမန်တော်၊ တပ်မက် မောခြင်းနှင့်မကြည့်လင့်၊ သူတို့အတွက်ကြောင့်လည်း ပူဆွေးခြင်းမရှိလင့်။ သို့သော်ယုံကြည်သူတို့ကို သနား ကြင်နာယုယလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် ယင်း(ကာဖိရ်)တို့အနက်မှ၊အမျိုးမျိုးအစားစားတို့အား အကျိုးခံစားခွင့်ပေးတော် မူသောဥစ္စာပစ္စည်းများဘက်သို့(မိမိ၏မျက်စိအစုံဖြင့်မော်၍ပင်၏မကြည့်ပါလေနှင့်)။ မိမိမျက်စိနှစ်လုံးကိုလှည့်၍ပင် အသင် မကြည့်ပါလေနှင့်။ ထိုမှတစ်ပါး အသင်သည် ၎င်းတို့နှင့်ပတ်သက်၍ဝမ်းနည်းပူဆွေး ခြင်းကိုလည်း မပြုပါလေနှင့်။ ထိုပြင် အသင်သည် မိမိပခုံးကို မုအ်မင်န်သက်ဝင်ယုံကြည်သူတို့အဖို့ နှိမ့်ချပါလေ၊ (ဝါ-၎င်းတို့အား သနားကြင်နာပါလေ)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

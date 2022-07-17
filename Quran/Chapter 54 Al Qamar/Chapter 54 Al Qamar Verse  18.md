@@ -710,6 +710,12 @@ I aditite otrichakha. I kakvo be Moeto mŭchenie i Moeto preduprezhdenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။ အားဒ်လူတို့သည် အဆုံးအမဒေသနာတော်များကို လက်မခံကြ၊ ငါသတိပေးဆုံးမသွန်သင်တော်မူပြီးသည့်နောက် ငါ၏ အပြစ်ဒဏ်သည် မည်ရွေ့မည်မျှကြောက်မက်ဖွယ်ကောင်းသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘အာဒ်’ အမျိုးသားတို့သည်လည်း မဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ်ခဲ့ပေရာ ငါအရှင်မြတ်၏ ပြစ်ဒဏ်နှင့် ငါအရှင်မြတ်၏ သတိပေး နှိုးဆော်မှုများသည် မည်သို့ရှိခဲ့ပေသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

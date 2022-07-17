@@ -710,6 +710,12 @@ Kak shte sa se pouchili, kogato pri tyakh doĭde yaven Pratenik
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	စင်စစ်မှာ သူတို့သည် အဘယ်မှာလျှင် တရားတော်ကို သတိရကြမည်နည်း၊ အမှန်ကိုဆိုသော် တရားတော်ကို ရှင်းလင်းဟောပြောသောတမန်တော်သည် သူတို့ထံ၌ ပွင့်လာခဲ့ပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့အဖို့ သတိရခြင်းသည် အဘယ်မှာလျှင်ရှိတော့သနည်း။ အမှန်စင်စစ်သော်ကား ၎င်းတို့ထံ ရစူလ်တမန်တော်သည် ထင်ရှားစွာသော(သက်သေ လက္ခဏာများနှင့်တကွ)ဧကန်အမှန် ရောက်ရှိ၍လာခဲ့ချေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

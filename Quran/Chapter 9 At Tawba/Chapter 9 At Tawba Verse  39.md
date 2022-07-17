@@ -710,6 +710,12 @@ Ako ne se ustremite kŭm bitka, shte vi nakazhe Toĭ s bolezneno mŭchenie i sh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	သင်တို့သည် စစ်ချီထွက်သွားခြင်းမပြုလုပ်ကြလျှင် အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အား ကြီးလေးသောအပြစ် ဒဏ်ပေးတော်မူ၍၊ သင်တို့အစား အခြားအမျိုးသားတို့ကို ရွေးကောက်တော်မူလိမ့်မည်။သင်တို့သည် အရှင် မြတ်ကို နစ်နာအောင် လုံးဝမပြုစွမ်းနိုင်ပေ။အလ္လာဟ်အရှင်မြတ်သည် အရာရာကို ပြုစွမ်းနိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍ အသင်တို့သည် (အလ္လာဟ်အရှင်မြတ်၏လမ်းတော်၌ စစ်မက်ပြိုင်ဆိုင် တိုက်ခိုက်ရန်) မထွက်ကြပါလျှင်၊ ထိုအရှင်မြတ်သည် အသင်တို့အား နာကျင်ဖွယ်ဖြစ်သောပြစ်ဒဏ်ကို ပေးတော်မူအံ့။ ထိုမှတစ်ပါးလည်း ထိုအရှင်မြတ်သည် အသင်တို့အစား အခြားလူမျိုးတစ်မျိုးကိုလဲလှယ်(ဖန်ဆင်း)တော်မူအံ့။ ထို့ပြင် အသင်တို့သည် ထိုအရှင်မြတ်အား အနည်းငယ်စိုးစဉ်းမျှလည်း အကျိုးယုတ်စေနိုင်ကြမည် မဟုတ်ပေ။ စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ် သည်အရာခပ်သိမ်းတို့ကို ပြုစွမ်းနိုင်တော်မူသော အရှင်မြတ် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Trŭgnete kŭm syankata [na Ada] s tri razkloneniya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၀။ နင်တို့သည် မီးခိုးတိုင်ကြီးသုံးတိုင်၏ အရိပ်ထဲသို့ ဝင်ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် အကိုင်းသုံးကိုင်း ခွဲထွက်သော အရိပ်ဆာယာ(အောက်)သို့ လျှောက်သွားကြလေကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

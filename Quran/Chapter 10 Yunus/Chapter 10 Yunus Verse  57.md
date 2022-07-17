@@ -710,6 +710,12 @@ O, khora, pri vas doĭde pouchenie ot vashiya Gospod i iztselenie na onova, koe
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၇။	အို-လူသားအပေါင်းတို့၊ သင်တို့၏ အရှင်သခင်၏ အထံတော်မှ သင်တို့ထံသို့ အဆုံးအမတော်ကျရောက်လာပြီ။ ဤကျမ်းတော်ကြီးသည် သင်တို့၏ စိတ်နှလုံးအတွင်းရှိ ဝေဒနာအတွက် ဆေးတော်တစ်ဖုံဖြစ်၏။ လမ်းပြကျမ်း တော်ကြီးတစ်စောင်လည်းဖြစ်၏။ ယုံကြည်သူတို့အဖို့ ကောင်းကြီးမင်္ဂလာတော်တစ်ပါးလည်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-လူအပေါင်းတို့ မုချဧကန် အသင်တို့ထံသို့အသင်တို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ် အထံတော်မှ ဆုံးမဩဝါဒတော်သည်လည်းကောင်း၊ ရင်များတွင်ရှိသော(ဝေဒနာများ)ကို ပျောက်ကင်းစေသော ဆေးသည်လည်းကောင်း၊ မုအ်မင်န် သက်ဝင်ယုံကြည်သူတို့အဖို့ တရားပြလမ်းညွှန်ခြင်းသည် လည်းကောင်း၊ ကရုဏာတော်သည်လည်းကောင်း ရောက်ရှိလာခဲ့လေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

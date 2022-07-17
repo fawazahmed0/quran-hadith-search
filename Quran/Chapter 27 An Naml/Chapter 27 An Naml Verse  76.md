@@ -710,6 +710,12 @@ Tozi Koran razkazva na sinovete na Israil za povecheto ot onova, po koeto sa v r
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၆။	မှတ်သားကြလော့၊ ဤကျမ်းမြတ်ကုရ်အာန်သည် အစ္စရာအီလ်အမျိုးသားတို့အား မိမိတို့အချင်းချင်းကွဲပြား နေသောပြဿနာအရပ်ရပ်ကို တင်ပြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ဤကုရ်အာန်ကျမ်းမြတ်သည် အီစ်ရာအီလီအမျိုးသားတို့ရှေ့ဝယ်၊ ၎င်းတို့ ကွဲလွဲနေကြကုန်သော အကြောင်းအရာများအနက်မှ များစွာသော အကြောင်းအရာများကို ဖော်ပြလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

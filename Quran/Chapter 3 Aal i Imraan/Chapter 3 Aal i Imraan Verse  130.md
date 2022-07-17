@@ -710,6 +710,12 @@ O, vyarvashti, ne izyazhdaĭte likhvata, mnogokratno umnozhena, i boĭte se ot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃ဝ။	အို-ယုံကြည်သူတို့ သင်တို့သည် ငွေရင်းနှစ်ဆ လေးဆဖြစ်အောင် အတိုးငွေကို မစားကြလင့်။ သင်တို့သည် အောင်မြင်စေခြင်းငှား အလ္လာဟ်အသျှင်မြတ်၏ အမှုတော်ကို ထမ်းဆောင်ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို- မုအ်မင်န် ယုံကြည်ခြင်းသဒ္ဓါတရား ထားရှိသူအပေါင်းတို့။ အသင်တို့သည် ဆထက်တိုးပြီးဖြစ်သော၊ဆပေါင်းများစွာသော အတိုးအညွန့်ကို မစားကြကုန်လင့်။4င်းပြင် အသင်တို့ သည် အလ္လာဟ်အရှင်မြတ်ကို ကြောက်ရွံ့ကြလေ ကုန်၊ သို့မှသာလျှင် အသင်တို့သည် အောင်မြင်ကြ ကုန်အံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

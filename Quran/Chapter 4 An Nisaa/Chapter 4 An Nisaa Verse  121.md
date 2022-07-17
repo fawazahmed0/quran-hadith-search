@@ -710,6 +710,12 @@ Na tezi myastoto im e Adŭt i ne shte nameryat izbavlenie ot nego
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၁။	ဤသူများအတွက် သူတို့၏နေရာထိုင်ခင်းသည် ငရဲဖြစ်လိမ့်မည်။ သူတို့သည် ထိုငရဲမှ လွတ်ပေါက် တစ်စုံတစ်ရာ တွေ့မည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူများကား၊ ဤသူများပင်တည်း၊ ယင်းသူတို့၏ခိုလှုံရာဌာနကား ‘ဂျဟန္နမ်’ ငရဲဘုံဖြစ်၏။ ၎င်းပြင် ယင်းသူတို့သည် ထိုငရဲဘုံမှ ထွက်ပြေးလွတ်မြောက်ရာ တစ်စုံတစ်ရာဌာနကိုလည်း ရရှိကြမည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ DHUKU FITNETEKUM HADHAL-LEDHI KUNTUM BIHI TESTA’XHILUNE
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	ထိုသူမိုက်တို့အား သင်တို့သည် မိမိကိုယ်ကို မိမိနှိပ်စက်ညှင်းပန်းခြင်း၏ အရသာကို မြည်းကြလော့၊ ဤပြစ်ဒဏ် တော်သည် သင်တို့အလျင်စလိုတောင်းကြသောဒဏ်တော်ဖြစ်၏ဟု မိန့်တော်မူလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုနေ့တွင် ၎င်းတို့မှာ)အသင်တို့သည် မိမိတို့၏ ပြစ်ဒဏ်၏ရသာကို မြည်းစမ်းကြလေကုန်။ ဤသည်ပင်လျှင် အသင်တို့ အလျင်စလို တောင်းဆိုခဲ့ကြသောနေ့ ဖြစ်သည်။ (ဟုပြောဆိုခြင်းကို ခံကြရကုန် အံ့သတည်း။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

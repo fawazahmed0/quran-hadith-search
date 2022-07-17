@@ -710,6 +710,12 @@ Kazhi: “Vizhdate li? Dori Allakh da pogubi men i tezi s men, ili da ni poshtad
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။ အို-တမန်တော်၊ ဟောပြောလော့၊ အို-သူယုတ်မာတို့၊ သင်တို့စဉ်းစားပြီးပြီလော၊ အလ္လာဟ်အရှင်မြတ်သည် အကျွနု်ပ်နှင့် အကျွနု်ပ်၏ အဖော်အပေါင်းတို့ကို ဖျက်ဆီးတော်မူသည်ဖြစ်စေ၊ ကောင်းကြီးမင်္ဂလာပေးသနား တော်မူသည်ဖြစ်စေ၊ မိစ္ဆာဒိဋ္ဌိတို့အား အလွန်ပြင်းပြနာကျင်ဖွယ်သောအပြစ်ဒဏ်တော်မှ အဘယ်သူသည် ကယ် နှုတ်လိမ့်မည်နည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ပြောကြားပါလေ။ (အချင်းတို့) အကယ်၍သာ အလ္လာဟ်အရှင်မြတ်သည် ငါ့အားလည်းကောင်း၊ ငါနှင့်အတူရှိသူတို့အားလည်းကောင်း၊ ဖျက်ဆီးတော်မူခဲ့ပါလျှင် သို့မဟုတ် ထိုအရှင်မြတ်သည် ငါတို့အား သနားကရုဏာပြုတော်မူခဲ့ပါလျှင် "ကာဖိရ်" သွေဖည်ငြင်းပယ်သောသူတို့အား နာကျင်ဖွယ်ဖြစ်သော ပြစ်ဒဏ်မှ မည်သူ ကာကွယ်စောင့်ရှောက်မည်နည်း။ အသင်တို့သည်(ငါ့အား) ပြောပြကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

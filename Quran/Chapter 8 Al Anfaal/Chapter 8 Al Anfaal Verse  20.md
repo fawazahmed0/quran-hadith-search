@@ -710,6 +710,12 @@ O, vyarvashti, pokoryavaĭte se na Allakh i na Negoviya Pratenik, i ne se otmya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	အို-ယုံကြည်သူအပေါင်းတို့ သင်တို့သည် အလ္လာဟ်အသျှင်မြတ်နှင့် အသျှင်မြတ်၏တမန်တော်ကို နာခံကြလော့။ သင်တို့သည် တမန်တော်သြဝါဒပေးသည်ကို ကြားရသောအခါ သူ့ထံမှ လှည့်မသွား ကြလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-မုအ်မင်န် သက်ဝင်ယုံကြည်သူ အပေါင်းတို့၊ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ အမိန့် တော်များကိုလည်းကောင်း၊ ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော်၏အမိန့်တော်များကိုလည်းကောင်း၊ လိုက်နာကြလေကုန်။ ၎င်းပြင်အသင်တို့သည် ကြားသိလျက်နှင့် ထိုအမိန့်တော်(များ)မှ လွှဲဖယ်မသွားကြကုန်လင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

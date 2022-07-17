@@ -710,6 +710,12 @@ Tam ima dobrodetelni i prekrasni zheni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇ဝ။	ဤဥယျာဉ်တော်များ၌ အဆင်းရူပ လှပတင့်တယ် ချစ်ခင်ဖွယ်ကောင်းသောနတ်ကညာများရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်း(ဥယျာဉ်များနှင့် ဥယျာဉ်များရှိ အဆောက်အအုံ)တို့တွင် စာရိတ္တအားဖြင့် မွန်မြတ်သော၊ ရုပ်ရည်အားဖြင့် လှပတင့်တယ်သော မိန်းမများသည် ရှိကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Nevernitsite kazvat: “Zashto ne mu be nizposlano znamenie ot negoviya Gospod?�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	မယုံကြည်သူတို့က ရှင်မိုဟမ္မဒ်၏ အရှင်သခင်အထံတော်မှ သူ့အား သက်သေသာဓကတော်အချို့ကို ချပေးတော် မူပါလျှင် တော်လေစွဟု ဆိုကြ၏။ တမန်တော်၊ သင်သည် သတိပေးသူတစ်ဦးသာလျှင်ဖြစ်၏။ လူမျိုးတိုင်း အတွက် လမ်းညွှန်သူဓမ္မဆရာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် မယုံမကြည် သွေဖည်ငြင်းပယ် ကုန်သောသူတို့သည် ထို(နဗီတမန်တော်မုဟမ္မဒ်)၏ အပေါ်၌ ၎င်းအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်မှ တန်ခိုးပြာဋိဟာတစ်ရပ်ရပ်သည် အဘယ်ကြောင့် ကျရောက်ခဲ့သည်မရှိပါသနည်းဟူ၍လည်း ပြောဆိုကြသေး၏။ (စင်စစ်မှာမူကား) အသင်သည် သတိပေးနှိုးဆော်သူတစ်ဦးမျှသာဖြစ်ပေသည်။ ထိုနည်းတူစွာ လူမျိုးတိုင်းအဖို့ တရားလမ်းမှန်ကိုညွှန်ကြားပြသသူသည် ရှိချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

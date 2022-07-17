@@ -710,6 +710,12 @@ I reche Faraonŭt: “Ostavete me da ubiya Musa i neka zove svoya Gospod! Strakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	ထို့နောက်ဖွာရောမင်းက သူ၏ အသင်းသားများကို ပြောဆိုသည်မှာ အချင်းတို့၊ မူစာကို ငါကိုယ်တော်တိုင် သတ်မည်၊ ထိုအခါသူသည် သူ၏ အသင်သခင်ကျေးဇူးရှင်ကို ခေါ်ပါစေ၊ သူသည် သင်တို့၏ မိရိုးဖလာကိုးကွယ် လာသောအယူဝါဒကို ပြောင်းလွဲမည်၊ သို့မဟုတ် ငါ့တိုင်းပြည်မြို့ရွာ ဗရုန်းဗရင်းဖြစ်မည်ကို ငါစိုးရိမ်၏ဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး "ဖစ်ရ်အောင်န်"သည်(ဤသို့) ပြောဆိုခဲ့လေ၏။ "အသင်တို့သည့် ငါ့အား မတားဆီး ကြကုန်လင့်။ငါသည် မူစာအား သတ်ဖြတ်မည်။ ထို့ပြင် ထိုမူစာသည် ၎င်းကို ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အား ဟစ်ခေါ်ပါစေ"။[(တစ်နည်း) "အသင်တို့သည် ငါ့အား မူစာကို သတ်ဖြတ်ခြင်းမှ မတားဆီးကြကုန်လင့်၊ ထိုမူစာအားလည်း ၎င်း၏အရှင်မြတ်အား ဟစ်ခေါ်(အကူအညီတောင်းခံ)ပါစေ"၊] အမှန်စင်စစ်သော်ကား ထိုမူစာသည် အသင်တို့၏သာသနာကို ပြောင်းလဲ(ဖျက်ဆီး)ပစ်မည်ကိုသော်လည်းကောင်း၊ တိုင်းပြည်၌ ပျက်စီးရာပျက်စီးကြောင်းကို ဖြစ်ပေါ်စေမည်ကိုသော်လည်းကောင်း၊ ငါသည်စိုးရိမ်မိ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

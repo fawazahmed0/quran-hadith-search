@@ -710,6 +710,12 @@ Kazakha: “Vse ni e edno dali propovyadvash, ili ne si ot propovednitsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၆။	ထိုသူတို့က သင်သည် အကျွနု်ပ်တို့အတွက် တရားဟောသည်ဖြစ်စေ၊ မဟောသည်ဖြစ်စေ အကျိုးမထူးတော့ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအမျိုးသားတို့က ပြောဆိုခဲ့ကြကုန်၏။ (အို-ဟူဒ်၊) အသင်သည် ဆုံးမသည်ဖြစ်စေ၊ ဆုံးမခြင်း မပြုသည်ဖြစ်စေ၊ ကျွန်ုပ်တို့အဖို့ အကြောင်းမထူးပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

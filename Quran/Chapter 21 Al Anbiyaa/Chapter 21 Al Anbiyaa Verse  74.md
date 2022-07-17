@@ -710,6 +710,12 @@ I na Lut dadokhme mŭdrost i znanie, i go spasikhme ot selishteto, koeto vŭrshe
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၄။	ငါသည် တမန်တော်လွတ်အား ပိုင်းခြားဝေဖန်တတ်သောဉာာဏ်၊ သိတတ်သောဉာာဏ်ကို ပေးသနားတော်မူ၏၊ ထို့အပြင်ငါသည် သူ့အား ရှက်ကြောက်ရွံရှာဖွယ်ရာသောအကျင့်ယုတ်အကျင့်ဆိုးများကို ကျူးလွန်သောအသင်း သားများသည် ဒုစရိုက်မကောင်းမှုနှင့် ကာမသုမိစ္ဆာစာရကို ပြုကျင့်သူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် လူ(တ်)အားဆင်ခြင်တုံတရားကိုလည်းကောင်း၊ အသိပညာကိုလည်းကောင်း ချီးမြှင့်ပေးသနားတော်မူခဲ့၏။ ၄င်းအပြင် ငါအရှင်မြတ်သည် ထိုလူ(တ်)အား အကြင်မြို့ရွာမှ ကယ်တင်တော်မူခဲ့၏။ ယင်းမြို့(သူ)၊ ရွာ(သားတို့)သည် စက်ဆုပ်ရွံ့ရှာဖွယ်များကို ကျူးလွန်လျက်ရှိခဲ့ကြကုန်၏။ ဧကန်မလွဲ ၎င်းတို့သည် အလွန်ယုတ်မာသော အမျိုးသားများ၊ကာမဂုဏ် လိုက်စား ကျူးလွန်သောသူများပင် ဖြစ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

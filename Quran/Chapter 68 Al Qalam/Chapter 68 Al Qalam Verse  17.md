@@ -710,6 +710,12 @@ Izpitakhme gi, kakto izpitakhme i stopanite na gradinata, kogato se zaklekha [ta
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။ ငါသည် အထက်ကျော်ကာလက ဥယျာဉ်ရှင်များကို စုံစမ်းတော်မူသည့်နည်းအတိုင်း သူတို့ကို စမ်းသပ်တော်မူ၏၊ ထိုဥယျာဉ်ရှင်တို့သည် နံနက်မိုးသောက်ရောက်လတ်သော်၊ ထိုဥယျာဉ်မှ အသီးအနှံများကို မုချဧကန်ဆွတ်ခူး ယူအံ့ဟု အဓိဋ္ဌာန်ပြုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ငါအရှင်မြတ်သည် ဥယျာဉ်ရှင်များအား စမ်းသပ်တော်မူဘိသကဲ့သို့ပင်၊ ၎င်းတို့အား စမ်းသပ်တော်မူခဲ့၏။ တစ်ရံရောအခါဝယ် ထိုဥယျာဉ်ရှင်တို့က မလွဲဧကန် ၎င်းတို့သည် နံနက်စောစောသွားကြလျက် ယင်းဥယျာဉ်၏အသီးများကို ဆွတ်ခူးကြမည်ဟု ကျိန်ဆိုခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

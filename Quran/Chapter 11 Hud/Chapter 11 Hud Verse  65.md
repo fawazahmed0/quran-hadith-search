@@ -710,6 +710,12 @@ No ya zaklakha i toĭ kaza: “Naslazhdavaĭte se v svoya dom tri dena! Tova n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၅။	သို့သော်သူတို့သည် ကုလားအုပ်မ၏ ဒူးခေါက်ကြောကို ခုတ်ဖြတ်ကြ၏။ ထိုအခါတမန်တော်ဆွာလေ(ဟ်)က သူတို့အား သင်တို့သည် မိမိတို့အိမ်များ၌ သုံးရက်သာအသက်ရှင်နေရကြလော့။ ဤခြိမ်းခြောက်ချက်သည် မုသားစကားဖြစ်လိမ့်မည်။ မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့(သတိပေးခဲ့)ပါလျက် ၎င်းတို့သည် ယင်းကုလားအုတ်မ၏ခြေများကို ဖြတ်တောက်ခဲ့ကြလေသည်။ ထိုအခါထို(နဗီတမန်တော်)ဆွာလိဟ်သည် (၎င်းတို့အား ဤသို့)ပြောကြားခဲ့လေသည်။ (ဟယ်အချင်းတို့) အသင်တို့သည် သုံးရက်မျှတိုင်အောင် မိမိတို့၏နေအိမ်များတွင် စည်းစိမ်ခံ၍နေ ထိုင်ကြဦးလော့။ (ထို့နောက်တွင် ပြစ်ဒဏ်သက်ရောက်တော်မူမည်)။ဤသည်မုသားမဟုတ်၊ (ပကတိမှန်ကန်)သော ချိန်းချက်ပင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

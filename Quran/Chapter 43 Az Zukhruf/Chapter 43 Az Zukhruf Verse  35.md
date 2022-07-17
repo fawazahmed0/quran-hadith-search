@@ -710,6 +710,12 @@ i ukrasa. No vsichko tova e samo nasladata na zemniya zhivot. A otvŭdniyat pri 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	သူတို့၏ ဆင်ယင်တန်ဆာနှင့် အိမ်ထောင်ပရိဘောဂများကိုလည်း ရွှေအတိဖြစ်စေတော်မူခဲ့လတ့ံ၊ သို့သော် ဤအဖိုးထိုက်တန်သောအရာဝထ္ထုအပေါင်းတို့သည် လောကီအသက်တခဏအတွက်သာဖြစ်လေ၏၊ အေ-တမန် တော်၊ သင်၏ အသက်သခင်ကျေးဇူးရှင်ကြီး၏ မျက်မှောက်ရှိ နောင်ဘဝမှာမူကား အကုသိုလ်မှုကို ရှောင်သော သူတော်ကောင်းတို့အဖို့သာ ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး (ယင်းပစ္စည်းများကို) ရွှေဖြင့်လည်း(ပြုလုပ်၍ပေးတော်မူခဲ့ပေမည်၊) သို့ရာတွင် ထို(ပစ္စည်း) အလုံးစုံတို့မှာ မျက်မှောက်လောကီဘဝ၏ အသုံးအဆောင်မျှသာလျှင် ဖြစ်ကုန်၏။ အမှန်စင်စစ်သော်ကား "အာခိရတ်" တမလွန်ဘဝမှာ အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်၌ သူတော်စင်တို့အဖို့သာလျှင် ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ proslavyaĭ svoya Gospod s vŭzkhvala i Go moli za oproshtenie! Toĭ vinagi pr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။ သင်၏ အရှင်သခင်၏ ဂုဏ်ကျေးဇူးတော်ကို ရင့်ကျူးလော့၊ အရှင်မြတ်၏ အပြစ်လွှတ်ခြင်းကျေးဇူးတော်ကို ရှာမှီးလော့၊ မှတ်သားလော့၊ အရှင်မြတ်သည် ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူရန် အစဉ်အမြဲအသင့်ရှိ နေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) အသင်သည် မိမိအား ဖန်ဆင်း မွေးမြူတော်မူသော အရှင်မြတ်ကို ချီးမွမ်းထောပနာပြုခြင်းအားဖြင့် (ထိုအရှင်မြတ်) စင်ကြယ်သန့်ရှင်း တော်မူကြောင်းမြွက်ဆိုပါလေ။ ထိုမှတပါး အသင်သည် ထိုအရှင်မြတ်အထံတော်၌ လွတ်ငြိမ်းချမ်းသာခွင့်ကို ပန်ကြားအသနားခံပါလေ။ ဧကန်မလွဲ ထို အရှင်မြတ်သည် ဝန်ချ တောင်းပန်မှုကို အလွန်တရာ လက်ခံတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

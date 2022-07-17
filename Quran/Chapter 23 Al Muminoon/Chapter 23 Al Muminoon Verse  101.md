@@ -710,6 +710,12 @@ I kogato se protrŭbi s Roga, togava ne shte ima rodstvo mezhdu tyakh i ne shte 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၁။	၎င်းအပြင်တံပိုးကြီးကို မှုတ်လိုက်သောအခါ ထိုနေ့တော်ကြီး၌ သူတို့အထဲတွင် တစ်ဦးနှင့်တစ်ဦးဆွေမျိုးတော်စပ် ခြင်းသော်လည်းကောင်း၊ တစ်ဦးနှင့်တစ်ဦးစကားစမြည်မေးမြန်းပြောဆိုခြင်းသည်လည်းကောင်း အလျဉ်းမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် တံပိုးမှုတ်သောအခါ ၎င်းတို့ အချင်းချင်းတွင် သွေးတော်စပ်ခြင်းများလည်း အလျှင်းရှိလိမ့်မည် မဟုတ်ပေ။ အချင်းချင်း တစ်ဦးကိုတစ်ဦး မေးမြန်းကြမည်လည်း မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

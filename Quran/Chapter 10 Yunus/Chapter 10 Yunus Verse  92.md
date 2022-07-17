@@ -710,6 +710,12 @@ Dnes spasyavame tvoeto tyalo, za da bŭdesh znamenie za onezi sled teb. Ala mnoz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၂။	သို့သော် နင်သည် နောင်လာနောက်သားတို့အဖို့ သက်သေသာဓကတော်တစ်ပါးဖြစ်စေရန်၊ နင်၏ ကိုယ်ကာယကို ငါအရှင်မြတ်ယခုကယ်ဆယ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ငါအရှင်မြတ်သည် အသင့်အားအသင်၏ခန္ဓာကိုယ် ရုပ်ကလာပ်နှင့်တကွ အသင်သည် မိမိနောင်လာနောက်သားတို့အဖို့ အထိမ်းအမှတ်၊ လက္ခဏာ၊သံဝေဂရဖွယ်တစ်ရပ် ဖြစ်အံ့သောငှာ ဆယ်တင်ထားတော်မူမည်။ သို့ရာတွင် များစွာသော သူတို့သည် ငါအရှင်မြတ်၏သက်သေ၊ လက္ခဏာတော်များကို လျစ်လျူရှု မေ့ပျောက်၍သွားသောသူများသာ ဖြစ်ကြပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

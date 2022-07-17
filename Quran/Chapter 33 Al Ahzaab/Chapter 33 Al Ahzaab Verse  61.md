@@ -710,6 +710,12 @@ prokŭlnati. Kŭdeto i da bŭdat namereni te, shte bŭdat sgrabcheni i napŭlno 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၁။	ထိုသူတို့သည် အလ္လာဟ်အရှင်မြတ်၏ ကျိန်ဆဲခြင်းကို ခံကြရလတ့ံ၊ တွေ့ရာအရပ်မှာ ဖမ်းဆီးခြင်းခံကြရလတ့ံ၊ အပြင်းအထန်သတ်ဖြတ်ခြင်းကို ခံကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ယင်းကဲ့သို့ အနည်းငယ်မျှသော ကာလတိုင်အောင် နေပင်နေကြရငြားသော်လည်း ၎င်းတို့မှာ) ကရုဏာတော်မှကင်းဝေးစေခြင်း ခံကြရသူများအဖြစ် (နေကြရသည့်ပြင်) မည်သည့်နေရာ၌မဆို တွေ့ရှိခဲ့ ကြရလျှင် ၎င်းတို့သည်ဖမ်းဆီးခြင်းခံကြရပေမည်။ ထို့ပြင် ၎င်းတို့သည် ပြင်းထန်စွာသတ်ဖြတ်ခြင်းကို ခံကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

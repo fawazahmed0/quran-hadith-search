@@ -710,6 +710,12 @@ Kazhi: “Moyat Gospod porazyava s istinata, Toĭ e Vseznaeshtiya taĭnite.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	တမန်တော်၊ သင်ဟောကြားလော့၊ မှတ်သားကြလော့၊ ငါ၏ ကျေးဇူးတော်သခင်သည် တရားမှန်တရာစစ်ကို ထုတ်ပြန်ပို့ချပေးသနားတော်မူ၏၊ အလ္လာဟ်အရှင်မြတ်သည် လျှို့ဝှက်နက်နဲသောအရာအပေါင်းတို့ကို အကြွင်းမဲ့ သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ပြောကြားပါဦးလေ။ (အချင်းတို့) ဧကန်မလွဲ ငါ့အား ဖန်ဆင်း မွေးမြူတော်မူသောအရှင်မြတ်သည် (အမှားကို)အမှန် တရားဖြင့် နှိမ်နင်းတော်မူ၏။ (ထိုအရှင်မြတ်သည်)အကွယ်၌ရှိသမျှတို့ကို ကောင်းစွာသိရှိတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

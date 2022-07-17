@@ -710,6 +710,12 @@ I imashe v grada devetima, koito seekha razvala po zemyata i ne se popravyakha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	ထို့အပြင်သူတို့၏နေရာမြို့တော်၌ လူကိုးယောက်ရှိ၏၊ သူတို့သည် မြေပေါ်၌ တရားလက်လွတ်မှုကို ပွားများစေ၍ မိမိကိုယ်ကို မပြုပြင်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် မြို့တွင်း၌ ယောက်ျားကိုးယောက် ရှိခဲ့ကြရာ၊ ၎င်းတို့သည် တိုင်းပြည်ကို (စည်ကားသာယာအောင်) ပြုပြင်ကြခြင်းမရှိဘဲ၊ ဖျက်ဆီးမှုကိုသာ ပြုလုပ်လျက်ရှိ ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

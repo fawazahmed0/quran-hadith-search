@@ -710,6 +710,12 @@ V tova ima pouchenie za vseki bogoboyazliv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။ စင်စစ်အားဖြင့် ဤဂာဇဝင်၌ ကြောက်ရွံ့သူတို့အတွက် သင်ခန်းစာတစ်ပါးအမှန်ပင်ပါရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ထို(အကြောင်းအတ္တုပ္ပတ္တိ)၌(အလ္လာဟ်အရှင်မြတ်အား) ကြောက်ရွံ့ရိုသေသောသူ အဖို့သတိပေး နှိုးဆော်ချက်သည် အမှန်ပင် ရှိပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

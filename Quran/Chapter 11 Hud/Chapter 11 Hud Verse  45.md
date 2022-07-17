@@ -710,6 +710,12 @@ I pozova Nukh svoya Gospod, i reche: “Gospodi, sinŭt mi e ot moeto semeĭstv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	ထိုအခါတမန်တော်နူဟိုသည် မိမိ၏ အရှင်သခင်ထံတော်၌ အို-အကျွနု်ပ်၏ ကျေးဇူးတော်သခင်၊ အကျွနု်ပ်၏ သားသည် အကျွနု်ပ်၏ အိမ်သူအိမ်သားတို့အထဲက အမှန်ဖြစ်ပါ၏။ အရှင်၏ ကတိများ၊ ဗျာဒိတ်တော်သည် မုချဧကန်မှန်ပါ၏။ အရှင်သည် တရားသူကြီးအပေါင်းတို့တွင် ဖြောင့်မတ်မှန်ကန်ဆုံးဖြစ်တော်မူပါ၏ဟု ငိုကြွေး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် (နဗီတမန်တော်) နူဟ်သည် မိမိ အရှင်မြတ်အား ဟစ်ခေါ်၍(ဤသို့)လျှောက်ထား ပန်ကြားခဲ့လေသည်။ အို-ကျွန်တော်မျိုး၏အရှင်မြတ် ဧကန်အမှန် ကျွန်တော်တော်မျိုး၏သားသည် ကျွန်တော်မျိုး၏ အိမ်သားတို့အနက်မှဖြစ်ပါသည်။ ၎င်းပြင် အရှင်မြတ်၏ပဋိညာဉ်တော်သည်လည်းလုံးဝမှန်ကန်ပါ၏။ စင်စစ်သော်ကား အရှင်မြတ်သည်စီရင်ဆုံး ဖြတ်သူတို့တွင် သမာသမတ်အဖြစ်ဆုံးသောအရှင် မြတ်ပင်ဖြစ်တော်မူပါသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

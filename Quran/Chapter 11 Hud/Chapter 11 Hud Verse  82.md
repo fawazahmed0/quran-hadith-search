@@ -710,6 +710,12 @@ I kogato Nashata povelya doĭde, preobŭrnakhme [selishteto] nadolu i izsipakhm
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၂။	ထို့ကြောင့်ငါအရှင်မြတ်၏ အမိန့်တော်ကျရောက်လာသောအခါ ငါသည် သူတို့၏ မြို့နယ်ပယ်ကို ဖျက်ဆီးတော် မူ၏။ ထိုဒေသအပေါ်သို့ ရွှံ့စေးခဲမိုးကို ရွာသွန်းစေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ငါအရှင်မြတ်၏အမိန့်တော်ရောက်ရှိလာသောအခါ ငါအရှင်မြတ်သည် ထိုမြို့ရွာကို အထက်အောက်(ပြောင်းပြန်)လှန်ပစ်တော်မူခဲ့လေသည်။ ထို့ပြင်ငါအရှင်မြတ်သည် မြို့ရွာပေါ်သို့ ရွှံ့၊ ကျောက်ခဲမိုးကို ရွာသွန်းချစေတော်မူခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

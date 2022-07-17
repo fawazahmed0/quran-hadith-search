@@ -710,6 +710,12 @@ I obŭrni svoeto litse kŭm religiyata - pravoveren, - kŭm prirodata, spored ko
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	တမန်တော်မိုဟမ္မဒ်၊ ဇာတိပကတိအားဖြင့် ဖြောင့်မတ်မှန်ကန်သကဲ့သို့ သင်သည် သာသနာရေးတွင် မိမိ၏ ရည်ရွယ်ချက်ကို ဖြောင့်မတ်စေလော့၊ အလ္လာဟ်အရှင်မြတ်သည် လူသားကို ဖန်ဆင်းတော်မူသောအခါ ရိုးသား ဖြောင့်မတ်ခြင်းစိတ်ဓာတ်ကို ထည့်သွင်းပေးသနားတော်မူ၏၊ အလ္လာဟ်အရှင်မြတ်၏ ဖန်ဆင်းခြင်းနှင့်သက်ဆိုင် သောပညတ်တော်များသည် တစ်စုံတစ်ရာပြောင်းလဲခြင်းမရှိ၊ ပကတိမြဲမြံစွာတည်ရှိ၏၊ ဤဖြောင့်မတ်မှန်ကန် စင်ကြယ်ခြင်းသဘောတရားသည် သာသနာအစစ်အမှန်ဖြစ်၏၊ သို့သော်များလှစွာသောလူသားတို့သည် မသိ ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်(လူသား)သည် လူသားတို့အား အလ္လာဟ်အရှင်မြတ် ဖန်ဆင်းတော်မူခဲ့သော သဘာဝဓမ္မနှင့်အညီ မိမိ၏မျက်နှာကို (မှန်ကန်သော) ဒီန်သာသနာအပေါ်၌ အာရုံစူးစိုက်လျက် ခိုင်ခံ့တည်တံ့စွာထားရှိလေ။ အလ္လာဟ်အရှင်မြတ်၏ ဖန်ဆင်းမှုတွင် မည်သည့်ပြောင်းလွဲမှုမျှ အလျှင်းမရှိပြီ။ ဤသည်ပင်လျှင် ဖြောင့်မတ်မှန်ကန်သော "ဒီန်" သာသနာဖြစ်၏။ သို့တစေလည်း အများဆုံးသော သူတို့မှာမူကား မသိနားမလည်ကြပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

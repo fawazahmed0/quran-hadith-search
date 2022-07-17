@@ -710,6 +710,12 @@ I Zakariya, i Yakhya, i Isa, i Ilyas - vsichki sa ot pravednitsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၅။	ထို့ပြင် ဇာကေရိယာ၊ ယ(ဟ်)ယာ၊ အီဆာ၊ အေ(လ်)ယာ(စ်)တို့ကိုလည်း လမ်းပြတော်မူ၏။ သူတို့ အားလုံးသည် အသျှင်မြတ်နှင့် တရားတော်ကို ကြည်ညိုသော သူတော်ကောင်းတို့ဘောင်တွင် ပါဝင်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်တဝ (ငါအရှင်မြတ်သည်)(တမန်တော်)ဇကရီယာ၊ (တမန်တော်)ယဟ်ယာ၊ (တမန်တော်)အီစာနှင့်(တမန်တော်)အစ်လ်ယာစ်၊ တို့အား(လည်း တရားလမ်းမှန်သို့ပို့ဆောင်တော်မူခဲ့၏။ ထိုနဗီတမန်တော်) အသီးသီးတို့သည်သူတော်စင်တို့ အနက်မှပင် ဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

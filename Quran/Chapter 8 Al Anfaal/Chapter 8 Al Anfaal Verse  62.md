@@ -710,6 +710,12 @@ I poiskat li da te izmamyat, Allakh ti e dostatŭchen. Toĭ e, Koĭto te podkr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	အကယ်၍ သူတို့သည် သင့်အား လိမ်လည်သစ္စာဖောက်လျှင် အလ္လာဟ်အသျှင်မြတ်သည် သင့်အဖို့ရာ လုံလောက်တော်မူသည်ကို မှတ်သားလော့။ အလ္လာဟ်အသျှင်မြတ်သည် သင့်အား မိမိ၏ အစောင့် အရှောက်တော်နှင့် ယုံကြည်သူတို့အားဖြင့် ကူညီထောက်ပံ့တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကယ်၍ ၎င်းတို့သည် အသင့်အားလိမ်လည်လှည့်ဖြားရန် ရည်စူးကြပါမူ ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အသင့်အဖို့ လုံလောက်တော်မူပေသည်။ ထိုအရှင်မြတ်သည်ပင်လျှင် အသင့်အား မိမိအကူအညီဖြင့်လည်းကောင်း၊ မုအ်မင်န် သက်ဝင်ယုံကြည်သူတို့ဖြင့်လည်းကောင်း၊အားပေးတော်မူခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

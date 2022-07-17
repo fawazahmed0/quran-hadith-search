@@ -710,6 +710,12 @@ Toĭ e, Koĭto stori za vas noshtta, za da pochivate v neya, i denya - svetŭl
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၇။	အရှင်မြတ်သည် သင်တို့အိပ်စက်အမောအပန်းဖြေဖို့ရာ ညဉ့်ကို၊ အလင်းရောင်ပေးဖို့ရာ နေ့တို့ကို ဖန်ဆင်းတော် မူ၏။ ညဉ့်နှင့်နေ့တွင် တရားတော်ကို လေးစားအရေးစိုက်သူတို့အဖို့ သက်သေသာဓကတော်များပါရှိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် အကြင်အရှင်မြတ်ဖြစ်တော်မူ၏။ ထိုအရှင်မြတ်သည်ပင် အသင် တို့အဖို့ ညဉ့်ကိုအသင်တို့ အိပ်စက်နားနေကြရန်လည်းကောင်း၊ နေ့ကို မြင်နိုင်စွမ်းရှိစေသောအရာအဖြစ်လည်းကောင်း၊ ပြုလုပ်ဖန်ဆင်းတော်မူခဲ့ပေသည်။ ဤ (မည်သော)အချက်တို့တွင် (အာရုံစိုက်လျှင်)ကြားနာသူ တို့အဖို့ သက်သေသာဓကများသည် ရှိချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

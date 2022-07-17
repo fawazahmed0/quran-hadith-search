@@ -710,6 +710,12 @@ osven pŭtya kŭm Ada, tam shte prebivavat vechno i zavinagi. Tova za Allakh e l
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၉။	သို့သော် သူတိုအား ငရဲလမ်းသို့ ပို့ဆောင်တော်မူမည်။ သူတို့သည် ငရဲတွင်အစဉ်အမြဲနေကြရလိမ့် မည်။ ယင်းသို့ စီရင်ရန်မှာ အလ္လာဟ်အသျှင်မြတ်အတွက် အလွန်လွယ်ကူလှ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် (အလ္လာဟ်အရှင်မြတ်သည် ယင်းသူတို့အား) ‘ဂျဟန္နမ်’ ငရဲဘုံ၏လမ်းကိုသာ (ညွှန်ကြားပြသတော်မူအံ့) ၊ ၎င်းတို့သည် ထိုငရဲဘုံ၌ ထာဝစဉ်နေထိုင်သောသူများ ဖြစ်ကြလတ္တံ့။ အမှန်စင်စစ် ယင်းကဲသို့ပြစ်ဒဏ်ပေးခြင်းသည် အလ္လာဟ်အရှင်မြတ်အဖို့ လွယ်ကူလှပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

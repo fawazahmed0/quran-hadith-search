@@ -710,6 +710,12 @@ I vsyako znamenie, koeto im pokazvakhme, be po-golyamo ot predishnoto. I gi sgra
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	ငါသည် သူတို့အား တန်ခိုးပြာဋိဟာတော်တစ်ပါးပြီးတစ်ပါး ပြတော်မူ၏၊ ထိုတန်ခိုးတော်များသည် တပါးထက် တပါးသာလွန်ကြီးကျယ်လာ၏၊ သူတို့ငါ့ဘက်တော်သို့ လှည့်ကောင်းလှည့်စိမ့်သောငှာ သူတို့အား အပြစ်ဒဏ်နှင့် ဖမ်းဆီးတော်မူလေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ငါအရှင်မြတ်သည် ၎င်းတို့အား ပြသတော်မူသော သက်သေလက္ခဏာ တန်ခိုးပြာဋိဟာတိုင်းမှာ ၎င်း၏အလျင်ပြခဲ့သော အခြားတန်ခိုးပြာဋိဟာ ထက်ပိုမိုကြီးကျယ်သော တန်ခိုးပြာဋိဟာသာလျှင် ဖြစ်ခဲ့၏။ ထို့ပြင် ငါအရှင်မြတ်သည် ၎င်းတို့အား (သွေဖည်ငြင်းပယ်မှုကိုစွန့်၍)ပြန်လှည့်လာကြအံ့သောငှာ ပြစ်ဒဏ်၌ ဖမ်းဆီးအရေးယူတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

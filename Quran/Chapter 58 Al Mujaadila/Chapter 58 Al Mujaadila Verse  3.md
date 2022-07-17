@@ -710,6 +710,12 @@ Onezi, koito [taka] izostavyat zhenite si, no posle si vŭrnat dumite - da osvob
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	သို့သော်မိမိတို့မိန်းမများကို အမိဖြစ်သည်ဟု ဆိုပြီး ကွာရှင်းသောသူတို့သည် မိမိတို့ပြောဆိုပြီး စကားကို ရုပ်သိမ်း၍ မိန်းမများကို ပြန်ပေါင်းလိုလျှင် ထိုသူတို့သည် မိမိတို့မိန်းမကို မထိခိုက်မစပ်ယှက်မီ ကျွန်တစ်ယောက် ဝယ်လွှတ်ကြရမည်ဟု ပညတ်တော်မူ၏၊ ဤသို့ပြုကျင့်ဖို့ရာ သင်တို့ကို သြဝါဒပေးတော်မူ၏၊ အကယ်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် သင်တို့ပြုကျင့်သမျှတို့ကို အကုန်အစင်သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်မှာကား အကြင်သူတို့သည် မိမိတို့၏ ဇနီးမိန်းမများနှင့် "ဇိဟာရ်" ပြုလုပ်ကြကုန်၏။ ထို့နောက် ၎င်းတို့သည် မိမိတို့ ပြောဆိုခဲ့သည်မှ ပြန်လည် ရုပ်သိမ်းလိုက်ကြ၏။ သို့ဖြစ်လျှင် ၎င်းတို့ဇနီး(မောင်နှံ)နှစ်ဦး ကိုယ်လက်နှီးနှော ထိတွေ့ခြင်းမပြုကြမီ ကျွန်တစ်ယောက်ကို လွတ်မြောက်စေရမည်။ ထိုသည်ဖြင့် အသင်တို့သည် ဆုံးမခြင်းကို ခံကြရပေသည်။ စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့ ကျင့်မူလျက် ရှိကြသည်တို့ကို အကြွင်းမဲ့ ကြားသိတော်မူသောအရှင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

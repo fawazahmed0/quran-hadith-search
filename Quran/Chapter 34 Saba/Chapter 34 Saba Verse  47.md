@@ -710,6 +710,12 @@ Kazhi: “Ne iskam ot vas otplata. Tya e za vas samite. Moyata otplata e edinstv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	တဖန်ဟောကြားလော့၊ ဟယ်-အချင်းတို့၊ အကယ်၍ငါသည် သင်တို့ထံမှ ဆုလာဘ်တောင်းလျှင် ထိုဆုလာဘ် သည် သင်တို့အဖို့အရာဖြစ်၏၊ အရှင်မြတ်သာလျှင် ငါ့ကို ဆုလာဘ်ပေးသနားတော်မူ၏၊ အလ္လာဟ်အရှင်မြတ် သည် အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့သိမြင်တော်မူသောအရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ပြောကြားပါလေ။ (အချင်းတို့၊) ငါသည် အသင်တို့ထံ(အဖိုးအခ) တစ်စုံတစ်ရာတောင်းခဲ့သည်ရှိလျှင် ယင်းအဖိုးအခမှာ အသင်တို့အဖို့သာလျှင် ဖြစ်၏။ အဘယ်ကြောင့်ဟူမူ ငါ့(အား)အကျိုးကျေးဇူး(ပေးသနားတော်မူရန်တာဝန်) မှာကား အလ္လာဟ် အရှင်မြတ်အပေါ်၌သာ ရှိသောကြောင့်ပင်။ အမှန်သော်ကား ထိုအရှင်မြတ်သည် အရာခပ်သိမ်းတို့အပေါ်၌ အသိသက်သေပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

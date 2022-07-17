@@ -710,6 +710,12 @@ I se vrichakha v Allakh s naĭ-usŭrdnite si kletvi, che ako doĭde pri tyakh 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	ထို့အပြင်မိစ္ဆာမိုက်နှင့် စိတ်နှစ်ခွရှိသူတို့က အလ္လာဟ်အရှင်မြတ်ကို တိုင်တည်၍ အလွန်ခိုင်မာစွာကျိန်ဆိုကြ သည်မှာ အကျွနု်ပ်တို့ထံ အပြစ်ဒဏ်အကြောင်းသတိပေးဟောပြောသောတမန်တော်တစ်ပါးပါးရောက်လာပါ လျှင် အကျွနု်ပ်တို့သည် လူမျိုးအမျိုးမျိုးထက် သာလွန်၍ သမ္မာတရားတော်ကို ကြည်နူးကြပါမည်၊ သို့ငြား သော်လည်းသူတို့ထံသို့ တမန်တော်ရောက်လာသောအခါ ထိုသူများသည် စက်ဆုပ်ရွံရှာမနာလိုစိတ်ဓာတ်မှတပါး အခြားစိတ်ဓာတ်ကို မပွားများကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ၎င်းတို့က အမှန်ပင် အကယ်၍ သတိပေးနှိုးဆော်သူ တစ်ဦးတစ်ယောက်သည် မိမိတို့ထံလာခဲ့ပါလျှင် မုချဧကန် မိမိတို့မှာ သာသနာဝင်အုပ်စုတိုင်းထက် ပိုမို၍ပင် တရား လမ်းမှန်ကို လိုက်နာသူများ ဖြစ်ကြပေမည် ဟု အလ္လာဟ်အရှင်မြတ်အား တိုင်တည်၍ အစွမ်းကုန်ကျိန်ဆိုခဲ့ကြကုန်၏။ သို့တစေလည်း (ထို)သတိပေးနှိုးဆော်သူသည် ၎င်းတို့ထံသို့ ရောက်ရှိ၍လာသောအခါ ထို(သို့ရောက်ရှိ၍လာခြင်း)သည် ၎င်းတို့၌ စက်ဆုပ်မှုကိုသာလျှင် တိုးပွားစေခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

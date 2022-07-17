@@ -710,6 +710,12 @@ V imeto na Allakh, Vsemilostiviya, Milosŭrdniya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+မဟာဂရုဏာတော်အသျှင်၊ အနန္တကောင်းကြီး မင်္ဂလာတော်သခင်၊ အလ္လာဟ်၏ နာမတော်အားဖြင့် အစပြုပါအံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မပြတ်မစဲ သနားကြင်နာ ညှာတာတော်မူထသော အနန္တ ကရုဏာတော်ရှင် ဖြစ်တော်မူထသော အလ္လာဟ်အရှင်မြတ်၏ နာမံတော်ဖြင့် (အစပြုပါ၏)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I kolko selishta pogubikhme, kogato ugnetyavakha - i eto gi s rukhnali pokrivi!,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	ငါအရှင်မြတ်သည် ဒုစရိုက်မကောင်းမှု၌ နစ်မွန်းနေသောမြို့ရွာနယ်ပယ်များကို ဖျက်ဆီးတော်မူလိုက်၏၊ ထိုနေရပ် တို့သည် ယခုတိုင်ပျက်စီးယိုယွင်းလျက်ရှိကြ၏၊ များစွာသောစွန့်ပစ်ထားသည့်ရေတွင်း၊ မြစ်နှင့်ပြအိုးများလည်း ရှိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် မြောက်မြားစွာသော မြို့ရွာများကို ငါအရှင်မြတ်သည် ယင်းမြို့၊ ရွာ(သား)များ မတရား ကျူးလွန်သူများ ဖြစ်နေကြစဉ် ဖျက်ဆီးတော်မူခဲ့လေသည်။ သို့ဖြစ်ပေရာ ယင်းမြို့ရွာများ(ရှိတိုက်တာအိမ်ဂေဟာ အစရှိသော အဆောက်အအုံများ ပြိုကျကာ နံရံများ)မှာ ယင်းအဆောက်အအုံများ၏ ခေါင်မိုးများပေါ်သို့ ပြိုကျ(ပျက်စီး)လျက်ရှိနေပေသည်။ ထို့ပြင် များစွာသော ပျက်စီးနေသည့် ရေတွင်းများသည်လည်းကောင်း၊ မြင့်စွင့်သော တိုက်တာအိမ်ဂေဟာ အစရှိသည့် အဆောက်အအုံများသည်လည်းကောင်း၊ (ယခုတိုင်အောင် လက်ငုတ်လက်စအဖြစ်) ကျန်ရှိနေသေး၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

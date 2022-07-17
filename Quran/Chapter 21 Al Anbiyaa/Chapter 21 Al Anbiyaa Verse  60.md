@@ -710,6 +710,12 @@ Rekokha: “Chukhme edin mladezh da prikazva za tyakh. Vikat mu Ibrakhim.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆ဝ။	သူတို့ဆက်လက်ပြောသည်မှာ လုလင်ပျိုတစ်ယောက်သည် ငါတို့ဘုရားများအကြောင်းပြောသံကို ငါတို့ကြား၏၊ သူ့ကို အေဗရာဟမ်ဟု ခေါ်သည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းအမျိုးသားတို့(အနက်အချို့)ကကျွန်ုပ်တို့သည် အိဗ်ရာဟီမ်ဟုခေါ်တွင်သော လူငယ်တစ်ဦးအား ဤ(ကျွန်ုပ်တို့၏ကိုးကွယ်ရာ)တို့ကို (ပြစ်တင်) ပြောဆိုသည်ကိုကြားဖူးခဲ့ကြသည်ဟု ပြောကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Nizposlakhme Nie na teb [o, Mukhammad] Knigata s istinata za khorata. I koĭto 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။ အို-မုဟမ္မဒ်၊ အကယ်စစ်စစ် ငါအရှင်မြတ်သည် ကုရ်အာန်ကျမူး်တော်မြတ်ကို လူသားအပေါင်းတို့အဖို့အရာ သင့်အား အမှန်အကန်ထုတ်ပြပို့ချပေးသနားတော်မူ၏၊ ထို့နောက်အကြင်သူသည် လမ်းမှန်ကို လျှောက်လိုက်၏၊ ထိုလျှောက်လိုက်ခြင်းသည် သူ၏ အကျိုးငှာဖြစ်၏၊ ထို့အပြင် အကြင်သူသည် လမ်းမှန်ကို သွေဖယ်သွားအ့ံ၊ ထိုသူသည် မိမိနစ်နာဆုံးရှုံးဖို့ရာ သွေဖယ်သွား၏၊ သင်သည် ထိုသူတို့ကို စောင့်ထိန်းရသူမဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) ဧကန်အမှန် ငါအရှင်မြတ်သည် အသင့်အပေါ် (ဤကုရ်အာန်)ကျမ်းတော်မြတ်ကို လူတို့အကျိုးငှာ တိကျမှန်ကန်စွာ ချပေးသနားတော်မူခဲ့၏။ သို့ဖြစ်ပေရာ မည်သူမဆို တရားလမ်းမှန်ကို ရယူခဲ့လျှင် (ယင်းတရားလမ်းမှန် ရရှိခြင်း၏အကျိုးမှာ) ၎င်း၏အဖို့ဖြစ်ပေမည်။ ထိုနည်းတူစွာ မည်သူမဆို လမ်းလွဲခဲ့မူ၊ (ယင်းလမ်းလွဲမှု၏ ဆုံးရှုံးမှုမှာလည်း)ထိုသူ၏အပေါ်၌သာလျှင် ကျရောက်ပေမည်။ စင်စစ်သော်ကား အသင်သည် ၎င်းတို့အပေါ်၌ တာဝန်ရှိသူအဖြစ် (စေလွှတ်ခြင်းခံခဲ့ရသည်) မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

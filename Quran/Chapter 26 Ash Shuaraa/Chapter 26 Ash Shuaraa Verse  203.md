@@ -710,6 +710,12 @@ Togava shte kazhat: “Dali shte ni se dade ot·srochka?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ၃။	ထိုအခါထိုသူတို့က အကျွနု်ပ်တို့အတွက် ဤအပြစ်ဒဏ်တော်ကို ရွှေ့ဆိုင်းထား၍ ရပါမည်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ၎င်းတို့က ကျွန်ုပ်တို့သည် ရွှေ့ဆိုင်းခွင့်ရရှိနိုင်ကြပါမည်လောဟု ဆိုကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

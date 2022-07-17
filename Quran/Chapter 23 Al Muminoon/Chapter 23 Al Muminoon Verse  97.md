@@ -710,6 +710,12 @@ I kazhi: “Gospodi moĭ, pazi me ot podstrekatelstvata na satanite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၇။	တဖန်ဆုတောင်းလော့၊ အို--ကျွနု်ပ်၏အသက်သခင်ကျေးဇူးရှင်၊ အကျွနု်ပ်သည် ရှိုင်တွာန်ယုတ်တို့၏ ဖျား ယောင်းခြင်းတို့မှ အရှင်၌ ခိုလှုံပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်သည်(ဤသို့)လျှောက်ထား ပန်ကြားပါလေ။ အို-ကျွန်တော်မျိုး၏အရှင်မြတ်၊ ကျွန်တော်မျိုးသည် ရှိုင်တွာန် မိစ္ဆာကောင်တို့၏ တိုက်တွန်းနှိုးဆော်ချက်တို့မှ (လွတ်ကင်းရန်) အရှင်မြတ်၏ အကာအကွယ်ကို ရလိုပါ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

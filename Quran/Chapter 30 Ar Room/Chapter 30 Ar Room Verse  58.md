@@ -710,6 +710,12 @@ Dadokhme veche na khorata vsyakakvi primeri v tozi Koran. I ako im donesesh znam
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈။	အမှန်မှာ ငါသည် လူသားတို့အဖို့အရာ ကျမ်းမြတ်ကုရ်အာန်၌ ပမာပမြည်အမျိုးမျိုးအဖုံဖုံတို့အား စီရင်ထား တော်မူ၏၊ တမန်တော်၊ အကယ်၍သင်သည် သူတို့ထံသို့ အ့ံဖွယ်သရတစ်ပါးပါးကို ဆောင်ကြဉ်းလာလျှင် မိစ္ဆာဒိဋ္ဌိမိုက်တို့က ဟယ်-အချင်းတို့၊ သင်တို့သည် မျက်လှည့်အတတ်၌ လိမ္မာသူလူလိမ်လူကောက်များသာ ဖြစ်ကြ၏ဟု အမှန်ကြွေးကြော်ကြလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ဧကန်မလွဲ ငါအရှင်မြတ်သည် လူတို့အကျိုးငှာ ဤကုရ်အာန်ကျမ်းတော်မြတ်တွင် ဥပမာပုံဆောင်ချက်အမျိုးစုံတို့ကို ခိုင်းနှိုင်းထားတော်မူ၏။ သို့ရာတွင် အကယ်၍ အသင်သည် ၎င်းတို့ထံ သက်သေလက္ခဏာတစ်စုံတစ်ရာကို ဆောင်ယူလာပါလျှင် ဧကန်အမှန် သွေဖည်ငြင်းပယ်ကြသောသူတို့က "အသင်တို့သည် လူလိမ်များသာလျှင်ဖြစ်ကြသည်" ဟု ပြောဆိုကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

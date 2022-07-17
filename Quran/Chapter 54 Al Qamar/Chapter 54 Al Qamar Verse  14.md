@@ -710,6 +710,12 @@ plavasht pred Ochite Ni - vŭzdayanie za onzi, koĭto be otrichan
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	ထိုအရာသည် ငါ၏မျက်မှောက်ဝယ်ရေပြင်ပေါ်တွင် ပြေးနေ၏၊ ဤကဲ့သို့စီရင်တော်မူခြင်းသည် မကြည်ညို ငြင်းပယ်ခြင်းခံရသောတမန်တော်အတွက် ဆုလာဘ်တော်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းသင်္ဘောမှာ ငါအရှင်မြတ်၏ စောင့်ရှောက်မှုအောက်တွင် သွားလာ လှုပ်ရှားလျက် ရှိနေခဲ့၏။ (ထိုသည်ကား) ငြင်းပယ်ခြင်း ခံခဲ့ရသောသူ(နူဟ်)နှင့် ပတ်သက်၍ လက်စားချေတော်မူခြင်းပင် ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

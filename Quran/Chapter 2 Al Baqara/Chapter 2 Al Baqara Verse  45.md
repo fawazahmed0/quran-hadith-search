@@ -710,6 +710,12 @@ I iskaĭte pomoshtta [na Allakh] s tŭrpenie i molitva! Tya naistina e trudna, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	အစာင်အမတော်ကို သည်းခံခြင်းနှင့် ဆွလာသ်ဝတ်ပြုခြင်းတို့ဖြင့် ရှာမှီးကြလော့။ မိမိကိုယ်ကိုမိမိ နှိမ့်ချသူများမှတပါး အခြားသူများအတွက် ယင်းသို့ပြုကျင့်ရန်အမှန်ပင် ခဲယဉ်းလှ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် ခန္တီတရားဖြင့် လည်းကောင်း၊ ဆွလာတ်ဝတ်ပြုခြင်းဖြင့် လည်းကောင်း၊ (အလ္လာဟ်အရှင်မြတ်ထံတော်မှ) အကူအညီ အထောက်အပံ့ကို တောင်းယူကြကုန်။ ဧကန်မုချ ထို(ဆွလာတ်ဝတ်ပြုခြင်း)သည် ကျိုးနွံနှိမ့်ချခြင်းတရား ထားရှိ ကြကုန်သော သူတော်စင်များမှအပ (အခြားသူများအဘို့) အလွန်တရာမျှပင် ကြီးလေးသော တာဝန်တစ်ရပ်ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

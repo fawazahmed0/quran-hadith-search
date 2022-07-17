@@ -710,6 +710,12 @@ Povecheto khora ne shte povyarvat, dori i ti da se stremish
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၃။	သင်သည် ကြီးစွာကြိုးစားအားထုတ်သော်လည်း များစွာသောလူသားတို့သည် ယုံကြည်ကြသည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ် အသင်သည် (၎င်းတို့သက်ဝင် ယုံကြည်ကြရန်) မည်မျှပင်တပ်မက်ငြားလည်း (၎င်းတို့အနက်)အများဆုံးသောသူတို့မှာမူကား မုအ်မင်န် သက်ဝင်ယုံကြည်သူများ ဖြစ်ကြမည်မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

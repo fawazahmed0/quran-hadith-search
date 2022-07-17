@@ -710,6 +710,12 @@ I vi pokazva Toĭ Svoite znameniya. Koi ot znameniyata na Allakh shte otrechete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၁။	အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အား မိမိ၏ သက်သေသာဓကတော်များကို ပြသတော်မူ၏၊ သာဓကတော်များ အနက် မည်သည့်သာဓကတော်ကို သင်တို့ငြင်းပယ်ကြမည်နည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ထိုအရှင်မြတ်သည် အသင်တို့အား မိမိ သက်သေလက္ခဏာတော်များကို ပြသတော်မူ၏။ သို့ဖြစ်ပေရာ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ မည်သည့် သက်သေလက္ခဏာတော်များကို ငြင်းပယ်ကြအံ့နည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

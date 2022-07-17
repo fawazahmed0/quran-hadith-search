@@ -710,6 +710,12 @@ Musa kaza: “Nima taka govorite za istinata, kogato tya doĭde pri vas? Nima e
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၇။	တမန်တော်မူစာက သင်တို့ထံသို့ သစ္စာတရားတော်ရောက်လာသောအခါ သင်တို့သည် ယင်းသို့ပြောဆိုကြ သလော၊ ဤကျမ်းတော်သည် ဝိဇ္ဇာအတတ်သာဖြစ်သလော၊ ယခုအခါမျက်လှည့်ဆရာတို့သည် မကြီးပွားချေဟု ဟောကြား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ နဗီတမန်တော်)မူစာက (ဤသို့) ပြောဆိုဖြေကြားခဲ့လေသည်။ (ဟယ်-အချင်းတို့) အသင်တို့သည်အမှန်တရားနှင့်စပ်လျဉ်း၍ ထိုအမှန်တရားသည် အသင်တို့ထံရောက်လာခဲ့ပြီးမှ (ဤသည် စုန်းပယောဂဖြစ်သည်ဟ)ုပြောဆိုကြလေသလော။ ဤသည် စုန်းပယောဂအတတ် ဖြစ်ပါသလော။ အမှန်စင်စစ် သော်ကား စုန်းကဝေတို့သည် (မည်သည့်အခါမျှ) အောင်မြင်ကြသည် မရှိချေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

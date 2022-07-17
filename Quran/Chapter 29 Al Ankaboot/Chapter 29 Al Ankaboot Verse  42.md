@@ -710,6 +710,12 @@ Kakvoto i da zovete vmesto Nego, Allakh go znae. Toĭ e Vsemogŭshtiya, Premŭd
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် မိမိအစား သူတို့သည် အဘယ်အရာကို ကိုးကွယ်သည်ကို အကြွင်းမဲ့သိတော်မူ၏၊ အရှင်မြတ်သည် အနန္တတန်းခိုးတော်သခင်၊ သဗ္ဗညုတဉာာဏ်တော်ရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် မိမိအားစွန့်၍၊ ၎င်းတို့ ဟစ်ခေါ်လျက်ရှိကြသော မည်သည့်အရာကိုမဆို ကောင်းစွာသိရှိတော်မူ၏။ အမှန်သော်ကား ထိုအရှင်မြတ်သည် တန်ခိုးတော်ဖြင့် လွှမ်းမိုးတော်မူသော၊ ဆင်ခြင်တုံတရားနှင့်ပြည့်စုံတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

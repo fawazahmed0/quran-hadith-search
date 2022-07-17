@@ -710,6 +710,12 @@ Ne e gryakh za vas da vlizate v neobitaemi domove, v koito ima vashe imushtestvo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	သင်တို့သည် မိမိအတွက် အကျိုးကျေးဇူးတစ်စုံတစ်ခုကို မြင်၍ လူသူမရှိသောအိမ်လပ်များသို့ ဝင်၍ သင်တို့ အပေါ်၌ အပြစ်မထိုက်ချေ၊ အလ္လာဟ်အရှင်မြတ်သည် ထုတ်ဖော်ပြောဆိုသောအရာများနှင့် ဖုံးကွယ်ထားသော အရာများကို အကုန်အစင်သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် လူမနေသောအိမ်များတွင် အသင်တို့၏ (ကိုယ်ရေးကိုယ်တာ) အကျိုးကျေးဇူး ဥစ္စာပစ္စည်း တစ်စုံတစ်ရာရှိ၍ ထိုအိမ်များအတွင်းသို့ ဝင်ရောက်ခဲ့ကြသော် အသင်တို့၌ မည်သို့မျှအပြစ်မရှိချေ။ အမှန်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့ ထင်ရှားစေကြသော ကိစ္စများကို လည်းကောင်း၊ အသင်တို့ လျှို့ဝှက်သောကိစ္စများကိုလည်းကောင်း၊ ကောင်းစွာ သိရှိတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

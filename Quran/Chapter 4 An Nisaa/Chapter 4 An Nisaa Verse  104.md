@@ -710,6 +710,12 @@ I ne pokazvaĭte slabost v izdirvaneto na [vrazheski] narod! Ako vi boli - i ty
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၄။	ရန်သူမာျးကို လိုက်လံတိုက်ခိုက်ရာ၌ လုံ့လဝိရိယမလျှော့ကြလင့်။ အကယ်၍ သင်တို့သည် ဒုက္ခ ဆင်းရဲခံရလျှင် သူတို့လည်းအလားတူ ဒုက္ခဆင်းရဲခံရသည်ကို မှတ်သားကြလော့။ သို့သော် သူတို့ မမျှော်ကိုးနိုင်သည်ကို အသင်တို့သည် အလ္လာဟ်အသျှင်မြတ်အထံတော်မှ မျှော်လင့်နိုင်ကြ၏။ အလ္လာဟ်အသျှင်မြတ်သည် အမြဲသိတော်မူသောအသျှင်၊ ပညာဉာဏ်ရှိတော်ူသောအသျှင်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်တို့သည် ရန်သူတို့အား လိုက်လံ (တိုက်ခိုက်) ရာ၌ စိတ်အားမလျှော့ကြကုန်လင့်။ အကယ်၍ အသင်တို့ ဒုက္ခခံစားကြရပါလျှင် ထိုသူတို့သည်လည်း အသင်တို့ကဲ့သို့ပင် ဒုက္ခခံစားကြရကုန်၏။ ၎င်းပြင် အလ္လာဟ်အရှင်မြတ်ထံတော်မှ ထိုသူတို့မမျှော်လင့်သောအရာများကို မျှော်လင့်ကြကုန်။ ၎င်းပြင် အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့သိတော်မူသောအရှင်၊ ကျိုးကြောင်းဆင်ခြင်တုံဉာဏ်နှင့် ပြည့်စုံတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူလေသတည်း။ (ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

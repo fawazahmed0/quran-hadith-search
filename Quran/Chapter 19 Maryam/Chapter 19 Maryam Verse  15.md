@@ -710,6 +710,12 @@ Mir nemu v denya, kogato be roden i v denya, kogato shte umre, i v Denya, kogato
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	မွေးသောနေ့၌သော်လည်းကောင်း၊ ကွယ်လွန်သောနေ့၌သော်လည်းကောင်း၊ ရှင်ပြန်ထမြောက်ရသောနေ့၌ သော်လည်းကောင်း၊ သူ့အပေါ်သို့ အေးချမ်းသာယာခြင်းမင်္ဂလာတော်သက်ရောက်ပါစေသော်ဝ်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ထိုယဟ်ယာ၏အပေါ်၌ ယင်းဖွားမြင်ခဲ့သည့်နေ့တွင်လည်းကောင်း၊ ကွယ်လွန်သေဆုံးမည့်နေ့တွင်လည်းကောင်း၊ အသက်ရှင်လျက် ထရမည့်နေ့တွင်လည်းကောင်း၊ (ငါအရှင်မြတ်အထံတော်မှ) ငြိမ်းချမ်းသာယာမှု(ဘေးရန်ကင်းငြိမ်းမှု)သည် ကျရောက်ပါစေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I na kolko selishta, kogato ugnetyavakha, Az dadokh ot·srochka, posle gi sgrabc
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	ငါအရှင်မြတ်သည် ဒုစရိုက်မကောင်းမှုတွင် နစ်မွန်းနေသောမြို့ရွာနယ်ပယ်အမြောက်အမြားကို ကြာကြာ သည်းခံတော်မူ၏။ ထို့နောက်ငါသည် သူတို့ကို ဖမ်းဆီးတော်မူ၏၊ အပြန်ခရီးသည် ငါ့ထံသို့တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် မြောက်မြားစွာသော မြို့ရွာများရှိ၏။ငါအရှင်မြတ်သည် ထိုမြို့ရွာ(သား)တို့ကို ပြစ်မှု ကျူးလွန်သူများဖြစ်နေကြစဉ် (ပြစ်ဒဏ်ခတ်ခြင်းမှ) ရွှေ့ဆိုင်းတော်မူခဲ့၏။ ထို့နောက် ငါအရှင်မြတ်သည် ယင်းမြို့(သား)တို့အား ဖမ်းဆီးကွပ်မျက်တော်မူခဲ့၏။ ၎င်းပြင်(ထိုသူတို့အားလုံးသည်) ငါအရှင်မြတ်အထံတော်သို့သာလျှင် ပြန်လည်ရောက်ရှိကြမည် ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

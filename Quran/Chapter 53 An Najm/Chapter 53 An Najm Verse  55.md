@@ -710,6 +710,12 @@ Togava v koi blagodeyaniya na tvoya Gospod se sŭmnyavash [o, choveche]
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။	သို့ရှိရာ အို-လူသား၊ သင်သည် မိမိ၏ အရှင်သခင်၏ အနန္တကောင်းကြီးမင်္ဂလာတော်များအနက် မည်သည့် မင်္ဂလာတော်ကို ငြင်းပယ်မည်နည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (အို-ကြားနာသူ၊) အသင်သည် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ မည်သည့် ကျေးဇူးတော်များနှင့် စပ်လျဉ်း၍ ဒွိဟ သံသယဖြစ်လျက် ရှိသည်နည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

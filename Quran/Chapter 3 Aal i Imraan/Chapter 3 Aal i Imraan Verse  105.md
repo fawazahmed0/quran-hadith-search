@@ -710,6 +710,12 @@ I ne bŭdete kato onezi, koito se razedinikha i zasporikha, sled kato pri tyakh 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၅။	မိမိထံသို့ ထင်ရှားသော သက်သေသာဓကများရောက်ရှိလာပြီးမှ အချင်းချင်းငြင်းခုံကြပြီးလျှင် အကွဲကွဲအပြားပြားဖြစ်သူတို့ကဲ့သို့ သင်တို့မဖြစ်ကြလင့် ဤသူများအတွက် အလွန်နာကျင်ဖွယ်သော အပြစ်ဒဏ်အသင့်ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်တို့သည် အကြင်သူများကဲ့သို့မဖြစ်ကြကုန်လင့်၊ ယင်းသူတို့သည် (အလ္လာဟ်အရှင်မြတ်၏တစ်ခုတည်းသော သာသနာကိုတစည်းတလုံးတည်း မလိုက်နာကြဘဲ) အချင်းချင်း ကွဲကြသည့်အပြင် မိမိတို့ထံ (အလ္လာဟ်အရှင်မြတ်၏) ထင်ရှားလှစွာသော သက်သေသာဓကများရောက်ရှိလာပြီးသည့်နောက်တွင်လည်း (ဂုဏ်တု ဂုဏ်ပြိုင်ပြုလိုကြ၍) အချင်းချင်းကွဲလွဲခဲ့ကြကုန်၏။ အမှန်သော်ကားယင်း(ကဲ့သို့သော) သူတို့အဘို့သာ လျှင် ကြီးလေးသောအပြစ်ဒဏ်သည် ရှိပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

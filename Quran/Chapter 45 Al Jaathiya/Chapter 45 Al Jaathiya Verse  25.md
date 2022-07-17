@@ -710,6 +710,12 @@ I kogato im bŭdat cheteni yasnite Ni znameniya, tekhniyat dovod e samo da rekat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	ငါချပေးသနားတော်မူသောနှုတ်ကပတ်တော်များကို သူတို့အား ရွတ်ဖတ်ပြသောအခါ သူတို့သည် ဘာမျှအချေ အတင်မပြောနိုင်ပဲ ဤသို့ဆိုကြ၏၊ သင်တို့အမှန်ကို ဆိုသော် ငါတို့၏ သွားလေသူမိဘဘိုးဘွားတို့ကို ပြန်ယူခဲ့ ကြပါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့ရှေ့ဝယ် ငါအရှင်မြတ်၏ထင်ရှားစွာသော အာယတ်တော်များ ဖတ်ကြားခြင်း ခံရလေသောအခါ ၎င်းတို့က "အသင်တို့သည် သစ္စာဝါဒီများဖြစ်ကြလျှင် ကျွန်ုပ်တို့၏(သေဆုံးလေပြီးသော) အဘ၊ ဘိုး၊ ဘေးတို့အား(တစ်ဖန်ရှင်ပြန်ထစေပြီး) ခေါ်ယူခဲ့ကြလေကုန်" ဟု ပြောဆိုခြင်းမှတစ်ပါး မည်သို့မျှ ဆင်ခြေတက်နိုင်ကြသည် မရှိပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

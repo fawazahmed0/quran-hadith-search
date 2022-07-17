@@ -710,6 +710,12 @@ I kogato se kachat na korab, te zovat Allakh, predani Nemu v religiyata. A shtom
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၅။	သူတို့သည် သင်္ဘောစီးနင်းခရီးသွားသောအခါ အလ္လာဟ်အရှင်မြတ်တစ်ဆူတည်းဖြစ်တော်မူကြောင်းကို ယုံကြည် ကြ၏၊ အရှင်မြတ်ထံ ဆုတောင်းကြ၏၊ သို့သော်အရှင်မြတ်သည် သူတို့အား ပင်လယ်ဆိပ်ကမ်းသို့ ယူဆောင် လာတော်မူသောအခါ သူတို့သည် အလ္လာဟ်အရှင်မြတ်အား ဘက်စပ်သူများပေးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ၎င်းတို့သည် သင်္ဘော၌ စီးနင်းကြလေသောအခါ အလ္လာဟ်အရှင်မြတ်အားသာလျှင် စေတနာ သဒ္ဓါဖြူစင်စွာနှင့် ဟစ်ခေါ်တသ ကြကုန်၏။ သို့ရာတွင် ထိုအရှင်မြတ်သည် ၎င်းတို့အား ကယ်တင်၍ ကုန်းမြေသို့ ဆောင်ကြဉ်းတော်မူသောအခါ ၎င်းတို့သည် ရုတ်တရက် ချက်ချင်းပင်လျှင်(အခြားအရာများကို ထိုအရှင်မြတ်နှင့်) တွဲဖက် နှိုင်းယှဉ်ကိုးကွယ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

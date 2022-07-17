@@ -710,6 +710,12 @@ Znatnite ot naroda mu, koito se vŭzgordyakha, kazakha na vyarvashtite izmezhdu 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၅။	သူ၏အမျိုးသားထဲမှ မာနကြီး၍ မထီမဲ့မြင်ပြုတတ်သော ရှေ့ဆောင်လူကြီးများသည် သူတို့ မလေး မစား ဂုဏ်နိမ့်သူများဟုထင်သော ယုံကြည်သူသားချင်းတို့အား ပြောကြ၏။ ဆွာလေ(ဟ်)အား သူ၏ ကျေးဇူးတော်သခင် စေလွှတ်တော်မူသော တမန်တော်ဖြစ်ကြောင်းကို သင်တို့သိကြသလော။ သူတို့က မှတ်သားကြလော့။ အကျွနု်ပ်တို့သည် သူ့အား တမန်တော်အဖြစ်ဖြင့် စေလွှတ်တော်မူ ကြောင်းကို ယုံကြည်သူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ (နဗီတမန်တော် ဆွာလိဟ်)၏ အမျိုးသားတို့အနက် မောက်မာပလွှားသော အကြီးအကဲများက အားနည်းသူများဟု အထင်ခံကြရသူတို့အနက်မှ သက်ဝင်ယုံကြည်သူတို့အားဆွာလိဟ်သည် ၎င်း၏အရှင်မြတ်အထံတော်မှ စေလွှတ်တော်မူသော ရစူလ်တမန်တော်ဖြစ်ကြောင်း အသင်တို့ယုံကြည်ကြပါသလောဟုမေးမြန်းကြကုန်၏။ ထိုအခါ၎င်း(သက်ဝင်ယုံကြည်သူ)တို့က ကျွန်ုပ်တို့သည် ထို(ရစူလ်တမန်တော်)ဆွာလိဟ် ယူဆောင်လာသော အမိန့်တော်များကို သက် ဝင်ယုံကြည်သူများပင် ဖြစ်ကြပါသည် ဟု ဖြေကြားကြလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

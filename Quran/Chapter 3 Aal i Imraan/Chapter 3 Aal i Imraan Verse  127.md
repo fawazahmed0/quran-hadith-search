@@ -710,6 +710,12 @@ za da otkŭsne edna chast ot nevernitsite ili da gi razgromi, za da se vŭrnat p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၇။	ယင်းတို့စောင်မတော်မူခြင်းမှာ မိစ္ဆာဒိဌိရန်သူအချို့တို့ကို သုတ်သင်ရှင်းလင်းဖို့သော်လည်းကောင်း၊ ရန်သူတို့ စစ်ရေးနိမ့် စိတ်ပျက်ပြီးလျှင် အရှက်တကွဲ ဗရမ်းဗတာ ဆုတ်ခွာထွက်ပြေးဖို့ရာသော် လည်းကောင်း ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (င်းပြင် ယင်းသို့ ကူညီစောင်မတော်မူခြင်းသည်) ‘ကာဖိရ်’ မယုံမကြည်သွေဖည်ငြင်းပယ် ကြကုန်သောသူတို့အနက်မှတစ်စုကို ဖျက်စီးရန်အတွက် ဖြစ်ချေသည်။သို့တည်းမဟုတ် ယင်းသူအား ဂုဏ်ရည်သေးသိမ်စေရန်အတွက်ဖြစ်သည်။ သို့ဖြစ်ပေရာ ယင်းသူတို့သည် အလိုဆန္ဒမပြည့်ဝကြ ဘဲလျက် ပြန်လှည့်(ဆုတ်ခွာထွက်ပြေး)ကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ne spazvat spryamo vyarvasht nito rodstvo, nito obet. Tezi sa prestŭpvashtite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	၎င်းအပြင်သူတို့သည် ယုံကြည်အား ကတိစာချုပ်မတည်မလေးစားကြပေ။ဤသူတို့သည် တရာတော်ကို စော်ကားသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် မည်သည့် မုအ်မင်န် သက်ဝင်ယုံကြည်သူ တစ်ဦးတစ်ယောက်နှင့်မျှ ပတ်သက်၍ ဆွေမျိုးတော်စပ်မှုကိုလည်းကောင်း၊ ပဋိညာဉ်ထားရှိမှုကို လည်းကောင်း၊ထောက်ထားကြသည်မဟုတ်ပေ။ အမှန်သော်ကား၎င်းတို့သည်ပင်လျှင် လွန်ကျူးသူများ ဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

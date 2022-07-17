@@ -710,6 +710,12 @@ Nima tŭrsyat druga religiya osven tazi na Allakh, kogato na Nego se podchinyava
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၃။	မိုးကောင်းကင်နှင့် ကမ္ဘာမြေပေါ်ဝယ် ရှိရှိသမျှတို့သည် သဘောတူသည်ဖြစ်စေ၊ မတူသည်ဖြစ်စေ အလ္လာဟ်အသျှင်မြတ်ကို ကျိုးနွံ့နာခံပါလျက် ထိုသူတို့သည် အသျှင်မြတ်၏ သာသနာတော်မှတစ်ပါး အခြားသောသာသနာကို ရှာမှီးကြသလော။ သူတို့သည် အသျှင်မြတ်အထံတော်သို့ ပြန်ကြရမည်သာ တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့သည် အလ္လာဟ်အရှင်မြတ်၏ သာသနာတော်မှတစ်ပါး၊ အခြား(နည်းလမ်း)ကို စူးစမ်းရှာဖွေလိုကြသလော။ စင်စစ်သော်ကား ကောင်းကင် များနှင့် ပထဝီမြေကြီးတွင် ရှိရှိသမျှသော အရာ ခပ်သိမ်းတို့သည် သဘောတူသည်ဖြစ်စေ၊ သဘော မတူသည်ဖြစ်စေ၊ ထိုအရှင်မြတ်၏ အမိန့်တော်ကိုသာ လိုက်နာလျက် ရှိကြကုန်သည်။ တဖန် (နောက်ဆုံးတွင်)ထို ခပ်သိမ်းကုန်သောအရာတို့သည် ထိုအရှင်မြတ်၏ အထံတော်သို့သာလျှင် ပြန်လှည့်ကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

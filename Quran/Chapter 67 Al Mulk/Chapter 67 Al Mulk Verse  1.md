@@ -710,6 +710,12 @@ Blagosloven e Onzi, v Chiyato Rŭka e Vladenieto. Toĭ nad vsyako neshto ima si
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။ အလ္လာဟ်အရှင်မြတ်သည် မင်္ဂလာအဖြာဖြာနှင့်ပြည့်စုံတော်မူ၏၊ အရာခပ်သိမ်းကုန်တို့ကို စိုးပိုင်တော်မူ၏၊ အရာရာကို ပြုစွမ်းနိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်အရှင်မြတ်သည် မင်္ဂလာအပေါင်းနှင့်ပြည့်စုံ မြင့်မြတ်လှတော်မူ၏။ ထိုအရှင်မြတ်၏ လက်တော်တွင်းဝယ် အုပ်ချုပ်မှုသည်ရှိသည်။ ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို တတ်စွမ်းနိုင်တော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

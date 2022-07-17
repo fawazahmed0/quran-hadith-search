@@ -710,6 +710,12 @@ HADHA MA TU’ADUNE LIJEWMIL-HISABI
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။	ဤကျေးဇူးတော်များသည် တရားစီရင််တော်မူသောနေ့တွင် ပေူးသနားတော်မူမည်ဟု သင်တို့အား ဂတိသစ္စာ ထားတော်မူသောအောင်ဆုမင်္ဂလာတော်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည် စစ်ဆေးမေးမြန်းမည့်နေ့နှင့် စပ်လျဉ်း၍ အသင်တို့ ကတိပေးခြင်း ခံကြရလေသောအရာပင်၊ (ကျေးဇူးတော်ပင်)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

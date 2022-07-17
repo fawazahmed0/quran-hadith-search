@@ -710,6 +710,12 @@ Te vzekha za gospodari ne Allakh, a svoite pravnitsi i svoite monasi, i Mesiyata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	သူတို့အား တစ်ဆူတည်းသောအလ္လာဟ်အရှင်မြတ်အားသာလျှင် ခဝပ်ကိုးကွယ်ရန် ပညတ်ထားတော်မူ၏။သို့ပါလျက်သူတို့သည် အလ္လာဟ်အရှင်မြတ်အပြင် သူတို့၏ ဘုန်းတော်ကြီးများ၊ ဘုန်းကြီးနှင့် မရယမ်၏ သား မေရှိယတို့ကိုလည်း အရှင်သခင်အဖြစ်ဖြင့် ကိုးကွယ်ကြ၏။အလ္လာဟ်အရှင်မြတ်မှတပါး အခြားအရှင် သခင်မရှိပေ။အလ္လာဟ်အရှင်မြတ်သည် သူတို့ပေးသောဖက်စပ်ဘုရားများမှ သန့်ရှင်းမြင့်မြတ်တော်မူပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့သည် မိမိတို့၏ တရားဟောဆရာ တို့ကိုလည်း ကောင်း၊ ဘုန်းကြီး ရဟန်းတို့ကိုလည်းကောင်း၊ ‘မရ်ယမ်’၏သားတော်’မစီဟ်’ကိုလည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ်အားစွန့်၍ (မိမိတို့၏)အရှင်သခင်များ ပြုလုပ်ထားခဲ့ကြလေသည်။အမှန်စင်စစ်သော်ကား ထိုသူတို့သည် တစ်ဆူတည်းသော ကိုးကွယ်ရာအရှင်မြတ်အားသာလျှင် ခဝပ်ကိုးကွယ်ရန်အမိန့်ပေးတေ်မူခြင်းကို ခံခဲ့ကြရလေသည်။ ထို(တစ်ဆူတည်းသော)အရှင်မြတ်မှတစ်ပါး အခြားခဝပ်ကိုးကွယ်ရာ အရှင်ဟူ၍အလျှင်းမရှိပြီ။ ထိုအရှင်မြတ်သည် ၎င်းတို့တွဲဖက် နှိုင်းယှဉ်(ကိုးကွယ်)ကြသည်တို့မှ(လုံးဝ) သန့်ရှင်းစင်ကြယ်တော်မူချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

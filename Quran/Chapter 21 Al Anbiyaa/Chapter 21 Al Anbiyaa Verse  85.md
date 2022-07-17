@@ -710,6 +710,12 @@ I [spomeni] Ismail, i Idris, i Zu-l-Kifl. Vsichki byakha ot tŭrpelivite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၅။	တဖန်တမန်တော်အစ္စမာအီလ်၊ တမန်တော်အစ်ဒရစ်၊ တမန်တော်ဇွတ်ကစ်(ဖ်)လေ့တို့အကြောင်းကိုလည်း ဖော်ပြ လော့၊ သူတို့အားလုံးသည် သည်းခံသူများဘောင်မှ ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (အို-နဗီတမန်တော်) အသင်သည် နဗီတမန်တော်)အီစ်မာအီလ်၊ (နဗီတမန်တော်) အီဒ္ဒရီစ်(နဗီတမန်တော်) ဇူလ်ကီဖ်လ်တို့(၏အထ္ထုပ္ပတ္တိအကြောင်းများ)ကိုလည်းထုတ်ဖော်ပြောကြားပါလေ။ ထိုနဗီတမန်တော် အသီးသီးတို့သည် ခန္ဒီသူတို့တွင် ပါဝင်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kazhi: “I da vyarvate v nego, i da ne vyarvate, darenite sŭs znanieto predi n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၇။	အို-တမန်တော်၊ ဟောကြားလော့။ ဟယ်-အချင်းတို့၊ သင်တို့သည် ကုရ်အာန်ကျမ်းတော်ကို ယုံကြည်သည် ဖြစ်စေ၊ မယုံကြည်သည်ဖြစ်စေ၊ ဤကျမ်းတော်ကို သူတို့အား ရွတ်ဖတ်ပြသောအခါ အမှန်ပင်ဝပ်တွားရှိခိုးပူဇော် ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (၎င်းတို့အားဤသို့)ပြောကြားပါလေ။ (အချင်းတို့)အသင်တို့သည် ယင်းကုရ်အာန်ကျမ်းတော်မြတ်ကို ယုံကြည်ကြသည်ဖြစ်စေ၊ မယုံကြည်ကြသည်ဖြစ်စေ၊(အကြောင်းမထူးပေ) အသင်တို့ ယုံကြည်ကြသဖြင့်ယင်းကုရ်အာန်ကျမ်း တော်မြတ်သည် ပိုမို၍ ပြည့်စုံသွားမည်လည်းမဟုတ်။ အသင်တို့ မယုံကြည်သဖြင့် ချို့တဲ့နေမည်လည်းမဟုတ်ပေ။ ဧကန်စင်စစ် ယင်းကုရ်အာန်မကျရောက်မီ အလျင်က အသိပညာကိုချီးမြှင့်ပေးသနားတော်မူခြင်း ခံကြရသောသူတို့မူကား ၎င်းတို့ရှေ့ဝယ် ယင်း(ကုရ်အာန် ကျမ်းတော်မြတ်)ကိုဖတ်ကြားလေသောအခါ ၎င်းတို့ သည် မျက်နှာအောက်ချလျက်ပျပ်ဝပ်ဦးချကြကုန်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

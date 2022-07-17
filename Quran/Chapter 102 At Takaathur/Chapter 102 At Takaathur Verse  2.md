@@ -710,6 +710,12 @@ dodeto legnete v grobovete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၊၂။ အို-လူသားအပေါင်းတို့၊ လောကီစည်းစိမ်ဥစ္စာပွားများခြင်း၌ ပြိုင်ဆိုင်ခြင်းသည် သင်တို့အား သချိႋုင်းတွင်းသို့ ရောက်သည့်တိုင်အောင် လောကုတ္တရာရေးမှ ဆွဲငင်ထား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 နောက်ဆုံးတွင် အသင်တို့သည် သင်္ချိုင်းများကို တွေ့မြင်ခဲ့ကြရလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

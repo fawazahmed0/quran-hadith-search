@@ -710,6 +710,12 @@ I veche se prismivakha na pratenitsi predi teb. I dadokh ot·srochka na onezi, k
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	တမန်တော်၊ သင့်ထက်ရှေးကျသောအရှင်မြတ်၏ တမန်တော်များလည်း မိစ္ဆာဒိဋ္ဌိတို့ပျက်ရယ်ပြုသည်ကို ခံကြရ၏။ ငါအရှင်မြတ်သည် ၎င်းတို့အား ရှည်စွာသည်းခံတော်မူ၏။ နောက်ဆုံးတွင် ငါသည် သူတို့ကို ဖမ်းဆီးတော်မူ၏။ ငါ၏ အပြစ်ဒဏ်တော်သည် လွန်စွာကြောက်မက်ဖွယ်ကောင်း၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် စင်စစ်ဧကန် အသင်၏အလျင်လည်းရစူလ်တမန်တော်များသည် ပြက်ရယ်သမှုပြုခြင်းကို ခံခဲ့ကြရကုန်၏။ သို့ပါလျက် ငါအရှင်မြတ်သည် ကာဖိရ် သွေဖည်ငြင်းပယ်ကြကုန်သော သူတို့အား ရွှေ့ဆိုင်းခွင့်ပေးတော်မူခဲ့လေသည်။ ထို့နောက် ငါအရှင်မြတ်သည် ၎င်းတို့အား ဖမ်းဆီးကွပ်မျက်တော် မူခဲ့လေသည်။ သို့ဖြစ်ပေရာ ငါအရှင်မြတ်၏ပြစ်ဒဏ်ပစ်ဒဏ် သည်အသို့ရှိခဲ့ပါသနည်း။ (အလွန်ပြင်းထန်ခဲ့ပေသည်)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

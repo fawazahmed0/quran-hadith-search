@@ -710,6 +710,12 @@ onezi, ot koito ti poluchi obet, posle narushavat svoya obet vseki pŭt i ne se 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၆။	ထိုသူများနှင့် သင်သည် ပဋိညာဉ်စာချုပ် ချုပ်ထား၏။ သူတို့သည် အခွင့်အရေးကြံုတိုင်း သူတို့ စာချုပ်ကို ဖောက်ဖျက်၏။ အလ္လာဟ်အသျှင်မြတ်၏အမှုတော်ကို မထမ်းရွက်ကြပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤကာဖိရ်များကား အသင်သည် ထိုသူတို့ထံမှ(အကြိမ်ကြိမ်)ပဋိညာဉ်ယူခဲ့ပြီး ဖြစ်လေသည်။ ထို့နောက်သော်မှပင် ထိုသူတို့သည် မိမိတို့၏ပဋိညာဉ်ကို အကြိမ်တိုင်းအကြိမ်တိုင်း ဖောက်ဖျက်ကြလေသည်။ အမှန်သော်ကား ထိုသူတို့သည်(ပဋိညာဉ်ဖောက်ဖျက်ခြင်းနှင့်စပ်လျဉ်း၍ အလ္လာဟ်အရှင်မြတ်အား) ကြောက်ရွံ့ကြသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

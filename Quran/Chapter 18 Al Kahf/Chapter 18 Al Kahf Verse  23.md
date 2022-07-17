@@ -710,6 +710,12 @@ I za nishto ne kazvaĭ: “Shte svŭrsha tova utre.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	အို-တမန်တော်၊ အမှုကိစ္စတခုခုနှင့်စပ်လျဉ်း၍ အကျွနု်ပ်သည် ထိုကိစ္စကို နက်ဖြန်ဆောင်ရွက်မည်ဟု မဆိုလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (အို-နဗီတမန်တော်)အသင်သည် မည်သည့်တစ်စုံတစ်ရာနှင့်မျှ စပ်လျဉ်း၍ ဧကန်အမှန် ငါသည် ယင်းကိစ္စကို နက်ဖြန်ပြုလုပ်အံ့ ဟူ၍ အလျှင်း မပြောဆိုပါလေနှင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

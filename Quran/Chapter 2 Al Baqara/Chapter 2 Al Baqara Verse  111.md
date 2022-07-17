@@ -710,6 +710,12 @@ I rekokha [khorata na Pisanieto]: “V Raya shte vlyazat samo yudei i khristiyan
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၁။	ထို့ပြင် သူတို့က ရဟူဒီအမျိုးသားသော်လည်းကောင်း ခရစ်ယာန်ဘာသာဝင်သော်လည်းကောင်း မဟုတ်သူတစ်ဦးတစ်ယောက်သည် သုခဥယျာဉ်တော်သို့ မဝင်ရဟုပြောကြ၏။ ဤအဆိုသည် သူတို့၏ လိုလားချက်များသာဖြစ်၏။ အေ တမန်တော် ဟောကြားလော့။ သင်တို့အဆိုမှန်လျှင် သက်သေ သာဓက တင်ပြကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်တဝ ယင်းသူတို့က ပြောဆိုကြသည်မှာ၊ ဂျန္နတ် အမတသုခဘုံတွင်းသို့ ယဟူဒီဘာသာဝင် သို့မဟုတ်ခရစ် ယာန်ဘာသာဝင်တို့မှအပ (အခြား) မည်သူတစ်ဦးတစ်ယောက်မျှ မည်သည့်အခါမျှ ဝင်ရောက်နိုင်မည် မဟုတ်ချေ။ ထိုပြောဆိုချက်များသည်ကား ယင်းသူတို့၏ (စိတ်ကူးအလျောက် အချည်းနှီးသော) တပ်မက်မောခြင်း မျှသာဖြစ်သည်။ အို-နဗီ တမန်တော်မုဟမ္မဒ်(ဆွ) အသင်သည် ယင်းသူတို့အား ဟယ်-အချင်းတို့၊ အကယ်စင်စစ် အသင်တို့သည်၊(ဤအကြောင်းများနှင့် စပ်လျဉ်း၍) ဟုတ်မှန်ရာကို ပြောဆိုကြသူများသာ ဖြစ်ကြလျှင် မိမိတို့၏ အခိုင်လုံ ဆုံးသော သက်သေခံသာဓက အထောက်အထားများ ဆောင်ယူ(တင်ပြ) ကြကုန်လော့ဟု ပြောဆိုပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

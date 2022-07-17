@@ -710,6 +710,12 @@ Naĭ-dobre Nie znaem koi zasluzhavat da goryat tam
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇ဝ။	အကယ်စင်စစ်ငါသည် အဘယ်သူတို့အား ငရဲတွင် မီးလောင်တိုက်သွင်းထိုက်သည်ကို အသိဆုံးဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် ဧကန်မလွဲ ယင်းဂျဟန္နမ် ငရဲဘုံ၌ မီးလောင်စေရန်၊ ပစ်ချရန်၊ အထိုက်တန်ဆုံးသောသူတို့အား ငါအရှင်မြတ်သည်ပင် အသိဆုံးဖြစ်တော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

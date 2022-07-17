@@ -710,6 +710,12 @@ Razkrasena e za khorata lyubovta kŭm strastite - kŭm zhenite i detsata, i stru
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	ဇနီး၊ မိန်းမ၊ သားသမီး၊ အချွေအရံများ စုဆောင်းထားသော ရွှေပုံ၊ ငွေပုံများ၊ အမျိုးကောင်းသော မြင်းများ၊ ကျွဲ၊ နွား၊ တိရစ္ဆာန်များနှင့် လယ်ယာဥယျာဉ်များကို ပိုင်ဆိုင်ခြင်းမှရသော သာယာ ပျော်ရွှင်မှုကို လူသားတို့အား တင့်တယ်လှပေစေ၏။ ဤအရာဝထ္ထုများသည် လောကီစည်းစိမ်းသာ ဖြစ်ကြ၏။ အလ္လာဟ်အသျှင်မြတ်၊ အသျှင်မြတ်နှင့်မူကား သာလွန်မြင့်မြတ်သော နေရာထိုင်ခင်းရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 လူခပင်းတို့ အဖို့အရာ၊ မိန်းမများကိုလည်းကောင်း၊ သားရတနာများကိုလည်းကောင်း၊ စုဆောင်းသိုမှီးထားသော ရွှေငွေရတနာများကိုလည်းကောင်း၊ သင်ကြားလေ့ကျင့် ရွေးချယ်သတ်မှတ်ထားသော၊ မျိုးမှန်မျိုးကောင်း မြင်းများကိုလည်းကောင်း၊ (နွား၊ သိုး၊ ဆိတ်) ကုလားအုတ် စသည့်တိရိစ္ဆာန်များကိုလည်းကောင်း၊ လယ်ယာဥယျာဉ်များကို လည်းကောင်း၊ ချစ်ခင်စုံမက် နှစ်သက်မြတ်နိုး၊ လှပတင့်တယ်ဤသည်တို့ကား ပစ္စပ္ပုန် လောကီဘဝ၏ အသုံးအဆောင်များသာတည်း။ အမှန်စင်စစ်အားဖြင့် အမြင့်မြတ်ဆုံးသောပြန်လည်ရာ ဌာနသည်ကား အလ္လာဟ်အရှင်မြတ်၏ အထံတော်၌သာလျှင် ရှိပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

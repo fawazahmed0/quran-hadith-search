@@ -710,6 +710,12 @@ koito, shtom bŭde spomenat Allakh, sŭrtsata im trŭpnat, i tŭrpelivite pred o
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	ထိုသူတို့သည် အလ္လာဟ်အရှင်မြတ်၏ နာမတော်ကို ကြားရသောအခါ သူတို့၏စိတ်နှလုံးများသည် ကြောက်ရွံ့ တုန်လှုပ်ကြ၏၊ မည်သည့်အဖြစ်အပျက်ကျရောက်စေကာမူ သည်းခံခြင်းရှိကြ၏၊ ဆွလားသ်ဝတ်ပြုကြ၏၊ ငါပေးသနားတော်မူသောစည်းစိမ်ဥစ္စာများမှ သုံးစွဲကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်(ကျိုးနွံသော)သူတို့အား(၎င်းတို့ ရှေ့ဝယ်)အလ္လာဟ်အရှင်မြတ်နှင့်ပတ်သက်၍ ပြောဆိုခဲ့သောအခါ ၎င်းတို့၏ စိတ်နှလုံးများသည် ထိတ်လန့် တုန်လှုပ်၍ သွားကြလေသည်။ ထို့ပြင်(အသင်သည်)မိမိတို့၌ သက်ရောက်သော ဘေးဒုက္ခများနှင့်စပ်လျဉ်း၍ သည်းခံခြင်းတရားထားရှိကြသော သူတို့အားလည်းကောင်း၊ ဆွလာတ်ဝတ်ပြုမှုကို အမြဲမပြတ်ဆောက်တည်ကြသော သူတို့အားလည်းကောင်း၊ မိမိတို့အား ငါအရှင်မြတ်က ချီးမြှင့်ပေးသနားတော်မူခဲ့သော ပစ္စည်းဥစ္စာများအနက်မှ လှူဒါန်းသုံးစွဲကြသူတို့အားလည်းကောင်း (သတင်းကောင်းကို ပြောကြားပါလေ)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

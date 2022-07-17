@@ -710,6 +710,12 @@ Allakh iska da vi razyasni i da vi nasochi po pŭtishtata na onezi, koito byakha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	အလ္လာဟ်အသျှင်မြတ်သည် သင်တို့အား သင်တို့မဖြစ်ထွန်းမီ ဖြစ်ပေါ်လာသော ရှေးလူဟောင်းတို့၏ ဥပမာများကိုဆောင်၍ သွန်သင်တော်မူ၏။ နည်းပြလမ်းညွှန် အလင်းပြန်တော်မူ၏။ သင်တို့ဘက်သို့ သနားကြင်နာခြင်းဖြင့် ရှုစားတော်မူ၏။ အလ္လာဟ်အသျှင်မြတ်သည် သိမြင်တော်မူသော၊ ဉာဏ်ပညာ ရှိတော်မူသောအသျှင် ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့အဖို့ (မိမိအမိန့်တော်များကို) ရှင်းလင်း ဖော်ပြတော်မူရန်လည်းကောင်း၊ သင်တို့အလျင်ရှိခဲ့ကြသော သူ (တော်စင်) တို့၏ တရားနည်းလမ်းတို့ကို ညွှန်ကြား ပြသတော်မူရန်လည်းကောင်း၊ (မိမိ) ကရုဏာတော်နှင့် အသင်တို့ဘက်သို့ ပြန်လှည့်တော်မူရန်လည်းကောင်း ရည်စူးတော်မူလေသည်။ စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့ သိတော်မူသောအရှင်၊ ကျိုးကြောင်းဆင်ခြင်တုံတရားနှင့် ပြည့်စုံတော်မူသောအရှင်မြတ် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

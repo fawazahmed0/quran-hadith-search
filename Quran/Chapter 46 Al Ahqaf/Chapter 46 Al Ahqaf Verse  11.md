@@ -710,6 +710,12 @@ Nevernitsite rekokha za vyarvashtite: “Ako toĭ beshe dobro neshto, nyamashe 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	ယုံကြည်သူတို့အား မိစ္ဆာဒိဋ္ဌိတို့ပြောဆိုကြသည်မှာ အကယ်၍ ဤကျမ်းတော်သည် ကောင်းမြတ်ပါလျှင် သူတို့ သည် ကျမ်းတော်အတိုင်း မကျင့်ကြံပဲ ဤကျမ်းသည် အလွန်ဟောင်းမြင်းသောမုသားစကားများသာတည်းဟု ဆိုကြကုန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား သွေဖည်ငြင်းပယ်သောသူတို့သည် ‘မုအ်မင်န်’ သက်ဝင် ယုံကြည်သောသူတို့နှင့် ပတ်သက်၍(ဤသို့)ပြောဆိုကြကုန်၏။ အကယ်၍ ထိုကုရ်အာန်သည်ကောင်းမြတ်သော အရာတစ်စုံတစ်ခုဖြစ်ခဲ့မူ ထို ‘မုအ်မင်န်’သက်ဝင်ယုံကြည်သူတို့မှာ ငါတို့ထက်ဦးစွာ ယင်းကုရ်အာန်ကို သက်ဝင်ယုံကြည် နိုင်ကြမည်မဟုတ်ပေ။ တစ်ဖန် ၎င်းတို့သည် ယင်းကုရ်အာန်ကျမ်းတော်မြတ်ဖြင့် တရားလမ်းမှန်ကို မရခဲ့ကြသောအခါ ၎င်းတို့က ဤသည် ရှေးဟောင်းမုသားပင် ဖြစ်သည်ဟူ၍ ပြောဆိုကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I se prikri ot tyakh sŭs zavesa. I pratikhme pri neya Nashiya Dukh, koĭto ĭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	သူမသည် သူတို့ထံမှခွဲ၍ တကိုယ်တည်းနေ၏။ ထိုအခါငါအရှင်မြတ်သည် သူမထံသို့ ကောင်းကင်တမန်စေလွှတ် တော်မူ၏။ တမန်သည် လူသားအသွင်ဆောင်၍ သူမထံသွား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် ယင်းမရ်ယမ်သည် ထိုအိမ်သူအိမ်သားတို့ (မမြင်နိုင်ရန်)ကန့်လန့်ကာတစ်ခု ချခဲ့လေသည်။ ထို့နောက်ငါအရှင်မြတ်သည် ယင်းမရ်ယမ်၏ထံသို့ မိမိ၏ အထူးကောင်းကင်တမန်ကို စေလွှတ်တော်မူခဲ့လေသည်။ ထိုအခါ ယင်းကောင်းကင်တမန်သည် ထိုမရ်ယမ်၏အရှေ့ဝယ် ပကတိလူသားတစ်ယောက်၏အသွင်ဖြင့် ကိုယ်ထင်ပြခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Nima ne vizhdate kak Allakh sŭtvori sedem nebesa na sloeve
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။ အလ္လာဟ်အရှင်မြတ်သည် ကောင်းကင်ဘုံ ခုနစ်ထပ်ကို တညီတညွတ်တည်းဖန်ဆင်းတော်မူသည်ကို သင်တို့ မမြင်ကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းအရှင်မြတ်သည် မိုးခုနစ်ခုကို မည်သို့မည်ပုံ အထပ်ထပ် ဖန်ဆင်းတော်မူခဲ့သည်ကို အသင်တို့သည် လေ့လာဆင်ခြင် တွေ့မြင်ခဲ့ကြသည် မဟုတ်လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

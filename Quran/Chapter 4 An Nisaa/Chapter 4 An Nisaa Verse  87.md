@@ -710,6 +710,12 @@ Allakh - nyama drug bog osven Nego! Shte vi sŭbere Toĭ v Denya na vŭzkreseni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၇။	အသျှင်မြတ်တစ်ပါး အခြားအသျှင်သခင်မရှိပေ။ အသျှင်မြတ်သည် သင်တို့အားလုံးကို ရှင်ပြန် ထမြောက်ရမည့်နေ့ဘက်သို့ စုရုံးတော်မူမည်။ ထိုနေ့တော်ကြီး ဆိုက်ရောက်လာမည်ကို ယုံမှား သံသယ လုံးဝမရှိနိုင်ပေ။ အကြောင်းတစ်ခုခုကို သိမြင်ပြောကြားရာ၌ အဘယ်သူသည် အလ္လာဟ် အသျှင်မြတ်ထက် သာလွန်မှန်ကန်သနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် အကြင်အရှင်မြတ်ပင်တည်း။ ထိုအရှင်မြတ်မှတစ်ပါး အခြားကိုးကွယ်ရာ အလျင်းမရှိပေ။ ထိုအရှင်မြတ်သည် မုချ အသင်တို့ကို‘ကိယာမတ်’ ခေါ် ရှင်ပြန်ထမည့်နေ့တွင် စုရုံးစေသော်မူအံ့။ ဤအရာ၌ ဒွိဟသံသယ အလျင်းမရှိရပေ။ စင်စစ်သော်ကား စကားအရာ၌ အလ္လာဟ်အရှင်မြတ်ထက် ပိုမိုမှန်ကန်စွာပြောဆိုသောသူ မည်သူရှိပါမည်နည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

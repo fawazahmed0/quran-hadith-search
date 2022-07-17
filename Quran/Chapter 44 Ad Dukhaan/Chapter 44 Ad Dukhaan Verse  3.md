@@ -710,6 +710,12 @@ Nizposlakhme ya Nie v blagoslovena nosht. Nie preduprezhdavame
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	မှတ်သားကြလော့၊ ငါသည် ထိုကျမ်းမြတ်ကို မင်္ဂလာရှိသောညဉ့်တစ်ညဉ့်၌ ထုတ်ပြန်ချပေးသနားတော်မူ၏၊ မှတ်သားကြလော့၊ ငါသည် အမြဲတစေသတိပေးနေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မုချဧကန် ငါအရှင်မြတ်သည် ယင်းကျမ်းဂန်ကို ကောင်းချီးမင်္ဂလာနှင့် ပြည့်စုံသော ညဉ့်တစ်ညဉ့်တွင် ချပေးသနားတော်မူခဲ့၏။ ဧကန်စင်စစ် ငါအရှင်မြတ်သည် သတိပေးတော်မူမည့်အရှင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

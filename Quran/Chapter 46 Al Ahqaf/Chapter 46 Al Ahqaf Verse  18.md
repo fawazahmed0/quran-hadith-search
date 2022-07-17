@@ -710,6 +710,12 @@ spryamo takiva se sbŭdna slovoto sred otminali predi tyakh obshtnosti ot dzhino
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	လွန်လေပြီးသောဂျင်နတ်သားနှင့် လူသားများနှင့်စပ်လျဉ်းသောဗျာဒိတ်တော်သည် ယင်းကဲ့သို့မိုက်သောသူတို့ အပေါ်၌ တည်၏၊ မှတ်သားကြလော့၊ သူတို့သည် ပျက်စီးဆုံးရှုံးသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့ကား အကြင်သူတို့ပင်၊ ဂျင်န်အမျိုးသားတို့ အနက်မှလည်းကောင်း၊ လူသားတို့အနက်မှလည်းကောင်း၊ လွန်လေပြီးဖြစ်သော အမျိုးသားတို့နှင့်အတူ ၎င်းတို့နှင့်ပတ်သက်သော အလ္လာဟ်အရှင်မြတ်၏ အမိန့်တော်မှာ အမှန်ဖြစ်ခဲ့လေပြီ။ ဧကန်မလွဲ ၎င်းတို့မှာ ဆုံးရှုံးသူများပင် ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

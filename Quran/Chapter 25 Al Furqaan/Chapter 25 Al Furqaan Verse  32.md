@@ -710,6 +710,12 @@ I rekokha nevernitsite: “Zashto Koranŭt ne mu be nizposlan navednŭzh?” Tak
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	ထို့အပြင်မယုံကြည်သူတို့က ထိုသူအား ကျမ်းမြတ်ကုရ်အာန်ကို တစ်ကြိမ်တစ်ခါတည်းအပြီးအဘယ်ကြောင့် ချပေးတော်မမူသနည်းဟု ဆိုကြ၏၊ အို--တမန်တော်၊ သင့်အား ကျမ်းတော်ကို ဤကဲ့သို့အကြိမ်ကြိမ်ထုတ်ပြန် တော်မူခြင်းကား သင်၏နှလုံးကို ကျမ်းတော်အားဖြင့် ငါအရှင်မြတ်အားတင်းပေးတော်မူဖို့ရာဖြစ်၏၊ ထို့အပြင် ငါသည် ကျမ်းတော်ကို စနစ်တကျစီစဉ်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ကာဖိရ် သွေဖယ်ငြင်းပယ်သော သူတို့က "အဘယ်ကြောင့် ကုရ်အာန်ကျမ်းတော်မြတ်သည် ထိုသူ၏အပေါ်၌ တစ်ကြိမ်တည်း (အစအဆုံး) အလုံးစုံ ချပေးခြင်းကို မခံခဲ့ရပါသနည်း" ဟု ပြောဆိုကြကုန်၏။ ယင်း(သို့ အလီလီချပေးတော်မူခြင်း)မှာ ငါအရှင်မြတ်သည် အသင်၏စိတ်နှလုံးကို ကြံ့ခိုင်စေတော်မူအံ့သောငှာဖြစ်၏။ ၎င်းပြင် ငါအရှင်မြတ်သည် ယင်းကုရ်အာန်ကျမ်းတော်မြတ်ကို တဖြည်းဖြည်း ဆိုင်းငံ့၍ ချပေးသနားတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

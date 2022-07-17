@@ -710,6 +710,12 @@ Nima nevernitsite smyatat da priemat za pokroviteli Moite rabi, a ne Men? Nie pr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၂။	ငါအရှင်မြတ်မှတပါး ငါ၏ ကျေးကျွန်တို့ကို ကာကွယ်စောင့်ရှောက်သည့်အဆွေခင်ပွန်းများအဖြစ်ဖြင့် ရွေးချယ် ရယူနိုင်သည်ဟု မိစ္ဆာမိုက်တို့က ထင်မှတ်ကြသလော၊ မှတ်သားကြလော့။ ငါသည် မယုံကြည်သူတို့အား ဧည့်ခံဖို့ရာ ငရဲကို အသင့်စီရင်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ပါလျက် ကာဖိရ် သွေဖည်ငြင်းပယ်သော သူတို့က ၎င်းတို့သည် ငါအရှင်မြတ်အားစွန့်၍ ငါအရှင်မြတ်၏ကျွန်များကို (မိမိတို့အား)ကာကွယ်စောင့်ရှောက်သော အဆွေခင်ပွန်များ ပြုလုပ်ခဲ့ကြမည်ဟု ထင်မှတ်ကြလေသလော။ (သို့ဖြစ်လျှင်) ဧကန်စင်စစ် ငါအရှင်မြတ်သည် ဂျဟန္နမ်ငရဲဘုံကို ကာဖိရ်သွေဖည်ငြင်းပယ်သောသူတို့အဖို့ ဧည့်ခံရာဌာနအဖြစ် အဆင့်သင့်ပြုလုပ်၍ ထားရှိတော်မူပြီး ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

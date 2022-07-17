@@ -710,6 +710,12 @@ I im dadokhme yasni znatsi za [sŭdbovnata] povelya. No te izpadnakha v raznogla
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	ငါသည် သူတို့အား ရှင်းလင်းထင်ရှားသောပညတ်တော်များကို ပေးသနားတော်မူ၏၊ သို့သော်တရားအလင်း ရောင်ကို ချပေးသနားတော်မမူမီ သူတို့၌ အချင်းချင်းကွဲလွဲမှုမရှိချေ၊ တရားတော်ကို ပေးသနားတော်မူပြီး မှသာလျှင် မနာလိုဝန်တိုစိတ်ကြောင့် အချင်းချင်းတကွဲတပြားဖြစ်ကြ၏၊ မုချဧကန်သင်၏ အသက်သခင်ကျေးဇူး ရှင်ကြီးသည် ရှင်ပြန်ထမြောက်ရသောနေ့တော်ကြီး၌ သူတို့စပ်ကြားတွင် သူတို့၏ ကွဲပြားမှုများကို စစ်ကြောစီရင် တော်မူလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ၎င်းတို့အားသာသနာ့အရေးနှင့်စပ်လျဉ်း၍ ထင်ရှားစွာသော သက်သေသာဓကများကို ချီးမြှင့်ပေးသနားတော်မူခဲ့၏။ သို့ပါလျက်၎င်းတို့သည် မိမိတို့ထံ အသိပညာ ရောက်လာပြီးနောက်သော်မှပင် မိမိတို့အချင်းချင်း တုပြိုင်သောအားဖြင့် ကွဲလွဲခဲ့ကြကုန်၏။ဧကန်မလွဲ အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် ၎င်းတို့၏အကြားဝယ် "ကိယာမတ်" ရှင်ပြန်ထမည့်နေ့တွင် ၎င်းတို့ ကွဲပြားလျက်ရှိခဲ့ကြသော အရေးကိစ္စနှင့်စပ်လျဉ်း ၍ စီရင်ဆုံးဖြတ်တော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

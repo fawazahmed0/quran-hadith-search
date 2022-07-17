@@ -710,6 +710,12 @@ Istinata Nie khvŭrlyame sreshtu lŭzhata i ya porazyava, i eto ya - pogiva! Gor
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	အကယ်၍ငါသည် သစ္စာတရားတော်အား မိစ္ဆာတရားကို တိုက်စေတော်မူ၏၊ မိစ္ဆာတရားသည် မိမိဦးခေါင်းကို ခွဲ၏၊ မုချဧကန်ပျောက်ကွယ်သွား၏၊ သင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား ဘက်စပ်ပေးသောကြောင့် စိတ်ဒုက္ခ ရောက်မည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသို့ အလျှင်းမဟုတ်။ စင်စစ်မှာကား ငါအရှင်မြတ်သည် အမှန်ကို အမှားပေါ်၌ပစ်ပေါက်တော်မူ၏။ ထိုအခါ ယင်းအမှန်သည် ထိုအမှား၏ဦးနှောက်ကို ထွက်စေ၏။ ထိုအခါယင်းအမှားသည် ရုတ်တရက် ပျောက်ပျက်သွားလေ၏။ စင်စစ်အသင်တို့၌ မိမိတို့၏ ကြံဖန်စွပ်စွဲချက်များကြောင့် ပျက်စီးခြင်းသည် ရှိပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

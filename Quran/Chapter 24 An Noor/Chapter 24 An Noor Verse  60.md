@@ -710,6 +710,12 @@ A prestarelite zheni, koito veche ne se nadyavat na brak, ne e gryakh da svalyat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆ဝ။	သားသမီးမွေးချိန်ကုန်လျက် အရွယ်လွန်ခြင်းကြောင့် အိမ်ထောင်ရာသားရဖို့ရာ မျှော်လင့်ခြင်ကင်းမဲ့သူမိန်းမ တို့သည် မိမိတို့ဖုံးအုပ်ထိုက်သောကိုယ်အင်္ဂါအစိတ်အပိုင်းများမပေါ်စေပဲ အပေါ်ခြံုထည်ကို မသုံးမစွဲခြင်းကြောင့် အပြစ်မထိုက်ချေ၊ သို့သော်ခြံုထည်ကို ဝတ်ဆင်ခြင်းသည် သူတို့အဖို့အရာ သာလွန်လျှောက်ပတ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိမ်းမြားရန် မျှော်လင့်ချက်မရှိကြသော အဖွားအိုများသည် လှပမှုကိုဖော်ပြခြင်းမပြုဘဲ မိမိတို့ ၏(အပို)အဝတ်များကို ချွတ်ထားခြင်းကြောင့် ၎င်းတို့အပေါ်၌ အပြစ်တစ်စုံတစ်ရာမျှ မရှိချေ။ သို့တစေလည်း ၎င်းတို့သည် (ဤသည်မှ)ရှောင်ကြဉ်ကြလျှင် ၎င်းတို့အဖို့ အကောင်းဆုံးပင်။ စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ ကို အကြွင်းမဲ့ကြားတော်မူသော၊ အရာခပ်သိမ်းတို့ကို အကြွင်း မဲ့သိတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

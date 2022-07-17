@@ -710,6 +710,12 @@ Te storvat ot svoite kletvi prikritie i vŭzpirat ot pŭtya na Allakh. Za tyakh 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	သူတို့သည် မိမိတို့ကျိန်ဆိုခြင်းများကို အကာအကွယ်ပြုလုပ်ကြ၏၊ သူတပါးတို့အား အလ္လာဟ်အရှင်မြတ်၏ လမ်းတော်မှ လှည့်သွားစေ၏၊ ထို့ကြောင့်သူတို့သည် ရှက်ဖွယ်သောအပြစ်ဒဏ်ခံကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် မိမိတို့၏ ကျိန်ဆိုချက်များကို အကွယ်အကာ ပြုလုပ်ခဲ့ကြပြီးလျှင် (သူတစ်ပါးတို့ အားလည်း)အလ္လာဟ်အရှင်မြတ်၏လမ်းတော်မှ ပိတ်ပင်တားဆီးခဲ့ကြကုန်၏။ သို့ဖြစ်ပေရာ ၎င်းတို့၌ ဂုဏ်သရေပျက်ပြားစေသော ပြစ်ဒဏ်သည် ရှိချေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A onzi, koĭto e bezrazlichen
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၊၆။ သို့သော် မိမိကိုယ်ကို မိမိပကတိအားဖြင့် ကုံလုံပြည့်စုံသည်ဟု ထင်မှတ်ထောင်လွှားသူကိုမူ သင်သည် အရေးစိုက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သို့ပင်ဖြစ်စေ အကြင်သူသည် အလေးမမူဂရုမစိုက်ခဲ့ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I kolko selishta se vŭzprotivikha na povelyata na svoya Gospod i na Negovite pr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။ များစွာသောလူမျိုးတို့သည် မိမိတို့၏ အရှင်သခင်နှင့် အရှင်မြတ်၏ တမန်တော်တို့ကို တော်လှန်ကြ၏၊ ငါသည် ထိုသူယုတ်မာတို့အား ပြင်းပြင်းထန်ထန်စစ်ကြောတော်မူ၍ ကြီးမားသောအပြစ်ဒဏ်ကို ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား မြောက်မြားစွာသော မြို့ရွာများ(၌နေထိုင်သောသူတို့)သည် မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ အမိန့်တော်ကိုလည်းကောင်း၊ ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော်များ၏ အမိန့်များကိုလည်းကောင်း၊ ဖီဆန်တော်လှန်ခဲ့ကြလေ၏။ သို့ဖြစ်ပေရာ ငါအရှင်မြတ်သည် ယင်း မြို့(သူ)ရွာ(သား)တို့အား ပြင်းထန်စွာ စစ်ဆေးတော်မူသည့်ပြင် ၎င်းတို့အား ဆိုးရွားလှသော ပြစ်ဒဏ်ကို တပ်ရိုက်စီရင်တော်မူခဲ့သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

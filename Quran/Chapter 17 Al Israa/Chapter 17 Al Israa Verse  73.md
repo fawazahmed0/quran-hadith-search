@@ -710,6 +710,12 @@ I se domogvakha da te otklonyat ot onova, koeto ti razkrikhme [o, Mukhammad], za
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၃။	မိုဟမ္မဒ်၊ သင်သည် ငါထုတ်ပြန်ချပေးသနားတော်မူသောကုရ်အာန်ကျမ်းတော်မြတ်နှင့်ဆန့်ကျင်သောတရားကို ဖန်တီးစိမ့်သောငှာ ထိုကျမ်းတော်မြတ်ကို သွေဖယ်ဖို့ရာ မိစ္ဆာမိုက်တို့သည် သင့်အား ဖျားယောင်းသွေးဆောင်ရန် အထူးကြိုးစားအားထု်ကြ၏။ သို့မှသာ သူတို့သည် သင့်အား မိတ်ဆွေအဖြစ်ဖြင့် လက်ခ့လတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်ဧကန် ငါအရှင်မြတ်သည် အသင့်ထံသို့ပို့တော်မူခဲ့သောအမိန့်တော်မှတစ်ပါးကို ငါအရှင်မြတ် အပေါ်၌အသင်လီဆယ်ပြောဆိုအံ့သောငှာ ၎င်းတို့သည် အသင့်အားယင်းအမိန့်တော်မှ ချွတ်ချော်တိမ်းပါး စေအံ့ဆဲဆဲပင် ဖြစ်ခဲ့ကြကုန်၏။ ထိုအခါ ၎င်းတို့သည် အသင့်အား ရင်းနှီးသောအားဖြင့်အဆွေခင်ပွန်းပြုလုပ်ခဲ့ကြမည်အမှန်ပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

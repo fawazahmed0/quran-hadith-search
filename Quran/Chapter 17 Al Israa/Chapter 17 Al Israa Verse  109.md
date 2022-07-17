@@ -710,6 +710,12 @@ I pokorno svezhdat chela do zemyata, placheĭki, i im nadbavya toĭ smirenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၉။	သူတို့သည် မျက်ရည်ကျလျက် ဝပ်တွားကြ၏။ ကျမ်းတော်မြတ်သည် သူတို့၌ နှိမ့်ချခြင်းစိတ်သဘောကု ိတိုး ပွားစေသည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုသူတို့သည် ငိုကြွေးလျက် မျက်နှာအောက်ချကြကုန်၏။ ၎င်းပြင် ယင်းကုရ်အာန် ကျမ်းတော်သည်ထိုသူတို့၌ ချစ်ကြောက်ရိုသေမှုကို ပိုမိုတိုးပွားစေပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

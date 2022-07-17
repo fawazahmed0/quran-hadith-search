@@ -710,6 +710,12 @@ I boĭte se ot izpitanie, koeto ne spoletyava samo ugnetitelite sred vas! I zna
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	သင်တို့အနက် ဒုစရိုက်ပြစ်မှု ကျူးလွန်သူတို့အပေါ်သာ သီးသန့်၍ ကျရောက်မည်မဟုတ်သော ဘေးဒုက္ခကို ကြောက်ရွံ့ရှောင်ရှားကြလော့။ အလ္လာဟ်အသျှင်မြတ်သည် အပြစ်ဒဏ်ပေးတော်မူရာ၌ ပြင်းထန်တော်မူကြောင်းကို မှတ်သားကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်တို့သည် အကြင် ပြစ်ဒဏ်မှကြဉ်ရှောင်ကြလေကုန်။ ထိုပြစ်ဒဏ်သည် အသင်တို့ အနက်မှမတရားကျူးလွန်သူတို့ အပေါ်၌သာလျှင် သီးသန့်၍ အလျင်းသက်ရောက်လိမ့်မည် မဟုတ်ပေ။ ထိုမှတစ်ပါး ဧကန်စင်စစ်အလ္လာဟ်အရှင်မြတ်သည် (ပြစ်မှုဒုစရိုက်ကျူးလွန်သူတို့အား) ပြင်းထန်စွာ ပြစ်ဒဏ် စီရင်တော်မူသောအရှင် ဖြစ်တော်မူသည်ကိုလည်း (ကောင်းစွာ) သိထားကြလေကုန်။ တဖန် အသင်တို့သည် ပြန်လည်၍ သတိရကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Reche: “O, narode moĭ, nima moyat rod e po-dostoen za vas ot Allakh? Vie Go 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၂။	ထိုအခါတမန်တော်သည် သူတို့အား ဟယ်-အချင်းတို့၊ ငါ၏ အမျိုးအနွယ်သည် သင်တို့အတွက် အလ္လာဟ်ထက် မြတ်သလော။ သင်တို့သည် အရှင်မြတ်ကို မလေးမစားပဲ သင်တို့နောက်၌ ထားကြ၏။ မှတ်သားကြလော့။ ငါ၏ အရှင်သခင်သည် သင်တို့ပြုကျင့်သည်ကို ပိုင်းထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ယင်း(နဗီတမန်တော်) ရှုအိုက်ဗ်က(ဤသို့)ပြောဆိုဖြေကြားခဲ့လေသည်။ အို-ငါ၏ အမျိုးသားတို့၊ငါ၏သားချင်းတို့သည် အသင်တို့ရှေ့၌ အလ္လာဟ်အရှင်မြတ်ထက်ပင် ပို၍မြင့်မြတ်ကြပါသလော၊ စင်စစ်မှာမူကား အသင်တို့သည် ထိုအရှင်မြတ်ကိုပင် မိမိတို့၏ကျောနောက်တွင် အမှုမဲ့အမှတ်မဲ့ ပစ်ပယ်ထားခဲ့ကြကုန်၏။ ဧကန်မလွဲ ငါ၏အရှင်မြတ်သည် အသင်တို့ပြုလုပ်လျက်ရှိကြသည်ကိုဝန်းခြုံထားတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

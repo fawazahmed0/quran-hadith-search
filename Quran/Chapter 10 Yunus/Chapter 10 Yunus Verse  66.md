@@ -710,6 +710,12 @@ Da, na Allakh sa vsichki na nebesata i vsichki na zemyata. I kakvo sledvat onezi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၆။	မှတ်သားကြလော့၊ အထက်ကောင်းကင်ဘုံအောက်ကမ္ဘာမြေကြီးပေါ်၌ ရှိရှိသမျှအပေါင်းတို့ကို အလ္လာဟ်အရှင်မြတ် ၏ ဘဏ္ဍာ်တော်များမဟုတ်လော့။ အကြင်သူတို့သည် အလ္လာဟ်အရှင်မြတ်မှတပါး အခြားအရာတစ်စုံတစ်ခုကို လိုက်နာကြ၏။ ထိုသူတို့သည် အရှင်မြတ်၏ ဖက်စပ်သူများကို လိုက်နာကြမည်မဟုတ်ချေ။ မိမိတို့ရမ်းဆခြင်း ကိုသာ လိုက်နာကြ၏။ သူတို့သည် ရမ်းဆကြသည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-ကြားနာရသူ အပေါင်းတို့) အသင်တို့ သည်(ကောင်းစွာ) သတိမူကြလေကုန်၊ ဧကန်အမှန် မိုးကောင်း ကင်၌ရှိသူတို့ကိုလည်းကောင်း၊ ကမ္ဘာ မြေပြင်ဝယ် ရှိသူတို့ကို လည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ်သည်သာလျှင်ပိုင်ဆိုင်တော်မူ၏။စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်အပြင် အခြားကိုနှိုင်းယှဉ်ဖက်များအဖြစ်ဟစ်ခေါ် ကိုးကွယ်ကြကုန်သောသူတို့သည် (မိမိတို့၏)ထင်မြင်ယူဆချက်မှအပ အခြားတစ်စုံတစ်ရာကို လိုက်နာကြသည် မဟုတ်ပေ။ စင်စစ်မူကား၎င်း တို့သည် ရမ်းဆ(ကျင့်ကြံ) နေကြသည်သာတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

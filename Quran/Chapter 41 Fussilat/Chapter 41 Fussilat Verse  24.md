@@ -710,6 +710,12 @@ Dori da tŭrpyat, obitalishteto im e Ogŭnyat. I dori da molyat milost, ne shte 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	သူတို့သည် ထိုအခါသည်းခံသော်လည်း ငရဲမီးသည် သူတို့အမြဲနေထိုင်ရာသာဖြစ်၏၊ သူတို့သည် ကောင်းကြီး မင်္ဂလာတော်ကို တောင်းသော်လည်း သူတို့သည် ကောင်းကြီးမင်္ဂလာရထိုက်သူများမဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ရာ အကယ်၍ ၎င်းတို့သည် (ဤသည်ပျက်စီးဆုံးရှုံးမှု အပေါ်၌) သည်းခံနေကြလျှင်လည်း ငရဲမီးသည် ၎င်းတို့၏နေထိုင်ရာဌာနပင်ဖြစ်၏။ ထိုနည်းတူစွာအကယ်၍ ၎င်းတို့သည် နှစ်သက်မှုကို ရယူလိုငြားအံ့လည်း၎င်းတို့သည် နှစ်သက်မှုကို ရရှိ ကြမည်မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

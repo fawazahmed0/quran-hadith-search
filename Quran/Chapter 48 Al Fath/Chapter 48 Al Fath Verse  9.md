@@ -710,6 +710,12 @@ za da vyarvate v Allakh i v Negoviya Pratenik, i da Go proslavyate, i da Go poch
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	သို့စေလွှတ်တော်မူသည်မှာ သင်လူသားတို့သည် အလ္လာဟ်အရှင်မြတ်နှင့် အရှင်မြတ်၏ တမန်တော်ကို ယုံကြည် ကြစေရန် အရှင်မြတ်သည် သိဒ္ဓိတင်၍ ရိုသေကိုင်းရှိုင်းကြစေရန်၊ အရှင်မြတ် ကျေးဇူးတော်ဂုဏ်တော်ကို နေ့ညဉ့်မခြားချီးမွမ်းစေရန် အလို့ငှာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ယင်းသို့ စေလွှတ်တော်မူခြင်းမှာ) အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်နှင့် ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော်အား သက်ဝင် ယုံကြည်ကြအံ့သောငှာလည်းကောင်း၊ ထိုအရှင်မြတ်(၏သာသနာတော် ရစူလ်တမန်တော်)ကို ကူညီကြအံ့သောငှာလည်းကောင်း၊ ထိုအရှင်မြတ်(၏ရစူလ်တမန်တော်အား ရိုသေကိုင်းရှိုင်းကြအံ့သောငှာလည်းကောင်း၊ ထိုအရှင်မြတ် စင်ကြယ်သန့်ရှင်းတော်မူကြောင်း၊ နံနက်ယံနှင့် ညနေချမ်းတို့၌ မြွက်ဆိုကြအံ့သောငှာလည်းကောင်း၊ ဖြစ်ပေသည်။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

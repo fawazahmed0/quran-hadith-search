@@ -710,6 +710,12 @@ Gospodi nash, ne ni podlagaĭ na izpitanie chrez nevernitsite i ni oprosti! Gos
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။ အို-အကျွနု်ပ်တို့၏ အရှင်သခင်၊ အကျွနု်ပ်တို့အား မယုံကြည်သူတို့၏ ဖိစီး နှိပ်စက်စရာဖြစ်စေတော်မမူပါလင့်၊ အကျွနု်ပ်တို့ကို အပြစ်လွှတ်တော်မူပါ၊ အရှင်သည် မုချဧကန်အနန္တတန်ခိုးတော်သခင်၊ သဗ္ဗညုတဉာဏ်တော်ရှင် ဖြစ်တော်မူပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ကျွန်တော်မျိုးတို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ အရှင်မြတ်သည် ကျွန်တော်မျိုးတို့အား ‘ကာဖိရ်’ သွေဖည်ငြင်းပယ်သူတို့၏ ဖိစီးနှိပ်စက်မှု ခံကြသောသူများ ပြုလုပ်တော်မမူပါနှင့်။ ထိုမှတစ်ပါး အရှင်မြတ်သည် ကျွန်တော်မျိုးတို့၏(ပြစ်မှုဒုစရိုက်များ)ကို ခွင့်လွှတ်ချမ်းသာ ပေးတော်မူပါ။ အို-ကျွန်တော်မျိုးတို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ ဧကန်မလွဲ အရှင်မြတ်သည်သာလျှင် အလွန်တရာ ခန့်ညားတော်မူသောအရှင်၊ သိမ်မွေ့သော ဆင်ခြင်တုံတရားနှင့် ပြည့်စုံတော်မူသောအရှင်၊ ဖြစ်တော်မူပါ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

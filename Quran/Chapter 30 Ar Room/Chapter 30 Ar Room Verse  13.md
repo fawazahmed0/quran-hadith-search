@@ -710,6 +710,12 @@ I ne shte imat zastŭpnitsi sred onezi, koito te sa sŭdruzhavali, i ot sŭdruzh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	သူတို့ အလ္လာဟ်အရှင်မြတ်နှင့် တန်းတူပြိုင်ဆိုင်ထားသောဘုရားတုများမှ သူတို့အား တောင်းပန်ကယ်နှုတ်သူ တစ်ယောက်မျှရှိမည်မဟုတ်ချေ၊ ထိုနေ့၌ သူတို့သည် မိမိတို့၏ဘုရားပျက်များကို စွန့်ပစ်ကြလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (ထိုနေ့တွင်)၎င်းတို့၏ တွဲဖက် နှိုင်းယှဉ်ဖက်တို့အနက် ၎င်းတို့အား ကြားဝင်အသနားခံ၍ ပေးမည့်သူများဟူ၍ ရှိလိမ့်မည် မဟုတ်ပေ။ ထို့ပြင် ၎င်းတို့ကိုယ်တိုင်ပင် မိမိတို့၏ တွဲဖက်နှိုင်းယှဉ်ဖက်များအား ငြင်းပယ်ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

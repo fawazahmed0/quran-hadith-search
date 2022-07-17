@@ -710,6 +710,12 @@ Edin Den Allakh shte gi vŭzkresi vsichki i shte gi izvesti za tekhnite dela. Al
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	ထိုအပြစ်ဒဏ်တော်ကို အလ္လာဟ်အရှင်မြတ်သည် သူတို့အား ပြန်ရှင်စေပြီးလျှင် သူတို့ပြုကျင့်ခဲ့သောကုသိုလ်၊ အကုသိုလ်အပေါင်းကို ပြသထင်ရှားစေသောနေ့တော်ကြီး၌ သူတို့ခံစားကြရလတ့ံ၊ သူတို့သည် မိမိတို့အပြုအမူ များကို မေ့လျော့နေငြားသော်လည်း အလ္လာဟ်အရှင်မြတ်သည် ထိုပြုကျင့်မှုများကို အလုံးစုံမှတ်သားထားတော် မူပြီ၊ အကြောင်းမူကား အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့သိတော်မူထသောသက်သေ တော်ကြီးဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်နေ့တွင် အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့အားလုံးကို ရှင်ပြန်ထစေတော်မူပြီးနောက် ၎င်းတို့ ကျင့်မူခဲ့သမျှတို့ကို ၎င်းတို့အား သိစေတော်မူပေမည်။ အလ္လာဟ်အရှင်မြတ်သည် ထိုအကျင့်အမူကို ရေတွက် မှတ်သား၍ ထားရှိတော်မူ၏။ သို့ရာတွင် ၎င်းတို့မှာမူကား ယင်းအကျင့်အမူကို မေ့ပျောက်ကြကုန်၏။ အမှန်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့အပေါ်ဝယ် မျက်မြင်သက်သေ ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Reche [Musa]: “O, Kharun, shtom gi vidya, che se zabluzhdavat, kakvo ti poprec
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၂။ ၉၃။ မူစာက အို--ဟာရွန်၊ သူတို့သည် လမ်းမှားသို့သွားသောအခါ သင်သည် သူတို့ထံမှ ထွက်ခွာ၍ အကျွနု်ပ်ထံသို့ မလိုက်လာရအောင် သင့်အား မည်သည်က ဆွဲထားသနည်း၊ သင်သည်လည်း ငါ့အမိန့်ကို မနာခံသလောဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထို့နောက်) မူစာသည်(ပြန်လာပြီးလျှင် ဟာရူန်အား) အို-ဟာရူန် အသင်သည် ၎င်းတို့ လမ်းမှားခဲ့ကြသည်ကိုတွေ့မြင်ခဲ့သောအခါ၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

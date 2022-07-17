@@ -710,6 +710,12 @@ A onezi, koito ne povyarvakha, shte nakazha s tezhko mŭchenie v zemniya zhivot 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၆။	အယူမှားသူတို့အား ငါသည် ဤဘဝ၊ နောင်ဘဝ နှစ်ဘဝလုံး၌ အလွန် ပြင်းထန်ကြီးလေးသော အပြစ်ဒဏ်တော်ကိုခတ်မည်။ သူတို့၌ ကူညီစောင်မသူများရှိကြမည်မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်လေရာ မယုံမကြည် သွေဖည်ငြင်းပယ်သော ကာဖိရ်တို့ကိုမူကား ငါအရှင်မြတ်သည် ယင်းသူတို့အားပစ္စုပ္ပန်ဘဝ၌လည်းကောင်း၊ နောင် တမလွန်ဘဝ၌လည်းကောင်း၊ ပြင်းထန်စွာသော ပြစ်ဒဏ်ကို ခတ်တော်မူအံ့။ထိုမှတစ်ပါးတုံ ယင်းသူတို့အား ကူညီမိုင်းမမည့်သူဟူ၍လည်းတစ်ဦးတစ်ယောက်မျှ ရှိလိမ့်မည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

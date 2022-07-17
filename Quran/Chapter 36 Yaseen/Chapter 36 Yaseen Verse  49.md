@@ -710,6 +710,12 @@ Ochakva gi samo edin Vik, koĭto shte gi sgrabchi, kakto sporyat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	ထိုသူယုတ်တို့သည် ပြင်းထန်သောပေါက်ကွဲခြင်းကိုသာ စောင့်ဆိုင်းနေကြသည်၊ ထိုပေါက်ကွဲခြင်းသည် သူတို့ အား အချင်းချင်းငြင်းခုံနေကြစဉ်တွင် ရုတ်တရက်ထိခိုက်လတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (စင်စစ်သော်ကား) ၎င်းတို့သည် မိမိတို့အား ဖမ်းဆီးကွပ်မျက်အံ့သော ပြင်းထန်စွာ ဟစ်အော်သံ တစ်ခုကိုသာလျှင် စောင့်မျှော်၍ နေကြကုန်၏။ ထိုအခါ၌ ၎င်းတို့သည် မိမိတို့အချင်းချင်း အငြင်းပွားလျက်ပင် ရှိကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

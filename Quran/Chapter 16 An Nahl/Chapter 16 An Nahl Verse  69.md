@@ -710,6 +710,12 @@ Posle yazhte ot vsichki plodove i sledvaĭte pŭtishtata na vashiya Gospod, ule
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၉။	ထို့နောက် သစ်သီးအမျိုးမျိုးမှ စားသောက်လော့။ သင် လွယ်ကူစွာလိုက်နာဖို့ စီရင်ထားတော်မူသောသင်၏ ကျေးဇူးတော်သခင်၏ နည်းလမ်းများကို လိုက်နာဆောင်ရွက်လော့။ သူတို့၏ ဝမ်းတွင်းမှ အသွေးအရောင် အမျိုးမျိုးသောပျားရည်ကို ရ၏။ ပျားရည်သည် လူသားတို့အတွက် ရောဂါပျောက်စေတတ်သောဆေးဖြစ်၏။ မှတ်သားကြလော့၊ ဤအချင်းအရာ၌ တွေးတောဆင်ခြင်တတ်သူတို့အဖို့အရာ သာဓကတော်တစ်ပါးအမှန်ပင် ပါရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက်အသင်သည်အသီးအနှံအမျိုးမျိးကိုစုတ်ယူစားသုံးလေသည်။ တစ်ဖန်အသင်သည် အသင့်အားမွေးမြူဖန်ဆင်းတော်မူသော အရှင်မြတ်၏ လွယ်ကူလျက်ရှိသောလမ်းများကို လျှောက်လေလော့။ ယင်းပျားကောင်၏ဝမ်းဗိုက်များမှ အရောင်အမျိုးစုံရှိသော သောက်သုံးဖွယ်ရာ(ပျားရည်)သည်ထွက်လေသည်။ ယင်းသောက်သုံးဖွယ်(ပျားရည်)၌လူတို့အဖို့ အနာရောဂါ ပျောက် ကင်းခြင်းသည်ရှိပေသည်။ ဧကန်မလွဲ ဤသည်၌ စဉ်းစားဆင် ခြင်တတ်သောသူတို့အဖို့ အမှန်ပင် သက်သေသာဓကသည် ရှိပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

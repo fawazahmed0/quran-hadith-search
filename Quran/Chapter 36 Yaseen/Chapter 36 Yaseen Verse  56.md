@@ -710,6 +710,12 @@ Te i sŭprugite im shte sa na syanka, oblegnati na prestoli
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၆။	သူတို့နှင့် သူတို့၏မိန်းမတို့သည် သစ်ပင်အုပ်များ၏ အေးမြသောအရိပ်အာဝါသအောက်၌ ဂုဏ်ကျက်သရေ မင်္ဂလာရှိသောပလ္လင်များပေါ်တွင် လဲလျောင်းစံစားနေရကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့နှင့် ၎င်းတို့၏ ကြင်ရာကြင်ဖက်တို့သည် အရိပ်အာဝါသများအောက်တွင် သလွန်များထက်ဝယ် မှီအုံးများကို မှီအုံးလျက် ထိုင်နေကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

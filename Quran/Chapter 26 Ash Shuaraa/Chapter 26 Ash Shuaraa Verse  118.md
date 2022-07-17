@@ -710,6 +710,12 @@ Zatova ot·sŭdi mezhdu nas i spasi men i vyarvashtite, koito sa zaedno s men!�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၈။	ထို့ကြောင့်အရှင်သည် အကျွနု်ပ်တို့အလယ်ကြားတွင် စီရင်ဆုံးဖြတ်တော်မူပါ၊ ပြတ်သားစွာဆုံးဖြတ်တော်မူပါ၊ အကျွနု်ပ်၊ အကျွနု်ပ်နှင့်အတူတကွရှိသောယုံကြည်သူတို့ကို ကယ်နှုတ်တော်မူပါဟု အလ္လာဟ်အရှင်မြတ်ထံ ဆုတောင်း၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပါ၍ အရှင်မြတ်သည် ကျွန်တော်မျိုးနှင့် ၎င်းတို့၏အကြား၌ ထင်ရှားစွာသောအဆုံးအဖြတ်ကို စီရင်ဆုံးဖြတ်ပေးတော်မူပါ။ ထိုမှတစ်ပါး အရှင်မြတ်သည် ကျွန်တော်မျိုးအားလည်းကောင်း၊ ကျွန်တော်မျိုးနှင့်အတူရှိကုန်သော မုအ်မင်န်သက်ဝင်ယုံကြည်သူတို့အား လည်းကောင်း၊ ကယ်တင်တော်မူပါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

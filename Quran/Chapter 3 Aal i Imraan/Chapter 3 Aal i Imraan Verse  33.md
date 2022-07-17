@@ -710,6 +710,12 @@ Allakh izbra nad narodite Adam i Nukh, i roda na Ibrakhim, i roda na Imran
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	အလ္လာဟ်အသျှင်မြတ်သည် တမန်တော်အာဒမ်၊ တမန်တော်နူဟို၊ တမန်တော်အီဗရာဟီမ်၏ အဆက်အနွယ်နှင့် အင်မရာန်၏အဆက်အနွယ်တို့ကို မိမိ၏ အခြားကျေးတော်မျိုး၊ ကျွန်တော်မျိုး များထက် သာလွန်နှစ်သက်မြတ်နိုးတော်မူကြောင်းကို မှတ်သားကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် (နဗီတမန်တော်) အာဒမ်ကိုလည်းကောင်း၊ (နဗီတမန်တော်)နူဟ်ကိုလည်းကောင်း၊ (နဗီတမန်တော်) အစ်ဗ်ရာဟီမ်၏အဆက်အနွယ်ကိုလည်းကောင်း၊ အင်(မ်)ရာန်၏ အဆက်အနွယ်ကိုလည်းကောင်း၊ စကြာဝဠာခပ်သိမ်းတို့အပေါ်ဝယ်ရွေးချယ်မြှောက်စားတော်မူခဲ့လေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

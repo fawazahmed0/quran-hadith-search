@@ -710,6 +710,12 @@ I kogato im byakha cheteni yasnite Ni znameniya, nevernitsite kazvakha za istina
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	ငါ၏ ရှင်းလင်းထင်ရှားသောနှုတ်ကပတ်တော်များကို သူတို့အား ရွတ်ဖတ်ပြသောအခါ သူတို့သစ္စာတရားတော်ကို ဤအရာသည် မျက်လှည့်အတတ်သာဖြစ်၏ဟု ပြောဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ၎င်းတို့၏ရှေ့ဝယ် ငါအရှင်မြတ်၏ ထင်ရှားစွာသော အာယတ်တော်များ ဖတ်ကြားခြင်းခံရလေသောအခါ သွေဖည်ငြင်းပယ်သောသူတို့က အမှန်တရားတည်းဟူသော (ကုရ်အာန်ကျမ်းတော်)နှင့်စပ်လျဉ်း၍ ယင်းအမှန်တရားသည် ၎င်းတို့ထံ ရောက်လာသောအခါ ဤသည် ထင်ရှားစွာသော ပဉ္စလက်အတတ်ပညာ ဖြစ်သည်ဟူ၍ ပြောဆိုကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

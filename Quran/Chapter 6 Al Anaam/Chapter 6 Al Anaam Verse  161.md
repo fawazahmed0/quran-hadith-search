@@ -710,6 +710,12 @@ Kazhi: “Moyat Gospod me napŭti po praviya pŭt - pravata vyara, religiyata na
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၁။	ဟောကြားလော့။ မှတ်သားကြလော့။ အကျွနု်ပ်မှာမူကား မိမိ၏ကျေးဇူးတော်သခင်သည် ဖြောင့်မတ် မှန်ကန်သောတရားလမ်းတော်သို့ ပို့ဆောင်တော်မူပြီး ထိုလမ်းတော်ကြီးသည် မှန်ကန်သော သာသနာတော်ဖြစ်၏။ ဆင်းတုရုပ်ပွား မကိုးကွယ်သော ဖြောင့်မတ်တည်ကြည်သော တမန်တော် အီဗရာဟီမ်၏ ဘာသာအယူဝါဒဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (၎င်းတို့အားဤသို့) ပြောကြားပါလေ။ (အချင်းတို့) ငါ၏အရှင်မြတ်သည်ငါ့အားဖြောင့်မတ်မှန်ကန်သော တရားလမ်းသို့ ပို့ဆောင်တော်မူခဲ့လေပြီ။ (ထိုတရားလမ်းမှာ)အလွန်တည်တံ့ ခိုင်ခံ့သောသာသနာပင် ဖြစ်ပေသည်။ တည်ကြည် ဖြောင့်မတ်သော နဗီတမန်တော် အစ်ဗ်ရာဟီမ်၏လမ်းစဉ်ပင် ဖြစ်ပေသည်။ ၎င်းပြင် ထို(နဗီတမန်တော်) အစ်ဗ်ရာဟီမ်သည် တစ်စုံတစ်ရာကိုအလ္လာဟ် အရှင်မြတ်နှင့်တွဲဖက်နှိုင်းယှဉ်ကိုးကွယ်သောသူများတွင် ပါဝင်ခဲ့ သည်မဟုတ်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

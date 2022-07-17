@@ -710,6 +710,12 @@ I vizh kakŭv be krayat na lukavstvoto im - unishtozhikhme tyakh i tekhniya naro
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁။	ထို့နောက်သူတို့အကြံအစည်၏ အကျိုးဆက်ကို ကြည့်လော့၊ ငါသည် သူတို့နှင့်သူတို့လူစုအားလုံးကို တစ်ယောက် မကျန်ဖျက်ဆီးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်၊)အသင်သည် ၎င်းတို့၏အကြံအစည်၏ နောက်ဆုံးအကျိုးသည် မည်သို့မည်ပုံဖြစ်ခဲ့သည်ကို ရှုပါလေ။ ဧကန်မုချ ငါအရှင်မြတ်သည် ထိုသူတို့အားလည်းကောင်း၊ ထိုသူတို့၏အမျိုးသားတို့အားလည်းကောင်း၊ အားလုံးကိုပင် ဖျက်ဆီးတော်မူခဲ့ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

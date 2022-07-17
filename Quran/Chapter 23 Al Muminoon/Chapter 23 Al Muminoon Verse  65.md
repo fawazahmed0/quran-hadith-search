@@ -710,6 +710,12 @@ LA TEXH’ERUL-JEWME ‘INNEKUM MINNA LA TUNSERUNE
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၅။	ဤနေ့၌ အသနားမခံကြလင့်၊ အကယ်စင်စစ်ငါသည် နင်တို့ကို မှိုင်းမတော်မူမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ ၎င်းတို့သည် ငါအရှင်မြတ်အထံတော်မှ) အသင်တို့သည် ဤနေ့တွင် အော်ဟစ်ငိုကြွေးခြင်းကို မပြုလုပ်ကြကုန်လင့်၊ အကြောင်းသော်ကား (ယနေ့ပင်) အသင်တို့ သည် ငါအရှင်မြတ်အထံတော်မှ(မည်သို့မျှ)ကူညီစောင်မတော်မူခြင်းကို ခံကြရမည်မဟုတ်ပြီ(ဟု အဖြေရရှိကြမည်ဖြစ်၏။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

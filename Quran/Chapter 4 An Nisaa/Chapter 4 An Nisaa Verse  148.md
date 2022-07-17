@@ -710,6 +710,12 @@ Allakh ne obicha da se proglasyava za zloto osven ot ugneteniya. Allakh e vsechu
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၈။	မတရားနှိပ်စက်ခြင်းခံရသူမှတစ်ပါး၊ အခြားသူတို့ ဒေါသပါသောစကားဆိုခြင်းကို အလ္လာဟ်အသျှင် သည် နှစ်သက်တော်မမူပေ။ အလ္လာဟ်အသျှင်မြတ်သည် အကြွင်းမဲ့ကြားတော်မူသောအသျှင် အကြွင်းမဲ့သိတော်မူသောအသျှင်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် (သူတစ်ပါး၏) မကောင်းကြောင်း ထုတ်ဖေါ်ပြောဆိုသည်ကို နှစ်မြို့တော်မမူချေ။ သို့ရာတွင် နှိပ်စက်ညှဉ်းပန်းခြင်းခံရသောသူမှာကား (မိမိအားနှိပ်စက်သူ၏ မကောင်းကြောင်းကို ထုတ်ဖေါ်ပြောဆိုပိုင်ခွင့်ရှိပေသည်။) အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် (ညှဉ်းပန်းနှိပ်စက်ခြင်းခံရသောသူ၏ ပြောဆိုမှုကို) ကောင်းစွာ ကြားသိတော်မူသောအရှင်၊ (ညှဉ်းပန်းနှိပ်စက်သောသူ၏ အကြောင်းကိုလည်း) ကောင်းစွာ သိရှိတော်မူသောအရှင် ဖြစ်တော်မူသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

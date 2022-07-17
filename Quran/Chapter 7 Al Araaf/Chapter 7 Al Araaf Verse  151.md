@@ -710,6 +710,12 @@ Reche [Musa]: “Gospodi, oprosti men i brat mi, i ni vŭvedi v Tvoeto milosŭrd
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၁။	တမန်တော်မူဆာသည် အို-အကျွနု်ပ်၏အသျှင်သခင်၊ အကျွနု်ပ်နှင့် အကျွနု်ပ်၏နောင်တော်အား အပြစ်လွှတ်တော်မူပါအသျှင်၊ အကျွနု်ပ်တို့အား အသျှင်၏ ကောင်းချီးမင်္ဂလာအတွင်းသို့ သွင်းတော် မူပါ။ အသျှင်သည် ကောင်းကြီးမင်္ဂလာပေးသူတို့အနက် အထွဋ်အခေါင်ဖြစ်တော်မူပါ၏ဟု ဆုတောင်း၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ထို(နဗီတမန်တော်) မူစာသည်(အလ္လာဟ်အရှင်မြတ် အထံတော်၌ ဤသို့) လျှောက်ထား ပန်ကြားလေသည်။ အို-ကျွန်တော်မျိုး ၏အရှင်၊ အရှင်မြတ်သည်ကျွန်တော်မျိုးအားလည်းကောင်း၊ ကျွန်တော်မျိုး၏နောင်တော်(နဗီတမန်တော်ဟာရူန်)အားလည်းကောင်း၊ (အပြစ်မှ) လွတ်ငြိမ်းချမ်းသာခွင့်ပေးသနားတော်မူပါ။ ၎င်းပြင် အရှင်မြတ်သည်ကျွန်တော်မျိုးတို့အား မိမိ ကရုဏာတော်အတွင်း သွင်းတော်မူပါ။ အမှန်စင်စစ်သော်ကား အရှင်မြတ်သည် သနားကြင်နာသူအပေါင်းတို့တွင် အကြင်နာဆုံးသောအရှင်မြတ်ပင် ဖြစ်တော်မူပါသတည်း။(ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

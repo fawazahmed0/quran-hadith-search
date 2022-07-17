@@ -710,6 +710,12 @@ I ne shte ima selishte, koeto Nie da ne sme pogubili predi Denya na vŭzkresenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈။	ရှင်ပြန်ထမြောက်ရမည့်နေ့တော်ကြီးမဆိုက်ရောက်မီ ငါသည် မြို့ရွာနယ်ပယ်တိုင်းအား ဖျက်ဆီးတော်မူမည်။ သို့မဟုတ် အလွန်ပြင်းထန်သောအပြစ်ဒဏ်ကို ခတ်တော်မူမည်။ ဤအကြောင်းအရာကို ငါ၏ ပညတ်ကျမ်း တော်၌ ဖော်ပြထား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သည့်မြို့ရွာမဆို ငါအရှင်မြတ်သည် ထိုမြို့(သူ)ရွာ(သားတို့)အား ကိယာမတ်မဖြစ်မီအလျင် ဖျက်ဆီးတော်မူမည့်အရှင်၊ သို့မဟုတ် ထိုမြို့(သူ) ရွာ(သားတို့)အား ပြင်းထန်စွာပြစ်ဒဏ်ခတ်တော်မူမည့် အရှင်မြတ်ပင် ဖြစ်တော်မူပေသည်။ဤသည်(လောင်ဟုမဟ်ဖူဇ်)သင်ပုန်းတွင် ရေးသားပြီးဖြစ်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

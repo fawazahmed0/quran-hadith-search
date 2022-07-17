@@ -710,6 +710,12 @@ I se pognakha kŭm vratata, i zhenata skŭsa rizata mu otzad. I se natŭknakha n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	၎င်းအပြင်သူသည် တံခါးဝသို့ အပြိုင်အဆိုင်ပြေး၏။ သူမသည် သူ၏ ရှပ်အကျႌကို ကျောဘက်မှ ဆွဲဆုတ်၏။ သူတို့သည် သူမ၏ သခင်အိမ်ရှင်ကို တံခါးဝတွင် တွေ့ကြ၏။ သူမက အရှင်၏ လူကို မတရားပြုကျင့်လိုသူအား ထောင်ဒဏ်(သို့မဟုတ်)ပြင်းပြနာကျင်ဖွယ်သောဒဏ်မှအပ အဘယ်ဆုရှိမည်နည်းဟု မေး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနောက် ၎င်းတို့နှစ်ဦးသည် တံခါးရှိရာသို့(ရှေ့နောက်)ပြေးခဲ့ကြလေသည်။ ၎င်းပြင် ထိုမိန်းမသည် ယင်းယူဆွဖ်၏အင်္ကျီကို နောက်မှ ဆုတ်ပစ်ခဲ့လေသည်။ ထို့နောက်၎င်းတို့နှစ်ဦးသည် တံခါးဝ၌ ထိုမိန်းမ၏ခင်ပွန်းနှင့်တွေ့ရှိခဲ့လေသည်။ (ထိုအခါ) ယင်းမိန်းမက (ဤသို့)ပြောဆိုခဲ့လေသည်။အသင်၏ အိမ်သူအိမ်သားအား မကောင်းကြံသူ၌ အကျဉ်းချထားခြင်းခံရသည်မှတစ်ပါး၊ သို့မဟုတ် ပြင်းပြ နာကျင်ဖွယ်ဖြစ်သောပြစ်ဒဏ်ပေးခြင်း(ကိုခံရသည်) မှတစ်ပါး၊ မည်သည့်ပြစ်ဒဏ်ရှိပါဦးမည်နည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

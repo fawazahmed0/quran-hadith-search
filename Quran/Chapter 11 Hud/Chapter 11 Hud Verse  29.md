@@ -710,6 +710,12 @@ O, narode moĭ, ne iskam ot vas bogat·stvo za tova. Moyata nagrada e edinstven
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	ဟယ်-အချင်းတို့၊ ငါသည် သင်တို့ထံမှ တရားဟောကြားခတစုံတခုကိုမှ မတောင်းချေ။ ငါ၏ ဆုသည် အလ္လာဟ်အရှင်မြတ်၏ အပေါ်မှာသာကျ၏။ ငါသည် ယုံကြည်သူတို့အား ဖယ်ရှားမည်မဟုတ်ချေ။ မှတ်သား ကြလော့၊ သူတို့သည် သူ၏ ကျေးဇူးတော်သခင်ကို ဖူးမြင်တွေ့ဆုံကြရမည်။ သို့သော်သင်တို့သည် ပညာမဲ့သူများ ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အို-ငါ၏အမျိုးသားတို့၊ ငါသည်အသင်တို့ထံ ယင်း (တရားဓမ္မဟောကြားခြင်း) နှင့်စပ်လျဉ်း၍ ပစ္စည်းဥစ္စာ တစ်စုံတစ်ရာကိုမျှ တောင်းသည်မဟုတ်ပေ။ ငါ၏အကျိုးဆုလာဘ်သည် အလ္လာဟ်အရှင်မြတ်အပေါ်၌သာရှိချေသည်။ ထို့ပြင် ငါသည် မုအ်မင်န်သက်ဝင်ယုံကြည်ခဲ့ကြသောသူတို့အား မောင်းထုတ်မည့်သူလည်း မဟုတ်ချေ။ဧကန်မလွဲ ယင်းသက်ဝင်ယုံကြည်သူတို့ကား မိမိတို့၏ အရှင်မြတ်နှင့်တွေ့ဆုံမည့်သူများတည်း။ သို့ရာတွင် ငါသည် အသင်တို့အား မိုက်မဲနေကြသောသူများ ဖြစ်ကြသည်ဟူ၍သာ တွေ့မြင်လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

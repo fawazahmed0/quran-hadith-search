@@ -710,6 +710,12 @@ imasht sila, utvŭrden pri Vladetelya na Trona
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၀။ ထိုကောင်းကင်တမန်သည် တန်ခိုးအာနုဘော်နှင့်ပြည့်စုံ၍ အတိုင်းထက်အလွန်မြင့်မြတ်သောရာဇပလ္လင်တော် အရှင်ရှေ့တော်ဝယ် ချီးမြှောက်ခြင်းခံရသူဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုစေတမန်သည်) ခွန်အား ကြီးမားသူ၊ ‘အရ်ရှ်’ပလ္လင်တော်ကို စိုးပိုင်တော်မူသော အရှင်မြတ်၏ အပါးတော်၌ ဂုဏ်အသရေရှိသူဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Negovo e vsichko na nebesata i vsichko na zemyata, i vsichko mezhdu tyakh, i vsi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	မိုးမြေနှင့် မိုးမြေစပ်ကြားရှိရှိသမျှသော၊ မြေကြီးအောက်ရှိသောအရာခပ်သိမ်းကုန်တို့ကို စိုးပိုင်တော်မူသောအရှင်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မိုးကောင်းကင်များ၌ ရှိသမျှတို့သည်လည်းကောင်း၊ ပထဝီမြေ၌ ရှိသမျှတို့သည်လည်းကောင်း၊ မိုးကောင်းကင်များနှင့်ပထဝီမြေတို့၏ အကြားဝယရှိသမျှတို့သည်လည်းကောင်း၊ မြေအောက်၌ရှိသမျှ တို့သည်လည်းကောင်း၊ ထိုအရှင်မြတ် ပိုင်ဆိုင်တော်မူသော အရာများသည်လျှင် ဖြစ်ကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

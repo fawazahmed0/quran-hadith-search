@@ -710,6 +710,12 @@ Taĭno ili otkrito da izrichate dumite si, Toĭ znae sŭkrovenoto v sŭrtsata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။ သင်တို့သည် မိမိတို့အယူဝါဒကို တိတ်တဆိတ်ထားသော်လည်းကောင်း၊ ကြေငြာသော်လည်းကောင်း၊ အရှင် မြတ်သည် လူတို့စိတ်နှလုံးများအတွင်းရှိသမျှတို့ကို အကြွင်းမဲ့သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အသင်တို့သည် မိမိတို့၏ စကားများကို လျှို့ဝှက်စွာပြောဆိုကြသည်ဖြစ်စေ၊ ကျယ်လောင်စွာ ပြောဆိုကြသည်ဖြစ်စေ၊ ဧကန်စင်စစ် ထိုအရှင်မြတ်မှာမူကား စိတ်နှလုံးများအတွင်းဝယ် ရှိသည်တို့ကိုပင် အကြွင်းမဲ့သိရှိတော်မူသောအရှင် ဖြစ်တော် မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

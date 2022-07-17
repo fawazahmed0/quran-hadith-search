@@ -710,6 +710,12 @@ Ili imate sigurnost, che Onzi, Koĭto e na nebeto, ne shte izprati sreshtu vas 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။ ထို့အပြင် သင်တို့အပေါ်သို့ ပြင်းထန်လှသော လေသင်တုံးကို တိုက်ခတ်စေတော်မူမည် မဟုတ်ဟု သင်တို့သည် အထက်ကောင်းကင်ဘုံရှိ အရှင်မြတ်ထံမှ အာမခံယူပြီးပြီလော၊ သို့သော် သင်တို့သည် ငါပေးတော်မူသောသတိသည် အသို့ဖြစ်သည်ကို သိကြရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် အသင်တို့သည် မိုးကောင်းကင်၌ ရှိတော်မူသော အရှင်မြတ်အား ထိုအရှင်မြတ်သည် အသင်တို့အပေါ်ဝယ် ကျောက်စရစ်မိုး ရွာသွန်း စေတော်မူမည် မဟုတ်ဟူ၍ စိုးရိမ်ခြင်း ကင်းကြလေပြီလော။ သို့ဖြစ်လျှင် မကြာမြင့်မီပင် ငါအရှင်မြတ်၏ သတိပေးနှိုးဆော်မှုသည် မည်သို့ရှိခဲ့သည်ကို သိရှိ ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

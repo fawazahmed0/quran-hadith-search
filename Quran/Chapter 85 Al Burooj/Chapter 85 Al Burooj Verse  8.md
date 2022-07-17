@@ -710,6 +710,12 @@ I gi vŭznenavidikha samo zashtoto vyarvakha v Allakh, Vsemogŭshtiya, Vseslavni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။ အနန္တတန်ခိုးတော်ရှင်၊ ချီးမွမ်းခြင်းတည်ရာသခင်၊ အလ္လာဟ်အရှင်မြတ်အား ယုံကြည်မှုမှတပါး အခြားအမှုမရှိပဲ လျက် ထိုမီးရှင်တို့သည် ယုံကြည်သူတို့ကို နှိပ်စက်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ၎င်းတို့သည် ထို"မုအ်မင်န်" သက်ဝင်ယုံကြည်သူတို့၌ တန်ခိုးကြီးမားတော်မူသော၊ ချီးမွမ်း ထောပနာအပေါင်းကို ခံယူထိုက်တော်မူသော အကြင်အလ္လာဟ်အရှင်မြတ်အား သက်ဝင်ယုံကြည်ကြသည် မှတစ်ပါး အခြားတစ်စုံတစ်ရာကိုမျှ တွေ့ရှိခဲ့ကြသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

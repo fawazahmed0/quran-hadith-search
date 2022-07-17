@@ -710,6 +710,12 @@ I tozi [Mukhammad] e predupreditel, podoben na pŭrvite preduprediteli
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၆။	ဤတမန်တော်သည် သင်လူသားတို့အား သွန်သင်ဆုံးမသတိပေးရန် ပွင့်လာသောရှေးတမန်တော်အဆက်ဆက် တွင် တစ်ဦးဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤ(တမန်တော်)သည် ရှေးဟောင်း သတိပေးနှိုးဆော်သူတို့တွင် တစ်ပါးအပါအဝင်ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

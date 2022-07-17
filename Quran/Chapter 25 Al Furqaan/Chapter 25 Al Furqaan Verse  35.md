@@ -710,6 +710,12 @@ Veche dadokhme na Musa Pisanieto i za negov pomoshtnik opredelikhme brat mu Khar
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	ငါသည် တမန်တော်မူစာအား ကျမ်းတော်တစ်စောင်ချပေးသနားတော်မူ၏၊ သူ၏ အစ်ကိုတမန်တော်ဟာရွန် ကိုလည်း သူ၏အခိုင်းအစေဖြစ်စေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး စင်စစ်ဧကန် ငါအရှင်မြတ်သည် မူစာအား (တောင်ရာတ်)ကျမ်းဂန်ကို ချီးမြှင့် ပေးသနားတော်မူခဲ့၏။ ၎င်းပြင် ထိုမူစာနှင့်အတူ ၎င်း၏နောင်တော် ဟာရူန်အား ကူညီဖော်ကူညီဖက်အဖြစ် ပြုလုပ်ပေးတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

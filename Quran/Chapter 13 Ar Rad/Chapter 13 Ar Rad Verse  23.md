@@ -710,6 +710,12 @@ gradinite na Adn. Shte vlyazat v tyakh i te, i koĭto e pravednik sred tekhnite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	ဤလူတို့သည် မိမိတို့၏ မိဘဘိုးဘွား၊ သားမယားတို့အနက် ကုသိုလ်ကောင်းမှုပွားများသူတို့နှင့်တကွ သုခ ဥယျာဉ်တော်ကြီးများသို့ ဝင်ကြရမည်။ ကောင်းကင်တမန်တော်တို့သည် သူတို့ထံသို့ တံခါးပေါက်တိုင်းမှ ဝင်ရောက်လာကြမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဆိုလိုသည်ကား ၎င်းတို့အဖို့) ထာဝရတည်သော ဥယျာဉ်များသည် (ရှိပေမည်)။ ၎င်းတို့သည် ထိုဥယျာဉ်များသို့ (မိမိတို့ကိုယ်တိုင်လည်း)ဝင်ရောက်ကြပေမည်။ ထိုမှတစ်ပါး ယင်းတို့၏အဖ၊ ဘိုး၊ ဘေးတို့အနက်မှလည်းကောင်း၊ ယင်းသူတို့၏ ကြင်ယာကြင်ဖက်တို့အနက်မှလည်းကောင်း၊ ယင်းတို့၏သား၊ မြေး၊ မြစ်တို့အနက်မှလည်းကောင်း၊ (ဂျန္နတ်၏) ထိုက်တန်သောသူတို့သည်လည်း(ဝင်ရောက်ကြပေမည်)။ ၎င်းပြင် မလာအိကဟ်ကောင်းကင်တမန်များသည် ထိုသူတို့ထံသို့ တံခါးတိုင်းမှဝင်ရောက်ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

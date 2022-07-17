@@ -710,6 +710,12 @@ Allakh! Toĭ e Davashtiya prepitanieto, Vladetelya na silata, Vsemogŭshtiya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈။	မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည်၊ အရှင်မြတ်သည် စားနပ်ရိက္ခာပေးသနားတော်မူသောအရှင်၊ အနန္တတန်ခိုးတော်ရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ် ကိုယ်တော်တိုင်ပင် စားနပ်ရိက္ခာ ချီးမြှင့် ပေးသနားတော်မူသောအရှင်၊ စွမ်းအားကို ပိုင်ဆိုင်တော်မူသောအရှင်၊ ကြံ့ခိုင်တော် မူသောအရှင်၊ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

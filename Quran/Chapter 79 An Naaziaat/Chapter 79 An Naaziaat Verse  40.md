@@ -710,6 +710,12 @@ Za koĭto se e strakhuval da ne zastane pred svoya Gospod [s gryakh] i e vŭzd�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၀၊၄၁။ သို့သော် မိမိအရှင်သခင်ရှေ့တော်ဝယ် ရပ်ရမည်ကို ကြောက်ရွံ့၍ မိမိဝိညာဉ်ကို လောဘဇောမှ ထိန်းသိမ်းသူကား နိဗ္ဗာန်ဥယျာဉ်တော်တွင် စံမြန်းရလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကြင်သူသည် မိမိအား ဖန်ဆင်းတော်မူသောအရှင်မြတ်၏ ရှေ့တော်မှောက်ဝယ် မတ်တပ်ရပ်ရမည်ကို ကြောက်ရွံ့စိုးရိမ်ခဲ့လေသည်။ ၎င်းပြင် ထိုသူသည် စိတ်ကိုလည်း (မကောင်းသော) အလိုဆန္ဒများမှ တားမြစ်ခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

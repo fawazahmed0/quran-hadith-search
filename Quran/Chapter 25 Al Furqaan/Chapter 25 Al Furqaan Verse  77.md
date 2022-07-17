@@ -710,6 +710,12 @@ Kazhi: “Ne bi vi obŭrnal vnimanie moyat Gospod, osven ako ste go prizovavali.
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၇။	အို--တမန်တော်မိုဟမ္မဒ်၊ သင်သည် မိစ္ဆာမိုက်တို့အား ဟောကြားလော့၊ ဟယ်-အချင်းတို့၊ ငါ၏အသက်သခင် ကျေးဇူးရှင်သည် သင်တို့၏ဆွလားသ်ဝတ်ပြုခြင်းကြောင့်သာမဟုတ်လျှင် သင်တို့ကို အရေးစိုက်တော်မူမည် မဟုတ်ချေ၊ သို့သော်ယခုသင်တို့သည် သစ္စာတရားတော်ကို ငြင်းဆန်၏၊ ထို့ကြောင့်စစ်ကြောစီရင်အပြစ်ဒဏ် တော်မူခြင်းရှိလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ပြောကြားပါ လေ။ (အို-အချင်းတို့၊) အကယ်၍ အသင်တို့သည် ဆုတောင်းပတ္ထနာမပြုကြလျှင် ငါ့အားဖန်ဆင်းမွေးမြူ တော်မူသော အရှင်မြတ်သည် အသင်တို့အား လုံးဝဂရုစိုက်တော်မူမည် မဟုတ်ပေ။ ယခုသော်ကား ဧကန်မလွဲ အသင်တို့သည် (ရစူလ်တမန်တော်မြတ်အား လည်းကောင်း၊ ကုရ်အာန်ကျမ်းတော်မြတ်ကို လည်းကောင်း၊) မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်ခဲ့ကြပြီးဖြစ်ရာ မကြာမြင့်မီ ယင်းစွပ်စွဲငြင်းပယ်မှုကြောင့် (အသင်တို့အပေါ်၌)အန္တရာယ်ပင် ဖြစ်ချေအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

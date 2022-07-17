@@ -710,6 +710,12 @@ I ne prestavat nevernitsite da se sŭmnyavat v nego, dokato vnezapno doĭde pri
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။	ထို့အပြင်မယုံကြည်သူတို့က အချိန်တော်ကြီးသည် သူတို့အပေါ်သို့ ရုတ်တရက်ရှောင်တခင်ဆိုက်ရောက်လာသည့် တိုင်အောင် သို့မဟုတ် ပျက်စီးခြင်းအပေါင်းနှင့်တွေ့ကြံုနေရသောနေ့တော်ကြီး၏ အပြစ်ဒဏ်သည် သူတို့အပေါ် သို့ ကျရောက်လာသည့်တိုင်အောင် ကုရ်အာန်ကျမ်းတော်မြတ်ကို ယုံမှားသံသယရှိခြင်းကို ရပ်တန့်ကြလိမ့်မည် မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကာဖိရ်မယုံမကြည် သွေဖည် ငြင်း ပယ်ခဲ့ကြသောသူတို့သည် ထိုသူတို့အပေါ်ဝယ် ကိယာမတ် ရောက်လာသည့်တိုင်အောင်၊ သို့မဟုတ် ထိုသူတို့ထံ အကြောင်းမလှသော(အမင်္ဂလာဖြစ်သော)နေ့၏ ပြစ်ဒဏ်ရောက်လာသည့်တိုင်အောင်၊ ယင်း(ကုရ်အာန်ကျမ်းတော်မြတ်)နှင့်စပ်လျဉ်း၍ ဒွိဟသံသယ၌ပင် ရှိမြဲရှိနေကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

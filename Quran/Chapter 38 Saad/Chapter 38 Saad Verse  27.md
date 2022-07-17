@@ -710,6 +710,12 @@ I ne sŭtvorikhme Nie nebeto i zemyata, i vsichko mezhdu tyakh naprazno, kakto s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။ တဖန်ငါသည် ကမ္ဘာမြေပြင်မိုးကောင်းကင်နှင့်တကွ ေျကာင်းကင်မိုးမြေအကြားခပ်သိမ်းကုန်သောဝထ္ထုများကို အချည်းနှီးအကျိုးမဲ့ဖန်ဆင်းတော်မူသည်မဟုတ်ချေ၊ မယုံကြည်သူမိစ္ဆာမိုက်တို့က ယင်းသို့ဖန်ဆင်းတော်မူသည် ဟု ထင်မှတ်ကြ၏၊ သို့ဖြစ်၍ မိစ္ဆာယုတ်တို့သည် ငရဲမီးတွင် ပျက်စီးဆုံးရှုံးရမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ငါအရှင်မြတ်သည် မိုးကောင်းကင်ကိုလည်းကောင်း၊ ပထဝီမြေကိုလည်းကောင်း၊ ယင်းမိုးကောင်းကင်နှင့် ပထဝီမြေနှစ်ခု၏အကြား၌ ရှိသည်တို့ကိုလည်းကောင်း၊ အချည်းနှီးအကြောင်းမဲ့ ဖန်ဆင်းတော်မူခဲ့သည် မဟုတ်ပေ။ ဤသည် (ဝါ) (အကြောင်းမဲ့ဟူ၍ယူဆခြင်းမှာ) "ကာဖိရ်"သွေဖည် ငြင်းပယ်သောသူတို့၌ ငရဲမီးဖြင့် ပျက်စီးခြင်းရှိပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

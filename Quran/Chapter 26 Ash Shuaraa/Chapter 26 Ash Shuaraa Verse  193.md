@@ -710,6 +710,12 @@ Spusna go dovereniyat Dukh [Dzhibril]
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉၃။	ထိုကျမ်းတော်မြတ်ကို ကောင်းကင်တမန်တော်မင်းကြီးက ယူဆောင်လာ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အရ်ရူဟုလ်အမီန်" (ယုံကြည်စိတ်ချအပ်သောဝိညာဉ်တော်) ကောင်းကင်တမန်ဂျစ်ဗ်ရီလ်သည် ယင်း (ကုန်အာန်ကျမ်းတော်မြတ်)ကို ယူဆောင်ချပေးခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

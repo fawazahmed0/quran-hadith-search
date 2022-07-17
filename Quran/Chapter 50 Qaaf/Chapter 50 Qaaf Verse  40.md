@@ -710,6 +710,12 @@ I prez noshtta Go proslavyaĭ, i sled poklonite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄ဝ။	ထို့အပြင်ညဉ့်တွင်လည်း အရှင်မြတ်အား ဝတ်ပြချီးကျူးလော့၊ ပညတ်တော်မူသည့်အတိုင်း ဦးညွတ်ချ၍ ဝတ်ပြု လော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်သည် ညဉ့်အချိန်၌လည်းကောင်း၊ ‘ဆွလာတ်’ ဝတ်ပြုမှုများ၏နောက်တွင် လည်းကောင်း၊ထိုအရှင်မြတ် စင်ကြယ်သန့်ရှင်းတော်မူကြောင်း မြွက်ဆိုပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

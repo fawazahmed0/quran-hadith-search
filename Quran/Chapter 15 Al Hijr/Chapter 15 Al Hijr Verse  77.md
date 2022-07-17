@@ -710,6 +710,12 @@ V tova ima znamenie za vyarvashtite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၇။	မှတ်သားကြလော့၊ ဤအချင်းအရာများ၌ ယုံကြည်သူတို့အဖို့အရာ သာဓကတော်တစ်ပါးပါရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မလွဲဧကန် ဤသည့်(အဖြစ်အပျက်)၌ မုအ်မင်န်သက်ဝင်ယုံကြည်သူတို့အဖို့ သက်သေလက္ခဏာသည် အမှန်ပင်ရှိပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

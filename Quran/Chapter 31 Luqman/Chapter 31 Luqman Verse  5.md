@@ -710,6 +710,12 @@ Tezi sa napŭteni ot svoya Gospod i tezi sa spoluchilite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	ဤသူတို့သည် သူတို့၏ အသက်သခင်ကျေးဇူးတော်ရှင်အထံတော်မှ လမ်းညွှန်မှုရရှိကြ၏၊ စင်စစ်အားဖြင့် ဤသူတို့သာ အောင်မြင်သူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့ကား မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ် အထံတော်မှ တရားလမ်းမှန်ပေါ်၌ (ရပ်တည်လျက်) ရှိကြပေသည်။ ထိုသူတို့သည်သာလျှင် အောင်မြင်မှုရရှိသောသူများ ဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

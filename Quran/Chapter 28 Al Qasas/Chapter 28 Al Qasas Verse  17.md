@@ -710,6 +710,12 @@ Reche: “Gospodi, zaradi onova, s koeto Ti me oblagodetelstva, nikoga ne shte b
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	တဖန်မူစာက အို-အကျွနု်ပ်၏အရှင်သခင်၊ အရှင်သည် အကျွနု်ပ်အား ကျေးဇူးပြုတော်မူသောကြောင့် အကျွနု်ပ် သည် မည်သည့်အခါမှ အပြစ်ထိုက်သောသူတို့ကို ကူညီသူမဟုတ်ပါဟု တင်လျှောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ထိုမူစာသည် အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ အရှင်မြတ်သည် ကျွန်တော်မျိုး၏အပေါ်၌ ကျေးဇူးပြုတော်မူခဲ့သည်ဖြစ်ရကား၊ ကျွန်တော်မျိုးသည်လည်း (နောင်တွင်) အပြစ်ရှိသူတို့အား မည်သည့်အခါမျှ အကူအညီပေးသူဖြစ်တော့မည် မဟုတ်ပါဟူ၍ လျှောက်ထားခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

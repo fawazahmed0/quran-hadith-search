@@ -710,6 +710,12 @@ O, vyarvashti, ne izyazhdaĭte svoite imoti s izmama pomezhdu si, osven ako e t
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	အို-ယုံကြည်သူတို့ သင်တို့သည် အချင်းချင်း သဘောတူ ဖောက်ကားရောင်းဝယ်မှုပြုခြင်းမှတပါး သင်တို့၏ဥစ္စာစီးပွားကို အလဟဿ မဖြုန်းတီးကြလင့်။ အချင်းချင်း မသတ်ဖြတ်ကြလင့်။ မှတ်သား ကြလော့။ အလ္လာဟ်အသျှင်မြတ်သည် သင်တို့အား အမြဲစေတနာထား ကြင်နာတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို- ‘မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူအပေါင်းတို့၊ အသင်တို့သည် မိမိတို့အချင်းချင်း တစ်ဘက်နှင့်တစ်ဘက် သဘောတူကျေနပ်မှုဖြင့် တစ်စုံတရာ ေရာင်းဝယ်ဖောက်ကားမှု ပြုလုပ်သည်မှတပါး မိမိ ဥစ္စာပစ္စည်းများကို မိမိတို့အချင်းချင်း မတရားသောနည်းနှင့် စားသုံးခြင်းမပြုကြကုန်လင့်။ ၎င်းပြင် အသင်တို့သည် မိမိတို့အချင်းချင်း သတ်ဖြတ်ခြင်းကိုလည်း မပြုကြကုန်လင့်။ ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့အပေါ်ဝယ် အလွန် သနားကြင်နာ ညှာတာတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

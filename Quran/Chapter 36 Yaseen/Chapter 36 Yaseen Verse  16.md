@@ -710,6 +710,12 @@ Rekokha [pratenitsite]: “Nashiyat Gospod znae, che naistina sme izprateni pri 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၊၁၇။	တမန်တော်တို့ပြန်ကြားကြသည်မှာ အသင်တို့အား ဖြောင့်မတ်မှန်ကန်သောတရားတော်ကို ဟောပြောစေခြင်းငှာ ငါတို့ကို စေလွှတ်လိုက်တော်မူ၏၊ ထိုအကြောင်းကို အကျွနု်ပ်တို့၏	အသက်သခင်ကျေးဇူးရှင်ကိုယ်တော်တိုင် သိတော်မူ၏၊ ငါတို့၏ ဝတ္တရားမှာကား အဓိပ္ပါယ်ရှင်းလင်းသည့်ကျမ်းတော်မြတ်ကို ဟောပြောကြေငြာရန်သာ ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုရစူလ်တမန်တော်တို့က ပြောကြားခဲ့ကြကုန်၏။ "ဧကန်မလွဲ ငါတို့သည် အသင်တို့ထံ စေလွှတ်ခြင်းခံကြရသော (ရစူလ်တမန်တော်များ)ဖြစ်ကြောင်းကို ငါတို့အား ဖန်ဆင်း မွေးမြူတော်မူသော အရှင်မြတ်သည် ကောင်းစွာ သိရှိတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

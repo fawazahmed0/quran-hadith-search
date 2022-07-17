@@ -710,6 +710,12 @@ I kogato rekokhme na angelite: “Poklonete se na Adam!”, te se poklonikha, os
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	ငါအရှင်သည် ကောင်းကင်တမန်တို့အား သင်တို့သည် အာဒမ်အား ဦးညွတ်ကြလော့ဟု မိန့်တော် မူသောအခါ အိဘလစ်မှတပါး အခြားကောင်းကင်ကတမန်တို့သည် ဦးညွတ်ကြ၏။ သူသည် မာနကြောင့် အမိန့်တော်ကို မနာခံ။ ထို့ကြောင့် သူသည် မယုံကြည်သူဖြစ်သွား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ပြန်လည်အောက်မေ့ သတိရကြကုန်လော့)တရံရောအခါ ငါအရှင်သည် အပါးတော်စေတမန် များအား အသင်တို့သည် ကမ္ဘာဦးဖခင် အာဒမ်ကို ဦးချကြကုန် ဟုမိန့်ကြားတော်မူသည်။ (ထိုအခါ) ဣဗ်လီစ် မှအပ ကျန်အားလုံးသော အပါးတော် စေတမန်များသည် (ကမ္ဘာဦးဖခင်)အာဒမ်(အ)အား ဦးချကြကုန်၏။ ဣဗ်လီစ် မူကား မောက်မာပလွှား၍ ယင်းအမိန့်တော်ကို ဖီဆန်လေ၏။ သို့အတွက်ကြောင့်သူသည် ကာဖိရ် သွေဖည်တို့တွင် အပါအဝင်တစ်ဦးဖြစ်သွားချေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ da promenim takiva kato vas i da vi presŭzdadem v neshto, koeto ne vi e poznato
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၁။	သင်တို့၏ ပုံသဏ္ဍာန်အသွင်ကို ပြောင်းလဲစေတော်မူမည်၊ သင်တို့အား သင်တို့မသိသောရုပ်ဆင်းသဏ္ဍာန်နှင့် တဖန် ဖန်ဆင်းတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် အသင်တို့ကဲ့သို့သော (အခြား)သူတို့အား ပြောင်းလဲ(ဖန်ဆင်းတော်မူ)ရန် လည်းကောင်း၊ အသင်တို့အား အသင်တို့ပင် မသိကြသော အခြေအနေမျိုး၌ ဖန်ဆင်းတော်မူရန်လည်းကောင်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

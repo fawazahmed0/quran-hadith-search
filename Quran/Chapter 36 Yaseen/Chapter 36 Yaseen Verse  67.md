@@ -710,6 +710,12 @@ I ako pozhelaekhme, na myasto shtyakhme da promenim vida im i nyamashe da mogat 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၇။	ထို့အပြင်ငါသည် အလိုတော်ရှိလျှင် လူသားတို့ကို မိမိတို့နေရာမှ မလှုပ်မရှားမရွေ့မပြောင်းနိုင်သည့်ဘဝသို့ ပြောင်းလဲစေခဲ့လတ့ံ၊ ထိုအခါသူတို့သည် သွားလာလှုပ်ရှားခြင်းကို မပြုလုပ်နိုင်ချေ၊ ဒုစရိုက်မှုများကိုလည်း ကျူးလွန်မည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ အကယ်၍သာ ငါအရှင်မြတ်သည် အလိုရှိတော်မူပါလျှင် ၎င်းတို့၏နေရာ၌ပင် ၎င်းတို့အား ပုံသဏ္ဌာန်ပြောင်းလဲပစ်တော်မူခဲ့ပေမည်။ ထိုအခါ ၎င်းတို့သည် ရှေ့သို့သွားနိုင်ကြမည်လည်း မဟုတ်ပေ။ နောက်သို့ ပြန်လာနိုင်ကြမည်လည်း မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

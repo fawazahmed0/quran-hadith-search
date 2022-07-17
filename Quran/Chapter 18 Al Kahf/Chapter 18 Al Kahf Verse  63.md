@@ -710,6 +710,12 @@ Reche [slugata]: “Vidya li, kogato se priyutikhme do skalata, zabravikh ribata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၃။	ထိုအခါ အို-အရှင်၊ အရှင်မြင်ပါသလော။ အကျွန်ုပ်တို့ကျောက်တုံးကြီးပေါ်တွင်ခိုလှုံနေသောအခါ၊ အကျွနု်ပ်သည် ငါးကို မေ့လျော့သွားပါ၏။ ဤအကြောင်းကို အရှင်အား လျှောက်ထားရန် ရှိုင်တန်မာရ်နတ်မှတပါး အခြား မည်သူမျှ အကျွနု်ပ်ကို သတိလစ်စေမည်မဟုတ်ပါ။ ငါးသည် ရေထဲသို့ အ့ံဖွယ်သရတပါးအားဖြင့် ခုန်ဆင်းသွား လေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ယင်းနောက်ပါတပည့်က (ဤသို့)ပြောဆို ဖြေကြားခဲ့လေသည်။ ကျွန်ုပ်တို့သည် ကျောက်ဆောင်၏အနီးတွင် နားခဲ့ကြသည်ကို (ကိုယ် တော်) သတိရပါလိမ့်မည်။ထိုအခါ ကျွန်ုပ်သည် ဧကန်မလွဲ ငါး(၏ ထူးဆန်းအံ့ဖွယ်သောအကြောင်း)ကို ကိုယ်တော်အား ပြောပြရန်မေ့သွားခဲ့ပါသည်။အမှန်သော်ကား ကျွန်ုပ်အား ယင်း(အကြောင်း)ကို သတိမရနိုင်ရန် ရှိုင်တွာန်မိစ္ဆာကောင်ကသာလျှင် မေ့လျော့စေခဲ့ပါသည်။ စင်စစ် ယင်းငါးသည် မြစ်ထဲတွင် မိမိလမ်းကို ထူးဆန်းအံ့ဩစွာ ပြုလုပ်၍ သွားခဲ့ပါသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Neće vam danas u nju nikako ući siromah
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။ သားချင်းတို့၊ ယနေ့ဥယျာဉ်ထဲတွင် သင်တို့ထံ တစ်စုံတစ်ယောက်သောအထီးကျန်မျှ မဝင်လာစေလင့်ဟုဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့ထံ ယင်းဥယျာဉ်တွင် ယနေ့ သူဆင်းရဲ တစ်ဦးတစ်ယောက်မျှပင် ဝင်ရောက်ခြင်း မရှိရဟူ၍၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

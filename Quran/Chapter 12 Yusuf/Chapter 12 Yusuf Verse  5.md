@@ -710,6 +710,12 @@ Reche: “O, sine moĭ, ne razkazvaĭ svoeto videnie na bratyata si, za da ne 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	ထိုအခါခမည်းတော်က ချစ်သား၊ သူတို့သည် သင့်အား ဘေးအန္တရာယ်မကြံစည်စိမ့်သောငှာ သင်သည် မိမိ အိပ်မက်အကြောင်းကို မိမိအစ်ကိုတို့အား မပြောဆိုလင့်။ မှတ်သားလော့။ ရှိုင်တန်မာရ်နတ်သည် လူသားအဖို့ ပွင့်လင်းသောရန်သူဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ ခမည်းတော် နဗီတမန်တော်ယအ်ကူဗ်က ဤသို့)ပြန်ကြားခဲ့လေ၏။ အို-ချစ်သား၊ အသင်သည်မိမိအိပ်မက်ကို မိမိညီနောင်များရှေ့တွင် ပြော၍မပြလေနှင့်။သို့ပြောပြခဲ့ပါလျှင် ၎င်းတို့သည် အသင်နှင့်ဆန့်ကျင်၍ အကြံအစည်တစ်ခုခုကို လျှို့ဝှက်ကြံစည်ကြပေလိမ့်မည်။ ဧကန်မလွဲရှိုင်တွာန်မိစ္ဆာ ကောင်သည်ကား လူတို့၏ အလွန်ထင်ရှားသောရန်သူပင် ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

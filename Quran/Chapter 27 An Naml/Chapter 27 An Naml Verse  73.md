@@ -710,6 +710,12 @@ Tvoyat Gospod e vladetel na blagodat za khorata, ala povecheto ot tyakh sa nepri
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၃။	မှတ်သားကြလော့၊ သင်၏အသက်သခင်ကျေးဇူးရှင်သည် လူသားအပေါင်းတို့ကို အတိုင်းမသိပေးကမ်းစွန့်ကြဲ တော်မူ၏၊ သို့သော်လူသားများအနက် များစွာသောသူတို့သည် ကျေးဇူးမတင်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ဧကန်အမှန် အသင်တို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် လူတို့အပေါ်၌ အလွန်ကျေးဇူးပြုတော်မူသောအရှင် အမှန်ပင်ဖြစ်တော်မူ၏။ သို့ရာတွင် ထိုလူတို့အနက် များစွာသောသူတို့မှာ ကျေးဇူးမသိတတ်ကြပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

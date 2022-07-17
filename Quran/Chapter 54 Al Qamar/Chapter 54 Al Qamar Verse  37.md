@@ -710,6 +710,12 @@ I poiskakha ot nego da gi dopusne do gostite si, no oslepikhme ochite im. Vkuset
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	ထိုသူတို့သည် သူ၏ဧည့်သည်အာဂန္တုများကို မတရားကျင့်ဖို့ရာ တောင်းသေး၏၊ ထိုအခါငါသည် ထိုသူမိုက် တို့အား မျက်စိကန်းစေတော်မူ၏၊ ထို့နောက်ငါခြိမ်းခြောက်ထားတော်မူသော အပြစ်ဒဏ်တော်၏ အရသာကို မြည်းကြလော့ဟု မိန့်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့သည် ထိုလူ(တ်)၏ ဧည့်သည်များကို ၎င်း၏ထံ၌ (မကောင်းသော ရည်ရွယ်ချက်နှင့်)တောင်းဆိုခဲ့ကြကုန်၏။ သို့ဖြစ်ပေရာ (ငါအရှင်မြတ်သည် ၎င်းတို့၏မျက်စိများကို ကန်းစေတော် မူခဲ့၏။ ထို့နောက် ၎င်းတို့အား) အသင်တို့သည် ငါအရှင်မြတ်၏ ပြစ်ဒဏ်၏ရသာကိုလည်းကောင်း၊ ငါ အရှင်မြတ်၏ သတိပေးနှိုးဆော်မှုများ၏ ရသာကိုလည်းကောင်း၊ မြည်းစမ်းကြလေကုန်(ဟု မိန့်ကြားတော်မူခဲ့၏)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

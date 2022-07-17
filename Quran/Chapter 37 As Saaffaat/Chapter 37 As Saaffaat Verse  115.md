@@ -710,6 +710,12 @@ I spasikhme i tyakh, i naroda im ot ogromnoto bedstvie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၅။	ထို့အပြင် ငါသည် ထိုတမန်တော်နှစ်ပါးနှင့် သူတို့အမျိုးသားတို့ကို အလွန်ကြီးကျယ်သောဘေးအန္တရာယ်မှ ကယ်နှုတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ငါအရှင်မြတ်သည် ထို"မူစာ"နှင့်"ဟာရူန်" နှစ်ဦးတို့အားလည်းကောင်း၊ ထိုနှစ်ဦးတို့၏ အမျိုးသားတို့အားလည်းကောင်း၊ ကြီးကျယ်စွာ သော ပူပင်သောကမှ ကယ်တင်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

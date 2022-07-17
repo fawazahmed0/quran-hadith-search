@@ -710,6 +710,12 @@ Ibrakhim ne be nito yudeĭ, nito khristiyanin, a be pravoveren myusyulmanin, i 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၇။	တမန်တော် အီဗရာဟီမ်သည် ရဟူဒီအမျိုးသားလည်းမဟုတ်။ ခရစ်ယာန်ဘာသာဝင်မျိုးသားလည်း မဟုတ်။ သို့သော် သူသည် အလ္လာဟ်အသျှင်မြတ်ကို ကျိုးနွံ့ယုံကြည်၍ ဖြောင့်မတ်မှန်ကန်သော သူမြတ်ဖြစ်၏။ ထို့ပြင် သူသည် ဆင်းတုရုပ်ပွားကိုးကွယ်သောသူတို့ဘောင်တွင် မပါဝင်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တမန်တော် အစ်ဗ်ရာဟီမ်သည် ယဟူဒီလည်းမဟုတ်ခဲ့ပေ၊ ခရစ်ယာန်လည်း မဟုတ်ခဲ့ပေ၊ အမှန်စင်စစ်အားဖြင့် ဟနီဖ် ဖြောင့်မတ်မှန်ကန်သော၊ မုစ်လင်မ်အမိန့်တော်နာခံသော ပုဂ္ဂိုလ်မြတ်တစ်ပါးသာလျှင် ဖြစ်ခဲ့ပေသည်။ ထိုတမန်တော် (အစ်ဗ်ရာဟီမ်)သည် မုရှ်ရိက်ဘုရားအများ ကိုးကွယ်သော သူများတွင် အပါအဝင်လည်းမဟုတ်ခဲ့ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

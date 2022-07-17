@@ -710,6 +710,12 @@ Te li sa po-dobri, ili narodŭt na Tubbaa i onezi predi tyakh? Pogubikhme gi, za
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	သူတို့သည် တူဘာလူမျိုးနှင့် ၎င်းတို့ထက်ရှေးကျသောလူဟောင်းများထက် သာလွန်ကောင်းမြတ်ကြသလော၊ ငါသည် ထိုသူတို့အားလုံးကို သူတို့၏အပြစ်များကြောင့် ကွပ်မျက်စီရင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့ကား "တွဗ္ဗအ်"၏အမျိုးသားတို့ထက်လည်းကောင်း၊ ထိုအမျိုးသားတို့အလျင် ရှိခဲ့ကြသော သူတို့ထက်လည်းကောင်း၊ သာ၍ ကောင်းကြလေသလော။ ငါအရှင်မြတ်သည် ထိုသို့သော သူတို့ကိုပင် ၎င်းတို့သည် ပြစ်မှုကိုကျူးလွန်သူများ ဖြစ်ခဲ့ကြသောကြောင့် ဖျက်ဆီးတော်မူခဲ့ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

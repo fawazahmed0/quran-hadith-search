@@ -710,6 +710,12 @@ A reshat li da se razvedat - Allakh e vsechuvasht, vseznaesht
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂၇။	သူတို့သည် ကွာရှင်းခြင်းကို အတည်ပြုလိုလျှင် အလ္လာဟ်အရှင်မြတ်သည် အကြွင်းမဲ့ ကြားတော် မူသောအရှင်၊ အကြွင်းမဲ့သိတော်မူသောအရှင်ဖြစ်တော်မူကြောင်းကို သူတို့မှတ်သားကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အကယ်၍သာ ယင်းသူတို့သည်၊ ကွာရှင်း ခြင်းကိုသာ စိတ်ပိုင်းဖြတ်ကြပါလျှင် ဧကန်မုချ အလ္လာဟ် အင်မြတ်သည် (ထိုသူတို့၏ ကျိန်ဆိုချက်တို့ကိုလည်း) အကြွင်းမရှိသိတော်မူသောအရှင်၊ (ထိုသူတို့၏ စိတ်ပြဋ္ဌာန်း ချက်များကိုလည်း) အကြွင်းမရှိ သိတော်မူသောအရှင် ဖြစ် တော်မူလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

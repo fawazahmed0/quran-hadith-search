@@ -710,6 +710,12 @@ Reche [Mukhammad]: “Moyat Gospod znae vsyako slovo na nebesata i na zemyata. T
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	သူက အကျွန်ုပ်၏အရှင်သခင်သည် မိုးကောင်းကင်နှင့် ကမ္ဘာမြေပေါ်ဝယ် ပြောဆိုသည်ကို သိတော်မူ၏၊ အရှင်မြတ်သည် ကြားတော်မူသောအရှင်၊ သိတော်မူသောအရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (နဗီတမန်တော်က)ငါ့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည် မိုးကောင်းကင်၌(ရှိသောစကား)ကိုဖြစ်စေ၊ ပထဝီမြေ၌(ရှိသောစကား)ကို ဖြစ်စေ၊ (အလုံးစုံသော)စကားကို သိတော်မူ၏။ စင်စစ် ထိုအရှင်မြတ်သည် အကြွင်းမဲ့သိတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

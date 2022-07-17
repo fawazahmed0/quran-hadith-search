@@ -710,6 +710,12 @@ A ako vyarvakha i se boyakha, nagrada ot Allakh e naĭ-dobroto, ako znaekha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၃။ အကယ်၍ သူတို့သည် ယုံကြည်လျက် ဒုစရိုက်မကောင်းမှုကို ကြဉ်ရှောင်လျှင် အရှင်မြတ်ပေးသနား တော်မူမည့်ဆုတော်သည် သာလွန်ကောင်းမြတ်လိမ့်မည်။ သူတို့သိလျှင် ကောင်းလေစွ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ယဟူဒီဘာသာဝင်တို့၏ အဖြစ်သည် ဝမ်းနည်းကြေကွဲစရာပင်၊) အကြောင်းမှာအကယ်၍သာ ထိုသူတို့သည်(အလ္လာဟ် အရှင်မြတ်၏ တရား ဒေသနာတော်များကို စိတ်စေတနာဖြူစင်စွာဖြင့်) ယုံကြည်မြတ်နိုး၍ ပြစ်မှုဒုစရိုက်များမှဝေးစွာကြဉ် ရှောင်ပါမူ ယင်းသူတို့သည် (အလွန်ချစ်ကြင်သနားတော်မူသော) အလ’ဟ်အရှင်မြတ်အထံတော်မှ ထူး ကဲမြင့်မြတ်လှစွာသော ဆုလာဘ်ပဏ္ဏာများကို ဧကန် မုချ ရကြကုန်ရာသည်။ ယင်းသူတို့သည် (ဤမျှပင်) သိရှိနားလည်ကြပါမူတော်လေစွတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

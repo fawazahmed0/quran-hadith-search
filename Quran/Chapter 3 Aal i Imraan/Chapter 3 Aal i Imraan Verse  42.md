@@ -710,6 +710,12 @@ I kogato angelite rekokha: “O, Mariam, Allakh te izbra i te prechisti, i te iz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	ကောင်းကင်တမန်တော်တို့က အို...မရယမ် မှတ်သားလော့။ အလ္လာဟ်အသျှင်မြတ်သည် သင့်အား ရွေးကောက်တော်မူပြီး သန့်ရှင်းဖြူစင်စေတော်မူပြီး အသျှင်မြတ် ဖန်ဆင်းတော်မူသော မိန်းမများတို့တွင် သင်မအား အလ္လာဟ်အသျှင်မြတ်သည် သာလွန်နှစ်သက်တော်မူပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တဖန် (သတိရကြလေကုန်) တရံရောအခါ၊မလာအိကဟ် ကောင်းကင်စေတမန်များက (မရ်ယမ်သခင်မအား) အို-မရ်ယမ် မုချဧကန် အလ္လာဟ်အရှင်မြတ်သည် အသင့်အား ရွေးချယ်မြှောက်စားတော်မူခဲ့လေပြီ။မနှစ်မြို့ဘွယ်ရာသော အကြာင်း အရာများမှလည်း ကင်းရှင်းစေတော် မူခဲ့လေပြီ။ ၎င်းအပြင် (ယခုတဖန်) အသင့်အားစကြာဝဋ္ဌာ အပေါင်းရှိ အမျိုးသမီးများ တွင်လည်း ရွေးချယ်မြှောက်စားတော်မူခဲ့လေပြီ ဟု ပြောကြားခဲ့ကြလေ သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

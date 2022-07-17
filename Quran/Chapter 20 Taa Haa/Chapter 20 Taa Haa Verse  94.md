@@ -710,6 +710,12 @@ Reche: “O, sine na maĭka mi, ne me dŭrpaĭ nito za bradata, nito za glavat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၄။	တမန်တော်ဟာရွန်က အို-အကျွနု်ပ်၏မယ်တော်သား၊ အကျွနု်ပ်၏ မုတ်ဆိတ်၊သို့မဟုတ် အကျွနု်ပ်၏ဦးခေါင်းကို မဆွဲပါနှင့်၊ သင်က အကျွနု်ပ်အား သင်သည် အစ္စရာအီလ်လူမျိုးကို ဂိုဏ်းဂဏကွဲပြားစေ၏။ ထို့အပြင်သင်သည် ငါ့အမိန့်လာအောင် စောင့်မနေဟု ပြစ်တင်မည်ကို စိုးရိမ်ပါသည်ဟု ပြောပြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ယင်းဟာရူန်က (ဤသို့) ပြောဆို (ဖြေကြား)ခဲ့၏။ အို-ကျွန်ုပ်၏မိခင်၏သား၊ အသင်သည် ကျွန်ုပ်၏မုတ်ဆိတ်ကိုလည်းကောင်း၊ ကျွန်ုပ်၏ဦးခေါင်းကိုလည်းကောင်း၊ဆွဲကိုင်ခြင်းမပြုပါလေနှင့်။ ဧကန်မလွဲ ကျွန်ုပ်မူကား၊ အသင်သည် ကျွန်ုပ်(ပြောဆိုအံ့သော)စကားကို စောင့်ဆိုင်း(၍နားထောင်)ခြင်းမရှိဘဲ အသင်သည် အစ္စရာအီလီမျိုးနွယ်တို့အချင်းချင်း သွေးကွဲအောင်ပြုခဲ့သည်ဟု ပြောဆိုမည်ကို စိုးရိမ်မိခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

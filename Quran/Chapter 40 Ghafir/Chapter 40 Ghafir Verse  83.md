@@ -710,6 +710,12 @@ I kogato pratenitsite im donasyakha yasnite znatsi, te likuvakha sŭs svoeto zna
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၃။ ထိုမိစ္ဆာဒိဋ္ဌိတို့ထံသို့ တမန်တော်အသီးသီးသည် ထင်ရှားသောသာဓကတော်များကို ယူဆောင်လာသောအခါ ထိုအယူမှားသူတို့သည် မိမိတို့ရရှိပြီးသောလောကီပညာ၌သာ မြူးတူးပလွှားကြ၏၊ သူတို့မယုံကြည်ပျက်ရယ် ကျီစယ်သောအပြစ်ဒဏ်တော်သည် သူတို့ကို ဝိုင်းထား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ၎င်းတို့၏ရစူလ်တမန်တော်များ ၎င်းတို့ထံ ထင်ရှားစွာသော သက်သေလက္ခဏာတော်များကို ယူဆောင်၍လာခဲ့ကြသောအခါ ၎င်းတို့သည် မိမိတို့ထံရှိလေသော (လောကီ)ပညာနှင့်စပ်လျဉ်း၍ မြူးတူးရွှင်ပျော်၊ မော်ကြွားခဲ့ကြကုန်၏။ သို့ရာတွင် ၎င်းတို့သည် ပျက်ချော် ပြောင်လှောင်လျက်ရှိခဲ့ကြသော (ပြစ်ဒဏ်)မှာ ၎င်းတို့အား ဝန်းဝိုင်းခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

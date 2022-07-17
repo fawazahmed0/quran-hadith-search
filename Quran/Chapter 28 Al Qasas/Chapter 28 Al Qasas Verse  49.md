@@ -710,6 +710,12 @@ Kazhi: “Donesete kniga ot Allakh, po-napŭtvashta ot tyakh, da ya posledvam, a
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	အို--မိုဟမ္မဒ၊ သင်သည် ထိုသူတို့အား ဟယ်-အချင်းတို့၊ သင်တို့သည် အမှန်စကားကို ဆိုကြလျှင် ဤကျမ်း တော်မြတ်နှစ်စောင်ထက် သာလွန်ထင်ရှားမွန်မြတ်သောအဆုံးအမတော်တစ်စောင်ကို အကျွနု်ပ်ယုံကြည်လိုက်နာ ဖို့ရာ အလ္လာဟ်အရှင်မြတ်အထံတော်မှ သင်တို့ယူဆောင်ခဲ့လော့ဟု ပြောဆိုလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်၊)အသင်သည် (၎င်းတို့အား)(အချင်းတို့၊) အကယ်၍ အသင်တို့သည် သစ္စာဝါဒီများဖြစ်ကြပါလျှင် အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အထံတော်မှ ဤ(တောင်ရာတ်နှင့်ကုရ်အာန်) နှစ်စောင်လုံးထက် ပိုမို၍တရားလမ်းညွှန်ဖြစ်သော ကျမ်းဂန်တစ်စောင်ကို ဆောင်ကြဉ်းခဲ့ကြလေကုန်။ ငါသည် ယင်းကျမ်းဂန်နှင့်အညီ လိုက်နာပါမည်ဟု ပြောကြားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Za vsichki obshtnosti storikhme obredi, koito da izpŭlnyavat. I da ne se prepir
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၇။	ငါအရှင်မြတ်သည် လူမျိုးတိုင်းကို ၎င်းတို့လိုက်နာဆောင်ရွက်ဖို့ရာ ကျင့်စဉ်များချပေးသနားတော်မူခဲ့ပြီ၊ ဤသူ တို့အား သာသနာတော်ရေးနှင့်စပ်လျဉ်း၍ သင့်အား မငြင်းခုံကြစေလင့်၊ သို့သော်သူတို့အား သင်၏ အသက် သခင်ကျေးဇူးရှင်ဘက်တော်သို့ ဖိတ်မန္တကပြုလော့၊ မှတ်သားလော့၊ သင်သည် မှန်သောညွှန်ပြချက်ကို လိုက်နာ သူအမှန်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် သာသနာဝင်အုပ်စုတိုင်းအဖို့ (ကိုးကွယ်ဆည်းကပ်ရန်) ပညတ်တရားတစ်ခုကို သတ်မှတ်ပြဋ္ဌာန်း၍ ပေးတော်မူခဲ့ရာ ၎င်းတို့သည် ယင်းပညတ်တရားနှင့်အညီ ကိုးကွယ်ဆည်းကပ် လိုက်နာသူများ ဖြစ်ခဲ့ကြကုန်၏။ သို့ဖြစ်ပေရာ (ဤသူတို့သည်) ယင်းအရေးကိစ္စ၌ အသင်နှင့် ငြင်းခုံခြင်းကို မပြုကြရချေ။ ၎င်းပြင် အသင်သည်(လည်း)မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်ဘက်သို့ (၎င်းတို့အား)ဖိတ်ခေါ်လျက်ရှိပါလေ။ ဧကန်မလွဲ အသင်သည် ဖြောင့်မတ်မှန်ကန်သော တရားလမ်းစဉ်ပေါ်၌ တည်ရှိပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

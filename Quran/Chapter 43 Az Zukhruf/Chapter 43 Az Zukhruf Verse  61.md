@@ -710,6 +710,12 @@ Toĭ e znak za Chasa. I ne se sŭmnyavaĭte v nego, i Me sledvaĭte! Tova e p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၁။	မှတ်သားကြလော့၊ သူသည် တရားစီရင်တော်မူသောနေ့တော်ကြီး၏ အထိမ်းအမှတ်တစ်ပါးဖြစ်၏၊ ထို့ကြောင့် သင်တို့သည် ထိုနေ့တော်ကြီးကျရောက်လာမည်ကို ယုံမှားသံသယမရှိကြလင့်၊ ငါ၏ လမ်းတော်ကို လိုက်ကြ လော့၊ ဤသည်သာလျှင် လမ်းမှန်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ဧကန်မလွဲ ထိုမရ်ယမ်၏သား(အီစာ)မှာ "ကိယာမတ်" ရှင်ပြန်ထမည့် အချိန်ကာလနှင့် စပ်လျဉ်း၍ လက္ခဏာ၊ စည်းကမ်းချက်၊ သတ်မှတ်ချက် "ကိယာမတ်"ရှင်ပြန်ထမည့်နေ့ကို ယုံကြည်ရန် အကြောင်းတစ်ရပ်ပင်ဖြစ်၏။ သို့ဖြစ်ပေရာ အသင်တို့သည် ယင်းကိယာမတ်နှင့်စပ်လျဉ်း၍ ယုံမှားသံသယ မဖြစ်ကြကုန်လင့်။ ၎င်းပြင် အသင်တို့သည် ငါ၏နောက်သို့ လိုက်ခဲ့ကြလေကုန် ဤသည် ဖြောင့်မတ်သော တရားလမ်းပင် ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

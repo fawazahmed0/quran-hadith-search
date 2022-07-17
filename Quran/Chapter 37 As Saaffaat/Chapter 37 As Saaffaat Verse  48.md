@@ -710,6 +710,12 @@ Pri tyakh shte ima zheni s tselomŭdren pogled, s prelestni ochi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	ထို့အပြင်အလွန်ချစ်ဖွယ်သောမျက်စိမျက်ခုံးရှိ၍ အိန္ဒြေရရကြည့်ရှုသောနတ်ကညာများလည်း ၎င်းတို့အပါးခစား လျက် ရှိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့ထံတွင် မျက်စိကို အောက်သို့နှိမ့်ချထားသော၊ မျက်စိပြူး၍လှပသော ကြင်ဘက်များလည်း ရှိကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

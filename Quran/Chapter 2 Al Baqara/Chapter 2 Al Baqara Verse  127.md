@@ -710,6 +710,12 @@ I kogato Ibrakhim i Ismail izdigakha osnovite na Doma, [rekokha]: “Gospodi, pr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၇။	တမန်တော် အီဗရာဟီမ်နှင့်သားတော် အစ္စမာအီလ်တို့သည် ကအ်ဗာကျောင်းတော်နေရာတွင် ကျောက်မြစ်ချနေသောအခါ တမန်တော် အီဗရာဟီမ်က အို - ကျွန်ု်ပ်တို့၏အရှင်သခင်၊ အကျွန်ုပ်တို့ ၏ ဤကောင်းမှုကို လက်ခံတော်မူပါအရှင်၊ အရှင်မြတ်သာလျှင် အကြွင်းမဲ့ ကြားတော်မူသော အရှင် အကြွင်းမဲ့သိတော်မူသောအရှင်ဖြစ်တော်မူပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတပါး (ပြန်လည်အောက်မေ့သတိရကြ ကုန်လော့) အခါတပါး၌ နဗီတမန်တော် အစ်ဗ်ရာဟီမ် (အ) နှင့်(သားတော်) နဗီတမန်တော် အစ္စမာအီလ် (အ)တို့သည်(ကအ်ဗဟ်) ကျောင်းတော်မြတ်၏ ကျောက်နံရံကို မြှင့်တင်နေစဉ် (ဤသို့ဆုမွန်များကို တောင်းဆိုကြကုန်၏)။ အိုကျွန်တော်မျိုးတို့အား မွေးမြူတော်မူသောအရှင်၊ ကျွန်တော်မျိုးတို့ထံမှ (ဤကောင်းမှုကို မိမိ၏အနန္တကျေးဇူးတော်ဂုဏ်ဖြင့်) သဘောတူ လက်ခံယူတော်မူပါ၊ ဧကန်မုချ အရှင်သည်သာလျှင်(ကျွန်တော်မျိုးတို့ တောင်းဆိုသော ဆုများကို) ကြားတော်မူသောအရှင် (ကျွန်တော်မျိုး တို့၏အာသာန္ဒများကိုလည်း) သိတော်မူသောအရှင် ဖြစ်တော်မူပါ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A kogato im dari ot Svoyata blagodat, te se skŭpyakha za neya i se otmetnakha, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၆။	သို့သော်အရှင်မြတ်သည် မိမိ၏ ကောင်းကြီးမင်္ဂလာတော်မှ သူတို့အား ပေးသနာတော်မူသောအခါ သူတို့သည် မသုံးစွဲပဲ သိမ်းဆည်းသိုလှောင်ထား၍ တရားတော်ကို မနှစ်သက်ကျောပေးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တဖန် ထိုအရှင်မြတ်သည် ၎င်းတို့အား မိမိ ကျေးဇူးတော်ကို ချီးမြှင့်ပေးသနားတော်မူသောအခါ၊ ၎င်းတို့သည်ကျေးဇူးတော်ကို(ပေးကမ်းလှူဒါန်းခြင်းမပြုဘဲ)စေးနှဲကြကုန်၏။ထို့ပြင် ၎င်းတို့သည် မျက်နှာ လွှဲဖယ် ကျောခိုင်းခဲ့ကြလေသည်။စင်စစ်သော်ကား ၎င်းတို့သည် တိမ်းရှောင်လေ့ရှိကြသူများပင်ဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

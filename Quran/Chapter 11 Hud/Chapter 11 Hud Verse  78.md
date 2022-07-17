@@ -710,6 +710,12 @@ I doĭde pri nego narodŭt mu, vturnat natam. I predi byakha vŭrshili zlini. R
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၈။	ထို့အပြင် သူ၏ အမျိုးသားတို့သည် သူ့ထံသို့ ပြေးလာကြ၏။ သူတို့သည် အထက်ထက်က အလွန်ယုတ်မာ ညစ်ညမ်းသောအမှုများကို ပြုကျင့်လေ့ရှိ၏။ သူသည် သူတို့အား ဟယ်-အချင်းတို့၊ သည်မှာ ငါ၏ သမီးများ ရှိကြ၏။ သူတို့သည် သင်တို့အဖို့ သာလွန်သင့်မြတ်သန့်စင်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ယင်း(နဗီတမန်တော်) လူ(တ်)၏အမျိုးသားများသည် ယင်း၏ထံသို့ အပြေးအလွှား လာခဲ့ကြလေသည်။ စင်စစ်သော်ကား ၎င်းတို့သည် ယခင်မူလကပင်မကောင်းမှု ဒုစရိုက်များကို ကျင့်မူ ပွားများလျက်ရှိခဲ့ကြကုန်၏။(ထိုအခါ) ယင်း (နဗီတမန်တော်)လူ(တ်)က အို-ငါ၏အမျိုးသားတို့၊ ဤသည် ငါ၏သမီးများပင်၊ (အသင်တို့သည် ၎င်းတို့နှင့်ထိမ်းမြားကြလေကုန်) ၎င်းတို့သည် အသင်တို့အဖို့ ပိုမို၍ပင်သန့်စင်ကြပေသည်။ သို့ဖြစ်ပေရာ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား ကြောက်ရွံ့ကြလေကုန်၊ ၎င်းပြင် အသင်တို့သည် ငါ့အား ငါ၏ဧည့်သည်တော်များ(ရှေ့)တွင် အရှက်တကွဲအကျိုးနည်း မပြုကြကုန်လင့်။ အသင်တို့တွင် ရိုးသားဖြောင့်မတ်သောသူ တစ်ယောက်တစ်လေမျှပင် မရှိလေသလောဟုပြောဆိုခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

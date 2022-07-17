@@ -710,6 +710,12 @@ I predi byakha dali obet na Allakh, che ne shte obŭrnat grŭb. Za obeta pred Al
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	ထို့အပြင်အမှန်ဆိုသော် သူတို့သည် အကျွနု်ပ်တို့သည် စစ်မြေပြင်ဝယ် ရန်သူတို့အား ကျောပေး၍ ထွက်မပြေးပါ ဟု အလ္လာဟ်အရှင်မြတ်အထံတော်၌ သစ္စာခံထားသူများဖြစ်ကြ၏၊ အလ္လာဟ်အရှင်မြတ်အထံတော်၌ ပြသော သစ္စာအကြောင်းနှင့်စပ်လျဉ်း၍ စစ်ကြောစီရင်ခြင်းခံရမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မချွတ်မလွဲ ၎င်းတို့သည် ရှေးဦးမဆွက ကျောခိုင်း၍ထွက်ပြေးကြမည်မဟုတ်ပါ ဟု အလ္လာဟ်အရှင်မြတ်နှင့်ကတိထားခဲ့ပြီးဖြစ်ကြကုန်၏။ အမှန်သော်ကား အလ္လာဟ်အရှင်မြတ်နှင့်ထားခဲ့သော ကတိဝန်ခံချက်မှာ စစ်ဆေးမေးမြန်းခံရအံ့သော ကတိဝန်ခံချက်ပင် ဖြစ်ချေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

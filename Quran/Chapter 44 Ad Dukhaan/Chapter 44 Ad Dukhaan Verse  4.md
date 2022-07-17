@@ -710,6 +710,12 @@ Prez neya se reshava vsyako mŭdro delo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	ထိုညဉ့်မြတ်၌ နက်နဲသိမ်မွေ့သောပညတ်တော်တိုင်းကို ထင်ရှားရှင်းလင်းစေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းညဉ့်တွင် နက်နဲသိမ်မွေ့သော အရေးကိစ္စများဟူသမျှတို့သည် အသေးစိတ် သတ်မှတ် အတည် ပြုခြင်းခံကြရလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

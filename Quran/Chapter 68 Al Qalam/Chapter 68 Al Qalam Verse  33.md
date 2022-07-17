@@ -710,6 +710,12 @@ Takova e nakazanieto. A nakazanieto v otvŭdniya zhivot e po-golyamo, ako znayat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။ ငါ၏အပြစ်ဒဏ်တော်ကား ယင်းကဲ့သို့ပင်ဖြစ်၏၊ နောင်တမလွန်လဘဝ အပြစ်ဒဏ်တော်ကား ထိုထက်သာလွန် ပြင်းပြ၏၊ သူတို့သည် သိကြလျှင် ကောင်းလေစွ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ပြစ်ဒဏ်မှာ ထိုနည်းအတိုင်း ဖြစ်လေ့ဖြစ်ထရှိ၏။ "အာခိရတ်"တမလွန်ဘဝ၏ပြစ်ဒဏ်မှာမူကား ပိုမို၍ပင် ကြီးလေးလှ၏။ (ဤသည်ကို) ၎င်းတို့ သိရှိကြလျှင် ကောင်းလေစွတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

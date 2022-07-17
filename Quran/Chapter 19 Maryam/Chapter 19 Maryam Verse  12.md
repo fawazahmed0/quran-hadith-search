@@ -710,6 +710,12 @@ JA JEHJA HUDHIL-KITABE BIKUWETIN WE ‘ATEJNAHUL-HUKME SEBIJÆN
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	အို-ယဟာယ၊ သင်သည် ကျမ်းတော်မြတ်အား မြဲမြံစွာကိုင်စွဲထားလော့ဟု ဗျာဒိတ်ပေးတော်မူ၏။ ငါအရှင်မြတ် သည် သူ့အား ငယ်ရွယ်နုနယ်စဉ်ကပင် ပညာဉာာဏ်ပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ယဟ်ယာ၊ အသင်သည် ကျမ်းဂန်ကို စွဲမြဲစွာ ကိုင်ထားလော့(ဟုမိန့်ကြားတော်မူခဲ့၏၊) စင်စစ်သော်ကား ငါအရှင်မြတ်သည် ယင်းယဟ်ယာအား ကလေးဘဝ၌ပင် ဉာဏ်အမြော်အမြင်ကို ချီးမြှင့်ပေးသနားတော်မူခဲ့ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

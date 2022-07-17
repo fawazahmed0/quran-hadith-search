@@ -710,6 +710,12 @@ Reche Nukh: “Gospodi moĭ, te mi se vŭzprotivikha i posledvakha onezi, chiit
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။ တမန်တော်နူဟိုတင်လျှောက်သည်မှာ အို-အကျွနု်ပ်၏အရှင်သခင်၊ ထိုမသူတော်တို့သည် အကျွနု်ပ်ကို နား မထောင်ကြပါ၊ သူ၏ စည်းစိမ်ဥစ္စာသားသမီးအခြွေအရံများသည် သူ့အား ပျက်စီးခြင်းမှတပါး ဘာကိုမျှ မများစေသောဥစ္စာရှင်နောက်ကိုသာ သူတို့လိုက်ကြပါသည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (နဗီတမန်တော်) "နူဟ်"သည် လျှောက်ထားခဲ့လေ၏။ အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ ဧကန်အမှန် ထိုကျွန်တော်မျိုး၏ အမျိုးသားတို့သည် ကျွန်တော်မျိုးအား ဖီဆန်၍ အကြင်သူတို့၏နောက်သို့ လိုက်သွားခဲ့ကြပါသည်။ ထိုသူတို့၌ ထိုသူတို့၏ ပစ္စည်းဥစ္စာသည်လည်းကောင်း၊ ထိုသူတို့၏ သားသမီးများသည်လည်းကောင်း၊ ဆုံးရှုံးမှုကိုသာလျှင် တိုးပွားစေခဲ့ကြပါသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

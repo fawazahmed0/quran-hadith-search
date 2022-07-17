@@ -710,6 +710,12 @@ Koĭto se zastŭpva za dobro delo, shte ima dyal ot nego, a koĭto se zastŭpv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၅။	အကြင်သူသည် ကောင်းသောကိစ္စ၌ ဝင်ရောက်အားထုတ်အံ့။ ထိုသူသည် ထိုအားထုတ်မှု၏ အကျိုးဆက်ကို ခံစားရလတ္တံ့။ အကြင်သူသည် မကောင်းသောအမှု၌ ဝင်ရောက်ကြိုးပမ်း၏။ ထိုသူသည် ထိုကြိုးပမ်းမှု၏ မကောင်းကျိုးကို ခံစားရလတ္တံ့။ အလ္လာဟ်အသျှင်မြတ်သည် ခပ်သိမ်းကုန်သောအရာများအပေါ်၌ တန်ခိုးကြီးတော်မူပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သူမဆို ကောင်းမြတ်သော (ကိစ္စတွင်) ကြားဝင်တိုက်တွန်းအံ့။ ပါဝင်ဆောင်ရွက်မှုကိုပြုအံ့။ ထိုသူ၏အဖို့ ယင်းသို့ ပါဝင်ဆောင်ရွက်ခြင်း၏ ဝေစုဝေပုံသည် ရှိအံ့။ ထိုနည်းတူစွာ မည်သူမဆို ဆိုးယုတ်သောအမှုကိစ္စဆောင်ရွက်ရာတွင် ပါဝင်ဆောင်ရွက်မှုကိုပြုအံ့၊ ထိုသူ၏အပေါ်၌ ယင်းသို့ ပါဝင်ဆောင်ရွက်ခြင်း၏တာဝန်သည် ရှိအံ့။ စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့အပေါ်ဝယ် ထိန်းသိမ်းစောင့်ရှောက်တော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

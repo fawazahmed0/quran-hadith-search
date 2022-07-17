@@ -710,6 +710,12 @@ A otgovorŭt na naroda mu be samo da kazhat: “Progonete gi ot vasheto selishte
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၂။	သူ၏ အမျိုးသားတို့သည် သူတို့အချင်းချင်း ဤသို့ပြောဆိုခြင်းဖြင့် သူ့အား တုံ့ပြန်ပြောဆို၏။ သူတို့ကို သင်တို့၏နယ်မြေမှ နှင်ထုတ်ကြလော့။ သူတို့သည် အမှန်ပင် သန့်ရှင်းစင်ကြယ်စွာထားသူများ ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(နဗီတမန်တော်လူတ်)၏အမျိုးသားတို့က(မိမိတို့အချင်းချင်း) အသင်တို့သည် ထို(လူတ်နှင့်တကွ မုအ်မင်န် သက်ဝင်ယုံကြည်သူ)တို့ကို မိမိတို့မြို့ရွာမှ နှင်ထုတ်ကြလေကုန်။ အဘယ့်ကြောင့်ဆိုသော် ၎င်းတို့သည် သန့်ရှင်းစင်ကြယ်ဟန်ဆောင်သူများသာ ဖြစ်ကြကုန်သည်ဟု ပြောဆိုခြင်းမှတစ်ပါး မည်သို့မျှ ဖြေကြားနိုင်ခြင်း မရှိခဲ့ကြပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

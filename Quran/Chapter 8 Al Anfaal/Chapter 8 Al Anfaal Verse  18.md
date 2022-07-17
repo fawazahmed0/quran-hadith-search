@@ -710,6 +710,12 @@ Tova e, zashtoto Allakh obezsilva kovarstvoto na nevernitsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	ထိုအကြောင်းအရာသည် အဖြစ်မှန်သာတည်း။ မိစ္ဆာဒိဌိတို့၏ အကြံအစည်ကို ညံ့ဖျင်းအောင် ပြုလုပ်သောသူသည် အလ္လာဟ်အသျှင်မြတ်ဖြစ်တော်မူသည်ကို မှတ်သားကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည်ကား (ပြီးခဲ့သောကိစ္စပင်တည်း။) ထိုမှတစ်ပါး အလ္လာဟ်အရှင်မြတ်သည် ကာဖိရ် မယုံမကြည်သွေဖည်ငြင်းပယ်သောသူတို့၏ ကြံစည်မှုကိုလည်း ဧကန်မလွဲနုံနဲ့(ပျက်စီး)စေတော်မူလတ္တံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

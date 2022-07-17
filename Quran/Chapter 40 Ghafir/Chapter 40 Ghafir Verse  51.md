@@ -710,6 +710,12 @@ Nie podkrepyame Nashite pratenitsi i vyarvashtite v zemniya zhivot i v Denya, ko
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁။	ငါအရှင်မြတ်သည် ငါ၏ တမန်တော်များနှင့် ယုံကြည်သူအပေါင်းတို့အား ဤလောကတွင် အသက်ရှင်နေစဉ် အခါ၌လည်းကောင်း၊ သက်သေများကို စီတန်းစေမည့်တရားစီရင်တော်မူသောနေ့တော်ကြီး၌လည်းကောင်း၊ မုချဧကန်စောင်မတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မလွဲဧကန် ငါအရှင်မြတ်သည် မိမိရစူလ်တမန်တော်တို့အား လည်းကောင်း၊ "မုအ်မင်န်"သက်ဝင်ယုံကြည်သူတို့အား လည်းကောင်း၊ ၎င်းမျက်မှောက်လောကီဘဝ၌လည်း ကူညီစောင်မလျက်ရှိတော်မူ၏။ သက်သေများရပ်ကြမည့်("ကိယာမတ်"ရှင်ပြန်ထမည့်) နေ့တွင်လည်း (ကူညီစောင်မတော်မူမည်။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

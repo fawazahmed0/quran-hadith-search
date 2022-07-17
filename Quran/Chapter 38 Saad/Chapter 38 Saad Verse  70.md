@@ -710,6 +710,12 @@ Razkriva mi se samo, che sŭm yaven predupreditel.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၀။	ငါသည် အလ္လာဟ်အရှင်မြတ်စေလွှတ်တော်မူသော တမန်တော်ရိုးရိုးသာတည်းဟု ငါ့ထံ ဗျာဒိတ်တော်လာ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါ့ထံသို့ ငါသည် ထင်ရှားစွာ သတိပေးနှိုးဆော်သူတစ်ဦး ဖြစ်ခြင်းကြောင့်သာလျှင် "ဝဟ်ယ်" အမိန့်တော် ထုတ်ပြန်ခြင်းခံရပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

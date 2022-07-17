@@ -710,6 +710,12 @@ Kŭlna se v zvezdata, kogato zalyazva
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။	အို-ကြားနာရသူအပေါင်းတို့၊ ဝင်သောကြယ်ကို ဆင်ခြင်အောက်မေ့လျက် ငါ၏ တန်ခိုးတော်ဂုဏ်တော်ကို သတိရကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ငါအရှင်မြတ်သည်) ကြယ်တာရာကို သက်သေထူတော်မူ၏။ အကြင်အခါဝယ် ထိုကြယ်တာရာသည် ကွယ်ပျောက်၍သွားလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

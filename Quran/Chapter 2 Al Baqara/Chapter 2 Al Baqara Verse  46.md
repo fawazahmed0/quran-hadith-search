@@ -710,6 +710,12 @@ koito se nadyavat, che shte sreshtnat svoya Gospod i che pri Nego shte se vŭrna
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။	ထိုသူတို့သည် သူတို့၏အရှင်သခင်အား တွေ့ရမည်ကိုသော်လည်းကောင်း၊ သူတို့သည် အရှင်မြတ် ထံသို့ ပြန်ကြရမည်ကိုသော်လည်းကောင်း သူတို့သိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ခန္တီတရားထားရှိကုန်သော မုအ်မင် တို့သည်) မုချဧကန် မိမိတို့အား မွေးမြူတော်မူသော အရှင်ကို ဖူးတွေ့ကြရမည်သူများ ဖြစ်ကြကုန်၏ဟူ၍လည်းကောင်း၊ ထိုအရှင်၏အထံတော်သို့လည်း ပြန်လှည့်ကြမည့်သူများ ဖြစ်ကြသည် ဟူ၍လည်းကောင်း၊ အမှန်ယုံကြည်ကြကုန်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

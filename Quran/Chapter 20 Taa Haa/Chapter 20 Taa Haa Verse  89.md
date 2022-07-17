@@ -710,6 +710,12 @@ A nima ne vizhdat, che ne im otvrŭshta sŭs slovo i nito im vredi, nito im e ot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၉။	ထိုနွားရုပ်ငယ်သည် သူတို့အား စကားပြန်မပြောသည်ကိုသော်လည်းကောင်း၊ သူတို့ကို အကျိုးအပြစ်တစ်စုံ တစ်ရာမပေးစွမ်းနိုင်သည်ကိုသော်လည်းကောင်း၊ သူတို့မမြင်ကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသို့ပါနည်း။ ယင်းနွားကလေးမှာ မိမိတိုု့၏မည်သည့်စကားကိုမျှ ပြန်ကြားနိုင်ခြင်းလည်းမရှိကြောင်း၊ မိမိတို့နှင့်ပတ်သက်၍ မည်သို့မျှပင် အကျိုးယုတ်စေခြင်း၊ အကျိုးဖြစ်ထွန်းစေခြင်းကိုလည်း ပြုစွမ်းနိုင်ခြင်းမရှိသည်ကို ၎င်းတို့မမြင်ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

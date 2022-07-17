@@ -710,6 +710,12 @@ Reche: “Tova e praviyat pŭt kŭm Men
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	အလ္လာဟ်အရှင်မြတ်က ယင်းသည် ငါ့အတွက် လမ်းမှန်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်က ဤသည်ကား ငါအရှင်မြတ်အထံတော်သို့ (ရောက်စေမည့်)ဖြောင့်မတ်သော လမ်းပင်ဖြစ်သည်ဟု မိန့်ကြားတော်မူလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

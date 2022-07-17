@@ -710,6 +710,12 @@ za da ne mogat da chuyat nishto ot vŭrkhovnite nebesa, i sa zameryani ot vsichk
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	ထို့ကြောင့်ရှိုင်တန်မာရ်နတ်နှင့် ၎င်း၏ ဘက်တော်သားတို့သည် ကောင်းကင်ဘုံအထပ်ထပ်၌ ကောင်းကင်တမန် တော်အကြီးအကဲတို့ပြောဆိုဆွေးနွေးသည်ကို အလျင်းနားမထောင်ရကြချေ၊ အကြောင်းမူကား ထိုနတ်မိုက် တို့အား လေးဖက်လေးတန်အဘက်ဘက်မှ မီးလက်နက်တို့ဖြင့် ပစ်ခတ်ခြင်းကြောင့်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို "ရှိုင်တွာန်" မိစ္ဆာကောင်များသည် အထက်ကောင်းကင်ရှိ ပရိသတ်မြို့တော်သို့ (သွားရောက်) နားစွင့်နိုင်ခြင်း မရှိကြသည့်ပြင် ၎င်းတို့သည် အဖက်ဖက်မှ (မီးတောက် ကြယ်ပျံဖြင့်) ပစ်ပေါက်ခြင်းကို ခံကြရကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I doĭdokha mag’osnitsite pri Faraona. Kazakha: “Naistina li shte poluchim 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၃။	ပယောဂဆရာများသည် ဖာရောဘုရင်၏ ရှေ့တော်သို့ ဝင်ရောက်ခစားကြ၏။ အကျွနု်ပ်တို့သည် အောင်နိုင်သူများဖြစ်ပါလျှင် ဆုတော်လာဘ်တော် အမှန်ပင် ရကြလိမ့်မည်ဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ပဉ္စလက်ဆရာတို့သည် ဖင်ရ်အောင်န်ထံသို့ ရောက်ရှိလာခဲ့ကြလေသည်။ ထိုပဉ္စလက် ဆရာတို့ကအကယ်၍ ကျွန်တော်မျိုးတို့သည် အောင်နိုင်ခဲ့ကြပါလျှင် (ကြီးကျယ်သော) ဆုလာဘ် တစ်ခုခုကို မုချရရှိကြပါလိမ့်မည်(လော)ဟုပြောဆို ကြလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

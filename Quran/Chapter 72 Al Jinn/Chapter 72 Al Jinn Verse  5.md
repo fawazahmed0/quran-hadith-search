@@ -710,6 +710,12 @@ A nie predpolagakhme, che khorata i dzhinovete nikoga ne shte izrekat lŭzha za 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။ သို့သော်လူသားနှင့် နတ်သားတို့သည် အလ္လာဟ်အရှင်မြတ်နှင့် စပ်လျဉ်း၍ မုသားစကားမဆိုဟု ငါတို့တွေးထင်မိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ဧကန်စင်စစ် ကျွန်ုပ်တို့မှာမူကား လူသားတို့သည်လည်းကောင်း၊ ဂျင်န်တို့သည်လည်းကောင်း၊ ၎င်းအရှင်မြတ်နှင့်ပတ်သက်၍ အလျှင်း မုသားစကားကို ပြောဆိုကြမည်မဟုတ်ဟု ထင်မှတ်နေခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

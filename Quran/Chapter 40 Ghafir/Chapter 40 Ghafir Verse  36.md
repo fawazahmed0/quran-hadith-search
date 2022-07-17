@@ -710,6 +710,12 @@ I reche Faraonŭt: “O, Khaman, postroĭ mi kula, za da dostigna pŭtishtata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	ထိုစကားကို ဖွာရောဘုရင်ကြားလေသော် အမတ်(ဟာမန်)ကို ခေါ်၍ အမတ်ကြီး အကျွန်ုပ်အတွက် ရဲတိုက်ကြီး တစ်ခုဆောက်လုပ်လော့၊ အကြောင်းညီညွတ်လျှင် ထိုမြင့်မားသောရဲတိုက်အားဖြင့် အကျွနု်ပ်လမ်းများရကောင်း ရမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် "ဖစ်ရ်အောင်န်" မှ(ဤသို့)ပြော ဆိုခဲ့၏။ အို-"ဟာမာန်" ငါသည် လမ်းများသို့ရောက်ရှိအံ့သောငှာ အသင်သည် ငါ၏အဖို့ မြင့်စွင့်သော အဆောက်အအုံတစ်ခု တည်ဆောက်လော့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

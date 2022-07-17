@@ -710,6 +710,12 @@ Ako tŭrsekhme zabava - a ne shte go storim - shtyakhme da si ya nabavim ot tova
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	အကယ်၍ငါသည် ကစားပျော်ရွှင်လိုတော်မူခဲ့လျှင် ပျော်ရွှင်အပျင်းဖြေစရာကို အပါးတော်၌ တွေ့တော်မူမည်၊ ငါအလိုတော်မရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍သာ ငါအရှင်မြတ်သည် အပျင်းပြေကစားစရာကိုသာ ပြုလုပ်ရန် ရည်စူးတော်မူခဲ့ပါလျှင် ငါအရှင်မြတ်သည် ယင်းကစားစရာကို ဧကန်မုချ မိမိအထံတော်၌ ရှိသည်တို့အနက်မှပင် ပြုလုပ်ထားတော်မူပေမည်။ အကယ်၍သာ ငါအရှင်မြတ်သည် ပြုလုပ်တော်မူမည့်အရှင် ဖြစ်တော်မူခဲ့ပါလျှင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A sred khorata nyakoĭ kupuva slova za zabavlenie, za da otklonyava v nevedenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	လူသားတို့အနက် အသိတရားမရှိပဲလျက် အလ္လာဟ်အရှင်မြတ်တော်၏ လမ်းတော်မှ သူတပါးကို ဖြားယောင်းခြင်း အလို့ငှာသော်လည်းကောင်း၊ လမ်းတော်ကို ပြောင်လှောင်ခြင်းအလို့ငှာသော်လည်းကောင်း၊ အနှစ်သာရကင်းမဲ့ သည့်အပျင်းဖြေစကားများကို ဟောကြားခြင်း၌ ငွေကုန်ငွေကျခံ၍ ကြိုးစားအားထုတ်သောသူရှိ၏၊ ဤကဲ့သို့သော သူတို့အတွက် အရှက်တကွဲပျက်စီးဆုံးရှုံးခြင်းရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 း 6| စင်စစ်သော်ကား လူတို့အနက် အသိပညာသက်သေအထောက်အထားမရှိဘဲ(သူတစ်ပါးတို့အား)အလ္လာဟ်အရှင်မြတ်၏လမ်းတော်မှ ချွတ်ချော်တိမ်းပါး စေအံ့သောငှာလည်းကောင်း၊ ယင်းလမ်းတော်ကို ပြက်ရယ်ပြောင်လှောင်ဖွယ်ရာ ပြုလုပ်အံ့သောငှာလည်းကောင်း၊ အချည်းနှီး အကျိုးမဲ့သောစကားကို ဝယ်ယူသောသူလည်းရှိ၏။ ယင်းကဲ့သို့သောသူတို့၌ဂုဏ်အသရေ ပျက်စေသောပြစ်ဒဏ်ရှိချေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

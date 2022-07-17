@@ -710,6 +710,12 @@ Rekokha: “Kŭlnem se v Allakh, predpochete te Allakh pred nas. Naistina sŭgre
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၁။	ထိုအခါသူတို့က အကျွနု်ပ်တို့သည် အလ္လာဟ်အရှင်မြတ်ကို တိုင်တည်၍ ဆိုပါ၏။ အရှင်မြတ်သည် သင့်အား အကျွနု်ပ်တို့ထက် သာလွန်ချင်ခင်တော်မူပါ၏။ အကျွနု်ပ်တို့သည် အမှန်အကန်ပင်အပြစ်ရှိသူများဖြစ်ကြပါ၏ဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့က အလ္လာဟ်အရှင်မြတ်၏ ကစမ်၊ မလွဲဧကန် အလ္လာဟ်အရှင်မြတ်သည် အသင့်အား ကျွန်ုပ်တို့ထက်မြင့်မြတ်စေတော်မူခဲ့လေသည်။ ၎င်းပြင် အမှန်စင်စစ် ကျွန်ုပ်တို့သည်သာလျှင် မှားယွင်းသူများ ဖြစ်ကြပေသည်ဟု (ဝန်ခံ)ပြောဆိုကြလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

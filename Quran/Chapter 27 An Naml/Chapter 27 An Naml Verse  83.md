@@ -710,6 +710,12 @@ I edin Den shte sŭberem ot vsyaka obshtnost grupa ot onezi, koito vzimat za lŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၃။	အို-တမန်တော်၊ လူမျိုးတိုင်းလူမျိုးတိုင်းမှ ငါ၏နှုတ်ကပတ်တော်များကို မယုံကြည်သောသူတို့ကို ငါသည် စုရုံး၍ စီတန်းထားမည့်နေ့တော်ကြီးအကြောင်းကို သူတို့အား သင်သတိပေးလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အကြင်နေ့တွင် ငါအရှင်မြတ်သည် အုပ်စုအသီးသီးတို့အနက် ငါအရှင်မြတ်၏ အာယတ်တော်များကို မဟုတ်မမှန်ဟု စွပ်စွဲငြင်းပယ်ကြကုန်သောသူတို့အား တစ်အုပ်စုစီကို စုရုံးစေတော်မူမည်။ တစ်ဖန် ၎င်းတို့သည် စီတန်းရပ်စေခြင်းကို ခံကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

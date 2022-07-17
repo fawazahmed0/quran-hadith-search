@@ -710,6 +710,12 @@ I reche onzi, koĭto povyarva: “O, narode moĭ, sledvaĭte me, az shte vi n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	ထိုယုံကြည်သူသူတော်စင်က ဆက်လက်၍ ပြောသည်မှာ အို-အမျိုးသားအပေါင်းတို့၊ ငါ့စကားကို နားထောင်ကြ ကုန်လော့၊ ငါသည် သင်တို့အား သမ္မာတရားလမ်းတော်ကို ပြပါအ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် (ထို) "မုအ်မင်န်" သက်ဝင်ယုံကြည်သူသည် (ဤသို့)ပြောဆိုခဲ့လေ၏။ အို-ကျွန်ုပ်၏ အမျိုးသားတို့၊ အသင်တို့သည် ကျွန်ုပ်၏နောက်သို့ လိုက်ခဲ့ကြလေကုန်။ ကျွန်ုပ်သည် အသင်တို့အား တရားလမ်းမှန်သို့ ပို့ဆောင်အံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

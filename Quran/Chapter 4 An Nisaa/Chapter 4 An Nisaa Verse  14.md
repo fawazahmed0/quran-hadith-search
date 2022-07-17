@@ -710,6 +710,12 @@ A koĭto ne se podchinyava na Allakh i na Negoviya Pratenik, i prestŭpva Negov
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	အကြင်သူသည် အလ္လာဟ်အသျှင်မြတ်နှင့် အသျှင်မြတ် တမန်တော်ကို မနာခံ တရားတော်ကို ကျုးလွန်၏။ ထိုသူအား ငရဲမီးထဲတွင် အစဉ်အမြဲနေရန်၊ ငရဲမီးထဲသို့ သွတ်သင်းတော်မူလတ္တံ့။ ထိုသူ၏အပြစ်ဒဏ်မှာ အလွန်ရှက်ဖွယ်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကြင်မည်သူမဆို အလ္လာဟ်အရှင်မြတ်၏ အမိန့်တော်များကိုလည်းကောင်း၊ ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော်၏ အမိန့်တော်များကိုလည်းကောင်း သွေဖည်ငြင်းပယ်၍ ထိုအရှင်မြတ်၏ စည်းမျဉ်းဥပဒေများကိုလည်း ကျူးကျော်ဖောက်ဖျက်သည်ရှိသော် ထိုအရှင်မြတ်သည် ၎င်းသူအား (ငရဲ) မီးထဲသို့ ဝင်ရောက်စေတော်မူအံ့။ ထိုသူသည် ယင်း (ငရဲမီး) ထဲ၌ ထာဝစဉ် နေထိုင်ရပေမည်။ ၎င်းပြင် ထိုသူအဖို့ ဂုဏ်အသရေပျက်ပြားစေသော အပြစ်ဒဏ်သည်လည်းရှိအံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

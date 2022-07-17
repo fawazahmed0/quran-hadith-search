@@ -710,6 +710,12 @@ Ili im nizposlakhme dovod i toĭ im kazva da Go sŭdruzhavat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	သို့မဟုတ်ငါသည် ထိုမိစ္ဆာမိုက်တို့အား ထိုသို့အရှင်မြတ်နှင့်တွဲဖက်မှုကို ပြုဖို့ရာ ဗျာဒိတ်ပေးတော်မူခဲ့ဖူးသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသို့ပါနည်း ငါအရှင်မြတ်သည် ၎င်းတို့အပေါ်၌ သက်သေအကိုးအကား အထောက်အထား တစ်စုံတစ်ရာကိုချပေးတော်မူခဲ့၍ ယင်းသက်သေအထောက်အထားက ပြောဆိုသောကြောင့် ၎င်းတို့သည် တွဲဖက် နှိုင်းယှဉ်ကိုးကွယ် ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

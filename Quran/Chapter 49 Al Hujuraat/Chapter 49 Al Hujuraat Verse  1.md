@@ -710,6 +710,12 @@ O, vyarvashti, ne predvarvaĭte Allakh i Negoviya Pratenik, i boĭte se ot All
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။	အို-ယုံကြည်သူအပေါင်းတို့၊ သင်တို့သည် မည်သည့်ရေးခွင့်ကိစ္စမဆို အလ္လာဟ်အရှင်မြတ်နှင့် အရှင်မြတ်၏ တမန်တော်၏ ရှေ့သို့ မတိုးကြလင့်၊ သင်တို့သည် အရှင်မြတ်၏ အမှုတော်ကို စောင့်ထိန်းကြလော့၊ စင်စစ်မှာ အရှင်မြတ်သည် ကြားတော်မူသောအရှင်၊ သိတော်မူသောအရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-’မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူအပေါင်းတို့၊ အသင်တို့သည် (မည့်သည့်ကိစ္စ၌မဆို) အလ္လာဟ်အရှင်မြတ်၏ ရှေ့တော်မှောက်၌လည်းကောင်း၊ ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော်၏ရှေ့၌လည်းကောင်း၊ ရှေ့သို့ မကျော်တက်ကြကုန်လင့်။ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် (အလုံးစုံသော ပြောဆိုမှုတို့ကို)အကြွင်းမဲ့ကြားတော်မူသောအရှင်၊ (အလုံးစုံသောအခြေအနေ၊ အပြုအမူ၊ အတွင်းအပြင်တို့ကို) အကြွင်းမဲ့သိတော်မူသောအရှင် ဖြစ်တော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

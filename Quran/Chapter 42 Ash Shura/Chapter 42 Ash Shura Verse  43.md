@@ -710,6 +710,12 @@ A koĭto tŭrpi i proshtava, tova e ot znachimite dela
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	သို့သော် အကြင်သူသည် သည်းခံခြင်းတရားရှိ၍ သူတပါး၏ အပြစ်ကို လွှတ်အ့ံ၊ ထိုသူသည် မိမိကိစ္စအဝဝကို ရဲရင့်တည်ကြည်စွာဆောင်ရွက်သူဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် မည်သူမဆို သည်းခံခြင်းကိုလည်းကောင်း၊ ခွင့်လွှတ်ခြင်းကိုလည်းကောင်း၊ ပြုခဲ့ပါလျှင် ဧကန်မလွဲဤသို့ပြုလုပ်ခြင်းကား သတိ္တနှင့်သက်ဆိုင်သော အမှုကိစ္စတို့တွင် အမှန်ပင် အပါအဝင်ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Recheno mu be: “Vlez v Raya!” Reche: “Akh, da znaeshe moyat narod
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	ထိုသူမွန်တို့ထံ ကျလာသောဗျာဒိတ်တော်မှာကား သင်သည် နိဗ္ဗာန်ဥယျာဉ်တော်သို့ ဝင်လော့၊ ထိုသူမြတ် ညည်းတွားသည်မှာ အလို၊ ငါသိသည့်အကြောင်းအရာကို ငါ့အမျိုးသားတို့သိလျှင် ကောင်းလေစွ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်သည် "ဂျန္နတ်" သုခဘုံသို့ ဝင်ရောက်လေလော့ဟု မိန့်ကြားတော်မူခြင်း ခံရလေသောအခါ ထိုသူက ပြောဆိုခဲ့လေ၏။ ဪ-ကျွန်ုပ်၏အမျိုးသားတို့သည် သိရှိကြလျှင် ကောင်းလေစွ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

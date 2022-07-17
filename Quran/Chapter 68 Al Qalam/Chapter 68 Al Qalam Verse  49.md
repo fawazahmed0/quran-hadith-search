@@ -710,6 +710,12 @@ Ako ne be go dostignala milost ot negoviya Gospod, shteshe da e izkhvŭrlen na g
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။ ထိုတမန်တော်သည် မိမိ၏ အရှင်သခင်ထံမှ ကောင်းကြီးမင်္ဂလာတော်မသက်ရောက်ခဲ့ပါလျှင် သူသည် ဆိုးသွမ်းပျက်စီးသူဘဝနှင့် သဲသောင်ပြင်၌ စွန့်ပစ်ထားခြင်းကို မုချဧကန်ခံရလေလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍သာလျှင် ထိုငါးရှင်အား ၎င်း၏အရှင်မြတ်ထံတော်မှ ကျေးဇူးတော်သည် သက်ရောက်ခဲ့သည်မရှိမူ အမှန်ပင် ထိုငါးရှင်မှာ အခြေမလှဖြစ်လျက် သစ်ပင်၊ ဝါးပင်၊ အိုးအိမ်စသည် (လုံးဝ)မရှိသော လွင်ပြင်ဝယ် ပစ်ထားခြင်းကိုခံခဲ့ရမည်သာ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I priekhme ot vas obet: “Ne prolivate [edin na drug] krŭvta si i ne se progon
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၄။	ထို့ပြင် ငါအရှင်သည် သင်တို့နှင့် ကတိစာချုပ် ချုပ်တော်မူ၏။ ထိုစာချုပ်တော်တွင် သင်တို့သည် သင်တို့ အမျိုးသားတို့ကို မသတ်ဖြတ်ကြလင့်။ သင်တို့အနက် အချို့သောလူစုကို မိမိတို့ အိိုးအိမ် နေရပ်မှ မနှင်ထုတ်ကြလင့်ဟု ပညတ်တော်မူ၏။ သင်တို့သည် ထိုစာချုပ်ကို လက်ခံအတည်ပြုကြ၏။ သင်တို့ပင်လျှင် ထိုကိစ္စတွင် သက်သေများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (အို-အစ္စရာအီလီ မျိုးနွယ် အပေါင်းတို့၊ အသင်တို့သည် ပြန်လည်၍ အောက်မေ့ သတိရကြကုန်လော့) တစ်ပါးသောအခါ၌ ငါအရှင် သည် အသင်တို့ထံမှ အသင်တို့သည် မိမိတို့ အချင်းချင်း (သတ်ဖြတ်ကြ၍) သွေးထွက်သံယို မပြုကြရန်လည်းကောင်း၊ တစ်ဦးကိုတစ်ဦး မိမိတို့နေထိုင်ရာ အိုးအိမ်မြို့ရွာဒေသများမှလည်း နှင်ထုတ်ခြင်း မပြုကြရန်လည်းကောင်း၊ ပဋိညာဉ်ဝန်ခံချက်ကို ယူခဲ့ဘူးလေသည်။ ထို့နောက် အသင်တို့သည် ထိုပဋိညာဉ် ဝန်ခံချက် ကတိသစ္စာကို အတည် ပြုကြရုံမျှမက မိမိတို့ကိုယ်တိုင်ပင်လျှင် (ထိုအကြောင်းနှင့်စပ်လျဉ်း၍) အသိသက်သေများ ဖြစ်ကြလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

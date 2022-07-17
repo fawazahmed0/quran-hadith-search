@@ -710,6 +710,12 @@ Doĭdokha veche pri tyakh vesti, koito da gi vŭzpirat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	ထို့အပြင်သူတို့ထံသို့ သတင်းစကားအမှန်အကန်ကျရောက်လာပြီ၊ ထိုသတင်းသည် သူတို့အား မကောင်းမှုမှ တားဆီးအပ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ၎င်းတို့ထံ ဧကန်မလွဲ သင်ခန်းစာ လုံလောက်စွာပါရှိသော သတင်းများသည် ရောက်ရှိခဲ့ပေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

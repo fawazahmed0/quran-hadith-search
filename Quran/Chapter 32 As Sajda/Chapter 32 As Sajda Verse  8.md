@@ -710,6 +710,12 @@ Posle Toĭ sŭtvori potomstvoto mu ot kapka nishtozhna voda
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	ထို့နောက်လူသားမျိုးစေ့ကို အလွန်စက်ဆုပ်ရွံရှာဖွယ်သုက်ရည်စက်မှ ဖန်ဆင်းတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ထိုအရှင်မြတ်သည် ထိုလူသား၏အဆက်အနွယ်တို့ကို ညှစ်ထုတ်ထားသော အဖိုးမတန်သောရေဖြင့် ပြုလုပ်ဖန်ဆင်းတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

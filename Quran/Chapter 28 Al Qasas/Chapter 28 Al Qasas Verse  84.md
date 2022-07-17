@@ -710,6 +710,12 @@ Koĭto doĭde s dobrina, shte ima po-golyama ot neya, a koĭto doĭde sŭs z
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၄။	အကြင်သူသည် သုစရိုက်ကောင်းမှုတစ်ပါးကို ခံစားရလတ့ံ၊ ထိုသူသည် မိမိကောင်းမှုထက် သာလွန်မြင့်မြတ် သောအကျိုးသုခကို ခံစားရလတ့ံ၊ ဒုစရိုက်မှုကျူးလွန်သူများမှာမူူကား ၎င်းတို့ပြုကျင့်အ့ံသောအကုသိုလ်ကံ အတိုင်းသာအပြစ်ဒုက္ခခံစားရလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သူမဆို ကောင်းမှုကို ဆောင်ကြဉ်းခဲ့သည်ရှိသော်၊ ထိုသူ၏အဖို့ ယင်းကောင်းမှုထက် ပိုမိုကောင်းမြတ်သော (အကျိုး)သည် ရှိပေသည်။ သို့ရာတွင် မည်သူမဆို မကောင်းမှုဆောင်ကြဉ်းခဲ့မူ မကောင်းမှုများကို ကျင့်မူခဲ့ကြကုန်သောသူတို့ကား မိမိတို့ကျင့်မူခဲ့ကြကုန်သော ပြစ်မှုနှင့်အမျှသာလျှင် အစားပေးခြင်းကို ခံကြရကုန်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

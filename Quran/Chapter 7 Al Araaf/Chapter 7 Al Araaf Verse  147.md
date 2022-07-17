@@ -710,6 +710,12 @@ A koito vzimat za lŭzha Nashite znameniya i sreshtata s otvŭdniya zhivot, dela
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၇။	အကြင်သူတို့သည် ငါ၏ နှုတ်ကပတ်တော်များနှင့် နောင်တမလွန်ဘဝ၏ အစည်းအဝေးသဘင်ကြီး ကို မယုံကြည် ငြင်းပယ်အံ့။ သူတို့၏ပြုကျင့်မှုများသည် အကျိုးမဲ့ အချည်းနှီးဖြစ်ကြ၏။ သူတို့၏ ပြုကျင့်လေ့ရှိသောအမှုများအတွက်မှတစ်ပါး အခြားအတွက် သူတို့ကို ဂလဲ့စားချေတော်မူသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်သော်ကား အကြင်သူတို့သည် ငါအရှင်မြတ်၏မုက္ခပါဌ်တော်များကိုလည်းကောင်း၊ နောင်တမလွန်ဘဝနှင့် တွေ့ကြုံကြရမည်ကိုလည်းကောင်း၊ မဟုတ်မမှန်ဟု စွပ်စွဲငြင်းပယ်ခဲ့ကြကုန်၏။ ထိုသူတို့ ပြုမူသမျှတို့သည် အချည်းနှီးပင်ဖြစ်သွားချေပြီ။ ၎င်းတို့သည် မိမိတို့ ပြုကျင့်ကြသည်များကိုသာ အစားပေးခြင်း ခံကြရမည်။(ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

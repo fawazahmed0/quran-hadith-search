@@ -710,6 +710,12 @@ Kazhi [o, Mukhammad]: “Az vi nastavlyavam samo edno - da zastanete pred Allakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။	အို-တမန်တော်၊ သူတို့အား ဟောကြားလော့၊ ဟယ်-အချင်းတို့၊ သင်တို့အား ငါသည် တစ်ခုသောသြဝါဒကို ပေးကြားအ့ံ၊ သင်တို့သည် အလ္လာဟ်အရှင်မြတ်ကို ရည်သန်၍ အိပ်ရာမှထပြီးလျှင် တစ်ယောက်စီဖြစ်စေ၊ သို့မဟုတ်နှစ်ယောက်စီဖြစ်စေ၊ တရားအားထုတ်ကြလော့၊ သင်တို့၏ အဆွေတော်သည် သူရူးသူနှမ်းမဟုတ်၊ အလွန်ကြောက်မက်ဖွယ်ကောင်းသောအပြစ်ဒဏ်ကြီးကို မျက်မှောက်ထား၍ သင်တို့အား သွန်သင်ဆုံးမသတိ ပေးသော တမန်တော်မှတပါး အခြားသူမဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်)အသင်သည် ပြောကြားပါလေ။၊ (အချင်းတို့၊) ငါသည် အသင်တို့အား ကိစ္စတစ်ခုကိုသာတိုက်တွန်းနှိုးဆော်လို၏။ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား ရည်သန်၍ တစ်ယောက်စီ နှစ်ယောက်စီ ထကြပြီးလျှင်မိမိတို့၏အဖော်ဖြစ်သူ (ငါ)၌ ရူးသွပ်ခြင်းဝေဒနာရှိပါသလောဟု စဉ်းစားဆင်ခြင်ကြလေကုန်။ ထိုအသင်တို့၏ အဖော်ဖြစ်သူ(ငါ)သည် အသင်တို့အား ပြင်းထန်စွာသော ပြစ်ဒဏ်မကျရောက် မီ (ကြိုတင်) သတိပေး နှိုးဆော်သူတစ်ဦးသာလျှင်ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

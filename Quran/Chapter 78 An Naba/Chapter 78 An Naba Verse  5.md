@@ -710,6 +710,12 @@ I pak - ne! Te shte uznayat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။ မချွတ်ဧကန်သူတို့သည် သိကြရလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက်တဖန် (ငါအရှင်မြတ် ထပ်မံ မိန့်ကြားတော်မူအံ့၊ ၎င်းတို့သည် ကိယာမတ်ဖြစ်မည် မဟုတ်ဟု ထင်မှတ်နေကြ၏၊) အလျင်းမဟုတ်၊ (ထို ကိယာမတ်သည် အမှန်ပင်ဆိုက်ရောက်လာမည် ဖြစ်ပေရာ) ၎င်းတို့သည် (မျက်ဝါးထင်ထင်တွေ့မြင်) သိရှိကြရမည်သာ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I ako byakha povyarvali v Allakh i v Proroka, i v nizposlanoto na nego, ne bikha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၁။	အကယ်၍ သူတို့ အလ္လာဟ်အသျှင်မြတ်အားသော်လည်းကောင်း၊ အသျှင်မြတ်၏ တမန်တော်ကို လည်းကောင်း၊ တမန်တော်အား ချပေးသနားတော်မူသော ကျမ်းတော်ကိုလည်းကောင်း၊ ယုံကြည်ကြလျှင် သူတို့သည် မိစ္ဆာဒိဌိကို အဆွေခင်ပွန်းပြုကြမည်မဟုတ်ပေ။ သို့သော် သူတို့အနက် များလှစွာသောသူတို့သည် အကျင့်ယုတ်ညံ့ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍ ထိုသူတို့သည် အလ္လာဟ်အရှင်မြတ်ကိုလည်းကောင်း၊ နဗီတမန်တော်မြတ်ကိုလည်းကောင်း၊ ထိုနဗီတမန်တော်မြတ်ထံသို့ ကျရောက်လာသည့် (ကျမ်းတော်မြတ်ကုရ်အာန်) ကိုလည်းကောင်း၊ သက်ဝင်ယုံကြည်ကြပါလျှင် ထို (ကာဖိရ် သွေဖည်ငြင်းပယ်သော) သူတို့အား အဆွေခင်ပွန်းများ ပြုလုပ်ကြမည်မဟုတ်ပေ။ သို့ရာတွင် ယင်းသူတို့အနက် များစွာသောသူတို့မှာကား (အမိန့်တော်ကို ဖီဆန်သောသူများပင် ဖြစ်ကြကုန်သတည်း။) (အီမာန်၏အပြင်ဘက်သို့ ရောက်ရှိနေသူများပင်ဖြစ်ကြ၏။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

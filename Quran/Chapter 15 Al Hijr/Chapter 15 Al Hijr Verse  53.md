@@ -710,6 +710,12 @@ Rekokha: “Ne se strakhuvaĭ! Nie te blagovestvame za sin, nadaren sŭs znanie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။	သူတို့က မကြောင်ပါလင့်၊ အမှန်မှာ အကျွနု်ပ်တို့သည် အသင့်ထံသို့ ပညာရှိသားကောင်းရတနာပါးရမည့်သတင်း ကောင်းကို ယူဆောင်လာပါသည်ဟု ပြန်ပြောကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ယင်းဧည့်သည်တို့က (အို-အစ်ဗ်ရာဟီမ်) အသင်သည် မကြောက်ပါလေနှင့်။ ဧကန်စင်စစ်ကျွန်ုပ်တို့သည် အသင့်အား ဉာဏ်ပညာနှင့်ပြည့်စုံသော သားတော်တစ်ပါးနှင့်ပတ်သက်၍ ဝမ်းမြောက်ဖွယ် သတင်းပေးကြပါသည်ဟု ပြောကြားခဲ့ကြလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I [izpratikhme] Lut, koĭto reche na svoya narod: “Vie vŭrshite skvernostta.
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	တဖန်တမန်တော်လွဒ်၊ မှတ်သားကြလော့၊ သူသည် မိမိအမျိုးသားတို့အား မှတ်သားကြလော့၊ သင်တို့အလျင် လာသောလူဟောင်းတို့မပြုကျင့်ခဲ့သောကာမရာဂညစ်ညမ်းမှုကို သင်တို့သည် ပြုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ(ငါအရှင်မြတ်သည်)’လူ(တ်)’အား (လည်း နဗီတမန်တော်အဖြစ် စေလွှတ်တော်မူခဲ့၏။) တစ်ရံရောအခါဝယ် ထို ‘လူ(တ်)’ က မိမိအမျိုးသားတို့အား (ဤသို့)ပြောကြားခဲ့လေ၏။ ဧကန်စင်စစ် အသင်တို့သည် ကမ္ဘာသူကမ္ဘာသားခပ်သိမ်းအနက် မည်သူတစ်ဦးတစ်ယောက်မျှပင် အသင်တို့အလျင် ကျူးလွန်ခဲ့ခြင်းမရှိသော အလွန့်အလွန် ဆိုးယုတ်လှစွာသောအမှုကို ကျူးလွန်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

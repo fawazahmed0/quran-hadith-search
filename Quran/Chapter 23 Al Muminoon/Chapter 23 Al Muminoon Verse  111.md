@@ -710,6 +710,12 @@ Dnes Az gi vŭznagrazhdavam, zashtoto byakha tŭrpelivi. Te sa spechelilite.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၁။	မှတ်သားကြလော့၊ ဤနေ့တော်ကြီး၌ ငါသည် ခန္တီပါရမီရှင်တို့အား ဆုလာဘ်ပေးသနားတော်မူ၏၊ သူတို့သည် မုချဧကန်အောင်မြင်သူတို့ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယနေ့ ငါအရှင်မြတ်သည် ထိုသူတို့အား ၎င်းတို့၏သည်းခံမှုကြောင့် ကောင်းကျိုးကို ချီးမြှင့်တော်မူလိုက်ပြီ၊ မုချဧကန် ၎င်းတို့သည်သာ အောင်မြင် သူများ ဖြစ်ကြကုန် သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

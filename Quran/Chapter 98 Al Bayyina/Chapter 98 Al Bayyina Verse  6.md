@@ -710,6 +710,12 @@ Onezi ot khorata na Pisanieto i ot sŭdruzhavashtite, koito ne vyarvakha, shte b
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။ မှတ်သားကြလော့၊ ရှေးကျမ်းရသူများနှင့် ဆင်းတုဝါဒီများအနက် မိစ္ဆာဒိဋ္ဌိတို့သည် ငရဲမီးထဲတွင် နေကြရလတံ့၊ သူတို့သည် ဖန်ဆင်းတော်မူသောအရာတို့တွင် အယုတ်မာဆုံးဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ရှေးအထက်ကျမ်းဂန် ရရှိသူတို့အနက်မှလည်းကောင်း၊ "မွရှ်ရစ်က်" တစ်စုံတစ်ရာကို အလ္လာဟ်အရှင်မြတ်နှင့် တွဲဖက် ကိုးကွယ်သူတို့အနက်မှလည်း ကောင်း၊ သွေဖည် ငြင်းငြင်းပယ်ခဲ့ကြကုန်သော သူတို့မှာ ဧကန်အမှန် ဂျဟန္နမ်ငရဲ၏ မီးထဲသို့ အမြဲထာဝစဉ် နေထိုင် ခံစားကြရသူများအဖြစ် လားကြရပေမည်။ ထိုသူတို့ကား အဖန်ဆင်းခံတို့တွင် အဆိုးဆုံးသောသူများပင် ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

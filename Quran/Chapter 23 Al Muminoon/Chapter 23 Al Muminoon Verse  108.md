@@ -710,6 +710,12 @@ Shte reche: “Bŭdete tam prezreni i ne govorete s Men
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၈။	အလ္လာဟ်အရှင်မြတ်က သူတို့အား နင်တို့ငရဲထဲသို့ ဝင်ကြလော့၊ ငါ့အား မတင်လျှောက်ကြလင့်ဟု ဗျာဒိတ်ပေး တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ထိုအရှင်မြတ်သည် (ဤသို့) မိန့် ကြားတော်မူမည်။ အသင်တို့သည် ယင်းဂျဟန္နမ်ငရဲဘုံ၌ ဂုဏ်ရည်သေးသိမ်စွာ မောင်းထုတ်ခြင်း ခံရသူများအဖြစ် ရှိနေကြလေကုန်။ ၎င်းပြင် အသင်တို့သည် ငါအရှင်မြတ်နှင့် အလျှင်း စကားမပြောဆိုကြကုန်လင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

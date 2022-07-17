@@ -710,6 +710,12 @@ Veche pogubikhme podobnite na vas. No ima li koĭ da se pouchi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁။	အို-မိစ္ဆာမိုက်တို့၊ ငါသည် နင်တို့ကဲ့သို့သောအယူလွဲသူတို့ကို အမှန်အကန်အထက်ထက်ကပင် ဖျက်ဆီးတော် မူလေပြီ၊ သို့ဖြစ်၍ နင်တို့အနက် တရားသံဝေဂရရှိသူတစ်စုံတစ်ယောက်ရှိသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မချွတ်ဧကန် ငါအရှင်မြတ်သည် အသင်တို့နှင့် ဝါဒတူတို့အား ကွပ်မျက်ဖျက်ဆီးတော်မူခဲ့ရာ တရားရယူသူများဟူ၍ ရှိကြပါသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

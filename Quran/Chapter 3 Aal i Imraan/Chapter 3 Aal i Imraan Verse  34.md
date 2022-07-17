@@ -710,6 +710,12 @@ potomstvo edni ot drugi. Allakh e vsechuvasht, vseznaesht
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	သူတို့သည် တစ်ဦးမှတစ်ဦး ဆင်းသက်လာကြ၏။ အလ္လာဟ်အသျှင်မြတ်သည် ကြားတော်မူသော အသျှင်၊ သိတော်မူသောအသျှင် ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းသူတို့အနက် အချို့သောသူတို့သည်အချို့သောသူတို့၏ သားစဉ်မြေးဆက်များပင် ဖြစ်ကြပေသည်။အမှန်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အကြွင်းမဲ့ကြားသိတော်မူသောအရှင်၊ အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့သိတော်မူသော အရှင်မြတ်ပင် ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

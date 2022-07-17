@@ -710,6 +710,12 @@ Rekokha: “Dovedete go pred khorata da zasvidetelstvat!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၁။	သူတို့က တဖန်ဆိုသည်မှာ သို့ပါလျှင် လူထုက သက်သေခံနိုင်ဖို့ရာ ထိုအေဗရာဟမ်ကို လူထုရှေ့သို့ ဆွဲထုတ် ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ယင်းအမျိုးသားတို့က သို့ဖြစ်လျှင်အသင်တို့သည် အိဗ်ရာဟီမ်အား လူအပေါင်းတို့၏မျက်မှောက်သို့ ၎င်းတို့(အားလုံး အိဗ်ရာဟီမ်)အား မြင်နိုင်ကြအံ့သောငှာ ခေါ်ဆောင်ခဲ့ကြလေကုန်ဟု ပြောဆိုကြလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I ot·sluzhvaĭ molitvata v dvata kraya na denya, i v nachaloto na noshtta! Nai
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၄။	သင်တို့သည် နေ့အစအဆုံး၌သော်လည်းကောင်း၊ ညဉ့်အခါ၌သော်လည်းကောင်း၊ ဆွလတ်ပြုကြလော့။ မှတ်သား ကြလော့။ ကုသိုလ်ကောင်းမှုများသည် အကုသိုလ်မကောင်းမှုများကို ချေဖျက်ပစ်ကြ၏။ ဤပညတ်တော်သည် ဂရုစိုက်သူတို့အဖို့ သတိပေးပညတ်တော်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်သည် ဆွလာတ်ဝတ်ပြုမှုကိုနေ့၏နှစ်ဖက်အစွန်း၌လည်းကောင်း၊ ည၏အစိတ်အပိုင်းများ၌လည်းကောင်း၊ ဆောက်တည်ပါလေ။ (မလွဲဧကန် ကောင်းမှုသုစရိုက်များသည် မကောင်းမှုဒုစရိုက်များကို ပပျောက်စေကုန်၏။) ဤကား ဆုံးမဩဝါဒကို နာခံသူများအဖို့ ဆုံးမဩဝါဒပင် ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

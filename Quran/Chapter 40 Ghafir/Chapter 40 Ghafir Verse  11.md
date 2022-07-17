@@ -710,6 +710,12 @@ Shte rekat: “Gospodi nash, Ti ni umŭrtvi dva pŭti i ni sŭzhivi dva pŭti. I
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	ထိုအခါ ထိုသူယုတ်မာတို့က တင်လျှောက်မည်မှာ အို-အကျွန်ုပ်တို့၏ အသက်သခင်ကျေးဇူးရှင်၊ အရှင်သည် အကျွနု်ပ်တို့အား နှစ်ကြိမ်နှစ်ခါသေစေတော်မူပါပြီ၊ နှစ်ကြိမ်နှစ်ခါရှင်စေတော်မူပါပြီ၊ ယခုအခါ အကျွနု်ပ်တို့သည် မိမိကျူးလွန်မိသောအပြစ်များကို ဝန်ချတောင်းပန်ပါ၏၊ ဤငရဲမှ ထွက်ပေါက်တစ်စုံတစ်ခုရှိပါ၏လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုရောအခါဝယ်)၎င်းတို့သည် (ဤသို့)လျှောက်ထား ပန်ကြားကြပေမည်။ အို-ကျွန်တော်မျိုးတို့အား ဖန်ဆင်း မွေးမြူတော်မူသောအရှင်မြတ်၊ အရှင်မြတ်သည် ကျွန်တော်မျိုးတို့အား နှစ်ကြိမ်တိုင်တိုင် သူသေများအဖြစ်နှင့် ထားရှိတော်မူခဲ့ပါသည်။ ထိုနည်းတူစွာ အရှင်မြတ်သည် နှစ်ကြိမ်တိုင်တိုင် ကျွန်တော်မျိုးတို့အား အသက်ရှင်စေတော်မူခဲ့ပါသည်။ ယခုသော်ကား ကျွန်တော်မျိုးသည် မိမိတို့၏အပြစ်များကို ဝန်ခံကြပါပြီ။ သို့ဖြစ်ပါ၍ (ဤဒုက္ခမှ)လွတ်မြောက်ရန် နည်းလမ်းတစ်စုံတစ်ရာ ရှိပါ၏လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

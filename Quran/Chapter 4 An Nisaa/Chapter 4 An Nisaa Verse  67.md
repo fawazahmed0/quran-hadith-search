@@ -710,6 +710,12 @@ Togava shtyakhme da im darim ot Nas ogromna nagrada
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၇။	ထိုအခါ ငါသည် သူတို့အား ကြီးမားသော ဆုတော်လာဘ်တော်ကို ငါ့အထံတော်မှ ချပေးသနားတော် မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင်၊ ထိုအချိန်အခါမျိုးတွင် ဧကန်စင်စစ် ငါအရှင်မြတ်သည် ထိုသူတို့အား မိမိအထံတော်မှ ကြီးကျယ်မြင့်မြတ်လှစွာသော အကျိုးကျေးဇူးတော်ကို ချီးမြှင့်ပေးသနားတော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

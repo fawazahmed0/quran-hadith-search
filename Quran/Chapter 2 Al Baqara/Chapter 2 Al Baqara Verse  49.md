@@ -710,6 +710,12 @@ I [spomnete si] kogato vi izbavikhme ot khorata na Faraona. Te vi prichinyavakha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	၎င်းပြင် ငါအရှင်သည် သင်တို့အား ဖာရောမင်း၏ လူများထံမှ ကယ်နှုတ်တော်မူသည်ကို သတိရကြ လော့။ သူတို့သည် သင်တို့အား အလွန်ရက်စက်ကြမ်းကြုတ်စွာ ညှင်းပန်းကြ၏။ သင်တို့၏သားများကို သတ်ဖြတ်ကြ၏။ အမျိုးသမီးကိုသာ အသက်ချမ်းသာပေးကြ၏။ ထိုဘေးဒုက္ခကြီးသည် သင်တို့၏ အရှင်သခင်ထံမှ ကြီးမားစမ်းသပ်ခြင်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-အစ္စရာအီလ်၏ မျိုးနွယ်အပေါင်းတို့၊ ပြန်လည်သတိရကြကုန်) တရံရောအခါ ငါအရှင်သည် အသင်တို့အား ဖိရ်အောင်န်၏ အခြွေအရံ တို့၏ ဘေးအန္တရာယ်မှကယ်မ၍ လွတ်မြောက် စေတော် မူခဲ့လေသည်၊ ထိုသူတို့သည် အသင်တို့အပေါ်ဝယ် အလွန်တရာ ရက်စက်ကြမ်းကြုတ် ဆိုးရွားလှစွာသော ဘေးဒုက္ခဆင်းရဲမှုများကို သက်ရောက်စေကြသည်၊ ထိုသူတို့သည် အသင်တို့၏ သမီးမိန်းကလေးများကို မသတ်ဘဲ ချန်လှပ်၍ သားယောက်ျားများကိုမူ (ရက်စက်စွာ) သတ်ဖြတ်လေ့ရှိကြ၏၊ ဤသည်ကား အသင်တို့ကို မွေးမြူတော်မူသော အသျှင်၏ထံတော်မှ ကြီးစွာသော စမ်းသပ်တော်မူခြင်း တစ်ရပ်ပင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

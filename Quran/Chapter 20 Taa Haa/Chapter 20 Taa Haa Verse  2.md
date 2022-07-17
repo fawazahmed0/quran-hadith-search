@@ -710,6 +710,12 @@ Nie ne ti nizposlakhme Korana, za da stradash
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	အို-တမန်တော်မိုဟမ္မဒ်၊ ငါသည် သင့်စိတ်ညှိုးနွမ်းဖို့ရာ ဤကုရ်အာန်ကျမ်းတော်မြတ်ကို သင့်အား ထုတ်ပြန်ပေး သနားတော်မူသည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် အသင် အတိဒုက္ခ ခံစားအံ့သောငှာ အသင့်အပေါ်ဝယ် ကုရ်အာန်ကျမ်းတော်မြတ်ကို ချပေးသနားတော်မူခဲ့သည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

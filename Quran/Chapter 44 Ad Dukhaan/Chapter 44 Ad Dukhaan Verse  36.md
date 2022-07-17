@@ -710,6 +710,12 @@ Dovedete nashite predtsi, ako govorite istinata!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	သင်တို့အမှန်ကိုဆိုလျှင် ငါတို့မိဘဘိုးဘွားတို့ကို ပြန်ယူခဲ့ပါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ(အို-မုစ်လင်မ်အပေါင်းတို့၊)အကယ်၍ အသင်တို့သည် သစ္စာဝါဒီများဖြစ်ကြလျှင် သေဆုံးခဲ့ကြပြီးဖြစ်သော ကျွန်ုပ်တို့၏အဘ၊ ဘိုး၊ ဘေးတို့အား(တစ်ဖန် ရှင်စေပြီး) ခေါ်ယူခဲ့ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

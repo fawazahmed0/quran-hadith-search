@@ -710,6 +710,12 @@ Koĭto doĭde s dobrina, shte ima deset kato neya. A koĭto doĭde sŭs zlin
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၀။	အကြင်သူသည် ကုသိုလ်ကောင်းမှုတစ်ခုကို ယူဆောင်လာအံ့။ ထိုသူသည် ထိုကောင်းမှု၏ ဆယ်ဆ အကျိုးသုခကို ခံစားရလိမ့်မည်။ သို့သော် အကြင်သူသည် အကုသိုလ်မကောင်းမှုတစ်ခုကို ယူလာအံ့။ ထိုသူသည် ၎င်းမကောင်းမှုနှင့်ညီမျှသောအပြစ်ဒုက္ခကိုသာ ခံစားရမည်။ သူတို့သည် မတရားပြုခြင်းကို ခံရမည်မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သူမဆို ကောင်းမှုကို ယူဆောင်ခဲ့အံ့။ ထိုသူသည်(အနည်းဆုံး)ယင်းကောင်းမှု၏ ဆယ်ဆကိုရရှိပေအံ့။ ၎င်းပြင် မည်သူမဆို မကောင်းမှုဒုစရိုက်ကို ယူဆောင်ခဲ့အံ့။ ထိုသူသည် ယင်းမကောင်းမှုနှင့် ထပ်တူထပ်မျှသာ အစားပေးခြင်းခံရ လတ္တံ့။ (အပြစ်ရှိသည်ထက် ပို၍ခံရမည်မဟုတ်)။၎င်းပြင် ထိုသူတို့သည် မတရားနှိပ်စက်ခြင်းကိုခံကြရမည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

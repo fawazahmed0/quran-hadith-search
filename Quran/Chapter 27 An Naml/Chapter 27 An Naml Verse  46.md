@@ -710,6 +710,12 @@ Reche: “O, narode moĭ, zashto izbŭrzvate sŭs zlinata predi dobrinata? Zash
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။	တမန်တော်က ဟယ်-အချင်းတို့၊ သင်တို့သည် ကုသိုလ်ကောင်းမှုထက် အကုသိုလ်မကောင်းမှုကို အရေးတကြီး အဘယ်ကြောင့် ကြိုးပမ်းကြသနည်း၊ သင်တို့သည် ကောင်းကြီးမင်္ဂလာရရှိစေခြင်းငှာ အလ္လာဟ်အရှင်မြတ် အထံတော်၌ အဘယ်ကြောင့်ဆုမတောင်းကြသနည်းဟု မေး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို"ဆွာလိဟ်"က အို-ငါ၏အမျိုးသားတို့၊ အသင်တို့သည် အဘယ်ကြောင့် ကရုဏာတော်၏အလျင် အပြစ်ဒဏ်ကို အလျင်လိုကြသနည်း။ အသင်တို့သည် ကရုဏာပြုတော်မူခြင်းခံကြရအံ့သောငှာ အဘယ်ကြောင့် အလ္လာဟ်အရှင်မြတ် အထံတော်၌ ချမ်းသာခွင့်ကို တောင်းခံခြင်း မပြုကြသနည်းဟု ပြောကြားခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

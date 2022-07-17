@@ -710,6 +710,12 @@ Ako ne be [opasnostta] khorata da stanat obshtnost ot [nevernitsi], shtyakhme da
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃၊၃၄။	လူသားအပေါင်းတို့သည် လူမျိုးတစ်မျိုးတည်းသာ ဖြစ်လာကြမည်မဟုတ်လျှင် မဟာကရုဏာတော််အရှင်အား မယုံကြည်သူတို့အဖို့အရာ ငါသည် သူတို့၏ အိမ်အမိုးအကာများကိုသော်လည်းကောင်း၊ သူတို့လဲလျောင်းထိုင်ရာ ပလ္လင်များကိုသော်လည်းကောင်း၊ ငွေသားအတိဖြစ်စေတော်မူခဲ့လေလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်မှာကား အကယ်၍သာ လူခပ်သိမ်းတို့သည် (မိစ္ဆာ)သာသနာဝင် အုပ်စုတစ်စုတည်းသာ ဖြစ်သွားကြရန် အကြောင်းမရှိခဲ့ပါလျှင် အမှန်ပင် ငါအရှင်မြတ်သည် အနန္တ ကရုဏာတော်ရှင်အား သွေဖည် ငြင်းပယ်ကြကုန်သော သူတို့အဖို့ ၎င်းတို့ နေအိမ်များ၏အမိုးတို့ကို ငွေဖြင့်ပြုလုပ်၍ပေးတော် မူခဲ့မည်သာ၊ ၎င်းပြင် လှေကားများကိုလည်း(ငွေဖြင့်ပြုလုပ်၍ ပေးတော်မူခဲ့မည်သာ၊) ၎င်းတို့သည် ယင်း(လှေကားများဖြင့်) အမိုးများသို့ တက်ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

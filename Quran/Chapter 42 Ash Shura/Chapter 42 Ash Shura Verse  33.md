@@ -710,6 +710,12 @@ Ako Toĭ pozhelae, spira vyatŭra i togava ostavat nepodvizhni na povŭrkhnostt
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	အကယ်၍ အလိုတော်ရှိပါလျှင် အရှင်မြတ်သည် တိုက်ခတ်နေသောလေကို မလှုပ်မရှားငြိမ်နေစေတော်မူမည်၊ ထိုအခါသင်္ဘောများသည် သမုဒ္ဒရာပင်လယ်ကြော၌ မမျောနိုင်ပဲ တန့်ရပ်၍ နေလိမ့်မည်၊ စင်စစ်မှာ ဤအချက် များ၌ တန့်ရပ်၍ နေလိမ့်မည်၊ စစ်စစ်မှာဤအချက်များ၌ သည်းခံခြင်းတရားရှိသူနှင့် ကျေးဇူးတော်ကို ချီးမွမ်း သူတို့အဖို့အရာ သာဓတော်များပါရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍ ထိုအရှင်မြတ်သည် အလိုရှိတော်မူပါလျှင် လေကိုငြိမ်သက်စေတော်မူမည်သာ။ ထိုအခါ ယင်းသင်္ဘောမှာသွားလာလှုပ်ရှားနိုင်ခြင်း မရှိတော့ဘဲ၊ သမုဒ္ဒရာပင်လယ်၏ မျက်နှာပြင်ဝယ် ရပ်တန့်လျက်ပင် ရှိနေကြပေမည်။ဧကန်မလွဲ ဤတွင် အလွန်တရာ ကျေးဇူးသိတတ်သော၊ အလွန်တရာ သည်းခံတရားရှိသူတိုင်းအဖို့ အမှန်ပင် သက်သေလက္ခဏာများ ရှိကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

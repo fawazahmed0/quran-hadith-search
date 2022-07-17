@@ -710,6 +710,12 @@ zavŭrni se pri tvoya Gospod dovolstvashta, zasluzhila blagosklonnost
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။ သင်၏ အရှင်သခင်အထံတော်သို့ အရှင်မြတ်၏ နှစ်သက်တော်မူခြင်း၌ စိတ်ကျေနပ်နှစ်သက်စွာပြန်လာလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်သည် မိမိ၏ အရှင်မြတ်အထံတော်သို့ ကျေနပ်လျက် (ထိုအရှင်မြတ်၏)ကျေနပ်မှုကို ခံယူလျက် ပြန်သွားလေလော့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

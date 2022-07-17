@@ -710,6 +710,12 @@ Gospoda na Musa i Kharun!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၂။	ထိုအသျှင်မြတ်သည် တမန်တော်မူဆာနှင့် တမန်တော်ဟာရွန်တို့၏ အသျှင်သခင်ဖြစ်တော်မူပါ၏ဟု ရင့်ကျူးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (နဗီတမန်တော်မူစာ)နှင့် (နဗီတမန်တော်)(ဟာရူန်) တို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်(အားယုံကြည် ကြလေပြီ)။တစ်နည်း။(ထိုအရှင်မြတ်သည်) တမန်တော်(မူစာ)နှင့်တမန်တော်(ဟာရူန်)တို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်လည်း (ဖြစ်တော်မူသည်)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

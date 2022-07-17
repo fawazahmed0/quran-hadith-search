@@ -710,6 +710,12 @@ I namerikhme tam otdadeni [na Allakh] samo v edin dom
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	သို့သော် ထိုအရပ်တွင် ယုံကြည်ကျိုးနွံနာခံသူတို့၏ အိမ်တစ်ဆောင်သာ ငါတွေ့တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ငါအရှင်မြတ်သည် ထိုမြို့ရွာ၌ မွတ်စ်လင်မ် အိမ်တစ်အိမ်သာလျှင် တွေ့ရှိတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

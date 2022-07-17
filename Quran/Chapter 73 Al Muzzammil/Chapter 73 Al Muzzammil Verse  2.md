@@ -710,6 +710,12 @@ stavaĭ [za molitva] prez noshtta, no ne tsyalata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။ သင်သည် ညဉ့်အခါ၌ သန်းခေါင်ကျော်ဆွလားသ်ဝတ်ပြုရန် ရပ်လော့၊ သို့သော်တညဉ့်လုံးဝတ်မပြုလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်သည် ညဉ့်၌(ထ၍ ဆွလာတ်ဝတ်ပြု)ပါလေ။ သို့ရာတွင် အနည်းငယ် (အနားယူအိပ်စက်ပါလေ)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

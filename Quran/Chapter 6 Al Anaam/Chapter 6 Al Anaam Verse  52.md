@@ -710,6 +710,12 @@ I ne progonvaĭ onezi, koito zovat svoya Gospod i sutrin, i vecher, iskaĭki N
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၂။	အလ္လာဟ်အသျှင်မြတ်၏မျက်နှာတော်ကို ဖူးမြင်လိုသောဇောနှင့် သူတို့၏ကျေးဇူးတော်သခင်အား နံနက်နှင့် ညနေတွင် ဝတ်ပြုသောသူတို့အား သင် တွန်လှန်မပစ်လင့်။ ထိုသူတို့ကို တွန်းလှန်ရအောင် သင်သည် သူတို့၏ ပြုကျင့်မှုအတွက် တာဝန်ယူရမည်မဟုတ်။ အစစ်အကြော ခံရမည်မဟုတ်ပေ။ ဒုစရိုက်အမှုအခင်းများကို ပြုကျင့်သူတို့၏ဘောင်တွင် မပါလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 င်းပြင်အသင်သည် အကြင်သူများကို(မိမိထံမှ)နှင်မထုတ်ပါနှင့်။ ထိုသူများသည် မိမိတို့ကို မွေးမြူတော်မူသောအရှင်မြတ်အား နံနက်အချိန်တွင်လည်းကောင်း၊ ညနေအချိန်တွင်လည်းကောင်း၊ ခဝပ်ကိုးကွယ်ကြ၏။ ထိုအရှင်မြတ်၏နှစ်မြို့တော်မူခြင်းကိုသာလျှင် ရည်စူးကြ၏။ အသင်သည်ထိုသူတို့ကို နှင့်ထုတ်ရလေအောင် ထိုသူတို့အားစူးစမ်းခြင်းနှင့်ပတ်သက်၍ အသင့်အပေါ်၌ တစ်စုံတစ်ရာတာဝန်ရှိသည်မဟုတ်ချေ။ 4င်းအပြင် အသင့်အားစူးစမ်းခြင်းနှင့်ပတ်သက်၍ထိုသူတို့အပေါ်၌လည်း တစ်စုံတစ်ရာတာဝန်ရှိသည်မဟုတ်ချေ။ သို့ပါလျက် အကယ်၍ အသင်ဤသို့ပြုမိလျှင်၊အသင်သည် မတရားပြုသူများတွင် အပါအဝင်ဖြစ်သွားချေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

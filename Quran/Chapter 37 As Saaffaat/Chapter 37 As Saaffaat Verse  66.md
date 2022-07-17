@@ -710,6 +710,12 @@ A te ot nego shte yadat i shte si pŭlnyat stomasite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၆။	ထို့အပြင်မှတ်သားကြလော့၊ ငရဲသားတို့သည် ဤအသီးကို မုချစားသုံးရ၏၊ သူတို့၏ ဝမ်းများကို ဤအသီးနှင့် ဖြည့်ကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ဧကန်အမှန် ၎င်းတို့သည် ယင်းသစ်ပင်မှ အမှန်ပင် စားသုံးကြပေမည်။ ထို့နောက် ၎င်းတို့သည် ယင်းသစ်ပင်ဖြင့် ဝမ်းဗိုက်များကို ဖြည့်ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

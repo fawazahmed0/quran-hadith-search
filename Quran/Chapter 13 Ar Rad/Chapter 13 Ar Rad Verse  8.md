@@ -710,6 +710,12 @@ Allakh znae kakvo nosi vsyaka bremenna i kolko namalyavat utrobite, i kolko se u
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	အလ္လာဟ်အရှင်မြတ်သည် အမများ၏ ဝမ်းဗိုက်တွင် လွယ်ထားသည်ကိုလည်းကောင်း၊ ထိုဝမ်းဗိုက်များစုပ်ယူ ထားသည်ကိုလည်းကောင်း၊ ထိုဝမ်းဗိုက်များကြီးလာသည်ကိုလည်းကောင်း၊ သိတော်မူ၏။ အရာဝထ္ထုတိုင်းကို အလ္လာဟ်အရှင်မြတ်စီမံခန့်ခွဲထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် အမိတိုင်း မည်သည့်အရာကို ကိုယ်ဝန်ဆောင်လျက်ရှိသည်ကိုလည်းကောင်း၊သားအိမ်များသည် မည်သည့်အရာကို ချွတ်ယွင်းစေသည်ကိုလည်းကောင်း၊ ထို့အတူ မည်သည့်အရာကို ပိုမိုစေသည်ကိုလည်းကောင်း သိရှိတော်မူ၏။ (တစ်နည်း) အလ္လာဟ်အရှင်မြတ်သည် မိန်းမတစ်ဦးတစ်ယောက်၏ဝမ်းတွင်း လွယ်ထားသည်ကိုလည်းကောင်း၊ (မိန်းမများ၏)သားအိမ်များတွင် လျော့သည်ပိုသည်တို့ကိုလည်းကောင်း၊ သိရှိတော်မူ၏။ (စင်စစ်သော်ကား)အရာခပ်သိမ်းတို့သည် ထိုအရှင်မြတ်အထံတော်၌ ချင့်ချိန်တိုင်းတာ သတ်မှတ်ပြီး ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

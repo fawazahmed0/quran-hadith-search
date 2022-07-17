@@ -710,6 +710,12 @@ Taka Allakh, Vsemogŭshtiya, Premŭdriya razkriva na teb i na onezi predi teb [o
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	အို-တမန်တော်၊ အနန္တတန်ခိုးတော်သခင်၊ သဗ္ဗညုတဉာာဏ်တော်ရှင်၊ အလ္လာဟ်အရှင်မြတ်သည် သင့်အလျင် ရှေးတမန်တော်တို့အား ဗျာဒိတ်ပေးတော်မူသည့်နည်းအတိုင်း သင့်ကိုလည်း ဗျာဒိတ်ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလွန်တရာ နိုင်နင်းလွှမ်းမိုးတော်မူသော၊ ဆင်ခြင်တုံတရားနှင့်ပြည့်စုံတော်မူသော အလ္လာဟ် အရှင်မြတ်သည်အသင့်ထံသို့လည်းကောင်း၊ အသင့်အလျင်ပွင့်ခဲ့ကြလေသောတမန်တော်များထံသို့လည်းကောင်း၊ ဤနည်းအတိုင်းပင် ဝဟီတော် ထုတ်ပြန်လေ့ရှိတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

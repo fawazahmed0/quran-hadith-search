@@ -710,6 +710,12 @@ Zatova vkusete! Ne shte uvelichim za vas drugo osven mŭchenieto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၀။ ထို့ကြောင့်နင်တို့သည် မိမိတို့ဆည်းပူးခဲ့သောအကျိုးကို မြည်းကြလော့၊ အပြစ်ဒဏ်များခြင်းမှတပါး မည်သည့်တိုးပွားခြင်းကို နင်တို့အား ငါပေးတော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (ငါအရှင်မြတ်သည် ထိုနေ့တွင် ၎င်းတို့အား ယင်းအပြုအမူတို့ကို ပြသတော်မူ၍) အသင်တို့သည် (ပြစ်ဒဏ်၏အရသာကို) မြည်းစမ်း ကြလေကုန်။ စင်စစ် ငါအရှင်မြတ်သည် ပြစ်ဒဏ်မှတစ်ပါး အခြားတစ်စုံတစ်ရာကိုမျှ အသင်တို့၌ ပိုမိုစေတော်မူမည်မဟုတ်(ဟု မိန့်ကြားတော်မူအံ့သတည်း)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

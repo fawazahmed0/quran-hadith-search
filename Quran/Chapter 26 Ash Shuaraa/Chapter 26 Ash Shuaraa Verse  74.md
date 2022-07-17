@@ -710,6 +710,12 @@ Rekokha: “Ne, no zavarikhme bashtite ni taka da pravyat.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၄။	သူတို့က ယင်းသို့မဟုတ်ချေ၊ သို့သော်ငါတို့သည် မိဘဘိုဘွားတို့၊ ယင်းသို့ကိုးကွယ်နေသည်ကို တွေ့ကြ၏ဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအမျိုးသားတို့က ထိုသို့အလျှင်းမဟုတ်၊ စင်စစ်မှာကား ကျွန်ုပ်တို့သည် မိမိတို့၏အဘ၊ ဘိုးဘေးတို့အား ဤအတိုင်း ပြုမူကြသည်ကို တွေ့ရှိခဲ့ကြ ပါသည်ဟု ဖြေကြားခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

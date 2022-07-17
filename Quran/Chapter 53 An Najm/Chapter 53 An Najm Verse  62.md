@@ -710,6 +710,12 @@ Svedete chela do zemyata v sudzhud pred Allakh i na Nego sluzhete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	ယင်းသို့မပြုလုပ်ပဲ အလ္လာဟ်အရှင်မြတ်၏ ရှေ့မှောက်တော်၌ ဦးညွှတ်ချကြလော့၊ အရှင်မြတ်အား ခဝပ်ကိုးကွယ် ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ် ရှေ့တော်မှောက်ဝယ် ‘စဂျ်ဒဟ်’ ပျပ်ဝပ်ဦးချကြ လေကုန်။ထိုမှတစ်ပါး အသင်တို့သည် (ထိုအရှင် မြတ်အားသာလျှင်) ကိုးကွယ်ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

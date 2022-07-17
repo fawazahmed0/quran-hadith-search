@@ -710,6 +710,12 @@ I rekokha: “Nima chovek ot nas shte posledvame? Togava nie shte izpadnem v zab
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	အကြောင်းမူကား သူတို့က ဤသို့ဆိုကြ၏၊ ငါတို့သည် မိမိအထဲမှဖြစ်သော သေမျိုးတစ်ယောက်ကို လိုက်နာ ရမည်လော၊ ထိုသို့လိုက်နာဆောင်ရွက်လျှင် ငါတို့သည် မုချဧကန်အမှားနှင့် ရူးသွပ်ခြင်းသို့ ဆိုက်ရောက်ရ တော့မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ၎င်းတို့က ကျွန်ုပ်တို့သည် မိမိတို့ အမျိုးအစားထဲမှဖြစ်သော လူသားတစ်ဦး၏နောက်သို့ လိုက်ကြရမည်လော။ သို့ဖြစ်လျှင် ဧကန်မလွဲ ကျွန်ုပ်တို့သည် လမ်းလွဲမှု၌၊ ထိုမျှမက ရူးသွပ်မှု၌ ကျရောက် သွားကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

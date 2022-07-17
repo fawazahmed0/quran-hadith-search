@@ -710,6 +710,12 @@ Obeshtava im i gi podbuzhda kŭm kopnezhi. Ala satanata im obeshtava samo izmamn
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂ဝ။	ရှိုင်တန်သည် သူတို့အား ဂတိသစ္စာပေး၏။ သူတို့၌ အလိုဆန္ဒဆိုးများ တက်ကြွစေ၏။ ရှိုင်တန်သည် သူတို့အား လှည့်စားရန် ဂတိထား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို ‘ရှိုင်တွာန်’သည် ထိုသူတို့အား ကတိပေး၏။ တပ်မက်မောစေ၏။ သို့ရာတွင်ထို ‘ရှိုင်တွာန်’ သည်ထိုသူတို့အား လိမ်လည်ဖြားယောင်းခြင်းအားဖြင့်သာ ကတိပေးသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

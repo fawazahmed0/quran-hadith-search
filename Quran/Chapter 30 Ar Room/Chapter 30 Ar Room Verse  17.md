@@ -710,6 +710,12 @@ Proslavyaĭte Allakh, kogato zamrŭkvate i kogato osŭmvate
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	ထို့ကြောင့်သင်တို့သည် ညဉ့်အချိန်သို့ဝင်သောအခါသော်လည်းကောင်း၊ နံနက်အချိန်သို့ ဝင်သောအခါသော် လည်းကောင်း၊ ဆွလားသ်ဝတ်ပြုကြလော့၊ အရှင်မြတ်၏ ဂုဏ်ကျေးဇူးတော်ကို ချီးကျူးတသကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်တို့သည် ညနေအချိန်သို့ဝင် ရောက်ကြသောအခါ၌လည်းကောင်း၊ နံနက်အချိန်သို့ ဝင်ရောက်ကြသောအခါ၌လည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ် စင်ကြယ်သန့်ရှင်းတော်မူကြောင်း မြွက်ဆိုကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

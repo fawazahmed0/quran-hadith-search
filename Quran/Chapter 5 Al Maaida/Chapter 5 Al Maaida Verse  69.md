@@ -710,6 +710,12 @@ Vyarvashtite i yudeite, i sabeite, i khristiyanite - koito [ot tyakh] povyarvat 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၉။	မှတ်သားကြလော့။ ယုံကြည်သူများ၊ ရဟူဒီအမျိုးသားများ၊ ဆာဘီယင်အမျိုးသားများ၊ ခရစ်ယာန် ဘာသာဝင်များ၊ အကြင်သူတို့သည် အလ္လာဟ်အသျှင်မြတ်နှင့် နောက်ဆုံးနေ့တော်ကြီးကို ယုံကြည်လျှက် ဖြောင့်မတ်မှန်ကန်မှုကို ကျင့်ကြံ၏။ သူတို့အပေါ် စိုးရိမ်ကြောင့်ကြမှု ကျရောက်မည် မဟုတ်။ သူတို့သည် ပူဆွေးကြမည်လည်းမဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်ဧကန် ‘မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူများသည်လည်းကောင်း၊ ယဟူဒီများသည်လည်းကောင်း၊ ဆွာဗီ များသည်လည်းကောင်း၊ ရစ်ယာန်များသည်လည်းကောင်း မည်သူမဆို အလ္လာဟ်အရှင်မြတ်နှင့် နောက်ဆုံးနေ့ကိုယုံကြည်ပြီး ကောင်းမြတ်သော ကိုယ်ကျင့်တရားများကို ဆောက်တည်ခဲ့ပါလျှင် ထိုကဲ့သို့သောသူတို့အဖို့ မည်သည့်စိုးရိမ်မှုမျှမရှိ။ ၎င်းတို့သည် ပူဆွေးကြမည်လည်း မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

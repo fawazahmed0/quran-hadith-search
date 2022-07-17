@@ -710,6 +710,12 @@ Tozi [Koran] e prozrenie za khorata i napŭt·stvie, i milost za ubedenite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	ဤကုရ်အာန်ကျမ်းတော်သည် လူသားတို့အဖို့အရာ ဝိဇ္ဇာအလင်းရောင်ကြီးဖြစ်၏၊ ယုံကြည်သူအစစ်အမှန်တို့ အဖို့အရာ လမ်းပြကျမ်းတော်ကြီးဖြစ်၏၊ ကောင်းကြီးမင်္ဂလာတော်လည်း ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤ(ကုရ်အာန်ကျမ်းတော်မြတ်)သည် လူတို့အဖို့ထင်ရှားစွာသော သက်သေသာဓကများလည်း ဖြစ်သည်။ ယုံကြည်သောသူတို့အဖို့ တရားလမ်းညွှန်လည်း ဖြစ်သည်၊ ကရုဏာတော်လည်း မည်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

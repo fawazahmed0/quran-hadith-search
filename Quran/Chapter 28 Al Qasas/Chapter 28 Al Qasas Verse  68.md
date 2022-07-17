@@ -710,6 +710,12 @@ Tvoyat Gospod sŭtvoryava kakvoto pozhelae i Toĭ izbira. Ne e tekhen izborŭt.
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၈။	တမန်တော်၊ သင်၏ အရှင်သခင်သည် မိမိအလိုတော်ရှိရာနှင့် ရွေးချယ်နှစ်သက်တော်မူရာကို ဖြစ်စေတော်မူ၏၊ သူတို့မှာ ရွေးချယ်ခွင့်မရှိချေ၊ အလ္လာဟ်အရှင်မြတ်သည် ချို့တဲ့ခြင်းကင်းသောအနန္တဂုဏ်တော်ရှင်ဖြစ်တော်မူပါ၏၊ မိစ္ဆာမိုက်တို့တွဲဖက်သောဘုရားတုဘုရားယောင်များထက် သာလွန်မြင့်မြတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် မိမိအလိုရှိတော်မူသော အရာကိုဖန်ဆင်းတော်မူ၏။ ထိုနည်းတူစွာ ထိုအရှင်မြတ်သည်(မိမိအလိုရှိတော်မူသည်ကို) ရွေးချယ်တော်မူ၏။ ၎င်း(မုရှ်ရစ်က်)တို့၌ ရွေးချယ်ခွင့်ကား အလျှင်းမရှိချေ။ အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့ တွဲဖက်နှိုင်းယှဉ် ကိုးကွယ်ကြသည်တို့မှ (လုံးဝ) စင်ကြယ်သန့်ရှင်းတော်မူသည့်ပြင်၊ (ထိုအရာတို့ထက် အတိုင်းမရှိ) မြင့်မြတ်လှတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Pokoryavaĭte se na Allakh, i na Pratenika se pokoryavaĭte, i vnimavaĭte! A
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၂။	သင်တို့သည် အလ္လာဟ်အသျှင်မြတ်နှင့် အသျှင်မြတ်၏ တမန်တော်ကို နာယူကြလော့။ သတိတရား ရှိကြလော့။ သို့သော် သင်တို့သည် မနာယူကျောခိုင်းသွားကြလျှင် ငါအသျှင်မြတ်၏ တမန်တော် ဆောင်ရွက်ရမည့် တာဝန်ဝတ္တရားမှာ ငါ၏ဒေသနာတော်ကြီးကို ဟောကြားရန်သာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်တို့သည် အလ္လာဟ်အရှင်မြတ် (၏ အမိန့်တော်အရပ်ရပ်) ကို လိုက်နာကြလေကုန်။ ၎င်းပြင် အသင်တို့သည် ရစူလ်တမန်တော် (၏ ဩဝါဒအရပ်ရပ်) ကိုလည်း လိုက်နာကြလေကုန်။ ၎င်းပြင် အသင်တို့သည် သတိထားကြလေကုန်။ တစ်ဖန် အကယ်၍ အသင်တို့သည် (အလ္လာဟ်အရှင်မြတ်နှင့် နဗီတမန်တော်မြတ်၏ အမိန့်တော်များကို မလိုက်နာကြဘဲ) လွှဲဖယ်သွားကြပါမူ ငါအရှင်မြတ်၏ ရစူလ်တမန်တော်၌ (ငါအရှင်မြတ်၏အမိန့်တော်များကို) ရှင်းလင်းထင်ရှားစွာ (ထုတ်ဖော်ဟောကြား) ပို့သရန်သာ တာဝန်ရှိသည်ကို အသင်တို့ (ကောင်းစွာ) သိနားလည်ထားကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

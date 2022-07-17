@@ -710,6 +710,12 @@ Nima ne razmishlyavat za sebe si? Allakh sŭtvori nebesata i zemyata, i vsichko 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	သူတို့သည် မိမိတို့အကြောင်းကို မဆင်ခြင်မသုံးသပ်ကြသလော၊ အလ္လာဟ်အရှင်မြတ်သည် ကမ္ဘာမြေပြင် မိုးကောင်းကင်နှင့် မိုးမြေအကြားရှိရှိသမျှအပေါင်းကို အခြားကြောင့်ဖန်ဆင်းတော်မူသည်မဟုတ်၊ မှန်ကန်ခြင်း တရားနှင့် ရည်မှန်းထားသောပန်းတိုင်ကို ပြဖို့ရာ ဖန်ဆင်းတော်မူ၏၊ သို့သော်လူသားအမြောက်အများတို့သည် သူတို့၏ အရှင်သခင်ရှေ့တော်သို့ ဝင်ရမည်ကို မုချဧကန်မယုံကြည်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် မိမိတို့၏ စိတ်နှလုံးများတွင် မစဉ်းစားခဲ့ကြလေသလော။ အလ္လာဟ်အရှင်မြတ်သည် မိုးကောင်းကင်များကိုလည်းကောင်း၊ ပထဝီမြေကို လည်းကောင်း၊ ထို(မိုးကောင်းကင်များနှင့်ပထဝီမြေ)နှစ်ခု၏အကြား၌ ရှိသမျှတို့ကိုလည်းကောင်း၊ တိကျမှန်ကန်သော ကျိုးကြောင်းနှင့်သာ ဖန်ဆင်းတော်မူခဲ့၏။ သို့တစေလည်း များစွာသော သူတို့မှာမူကား မိမိတို့အား ဖန်ဆင်းတော်မူသော အရှင်မြတ်နှင့် တွေ့ဆုံကြရမည်ကို အမှန်ပင် ငြင်းပယ်သူများသာ ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

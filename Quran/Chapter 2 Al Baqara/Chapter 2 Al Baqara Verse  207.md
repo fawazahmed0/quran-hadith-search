@@ -710,6 +710,12 @@ Nyakoi khora otdavat dushite si, za da ugodyat na Allakh. A Allakh e sŭstradate
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ၇။	တဖန် လူသားတို့အနက် မိမိကိုယ်ကို အရင်းအနှီးပြုပြီးလျှင် အလ္လာဟ်အရှင်မြတ်၏ နှစ်သက်တော် မူခြင်းကို ရှာမှီးသူလည်းရှိ၏။ အလ္လာဟ်အရှင်မြတ်သည် မိမိကျေးတော်မျိုး၊ ကျွန်တော်မျိုးတို့ကို သနား ကြင်နာတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်တဝ လူတို့အနက် အချို့သည် အလ္လာဟ် အရှင်မြတ် နှစ်မြို့တော်မူခြင်းကို ရစိမ့် သောငှာ မိမိ၏အသက်ကိုပင် စွန့်လှူ၏။ အမှန် သော်ကား အလ္လာဟ်အရှင်မြတ်သည် ဤသို့ (စေတနာဖြူစင်သော) ကျွန်များကို အလွန်ချစ်ကြင် သနားတော်မူသောအရှင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

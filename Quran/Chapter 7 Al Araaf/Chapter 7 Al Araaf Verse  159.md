@@ -710,6 +710,12 @@ Ima sred naroda na Musa i obshtnost, koyato napŭtva s [nizposlanata] istina i s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၉။	တမန်တော်မူဆာ၏အမျိုးသားထဲတွင် အသင်းတစ်သင်းရှိ၏။ ထိုအသင်းသားတို့သည် သစ္စာတရား နှင့် လမ်းညွှန်ပြ၍ ထိုတရားတော်အားဖြင့် သမာသမတ်မှုကို ပြုလုပ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (နဗီတမန်တော်)မူစာ၏ အမျိုးသားတို့တွင် လူတစ်စုရှိသည်။ ၎င်းတို့သည် (သူတစ်ပါးတို့အားလည်း)မှန်ကန်သော တရားဓမ္မနှင့်အညီ လမ်းညွှန်ကြလေသည်။ ထိုပြင် မိမိတို့ကိုယ်တိုင်လည်း ထိုမှန်ကန်သော တရားဓမ္မနှင့်အညီစီရင်ဆုံးဖြတ် ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

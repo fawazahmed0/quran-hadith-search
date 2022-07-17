@@ -710,6 +710,12 @@ I na Musa dadokhme Pisanieto, i nastana raznoglasie po nego. I ako nyamashe pred
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။ ငါသည် တမန်တော်(မူစာ)အား ကျမ်းတော်တစ်ဆူမုချဧကန်ချပေးသနားတော်မူ၏၊ သို့သော်၎င်းကျမ်းတော် နှင့်စပ်လျဉ်း၍ အငြင်းအခုံဖြစ်ပွားကြ၏၊ သင်၏ အရှင်သခင်ကသာလျှင် ကတိဗျာဒိတ်တော်တစ်ပါး ခပ်နှိပ် ထားတော်မမူခဲ့ပါလျှင် သူတို့၏ ကွဲပြားချက်ကို စီရင်ဆုံးဖြတ်ငြိမ်းစေခဲ့ချေမည်၊ သို့သော်သူတို့သည် ထိုကျမ်း တော်၌ ယုံမှားသံသယဒွိဟကြီးစွာရှိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး မလွဲဧကန် ငါအရှင်မြတ်သည် (နဗီတမန်တော်) မူစာအားလည်း ကျမ်းဂန်ဒေသနာတော်ကို ချီးမြှင့်ပေးသနားတော်မူခဲ့၏။ သို့တစေလည်း ယင်းကျမ်းဂန်နှင့်စပ်လျဉ်း၍လည်း သဘောကွဲလွဲမှု ဖြစ်ခဲ့ရလေသည်။ အမှန်စင်စစ်သော်ကား အကယ်၍သာ အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံ တော်မှ အမိန့်တော်တစ်ရပ်သည်ရှိနှင့်ပြီး မဖြစ်ခဲ့ပါလျှင် အမှန်ပင် ၎င်းတို့၏အကြား၌ စီရင်ဆုံးဖြတ်ပြီး ဖြစ်ခဲ့မည်သာ။ ထို့ပြင် ဧကန်အမှန် 4င်းတို့သည် ယင်းအဆုံးအဖြတ် (ဝါ)ချိန်းချက်ထားသောပြစ်ဒဏ် နှင့်စပ်လျဉ်း၍ဝိစိကိစ္ဆာ ဖြစ်စေသော ဒွိဟသံသယ၌ပင် ရှိနေကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

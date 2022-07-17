@@ -710,6 +710,12 @@ Doĭde veche Pratenik pri vas izmezhdu vas samite. Tezhko e za nego vasheto zat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၈။	သင်တို့ထံသို့ သင်တို့၏ သားချင်းတစ်ဦးဖြစ်သောတမန်တော်သည် ပွင့်လာပြီ၊ သင်တို့သည် ဒုက္ခရောက်လျှင် သူသည် ဝမ်းနည်းပူဆွေး၏။သင်တို့အတွက် စိုးရိမ်ကြောင့်ကျ၍ စိတ်မအေးပေ။ယုံကြည်သူတို့ကို သနားကြင်နာ ၍ ကျေးဇူးပြု၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ အသင်တို့အနက်မှပင် ရစူလ်တမန်တော်တစ်ပါးသည် အသင်တို့ထံ ရောက်ရှိလာခဲ့ချေပြီ။ အသင်တို့တွေ့ကြုံရသော ဒုက္ခသည် ထိုရစူလ်တမန်တော်၏အပေါ်၌အလွန် ဝန်လေးလှသည်။ (၎င်းပြင် ထိုရစူလ်တမန်တော်သည်)အသင်တို့နှင့်ပတ်သက်၍ ကောင်းရာကောင်းကြောင်း များကိုသာ အာသာဆန္ဒ ပြင်းပြစွာ တပ်မက်သူဖြစ် ၏။ (ထိုမှတစ်ပါး)’မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူတို့နှင့်ပတ်သက်၍ အလွန်တရာနူးညံ့သိမ်မွေ့သူ၊ အလွန်တရာ သနားကြင်နာသူတဦး(လည်း)ဖြစ်ချေ သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

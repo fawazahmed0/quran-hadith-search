@@ -710,6 +710,12 @@ Tozi, zemniyat zhivot, e samo zabava i igra. A Setniyat dom e vechniyat, ako zna
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၄။	ဤလောကီဘဝသည် အနှစ်သာရမရှိသောကစားပျော်ရွှင်မှုသာဖြစ်၏၊ မှတ်သားကြလော့၊ နောင်တမလွန်ဘဝ၏ ဘုံဗိမာန်တို့သည် ဘဝအစစ်အမှန်ဖြစ်၏၊ သူတို့သိလျှင် တော်လေစွ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ဤမျက်မှောက် လောကီဘဝသည် ပျော်မြူးဖွယ်ရာနှင့် ကစားခုန်စားဖွယ်ရာမှတပါး အခြားမဟုတ်ပြီ။အမှန်မှာ နောင်တမလွန် ဘဝသည်သာလျှင် စစ်မှန်သော အစဉ်ထာဝရရှင်ခြင်း ဖြစ်ပေသည်။ (ဤ သည်ကို)၎င်းတို့သိရှိကြလျှင် ကောင်းလေစွတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

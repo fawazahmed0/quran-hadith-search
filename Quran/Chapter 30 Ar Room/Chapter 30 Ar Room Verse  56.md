@@ -710,6 +710,12 @@ A darenite sŭs znanieto i s vyarata shte kazhat: “Prebivavakhte spored predpi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၆။	သို့သော်အကြင်သူတို့သည် ဉာာဏ်ပညာဂုဏ်နှင့် ယုံကြည်ခြင်းဂုဏ်များဖြင့် ချီးမြှင့်ခြင်းကို ခံရကြ၏၊ ထိုသူတို့က ဟယ်-အချင်းတို့၊ အမှန်ကိုဆိုသော် သင်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ ဗျာဒိတ်တော်ကြောင့် ရှင်ပြန်ထမြောက် ရသောနေ့တော်ကြီးတိုင်အောင် ဆိုင်းင့ံနေခဲ့ကြရ၏၊ ဤနေ့သည်ကား ရှင်ပြန်ထမြောက်ရသောနေ့တော်ကြီး ပင်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အသိပညာကိုသော်လည်းကောင်း၊ "အီမာန်" ယုံကြည်မှုကိုလည်းကောင်း ချီးမြှင့်ပေးသနားတော်မူခြင်း ခံခဲ့ကြရသော သူတို့မှာမူကား "မချွတ်ဧကန် အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ မှတ်တမ်းတော်တွင် ပါရှိသည်နှင့်အညီ၊ ရှင်ပြန်ထမည့်နေ့(အထိ) နေခဲ့ကြပေသည်။ သို့ဖြစ်ပေရာ ဤသည်ပင်လျှင် ရှင်ပြန်ထမည့်နေ့ ဖြစ်ပေသည်။ သို့သော် အသင်တို့သည် မယုံကြည်ခဲ့ကြပေ"ဟုပြောဆိုကြကုန်အံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

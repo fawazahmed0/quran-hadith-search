@@ -710,6 +710,12 @@ Reche [Zu-l-Karnaĭn]: “Tova e milost ot moya Gospod, no kogato doĭde obesh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၈။	ထိုအခါဇွလ်ကရ်နိုင်မင်းက အချင်းတို့၊ ဤတံတိုင်းကြီးသည် အကျွနု်ပ်၏ အရှင်သခင်အထံတော်မှ ကောင်းကြီး မင်္ဂလာတော်တပါးဖြစ်၏။ သို့သော်အကျွနု်ပ်၏ ကျေးဇူးတော်သခင်၏ ကတိဗျာဒိတ်တော်ပြည့်စုံသောအချိန်ကာလ ရောက်လာသောအခါ အရှင်မြတ်သည် ဤတံတိုင်းကြီးကို ချိုးဖဲ့ဖြိုဖျက်တော်မူလိမ့်မည်။ အကြောင်းမူကား အကျွနု်ပ်၏ ကျေးဇူးတော်သခင်၏ ကတိဗျာဒိတ်တော်သည် မှန်ကန်၏ဟု ပြောပြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ယင်းဇုလ်ကရ်နိုင်န်က ဤသည်ကားကျွန်ုပ်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ကရုဏာတော်ပင်တည်း။ တစ်ဖန် ကျွန်ုပ်အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ် ချိန်းချက်ထားတော်မူသော အချိန်ကာလဆိုက်ရောက်လာသောအခါ ထိုအရှင်မြတ်သည် ဤတံတိုင်းကို ဖြိုဖျက်တော်မူအံ့။ စင်စစ် ကျွန်ုပ်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ချိန်းချက်မှုသည် မှန်ကန်သောချိန်းချက်မှုပင်ဖြစ်သည်ဟု ပြောကြားခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

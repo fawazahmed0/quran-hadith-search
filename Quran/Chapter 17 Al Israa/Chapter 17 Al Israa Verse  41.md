@@ -710,6 +710,12 @@ I dadokhme razyasneniya v tozi Koran, za da se pouchat, a tova im nadbavi samo n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	ငါအရှင်မြတ်သည် သူတို့တရားရစေရန် ဤကုရ်အာန်ကျမ်းတော်၌ ငါ၏ သတိပေးဗျာဒိတ်တော်များကို ချမှတ် တော်မူ၏။ သို့သော်ဤကျမ်းတော်သည် သူတို့အား မနှစ်သက် မုန်းတီးစေခြင်းမှတပါး အခြားတစုံတရာကိုမျှ မတိုးပွားစေချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် မချွတ်မလွဲ ငါအရှင်မြတ်သည် ဤကုရ်အာန်ကျမ်းတော်မြတ်တွင် (လူခပ်သိမ်းတို့) တရားရအံ့သောငှာ(ကိုးကွယ်ရာအရှင် တဆူတည်းဖြစ်တော်မူကြောင်းကို) နည်းအမျိုးမျိုးဖြင့် ပြောင်းလဲမိန့်ကြား တော်မူခဲ့လေသည်။ သို့ရာတွင်ယင်းပြောင်းလဲမိန့်ကြားမှုသည် ၎င်း(မုရှ်ရစ်က်)တို့၌ စက်ဆုပ်မှုမှတစ်ပါး အခြားတစ်စုံတစ်ရာကိုမျှ မတိုးပွားစေချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

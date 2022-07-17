@@ -710,6 +710,12 @@ I ne vŭrvi po zemyata s nadmennost! Ti nito shte probiesh zemyata, nito shte se
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	ထုုိ့အပြင် မဟာပထမဝီမြေကြီးပေါ်၌ မောမာပလွှားခြင်းဖြင့် မသွားမလာကုန်လင့်။ မှတ်သားလော့။ သင်သည် ကမ္ဘာမြေကြီးကို ခွဲမပစ်နိုင်၊ သို့မဟုတ် သင်သည် တောင်ထိပ်ကို မှီအောင် မဆန့်ကျင်နိုင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်သည် ပထဝီမြေပြင်ဝယ် ဟိတ်ဟန်ထုတ်၍ မလျှောက်လေနှင့်။ ဧကန်စင်စစ် အသင်သည်(ယင်းသို့လမ်းလျှောက်ခြင်းအားဖြင့်)ပထဝီမြေကိုလည်းအလျင်းထွင်းဖောက် (ခွဲ) နိုင်မည်မဟုတ်ပေ။ ထိုမှတစ်ပါးအသင်သည် မိမိကိုယ်လုံးကိုယ်ရပ် မြင့်မားခြင်းဖြင့် တောင်များကိုလည်း အလျင်းမီနိုင်မည် မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

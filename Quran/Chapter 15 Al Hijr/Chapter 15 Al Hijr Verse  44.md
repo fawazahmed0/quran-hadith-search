@@ -710,6 +710,12 @@ Toĭ ima sedem vrati. Za vsyaka vrata ima otdelena grupa
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	ထိုငရဲတွင် တံခါးပေါက်ခုနစ်ပေါက်ရှိ၏။ တံခါးပေါက်တစ်ခုစီမှာ သတ်မှတ်ထားသောဝေစုရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းဂျဟန္နမ်ငရဲဘုံ၌ တံခါးပေါက် ခုနှစ်ပေါက်ရှိ၍ တံခါးပေါက်အသီးသီးတို့အဖို့ ယင်းအီဗ်လီစ်၏နောက်လိုက်များအနက်မှ ခွဲဝေပြီးဖြစ်သောဝေစုဝေပုံသည်ရှိပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

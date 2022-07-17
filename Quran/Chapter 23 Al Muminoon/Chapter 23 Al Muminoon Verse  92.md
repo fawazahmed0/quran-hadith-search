@@ -710,6 +710,12 @@ Znaeshtiyat i skritoto, i yavnoto, - previsoko e nad onova, koeto sŭdruzhavat s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၂။	အလ္လာဟ်အရှင်မြတ်သည် မြင်ရသောအရာ၊ မမြင်နိုင်စွမ်းသောအရာတို့ကို သိတော်မူ၏၊ သူတို့တွဲဖက်သော ဘက်စပ်ဘုရားများထက် သာလွန်မြင့်မြတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မျက်ကွယ်၌ ရှိသမျှတို့ကိုလည်းကောင်း၊ မျက်မှောက်၌ ရှိသမျှတို့ကိုလည်းကောင်း၊ အကြွင်းမဲ့သိမြင်တော်မူသောအရှင်၊ သို့ဖြစ်ပေရာ ထိုအရှင်မြတ်သည် ၎င်းတို့ တွဲဖက်နှိုင်းယှဉ် ကိုးကွယ်ကြသည်တို့ထက် လွန်စွာ မြင့်မြတ်လှတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

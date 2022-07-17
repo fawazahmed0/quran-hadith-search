@@ -710,6 +710,12 @@ neka sluzhat na Gospoda na tozi Dom
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။ ထိုပဋိညာဉ်စာချုပ်များအတွက် သူတို့သည် ဤဗလီဝတ်ကျောင်းတော်ကြီး၏ အရှင်သခင်အားသာလျှင် ခဝပ် ကိုးကွယ်ကြကုန်လော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ၎င်းတို့သည် ဤအိမ်တော်(ကအ်ဗဟ် ကျောင်းတော်)၏အရှင်မြတ်အား ဆည်းကပ် ကိုးကွယ်ကြရာကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

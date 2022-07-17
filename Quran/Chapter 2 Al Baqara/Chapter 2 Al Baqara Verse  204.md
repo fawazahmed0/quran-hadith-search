@@ -710,6 +710,12 @@ Sred khorata ima i takiva, chiito dumi te omaĭvat v zemniya zhivot i prizovava
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ၄။	အို - တမန်တော် မုဟမ္မဒ်၊ လူသားတို့အနက် လူတမျိုးရှိ၏။ ထိုသူသည် လောကီအကြောင်းအရာ ကို ပြောသောအခါ သင်သည် သူ၏ အပြောအဆိုကို သဘောကျ၏။ သူသည် မိမိ၏ စိတ်နှလုံး ဖြောင့်မှန်ဖြူစင်ကြောင်းကို အလ္လာဟ်အရှင်မြတ်အား တိုင်တည်၍ ပြောဆို၏။ သို့ငြားသော်လည်း သူသည် ရန်သူများအနက် အတင်းမာဆုံးဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်တဝ၊ လူတို့အနက်အချို့ ဤသို့လည်း ရှိ၏။ လောကီရေးနှင့်စပ်လျဉ်း၍ ထိုသူ၏(ဖွဲ့နွဲ့) ပြောဆိုသော စကားများသည် အသင့်အားနှစ်သိမ့်စေ၏။ ဤမျှမကသေး၊ ထိုသူသည် မိမိ၏စိတ်တွင်းရှိ စကားများ(မှန်ကန်ကြောင်း) နှင့်စပ်လျဉ်း၍ အလ္လာဟ် အရှင်မြတ်ကိုပင် သက်သေထား၏။ အမှန်သော်ကား ထိုသူသည် ရန်သူများအနက် ပိုမိုလွန်ကဲသော ရန်သူကြီးပင် ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

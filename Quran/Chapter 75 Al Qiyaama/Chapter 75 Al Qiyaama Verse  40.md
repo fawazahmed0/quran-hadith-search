@@ -710,6 +710,12 @@ Nima Toĭ ne e sposoben da sŭzhivi mŭrtvite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၀။ ယင်းကဲ့သို့ ဖန်ဆင်းတော်မူထသောအရှင်မြတ်သည် လူသေကို ပြန်ရှင်စေခြင်းငှာစွမ်းနိုင်သည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(ကဲ့သို့သော)အရှင်မြတ်သည် သူသေတို့အား(တစ်ဖန်ပြန်၍) ရှင်စေတော်မူရန် တတ်စွမ်းနိုင် တော်မူသောအရှင် မဟုတ်ပါသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

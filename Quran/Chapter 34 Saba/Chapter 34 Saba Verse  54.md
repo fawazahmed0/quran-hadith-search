@@ -710,6 +710,12 @@ I be postavena pregrada mezhdu tyakh i zhelanieto im [da povyarvat], kakto be na
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၄။	ယခုမှာ မယုံကြည်သူရှေးလူဟောင်းအဆက်ဆက်တို့အား ပြုတော်မူသည့်နည်းလမ်းအတိုင်း ထိုသူတို့အား ၎င်းတို့အလိုတော်ရှိသောအရာများမှ ချောက်ကြီးတစ်ခုက ကာဆီးထား၏၊ မှတ်သားကြလော့၊ သူတို့သည် သမ္မာတရားတော်ကို မိုက်လုံးကြီးစွာနှင့် ယုံမှားသံသယရှိလေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (ထိုနေ့တွင်) ရှေးယခင်က ၎င်းတို့ကဲ့သို့သောသူတို့အား ပြုလုပ်ခဲ့သည့်နည်းတူ ၎င်းတို့နှင့် ၎င်းတု့ိအာသာဆန္ဒရှိကြသောအရာများ၏အကြား၌ အကာအဆီးတစ်ခု ပြုလုပ်ခြင်းခံရပေမည်။ ဧကန်အမှန် ၎င်းတို့သည် ယုံမှားသံသယဖြစ်စေသော ဒွိဟသံသယ၌ပင် ရှိခဲ့ကြပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

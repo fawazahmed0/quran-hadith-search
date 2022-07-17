@@ -710,6 +710,12 @@ Denya, v koĭto shte izlyazat zabŭrzani ot grobovete, syakash se ustremyavat k
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။ ထိုနေ့တော်ကြီး၌ ထိုသူတို့သည် တစ်စုံတစ်ခုသောပန်းတိုင်သို့ လျှင်မြန်စွာရောက်အောင်ပြေးသကဲ့သို့ သချႋုင်း များမှ ပြေးထွက်လာကြလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ပူဇော်ပသရာသို့ ပြေး၍နေကြဘိသကဲ့သို့ပင် သင်္ချိုင်းများမှထွက်၍ လျင်မြန်စွာ ပြေးကြအံ့သောနေ့နှင့်၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

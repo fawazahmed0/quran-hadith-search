@@ -710,6 +710,12 @@ za vseki ot vas, koĭto pozhelae da napredva ili da izostava
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။ သင်တို့အနက် ကြီးပွားတိုးတက်လိုသူကိုလည်းကောင်း၊ ဆုတ်ယုတ်သွားလိုသူကိုလည်းကောင်း၊ သတိပေး နှိုးဆော်ရန် အလို့ငှာဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဝါ) အသင်တို့အနက် ရှေ့သို့တိုးလိုသောသူ၊ သို့တည်း နောက်ဆုတ်လိုသောသူအား (သတိပေး နှိုးဆော်လျက်ပင် ရှိပေသတည်း)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

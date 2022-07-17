@@ -710,6 +710,12 @@ Ne go izbavi negoviyat imot i onova, koeto e pridobil
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။ ထိုသူယုတ်မာ၏ ဥစ္စာပစ္စည်းနှင့် အမြတ်အစွန်းများသည် သူတို့ကို ကယ်ဆယ်နိုင်မည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်း၏ ပစ္စည်းဥစ္စာသည်လည်း ၎င်း၏အဖို့ အသုံးဝင်သည် မဟုတ်ပေ။ ထိုနည်းတူစွာ ၎င်းရှာဖွေ ဆည်းပူးခဲ့သော (အမြတ်အစွန်း၊ သားသမီး)သည်လည်း အသုံးဝင်ခဲ့သည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

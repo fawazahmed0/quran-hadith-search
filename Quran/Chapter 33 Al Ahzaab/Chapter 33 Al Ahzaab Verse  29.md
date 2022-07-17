@@ -710,6 +710,12 @@ A ako ste pozhelali Allakh i Negoviya Pratenik, i Setniya dom, to Allakh e prigo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	သို့သော်သင်တို့သည် အလ္လာဟ်အရှင်မြတ်နှင့် အရှင်မြတ်၏တမန်တော်ကိုလည်းကောင်း၊ နောင်တမလွန်ရှိ ဗိမာန်တော်တို့ကိုလည်းကောင်း၊ မြတ်နိုးနှစ်သက်လိုလားကြလျှင် သင်တို့အနက်ဖြူစင်သူတို့အတွက် အလွန် ကြီးမားလှသောအောင်မင်္ဂလာတော်ကို အလ္လာဟ်အရှင်မြတ်သည် မုချဧကန်အသင့်စီရင်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကယ်၍အသင်မတို့သည်အလ္လာဟ်အရှင်မြတ်အားလည်းကောင်း၊ ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော်မြတ်အားလည်းကောင်း၊ တမလွန် ဘဝကိုလည်းကောင်း၊ရည်စူးကြပါလျှင် မလွဲဧကန် အလ္လာဟ်အရှင်မြတ်သည် အသင်မတို့အနက် ကောင်းမြတ်သောအကျင့်သီလကို ဆောက်တည်ကြကုန်သော သူမတို့အဖို့ ကြီးကျယ်လှစွာသောအကျိုးကို အဆင်သင့်ပြုလုပ်၍ ထားရှိတော်မူသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

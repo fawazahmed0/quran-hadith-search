@@ -710,6 +710,12 @@ I rekokhme: “Otidete dvamata pri naroda, koĭto vze za lŭzha Nashite znameni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	ထို့နောက်သူတို့အား သင်တို့သည် ငါ၏နှုတ်ကပတ်တော်များမယုံကြည်သူတို့ထံ သွားကြလော့ဟု ဗျာဒိတ်ပေး တော်မူ၏၊ ထို့နောက်ငါသည် ထိုမိစ္ဆာမိုက်တို့အားလုံးကို လုံးလုံးဖျက်ဆီးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ငါအရှင်မြတ်သည်(၎င်းတို့နှစ်ပါးအား) အသင်တို့နှစ်ဦးသည် ငါအရှင်မြတ်၏ သက်သေလက္ခဏာတော်များကို မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်ခဲ့ကြကုန်သော အမျိုးသားတို့ထံ သွားကြလေကုန်ဟု မိန့်ကြားတော်မူခဲ့၏။ (ထိုအခါ ၎င်းတို့နှစ်ပါးသည် ထိုအမျိုးသားတို့ထံ သွားရောက်၍ သာသနာပြုခဲ့ကြသော်လည်း ၎င်းတို့သည် ယုံကြည်လက်ခံခြင်း မပြုဘဲ ငြင်းပယ်ခဲ့ကြလေသည်)။ သို့ဖြစ်ပေရာ ငါအရှင်မြတ်သည် ထိုအမျိုးသားတို့အား လုံးဝဖျက်ဆီးတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kazhi: “I da se sŭberat khorata i dzhinovete, za da sŭzdadat podoben na tozi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၈။	တမန်တော်ဟောကြားလော့။ အမှန်ကိုဆိုသော် လူသားအားလုံးနှင့် ဂျင်နတ်သားအားလုံးတို့သည် ဤကုရ်အာန် ကျမ်းတော်နှင့်တူသောကျမ်းတစောင်ကို မဖွဲ့နိုင်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်)အသင်သည် (ဤသို့) ပြောကြားပါလေ။ (အချင်းတို့)စင်စစ်အကယ်၍ လူသားအပေါင်းတို့သည်လည်းကောင်း၊ ဂျင်(န်)အပေါင်း တို့သည်လည်းကောင်း၊ဤကုရ်အာန်ကျမ်းတော်မြတ်နှင့်တူသော ကျမ်းကို (စီကုံးရေးသား၍)ယူလာရန် စုရုံးကြပြီးလျှင် တစ်ဦးကိုတစ်ဦး ကူညီရိုင်းပင်းခဲ့ငြားလည်း၊ ၎င်းတို့သည် ယင်းကုရ်အာန်ကျမ်းတော်မြတ်နှင့် တူသောကျမ်းကို (စီကုံးရေးသား) ယူဆောင်လာ နိုင်ကြမည်အလျှင်း မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

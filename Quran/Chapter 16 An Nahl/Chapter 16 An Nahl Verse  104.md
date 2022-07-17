@@ -710,6 +710,12 @@ Koito ne vyarvat v znameniyata na Allakh, ne shte gi napŭti Allakh i za tyakh i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၄။ မှတ်သားကြလော့။ အလ္လာဟ်အရှင်မြတ်၏ နှုတ်ကပတ်တော်များကို မယုံကြည်သူတို့အား အရှင်မြတ်သည် လမ်းပြတော်မမူချေ။ သူတို့၏ အပြစ်ဒဏ်မှာ အလွန်ပြင်းပြနာကျင်ဖွယ်ကောင်း၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အကြင်သူတို့သည် အလ္လာဟ်အရှင်မြတ်၏ အာယတ်တော်များကို မယုံကြည်ကြပေ။ ၎င်းတို့အား အလ္လာဟ်အရှင်မြတ်သည် တရားလမ်းမှန်ကို ပြတော်မူမည်မဟုတ်ပေ။ ထိုမှတစ်ပါး ၎င်းတို့၌ ပြင်းပြ နာကျင်ဖွယ်ဖြစ်သော ပြစ်ဒဏ်သည်(လည်း) ရှိချေအံ့ သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

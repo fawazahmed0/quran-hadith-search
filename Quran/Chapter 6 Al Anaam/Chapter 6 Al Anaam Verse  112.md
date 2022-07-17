@@ -710,6 +710,12 @@ I taka storikhme vrag na vseki prorok - satanite ot khorata i ot dzhinovete. Edi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၂။	ဤကဲ့သို့ ငါအသျှင်မြတ်သည် တမန်တော်တိုင်းအတွက် ရန်သူတစ်ဦးစီ စီရင်တော်မူ၏။ ထိုရန်သူသည် လူသားများနှင့် ဂျင်နတ်သားများထဲမှ မာရ်နတ်များဖြစ်ကြ၏။ သူတို့သည် လှည့်ဖြား ခြင်းအားဖြင့် အချင်းချင်း ယုံတမ်းစကားပြောကြ၏။ အကယ်၍ သင်၏ကျေးဇူးတော်သခင်သည် အလိုရှိတော်မူပါလျှင် သူတို့သည် ယင်းသို့ ကျင့်ကြံမည်မဟုတ်ပေ။ ထို့ကြောင့် သူတို့ကို ၎င်းတို့၏ ဖန်တီးမှုတွင် စွန့်ထားလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထို့ကဲ့သို့ပင် ငါအရှင်မြတ်သည် နဗီတမန်တော်အသီးသီးတို့၌ လူရှိုင်တွာန်များကလည်းကောင်း၊ဂျင်န်ရှိုင်တွာန်များကလည်းကောင်း၊ ပြုလုပ်ထားတော်မူ၏။ ထိုရှိုင်တွာန်များအနက် အချို့တို့သည် အချို့တို့(၏ စိတ်နှလုံးတွင်း)သို့ အပြင်ပန်းလှသော အရောင်တင်ထားသောစကားများကိုထည့်သွင်းလေ့ရှိကြ၏။ ၎င်းပြင် အကယ်၍သာ အသင့်အားမွေးမြူ တော်မူသောအရှင်မြတ် အလိုတော်ရှိပါလျှင် ထိုရှိုင်တွာန်များသည် ထိုသို့ပြုနိုင်ကြမည်မဟုတ်ပေ။ သို့ဖြစ်ပေရာအသင်သည် ထိုသူများကိုလည်းကောင်း၊ ထိုသူတို့ လိမ်လည်ပြောဆိုကြသည့် အရာကိုလည်းကောင်း၊ စွန့်ပယ်ထားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

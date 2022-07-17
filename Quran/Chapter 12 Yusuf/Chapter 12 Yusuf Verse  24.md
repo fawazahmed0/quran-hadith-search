@@ -710,6 +710,12 @@ Vŭlnuvashe ya toĭ, no i tya shteshe da go razvŭlnuva, ako ne be vidyal dovod
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	အိမ်ရှင်မသည် သူ့အား အမှန်လိုလား၏။ သို့သော်မိမိ၏ အရှင်သခင်၏ သက်သေသာဓကတပါးကို မမြင်ခဲ့လျှင် သူသည် သူမကို မက်မောလေလတ့ံ။ ငါအရှင်သည် သူ့ထံမှ မကောင်းမှုနှင့် ကာမခိုးမှုကို ဖယ်ရှားတော်မူစေ ခြင်းငှာ ယင်းသို့ဖြစ်၏။ မှတ်သားကြလော့။ သူသည် ငါရွေးကောက်တော်မူစေသောကျေးတော်မျိုးကျွန်တော်မျိုး တို့ဘောင်တွင် ပါဝင်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် မလွဲဧကန် ထိုမိန်းမသည် ယင်းယူဆွဖ်နှင့်ဆက်ဆံရန် ယတိပြတ်စိတ်ပြဋ္ဌာန်းခဲလေသည်။ အမှန်သော်ကား အကယ်၍သာ ထိုယူဆွဖ်သည် မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ သက်သေလက္ခဏာတော်ကို မတွေ့မမြင်ခဲ့ရပါလျှင် ၎င်းသည် လည်း ထိုမိန်းမနှင့် ဆက်ဆံရန်ကြံရွယ်ခဲ့ပေအံ့။ ငါအရှင်မြတ်သည် (သာမည)မကောင်းမှုများကိုလည်းကောင်း၊ အလွန်စက်ဆုပ်ဖွယ်ရာဖြစ်သော အမှုကိစ္စများကိုလည်းကောင်း၊ ထိုယူစုဖ်နှင့် ကင်းဝေးစေတော်မူခြင်းငှာ၊ဤအတိုင်းပင် ပြုလုပ် တော်မူခဲ့လေသည်။ ဧကန်စင်စစ်ထိုယူဆွဖ်သည် ငါအရှင်မြတ် ရွေးချယ်ထားတော်မူသော အစေတော်များတွင် အပါအဝင် ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

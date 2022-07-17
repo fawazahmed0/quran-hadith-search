@@ -710,6 +710,12 @@ ot zloto na onova, koeto e sŭtvoril
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+အို-တမန်တော်၊ ဟောပြောလော့၊ ဖန်ဆင်းတော်မူသော အရာခပ်သိမ်းကုန်တို့၏ ဒုစရိုက်မှသော် လည်းကောင်း၊ အမှောင်ထုဖုံးလွှမ်းသော ဒုစရိုက်မှသော်လည်းကောင်း၊ စုံး၊ပယောဂ၊ မန္တန်မန္တရား အတတ်ပညာ များကို သုံးစွဲခြင်း ၊ ဒုစရိုက်မှသော်လည်းကောင်း၊ မနာလိုဝန်တိုခြင်းရှိသူ၏ ဒုစရိုက်မှ သော်လည်းကောင်း ကင်းလွတ်သန့်ရှင်းစေခြင်းငှာ မိုးသောက် အာရုဏ်အလင်းရောင်၏ အရှင်သခင်၌ အကျွနု်ပ်သည် ခိုလှုံပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် ဖန်ဆင်းတော်မူသော (ခပ်သိမ်းကုန်သော)အဖန်ဆင်းခံတို့၏ ဘေးအန္တရာယ်များမှလည်းကောင်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

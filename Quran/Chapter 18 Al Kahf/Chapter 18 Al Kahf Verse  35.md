@@ -710,6 +710,12 @@ I vleze v svoyata gradina, ugnetyavaĭki sebe si. Kaza: “Ne mislya, che tova 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	သူသည် မိမိကိုယ်ကို မိမိဤသို့ပြစ်မှားလျက် မိမိဥယျာဉ်ထဲသို့ ဝင်သွား၏။ သူက ဤဥယျာဉ်သည် ဘယ်သော အခါမှ ပျက်စီးပျောက်ကွယ်မည်ဟု အကျွနု်ပ်မယူဆချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းနောက် ထိုသူသည် မိမိဥယျာဉ်သို့ မိမိကိုယ်ကို မိမိနှိပ်စက်သူအဖြစ် ဝင်ရောက်လျက်(ဤသို့)ပြောဆိုခဲ့လေသည်။ ကျွန်ုပ်မူကား ဤဥယျာဉ်သည်မည်သည့်အခါ၌မျှ ပျက်စီးလိမ့်မည်မထင်ဟုပြောဆိုခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

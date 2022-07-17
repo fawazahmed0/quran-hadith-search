@@ -710,6 +710,12 @@ I kogato dostigna zrelostta si, Nie mu dadokhme mŭdrost i znanie. Taka nagrazhd
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	သူသည် အရွယ်ရောက်လူလားမြောက်သောအခါ ငါအရှင်မြတ်သည် သူ့အား အသိအလိမ္မာဉာာဏ်ပညာကို ပေးသနာတော်မူ၏။ ဤကဲ့သို့ငါသည် သူတော်ကောင်းတို့ကို ချီးမြှင့်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနောက် ယင်းယူစုဖ်သည် မိမိ ရင့်သန်သောအရွယ်သို့ ရောက်လတ်သော် ငါအရှင်မြတ်သည် ထိုယူဆွဖ်အား စိုးမိုးအုပ်ချုပ်မှုကိုလည်းကောင်း၊ အသိပညာကိုလည်းကောင်း၊ ချီးမြှင့်ပေးသနားတော် မူခဲ့လေသည်။ စင်စစ်သော်ကား ငါအရှင်မြတ်သည် ကောင်းမြတ်သော သီလရှင်တို့အားဤနည်းအတိုင်းပင် အကျိုးကျေးဇူးပေးတော် မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

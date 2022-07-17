@@ -710,6 +710,12 @@ I znaĭ [o, Mukhammad], che nyama drug Bog osven Allakh! I moli oproshtenie za 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	အေ-တမန်တော်၊ အလ္လာဟ်အရှင်မြတ်မှတပါး အခြားအရှင်သခင်မရှိကြောင်းကို သိလော့၊ သင်၏ အပြစ်နှင့် ယုံကြည်သူယောက်ျားမိန်းမတို့၏ အပြစ်များကို ခွင့်လွှတ်တော်မူရန် တောင်းပန်လော့၊ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့၏ ထကြွလှုပ်ရှားရာဌာနေ၊ သင်တို့လဲလျောင်းအပန်းဖြေရာဌာန၊ နှစ်ဌာနစလုံးကို အကြွင်းမဲ့သိမြင်တော် မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်၊)အလ္လာဟ်အရှင်မြတ်မှတစ်ပါး ဆည်းကပ်ကိုးကွယ်ရာအရှင်ဟူ၍ အလျင်းမရှိကြောင်း ကောင်းစွာ သိရှိယုံကြည်ထားပါလေ။ ထို့ပြင် အသင်သည် မိမိ၏ချို့တဲ့မှုနှင့် စပ်လျဉ်း၍လည်းကောင်း၊’မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူ ယောက်ျား၊ မိန်းမတို့အဖို့လည်းကောင်း၊ လွတ်ငြိမ်း ချမ်းသာခွင့်ကို ပန်ကြားအသနားခံပါလေ။အမှန်စင်စစ်မှာကား အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့(အားလုံးတို့)၏ လှည့်လည်သွားလာမှုကိုလည်းကောင်း၊ အသင်တို့၏ ခိုလှုံရာကိုလည်းကောင်း၊ ကောင်းစွာ သိရှိတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I vslushvaĭ se v Denya, kogato proglasyavashtiyat shte proglasi ot blizko myas
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	သင်တို့နှင့်နီးကပ်သည့်နေရာမှ ကြွေးကြော်သူ ကြွေးကြော်သောနေ့၌ သင်တို့နားစိုက်၍ ကြားနာကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် (အို-ကြားနာသူ)အသင်သည် နားထောင်လော့၊ အကြင်နေ့တွင် ဟစ်အော်သူ (တစ်ဦး)သည် နီးကပ်စွာသော နေရာမှ ဟစ်အော်မည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

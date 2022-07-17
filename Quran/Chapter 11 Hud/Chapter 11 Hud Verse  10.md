@@ -710,6 +710,12 @@ I ako mu dadem da vkusi blagodat sled beda, koyato go e zasegnala, kazva: “Oti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	လူသားသည် ဆင်းရဲဒုက္ခကို တွေ့ကြံုခံစားရပြီးနောက် ငါသည် သူ့အား သုခချမ်းသာကို မြည်းစေတော်မူလျှင် သူသည် အကျွနု်ပ်သည် ဒုက္ခမှ လွတ်မြောက်ပြီဟု ဆို၏။ မှတ်သားကြလော့၊ သူသည် မြူးထူးဝါကြွား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ အကယ်၍ ငါအရှင်မြတ်သည် ထိုမနုဿလူသားများအား ၎င်းတို့၌ ဆိုက်ရောက်ခဲ့သော ဘေးဒုက္ခ၏နောက်တွင် ကျေးဇူးတော်၏အရသာကို မြည်းစမ်းစေတော်မူခဲ့ပါလျှင်၊ ဧကန်မလွဲ ၎င်းတို့သည် ကျွန်ုပ်တို့ ဘေးဒုက္ခများပပျောက်၍သွားလေပြီဟု ပြောဆိုလေ့ရှိကြကုန်၏။ ဧကန်စင်စစ် ယင်းမနုဿလူသားတို့သည် ဘဝင်ကြီးသူများ ဝါကြွားပလွှားသူများပင် ဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kazhi na vyarvashtite mŭzhe da svezhdat pogledite si i da pazyat tselomŭdrieto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	အို--တမန်တော်၊ သင်သည် ယုံကြည်သူအမျိုးသားတို့အား စူးစူးစိုက်စိုက်မကြည့်ပဲ မျက်နှာအောက်ငုံ့ထား၍ ကာယိန္ဒြေရှိဖို့ရာ ဟောကြားလော့၊ မှတ်သားကြလော့၊ အရှင်မြတ်သည် သူတို့ပြုကျင့်သမျှကို သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် "မုအ်မင်န်" သက်ဝင်ယုံကြည်သူတို့အား မိမိတို့၏မျက်စိများကို နှိမ့်ချထားရမည်ဟူ၍လည်းကောင်း၊ ထို့ပြင် မိမိတို့၏ အရှက်အင်္ဂါများကို ထိန်းသိမ်းကြရမည်ဟူ၍လည်းကောင်း၊ ပြောကြားပါလေ။ ဤသည် ၎င်းတို့အဖို့ အစင်ကြယ်ဆုံးပင် ဖြစ်ပေသည်။ ဧကန် မလွဲ အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့ပြုလုပ်သမျှတို့ကို ကောင်းစွာသိရှိတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

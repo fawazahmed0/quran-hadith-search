@@ -710,6 +710,12 @@ Onzi, Koĭto sŭtvori nebesata i zemyata, i vsichko pomezhdu im v shest dni, po
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၉။	အရှင်မြတ်သည် ကမ္ဘာမြေပြင်မိုးကောင်းကင်နှင့် မိုးမြေစပ်ကြားရှိရှိသမျှအပေါင်းကို ခြောက်ရက်မျှနှင့် အပြီးအစီး ဖန်ဆင်းတော်မူ၏၊ ထို့နောက်ရာဇပလ္လင်တော်ကြီးပေါ်သို့ တက်တော်မူ၏၊ မဟာကရုဏာတော်ရှင်ဖြစ်တော်မူ၏၊ သင်တို့သည် အရှင်မြတ်၏အကြောင်းကို သိသူတို့ထံ မေးမြန်းကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်အရှင်မြတ်သည် မိုးကောင်းကင်များကို လည်းကောင်း၊ ပထဝီမြေကိုလည်းကောင်း၊ ယင်းမိုးကောင်းကင်များနှင့် ပထဝီမြေ နှစ်ခုလုံး၏အကြား၌ ရှိသည်တို့ကိုလည်းကောင်း၊ ခြောက်ရက်တွင် ဖန်ဆင်း တော်မူခဲ့ပြီးနောက် ‘အရ်ရှ်’ ပလ္လင်တော်ထက်ဝယ် စံမြန်းတော်မူခဲ့၏။ ထို(အရှင်မြတ်သည်ပင်) "ရဟ်မာန်" ကြီးမားလှသော ကရုဏာတော်ရှင် ဖြစ်တော်မူပေရာ ထို "ရဟ်မာန်" ကြီးမားလှသော ကရုဏာတော်ရှင်နှင့် ပတ်သက်၍ သိရှိသူတစ်ဦးတစ်ယောက်အား မေးမြန်းရာ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

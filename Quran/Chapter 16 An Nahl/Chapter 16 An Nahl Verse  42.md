@@ -710,6 +710,12 @@ onezi, koito tŭrpyat i na svoya Gospod se upovavat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	ဤလူအမျိုးအစားသည် သည်းခံတည်ကြည်ကြ၏။ အလ္လာဟ်အရှင်မြတ်အား ယုံကြည်ကိုးစားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုရွှေ့ပြောင်းနေထိုင်သူတို့ကား) သည်းခံခဲ့ကြသူများပင် ဖြစ်ကြကုန်သည်။ ထိုမှတစ်ပါး ၎င်းတို့သည် မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ် အပေါ်၌သာလျှင်ယုံကြည်စိတ်ချ လွှဲအပ်ကြကုန် သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

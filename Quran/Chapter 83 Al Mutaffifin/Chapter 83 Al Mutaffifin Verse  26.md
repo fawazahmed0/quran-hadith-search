@@ -710,6 +710,12 @@ Dori utaĭkata mu e kato [ukhanie na] muskus. Neka za tova se nadprevarvat nadp
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။ ထိုတံဆိပ်မှာ ကတိုးတံဆိပ်ဖြစ်၏၊ သုခဘုံကို ရကြောင်း ကြိုးစားသူတို့သည် ထိုအရက်ကို ရအောင် အားထုတ်ကြကုန်လော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရက်၏တံဆိပ်မှာ ကတိုးဖြစ်၏။ စင်စစ်သော်ကား ပြိင်ဆိုင်သူတို့သည် (လိုလားသူတို့) ဤသည်ကိုပင် အပြိင်အဆိုင် ရယူထိုက်ကြပေသည်။(လိုလားအပ်ကြပေသည်)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Posle Allakh shte prieme pokayanie podir tova ot kogoto pozhelae. Allakh e opros
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	ထို့နောက် အလ္လာဟ်အရှင်မြတ်သည် အပြစ်လွှတ်လိုတော်မူသောသူအပေါ်၌ အပြစ်လွှတ်တော်မူ၏။အရှင်မြတ် သည် အပြစ်လွှတ်တော်မူ၏။ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက်တဖန် အလ္လာဟ်အရှင်မြတ်သည် မိမိအလိုရှိတော်မူသောသူ၏ဘက်သို့ ကရုဏာတော် နှင့်လှည့်တော်မူအံ့။ စင်စစ်တမူကား အလ္လာဟ် အရှင်မြတ်သည် အလွန်တရာလွတ်ငြိမ်းချမ်းသာခွင့် ပေးသနားတော်မူသောအရှင်၊ အလွန်တရာ သနား ကြင်နာ ညှာတာတော်မူသောအရှင်၊ ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

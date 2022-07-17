@@ -710,6 +710,12 @@ I veche povelikhme na Adam predi, a toĭ zabravi. I ne otkrikhme u nego reshimo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၅။	မုချဧကန်ရှေးအထက်ကျော်ကာရီက ငါအရှင်မြတ်သည် တမန်တော်အာဒမ်နှင့် ပဋိညာဉ်စာချုပ်ချုပ်တော်မူ၏၊ သို့သော်သူသည် မိမိကတိသစ္စာကို မေ့လျော့၏၊ သူ၌ တည်ကြည်ခိုင်မြဲခြင်းကို ငါတွေ့တော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ဧကန်မလွဲ ငါအရှင်မြတ်သည် အာဒမ်၏ထံသို့ အမိန့်တော်ထုတ်ပြန် ချမှတ်တော်မူခဲ့လေသည်။ သို့ရာတွင် ထိုအာဒမ်သည်(ယင်းအမိန့်တော်ကို) မေ့လျော့ခဲ့လေသည်။ စင်စစ် ငါအရှင်မြတ်သည် ယင်းအာဒမ်၌ တည်ကြည်ကြံ့ခိုင်မှုကို တွေ့တော်မမူခဲ့ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I kogato izrekokhte: “O, Musa, ne shte ti povyarvame, dokato ne vidim Allakh n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။	၎င်းပြင် သင်တို့သည် တမန်တော်မူဆာအား အို - မူဆာ အလ္လာဟ်အရှင်မြတ်ကို မျက်ဝါးထင်ထင် မဖူးမမြင်ရသမျှကာလပတ်လုံး အကျွန်ုပ်တို့သည် သင့်အား ယုံကြည်ကြမည်မဟုတ်ဟု ပြောသော အခါ သင်တို့သည် ကြည့်နေစဉ်ပင် သင်တို့အား မိုးကြိုးထိသည်ကိုလည်း သတိရကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-အစ္စရာအီလီမျိုးနွယ်အပေါင်းတို့ ပြန်လည်အောက်မေ့ သတိရကြကုန်) တရံရောအခါ အသင်တို့က အိုမူစာ၊ ကျွန်ုပ်တို့သည် အလ္လာဟ်အရှင်မြတ်ကို ဒိဌမျက်ဝါးထင်ထင် မဖူးမြင်ရသမျှ ကာလပတ်လုံး ကျွန်ုပ်တို့သည် အသင့်အားအလျင်း ယုံကြည်ကြမည်မဟုတ်ဟု ပြောဆို ကြကုန်၏။(ထိုကဲ့သို့ မပြောသင့် မပြောအပ်သော စကားရပ်ကို ပြောဆိုကြသည့်အတွက်) အသင်တို့အား (အလ္လာဟ် အရှင် မြတ်၏ကြောက်မက်ဖွယ်ကောင်းသော) မိုးကြိုးလောင်မီးသည် ဖမ်းဆီး(ကွပ်မျက်) လိုက်လေပြီ။ အသင်တို့ကိုယ်တိုင်လည်း (ထိုအခြင်းအရာကို) တွေ့မြင်ကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

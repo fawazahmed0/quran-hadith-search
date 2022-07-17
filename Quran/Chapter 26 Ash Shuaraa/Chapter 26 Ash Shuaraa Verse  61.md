@@ -710,6 +710,12 @@ I kogato dvete mnozhestva se sŭgledakha, spŭtnitsite na Musa rekokha: “Nie s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၁။	ထို့နောက်စစ်တပ်တော်ကြီးနှစ်တပ်သည် တစ်တပ်ကို တစ်တပ်ကို မြင်ရသောအခါ တမန်တော်မူစာ၏ လူများက ကြည့်ကြလော့၊ အကျွနု်ပ်တို့ကို အမှန်မိချေပြီဟု ပြောဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် အုပ်စုနှစ်ခုလုံးသည် တစ်ဖက်ကိုတစ်ဖက် တွေ့မြင်ကြလေသောအခါ မူစာ၏အပေါင်းပါတို့က ဧကန်မလွဲ ကျွန်ုပ်တို့သည် အမှန်ပင် အဖမ်းခံကြရပြီဟု (ထိတ်လန့်) ပြောဆိုခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

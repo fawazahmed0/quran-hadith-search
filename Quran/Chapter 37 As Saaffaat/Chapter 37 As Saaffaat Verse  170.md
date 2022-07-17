@@ -710,6 +710,12 @@ Ali u Kur’an ne htjedoše povjerovati, i znat će oni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇ဝ။	ယခုတရားတော်ရောက်လာပြီ၊ သို့သော်သူတို့သည် ကျမ်းတော်မြတ်ကို မယုံကြည်ကြချေ၊ ထို့ကြောင့်သူတို့သည် ကာလမကြာမြင့်မီ သိကြရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ပါလျက် ၎င်းတို့သည် ယင်းဆုံးမဩဝါဒကို ငြင်းပယ်ခဲ့ကြကုန်၏။ သို့ဖြစ်ပေရာ ၎င်းတို့သည် မကြာမြင့်မီပင် သိရှိကြရမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kazhi [o, Mukhammad]: “Shte ni dostigne samo onova, koeto Allakh ni e predpisa
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁။	ဟောကြားလော့။အကျွနု်ပ်တို့ထံသို့ အလ္လာဟ်အရှင်မြတ်ပြဋ္ဌာန်းတော်မူသည်မှတပါး အခြားတစ်စုံတစ်ရာမျှ မကျရောက်ပေ။အရှင်မြတ်သည် အကျွနု်ပ်တို့အား ကာကွယ်စောင့်ရှောက်သောအဆွေခင်ပွန်းဖြစ်တော်မူ၏။ယုံကြည်သူတို့သည် အလ္လာဟ်အရှင်မြတ်အား ယုံကြည်ကိုးစားကြစေလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (၎င်းတို့ အားဤသို့)ပြောကြားပါလေ။ အလ္လာဟ်အရှင်မြတ်က အကျွန်ုပ်တို့နှင့် ပတ်သက်၍ စီရင်ရေးသားတော်မူခဲ့သည့်မှအပ အခြားမည်သည့် တစ်စုံတစ်ရာမျှ အကျွန်ုပ်တို့၌ အလျင်း ဆိုက်ရောက်နိုင်မည် မဟုတ်ပေ။ ထိုအရှင်မြတ်သည် အကျွန်ုပ်တို့၏အရှင်သခင် ဖြစ်တော်မူသည်။ သို့ဖြစ်ပေရာ မုအ်မင်န်သက်ဝင်ယုံကြည်သောသူတို့သည် ထိုအရှင်မြတ်အပေါ်၌သာလျှင် ယုံကြည်စိတ်ချ လွှဲအပ်ကြရာကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

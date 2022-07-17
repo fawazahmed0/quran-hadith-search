@@ -710,6 +710,12 @@ I izpŭlvaĭte myarkata, i ne bŭdete ot oshtetyavashtite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈၁။	သူတစ်ပါးအား ပေးစရာကို အပြည့်အစုံပေးကြလော့၊ လျော့ပေါ့ပေးသူတို့ဘောင်တွင် အပါအဝင်မဖြစ်ကြလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် (ခွက်၊ စလယ်၊ တင်းတောင်း၊စသော) အခြင်အတွယ်ကို အပြည့်(ခြင်၍) ပေးကြလေကုန်။၎င်းပြင် အသင်တို့သည် ဆုံးရှုံးအောင် ပြုလုပ်သူများ မဖြစ်ကြကုန်လင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

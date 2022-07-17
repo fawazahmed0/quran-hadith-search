@@ -710,6 +710,12 @@ I stori po neya nepoklatimi planini, i ya blagoslovi, i razpredeli tam prepitani
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	အရှင်မြတ်သည် ကမ္ဘာမြေကြီးပေါ်၌ တောင်ကြီးတောင်ငယ်အသွယ်သွယ်ကို ခိုင်မြဲမြင့်မားစွာဖန်ဆင်းထားတော် မူ၏၊ မြေကြီးကို ကောင်းကြီးမင်္ဂလာနှင့် ပြည့်စုံစေတော်မူ၏၊ ထိုမြေပေါ်တွင် နေထိုင်သူတို့အဖို့အရာ စားနပ် ရိက္ခာများကို အချင့်အခန့်နှင့် စီရင်ထားတော်မူ၏၊ ဤဖန်ဆင်းစီရင်တော်မူခြင်းတို့ကို လေးရက်နှင့်အပြီး ပြု တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုအရှင်မြတ်သည် ယင်းပထဝီမြေဝယ်တည်ငြိမ်ကြံ့ခိုင်သော တောင်များကို ယင်းပထဝီမြေ၏ ထက်ဝယ် ပြုလုပ်ထားတော်မူခဲ့၏။ ထို့ပြင် ယင်းပထဝီမြေ၌ အကျိုးကျေးဇူးများကို ပွားများစေတော်မူခဲ့၏။ ထိုမှတစ်ပါး ယင်းပထဝီမြေ၌ပင် ၎င်းမှထွက်သော အစာအဟာရများကို တိုင်းတာချင့်ချိန် သတ်မှတ်ထားတော်မူခဲ့၏။ (ယင်းအမှုကိစ္စ အလုံးစုံတို့မှာ) လေးရက်နှင့်(ပြီးမြောက်ခဲ့၏)။ (ဤသည်) မေးမြန်းသူတို့အဖို့ ညီမျှ(သောအဖြေ)ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Prechist e Onzi, v Chiito Rŭtse e vladenieto na vsyako neshto i pri Kogoto shte
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၃။	မိုးကောင်းကင်နှင့် ကမ္ဘာမြေကြီးကို စိုးပိုင်တော်မူသောအလ္လာဟ်အရှင်မြတ်သည် ကုံလုံမွန်မြတ် အ့ံချီးမဆုံး ဖြစ်တော်မူ၏၊ သင်တို့အားလုံးသည် အရှင်မြတ်အထံတော်သို့ ပြန်လာကြရမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အကြင်အရှင်မြတ်သည် စင်ကြယ်သန့်ရှင်းတော်မူ၏။ အရာခပ်သိမ်းတို့ကို စိုးမိုးအုပ်ချုပ်မှုအာဏာသည် ထိုအရှင်မြတ်၏ လက်တော်တွင်း၌သာရှိ၏။ ထိုမှတစ်ပါး အသင်တို့ (အားလုံး)သည် ထိုအရှင်မြတ်အထံတော်သို့သာလျှင် ပြန်လည်၍ သွားကြရကုန်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

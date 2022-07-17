@@ -710,6 +710,12 @@ Kŭlna se v izprashtanite pored
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။ လေပြင်းလေညှင်းများကို လွှတ်သောကောင်းကင်တမန်များအားဖြင့်လည်းကောင်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ငါအရှင်မြတ်သည်) အကျိုးဖြစ်စေအံ့သောငှာ စေလွှတ်ခြင်းခံရသောလေများကို၊ စေလွှတ်ခြင်းခံရသော၊ ဆက်တိုက်၊ တိုက်ခတ်သောလေများကို သက်သေထူတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

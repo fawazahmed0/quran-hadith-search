@@ -710,6 +710,12 @@ A za onzi, koĭto se otdrŭpva ot napomnyaneto na Vsemilostiviya, opredelyame e
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	အကြင်သူသည် မဟာဂရုဏာတော်အရှင်အား အာရုံမပြုပဲ နေအ့ံ၊ ထိုသူအား ငါသည် ရှိုင်တန်မာရ်နတ်တစ်ဦးဦး ၏ လက်သို့ အပ်နှင်းတော်မူမည်၊ ထိုရှိုင်တန်သည် သူနှင့်အတူတကွ ရင်းနှီးစွာနေမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား မည်သူမဆို အနန္တကရုဏာတော်ရှင်အား အောက်မေ့တသခြင်းကို မမြင်ဟန် မသိဟန်ဆောင်သည်ရှိသော် ငါအရှင်မြတ်သည် ထိုသူ၌ "ရှိုင်တွာန်"မိစ္ဆာကောင်တစ်ကောင်ကို သတ်မှတ်၍ ပေးတော်မူ၏။ ထိုအခါယင်း "ရှိုင်တွာန်" မိစ္ဆာကောင် မှာ ထိုသူ၏အဖော် ဖြစ်သွား၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

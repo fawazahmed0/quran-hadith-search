@@ -710,6 +710,12 @@ I narodŭt na Lut otrichashe predupreditelite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	တမန်တော်လွဒ်၏ လူတို့သည်လည်း အဆုံးအမဒေသနာတော်ကို မယုံကြည်ငြင်းပယ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘လူ(တ်)’၏အမျိုးသားတို့သည်လည်း သတိပေးနှိုးဆော်သူတို့အား မဟုတ်မမှန်ဟူ၍ စွပ်စွဲပြောဆို ငြင်းပယ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

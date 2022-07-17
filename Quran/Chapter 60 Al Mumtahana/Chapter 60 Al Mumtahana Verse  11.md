@@ -710,6 +710,12 @@ I ako ste izpusnali neshto ot [pokharchenoto za] sŭprugite vi [otishli] pri nev
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။ သင်တို့မိန်းမများအနက် တစ်စုံတစ်ယောက်သောမိန်းမသည် မိစ္ဆာဒိဋ္ဌိထံသို့ ထွက်ပြေးသွား၏၊ ထိုမိန်းမအစား အခြားမိန်းမတစ်ယောက်ကို မယုံကြည်သူတို့ထံမှ ရရှိ၏၊ ထိုအခါလင်ယောကျာ်းတို့အား ထိုထွက်ပြေးသော မိန်းမတို့ကို ပေးသောခန်းဝင်ပစ္စည်း၏ တန်ဖိုးနှင့်ထပ်တူထပ်မျှပြန်ပေးကြလော့၊ သင်တို့သည် မိမိတို့သက်ဝင် ယုံကြည်သောအလ္လာဟ်အရှင်မြတ်၏ အမှုတော်ကို ထမ်းဆောင်ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကယ်၍ အသင်တို့၏ ဇနီးမိန်းမတို့အနက် တစ်စုံတစ်ယောက်သည် ‘ကာဖိရ်’ များထံသို့ ထွက်သွားခဲ့ပြီးနောက် အသင်တို့အလှည့် ရောက်ခဲ့ပါလျှင် (အသင်တို့သည် လက်ရပစ္စည်းရရှိခဲ့ကြလျှင်) ဇနီးမိန်းမများ ထွက်သွားခဲ့ကြသောသူတို့အား ၎င်းတို့ အကုန်အကျခံခဲ့ကြသည့် (‘မဟ်ရ်’ထိမ်းမြားကြေး)နှင့် အညီအမျှ အသင်တို့ ပေးဆပ်ကြလေကုန်။ထိုမှတစ်ပါး အသင်တို့ သက်ဝင် ယုံကြည်ကြကုန်သော အလ္လာဟ်အရှင်မြတ်အား ကြောက်ရွံ့ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

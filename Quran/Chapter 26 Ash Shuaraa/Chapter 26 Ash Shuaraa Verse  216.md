@@ -710,6 +710,12 @@ A ako ti se protivyat, kazhi: “Dalech sŭm ot onova, koeto vŭrshite.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁၆။	ထို့အပြင်အကယ်၍ သင်၏ဆွေမျိုးရင်းချာတို့သည် သင့်အား နားမထောင်ကြလျှင် သူတို့အား ဟယ်-အချင်းတို့၊ ငါသည် သင်တို့၏အပြစ်မှ ကင်းရှင်း၏ဟု ပြောလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကယ်၍ ၎င်းတို့သည် အသင်၏အမိန့်ကို ဖီဆန်ခဲ့ကြလျှင် အသင်သည် (၎င်းတို့အား) ဧကန်မလွဲ ငါသည် အသင်တို့၏ အပြုအမူတို့မှ ကင်းလွတ်သည်ဟု ပြောကြားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

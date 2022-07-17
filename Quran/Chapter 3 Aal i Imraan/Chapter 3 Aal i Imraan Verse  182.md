@@ -710,6 +710,12 @@ To e zaradi onova, koeto storikhte predi sŭs svoite rŭtse. Allakh ne e ugnetit
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈၂။	ယင်းအပြစ်ဒဏ်မှာသင်သည် တရားစီရင်တော်မူသောနေ့တော်ကြီးအတွက် တင်ကြိုပို့ထားနှင့်သော သင်တို့၏ပြုကျင့်မှုများကြောင့်တည်း။ အလ္လာဟ်အသျှင်မြတ်သည် မိမိကျေးတော်မျိုး၊ ကျွန်တော်မျိုး တို့ကို နှိပ်စက် ညှင်းပန်းတော်မူသောအသျှင် ဖြစ်တော်မမူပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤ(ကဲ့သို့ ပြစ်ဒဏ်ခံကြရမည်မှာ)ကား အသင်တို့ (ကိုယ်တိုင်) မိမိတို့လက်များဖြင့် ကြိုတင် ပို့နှင့်ပြီးဖြစ်သောအကုသိုလ် ဒုစရိုက်များကြောင့်ပင်တည်း။ စင်စစ်ဧကန်အလ္လာဟ်အရှင်မြတ်သည် (မိမိ) ကျွန်များအပေါ် မတရားဖိစီးညှဉ်းပန်း နှိပ်စက်တော်မူသော အရှင်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

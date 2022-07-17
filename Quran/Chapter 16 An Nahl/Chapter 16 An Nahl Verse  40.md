@@ -710,6 +710,12 @@ Nasheto Slovo kŭm neshto, kogato go pozhelaem, e samo da mu kazhem: “Bŭdi!�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄ဝ။	ငါအရှင်မြတ်သည် တစုံတရာကို ကြံစည်တော်မူလျှင် ထိုအရာအား ဖြစ်စေဟု ဗျာဒိတ်တော်ချ၏။ ထိုအခါထိုအရာ သည် ဖြစ်ပေါ်လာ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဧကန်စင်စစ်)ငါအရှင်မြတ်သည် တစ်စုံတစ်ရာကိုမျှ ရည်စူးတော်မူသောအခါ ထိုအရာကို ငါအရှင်မြတ်ကဖြစ်လော့ဟု မိန့်ကြားတော်မူရုံဖြင့် ထိုအရာသည် ဖြစ်လာလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

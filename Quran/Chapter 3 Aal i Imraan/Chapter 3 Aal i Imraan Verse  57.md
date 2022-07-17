@@ -710,6 +710,12 @@ A na onezi, koito vyarvat i vŭrshat pravedni dela, Toĭ shte izplati nagradite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၇။	အကြင်သူတို့သည် ယုံကြည်၍ ကောင်းမှုပွားများ၏။ ထိုသူတို့အား ငါသည် သူတို့၏ လုပ်ခများကို ပြည့်စုံစွာ ပေးသနားတော်မူမည်။ အလ္လာဟ်အသျှင်မြတ်သည် ဒုစရိုက်မှုများကို ကျူးလွန်းသူများအား နှစ်ခြိုက်တော်မမူပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ယုံကြည်ခြင်း သဒ္ဓါတရား ထားရှိကြ၍ကောင်းမြတ်သော အကျင့်သီလများကို ဆောက်တည်ကြကုန်သော သူတို့မှာမူကား ထို အရှင်မြတ်သည် ယင်းသူတို့အား(ယင်းသူတို့ ပြုလုပ်ဆောက်တည်ခဲ့ကြသော အကျင့်သီလများ၏) အကျိုးကျေးဇူးများကို ပြည့်စုံစွာ ပေးသနားတော်မူလတ္တံ့။ ၎င်းပြင် အလ္လာဟ်အရှင်မြတ်သည် မတော်မတရားကျူးလွန်စော်ကားသူတို့ အား နှစ်သက်တော်မူသည် မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

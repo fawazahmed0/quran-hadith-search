@@ -710,6 +710,12 @@ Allakh iska da vi oblekchi. Chovekŭt be sŭtvoren slab
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	အလ္လာဟ်အသျှင်မြတ်သည် သင်တို့၏ ဝန်ထုပ်ဝန်ပိုးကို ပေါ့လျော့စေတော်မူမည်။ အကြောင်းမူကား လူသားသည် အားနည်းသူအဖြစ်ဖြင့် ဖန်ဆင်းခြင်းခံရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့၏ဝန်ကို လျော့ပေါ့စေတော်မူရန် ရည်စူးတော်မူ၏။ စင်စစ်တမူကား လူသားတို့သည် အားအင်ချည့်နဲ့ သူများအဖြစ် ဖန်ဆင်းခြင်းခံခဲ့ကြရလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kaza [Faraonŭt]: “Ne te li otgledakhme sred nas ot dete? I ne prekara li sred
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	ဖွာရောမင်းက တမန်တော်မူစာအား ငါတို့သည် သင့်ကို ငါတို့အထဲ ငယ်စဉ်တောင်ကျေး ကလေးဘဝက ကျွေးမွေးလာသည်မဟုတ်လော၊ သင်သည် ငါတို့နှင့်အတူတကွနှစ်ပေါင်းများစွာနေခဲ့၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုဖစ်ရ်အောင်န်က (ဤသို့) ပြောဆိုခဲ့လေ၏။ (အို-မူစာ၊) ကျွန်ုပ်တို့သည် အသင့်အား ကလေးဘဝ၌ မိမိတို့ထံ ကျွေးမွေးစောင့်ရှောက်ခဲ့သည် မဟုတ်လော။ ၎င်းပြင် သင်သည် မိမိသက်တမ်းမှ နှစ်ပေါင်းများစွာ ကျွန်ုပ်တို့ထံတွင် နေထိုင်ခဲ့သည် မဟုတ်လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ No i da vidyat znamenie, te se otdrŭpvat i kazvat: “Prodŭlzhitelna magiya.�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	ထို့အပြင် မယုံကြည်သူတို့သည် နိမိတ်လက္ခဏာတော်တစ်ပါးပါးကို မြင်ရသောအခါ ကျောခိုင်းသွားကြ၏၊ ဤအရာကား အလွန်ထက်မြက်သောမျက်လှည့်အတတ်ပေတည်းဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ၎င်းတို့သည် သက်သေလက္ခဏာ တစ်စုံတစ်ရာကို တွေ့မြင်ကြလျှင် ကျောခိုင်း၍ သွားကြသည့်ပြင် (ဤသည်)အဓွန့်ရှည်သော ရှေးအစဉ် အလာဖြစ်သော ပဉ္စလက်အတတ်ပညာဖြစ်သည်ဟူ၍ ပြောဆိုလေ့ ရှိခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

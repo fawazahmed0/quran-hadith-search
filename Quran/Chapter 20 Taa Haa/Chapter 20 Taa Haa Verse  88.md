@@ -710,6 +710,12 @@ I napravi toĭ za tyakh obraz na telets, koĭto mucheshe. I rekokha [zabludeni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၈။	ထို့နောက်စာမရီသည် သူတို့အတွက် ရွှေရောင်နွားရုပ်ငယ်သွန်းလုပ်လိုက်သော် ထိုနွားရုပ်ငယ်သည် ပကတိနွား ကဲ့သို့ တူ၏။ ထိုအခါသူတို့က ဤနွားရုပ်ငယ်သည် သင်တို့၏ဘုရားသခင်ဖြစ်၏။ မူစာ၏ဘုရားလည်းဖြစ်၏၊ သို့သော်မူစာသည် သတိမေ့လျော့နေ၏ဟု ကြွေးကြော်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ယင်းစာမိရီသည် ၎င်းတို့အဖို့ အသံထွက်သော နွားငယ်ကလေးတစ်ကောင်၏ ခန္ဓာကိုယ် အသွင်သဏ္ဌာန်တစ်ခုကို (သွန်းလောင်း) ထုတ်ယူလာခဲ့လေသည်။(ထိုအခါ) ယင်းအမျိုးသားတို့က ဤသည်ပင် အသင်တို့၏ကိုးကွယ်ရာအရှင်၊ မူစာ၏ ကိုးကွယ်ရာအရှင်ဖြစ်သည်။ သို့သော် မူစာကား(မိမိကိုးကွယ်ရာအရှင်အား ဤမှာပင်)မေ့ထားခဲ့လေပြီဟု (အချင်းချင်း) ပြောဆိုကြလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kogato prizova toĭ svoya Gospod s taen zov
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	တမန်တော်ဇကရိယာသည် သူ၏ အရှင်သခင်ထံ တိတ်တဆိတ်လျှို့ဝှက်စွာဤသို့ဆုတောင်းသောအခါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ပြန်လည်အောက်မေ့သတိရကြလေကုန်)တစ်ရံရောအခါဝယ် ထိုဇကရီယာသည် မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်ကို လျှို့ဝှက်စွာ ပန်ကြားခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

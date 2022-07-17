@@ -710,6 +710,12 @@ Nie shte nasledim zemyata i vsichki, koito sa po neya, i pri Nas shte bŭdat vŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄ဝ။	မှတ်သားကြလော့၊ ငါအရှင်မြတ်သည် မဟာပထဝီမြေကြီးနှင့် မြေပေါ်ရှိ သတ္တဝါအပေါင်းကို အမွေခံတော်မူ၏။ သူတို့အားလုံး ငါ့ထံတော်သို့ ပြန်ပို့မည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ငါအရှင်မြတ်သာလျှင် ကမ္ဘာမြေကိုလည်းကောင်း၊ ယင်းကမ္ဘာမြေဝယ် ရှိသမျှတို့ကိုလည်းကောင်း၊အမွေခံ(ဝါ) နောက်ဆုံးပိုင်ဆိုင်တော်မူသော အရှင်မြတ်အဖြစ်ကျန်ရစ်တော်မူမည်။ ထိုမှတစ်ပါး ၎င်းတို့သည် ငါအရှင်မြတ်အထံတော်သို့သာလျှင် ပြန်လည်ရောက်ရှိကြရမည်သာတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

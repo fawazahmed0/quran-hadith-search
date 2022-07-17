@@ -710,6 +710,12 @@ Nima povelyavate na khorata pravednost, a zabravyate sebe si, vŭpreki che vie c
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	သင်တို့သည် မိမိတို့ကိုယ်တိုင်တရားစောင့်စည်းရိုသေရန် မေ့လျော့လျက် လူသားတို့ကို တရား စောင့်စည်းရန် ဆင့်ဆိုကြသလော။ သင်တို့သည် သမ္မာကျမ်းတော်ကို ရွတ်ဖတ်သူများဖြစ်ကြသလော။ သင်တို့၌ ဆင်ခြင်တုံတရားမရှိကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-အစ္စရာအီလီ မျိုးနွယ်ဝံသ အပေါင်းတို့) အသင် တို့သည် လူအများတို့ကို ကောင်းမှုတရား ပွားများရန် ဆုံးမ ဩဝါဒ ပေးကြ၍ မိမိတို့ကိုယ်ကို မေ့လျော့နေကြကုန်သလော။ အမှန်အားဖြင့် အသင်တို့သည် (ငါအရှင် ထုတ်ပြန်ပို့ချ ပေးသနားတော်မူသော) ကျမ်းဂန်များကို ရွတ်ဘတ် သရဇ္ဈာယ်လျက် ရှိကြကုန်၏။ သို့ပါလျက် အသင်တို့ နားမလည ်ကြပါသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

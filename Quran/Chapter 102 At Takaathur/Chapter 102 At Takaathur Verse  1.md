@@ -710,6 +710,12 @@ Uvlicha vi preumnozhavaneto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၊၂။ အို-လူသားအပေါင်းတို့၊ လောကီစည်းစိမ်ဥစ္စာပွားများခြင်း၌ ပြိုင်ဆိုင်ခြင်းသည် သင်တို့အား သချိႋုင်းတွင်းသို့ ရောက်သည့်တိုင်အောင် လောကုတ္တရာရေးမှ ဆွဲငင်ထား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဥစ္စာပစ္စည်း၊ သားသမီးအစရှိသော လောကီစည်းစိမ်) ပေါများကြွယ်ဝမှုနှင့်စပ်လျဉ်း၍ လောဘရမ္မက် ဂုဏ်တု၊ ဂုဏ်ပြိုင်ပြုမှုသည် အသင်တို့အား (တမလွန်ဘဝကို) လျစ်လျူရှု ပေါ့တန်စေခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

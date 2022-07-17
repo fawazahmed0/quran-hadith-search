@@ -710,6 +710,12 @@ I napŭlno shte se vŭzdade na vseki za onova, koeto e vŭrshil. Naĭ-dobre Toi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇ဝ။	ထို့အပြင် ဝိညာဉ်သည် မိမိပြုကျင့်ခဲ့သောအမှုများအတွက် ရထိုက်သည့်ကောင်းကျိုးဆိုးကျိုးကို တင်းပြည့် ကျပ်ပြည့်ရကြ၏၊ အကယ်စင်စစ်အလ္လာဟ်အရှင်မြတ်သည် သူတို့ပြုကျင့်သမျှအပေါင်းတို့ကို အကြွင်းမဲ့သိတော် မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး လူတိုင်းလူတိုင်းသည် မိမိတို့ ကျင့်မူ ပြုလုပ်ခဲ့ကြသည်တို့၏အစားကို အပြည့်အစုံပေးဆပ်ခြင်းကို ခံကြရပေမည်။ အမှန်စင်စစ်သော်ကား ထိုအရှင်မြတ်သည် ၎င်းတို့ပြုလုပ်သမျှတို့ကို အသိတော်မူဆုံးပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

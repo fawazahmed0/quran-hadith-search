@@ -710,6 +710,12 @@ koĭto i v uedinenie se boi ot Vsemilostiviya, i idva sŭs sŭrtse, moleshto za
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	ထိုသူမွန်တို့သည် မဟာဂရုဏာတော်သခင်အား တိတ်တဆိတ်လျှို့ဝှက်စွာကြောက်ရွံ့ရိုသေ၍ နောင်တသံဝေဂ ကြီးစွာနှင့် လာသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူသည် ‘ရဟ်မာန်’ အနန္တကရုဏာတော်ရှင်အား မမြင်ဘဲလျက် ကြောက်ရွံ့ခဲ့၏။ ထိုမှတစ်ပါး ထိုသူသည် ပြန်လှည့်သော စိတ်နှလုံးကို ယူဆောင်လာခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

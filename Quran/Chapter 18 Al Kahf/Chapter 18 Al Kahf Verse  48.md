@@ -710,6 +710,12 @@ I shte bŭdat predstaveni na tvoya Gospod v reditsi: “Eto, doĭdokhte pri Nas
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	ထို့အပြင်သူတို့ကို သင်၏ ကျေးဇူးတော်သခင်ရှေ့တော်ဝယ် အဆင့်အတန်းအလိုက် စီတန်းစေတော်၏။ ယခု မူကား မောင်မင်းတို့သည် ငါအရှင်မြတ်အစကနဦးတွင်ဖန်ဆင်းတော်မူသကဲ့သို့ ငါ၏ ရှေ့တော်သို့ မုချအမှန် ရောက်ကြချေပြီ၊ သို့သော်မောင်းမင်းတို့က ဤတွေ့ဆုံမှုကို မောင်မင်းတို့အတွက် ငါသတ်မှတ်ထားသည်ဟု မထင်ကြချေဟု ဗျာဒိတ်ပေးတော်မူ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့သည် မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ရှေ့တော်မှောက်တွင် စီတန်းလျက်ရှိနေလေတော့၏။ ထိုအခါ ၎င်းမှာ ဪ-ငါသည် မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်နှင့် မည်သူတစ်ဦးတစ်ယောက်ကိုမျှ တွဲဖက်နှိုင်းယှဉ်ကိုး ကွယ်ခြင်းမပြုခဲ့ပါလေသော် တော်လေစွ ဟု (ဝမ်းနည်းပက်လက်)ပြောဆို ညည်းညူမြည်တမ်းလျက်ရှိ ချိမ့်မည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

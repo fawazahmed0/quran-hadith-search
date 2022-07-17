@@ -710,6 +710,12 @@ I v dobitŭka ima za vas pouka. Davame vi da piete ot onova, koeto e v stomakha 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	၎င်းအပြင်မှတ်သားကြလော့၊ အခြေလေးချောင်းတိရိစ္ဆာန်များတွင် သင်တို့အတွက် သင်ခန်းစာတစ်ခုပါရှိ၏၊ ငါသည် သင်တို့သောက်ဖို့ရာ ၎င်းတို့၏ စမ်းအတွင်းမှ နို့ရည်ကို ပေးသနားတော်မူ၏၊ သင်တို့သည် ၎င်းတို့ကို အမျိုးမျိုးအဖုံဖုံအသုံးပြုကြ၏၊ ၎င်းတို့၏အသားကို သင်တို့စားသုံးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ဧကန်စင်စစ် အသင်တို့အဖို့ ခြေလေးချောင်းတိရစ္ဆာန်(များဖြစ်သော ကုလားအုတ်၊ နွား၊ သိုး၊ ဆိတ် တို့)တွင် ဆင်ခြင်သုံးသပ်ရန် အချက်သည် အမှန်ပင်ရှိပေသည်။ ငါအရှင်မြတ်သည် အသင်တို့အား ၎င်းတို့၏ဝမ်းတွင်း၌ရှိသော (နို့ရည်)ကို တိုက်ကျွေး တော်မူပေသည်။ ထို့ပြင် အသင်တို့အဖို့ ၎င်းတို့တွင် များစွာသော အကျိုးကျေးဇူးများသည်လည်း ရှိလေသည်။ ထို့ပြင်တစ်ဝ အသင်တို့သည် ၎င်းတို့ အနက်မှ စားသုံးကြလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

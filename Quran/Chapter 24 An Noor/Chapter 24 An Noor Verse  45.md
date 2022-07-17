@@ -710,6 +710,12 @@ Allakh sŭtvori ot voda vsyaka tvar. Nyakoi ot tyakh se dvizhat po korem, nyakoi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	အလ္လာဟ်အရှင်မြတ်သည် တိရိစ္ဆာန်တိုင်းကို ရေဖြင့် ဖန်ဆင်းတော်မူ၏၊ တိရိစ္ဆာန်များအနက် အချို့တို့မှာ မိမိဝမ်းဖြင့် တွားသွားကြကုန်၏၊ အချို့မှာ အခြေနှစ်ချောင်း၊ အချို့မှာ အခြေလေးချောင်းဖြင့် သွားလာကြကုန်၏၊ အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းကုန်တို့ကို ပြုစွမ်းနိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အလ္လာဟ်အရှင်မြတ်သည် သွားလာလှုပ်ရှားလျက်ရှိသော သတ္တဝါအသီးသီးကို ရေဖြင့် ဖန်ဆင်းတော်မူခဲ့လေသည်။ တစ်ဖန် ထိုသတ္တဝါတို့တွင် မိမိဝမ်းဗိုက်ဖြင့် တွား၍သွားသော သတ္တဝါမျိုးလည်းရှိ၏။ ထို့ပြင် ၎င်းတို့တွင် ခြေနှစ်ချောင်းဖြင့်သွားသော သတ္တဝါမျိုးလည်းရှိ၏။ ထိုမှတစ် ပါး ၎င်းတို့တွင် ခြေလေးချောင်းဖြင့်သွားသော သတ္တဝါမျိုးလည်းရှိ၏။ အလ္လာဟ်အရှင်မြတ်သည် မိမိအလိုရှိတော်မူသောအရာကို ဖန်ဆင်းတော်မူပေသည်။ ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို စွမ်းဆောင်နိုင်တော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

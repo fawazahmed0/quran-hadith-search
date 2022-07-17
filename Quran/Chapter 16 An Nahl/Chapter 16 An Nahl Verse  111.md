@@ -710,6 +710,12 @@ Edin Den vseki shte doĭde da zashtiti sebe si i na vseki dokraĭ shte se izpl
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၁။	မိမိအဖို့ လျှောက်လဲတောင်းပန်လာသောနေ့တော်ကြီး၌ ဝိညာဉ်တိုင်းသည် မိမိပြုကျင့်ခဲ့မှုအတိုင်း အကျိုးအပြစ် ပေးခြင်းခံရမည်။ သူတို့သည် မတရားနှိပ်စက်ခြင်းကို ခံကြရမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤကျိုးပြစ်ပေးခြင်းသည် အကြင်နေ့တွင် ဖြစ်ပေမည်။) ထိုနေ့တွင် လူတိုင်းလူတိုင်းသည် မိမိဘက်မှသာလျှင်(ဝါ)မိမိကိုယ်ကိုကာကွယ်၍သာလျှင် ငြင်းခုံပြောဆိုလျက် လာပေမည်။ ထိုမှတစ်ပါး လူတိုင်းလူတိုင်းသည် မိမိကျင့်မူခဲ့သောအကျင့်အမူများ(၏အကျိုးအပြစ်)ကို အပြည့်အစုံပေးခြင်းကိုခံရပေမည်။ အမှန်စင်စစ် ၎င်းတို့သည် မတရား ပြုလုပ်ခြင်းကိုလုံးဝခံကြရမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

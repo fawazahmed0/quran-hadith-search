@@ -710,6 +710,12 @@ i koito milostinyata zakat davat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	သူတို့သည် ဇကားသ်အလှုကို ပေးလှုသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ထို("မုအ်မင်န်" သက်ဝင်ယုံကြည်)သူတို့သည် (မိမိတို့စိတ်နှလုံးများ) စင်ကြယ်သန့်ရှင်းအံ့သောငှာ (ကောင်းမှုများကို) ပြုလုပ်သူများ ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

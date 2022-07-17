@@ -710,6 +710,12 @@ Tezi obichat prekhodnostta i nekhayat za tezhkiya Den pred tyakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။ စင်စစ်အားဖြင့် ဤလူများသည် ခေတ္တ ခဏသာဖြစ်သောဤဘဝကို နှစ်သက်မြတ်နိုးကြ၏၊ ပြင်းထန်ကြောက်မက် ဖွယ်နေ့တော်ကြီးကို အရေးမစိုက်မေ့လျော့နေကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်ဧကန် ဤသူတို့ကား လောကီဘဝကို နှစ်သက်ကြကုန်၏။ ထို့ပြင် ၎င်းတို့သည် ခက်ခဲကြီးလေး လှစွာသော နေ့တစ်နေ့ကိုမူ မိမိတို့၏ နောက်တွင် စွန့်ပစ်၍ထားကြကုန်၏။ (တစ်နည်း)သို့ရာတွင် မိမိတို့ရှေ့၌ (ကြုံကြိုက်အံ့သော)ခက်ခဲလေးလံစွာသော နေ့တစ်နေ့ကိုမူ ၎င်းတို့သည် စွန့်ထားကြကုန် ၏။ (လျစ်လျူပြုထားကြ၏။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

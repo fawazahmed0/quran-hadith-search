@@ -710,6 +710,12 @@ Znaĭte, che Allakh e silen v nakazanieto i che Allakh e oproshtavasht, milosŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၈။	အလ္လာဟ်အသျှင်မြတ်သည် အပြစ်ဒဏ်ပေးရ၌ ပြင်းထန်သည်ကို မှတ်သားကြလော့။ သို့သော် အလ္လာဟ်အသျှင်မြတ်သည် အပြစ်လွှတ်တော်မူသည်။ ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူသည် တို့ကိုလည်း မှတ်သားကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် (တစ်စုံတစ်ရာကို ထိုအရှင်မြတ်နှင့် တွဲဖက်ကိုးကွယ် ခြင်း၊ အမိန့်တော်ကို သွေဖည်ငြင်းပယ်ခြင်း အစရှိသောပြစ်မှုများနှင့် မိမိတို့ကိုယ်ကို ဖုံးလွမ်းစေသောသူတို့အား) အလွန်ပြင်းထန်စွာ ပြစ်ဒဏ်ပေးတော်မူမည် ဖြစ်ကြောင်းနှင့် စင်စစ်ဧကန် အလ္လာဟ်အရှင်မြတ်သည် (ထိုတစ်ဆူတည်းသောအရှင်မြတ်အား ယုံကြည်ဆည်းကပ်၍ ကောင်းမြတ်သော သီလများကို ဆောက်တည်ကြကုန်သောသူတို့အား) အလွန်တရာမျှ လွတည်ငြိမ်းချမ်းသာခွင့် ပေးတော်မူသောအရှင်၊ အလွန်တရာမျှ သနားညှာတာတော်မူသောအရှင်၊ ဖြစ်တော်မူကြောင်းကို အသင်တို့သည် ကောင်းစွာသိထားကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

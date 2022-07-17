@@ -710,6 +710,12 @@ I kogato khorata bŭdat sŭbrani, te shte se okazhat tekhni vragove i shte otric
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	တရားစီရင်တော်မူဖို့ရာ လူသားအပေါင်းတို့ကို စုပေါင်းသောအခါ အတုအယောင်ဘုရားများတို့သည် မိမိတို့ကို ကိုးကွယ်သူများ၏ ရန်သူဖြစ်၍ သူတို့အား ကိုးကွယ်ခြင်းငြင်းပယ်လိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး လူတို့သည် စုရုံးခြင်းခံကြရသောအခါ ၎င်းတို့မှာ ထိုသူတို့၏ ရန်သူများပင် ဖြစ်သွားကြပေမည်။ထိုမှတပါး ၎င်းတို့သည် ထိုသူတို့၏ ဆည်းကပ် ကိုးကွယ်မှုကိုပင် ငြင်းပယ်ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

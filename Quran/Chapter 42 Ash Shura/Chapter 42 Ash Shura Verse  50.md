@@ -710,6 +710,12 @@ ili daryava momcheta i momicheta. I storva bezploden kogoto pozhelae. Toĭ e vs
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅ဝ။ သို့မဟုတ် အရှင်မြတ်သည် သားများသမီးများနှစ်မျိုးစလုံးပေးသနားတော်မူ၏၊ ထို့အပြင်အရှင်မြတ်သည် အမြံုဖြစ်စေလိုတော်မူသောသူကို အမြံုဖြစ်စေတော်မူ၏၊ အရှင်မြတ်သည် အနန္တတန်ခိုးတော်သခင်၊ သဗ္ဗညုတ ဉာာဏ်တော်ရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် ထိုအရှင်မြတ်သည် ၎င်းတို့အား သားယောက်ျားကလေးများနှင့် သမီးမိန်းကလေး များကိုပေါင်းစပ်၍ပေးတော်မူ၏။ စုံတွဲ၍ ပေးတော် မူ၏။ ထိုမှတစ်ပါးမိမိအလိုရှိတော်မူသောသူအား (သားသမီးမထွန်းကားသော)အမြုံ ပြုလုပ်ထားတော်မူ၏။ ဧကန်မလွဲ ထိုအရှင်မြတ်သည်အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့သိတော်မူသောအရှင်၊ လွန်စွာပြုစွမ်းနိုင်တော်မူသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

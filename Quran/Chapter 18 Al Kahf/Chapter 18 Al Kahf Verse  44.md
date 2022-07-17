@@ -710,6 +710,12 @@ Tam zakrilata e ot Allakh, Istinniya. Pri Nego e naĭ-dobroto vŭzdayanie i pri
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	ဤကိစ္စ၌ စောင့်ရှောက်ခြင်းသည် အမှန်တည်ရှိတော်မူထသောအလ္လာဟ်အရှင်မြတ်အထံတော်မှသာဖြစ်၏။ အရှင်မြတ်သည် ဆုလာဘ်ပေးသူ၊ အောင်မြင်ခြင်းပေးသူတို့အပေါင်း၏ အထွဋ်အခေါင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုကဲ့သို့သော အချိန်အခါမျိုးတွင် ကြည့်ရှု စောင်မနိုင်စွမ်းသည် အစစ်အမှန် ဖြစ်တော်မူသော အလ္လာဟ်အရှင်မြတ်၌သာရှိပေသည်။ နောက်ဆုံးအကျိုး ချီးမြှင့်တော်မူရာ၌လည်း အမွန်မြတ်ဆုံးသောအရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

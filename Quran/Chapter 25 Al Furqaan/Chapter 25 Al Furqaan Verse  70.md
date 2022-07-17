@@ -710,6 +710,12 @@ osven onzi, koĭto se e pokayal i povyarval, i vŭrshil pravedni dela. Na takiv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇ဝ။	သို့ရာတွင်သူတို့အနက် မည်သူမဆိုမိမိမှားယွင်းမိသောအပြစ်စုကို နောင်တရ၍ ဝန်ချတောင်းပန်၏၊ ယုံကြည် လျက် ကောင်းမှုကို ပြုကျင့်၏၊ အလ္လာဟ်အရှင်မြတ်သည် ထိုသူ၏မကောင်းမှုမျာကို ကောင်းမှုများအဖြစ်သို့ ပြောင်းလဲစေတော်မူမည်။ အလ္လာဟ်အရှင်မြတ်သည် အမြဲအပြစ်လွှတ်တော်မူ၏၊ ကောင်းကြီးမင်္ဂလာပေးတော် မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကြင်သူသည် (ကာဖိရ်ရှရစ်က်မှ) ၀န်ချတောင်းပန်ပြီး သက်ဝင်ယုံကြည်ခဲ့၍ ကောင်းမြတ်သောအကျင့်သီလကို ကျင့်မူဆောက်တည်ခဲ့လျှင်၊ အလ္လာဟ်အရှင်မြတ်သည် ထိုကဲ့သို့သောသူတို့အား ၎င်းတို့ ၏မကောင်းမှုများကို ကောင်းမှုများနှင့် လဲလှယ်၍ ပေးသနားတော်မူပေမည်။ စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အလွန်တရာ လွတ်ငြိမ်းချမ်းသာခွင့် ပေးတော်မူသောအရှင်၊ အလွန်တရာ သနားကြင်နာ ညှာတာတော်မူသောအရှင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

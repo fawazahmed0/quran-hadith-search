@@ -710,6 +710,12 @@ Nad Moite rabi nyamash vlast, osven za koĭto te posledva izmezhdu zabludenite.
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	မှတ်သားလော့။ သင်၏ နောက်သို့ လိုက်သူ၊ ဆိုဆုံးမ၍ မရသူများမှတပါး၊ အခြားသောငါ၏ ကျေးကျွန်များ အပေါ်တွင် နင်သည် သြဇာတိက္ကမတစုံတရာရှိမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ငါအရှင်မြတ်၏ ကျွန်များ အပေါ်ဝယ် အသင့်၌ မည်သို့မျှပင် ဩဇာအာဏာရှိမည်မဟုတ်။ သို့ရာတွင် လွဲချော်မှောက်မှားသူများအနက် အသင့်စကားနားထောင်သူများ(အပေါ်တွင်မူအသင့် ဩဇာအာဏာရှိပေမည်)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

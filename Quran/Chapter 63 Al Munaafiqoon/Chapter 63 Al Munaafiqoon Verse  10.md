@@ -710,6 +710,12 @@ I razdavaĭte ot onova, koeto vi darikhme za prepitanie, predi da e doshla pri 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၀။ သင်တို့အနက် မည်သူတစ်စုံတစ်ယောက်ထံသို့မဆို သေဘေးဆိုက် ရောက်မလာမီအလျင် တင်ကူး၍ ငါပေးသနား တော်မူသော စည်းစိမ်ဥစ္စာများအထဲမှ သုံးကြလော့၊ ယင်းသို့မသုံးသူသည် သေဘေးဆိုက်ရောက်လာသောအခါ အို-အကျွနု်ပ်၏ အရှင်သခင်၊ အကယ်၍အရှင်သည် အကျွနု်ပ်အား အချိန်အနည်း ငယ်မျှ ဆိုင်းထားတော်မူပါလျှင် အကျွနု်ပ်သည် အလှုဒါနပေးကမ်းပြီးလျှင် သူတော်ကောင်းတို့ဘောင်တွင် ပါဝင်ပါမည်ဟု ပန်ထွာ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်တို့အနက် တစ်ဦးတစ်ယောက်၏ထံသို့ ‘မရဏ’ သေခြင်းတရား ဆိုက်ရောက်မလာမီပင် အသင်တို့သည် မိမိတို့အား ငါအရှင်မြတ် ချီးမြှင့်ပေးသနားတော်မူခဲ့သည်များအနက်မှ သုံးစွဲ (လှူဒါန်း)ကြလေကုန်။ ထို('မရဏ' သေခြင်းတရား ရောက်လာသော)အခါ ထိုသူသည် 'အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ အရှင်မြတ်သည် အဘယ်ကြောင့် ကျွန်တော်မျိုးအား အချိန်ကာလ အနည်းငယ်ရွှေ့ဆိုင်းခွင့် ပေးတော်မမူပါသနည်း။ သို့ ပေးတော်မူခဲ့ပါလျှင် ကျွန်တော်မျိုးသည် အလှူဒါနပြုသည့်ပြင် သူတော်ကောင်းတစ်ဦးလည်း ဖြစ်ပါမည်' ဟု လျှောက်ထားပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

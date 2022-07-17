@@ -710,6 +710,12 @@ Kazhi: “Razkrito mi be, che vashiyat Bog e edinstveniyat Bog. Nyama li da Mu s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၈။	အို--တမန်တော်၊ ဟောကြားလော့၊ အကျွနု်ပ်၏စိတ်နှလုံးအိမ်တွင် ထင်ရှားစေသောဗျာဒိတ်တော်မှာကား သင်တို့၏ အလ္လာဟ်အရှင်မြတ်သည် တစ်ဆူတည်းသောအရှင်သခင်ဖြစ်တော်မူ၏ဟူ၍ဖြစ်၏၊ ထို့ကြောင့်သင်တို့ သည် အလ္လာဟ်အရှင်မြတ်အား ကျိုးနွံနာခံကြမည်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (၎င်းတို့အားအချင်းတို့) တစ်ဆူတည်းသောကိုးကွယ်ရာအရှင်မြတ် သည်သာလျှင် အသင်တို့၏ ကိုးကွယ်ရာအရှင် ဖြစ်တော်မူကြောင်းငါ့ထံသို့ "ဝဟ်ယ်" အမိန့်တော် ပေးပို့ခြင်းခံရသည်။ သို့ဖြစ်ပေရာအသင်တို့သည် (အမိန့်တော်ကိုနာခံသူ) မုစ်လင်မ်များ ဖြစ်ကြမည်လောဟု ပြောဆို(မေးမြန်း)ပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ne shte slushat tam nito praznoslovie, nito podbuda kŭm gryakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	နိဗ္ဗာန်ဘုံတွင် ဤသူမြတ်တို့သည် အချည်းနှီးအကျိုးမရှိ၊ သိမ်ဖျင်းသောစကားရပ်များကိုသော်လည်းကောင်း၊ ပြစ်တင်ကဲ့ရဲ့သောစကားရပ်များကိုသော်လည်းကောင်း၊ ကြားကြရသည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့သည် ယင်းဥယျာဉ်များ၌ မည်သည့်မရေမရာသော စကားလုံးမျှလည်းကောင်း၊ မည်သည့်အပြစ်ဖြစ်စေသော စကားကိုမျှလည်းကောင်း၊ ကြားရမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kogato mladezhite se priyutikha v peshterata i rekokha: “Gospodi nash, daĭ n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	လုလင်ပျိုတို့သည် လှိုင်ဂူထဲသို့ ထွက်ပြေး၍ အို-အကျွနု်ပ်တို့၏ အရှင်သခင်၊ အရှင်၏ အထံတော်မှ အကျွနု်ပ် တို့အား ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူပါ။ အကျွနု်ပ်တို့၏ ဆင်းရဲဒုက္ခ၌ အကျွနု်ပ်တို့အတွက် မှန်ကန်သော ကျင့်စဉ်ကို စီရင်ပေးသနားတော်မူပါဟု ဆုပန်ကြသောအခါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ပြန်လည် အောက်မေ့သတိရပါလေ)၊ အကြင်အခါ ဝယ် ထိုလူငယ်တို့သည် ဥမင်လိုဏ်ခေါင်းသို့ (သွားရောက်)ခိုအောင်းခဲ့လေသည်။ ထို့နောက် ၎င်းတို့သည် ကျွန်တော်မျိုးတို့အားဖန်ဆင်းမွေးမြူတော်မူသောအရှင်၊ အရှင်မြတ်သည် ကျွန်တော်မျိုးတို့အား မိမိအထံတော်မှ ကရုဏာတော်ကို ချီးမြှင့်ပေးသနားတော်မူပါ။ ထိုမှတစ်ပါး အရှင်မြတ်သည် ကျွန်တော်မျိုးတို့အဖို့ ကျွန်တော်မျိုးတို့၏အရေးကိစ္စ၌ ဖြောင့်မတ်မှုကို ပေးသနားတော်မူပါဟု လျှောက်ထား(အသနား)ခံခဲ့ ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

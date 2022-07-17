@@ -710,6 +710,12 @@ Reche: “Dali razbrakhte kakvo napravikhte s Yusuf i brat mu v svoeto nevedenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၉။	တမန်တော်ယူစွတ်(ဖ်)က သင်တို့သည် မိမိတို့တရားမသိ မောဟဖုံးလွှမ်းခြင်းကြောင့် ယူစွတ်(ဖ်)နှင့် သူ့ညီတို့ အပေါ်ကို အဘယ်အမှုပြုကျင့်မိသည်ကို သင်တို့သိပါသလားဟု မေးမြန်း၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(ရောအခါဝယ်) ယူဆွဖ်က (၎င်းတို့အား ဤသို့) ပြောဆိုမေးမြန်းခဲ့လေသည်။ အသင်တို့သည် မိမိတို့မသိမိုက်မဲသူများ ဖြစ်ခဲ့ကြစဉ်အခါက မိမိတို့သည် ယူစုဖ်နှင့်လည်းကောင်း၊ ယင်းယူဆွဖ်၏ ညီငယ်အားလည်းကောင်း၊ မည်သည့်အပြုအမူကို ပြုမူ ခဲ့ကြသည်ကို အသင်မှတ်မိကြသေးသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

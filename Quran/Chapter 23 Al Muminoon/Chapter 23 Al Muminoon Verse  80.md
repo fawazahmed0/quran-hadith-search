@@ -710,6 +710,12 @@ Toĭ e, Koĭto sŭzhivyava i umŭrtvyava, i ot Nego e promyanata na noshtta i 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈ဝ။	အရှင်မြတ်သည် အသက်ပေးတော်မူထသော၊ သေစေတော်မူထသောအရှင်ဖြစ်တော်မူ၏၊ ညဉ့်နှင့်နေ့ကိုလည်း အလှည့်ကျလဲလှယ်စေတော်မူထသောအရှင်ဖြစ်တော်မူ၏၊ သို့ပါလျက်သင်တို့၌ အသိဉာာဏ်မရှိသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အရှင်မြတ်သည်ပင် အသက်ရှင်စေတော်မူသည်၊ အသင်သေစေတော်မူသည်။ ထိုမှတစ်ပါး ညဉ့်နှင့်နေ့တို့ ၏(အလှည့်ကျ)အပြောင်းအလဲသည်လည်း ထိုအရှင်မြတ်(လက်တော်တွင်း)၌သာ ရှိပေသည်။ သို့ပါလျက် အသင်တို့သည် အသိဉာဏ်ဖြင့် ဆင်ခြင်သုံးသပ်ခြင်း မပြုကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

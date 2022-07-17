@@ -710,6 +710,12 @@ I predi teb izprashtakhme samo pratenitsi, koito yadat khrana i khodyat po pazar
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	အို--တမန်တော်၊ ငါသည် သင်၏အထက်အဆက်ဆက်သောတမန်တော်များကို စေလွှတ်တော်မူ၏၊ ထိုတမန် တော်တို့သည် မုချဧကန်အစားအစာသုံးဆောင်ကြ၏၊ စျေးဆိုင်ကမ်းနားများသို့လည်း လှည့်ပတ်သွားလာကြ၏၊ အို--လူသားအပေါင်းတို့၊ သင်တို့အနက် အချို့သောသူများကို အချို့သောသူများအတွက် စုံစမ်းဖို့ရာ စီရင်ထား တော်မူ၏၊ သင်တို့၌ သည်းခံခြင်းတရားရှိကြမည်လော၊ အကြောင်းမူကား အလ္လာဟ်အရှင်မြတ်သည် အမြဲ မြင်တော်မူသောအရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ငါအရှင်မြတ်သည် အသင့်အလျင် စေလွှတ်တော်မူခဲ့သော ရစူလ်တမန်တော် အပေါင်းတို့သည်လည်း ဧကန်မလွဲ အစားအစာကို မှီဝဲစားသုံးကြလေ သည်။ ထို့ပြင် ၎င်းတို့သည် ဈေးများတွင်လည်း လှည့်ပတ်သွားလာကြလေသည်။ စင်စစ်မှာမူကား ငါအရှင်မြတ်သည် အသင်တို့အနက် တစ်ဦးကိုတစ်ဦး၏အဖို့ စမ်းသပ်မှုပင် ပြုလုပ်တော်မူခဲ့ပေသည်။ အသင်တို့သည် သည်းခံမှုတရားရှိကြမည်လော။ စင်စစ်သော်ကား အသင့်အား ဖန်ဆင်း မွေးမြူတော်မူသော အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို ကောင်းစွာ ရှုမြင်တော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

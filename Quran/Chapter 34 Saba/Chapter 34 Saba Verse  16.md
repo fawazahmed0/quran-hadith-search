@@ -710,6 +710,12 @@ No te se otvŭrnakha i izpratikhme sreshtu tyakh poroya ot bentovete, i zamenikh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	သို့သော်သူတို့သည် အလ္လာဟ်အရှင်မြတ်ကို မထီမဲ့မြင်ကျောပေးသူများဖြစ်ကြ၏၊ ထို့ကြောင့်ငါသည် သူတို့အား အီရမ်ရေလွှမ်းမိုးခြင်းကို လွှမ်းမိုးစေတော်မူ၏၊ သူတို့၏ ဥယျာဉ်လယ်ယာများကို ဖျက်ဆီးတော်မူ၏၊ ထို့နောက် ၎င်းတို့အား အလွန်အကျိုးကျေးဇူးခံရသောဥယျာဉ်နှစ်ခုအစား အသုံးမဝင်ကောင်းကျိုးမဖြစ်သောဥယျာဉ်နှစ်ခုကို လဲလှယ်ချထားတော်မူ၏၊ ဤဥယျာဉ်သစ်ထွက်အသီးများကား စပ်ခါးသောအရသာရှိ၏၊ ထို့အပြင်ထင်းရူးပင် များ၊ သေးငယ်သောဆီးချဉ်ပင်များအနည်းငယ်ပေါက်ရောက်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ၎င်းတို့သည် (အမိန့်တော်ကို လိုက်နာခြင်းမရှိကြဘဲ) မျက်နှာလွှဲခဲ့ကြပေရာ ငါအရှင်မြတ်သည်၎င်းတို့အပေါ်၌ အရင်မ် ရေကာတာမှ ပြင်းစွာ စီးဆင်းသောရေကို လွှတ်ပေးတော်မူခဲ့၏။ ထို့ပြင် ငါအရှင်မြတ်သည် ၎င်းတို့အား ၎င်းတို့၏ဥယျာဉ်နှစ်ခု၏အစား အခြားဥယျာဉ်နှစ်ခုကိုလဲလှယ်၍ ပေးတော်မူခဲ့၏။ ထိုဥယျာဉ်နှစ်ခုမှာ ဖန်သော၊ခါးသော၊ အရသာမကောင်းသော၊ သစ်သီးဝလံများ၊ ထင်းရှုးပင်များနှင့် အနည်းငယ်မျှသောဆီးပင်များရှိသော ဥယျာဉ်နှစ်ခုပင် ဖြစ်ခဲ့ကြ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I angelite shte sa po kraishtata mu. V tozi Den osmina [ot tyakh] shte nosyat Tr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။ ထို့အပြင်ကောင်းကင်တမန်အပေါင်းတို့သည် ကောင်းကင်ခြေ၌ အသင့်ရှိနေကြလိမ့်မည်၊ ထိုနေ့တော်ကြီး၌ သင်၏ အရှင်သခင်၏ ရာဇပလ္လင်တော်ကြီးကို ရှစ်ယောက်သော ကောင်းကင်တမန်တို့သည် မိမိတို့ဦးခေါင်းထက် ထမ်းရွက်ထားကြလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် "မလာအိကဟ်" ကောင်းကင်တမန်တို့မှာကား ယင်းမိုးကောင်းကင်၏ နံဘေးများဝယ် ရှိနေကြပေမည်။ ထိုမှတစ်ပါး ထိုနေ့တွင် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ "အရ်ရှ်" ပလ္လင်တော်ကို ကောင်းကင်တမန်ရှစ်ပါးတို့က မိမိတို့ထက်ဝယ် ထမ်းဆောင်လျက်ရှိကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

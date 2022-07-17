@@ -710,6 +710,12 @@ I onezi predi tyakh otrichakha. A kakvo be Moeto nakazanie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။ သို့သော် သူတို့အထက်အဆက်ဆက်သောသူတို့သည် ဧကန်အမှန်မယုံကြည်ကြချေ၊ ထို့ကြောင့်ငါသည် သူတို့ကို မည်သို့အမျက်ရှတော်မူသည်ကို ကြည့်ရှုကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ၎င်းတို့အလျင်ရှိခဲ့ကြသော သူတို့သည်လည်း မဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ်ခဲ့ ကြကုန်၏။သို့ဖြစ်ပေရာ ငါအရှင်မြတ်၏ ပြစ်ဒဏ်မှာ မည်သို့ရှိပေသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

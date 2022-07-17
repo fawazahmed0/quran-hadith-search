@@ -710,6 +710,12 @@ Nyama toĭ vlast nad onezi, koito vyarvat i na svoya Gospod se upovavat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၉။	မှတ်သားကြလော့၊ ရှိုင်တန်ယုတ်သည် မိမိတို့၏ ကျေးဇူးတော်သခင်အား ယုံကြည်ကိုးစားသူတို့အပေါ်၌ တန်ခိုးအာဏာလုံးဝမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ယင်းရှိုင်တွာန် မိစ္ဆာကောင်၌အကြင်သူတို့အပေါ်ဝယ် လုံးဝဩဇာအာဏာမရှိချေ။ ထိုသူတို့သည် ဧကန်စင်စစ် အီမာန်သက်ဝင် ယုံကြည်၍ မိမိတို့အားဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်အား ယုံကြည်အားထားကြကုန်သောသူတို့ အပေါ်၌ ရှိုင်တွာန်မိစ္ဆာကောင်သည် လုံးဝဩဇာ အာဏာ မရှိချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

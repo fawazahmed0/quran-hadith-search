@@ -710,6 +710,12 @@ i koito vyarvat v nizposlanoto na teb i v nizposlanoto predi teb, i v otvŭdniya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	ထို့ပြင် သူတို့သည် သင် မုဟမ္မဒ်ထံသို့ ချပေးတော်မူသော ကျမ်းတော်နှင့်သင် မပွင့်မီချပေးတော် မူသောကျမ်းတော်များကို ယုံကြည်ကြ၏။ နောင်တမလွန်ဘဝကိုလည်းယုံကြည်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ထိုသူတော်စင်များသည် အသင့်ထံသို့ထုတ်ပြန် ပို့ချသော(ကုရ်အာန်)ကျမ်းမြတ်ကို လည်းကောင်း၊ အသင့်အလျင် ရှေးပဝေ သဏီက (ပွင့်လေပြီးသော နဗီတမန် တော်များထံသို့) ထုတ်ပြန် ပို့ချသောကျမ်းဂန်များကို လည်းကောင်း၊ ယုံကြည်ကြ၏။ ထို့ပြင် တဝ ထိုသူတော်စင်များသည် တမလွန်ဘဝကိုလည်း အမှန်ဟူ၍ သံသယကင်းစွာ ယုံကြည် ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

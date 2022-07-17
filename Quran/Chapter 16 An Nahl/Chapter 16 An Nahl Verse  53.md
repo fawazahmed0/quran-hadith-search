@@ -710,6 +710,12 @@ I kakvato i blagodat da imate, tya e ot Allakh. Posle, shtom vi zasegne beda, Ne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။	သင်တို့ခံစားသည့်စည်းစိမ်ချမ်းသာဟူသမျှသည် အလ္လာဟ်အရှင်အထံတော်မှ ဖြစ်၏။ သင်တို့ကို ဘေးအန္တရာယ် ထိသောအခါ သင်တို့သည် အလ္လာဟ်အရှင်မြတ်၌ အစောင့်အရှောက်အတွက် ငိုကြွေးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး မည်သည့်ကျေးဇူးတော်မဆို အသင်တို့၌ရှိခဲ့လျှင် အလ္လာဟ်အရှင်မြတ်အထံတော်မှ (ချီးမြှင့်တော်မူသော) ကျေးဇူးတော်သာဖြစ်၏။ ထို့နောက် အသင်တို့၌ ဘေးဒုက္ခသက်ရောက်ခဲ့သောအခါ အသင်တို့သည် ထိုအရှင်မြတ်အထံတော်သို့သာလျှင် (ကူညီစောင်မတော်မူပါဟု) ဟစ်ကြွေးပန်ကြားကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

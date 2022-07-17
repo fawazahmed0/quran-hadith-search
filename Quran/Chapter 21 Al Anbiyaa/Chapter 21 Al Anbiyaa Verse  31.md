@@ -710,6 +710,12 @@ I napravikhme po zemyata nepoklatimi planini, za da ne se lyulee s khorata. I na
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	ငါသည် ပထဝီမြေကြီးမတုန်မလှုပ်စေခြင်းငှာ၊ မြေပေါ်တွင် တောင်ကြီးတောင်ငယ်အသွယ်သွယ်ကို မြဲမြံစွာစီရင် ထားတော်မူ၏၊ လူသားတို့လမ်းရရှိစိမ့်ခြင်းငှာ တောင်ကြားတောင်ဝှမ်းများကို လမ်းအဖြစ်ဖန်ဆင်းတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ပထဝီမြေ၌ ယင်းပထဝီမြေသည် ၎င်းတို့နှင့်တကွ လှုပ်ရှား(ယိမ်းယိုင်သွား)ခြင်းမရှိနိုင်ရန် တောင်များကို (ကျောက်ဆူးများအဖြစ်)ချထား တော်မူခဲ့လေသည်။ ထို့ပြင် ငါအရှင်မြတ်သည်၎င်းတို့လိုရာသို့ ရောက်ရှိနိုင်ကြ အံ့သောငှာ ယင်းတောင်များ၌ တောင်ကြား လမ်းများကို လမ်းများအဖြစ်ပြုလုပ်ထားတော်မူခဲ့ လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

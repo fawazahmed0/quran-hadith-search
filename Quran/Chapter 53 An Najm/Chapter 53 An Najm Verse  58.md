@@ -710,6 +710,12 @@ Nikoĭ osven Allakh ne shte go razkrie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈။	အလ္လာဟ်အရှင်မြတ်မှတပါး မည်သူမျှထိုအချိန်နာရီတော်ကြီးကို ဖော်ပြနိုင်သည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနီးကပ်၍လာသောအရာကို အလ္လာဟ်အရှင်မြတ်မှတစ်ပါး ဖယ်ရှားအံ့သောသူဟူ၍ အလျင်းမရှိပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

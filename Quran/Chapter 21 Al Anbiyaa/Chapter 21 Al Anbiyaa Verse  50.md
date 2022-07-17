@@ -710,6 +710,12 @@ Tozi [Koran] e blagosloveno napomnyane, nizposlano ot Nas. Nima shte go otrechet
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅ဝ။	ဤကျမ်းတော်သည် ငါထုတ်ပြန်ချပေးသနားတော်မူသောမင်္ဂလာအဖြာဖြာနှင့် ပြည့်စုံသောသတိပေးကျမ်းတော် မြတ်ဖြစ်၏၊ သို့ပါလျက်သင်တို့သည် ဤကျမ်းတော်ကို မယုံကြည်၊ ဖီဆန်ကြမည်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ဤ(ကုရ်အာန်ကျမ်းတော်မြတ်)သည်ကား ကျက်သရေမင်္ဂလာနှင့်ပြည့်စုံသော ဆုံးမစာတစ်စောင် ဖြစ်ပေသည်။ ငါအရှင်မြတ်သည် ယင်း(ဆုံးမစာ)ကို ချပေးသနားတော်မူခဲ့လေသည်။ သို့ပါလျက် အသင်တို့သည် ယင်းဆုံးမစာကို ငြင်းပယ်သူများပင် ဖြစ်ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ili Onzi, Koĭto nacheva tvorenieto, posle go povtarya, i Koĭto vi dava prepi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၄။	ဖန်ဆင်းခြင်းကို ဖြစ်စေတော်မူသောအရှင်၊ ထို့နောက်တဖန်ဖြစ်စေတော်မူသောအရှင်၊ သင်တို့အား မိုးမြေမှ အစားအစာပေးသနားတော်မူသောအရှင်၊ အလ္လာဟ်အရှင်မြတ်သည် အမြတ်ဆုံးမဟုတ်ချေလော၊ အလ္လာဟ် အရှင်မြတ်မှတပါး အခြားအရှင်သခင်ရှိသလော၊ တင်ပြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤရုပ်တုများမြင့်မြတ်သလော၊) သို့တည်းမဟုတ် အကြင်အရှင်မြတ်ပင်(မြင့်မြတ်တော်မူပါသလော၊) ထိုအရှင်မြတ်သည် အဖန်ဆင်းခံတို့ကို (ပထမအကြိမ်)စတင်ဖန်ဆင်းတော်မူ၏။ ထို့နောက် ထိုအရှင်မြတ်သည်ပင် ထိုအဖန်ဆင်းခံတို့ကို တစ်ဖန်ထပ်မံ၍ ဖန်ဆင်းတော်မူပေသည်။ ထို့ပြင် အကြင်အရှင်မြတ်သည် အသင်တို့အား မိုးကောင်းကင်မှလည်းကောင်း၊ ပထဝီမြေမှလည်းကောင်း၊ စားနပ်ရိက္ခာ ချီးမြှင့်ပေးသနားတော်မူ၏။ အလ္လာဟ်အရှင်မြတ် နှင့်အတူ (အခြား)ဆည်း ကပ်ကိုးကွယ်ရာဟူ၍ ရှိပါသေးသလော။ (အို-နဗီတမန်တော်၊) အသင်သည် ပြောကြားပါလေ။ (အချင်းတို့၊)အကယ်၍ အသင်တို့သည် သစ္စာဝါဒီများဖြစ်ကြလျှင် (ဤသည်နှင့်စပ်လျဉ်း၍) မိမိတို့၏ သက်သေသာဓကကို ယူဆောင်လာခဲ့ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

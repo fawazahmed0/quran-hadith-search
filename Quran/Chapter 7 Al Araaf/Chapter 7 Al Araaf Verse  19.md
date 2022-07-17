@@ -710,6 +710,12 @@ A ti, Adam, zhiveĭ sŭs sŭprugata si v Raya i yazhte otkŭdeto pozhelaete, no
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	အို-အာဒမ်၊ သင်တို့၏ဇနီးမောင်နှံသည် ဥယျာဉ်တော်ကြီးအတွင်း၌ နေထိုင်ကြလော့။ မိမိတို့ အလိုရှိရာကို စားသုံးကြလော့။ သို့သော် သင်တို့သည် ပြစ်မှုကျူးလွန်သူများ မဖြစ်စေခြင်းငှာ ဤသစ်ပင်အနီးသို့ မချဉ်းကပ်ကြလင့်ဟု ဗျာဒိတ်ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အို-အာဒမ်၊ အသင်သည် မိမိကြင်ရာနှင့်တကွ ဂျန္နတ် အမတသုခဘုံ၌ နေထိုင်ပါလေ။ ထို့နောက်အသင်တို့နှစ်ဦးသည် မိမိတို့အလိုရှိရာ နေရာမှ စားသုံးကြလေကုန်။ သို့ရာတွင် ဤသစ်ပင်အနီးသို့ပင် မချဉ်းကပ်ကြကုန်လင့်။သို့မဟုတ်လျှင် အသင်တို့နှစ်ဦးသည်(လည်း) နစ်နာဆုံးရှုံးသူတို့တွင်အပါအဝင် ဖြစ်သွားကြလတ္တံ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

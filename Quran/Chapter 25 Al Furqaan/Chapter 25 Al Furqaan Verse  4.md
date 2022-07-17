@@ -710,6 +710,12 @@ I kazvat nevernitsite: “Tova e samo lŭzha, koyato toĭ si e izmislil. I sa m
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	မိစ္ဆာမိုက်တို့က ဤကျမ်းသည် ဖန်တီးသောမုသားကျမ်းမှတပါး အခြားတစ်စုံတစ်ခုမှမဟုတ်ချေ၊ အခြားသူ တို့သည် ထိုကိစ္စ၌ ကူညီကြ၏၊ ထို့ကြောင့်သူတို့သည် အတင်းစကား၊ မုသားစကားကို ဖန်တီးကြ၏ဟု ပြောဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ကာဖိရ် သွေဖည်ငြင်းပယ်ကြကုန်သော သူတို့က ဤ "ကုရ်အာန်ကျမ်းတော်မြတ်" သည် ဤသူ (တမန်တော်မြတ်) လီဆယ်ဖန်တီးထားသော မုသားသက်သက်ပင်ဖြစ်သည်။ ဤကိစ္စ၌ ၎င်းအား အခြားအမျိုးသားများကလည်း ကူညီရိုင်းပင်းခဲ့ကြသည်ဟု ပြောဆိုကြလေသည်။ (ယင်းသို့ ပြောဆို၍) ထိုကာဖိရ် သွေဖည်ငြင်းပယ်သောသူတို့သည် အကြီးအကျယ် မတရားမှုကိုလည်းကောင်း၊ အကြီးအကျယ် မုသား စကားကိုလည်းကောင်း၊ ကျူးလွန်ခဲ့ကြလေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

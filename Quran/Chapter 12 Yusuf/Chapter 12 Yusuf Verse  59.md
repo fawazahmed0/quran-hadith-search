@@ -710,6 +710,12 @@ I kogato im dade tekhniya tovar, reche: “Dovedete mi vashiya brat ot bashta vi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၉။	တမန်တော်သည် နောင်တော်တို့အား ရိက္ခာပေးပြီးသောအခါ သင်တို့ဖခင်ထံမှ သင်တို့ညီငယ်ကို အကျွနု်ပ်ထံသို့ ခေါ်ယူခဲ့ကြလော့။ အကျွနု်ပ်သည် သူတို့အား အချိန်ပြည့်အချိန်မှန်ပေးသူ၊ အကောင်းဆုံးသောဧည့်ခံသူဖြစ် ကြောင်းကို သင်တို့မြင်ကြသည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် ထိုယူဆွဖ်သည် ၎င်းတို့အဖို့ (စားနပ်ရိက္ခာနှင့်စပ်လျဉ်း၍) စီမံအပ်သည့်ကိစ္စများကို ၎င်း တို့အားအဆင်သင့်ဖြစ်အောင် စီမံ၍ပေးခဲ့ပြီးသော အခါ (၎င်းတို့အားဤသို့)ပြောကြားခဲ့လေသည်။ အသင်တို့သည် မိမိတို့ခမည်းတော်ဘက်မှတော်စပ်သော အသင်တို့၏ ညီတော်အား ကျွန်ုပ်ထံခေါ်ဆောင်ခဲ့ကြလေကုန်။ အသင်တို့သည် မမြင်ကြလေသလော။ ကျွန်ုပ်သည် (စားနပ်ရိက္ခာဖြန့်ဖြူးရာတွင်) ခြင်တွယ်သောပမာဏကို အပြည့်ခြင်၍ပေးသည့်ပြင် ကျွန်ုပ်သည်အကောင်းဆုံး ဧည့်ခံသူတစ်ဦးလည်း ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ i zhena mu, noseshtata dŭrva
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၊၅။ သူ၏ မိန်းမ၊ ထင်းစီးထမ်းသောသူ၏ မိန်းမလည်ပင်းတွင် စွန်ပလွံလျှော်လည်ဆွဲကြိုးတပ်ထားလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မီးဆိုက်ရန် ထင်းစည်းကို ထမ်းရွက်လျက်ရှိသော ၎င်း၏ဇနီးဖြစ်သူသည်လည်း (တစ်နည်း) ၎င်း၏ဇနီးဖြစ်သူသည်လည်း မီးဆိုက်ရန် ထင်းစည်းကို ထမ်းရွက်လျက် (တစ်နည်း) ဆူးခက်ကို ထမ်းရွက်လျက်ရှိသော ၎င်း၏ဇနီးဖြစ်သူသည်လည်း (တစ်နည်း) ၎င်း၏ဇနီးဖြစ်သူသည်လည်း ဆူးခက်ကိုထမ်းရွက်လျက် (တစ်နည်း) ၎င်း၏ကုန်းချောသူ ဇနီးသည်လည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

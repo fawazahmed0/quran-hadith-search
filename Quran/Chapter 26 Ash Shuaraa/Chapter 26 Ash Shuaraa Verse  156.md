@@ -710,6 +710,12 @@ I ne ya dokosvaĭte sŭs zlo, da ne vi spoleti mŭchenie vŭv velikiya Den!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၆။	သို့သော်သင်တို့အပေါ်သို့ အလွန်ကြောက်မက်ဖွယ်ကောင်းသောနေ့တော်ကြီး၏ လက်စားချေဒဏ်သည် မကျ ရောက်စိမ့်သောငှာ ထိုကုလားအုပ်မအား ဘေးဥပါဒ်မပြုကြလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်တို့သည် ထိုကုလားအုတ်မကို မကောင်းသောစေတနာနှင့် မထိပါးကြကုန်လင့်။ သို့ထိပါးခဲ့ကြလျှင် ကြီးကျယ်လှစွာသော(ကိယာမတ်ရှင်ပြန်ထမည့်) နေ့၏ ပြစ်ဒဏ်သည် အသင်တို့အား ဖမ်းဆီး ကွပ်မျက်မည်ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

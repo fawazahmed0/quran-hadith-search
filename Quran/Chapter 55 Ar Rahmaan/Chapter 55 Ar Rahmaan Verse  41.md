@@ -710,6 +710,12 @@ Prestŭpnitsite shte bŭdat razpoznati po tekhniya beleg. I shte bŭdat khvanati
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	ထိုနေ့တော်ကြီး၌ အပြစ်ရှိသူတို့ကို သူတို့တွင် ပါလာသောအမှတ်အသားအားဖြင့် ခွဲခြားသိကြလိမ့်မည်၊ သူတို့၏ ဦးထိပ်ဆံနှင့် ခြေထောက်များကို ဆွဲငင်လျက် အဝီစီငရဲအတွင်းသို့ ပစ်သွင်းလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အပြစ်ရှိသူများမှာ မိမိတို့၏ ရုပ်ရည်လက္ခဏာဖြင့် သိရှိခြင်း ခံကြရပေမည်။ ထိုအခါ ၎င်းတို့သည် (နဖူးများ)ဦးထိပ်များနှင့် ခြေများကို ဆွဲကိုင် ဖမ်းဆီးခြင်းကို ခံကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

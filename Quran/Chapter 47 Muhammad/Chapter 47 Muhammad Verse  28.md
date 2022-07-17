@@ -710,6 +710,12 @@ Tova e, zashtoto sledvat onova, koeto predizvikva gneva na Allakh i vŭznenavizh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	ဤသို့ဖြစ်ရခြင်းအကြောင်းကား သူတို့သည် အလ္လာဟ်အရှင်မြတ်အမျက်ရှတော်မူသောလမ်းမှားကို လိုက်ပြီးလျှင် အရှင်မြတ်နှစ်သက်တော်မူရာကို မုန်းတီးကြသောကြောင့်ဖြစ်၏၊ ထို့ကြောင့်အရှင်မြတ်သည် သူတို့ပြုမူသမျှ အားလုံးကို အချည်းနှီးဖြစ်စေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသို့ဖြစ်ရခြင်းမှာ ထိုသူတို့သည် အလ္လာဟ်အရှင်မြတ် မနှစ်မြို့သောနည်းလမ်းကို လိုက်နာခဲ့ကြသောကြောင့်လည်းကောင်း၊ ထိုအရှင်မြတ်၏ နှစ်မြို့မှုကို စက်ဆုပ်ခဲ့သောကြောင့်လည်းကောင်း၊ ဖြစ်ပေသည်။ သို့ဖြစ်ပေရာ ထိုအရှင်မြတ်သည် ၎င်းတို့၏ အပြုအမူဆောင်ရွက်ချက်တို့ကို အချည်းနှီးပင် ဖြစ်စေတော်မူခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

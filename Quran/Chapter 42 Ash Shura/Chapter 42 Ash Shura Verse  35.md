@@ -710,6 +710,12 @@ Za da znayat onezi, koito sporyat za Nashite znameniya, che ne shte ima za tyakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	ငါ၏ နှုတ်ကပတ်တော်များနှင့်စပ်လျဉ်း၍ ပျက်ရယ်ပြုသူတို့အား သူတို့သည် အပြစ်ဒဏ်တော်များမှ လွတ်မြောက် ရာလမ်းမရှိကြောင်းကို သိစေလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်၏အာယတ်တော်များ၌ အငြင်းပွားလေ့ရှိကြသောသူတို့သည် မိမိတို့၌ ထွက်ပြေး လွတ်မြောက်ရာဟူ၍ အလျှင်းမရှိတော့ပြီဟု သိရှိကြအံ့သောငှာ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

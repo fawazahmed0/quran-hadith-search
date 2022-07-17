@@ -710,6 +710,12 @@ I gi otrekokha s gnet i nadmennost, vŭpreki che dushite im se ubedikha v tyakh.
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	ထို့အပြင်သူတို့သည် မိမိတို့နှလုံးအတွင်းတွင် လက္ခဏာတော်များမှန်ကန်ကြောင်းကို ဝန်ခံသော်လည်း မနာလို ဝန်တိုသော၊ မာနကြီးသောစိတ်ကြောင့် နိမိတ်တော်များကို ငြင်းဆန်နေကြ၏၊ ထို့နောက်ဒုစရိုက်မကောင်းမှု ကျူးလွန်သူများသည် အဘယ်ဘဝသို့ ဆိုက်ရောက်ကြသည်ကို ကြည့်လော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့၏ စိတ်နှလုံးများသည် ထိုတန်ခိုးတော်များကို ယုံကြည်သော်လည်း ထိုသူတို့မှာမူကား မတရားသောအားဖြင့်လည်းကောင်း၊ မောက်မာသောအားဖြင့်လည်းကောင်း၊ ယင်းတန်ခိုးတော်များကို ငြင်းပယ်ခဲ့ကြကုန်၏။သို့ဖြစ်ပေရာ ပျက်စီးရာ ပျက်စီးကြောင်းကို ပြုလုပ်ကြကုန်သောသူတို့၏ နောက်ဆုံးအကျိုးဆက်သည် မည်သို့ဖြစ်ခဲ့သည်ကို အသင်ရှုပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

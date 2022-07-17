@@ -710,6 +710,12 @@ I nizposlakhme Knigata na teb, edinstveno za da im razyasnish onova, po koeto sa
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၄။	တမန်တော်၊ သင်သည် သူတို့အား သူတို့၏ အမှားကို ရှင်းလင်းပြဖို့ရာသော်လည်းကောင်း၊ ယုံကြည်သူတို့ အဖို့အရာ တရားလမ်းညွှန်နှင့် ကောင်းကြီးမင်္ဂလာတော်ကြီးဖြစ်ဖို့ရာသော်လည်းကောင်း၊ ငါသည် သင့်အား ကုရ်အာန်ကျမ်းတော်မြတ်ကို ထုတ်ပြန်ချပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ငါအရှင်မြတ်သည် အသင်၏အပေါ်၌ ကျမ်းတော်မြတ်ကို ချပေးသနားတော်မူခဲ့သည်မှာအသင်သည် ၎င်းတို့အား ၎င်းတို့ကွဲလွဲချက် ရှိခဲ့ကြသောအကြောင်းကို ရှင်းလင်းအံ့သောငှာသာ လည်းကောင်း၊ မုအ်မင်န်သက်ဝင်ယုံကြည်သူတို့အဖို့ တရားလမ်းညွှန်အဖြစ်လည်းကောင်း၊ ကရုဏာတော် အဖြစ်လည်းကောင်း ချပေးတော်မူခဲ့ခြင်းသာ ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

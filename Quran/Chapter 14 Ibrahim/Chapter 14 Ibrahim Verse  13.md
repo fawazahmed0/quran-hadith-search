@@ -710,6 +710,12 @@ Nevernitsite kazvakha na svoite pratenitsi: “Ili shte vi progonim ot zemyata s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	မယုံကြည်သူတို့သည် မိမိတို့တမန်တော်တို့အား သင်တို့သည် အကျွနု်ပ်တို့၏ ဘာသာတရားဘက်သို့ ပြန်မလာ လျှင် အကျွနု်ပ်တို့သည် သင်တို့အား အကျွနု်ပ်တို့တိုင်းပြည်မှ အမှန်နှင်ထုတ်ကြမည်ဟု ပြောကြ၏။ ထိုအခါ တမန်တော်တို့အား သူတို့၏ ကျေးဇူးတော်သခင်က သူတို့၏ စိတ်အတွင်း၌ ဤသို့ဗျာဒိတ်တော်ပေးတော်မူ၏။ ငါအရှင်မြတ်သည် မတရားပြုသူတို့ကို မုချဧကန်ဖျက်ဆီးတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ကာဖိရ် မယုံမကြည် သွေဖည်ငြင်းပယ်ကြကုန်သောသူတို့သည်မိမိတို့ ရစူလ်တမန်တော်များအားဧကန်မလွဲ ကျွန်ုပ်တို့သည် အသင်တို့အား ကျွန်ုပ်တို့၏ မြို့ရွာ၊နယ်မြေအတွင်းမှ မုချနှင်ထုတ်ကြပေမည်။ သို့တည်းမဟုတ်အသင်တို့သည် ကျွန်ုပ်ကို၏သာသနာထဲသို့ မုချပြန်ဝင်ကြရလိမ့်မည်ဟုပြောဆို (ခြိမ်းခြောက်)ခဲ့လေသည်။ ထိုရောအခါဝယ် ၎င်းရစူလ်တမန်တော်များထံ ၎င်းတို့၏အရှင်မြတ်ကမလွဲဧကန် ငါအရှင်မြတ်သည်(ဤသို့) မတရားပြုမူသောသူတို့အား မုချပျက်စီးစေတော်မူအံ့ဟု အမိန့်တော်ချပေးတော်မူခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

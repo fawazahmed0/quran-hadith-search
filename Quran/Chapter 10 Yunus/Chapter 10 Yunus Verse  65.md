@@ -710,6 +710,12 @@ I da ne te natŭzhavat dumite im! Moshtta prinadlezhi vsetsyalo na Allakh. Toĭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၅။	အို-မိုဟမ္မဒ်၊ သူတို့၏ ပြောဆိုချက်သည် သင့်အား မပူဆွေးစေလင့်၊ မှတ်သားလော့၊ တန်ခိုးအာဏာသည် အလ္လာဟ်အရှင်မြတ်၏ ဘဏ္ဍာ်တော်သာလျှင်ဖြစ်၏။ အရှင်မြတ်သည် ကြားတော်မူသောအရှင်၊ သိတော်မူသော အရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင့်အား ၎င်း တို့၏ပြောဆိုမှုသည် ဝမ်းနည်းပူဆွေးခြင်းမဖြစ်စေရ။ ဧကန် စင်စစ်တန်ခိုးသတ္တိ(ဩဇာအာဏာ)အလုံးစုံတို့သည် အလ္လာဟ်အရှင်မြတ်၌သာရှိကုန်၏။ ထိုအရှင်မြတ်သည် (ပြောဆိုမှုအလုံးစုံတို့ကို) အကြွင်းမဲ့ ကြားတော်မူသောအရှင် (အရာခပ်သိမ်းတို့ကို) အကြွင်းမဲ့ သိမြင်တော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

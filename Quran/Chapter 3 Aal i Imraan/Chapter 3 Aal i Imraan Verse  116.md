@@ -710,6 +710,12 @@ A otreklite vyarata s nishto ne shte gi izbavyat ot Allakh nito imotite, nito de
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၆။	မှတ်သားကြလော့။ မိစ္ဆာဒိဌိတို့၏ စည်းစိမ်ဥစ္စာများ၊ သားသမီးအချွေအရံများသည် သူတို့အား အလ္လာဟ်အသျှင်မြတ်နှင့်ဆန့်ကျင်၍ အဘယ်အကျိုးမှ မပေးနိုင်ပေ။ ဤသူတို့သည် အဝီစီငရဲကို တရားသဖြင့် ပိုင်ဆိုင်သူများဖြစ်ကြ၏။ သူတို့သည် ငရဲတွင်နေထိုင်ရမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် မယုံမကြည် သွေဖည်ငြင်းပယ်သောသူတို့၏ ပစ္စည်းဥစ္စာ ရတနာများသည်လည်းကောင်း၊ယင်းသူတို့၏ သားသမီး ရတနာများသည်လည်းကောင်း(ရှင်ပြန်ထမည့်နေ့တွင်) အလ္လာဟ်အရှင်မြတ် (၏ ပြစ်ဒဏ်တော်)မှ ကာကွယ်ရန် အနည်းငယ် စိုးစဉ်းမျှပင် အလျင်းအသုံးဝင်မည် မဟုတ်ပေ။ စင်စစ် ဤသူတို့သည် ငရဲသားများပင် ဖြစ်ကြ၏။ ယင်းသူတို့သည် ထိုငရဲ၌ပင် ထာဝစဉ်နေထိုင်ခံစားကြရမည့် သူများပင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

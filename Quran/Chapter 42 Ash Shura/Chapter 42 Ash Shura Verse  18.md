@@ -710,6 +710,12 @@ Iskat da go uskoryat onezi, koito ne vyarvat v nego. A vyarvashtite se strakhuva
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	ထိုအချက်ကို မယုံကြည်သူတို့သာလျှင် ၎င်းအချိန်ကို အမြန်ကျရောက်စေလိုကြသည်၊ ယုံကြည်သူတို့မူကား ထိုအချိန်ကာလကို အလွန်ကြောက်လန့်၍ ထိုအချိန်အမှန်ကျရောက်မည်ကို သိကြ၏၊ မှတ်သားကြလော့၊ ထိုအချိန်နှင့်ပတ်သက်၍ ငြင်းခုံကြသူတို့သည် မုချဧကန်အမှားကြီးမှားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်း ကိယာမတ်ရှင်ပြန်ထမည့်အချိန်နှင့်စပ်လျဉ်း၍ ၎င်းကို မယုံကြည်သောသူတို့သည်သာလျှင် အလျင်စလိုပြုလျက်ရှိကြကုန်၏။ သို့ရာတွင်မုအ်မင်န်သက်ဝင်ယုံကြည်သူတို့မှာမူကား ယင်းကိယာမတ်ရှင်ပြန်ထမည့် အချိန်ကာလကို စိုးရိမ်၍နေကြကုန်၏။ ၎င်းပြင် ထိုသူတို့သည် ၎င်းကို မှန်ကန်သည်ဟု ယုံကြည်ကြကုန်၏။ သတိပြုကြလေကုန်။ ကိယာမတ် ရှင်ပြန်ထမည့် အချိန်ကာလနှင့်စပ်လျဉ်၍ အငြင်းအခုံပြုကြသောသူတို့မှာမူကား လွန်စွာဝေးကွာလှသောလမ်းမှား၌ ရှိနေကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

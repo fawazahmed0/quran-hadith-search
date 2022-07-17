@@ -710,6 +710,12 @@ Vashiyat Bog e edinstveniyat. Nyama drug Bog osven Nego, Vsemilostiviya, Milosŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၃။	သင်တို့၏ အရှင်သခင်သည် တစ်ဆူတည်းသောအလ္လာဟ်ဖြစ်တော်မူ၏။ မဟာကရုဏာတော်အရှင်၊ အနန္တဂုဏ်ကောင်းချီးမင်္ဂလာတော်သခင် အရှင်မြတ်မှတပါး အခြားအရှင်သခင်မရှိပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်အားဖြင့် တစ်ဆူတည်းဖြစ်တော်မူသော ခဝပ်ကိုးကွယ်ရာ အရှင်သည်သာလျှင် အသင်တို့၏ ကိုးကွယ်ရာ အရှင်ဖြစ်တော်မူ၏။ ထိုအရှင်မြတ်မှတစ်ပါး အခြားကိုးကွယ်ရာအရှင်ဟူ၍ အလျင်းမရှိချေ။ ထိုအသျှင်မြတ်သည် အနန္တကရုဏာတော်ရှင်၊ အလွန် သနားကြင်နာတော်မူသောအရှင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

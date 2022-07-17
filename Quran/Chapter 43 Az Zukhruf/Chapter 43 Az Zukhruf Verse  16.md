@@ -710,6 +710,12 @@ Nima ot onova, koeto e sŭtvoril, Toĭ si vze dŭshteri, a na vas dari sinovete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	အရှင်မြတ်သည် မိမိဖန်ဆင်းတော်မူသောအရာများအနက် မိမိအဖို့ သမီးများကိုသာ လိုလားတော်မူ၍ သား ယောက်ျားများအားဖြင့် သင်တို့ကို ချီးမြှောက်တော်မူသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် မိမိအဖန်ဆင်းခံတို့အနက် မိမိအဖို့ သမီးမိန်းကလေးများကို ရွေးချယ်တော်မူ၍ အသင်တို့ကိုမူကား သားယောက်ျားကလေးတို့ဖြင့် ချီးမြှောက်တော်မူခဲ့ပါသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

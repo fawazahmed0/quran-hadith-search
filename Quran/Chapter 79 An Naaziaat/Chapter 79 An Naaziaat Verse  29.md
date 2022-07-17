@@ -710,6 +710,12 @@ i potŭmni noshtta mu, i izvede utroto mu
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။ ထိုကောင်းကင်၌ ညဉ့်ကို မှောင်မိုက်စေတော်မူ၏၊ နေ့ကို ထွန်းလင်းတောက်ပစေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုအရှင်မြတ်သည် ယင်း မိုးကောင်းကင်၏ ညဉ့်ကို မှောင်မိုက်စေတော်မူခဲ့၏။ ထို့ပြင် ယင်းမိုးကောင်းကင်၏ နေ့ကိုမူကား (လင်းဝင်း) ထင်ရှားစေတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ O, vyarvashti, ne vlizaĭte v domove, osven v sobstvenite si, dokato ne poiskat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	အို--ယုံကြည်သူအပေါင်းတို့၊ သင်တို့သည် မိမိအိမ်မှတပါး အခြားအိမ်တွင်းသို့ အိမ်ရှင်ထံမှ အခွင့်မပန်ပဲ အိမ်ရှင်အား အေးချမ်းသာယာပါစေဟု မေတ္တာမပို့ပဲ မဝင်ကြလင့်၊ ယင်းသို့ပြုမူခြင်းသည် သင်တို့အတွက် မွန်မြတ်သောကျင့်စဉ်ဖြစ်၏၊ ယင်းကျင့်စဉ်ကို ကောင်းစွာသတိပြုကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-’မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူအပေါင်းတို၊ အသင်တို့သည် မိမိတို့အိမ်များမှတစ်ပါး အခြားအိမ်များအတွင်းသို့(ထိုအိမ်သားများထံမှ) ခွင့်ရယူခြင်း၊ ထိုအိမ်သားများအပေါ် ၌’စလာမ်’ မေတ္တာပို့သခြင်း၊ မပြုသမျှကာလပတ်လုံး ဝင်ရောက်ခြင်းကို မပြုကြကုန်လင့်။ ဤ(ခွင့်ရယူခြင်းနှင့်’စလာမ်’ မေတ္တာ ပို့သခြင်းတို့သည်)ကား အသင်တို့အဖို့ အကောင်းဆုံးပင်ဖြစ်ပေသည်။ သို့မှသာလျှင် အသင်တို့သည် သတိဝီရိယ ပြုကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

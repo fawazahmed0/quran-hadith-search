@@ -710,6 +710,12 @@ Tova e, zashtoto kazvat na onezi, koito vŭznenavizhdat nizposlanoto ot Allakh: 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	ဤသို့ဖြစ်ရခြင်းအကြောင်းမူကား သူတို့သည် အလ္လာဟ်အရှင်မြတ်ချပေးတော်မူသောတရားတော်ကို မနှစ်သက် မုန်းတီးသူတို့အား ကိစ္စအချို့အဝက်တွင် ငါတို့သည် သင်တို့စကားကို နားထောင်မည်ဟု ဆိုကြသောကြောင့် ဖြစ်၏၊ သို့သော်အလ္လာဟ်အရှင်မြတ်သည် သူတို့၏ လျှို့ဝှက်ပြောဆိုခြင်းကို အကြွင်းမဲ့သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသို့ဖြစ်ရခြင်းမှာ ၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ် ချပေးသနားတော်မူခဲ့သော အမိန့်တော်များကို စက်ဆုပ်ကြသောသူတို့အား ဧကန်အမှန် ကျွန်ုပ်တို့သည် အချို့သောအရေးကိစ္စများ၌ အသင်တို့၏စကားကို လိုက်နာကြမည်ဟု ပြောဆိုခဲ့ကြသောကြောင့်ပင်။ စစ်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့၏ လျှို့ဝှက်စွာပြောဆိုမှုကို ကောင်းစွာသိရှိတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

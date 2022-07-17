@@ -710,6 +710,12 @@ zatova yazhte ot pridobitoto vŭv voĭna - pozvoleno, priyatno, i boĭte se ot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၉။	ယခုသင်တို့သည် သင်တို့စစ်တိုက်၍ရသောအရာများကို တရားဝင်၍ မွန်မြတ်သောပစ္စည်းအဖြစ်ဖြင့် သုံးစွဲကြလော့။ အလ္လာဟ်အသျှင်မြတ်၏အမှုတော်ကို ကြေကုန်ကြလော့။ မှတ်သားကြလော့။ အလ္လာဟ်အသျှင်မြတ်သည် အပြစ်လွှတ်တော်မူသောအသျှင်၊ ကောင်းချီးမင်္ဂလာပေးသနားတော် မူသောအသျှင် ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယခုမူ အသင်တို့သည်(၎င်းတို့ထံမှလက်ရပစ္စည်းအဖြစ်) မိမိတို့ရယူခဲ့ကြသည်များကို တရားဝင်သော သန့်စင်သော ပစ္စည်းများအဖြစ် စားသုံးကြလေကုန်။ ၎င်းပြင် အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အားသာ ကြောက်ရွံ့ကြလေကုန်။ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အလွန်တရာ ခွင့်လွှတ်တော်မူသောအရှင်၊ အလွန်တရာသနား ကြင်နာညှာတာတော်မူသောအရှင် ဖြစ်တော်မူပေသတည်း။(ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

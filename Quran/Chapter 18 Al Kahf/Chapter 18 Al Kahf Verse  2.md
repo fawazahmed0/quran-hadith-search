@@ -710,6 +710,12 @@ Dostoverna - da preduprezhdava za surovo mŭchenie ot Nego i da blagovestva vyar
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	အရှင်မြတ်အထံတော်မှ ပြင်းထန်သောအပြစ်ဒဏ်တော်အကြောင်းကို သတိပေးဖို့ရာသော်လည်းကောင်း၊ ကုသိုလ် ကောင်းမှုပွားများသောယုံကြည်သူတို့အား သူတို့သည် မွန်မြတ်သောဆုတော်ရကြမည့်အကြောင်း သတင်းကောင်း ပေးဖို့ရာသော်လည်းကောင်း၊ ကျမ်းတော်မြတ်ကို ဖြောင့်မတ်မှန်ကန်စေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်မှာ ထိုကျမ်းဂန်ကို ဖြောင့်မတ်စွာပြုစုထားတော်မူခဲ့ပေသည်။ ထိုအရှင်မြတ်အထံတော်မှ (ကျရောက်အံ့သော)ပြင်းထန်လှသောပြစ်ဒဏ်မှ သတိပေးအံ့သောငှာလည်းကောင်း၊ ကောင်းမြတ်သောအကျင့်သီလများကို ကျင့်မူဆောက်တည်ကြကုန်သော မုအ်မင်န်သက်ဝင်ယုံကြည်သူတို့အား ယင်းတို့အဖို့ အလွန်မွန်မြတ်လှစွာသော အကျိုးဆုလာဘ်ရှိသည်ဟုသတင်းကောင်း ပေးအံ့သောငှာလည်းကောင်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

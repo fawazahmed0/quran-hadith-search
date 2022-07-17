@@ -710,6 +710,12 @@ Naistina te shte nosyat svoeto breme i drugo breme zaedno sŭs svoeto, i shte b�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	သို့သော်ထိုသူတို့သည် မိမိတို့၏ဝန်ထုပ်ဝန်ပိုးများကို ထမ်းဆောင်ကြရမည်၊ မိမိတို့ဝန်ထုပ်အပြင် အခြားအထုပ် အပိုးများကိုလည်း မုချဧကန်ထမ်းဆောင်ကြရမည်၊ ထို့အပြင်ရှင်ပြန်ထမြောက်ရသောနေ့တော်ကြီး၌ သူတို့သည် ၎င်းတို့ဖန်တီးသောအမှုများနှင့်စပ်လျဉ်း၍ စစ်ကြောစီရင်တော်မူခြင်းကို အမှန်အကန်ခံကြရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် မုချစင်စစ် ၎င်းတို့သည် မိမိတို့၏ဝန်များကို လည်းကောင်း၊ မိမိတို့၏ဝန်များနှင့်အတူ အခြားသောဝန်များကို လည်းကောင်း၊ ထမ်းဆောင်ကြပေမည်။ ထိုမှတစ်ပါး မချွတ်ဧကန် ၎င်းတို့သည် ‘ကိယာမတ်’ ရှင်ပြန်ထမည့်နေ့တွင် မိမိတို့ လီဆယ်ဖန်တီးခဲ့ကြကုန်သော အရာများနှင့်စပ်လျဉ်း၍ စစ်ဆေးမေးမြန်းခြင်းကိုလည်း ခံကြရကုန်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

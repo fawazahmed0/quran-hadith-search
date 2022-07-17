@@ -710,6 +710,12 @@ no mezhdu tyakh ima pregrada, koyato ne prestŭpvat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	ထိုပင်လယ်နှစ်ပြင်ရေယဉ်တို့၏ အလယ်ကြား၌ အဆီးအတားတစ်ခုကို စီရင်ထားတော်မူ၏၊ ထိုပင်လယ်နှစ်ပြင် ရေယဉ်သည် တစ်ခုနှင့်တစ်ခုနယ်ကျူးလွန်ခြင်းမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းပယ်လယ်နှစ်ခု၏ အကြား၌ အဆီးအတားတစ်ခု ရှိနေပေရာ ၎င်းတို့နှစ်ခုလုံး ပိုင်နက်ကျူးလွန် နိုင်ကြသည်မရှိပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

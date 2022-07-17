@@ -710,6 +710,12 @@ Ta. Sin. Tezi sa znameniyata na Korana - yasnata Kniga
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။	ထွာ၊ ဆင်၊ ဗျာဒိတ်တော်များသည် ကုရ်အာန်ကျမ်းတော်မြတ်၏ ဂါထာတော်များသော်လည်းကောင်း၊ ကျမ်းတော် မြတ်သည် ပေါ်လွင်ထင်ရှားစေသောကျမ်းဂန်ကြီးသော်လည်းကောင်း၊
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သွာ၊စီန်" ဤသည်တို့ကား ထင်ရှားသောကုရ်အာန်ကျမ်းဂန်၏ အာယတ်တော်များပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

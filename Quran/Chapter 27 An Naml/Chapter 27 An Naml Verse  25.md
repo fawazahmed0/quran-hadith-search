@@ -710,6 +710,12 @@ da se poklanyat na Allakh, Koĭto izvazhda skritoto na nebesata i na zemyata, i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	ထို့ကြောင့်သူတို့သည် အလ္လာဟ်အရှုင်မြတ်အား မကိုးကွယ်ကြပါ၊ အရှင်မြတ်သည် မိုးကောင်းကင်နှင့် ကမ္ဘာ မြေပေါ်ဖုံးကွယ်ထားသောအရာများကို ဆွဲထုတ်ဖော်ပြတော်မူပါ၏၊ သင်တို့ဝှက်ထားသောအရာ၊ ဖော်ပြသော အရာအားလုံးကို သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင် အလ္လာဟ်အရှင်မြတ်အား ပျပ်ဝပ်ဦးချ (ဆည်းကပ်ကိုးကွယ်)ကြရန် ထိုအရှင်မြတ်သည် မိုးကောင်းကင်များ၌လည်းကောင်း၊ပထဝီမြေ၌ လည်းကောင်း၊ ဖုံးအုပ်လျက်ရှိသည်ကို အပြင်သို့ ထွက်စေတော်မူ၏။ ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် အသင်တို့လျှို့ဝှက်ကြကုန်သော ကိစ္စများကိုလည်းကောင်း၊ အသင်တို့ ထင်ရှားစေကြကုန်သော ကိစ္စများကို(အလုံးစုံတို့ကို) သိရှိတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ No [obshtnostite] se razdelikha na grupi i vsyaka ot tyakh likuva s tova, koeto 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။	သို့သော်လူသားတို့သည် သူတို့ဘာသာအယူဝါဒကြီးကို အကွဲကွဲအပြားပြားပြုလုပ်ကြပြီး ဂိုဏ်းကွဲကြ၏၊ ဂိုဏ်း တစ်ဂိုဏ်းစီသည် ၎င်း၏အယူဝါဒ၌ ပျော်ရွှင်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ထိုနောက်လိုက်များသည် မိမိတို့ အချင်းချင်းတွင် မိမိတို့၏သာသနာကို အပိုင်းပိုင်း ပိုင်းဖြတ်(ကာအုပ်စုအသီးသီး ဖြစ်သွား)ခဲ့ကြကုန်၏။ အုပ်စုတိုင်းသည် မိမိတို့၌ရှိသော (သာသနာ)နှင့် ပျော်ပိုက်လျက်ရှိကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

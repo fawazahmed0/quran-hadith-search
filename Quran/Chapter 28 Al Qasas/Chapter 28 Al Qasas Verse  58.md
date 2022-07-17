@@ -710,6 +710,12 @@ I kolko selishta pogubikhme ot onezi, koito se vŭzgordyavakha zaradi svoeto bla
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈။	မိမိတို့၏ အသက်မွေးဝမ်းကြောင်းအတွက် ကျေးဇူးမသိတတ်သော၊ များလှစွာသောလူမျိုးစုတို့ကို ငါသည် ဖျက်ဆီးတော်မူလေပြီ၊ သူတို့၏နေရာအိုးအိမ်များသည် ထိုမှာဤမှာ ရှိကြ၏၊ သူတို့ပျောက်ကွယ်သွားပြီးသည့် နောက် ထိုနေရပ်၌ လူအနည်းငယ်သာနေထိုင်ကြ၏၊ ငါသာလျှင် သူတို့၏အမွေစားအမွေခံဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ငါအရှင်မြတ်သည် မိမိတို့၏ စည်းစိမ်ဥစ္စာကြွယ်ဝမှုကြောင့် မော်ကြွားရွှင်မြူးခဲ့ကြသော များစွာသော မြို့ရွာတို့ကို ဖျက်ဆီးတော်မူခဲ့၏။ သို့ဖြစ်ပေရာ ဤသည်တို့ကား ၎င်းတို့၏ နေအိမ်များပင်။ ထိုနေအိမ်များမှာ ၎င်းတို့မရှိကြသည့်နောက်တွင် အနည်းငယ်မျှသော အချိန်ကာလမှအပ စည်ပင်သာယာခဲ့သည် မရှိချေ။ စင်စစ် ငါအရှင်မြတ်သည်ပင်လျှင် (၎င်းတို့၏အမွေပစ္စည်းတို့ကို) ပိုင်ဆိုင်တော်မူသောအရှင် ဖြစ်တော်မူခဲ့ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

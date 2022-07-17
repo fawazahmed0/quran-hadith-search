@@ -710,6 +710,12 @@ Nie ti darikhme [o, Mukhammad] yavna pobeda
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။	အို-တမန်တော်၊ ငါသည် သင့်အား အလွန်ထင်ရှားသောအောင်နိုင်ခြင်းကို ပေးသနားတော်မူပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်၊) ဧကန်မလွဲ ငါအရှင်မြတ်သည် အသင့်အား ထင်ရှားစွာသော အောင်မြင်မှုတစ်ခုကို ချီးမြှင့်ပေးသနား တော်မူပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

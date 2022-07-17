@@ -710,6 +710,12 @@ koito nito ugoyavat, nito izbavyat ot glad
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။ ထိုဆူးပင်သီးသည် စားသူတို့အား အာဟာရမဖြစ်စေ၊ မွတ်သိပ်ဆာလောင်ခြင်းကိုလည်း မဖြစ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုဆူးပင်မှာ (၎င်းတို့အား)ဝဖြိုးစေမည်လည်းမဟုတ်ပေ။ ဆာလောင် မွတ်သိပ်ခြင်းမှ အဆာပြေ ရောင့်ရဲစေမည်လည်း မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

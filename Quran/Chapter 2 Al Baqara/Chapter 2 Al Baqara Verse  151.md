@@ -710,6 +710,12 @@ Izpratikhme vi pratenik izmezhdu vas, da vi chete Nashite znameniya i da vi prec
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၁။	ငါသည် သင်တို့ထံသို့ သင်တို့အထဲမှ တမန်တော်တပါးကို စေလွှတ်တော်မူ၏။ သူသည် သင်တို့အား ငါ၏ နှုတ်ကပတ်တော်များကို တင်ပြရွတ်ဖို့ရာ သင်တို့ကို သန့်စင်ဖို့ရာ သင်တို့အား ကျမ်းတော်နှင့် နက်နဲသောပညာကို သွန်သင်ပြသဖို့ရာ သင်တို့မသိသည်ကို သင်ကြားပေးဖို့ရာသာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ငါအရှင်မြတ်သည် ကအ်ဗဟ် ကျောင်း တော်ကို ကစ်ဗ်လဟ်အဖြစ် သတ်မှတ်၍ ပေးတော် မူခြင်းမှာ) ငါ အရှင်မြတ်သည် အသင်တို့ထံဝယ် အသင်တို့အနက်မှ ရစူလ် တမန်တော်တပါး စေလွှတ် တော်မူသကဲ့သို့ပင်ဖြစ်သည်၊ ထိုရစူလ်တမန်တော်သည် ငါအရှင်မြတ် (ပို့ချတော်မူသော) ဒေသနာများကို အသင်တို့ရှေ့ဝယ် ရွတ်ဘတ် သရဇ္ဈာယ်သည်။ ထို့ပြင်တဝ အသင်တို့(၏ စိတ်နှလုံးများ)ကို (အကုသိုလ် ဒုစရိုက်များမှ) သန့်စင်အောင်ပြုပေးသည်။ ထိုမျှမက အသင်တို့အား ကျမ်းဂန်နှင့် အသိ အလိမ္မာ အမြော်အမြင် တရားများကိုလည်း သင် ကြားပြသသည်၊ ထိုမှတပါး အသင်တို့ မသိ နားမလည်ခဲ့ကြသော အကြောင်းအရာအရပ်ရပ် တို့ကို လည်း သင်ကြားပြသသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

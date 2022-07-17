@@ -710,6 +710,12 @@ Nima imat sigurnost, che ne shte gi pokrie mŭchenie ot Allakh ili che ne shte i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၇။	မိမိတို့အပေါ်သို့ အလ္လာဟ်အရှင်မြတ်၏ အပြစ်ဒဏ်တော်လွှမ်းမိုးဆိုက်ရောက်လာခြင်းမှသော်လည်းကောင်း၊ မိမိတို့မသိမမြင်ပဲ အချိန်တော်ကြီးသည် ရုတ်တရက်ရှောင်တခင်ဆိုက်ရောက်လာခြင်းမှသော်လည်းကောင်း၊ သူတို့သည် လုံခြံုသည်ဟု သူတို့ထင်မှတ်ကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့သည် မိမိတို့၌ အလ္လာဟ်အရှင်မြတ်၏ထံတော်မှ (တစ်မျိုးသားလုံးကို) ဖုံးလွှမ်းမည့် ပြစ်ဒဏ်သည်သက်ရောက် မည်ကိုလည်းကောင်း၊ သို့တည်းမဟုတ် ယင်းသူတို့အမှုမဲ့ အမှတ်မဲ့ရှိနေကြစဉ် ကိယာမတ်သည် ရုတ်တရက်အားဖြင့် ဆိုက်ရောက် မည်ကိုလည်းကောင်း၊ စိုးရိမ်ခြင်းမရှိဘဲစိတ်ချ၍ နေကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A ako se sŭmnyavate v tova, koeto sme nizposlali na Nashiya rab, donesete edna 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	သင်တို့သည် ငါအရှင်က ငါ၏ကျေးကျွန်တမန်တော်ထံသို့ ချပေးသနားတော်မူသော ကုရ်အာန် ကျမ်းတော်၌ သံသယရှိလျှင် ဤကျမ်းတော်နှင့်တူသော စူရာဟ်တစ်ခုစီကုံးရေးသားကြလော့။ သင်တို့သည် အမှန်ကို ဆိုသူများဖြစ်ကြလျှင် အရှင်မြတ်မှတပါး သင်တို့သက်သေများကို ဖိတ်ခေါ်ကြ လော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါ၏အစေတော် နဗီတမန်တော် မုဟမ္မဒ် (ဆွ) အထံသို့ ငါအရှင်ထုတ်ပြန်ပို့ချတော်မူသော ကုရ်အာန်ကျမ်းမြတ်နှင့် စပ်လျဉ်း၍ အကယ်၍ အသင်တို့(စိတ်၌) ယုံမှားသံသယ ဒွိဟရှိခဲ့ပါလျှင် ထိုကျမ်းမြတ်နှင့် အလားတူ ကဏ္ဍတစ်ခုမျှ (စီကုန်း ရေးသား၍) ယူဆောင်လာကြကုန်လော့။ အကယ်၍ အသင်တို့သည် (သစ္စဝါဒီ) မှန်ကန်သော စကားပြောဆိုသူများ ဖြစ်ကြပါလျှင် သို့စီကုန်းရေးသားရာ၌ အလ္လာဟ်အရှင်မြတ်နှင့် ပြိုင်ဆိုင်၍ အသင်တို့အား ကူညီ ယိုင်းပင်းမည့် သူများကိုလည်း ခေါ်ဆောင်လာ ကြကုန်လော့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A te rekokha: “Obŭrkani sŭnishta. Toĭ samo si go e izmislil. Toĭ e samo 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	မိစ္ဆာမိုက်တို့က သူဟောသောစကားများသည် တရားတော်မဟုတ်၊ မကြည်လင်သောအိပ်မက်သာဖြစ်၏။ သို့မဟုတ် သူလုပ်ကြံဖန်တီးသောစကားဖြစ်၏၊ သို့မဟုတ် သူသည် ပျို့ကဗျာလင်္ကာဆရာဖြစ်၏၊ ရှေးတမန်တော် များကို အ့ံဖွယ်နိမိတ်လက္ခဏာများနှင့်တကွ စေလွှတ်တော်မူခဲ့လေ၏၊ သူလည်း အ့ံဖွယ်တစ်ပါးာယူခဲ့စေလော့ဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသို့မဟုတ်၊ စင်စစ်မှာကား ယင်း(မိစ္ဆာဝါဒီ) တို့က(ဤသို့) ပြောဆိုကြကုန်၏။ (ဤကုရ်အာန်ကျမ်းသည်) ဂယောင်ချောက်ချားမြင်မက်သော အိပ်မက်မျှသာ ဖြစ်သည်။ ထိုမျှမက စင်စစ်မှာကား ယင်း(မုဟမ္မဒ်)သည် ဤ(ကုရ်အာန်ကျမ်းတော်)ကို ကြံဖန်(သီကုံး)ခဲ့သည်။ ထိုမျှသာမက စင်စစ်မူကား ယင်း(မုဟမ္မဒ်)သည် လင်္ကာဆရာတစ်ဦးပင် ဖြစ်ပေသည်။ ထိုသို့မဟုတ်ခဲ့လျှင် ရှေးသူဟောင်းများ (ရစူလ်တမန်တော်အဖြစ်)စေလွှတ်ခြင်း ခံခဲ့ရသကဲ့သို့ပင် ယင်း(မုဟမ္မဒ်)သည်လည်း ကျွန်ုပ်တို့ထံ တန်ခိုးပြာဋိဟာ တစ်စုံတစ်ရာကို ယူလာသင့်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

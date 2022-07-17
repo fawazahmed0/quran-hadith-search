@@ -710,6 +710,12 @@ Toĭ e, Koĭto nacheva tvorenieto, posle shte go povtori, a tova e oshte po-le
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	အလ္လာဟ်အရှင်မြတ်သည် ရှေးဦးစတင်ဖန်ဆင်းတော်မူပြီးလျှင် အဖန်တလဲလဲဖန်ဆင်းတော်မူ၏၊ ဤဖန်ဆင်းမှု သည် အရှင်မြတ်အဖို့ အလွန်လွယ်ကူချေ၏၊ မိုးကောင်းကင်နှင့် ကမ္ဘာမြေပြင်ဝယ်ရှိသောဥပမာတို့တွင် မြင့်မြတ် ကြီးကျယ်ခမ်းနားဆုံးသောဥပမာတို့နှင့်သာ အရှင်မြတ်ကို ဥပမာဆောင်နိုင်၏၊ အရှင်မြတ်သည် အနန္တတန်ခိုး တော်ရှင်သခင် သဗ္ဗညုတဉာာဏ်တော်ရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်သော်ကား ထိုအရှင်မြတ်သည်ပင် အဖန်ဆင်းခံတို့အား စတင်ဖန်ဆင်းတော်မူ၏။ ထို့နောက် ထိုအရှင်မြတ်သည်ပင် ယင်းအဖန်ဆင်းခံတို့ကို ထပ်မံ၍ ဖန်ဆင်းတော်မူမည်။ စင်စစ်သော်ကား ဤသည် ထိုအရှင်မြတ်အဖို့သာ၍ပင် လွယ်ကူလှပေသည်။ ထိုမှတစ်ပါး မိုးကောင်းကင်များ၌လည်းကောင်း၊ ပထဝီမြေ၌လည်းကောင်း၊ ထိုအရှင်မြတ်၌သာလျှင် ထူးကဲမြင့်မြတ်လှစွာသော ဝိသေသဂုဏ်ထူးသည်ရှိပေသည်။ စင်စစ်သော်ကား ထိုအရှင်မြတ်သည် တန်ခိုးအာနုဘော်ဖြင့် လွှမ်းမိုးတော်မူသောအရှင်၊ ဆင်ခြင်တုံတရားနှင့် ပြည့်စုံတော်မူသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

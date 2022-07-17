@@ -710,6 +710,12 @@ bez da imat znanie za tova. Te sledvat samo dogadkata. Ala dogadkata s nishto ne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။ အမှန်ဆိုသော် ထိုသူတို့သည် ကောင်းကင်တမန်များ၏ အကြောင်းကို တပ်ရာမသိချေ၊ စိတ်ထင်ရာကိုသာ ရမ်းဆပြောဆိုကြ၏၊ စင်စစ်မှာ ယင်းကဲ့သို့မှန်းဆပြောဆိုခြင်းသည် အဟုတ်အမှန်ကို အစားမထိုးနိုင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ဤသည်နှင့်စပ်လျဉ်း၍ ၎င်းတို့၌ မည်သည့်သက်သေ အထောက်အထား အသိပညာမျှ မရှိပြီ။ ၎င်းတို့သည် ရမ်းဆထင်မြင်မှုကိုသာလျှင် လိုက်နာကြကုန်၏။ သို့ရာတွင် ရမ်းဆ ထင်မြင်မှုမှာ အမှန်တရားနှင့် ယှဉ်ပြိုင်၍ လုံးဝအသုံးဝင်သည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

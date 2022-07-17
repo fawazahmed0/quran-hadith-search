@@ -710,6 +710,12 @@ Cheti! Tvoyat Gospod e Naĭ-shtedriya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။ ရွတ်ဖတ်လော့၊ သင်၏ အရှင်သခင်သည် အတိုင်းထက်အလွန်ရက်ရောပေးကမ်းစွန့်ကြဲတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ဖတ်ပါ လေ။ စင်စစ် အသင့်အား ဖန်ဆင်းတော်မူသော အရှင်မြတ်သည် အလွန်ရက်ရောစွာ ပေးကမ်း ချီးမြှင့်တော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

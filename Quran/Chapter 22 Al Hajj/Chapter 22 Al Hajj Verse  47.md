@@ -710,6 +710,12 @@ I iskat ot teb [o, Mukhammad] da uskorish mŭchenieto, no Allakh nikoga ne narus
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	ဤမိစ္ဆာမိုက်တို့သည် သင့်အား အပြစ်ဒဏ်မြန်မြန်ပေးရန် တောင်းဆိုကြလတ့ံ၊ အလ္လာဟ်အရှင်မြတ်သည် မိမိဂတိသစ္စာတော်ကို ဖျက်တော်မမူချေ၊ သို့သော်မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်၏ အထံတော်၌ တစ်နေ့သည် သင်တို့အရေအတွက်အားဖြင့် နှစ်တစ်ထောင်နှင့်တူမျှ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုသူတို့သည် အသင့်ထံ (လာရောက်ကြ၍) ပြစ်ဒဏ်ကို အဆောတလျင် တောင်းဆိုကြကုန်၏။ စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် မိမိကတိကို အလျင်း ပျက်ကွက်တော်မူမည် မဟုတ်ပေ။ ၎င်းပြင် ဧကန်စင်စစ် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်၌ နေ့တစ်နေ့သည် အသင်တို့ရေတွက်ကြသော အနှစ်တစ်ထောင်ကဲ့သို့ပင် ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

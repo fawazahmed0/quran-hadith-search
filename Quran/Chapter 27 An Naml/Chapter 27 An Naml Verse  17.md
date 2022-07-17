@@ -710,6 +710,12 @@ I byakha sŭbrani za Sulaĭman voinite mu ot dzhinove, khora i ptitsi pod stroi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	ထို့အပြင်တမန်တော်စိုလိုင်မာန်ထံသို့ သူ၏ ဂျင်နတ်သားစစ်တပ်ကြီး၊ လူသားစစ်တပ်ကြီး၊ ငှက်တိရိစ္ဆာန် စစ်တပ်ကြီးများကို စုရုံးယူဆောင်စေတော်မူ၏၊ ထိုစစ်သည်တော်တို့သည် တမန်တော်ကို ဝန်းရံ၍ ရာထူးအလိုက် အဆင့်ဆင့်စီတန်းခစားကြကုန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး စုလိုင်မာန်၏အဖို့ ထိုစုလိုင်မာန်၏ဗိုလ်ခြေများကို ဂျင်(န်)သတ္တဝါ တို့အနက်မှလည်းကောင်း၊ လူတို့အနက်မှလည်းကောင်း၊ ငှက်သတ္တဝါ တို့အနက်မှလည်းကောင်း၊ စုရုံးစေခြင်းကို ခံခဲ့ကြရကုန်၏။ တဖန် ထိုဗိုလ်ခြေတို့မှာ(စနစ်တကျ စီတန်းချီတက်နိုင်ကြအံ့သောငှာ) တားမြစ်ခြင်းကိုပင် ခံကြရကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

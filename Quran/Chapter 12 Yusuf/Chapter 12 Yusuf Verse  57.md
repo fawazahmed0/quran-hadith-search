@@ -710,6 +710,12 @@ A nagradata na otvŭdniya zhivot e naĭ-dobroto za onezi, koito vyarvat i se bo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၇။	ယုံကြည်လျက် ဒုစရိုက်မှုကို ကြဉ်ရှောင်သူတို့အဖို့မှာ နောင်တမလွန်ဘဝတွင် ဆုတော်သည် သာလွန်မွန်မြတ် ပေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အီမန်သက်ဝင်ယုံကြည်၍ (ပြစ်မှုဒုစရိုက်များမှ) အမြဲတစေ ကြဉ်ရှောင်လျက်ရှိကြ သောသူတို့အဖို့မှာကား နောင်တမလွန်ဘဝ၏ အကျိုး သည် အကောင်းဆုံးပင်ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

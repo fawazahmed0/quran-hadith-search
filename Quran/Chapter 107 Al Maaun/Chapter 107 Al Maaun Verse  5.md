@@ -710,6 +710,12 @@ koito svoyata molitva [sŭznatelno] prenebregvat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။ ထိုသူတို့သည် မိမိတို့ပြုသည့် ဆွလားသ်ဝတ်တွင် စိတ်မဝင်စားချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသို့သောသူတို့သည် မိမိတို့၏ ဆွလာတ် ဝတ်ပြုမှု(တာဝန်)ကိုပင် မေ့လျော့ထားကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

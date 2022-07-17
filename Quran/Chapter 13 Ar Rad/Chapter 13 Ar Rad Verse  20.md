@@ -710,6 +710,12 @@ koito spazvat obeta pred Allakh i ne narushavat dogovora
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	ဤလူတို့သည် အလ္လာဟ်အရှင်မြတ်နှင့်ထားသောဂတိသစ္စာကို စောင့်ကြ၏။ ဂတိမဖျက်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုပညာရှင်များကား) အကြင်သူများတည်း၊ထိုသူတို့သည် အလ္လာဟ်အရှင်မြတ်နှင့်ထားရှိသော ပဋိညာဉ်ခံဝန်ချက်ကို ကျေပြွန်စွာဆောင်ရွက်ကြပေသည်။ ထို့ပြင် (ယင်း)ပဋိညာဉ်ခံဝန်ချက်ကို မဖောက်ဖျက်ကြပေ။ မချိုးဖောက်ကြပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

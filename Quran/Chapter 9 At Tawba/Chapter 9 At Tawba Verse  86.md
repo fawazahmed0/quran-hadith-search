@@ -710,6 +710,12 @@ I kogato be nizposlana sura: “Povyarvaĭte v Allakh i se borete zaedno s Nego
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၆။	အလ္လာဟ်အရှင်မြတ်အား ယုံကြည်၍ အရှင်မြတ်၏ တမန်တော်နှင့်အတူတကွကြိုးစားအားထုတ်ကြလော့ဟု စူရာဟ်တစ်စောင်ကို ချပေးတော်မူသောအခါ သူတို့အနက် ဥစ္စာပစ္စည်းပေါများသူတို့သည် အို-တမန်တော်သခင်၊ အကျွန်ုပ်တို့အား အိမ်တွင် ထိုင်ကျန်ရစ်သူများနှင့်တကွ နေခွင့်ပေးပါဟုဆို၍ သင့်ထံ အခွင့်တောင်းကြသေး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား (စိတ်ရောကိုယ်ပါ) သက်ဝင်ယုံကြည်သည့်ပြင်ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော်မြတ်နှင့်အတူ စစ်မက်ပြိုင်ဆိုင်တိုက်ခိုက်ခြင်းကိုလည်း ပြုကြလေကုန် ဟူသောအမိန့်တော်ပါရှိသည့် ကဏ္ဍတစ်ခုခုသည် ကျရောက်လာသောအခါ၊၎င်းတို့ အနက်မှ ဥစ္စာဓနကြွယ်ဝသောသူများကပင်လျှင်ကျွန်တော်မျိုးတို့အား ခွင့်လွှတ်ပါ။ ကျွန်တော်မျိုးတို့သည် ထိုင်၍နေရစ်ခဲ့သောသူတို့နှင့်အတူ နေရစ်ခဲ့ကြပါရစေ ဟူ၍ အသင့်ထံပြောဆို ခွင့်ပန်လာကြ ကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

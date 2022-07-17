@@ -710,6 +710,12 @@ I bez da go vidyat, svŭrna kŭm svoeto semeĭstvo i doĭde s tlŭsto [pecheno
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	ထို့နောက်သူသည် အိမ်သူအိမ်သားများထံ ထွက်သွား၍ အဆီတစ်ထပ်အသားတစ်ထပ်နူးနပ်မွှေးကြိုင်သော အမဲကင်များကို ယူဆောင်လာစေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် ထိုအိဗ်ရာဟီမ်သည် မိမိအိမ်(ထဲ)သို့ဝင်ပြီးလျှင်(ကင်ထားသော)ဝဖြိုးသည့် နွားကလေးတစ်ကောင်ကို ယူလာခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

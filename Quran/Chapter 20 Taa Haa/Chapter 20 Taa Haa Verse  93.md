@@ -710,6 +710,12 @@ da me posledvash? Nima se vŭzprotivi na moyata zapoved?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၂။ ၉၃။ မူစာက အို--ဟာရွန်၊ သူတို့သည် လမ်းမှားသို့သွားသောအခါ သင်သည် သူတို့ထံမှ ထွက်ခွာ၍ အကျွနု်ပ်ထံသို့ မလိုက်လာရအောင် သင့်အား မည်သည်က ဆွဲထားသနည်း၊ သင်သည်လည်း ငါ့အမိန့်ကို မနာခံသလောဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင့်အား ကျွန်ုပ်ထံလိုက်လာခြင်းမှ မည်သည့်အရာက တားဆီးဘိသနည်း။ အသင်သည် ကျွန်ုပ်၏ အမိန့်ကိုဖီဆန်ခဲ့လေသလောဟု ပြောကြားခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

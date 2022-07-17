@@ -710,6 +710,12 @@ HUDHUHU FA’TILUHU ‘ILA SEWA’IL-XHEHIMI
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	ထိုနေ့တော်ကြီး၌ မိန့်တော်မူမည်မှာ ဤသူကို ဖမ်းဆီး၍ ငရဲမီးအတွင်းသို့ ဆွဲသွင်းလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်တို့သည် ၎င်းအား ဖမ်းဆီးပြီးလျှင် "ဂျဟန္နမ်" ငရဲဘုံ ဗဟိုအလယ်သို့ တရွတ်တိုက် ဆွဲချကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

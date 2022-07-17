@@ -710,6 +710,12 @@ I rekokhme: “O, Adam, toĭ e vrag na teb i na tvoyata sŭpruga, i da ne vi pr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၇။	ထို့ကြောင့်ငါသည် အို--အာဒမ်၊ အီဗလစ်သည် သင်နှင့်သင်၏ မယားတို့၏ ရန်သူကြီးဖြစ်၏၊ ထို့ကြောင့်သူသည် သင်တို့နှစ်ယောက်အား ဥယျာဉ်တော်မှ မနှင်ထုတ်ေစေလင့်၊ သို့နှင်ထုတ်လျှင် သင်တို့သည် ပင်ပန်းဆင်းရဲခြင်း နှင့်တွေ့ကြံုရကြလတ္တံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ငါအရှင်မြတ်သည် (ဤသို့) မိန့်ကြားတော်မူခဲ့၏။ အို-အာဒမ်၊ ဤ(အစ်ဗ်လီစ်)ကား အသင်နှင့်အသင့်ခင်ပွန်း၏ ရန်သူပင်ဖြစ်ချေသည်။ သို့ဖြစ်ပေရာ ယင်းအစ်ဗ်လီစ်သည် အသင်တို့နှစ်ဦးအား ဂျန္နတ်အမတသုခဘုံမှနှင်မထုတ်စေနှင့်။ သို့ဖြစ်ခဲ့မူ အသင်သည် ပင်ပန်းဆင်းရဲဒုက္ခတွေ့မည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

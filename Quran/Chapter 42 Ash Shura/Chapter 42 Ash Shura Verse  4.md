@@ -710,6 +710,12 @@ Negovo e vsichko na nebesata i vsichko na zemyata. Toĭ e Vsevishniya, Prevelik
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	မိုးကောင်းကင်နှင့် ကမ္ဘာမြေပေါ်ဝယ်ရှိရှိသမျှအပေါင်းတို့ကို အလ္လာဟ်အရှင်မြတ်စိုးပိုင်တော်မူ၏၊ အရှင်မြတ်လည်း အတိုင်းမသိမြင့်မြတ်ကြီးကျယ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မိုးကောင်းကင်များ၌ ရှိသမျှတို့သည်လည်းကောင်း၊ ကမ္ဘာမြေ၌ ရှိသမျှတို့သည်လည်းကောင်း၊ ထိုအရှင်မြတ် ပိုင်ဆိုင်တော်မူသောအရာများပင် ဖြစ်ကုန်၏။ ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် အလွန်မြင့်မြတ်လှတော်မူသော၊ ထူးကဲကြီးမြင့်လှတော်မူသောအရှင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

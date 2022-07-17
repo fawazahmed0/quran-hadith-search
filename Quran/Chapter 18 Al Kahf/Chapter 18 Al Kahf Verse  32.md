@@ -710,6 +710,12 @@ I im daĭ primer s dvama mŭzhe. Napravikhme za ediniya ot tyakh dve gradini s 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	သူတို့၏ ဥပမာကား လူနှစ်ယောက်၏ ဥပမာဖြစ်၏။ သူတို့အနက် တဦးအား ငါအရှင်မြတ်သည် သပျက်ဥယျာဉ် နှစ်ခုကို ပေး၏။ ထိုဥယျာဉ်များကို စွန်ပလွံပင်များနှင့် ဝိုင်းဝန်းထားတော်မူ၏။ ထိုဥယျာဉ်နှစ်ခုစပ်ကြားတွင် လယ်ယာကိုင်းကျွန်းတို့ကို စီရင်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် (အို-နဗီတမန်တော်)အသင်သည် ၎င်းတို့အား လူနှစ်ယောက်၏ဥပမာကို ခိုင်းနှိုင်း၍ပြပါလေ။ ငါအရှင်မြတ်သည် ၎င်းတို့နှစ်ဦးအနက် တစ်ဦးအားစပျစ်ခြံနှစ်ခြံကို ချီးမြှင့်ပေးသနားတော်မူခဲ့လေသည်။ ထို့ပြင် ငါအရှင်မြတ်သည်ယင်းခြံနှစ်ခြံကို စွန်ပလွံပင်များဖြင့်ခြံရံ၍ ပေးတော်မူခဲ့သည်။ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ထိုခြံနှစ်ခြံ၏အကြား တွင် လယ်တစ်ခုကိုလည်း ချီးမြှင့် ပေးသနားတော်မူခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

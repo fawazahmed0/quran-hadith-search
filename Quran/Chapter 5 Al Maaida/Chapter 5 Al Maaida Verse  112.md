@@ -710,6 +710,12 @@ Kak uchenitsite rekokha: “O, Isa, sine na Mariam, tvoyat Gospod mozhe li da ni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၂။	သာဝကကြီးတို့က အို-မရယမ်၏သား အီဆာ သင်၏အသျှင်သခင်သည် ကောင်းကင်ဘုံမှ အစာအဟာရအပြည့်အစုံနှင့် ခင်ကျင်းထားသော စားပွဲတစ်ခုကို အကျွနု်ပ်တို့အား ချပေးစွမ်းနိုင် သလောဟုမေးကြသောအခါ တမန်တော်အီဆာက သင်တို့သည် ယုံကြည်သူအမှန်ဖြစ်ကြပါလျှင် အလ္လာဟ်အသျှင်မြတ်၏အမှုတော်ကို ကြေပြွန်အောင် ထမ်းဆောင်ကြလော့ဟု ပြန်ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို- နဗီတမန်တော်မုဟမ္မဒ် အသင်သည် ပြန်လည်သတိရစေပါလေ။) အခါတစ်ပါး၌ ‘ဟဝါရီ’ တို့က “အို-‘မရ်ယမ်’ (သခင်မ) ၏သား (နဗီတမန်တော်) ဟဇရသ် ‘အီစာ’အသင့်အား ဖန်ဆင်းမွေးမြူသောမူသော အရှင်မြတ်သည် ကျွန်တော်မျိုးတို့အပေါ်ဝယ် ကောင်းကင်မှ စားဖွယ်သောက်ဖွယ်နှင့် (ပြည့်စုံသော စားပွဲတစ်ခု) ကို ချပေးသနားတော်မူနိုင်စွမ်း ရှိပါသလော” ဟု ပြောဆိုကြလေသည်။ ထိုအခါ နဗီတမန်တော် အီစာက “(ဟယ်- အချင်းတို့) အသင်တို့သည် အကယ်စင်စစ် ‘မုအ်မင်န်’ သက်ဝင်ယုံကြည်သောသူများ ဖြစ်ကြပါလျှင် အလ္လာဟ်အရှင်မြတ်အား ကြောက်ရွံ့ကြလေကုန်” ဟု ပြောကြားတော်မူခဲ့ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

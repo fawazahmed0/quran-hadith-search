@@ -710,6 +710,12 @@ I vi nastanikhme na zemyata, i storikhme tam za vas pominŭk. Kolko malko ste pr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	အို-လူသားအပေါင်းတို့ ငါအသျှင်မြတ်သည် သင်တို့အား ကမ္ဘာမြေပေါ်၌ တန်ခိုးအာဏာ ပေးသနား တော်မူ၏။ မြေပေါ်၌ သင်တို့အတွက် အသက်မွေးဝမ်းကျောင်းကို စီရင်ထားတော်မူ၏။ သင်တို့သည် ငါ၏ကျေးဇူးတော်ကို မချီးကျူးကြပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မုချစင်စစ် ငါအရှင်မြတ်သည် အသင်တို့အားပထဝီမြေပြင်၌ တန်ခိုးအာဏာ ချီးမြှင့်ပေး သနားတော်မူခဲ့လေသည်။(တစ်နည်း)မုချစင်စစ် ငါအရှင်မြတ်သည် အသင်တို့အားပထဝီမြေပြင် ဝယ်(အသင်တို့)နေထိုင်ရန် နေရာထိုင်ခင်း ချီးမြှင့်တော်မူခဲ့လေသည်။ ၎င်းပြင် ငါအရှင်မြတ်သည် အသင်တို့အဖို့ ထိုပထဝီမြေ၌ ပရိယေသနအသက် မွေးဝမ်းကျောင်းပြုနိုင်ရန် အကြောင်းကိစ္စများကိုလည်း ပြုလုပ်၍ ပေးသနားတော်မူခဲ့လေသည်။ (သို့ရာတွင်) အသင်တို့မူကား အနည်းငယ်မျှသာ ကျေးဇူးသိတတ်ကြကုန်သတည်း။(ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

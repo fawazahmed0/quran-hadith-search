@@ -710,6 +710,12 @@ Bogoboyazlivite shte bŭdat sred gradini i izvori
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	သို့သော်ဒုစရိုက်မကောင်းမှုကို ရှောင်သူတို့မူကား ဥယျာဉ်တော်နှင့် စိမ့်စမ်းချောင်းမြောင်းအလယ်တွင် စံစား နေထိုင်ရကြလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ‘မွတ္တကီ’ သူတော်စင်တို့မှာ ဥယျာဉ်များနှင့် စမ်းချောင်းများ၌ ရှိနေကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Na nevernitsite shte se proglasi: “Gnevŭt na Allakh kŭm vas e po-golyam ot v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	ထိုနေ့တော်ကြီး၌ မယုံကြည်သူမိစ္ဆာဒိဋ္ဌိတို့အား ပြောဆိုမည်မှာ အို-သူမိုက်တို့၊ နင်တို့အား သမ္မာတရားတော် ဘက်သို့ ဖိတ်ခေါ်ငြားသော်လည်း နင်တို့သည် တရားတော်ကို ငြင်းပယ်သောကြောင့် သင်တို့အချင်းချင်းစက် ဆုတ်ရွံရှာသည် အလ္လာဟ်အရှင်မြတ်က နင်တို့ကို စက်ဆုတ်ရွံရှာတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ("ကိယာမတ်" ရှင်ပြန်ထမည့်နေ့တွင်) "ကာဖိရ်" သွေဖည်ငြင်းပယ်ခဲ့ကြသောသူတို့သည် (ဤသို့)ဟစ်ခေါ်(ပြောဆို)ခြင်းကို ခံကြရပေမည်။ "အသင်တို့သည်(ယခု) မိမိတို့ကိုယ်ကို မုန်းတီးစက်ဆုပ်၍ နေကြသည်ထက် အသင်တို့သည် "အီမာန်" သက်ဝင်ယုံကြည်မှုသို့ ဖိတ်ခေါ်ခြင်းကို ခံခဲ့ကြရစဉ် အသင်တို့ ငြင်းပယ်ခဲ့ကြသောအခါ၌ အမှန်ပင်(အသင်တို့အား) အလ္လာဟ်အရှင်မြတ်သည် သာပို၍ပင် မုန်းတီးစက်ဆုပ်တော်မူခဲ့၏"။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Takiva byakha aditite. Otrekokha znameniyata na svoya Gospod i se vŭzprotivikha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၉။	အားဒ်လူမျိုးသည် ယင်းကဲ့သို့ဖြစ်ကြ၏။ သူတို့သည် မိမိတို့၏ အရှင်သခင်၏ နှုတ်ကပတ်တော်များကို ငြင်းပယ် ကြ၏။ အရှင်မြတ်စေလွှတ်တော်မူသောတမန်တော်တို့ကိုလည်း မထီမဲ့မြင်သရော်ပင့်ချေပြုကြ၏။ တရားတော်ကို ကျူးလွန်ထောင်ထားသောအကြီးအမှုးတို့၏ အမိန့်စကားကို နာခံကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ဤသည် အာဒ်အမျိုးသားများပင်။ ၎င်းတို့သည် မိမိတို့အား ဖန်ဆင်းမွေးမြူ တော်မူသောအရှင်မြတ်၏သက်သေလက္ခဏာများကို ငြင်းပယ်ခဲ့ကြလေသည်။ ၎င်းတို့သည် ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော်များကိုဖီဆန်ခဲ့ကြလေသည်။ ထိုမှတစ်ပါး ၎င်းတို့သည် ခေါင်းမာသော၊ နိုင်ထက် ကလူပြုမူသောလူတိုင်း၏ အမိန့်ကို လိုက်နာခဲ့ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

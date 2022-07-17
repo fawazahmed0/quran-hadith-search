@@ -710,6 +710,12 @@ I ne storvaĭte podobiya na Allakh! Allakh znae, vie ne znaete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၄။	သို့အတွက် သင်တို့သည် အလ္လာဟ်အရှင်မြတ်နှင့်နှိုင်းယှဉ်ခြင်းကို မပြုကြလင့်။ မှတ်သားကြလော့။ အလ္လာဟ် အရှင်မြတ်သည် အရာခပ်သိမ်းကုန်တို့ကို သိတော်မူ၏။ သင်တို့ကား မသိကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်နှင့်ပတ်သက်၍ ဥပမာ ပုံဆောင်ချက်များကို မခိုင်းနှိုင်းကြကုန်လင့်။ ဧကန်စင်စစ် အလ္လာဟ်အရှင် မြတ်သည် သိတော်မူ၏။ သို့ရာတွင် အသင်တို့မူကား မသိကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

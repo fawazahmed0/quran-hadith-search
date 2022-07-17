@@ -710,6 +710,12 @@ Nevernitsite kharchat svoite imoti, za da vŭzpirat ot pŭtya na Allakh. I shte 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	မှတ်သားကြလော့ မိစ္ဆာဒိဌိတို့သည် မိမိတို့ဥစ္စာပစ္စည်းကို လူသားတို့အား အလ္လာဟ်အသျှင်မြတ်၏ လမ်းတော်ကြီးမှ တားဆီးပိတ်ပင်ဖို့ရာ သုံးစွဲကြ၏။ သူတို့သည် ဥစ္စာပစ္စည်းကို သုံးစွဲလတ္တံ့။ ထို့နောက် ၎င်းသည် သူတို့အတွက် ကြီးမားသော စိတ်ဒုက္ခဖြစ်လတ္တံ့။ ထို့နောက် သူတို့သည် နိုင်နင်းခြင်း ခံကြရလတ္တံ့။ မယုံကြည်သူတို့သည် ငရဲတွင် စုဆောင်းခြင်းခံကြရလတ္တံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ကာဖိရ် မယုံမကြည်သွေဖည် ငြင်းပယ်သောသူတို့သည် (လူတို့အား) အလ္လာဟ်အရှင်မြတ်၏လမ်းတော်မှတားဆီးရန် မိမိတို့၏ဥစ္စာပစ္စည်းများကို သုံးစွဲကြလေသည်။(ယခုသော်) ၎င်းတို့သည် ထိုဥစ္စာပစ္စည်း များကို သုံးစွဲလျက်ပင်ရှိနေကြလိမ့်မည်။ သို့ရာတွင် နောက်ဆုံးတွင် ထိုပစ္စည်းများပင်၎င်းတို့၌ ဝမ်းနည်းဖွယ်ရာ ဖြစ်သွားချေမည်။ ထို့ နောက်၎င်းတို့သည် နှိမ်နင်းခြင်းကို (လည်း) ခံကြရပေ(ဦး)မည်။ ထိုမှတစ်ပါး မယုံမကြည် သွေဖည်ငြင်းပယ်သော သူတို့သည်ဂျဟန္နမ်ငရဲဘုံသို့ စုရုံးစေခြင်းကို ခံကြရမည်ဖြစ်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

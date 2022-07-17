@@ -710,6 +710,12 @@ Togava shte sŭm v yavna zabluda
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	အလ္လာဟ်အရှင်မြတ်မှတပါး ဘုရားတုများကို ကိုးကွယ်ခဲ့လျှင် ငါသည် ထင်ရှားသောအမှားကြီးကို ပြုမိလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသို့ဖြစ်ခဲ့လျှင် ဧကန်မလွဲ ကျွန်ုပ်သည် ထင်ရှားစွာသော လမ်းမှားမှု၌ (သက်ရောက်သွားပေမည်)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

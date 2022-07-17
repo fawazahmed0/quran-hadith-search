@@ -710,6 +710,12 @@ Koĭto se otdrŭpne ot nego, shte ponese tovar v Denya na vŭzkresenieto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝဝ။	အကြင်သူသည် ထိုကျမ်းတော်ကို ကျောခိုင်းအ့ံ၊ ထိုသူသည် ရှင်ပြန်ထမြောက်ရသောနေ့တော်ကြီး၌ မုချဧကန် ဝန်ထုပ်ကို ထမ်းပိုးရလတ္တံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သူမဆို ယင်း(ကျမ်းတော်)မှ မျက်နှာလွှဲခဲ့ပါမူ ဧကန်မလွဲ ထိုသူသည် ကိယာမတ်ရှင်ပြန်ထ ရမည့်နေ့တွင်(အလွန်လေးလံသော) ဝန်ထုပ်ကို သယ်ပိုးထမ်းဆောင်ရမည်ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

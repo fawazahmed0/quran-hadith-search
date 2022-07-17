@@ -710,6 +710,12 @@ I kogato pogledite im bŭdat obŭrnati kŭm obitatelite na Ogŭnya, shte rekat: 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	သူတို့သည် ငရဲသားတို့ကို လှည့်ကြည့်သောအခါ သူတို့သည် အို-အကျွန်ုပ်တို့၏ ကျေးဇူးတော်သခင် အကျွနု်ပ်တို့ကို ဒုစရိုက်မှု ကျူးလွန်သူတို့နှင့် အတူတကွထားတော်မမူပါနှင့်ဟု ဆုတောင်းကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တဖန် ၎င်းတို့၏ မျက်စိများကို ဂျဟန္နမ်ငရဲသားတို့ဘက်သို့ လှည့်လိုက်သောအခါ ထိုသူများက အိုကျွန်တော်မျိုးတို့အား ဖန်ဆင်းမွေးမြူ တော်မူသောအရှင်မြတ်၊အရှင်မြတ်သည် ကျွန်တော်မျိုးတို့အား ဤမတရားကျူးလွန်သော သူတို့နှင့်အတူ ထားတော်မမူပါနှင့် ဟု လျှောက်ထားပန်ကြား ကြလိမ့်မည်။(ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

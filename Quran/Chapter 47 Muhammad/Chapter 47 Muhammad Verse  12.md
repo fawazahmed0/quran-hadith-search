@@ -710,6 +710,12 @@ Allakh shte vŭvede onezi, koito vyarvat i vŭrshat pravedni dela, v Gradinite, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	မုချဧကန်အလ္လာဟ်အရှင်မြတ်သည် ယုံကြည်၍ ကုသိုလ်ကောင်းမှုပြုကျင့်သူတို့အား မြစ်ချောင်းအယဉ်အထွေထွေ စီးဆင်းလျက်ရှိသောနိဗ္ဗာန်ဥယျာဉ်တော်များအတွင်းသို့ ဝင်စေတော်မူလိမ့်မည်၊ မိစ္ဆာအယူဝါဒကို စွဲလမ်းသော သူတို့မှာမူကား လောကီစည်းစိမ်၌ မြူးထူးလျက် တိရိစ္ဆာန်များကျင့်သကဲ့သို့ ကျင့်ကြံသဖြင့် အဝီစိငရဲမီးထဲတွင် နေထိုင်ကြရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် ‘အီမာန်’သက်ဝင်ယုံကြည်ပြီးနောက် ကောင်းမှုများကို ကျင့်မူဆောက်တည်ကြကုန်သော သူတို့အား ဥယျာဉ်များသို့ ဝင်ရောက်စေတော်မူပေမည်။ ယင်းဥယျာဉ်များ၏ အောက်၌ ရေချောင်းများသည် စီးတွေလျက် ရှိကြပေမည်။ သို့ရာတွင် ကာဖိရ် သွေဖည်ငြင်းပယ်သော သူတို့မှာကား ခြေလေးချောင်းတိရစ္ဆာန်တို့စား(သောက်)ကြသကဲ့သို့ပင်(လောကီဘဝ၌သာလျှင်) စည်းစိမ်ခံခြင်း ကိုလည်းကောင်း၊ စား(သောက်၊ နေထိုင်)ခြင်းကို လည်းကောင်း၊ ပြုလုပ်၍နေကြကုန်၏။ စင်စစ်မှာမူကား (ငရဲ)မီးသာလျှင် ၎င်းတို့၏ နေရာထိုင်ခင်း (အစစ်အမှန်) ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ i visoki palmi s grozdove, skupcheni edin vrŭz drug
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	ထို့အပြင်အခိုင်အသီးလုံးကြီးလုံးငယ်တို့ကို အထပ်ထပ်သီးသောစွန်ပလွံပင်များကိုလည်း မြင့်မြင့်မားမားဖန်ဆင်း တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ ရှည်လျားမြင့်မားသော စွန်ပလွံပင်များကို (ပေါက်ရောက်စတော်မူရာ) ယင်းစွန်ပလွံပင်များ၌ ပြွတ်၍သီးနေသော အခိုင်များရှိနေပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

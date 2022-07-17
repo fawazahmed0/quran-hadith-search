@@ -710,6 +710,12 @@ Reche: “Chuvat li vi, kogato gi zovete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၂။	ထိုအခါသူက သူတို့သည် သင်တို့ဆုတောင်းသည်ကို ကြားသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အိဗ်ရာဟီမ်က မေးမြန်းခဲ့၏။ အသင်တို့ ဟစ်ခေါ်ကြသောအခါ ထိုအရုပ်များသည် အသင်တို့၏ ဟစ်ခေါ်သံကို ကြားကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

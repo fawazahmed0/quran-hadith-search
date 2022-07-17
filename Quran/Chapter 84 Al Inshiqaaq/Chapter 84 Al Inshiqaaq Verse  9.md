@@ -710,6 +710,12 @@ i shte se zavŭrne pri svoite khora [v Raya] shtastliv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၊၈၊၉။ ထိုသောအခါ အကြင်သူသည် မိမိပြုကျင့်မှုမှတ်တမ်းကို လက်ယာလက်နှင့်ခံယူရအံ့၊ ထိုသူ၏ စာရင်းကို အခက်အခဲမရှိ၊ လွယ်လင့်တကူစစ်ကြောပြီးလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုသူသည် မိမိ အိမ်သူအိမ်သား အပေါင်းအဖော်တို့ထံမှ ဝမ်းမြောက်စွာ ပြန်လာပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

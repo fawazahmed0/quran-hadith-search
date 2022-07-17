@@ -710,6 +710,12 @@ Za tyakh e Domŭt na mira pri tekhniya Gospod. Toĭ e Pokrovitelyat im za onova
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၇။	ထိုသူတို့အတွက် သူတို့၏ ကျေးဇူးတော်သခင်အထံတော်၌ အေးချမ်းသာယာသောဗိမာန်တော် ရှိ၏။ သူတို့ပြုကျင့်လေ့ရှိသောအမှုများကြောင့် အသျှင်မြတ်သည် သူတို့၏ ကာကွယ်စောင့်ရှောက် သောအဆွေခင်ပွန်းဖြစ်တော်မူလတ္တံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(တရားရယူသော)သူတို့အဖို့၊ ၎င်းတို့၏ အရှင်မြတ်အထံတော်၌ ချမ်းမြေ့သာယာသော (ဂျန္နတ်အမတသုခ)ဘုံသည် အဆင်သင့်ရှိချေသည်။ ၎င်းပြင် ထိုသူတို့၏ (မွန်မြတ်သော) အပြုအမူတို့ကြောင့် ထိုအရှင်မြတ်သည်ပင်လျှင်၊ ၎င်းတို့၏ အဆွေခင်ပွန်း ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

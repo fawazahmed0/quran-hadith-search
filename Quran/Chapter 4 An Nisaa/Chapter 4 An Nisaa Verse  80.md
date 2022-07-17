@@ -710,6 +710,12 @@ Koĭto se pokoryava na Pratenika, veche se e pokoril na Allakh. A otmetnat li s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈ဝ။	အကြင်သူသည် တမန်တော်ကိုနာခံ၏။ ထိုသူသည် အလ္လာဟ်အသျှင်မြတ်အား နာခံသည်မည်၏။ အကြင်သူတို့သည့် လှည့်သွား၏။ ထိုသူတို့ကို စောင့်ထိန်းဖို့ရာ သင့်အား စေလွှတ်တော်မမူပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သူမဆို ရစူလ်တမန်တော်၏ အမိန့်တော်များကို လိုက်နာပါလျှင်၊ ထိုသူသည် ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်၏ အမိန့်တော်များကို လိုက်နာသည်မည်၏။ သို့ရာတွင် မည်သူမဆို (အသင်၏ အမိန့်များကို သွေဖည်၍) မျက်နှာလွှဲဖယ်သွားခဲ့ပါမူ (အသင်၏တာဝန်မဟုတ်ချေ) ငါအရှင်မြတ်သည် အသင့်အား ထိုသူတို့အပေါ်၌ (တာဝန်ခံ) အုပ်ထိန်းသူအဖြစ် စေလွှတ်တော်မူခဲ့သည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

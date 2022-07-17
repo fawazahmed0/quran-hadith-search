@@ -710,6 +710,12 @@ Kaza: “No znam li az kakvo sa vŭrshili
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၂။	တမန်တော်နူဟိုက သူတို့သည် အဘယ်အမှုအခင်းများကို ပြုကျင့်နေသည်ကို ငါအသို့သိမည်နည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနူဟ်က(ဤသို့)ပြန်ကြားခဲ့၏၊ (အချင်းတို့၊) ငါသည် ၎င်းတို့၏ အလုပ်အကိုင်နှင့်စပ်လျဉ်း၍ မည်သည်ကို သိရှိရန်လိုပါသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

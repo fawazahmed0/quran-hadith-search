@@ -710,6 +710,12 @@ I kogato im se kazhe: “Elate Pratenika na Allakh da moli za vas oproshtenie!�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။ တဖန်သူတို့အား အချင်းတို့၊ တမန်တော်ထံသို့ လာကြလော့၊ အလ္လာဟ်၏ တမန်တော်သည် သင်တို့အတွက် အပြစ်လွှတ်ဆုကို တောင်းမည်ဟု ပြောသောအခါ သူတို့သည် မျက်နှာလွှဲသွားကြ၏၊ သူတို့သည် မာန်တက် ြွကားခြင်းနှင့် ကျောခိုင်းသွားသည်ကို သင်တမန်တော်မြင်ရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုသူတို့အား 'အသင်တို့သည် လာကြလေကုန်၊ အလ္လာဟ်အရှင်မြတ်၏ ရစူလ်တမန်တော်မြတ်သည် အသင်တို့အဖို့ လွတ်ငြိမ်းခွင့်ကို ပန်ကြား၍ပေးမည်'ဟု ပြောဆိုသောအခါ ၎င်းတို့သည် မိမိတို့၏ဦးခေါင်းများကို လှုပ်ခါကြကုန်၏။ ထို့ပြင် (အို-နဗီတမန်တော်) အသင်သည် ၎င်းတို့အား မာန်မာနထောင်လွှားကြလျက် ပြန်လှည့်၍ သွားကြသည်ကို တွေ့မြင်ရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

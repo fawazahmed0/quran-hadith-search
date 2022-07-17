@@ -710,6 +710,12 @@ I kogato rekokha: “O, Allakh, ako tova e pravdata ot Teb, izsipi nad nas kamŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	သူတို့သည် အို-အလ္လာဟ်အသျှင်မြတ် ဤကျမ်းတော်သည် အသျှင်အထံတော်မှ သစ္စာတရားတော် အမှန်ပင်ဖြစ်ပါလျှင် အကျွနု်ပ်တို့အပေါ်သို့ ကျောက်စလစ်မိုး ရွာသွန်းစေတော်မူပါ။ သို့မဟုတ် နာကျင်ဖွယ်သော အပြစ်ဒဏ်အချို့ကို ချတော်မူပါဟု တင်လျှောက်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် (အသင်သည် ၎င်းတို့အား သတိရစေပါလေ။) တစ်ရံရောအခါဝယ် ၎င်းတို့က အို- အလ္လာဟ်အရှင်မြတ်၊ အကယ်၍ ဤ(မုက္ခပါဌ်တော်)သည် အလ္လာဟ်အရှင်မြတ်အထံတော်မှ အဟုတ်အမှန် ဖြစ်ခဲ့ပါလျှင် အရှင်မြတ်သည်ကျွန်တော်မျိုးတို့ အပေါ်၌ ကျောက်ခဲများကို မိုးကောင်းကင်မှရွာသွန်းစေတော်မူပါ။ သို့တည်းမဟုတ် အလွန်ပြင်းပြ နာကျင်ဖွယ်သော အခြားပြစ်ဒဏ် တစ်စုံတစ်ရာကို ကျွန်တော်မျိုးအပေါ်၌ ကျရောက်စေတော်မူပါ ဟု ပြောဆိုလျှောက်ထားခဲ့ကြလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

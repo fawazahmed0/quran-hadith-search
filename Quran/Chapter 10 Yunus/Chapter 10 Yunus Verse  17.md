@@ -710,6 +710,12 @@ I koĭ e po-golyam ugnetitel ot onzi, koĭto izmislya lŭzha za Allakh ili vzi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	အလ္လာဟ်အရှင်မြတ်နှင့်စပ်လျဉ်း၍ မဟုတ်မမှန်လုပ်ကြံပြောသောအရှင်မြတ်၏ တရားတော်များကို ငြင်းပယ်သော ပြစ်မှုကို ကျူးလွန်သူထက် အဘယ်သူသည် သာလွန်ကြီးမားသောဒုစရိုက်မှုကို ကျူးကျော်သနည်း၊ မှတ်သား ကြလော့၊ အပြစ်ရှိသူတို့သည် အဘယ်သောအခါမှ အောင်မြင်ကြလိမ့်မည်မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အကြင်သူထက် ပိုမို၍ မတရားသောသူသည် မည်သူရှိဦးမည်နည်း။ ထိုသူသည် အလ္လာဟ်အရှင်မြတ်အပေါ်၌ မုသားကို ကြံဖန်လီဆယ်၍ စွပ်စွဲခဲ့လေသည်။ သို့တည်းမဟုတ် ထိုသူသည် ထိုအရှင်မြတ်၏ သက်သေလက္ခဏာတော်များကို မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်ခဲ့လေသည်။ ဧကန် စင်စစ် ပြစ်မှုကျူးလွန်သူတို့သည် အောင်မြင်မှုအလျင်းရရှိကြမည် မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

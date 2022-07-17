@@ -710,6 +710,12 @@ Za vas vŭv vŭzmezdieto ima zhivot, o, razumni khora, za da se poboite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇၉။	ဤလက်စားချေခြင်း ပညတ်တော်၌ သင်တို့အဖို့ အသက်ရှင်ကြောင်းပါရှိ၏။ အို - ပညာရှိတို့၊ ထိုပညတ်တော်ကို စီရင်တော်မူခြင်းမှာ သင်တို့သည် ဒုစရိုက်အမှုအခင်းကို တွန်းလှန်ကြဉ်ရှောင် ဖို့ရာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ဆင်ခြင်တုံတရားနှင့်ပြည့်စုံသော ပညာရှင် အပေါင်းတို့၊ စင်စစ်သော်ကား (ယင်းကဲ့သို့) လက်စား ချေခြင်း၌ အသင်တို့အဘို့ရာ အသက်ရှင်ခြင်းရှိသည်။ သို့မှသာလျှင် အသင်တို့သည် ကြဉ်ရှောင်သူများ ဖြစ်တန်ကြရာပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

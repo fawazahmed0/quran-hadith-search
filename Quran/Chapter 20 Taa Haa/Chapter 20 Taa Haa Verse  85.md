@@ -710,6 +710,12 @@ Reche: “Veche izpitakhme Nie tvoya narod sled teb i gi zabludi as-Samiri.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၅။	အို--မူစာ၊ ငါသည် သင့်ကွယ်ရာ၌ သင့်လူများကို စုံစမ်းတော်မူပြီး၊ ၎င်းတို့အား စာမရီသည် လမ်းမှားသို့ ယူဆောင်သွားလေပြီဟု ဗျာဒိတ်ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်က (ဤသို့)မိန့်ကြားတော်မူခဲ့ လေသည်။ (အို-မူစာ) ဧကန်စင်စစ် ငါအရှင်မြတ်သည် အသင်၏နောက်ကွယ်တွင် အသင်၏အမျိုးသားများအား စမ်းသပ်တော်မူခဲ့လေသည်။ စာမိရီ သည် ၎င်းတို့အား လမ်းမှားစေခဲ့လေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

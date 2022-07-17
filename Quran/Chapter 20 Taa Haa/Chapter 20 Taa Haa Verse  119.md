@@ -710,6 +710,12 @@ I ne shte izpitash tam nito zhazhda, nito slŭnchev pek.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၉။	ဥယျာဉ်တော်အတွင်း၌ သင်သည် ရေငတ်ခြင်းကို ခံရမည်မဟုတ်၊ နေရှိန်တောက်လောင်ပူပြင်းခြင်းကိုလည်း ခံရမည်မဟုတ်ချေဟု ဗျာဒိတ်ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ဧကန်စင်စစ် အသင်သည် ယင်းသုခဘုံ၌ ရေမွတ်သိပ်မည်လည်းမဟုတ်ပေ။ ထို့ပြင် အသင်သည် နေပူခံရမည်လည်း မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

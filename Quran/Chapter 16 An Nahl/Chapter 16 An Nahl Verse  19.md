@@ -710,6 +710,12 @@ Allakh znae kakvo spotaĭvate i kakvo razkrivate
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	အလ္လာဟ်အရှင်မြတ်သည် သင်တို့ဖုံးကွယ်လျှို့ဝှက်ထားသောအရာများ၊ သင်တို့ထုတ်ဖော်ကြေငြာသောအရာ များကို သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့လျှို့ဝှက်ကြသောအကြောင်းကိစ္စများကိုလည်းကောင်း၊ အသင်တို့ ထင်ရှားစေကြကုန်သော အကြောင်းကိစ္စများကိုလည်းကောင်း၊ (ကောင်းစွာ)သိရှိတော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

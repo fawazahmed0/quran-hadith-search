@@ -710,6 +710,12 @@ Kazhi: “Ne sa ravnostoĭni skvernoto i priyatnoto, dori da ti e kharesala mno
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝဝ။	အို-တမန်တော် ဟောကြားလော့။ များပြားသောမကောင်းမှုများက သင်ကို ဆွဲငင်သော်လည်း မကောင်းမှုနှင့် ကောင်းမှုသည် ထပ်တူထပ်မျှမဟုတ်ပေ။ ထို့ကြောင့် အို-ပညာရှိအပေါင်းတို့ သင်တို့သည် အောင်မြင်မှုရစေခြင်းငှား အလ္လာဟ်အသျှင်မြတ်၏အမှုတော်ကို မပျက်မကွက်ရအောင် သတိမူကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို- နဗီတမန်တော်) အသင်သည် (ဤသို့) ပြောကြားပါလေ။ “မသန့်ရှင်း မစင်ကြယ်သောအရာများ၏ ပေါများမှုသည် အသင့်အား ဝမ်းသာအားရစေသော်လည်း မသန့်ရှင်း မစင်ကြယ်သောအရာများနှင့် သန့်ရှင်းစင်ကြယ်သောအရာများသည် မတူချေ။ သို့ဖြစ်ပေရာ အို- ခွဲခြားသိနိုင်သော နိသမ္မဉာဏ်ရှင် အပေါင်းတို့ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား ကြောက်ရွံ့ကြလေကုန်။ သို့မှသာလျှင် အသင်တို့သည်အောင်မြင်ကြလတ္တံ့။ (ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

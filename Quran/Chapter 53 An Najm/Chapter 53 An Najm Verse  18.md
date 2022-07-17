@@ -710,6 +710,12 @@ Toĭ vidya nyakoi ot naĭ-golemite znameniya na svoya Gospod
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	ထိုအခါ တမန်တော်သည် မိမိအရှင်သခင်၏ ခမ်းနားကြီးကျယ်အ့ံဖွယ်သောတန်ခိုးနိမိတ်လက္ခဏာတော်များ အနက် လက္ခဏာတော်တစ်ပါးကို မျက်ဝါးထင်ထင်မုချဧကန်မြင်ရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ထိုအဖော်သည် ၎င်းအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ ကြီးကျယ်လှစွာသော သက်သေလက္ခဏာတော်များကို တွေ့မြင်ခဲ့သည်မှာ အမှန်ပေတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

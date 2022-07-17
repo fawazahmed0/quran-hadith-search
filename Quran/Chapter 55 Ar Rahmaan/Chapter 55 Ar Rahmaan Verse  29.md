@@ -710,6 +710,12 @@ Umolyava Go vsichko na nebesata i na zemyata. Vseki mig izyavyava Toĭ nyakakvo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	ကမ္ဘာမြေပြင် မိုးကောင်းကင်ဝယ် ရှိရှိသမျှတို့သည် အရှင်မြတ်အထံတော်၌ ဆုပန်ကြ၏၊ အရှင်မြတ် နေ့ရှိသမျှ စိုးမိုးအုပ်ချုပ်တော်မူလျက်ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မိုးကောင်းကင်များ၌ ရှိသမျှတို့သည် လည်းကောင်း၊ ပထဝီမြေ၌ ရှိသမျှတို့သည် လည်းကောင်း၊ ထိုအရှင်မြတ်ထံတော်၌သာလျှင် (မိမိတို့၏ အလိုဆန္ဒများကို) တောင်းခံကြကုန်၏။ ထိုအရှင်မြတ်သည် နေ့စဉ် အရေးကိစ္စတစ်ခုခုကို ဆောင်ရွက်လျက် ရှိနေတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

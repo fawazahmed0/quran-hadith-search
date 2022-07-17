@@ -710,6 +710,12 @@ I ostavikhme za tyakh spomen sred setnite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၉၊၁၂ဝ။ ထို့အပြင် ငါသည် နောင်လာနောက်သားတို့အား သူတို့ကို တမန်တော်မူစာနှင့် တမန်တော်ဟာရွန်တို့အပေါ်သို့ အေးချမ်းသာယာခြင်းမင်္ဂလာတော်သက်ရောက်ပါစေသောဝ်ဟူ၍ ဆုတောင်းမေတ္တာပို့သစေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ငါအရှင်မြတ်သည် နောင်လာနောက်သားတို့တွင် ၎င်းတို့နှစ်ဦးစလုံးနှင့်ပတ်သက်၍ (၎င်းတို့နှစ်ဦးစလုံးအား ကောင်းမွန်စွာ သတိရခြင်းကို) ရှိစေတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

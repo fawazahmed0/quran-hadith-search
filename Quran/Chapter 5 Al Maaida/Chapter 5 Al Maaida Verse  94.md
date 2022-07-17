@@ -710,6 +710,12 @@ O, vyarvashti, Allakh naistina vi izpitva s ulova, koĭto dostigat rŭtsete i k
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၄။	အို-ယုံကြည်သူအပေါင်းတို့ အလ္လာဟ်အသျှင်မြတ်သည် သင်တို့အား သင်တို့လက်နက်များနှင့် ဖမ်းဆီးရသောအမဲများနှင့်စပ်လျဉ်း၍ အမှန်ပင်စုံစမ်းတော်မူလိမ့်မည်။ အလ္လာဟ်အသျှင်မြတ်သည် သင်တို့အနက် အဘယ်သူသည် အသျှင်မြတ်အား တိတ်တဆိတ်ကြောက်ရွံ့ရိုကျိုးသည်ကို သိစိမ့် သောငှာ ယင်းကဲ့သို့ စုံစမ်းတော်မူမည်။ ယင်းသို့ စုံစမ်းတော်မူပြီးနောက် တရားတော်ကို ချိုးဖောက် ကျူးလွန်သူသည် အလွန်ပြင်းပြနာကျင်သော အပြစ်ဒဏ်ကို ခံစားရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို- ‘မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူအပေါင်းတို့ ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် မိမိအား အကွယ်၌ မည်သူကြောက်ရွံ့သည်ကိုသိတော်မူခြင်းငှာ အသင်တို့၏လက်များနှင့် လှံစွပ်များမှီနိုင်သော အချို့အမဲများဖြင့် အသင်တို့အား စမ်းသပ်တော်မူမည်။ သို့ဖြစ်ပေရာ မည်သူမဆို ထို (ကဲ့သို့ ထုတ်ဖေါ်မိန့်ကြားတော်မူပြီး) နောက် (ထိုအမဲများကို ပစ်ခတ်ဖမ်းဆီးခြင်းအားဖြင့်) ကျူးကျော်ခဲ့ပါမူ ထိုသူတို့၏အဖို့ (နောင်တမလွန်ဘဝတွင်) အလွန်နာကျင်ဖွယ်ဖြစ်သောပြစ်ဒဏ်သည် အဆင်သင့်ရှိပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

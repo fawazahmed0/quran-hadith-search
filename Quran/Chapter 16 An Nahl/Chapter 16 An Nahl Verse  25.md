@@ -710,6 +710,12 @@ za da ponesat v Denya na vŭzkresenieto vsichki svoi tovari i nyakoi tovari na z
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	ရှင်ပြန်ထမြောက်ရသောနေ့တော်ကြီး၌ သူတို့သည် မိမိတို့ဝန်ထုပ်ဝန်ပိုးများကို လျှော့ပေါ့ခြင်းမရှိပဲ ပြည့်စုံစွာ ထမ်းရသည့်အပြင် သူတို့ပညာမဲ့သွေးဆောင်သောသူတို့၏ အထုပ်အပိုးအချို့ကိုလည်း ထမ်းရမည်။ သူတို့ ထမ်းရသောဝန်ထုပ်မှာ မကောင်းဆိုးဝါးဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 နောက်ဆုံး၌ ၎င်းတို့သည် ကိယာမတ် ရှင်ပြန်ထမည့်နေ့တွင် မိမိတို့၏ ဝန်ထုပ်များကိုလည်း အပြည့် အဝထမ်းဆောင်ကြရပေမည်။ ထိုမှတစ်ပါး ၎င်းတို့သည် (မိမိတို့)အသိပညာမရှိဘဲ လမ်းလွဲစေခဲ့ကြသောသူတို့၏ ဝန်ထုပ်ဝန်ပိုးများကို ထမ်းဆောင်ကြရပေမည်။ သတိပြုကြလေကုန်။၎င်းတို့သယ်ပိုးထမ်းရွက်ကြကုန်သော ဝန်ထုပ်ဝန်ပိုးသည်အဘယ်မျှဆိုးရွားလှပေသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

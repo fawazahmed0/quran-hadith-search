@@ -710,6 +710,12 @@ Tam Zakariya pozova svoya Gospod. Reche: “Gospodi moĭ, dari mi ot Teb dobro 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	ထိုအခါ တမန်တော် ဇကရီယာသည် မိမိ၏ အသျှင်သခင်အား ဝတ်ပြုပြီးလျှင် အို အကျွနု်ပ်၏ အသျှင်သခင် အသျှင်မြတ်၏ ကောင်းကြီးမင်္ဂလာတော်အထဲမှ သားကောင်းရတနာ ပေးသနားတော် မူပါ။ အသျှင်သည် ဆုတောင်းခြင်းကို ကြားတော်မူသောအသျှင်ဖြစ်တော်မူပါ၏ဟု ဆုတောင်း၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (မရ်ယမ် သခင်မ၏ ပြန်ကြားချက်ကို ကြားနာရလေသော်၊ နဗီတမန်တော်) ဇကရိယာ (အလိုင်ဟစ္စလာမ်)သည်ထိုအခါ ထိုနေရာ၌ပင် 1မိမိအား မွေးမြူတော်မူသောအရှင်မြတ်ထံတော်၌ ဆုတောင်းပတ္ထနာ ပြုခဲ့လေသည်။ (ဆုတောင်းရာ တွင်) ထိုနဗီတမန်တော် ဇကရိယာ(အလိုင်ဟစ္စလာမ်) က အို-ကျွန်တော်မျိုးတို့အား မွေးမြူတော်မူသောအရှင်၊ အရှင်မြတ်သည် ကျွန်တော်မျိုးကို မိမိ အထံတော်မှစင်ကြယ်သန့်ရှင်း အပြစ်ကင်းသော သားကောင်းရတနာတစ်ပါး ကို ပေးသနားတော်မူပါ။ မလွဲဧကန် အရှင်မြတ်သည် ဆုတောင်းပတ္ထနာများကို ကြားတော်မူသောအရှင်မြတ်ပင်ဖြစ်တော်မူ ပေသတည်း ဟု လျှောက်ထားပန်ကြားခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

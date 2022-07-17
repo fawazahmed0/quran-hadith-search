@@ -710,6 +710,12 @@ Za takova deĭnite da deĭstvat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၁။	ထို့ကြောင့်ကြိုးစားအားထုတ်သူတို့သည် ယင်းအောင်မြင်မှုရရှိဖို့ရာ ကြိုးစားအားထုတ်ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ကောင်းမြတ်သော အကျင့်သီလများကို) ကျင့်မူဆောက်တည်ကြသောသူတို့သည် ဤကဲ့သို့သော အောင်မြင်မှုရယူရန်) အလို့ငှာ ကျင့်မူ ဆောက်တည်ကြရာသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

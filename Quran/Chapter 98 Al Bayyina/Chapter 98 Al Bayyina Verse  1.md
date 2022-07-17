@@ -710,6 +710,12 @@ Onezi ot khorata na Pisanieto i sŭdruzhavashtite, koito ne vyarvakha, ne se raz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။ ရှေးကျမ်းတော်ရသူများနှင့် ဆင်းတုဝါဒီတို့သည် မိမိတို့ထံသို့ ထင်ရှားသောသက်သေခံချက် ကျရောက်လာသည့် တိုင်အောင် မိမိတို့အယူဝါဒများကို စွန့်လွှတ်ကြမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ရှေးအထက်ကျမ်းဂန်ကို ရရှိခဲ့ကြသောသူတို့ အနက်မှလည်းကောင်း၊ မွရှ်ရစ်က် တစ်စုံတစ်ရာကို အလ္လာဟ်အရှင်မြတ်နှင့် တွဲဖက် ကိုးကွယ်ကြသူတို့ အနက်မှလည်းကောင်း၊ သွေဖည် ငြင်းပယ်သောသူတို့မှာမူကား၊ ၎င်းတို့ထံ ထင်ရှားစွာသော သက်သေသာဓက ရောက်ရှိလာခြင်း မရှိသမျှကာလပတ်လုံး (မိမိတို့၏ မမှန်ကန်သောအယူဝါဒမှ) စွန့်ခွာကြမည့်သူများ မဟုတ်ခဲ့ကြပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

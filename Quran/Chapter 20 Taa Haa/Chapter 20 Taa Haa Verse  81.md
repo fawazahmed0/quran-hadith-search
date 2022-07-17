@@ -710,6 +710,12 @@ Yazhte ot blagata, koito vi darikhme, i ne prekalyavaĭte v tova, ta da ne vi s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၁။	ထိုအခါငါက သင်တို့သည် ငါချပေးသနားတော်မူသော မွန်မြတ်သောအစာများကို စားကြလော့၊ သို့သော်အစား မကျူးကြလင့်၊ ကျူးကြလျှင် ငါ၏အမျက်တော်ရှလိမ့်မည်၊ အကြင်သူကို ငါ၏အမျက်တော်ထိအံ့၊ ထိုသူသည် အမှန်ပင်ပျက်စီးဆုံးရှုံးရာ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် ငါအရှင်မြတ်က အသင်တို့ အားချီးမြှင့်ပေးသနားတော်မူခဲ့သည့် စင်ကြယ်သန့်ရှင်းသော (စားဖွယ်များ)ကို စားသုံးကြလေကုန်။ သို့ရာတွင် အသင်တို့သည်ဤသည်နှင့်စပ်လျဉ်း၍ စည်းကမ်း မကျူးလွန်ကြကုန်လင့်။သို့ကျူးလွန်ခဲ့သည်ရှိသော် ငါအရှင်မြတ်၏ အမျက်တော်သည်အသင်တို့၌ သက်ရောက်မည်ဖြစ်ပေသည်။ စင်စစ်မူကားမည်သူမဆို ငါအရှင်မြတ်၏အမျက်တော်သည် ထိုသူ၏အပေါ်၌ သက်ရောက်ခဲ့မူ ဧကန်မလွဲ ထိုသူသည် (ဂျဟန္နမ် ငရဲဘုံသို့)ကျသွားပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

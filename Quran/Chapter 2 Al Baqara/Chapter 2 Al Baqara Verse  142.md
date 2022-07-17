@@ -710,6 +710,12 @@ Shte kazhat gluptsite ot khorata: “Kakvo gi otkloni ot dosegashnata im posoka 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၂။	လူများအနက်မှ ဉာဏ်နည်းသူတို့က သူတို့အား မိမိတို့ရှေးက မျက်နှာမူသော (ကေဗလာ)မှ အခြား ဘက်သို့ အယ်သူ မျက်နှာလှည့်စေသနည်း။ ပြောဆိုလတ္တံ့။ သင်တမန်တော်ဟောကြားလော့။ အလ္လာဟ်သည် အေ့ရှနှင့်အနောက်ကို ပိုင်တော်မူ၏။ အရှင်မြတ်သည် လမ်းညွှန်လိုသောသူအား လမ်းမှန်ကို ညွှန်ပြတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မကြာမီကာလအတွင်း လူတို့အနက်မှ (ကစ်ဗ်လဟ် ပြောင်းလွဲခြင်း၏ သဘောတရားကို နားမလည်ကြသော) လူ့ဗာလတို့က အဘယ်အရာသည် ယင်း မုစ်လင်မ် များကို မိမိတို့၏ နဂိုမူလ မျက်နှာမူရာ အရပ်ဒိသာဘက်မှ ပြောင်းလွဲအောင် ပြုဘိသနည်းဟု မုချ (ကဲ့ရဲ့ပြစ် တင်) ပြောဆိုကြကုန်အံ့။ (အို-နဗီတမန်တော်) အသင်သည် အရှေ့နေထွက်ရာ အရပ်ကိုလည်းကောင်း၊ အနောက် နေဝင်ရာ အရပ်ကိုလည်းကောင်း၊ (အရပ်ရှစ်မျက်နှာ လုံးကို) အလ္လာဟ်အရှင်မြတ်သည်သာလျှင် ပိုင်ဆိုင်တော်မူ သည်၊ ထိုအသျှင်မြတ်သည် မိမိနှစ်လိုတော်မူသော သူကို သာလျှင် ဖြောင့်မတ်မှန်ကန်သော တရားလမ်းသို့ ညွှန်ကြားပြသ ပို့ဆောင်တော်မူသည်ဟု (ထိုသူတို့အား) တုံ့ပြန်ဖြေကြား ပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

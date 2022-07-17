@@ -710,6 +710,12 @@ I predi teb izprashtakhme samo mŭzhe, na koito davakhme otkrovenie - pitaĭte 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	အို-တမန်တော်၊ သင့်အလျင် ငါသည် မိမိ၏ ဗျာဒိတ်တော်အားဖြင့် မြှောက်စားတော်မူသောလူသားများမှတပါး အခြားအရာများကို တမန်တော်အဖြစ် စေလွှတ်တော်မမူချေ။ သင်မသိလျှင် ကျမ်းဟောင်းရရှိသူတို့အား မေးမြန်း လော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်သော်ကား ငါအရှင်မြတ်သည် အသင့်အလျင်လည်း ယောက်ျားများကိုသာလျှင်(ရစူလ် တမန်တော်များအဖြစ်) စေလွှတ်တော်မူခဲ့လေသည်။ ငါအရှင်မြတ်သည်ထိုရစူလ်တမန်တော်များထံသို့ ဝဟီ အမိန့်တော်ကို ပို့တော်မူခဲ့လေသည်။ သို့ဖြစ်ပေရာ အကယ်၍ အသင်တို့သည် (မိမိတို့ကိုယ်တိုင်)မသိကြလျှင် (ရှေး)ကျမ်းဂန်ရရှိသူတို့အား မေးမြန်းကြည့်ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

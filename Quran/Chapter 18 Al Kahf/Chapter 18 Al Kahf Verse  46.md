@@ -710,6 +710,12 @@ Imotite i detsata sa ukrasata na zemniya zhivot, no neprekhodnite pravedni dela 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။	ဥစ္စာပစ္စည်း၊ သားသမီအခြွေအရံသည် ဤလောကဘဝ၏ တန်ဆာပလာသာဖြစ်၏။ သို့သော်တာရှည်ခိုင်မြဲသော ကုသိုလ်ကောင်းမှုများသာလျှင် သင်၏ ကျေးဇူးတော်သခင်၏ မျက်မှောက်တော်ဝယ် သာလွန်မွန်မြတ်၏။ မျှော်လင့်ခြင်းအတွက်လည်း သာလွန်ကောင်းမွန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဥစ္စာပစ္စည်းများသည်လည်းကောင်း၊ သားသမီးများသည်လည်းကောင်း၊ လောကီဘဝ၏ တင့်တယ်မှုမျှပင်ဖြစ်ပေသည်။ သို့ရာတွင် ဆက်လက်၍ အမြဲတစေ တည်အံ့သောကောင်းမြတ်သော အကျင့်သီလတို့မှာမူကား၊ အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်တွင် ကုသိုလ်အကျိုးအားဖြင့်လည်း အကောင်းဆုံးပင် ဖြစ်ကြပေသည်။မျှော်လင့်ချက်အားဖြင့်လည်း အကောင်းဆုံးပင်ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

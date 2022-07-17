@@ -710,6 +710,12 @@ I shte vi podlozhim na izpitanie, dokato otlichim sred vas boreshtite se po pŭt
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	အေ-ယုံကြည်သူအပေါင်းသူတော်ကောင်းတို့၊ သင်တို့အနက် မည်သူသည် ငါ၏ လမ်းတော်ဝယ်အစွမ်းကုန် ကြိုးစားအားထုတ်တည်တ့ံခိုင်မြဲသည်ကို သိတော်မူသည့်တိုင်အောင် ငါသည် သင်တို့ကို စုံစမ်းတော်မူမည်၊ သင်တို့၏ စွမ်းရည်သတ္တိကိုလည်း စုံစမ်းတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ဧကန်မလွဲ ငါအရှင်မြတ်သည် အသင်တို့အနက်မှ သက်စွန့်ကြိုးပမ်း ဆောင်ရွက်သူတို့ကို သိရှိတော်မူသည့် တိုင်အောင်လည်းကောင်း၊ အသင်တို့၏ အခြေအနေများကို စမ်းသပ် (ကြည့်ရှု)တော်မူသည့် တိုင်အောင်လည်းကောင်း၊အသင်တို့အား စမ်းသပ်တော်မူအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

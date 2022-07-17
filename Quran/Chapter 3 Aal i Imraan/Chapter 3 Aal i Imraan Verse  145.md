@@ -710,6 +710,12 @@ Nikoĭ ne umira inache osven s pozvolenieto na Allakh v predpisan srok. Koĭto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၅။	အလ္လာဟ်အသျှင်မြတ်၏အမိန့်တော်မရှိဘဲ သတ်မှတ်ထားသောအချိန်မစေ့ဘဲ မည်သူမှ အသက် မကုန်နိုင်ချေ။ အကြင်သူသည် လောကီဆုကို မက်မော၏။ ထိုသူအား ထိုဆုကို ပေးတော်မူ၏။ အကြင်သူသည် နောင်ဘဝဆုကိုလိုလား၏။ ထိုဆုကို ထိုသူအား ငါအသျှင်ပေးတော်မူ၏။ ငါသည် ကျေးဇူးတော်သိသူတို့အား ဆုပေးသနားတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး မည်သူတစ်ဦးတစ်ယောက်၌မျှအလ္လာဟ်အရှင်မြတ်၏ အမိန့်တော်မရှိဘဲလျက် သေဆုံးနိုင်ခွင့်မရှိချေ။ (လူတိုင်းအဖို့သေဆုံးရန်အတွက်) တ်မှတ်ထားသော အချိန်တစ်ချိန်သည် ရေးသားပြီးဖြစ်၏။ တဖန်မည်သူမဆို လောကီအကျိုးကို အလိုရှိ ခဲ့ပါမူ၊ ငါအရှင်မြတ်သည်(အလိုတော်ရှိပါလျှင်) ထိုသူအား လောကီအကျိုးကို ပေးသနားတော်မူအံ့။ ထိုနည်းတူစွာ မည်သူမဆို နောင်တမလွန်ဘဝ၏အကျိုးကျေးဇူးကို အလိုရှိခဲ့ပါလျှင်၊ ငါအရှင်မြတ်သည် ထိုသူအား နောင်တမလွန်ဘဝ၏ အကျိုးကို ပေးသနားတော်မူအံ့။၎င်းပြင် ငါအရှင်မြတ်သည် ကျေးဇူးသိတတ်သော သူတို့အားမကြာမီ အကျိုးပေးဆပ်တော်မူအံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

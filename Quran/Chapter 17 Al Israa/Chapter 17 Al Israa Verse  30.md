@@ -710,6 +710,12 @@ Tvoyat Gospod uvelichava prepitanieto za kogoto pozhelae i Toĭ go namalyava. Z
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	မှတ်သားလော့။ သင်၏ ကျေးဇူးတော်သခင်သည် အလိုတော်ရှိသူအား ရိက္ခာဥစ္စာပေါများကြွယ်ဝစေတော်မူ၏။ ဆင်းရဲနွမ်းပါးစေလိုတော်မူသူများအား ဥစ္စာပစ္စည်းကျပ်တည်းစေတော်မူ၏။ မှတ်သားကြလော့။ အရှင်မြတ်သည် မိမိကျေးကျွန်တို့ကို အမြဲသိတော်မူသောအရှင်၊ မြင်တော်မူသောအရှင်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် မိမိအလိုရှိတော်မူသောသူအားရိက္ခာကို တိုးချဲ့၍ပေးသနားတော်မူ၏။ ထိုနည်းတူစွာ ထိုအရှင်မြတ်သည်ပင်(မိမိအလိုမရှိတော်မူသောသူအား ရိက္ခာကို) ကျဉ်းကျပ်စေတော်မူလေသည်။ ဧကန်မလွဲ ထိုအရှင်မြတ်သည် မိမိကျွန်များ၏(အခြေအနေ)ကို အလွန်တရာ သိတော်မူသောအရှင်၊ အလွန်တရာမြင်တော်မူသောအရှင်၊ ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

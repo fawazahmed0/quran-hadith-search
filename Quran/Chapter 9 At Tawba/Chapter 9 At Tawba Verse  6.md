@@ -710,6 +710,12 @@ I ako te moli za zashtita nyakoĭ ot sŭdruzhavashtite, zashtiti go, ta da chue
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	အို-မိုဟမ္မဒ၊ ဆင်းထုကိုးကွယ်သူတို့မှ တစ်စုံတစ်ယောက်သောသူသည် သင်၏ အစောင့်အရှောက်ကို ရှားမှီး၏။ထိုသူသည် အလ္လာဟ်အရှင်မြတ်၏ ဗျာဒိတ်စကားတော်ကို ကြားနိုင်ရန် ရန်သူအား စောင့်ရှောက်လော့။ထို့နောက်သူ့အား သူ၏ လုံခြံုရာဌာနသို့ ပို့ဆောင်လော့၊ အကြောင်းမူကား သူတို့သည် အသိဉာာဏ်မရှိရှာသောသူ များဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် အကယ်၍ (ပဋိညာဉ်ကိုချိုးဖောက်သော) မွတ်ရှ်ရစ်က်တို့အနက်မှ တစ်ဦးတစ်ယောက် သောသူသည် အသင့်ထံတွင် အကာအကွယ်ရလိုခဲ့ပါလျှင် အသင်သည်ထိုသူအား ၎င်းသည် အလ္လာဟ် အရှင်မြတ်၏အာယတ်တော်ကိုကြားနာနိုင်အံ့သောငှာ ကာကွယ်ပါလေ၊) ထို့နောက် အသင်သည် ထိုသူ့အား ၎င်း၏ဘေးရန်ကင်းငြိမ်းရာဌာနသို့ ပို့ဆောင်၍ပေးပါလေ။ ဤ(အမိန့်တော်ကိုထုတ်ပြန်တော်မူခြင်း)ကား ၎င်းတို့သည် မသိနားမလည်သောသူများ ဖြစ်ကြသောကြောင့်ပင်တည်း။(ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

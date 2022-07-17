@@ -710,6 +710,12 @@ I go blagovestikhme za smiren sin
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၁။	ထိုအခါ ငါသည် သူ့အား နူးည့ံသိမ်မွေ့သောသားရတနာတစ်ပါးကို သနားတော်မူမည့်သုမင်္ဂလာသတင်းကို ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ငါအရှင်မြတ်သည် ထိုအီဗ်ရာဟီမ်အား ခန္တီတရားနှင့် ပြည့်စုံသောသားတော်တစ်ပါး၊ (ချီးမြှင့်တော်မူမည် ဖြစ်ကြောင်း) ဝမ်းမြောက်ဖွယ် သတင်းပေးတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

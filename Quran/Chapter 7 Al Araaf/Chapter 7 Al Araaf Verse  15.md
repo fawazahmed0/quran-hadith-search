@@ -710,6 +710,12 @@ Reche: “Ti si sred ot·srochenite.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	အသျှင်မြတ်က ကောင်းပြီ။ သင်သည် အချိန်ရွှေ့ဆိုင်းခံရသူတို့တွင် အပါအဝင်ဖြစ်'ဟု မိန့်တော်မူ ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (သို့ဖြစ်ပေရာ) ထိုအရှင်မြတ်က (ဟယ်အစ်ဗ်လီးစ်) မုချဧကန် အသင်သည် ရွှေ့ဆိုင်းခွင့် ရရှိပြီးဖြစ်သည်ဟု မိန့်ကြားတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

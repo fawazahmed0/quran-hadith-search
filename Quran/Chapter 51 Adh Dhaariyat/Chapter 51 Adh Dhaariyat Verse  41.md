@@ -710,6 +710,12 @@ I za aditite, sreshtu koito izpratikhme opustoshitelniya vyatŭr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	ထို့အပြင်အားဒ်လူမျိုးထံသို့ သေကြေပျက်စီးသောလေဆိုးကို ငါစေလွှတ်တော်မူသောအခါ ထိုလူမျိုး၌ သက်သေ သာဓကတော်တစ်ပါးရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ‘အာဒ်’ အမျိုးသားတို့(၏အဖြစ်အပျက်)၌လည်း (သင်ခန်းစာ)ရှိပေသည်။ တစ်ရံရော အခါဝယ် ငါအရှင်မြတ်သည် ၎င်းတို့အပေါ်၌ မင်္ဂလာကင်းမဲ့သော လေပြင်းမုန်တိုင်းကို စေလွှတ်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

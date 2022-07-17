@@ -710,6 +710,12 @@ I ne smalyavaĭte ot neshtata na khorata, i ne seĭte razvala po zemyata, rush
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈၃။	ထို့အပြင် သင်တို့သည် လူသားတို့အား ၎င်းတို့၏ပစ္စည်းများနှင့်ပတ်သက်၍ မတရားမပြုကြလင့်၊ ထို့အပြင် သင်တို့သည် ကမ္ဘာမြေပေါ်ဝယ်အကျိုးပျက်မှုပွားများအောင် မကောင်းမှုဒုစရိုက်ကို မကျူးလွန်ကြလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်တို့သည် လူတို့အား ၎င်းတို့၏ ဝတ္ထုပစ္စည်းများကိုလျှော့၍ မပေးကြကုန်လင့်။ ထိုမှတစ်ပါးအသင်တို့သည် တိုင်းပြည်တွင် ဖျက်ဆီးသူများအဖြစ် သွားလာလှုပ်ရှား သောင်းကျန်းခြင်းကို မပြုကြကုန်လင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

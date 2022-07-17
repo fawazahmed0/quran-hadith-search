@@ -710,6 +710,12 @@ Setne im izpŭlnyavakhme obeshtanoto i spasyavakhme tyakh i kogoto pozhelaem, i 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	ထို့နောက်ငါသည် သူတို့အား ပေးသနားတော်မူသောဂတိသစ္စာတော်ကို အတည်ပြုတော်မူ၏၊ ငါသည် ရှေး တမန်တော်များနှင့်တကွ အလိုရှိတော်ရှိသူများကို ကယ်တင်တော်မူ၏၊ သို့သော် မတရားကျင့်ကြံသူတို့ကို ဖျက်ဆီးပစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ငါအရှင်မြတ်သည် ထို(ရစူလ်တမန်တော်)များအဖို့ (၎င်းတို့နှင့်ထားရှိတော်မူခဲ့သော)ကတိကို တည်စေတော်မူခဲ့လေသည်။ သို့ဖြစ်ပေရာ ငါအရှင်မြတ်သည် ယင်း(ရစူလ်တမန်တော်)များအားလည်းကောင်း၊ မိမိတို့အလိုရှိ တော်မူသောသူတို့အားလည်းကောင်း၊ ကယ်ဆယ်တော်မူခဲ့လေသည်။သို့ရာတွင် ငါအရှင်မြတ်သည် စည်းကမ်းကျူးလွန်သူတို့အားပျက်စီးစေတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

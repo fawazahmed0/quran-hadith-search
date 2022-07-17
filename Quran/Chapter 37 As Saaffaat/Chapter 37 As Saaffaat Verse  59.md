@@ -710,6 +710,12 @@ osven pŭrvata ni smŭrt, i ne shte bŭdem nakazani?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈၊၅၉။	အကျွနု်််ပ်တို့သည် ပထမကွယ်လွန်သေဆုံးပြီးနောက် နောက်တခါမသေရတော့ဘူးလားမဟုတ်လား၊ ထို့အပြင် အကျွနု်ပ်တို့ကို အပြစ်ဒဏ်မခတ်တော့ဘူးမဟုတ်လား။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကျွန်ုပ်တို့သည် ပထမအကြိမ် သေဆုံးခဲ့ကြခြင်းမှအပ၊ ၎င်းပြင် ကျွန်ုပ်တို့သည် ပြစ်ဒဏ်ပေးခြင်း ခံကြရမည့်သူများလည်း မဟုတ်ပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

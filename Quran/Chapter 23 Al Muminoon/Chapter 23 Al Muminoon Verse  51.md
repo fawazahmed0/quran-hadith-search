@@ -710,6 +710,12 @@ O, pratenitsi, yazhte ot blagata i vŭrshete pravedni dela! Kakvoto i da storite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁။	အို--တမန်တော်အပေါင်းတို့၊ သင်တို့သည် ကောင်းသောအစာအာဟာရကို စားသုံးမှီဝဲ၍ မှန်ကန်မှုကို ပြုကျင့် ကြလော့၊ မှတ်သားကြလော့၊ ငါသည် သင်တို့ပြုကျင့်သမျှတို့ကို သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ရစူလ်တမန်တော်အပေါင်းတို့၊ အသင်တို့သည် (ဟလာလ်) စင်ကြယ်သန့်ရှင်းသောအရာများကို စားသုံးကြလေကုန်။ ၎င်းပြင် အသင်တို့သည် ကောင်းမြတ်သောအကျင့်သီလကို ကျင့်မူ ဆောက်တည်ကြလေကုန်။ ဧကန်အမှန် ငါအရှင်မြတ်သည် အသင်တို့ ကျင့်မူကြသည်တို့ကို အကြွင်းမဲ့သိတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

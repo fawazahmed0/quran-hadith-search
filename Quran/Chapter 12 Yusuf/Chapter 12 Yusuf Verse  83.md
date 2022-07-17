@@ -710,6 +710,12 @@ Reche: “Da, razkrasili sa vi neshto dushite vi. No naĭ-khubavo e da se tŭrp
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၃။	သူတို့သည် မိမိဖခင်ထံသို့ လာပြီးလျှင် အကျိုးအကြောင်းကို ဤသို့ပြောပြသောအခါ ဖခင်က ယင်းသို့မဖြစ်နိုင် ချေ။ သင်တို့၏ စိတ်သည် သင်တို့အား လှည့်စားချေပြီ။ အကျွနု်ပ်မှာမူကား သည်းခံခြင်းတရားကို ခိုင်မြဲစွာ ကိုင်ထားရန်သာရှိတော့သည်။ အလ္လာဟ်အရှင်မြတ်သည် ငါ့သားတို့ကို ငါ့ထံသို့ ယူဆောင်ခဲ့တော်မူကောင်း ယူဆောင်ခဲ့တော်မူလိမ့်မည်။ မှတ်သားကြလော့၊ အရှင်မြတ်သာလျှင် သိတော်မူထသောအရှင်၊ လိမ္မာတော်မူထ သောအရှင်ဖြစ်တော်မူ၏ဟု ပြန်ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(အခါ)ဖခင်က ထိုသို့အလျှင်းမဟုတ်။ အမှန်စင်စစ်မှာမူကား အသင်တို့၏ စိတ်နှလုံးသည် အသင်တို့အဖို့အမှုကိစ္စတစ်ခုကို ကြံစည်ဖန်တီးခဲ့ ခြင်းသာဖြစ်ပေသည်။သို့ဖြစ်ပေရာ သည်းခံခြင်းသာလျှင် အကောင်းဆုံးပင်ဖြစ်ပေသည်။ အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့အားလုံးတို့အား ငါ့ထံသို့ ပြန်လည်ရောက်စေတော်မူလိမ့်မည်ဟု မျှော်လင့်ရာ၏။ဧကန်မလွဲ ထိုအရှင်မြတ်သည် အကြွင်းမဲ့သိတော်မူသောအရှင်၊ဉာဏ်အမြော်အမြင်နှင့် ပြည့်စုံတော်မူသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

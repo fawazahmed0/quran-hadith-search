@@ -710,6 +710,12 @@ Tezi Allakh mozhe i da izvini. Allakh e izvinyavasht, oproshtavasht
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၉။	ဤသူတို့အား အလ္လာဟ်အသျှင်မြတ်သည် အပြစ်လွှတ်ကောင်းလွှတ်တော်မူလိမ့်မည်။ အလ္လာဟ်အသျှင်မြတ်သည် အမြဲတစေ ထောက်ထားညှာတာတော်မူ၏။ အပြစ်လွှတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းသို့ဖြစ်လျှင် အလ္လာဟ်အရှင်မြတ်သည် ထိုကဲ့သို့သောသူတို့အား မကြာမြင့်မီ ခွင့်လွှတ်တော်မူပေမည်။ စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အလွန်တရာမျှ ခွင့်လွှတ်တော်မူသောအရှင်၊ အလွန်တရာမျှ လွတ်ငြိမ်းချမ်းသာခွင့် ပေးသနားတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

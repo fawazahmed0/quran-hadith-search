@@ -710,6 +710,12 @@ za da vŭztsari pravdata i da otmeni lŭzhata, dori prestŭpnitsite da vŭznenav
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	အပြစ်ရှိသူများ ဘယ်လောက်ပင် ခုခံသော်လည်း အသျှင်မြတ်သည် သစ္စာတရားတော်ကို အောင်မြင်စေတော်မူမည်။ ဂုဏ်မောက်ဝါကြွားခြင်းကို အလဟဿဖြစ်စေတာ်မူမည်ဟုလည်း ဆုံးဖြတ်တော်မူပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (သို့ရည်စူးတော်မူခြင်းကား) အပြစ်ရှိသူတို့သည်နှစ် သက်ကြမည်မဟုတ်သော်လည်း အမှန်သည် အမှန်ပင်ဖြစ်ကြောင်း ထင်ရှားစေရန်လည်းကောင်း၊ အမှားသည် အမှားပင်ဖြစ်ကြောင်း ထင်ရှားစေရန်လည်းကောင်း၊ ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

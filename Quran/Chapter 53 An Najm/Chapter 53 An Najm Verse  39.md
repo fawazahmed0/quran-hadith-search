@@ -710,6 +710,12 @@ i chovek shte ima samo onova, za koeto se e postaral
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	ထို့အပြင်လူသားသည် မိမိကြိုးစားအားထုတ်ပြုကျင့်သည့်အတိုင်း အကျိုးအပြစ်ခံစားရမည့်အကြောင်းလည်း ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ မနုဿလူသား၌ ၎င်း၏ ကြိုးပမ်းဆောင်ရွက်ချက်သာလျှင် ရှိမည်ဟူ၍လည်းကောင်း၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

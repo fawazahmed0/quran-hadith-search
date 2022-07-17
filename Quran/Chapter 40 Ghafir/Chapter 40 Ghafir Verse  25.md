@@ -710,6 +710,12 @@ I kogato im donese toĭ istinata ot Nas, rekokha: “Ubiĭte sinovete na onezi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	တမန်တော်(မူစာ)သည် ငါ့အထံတော်မှ သမ္မာတရားတော်ကို ယူဆောင်၍ ၎င်းတို့ထံ သွားရောက်ဟောပြော၏၊ သူတို့က ဟယ်-အချင်းတို့၊ (မူစာ)ယုံကြည်သူတို့မှ မွေးဖွားသောသားယောက်ျားများကို တစ်ယောက်မကျန် သတ်ဖြတ်ကြကုန်၊ သမီးမိန်းမကိုသာ အသက်နှင့်ချန်ထားကြဟု ဆိုကြ၏၊ အမှန်ဆိုသော် ထိုအယူလွဲသူတို့၏ ဥပါယ်တမည် အကြံအစည်များသည် အမှားမှားအယွင်းယွင်းသာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ထိုမူစာသည် ငါအရှင်မြတ်အထံတော်မှ အမှန်တရားကိုဆောင်ယူ၍ ၎င်းတို့ထံ ရောက်ရှိလာသောအခါ ၎င်းတို့က "အသင်တို့သည် ထိုမူစာနှင့်အတူ 'အီမာန်' သက်ဝင်ယုံကြည်ခဲ့ကြသောသူတို့၏ သားယောက်ျားကလေးများကို သတ်ဖြတ်ကြ၍ ၎င်းတို့၏မိန်းမတို့ကိုမူကား သတ်ဖြတ်ခြင်းမပြုဘဲ အသက်ရှင်စွာ ထားရှိကြလေကုန်"ဟုပြောဆိုခဲ့ကြ ကုန်၏။ သို့တစေလည်း "ကာဖိရ်" သွေဖည်ငြင်းပယ် ကြလေသောသူတို့၏ အကြံအစည်မှာ လွဲမှားခဲ့သည်သာ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

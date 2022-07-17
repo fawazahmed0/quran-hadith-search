@@ -710,6 +710,12 @@ Byakha podigravani pratenitsi i predi teb, no onezi, koito im se prismivakha, gi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	အို--တမန်တော်၊ သင့်အလျင်ပွင့်ခဲ့ကြသောတမန်တော်တို့သည်လည်း မုချဧကန်ပြောင်လှောင်ခြင်းကို ခံရ လေ၏၊ သို့သော်သူတို့ကို မထီလေးစားပြုသောသူတို့အား ၎င်းတို့၏ပျက်ချော်မှုများက ဝိုင်းဝန်းထားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် မချွတ်ဧကန် အသင့်အလျင်လည်း ရစူလ်တမန်တော်များသည် ပြက်ရယ်သမှုပြုခြင်းကို ခံခဲ့ကြရလေ၏။ သို့ဖြစ်ပေရာ ထိုရစူလ်တမန်တော်များအား ပြက်ရယ်သမှု ပြုကြသူတို့အား ထိုပြက်ရယ် သမှုပြုခြင်း၏ ပြစ်ဒဏ်သည်ဝိုင်းဝန်းခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

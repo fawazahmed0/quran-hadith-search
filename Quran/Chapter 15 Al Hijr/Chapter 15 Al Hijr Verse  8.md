@@ -710,6 +710,12 @@ Nie ne nizposlavame angelite s drugo osven s istinata. I togava [nevernitsite] n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	ငါအရှင်မြတ်သည် ကောင်းကင်စေတမန်တော်များကို တရားသောအမှုကိစ္စမှတပါး အခြားကိစ္စအတွက် မြေပေါ်သို့ စေလွှတ်တော်မမူချေ။ ယင်းသို့စေလွှတ်တော်မမူသောအခါ မိစ္ဆာမိုက်တို့ကိုလည်း ခံတော်မူမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (စင်စစ်သော်ကား) ငါအရှင်မြတ်သည် တိကျမှန်ကန်သောစီရင်ဆုံးဖြတ်ချက်မရှိဘဲလျက် မလာအိကဟ် ကောင်းကင်တမန်များကို ချပေးတော်မူသည် မဟုတ်ပေ။ ထိုမှတပါး၎င်းတို့သည် ထို(ကောင်းကင်တမန်များ ရောက်ရှိလာကြသော)အခါ ရွှေ့ဆိုင်းခွင့် ပေးသနားတော်မူခြင်းကို ခံရသူများလည်း ဖြစ်ကြမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

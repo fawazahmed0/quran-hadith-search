@@ -710,6 +710,12 @@ blagodeyanie ot Nas. Taka vŭzdavame na onzi, koĭto e priznatelen
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	ယင်းသို့ ကယ်နှုတ်တော်မူခြင်းမှာ ငါ၏ကောင်းကြီးမင်္ဂလာတော်ကြီးဖြစ်၏၊ ငါသည် ငါ၏ ဂုဏ်ကျေးဇူးတော်ကို ချီးကျုးသူအား ယင်းကဲ့သို့အောင်ဆုမင်္ဂလာချပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်အထံတော်မှ ကျေးဇူးပြုတော်မူသောအားဖြင့် ကျေးဇူးသိတတ်သောသူအား ငါအရှင်မြတ်သည် ထိုနည်းအတိုင်းပင် အစားပေးလေ့ ရှိတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

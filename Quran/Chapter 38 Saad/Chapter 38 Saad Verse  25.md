@@ -710,6 +710,12 @@ I mu oprostikhme tova. Pri Nas toĭ e priblizhen i ima prekrasna obitel
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	ငါသည် ကျူးလွန်မိသောအပြစ်များကို ခွင့်လွှတ်တော်မူ၏၊ မှတ်သားကြလော့၊ သူသည် ငါ၏ မျက်မှောက် တော်သို့ ဝင်ခွင့်ရှိ၏၊ သူ၏ခရီးပန်းတိုင်သည် သုမင်္ဂလာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ငါအရှင်မြတ်သည် ထို"ဒါဝူဒ်"အား ယင်းကိစ္စကို ခွင့်လွှတ်တော်မူခဲ့၏။ စင်စစ်သော်ကားထို "ဒါဝူဒ်" အဖို့ ငါအရှင်မြတ်အထံတော်၌ (ထူးကဲမြင့်မြတ်သော) အဆင့်အတန်းသည်လည်းကောင်း၊ ကောင်းမြတ်သော နောက်ဆုံးအကျိုးဆက်သည်လည်းကောင်း၊ အမှန်ပင် ရှိပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

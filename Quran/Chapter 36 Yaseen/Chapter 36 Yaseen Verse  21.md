@@ -710,6 +710,12 @@ Posledvaĭte onezi, koito ne tŭrsyat otplata ot vas i sa na praviya pŭt
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	ထိုလူဆက်လက်ပြောကြားသည်မှာ အချင်းတို့၊ တမန်တော်တို့စကားကို နားထောာင်ကြပါကုန်၊ သူတို့သည် တရားတော်ကို ဟောရခြင်းကြောင့် သင်တို့ထံမှ အခကြေးငွေတစ်စုံတစ်ရာမျှမတောင်းချေ၊ သူတို့သည် တရားမှန် ကို ရရှိသူများသာဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့ထံမှ မည်သည့်အကျိုး (မည်သည့်အစား)ကိုမျှ တောင်းဆိုခြင်း မပြုကြသည့်ပြင် မိမိတို့ကိုယ်တိုင်လည်း တရားလမ်းမှန်ကို ရရှိသူများ ဖြစ်ကြကုန်သော (ရစူလ်တမန်တော်)တို့၏လမ်းကို အသင်တို့ လိုက်ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

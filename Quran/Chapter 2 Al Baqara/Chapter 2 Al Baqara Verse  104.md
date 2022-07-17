@@ -710,6 +710,12 @@ O, vyarvashti, ne kazvaĭte: “Zacheti ni!”, a kazvaĭte: “Pozhali ni!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၄။	အို ယုံကြည်သူတို့၊ သင်တို့သည် တမန်တော်အား အကျွန်ု်ပ်တို့တင်လျှောက်သောစကားကို နာတော် မူပါဟု မလျှောက်ထားကြလင့်။ သို့သော် အကျွနု်ပ်တို့၏ဘက်ကို ရှုစားတော်မူပါဟု လျှောက်ထား ကြလော့။ သင်တို့သည် နားစွင့်သူများဖြစ်ကြလော့။ မိစ္ဆာဒိဌိတို့ခံစားကြရန် အလွန်ပြင်းပြ နာကျင်ဘွယ်သောအပြစ်ဒဏ်ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ယုံကြည်ခြင်း သဒ္ဓါတရားထားရှိကြကုန်သော (မုအ်မင်အန်) အပေါင်းတို့၊ အသင်တို့သည် [နဗီတမန်တော် မုဟမ္မဒ်(ဆွ)အထံဝယ် မည်သည့် အကြောင်းအရာကိုမဆို လျှောက်ထားသောအခါ၌] ရာအိနာ ဟူသောပုဒ်ကို မသုံးစွဲကြကုန်လင့်၊ ဥုန်ဇုရ်နာ ဟူသောပုဒ်ကိုသာ သုံးစွဲကြကုန်။ ၎င်းပြင် အသင်တို့သည် [နဗီတမန်တော်မုဟမ္မဒ်(ဆွ) ၏ ဒေသနာတော်များကို မြေဝယ်မကျ] နာခံကြကုန်။ အကြောင်းသော်ကား (ထိုတရားဒေသနာတော်များကို) သွေဖည်ငြင်းဆန် မနာခံကြကုန်သော မိစ္ဆာဒိဋ္ဌိတို့အဘို့မှာ ပြင်းပြနာကျင်ဘွယ်ဖြစ်သော အပြစ်ဒဏ် များသည်အသင့်ရှိနှင့်ချေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

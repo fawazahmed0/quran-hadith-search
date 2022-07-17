@@ -710,6 +710,12 @@ Vyarvaĭte v Allakh i v Negoviya Pratenik, i v Svetlinata, koyato nizposlakhme!
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။ ထို့ကြောင့် အလ္လာဟ်အရှင်မြတ်၊ အရှင်မြတ်၏ တမန်တော်နှင့် ငါချပေးသနားတော်မူသောအလင်းရောင်တို့ကို သက်ဝင်ယုံကြည်ကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့ပြကျင့်သမျှကို အကြွင်းမဲ့သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အားလည်းကောင်း၊ ထိုအရှင်မြတ်၏ရစူလ်တမန်တော်မြတ်အားလည်းကောင်း၊ ငါအရှင်မြတ်ချပေး သနားတော်မူခဲ့သော အလင်းရောင်အားလည်းကောင်း၊ သက်ဝင် ယုံကြည်ကြလေကုန်။ အမှန်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့ ကျင့်မူသမျှတို့ကို အကြွင်းမဲ့ ကြားသိတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

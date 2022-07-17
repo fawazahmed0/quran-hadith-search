@@ -710,6 +710,12 @@ Allakh nasochva s nego onezi, koito sledvat Negovoto blagovolenie po pŭtishtata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	ထိုကျမ်းတော်အားဖြင့် အလ္လာိဟ်အသျှင်မြတ်သည် မိမိနှစ်သက်မြတ်နိုးတော်မူခြင်းကို ရှာမှီးသူတို့ အား အေးချမ်းသာယာရေးလမ်းများသို့ ညွှန်ပြတော်မူ၏။ အသျှင်မြတ်သည် မိမိ၏ပညတ်တော် အားဖြင့် သူတို့ကို အမှောင်ထုမှ အလင်းရောင်အတွင်းသို့ ကယ်မတော်မူ၏။ သူတို့အား သမ္မာ ဖြောင့်မတ်သောလမ်းကို ပြသတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် ထို (ကုရ်အာန်) ကျမ်းတော်မြတ်ဖြင့် မိမိ၏နှစ်သက်မှုကို လိုက်နာသောသူတို့အား ငြိမ်းချမ်းသာယာခြင်း၏လမ်းများကို ပြသတော်မူ၏။ ၎င်းပြင် ယင်းသူတို့အား မိမိအမိန့် တော်နှင့် (ဝါ) မိမိသတ်မှတ်ပြဌာန်းထားတော်မူသော ဥပဒေစည်းမျဉ်းအတိုင်း ‘ကုဖ်ရ်’ တည်းဟူသော အမှောင်ထုကြီးအတွင်းမှ (အစ္စလာမ်တည်းဟူသော) အလင်းရောင်သို့ ထုတ်ယူပို့ဆောင်တော်မူ၏။ ၎င်းပြင် ထိုအရှင်မြတ်သည် ထိုသူတို့အား ဖြောင့်မတ်မှန်ကန်သော တရားလမ်းကိုလည်း ပြသတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Reche: “Ekh, da imakh sila nad vas ili da se oslanyakh na zdrava opora!...”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈ဝ။	ထိုအခါ တမန်တော်လွတ်က ငါ့၌ သင်တို့ကို ခုခံဖို့ရာ အင်အားကိုသော်လည်းကောင်း၊ သင်တို့အထဲမှ သန် မာသောအမှီသဟဲကိုသော်လည်းကောင်း၊ ရရှိလျှင် တော်လေစွဟု မြည်တမ်း၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(နဗီတမန်တော်)လူ(တ်)က (ဤသို့)ပြောဆိုညည်းညူခဲ့လေသည်။ ဪ-အကယ်၍ ငါ့မှာ အသင်တို့အားခုံခံနိုင်ရန် စွမ်းအားရှိခဲ့မူ၊ သို့တည်း မဟုတ် ငါသည် ခိုင်ခံ့သောအမှီသဟဲတစ်ခုကို အမှီသဟဲ ပြုနိုင်ပါမူ ကောင်းလေစွတကားဟု ပြောဆိုညည်းညူခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

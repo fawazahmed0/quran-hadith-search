@@ -710,6 +710,12 @@ I se otvŭrni ot tyakh za opredelen srok
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇၄။	အို-မိုဟမ္မဒ်၊ ထိုအယူမှားသူမိုက်တို့အား ခေတ္တခဏအရေးမယူလျစ်လျူရှုစားကျောခိုင်း၍ ထားလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်) အသင်သည် ၎င်းတို့အား အချိန်ကာလ အနည်းငယ်တိုင်အောင် လျစ်လျူရှု၍ နေပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

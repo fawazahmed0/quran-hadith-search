@@ -710,6 +710,12 @@ Allakh svidetelstva, che onova, koeto nizposla na teb, go nizposla sŭs Svoeto z
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၆။	သို့သော် သင့်အားချပေးတော်မူသော ကုရ်အာန်ကျမ်းတော်မြတ်နှင့်စပ်လျဉ်း၍ အလ္လာဟ်အသျှင်မြတ် ကိုယ်တော်တိုင်ပင်လျှင် သက်သေခံတော်မူ၏။ အသျှင်မြတ်သည် ကုရ်အာန်ကျမ်းတော်ကို မိမိ၏ အနန္တဉာဏ်တော်နှင့် ချပေးသနားတော်မူ၏။ ကောင်းကင်တမန်တော်များလည်း သက်သေခံကြ၏။ အလ္လာဟ်အသျှင်မြတ်သည် သက်သေအဖြစ်ဖြင့် လုံလောက်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် (ယင်းသူတို့က အသင်နဗီတမန်တော်ဖြစ်ကြောင်း ငြင်းပယ်ကြသော်လည်း) အလ္လာဟ်အရှင်မြတ်သည် (အသင် နဗီတမန်တော်ဖြစ်ကြောင်းကို) မိမိချပေးသနားတော်မူခဲ့သော (ကုရ်အာန်) ကျမ်းတော်မြတ်ဖြင့် သက်သေခံတော်မူလေသည်။ ထိုအရှင်မြတ်သည် ယင်းကျမ်းတော် မြတ်ကို မိမိအသိပညာတော်နှင့်တကွ ချပေးသနားတော်မူခဲ့လေသည်။ ၎င်းပြင် ‘မလာအိကဟ်’ အပါးတော်စေတမန်အပေါင်းတို့လည်း (အသင် နဗီတမန်တော်ဖြစ်ကြောင်းကို) သက်သေခံလျက် ရှိကြကုန်သည်။ အမှန်စင်စစ်သော်လည်း အလ္လာဟ်အရှင်မြတ်သည်ပင် သက်သေအဖြစ် လုံလောက် တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

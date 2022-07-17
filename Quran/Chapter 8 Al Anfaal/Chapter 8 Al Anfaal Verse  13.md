@@ -710,6 +710,12 @@ Tova e, zashtoto se vŭzprotivikha na Allakh i na Negoviya Pratenik. A za koĭt
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	သူတို့သည် အလ္လာဟ်အသျှင်မြတ်နှင့် အသျှင်မြတ်၏တမန်တော်ကို ခုခံတိုက်ခိုက်သောကြောင့် ယင်းသို့ စီရင်တော်မူကြ၏။ အကြင်သူသည် အလ္လာဟ်အသျှင်မြတ်နှင့် အသျှင်မြတ်တမန်တော်ကို ခုခံတိုက်ခိုက်အံ့။ ထိုသူကို အလ္လာဟ်အသျှင်မြတ်သည် ပြင်းပြင်းထန်ထန် အပြစ်ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤ(အမိန့်တော်)သည်ကား ယင်း(မုရှ်ရစ်က်)တို့သည် အလ္လာဟ်အရှင်မြတ်အားလည်းကောင်း၊ အရှင်မြတ်၏ရစူလ်တမန်တော်အား လည်းကောင်း ဆန့်ကျင်ခဲ့ကြသောကြောင့်(ချမှတ်တော်မူသော အမိန့်တော်)ပင်တည်း။ စင်စစ်သော်ကား မည်သူမဆို အလ္လာဟ်အရှင်မြတ်အားလည်းကောင်း၊ထိုအရှင်မြတ်၏ရစူလ်တမန်တော်အားလည်းကောင်း၊ ဆန့်ကျင်ပါမူ အလ္လာဟ်အရှင်မြတ်သည် အမှန်စင်စစ်ပြင်းထန်စွာ ပြစ်ဒဏ် စီရင်တော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

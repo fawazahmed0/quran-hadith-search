@@ -710,6 +710,12 @@ I ako te e strakh ot izmennichestvo na nyakoĭ narod, otkhvŭrli gi po sŭshtiy
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈။	အကယ်၍ သင်သည် သူတို့ထံမှ သစ္စာဖောက်မှုကို စိုးရိမ်လျှင် သူတို့နှင့် ချုပ်ဆိုထားသော ပဋိညာဉ် စာချုပ်ကို တရားမျှတစွာ ပြန်ဖျက်လော့။ မှတ်သားကြလော့။ အလ္လာဟ်.အသျှင်မြတ်သည် သစ္စာဖောက်သူတို့ကို နှစ်သက်တော်မမူပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အကယ်၍ အသင်သည် လူမျိုးတစ်မျိုးထံမှ ကတိသစ္စာဖောက်ဖျက်မည်ကို စိုးရိမ်မကင်းဖြစ်ပါမူ၊အသင်သည် (၎င်းတို့နှင့်ဖွဲ့ဆိုထားသည့် ပဋိညာဉ်စာချုပ်ကို၎င်းတို့ထံပြန်လည်၍အပ်ပါလေ။ (ပဋိညာဉ်စာချုပ် ရုပ်သိမ်းပြီးဖြစ်ကြောင်းကို သိရှိရာတွင် အသင်နှင့်၎င်းတို့သည်) တန်းတူဖြစ်ရှိသွားမည်။ ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် သစ္စာဖောက်ဖျက်သူတို့အား (လုံးဝ) နှစ်သက်တော်မူသည် မဟုတ်ချေ။(ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

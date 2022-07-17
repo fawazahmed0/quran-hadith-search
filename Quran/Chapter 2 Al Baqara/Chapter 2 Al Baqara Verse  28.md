@@ -710,6 +710,12 @@ Kak otrichate Allakh - byakhte mŭrtvi, Toĭ vi sŭzhivi! Posle shte vi umŭrtv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	သင်တို့သေပြီးနောက် အရှင်မြတ်သည် သင်တို့အား အသက်ပေးတော်မူပါလျက် သင်တို့သည် အလ္လာဟ်အရှင်မြတ်ကို အဘယ်ကြောင့် မယုံကြည်ကြသနည်း။ အရှင်မြတ်သည် သင်တို့ကို တဖန် သေစေတော်မူ၍ တဖန်အသက်ရှင်စေတော်မူမည်။ သင်တို့သည် အရှင်မြတ်ထံသို့ ပြန်ကြရမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဟယ်-ကာဖိရ်တို့) အသင်တို့သည် အဘယ်နည်းဖြင့် အလ္လာဟ်အရှင်မြတ်(၏ကျေးဇူးတော်များ) ကိုငြင်းဆိုနိုင်ကြအံ့နည်း၊ အဖြစ်မှန်ကား အသင်တို့သည် (ရှေးဦးမဆွ ပဌမက) (အဝိညာဏက) သက်မဲ့ အရာဝတ္ထုများသာ ဖြစ်ကြရာထိုအသျှင်သည် အသင်တို့အား (သဝိညာဏက) သက်ရှိဘဝသို့ ပို့ဆောင်တော်မူ၏။ ထိုနောက်တဖန် ထိုအရှင်သည် (အသင်တို့၏ သက်တမ်းကုန်ဆုံးသည့်အခါ)သင်တို့အား သေစေ တော်မူဦးမည်ဖြစ်၏။ သို့သေစေတော်မူပြီးသည့်နောက် ထိုအရှင်သည်အသင်တို့အား တဖန် ရှင်ပြန်ထစေဦးမည်။ ထို့နောက်အသင်တို့သည် (မိမိတို့ပြုကျင့်ခဲ့သမျှသော ကောင်းမှုမကောင်းမှုများနှင့် လျော်ညီစွာထိုက်တန်ရာ အကျိုးများကို ခံစံရန် အလို့ငှာ) ထိုအရှင့်ထံတော်သို့ပင်လျှင် ပြန်လည်ရောက်ကြရမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

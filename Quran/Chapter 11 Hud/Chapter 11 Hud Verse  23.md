@@ -710,6 +710,12 @@ No koito vyarvat i vŭrshat pravedni dela, i se smiryavat pred svoya Gospod, tez
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	မှတ်သားကြလော့၊ အကြင်သူတို့သည် ယုံကြည်လျက် သုစရိုက်ကောင်းမှုကို ပွားများ၍ မိမိတို့အရှင်သခင်၏ မျက်မှောက်တော်ဝယ် မိမိကိုယ်ကို နှိမ့်ချအ့ံ။ ထိုသူတို့သည် သုခဥယျာဉ်တော်ကို တရားသဖြင့် ပိုင်ဆိုင်သူတို့ ဖြစ်ကြ၏။ သူတို့သည် ထိုဥယျာဉ်တော်၌ စံမြန်းနေထိုင်ကြရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အကြင်သူတို့သည် သက်ဝင်ယုံကြည်ခဲ့ကြကုန်၏။ ၎င်းပြင် ထိုသူတို့သည် ကောင်း မြတ်သောအကျင့်သီလများကို ကျင့်မူဆောက်တည် ခဲ့ကြကုန်၏။ ထိုမှတစ်ပါး ၎င်းတို့သည် မိမိတို့၏အရှင်မြတ်ရှေ့တော်ဝယ် ကျိုးနွံခဲ့ကြကုန်၏။ ထိုသူများ ကား ဂျန္နတ်အမတသုခဘုံသားများဖြစ်ကြကုန်၏။ ထိုသူတို့သည် ယင်း ဂျန္နတ်အမတသုခဘုံ၌ထာဝစဉ် နေထိုင်စံမြန်းကြရမည့်သူများပင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

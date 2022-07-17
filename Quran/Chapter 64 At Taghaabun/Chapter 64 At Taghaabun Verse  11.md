@@ -710,6 +710,12 @@ Nikoya beda ne idva bez pozvolenieto na Allakh. A koĭto vyarva v Allakh, Toĭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။ အလ္လာဟ်အရှင်မြတ်အလိုတော်မရှိပဲ မည်သည့်ဘေးဥပါဒ်မျှမကျရောက်နိုင်ချေ၊ အကြင်သူသည် အလ္လာဟ်အရှင် မြတ်အား ယုံကြည်အံ့၊ ထိုသူ၏ စိတ်နှလုံးကို အရှင်မြတ်လမ်းပြတော်မူ၏၊ အလ္လာဟ်သည် အရာခပ်သိမ်းကုန်တို့ကို အကြွင်းမဲ့သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဘေးဒုက္ခဟူသမျှတို့သည် အလ္လာဟ်အရှင်မြတ်၏ အမိန့်တော်နှင့်သာ သက်ရောက်၏။ ထို့ပြင် မည်သူမဆို အလ္လာဟ်အရှင်မြတ်အား သက်ဝင်ယုံကြည်ပါလျှင် ထိုအလ္လာဟ်အရှင်မြတ်သည် ၎င်း၏စိတ်နှလုံးကို တရားလမ်းမှန် ပြသတော်မူ၏။ အမှန်စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့ သိရှိတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

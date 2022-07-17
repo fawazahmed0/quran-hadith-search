@@ -710,6 +710,12 @@ Posle izpratikhme Nashite pratenitsi pored. Vsyakoga, shtom pri nyakoya obshtnos
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	ထို့နောက်ငါသည် ငါ၏တမန်တော်များကို တစ်ယောက်ပြီးတစ်ယောက်စေလွှတ်တော်မူ၏၊ လူမျိုးတစ်စုထံသို့ သူတို့၏ တမန်တော်ပွင့်လာသောအခါ သူတို့သည် ထိုတမန်တော်ကို မယုံကြည်ငြင်းပယ်ကြ၏၊ ထို့ကြောင့် ငါသည် ထိုလူမျိုးတို့အား တစ်မျိုးပြီးတစ်မျိုးပျက်စီးစေတော်မူ၏၊ သူတို့ကို ဥဒါဟရုဏ်များဖြစ်စေတော်မူ၏၊ မယုံကြည်သူအား မရှုမလှဖျက်ဆီးပယ်ရှားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ငါအရှင်မြတ်သည် မိမိရစူလ်တမန်တော်များအား တစ်ပါးပြီးတစ်ပါး စေလွှတ်တော်မူခဲ့၏။ မည်သည့်အခါမျိုးမဆို အုပ်စုတစ်စု၏ထံသို့ ၎င်း၏ ရစူလ်တမန်တော်သည်(ပွင့်)ရောက်ခဲ့ပါလျှင် ယင်းအုပ်စုသည် ထိုရစူလ်တမန်တော်အား မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်ခဲ့ကြသည်သာ။ သို့ဖြစ်ပေရာ ငါအရှင်မြတ်သည် ၎င်းတို့အား တစ်ဦး၏နောက်သို့ တစ်ဦးကို လိုက်စေတော်မူခဲ့၏။ ထို့ပြင် ငါအရှင်မြတ်သည် ၎င်းတို့အား(တရားရဖွယ်ရာအကြောင်းများ) ပြုလုပ်တော်မူခဲ့ ၏။ သို့ဖြစ်ပေရာ သက်ဝင် ယုံကြည်ခြင်းမရှိသောသူတို့သည် (ကရုဏာတော်မှ) ကင်းဝေးခဲ့ကြရလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

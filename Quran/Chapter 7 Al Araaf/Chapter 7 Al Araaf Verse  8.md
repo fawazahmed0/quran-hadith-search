@@ -710,6 +710,12 @@ Myarkata prez tozi Den shte e pravdata. Chiito vezni natezhat - tezi sa spoluchi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	ထိုနေ့တော်ကြီး၌ ချိန်တွယ်ခြင်းသည် အလွန်မှန်ကန်၏။ အကြင်သူတို့၏ ချိန်ခွင်ခွက်သည် လေးအံ့။ ထိုသူတို့သည် အောင်မြင်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုနေ့တွင် (ကုသိုလ်အကုသိုလ်များကို)ချိန်စက်မည်မှာ(လည်း)လုံးဝမှန်ကန်၏။ သို့ဖြစ်ပေရာ အကြင်သူ၏ အလေးချိန်သည် အချိန်စီးအံ့။ ထို(ကဲ့သို့သော) သူတို့သည်ပင်လျှင် အောင်မြင်သောသူများ ဖြစ်ကြလတ္တံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

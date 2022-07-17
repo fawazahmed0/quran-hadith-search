@@ -710,6 +710,12 @@ za da go storim pouka za vas i da go zapomnyat pomneshti ushi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။ ငါသည် ထိုရေလွှမ်းမိုးခြင်းအကြောင်းအရာကို သင်တို့အဖို့အရာ မဟာဝင်ကြီး တစ်ခုပြုထားတော်မူရန်ဖြစ်၏၊ ထို့အပြင်ထိုအဖြစ်အပျက်ကို နားရှိသူများကြားနာ မှတ်သားထားရန်လည်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် ယင်းဖြစ်အင်ကို အသင်တို့အဖို့ အမြဲမှတ်မိ သတိရစေရာ ပြုလုပ်တော်မူအံ့သောငှာလည်းကောင်း၊ မှတ်ထားသောနားသည် ယင်းဖြစ်အင်ကို မှတ်ထားကြအံ့သောငှာလည်းကောင်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

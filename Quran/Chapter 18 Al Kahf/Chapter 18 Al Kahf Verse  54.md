@@ -710,6 +710,12 @@ I veche razyasnikhme za khorata vsyakakvi primeri v tozi Koran. No naĭ-mnogo o
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၄။	အကယ်စင်စစ် ငါသည် ဤကုရ်အာန်ကျမ်းတော်မြတ်၌ လူသားတို့အဖို့ ဥပမာအမျိုးမျိုးအဖုံဖုံကို တင်ပြထားတော် မူ၏။ သို့ငြားသော်လည်းလူသားသည် အရာခပ်သိမ်းတို့၌ အငြင်းအသန်ဆုံးဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ငါအရှင်မြတ်သည် ဤကုရ်အာန်ကျမ်းတော်မြတ်တွင် လူတို့၏အကျိုးငှာ ဥပမာပုံဆောင်ချက် အလုံးစုံတို့ကို အနည်းနည်းအဖုံဖုံဖြင့် မိန့်ကြား တော်မူခဲ့ပေသည်။ စင်စစ်လူသားတို့မှာ အရာခပ်သိမ်းတို့ထက် အငြင်းအသန်ဆုံးပင်ဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

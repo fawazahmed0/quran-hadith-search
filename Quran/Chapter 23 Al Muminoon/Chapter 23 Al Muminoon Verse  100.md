@@ -710,6 +710,12 @@ za da storya pravedno delo v zhivota, koĭto ostavikh!” Ala ne! Tova si e neg
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝဝ။	အကျွနု်ပ်သည် လောကဝယ်မိမိမပြုကျင့်ခဲ့သောကုသိုလ်ကောင်းမှုကို ပွားများစေဖို့ရာ ပြန်လွှတ်တော်မူပါဟု ဆုပန်၏၊ သို့သော်ယင်းသို့မလွှတ်နိုင်ချေ၊ ဤအမှုသည် သူ၏စကားသာဖြစ်၏၊ ရှင်ပြန်ထမြောက်ရတော်မူသော နေ့တော်ကြီးတိုင်အောင် သူတို့၏နောက်၌ အကာအရံတစ်ခုရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကျွန်တော်မျိုးသည် မိမိစွန့်ထားခဲ့သော (လောကသို့ပြန်သွား၍)ကောင်းမြတ်သောအကျင့်သီလကို ကျင့်မူဆောက်တည်အံ့သောငှာ၊ "အလျှင်း မဖြစ်နိုင်ပြီ။ ဧကန်စင်စစ် ဤသည်ကား ထိုသူသည် (မိမိနှုတ်ဖြင့်သာ)ပြောဆိုနေသော စကားတစ်ခွန်းမျှပင်။ စင်စစ် ၎င်းတို့၏ရှေ့ဝယ် ၎င်းတို့ ရှင်ပြန်ထကြရမည့်နေ့ တိုင်အောင် အကာအဆီးတစ်ခု ရှိနေချေပြီတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

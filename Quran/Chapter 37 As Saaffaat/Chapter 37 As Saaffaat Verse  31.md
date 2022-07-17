@@ -710,6 +710,12 @@ I se izpŭlni spryamo nas Slovoto na nashiya Gospod. I naistina shte vkusim [mŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	ယခုမူကားငါတို့၏ အရှင်သခင်၏ ဗျာဒိတ်တော်သည် ငါတို့အတွက် ပြည့်စုံတော်မူပြီ၊ စင်စစ်အားဖြင့်ငါတို့သည် အပြစ်ဒဏ်၏ အရသာကို မြိန်ရှက်စွာမြည်းရဖို့နီးလာပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်သော်ကား "ကျွန်ုပ်တို့သည် ဧကန်အမှန်(ပြစ်ဒဏ်၏) အရသာကို မြည်းစမ်းမည့်သူများ ဖြစ်ကြသည်"ဟူသော ကျွန်ုပ်တို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏မိန့်ကြားချက်သည် ကျွန်ုပ်တို့အားလုံးအပေါ်၌ မှန်ကန်ကြောင်း ထင်ရှားလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ O, vyarvashti, kogato sreshtnete nevernitsite v nastŭplenie, ne im obrŭshtaĭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	အို-ယုံကြည်သူအပေါင်းတို့ သင်တို့သည် မယုံကြည်သူတို့ကို စစ်မြေပြင်တွင် ရင်ဆိုင်တွေ့သောအခါ သူတို့အား ကျောမပေးကြလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို- မုအ်မင်န် သက်ဝင်ယုံကြည်သူအပေါင်းတို့၊ အသင်တို့သည် ကာဖိရ် မယုံမကြည် သွေဖည်ငြင်းပယ်သော သူတို့အား (စစ်တပ်ကြီးဖွဲ့လျက်)(တနည်း)စစ်ပွဲ၌ ၊စစ်မြေပြင်၌တွေ့ဆုံကြသောအခါ 4င်းတို့အား ကျောခိုင်း၍ မသွားကြကုန်လင့်။(ဝါ) ထွက်မပြေးကြကုန်လင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

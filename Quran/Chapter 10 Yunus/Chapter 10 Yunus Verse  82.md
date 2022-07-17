@@ -710,6 +710,12 @@ I utvŭrzhdava Allakh istinata sŭs Svoite Slova, dori prestŭpnitsite da vŭzne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၂။	အပြစ်ရှိသူများသည် မည်မျှပင်မနှစ်သက်ကြသော်လည်း အလ္လာဟ်အရှင်မြတ်သည် သစ္စာတရားတော်ကို မိမိ၏ ဗျာဒိတ်စကားတော်အားဖြင့် အခိုင်အမာဖြစ်စေတော်မူလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ပြစ်မှု ကျူးလွန်သူများသည်(မည်မျှပင်)မကျေနပ်မနှစ်သက်ကြလင့်ကစား အလ္လာဟ်အရှင်မြတ်သည် အမှန်ကို မိမိပြဋ္ဌာန်းချက်များနှင့်အညီ အမှန်ပင်ဖြစ်စေတော်မူပေသည်တကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

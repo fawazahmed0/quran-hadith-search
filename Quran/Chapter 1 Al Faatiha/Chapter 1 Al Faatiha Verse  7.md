@@ -710,6 +710,12 @@ pŭtya na tezi, koito si daril s blagodat, a ne na [tezi], nad koito tegne gnyav
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+အရှင်၏အမျက်တော်ရှအောင်ပြုသူတို့နှင့် လမ်းလွဲသွားသူတို့လမ်းကို ညွှန်တော်မမူပါလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတို့အပေါ်ဝယ် အလ္လာဟ်အရှင်မြတ်သည်(မေတ္တာကရုဏာသက်ဝင်တော်မူ၍) သုခချမ်းသာ ဂုဏ်ကျေးဇူးကို ပြုခဲ့လေပြီဖြစ်၏။ ထိုသူမွန်သူမြတ်တို့၏ တရားလမ်းကို (ကျွန်တော်မျိုးတို့အားလည်း ညွှန်ကြားပြသတော်မူပါ။)(ထိုသူမွန်သူမြတ်တို့သည်)အမျက်တော်စူးရှခြင်းခံရသူများလည်းမဟုတ်၊ လမ်းမှားသူများလည်း မဟုတ်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

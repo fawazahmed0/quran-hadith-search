@@ -710,6 +710,12 @@ I nizposlavame v Korana tova, koeto e iztselenie i milost za vyarvashtite, a na 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၂။	ငါသည် ကုရ်အာန်ကျမ်းတော်မြတ်ကို ထုတ်ပြန်ပို့ချပေးသနားတော်မူ၏။ ထိုကျမ်းတော်ပါတရားတော်သည် ယုံကြည်သူတို့အဖို့ရာ စိတ်နှလုံးကြည်လင်ချမ်းသာစေသောဆေးဖြစ်၏။ ကောင်းကြီးမင်္ဂလာတော်ကြီးလည်း ဖြစ်၏။ ထိုတရားတော်သည် မကောင်းမှုပြုကျင့်သူတို့အဖို့ ပျက်စီးခြင်းမှတပါး အခြားအရာကို မတိုးပွားစေချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ငါအရှင်မြတ်သည် ကုရ်အာန်ကျမ်းမြတ်တွင် မုအ်မင်န်သက်ဝင်ယုံကြည်သူတို့၏ အနာရောဂါကင်းပျောက်စေသောအရာကို ချပေးသနားတော်မူလေသည်။ သို့ရာတွင် ထိုအရာသည် မတရားကျူးလွန်သူ တို့၌ ဆုံးရှုံးမှုမှတစ်ပါး(အခြားတစ်စုံတစ်ရာ) ကိုတိုးပွားစေခြင်း အလျင်းရှိမည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

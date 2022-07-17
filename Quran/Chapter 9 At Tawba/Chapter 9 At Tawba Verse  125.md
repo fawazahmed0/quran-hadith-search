@@ -710,6 +710,12 @@ A na tezi, v chiito sŭrtsa ima bolest, tya uvelichava skvernostta im s oshte sk
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၅။	သို့သော်မိမိတို့စိတ်နှလုံး၌ မိစ္ဆာအယူရောဂါစွဲကပ်သူများမှာမူကား ထိုစူရာဟ်တော်သည် သုတို့မိုက်မဲမှုကို တစ်မှုပြီးတစ်မှုပေါ်ပေါက်တိုးပွားစေ၏။သူတို့သည် မိစ္ဆာဒိဋ္ဌိဘဝ၌ပင် အသက်ကုန်ဆုံးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် စိတ်နှလုံးများတွင် ရောဂါရှိသော သူတို့မှာကား ထိုစူရဟ်ကဏ္ဍသည် ၎င်းတို့၏ အညစ်အကြေးတွင်အညစ်အကြေးတခုခုကို(ထပ်လောင်း၍)တိုးစေခဲ့သည်။ ထို့ပြင်၎င်းတို့သည် ကာဖိရ်မယုံကြည်သွေဖည်ငြင်းပယ်သူများ အဖြစ်နှင့်ပင် သေဆုံးခဲ့ကြရလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

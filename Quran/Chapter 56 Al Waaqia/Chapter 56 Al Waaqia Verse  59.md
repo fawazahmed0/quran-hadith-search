@@ -710,6 +710,12 @@ Vie li go sŭtvoryavate, ili Nie sme Tvoretsa
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၉။	ထိုကလကရေကြည်ကို သင်တို့ဖန်ဆင်းသလော၊ သို့မဟုတ် ငါဖန်ဆင်းတော်မူသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းသုတ်ရည်ကို အသင်တို့ကိုယ်တိုင် (လူဖြစ်အောင်) ဖန်ဆင်းကြလေသလော။ သို့တည်းမဟုတ် ငါအရှင်မြတ်ပင် ဖန်ဆင်းတော်မူပါသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kazhi: “O, narode moĭ, rabotete spored svoite vŭzmozhnosti, i az shte rabot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	အို-တမန်တော်၊ ဟောကြားလော့၊ ဟယ်-မိစ္ဆာဒိဋ္ဌိအပေါင်းတို့၊ သင်တို့သည် သင်တို့နည်းလမ်းအတိုင်း ပြုကျင့် ကြလော့၊ ငါလည်း ငါ့နည်းအတိုင်း ကျင့်ကြံနေ၏၊ ကာလမကြာမြင့်မီ သင်တို့သည် သိကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (၎င်းတို့အား) ပြောကြားပါလေ။ (အချင်းတို့၊) အသင်တို့သည် မိမိတို့၏(လက်ရှိ)အခြေအနေအတိုင်းပင် (ဆက်လက်၍) ကျင့်မူလျက် ရှိကြလေကုန်၊ ငါသည်လည်း (မိမိလက်ရှိအခြေအနေအတိုင်း)ကျင့်မူလျက်ပင် ရှိနေမည်။ မကြာမြင့်မီပင် အသင်တို့သည် သိရှိကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

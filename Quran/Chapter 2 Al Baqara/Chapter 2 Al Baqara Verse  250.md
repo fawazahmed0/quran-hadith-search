@@ -710,6 +710,12 @@ I shtom se izpravikha pred Dzhalut i voĭskite mu, rekokha: “Gospodi, izleĭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅ဝ။	သူတို့သည် ဂျာလွတ်ဘုရင်နှင့် ၎င်း၏စစ်သည်တော်များကိုတိုက်ခိုက်ရန် စစ်ခင်းသောအခါ အို ကျွန်ုပ်တို့၏အရှင်သခင် အကျွန်ုပ်တို့အား သည်းခံခြင်းသတ္တိကို ပေးသနားတော်မူပါ အကျွန်ု်ပ်တို့၏ ခြေများကို မြဲမြံစေတော်မူပါ။ အကျွန်ုပ်တို့အား မိစ္ဆဒိဋ္ဌိများကို အောင်နိုင်တော်မူပါဟု ဆုတောင်း ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက်တဖန် ယင်းသူတို့သည် ဂျာလူတ် ဘုရင်နှင့်လည်းကောင်း၊ ယင်း(ဂျာလူတ်)၏ စစ်သည်ရဲမက် တို့နှင့်လည်းကောင်း၊ (စစ်မက်ပြိုင်ဆိုင်တိုက်ခိုက်ရန်) မျက်နှာ ချင်းဆိုင်ကြသောအခါ (အလ္လာဟ်အရှင်မြတ်အထံတော်၌) အို-ကျွန်တော်မျိုးတို့အား မွေးမြူတော်မူ သောအရှင်၊ အရှင် မြတ်သည် ကျွန်တော်မျိုးတို့ အပေါ်ဝယ် ဇွဲသတိ္တကို သွန်း လောင်း၍ ပေးသနား တော်မူပါ။ ၎င်းပြင် အရှင်မြတ်သည် ကျွန်တော်မျိုး တို့၏ခြေများကို ခိုင်မြဲစွာ ရပ်တည်စေတော်မူပါ။ ထို့ပြင် အရှင်မြတ်သည် ကျွန် တော်မျိုးတို့အား ‘ကာဖိရ်’ မယုံမကြည် သွေဖည်ငြင်းပယ်ကြကုန် သောသူတို့အပေါ်၌ အောင်မြင်မှုရရန်ကူညီစောင်မ တော်မူပါဟု ရွတ်ဆို(ပတ္ထနာ) ပြုကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

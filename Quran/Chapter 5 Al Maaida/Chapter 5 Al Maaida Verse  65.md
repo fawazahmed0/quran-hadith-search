@@ -710,6 +710,12 @@ I ako khorata na Pisanieto povyarvakha i se poboyakha, shtyakhme da gi izbavim o
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၅။	အကယ်၍ ရှေးကျမ်းတော်ရရှိသောလူတို့သည် ယုံကြည်၍ ဒုစရိုက်မှုများကို ရှောင်ရှားခဲ့ပါလျှင် ငါအသျှင်မြတ်သည် အမှန်ပင် သူတို့၏အပြစ်များကိုလွတ်၍ သူတို့ မွေ့လျော်ပျော်ရွှင်ဖွယ်ကောင်း သော ဥယျာဉ်တော်များအတွင်း ဧကန်မုချ သွင်းတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အကယ်၍ ရှေးအထက်ကျမ်းဂန်ရရှိသူ ကိတာဗီများသည် ‘အီမာန်’ ယုံကြည်ခြင်းသဒ္ဓါတရားထားရှိ၍ ပြစ်မှုဒုစရိုက်တို့မှ ကြဉ်ရှောင်ကြပါမူ မုချဧကန် ငါအရှင်မြတ်သည် ၎င်းတို့၏ပြစ်မှုများကို (ခွင့်လွှတ်) တော်မူ၍ ၎င်းတို့အား ချမ်းသာသုခနှင့်ပြည့်စုံသော ဥယျာဉ်များသို့လည်း ဝင်ရောက်စေတော်မူအံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

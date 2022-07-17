@@ -710,6 +710,12 @@ Reche to: “Rab sŭm na Allakh. Dade mi Toĭ Pisanieto i me stori prorok
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	ထိုအခါသူငယ်က မှတ်သားကြလော့။ အကျွနု်ပ်သည် အလ္လာဟ်အရှင်မြတ်၏ ကျေးတော်မျိုးကျွန်တော်မျိုးဖြစ်၏။ အရှင်မြတ်သည် အကျွနု်ပ်အား ကျမ်းတော်ကို ချပေးသနားတော်မူ၏။ အကျွနု်ပ်ကို တမန်တော်ရာထူးနှင့် ချီးမြှင့်တော်မူပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ)၊ ယင်း(ပုခက်တွင်းမှ)ကလေးသူငယ်(အီစာ)က (ဤသို့စကား)ပြောဆို(ဖြေကြား)ခဲ့လေ၏။ ဧကန်မလွဲ ကျွန်ုပ်သည် အလ္လာဟ်အရှင်မြတ်၏ ကျွန်သာလျှင် ဖြစ်ပေသည်။ ထိုအရှင်မြတ်သည် ကျွန်ုပ်အား [အင်(န်)ဂျီလ်)]ကျမ်းဂန်ကို ချီးမြှင့်ပေးသနားတော်မူခဲ့လေသည်။ ၎င်းပြင် ထိုအရှင်မြတ်သည် ကျွန်ုပ်အား နဗီတမန်တော်အဖြစ်လည်း ချီးမြှောက်တော်မူခဲ့ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

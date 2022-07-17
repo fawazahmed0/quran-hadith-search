@@ -710,6 +710,12 @@ naistina to e slovo na dostoen Pratenik
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၀။ ဤကျမ်းတော်မြတ်သည် တန်ခိုးအရှိန်ကြီးကဲမြင့်မြတ်သောတမန်တော်၏ တရားဒေသနာတော်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်ဧကန် ယင်းကုရ်အာန်ကျမ်းတော်မြတ်သည် မြင့်မြတ်သောစေတမန်တစ်ပါး (ယူဆောင် လာသော၎င်းအရှင်မြတ်)၏ အာယတ်တော်ပင် ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

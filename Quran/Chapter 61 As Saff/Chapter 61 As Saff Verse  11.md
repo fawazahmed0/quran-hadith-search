@@ -710,6 +710,12 @@ Da vyarvate v Allakh i v Negoviya Pratenik, i da se borite po pŭtya na Allakh c
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။ သင်တို့သည် အလ္လာဟ်အရှင်မြတ်နှင့် အရှင်မြတ်၏ တမန်တော်ကို ယုံကြည်ကြလော့၊ မိမိတို့စည်းစိမ်များအားဖြင့် အလ္လာဟ်အရှင်မြတ်ဘက်တော်၌ အစွမ်းကုန်ကြိုးစားအားထုတ်ကြလော့၊ ယင်းပြုကျင့်မှုသည် သင်တို့အဖို့အရာ အလွန်ကောင်းမြတ်၏၊ သင်တို့သိလျှင် တော်လေစွ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အားလည်းကောင်း၊ ထိုအရှင်မြတ်၏ရစူလ်တမန်တော်မြတ်အား လည်းကောင်း၊ သက်ဝင်ယုံကြည်ကြရပေမည်။ ၎င်းပြင် အသင်တို့သည် မိမိတို့ ပစ္စည်းဥစ္စာများဖြင့်လည်းကောင်း၊ မိမိတို့၏ အသက်ဇီဝိန်များဖြင့်လည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ်၏လမ်းတော်၌ သက်စွန့်ကြိုးပမ်းကြရပေမည်။ ဤသည် အကယ်၍ အသင်တို့ သိရှိကြသည်ဖြစ်မူ အသင်တို့အဖို့ အကောင်းဆုံးပင်ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

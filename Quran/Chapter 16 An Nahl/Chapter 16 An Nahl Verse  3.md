@@ -710,6 +710,12 @@ Toĭ sŭtvori nebesata i zemyata s mŭdrost. Previsoko e nad onova, s koeto Go 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	အရှင်မြတ်သည် မိုးကောင်းကင်နှင့် ကမ္ဘာမြေကြီးကို မုချဧကန်ဖန်ဆင်းတော်မူ၏။ သူတို့တွဲဖက်သောဘုရားတု များထက် သာလွန်ကြီးမြင့်ထူးမြတ်လှပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် မိုးကောင်းကင်များကိုလည်းကောင်း၊ ပထဝီမြေကိုလည်းကောင်း၊ မှန်ကန်သောရည်ရွယ်ချက်နှင့်တကွ ဖန်ဆင်းတော်မူခဲ့လေသည်။ ထိုအရှင်မြတ်သည်၎င်းတို့ တွဲဖက်နှိုင်းယှဉ်ကိုးကွယ်လျက် ရှိကြသည်တို့ထက်မြင့်မြတ်လှတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

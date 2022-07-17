@@ -710,6 +710,12 @@ Kazhi: “Nima naistina otrichate Onzi, Koĭto sŭtvori zemyata v dva dni i sto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	အို-တမန်တော်၊ ဟောပြောလော့၊ မဟာပထဝီမြေကြီးကို နှစ်ရက်အချိန်တွင် ဖန်ဆင်းတော်မူသောအရှင်မြတ် အား သင်တို့မယုံကြည်ကြသလော၊ အရှင်မြတ်နှင့်ပြိုင်ဘက်များထားကြသလော၊ အရှင်မြတ်သည် အနန္တစကြ ဝဠာအပေါင်းတို့၏ အရှင်သခင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်၊)အသင်သည် (၎င်းတို့အား)ပြောကြားပါလေ၊ (အချင်းတို့၊) အသင်တို့သည် ကမ္ဘာမြေကိုနှစ်ရက်နှင့် ဖန်ဆင်းတော်မူခဲ့သောအရှင်မြတ်အား သွေဖည်ငြင်းပယ်ကြလေသလော။ ထိုမှတစ်ပါး အသင်တို့သည် အရှင်မြတ်နှင့်ဂုဏ်ရည်တူများကို ပြုလုပ်ထားကြလေသလော။ထိုအရှင်မြတ်သည်ပင် စကြာဝဠာခပ်သိမ်းတို့ကို ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

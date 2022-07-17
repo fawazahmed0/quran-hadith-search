@@ -710,6 +710,12 @@ I ako ne vi otkliknat, znaĭte, che toĭ be nizposlan samo sŭs znanieto na Al
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	ထို့အပြင်သင်တို့၏ ဘုရားတုများသည် သင်တို့တောင်းသောဆုကို မပေးလျှင် ဤကုရ်အာန်ကျမ်းတော်ကို အရှင်မြတ်၏ သဗ္ဗညုတဉာာဏ်တော်အား ပြဋ္ဌာန်းချပေးသနားတော်မူကြောင်းနှင့် အလ္လာဟ်မှတပါး ဘုရားရှင် မရှိကြောင်းကို သတိပြုကြလော့။ ထို့ကြောင့်သင်တို့သည် အလ္လာဟ်အရှင်မြတ်ကို ကျိုးနွံနာခံသူတို့ဘောင်တွင် ပါဝင်ကြမည်လောဟု ပြောလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တဖန် အကယ်၍ ၎င်းတို့သည် အသင်တို့ (ပြောဆိုကြသည်)ကို ဖြေဆိုခြင်း မပြုခဲ့ကြပါလျှင် (ဤကုရ်အာန်ကျမ်းတော်မြတ်သည်) အလ္လာဟ်အရှင်မြတ်၏အသိပညာဖြင့် ချပေးသနားတော်မူခြင်းခံခဲ့ရသည်သာလျှင် ဖြစ်ကြောင်းကိုလည်းကောင်း၊ ထိုအရှင်မြတ်မှတစ်ပါး ခဝပ်ကိုးကွယ်ရာအရှင်ဟူ၍အလျှင်း မရှိကြောင်းကိုလည်းကောင်း၊ အသင်တို့ ကောင်းစွာယုံကြည်ကြလေကုန်။ သို့ဖြစ်ပေရာ ယခုအသင်တို့သည် မုစ်လင်မ် အမိန့်တော်ကို လိုက်နာသောသူများ ဖြစ်ကြပြီလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

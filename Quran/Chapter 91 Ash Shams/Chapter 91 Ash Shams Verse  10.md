@@ -710,6 +710,12 @@ A gubi onzi, koĭto se omŭrsyava
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၀။ အကြင်သူသည် မိမိဝိညာဉ်ကို မသန့်ရှင်း၊ ညစ်ညူးစေအံ့၊ ထိုသူသည် ဆုံးရှုံးသူအမှန်ပင်ဖြစ်အံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ထိုအသက်ဇီဝိန်ကို(ဒုစရိုက်မှုများတွင်) နစ်မြုပ်စေခဲ့သော သူသည် ပျက်စီးဆုံးရှုံးခဲ့ ချေပြီတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

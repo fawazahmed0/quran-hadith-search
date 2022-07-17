@@ -710,6 +710,12 @@ Faraonŭt zabludi svoya narod i ne go napŭti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ရ၉။	ဖွာရောမင်းသည် မိမိလူများကို လမ်းမှားသို့ပို့၏၊ သူသည် သူတို့အား လမ်းမှန်ကိ မညွှန်ပြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ဖိရ်အောင်(န်)သည် မိမိအမျိုးသားတို့အား တရားလမ်းမှန်ကိုမပြပဲ လမ်းမှားစေခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

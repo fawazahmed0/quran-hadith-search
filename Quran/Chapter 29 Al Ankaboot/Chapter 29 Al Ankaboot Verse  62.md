@@ -710,6 +710,12 @@ Allakh uvelichava prepitanieto komuto pozhelae ot Svoite rabi i Toĭ mu go nama
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	အလ္လာဟ်အရှင်မြတ်သည် မိမိကျေးကျွန်တို့အနက် ရိက္ခာအစားအစာကို ပေါများကျယ်ဝန်းစေလိုတော်မူသူအဖို့ ပေါများကျယ်ဝန်းစေတော်မူ၏၊ ရိက္ခာအစားအစာကိုလည်း ကျဉ်းကျပ်နည်းပါးစေလိုတော်မူသောသူအဖို့ နည်းပါး စေတော်မူ၏၊ မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် ခပ်သိမ်းကုန်သောအရာအပေါင်းတို့ကို အကြွင်းမဲ့ သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် မိမိအလိုရှိတော်မူသောသူအား စားနပ်ရိက္ခာကို ကျယ်ဝန်းစွာ ချီးမြှင့် ပေးသနားတော်မူ၏။ ထိုနည်းတူစွာ ထိုအလ္လာဟ်အရှင်မြတ်သည် မိမိအလိုရှိတော်မူသောသူအား တိုင်းထွာ၍ပေးတော်မူ၏။ ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့သိတော်မူသော အရှင်မြတ်ပင်ဖြစ်တော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

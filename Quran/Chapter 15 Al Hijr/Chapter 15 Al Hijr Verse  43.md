@@ -710,6 +710,12 @@ Naistina Adŭt e obeshtan za vsichki tyakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	ထို့အပြင် မှတ်သားလော့။ နင်၏ နောက်လိုက်အားလုံးတို့အတွက် အဝီစိငရဲသည် ဂတိထားတော်မူသောဋ္ဌာန ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ဧကန်မလွဲ ဂျဟန္နမ်ငရဲဘုံသည် ၎င်းတို့အားလုံး၏ ချိန်းချက်ပြီးဖြစ်သောဌာနပင် ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

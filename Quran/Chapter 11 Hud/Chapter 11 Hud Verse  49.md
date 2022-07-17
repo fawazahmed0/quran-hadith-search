@@ -710,6 +710,12 @@ Tezi sa ot vestite na nevedomoto, koito Nie ti razkrivame. Dotogava ne gi znaesh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	အို-မိုဟမ္မဒ်၊ သည်အကြောင်းအရာသည် သင်၏ စိတ်နှလုံးအတွင်း၌ ငါသင်ပေးတော်မူသည့်မမြင်စွမ်းနိုင်သော အရာများမှတည်း၊ ဤအကြောင်းအရာကို ဤဗျာဒိတ်တော်မရောက်လာမီ သင်လည်းမသိ၊ သင်၏ အသင်းသား များလည်းမသိချေ၊ ထို့ကြောင့်သည်းခံခြင်းပါရမီရှိလော့၊ မှတ်သားလော့၊ အောင်ဆုမင်္ဂလာတော်မှာ ဒုစရိုက် မကောင်းမှုကို ကြဉ်ရှောင်သူတို့အဖို့သာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤ(အဖြစ်အပျက်အကြောင်း)တို့ကား အကွယ်၌ရှိသော သတင်းများအနက်မှပင်ဖြစ်၏။ ငါအရှင်မြတ်သည်ထိုသတင်းများကို အသင့်ထံသို့ ထုတ်ပြန်တော်မူ၏။ ဤသို့မထုတ်ပြန်မီ ထိုသတင်းများကို အသင်လည်းမသိခဲ့ချေ။အသင် ၏အမျိုးသား များလည်း သိခဲ့ကြသည်မဟုတ်ပေ။ သို့ဖြစ်ပေရာ အသင်သည် (သာသနာပြုရာ၌လည်းကောင်း၊ မိမိအမျိုး သားများ၏ဒုက္ခပေးမှုများအပေါ်၌လည်းကောင်း)သည်းခံပါလေ။ ဧကန်မလွဲ နောက်ဆုံးတွင် အကျိုးခံစားမှုသည်ကား (ပြစ်မှုဒုစရိုက်များမှ) ကြဉ်ရှောင်ကြကုန် သောသူတော်စင်တို့အဖို့သာလျှင်ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

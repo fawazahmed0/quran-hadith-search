@@ -710,6 +710,12 @@ Tova e, zashtoto se protivyakha na Allakh i na Negoviya Pratenik. A za koĭto s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	ယင်းကဲ့သို့အပြစ်ဒုက္ခရကြသည့်အကြောင်းမူကား သူတို့သည် အလ္လာဟ်အရှင်မြတ်နှင့် အရှင်မြတ်၏ တမန်တော် ကို တော်လှန်ကြသောကြောင့်ဖြစ်၏၊ အကြင်သူတို့သည် အလ္လာဟ်အရှင်မြတ်နှင့် အရှင်မြတ်၏ တမန်တော်ကို တော်လှန်အ့ံ၊ ထိုသူအား အရှင်မြတ်သည် မုချဧကန်ပြင်းပြစွာလက်စားချေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းသို့ ဖြစ်ရခြင်းမှာ ထိုသူတို့သည် အလ္လာဟ်အရှင်မြတ်အားလည်းကောင်း၊ ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော်မြတ်အားလည်းကောင်း၊ ဆန့်ကျင်ဖီလာ ပြုလုပ်ခဲ့ကြသောကြောင့်ပင်။ စင်စစ်သော်ကား မည်သူမဆို အလ္လာဟ်အရှင်မြတ်အား ဆန့်ကျင်ဖီလာပြုလုပ်ခဲ့မူ ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် ပြင်းထန်စွာ ပြစ်ဒဏ်ခတ်တော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

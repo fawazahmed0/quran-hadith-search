@@ -710,6 +710,12 @@ Slava na Allakh, Koĭto nizposla na Svoya rab Knigata i ne stori v neya izopach
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။	မိမိ၏ ကျေးကျွန်တော်အား ကျမ်းမြတ်ကုရ်အာန်ကို ထုတ်ပြန်ပို့ချပေးသနားတော်ထသောအလ္လာဟ်အရှင်မြတ် သည် ချီးမွမ်းခြင်းတည်ရာဖြစ်တော်မူပါ၏။ အရှင်မြတ်သည် ထိုကျမ်းတော်၌ ကောက်ကျစ်စဉ်းလဲခြင်းတစုံတရာ ကို ထည့်ထားတော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ချီးမွမ်းထောပနာအပေါင်းတို့သည် အကြင်အလ္လာဟ်အရှင်မြတ်နှင့်သာသက်ဆိုင်၏။ ထိုအရှင်မြတ်သည် မိမိကျွန်(မုဟမ္မဒ်)၏အပေါ်ဝယ် ကျမ်းတော်မြတ်(ကုရ်အာန်)ကို ချပေးသနားတော်မူခဲ့၏။ ၎င်းပြင်ထိုအရှင်မြတ်သည် ယင်း(ကုရ်အာန်)ကျမ်းတော်၌ မည်သည့်(ဝေ့ဝိုက်)ကွေ့ကောက်မှုကိုမျှထားရှိတော်မမူခဲ့ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

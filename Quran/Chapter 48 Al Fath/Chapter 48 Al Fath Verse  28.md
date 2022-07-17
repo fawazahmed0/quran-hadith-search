@@ -710,6 +710,12 @@ Toĭ e, Koĭto izprati Svoya Pratenik s napŭt·stvieto i s pravata religiya, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	အလ္လာဟ်အရှင်မြတ်သည် မိမိ၏ တမန်တော်အား အဆုံးအမကျမ်းတော်၊ မှန်ကန်သောဘာသာအယူဝါဒတို့နှင့် တကွ စေလွှတ်တော်မူ၏၊ သို့စေလွှတ်တော်မူခြင်းမှာကား ဤဘာသာအယူဝါဒသည် အခြားဘာသာအယူဝါဒ အမျိုးမျိုးတို့ကို လွှမ်းမိုးစေရန် အလို့ငှာဖြစ်၏၊ အလ္လာဟ်အရှင်မြတ်သည် သက်သေတော်အဖြစ်ဖြင့် လုံလောက် တော်မူပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် အကြင်အရှင်မြတ်ပင်။ ထိုအရှင်မြတ်သည် မိမိရစူလ်တမန်တော် ‘မုဟမ္မဒ်’ (ဆွလ္လလာဟု အလိုင်ဟိဝစလာမ်)အား တရားလမ်းညွှန်နှင့်တကွလည်းကောင်း၊ မှန်ကန်သော ‘ဒီန်’သာသနာတော်နှင့်တကွလည်းကောင်း၊ ယင်းသာသနာတော်ကို အားလုံးသော သာသနာတို့ထက်ဝယ် လွှမ်းမိုးစေတော်မူအံ့သောငှာ စေလွှတ်တော်မူခဲ့၏။ အမှန်သော်ကား အလ္လာဟ်အရှင်မြတ်သည်ပင် သက်သေအဖြစ် လုံလောက်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A koito doĭdat sŭs zlina, shte bŭdat khvŭrleni v Ogŭnya unizeni. “Nima v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉ဝ။	ထို့အပြင်အကြင်သူတို့သည် အကုသိုလ်မကောင်းမှုကို ယူဆောင်လာအ့ံ၊ ထိုသူတို့အား မျက်နှာမှောက်ခုံဆွဲ၍ အဝီစိငရဲမီးထဲသို့ ပစ်ချလတ့ံ၊ သင်တို့အား မိမိတို့ပြုကျင့်သည့်အတိုင်း ကောင်းကျိုးဆိုးပြစ်မှတပါး အခြား ဆုလာဘ်ပေးတော်မူသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် မည်သူမဆို ဒုစရိုက် ‘ကုဖ်ရ်’သွေဖည်ငြင်းပယ်မှုနှင့်တကွ ရောက်ရှိလာခဲ့မူ၊ ထိုသူတို့သည် မျက်နှာမှောက်စေလျက် မီးထဲသို့ ပစ်ချခြင်းကို ခံကြရပေမည်။ (ထို့ပြင်)အသင်တို့သည် မိမိတို့ကျင့်မူလျက် ရှိခဲ့ကြသော အပြုအမူများ၏ အစားပေးခြင်းကို ခံကြရခြင်းသာလျှင် ဖြစ်သည်ဟု(ပြောဆိုခြင်းကို ခံကြရကုန်အံ့သတည်း)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

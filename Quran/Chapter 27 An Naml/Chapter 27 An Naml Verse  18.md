@@ -710,6 +710,12 @@ Kogato pristignakha v Dolinata na mravkite, edna mravka reche: “O, mravki, vle
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	တစ်နေ့သ၌တမန်တော်သည် ပုရွက်ဆိတ်တောသို့ ဆိုက်ရောက်လာသောအခါ ပုရွက်ဆိတ်တစ်ကောင်က မိမိအသင်းသားများကို အို--ပုရွက်ဆိတ်အပေါင်းတို့၊ သင်တို့သည် မိမိတို့နေရာတွင်းသို့ လျင်မြန်စွာဝင်ကြလော့၊ သို့မှသာလျှင်တမန်တော်စိုလိုင်မာန်နှင့် သူ၏ စစ်တပ်တို့သည် သင်တို့ကို မမြင်ပဲ မတော်တဆမှုန့်မှုန့်ညက်ညက် ကြေအောင် နင်းမသွားနိုင်ဖြစ်ချေမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 နောက်ဆုံးတွင် တစ်ရံရောအခါ ထိုဗိုလ်ခြေတို့သည် ပုရွက်ဆိတ်များရှိကြသော ချောင်းလျှိုရိုးသို့ရောက်ရှိခဲ့လေသော် ပုရွက်ဆိတ်တစ်ကောင်က အို-ပရွက်ဆိတ် အပေါင်းတို့၊စုလိုင်မာန်နှင့်တကွ ထို စုလိုင်မာန်၏ဗိုလ်ခြေတို့သည် အသင်တို့အား မသိမမြင်ကြဘဲ (မတော်တဆ) ဖိကြိတ်တက်နင်း ချေမှုန်းမပစ်မိကြရန် အသင်တို့သည် မိမိတို့၏တွင်းများထဲသို့ ဝင်ရောက်လေကုန်ဟု (ဟစ်အော်)ပြောကြားခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A nyakoi ot tyakh kazvat: “Gospodi, vŭzdaĭ ni dobrina v zemniya zhivot i do
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ၁။	ထို့ပြင် လူသားတို့အနက် အို - ကျွန်ုပ်တို့၏အရှင်၊ အကျွန်ုပ်တို့အား ဤဘဝ နောင်ဘဝတွင် ကောင်းချီးမင်္ဂလာ ပေးသနားတော်မူပါ။ ငရဲမီးဒဏ်မှလည်း ကာကွယ်တော်မူပါဟု ပန်ကြားသူလည်း ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်တဝ ယင်းတို့အနက်မှပင် အချို့သော ပုဂ္ဂိုလ်တို့သည် (ပစ္စုပ္ပန်နှင့် တမလွန်ဘဝ နှစ်ဌာနလုံး ၏သုခ ချမ်းသာများကို ရှေးရှုကာ) အို-ကျွန်တော်မျိုး တို့အားမွေးမြူ တော်မူသောအရှင်၊ အရှင်မြတ်သည် ကျွန်တော်မျိုးတို့ကို ဤပစ္စုပ္ပန်ဘဝ၌လည်းကောင်း၊ နောင် တမလွန်ဘဝ၌လည်းကောင်း၊ (နှစ်ဘဝ လုံး၌ပင်) ကောင်းကျိုး ချမ်းသာမင်္ဂလာများကို ပေးသနားတော် မူပါ။ ငရဲမီး၏ ဘေးဒဏ်မှလည်း ကယ်ဆယ်တော်မူပါဟု ဆုတောင်းပတ္တနာ ပြုကြလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

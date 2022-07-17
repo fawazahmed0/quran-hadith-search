@@ -710,6 +710,12 @@ O, vyarvashti, sred vashite sŭprugi i detsa imate i vragove - pazete se ot tyak
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။ အို- ယုံကြည်သူအပေါင်းတို့၊ အသင်တို့၏ ဇနီးမိန်းမနှင့် သားမယားတို့အတွင်း သင်တို့၏ ရန်သူများရှိကြ၏။ ထို့ကြောင့် သတိကြပ်ကြပ်ထားကြလော့၊ သို့သော်သင်တို့သည် သူတို့၏အပြစ်များကို ဗွေမယူ ဖုံးအုပ်ပြီးလျှင် ခွင့်လွှတြ်ကသော် အလ္လာ ဟ်အရှင်မြတ်သည် ဧကန်အမှန်အဖန်တလဲလအဲ ပြစ်လတွှ ်တော်မူ၏၊ ကောင်းကြီး မင်္ဂလာ ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-'မုအ်မင်န်' သက်ဝင်ယုံကြည်သူအပေါင်းတို့၊ အသင်တို့၏ ဇနီးမိန်းမတို့တွင်လည်းကောင်း၊ အသင်တို့၏ သားသမီးတို့တွင်လည်းကောင်း၊ အသင်တို့၏ရန်သူများ ရှိနေကြပေသည်။ သို့ဖြစ်ပေရာ အသင်တို့သည် ၎င်းတို့ကို သတိပြုကြလေကုန်။ ထို့ပြင် အကယ်၍ အသင်တို့သည်(ထိုသူတို့အား) ခွင့်လွှတ်ကြပါလျှင်လည်းကောင်း၊ လျစ်လျူရှုကြပါလျှင်လည်းကောင်း၊ လွတ်ငြိမ်းချမ်းသာခွင့် ပေးကြပါလျှင်လည်းကောင်း၊ ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် အလွန်တရာ ခွင့်လွှတ်ချမ်းသာပေးတော်မူသော၊ အလွန်တရာ ကြင်နာ သနားတော်မူသောအရှင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

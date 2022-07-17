@@ -710,6 +710,12 @@ O, khora, pomnete blagodatta na Allakh kŭm vas! Ima li drug tvorets osven Allak
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	အို-လူသားအပေါင်းတို့၊ သင်တို့အပေါ်၌ အလ္လာဟ်အရှင်မြတ်သနားတော်မူသောကောင်းကြီးမင်္ဂလာတော်များကို အာရုံပြုကြလော့၊ အလ္လာဟ်အရှင်မြတ်မှတပါး သင်တို့အား မိုးနှင့်မြေမှ အစာရိက္ခာကို ဖန်ဆင်းပေးသူတစ်စုံ တစ်ယောက်ရှိသေးသလော၊ အလ္လာဟ်အရှင်မြတ်မှတပါး အခြားဘုရားသခင်မရှိချေ၊ သို့ပါလျက်သင်တို့သည် အဘယ်ဘက်သို့ လှည့်သွားကြသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-လူခပ်သိမ်းတို့၊ အသင်တို့သည် မိမိတို့အပေါ်၌ အလ္လာဟ်အရှင်မြတ်က ပြုတော်မူခဲ့သော ကျေးဇူးတော်များကို ပြန်လည်အောက်မေ့သတိရ ကြလေကုန်။အလ္လာဟ်အရှင်မြတ်အပြင် အသင်တို့အား မိုးကောင်းကင်မှလည်းကောင်း၊ ပထဝီမြေမှလည်းကောင်း၊ စားနပ်ရိက္ခာပေးသည့် ဖန်ဆင်းသူဟူ၍ တစ်ဦးတစ်ယောက်မျှပင် ရှိပါသေးသလော၊ ထိုအရှင်မြတ်မှတစ်ပါး ဆည်းကပ်ကိုးကွယ်ရာအရှင်ဟူ၍ အလျဉ်းမရှိပြီ။ သို့ပါလျက် အသင်တို့သည် အဘယ်သို့ပြန်လှည့်သွားကြလေသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

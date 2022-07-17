@@ -710,6 +710,12 @@ Ne podobava na Proroka i na vyarvashtite da molyat proshka za sŭdruzhavashtite,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၃။	ဆင်းတုကိုးကွယ်သောမိစ္ဆာဒိဋ္ဌိတို့သည် ငရဲသို့ လားရမည်ဖြစ်၏။ထို့ကြောင့်သူတို့သည် တမန်တော်နှင့် ယုံကြည် သူတို့၏ ဆွေမျိုးသားချင်းဖြစ်ငြားသော်လည်း တမန်တော်နှင့် ယုံကြည်သူတို့သည် ထိုအယူမှားသူတို့ကို အပြစ်လွှတ်တော်မူရန် ဆုမတောင်းအပ်ကြပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 နဗီတမန်တော်မြတ်၌လည်းကောင်း၊၊ ထို့အတူမုအ်မင်န် သက်ဝင်ယုံကြည်သူတို့၌လည်းကောင်း၊ မုရှ်ရစ်က်တို့အဖို့ ၎င်း တို့သည် ၎င်းတို့၏ ဆွေမျိုးနီးစပ်သူများ ဖြစ်ကြသော်လည်း၊ ၎င်းတို့သည် ငရဲသားများဖြစ်ကြောင်း မိမိတို့၌ထင်ရှားခဲ့ပြီးနောက် (အလ္လာဟ်အရှင်မြတ်အထံတော်၌) လွတ်ငြိမ်းချမ်းသာခွင့်ကို ပန်ကြားပေးပိုင်ခွင့်မရှိချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

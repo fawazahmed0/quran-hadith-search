@@ -710,6 +710,12 @@ Ako Allakh te zastigne s vreda, ne shte ya otmeni drug osven Toĭ, i ako te zas
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	အကယ်၍ အလ္လာဟ်အသျှင်မြတ်သည် သင့်အား ဘေးထိစေတော်မူပါလျှင် သင့်အား ထိုဘေးမှ ကယ်တင်မည့်သူ၊ အလ္လာဟ်အသျှင်မြတ်မှတစ်ပါးမရှိပေ။ အကယ်၍ အသျှင်မြတ်သည် သင့်အား ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူပါလျှင် ထိုကောင်းကြီးမင်္ဂလာကို ဖျက်ဆီးနိုင်သူမရှိပေ။ အသျှင်မြတ်သည် ခပ်သိမ်းကုန်သောအရာများကို ပြုစွမ်းနိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (အို-လူသား) အကယ်၍သာ အလ္လာဟ်အရှင်မြတ်သည် အသင့်အား (ဤမျက်မှောက် လောကီဘဝ၌ဖြစ်စေ၊ နောင်တမလွန်ဘဝ၌ဖြစ်စေ) ဘေးအန္တရာယ် တစ်စုံတစ်ရာ သင့်စေတော်မူပါလျှင် ထိုအရှင်မြတ်မှတစ်ပါး ယင်းဘေးအန္တရာယ်ကို ကင်းဝေးပပျောက်စေနိုင်သူဟူ၍ တစ်ဦးတစ်ယောက်မျှမရှိချေ။ အကယ်၍ ထိုအရှင်မြတ်သည် အသင်၌ တစ်စုံတစ်ရာ အကျိုးကျေးဇူးကို ဖြစ်ထွန်းစေတော် မူပါလျှင်လည်း (မည်သူမျှ ထိုကျေးဇူးကို ပျက်ပြားစေနိုင်သူဟူ၍ မရှိချေ၊) ထိုအရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို ပြုစွမ်းနိုင် သောအရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

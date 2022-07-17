@@ -710,6 +710,12 @@ Sŭtvoryavaneto na nebesata i na zemyata e po-veliko ot sŭtvoryavaneto na khora
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၇။	အမှန်ကိုဆိုသော် မိုးကောင်းကင်နှင့် ကမ္ဘာမြေကြီးကို ဖန်ဆင်းခြင်းသည် လူသားအပေါင်းကို ဖန်ဆင်းခြင်း ထက် သာလွန်ကြီးကျယ်၏၊ များလှစွာသောလူသားတို့၌ကား အသိတရားမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်ပင် မိုးကောင်းကင်များကို လည်းကောင်း၊ ပထဝီမြေကိုလည်းကောင်း၊ ဖန်ဆင်းခြင်းသည် လူတို့အား ဖန်ဆင်းခြင်းထက် ပို၍ကြီးကျယ်(ခက်ခဲလှ)ပေသည်။ သို့ရာတွင် အများဆုံးသောသူတို့မှာမူကား သိနားလည်ကြသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Vsyaka dusha shte vkusi smŭrtta. Posle pri Nas shte bŭdete vŭrnati
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၇။	ဝိညာဉ်တိုင်းသည် သေခြင်းကို မြည်းရမည်သာတည်း၊ ထို့နောက်ငါ့ထံသို့ သင်တို့ကို ပြန်ပို့မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သက်ရှိသတ္တဝါတိုင်းသည် ‘မရဏ’ သေခြင်းတရား၏အရသာကို မြည်းစမ်းကြရမည်သာတည်း။ ထို့နောက် အသင်တို့သည် ငါအရှင်မြတ် အထံတော်သို့ပင် ပြန်လည်ပို့ဆောင်ခြင်းကို ခံကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I razklati kŭm sebe si stvola na palmata, za da se posipyat svezhi zreli furmi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	သင်သည် စွန်ပလွံပင်ကို သင့်ထံသို့ လှုပ်လော့။ ထိုအခါစွန်ပလွံသီးအမှည့်တို့သည် သင့်အပေါ်သို့ ကျလာ လိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်မသည် စွန်ပလွံပင်၏ ပင်မကို မိမိဖက်သို့(ဆွဲ၍)လှုပ်ပါလျှင် စိမ်းစိုလတ်ဆတ်သေစွန်ပလွံသီးများသည် အသင်မ၏ရှေ့ဝယ် ကေကျလာပါလိမ့်မည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

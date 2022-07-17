@@ -710,6 +710,12 @@ Veche vi byakha cheteni Moite znameniya, ala vie se otvrŭshtakhte
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၆။	ငါ၏နှုတ်ကပတ်တော်များကို နင်တို့အား ဖတ်ရွတ်ပြလေပြီ၊ သို့သော်နင်တို့သည် မနာယူထွက်ပြေးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ငါအရှင်မြတ်၏ အာယတ်တော်များသည် အသင်တို့ရှေ့ဝယ် ဖတ်ကြားခြင်းကို ခံခဲ့ကြရလေသည်။ ထိုအခါ အသင်တို့သည် မိမိတို့၏ ခြေဖနှောင့်များသို့ ပြန်ဆုတ်ခဲ့ကြလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

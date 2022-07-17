@@ -710,6 +710,12 @@ Kogato tekhniyat brat Nukh im kaza: “Ne se li boite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၆။	သူတို့၏အမျိုးသားတမန်တော်နူဟိုက ဤသို့ဟောပြော၏၊ အချင်းတို့၊ သင်တို့သည် ဒုစရိုက်မကောင်းမှုကို ရှောင်ကြဉ်ကြမည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်အခါဝယ် ၎င်းတို့အား ၎င်းတို့၏ နောင်တော်နူဟ်က(ဤသို့)ပြောကြားခဲ့၏။(အချင်းတို့)အသင်တို့ သည်(အလ္လာဟ်အရှင်မြတ်အား) မကြောက်ရွံ့ကြလေ သလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I priekhme Nie ot prorotsite obeta im, i ot teb, i ot Nukh, i Ibrakhim, i Musa, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	အို-တမန်တော်မိုဟမ္မဒ်၊ ငါသည် တမန်တော်များထံမှ ပဋိညာဉ်ဝန်ခံချက်ကို ယူတော်မူရာ သင့်ထံမှလည်း ကောင်း၊ တမန်တော်နူဟိုထံမှလည်းကောင်း၊ တမန်တော်အေဗရာဟမ်ထံမှလည်းကောင်း၊ တမန်တော်မူစာထံမှ လည်းကောင်း၊ မရ်ယမ်၏သားတမန်တော်အီစာထံမှလည်းကောင်း၊ ခိုင်မာလုံလောက်သောပဋိညာဉ်ဝန်ခံချက်ကို ငါယူတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (ပြန်လည်သတိရပါလေ၊) တစ်ရံရောအခါဝယ် ငါအရှင်မြတ်သည် နဗီတမန်တော်တို့ထံမှ ပဋိညာဉ်ဝန်ခံချက်ကို ယူတော်မူခဲ့၏။ (ထိုတမန်တော်များတွင် အသင့်ထံမှလည်းကောင်း၊ နူဟ် ထံမှလည်းကောင်း၊ အီဗ်ရာဟီမ်၏ထံမှလည်းကောင်း၊ မူစာ ၏ထံမှလည်းကောင်း၊ မရ်ယမ်၏သားတော်အီစာ၏ထံမှလည်းကောင်း၊ (ပဋိညာဉ်ဝန်ခံချက်ကို ယူတော်မူခဲ့၏)။ စင်စစ် ငါအရှင်မြတ်သည် ၎င်းတို့ထံမှခိုင်မာသော ဝန်ခံချက်ကို ယူတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

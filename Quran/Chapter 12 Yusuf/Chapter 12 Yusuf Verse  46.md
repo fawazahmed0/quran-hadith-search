@@ -710,6 +710,12 @@ Jusufe, o ti koji si uvijek iskren, protumači nam šta znači: sedam mršavih k
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။	သူသည် ထောင်တွင်းရှိ ယူစွတ်(ဖ်)ထံ ရောက်သောအခါ အို-ယူစွတ်(ဖ်)၊ အို-မှန်သောစကားကို ဆိုသူ၊ ပိန်သောနွားမခုနစ်ကောင်က ဝသောနွားမခုနစ်ကောင်ကို စားခြင်း၊ စိမ်းစိုသေားစပါးနှံခုနစ်နှံနှင့်သွေ့ခြောက်သော စပါးနှံခုနစ်နှံစသည့်အိပ်မက်၏ အဓိပ္ပါယ်ကို ဖော်ပြပါ။ အကျွနု်ပ်သည် မိမိအမျိုးသားတို့ထံ ပြန်ပြောရအောင် သူတို့သိရအောင် အဓိပ္ပါယ်ကို ပြောပြပါဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အကျဉ်းထောင်သို့ရောက်လတ်သော် ထိုလုလင်သည် တမန်တော်ယူဆွဖ်အား ဤသို့ ပြောဆိုလေ၏။) အို-ယူဆွဖ်၊ အို-သစ္စာဝါဒီ၊ အသင်သည် ကျွန်ုပ်တို့အား ဝဝဖြိုးဖြိုးရှိသော နွားမခုနစ်ကောင်ကို ပိန်ချုံးသော နွားမခုနစ်ကောင်သည် စား၍နေသည်။ ၎င်းပြင် စိမ်းစိုသော စပါးနှံခုနစ်နှံနှင့်ခြောက်သွေ့သော စပါးခုနှစ်နှံဖြစ်ကုန်သည်။ (မြင်မက်သောအိပ်မက်)နှင့်စပ်လျဉ်း၍ (ဒိဗ်ဓုမ်ကို) ရှင်းလင်း ပြောပြပါလေ။သို့မှသာလျှင် ကျွန်ုပ်သည် လူများထံပြန်နိုင်၍ လူများလည်း(အသင်၏ မြင့်မြတ်လှသောဂုဏ်အင်များကို) သိနားလည်နိုင်ကြပေမည် ဖြစ်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

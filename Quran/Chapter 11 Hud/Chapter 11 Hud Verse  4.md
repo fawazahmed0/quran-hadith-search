@@ -710,6 +710,12 @@ Pri Allakh e vasheto zavrŭshtane. Toĭ za vsyako neshto ima sila
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	သင်တို့၏ အပြန်ခရီးသည် အလ္လာဟ့်အထံတော်သို့ ဖြစ်၏။ အရှင်မြတ်သည် အရာခပ်သိမ်းကုန်တို့ကို ပြုစွမ်းနိုင် တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့၏ ပြန်လည်ခြင်းသည် အလ္လာဟ်အရှင်မြတ်အထံတော်သို့ပင်ဖြစ်၏။ ၎င်းပြင် ထိုအရှင်မြတ်သည်အရာခပ်သိမ်းတို့ကို ပြုနိုင် စွမ်းနိုင်တော်မူသော အရှင်မြတ်ပင်ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

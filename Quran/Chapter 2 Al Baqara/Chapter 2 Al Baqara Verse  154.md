@@ -710,6 +710,12 @@ I ne narichaĭte “mŭrtvi” ubitite po pŭtya na Allakh! Ne, zhivi sa! No vi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၄။	ထို့ပြင် အလ္လာဟ်အရှင်မြတ်၏လမ်းတော်၌ အသတ်ခံရသူတို့ကို သေပြီဟု မဆိုကြလင့်။ ထိုသူတို့ သည် မသေပေ။ အသက်ရှင်လျက်ရှိကြ၏။ သို့သော် သင်တို့သည် မမြင်စွမ်းနိုင်ကြပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်တဝ (အို-မုအ်မင်န် အပေါင်းတို့) အသင်တို့သည် အလ္လာဟ်အရှင်မြတ် လမ်းတော်၌ သတ်ဖြတ်ခြင်းခံရသူတို့ကို သူသေများဟူ၍ မပြောဆိုကြကုန်လင့်။ (ယင်းသူတို့ သည် သူသေများ) အလျင်းမဟုတ်။ စင်စစ်မှာမူ ထိုသူတို့သည် အလ္လာဟ်အရှင်မြတ်၏ အထံတော်၌ အသက်ရှင်လျက်ပင် ရှိကြလေသည်။ သို့ရာတွင် အသင်တို့သည် (ထိုအကြောင်းကို) တွေးဆဆင်ခြင် မသိမမြင်နိုင်ကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ala nevernitsite tŭnat v nadmennost i protivene
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	မိစ္ဆာဒိဋ္ဌိတို့သည် အနှစ်သာရမရှိသော ပလွှားဝင့်မော်ခြင်း၌ မွေ့လျော်နေကြ၏၊ ဂိုဏ်းဂဏကွဲပြားတည်ထောင် နေကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ကာဖိရ်"သွေဖည်ငြင်းပယ်ကြကုန်သောသူတို့၏ သွေဖည်ငြင်းပယ်မှုသည် မည်သည့်သက်သေ အထောက်အထားကိုမျှ အခြေခံပြုထားခြင်း) အလျှင်းမဟုတ်၊ စင်စစ်မှာကား (ထို)"ကာဖိရ်" သွေဖည်ငြင်းပယ်သောသူတို့မှာ အယူသည်းမှု၌လည်းကောင်း၊ ဆန့်ကျင်ဖီလာပြုမှု၌လည်းကောင်း၊ ရှိနေကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

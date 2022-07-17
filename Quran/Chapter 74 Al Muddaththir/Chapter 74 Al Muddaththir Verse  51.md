@@ -710,6 +710,12 @@ byagashti ot lŭv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၀၊၅၁။ ၄င်းတို့ကို ပမာဆိုသော် သူတို့သည် ခြင်္သေ့ထံမှ လွတ်ကင်းအောင် လန့်ဖျပ်ပြေးနေသောမြည်းအလား တိရိစ္ဆာန် များနှင့် တူကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်း မြည်းသတ္တဝါတို့ကား ကျားတိရစ္ဆာန်(၏ဘေးရန်မှ) (လွတ်မြောက်ရန်) ထွက်ပြေးလျက် ရှိကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

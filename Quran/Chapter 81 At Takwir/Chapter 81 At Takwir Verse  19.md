@@ -710,6 +710,12 @@ toĭ [Koranŭt] e slovo na dostoen pratenik
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။ သက်သေပြချက်မှာကား မုချဧကန်ဤကုရ်အာန်ကျမ်းမြတ်သည် ဂုဏ်အသရေရှိလှသောကောင်းကင်တမန်ဂျစ် ဗရာအီလ်ယူဆောင်လာသောကျမ်းမြတ်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ဤ(ကုရ်အာန်ကျမ်းတော်မြတ်)သည် မြင့်မြတ်သော စေတမန်တစ်ပါး(ယူဆောင်လာသော)အာယတ်တော်ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

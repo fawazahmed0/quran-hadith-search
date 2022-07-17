@@ -710,6 +710,12 @@ Izvestyavam vi poslaniyata na moya Gospod i sŭm za vas dostoveren nastavnik
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၈။	အကျွနု်ပ်သည် မိမိ၏ကျေးဇူးတော်သခင်၏ ဗျာဒိတ်တော်များကို သင်တို့ထံသို့ ယူဆောင်လာ၏။ အကျွနု်ပ်သည် သင်တို့အတွက် သစ္စာရှိသော အကြံဉာဏ်ပေးသူတစ်ယောက်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါသည် မိမိအရှင်မြတ်က မှာကြားတော် မူလိုက်သောအမိန့်တော်များကို အသင်တို့ထံ ပို့ဆောင်လေသည်။ ၎င်းပြင် ငါသည် အသင်တို့၏ ကောင်းကျိုးကိုလိုလားသူ ယုံကြည်စိတ်ချရသူ အစစ်အမှန်လည်း ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Zavarikh neya i naroda ĭ da se poklanyat na slŭntseto, a ne na Allakh, i sata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	အကျွနု်ပ်သည် ဘုရင်မနှင့်တကွ ဘုရင်မ၏ လူတို့သည် အလ္လာဟ်အရှင်မြတ်ကို မကိုးကွယ်ပဲ နေကို ကိုးကွယ် နေသည်ကို တွေ့ရပါ၏၊ ထို့အပြင်ရှိုင်တန်မာရ်နတ်သည် သူတို့အား သူတို့၏ပြုကျင့်မှုများကို ကောင်းသည်ဟု ထင်မှတ်စေပါ၏၊ သစ္စာလမ်းတော်ကို သွေဖီသွားစေပါ၏၊ ထို့ကြောင့်သူတို့သည် လမ်းမှန်ကို မလျှောက်ကြပါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကျွန်တော်မျိုးသည် ထိုမိန်းမအားလည်းကောင်း၊ထိုမိန်းမ၏အမျိုးသားတို့အားလည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ်အားစွန့်၍ နေကိုပျပ်ဝပ်ဦးချ (ကိုးကွယ်ဆည်းကပ်) နေကြသည်ကို တွေ့ခဲ့ပါသည်။ စင်စစ် ‘ရှိုင်တွာန်’ မိစ္ဆာကောင်သည် ၎င်းတို့၏ပြုမူချက်များကို ၎င်းတို့၏အမြင်တွင် လှပတင့်တယ်အောင် ပြုလုပ်၍ထားပါသည်။ တစ်ဖန် ထိုရှိုင်တွာန် မိစ္ဆာကောင်သည် ၎င်းတို့အား(မှန်ကန်သော)တရားလမ်းမှ ပိတ်ပင်တားဆီး၍ထားခဲ့ရာ ၎င်းတို့သည် တရားလမ်းမှန်ကိုမရနိုင်ကြပါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

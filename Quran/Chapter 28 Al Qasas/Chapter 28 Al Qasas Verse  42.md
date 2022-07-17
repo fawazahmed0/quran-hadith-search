@@ -710,6 +710,12 @@ I gi spodirikhme na tozi svyat s proklyatie, a v Denya na vŭzkresenieto shte sa
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	ထို့အပြင်ဤလောက၌ ငါ၏ကျိန်ဆဲတော်မူခြင်းကို ထိုသူတို့နောက်က ထက်ချပ်မကွာလိုက်စေတော်မူ၏၊ ရှင်ပြန် ထမြောက်ရသောနေ့တော်ကြီး၌ ထိုသူတို့သည် မုန်းတီးဖွယ်ကောင်းသောသူတို့ဘောင်တွင် ပါဝင်ကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ငါအရှင်မြတ်သည် ဤပစ္စုပ္ပန်လောက၌လည်း ကရုဏာတော်မှ ကင်းဝေးမှုကို ၎င်းတို့၏နောက်မှ ထပ်ကြပ်မကွာ လိုက်ပါစေတော်မူခဲ့၏။ ‘ကိယာမတ်’ ရှင်ပြန်ထမည့်နေ့တွင်လည်း ၎င်းတို့သည် အခြေအနေ အလွန်ဆိုးရွားသူတို့အနက်မှပင် ဖြစ်ကြကုန်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A koito se starayat Nashite znameniya da obezsilyat, tezi v mŭchenieto shte bŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	ထို့အပြင်ငါအရှင်မြတ်ကို ရန်မူ၍ ငါ၏ပညတ်တော်များကို ဆန့်ကျင်သူတို့သည် ငရဲမီးထဲသို့ သွတ်သွင်းခြင်းကို ခံကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ငါအရှင်မြတ်၏ အာယတ်တော်များကို ပျက်ပြားအောင် ကြိုးပမ်းဆောင်ရွက်လျက်ရှိကြသော သူတို့မှာမူကား ပြစ်ဒဏ်၌ အဆင်သင့် ရောက်ရှိစေခြင်းခံကြရမည့်သူများပင် ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

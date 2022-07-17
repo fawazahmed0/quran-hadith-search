@@ -710,6 +710,12 @@ I kogato dadem blagodat na chovek, toĭ se izvrŭshta i se otdalechava po svoya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၃။	တဖန် ငါသည် လူသားအား စည်းစိမ်ချမ်းသာပေးသနားတော်မူသောအခါ သူသည် ငါ့ထံမှ လှည့်သွားပြီးလျှင် ပုန်ကန်ထောင်ထား၏။ သို့သော်သူသည် ဘေးအန္တရာယ်ထိခိုက်သောအခါ အလွန်စိတ်ငယ်ပြီးလျှင် စိတ်လုံးလုံး လျှော့ပစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ် ငါအရှင်မြတ်သည် လူသား၏အပေါ်၌ ကျေးဇူးပြုလေတော်မူသောအခါဝယ်၊ ၎င်းသည် မျက်နှာလွှဲ၍ ဝေးစွာဖယ်ရှောင်သွားလေ့ရှိပေသည်။ သို့ရာတွင်ယင်းလူသား၌ ဘေးဒုက္ခရောက်လေသော် ၎င်းသည် မျှော်လင့်ချက်ကင်းသူ ဖြစ်သွားလေတော့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

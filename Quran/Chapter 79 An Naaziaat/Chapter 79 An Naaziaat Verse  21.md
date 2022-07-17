@@ -710,6 +710,12 @@ I vze go za lŭzha, i se vŭzprotivi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။ သို့သော်သူသည် မနာခံငြင်းပယ်သည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ပါလျက် ထိုဖစ်ရ်အောင်န်သည် (နဗီတမန်တော်မူစာအား) မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်ခဲ့သည့်ပြင် (ထိုနဗီတမန်တော်မူစာ၏ ဟောကြားချက်များကိုလည်း) ဖီဆန်ခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

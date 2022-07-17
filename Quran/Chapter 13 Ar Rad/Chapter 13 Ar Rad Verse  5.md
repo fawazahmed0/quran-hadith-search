@@ -710,6 +710,12 @@ I ako neshto te uchudva, uchudvashti sa dumite im: “Dori ako stanem na prŭst,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	တမန်တော်၊ သင်သည် အ့ံသြလျှင်၊ သူတို့၏ ပြောဆိုချက်သည် သာ၍ အ့ံသြစရာဖြစ်၏။ သူတို့က အကျွနု်ပ်သည် မြေမှုန့်အတိဖြစ်ပြီးနောက် ပြန်ရှင်ကြရမည်လောဟု ဆိုကြ၏ ထိုသူတို့သည် မိမိတို့၏ အရှင်သခင်အား မယုံကြည်သူတို့ဖြစ်ကြ၏။ သူတို့၏ လည်ပင်း၌ သံကွင်းတပ်စွပ်ထား၏။ သူတို့သည် ငရဲကို တရားသဖြင့်ပိုင်ဆိုင် သူဖြစ်ကြ၏။ သူတို့သည် ငရဲတွင် နေထိုင်ကြရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အကယ်၍ အသင်သည် အံ့ဩသည်ရှိသော် ကျွန်ုပ်တို့သည်(သေပြီးနောက်)ပကတိ မြေကြီး ဖြစ်သွားခဲ့ကြသောအခါ ကျွန်ုပ်တို့သည် အသစ်ပြန်၍ဖန်ဆင်းခြင်းကိုခံကြရမည်လောဟူသော ၎င်းတို့၏ပြောဆိုချက်သည်ကား (သာ၍)ပင် အံ့ဩဖွယ်ဖြစ်ပေသည်။ ဤသူများပင် မိမိတို့ကို ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်အား မယုံမကြည် သွေဖည်ငြင်းပယ်ကုန်သောသူများတည်း။ ၎င်းပြင် ဤသူများပင်၊ ၎င်းတို့၏လည်ပင်းများ၌ လည်ကွင်းများရှိအံ့။ ထိုမှတစ်ပါးဤသူတို့သည်ပင်လျှင် ငရဲသားများဖြစ်ကြကုန်သည်။ ၎င်းတို့သည် ထိုငရဲမီး၌ ထာဝစဉ်နေထိုင်ကြမည့်သူများ ဖြစ်ကြပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

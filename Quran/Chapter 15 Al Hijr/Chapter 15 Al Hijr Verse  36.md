@@ -710,6 +710,12 @@ Reche: “Gospodi moĭ, ot·srochi me do Denya, v koĭto shte bŭdat vŭzkrese
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	ထိုအခါအီဗလစ်က အို-အကျွန်ုပ်၏ ကျေးဇူးတော်သခင်၊ အကျွနု်ပ်အား ရှင်ပြန်ထမြောက်ရသောနေ့တိုင်အောင် အချိန်ပေးသနားတော်မူပါဟု လျှောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ယင်းအီဗ်လီစ်က အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်၊ သို့ဖြစ်ပါလျှင် အရှင်မြတ်သည် ကျွန်တော်မျိုးအား(လူသတ္တဝါအပေါင်းတို့) ရှင်ပြန်ထကြရမည့်နေ့တိုင်အောင်(သေခြင်းမှလည်းကောင်း၊ ပြစ်ဒဏ်ခတ်တော်မူခြင်းမှလည်းကောင်း၊) ရွှေ့ဆိုင်းထားတော်မူပါဟုလျှောက်ထား ပန်ကြားခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

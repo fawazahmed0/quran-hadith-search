@@ -710,6 +710,12 @@ Shte stovarim vŭrkhu obitatelite na tova selishte napast ot nebeto, zashtoto sa
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	အို-တမန်တော်သခင်၊ ဤအရပ်ဒေသသူဒေသသားတို့သည် မတော်မတရားဒုစရိုက်အညစ်အညမ်းတို့ကို ကျူးလွန်ပြုကျင့်သောကြောင့် အကျွနု်ပ်တို့သည် ထိုသူယုတ်မာတို့အပေါ်သို့ ကောင်းကင်မှ ပြင်းထန်သောအမျက် ဒေါသကို ပစ်ချကြပါမည်ဟု ပြောကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် ကျွန်ုပ်တို့သည် ဤမြို့သူရွာသားတို့အပေါ်၌ ၎င်းတို့သည် အမိန့်တော်ကိုဖီဆန်လျက် ရှိခဲ့ကြသောကြောင့် မိုးကောင်းကင်မှ ပြစ်ဒဏ်တစ်မျိုးကို ချပေးအံ့သောသူများပင် ဖြစ်ကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

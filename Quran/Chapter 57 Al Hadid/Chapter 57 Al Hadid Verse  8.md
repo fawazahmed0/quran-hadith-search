@@ -710,6 +710,12 @@ I kakvo vi e, zashto da ne povyarvate v Allakh, kogato Pratenika vi zove da povy
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	သင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား မယုံကြည်လောက်အောင် သင်တို့တွင် အဘယ်ရောဂါရှိသနည်း၊ ထို့ အပြင်တမန်တော်သည် သင်တို့အား မိမိတို့၏ အရှင်သခင်အား ယုံကြည်ရန် ဖိတ်ခေါ်၏၊ ထို့အပြင်သင်တို့ ယုံကြည်သူဖြစ်လျှင် သူသည် သင်တို့နှင့်ပဋိညာဉ်စာချုပ်ချုပ်ဆိုပြီးပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အသင်တို့ သက်ဝင်ယုံကြည်ခြင်း မရှိကြသည်မှာ အသင်တို့၌ မည်သည့်အကြောင်း ရှိပေသနည်း။ အမှန်စင်စစ်သော်ကား အသင်တို့သည် မိမိတို့ကို ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အား သက်ဝင်ယုံကြည်ကြရန် ရစူလ်တမန်တော်မြတ်သည် အသင်တို့အား ဖိတ်ခေါ်လျက်ရှိပေသည်။ ထိုမှတစ်ပါး မလွဲဧကန် ထိုအရှင်မြတ် ကိုယ်တော်တိုင်ပင် အသင်တို့ထံမှ ကတိဝန်ခံချက်ကို ယူထားတော်မူပြီး ဖြစ်ပေသည်။ အကယ်၍ အသင်တို့သည် သက်ဝင်ယုံကြည်အံ့သောသူများ ဖြစ်ကြပါလျှင်၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

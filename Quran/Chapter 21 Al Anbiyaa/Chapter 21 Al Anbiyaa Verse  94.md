@@ -710,6 +710,12 @@ Koĭto vŭrshi pravedni dela i e vyarvasht, ne shte se otkhvŭrli negovoto star
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၄။	ထိုအခါအကြင်သူသည် ကောင်းမှုကုသိုလ်ပြု၍ ယုံကြည်သူဖြစ်အ့ံ၊ ထိုသူ၏ ကြိုးစားမှုကို ပယ်ရှားမည်မဟုတ်ချေ၊ မှတ်သားကြလော့၊ ငါသည် ဤအမှုများကို သူ့အတွက် စာရင်းတင်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ မည်သူမဆို ကောင်းမြတ်သောအကျင့်သီလများကို ကျင့်မူအံ့။ ၎င်းပြင် ထိုသူသည် "မုအ်မင်န်" သက်ဝင်ယုံကြည်သူလည်းဖြစ်အံ့။ သို့ဖြစ်လျှင် ထိုသူ၏ကြိုးပမ်းအားထုတ်မှုသည် ပယ်ရှားခြင်းခံရမည် မဟုတ်ပေ။မချွတ်ဧကန် ငါအရှင်မြတ်သည် ယင်းအားထုတ်မှုကို ရေးသားတော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

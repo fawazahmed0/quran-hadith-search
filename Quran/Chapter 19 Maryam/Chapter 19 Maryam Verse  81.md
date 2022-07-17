@@ -710,6 +710,12 @@ I priekha vmesto Allakh drugi bogove, za da im bŭdat sila
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၁။	ထို့အပြင်ဘုရားတုများသည် သူတို့အဖို့ တန်ခိုးအာဏာရှိစေခြင်းငှာ သူတို့သည် အလ္လာဟ်အရှင်မြတ်မှတပါး ုဘုရားတုများကို ခဝပ်ကိုးကွယ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ၎င်းတို့သည် မိမိတို့အဖို့ အကူအညီပေးသူများဖြစ်ကြအံ့သောငှာ အလ္လာဟ်အရှင်မြတ်အပြင်အခြားကိုးကွယ်ရာများလည်း ပြုလုပ်ထားခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

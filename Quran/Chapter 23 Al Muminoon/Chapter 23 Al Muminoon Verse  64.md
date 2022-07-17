@@ -710,6 +710,12 @@ A kogato sgrabchim s mŭchenie sviknalite na razkosh sred tyakh, eto gi - roptay
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၄။ ငါသည် ယင်းသူမိုက်အထဲမှ ကုံလုံကြွယ်ဝသောသူတို့ကို အပြစ်ဒဏ်တော်နှင့် ဖမ်းဆီးသောအခါတိုင်အောင် ထိုသူတို့သည် ယင်းသို့ပြုကျင့်၏၊ ကြည့်ကြလော့၊ အပြစ်ဒဏ်တော်ကျရောက်လာမှသာလျှင် သူတို့သည် အသနားခံကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 နောက်ဆုံးတွင် ငါအရှင်မြတ်သည် ၎င်းတို့အနက်မှ စည်းစိမ်ရှင်တို့အား ပြစ်ဒဏ်ဖြင့် ဖမ်းဆီး ကွပ်မျက်တော်မူသောအခါ ၎င်းတို့သည် ရုတ်တရက် အော်ဟစ်ငိုကြွေးကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ V Denya shte pozovem vsichki khora s tekhnite voditeli. Onezi, chiyato kniga e p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၁။	ငါသည် လူအပေါင်းတို့ကို မိမိတို့စာရင်းအသီးသီးနှင့်တကွ ဆင့်ခေါ်တော်မူသောနေ့တော်ကြီး၌ အကြင်သူတို့သည် မိမိ၏ စာရင်းစာအုပ်ကို လက်ျာလက်ထဲသို့ ထည့်ပေးခြင်းခံရ၏။ ထိုသူတို့သည် မိမိတို့၏ စာအုပ်ကို ဖတ်ရှု ကြလတ့ံ။ သူတို့ကို အဏုမြူခန့်မျှမတရားပြုတော်မူမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်နေ့တွင် ငါအရှင်မြတ်သည် လူသားအားလုံးတို့ကို ၎င်းတို့၏ရှေ့ဆောင်တို့နှင့်တကွ (မှတ်တမ်းများနှင့်တကွ) ခေါ်ယူတော်မူအံ့။ ထိုအခါ မိမိတို့၏မှတ်တမ်းများကိုမိမိတို့ လက်ယာလက်သို့ ပေးခြင်းခံကြရသော သူတို့မှာမူကားမိမိတို့၏မှတ်တမ်းများကို(ဝမ်းမြောက်ဝမ်းသာ) ဖတ်ကြကုန်အံ့။၎င်းပြင် ထိုသူတို့သည် စိုးစဉ်းမျှပင် မတရားပြုလုပ်ခြင်းကိုခံကြရမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

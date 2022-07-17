@@ -710,6 +710,12 @@ I vŭzdade im Allakh nagradata na zemniya zhivot, i prekrasnata nagrada na otvŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၈။	အလ္လာဟ်အသျှင်မြတ်သည် သူတို့အား ဤဘဝ၏ဆုကိုလည်းကောင်း၊ နောင်ဘဝ၏ဆုတို့ကို လည်းကောင်း ပေးသနားတော်မူ၏။ အလ္လာဟ်အသျှင်မြတ်သည် ကောင်းမှုပြုသူတို့အား နှစ်သက် မြတ်နိုးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ၊ အလ္လာဟ်အရှင်မြတ်သည် ထိုသူတို့အား လောကီအကျိုး(ဖြစ်သောအောင်မြင်မှု)ကိုလည်းကောင်း၊ နောင်တမလွန်ဘဝ၏ ကောင်းမြတ်သော အကျိုးကျေးဇူးကိုလည်းကောင်း ချီးမြှင့် ပေးသနားတော်မူခဲ့လေသည်။အမှန်စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် ကောင်းမြတ်သော အကျင့်အမူ ကျင့်မူသော သူတို့အား ချစ်ကြည်တော်မူလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

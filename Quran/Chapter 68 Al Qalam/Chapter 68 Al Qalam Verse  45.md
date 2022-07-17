@@ -710,6 +710,12 @@ Shte im dam ot·srochka. Moyata promisŭl e silna
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။ သို့ငြားသော်လည်း ငါသည် သူတို့ကို သည်းခံတော်မူ၏၊ အကြောင်းမူကား စင်စစ်အားဖြင့်ငါ၏ စီမံကိန်းသည်အလွန်ခိုင်ခန့်မြဲမြံ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ငါအရှင်မြတ်သည် ၎င်းတို့အား ရွှေ့ဆိုင်းခွင့်ပေးတော်မူ၏၊ ဧကန်မလွဲ ငါအရှင်မြတ်၏ အကြံအစည်သည် လွန်စွာခိုင်မြဲလှ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

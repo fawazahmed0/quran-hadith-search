@@ -710,6 +710,12 @@ I togava shte se prepirat v Ogŭnya, i slabite shte rekat na onezi, koito se gol
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	သူတို့သည် ငရဲမီးအတွင်း၌ တစ်ဦးနှင့်တစ်ဦး အခြေအတင်အငြင်းအခုံပြုကြလတ့ံ၊ အင်အားနည်းပါး၍ နောက် လိုက်ဖြစ်သောသူများက မာန်မာနထောင်လွှားသောခေါင်းဆောင်များအား အကျွနု်ပ်တို့သည် သင်တို့နောက် သို့သာ လိုက်ခဲ့ရ၏၊ ထို့ကြောင့်သင်တို့သည် အကျွနု်ပ်တို့ထံမှ ငရဲမီးအချို့အဝက်ကို ဝေစုခံယူနိုင်ပါသလောဟု မေးမြန်းကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ပြန်လည်သတိရပါလေ။ ၎င်းတို့သည် ငရဲမီး၌ အငြင်းအခုံပြုလုပ်ကြသောအခါဝယ် အောက်လက်ငယ်သားတို့က အကြီးအကဲတို့အား "ဧကန်စင်စစ် ကျွန်ုပ်တို့သည် အသင်တို့၏ နောက်လိုက်များပင် ဖြစ်ခဲ့ကြပေရာ၊ အသင်တို့သည် ကျွန်ုပ်တို့မှ ငရဲမီးတစ်စိတ်တစ်ဒေသကို ဖယ်ရှားပေးနိုင်ကြလေသလော" ဟုပြောဆိုကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

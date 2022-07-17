@@ -710,6 +710,12 @@ Negovi sa vsichki na nebesata i na zemyata. A onezi, koito sa pri Nego, ne se go
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	အလ္လာဟ်အရှင်မြတ်သည် မိုးမြေပေါ်ရှိသမျှတို့ကို စိုးပိုင်တော်မူ၏၊ အရှင်မြတ်၏အပါးတော်၌ ခစားနေကြသော ကောင်းကင်တမန်များသည် အရှင်မြတ်အား မကိုးကွယ်လောက်အောင် မာနထောင်လွှားကြသည်မဟုတ်ချေ၊ အရှင်မြတ်အား ဝတ်ပြုရာတွင်လည်း ငြီးငွေ့ကြသည်လည်းမဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား မိုးကောင်းကင်များ၌လည်းကောင်း၊ ပထဝီမြေ၌လည်းကောင်း၊ ရှိသူအားလုံး တို့သည်ထိုအရှင်မြတ် ပိုင်ဆိုင်တော်မူသောသူများပင် ဖြစ်ကြကုန်၏။၎င်းပြင် ထိုအရှင်မြတ်၏အပါးတော်၌ ရှိနေသူတို့သည်ထိုအရှင်မြတ်အား ခဝပ်ခြင်းမှ မာန်မာနထောင်လွှားကြသည် မဟုတ်ပေ။ မောပန်းကြသည်လည်း မရှိပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

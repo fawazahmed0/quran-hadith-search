@@ -710,6 +710,12 @@ v Denya, kogato nebeto burno se zavŭrti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	မိုးကောင်းကင်သည် မငြိမ်မသက်သွက်သွက်ခါလှုပ်သောနေ့တော်ကြီး။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ယင်းပြစ်ဒဏ်သည်)အကြင်နေ့တွင်(ကျရောက်ပေမည်)၊ ထိုနေ့တွင် မိုးကောင်းကင်မှာ တုန်လှုပ်အက်ကွဲ၍ သွားပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

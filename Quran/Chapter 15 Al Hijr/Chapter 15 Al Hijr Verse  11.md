@@ -710,6 +710,12 @@ I ne doĭde pri tyakh pratenik, bez da go podigrayat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	လူသားတို့သည် မိမိတို့ထံ၌ တမန်တော်မပွင့်လေမှ အကယ်၍ပွင့်မူ သူတို့သည် တမန်တော်ကို ကရော်ကမယ် ပြုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ၎င်းတို့ထံ ရစူလ်တမန်တော်တစ်ပါးပါး ရောက်ရှိလာတိုင်း ၎င်းတို့သည် ထိုရစူလ်တမန်တော်အား ပြက်ရယ်သမှု ပြုလေ့ရှိခဲ့ကြသည်သာတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

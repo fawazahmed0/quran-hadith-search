@@ -710,6 +710,12 @@ Reche: “Shte molya moya Gospod da vi oprosti. Toĭ e Oproshtavashtiya, Milos�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၈။	ဖခင်က အကျွနု်ပ်သည် မိမိ၏ အရှင်သခင်အထံတော်၌ သင်တို့၏ အပြစ်ကို လွှတ်တော်မူရန် ဆုတောင်းမည်။ မှတ်သားကြလော့။ အလ္လာဟ်အရှင်မြတ်သည် အပြစ်လွှတ်တော်မူထသောအရှင်၊ ကောင်းကြီးမင်္ဂလာပေးတော် မူထသောအရှင်ဖြစ်တော်မူ၏ဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုဖခမည်းတော်က (ဤသို့)ပြောဆိုဖြေကြားခဲ့လေသည်။ ငါသည် မကြာမြင့်မီ အသင်တို့အဖို့ မိမိအရှင်မြတ်အထံတော်မှ လွတ်ငြိမ်းချမ်းသာခွင့်ကို အသနားခံ၍ပေးအံ့။ဧကန်စင်စစ် ထိုအရှင်မြတ်သည် အလွန်တရာ လွတ်ငြိမ်းချမ်းသာခွင့်ပေးသနား တော်မူသောအရှင်၊ အလွန်တရာ သနားကြင်နာတော်မူသောအရှင်မြတ် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

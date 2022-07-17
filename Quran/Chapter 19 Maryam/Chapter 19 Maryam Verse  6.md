@@ -710,6 +710,12 @@ koĭto da me nasledi i da nasledi roda na Yakub! I go stori bogougoden, Gospodi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	ထိုသားသည် အကျွနု်ပ်နှင့် တမန်တော်ယာကုဗ်၏ သားမြေးတို့၏ အမွေကို ခံရပါလိမ့်မည်။ အို-ကျေးဇူးတော် သခင် ထိုသားရတနာကို အရှင်ချစ်ခင်မြတ်နိုးတော်မူပါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသားရတနာ၊ အမွေစား အမွေခံသည် ကျွန်တော်မျိုး၏အရိုက်အရာဆက်ခံသူလည်း ဖြစ်ပါစေ။ (နဗီတမန်တော်)ယအ်ကူဗ်၏သားမြေးတို့၏ အရိုက်အရာဆက်ခံသူလည်းဖြစ်ပါစေ။ ထိုမှတစ်ပါး အို- ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ အရှင်မြတ်သည် ၎င်းအား (မိမိအထံတော်၌) နှစ်မြို့ဖွယ်ရာလည်း ဖြစ်ပါစေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

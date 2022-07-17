@@ -710,6 +710,12 @@ O, choveche, kakvo te otvleche ot tvoya shtedŭr Gospod
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။ အို- လူသား၊ သင်၏အရှင်သခင်၊ အနန္တကောင်းကြီး မင်္ဂလာရှင်တော် မပါမပြုဖို့ရာ သင့်အား အဘယ်အရာကဖျားယောင်းသွေးဆောင်သွားသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-လူသား၊ မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသော ကျေးဇူးတော်ရှင်နှင့် ပတ်သက်၍ မည်သည့်အရာသည် အသင့်အား လှည့်ဖြားခဲ့သနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I razdavaĭte po pŭtya na Allakh, i ne se khvŭrlyaĭte sŭs sobstvenite si r
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉၅။	သင်တို့သည် မိမိတို့စည်းစိမ်ဥစ္စာကို အလ္လာဟ်အရှင်မြတ်၏ လမ်းတော်၌ သုံးစွဲကြလော့။ မိမိကိုယ်ကို မိမိတို့ မဖျက်ဆီးကြလင့်။ ကုသိုလ်ကောင်းမှုပွားများကြလော့။ မှတ်သားကြလော့။ အလ္လာဟ်အရှင် မြတ်သည် သူတပါးအကျိုးကိုဆောင်သူတို့အား နှစ်သက်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်တဝ အသင်တို့သည် (မိမိတို့၏ ဥစ္စာ ပစ္စည်းများကို) အလ္လာဟ်အရှင်မြတ်၏ လမ်းတော်၌ လှူဒါန်း ပေးကမ်း စွန့်ကြဲကြလေကုန်။ အသင်တို့သည် (မိမိတို့ကိုယ်ကို) မိမိတို့လက်များဖြင့် ပျက်စီးရာ ပျက်စီးကြောင်းကို မပြုလုပ်ကြကုန်လင့်။ ထိုမှတစ်ပါး အသင်တို့သည် ကုသိုလ်တရား ပွါးများရာ ပွါးများကြောင်းကိုသာ ပြုလုပ်ကြကုန်။ မုချဧကန် အလ္လာဟ် အရှင်မြတ်သည် ကုသိုလ်တရား ပွါးများသူတို့ကို နှစ်သက် တော်မူသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Nie mu pokazakhme pŭtya - ili priznatelen, ili neblagodarnik
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။ လူသားသည် ငါ၏ကျေးဇူးတော်ကို သိသော်လည်းကောင်း၊ မယုံကြည်သော်လည်းကောင်း၊ ငါသည် သူ့အားလမ်းတော်ကို ပြသတော်မူပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်ဧကန် ငါအရှင်မြတ်သည် ၎င်းအား တရားလမ်းမှန်ကို ပြသတော်မူခဲ့၏။(ထို့နောက် ၎င်းမှာ) ကျေးဇူးသိတတ်သူသော်လည်းကောင်း၊ လွန်စွာ ကျေးဇူးကန်းသူသော်လည်းကောင်း၊ ဖြစ်ခဲ့၏။ (တစ်နည်း) စင်စစ်ဧကန် ငါအရှင်မြတ်သည် ထိုလူသားအား ၎င်းသည် ကျေးဇူးတင်သည်ဖြစ်စေ၊ ကျေးဇူးကန်းသည်ဖြစ်စေ၊ တရားလမ်းမှန်ကို ပြသတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Edni Toĭ napŭti, a drugi zasluzhikha zabludata, zashtoto vzekha za pokrovitel
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	လူသားတစ်စုကို အလ္လာဟ်အသျှင်မြတ်သည် တရားလမ်းမှန်သို့ ညွှန်ပြတော်မူ၏။ အခြားလူသား တစ်စုသည် မိစ္ဆာလမ်းသို့ရောက်နေကြ၏။ သူတို့သည် ရှိုင်တန်မာရ်နတ်တများကို အလ္လာဟ် အသျှင်မြတ်အစား စောင့်ရှောက်သူ အဆွေခင်ပွန်းများ ပြုလုပ်ကြ၏။ သူတို့သည် လမ်းမှန်ကို ညွှန်ပြခြင်းခံရသည်ဟု ထင်မှတ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် လူတစ်စုကို တရားလမ်းမှန်သို့ ရောက်စေတော်မူခဲ့လေသည်။ သို့ရာတွင် လူတစ်စုမှာမူကား လမ်းလွဲခြင်းသည် ၎င်းတို့အပေါ်၌ အတည်ဖြစ်ခဲ့ချေပြီ။အဘယ်ကြောင့်ဆိုသော်၊ 4င်းတို့သည် အလ္လာဟ်အရှင်မြတ်အားစွန့်၍’ရှိုင်တွာန်’မိစ္ဆာကောင်တို့ကို မိတ်ဖွဲ့ခဲ့ကြလေသည်။ သို့ရာတွင် ထိုသူတို့သည် မိမိတို့ကိုယ်ကို မိမိတို့ တရားလမ်းမှန်ရရှိကြသူများဟု ထင်မှတ်ကြကုန်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

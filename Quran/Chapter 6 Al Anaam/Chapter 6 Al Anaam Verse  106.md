@@ -710,6 +710,12 @@ Sledvaĭ tova, koeto ti be razkrito ot tvoya Gospod: “Nyama drug bog osven Ne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၆။	သင်သည် မိမိ၏ကျေးဇူးတော်သခင်က သင်၏စိတ်နှလုံးအတွင်း ထင်ရှားစေသော ဗျာဒိတ်တော်ကို လိုက်နာဆောင်ရွက်လော့။ အလ္လာဟ်အသျှင်မြတ်မှတစ်ပါး အခြားအသျှင်သခင် မရှိပေ။ ဆင်းတု ရုပ်ပွားများကို ကိုးကွယ်သူတို့မှ လှည့်သွားလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် အသင့်အားမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်မှ မိမိထံကျရောက်လာသော ဝဟ်ယ် အမိန့်တော်များကို လိုက်နာ၍နေပါလေ။ထိုအရှင်မြတ်မှတစ်ပါး ခဝပ်ကိုးကွယ်ရာဟူ၍ အလျင်းမရှိ။၎င်းပြင် အသင်သည် မုရှ်ရစ်က် များဖက်မှ မျက်နှာလွှဲထားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Allakh znae nevedomoto na nebesata i na zemyata. Toĭ znae sŭkrovenoto v sŭrt
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် ကောင်းကင်ဘုံနှင့် ကမ္ဘာမြေဝယ် မမြင်စွမ်းနိုင်သောအရာအပေါင်း တို့ကို အကြွင်းမဲ့သိတော်မူ၏၊ မှတ်သားကြလော့၊ အရှင်မြတ်သည် လူသားတို့၏ နှလုံးအိမ်တွင် လျှို့ဝှက်ထားသမျှကို အကြွင်းမရှိသိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မလွဲဧကန် အလ္လာဟ်အရှင်မြတ်သည်မိုးကောင်းကင်များ၌ ဖုံးအုပ်လျက်ရှိသည်တို့ကိုလည်းကောင်း၊ ပထဝီမြေ၌ဖုံးအုပ်လျက်ရှိသည်တို့ကိုလည်းကောင်း၊ သိတော်မူသော အရှင်ဖြစ်တော်မူ၏။ ဧကန်စင်စစ် ထိုအရှင်မြတ်သည် စိတ်နှလုံးများ၌ရှိသည်တို့ကို ကောင်းစွာသိရှိတော်မူသော အရှင်ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

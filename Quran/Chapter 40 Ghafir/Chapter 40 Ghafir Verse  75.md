@@ -710,6 +710,12 @@ Tova e, zashtoto na zemyata ste se radvali nezasluzheno i zashtoto ste likuvali
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၅။	ထိုသူယုတ်မာတို့အား ဆက်လက်၍ မိန့်တော်မူမည်မှာ ယင်းကဲ့သို့မရှုမလှခံစားရခြင်းကား နင်တို့သည် ကမ္ဘာ မြေကြီးပေါ်တွင် မသင့်မလျော်မတော်မတရားရွှင်မြူးပျော်ပါး မာနထောင်လွှားခဲ့ခြင်းကြောင့်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(ပြစ်ဒဏ်ကို ခံစားကြရခြင်း)မှာ အသင်တို့သည် ကမ္ဘာလောက၌ မတရားသဖြင့် ရွှင်မြူးလျက် ရှိခဲ့ကြသောကြောင့်လည်းကောင်း၊ ဝင့်ကြွားလျက် ရှိခဲ့ကြသောကြောင့်လည်းကောင်း၊ (ခံစားကြရခြင်း) ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Togava im se podigravakhme ili ne gi zabelyazvakhme.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၃။	ငါတို့သည် သူတို့အား ရယ်စရာဟု ထင်မှတ်ခဲ့ခြင်းသည် မှားပြီလော သို့မဟုတ် ငါတို့သည် သူတို့ကို မမြင် ပဲ မျက်စိမှောက်နေသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကျွန်ုပ်တို့သည်ပင် ၎င်းတို့အား ပြက်ချော်ပြောင်လှောင်ဖွယ်ရာများ ပြုလုပ်မိခဲ့ကြလေသလော။ သို့တည်းမဟုတ်(ကျွန်ုပ်တို့၏)မျက်စိများပင် ၎င်းတို့ (အား မြင်နိုင်ခြင်း)မှ လွဲချော် တိမ်းမှောက်ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

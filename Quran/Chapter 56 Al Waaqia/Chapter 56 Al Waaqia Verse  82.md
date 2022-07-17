@@ -710,6 +710,12 @@ I [vmesto blagodarnost] za prepitanieto vie go vzimate za lŭzha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၂။	ထို့အပြင် ဤကျမ်းတော်ကို ပုတ်ခတ်ငြင်းပယ်မှုသည် သင်တို့၏ အသက်မွေးဝမ်းကြောင်းဖြစ်သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်တို့သည် မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်မှုကိုပင် မိမိတို့၏အစားအစာ ပြုလုပ်ကြလေသလော။(တစ်နည်း) ထိုမှတစ်ပါး အသင်တို့သည် မိမိတို့ စားနပ်ရိက္ခာနှင့်စပ်လျဉ်း၍ ကျေးဇူးတင်ကြမည့်အစား၊ မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်ကြလေသလော၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Gospodi moĭ, ne me postavyaĭ sred khorata-ugnetiteli!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၄။	အို--အကျွနု်ပ်၏ အရှင်သခင်၊ အကျွနု်ပ်ကို မတရားပြစ်မှုကျူးလွန်သူတို့အထဲတွင် ထားတော်မမူပါလင့်ဟု ဆုတောင်းလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ကျွန်တော်မျိုး၏ အရှင်မြတ်၊ ထိုအခါ အရှင်မြတ် သည် ကျွန်တော်မျိုးအား မတရားကျူးလွန်သော အမျိုးသားတွင် ပါဝင်စေတော်မမူပါနှင့်၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ No [obshtnostite] izpadnakha v raznoglasie pomezhdu si, ala vsichki pri Nas shte
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၃။	တဖန်သူတို့သည် မိမိတို့အလယ်ကြားတွင် မိမိတို့ဘာသာအယူဝါဒကို အစိတ်စိတ်အမွှာမွှာခွဲပစ်ခဲ့ကြ၏၊ သို့ငြား သော်လည်း သူတို့အားလုံးပင် ငါ့အထံတော်သို့ ပြန်ကြရမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် လူတို့သည် မိမိတို့ အချင်းချင်းပင်မိမိတို့၏(သာသနာ့)အရေးကိစ္စကို အပိုင်းပိုင်း ပြုလုပ် ခဲ့ကြကုန်၏။ (စင်စစ်သော်ကား)အားလုံးတို့သည် ငါအရှင်မြတ်အထံတော်သို့သာလျှင် ပြန်လည်၍လာကြရမည့်သူများပင်ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ i slozhikhme na vrata im okovi do bradata, i sa dŭrzhani s vdignata glava
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	ငါအရှင်မြတ်သည် သူတို့၏လည်ပင်းတွင် မေးစေ့အထိ မကောင်းကျိုး၊ လည်ထိပ်လည်တောက်များတပ်ဆင် ထားတော်မူ၏၊ ထို့ကြောင့်သူတို့၏ ဦးခေါင်းများသည် မော့နေကြသောကြောင့် သူတို့၌ မြင်နိုင်စွမ်းရှိသော သတ္တိကင်းမဲ့လျက်ရှိနေကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် ငါအရှင်မြတ်သည် ၎င်းတို့၏ လည်ကုပ်များ၌ လည်ကွင်းများကို စွပ်ထားတော်မူခဲ့ရာ ယင်းလည်ကွင်းများမှာ (၎င်းတို့၏)မေးစေ့များအထိ ရောက်ရှိ၍ နေကုန်၏။ထို့ကြောင့် ၎င်းတို့သည် ဦးခေါင်းမော့လျက်ပင် ရှိနေကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

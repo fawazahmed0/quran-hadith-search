@@ -710,6 +710,12 @@ Toĭ me otkloni ot spomenavaneto, sled kato be doshlo pri men. Satanata za chov
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	အကျွနု်ပ်ထံသို့ တရားတော်ကျရောက်လာပြီးမှ သူသည် အကျွနု်ပ်ကို တရားတော်မှ တိမ်းသွားစေလေ၏၊ ရှိုင်တန်မာရ်နတ်သည် အကူအညီလိုသောအချိန်၌ လူသားကို စွန့်ပစ်သွားသူဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မုချဧကန် ၎င်းသည် ကျွန်ုပ်ထံသို့ ဆုံးမဩဝါဒရောက်ရှိလာပြီး နောက်မှပင် ထိုဆုံးမဩဝါဒ(ကိုလိုက်နာခြင်း) မှ လွဲချော်စေခဲ့သည်။ စင်စစ် သော်ကား ရှိုင်တွာန်မိစ္ဆာကောင်သည် လူသားတို့အား စွန့်ပစ်ထားသူပင် ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

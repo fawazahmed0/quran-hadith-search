@@ -710,6 +710,12 @@ A onezi, koito sporyat za Allakh, sled kato Mu e bilo otkliknato, sporŭt im e n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	အလ္လာဟ်အရှင်မြတ်အား ယုံကြည်ပြီးနောက် အရှင်မြတ်နှင့်စပ်လျဉ်း၍ အငြင်းအခုံပြုသောသူတို့မှာမူကား သူတို့၏ ငြင်းခုံမှုသည် အရှင်မြတ်၏ရှေ့မှောက်၌ အလဟဿဖြစ်၏၊ သူတို့ကို အလ္လာဟ်အရှင်မြတ်အမျက်ရှ တော်မူ၏၊ အလွန်ပြင်းထန်သောအပြစ်ဒဏ်တော်သည် သူတို့အဖို့ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်နှင့်ပတ်သက်၍ ထိုအရှင်မြတ်အား ဟုတ်မှန်ကြောင်း ဝန်ခံပြီးဖြစ်သည့်နောက်သော်မှပင် အငြင်းအခုံပြုကြကုန် သောသူတို့၏ အငြင်းအခုံပြုခြင်းမှာ ၎င်းတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်၌ အလွဲအချော်ပင် ဖြစ်ပေသည်။ ထို့ပြင်၎င်းတို့အပေါ်၌ အမျက်တော်ကျရောက်မည့်အပြင် ၎င်းတို့၌ပြင်းထန်လှ စွာသော အပြစ်ဒဏ်သည်လည်း ရှိချိမ့်မည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

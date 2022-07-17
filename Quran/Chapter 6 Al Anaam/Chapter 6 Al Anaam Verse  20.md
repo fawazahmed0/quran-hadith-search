@@ -710,6 +710,12 @@ Onezi, na koito darikhme Pisanieto, go znayat, kakto znayat sinovete si. Onezi, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	အကြင်သူတို့အား ငါအသျှင်မြတ်သည် ရှေးကျမ်းတော်ကို ပေးသနားတော်မူ၏။ ထိုသူတို့သည် မိမိတို့သားမြေးတို့ကို မှတ်မိသကဲ့သို့ ဤကုရ်အာန်ကျမ်းတော်မြတ်ကို မှတ်မိကြ၏။ မိမိကိုယ်ကို မိမိ ဖျက်ဆီးသောသူတို့သည် ယုံကြည်ကြမည်မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတို့သည် ငါအရှင်မြတ်က ၎င်းတို့ အားကျမ်းဂန်ဒေသနာတော်ကို ချီးမြှင့်ပေးသနားတော်မူခဲ့၏။ ထိုသူတို့သည် မိမိတို့၏ သားများကိုမှတ်မိကြသကဲ့သို့ပင်၊ ထို(နဗီတမန်တော်မြတ်)အားလည်း မှတ်မိကြကုန်သည်။ (သို့ရာတွင်)မိမိတို့ကိုယ်ကို မိမိတို့ပင် ကျိုးယုတ်နစ်နာအောင် ပြုလုပ်သောသူတို့မူကား အလျင်း သက်ဝင်ယုံကြည်ကြသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

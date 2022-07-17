@@ -710,6 +710,12 @@ Kazakha: “Ne te li vŭzpryakhme ot khorata [da ti gostuvat]?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇ဝ။	သူတို့က အကျွနု်ပ်တို့သည် သင့်အား ဧည့်သည်အာဂန္တုကို လက်မခံဖို့ တားမြစ်ထားသည်မဟုတ်လောဟု မေးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်း(မြို့သား)တို့က ကျွန်ုပ်တို့သည် အသင့်အားလူခပ်သိမ်းတို့(ကို မိမိထံတည်းခိုစေခြင်း)မှ တားမြစ်ခဲ့ပြီး ဖြစ်ကြသည်မဟုတ်လောဟု ပြောဆိုကြ လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

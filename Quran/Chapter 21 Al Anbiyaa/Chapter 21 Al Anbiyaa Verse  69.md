@@ -710,6 +710,12 @@ Rekokhme Nie: “O, ogŭn, bŭdi studen i bezopasen za Ibrakhim!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၉။	ငါအရှင်မြတ်က အို--မီး၊ သင်သည် အေဗရာဟမ်အတွက် အေးချမ်းသာယာခြင်းနှင့် မင်္ဂလာဖြစ်လော့ဟု မီးအား ဗျာဒိတ်ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ငါအရှင်မြတ်က "အို-မီး၊ သင်သည်အိဗ်ရာဟီမ်အပေါ်၌ အေးမြစွာလည်းကောင်း၊ သာယာစွာလည်းကောင်း ရှိလော့" ဟု မိန့်ကြားတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

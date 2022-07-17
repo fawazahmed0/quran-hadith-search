@@ -710,6 +710,12 @@ I zaveshta tova Ibrakhim na sinovete si, [a sŭshto] i Yakub: “O, moi sinove, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၂။	တမန်တော် အီဗရာဟီမ်သည် မိမိ၏သားမြေးတို့အား ယင်းသို့ပြုကျင့်ရန် မှာထား၏။ တမန်တော် ယာကွပ်လည်း ထိုနည်းအတူမှာထား၏။ သူတို့၏ သြဝါဒမှာ အေ၊ ငါ၏ သားမြေးတို့ မှတ်သား ကြလော့။ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အတွက် မှန်ကန်သော သာသနာတော်ကို ရွေးချယ်တော် မူပြီ။ ထို့ကြောင့် သင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား ကျိုးနွံသူများမှတပါး အခြားသူများအဖြစ် ဖြင့် မိမိအသက်ကို မကုန်စေကြလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် နဗီတမန်တော် အစ်ဗ်ရာဟီမ်(အ)နှင့် နဗီတမန်တော် ယအ်ကူဗ်(အ)တို့သည် ထိုအကြောင်း ကိစ္စနှင့် စပ်လျဉ်း၍ မိမိတို့၏သားများကို အို-ငါ၏ သားအပေါင်းတို့ မုချဧကန် အလ္လာဟ် အရှင်မြတ်သည် အသင်တို့အဘို့ရာ (အစ္စလာမ်) သာသနာ တော်ကို ရွေးချယ်တော်မူပြီး ဖြစ်ရာအသင်တို့သည် အမိန့်တော်ကို နာခံသော မုစ်လင်မ်များ အဖြစ်နှင့် သာလျှင် သေဆုံးကြလေလော့ဟု နောက်ဆုံး စကား မှာကြားခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

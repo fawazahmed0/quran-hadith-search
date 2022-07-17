@@ -710,6 +710,12 @@ I sŭzdade ot neya dvata pola - mŭzha i zhenata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။ ထို့နောက် သူမှ အဖိုအမနှစ်မျိုးနှစ်စုံဖန်ဆင်းတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ထိုအရှင်မြတ်သည် ယင်း(သွေးခဲ ဖြစ်သွားခဲ့သောသုတ်ရည်)ကို ယောက်ျားမိန်းမ(ဟူ၍)နှစ်မျိုးနှစ်စား ပြုလုပ်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

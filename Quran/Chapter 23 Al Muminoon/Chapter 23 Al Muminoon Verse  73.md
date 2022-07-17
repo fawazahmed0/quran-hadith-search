@@ -710,6 +710,12 @@ Ti gi zovesh kŭm praviya pŭt
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၃။	ထို့အပြင်မှတ်သားလော့၊ သင်သည် သူတို့အား လမ်းမှန်သို့ အမှန်ပင်ခေါ်ငင်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ဧကန်မလွဲ အသင်သည် ၎င်းတို့အား ဖြောင့်မတ်မှန်ကန်သော တရားမှန်သို့ အမှန်ပင် ဖိတ်ခေါ်လျက်ရှိပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

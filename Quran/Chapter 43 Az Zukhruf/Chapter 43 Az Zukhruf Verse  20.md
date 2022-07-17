@@ -710,6 +710,12 @@ I kazvat: “Ako Vsemilostiviya pozhelaeshe, nyamashe da im sluzhim [na idolite]
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	ထိုသူယုတ်မာတို့က ''အကယ်၍ မဟာကရုဏာတော်အရှင် အလိုတော်ရှိပါလျှင် အကျွနု်ပ်တို့သည် ဘုရားတု ဘုရားယောင်များကို ကိုးကွယ်ကြမည်မဟုတ်ချေ''ဟု ဆိုကြ၏၊ သူတို့သည် အသိဉာာဏ်မရှိ၍ ဤသို့ပြောကြ၏၊ သူတို့သည် ရမ်းဆကြသည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့က ပြောဆိုခဲ့ကြကုန်၏။အကယ်၍သာ အနန္တကရုဏာတော်ရှင်သည် အလိုရှိတော်မူခဲ့ပါလျှင် ကျွန်ုပ်တို့သည် ထို"မလာအိကဟ်" ကောင်းကင်တမန်တို့အား ဆည်းကပ်ကိုးကွယ်ခဲ့ကြ မည်မဟုတ်ပေ။ ဤသည်နှင့်စပ်လျဉ်း၍ ၎င်းတို့၌ အသိပညာ လုံးဝမရှိပြီ။ (စင်စစ်မှာကား)၎င်းတို့မှာ ရမ်းဆ ပြောဆိုနေကြသည်သာတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

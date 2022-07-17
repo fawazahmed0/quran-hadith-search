@@ -710,6 +710,12 @@ Kŭm onezi, koito vyarvat i tyakhnoto potomstvo gi posledva s vyara - shte pris�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။ ထို့အပြင် ယုံကြည်သူတို့၏ သားသမီးများသည် ယုံကြည်မှု၌ မိမိတို့မိဘ၏ ခြေရာကို လိုက်လျှင် ငါသည် ထိုသားသမီးများကို မိမိတို့မိဘနှင့် နိဗ္ဗာန်တွင် တွေ့ဆုံ၍ အတူတကွစံစားနေထိုင်စေတော်မူမည်၊ ထိုသူတို့ ဆည်းပူးခဲ့သောကုသိုလ်ကောင်းမှု၏ အကျိုးကိုလည်း အနည်းငယ်မျှလျှော့ပေါ့ပေးတော်မူမည်မဟုတ်၊ လူတိုင်း ပင်လျှင် မိမိပြုကျင့်ခဲ့သောအမှုအခင်းများ၏ အကျိုးအပြစ်အတွက် တာဝန်ခံ၊ အပေါင်ခံပစ္စည်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အကြင်သူတို့သည် သက်ဝင် ယုံကြည်ခဲ့ကြကုန်၏။ ထို့ပြင် ၎င်းတို့၏သားမြေး တို့သည်လည်း’အီမာန်’ သက်ဝင် ယုံကြည်မှုနှင့်တကွ ၎င်းတို့၏နောက်သို့လိုက်ခဲ့ကြကုန်၏။ ငါအရှင်မြတ်သည် ၎င်းတို့၏သားမြေးတို့အား ၎င်းတို့နှင့်အတူ ပူးပေါင်းထားတော်မူပေမည်။ ထို့ပြင် ငါအရှင်မြတ်သည် ၎င်းတို့၏ ကျင့်မူဆောင်ရွက်ချက်တို့ အနက်မှလည်း မည်သည့် တစ်စုံတစ်ရာကိုမျှ လျော့နည်းစေတော်မူမည် မဟုတ်ပြီ။ လူတိုင်းမှာ မိမိရှာဖွေဆည်းပူးမှု၌ ပေါင်နှံ ချုပ်နှောင်ထားပြီး ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Taka Allakh vi razyasnyava Svoite znameniya, za da proumeete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄၂။	သင်တို့နားလည်ဖို့ရာ အလ္လာဟ်အရှင်မြတ်သည် မိမိ၏ညတ်တရားတော်များကို ရှင်းလင်းဖော်ပြတော် မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤနည်းနှင်နှင် အလ္လာဟ်အရှင်မြတ်သည် မိမိ အမိန့်ပညတ်တော်များကို အသင်တို့(လိုက်နာကျင့်သုံးနိုင်ရန်) အလို့ငှာ ရှင်းလင်းထင်ရှားစွာထုတ်ဖော်မိန့်ကြား တော်မူလေ သည်။ သို့မှသာလျှင် အသင်တို့သည် သိနားလည် ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

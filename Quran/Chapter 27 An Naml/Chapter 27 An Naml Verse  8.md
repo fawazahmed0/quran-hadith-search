@@ -710,6 +710,12 @@ I kogato stigna tam, be prizovan: “Blagosloven da bŭde tozi pri ogŭnya i tez
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	သို့သော်ထိုမီးရှို့ရာသို့ ရောက်သွားသောအခါ သူသည် ခေါ်သံကြားရ၏။ ထိုအသံက သူ့အား ဤသို့ပြောပြ၏၊ အို--မူစာ၊ မီးအတွင်း၌ရှိသောသူ၊ မီးပတ်ဝန်းကျင်၌ ရှိသောသူသည် ကောင်းကြီးမင်္ဂလာနှင့်ပြည့်စုံတော်မူ၏၊ အနန္တစကြာဝဠာများ၏ အရှင်သခင်၊ အလ္လာဟ်အရှင်မြတ်သည် ချို့တဲ့ခြင်းအပေါင်းမှ ကင်းသောအနန္တဂုဏ်တော် ရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ထိုမူစာသည် ၎င်းမီးရှိရာသို့ ရောက်ရှိခဲ့လေသော်၊(အို-မူစာ)၊ မီး၌ ရှိသူတို့သည် လည်းကောင်း။ ထိုမီး၏ပတ်ဝန်းကျင်၌ ရှိသူတို့သည်လည်းကောင်း၊ ဗရ်ကသ်ကျက်သရေမင်္ဂလာကို ရရှိကြစေသော်ဝ်။ စင်စစ် စကြာဝဠာခပ်သိမ်းတို့ကို ဖန်ဆင်း မွေးမြူတော်မူသော အလ္လာဟ်အရှင်မြတ်သည် သန့်ရှင်းစင်ကြယ်တော်မူပါပေသည်တကားဟူ၍ အသံပေးခြင်းကို ခံခဲ့ရလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

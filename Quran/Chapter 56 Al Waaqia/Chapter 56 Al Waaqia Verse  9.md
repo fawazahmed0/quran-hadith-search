@@ -710,6 +710,12 @@ i drugi - otlyavo, - kakvo shte e za tezi otlyavo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	ဒုတိယအမျိုးအစားမှာ လက်ဝဲဘက်တော်တွင် နေရသောအမျိုးအစား၊ ထိုလက်ဝဲဘက်တော်သားတို့သည် အဘယ်သို့ ဖြစ်ကြသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် လက်ဝဲဘက်သားတို့မှာ၊ လက်ဝဲဘက်သားတို့ကား အဘယ်မျှလောက် ဆိုးရွားလှဘိ သနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I kogato takŭv se obŭrne, toĭ ticha po zemyata, za da see po neya razvala i 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ၅။	ထိုသူသည်သင့်ထံမှထွက်သွားသောအခါ ကမ္ဘာမြေပေါ်ဝယ် အကျိုးဆုတ်ယုတ်ပျက်စီးမှုနှင့် ကောက်ပဲသီးနှံ၊ ကျွဲ၊ နွား တိရိစ္ဆာန်တို့ သေကြေရှုံးဆုံးမှုများကို ကျိုးပမ်းအားထုတ်၏။ အလ္လာဟ် အရှင်မြတ်သည် ပျက်စီးမှုကို မလိုလား နှစ်ခြိုက်တော် မမူပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမျှမကသေးချေ၊ ထို(မုနာဖစ်က်)သည် (အသင့်ထံမှ) ပြန်သွားသောအခါ မြေပြင်ဝယ် ပျက်စီးကြောင်း များကို ပြုမူရန်လည်းကောင်း၊ လယ်ယာ ကိုင်းကျွန်းများနှင့် (ကျွဲနွား) တိရစ္ဆာန်များကို ဖျက်ဆီးရန်လည်းကောင်း၊ ကြိုးပမ်းအားထုတ် လေသည်။ အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် (ယင်းကဲ့ သို့) ဖျက်ဆီး ခြင်းကို စိုးစဉ်းမျှ နှစ်သက်တော်မမူပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

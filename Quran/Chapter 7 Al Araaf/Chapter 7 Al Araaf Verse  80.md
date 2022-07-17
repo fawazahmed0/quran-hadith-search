@@ -710,6 +710,12 @@ I pratikhme Lut, koĭto kaza na svoya narod: “Nima vŭrshite skvernostta, s k
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈ဝ။	ထို့ပြင် တမန်တော်လွတ်(တ်)သည် သူ၏ အမျိုးသားတို့အား ဟောကြား၏။ သင်တို့သည် ရှေးရှေးက လူသားတို့မပြခဲ့ဖူးသော စက်ဆုပ်ရွ့ံရှာဖွယ်ကောင်းသောအပြစ်ကို ကျူးကျော်ကြမည်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ (ငါအရှင်မြတ်သည် နဗီတမန်တော်)လူတ်ကို(လည်း စေလွှတ်တော်မူခဲ့လေသည်။) တစ်ရံရောအခါ ထို(နဗီတမန်တော်လူတ်)က မိမိအမျိုးသားတု့ိအား(ဤသို့)ပြောကြားခဲ့လေ၏။ (ဟယ်-အချင်းတို့) အသင်တို့သည်အကြင် စက်ဆုပ်ရွံ့ရှာဖွယ်ကိစ္စကို ကျူးလွန်ကြလေသလော။ယင်း စက်ဆုပ်ရွံ့ရှာဖွယ်ကိစ္စကို အသင်တို့၏အလျင် စကြဝဠာခပ်သိမ်းတို့အနက် မည်သူတဦးတယောက်မျှ ကျူးလွန်ခဲ့သည်မရှိခဲ့ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

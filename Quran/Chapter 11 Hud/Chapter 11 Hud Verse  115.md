@@ -710,6 +710,12 @@ I bŭdi tŭrpeliv! Allakh ne pogubva nagradata na blagodetelnite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၅။	တမန်တော်မိုဟမ္မဒ်၊ သင်၌ ခန္တီပါရမီရှိလော့။ အရှင်မြတ်သည် သူတော်ကောင်းတို့၏ လုပ်ခများကို အကျိုးမဲ့ အချည်းနှီးဖြစ်စေတော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အသင်သည် သည်းခံပါလေ။ ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် ကောင်းမှုပြုကုန်သော သူတော်စင်တို့၏အကျိုးကို အချည်းနှီး ဆုံးရှုံး စေတော်မူသည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ i zashto, ako ne shte bŭdete sŭdeni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၆။	သင်တို့သည် အကယ်၍ ငါ၏ ကျေးတော်မျိုးကျွန်တော်မျိုးမဟုတ်လျှင်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်တို့သည် အစားပေးခြင်း ခံရအံ့သောသူများ မဟုတ်(ဟု ဆိုရာ၌) အမှန်ကို ပြောဆိုသူများဖြစ်ကြလျှင် မည်သည့်အတွက်ကြောင့်၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

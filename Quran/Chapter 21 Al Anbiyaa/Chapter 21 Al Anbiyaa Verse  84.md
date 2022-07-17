@@ -710,6 +710,12 @@ I mu otkliknakhme Nie, i premakhnakhme bedata mu, i vŭzstanovikhme semeĭstvot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၄။	ငါသည် ထိုတမန်တော်၏ ဆုတောင်းပဋ္ဌနာကို ကြားတော်မူ၍ သူခံစားနေရသောဘေးဒုက္ခကို ဖယ်ရှားပစ်တော် မူ၏၊ ထို့အပြင်ငါသည် သူ့အား မိမိဆုံးရှုံးနေသောအိမ်ထောင်သူအိမ်ထောင်သားနှင့်တကွ အလားတူများကို ပေးသနားတော်မူ၏၊ ဤသို့စီရင်တော်မူခြင်းသည် ငါ၏ကောင်းကြီးမင်္ဂလာတော်တည်း၊ ကိုးကွယ်သူတို့မှတ်သား အားရှိဖို့ရာလည်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ငါအရှင်မြတ်သည် ထိုအိုက်ယူးဗ်၏ အသနားခံပန်ကြားချက်ကို သဘောတူ လက်ခံတော်မူခဲ့၏။သို့ဖြစ်ပေရာ ငါအရှင်မြတ်သည် ထိုအိုက်ယူးဗ်၌ သက်ရောက်ခဲ့သော ဘေးဥပဒ်ကို ပျောက်ကင်းစေတော်မူခဲ့၏။ ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ထိုအိုက်ယူးဗ်အား ၎င်း၏အိမ်ထောင်စုသား၊ သားမယား၊ သားသမီးများ(ကို ချီးမြှင့်ပေးသနားတော်မူခဲ့သည့်) အပြင် ထိုသူတို့နှင့်အတူ ထိုသူတို့ကဲ့သို့ အလားတူကိုလည်း မိမိအထံတော်မှ ကရုဏာတော်အဖြစ်လည်းကောင်း၊ ဝတ်ပြုကိုးကွယ်သူများအဖို့ သတိရစေသော အထိမ်းအမှတ်အဖြစ်လည်းကောင်း ချီးမြှင့်ပေးသနား တော်မူခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

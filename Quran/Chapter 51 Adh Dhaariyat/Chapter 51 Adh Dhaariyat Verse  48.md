@@ -710,6 +710,12 @@ I zemyata Nie razstlakhme. Kolko prekrasno razstilame
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	ထို့အပြင် ငါသည် မဟာပထဝီမြေကြီးကို ကျယ်ဝန်းပြန့်ပြူးစွာခင်းကျင်းထားတော်မူ၏၊ ဤသို့ခင်းကျင်းတော်မူ ထသောအရှင်သည် မဟာကရုဏာတော်သခင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ ငါအရှင်မြတ်သည် ပထဝီမြေကို ခင်းကျင်းတော်မူခဲ့၏။ စင်စစ်မှာကား (ငါအရှင်မြတ်သည်)လွန်စွာကောင်းမြတ်သော ခင်းကျင်းတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

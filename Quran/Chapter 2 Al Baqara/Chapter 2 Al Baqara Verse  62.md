@@ -710,6 +710,12 @@ Onezi, koito vyarvat, i yudeite, i khristiyanite, i sabeite, onezi [ot tyakh] ko
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	မှတ်သားလော့။ အေ မုဟမ္မဒ် သင့်ထံချပေးသနားတော်မူသော ကျမ်းတော်မြတ်ကို ယုံကြည်သူများ ရဟူဒီလူမျိုးများ ခရစ်ယာန်ဘာသာဝင်များ၊ ဘေဒင်ဇင်ဒစ်က်များ မည်သူမဆို အလ္လာဟ်အရှင်မြတ် နှင့် နောက်ဆုံးနေ့ကို ယုံကြည်လျက် တရားသဖြင့် ကျင့်ကြံအ့ံ။ ထိုသူတို့၏ ဆုလာဘ်သည် သူတို့၏ အရှင်သခင်ထံ၌ရှိ၏။ သူတို့အပေါ်သို့ ကြောက်ရွံ့ခြင်းကျမည်မဟုတ်။ သူတို့ ပူဆွေးရမည်မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယုံကြည်ခြင်း သဒ္ဓါတရား ထားရှိသော ‘မုအ်မင်’များသည်လည်းကောင်း၊ ယဟူဒီများသည်လည်းကောင်း၊ ခရစ်ယာန်များသည်လည်းကောင်း၊ ဆွာဗိအီများသည် လည်းကောင်း၊ မည်သူမဆို အလ္လာဟ်အရှင်မြတ်ကို လည်းကောင်း၊(သေပြီးနောက်ရှင်ပြန်ထရမည့်) နောက်ဆုံးနေ့ကိုလည်းကောင်း၊ ယုံ ကြည်၍ ကောင်းမြတ်သော အကျင့်သီလများကို ဆောက်တည်ခဲ့ပါလျှင် ထိုသူတို့အဖို့အရာ မိမိတို့အား မွေးမြူတော် မူသော အလ္လာဟ်အရှင်မြတ် အထံတော်၌ ကုသိုလ်အကျိုးသည် အသင့်ရှိ၏။ ထို့နောက် ယင်းသူတို့အဖို့ မည်သည့် တစ်စုံတစ်ရာမျှ စိုးရိမ် ကြောင့်ကြခြင်းလည်း မရှိပေ၊ဝမ်းနည်း ပူဆွေး ကြရမည်လည်း မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

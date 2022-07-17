@@ -710,6 +710,12 @@ A za ugnetitelite ima i drugo mŭchenie osven tova, ala povecheto ot tyakh ne zn
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	စင်စစ်အားဖြင့် ထိုဒုစရိုက်ကောင်များအဖို့အရာ ဤဒဏ်တော်ထက် ကြီးလေးသောဒဏ်တော်လည်းရှိသေး၏၊ သို့သော်သူတို့အနက် အရေအတွက်များစွာသောသူတို့သည် မသိကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး မတရားမှုကို ကျူးလွန်ခဲ့ကြသောသူတို့၌ ယင်းသည့်အလျင်လည်း ပြစ်ဒဏ်(ကျရောက် မည်ဖြစ်၏၊) သို့ရာတွင် ၎င်းတို့အနက် အများစုသောသူတို့မှာ သိရှိကြသည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

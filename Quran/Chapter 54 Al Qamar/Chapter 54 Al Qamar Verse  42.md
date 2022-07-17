@@ -710,6 +710,12 @@ ali oni porekoše sve znakove Naše, pa ih Mi kaznismo onako kako kažnjava Siln
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	သူတို့အားလုံးပင် တရားတော်ကို မကြည်ညိုငြင်းပယ်ကြ၏၊ ထို့ကြောင့်ငါသည် သူတို့ကို အလွန်ကြီးမားပြင်းပြ သောဖမ်းဆီးခြင်းအားဖြင့် ဖမ်းဆီးကွပ်မျက်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ငါအရှင်မြတ်၏ သက်သေ လက္ခဏာအလုံးစုံတို့ကို မဟုတ်မမှန်ဟူ၍ စွပ်စွဲ ငြင်းပယ်ခဲ့ကြကုန်၏။ သို့ဖြစ်ပေရာ ငါအရှင်မြတ်သည် ၎င်းတို့အား နိုင်နင်းလွှမ်းမိုးတော်မူသော တန်ခိုးနှင့် ပြည့်စုံတော်မူသောအရှင်၏ ဖမ်းဆီးပုံမျိုးနှင့် ဖမ်းဆီး အရေးယူတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

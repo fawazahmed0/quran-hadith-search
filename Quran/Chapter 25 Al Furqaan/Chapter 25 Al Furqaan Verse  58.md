@@ -710,6 +710,12 @@ I se upovavaĭ na Vechnozhiviya, Koĭto ne umira, i Go proslavyaĭ s vŭzkhva
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈။	အို--တမန်တော်၊ သင်သည် သေခြင်းတရားကင်းမဲ့သောအသက်ရှင်နေသောအရှင်မြတ်အား ယုံကြည်ကိုးစား၍ အရှင်မြတ်၏ ကျေးဇူးတော်ကို ရင့်ကျူးလော့၊ အရှင်မြတ်သည် မိမိ၏ကျေးကျွန်တို့၏ အပြစ်အနာများကို သိသူအဖြစ်ဖြင့် လုံလောက်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (အို-နဗီတမန်တော်၊) အသင်သည် မည်သည့်အခါ၌မျှ သေဆုံးတော်မူမည် မဟုတ်သော အမြဲထာဝရ ရှင်တော်မူသော အရှင်မြတ်အပေါ်၌သာလျှင် ယုံပုံလွှဲအပ်ပါလေ။ ထိုမှတစ်ပါး အသင်သည် ထိုအရှင်မြတ်အား ချီးမွမ်းထော မနာပြုခြင်းကို မြွက်ဆိုပါလေ။ စင်စစ်သော်ကား ထိုအရှင်မြတ်သည်ပင် မိမိကျွန်များ၏ပြစ်မှုတို့ကို သိတော်မူသောအရှင် အဖြစ်လုံလောက်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

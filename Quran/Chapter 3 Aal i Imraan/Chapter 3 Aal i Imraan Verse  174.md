@@ -710,6 +710,12 @@ I se zavŭrnakha s obilie i blagodat ot Allakh. Zlo ne gi dokosna i sledvakha bl
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇၄။	ထို့ကြောင့် သူတို့သည် အလ္လာဟ်အသျှင်မြတ်၏ ကောင်းကြီးမဂွလာတော်၊ ဂုဏ်ကျေးဇူးတော်နှင့် ပြန်လာကြရ၏။သူတို့အား ဘေးမသီရန်မခပေ။ သူတို့သည် အလ္လာဟ်အသျှင်မြတ်၏ နှစ်သက်တော် မူခြင်းရတနာကို ရှာမှီးလိုက်နာကြ၏။ အလ္လာဟ်အသျှင်မြတ်သည် အနန္တကောင်းကြီးမင်္ဂလာတော် သခင်ဖြစ်တော်မူပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ယင်းသူတို့သည် (ယုံကြည် စိတ်ချစွာဖြင့် စစ်မက်ပြိုင်ဆိုင် တိုက်ခိုက်ရန်ထွက်ခဲ့ကြပြီးနောက်)မည်သည့်အန္တရာယ်မျှ ထိရောက်ခြင်းမျှမရှိဘဲအလ္လာဟ်အရှင်မြတ်အထံတော်မှ (ပေးသနားတော်မူသော)စည်းစိမ် ချမ်းသာ များအပြင် အထူးကျေးဇူးတော်နှင့်တကွ(မိမိတို့အိမ်များသို့) ပြန်ခဲ့ကြကုန်သည်။ စင်စစ် တမူကားထိုသူတို့သည် အလ္လာဟ် အရှင်မြတ်၏ နှစ်သက်မှုကိုလိုက်နာပြုလုပ်ခဲ့ကြကုန်၏။ အလ္လာဟ် အရှင်မြတ်သည်လည်းအတိုင်းမရှိ ကြီးကျယ်လှစွာ သော ကျေးဇူးတော်ရှင်ဖြစ်တော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

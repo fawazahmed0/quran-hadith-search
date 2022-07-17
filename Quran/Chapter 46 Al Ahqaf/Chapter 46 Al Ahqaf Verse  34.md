@@ -710,6 +710,12 @@ V Denya, kogato nevernitsite bŭdat dokarani pred Ogŭnya [shte im se kazhe:]: �
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	မိစ္ဆာဒိဋ္ဌိအပေါင်းတို့ကို ငရဲမီးရှေ့တွင် ချထားသောနေ့တော်ကြီး၌ သူတို့အား ဤငရဲသည် အမှန်မဟုတ်လောဟု မေးမြန်းတော်မူလိမ့်မည်၊ သူတို့က အကျွနု်ပ်၏အသက်သခင်ကျေးဇူးရှင်ကြီး၏ ဘုန်းတော်ကြောင့် မှန်ပါ၏ဟု ဖြေဆိုကြလိမ့်မည်၊ ထိုအခါအရှင်မြတ်က နင်တို့သည် သမ္မာတရားတော်ကို မယုံကြည်ငြင်းပယ်ခဲ့သောကြောင့် ငရဲမီးဒဏ်တော်ကို ယခုမြည်းကြလော့ဟု မိန့်တော်မူလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ‘ကာဖိရ်’ သွေဖည်ငြင်းပယ်ကြကုန်သောသူတို့သည် ငရဲမီး၏ရှေ့သို့ ယူဆောင်လာခြင်းကို ခံကြရသောအခါ ဤသည် အဟုတ်အမှန်ပင် မဟုတ်ပါလော (ဟုမေးမြန်းခြင်းကို ခံကြရပေမည်။) ထိုအခါ ၎င်းတို့က ‘ကျွန်တော်မျိုးတို့အား ဖန်ဆင်း မွေးမြူတော်မူသော အရှင်မြတ်ကဆမ် ဟုတ်ပါ သည်’ ဟု လျှောက်ထားကြပေမည်။ ထိုအရှင်မြတ်က’သို့ဖြစ်လျှင် အသင်တို့သည် မိမိတို့ သွေဖည်ငြင်း ပယ်ခဲ့ကြသောကြောင့် ပြစ်ဒဏ်ကို မြည်းစမ်းကြလေကုန်’ ဟုမိန့်ကြားတော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

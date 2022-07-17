@@ -710,6 +710,12 @@ Po-rano spasikhme i Nukh, kogato prizova i Nie mu otkliknakhme, i spasikhme nego
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၆။	တဖန်ရှေးကာလက တမန်တော်နူဟိုသည် ငါအရှင်မြတ်ထံ ငိုကြွေးပန်ထွာသောအခါ၊ ငါသည် သူတောင်းသော ဆုကို ပေးသနားတော်မူ၏၊ သူနှင့်တကွသူ၏ အိမ်သူအိမ်သားတို့ကို အလွန်ကြီးကျယ်သောဘေးဒုက္ခမှ ကယ်နှုတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် (အို-နဗီတမန်တော်) နူဟ်(၏အတ္ထုပ္ပတ္တိအကြောင်း)ကိုလည်း (ပြန်လည်သတိရပါလေ။ တမန်တော်အိဗ်ရာဟီမ်မပွင့်မီ) ရှေးကာလကပင် ထိုနူဟ်သည် (ငါအရှင်မြတ်အား) ဟစ်ခေါ်ပန်ကြားခဲ့လေသည်။ ထိုအခါ ငါအရှင်မြတ်သည် ထိုနူဟ်၏ ဟစ်ခေါ်ပန်ကြားချက်ကို သဘောတူလက်ခံတော်မူခဲ့ပေသည်။ ထို့နောက် ငါအရှင်မြတ်သည် ထိုနူဟ်အားလည်းကောင်း၊ ထိုနူဟ်၏ ဘက်တော်သားတို့အားလည်းကောင်း၊ ကြီးစွာသော ပူပင်သောက ဖြစ်ခြင်းမှ ကယ်တင်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

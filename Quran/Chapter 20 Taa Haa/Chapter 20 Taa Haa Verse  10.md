@@ -710,6 +710,12 @@ Kogato vidya ogŭn, reche na semeĭstvoto si: “Pochakaĭte! Sŭzryakh ogŭn.
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	ထိုတမန်တော်သည် မီးတစ်ခုကို မြင်ရ၍ သူ၏လူများအား ဤတွင်ဆိုင်းင့ံကြလော့။ ငါသည် အဝေးမှာ မီး တစ်ခုကို မုချမြင်ရ၏။ ထိုမီးရှို့ရာမှ မီးကျီးမီးခဲတစ်ခုကို သင်တို့ထံယူခဲ့နိုင်ကောင်းယူခဲ့လိမ့်မည်။ သို့မဟုတ် ထိုမီးရှို့ရာတွင် လမ်းညွှန်ပြချက်တစ်စုံတစ်ခုကို တွေ့ကောင်းတွေ့လိမ့်မည်ဟု ပြောပြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ရံရောအခါဝယ် ယင်း(နဗီတမန်တော်)မူစာသည် မီးတစ်ခုကို မြင်လေသော် မိမိအိမ်သူ အိမ်သားတို့အား အသင်တို့သည် (ဤနေရာ၌ပင်) စောင့်ဆိုင်း၍နေရစ်ကြလေကုန်။ ဧကန်မလွဲ ကျွန်ုပ်သည် မီးတစ်ခုကို တွေ့မြင်ရလေသည်။ ကျွန်ုပ်သည် ထိုမီးမှ မီးကျီးမီးခဲကို အသင်တို့ထံ ယူဆောင်လာနိုင်ရာ၏။ သို့တည်းမဟုတ် ကျွန်ုပ်သည်မီ၏အနီးတွင် လမ်းညွှန်တစ်စုံတစ်ရာကို တွေ့ရှိတန်ရာသည်ဟု ပြောဆိုလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

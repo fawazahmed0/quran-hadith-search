@@ -710,6 +710,12 @@ Ne shte vidish tam nito dolina, nito khŭlm.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၇။	သင်တို့သည် မြေပေါ်တွင် ကုန်း၊ ကျင်း၊ တွင်း၊ ချောက်၊ ထုံးအိုင်၊ အငူစသည်များကို အနည်းငယ်မျှမြင်ရမည် မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်သည် ထို(ပထဝီမြေ)၌ မည်သည့် ချိုင့်ဝှမ်းကိုမျှလည်းကောင်း၊ မည်သည့် ကုန်းကိုမျှ လည်းကောင်း၊တွေ့မြင်လိမ့်မည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

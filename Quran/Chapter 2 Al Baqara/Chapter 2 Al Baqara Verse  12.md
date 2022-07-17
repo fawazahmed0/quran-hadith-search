@@ -710,6 +710,12 @@ No imenno te sa rushashtite. Ala ne useshtat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	သူတို့သည် ပျက်စီးဆုတ်ယုတ်မှုကို အမှန်ပင်ပြုကျင့်သူများမဟုတ်လော။ သို့သော် သူတို့သည် မသိမမြင်ကြပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အိုကြားနာသူအပေါင်းတို့) သတိပြုကြကုန်လော့။ ထို(မုစ်လင်(မ်) အသွင်ဆောင်သော) သူများသာလျှင်၊ (ကမ္ဘာမြေပြင်၌) ပျက်စီးရာ ပျက်စီးကြောင်း ပြုလုပ်သူများ ဖြစ်ကြကုန်၏။ သို့ရာတွင် ထိုသူများသည် (မိမိတို့ ပြုကျင့်လျက်ရှိသော မကောင်းမှုများကိုပင် မကောင်းမှုဟူ၍) မသိနားမလည်ကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

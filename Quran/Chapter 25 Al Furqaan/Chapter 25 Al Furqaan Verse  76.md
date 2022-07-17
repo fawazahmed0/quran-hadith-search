@@ -710,6 +710,12 @@ V nego shte prebivavat vechno. I kolko prekrasno e to za obitalishte i prebivava
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၆။	သူတို့သည် နိဗ္ဗာန်ဘုံတော်တွင် ထာဝရအစဉ်အမြဲခံစားကြရလတ့ံ၊ နိဗ္ဗာန်တော်သည် အလွန်ပျော်ရွှင်မွေ့လျော် ဖွယ်ရာနေရာထိုင်ခင်းကြီးဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (၎င်းတို့သည်) ယင်း(‘ဂျန္နတ်’သုခဘုံ၏) မြင့်မြတ်သောအဆောင်များ၌ပင် အမြဲထာဝစဉ် နေထိုင်ကြပေမည်။ ထို(ဂျန္နတ်သုခဘုံ၏)မြင့်မြတ်သော အဆောင်များသည် အလွန်မွန်မြတ်လှစွာသော စခန်းချရာနေရာသည် လည်းကောင်း၊ နေထိုင်ရာနေရာသည် လည်းကောင်း၊ ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I drugo, koeto obichate - pomosht ot Allakh i blizka pobeda. I vŭzradvaĭ vyar
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။ ထို့အပြင်သင်တို့အား သင်တို့နှစ်သက်မြတ်နိုးသောကောင်းကြီးမင်္ဂလာတစ်ပါးကိုလည်း ချပေးသနားတော်မူလတံ့၊ ထိုဆုတော်မှာမူကား အလ္လာဟ်အရှင်မြတ်၏ စောင်မတော်မူခြင်းနှင့် ယခုအောင်နိုင်အရေးသာခြင်းတို့ဖြစ်၏၊ အေ-တမန်တော်၊ ယုံကြည်သူတို့အား သတင်းကောင်းကို သင်ပေးလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်တို့ နှစ်သက်ကြကုန်သော အခြား(အကျိုးကျေးဇူး)တစ်ပါးကိုလည်း (ထိုအရှင်မြတ်သည် အသင်တို့အား ချီးမြှင့်တော်မူပေမည်။ ယင်းသည်) အလ္လာဟ်အရှင်မြတ်အထံတော်မှ ကူညီစောင်မမှုပင်၊ နီးကပ်စွာသော အောင်နိုင်မှုပင်။ ၎င်းပြင် (အို-နဗီတမန်တော်) အသင်သည် 'မုအ်မင်န်' သက်ဝင်ယုံကြည်သူတို့အား သတင်းကောင်းပြောကြားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

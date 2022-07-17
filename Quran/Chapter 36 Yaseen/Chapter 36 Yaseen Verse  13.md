@@ -710,6 +710,12 @@ I im daĭ primer s zhitelite na selishteto, pri koeto doĭdokha pratenitsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	အို-တမန်တော်၊ ဤမြို့သူမြို့သားတို့၏ အတ္ထုပ္ပတ္တိကို ဥပမာဆောင်၍ သင်ဟောပြောလော့၊ မှတ်လော့၊ ထို မြို့သို့ တရားဟောပြောရန် တမန်တော်များကြွလာတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင်(အို-နဗီတမန်တော်)အသင်သည် ၎င်းတို့အား ထိုမြို့သူမြို့သားတို့၏ အတ္ထုပ္ပတ္တိတစ်ခုကို ပြောပြပါလေ။ အခါတစ်ပါး၌ ထိုမြို့သူမြို့သားတို့ထံ ရစူလ်တမန်တော်များသည် ရောက်ရှိ၍လာခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

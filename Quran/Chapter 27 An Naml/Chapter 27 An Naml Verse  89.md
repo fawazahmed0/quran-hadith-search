@@ -710,6 +710,12 @@ Koito doĭdat s dobrina, shte imat po-golyama ot neya. I pred uzhasa na tozi De
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၉။	အကြင်သူသည် ကုသိုလ်ကောင်းမှုကို ယူဆောင်လာအ့ံ၊ ထိုသူသည် မိမိ၏ကုသိုလ်ကောင်းမှုထိုက်တန်သည်ထက် သာလွန်မြင့်မြတ်သောဆုကို ရရှိလိမ့်မည်၊ ဤကဲ့သို့သောသူမြတ်တို့သည် ထိုနေ့တော်ကြီး၌ ထိတ်လန့်ကြောက်ရွံ့ ခြင်းဘေးရန်မှ ကင်းလွတ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သူမဆို ကောင်းမှု(အီမာန်သက်ဝင်ယုံကြည်မှု)နှင့်တကွလာခဲ့ပါမူ ထိုသူ၏အဖို့ ထိုထက်ကောင်းမြတ် အကျိုးကျေးဇူးရှိသည့်ပြင် ၎င်းတို့သည်(ကြီးကျယ်သော)ထိတ်လန့်ခြင်းမှလည်း ကင်းလွတ်သူများပင် ဖြစ်ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

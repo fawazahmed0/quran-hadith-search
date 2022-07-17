@@ -710,6 +710,12 @@ Reche: “Nyama ukor dnes kŭm vas. Allakh da vi oprosti! Toĭ e Naĭ-milosŭr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၂။	သူက ယနေ့သင်တို့သည် မကြောက်ရွံ့ကြလင့်။ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အား အပြစ်လွှတ်တော်မူပါစေ သော်ဝ်။ အရှင်မြတ်သည် ကောင်းကြီးမင်္ဂလာပေးသူအပေါင်းတို့တွင် အထွဋ်အခေါင်ဖြစ်တော်မူပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(အခါ) ယူဆွဖ်က ယနေ့ အသင်တို့အပေါ်၌ လုံးဝပြစ်တင်ခြင်းမရှိချေ။ အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့အား အပြစ်မှချမ်းသာပေးသနားတော်မူပါစေ။ စင်စစ်မှာမူကား ထိုအရှင်မြတ်သည် သနားကြင်နာသူ အပေါင်းတို့ထက်သာလွန်၍ သနားကြင်နာတော်မူဆုံးသော အရှင်မြတ်ပင်ဖြစ်တော်မူပေသည်ဟု ပြောဆိုခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

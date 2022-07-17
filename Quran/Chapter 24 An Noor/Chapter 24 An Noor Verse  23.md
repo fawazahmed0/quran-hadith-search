@@ -710,6 +710,12 @@ Onezi, koito nabedyat tselomŭdrena zhena, naivna i vyarvashta, te sa prokŭlnat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	မှတ်သားကြလော့၊ အကြင်သူတို့သည် အမှတ်တမဲ့သတိပေါ့ဆမိသောသီလသမာဓိရှင်ယုံကြည်သူအမျိုးသမီး တို့အား အရှက်တကွဲအသရေပျက်အောင် မတရားစွပ်စွဲကြအ့ံ၊ ထိုသူတို့သည် ဤဘဝနောင်ဘဝနှစ်ဖြာသော ဘဝတွင် အလ္လာဟ်အရှင်မြတ်၏ ကျိန်ဆဲခြင်းကို ခံကြရ၏၊ သူတို့သည် အလွန်ပြင်းထန်ကြောက်မက်ဖွယ်သော အပြစ်ဒဏ်တော်ကို ခံကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ကာမဂုဏ်ကိုချုပ်တည်းသော၊ ရိုးသားဖြောင့်မတ်၍ သတိမမူသော ‘မုအ်မင်န်’ အမျိုးသမီးများအား (မဟုတ်မမှန် မတရား)စွပ်စွဲကြကုန် သောသူတို့သည် လောကီဘဝ၌လည်းကောင်း၊ တမလွန်ဘဝ၌လည်းကောင်း၊ ကရုဏာတော်မှ ကင်းဝေးစေခြင်းကို ခံကြရပေမည်။ ထိုမှတပါး ၎င်းတို့၌ ကြီးလေးလှစွာသော ပြစ်ဒဏ်သည်(လည်း) ရှိပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

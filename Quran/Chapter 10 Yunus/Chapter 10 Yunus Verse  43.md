@@ -710,6 +710,12 @@ I nyakoi ot tyakh gledat kŭm teb, ala nima shte napŭtish sleptsite, ako ne sŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	သူတို့အနက် သင့်ဘက်ကို ကြည့်သူလည်းရှိ၏။ သို့သော်သူတို့သည် မမြင်နိုင်သော်လည်း သင်သည် မျက်ကန်း သူတို့ကို လမ်းပြစွမ်းနိုင်သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ ၎င်း တို့တွင်(အမြင်အားဖြင့်)အသင့် အားကြည့်နေသူများလည်း ရှိကြပေသည်။ သို့ဖြစ်ပေရာ အသင်သည် မျက်စိကန်းနေသောသူတို့အား (4င်းတို့သည်ဉာဏ် မျက်စိဖြင့်မမြင်ကြပါလျက်)တရားလမ်းမှန်ကိုညွှန်ပြနိုင်ပါ သလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

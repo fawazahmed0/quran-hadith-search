@@ -710,6 +710,12 @@ A koito ne vyarvat v znameniyata na Allakh i v sreshtata s Nego, tezi shte izgub
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	အကြင်သူတို့သည် အလ္လာဟ်အရှင်မြတ်၏ နှုတ်ကပတ်တော်များကိုလည်းကောင်း၊ အရှင်မြတ်အား တွေ့ဆုံ ဖူးမြော်ရမည်ကိုလည်းကောင်း၊ မယုံကြည်အ့ံ၊ ထိုသူတို့၌ ငါ၏ ကောင်းကြီးမင်္ဂလာတော်ကို မျှော်လင့်စရာမရှိချေ၊ ထိုသူများအတွက် နာကျင်ဖွယ်သောအပြစ်ဒဏ်ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အလ္လာဟ်အရှင်မြတ်၏ သက်သေလက္ခဏာတော်များကိုလည်းကောင်း၊ ထိုအရှင်မြတ်နှင့် တွေ့ဆုံခြင်းကိုလည်းကောင်း ငြင်းပယ်ခဲ့ကြသော သူတို့သည်သာလျှင် ငါအရှင်မြတ်၏ ကရုဏာတော်ကို မျှော်လင့်အားထားခြင်း ကင်းမဲ့ကြပေမည်။ ၎င်းပြင် ထိုသူတို့၌သာလျှင် ပြင်းပြနာကျင်ဖွယ်ဖြစ်သော ပြစ်ဒဏ်သည် သက်ရောက်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

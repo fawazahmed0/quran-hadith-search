@@ -710,6 +710,12 @@ ili na okayan kletnik
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၊၁၄၊၁၅၊၁၆၊၁၇။ ဤလမ်းမူကား ကျွန်ကို ကျွန်ဘဝမှ လွှတ်ပစ်ခြင်း၊ အစားအစာငတ်မွတ်ခေါင်းပါးသောအခါကာလတွင် ဆွေမျိုးနီး စပ်ဖြစ်သောမိတဆိုးနှင့် အလွန်အောက်ကျနောက်ကျဖြစ် သောသူဆင်းရဲတို့ကို ဝအောင် ကျွေးမွေးခြင်း၊ အချင်းချင်းတို့အား လုံ့လအားထုတ်မှုနှင့် သနားကြင်နာမှုများကို ပြုလုပ်ရန် တိုက်တွန်းလှုံ့ဆော်ခြင်း၊ယုံကြည်သူတို့ဘောင်တွင် ပါဝင်ခြင်းတို့ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မြေကြီးပေါ် လူးလိမ့်နေသော ဒုက္ခိတသူဆင်းရဲ တစ်ဦးတစ်ယောက်ကိုသော်လည်းကောင်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

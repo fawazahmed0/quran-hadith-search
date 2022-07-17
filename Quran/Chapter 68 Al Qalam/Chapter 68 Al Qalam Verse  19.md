@@ -710,6 +710,12 @@ I ya spokhodi bedstvie ot tvoya Gospod, dokato spyakha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။ ထို့နောက် သူတို့အိပ်ပျော်နေစဉ် သူတို့၏ ဥယျာဉ်ပေါ်သို့ ပျက်စီးခြင်းဘေးဆိုက်ရောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ၊ ၎င်းတို့ အိပ်ပျော်နေကြစဉ် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏အထံတော်မှ လှည့်ပတ်သောအရာ (ဝါ) မီးဘေးသည် ယင်းဥယျာဉ်ပေါ်ဝယ် လှည့်ပတ်ခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

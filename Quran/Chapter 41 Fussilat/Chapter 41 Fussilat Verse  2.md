@@ -710,6 +710,12 @@ Nizposlanie ot Vsemilostiviya, Milosŭrdniya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	မဟာကရုဏာတော်အရှင် အနန္တကောင်းကြီးမင်္ဂလာတော်သခင်၊ အလ္လာဟ်အရှင်မြတ်အထံတော်မှ ကျမ်းတော် မြတ်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤအာယတ်တော်သည်) အလွန်တရာ သနားကြင်နာ ညှာတာတော်မူသော အနန္တ ကရုဏာတော် အရှင်၏အထံတော်မှ ချပေးတော်မူခြင်းဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

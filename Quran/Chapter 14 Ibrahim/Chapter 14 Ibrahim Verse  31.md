@@ -710,6 +710,12 @@ Kazhi [o, Mukhammad] na Moite vyarvashti rabi da ot·sluzhvat molitvata i da raz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	တမန်တော်၊ သင်သည် ငါအရှင်မြတ်၏ ကျေးကျွန်တို့အား ဝတ်၌ တည်မြဲဖို့ရာနှင့် ငါပေးသနားတော်မူသောဥစ္စာ ပစ္စည်းမှ တိတ်တဆိတ်သော်လည်းကောင်း၊ ထင်ရှားစွာသော်လည်းကောင်း၊ သုံးစွဲဖို့ရာဟောကြားလော့။ ထို ကုသိုလ်ကောင်းမှုများကို ရောင်းဝယ်ဖောက်ကားခြင်းသော်လည်းကောင်း၊ မိတ်ဖွဲ့ခြင်းသော်လည်းကောင်း၊ မရှိသောနေ့တော်ကြီးမကျရောက်မီ ဆည်းပူးကြရမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို- နဗီတမန်တော်) အသင်သည် သက်ဝင်ယုံကြည်ကြကုန်သော ငါအရှင်မြတ်၏ကျွန်များအား ထိုသူတို့သည်ဆွလာတ်ဝတ်ပြုမှုကို ဆောက်တည်ကြရမည်။ ထို့ပြင် ငါအရှင်မြတ်က ထိုသူတို့အား ချီးမြှင့်ပေးသနားတော်မူခဲ့သည့် ဥစ္စာပစ္စည်းများအနက်မှ အကြင်နေ့ မဆိုက်ရောက်မီ လျှို့ဝှက်စွာလည်းကောင်း၊ ထင်ရှားစွာလည်းကောင်း၊ ပေးကမ်းစွန့်ကြဲကြရမည်ဟု ပြောကြားပါလေ။ ထိုနေ့တွင် ကုန်သွယ်မှုသည်လည်းရှိလိမ့်မည်မဟုတ်ပေ။ မိတ်ဖွဲ့ရင်းနှီး ကျွမ်းဝင်မှုဟူ၍လည်းရှိလိမ့်မည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I povelyavashe toĭ na svoya narod da ot·sluzhva molitvata i da dava milostiny
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။	သူသည် သူ၏ အမျိုးသားတို့အား ဆွလတ်ဝတ်ပြုရန် အလှုဒါနပေးရန် ဟောကြားဆင့်ဆို၏။ သူသည် မိမိ ၏ ကျေးဇူးတော်သခင် ချစ်ခင်မြတ်နိုးခြင်းကို ခံရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ယင်းအစ္စမာအီလ်သည် မိမိအိမ်သူအိမ်သားတို့အား ဆွလာတ်ဝတ်ပြုရန်လည်းကောင်း၊ ဇကာတ်ပေးဆောင်ရန်လည်းကောင်း၊ အမိန့်ပေးညွှန် ကြားလေ့ရှိခဲ့ပေသည်။ထိုမှတစ်ပါး ယင်းအစ္စမာအီလ်သည် မိမိအားဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ် အထံတော်တွင် နှစ်မြို့ဖွယ်လည်း ဖြစ်ခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

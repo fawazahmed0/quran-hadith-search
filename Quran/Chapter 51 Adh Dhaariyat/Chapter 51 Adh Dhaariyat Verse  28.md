@@ -710,6 +710,12 @@ I spotai strakh ot tyakh. Rekokha: “Ne se strakhuvaĭ!” I go blagovestikha 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	ထို့နောက်သူသည် သူတို့ကို ကြောက်လန့်လာ၏။ သူတို့ကလည်း မကြောက်လင့်ဟု ဆို၍ လိမ်မာရေးခြား ရှိသောသားကောင်းရတနာတစ်ယောက်ရမည့် သတင်းကောင်းကို ပေးလေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် (၎င်းတို့စားသုံးခြင်း မပြုကြသောကြောင့်) ထိုအိဗ်ရာဟီမ်သည် မိမိစိတ်ထဲတွင် ၎င်းတို့ ဘက်မှစိုးရိမ်လာခဲ့လေ၏။ (ထိုအခါ) ၎င်းတို့က အသင်သည် မစိုးရိမ်ပါလေနှင့်ဟု ပြောဆိုကြ၏။ ထို့ပြင် ၎င်းတို့သည် ထိုအိဗ်ရာဟီမ်အား အလွန်တရာ အသိပညာနှင့်ပြည့်စုံသော သားရတနာတစ်ပါးနှင့် ပတ်သက်၍ သတင်းကောင်း ပြောကြားခဲ့ကြ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

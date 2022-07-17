@@ -710,6 +710,12 @@ Za vsyaka obshtnost imashe pratenik. I kogato idvashe tekhniyat pratenik, se ot�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	လူမျိုးတုုိင်း၌ပင် တမန်တော်တစ်ပါးစီရှိကြ၏။ တရားစီရင်တော်မူသောနေ့တော်ကြီး၌ သူတို့၏ တမန်တော်သည် လာသောအခါ သူတို့စပ်ကြားရှိအမှုသည် ဖြောင့်မတ်မှန်ကန်စွာစီရင်ဆုံးဖြတ်ခံရမည်။ သူတို့သည် မတရားပြုခြင်း ခံရမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား လူမျိုးတိုင်းအဖို့ တမန်တော်တစ်ပါးသည် ရှိခဲ့လေသည်။ တစ်ဖန် 4င်းတို့တမန်တော်ရောက်ရှိခဲ့သောအခါ ၎င်း တို့၏ အကြားတွင် တရားမျှ တစွာပင် စီရင်ဆုံးဖြတ်ပြီး ဖြစ်ခဲ့သည်သာတည်း။ ထို့ပြင် ၎င်း တို့သည်မတရားပြုလုပ်ခြင်းကို လုံးဝခံကြရသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

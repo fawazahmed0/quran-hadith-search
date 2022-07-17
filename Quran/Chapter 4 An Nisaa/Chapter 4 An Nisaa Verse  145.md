@@ -710,6 +710,12 @@ Litsemerite sa naĭ-nisko na dŭnoto na Ogŭnya i ne shte namerish za tyakh izb
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၅။	မှတ်သားကြလော့။ ယုံကြည်ဟန်ဆောင်သောသူတို့သည် ငရဲမီးအောက်ဆုံးလွှာတွင် ခံစားကြရမည်။ သင်သည် သူတို့အတွက် ကူညီသူရှာတွေ့မည်မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် ‘မုနာဖစ်က်’ အယောင်ဆောင် မွတ်စ်လင်မ်တို့သည် ငရဲဘုံ၏အောက်ဆုံးအထပ်၌ ရှိကြလတ္တံ့။ ၎င်းပြင် အသင်သည် ထိုသူတို့အဖို့ ကူညီစောင်မမည့်သူဟူ၍လည်း တစ်ဦးတစ်ယောက်ကိုမျှ တွေ့ရှိရမည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

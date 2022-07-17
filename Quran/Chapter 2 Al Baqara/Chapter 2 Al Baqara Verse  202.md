@@ -710,6 +710,12 @@ Za tyakh ima dyal ot onova, koeto sa pridobili. Allakh bŭrzo pravi ravnosmetka
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ၂။	ယင်းကဲ့သို့ ဆုတောင်းသူများအဘို့အရာ သူတို့ဆည်းပူးခဲ့သော ကုသိုလ်ကောင်းမှု၏ အကျိုးသုခ အသင့်ရှိ၏။ အလ္လာဟ်အရှင်မြတ်သည် စစ်ကြောမေးမြန်းမှု၌ ထက်မြက် မြန်ဆန်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (နှစ်ဘဝ၏ သုခချမ်းသာများကို ဆုတောင်း ပတ္ထနာပြုကြသော) ဤသူများသည် နှစ်ဘဝလုံး၌ပင် မိမိတို့ပြု ကျင့်ခဲ့ကြသော အကျင့်သီလတို့၏ ကုသိုလ်အကျိုးများကို ရရှိကြမည့်သူများတည်း။ အလ္လာဟ်အရှင်မြတ်သည် ဆောလျင်စွာ စစ်ဆေး မေးမြန်းတော်မူမည့်အရှင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

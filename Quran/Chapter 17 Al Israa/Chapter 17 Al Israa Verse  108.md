@@ -710,6 +710,12 @@ I kazvat: “Prechist e nashiyat Gospod! Obeshtanieto na nashiya Gospod naistina
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၈။	သူတို့ဦးညွှတ်ချသောအခါ သူတို့က အကျွနု်ပ်တို့၏ အရှင်သခင်သည် ချို့တဲ့ခြင်းကင်း၍ တန်ခိုးကြီးမားတော်မူ ပါ၏။ အကျွနု်ပ်တို့၏ ကျေးဇူးတော်သခင်၏ ကတိဗျာဒိတ်တော်သည် ပြည့်စုံရမည်သာတည်းဟု ချီးကျုးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုသူတို့က ကျွန်ုပ်တို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည် စင်ကြယ်သန့်ရှင်း တော်မူပါသည်။ အမှန်စင်စစ် ကျွန်ုပ်တို့အား ဖန်ဆင်း မွေးမြူတော်မူသောအရှင်မြတ်၏ ကတိသည် အမှန်မလွဲဖြစ်ရမည့် ကိစ္စပင်ဖြစ်သည်ဟု (ဝန်ခံ)လျှောက်ထား ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

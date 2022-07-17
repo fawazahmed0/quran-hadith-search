@@ -710,6 +710,12 @@ I kogato im dade tekhniya tovar, toĭ slozhi tsarskata chasha vŭv vŭrzopa na 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇ဝ။	သူသည် ထိုသူတို့အား ဂျုံစပါးရိက္ခာကို ပေးပြီးနောက် သူ၏ သောက်ရေခွက်ကို မိမိညီ၏ ကုလားအုပ်ကုံးနှီးအိတ် တွင် ထည့်ပေးလိုက်၏။ ထို့နောက်ကြွေးကြော်သူတစ်ယောက်သည် အို-ကုလားအုပ်စီးနင်းသွားသူတို့၊ သင်တို့ သည် သူခိုးအစ်အမှန်ဖြစ်ကြ၏ဟု အော်ဟစ်စေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ထိုယူဆွဖ်သည် ၎င်းတို့အဖို့ စီမံ အပ်သည်တို့ကို အဆင်သင့်ဖြစ်အောင်စီမံ၍ ပေးခဲ့ပြီးသောအခါရေဖလားကို မိမိညီတော်၏ခရီးဆောင် ပစ္စည်းထဲတွင် ထည့်လိုက်လေသည်။ ထို့နောက် ကြေညာသူတစ်ဦးက အို-ခရီးသည်စု၊ ဧကန်မလွဲ အသင်တို့သည် ခိုးသားများပင် ဖြစ်ကြကုန်သည် ဟု ကြေညာ(မောင်းခတ်)ခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

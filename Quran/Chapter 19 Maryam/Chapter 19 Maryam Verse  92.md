@@ -710,6 +710,12 @@ Ne podobava na Vsemilostiviya da ima sin
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၂။	သားသမီးရှိခြင်းအညစ်အကြေးသည် မဟာဂရုဏာတော်သခင်၏ ဂုဏ်တော်နှင့်လုံးဝမလျှောက်ပတ်မသင့် တော်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်မူကား သားသမီး တစ်စုံတစ်ယောက် ပြုလုပ်ခြင်းသည် ရဟ်မာန် အနန္တကရုဏာတော်ရှင်နှင့် လုံးဝအပ်စပ်သည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ i onezi, koito razdavat svoite imoti na pokaz pred khorata i ne vyarvat nito v A
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	မိမိ၏ဥစ္စာစီးပွားကို လူမြင်ဖို့ရာ သုံးစွဲလှူဒါန်းသော အလ္လာဟ်အသျှင်မြတ်နှင့် တရားစီရင်တော်မူမည့် နေ့တော်ကြီးကို မယုံကြည်သောသူတို့လည်း ယင်းအပြစ်ဒဏ်ကို ခံစားကြရမည်။ အကြင်သူသည် ရှိုင်တန်မာရ်နတ်နှင့် အဆွေခင်ပွန်းဖွဲ့၏။ ထိုသူမှာ မိတ်ဆွေဆိုးရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အကြင်သူတို့သည် မိမိတို့၏ ဥစ္စာပစ္စည်းများကို လူအများတို့အား ပြစားရန်အလို့ငှာ လှူဒါန်းသုံးစွဲကြကုန်၏။ သို့ရာတွင်မူကား ယင်းသူတို့သည် အလ္လာဟ်အရှင်မြတ်ကိုလည်းကောင်း၊ နောက်ဆုံးနေ့ကိုလည်းကောင်း၊ ယုံကြည်ကြသည်မဟုတ်ပေ။ အမှန်စင်စစ် မည်သူမဆို ‘ရှိုင်တွာန်’ မိစ္ဆာကောင်သည် ထိုသူ၏ အပေါင်းအဖေါ်ဖြစ်ခဲ့ပါမူ (ထို ရှိုင်တွာန်သည်) အလွန်ဆိုးရွားလှသော အပေါင်းအဖေါ်ပင် ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

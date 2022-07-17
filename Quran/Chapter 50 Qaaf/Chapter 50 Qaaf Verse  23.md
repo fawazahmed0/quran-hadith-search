@@ -710,6 +710,12 @@ A sŭpŭt·stvaliyat go [angel] shte kazhe: “Gotovo e tova, koeto e u men.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။ ထို့အပြင် ဒုစရိုက်ကောင်၏ ကိုယ်စောင့်တမန်တော်က ပြောသည်မှာ ဤသည်ကား သင်ပြုသမျှတို့ကို မှတ်သားထားသည့် သက်သေခံစာရင်းစာအုပ်ကြီး ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ၎င်း၏အဖော် (ကောင်းကင်တမန်) ကပြောဆိုပေမည်။ ဤသည် ကျွန်ုပ်၏ထံ၌ အဆင်သင့် ရှိသော(နေ့စဉ်မှတ်တမ်း) ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

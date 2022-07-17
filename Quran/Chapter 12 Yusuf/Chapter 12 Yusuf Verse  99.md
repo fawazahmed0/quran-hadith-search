@@ -710,6 +710,12 @@ I kogato vlyazokha pri Yusuf, toĭ nastani svoite roditeli pri sebe si i reche:
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၉။	သူတို့သည် တမန်တော်ယူစွတ်(ဖ်)ရှေ့သို့ ဝင်သောအခါ သူသည် မိမိ၏ မိဘတို့ကို မိမိထံသို့ ခေါ်ပြီးနောက် အလ္လာဟ်အရှင်မြတ်အလိုတော်ရှိပါလျှင် အီဂျစ်တိုင်းပြည်တွင်းသို့ လုံခြံုစွာဝင်ကြပါဟု ပင့်ဖိတ်သည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် တစ်ဖန်၊ ၎င်းတို့ (သားအမိ သားအဖအားလုံးတို့) (အစ္စရာအီလီတစ်မျိုးသားလုံးတို့)သည် ယူဆွဖ်ထံသို့ ဝင်ရောက်ခဲ့ကြလေသောအခါ ထိုယူဆွဖ်သည် မိမိခမည်းတော်မယ်တော်နှစ်ပါးကို မိမိထံတွင် နေရာချ၍ပေးခဲ့လေသည်။ ၎င်းပြင် ယင်းယူဆွဖ်က (ဤသို့)ပြောဆို လျှောက်ထားခဲ့လေသည်။ (အို-ခမည်းတော် မယ်တော်တို့၊ ခမည်းတော်မယ်တော် နှင့်နောင်တော်တို့အားလုံး) အီဂျစ်မြို့ထဲသို့ ကြွမြန်းတော်မူကြပါ။ အလ္လာဟ်အရှင်မြတ်သည် အလိုရှိတော်မူပါလျှင် ဘေးရန်ကင်းငြိမ်းစွာ (နေထိုင်ကြရပါမည်ဖြစ်ပါသည်)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

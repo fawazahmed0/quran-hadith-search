@@ -710,6 +710,12 @@ Te sa khubav primer za vas - za vseki, koĭto se nadyava na Allakh i na Setniya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။ အို-ယုံကြည်သူအပေါင်းတို့၊ အလ္လာဟ်အရှင်မြတ်နှင့် နောက်ဆုံးနေ့တော်ကြီးကို အားကိုးသောသင်တို့အတုယူ ဖို့ရာ တမန်တော်အေဗရာဟမ်နှင့် ၄င်း၏ သာဝကတို့သည် အလွန်မွန်မြတ်တင့်တယ်သောစံနမူနာဖြစ်၏၊ သို့သော်သင်တို့အနက် တစ်ဦးဦးသည် ထိုစံနမူနာကို မလိုက်နာ၊ ကျောပေးသွားလျှင် မှတ်သားကြလော့၊ စင်စစ်အားဖြင့်အလ္လာဟ်အရှင်မြတ်သည် ကုံလုံပြည့်စုံတော်မူ၏၊ လိုအပ်ရမက်ကင်းရှင်းတော်မူ၏၊ အံ့ချီးမဆုံး ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ အသင်တို့အဖို့ (ဝါ) အလ္လာဟ်အရှင်မြတ်အားလည်းကောင်း၊ နောက်ဆုံးနေ့ကိုလည်းကောင်း၊ ယုံကြည်သူ၏အဖို့ ထို( ဆိုခဲ့ပြီး ပုဂ္ဂိုလ်မွန် ပုဂ္ဂိုလ်မြတ်)တို့၌ မွန်မြတ်လှစွာသော စံနမူနာသည်ရှိ၏။ သို့ရာတွင် မည်သူမဆို မျက်နှာလွှဲ၍ ထွက်သွားသည်ရှိသော် ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်မှာမူကား လိုလားတောင့်တမှု ကင်းမဲ့တော်မူသောအရှင်၊ ချီးမွမ်းအပ်သော ဂုဏ်ဝိသေသအပေါင်းနှင့် ပြည့်စုံတော်မူသောအရှင်၊ ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

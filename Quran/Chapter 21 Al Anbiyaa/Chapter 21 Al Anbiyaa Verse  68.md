@@ -710,6 +710,12 @@ Rekokha: “Izgorete go i podkrepete svoite bozhestva, ako shte deĭstvate!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၈။	ဤဟောပြောချက်ကို ကြားသည်နှင့်တပြိုင်နက်သူတို့ကြွေးကြော်ကြသည်မှာ ဟယ်-အချင်းတို့၊ သင်တို့တစ်စုံ တစ်ရာပြုလုပ်လိုပါလျှင် သင်တို့သည် အေဗရာဟမ်ကို မီးလောင်တိုက်သွင်း၍ မိမိတို့ဘုရားများကို ထောက်ခံ ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းအမျိုးသားတို့က (အချင်းတို့၊) အကယ်၍အသင်တို့သည် (တစ်စုံတစ်ရာကို)ပြုလုပ်မည့် သူများပင်ဖြစ်ကြပါမူ ထိုအိဗ်ရာဟီမ်အား မီးတင်ရှို့လျက် မိမိတို့၏ကိုးကွယ်ရာ ဘုရားများကို ဝိုင်းမကူညီကြလေကုန်ဟု ပြောဆိုကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

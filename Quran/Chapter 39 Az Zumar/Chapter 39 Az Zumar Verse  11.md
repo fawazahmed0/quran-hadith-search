@@ -710,6 +710,12 @@ Kazhi: “Poveleno mi be da sluzha na Allakh, predan Nemu vŭv vyarata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	အို-မိုဟမ္မဒ်၊ ဟောပြောလော့၊ ဟယ်-အချင်းတို့၊ အလ္လာဟ်အရှင်မြတ်အားသာလျှင် အမြတ်တနိုးကိုးကွယ် အပ်သည်ဟူသော သန့်ရှင်းစင်ကြယ်သော ဘာသာအယူဝါဒနှင့် အရှင်မြတ်အား ဝတ်ပြုလော့ဟု ငါ့ထံသို့ ဗျာဒိတ်တော်လာ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်၊) အသင်ပြောကြားပါလေ၊ ဧကန်စင်စစ် ကျွန်ုပ်သည် သက်သက် အလ္လာဟ်အရှင်မြတ်အဖို့သာလျှင် ဆည်းကပ်ကိုးကွယ်မှုကို သဒ္ဓါဖြူစင်စေလျက် ထိုအရှင်မြတ်အား ဆည်းကပ်ကိုးကွယ်ရန် အမိန့်ပေးတော်မူခြင်း ခံရသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

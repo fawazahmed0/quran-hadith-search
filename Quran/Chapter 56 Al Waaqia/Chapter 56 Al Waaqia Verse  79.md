@@ -710,6 +710,12 @@ Dokosvat go samo prechistenite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၉။	ထိုကျမ်းတော်ကို သန့်ရှင်းဖြူစင်သူတို့မှတပါး အခြားသူတို့မထိမကိုင်ရချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်း မှတ်တမ်းစာအုပ်ကို စင်ကြယ်သန့်ရှင်းကြသော သူတို့မှတစ်ပါး မည်သူမျှ ထိတွေ့ကြသည်မရှိပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

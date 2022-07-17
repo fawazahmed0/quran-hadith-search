@@ -710,6 +710,12 @@ Nyama za Proroka pritesnenie za onova, koeto Allakh mu e nalozhil. Takŭv be obi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	အလ္လာဟ်အရှင်မြတ်ခွင့်ပြုတော်မူသာအမှုကို ပြုလုပ်သောကြောင့် တမန်တော်အပေါ်၌ အပြစ်အလျဉ်းမထိုက်ပေ၊ ရှေးလွန်လေပြီးသောတမန်တော်များကို အလ္လာဟ်အရှင်မြတ်သည် ဤနည်းအတိုင်းပင်ပြုကျင့်စေတော်မူ၏၊ အလ္လာဟ်အရှင်မြတ်၏ ပညတ်တော်သည် မုချဧကန်ရှေးမဆွက ရည်မှတ်ထားသောပညတ်တော်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်က နဗီတမန်တော်မြတ်အပေါ်၌ သတ်မှတ်ပြဋ္ဌာန်းတော်မူခဲ့သော ကိစ္စနှင့် စပ်လျဉ်း၍ထိုနဗီတမန်တော်မြတ်အပေါ်၌ မည်သို့မျှ အပြစ်တင်ခြင်းမရှိပေ။ (ဤသည်)ရှေးယခင်က လွန်ခဲ့ကြသောသူတို့ (တမန်တော်တို့)နှင့်ပတ်သက်သည့် အလ္လာဟ်အရှင်မြတ်၏ စည်းကမ်းအတိုင်းပင် ဖြစ်၏။ စင်စစ် အလ္လာဟ်အရှင်မြတ်၏ အမိန့်တော်သည်ကား ကောင်းမွန်စွာ စီမံပြီးသားဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

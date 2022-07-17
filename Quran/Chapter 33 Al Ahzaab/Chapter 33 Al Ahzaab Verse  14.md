@@ -710,6 +710,12 @@ I ako se nakhlue sreshtu tyakh ot kraishtata [na grada], i posle bŭdat podtikna
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	အကယ်၍ရန်သူတို့သည် အဘက်ဘက်ဝန်းအုံချီတက်ဝင်လာ၍ သူတို့အား သစ္စာဖောက်ရန် တိုက်တွန်းဖျား ယောင်းသော် သူတို့သည် သစ္စာဖောက်ကြလိမ့်မည်၊ ထိုသို့သစ္စာဖျက်ဖို့ရာ သူတို့သည် အနည်းငယ်မျှလက်နှေး လိမ့်မည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ၎င်းတို့ထံ ယင်း ယတ်ဆရစ်ဗ် မြို့၏ ဘေးပတ်ဝန်းကျင်များမှ (ကာဖိရ် စစ်သည်တို့သည်) ဝင်ရောက်ခဲ့ကြသော် ထို့နောက် ၎င်းတို့သည် ဖျက်ဆီးမှုပြုရန် (မုစ်လင်မ်တို့နှင့် တိုက်ခိုက်ရန်) တောင်းဆိုခြင်းကိုခံခဲ့ကြရသော် ၎င်းတို့သည် ထိုအိမ်များ၌ အနည်းငယ်မျှသာဆိုင်းငံ့ပြီး ရုတ်တရက်ချက်ချင်းပင်လျှင် ယင်းဖျက်ဆီးမှု (တိုက်ခိုက်မှု)ကို အမှန်ပင်လက်ခံပြုလုပ်ကြမည်သာ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

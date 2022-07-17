@@ -710,6 +710,12 @@ I ne misli [o, Mukhammad], che Allakh e nekhaen kŭm onova, koeto ugnetitelite v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	တမန်တော်၊ ယုတ်မာသူတို့ပြုလုပ်မှုများကို အလ္လာဟ်အရှင်မြတ်သည် သိတော်မူမည်မဟုတ်ဟု သင်မထင်လင့်။ အရှင်မြတ်သည် သူတို့အား မျက်လုံးမျက်ဆံများကြောက်ရွံ့ခြင်းဖြင့် ပြူးတူးပြဲတဲကြည့်ကြမည့်နေ့တော်ကြီး တိုင်အောင် အချိန်ပေးထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်သည် အလ္လာဟ်အရှင်မြတ်အား မတရားသောသူများ ကျင့်မူကြကုန်သော အမှုကိစ္စတို့မှအမှုမဲ့အမှတ်မဲ့ နေတော်မူသောအရှင်မြတ်ဟူ၍ အလျင်းမထင်မှတ်လေနှင့်၊ ထိုအရှင်မြတ်သည် ၎င်းတို့အား အကြင်နေ့တိုင်အောင် ရွှေ့ဆိုင်းခွင့်ပေးထားတော်မူခြင်းသာလျှင် ဖြစ်ပေသည်။ ထိုနေ့တွင်(ကာဖိရ်သွေဖည် ငြင်းပယ်ကြကုန်သောသူတို့၏)မျက်စိမျက်ဆံများသည်(မျက်တောင်မခတ်)စူးစိုက်လျက်ပင်ရှိကုန်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

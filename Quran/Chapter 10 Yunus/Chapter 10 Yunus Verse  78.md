@@ -710,6 +710,12 @@ Kazakha: “Nima doĭde pri nas, za da ni otlŭchish ot onova, s koeto zavarikh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၈။	သူတို့က သင်သည် အကျွနု်ပ်တို့အား မိမိတို့ဘိုးဘွားများကိုးကွယ်သည့်ဘာသာအယူဝါဒမှ တိမ်းစောင်းရန်နှင့် သင်တို့နှစ်ဦး အကျွနု်ပ်၏ တိုင်းပြည်၌ လူကြီးဖြစ်ရန်လာကြသလော။ အကျွနု်ပ်တို့သည် သင်တို့နှစ်ဦးကို ယုံကြည်ကြမည်မဟုတ်ချေဟု ပြောကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်း တို့က (နဗီတမန်တော်မူစာအား ဤသို့)ပြောဆိုကြပြန်လေသည်။ (အို-မူစာ) အသင်သည် ကျွန်ုပ်တို့၏အဖ၊ ဘိုး၊ ဘေးများ၏လမ်းစဉ်မှ ကျွန်ုပ်တို့အား လွှဲဖယ်ရန်လည်းကောင်း၊ တိုင်းပြည်တွင် ခေါင်းဆောင်မှုသည် အသင်တို့နှစ်ဦး၌သာ ရှိအံ့သော ငှာလည်းကောင်း၊ အသင် ကျွန်ုပ်တို့ထံရောက်ရှိခဲ့လေသလော။ စင်စစ်သော်ကား ကျွန်ုပ်တို့သည်အသင်တို့နှစ်ဦးအား(မည်သည့်အခါ၌မျှ) ယုံစား ကြမည့်သူများမဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

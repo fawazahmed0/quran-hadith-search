@@ -710,6 +710,12 @@ I kogato im se kazhe: “Povyarvaĭte, kakto khorata povyarvakha!” - kazvat: 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	ထို့ပြင် သူတို့အား ဟယ် - အချင်းတို့ သင်တို့သည် အခြားသူတို့ယုံကြည်ကြသကဲ့သို့ ယုံကြည်ကြလော့ ဟုပြောသောအခါ သူတို့က အကျွန်ုပ်တို့သည် အရူးများကဲ့သို့ ယုံကြည်ရမည်လောဟု ဆိုကြ၏။ သူတို့သာလျှင် အရူးဖြစ်ကြသည်မဟုတ်လော။ သို့သော် သူတို့သည်မသိပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို မုစ်လင်(မ်) အသွင်ဆောင်သောသူများအား (အချင်းတို့) အခြား (မုအ်မင် များသည် စေတနာဖြူစင်စွာဖြင့်) သဒ္ဓါတရား ထားကြသကဲ့သို့ အသင်တို့သည်လည်းယုံကြည်ခြင်း သဒ္ဓါတရားထား ရှိကြပါကုန်ဟု ပြောကြားသည့်အခါ၌ ထိုသူတို့က အကျွန်ုပ်တို့သည်လည်း (အသိအလိမ္မာဉာဏ်ပညာ ကင်းမဲ့သော) လူ့ဗာလများ ထားရှိသော ယုံကြည်မှုသဒ္ဓါတရားမျိုး ထားကြရမည်လောဟု ပြန်လည် ပြောဆိုကြ၏။(အို-ကြားနာသူ အပေါင်းတို့) သတိပြုကြကုန်၊ ထိုမုစ်လင်(မ်) အသွင်ဆောင်သူများသာလျှင် မသိမိုက်မဲသော လူ့ဗာလများ ဖြစ်ကြ၏၊ သို့ရာတွင် ထိုသူတို့သည် (မိမိတို့ မိုက်မဲကြောင်းကိုပင်) မသိကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

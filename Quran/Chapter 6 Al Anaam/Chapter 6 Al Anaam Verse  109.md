@@ -710,6 +710,12 @@ I se zaklekha v Allakh s naĭ-usŭrdnite si kletvi, che ako doĭde pri tyakh z
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၀၉။	သက်သေသာဓက အံ့ဖွယ်တော်တစ်ပါးပါး ကျရောက်လာလျှင် သူတို့သည် ယုံကြည်ပါမည်ဟု အလ္လာဟ်အသျှင်မြတ်အားတိုင်တည်၍ သူတို့ ကျမ်းသစ္စာကျိန်ဆိုကြ၏။ ဟောကြားလော့။ သက်သေ သာဓကတော်များသည် အလ္လာဟ်အသျှင်မြတ်ထံတော်၌ ရှိကြ၏။ သို့သော် လက္ခဏာအံ့ဖွယ်တော်များ ကျရောက်လာသောအခါ ထိုသူတို့သည် ယုံကြည်ကြမည်မဟုတ်ကြောင်းကို သင်တို့အား မည်သည်က သိနားလည်စေမည်နည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ၎င်းတို့သည် အကယ်၍သာ ၎င်းတို့ထံသက်သေလက္ခဏာ တစ်စုံတစ်ရာ ရောက်ရှိခဲ့ ပါမူ၊ ၎င်းတို့သည်မုချ သက်ဝင်ယုံကြည်ကြမည်ဟု အလ္လာဟ်အရှင်မြတ်အား တိုင်တည်၍ အစွမ်းကုန် ကျိန်ဆိုကြလေ၏။ (အို-နဗီတမန်တော်)အသင်သည် (၎င်းတို့အား ဤသို့ပြောကြားပါလေ။ သက်သေလက္ခဏာ တို့သည် အလ္လာဟ်အရှင်မြတ် အထံတော်၌သာရှိကုန်၏။ ၎င်းပြင် အသင်တို့သိကြပါသလော။ မုချဧကန်ထိုသက်သေလက္ခဏာတော်များ ကျရောက်ရှိလာသည့် တိုင်အောင် ထိုသူတို့သည် ယုံကြည်ကြမည်မဟုတ်ပေ။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

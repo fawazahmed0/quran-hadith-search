@@ -710,6 +710,12 @@ I ne napryagaĭ ochite si s kopnezh kŭm onova ot prelestite na zemniya zhivot,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၁။	ထို့အပြင်သူတို့အနက် အချို့သောဇနီးမောင်နှံတို့အား ပေးသနားတော်မူသောလောကစည်းစိမ်တို့ကို သင်သည် မျက်စိမျက်စောင်းမျှငဲ့စောင်း၍ မကြည့်လင့်၊ အမှန်မှာငါသည် ထိုသူတို့အား ထိုစည်းစိမ်ချမ်းသာနှင့်စုံစမ်းတော် မူ၏။ သင်၏အရှင်သခင်၏ စည်းစိမ်ဥစ္စာတော်သည် သာလွန်မြင့်မြတ်၏၊ သာလွန်တည်တန့်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အသင်သည် ငါအရှင်မြတ်က ယင်း (ကာဖိရ်မိစ္ဆာဝါဒီ)တို့အနက် လူတန်းစားအမျိုးမျိုးတို့အား အကျိုးခံစားစေတော်မူခဲ့သော ဥစ္စာပစ္စည်းကို မိမိမျက်စိအစုံဖြင့် မော်၍မျှ မကြည့်ပါလေနှင့်။ (အမှန်သော်ကား) ငါအရှင်မြတ်သည်ယင်းဥစ္စာပစ္စည်းနှင့်စပ်လျဉ်း၍ ၎င်းတို့အား စမ်းသပ်တော်မူရန်သာလျှင်(အကျိုးခံစားစေတော်မူခြင်းပင်)ဖြစ်ချေသည်။စင်စစ် အသင့်အားဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်(ချီးမြှင့်တော်မူသော)စားနပ်ရိက္ခာသည်သာလျှင် အကောင်းဆုံး၊ ထို့အပြင် အကြာရှည်ဆုံး အတည်မြဲဆုံးဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

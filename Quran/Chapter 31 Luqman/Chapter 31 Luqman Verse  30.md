@@ -710,6 +710,12 @@ Taka e, zashtoto Allakh e Istinata i zashtoto vsichko, koeto zovat vmesto Nego, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	ဤသို့တန်ခိုးတော်ရှင်ဖြစ်ရခြင်းအကြောင်းရင်းကား အလ္လာဟ်အရှင်မြတ်သည် အရှင်သခင်အစစ်အမှန်ဖြစ်တော် မူ၍ အရှင်မြတ်မှတပါး မိစ္ဆာဒိဋ္ဌိတို့ကိုးကွယ်ရာတို့မှာမူကား ဘုရားအစစ်အမှန်မဟုတ်၊ အတုအပမျှသာဖြစ်သော ကြောင့်တည်း၊ အလ္လာဟ်အရှင်မြတ်သည် အတိုင်းမသိကြီးကဲမြင့်မြတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည်ကား အလ္လာဟ်အရှင်မြတ်သည်သာလျှင် အမှန်အကန်(ထာဝရတည်ရှိနေတော်မူမည်) ဖြစ်သောကြောင့်လည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ်မှတစ်ပါး၊ထိုသူတို့ဟစ်ခေါ်တမ်းတကြကုန်သော အရာများသည် အမှားပင်(ဖြစ်၍ပျက်စီးသွားကြမည်)သာ ဖြစ်သောကြောင့်လည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ်သည်သာလျှင် လွန်စွာမြင့်မြတ်တော်မူသော၊ လွန်စွာ ကြီးကဲတော်မူသောအရှင် ဖြစ်တော်မူသောကြောင့်ပင် ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

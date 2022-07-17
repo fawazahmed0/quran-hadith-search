@@ -710,6 +710,12 @@ Na vseki storikhme naslednitsi za onova, koeto sa ostavili dvamata roditeli i na
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	ငါသည် သင်တို့အား မိမိတို့၏မိဘ၊ ဆွေမျိုးရင်းချာတို့၏ အမွေစားအမွေခံဖြစ်စေတော်မူ၏။ သင်တို့ လက်အောက်ရှိ ကျွန်များအား သူတို့ရထိုက်သော ဝေစုကို ပေးကြလော့။ အလ္လာဟ်အသျှင်မြတ်သည် အရာခပ်သိမ်းကုန်တို့ကို အမြဲသိမြင်တော်မူသောအသျှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့အပြင်တဝ မိဘနှစ်ပါးသည်လည်းကောင်း၊ ဆွေမျိုးနီးစပ်တို့သည်လည်းကောင်း ထားရှိခဲ့သော အမွေပစ္စည်းများနှင့်စပ်လျဉ်း၍ အားလုံး၌ (အသီးသီး အသက အသကသော) အမွေစားအမွေခံများကို ငါအရှင်မြတ်သည် သတ်မှတ်၍ထားတော်မူခဲ့လေပြီ။ ၎င်းပြင် အသင်တို့သည် မိမိတို့ (၏ လက်ျာလက်များဖြင့်) ပဋိညာဉ်ထုံးဖွဲ့ထားသော သူတို့အားလည်း ၎င်းတို့၏ (ထိုက်သင့်သော) ဝေစုဝေပုံကို ပေးကြလေကုန်။ အလ္လာဟ်အရှင်မြတ်သည် မုချဧကန် အရာခပ်သိမ်းတို့ကို (အကြွင်းမဲ့) သိမြင်တော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

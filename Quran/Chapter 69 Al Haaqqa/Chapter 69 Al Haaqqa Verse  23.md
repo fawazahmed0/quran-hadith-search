@@ -710,6 +710,12 @@ Plodovete ĭ shte sa svedeni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။ ထိုနိဗ္ဗာန်ဥယျာဉ်တော်ရှိ အသီးခိုင်၊ အသြွီးပတ်၊ အသီးတွဲများကို လွယ်ကူစွာမှီနိုင်လိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်း"ဂျန္နတ်"သုခဘုံ၏ သစ်သီးဝလံများမှာ ညွှတ်လျက် ရှိကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

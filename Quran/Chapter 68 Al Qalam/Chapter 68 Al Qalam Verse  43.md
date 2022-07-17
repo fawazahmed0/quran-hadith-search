@@ -710,6 +710,12 @@ Sveli pogled, shte gi pokrie unizhenie, a byakha prikanvani da se poklanyat, kog
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။ ထိုနေ့တော်ကြီး၌ သူတို့သည် မျက်လုံးအောက်စိုက်၊ ဦးခေါင်းငိုက်စိုက်ဖြစ်လျက် ဖျင်းသိမ်အောက်ကျသော အယုတ်တရားက သူတို့ကို မောတွေဝေစေလတံ့၊ ထိုအယူလဲသွ ူတ့သို ည် လောကဓာတ၌် မနာမကျင်ကျန်းမာ ချမ်းသာရှိနေစဉ်အခါ ဦးညွှတ်ချရန် အမိန့်ပေးခြင်းခံကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့၏မျက်စိများသည် အောက်သို့ စိုက်လျက်ရှိပေသည်၊ ဂုဏ်ရည်သိမ်ဖျင်းမှုက ထိုသူတို့အား ဖုံးလွှမ်းလျက်ရှိပေမည်။ စင်စစ်သော်ကား ၎င်းတို့သည် ပကတိကျန်းမာစွာ ရှိနေကြစဉ်အခါ၌ "စဂျ်ဒဟ်" ပျပ်ဝပ်ဦးချရန် ဖိတ်ခေါ်ခြင်းကို ခံခဲ့ကြရကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

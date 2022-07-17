@@ -710,6 +710,12 @@ Nima pri mŭzhete khodite i debnete po pŭtishtata, i vŭrshite poritsavanoto, k
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	အကြောင်းမူကားသင်တို့သည် ယောက်ျားအချင်းချင်းမေထုံအမှုကို ပြုကြသည်မဟုတ်လော၊ သင်တို့သည် ခရီးသွားရာလမ်းကို ဖျက်ဆီးသည်မဟုတ်လော၊ သင်တို့သည် မိမိတို့အစည်းအဝေးများ၌ လွန်စွာညစ်ညမ်း ကြသည်မဟုတ်လောဟု ပြော၏၊ သို့သော်သူ၏အမျိုးသားတို့က ဤသို့သာတုံ့ပြန်ပြောဆိုကြ၏၊ သင်အမှန် ဆိုသူဖြစ်ပါလျှင် အလ္လာဟ်အရှင်မြတ်၏ အပြစ်ဒဏ်ကို အကျွနု်ပ်တို့ထံ ယူဆောင်ခဲ့လော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် ယောက်ျားများထံသို့(ကာမဂုဏ်ခံစားရန်) လာကြလေသလော။ ၎င်းပြင် အသင်တို့သည် လမ်းကို ဖြတ်တောက်ကြလေသလော။ (တစ်နည်း) အသင်တို့သည်လမ်း(တွင်) လုယက်တိုက်ခိုက်ကြလေသလော။ ထိုမှတစ်ပါးအသင်တို့သည် မိမိတို့၏စုဝေးရာ၌ စက်ဆုပ်ရွံရှာဖွယ် ကိစ္စများကို ကျူးလွန်ကြလေသလော။ ထိုအခါ လူ(တ်)၏အမျိုးသားတို့က ‘[အို-လူ(တ်)]၊ အကယ်၍ အသင်သည် သစ္စာဝါဒီတစ်ဦးဖြစ်ခဲ့ပါမူ ကျွန်ုပ်တို့ထံ အလ္လာဟ်အရှင်မြတ်၏ ပြစ်ဒဏ်ကို ဆောင်ယူခဲ့လော့’ဟု ပြောဆိုခဲ့ကြခြင်းမှတစ်ပါး အခြားမည်သည့်အဖြေမျှပင် ပေးနိုင်ခဲ့ကြသည်မရှိချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

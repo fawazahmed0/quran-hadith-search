@@ -710,6 +710,12 @@ A koĭ drug se otvrŭshtashe ot vyarata na Ibrakhim, osven onzi, koĭto e bezr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃ဝ။	မိမိကိုယ်ကိုမိမိ ယုတ်ည့ံသိမ်ဖျင်းအောင်ပြုသော သူမိုက်မှတပါး အဘယ်သူသည် တမန်တော် အီဗရာဟီမ်၏ သာသနာတော်ကို စွန့်ပစ်သနည်း။ အကယ်စင်စစ် ငါ့အရှင်သည် သူ့ကို ဤလောက ၌ ရွေးကောက်ချီးမြှင့်တော်မူ၏။ နောင်တမလွန်ဘဝ၌လည်း တရားတော်ကို စောင့်စည်း ရိုသေ သူတို့ဘောင်တွင် သူသည် အပါအဝင်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မိမိကိုယ်ကို မိမိပင် လူမိုက်လူ့ဗာလဖြစ်စေသောသူမှအပ အဘယ်သူသည် နဗီတမန်တော် အစ်ဗ်ရာဟီမ်(အ)၏ သာသနာမှ မျက်နှာလွှဲဖယ် တိမ်းရှောင် သွားနိုင်ပါမည်နည်း။ စင်စစ်တမူကား ငါအရှင်မြတ်သည် ထိုနဗီတမန်တော် အစ်ဗ်ရာဟီမ်(အ)အား ချစ်မြတ်နိုး၍ ဤလောက၌ နဗီတမန်တော်အဖြစ်ဖြင့် ရွေးချယ် ခြီးမြှင့်တော်မူခဲ့လေပြီ။ တဖန် နောင်တမလွန်ဘဝ၌လည်း ထိုနဗီတမန်တော်သည် ပါရမီရှင် သူမွန် သူမြတ်များအနက်မှ မလွဲဧကန် ဖြစ်လတ္တံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Nevernitsite shte vŭzzhelayat da sa bili myusyulmani
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	မိစ္ဆာဒိဋ္ဌိတို့သည် မိမိတို့မူစလင်(မ်)များဖြစ်ခဲ့လေလျှင် ကောင်းလေစွဟု ထင်ကောင်းထင်မှတ်ကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကာဖိရ် သွေဖည်ငြင်းပယ်သောသူများသည်အကယ်၍သာ ၎င်းတို့သည် မုစ်လင်မ်များ ဖြစ်ခဲ့ကြပါလျှင်ကောင်းလေစွတကားဟု အကြိမ်ကြိမ် အဖန်ဖန် အာသာဆန္ဒထားရှိကြကုန်အံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

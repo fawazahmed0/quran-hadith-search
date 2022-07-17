@@ -710,6 +710,12 @@ A nyakoi ot khorata kazvat: “Povyarvakhme v Allakh i v Setniya den.” Ala te 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	လူသားအနက် အချို့တို့သည် အယုံကြည်ကြပဲ အကျွန်ုပ်တို့သည် အလ္လာဟ်အရှင်မြတ်နှင့် နောက်ဆုံး နေ့ကို ယုံကြည်ကြပါသည်ဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 လူသားများအနက် အချို့သော သူတို့သည်(ဥပါယ်တမျဉ်ဖြင့်) ကျွန်ုပ်တို့သည် အလ္လာဟ်အရှင်မြတ်ကို လည်းကောင်း၊ (ရှင်ပြန်ထရမည့်) နောက်ဆုံးနေ့ကို လည်းကောင်း၊ ယုံကြည်ကြပါ ၏ဟု ပြောဆိုကြ၏။ အမှန်သော်ကားထိုသူတို့သည် ယုံကြည် သော မုအ်မင် များမဟုတ်ကြပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

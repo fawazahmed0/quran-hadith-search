@@ -710,6 +710,12 @@ I dori da vidyat otlomŭk, padasht ot nebeto, kazvat: “Skupcheni oblatsi.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	အကယ်၍ ထိုမိစ္ဆာဒိဋ္ဌိတို့သည် မိမိတို့အပေါ်သို့ အထက်ကောင်းကင်ဘုံပဲ့ကျသည်ကို မြင်ကြရလျှင် သူတို့က ကျလာသောအရာသည် တိမ်ဆိုင်တိမ်ခဲဖြစ်သည်ဟု ပြောဆိုကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အကယ်၍သာ ၎င်းတို့သည် မိုးကောင်းကင်၏ အစိတ်အပိုင်းတစ်ခုခု ကျလာသည် ကိုတွေ့မြင်ကြသည် ရှိအံ့ငြားလည်း (ဤသည်)အထပ်ထပ် ထပ်ဆင့်ထားသော မိုးတိမ်သာလျှင် ဖြစ်သည်ဟု ဆိုကြဦးပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

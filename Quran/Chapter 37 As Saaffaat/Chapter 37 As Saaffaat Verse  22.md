@@ -710,6 +710,12 @@ Sakupite nevjernike i drugare njihove i one kojima su se klanjali…
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂၊၂၃၊၂၄။ ထို့အပြင်ကောင်းကင်တမန်တော်ထံသို့ ပြစ်မှုကျူးလွန်သူခဲ့သူများ၊ သူတို့၏ ဇနီးမိန်းမများ၊ အလ္လာဟ်အရှင် မြတ်မှတပါး သူတို့ကိုးကွယ်ခဲ့သောဘုရားတုဘုရားယောင်များအားလုံးကို စုရုံး၍ ငရဲလမ်းကို ညွှန်ပြကြလော့၊ သူတို့ကို စစ်ကြောစီရင်ဖို့ရာ ရပ်တန့်၍ ထားကြလော့ဟု ဗျာဒိတ်တော်လာ၏၊
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ အလ္လာဟ်အရှင်မြတ်သည် ကောင်းကင်တမန်များအား မိန့်ကြားတော်မူပေမည်)။ အသင်တို့သည်(မိမိတို့ကိုယ်ကို)နှိပ်စက်ကလူပြုခဲ့ကြသော သူတို့အားလည်းကောင်း၊ ထိုသူတို့နှင့် ဝါဒတူဖြစ်ကြသော အဖော်အဖက်တို့အားလည်းကောင်း၊ ထိုသူတို့ ဆည်းကပ်ကိုးကွယ်ခဲ့ကြသည်တို့အားလည်းကောင်း၊ စုရုံးကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

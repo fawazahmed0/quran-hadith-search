@@ -710,6 +710,12 @@ Blagosloven e Onzi, Koĭto stori sŭzvezdiya na nebeto i stori tam svetilo i si
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၁။	အထက်ကောင်းကင်ဘုံ၌ ကြယ်နက္ခတ်တာရာစုအရှိန် ထွန်းလင်းတောက်ပသောနေနှင့်လတို့ကို ဖန်ဆင်းထား တော်မူသောအရှင်မြတ်သည် ကောင်းကြီးမင်္ဂလာအဖြာဖြာနှင့်ပြည့်စုံတော်မူပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်အရှင်မြတ်သည် ‘ဗရ်ကသ်’ မင်္ဂလာနှင့် အလွန်ပြည့်စုံတော်မူ၏။ ထိုအရှင်မြတ်သည် မိုးကောင်းကင်၌ ဆယ့်နှစ်ရာသီအင်သာစက်များကို ဂြိုဟ်နက္ခတ်များကို ပြုလုပ်တော်မူခဲ့၏။ ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် ယင်းမိုးကောင်းကင်၌ ဆီးမီးတစ်ခုကိုလည်းကောင်း၊ လင်းဝင်းတောက်ပသော လစန္ဒာကိုလည်းကောင်း၊ ပြုလုပ်ဖန်ဆင်းတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

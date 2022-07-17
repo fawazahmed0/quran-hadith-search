@@ -710,6 +710,12 @@ V [razkaza za] Yusuf i negovite bratya ima znameniya za pitashtite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	တမန်တော်၊ ယူစွတ်(ဖ်)နှင့် သူ၏ နောင်တော်များ၌ သုတေသနရှာမှီးသူတို့အဖို့အရာ အလ္လာဟ်အရှင်မြတ်သည် အချုပ်အခြာအာဏာကို ပိုင်သတော်မူခြင်းကို ပြသောသက်သေခံချက်များပါရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ (နဗီတမန်တော်)ယူဆွဖ်နှင့် ထို (နဗီတမန်တော်)ယူဆွဖ်၏နောင်တော်တို့(၏အကြောင်း အတ္ထုပ္ပတ္တိ)တွင်(အမှန်တရားနှင့် ဉာဏ်ပညာကိုလိုလား၍ ရှာဖွေစူးစမ်း)မေးမြန်းသူတို့အဖို့(များစွာသော) သက်သေလက္ခဏာရပ်များရှိချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

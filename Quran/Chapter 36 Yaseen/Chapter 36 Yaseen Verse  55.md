@@ -710,6 +710,12 @@ Obitatelite na Raya Dnes shte sa zaeti s nasladi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။ အကယ်စင်စစ်နိဗ္ဗာန်ဥယျာဉ်တော်ကို ဝင်ရသူသည် ထိုနေ့တော်ကြီး၌ မိမိတို့ပြုလုပ်သမျှတွင် မြူးတူးပျော်ရွှင် ကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ "ဂျန္နတ်" သုခဘုံသားတို့သည် ယနေ့(မိမိတို့၏)အရေးကိစ္စများမှ မွေ့လျော် ရွှင်ပျော်လျက် ရှိကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

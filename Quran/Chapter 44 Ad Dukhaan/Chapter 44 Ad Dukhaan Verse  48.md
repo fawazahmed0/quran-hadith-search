@@ -710,6 +710,12 @@ Posle izleĭte vŭrkhu glavata mu ot mŭchenieto na vryashtata voda
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	ထို့နောက်သူ၏ ဦးခေါင်းထိပ်ထက် ပွက်ပွက်ဆူသောရေပူကို လောင်းချလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် အသင်တို့သည် ၎င်း၏ဦးခေါင်း ထက်ဝယ် ပွက်ပွက်ဆူနေသော ရေနွေးပူ၏ပြစ်ဒဏ်ကို သွန်းလောင်းကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

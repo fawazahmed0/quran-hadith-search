@@ -710,6 +710,12 @@ O, vyarvashti, bŭdete tŭrpelivi i nadvivaĭte s tŭrpenie, i bŭdete tvŭrdi,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝဝ။	အို-ယုံကြည်သူတို့ ခန္တီပါရမီဖြည့်ကြလော့။ သည်းခံခြင်း၌ သူများထက်သာကြလော့။ ယုံကြည်ခြင်း၌ ခိုင်မြဲကြလော့။ အလ္လာဟ်အသျှင်မြတ်၏အမှုတော်ကို ကြေကုန်အောင် ထမ်းဆောင်ကြလော့။ သို့မှသာလျှင် သင်တို့သည် အောင်ဆုပန်းကို ဆွတ်ခူးကြရမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-သက်ဝင်ယုံကြည်သူ အပေါင်းတို့၊ အသင်တို့သည် (ဒုက္ခတွေ့ကြုံလျှင်) သည်းခံကြလေကုန်။ ၎င်းပြင်(ရန်သူတို့နှင့်) ပြိုင်ဆိုင် တိုက်ခိုက်ရာတွင်လည်း တည်တံ့ ခိုင်မြဲစွာ ရှိကြလေကုန်။ ၎င်းပြင် အသင်တို့သည် (ရန်သူတို့အား ခုခံကာကွယ်ရန်) အဆင်သင့် ရှိကြလေကုန်။ ထို့ပြင်တဝအသင်တို့သည် (အခါခပ်သိမ်း) အလ္လာဟ်အရှင်မြတ်အားကြောက်ရွံ့ ခန့်ညား ကြလေကုန်။ သို့မှသာလျှင် အသင်တို့သည် အောင်မြင်ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

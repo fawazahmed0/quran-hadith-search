@@ -710,6 +710,12 @@ I vmesto na Allakh te sluzhat na onezi, koito ne vladeyat za tyakh nikakvo prepi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၃။	ထို့အပြင် သူတို့သည် အလ္လာဟ်မှတပါး မိမိတို့အတွက် မိုးကောင်းကင်မှသော်လည်းကောင်း၊ ကမ္ဘာမြေကြီး မှသော်လည်းကောင်း၊ အစားအစာတစုံတခုမျှ မပေးနိုင်သောအရာများကို ကိုးကွယ်ကြ၏။ သူတို့ကိုးကွယ်သော ဘုရားတုများ၌ တန်ခိုးအာဏာတစုံတရာမျှမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ်မှ တစ်ပါး အကြင်ကဲ့သို့သောအရာများကို ဆည်းကပ်ကိုးကွယ်ကြမည်။အရာများသည် ၎င်းတို့အား မိုးကောင်းကင်များမှလည်းကောင်း၊ ပထဝီမြေမှလည်းကောင်း၊ ရိက္ခာပို့ဆောင်ခြင်းတစ်စုံတစ်ရာကိုမျှပြုနိုင်ခွင့်လည်းမရှိချေ။ ပြုနိုင်စွမ်းလည်းမရှိကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

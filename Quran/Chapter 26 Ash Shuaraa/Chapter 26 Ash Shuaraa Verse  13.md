@@ -710,6 +710,12 @@ i sŭrtseto mi shte se svie, i ezikŭt mi ne shte se razvŭrzhe. Daĭ [proroche
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	အကျွန်ုပ်သည် စိတ်ကျပ်တည်းလှပါမည်၊ အကျွနု်ပ်၏ နှုတ်လျှာသည် ပြေလည်အောင်စကားချေတင်ပြောဆိုခြင်း မှာ စွမ်းနိုင်မဟုတ်ပါ၊ ထို့ကြောင့်အကျွနု်ပ်အစ်ကိုဟာရွန်ကို အကျွနု်ပ်အား ကူညီဖို့ရာ ထည့်တော်မူပါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ကျွန်တော်မျိုးသည် စိတ်ကျဉ်းကျပ်သည့်ပြင် ကျွန်တော်မျိုး၏လျှာမှာလည်း သွက်လက်ခြင်းမရှိပါ။ သို့ဖြစ်ပါ၍ အရှင်မြတ်သည်(ကျွန်တော်မျိုး၏နောင်တော်) ဟာရူန်၏ထံသို့လည်း(ဝဟ်ယ်)အမိန့် တော်ပို့သတော်မူပါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

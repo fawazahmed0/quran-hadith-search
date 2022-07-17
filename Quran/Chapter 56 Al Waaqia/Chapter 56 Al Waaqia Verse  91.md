@@ -710,6 +710,12 @@ togava [shte mu se kazhe]: “Mir na teb, zashtoto si ot onezi otdyasno!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၁။	လက်ယာဘက်တော်သားတို့က သူ့အား အဆွေ၊ သင့်ထံသို့ အေးချမ်းသာယာခြင်းကျရောက်ပါစေသောဝ်ဟူ၍ ဆုတောင်းမေတ္တာပို့ကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်လျှင် (အသင်သည်) လက်ယာဘက်သားတို့တွင် ပါဝင်သောကြောင့် အသင့်အဖို့ ငြိမ်းချမ်းမှုသည် ရှိပေမည်(ဟု သတင်းပြောကြားခြင်းကို ခံရပေမည်။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

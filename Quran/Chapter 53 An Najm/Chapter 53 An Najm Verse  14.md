@@ -710,6 +710,12 @@ do lotosovoto dŭrvo na kraĭniya predel
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	အလွန်ဝေးကွာသောဆီးပင်ပျိုအနီး၌ ယင်းသို့တွေ့မြင်ရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 နယ်စွန်နယ်ဖျား၌ရှိသော ဆီးပင် ‘စစ်ဒ်ရတုလ်မွန်တဟာ’ ဆီးပင်၏အနီးတွင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

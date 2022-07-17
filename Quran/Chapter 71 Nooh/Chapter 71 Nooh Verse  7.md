@@ -710,6 +710,12 @@ I vsyakoga, shtom gi zovyakh, za da gi oprostish, zapushvakha s prŭsti ushite s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။ ထို့အပြင် အရှင်သည် သူတို့၏အပြစ်များကို လွှတ်တော်မူစိမ့်သောငှာ အကျွနု်ပ် သူတို့အား ခေါ်သည့်အခါတိုင်း သူတို့သည် မိမိတို့နားများကို လက်ချောင်းများသွင်းကြပါ၏၊ မိမိတို့တစ်ကိုယ်လုံးကို မိမိအဝတ်များနှင့် ဖုံးကွယ်ထားကြပါ၏၊ တရားတော်ကို ဆက်လက်ငြင်းပယ်လျက် မာနထောင်လွှားကြပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အရှင်မြတ်သည် ၎င်းတို့အား ခွင့်လွှတ်တော်မူအံ့သောငှာ မည်သည့်အခါမျိုးမဆို ကျွန်တော်မျိုးသည် ၎င်းတို့အား ဖိတ်ခေါ်ခဲ့ပါလျှင် ၎င်းတို့သည် မိမိတို့၏လက်ချောင်းများကို မိမိတို့နားများ၌ ထည့်သွင်းထားခဲ့ကြပါ၏။ ထို့ပြင် ၎င်းတို့သည် မိမိတို့၏အဝတ်များကို (မိမိတို့ကိုယ်များပေါ်၌) လွှမ်းခြုံ ဖုံးအုပ်ထားခဲ့ကြပါ၏။ ထို့ပြင် ၎င်းတို့သည် (မိမိတို့၏ သွေဖည်ငြင်းပယ်မှုပေါ်၌) ဇွတ်မှိတ်၍သာ နေခဲ့ကြသည့်ပြင် လွန်စွာ မာန်မာန ထောင်လွှားခြင်းကိုလည်း ပြုခဲ့ကြပါ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kaza: “Moyat Gospod naĭ-dobre znae kakvo pravite.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈၈။	တမန်တော်က အကျွနု်ပ်၏အသက်သခင်ကျေးဇူးရှင်သည် သင်တို့ပြုကျင့်သမျှကို အသိဆုံးဖြစ်တော်မူ၏ဟု ဟောပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုရှုအိုက်ဗ်က ငါ့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် အသင်တို့ ပြုမူကြသည်ကို ကောင်းစွာသိရှိတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူကြောင်း ပြောကြားခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kazhi: “Toĭ e Vsemilostiviya. Vyarvame v Nego i na Nego se upovavame. I shte
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။ အို-တမန်တော်၊ ဟောပြောလော့၊ အရှင်မြတ်သည် မဟာကရုဏာတော်အရှင်ဖြစ်တော်မူ၏၊ အကျွနု်ပ်တို့သည် အရှင်မြတ်အားသာလျှင် ယုံကြည်ကြ၏၊ အရှင်မြတ်အားသာလျှင် ကိုးစားကြ၏၊ အဘယ်သူတို့သည် ထင်ရှား သောအမှားတွင် တည်ရှိသည်ကို သင်တို့ကာလမကြာမြင့်မီ သိကြရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ပြောကြားပါလေ။ (အချင်းတို့)ထိုအရှင်မြတ်သည်ပင် "ရဟ်မာန်" မဟာကရုဏာတော်ရှင်ဖြစ်တော်မူ၏။ ထိုအရှင်မြတ်အားသာလျှင် ငါတို့သည် သက်ဝင် ယုံကြည်ကြကုန်၏။ ၄င်းပြင် ထိုအရှင်မြတ်အပေါ်၌သာလျှင် ငါတို့သည် ယုံကြည်လွှဲအပ်ကြကုန်၏။ စင်စစ်သော်ကား မည်သူသည် ထင်ရှားစွာသော လမ်းမှန်၌ ရှိနေသည်ကို မကြာမြင့်မီပင် အသင်တို့ သိရှိကြရပေတော့မည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

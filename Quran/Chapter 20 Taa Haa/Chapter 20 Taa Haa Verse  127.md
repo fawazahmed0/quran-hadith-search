@@ -710,6 +710,12 @@ I taka nakazvame vseki, koĭto prestŭpva i ne vyarva v znameniyata na svoya Go
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၇။	ငါသည် ဒုစရိုက်မှုကို ကျူးလွန်ပွားများ၍ မိမိ၏အရှင်သခင်ချပေးသနားတော်မူသောနှုတ်ကပတ်တော်များကို မယုံကြည်သောသူအား ယင်းကဲ့သို့ဆုံးမစီရင်တော်မူ၏၊ စင်စစ်အားဖြင့် နောင်တမလွန်ဘဝ၏ အပြစ်ဒဏ်သည် သာလွန်ခက်ထန်လတ္တံ့၊ ကြာရှည်လတ္တံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ဤအတိုင်းပင် ငါအရှင်မြတ်သည် အကြင်သူအား အစားပေးတော်မူပေမည်။ ထိုသူသည်စည်းမဲ့ကမ်းမဲ့ ပြုလုပ်ခဲ့ပေသည်။ ၎င်းပြင် ထိုသူသည် မိမိအားဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏သက်သေသာဓကများကိုလည်း မယုံကြည်ခဲ့ချေ။ စင်စစ်ဧကန်တမလွန်ဘဝ၏ ပြစ်ဒဏ်သည်ကား ပိုမို၍ပင်ပြင်းထန်လှ၏။၎င်းပြင် ပိုမို၍ပင် တည်မြဲလှပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

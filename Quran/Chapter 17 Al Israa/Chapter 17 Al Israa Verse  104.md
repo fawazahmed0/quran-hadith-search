@@ -710,6 +710,12 @@ I rekokhme sled nego na sinovete na Israil: “Obitavaĭte zemyata i kogato nas
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၄။	သူသေလွန်ပြီးသည်နောက် ငါအရှင်မြတ်သည် အစ္စရာအီလ်အမျိုးသားတို့အား သင်တို့သည် ဤပြည်တွင် နေထိုင်ကြလော့။ သို့သော်နောင်ဘဝနှင့်သက်ဆိုင်သောကတိတော်အတိုင်း ဖြစ်ပေါ်လာသောအခါ ငါသည် သင်တို့အား လူအမျိုးမျိုးထဲမှ ထုတ်နှုတ်စုရုံးစေတော်မူမည်ဟု ဗျာဒိတ်ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ငါအရှင်မြတ်သည် ယင်း(ကဲ့သို့ နှစ်မြှုပ်တော်မူပြီး)နောက်တွင် အစ္စရာအီလီမျိုးနွယ်တို့အား အသင်တို့သည် ဤကမ္ဘာမြေဝယ်(မိမိ ကြိုက်နှစ်သက်ရာနေရာ ၌)နေထိုင်မှီတင်းကြလေကုန်။ တစ်ဖန် နောက်ဆုံးနေ့နှင့်စပ်လျဉ်း၍ ချိန်းချက်ထားသော အချိန်ကာလရောက်ရှိလာသောအခါ၊ ငါအရှင်မြတ်သည် အသင်တို့ (အားလုံး)ကိုစုပေါင်းကာခေါ် ယူတော်မူအံ့ဟု မိန့်ကြားတော်မူခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

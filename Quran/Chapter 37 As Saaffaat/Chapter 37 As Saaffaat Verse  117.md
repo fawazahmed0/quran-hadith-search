@@ -710,6 +710,12 @@ I dadokhme na dvamata razyasnyavashtoto Pisanie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၇။	ထို့အပြင်ငါသည် သူတို့နှစ်ပါးအား အလွန်ကျော်စောထင်ရှားသောကျမ်းတော်ကို ထုတ်ပြန်ပေးသနားူတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ငါအရှင်မြတ်သည် ထိုမူစာနှင့်ဟာရူန်နှစ်ဦးစလုံးကို ရှင်းလင်းပြတ်သားသော(တောင်ရာတ်) ကျမ်းဂန်ကို ချီးမြှင့်ပေးသနားတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

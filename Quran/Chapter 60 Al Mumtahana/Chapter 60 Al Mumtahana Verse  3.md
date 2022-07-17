@@ -710,6 +710,12 @@ Ne shte vi pomognat nito vashite rodninstva, nito vashite detsa v Denya na vŭzk
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။ ပြန်ရှင်ရသောနေ့တော်ကြီး၌ သင်တို့၏ ဆွေမျိုးသားချင်းများနှင့် သားသမီးတို့က သင်တို့အား ကယ်နှုတ်နိုင်မည် မဟုတ်၊ အရှင်မြတ်သည် သင်တို့အား ခွဲတော်မူလတံ့၊ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့ပြုကျင့်သမျှကို အကြွင်းမဲ့မြင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့၏ ဆွေမျိုးနီးစပ်မှုတို့သည် လည်းကောင်း၊ အသင်တို့၏ သားသမီးတို့သည် လည်းကောင်း၊’ကိယာမတ်’ ရှင်ပြန်ထမည့်နေ့တွင် အသင်တို့အား အလျှင်း အကျိုးပေးကြမည်မဟုတ်ပေ။ ထိုအရှင်မြတ်သည် အသင်တို့၏အကြား၌ စီရင်ဆုံးဖြတ်တော်မူမည်ဖြစ်၏။ အမှန်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့ ကျင့်မူသမျှတို့ကို အကြွင်းမဲ့ သိမြင်တော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

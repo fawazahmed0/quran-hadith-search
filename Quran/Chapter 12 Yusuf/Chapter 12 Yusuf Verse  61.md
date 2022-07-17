@@ -710,6 +710,12 @@ Rekokha: “Shte nastoyavame za nego pred bashta mu. Naistina shte go napravim.�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၁။	သူတို့က အကျွနု်ပ်တို့သည် မိမိတို့ညီငယ်ကို သူ၏ ဖခင်ထံမှ ရရှိအောင် ကြိုးစားပါမည်။ အမှန်ပင်ကြိုးစား ပါမည်ဟု ပြန်ပြောကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ၎င်းတို့က ဧကန်စင်စစ် ကျွန်ုပ်တို့သည် ထိုညီတော်အား ၎င်း၏ခမည်းတော်ထံ တောင်းခံကြပါမည်။ ကျွန်ုပ်တို့သည် ဧကန်မလွဲ (ဤအတိုင်းပင်)ပြုလုပ်ကြပါမည်ဟု ပြောဆိုဖြေကြားခဲ့ကြလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

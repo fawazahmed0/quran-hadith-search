@@ -710,6 +710,12 @@ reche: “Gospodi moĭ, ot·slabnakha kostite mi i plamnakha beli kosi po glava
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	အို-အကျွနု်ပ်၏ အရှင်သခင်၊ အကျွနု်ပ်၏ အရိုးအဆက်များသည် ခွန်အားနည်းပါးပါ၏။ အကျွနု်ပ်၏ ဦးခေါင်း သည်လည်း ဆွတ်ဆွတ်ဖြူသောဆံနှင့် တောက်ပြောင်လျက်ရှိပါ၏။ အို-ကျေးဇူးတော်သခင် အရှင်သည် အကျွနု်ပ်၏ တောင်းသောဆုကို ပေတော်မမူသည်ဟူ၍ မရှိဘူးပါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (တစ်ဖန်)ယင်းဇကရီယာသည်(ဤသို့) လျှောက်ထားပန်ကြားခဲ့လေသည်။ အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ ဧကန်စင်စစ် ကျွန်တော်မျိုး၏အရိုးများမှာ အားအင်ချည့်နဲ့၍နေပါပြီ။ ၎င်းပြင် (ကျွန်တော်မျိုး၏)ဦးခေါင်းမှာလည်း ဆံဖြူများကြောင့် (ဖြူဖွေး)တောက်ပလျက်ရှိနေပါပြီ။ အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၊ စင်စစ် ကျွန်တော်မျိုးသည် အရှင်မြတ်အားဟစ်ခေါ်တမ်းတ လျှောက်ထားပန်ကြားမှုကြောင့် မည်သည့်အခါကမျှ အလိုဆန္ဒ မပြည့်ဝသူ မဖြစ်ခဲ့ဘူးပါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

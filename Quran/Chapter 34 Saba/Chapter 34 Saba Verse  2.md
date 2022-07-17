@@ -710,6 +710,12 @@ Znae Toĭ kakvo pronikva v zemyata i kakvo izliza ot neya, i kakvo se spuska ot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	အရှင်မြတ်သည် မြေထဲသို့ ဝင်သွားသောအရာဝထ္ထုများ၊ မြေမှ ထွက်ပေါ်လာသောအရာဝထ္ထုများ၊ အထက် ကောင်းကင်ဘုံမှ သက်သောအရာဝထ္ထုများ၊ ကောင်းကင်ဘုံမှ တက်သောအရာဝထ္ထုများကို သိတော်မူ၏၊ စင်စစ်အားဖြင့်အရှင်မြတ်သည် အနန္တကောင်းကြီးမင်္ဂလာတော်သခင်၊ အပြစ်လွှတ်တော်မူထသောအရှင်ဖြစ်တော် မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် ပထဝီမြေအတွင်းသို့ ဝင်သောအရာများကိုလည်းကောင်း၊ ယင်းပထဝီမြေ အတွင်းမှထွက်သောအရာများကို လည်းကောင်း၊ မိုးကောင်းကင်မှ သက်ဆင်းသောအရာများကိုလည်းကောင်း၊ ယင်းမိုးကောင်းကင်သို့တက်သွားသော အရာများကိုလည်းကောင်း၊ (အလုံးစုံတို့ကို)ကောင်း မွန်စွာ သိရှိတော်မူ၏။ ၎င်းပြင် ထိုအရှင်မြတ်သည်အလွန်တရာ သနားကြင်နာတော်မူသောအရှင်၊ အလွန်တရာခွင့်လွှတ် ချမ်းသာပေးတော်မူသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

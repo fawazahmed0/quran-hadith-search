@@ -710,6 +710,12 @@ I vŭzdigna Toĭ nebeto, i polozhi veznite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	အရှင်မြတ်သည် မိုးကောင်းကင်ကို မြင့်စွာဖန်ဆင်းတော်မူ၏၊ အတိုင်းအထွာစည်းချိန်ကိုလည်း ဖန်ဆင်းတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မိုးကောင်းကင်များကို ထိုအရှင်မြတ်သည်ပင် မြင့်စွင့်စေတော်မူခဲ့၏။ ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည်ပင် ချိန်ခွင်ကို တီထွင်စီစဉ်၍ ပေးတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

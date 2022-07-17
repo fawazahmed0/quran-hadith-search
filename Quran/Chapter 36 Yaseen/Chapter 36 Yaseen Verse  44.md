@@ -710,6 +710,12 @@ osven po milost ot Nas i za vremenna naslada
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃၊၄၄။	အကယ်၍ငါသည် အလိုတော်ရှိက သူတို့ကို ရေတွင် နစ်မြုပ်နစ်မွန်းစေနိုင်၏၊ ထိုအခါသူတို့၏ မြည်တမ်းငိုကြွေး ခြင်းကို ကြားမည့်သူ၊ သူတို့ကို ကယ်ဆယ်စောင်မမည့်သူဟူ၍ တစ်ဦးတစ်ယောက်မျှရှိမည်မဟုတ်ချေ၊ ငါ၏ ဂရုဏာတော်မှတပါး သူတို့ကို မည်သူမျှ ဤရေဘေးမှ မကယ်နှုတ်နိုင်ချေ၊ သူတို့အား သတ်မှတ်ပိုင်းခြားထား တော်မူသောရက်တိုင်အောင် လောကီစည်းစိမ်ကို ခံစားစေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (စင်စစ်) ငါအရှင်မြတ်သည် မိမိကရုဏာတော်အားဖြင့်လည်းကောင်း၊ သတ်မှတ်ပြီးဖြစ်သောအချိန် ကာလတိုင်အောင် အကျိုးခံစားစေခြင်းအားဖြင့်လည်းကောင်း၊ (ကယ်တင်ထားတော်မူခြင်းသာလျှင်) ဖြစ်ပေသတည်း။ (တစ်နည်း)သို့ရာတွင် (ဤသည်)ငါအရှင်မြတ်၏ ကရုဏာတော်ပင်ဖြစ်၏။ ထိုမှတစ်ပါး (၎င်းတို့အား) သတ်မှတ်ပြီးဖြစ်သော အချိန်ကာလတိုင်အောင် အကျိုးခံစားစေခြင်းလည်းဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

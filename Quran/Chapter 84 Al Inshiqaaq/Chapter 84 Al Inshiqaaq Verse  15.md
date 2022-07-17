@@ -710,6 +710,12 @@ Da, negoviyat Gospod be nad nego zryasht
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။ ထိုလူဆိုး၏ ထင်မြင်ချက်သည် မှားပေစွ၊ သူ၏ အရှင်သခင်သည် သူ့ကို အမြဲတစေစောင့်ကြည့်နေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အဘယ်မှာလျှင် မဟုတ်ပါသနည်း၊ ဧကန်မလွဲ ၎င်း၏အရှင်မြတ်သည် ၎င်းအား ကောင်းစွာ ရှုမြင်လျက်ပင် ရှိတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

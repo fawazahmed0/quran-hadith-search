@@ -710,6 +710,12 @@ I Musa izpratikhme s Nashite znameniya i s yaven dovod
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃၊၂၄။	လွန်လေပြီးသောအခါဝယ် ငါအရှင်မြတ်သည် တမန်တော်(မူစာ)ကို မုချဧကန်ငါ့ကျမ်းတော်နှင့်တကွ ထင်ရှား ခိုင်မာသောအမိန့်တော်ကို ပေးသနားတော်မူပြီးလျှင် ဖွာရော၊ ဟာမန်နှင့် ကိုရာဟ်တို့ထံ စေလွှတ်တော်မူ၏၊ သူတို့သည် တမန်တော်အား မုသားဆိုသူမျက်လှည့်ဆရာဟု ပုတ်ခတ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် မလွဲဧကန် ငါအရှင်မြတ်သည် မူစာအား ငါအရှင်မြတ်၏ အမိန့်ပညတ်တော်များအပြင် ထင်ရှားစွာသော သက်သေလက္ခဏာတော်နှင့်တကွ စေလွှတ်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

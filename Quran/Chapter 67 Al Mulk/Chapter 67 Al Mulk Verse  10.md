@@ -710,6 +710,12 @@ I shte kazhat: “Ako se byakhme vslushali ili razmislili, nyamashe da sme sred 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၀။ သူတို့က အကျွနု်ပ်တို့သည် တမန်တော်ကို နာခံခဲ့ပါသော်လည်းကောင်း၊ အသိဉာဏ်ရှိခဲ့ပါလျှင်သော်လည်း ကောင်း၊ အကျွနု်ပ်တို့သည် မီးတောက်မီးလျှံများအတွင်း နေရသူများမဖြစ်ချေဟု ဆက်လက်ပြောဆိုကြသည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့က အကယ်၍သာ ကျွန်ုပ်တို့သည် နားထောင်ခဲ့ကြပါလျှင် သို့တည်းမဟုတ် ကျွန်ုပ်တို့သည် နားလည်ခဲ့ကြပါလျှင် ကျွန်ုပ်တို့သည် ငရဲသားများ ဖြစ်ကြမည်မဟုတ်ဟု ပြောဆိုကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Nyakoi khora tŭrsekha ubezhishte pri nyakoi dzhinove, a [khorata] im nadbavikha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။ စင်စစ်အားဖြင့် လူသားတို့အနက် အချို့တို့သည် ဂျင်နတ်သားအချို့တို့တွင် ခိုလှုံကြ၏၊ သို့သော်ထိုနတ်သားတို့သည် ထိုလူသားတို့၏ ထောင်ထားခြားနားခြင်းကို များပြားစေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အမှန်စင်စစ် လူသားအချို့တို့သည် ဂျင်န်အချို့တို့၏ထံတွင် ခိုလှုံလေ့ရှိခဲ့ကြပေရာ ထိုလူသားတို့သည် ၎င်းဂျင်န်များ၏ပုန်ကန်မှုကို ပိုကဲ စေခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

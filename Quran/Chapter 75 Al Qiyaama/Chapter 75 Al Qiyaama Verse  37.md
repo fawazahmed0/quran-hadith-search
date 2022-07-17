@@ -710,6 +710,12 @@ Nima chovek smyata, che shte bŭde ostaven bez nadzor
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။ စင်စစ်မူကား လူသားသည် ပန်းထွက်လာသောကလကရေကြည်ပေါက်ကလေးမဟုတ်ခဲ့သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်း မှာ သွန်းလောင်းခြင်းခံရသော သုတ်ရည်တစ်စက်သာလျှင် ဖြစ်ခဲ့သည်မဟုတ်လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

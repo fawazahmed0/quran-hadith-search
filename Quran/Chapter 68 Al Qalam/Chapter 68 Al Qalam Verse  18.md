@@ -710,6 +710,12 @@ I da ne pravyat izklyuchenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။ သို့သော် အရှင်မြတ်အလိုတော်ရှိပါလျှင် အနက်ရှိသော(အင်ရှာအလ္လာဟ်)ဟူသောဂါထာကို သူတို့ရွတ်ဖတ်ခြင်း မပြုကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ၎င်းတို့သည် (ယင်းသို့ကျိန်ဆိုရာ၌)"အင်န်ရှာအလ္လာဟ်" "အလ္လာဟ်အရှင်မြတ်အလိုတော် ရှိတော်မူပါလျှင်" ဟူ၍ ခြွင်းချက်ထားရှိခြင်း မပြုခဲ့ကြပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

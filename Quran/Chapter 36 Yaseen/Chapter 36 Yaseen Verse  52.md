@@ -710,6 +710,12 @@ Shte rekat: “O, gorko ni! Koĭ ni vŭzkresi ot nashite grobove?” [Shte im s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၂။	ထိုအခါသူတို့ညည်းညူမြည်တမ်းကြမည်မှာ ငါတို့သည် ပျက်စီးဆုံးရှုံးခြင်းသို့ ရောက်လေစွ၊ ငါတို့ကို ငြိမ်သက်စွာ အိပ်နေရာမှ အဘယ်သူသည် ထစေပါသနည်း၊ အသံတစ်ခုက ပြန်ပြောသည်မှာ ဤဟာသည် မဟာဂရုဏာ တော်ရှင်အလ္လာဟ်အရှင်မြတ်ကတိသစ္စာထားတော်မူသောရှင်ပြန်ထမြောက်ခြင်းပေတည်း၊ တမန်တော်တို့၏ ဟောပြောချက်သည် မှန်ပေစွ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့က "ဪ-ငါတို့သည် အကျိုးနည်း ကြရလေခြင်း။ မည်သူသည် ငါတို့အား ငါတို့၏အိပ်ရာမှ ထစေသတည်း" ဟု ပြောဆိုညည်းညူကြပေမည်။ (ထိုအခါ "မလာအိကဟ်" ကောင်းကင်တမန်များက ဖြေကြားကြပေမည်။) ဤသည် "ရဟ်မာန်" အနန္တကရုဏာတော်ရှင် ချိန်းချက်ထားတော်မူခဲ့သော ချိန်းချက်ပင်ဖြစ်၏။ စင်စစ် ရစူလ်တမန်တော်များသည် မှန်ကန်စွာ ပြောကြားခဲ့ကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

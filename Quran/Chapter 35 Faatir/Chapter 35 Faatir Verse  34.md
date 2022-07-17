@@ -710,6 +710,12 @@ I shte kazhat: “Slava na Allakh, Koĭto premakhna ot nas skrŭbta! Nashiyat G
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။ ထိုသူတို့သည် နိဗ္ဗာန်ရွှေဘုံ၌ ဥဒါန်းကျူးရင့်ကြသည်မှာ ပူပန်သောကစိတ်ဒုက္ခအပေါင်းတို့ကို အကျွန်ုပ်ထံမှ ဖယ်ရှားတော်မူသောအလ္လာဟ်အရှင်မြတ်သည် အ့ံချီးမဆုံးဖြစ်တော်မူ၏၊ စင်စစ်အားဖြင့်အကျွနု်ပ်တို့၏ ကျေးဇူး တော်သခင်သည် အဖန်တလဲလဲအပြစ်လွှတ်တော်မူသောအရှင်၊ အတိုင်းထက်အလွန်ရက်ရောပေးကမ်းစွန့်ကြဲ မူထသောသခင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့သည်(ဤသို့)ပြောဆိုကြပေမည်။ ချီးမွမ်းခြင်း ထောပနာအပေါင်းတို့သည် ကျွန်တော်မျိုးတို့မှ ပူပင်သောကကို ပပျောက်စေတော်မူသော အလ္လာဟ်၏အရှင် မြတ်နှင့်သာသက်ဆိုင်၏။ မလွဲဧကန် ကျွန်တော်မျိုးတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် အလွန်တရာ ခွင့်လွှတ်တော်မူသောအရှင်၊ အလွန်တရာ ရက်ရောစွာကျေးဇူးတုံ့ပြန်တော်မူသော အရှင်အမှန်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

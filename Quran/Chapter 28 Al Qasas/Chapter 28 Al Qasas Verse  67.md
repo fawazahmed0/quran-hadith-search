@@ -710,6 +710,12 @@ A koĭto se pokae i povyarva, i vŭrshi pravedni dela, toĭ shte bŭde ot spol
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၇။	သို့သော်အကြင်သူသည် မိမိအပြစ်ကို နောင်တရအ့ံ၊ ဘုရားတရားကို ယုံကြည်အ့ံ၊ အမှန်ကို ပြုအ့ံ၊ ထိုသူသည် အောင်မြင်သူများအထဲမှ ဖြစ်ကောင်းဖြစ်လိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် မည်သို့ပင်ဖြစ်စေ၊ အကြင်သူသည် ဝန်ချတောင်းပန်ပြီးနောက် ‘အီမာန်’ သက်ဝင်ယုံကြည်ခဲ့သည်ရှိသော်၊ ကောင်းမြတ်သော အကျင့်သီလများကို ကျင့်မူဆောက်တည်ခဲ့သည်ရှိသော် ထိုသူသည် အောင်မြင်မှုကို ရရှိကြကုန်သောသူတို့တွင် အပါအဝင်ဖြစ်နိုင်ရန် မျှော်လင့်ရာချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kogato vidyat obeshtanoto im, shte nauchat koĭ ima po-slabi i po-malobroĭni 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။ နောက်ဆုံးစွန်၌ သူတို့အား ကတိထားတော်မူသောတရားစီရင်တော်မူသည့်နေ့တော်ကြီး၌ မျက်ဝါးထင်ထင် မြင်ရသည့်တိုင်အောင် သူတို့သည် ယုံမှားသံသယရှိကြလိမ့်မည်၊ သို့သော်မည်သည့်အကူအညီသည် ခွန်အား အနည်းဆုံးဖြစ်ကြောင်းတို့ကို သူတို့သိမြင်ကြရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 နောင်တွင် ၎င်းတို့သည် မိမိတို့ ချိန်းဆိုခြင်းခံကြရသည့် (ပြစ်ဒဏ်)ကို တွေ့မြင်ကြလေသောအခါ မည်သူ၏ ကူညီစောင်မသောသူသည် အားနည်းသည် ကိုလည်းကောင်း၊ အရေအတွက်အားဖြင့် နည်းပါးသည် ကိုလည်းကောင်း၊ မုချ သိရှိကြကုန်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

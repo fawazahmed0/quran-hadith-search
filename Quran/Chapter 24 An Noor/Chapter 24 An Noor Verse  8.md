@@ -710,6 +710,12 @@ I se otklonyava ot zhenata mŭchenieto, ako chetiri pŭti zasvidetelstva v imeto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	ထိုမိန်းမက မိမိအား စွပ်စွဲသူသည် မတရားမုသားကို မုချဆိုပါသည်ဟု အလ္လာဟ်အရှင်မြတ်ရှေ့တော်ဝယ် ကျိန်ဆို၍ သက်သေလေးကြိမ်လေးခါထွက်ဆိုပြီးလျှင် သူမသည် အပြစ်ဒဏ်မှ လွတ်ရမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုဇနီးကြင်ရာသည် အလ္လာဟ်အရှင် မြတ်အားတိုင်တည်၍ ဧကန်မလွဲ ထိုယောက်ျားသည် မုသာဝါဒီဖြစ်ကြောင်း လေးကြိမ်တိုင်တိုင် သက်သေထွက်ဆိုခြင်းသည် ထိုဇနီးကြင်ရာမှ ပြစ်ဒဏ်တော်ကို ဖယ်ရှားမည်ဖြစ်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

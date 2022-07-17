@@ -710,6 +710,12 @@ Pridŭrzhaĭ se kŭm snizkhozhdenieto i povelyavaĭ prilichieto, i strani ot n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉၉။	အို-မိုဟမ္မဒ် သင်သည် အပြစ်လွှတ်လော့။ သနားကြင်နာမှုကို အားပေးလှုံ့ဆော်လော့။ ပညာမဲ့သူတို့ ထံမှ လှည့်သွားလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ခွင့်လွှတ်ခြင်းတရားကို အမြဲလက်ကိုင်ထားကာ (၎င်းတို့အား) ကောင်းမြတ်သောအမှုတို့ကိုပြုလုပ်ကြရန် အမိန့်ပေးလျက်ရှိပါလေ။ ၎င်းပြင်အသင်သည် အသိပညာကင်းမဲ့သောသူတို့ကို လျစ်လျူရှု၍နေပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

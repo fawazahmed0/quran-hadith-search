@@ -710,6 +710,12 @@ Da, ti se udivi, a te se podigravat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	အို-တမန်တော်၊ အမှန်ကိုဆိုသော် သင်သည် သူတို့ပြက်ချော်ပြောင်လှောင်သောအခါ အ့ံသြမိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်မှာကား (အို-နဗီတမန်တော်) အသင်သည်(၎င်းတို့၏ ငြင်းပယ်မှုကြောင့်)အံ့ဩ၍နေပေသည်။ သို့ရာတွင် ၎င်းတို့မှာမူကား(အသင့်အား)ပြက်ရယ်သမှု ပြုကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

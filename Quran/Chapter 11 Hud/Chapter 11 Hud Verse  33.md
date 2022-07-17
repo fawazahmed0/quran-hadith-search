@@ -710,6 +710,12 @@ Kaza: “Samo Allakh mozhe da vi go donese, ako pozhelae. A vie ste bezsilni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	တမန်တော်နူဟိုသည် သူတို့အား အလ္လာဟ်အရှင်မြတ်အလိုတော်ရှိပါလျှင် အရှင်မြတ်သာလျှင် အပြစ်ဒဏ်တော် ကို သင်တို့အပေါ်သို့ ကျစေတော်မူမည်။ ထိုအခါသင်တို့သည် မည်သည့်နည်းနှင့်မျှ ထွက်မပြေးနိုင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (နဗီတမန်တော်နူဟ်သည်ဤသို့)ပြောဆို ပြန်ကြားခဲ့လေသည်။ (အချင်းတို့) အကယ်၍ ထိုအရှင်မြတ်သည်အလိုရှိတော်မူခဲ့ပါလျှင် ထိုပြစ်ဒဏ်ကို အသင်တို့ထံ အလ္လာဟ်အရှင်မြတ်သည်သာလျှင် ယူလာတော်မူပေမည်။ စင်စစ်သော်ကား အသင်တို့သည်(ထိုအရှင်မြတ်အား ပြစ်ဒဏ်ယူလာတော်မူခြင်းကို) မစွမ်းဆောင်နိုင်အောင် ပြုနိုင်သူများမဟုတ်ကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

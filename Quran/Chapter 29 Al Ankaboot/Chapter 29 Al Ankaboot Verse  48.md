@@ -710,6 +710,12 @@ Predi neya ti nito kniga mozheshe da chetesh, nito da pishesh s desnitsata si. I
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	တမန်တော်မိုဟမ္မဒ်၊ ကျမ်းမြတ်ကုရ်အာ်န်မကျရောက်လာမီ ကျဆင်းလာသောကျမ်းတော်ဟောင်းတို့ကို သင် ဖတ်ဖူးသည်မဟုတ်၊ ကုရ်အာန်ကျမ်းတော်ကို သင်သည် မိမိလက်ဖြင့် ရေးတတ်သည်လည်းမဟုတ်၊ အကယ်၍ ကုရ်အာန်ကျမ်းတော်ကို သင်ရေးထုတ်ခဲ့လျှင် မိစ္ဆာလမ်းကို လိုက်သောသူသည် ထိုကျမ်းတော်ကို မယုံကြည်၊ ယုံမှားသံသယရှိချေမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ်သော်ကား အသင်သည် ဤကျမ်းဂန်(ကုရ်အာန်ကျမ်းတော်မြတ်)အလျင် မည်သည့်ကျမ်းကိုမျှပင် ဖတ်ရွတ်လျက်ရှိခဲ့သည်လည်း မဟုတ်ပေ။ မည်သည့်ကျမ်းကိုမျှပင် မိမိလက်ယာလက်ဖြင့် ရေးသားခဲ့သည်လည်း မဟုတ်ပေ။ သို့ဖြစ်ခဲ့ပါလျှင် အမှားကိုလိုက်စားကြသော သူတို့သည်အမှန်ပင် ဒွိဟသံသယ ဖြစ်ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

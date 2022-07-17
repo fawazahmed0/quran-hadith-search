@@ -710,6 +710,12 @@ Taka e, zashtoto Allakh vŭvezhda noshtta v denya i vŭvezhda denya v noshtta. A
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၁။	ယင်းကဲ့သို့စောင်မတော်မူခြင်းကား အလ္လာဟ်အရှင်မြတ်သည် ညဉ့်အချိန်ကာလကို နေ့အတွင်းသို့၊ နေ့အချိန် ကာလကို ညဉ့်အတွင်းသို့ သွတ်သွင်းတော်မူသောကြောင့်တည်း၊ အလ္လာဟ်အရှင်မြတ်သည် ကြားတော်မူသော အရှင်၊ မြင်တော်မူသောအရှင်ဖြစ်တော်မူသောကြောင့်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤ(သို့ကူညီတော်မူခြင်းကား) အလ္လာဟ်အရှင်မြတ်သည် ညဉ့်(၏အစိတ်အပိုင်း)ကို နေ့၏အတွင်း၌ ဝင်စေတော်မူ၍ နေ့(၏အစိတ်အပိုင်း)ကို ည၏အတွင်း၌ ဝင်စေတော်မူသောကြောင့်လည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ်သည်(မုအ်မင်န်သက်၀င်ယုံကြည်သူတို့၏ ဆုတောင်းပတ္တနာကို) အလွန်ကြားတော်မူသောအရှင်၊ (ထိုသူတို့၏အခြေအနေကိုလည်း) အလွန်မြင်ကြောင့်လည်းကောင်း၊ ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

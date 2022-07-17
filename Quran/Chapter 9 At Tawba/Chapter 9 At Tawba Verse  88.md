@@ -710,6 +710,12 @@ Ala Pratenika i onezi, koito vyarvakha zaedno s nego, se borekha chrez svoite im
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၈။	သို့သော်တမန်တော်နှင့် တမန်တော်အား ယုံကြည်သူတို့သည် မိမိတို့အသက်စည်းစိမ်ဥစ္စာများအားဖြင့် ကြိုးစား ကြ၏။ဤလူများသည် သူတို့အတွက် ကောင်းကြီးမင်္ဂလာတော်များရှိသောလူများဖြစ်ကြ၏။ဤလူများသည် အောင်မြင်သူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင်မူကား ရစူလ်တမန်တော်မြတ်နှင့်ထိုရစူလ်တမန်တော်နှင့်အတူ အီမာန်သက်ဝင်ယုံကြည်ကြသောသူတို့မူကား၊ မိမိတို့၏ဥစ္စာပစ္စည်းများဖြင့် လည်းကောင်း၊မိမိတို့၏ အသက်ဇီဝိန်များဖြင့် လည်းကောင်း၊ စစ်မက်ပြိုင်ဆိုင်တိုက်ခိုက်ခဲ့ကြလေသည်။ စင်စစ်သော်ကား ထိုသူတို့အဖို့သာလျှင် ကောင်းခြင်းအဖြာဖြာတို့သည် ရှိကြပေသည်။ ထိုနည်းတူစွာ ထိုသူတို့သည်သာလျှင် အောင်မြင်သောသူများဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

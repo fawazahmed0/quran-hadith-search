@@ -710,6 +710,12 @@ I boĭte se ot Onzi, Koĭto sŭtvori vas i prednite pokoleniya!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈၄။	သင်တို့နှင့်တကွ သင်တို့၏အဆက်ဆက်သောလူဟောင်းများကို ဖန်ဆင်းတော်မူထသောအရှင်မြတ်၏ ဝတ်တော် ကို ပြုကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အသင်တို့သည် မိမိတို့အားလည်းကောင်း၊ ရှေးဟောင်း အဖန်ဆင်းခံတို့အားလည်းကောင်း၊ဖန်ဆင်းတော်မူသော အရှင်မြတ်အား ကြောက်ရွံ့ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

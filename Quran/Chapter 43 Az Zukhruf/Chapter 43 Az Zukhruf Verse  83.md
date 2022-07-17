@@ -710,6 +710,12 @@ Ostavi gi da zatŭvat i da se zabavlyavat, dodeto sreshtnat svoya Den, koĭto i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၃။	အို-တမန်တော်၊ ထိုသူတို့အား ကတိဗျာဒိတ်ချထားတော်မူသည့်နေ့တော်ကြီးတိုင်အောင် ယင်းကဲ့သို့မဟုတ် မလျားငြင်းခုံပျော်ပါးလျက်နှင့်ပင် ရှိစေကုန်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်) ထိုသူတို့သည် မိမိတို့ ချိန်းဆိုခြင်း ခံကြရလေသောနေ့နှင့် တွေ့ဆုံရင်ဆိုင်ကြရသည့်တိုင်အောင် ထိုသူတို့အား အချည်းနှီး အကျိုးမဲ့ဖြစ်သောစကားများ ပြောဆိုလျက်ရှိကြရန် ကစားခုန်စား ပျော်မြူးလျက်ရှိကြရန် စွန့်ထားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

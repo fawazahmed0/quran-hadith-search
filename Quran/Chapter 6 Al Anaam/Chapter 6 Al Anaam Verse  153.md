@@ -710,6 +710,12 @@ Tova e Moyat pŭt - praviyat pŭt. Sledvaĭte go i ne sledvaĭte pŭtishtata, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၃။	အသျှင်မြတ်က ဤကျင့်စဉ်သည် ငါ၏ ဖြောင့်မတ်မှန်ကန်သော လမ်းဖြစ်၏။ ထို့ကြောင့် ထိုလမ်းကို လိုက်ကြလော့။ အခြားလမ်းစဉ်များကို မလိုက်ကြလင့်။ သို့မှသာ သင်တို့သည် အသျှင်မြတ်၏ လမ်းတော်မှ လွဲမသွားရအောင် သင်တို့သည် အခြားလမ်းကို မလိုက်ကြလင့်။ သင်တို့သည် ဒုစရိုက်မှုများကို ကြည့်ရှောင်ဖို့ရာ အသျှင်မြတ်သည် ဤပညတ်တော်ကို ပြဌာန်းတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး (အသင်ပြောကြားပါလေ။) ဤသည် ငါ၏ဖြောင့်မတ်မှန်ကန်သော တရား လမ်းစဉ်ပေတည်း။သို့ဖြစ်ပေရာ အသင်တို့သည် ထိုလမ်းစဉ်ကိုသာ လိုက်ကြလေကုန်။ ထို့ပြင် အခြားအခြားသော လမ်းစဉ်များကိုမလိုက်ကြကုန်လင့်။ အဘယ့်ကြောင့်ဆိုသော် ယင်းလမ်းစဉ်များသည် အသင်တို့အား ထိုအရှင်မြတ်၏လမ်းတော်မှ ကွဲကွာစေမည် ဖြစ်သောကြောင့်ပင်။ ထိုအရှင်မြတ်သည် အသင်တို့(ပြစ်မှုဒုစရိုက်တို့မှ)ကြဉ်ရှောင်နိုင်ကြရန်အလို့ငှာ ဤသည့်(အချက်) တို့နှင့်စပ်လျဉ်း၍ အသင့်တို့အား အမိန့်ချမှတ်တော်မူခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

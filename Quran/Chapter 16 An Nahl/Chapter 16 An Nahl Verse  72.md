@@ -710,6 +710,12 @@ Allakh vi otredi sŭprugi ot samite vas i vi otredi ot sŭprugite vi detsa i vnu
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၂။	တဖန် အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အား မိမိတို့အထဲမှာ ဇနီးမိန်းမများကို ပေးသနားတော်မူ၏။ ထိုမိန်းမ များမှ သားသမီးမြေးမြစ်များကို ဖန်ဆင်းတော်မူ၏။ သင်တို့အား မွန်မြတ်သောဥစ္စာပစ္စည်းအစားအစာများကို လည်း ပေးသနားတော်မူ၏။ သို့ပါလျက် သူတို့သည် ဝါကြွားခြင်း၊ မာနကြီးခြင်းများကို ယုံကြည်ကြသလော။ အလ္လာဟ်အရှင်မြတ်၏ ကောင်းကြီးမင်္ဂလာတော်ကို မယုံကြည်ကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတပါး အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့အဖို့ အသင်တို့ (အမျိုးအစားထဲ)မှပင် ဇနီးကြင်ရာ များကိုပြုလုပ်တော်မူခဲ့လေသည်။ ထိုနည်းတူစွာ ထိုအရှင်မြတ်သည်အသင်တို့အဖို့ အသင်တို့၏ ဇနီး ကြင်ရာများမှ သား၊ မြေးတို့ကိုပြုလုပ်(ထွန်းကား) စေတော်မူခဲ့လေသည်။ ထို့ပြင် အရှင်မြတ်သည် အသင်တို့ စားသုံးကြရန် ကောင်းမွန်သောအရာများကို ချီးမြှင့်ပေးသနားတော်မူခဲ့လေသည်။ သို့ပါလျက် ၎င်းတို့သည် အချည်းအနှီးသောအရာကို သက်ဝင်ယုံကြည်၍အလ္လာဟ်အရှင်မြတ်၏ ကျေးဇူးတော်များကို ငြင်းပယ်လျက်ရှိနေကြမည်လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

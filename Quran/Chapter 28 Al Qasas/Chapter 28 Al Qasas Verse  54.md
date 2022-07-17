@@ -710,6 +710,12 @@ Tezi shte bŭdat vŭznagradeni dva pŭti, zashtoto sa tŭrpelivi i otvrŭshtat n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၄။	ဤသူတို့သည် ဆုတော်နှစ်ဆထမ်းပိုးရရှိကြလိမ့်မည်၊ အကြောင်းမူကားသူတို့၌ ခန္တီပါရမီရှိကြ၏၊ သူတို့သည် မကောင်းမှုကို ကောင်းမှုဖြင့် တုံ့ပြန်ကြ၏၊ ငါအရှင်မြတ်ပေးသနားတော်မူသောစည်းစိမ်ဥစ္စာမှ သုံးစွဲကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့သည် ကြံ့ခိုင်စွာ ရှိခဲ့ကြခြင်းကြောင့်လည်းကောင်း၊ အဆိုးကို အကောင်းဖြင့်(တုံ့ပြန်)တွန်းလှန်ကြ သောကြောင့်လည်းကောင်း၊ ၎င်းတို့အား ငါအရှင်မြတ်က ချီးမြှင့်ပေးသနားတော်မူခဲ့သော ပစ္စည်းဥစ္စာများအနက်မှ သုံးစွဲလှူဒါန်းကြ သောကြောင့်လည်းကောင်း၊ မိမိတို့၏အကျိုးကို နှစ်ဆ ပေးသနားတော်မူခြင်း ခံကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

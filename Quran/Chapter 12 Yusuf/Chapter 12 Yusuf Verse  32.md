@@ -710,6 +710,12 @@ Reche tya: “Tova e onzi, za kogoto me uprekvakhte. Az go sŭblaznyavakh, a toi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	အိမ်ရှင်မသည် ဧည့်သည်တို့အား အို-ရှင်မတို့၊ သင်တို့သည် အကျွနု်ပ်ကို ပြစ်တင်ကဲ့ရဲ့ပြုခြင်းမှာ ဤလုလင်ပျို အတွက်ဖြစ်သည်။ အကျွနု်ပ်သည် သူ့ထံမှ မကောင်းမှုကို တောင်း၏။ သို့သော်သူသည် မိမိကိုယ်ကို ချုပ်တည်း ချိုးခြံသည်။ အကယ်၍သူသည် အကျွနု်ပ်၏ အမိန့်ကို မနာခံလျှင် သူ့ကို အမှန်ပင်ထောင်သွင်းအကျဉ်းချထားအ့ံ။ သူသည် အသရေပျက်နှိမ့်ချခြင်းခံရသောသူတို့ဘောင်တွင် ပါဝင်ရလတ့ံဟု ပြောပြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ယင်းမိန်းမက (ဤသို့ပြန်)ပြောခဲ့လေ၏။ ဤသည်ပင် အကြင်သူတည်း၊ အသင်မိန်းမတို့သည် ကျွန်ုပ်အား ထိုသူနှင့်ပက်သက်၍ ကဲ့ရဲ့ပြစ်တင်ခဲ့ကြကုန်၏။ အမှန်စင်စစ်သော်ကား ကျွန်ုပ်သည်ပင် ၎င်းအား ၎င်း၏စိတ်သဘောနှင့်ဆန့်ကျင်၍ ချော့မော့မြှူဆွယ်ခဲ့လေသည်။ သို့တစေလည်း၎င်းမှာမူကား လုံးဝအပြစ်ကင်းစင်စွာ နေခဲ့လေ၏။ သို့ရာတွင်အကယ်၍သာ ၎င်းသည်(အနာဂတ်တွင်)ကျွန်ုပ် အမိန့်ပေးလျက်ရှိသောအမှုကိစ္စကို မပြုလုပ်ခဲ့ပါလျှင် မလွဲဧကန် ၎င်းသည် အကျဉ်းချထားခြင်းခံရသည့်ပြင် ဂုဏ်အသရေနိမ့်ကျသူတစ်ဦးလည်း ဖြစ်ရလိမ့်မည်သာတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

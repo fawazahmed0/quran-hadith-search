@@ -710,6 +710,12 @@ I satanata da ne vi otkloni! Toĭ e vash yaven vrag
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	သင်တို့အား ရှိုင်တာန်မာရ်နတ်သည် လှည့်ပစ်ခြင်းကို မပြုစေလင့်၊ သူသည် သင်တို့၏ ရန်သူအစစ်အမှန် ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး "ရှိုင်တွာန်" မိစ္ဆာကောင်သည် အသင်တို့အား (တရားလမ်းမှ) တားဆီးပိတ်ပင်ခြင်း မပြုစေရ။ဧကန်မလွဲ ၎င်းသည် အသင်တို့၏ ထင်ရှားစွာသော ရန်သူပင်ဖြစ်ပေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

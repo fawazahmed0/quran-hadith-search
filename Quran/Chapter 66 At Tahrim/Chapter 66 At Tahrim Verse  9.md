@@ -710,6 +710,12 @@ O, Proroche, bori se s nevernitsite i litsemerite, i bŭdi tvŭrd s tyakh! Myast
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။ အို-တမန်တော်၊ မိစ္ဆာဒိဋ္ဌိနှင့် ယုံကြည် ဟန်ဆောင်သူတို့ကို ပြင်းပြင်းထန်ထန် ခုခံတွန်းလှန်လော၊့ သူတို့ အပေါ်တွင် ရှုတင်း၍ ခက်ထန်လော့၊ သူတို့နေရာဌာနသည် အဝီစိငရဲဖြစ်၍ အလွန် ယုတ်ညံ့သောခရီးဆုံးဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-နဗီတမန်တော်၊ အသင်သည် "ကာဖိရ်" သွေဖည်ငြင်းပယ်ကြကုန်သော သူတို့အားလည်းကောင်း၊ "မုနာဖစ်က်" အယောင်ဆောင် မွတ်စ်လင်မ်တို့အားလည်းကောင်း၊ သက်စွန့်ကြိုးပမ်း တိုက်ခိုက်ပါလေ။ ထို့ပြင် အသင်သည် ၎င်းတို့အပေါ်၌ ကျပ်တည်းစေပါလေ။ ထို့ပြင် ၎င်းတို့၏ခိုလှုံရာဌာနမှာ "ဂျဟန္နမ်" ငရဲသာလျှင်ဖြစ်၏။ စင်စစ်မှာကား (ယင်း"ဂျဟန္နမ်"ငရဲမှာ) လွန်စွာ ဆိုးရွားလှသောစခန်းပင် ဖြစ်ချေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

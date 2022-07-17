@@ -710,6 +710,12 @@ Pa trpite zato što ste zaboravljali da ćete ovaj Dan doživjeti – i Mi ćemo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	အို-မိစ္ဆာမိုက်တို့၊ နင်တို့ကျုးလွန်ခဲ့သောအကုသိုလ်မကောင်းမှုများ၏ အပြစ်ဒုက္ခကို မြည်းကြလော့၊ အကြောင်း မူကား နင်တို့သည် ဤတရားစီရင်တော်မူသောနေ့တော်ကြီးကို ရင်ဆိုင်ရမည်ကို သတိမမူမေ့လျော့ခဲ့ကြ၏၊ ယခုမူကားငါသည် နင်တို့ကို မေ့လျော့၏၊ နင်တို့သည် ဒုစရိုက်မကောင်းမှုကို ပြုကျင့်ခဲ့သောကြောင့် ထာဝရ ခံစားရသည့်ငရဲအပြစ်ဒဏ်ကို မြည်းစမ်းကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (သို့ဖြစ်ပေရာ ၎င်းတို့သည် ကိယာမတ် ရှင်ပြန်ထမည့်နေ့တွင် ဤသို့ပြောဆိုခြင်းကို ခံကြရပေမည်) ယခုသော်အသင်တို့သည် မိမိတို့၏ ဤနေ့ဤရက်နှင့် တွေ့ဆုံကြရမည်ကိုမေ့ပျောက်ခဲ့ခြင်း၏ အရသာကို မြည်းစမ်းကြကုန်လော့။ ငါအရှင်မြတ်သည်လည်း အသင်တို့အား မေ့ထားတော်မူပြီ။ ၎င်းပြင် အသင်တို့သည် မိမိတို့ကျင့်မူလျက်ရှိခဲ့ ကြကုန်သောအကျင့်အမူများကြောင့် ထာဝရပြစ်ဒဏ် ၏အရသာကို (မြိန်ရှက်စွာ) မြည်းစမ်းကြကုန်လော့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

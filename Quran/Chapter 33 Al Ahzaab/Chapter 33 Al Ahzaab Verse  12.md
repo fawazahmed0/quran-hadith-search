@@ -710,6 +710,12 @@ I litsemerite, i onezi, v chiito sŭrtsa imashe bolest, rekokha: “Allakh i Neg
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	ယုံကြည်သူဟန်ဆောင်သူများနှင့် စိတ်နှလုံး၌ မိစ္ဆာဝေဒနာစွဲကပ်သူတို့က အလ္လာဟ်အရှင်မြတ်နှင့် အရှင်မြတ်၏ တမန်တော်သည် အကျွနု်ပ်တို့အား မဟုတ်မမှန်ဖျားယောင်းလှည့်ပတ်ခြင်းမှတပါး အခြားတစ်စုံတစ်ယောက် ကိုမျှ ကတိသစ္စာမပေးချေဟု ပြောဆိုသောအခါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အကြင်အခါဝယ် မုနာဖစ်က်အယောင်ဆောင်မုစ်လင်မ်များနှင့် စိတ်နှလုံးများတွင် ရောဂါရှိသူတို့က အလ္လာဟ်အရှင်မြတ်သည်လည်းကောင်း၊ ထိုအရှင်မြတ်၏ရစူလ်တမန်တော်သည်လည်းကောင်း၊ ကျွန်ုပ်တို့အားဖြားယောင်းခြင်းမှတစ်ပါး မှန်ကန်သောကတိကို ပေးခဲ့ကြသည်မဟုတ် ဟု ပြောဆိုလျက် ရှိခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Shte im se podnese zapechatano, prebistro pitie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။ ထိုနိဗ္ဗာန်သားတို့အား သောက်ဖို့ရာ လုံခြံုစွာဆို့ပိတ်တံဆိပ်ခတ်နှိပ်ထားသည့် သန့်ပြန့်စင်ကြယ်သောအရက်ကို ပေးလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် တံဆိပ်ခတ်ထားသော (ကြည်လင်သန့်ရှင်းသော) အရက်အစစ် တိုက်ကျွေးခြင်းကို ခံကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

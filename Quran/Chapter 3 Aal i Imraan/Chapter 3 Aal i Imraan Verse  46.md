@@ -710,6 +710,12 @@ I shte govori na khorata oshte v lyulkata, i kato vŭzmŭzhee, i shte bŭde ot p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။	သူသည် ပုခက်ထဲကပင် လူသားတို့အား စကားပြောမည်။ လူလားမြောက်၍ အရွယ်ရောက်သော အခါလည်း စကားပြောမည်။ သူသည် အသျှင်မြတ်နှင့် တရားတော်တို့ ကြည်ညိုသူတို့ဘောင်တွင် အပါအဝင်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ယင်းအီစာသည် (အလ္လာဟ်အရှင်မြတ်အထံတော်မှ တန်ခိုးပြာဋိဟာများရရှိခြင်းကြောင့်) ပုခက်တွင်း၌လည်းကောင်း၊ အရွယ်ရောက်သော အခါ၌လည်းကောင်း၊ လူခပင်းတို့နှင့်စကားစမြည်ပြောဆိုအံ့။ ၎င်းပြင်ယင်းအီစာသည် သူတော်စင်သူတော် ကောင်းတို့ဘောင်တွင်အပါအဝင်လည်း ဖြစ်အံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

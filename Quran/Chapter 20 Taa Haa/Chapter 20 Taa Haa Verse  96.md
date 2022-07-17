@@ -710,6 +710,12 @@ Reche: “Az vidyakh tova, koeto te ne vidyakha. Stisnakh shepa [prŭst] ot sled
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၆။	သူက အစ္စရာအီလ်အမျိုးသားတို့သည် မသိမမြင်သည်ကို အကျွနု်ပ်သိမြင်၏၊ ထို့ကြောင့်တမန်တော်၏ ခြေရာ တော်မှ သဲတစ်ဆုပ်ကို ယူပြီးလျှင် နွားရုပ်ငယ်အတွင်းသို့ အကျွနု်ပ်ထည့်ထား၏။ ယင်းသို့ပြုလုပ်ရန် အကျွနု်ပ် စိတ်ထဲ၌ အကြံပေါ်လာ၏ဟု ဖြေရှင်း၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ၎င်းစာမိရီက ကျွန်ုပ်သည် အခြားသူတို့ မမြင်ခဲ့ကြသောအရာကို တွေ့မြင်ခဲ့ပါသည်။ သို့ဖြစ်ပေရာ ကျွန်ုပ်သည် စေတမန်၏(မြင်း)ခြေရာမှ(မြေကြီး) လက်တစ်ဆုပ်ကို ဆုပ်ယူခဲ့ပါသည်။ ထို့နောက် ကျွန်ုပ်သည် ထို(မြေကြီး)ကို(ဤနွားငယ်ကလေး၏ခန္ဓာကိုယ်တွင်)ပစ်ထည့်ခဲ့ပါသည်။စင်စစ် ကျွန်ုပ်၏စိတ်နှလုံးသည် ကျွန်ုပ်အား ဤအတိုင်းပင်ဖြားယောင်းခဲ့ပါသည်ဟု ပြောဆို (ဖြေကြား) လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ne vizhdat li, che Allakh, Koĭto sŭtvori nebesata i zemyata, i ne se umori ot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	မိုးမြေကို ဖန်ဆင်းမွေးမြူတော်မူသော၊ ၎င်းတို့ကို ဖန်ဆင်းတော်မူရခြင်းကြောင့် မောပန်းငြီးငွေ့စေနိုင်တော်မမူ သောအလ္လာဟ်အရှင်မြတ်သည် သေသူတို့ကို ရှင်ပြန်ထမြောက်စေနိုင်တော်မူသည်ကို သူတို့မသိမမြင်ကြသလော၊ ဧကန်အမှန် ရှင်ပြန်ထမြောက်စေတော်မူမည်၊ အရှင်မြတ်သည် အရာခပ်သိမ်းကုန်တို့ကို တန်ခိုးတော်အနန္တ အားဖြင့် ပြုစွမ်းနိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မိုးကောင်းကင်များကိုလည်းကောင်း၊ ပထဝီမြေကိုလည်းကောင်း၊ ဖန်ဆင်းတော်မူခဲ့သည်သာမက ယင်းမိုးကောင်းကင်များနှင့်ပထဝီမြေတို့ကို ဖန်ဆင်းတော်မူသောကြောင့် ညောင်းညာမောပန်းတော်မူခြင်း မရှိခဲ့သော အလ္လာဟ်အရှင်မြတ်သည် သူသေတို့အား ရှင်စေခြင်းကို စွမ်းနိုင်တော်မူသောအရှင် ဖြစ်တော်မူကြောင်း၊ ၎င်းတို့သည် မစဉ်းစား မဆင်ခြင် မတွေ့မမြင်ခဲ့ကြလေသလော။ အဘယ်ကြောင့် မဟုတ်ပါသနည်း။ ဧကန်မလွဲ ထိုအရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို စွမ်းနိုင်တော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

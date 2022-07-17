@@ -710,6 +710,12 @@ A nima onzi, koĭto s litse se brani ot naĭ-loshoto mŭchenie v Denya na vŭz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	အကြင်သူသည် တရားစီရင်တော်မူသောနေ့တော်ကြီး၌ အလွန်ပြင်ပြကြောက်မက်ဖွယ်သော အပြစ်ဒဏ်နှင့် ပက်ပင်းပါတွေ့ရှိရ၏၊ ထိုသူသည် ကောင်းမှုပြုကျင့်သူနှင့် တူသလော၊ ထို့အပြင်မကောင်းမှုကျုးလွန်သူတို့အား မိန့်တော်မူမည်မှာ ဟယ်-ဒုစရိုက်ကောင်တို့၊ နင်တို့ပြုကျင့်လေ့ရှိသောမကောင်းမှု၏ ဆိုးကျိုးအရသာကို မြည်းကြ လော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အကြင်သူသည် ‘ကိယာမတ်’ ရှင်ပြန်ထမည့်နေ့တွင် ပြင်းထန်သော ပြစ်ဒဏ်များကို မိမိမျက်နှာဖြင့် ကာကွယ်မည်ဖြစ်၏။ ၎င်းပြင် (ထိုကဲ့သို့သော) မတရားပြုလုပ်သူတို့အား "အသင်တို့သည် မိမိတို့ ဆည်းပူးလျက် ရှိခဲ့ကြသည်တို့၏ရသာကို မြည်းစမ်းကြလေကုန်"ဟု ပြောဆိုခြင်း ခံရမည်ဖြစ်၏။ (ထိုကဲ့သို့သော သူတို့နှင့်ပြစ်ဒဏ်မှ လွတ်ကင်းကြသောသူတို့သည် တူကြပါသလော)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I pitaĭ onezi ot Nashite pratenitsi, koito izpratikhme predi teb, dali sme sto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	အေ-တမန်တော်၊ သင်မပွင့်မီ ပွင့်သောရှေးတမန်တော်များ၏ အဖြစ်အပျက်ကို စုံစမ်းမေးမြန်းလော့၊ မဟာ ကရုဏာတော်အရှင်မှတပါး အခြားဘုရားယောင်များကို ခဝပ်ကိုးကွယ်ရန် ငါပညတ်တော်မူဖူးသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (အို-နဗီတမန်တော်)အသင်သည် မိမိအလျင် ငါအရှင်မြတ် စေလွှတ်တော်မူခဲ့သော ရစူလ်တမန်တော်တို့အား "ငါအရှင်မြတ်သည် အနန္တကရုဏာတော်ရှင်မှတစ်ပါး ဆည်းကပ်ကိုးကွယ်ခြင်းခံကြရန် အခြားကိုးကွယ်ရာများကို ပြဋ္ဌာန်း၍ပေးတော်မူခဲ့ပါသလော" ဟု မေးမြန်းစုံစမ်း၍ ကြည့်ပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

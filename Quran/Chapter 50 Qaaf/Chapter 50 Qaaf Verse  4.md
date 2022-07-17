@@ -710,6 +710,12 @@ Znaem Nie kakvo zemyata otnema ot tyakh i imame sŭkhranyavashta Kniga
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	ငါသည် သူတို့အနက် မြေကြီးက သိမ်းယူထားသူအားလုံးကို အကြွင်းမဲ့သိမြင်တော်မူ၏၊ ငါ၌ မှတ်ပုံတင်စာအုပ် ကြီးရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မြေကြီးက ၎င်းတို့(၏ ကိုယ်ခန္ဓာများ)အနက်မှ(စား၍) လျော့နည်းစေမည့် အစိတ်အပိုင်းကို ဧကန်မလွဲ ငါအရှင်မြတ်သည် သိရှိတော်မူ၏။ စင်စစ်မှာကား ငါအရှင်မြတ်အထံတော်တွင် ထိန်းသိမ်း စောင့်ရှောက်ထားသောမှတ်တမ်း စာအုပ်သည်လည်းရှိနေပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

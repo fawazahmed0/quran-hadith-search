@@ -710,6 +710,12 @@ EKRE’ KITABEKE KEFA BINEFSIKEL-JEWME ‘ALEJKE HESIBÆN
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	ထိုအခါသူ့အား ဟယ်-လူသား သင်သည် မိမိစာရင်းစာအုပ်ကို ဖတ်ကြည့်လော့။ သင်၏ ဝိညာဉ်သည် သင့် ကို စာရင်းစစ်သူအဖြစ်ဖြင့် ဤနေ့တော်ကြီး၌ လုံလောက်၏ဟု ဗျာဒိတ်ပေးတော်မူလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထို့နောက်၎င်းအား) အသင်သည် မိမိ မှတ်တမ်းကိုဖတ်လော့၊ ယနေ့သည်ကား အသင်ကိုယ်တိုင်ပင် မိမိကိုယ်နှင့်ဆန့်ကျင်၍ စစ်ဆေးသူအဖြစ် လုံလောက်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

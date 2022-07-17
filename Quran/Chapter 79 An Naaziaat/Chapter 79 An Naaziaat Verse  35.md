@@ -710,6 +710,12 @@ togava v Denya chovek shte si pripomni za kakvo se e staral
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။ ထိုနေ့တော်ကြီး၌ လူသားသည် မိမိကြိုးပမ်းမှုများကို အကုန်အစင်အာရုံပြုလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဝါ)အကြင်နေ့တွင် လူသားတို့သည် မိမိတို့ ကြိုးပမ်း ဆောင်ရွက်ခဲ့သမျှတို့ကို သတိရကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

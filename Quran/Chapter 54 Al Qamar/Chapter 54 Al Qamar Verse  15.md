@@ -710,6 +710,12 @@ I ostavikhme tova za znamenie, no ima li koĭ da se pouchi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	ငါသည် ဤကြောင်းရာထုပ္ပတ်ကို နိမိတ်လက္ခဏာ မဟာရာဇဝင်ကြီးတစ်ပါးဖြစ်စေတော်မူ၏၊ သို့သော်သတိရသူ တစ်စုံတစ်ယောက်ရှိသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ဧကန်မလွဲ ငါအရှင်မြတ်သည် ယင်းအဖြစ်အပျက်ကို (သင်ခန်းစာ ရယူနိုင်ရန်) သက်သေ လက္ခဏာတစ်ပါးအဖြစ် ကျန်ရစ်စေတော်မူခဲ့ရာ၊ သင်ခန်းစာရယူအံ့သောသူ တစ်ဦးတစ်ယောက် ရှိလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I gi smyatash za budni, a te sa v dryamka i Nie gi obrŭshtame nadyasno i nalyav
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	အကယ်၍ သင်သည် သူတို့ကို မြင်ရလျှင်၊ သူတို့အိပ်ပျော်နေသော်လည်း နိုးကြားသွားလာနေသည်ဟု ထင်မှတ်ရာ၏။ ငါသည် သူတို့အား ဘယ်လှဲ့ညာလှဲ့ကာ အိပ်စေတော်မူ၏။ သူတို့၏ ခွေးကား ဂူအဝ၌ လက် နှစ်ဖက်ကို ဖြန့်ခင်းဝပ်စင်းလျက်ရှိ၏။ အကယ်၍ သင်သည် သူတို့ကို ကျကျနနမြင်ရလျှင်၊ သင်သည် သူတို့ထံမှ မုချထွက်ပြေးလတ့ံ၊ သင်သည် သူတို့ကို အလွန်ထိတ်လန့်လတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်(အို-နဗီတမန်တော်) အသင်သည် ၎င်းတို့အား (တွေ့မြင်ရပါလျှင်) နိုးနေကြသူများဟူ၍ပင် ထင်မှတ်ပေမည်။ စင်စစ် ၎င်းတို့သည် အိပ်ပျော်၍ နေကြသူများပင်ဖြစ်ကြကုန်၏။ ၎င်းပြင် ငါအရှင်မြတ်သည်ပင် ထိုသူတို့အား လက်ယာဘက်သို့လည်းကောင်း၊ လက်ဝဲဘက်သို့လည်းကောင်း၊ ပြောင်း၍ပေးတော်မူ၏။ ထိုမှတစ်ပါး ၎င်းတို့၏ခွေးသည် တံခါးဝ၌ မိမိလက်နှစ်ဖက်ကို ဖြန့်(ခင်း)လျက်ရှိခဲ့၏။ (အို-နဗီတမန်တော်)အကယ်၍သာ အသင်သည် ၎င်းတို့အား ချောင်းကြည့်ခဲ့ပါမူအမှန်ပင်အသင်သည် ၎င်းတို့ဘက်မှ ကျောခိုင်း၍ထွက်ပြေးသည့်ပြင် ၎င်းတို့အား ထိတ်လန့်မှုသည်လည်း အမှန်ပင်အသင်၌ ပြည့်လျှံ၍ သွားခဲ့မည်သာတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

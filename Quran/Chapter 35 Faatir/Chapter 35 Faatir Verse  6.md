@@ -710,6 +710,12 @@ Satanata e vash vrag. Zatova go priemete kato vrag! Toĭ prizovava svoite posle
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	မှတ်သားကြလော့၊ ရှိုင်တန်မာရ်နတ်သည် သင်တို့၏အကြီးမားဆုံးရန်သူကြီးဖြစ်၏၊ ထို့ကြောင့်သူ့ကို ရန်သူကြီး အစစ်ဟု မှတ်ကြလော့၊ သူသည် မိမိဘက်တော်သားများကို မီးတောက်မီးလျှံဟုန်းဟုန်းတောက်လောင်နေသော ငရဲမီးထဲသို့သာ ဖိတ်ခေါ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မလွဲဧကန် ‘ရှိုင်တွာန်’ မိစ္ဆာကောင်သည် အသင်တို့၏ရန်သူပင်ဖြစ်၏။ သို့ဖြစ်ပေရာ အသင်တို့သည် ထို’ရှိုင်တွာန်’ မိစ္ဆာကောင်အား (မိမိတို့၏) ရန်သူဟူ၍ပင်အသိအမှတ်ပြုကြလေကုန်။ (စင်စစ် သော်ကား) ထို ‘ရှိုင်တွာန်’မိစ္ဆာကောင်သည် မိမိဘက်သားများအား (ငရဲဘုံ၏)မီးတောက်မီးလျှံ၌ လားကြရသူတို့တွင် အပါအဝင်ဖြစ်ကြစေရန်သာလျှင် ဖိတ်ခေါ်လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

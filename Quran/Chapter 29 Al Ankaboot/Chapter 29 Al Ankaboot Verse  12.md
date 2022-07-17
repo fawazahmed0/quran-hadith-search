@@ -710,6 +710,12 @@ Nevernitsite kazvat na vyarvashtite: “Sledvaĭte nashiya pŭt i nie shte pone
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	မိစ္ဆာဒိဋ္ဌိတို့က ယုံကြည်သူတို့အား ဟယ်-အချင်းတို့၊ ငါတို့အယူဝါဒကို လိုက်နာကျင့်ကြံလော့၊ ငါတို့သည် သင်တို့အစား သင်တို့၏အပြစ်ကို မုချဧကန်ခံကြမည်ဟု ဆိုကြ၏၊ သူတို့သည် သူတို့၏အပြစ်အနည်းငယ်မျှ မခံနိုင်ကြချေ၊ မှတ်သားကြလော့၊ သူတို့သည် မုသားကောင်များဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ‘ကာဖိရ်’သွေဖည်ငြင်းပယ်သော သူတို့က’မုအ်မင်န်’ သက်ဝင်ယုံကြည်သောသူတို့အား ‘အသင်တို့သည် ကျွန်ုပ်တို့၏ လမ်းစဉ်လိုက်နာကြလေကုန်၊ ကျွန်ုပ်တို့သည် အသင်တို့၏ ပြစ်မှုများကို ထမ်းရွက်ကြမည်’ ဟု ဆိုကြကုန်၏။စင်စစ်သော်ကား ၎င်းတို့သည် ထိုမုအ်မင်န် သက်ဝင်ယုံကြည်သူတို့၏ ပြစ်မှုများအနက်မှ အနည်းငယ်(သောပြစ်မှု) ကိုမျှပင် ထမ်းရွက်နိုင်ကြမည့်သူများ မဟုတ်ပေ။ စင်စစ်ဧကန် ၎င်းတို့သည် မုသာဝါဒီများပင် ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Izpratikhme vi Pratenik - svidetel za vas, kakto izpratikhme pri Faraona prateni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။ အို-လူသားတို့၊ အထက်ကျော်ကာလက ဖွာရောမင်းထံသို့ တမန်တော်တစ်ပါး စေလွှတ်တော်မူသကဲ့သို့ သင်တို့ ထံသို့လည်း တမန်တော်တစ်ပါးကို ငါစေလွှတ်တော်မူပြီ၊ သူသည် သင်တို့အပေါ်၌ သက်သေခံရန်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ငါအရှင်မြတ်သည် ဖစ်ရ်အောင်န်၏ထံသို့ ရစူလ်တမန်တော်တစ်ပါး စေလွှတ်တော်မူဘိသကဲ့သို့ပင် အသင်တို့ထံသို့လည်း ရစူလ်တမန်တော်တစ်ပါးအား အသင်တို့အပေါ်၌ သက်သေအဖြစ် စေလွှတ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

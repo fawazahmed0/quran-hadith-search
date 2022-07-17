@@ -710,6 +710,12 @@ za da izvadim chrez neya zŭrna i rasteniya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။ ထိုမိုးရေးဖြင့် ကောက်ပဲသီးနှံမြက်သစ်ပင်စသည်တို့ကို ပေါက်ရောက်စေတော်မူရန်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ယင်းမိုးရေကို ရွာသွန်းစေတော်မူခြင်းမှာ) ငါအရှင်မြတ်သည် ထိုမိုးရေဖြင့် ကောက်ပဲသီးနှံများကိုလည်းကောင်း၊ ဟင်းသီးဟင်းရွက်ပင်များကိုလည်းကောင်း၊ ပေါက်ရောက်စေတော်မူရန်လည်း ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

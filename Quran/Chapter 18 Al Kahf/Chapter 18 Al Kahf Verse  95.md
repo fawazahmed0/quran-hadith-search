@@ -710,6 +710,12 @@ Reche: “Onova, s koeto me ukrepi moyat Gospod, e po-dobro. Pomognete mi sŭs s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၅။	သူက အကျွနု်ပ်၏ ကျေးဇူးတော်သခင်သည် အကျွနု်ပ်အား ပေးသနားတော်မူသောကျေးဇူးတော်သည် သင်တို့၏ လက်ဆောင်ထက်သာလွန်ကောင်းမွန်၏။ သင်တို့သည် အကျွနု်ပ်အား လူအားဖြင့် ကူညီကြလော့။ အကျွနု်ပ် သည် သင်တို့နှင့်သူတို့အလယ်ကြားတွင် တံတိုင်းကြီးတခုတည်ဆောက်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းဇုလ်ကရ်နိုင်န်က (၎င်းတို့အား ဤသို့ ပြောဆိုဖြေကြားခဲ့လေ၏။ (အချင်းတို့၊)ဤသည်နှင့်စပ်လျဉ်း၍ ကျွန်ုပ်၏အရှင်မြတ်က ကျွန်ုပ်အား ချီးမြှင့်တော်မူခဲ့သော စွမ်းအင်သည် ပင် အလွန်များပြားလှ၏။ သို့ဖြစ်ပေရာ အသင်တို့သည်ကျွန်ုပ် အား (မိမိတို့၏လုပ်အားဖြင့်သာ ကူညီကြလေကုန်။ကျွန်ုပ်သည် အသင်တို့နှင့် ၎င်းတို့၏အကြားဝယ် အလွန်ခိုင်ခံ့မြင့်မားသော တံတိုင်းကို ပြုလုပ်၍ပေးမည်။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

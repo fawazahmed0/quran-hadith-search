@@ -710,6 +710,12 @@ Idete s tazi moya riza i ya postavete vŭrkhu litseto na bashta mi, i toĭ pak 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၃။	သင်တို့သည် ဤငါ၏ ရှပ်အကျႌကို ယူသွား၍ ဖခင်၏ မျက်နှာပေါ်တွင် တင်ထားကြလော့။ ထိုအခါဖခင်သည် မျက်စိအလင်းရောင်ကို ပြန်ရလတ့ံ။ သင်တို့သည် မိမိတို့အိမ်သူအိမ်သားနှင့်တကွ အကျွနု်ပ်ထံသိုပ့ ပြန်လာကြ ပါလော့ဟု ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် အကျွန်ုပ်၏ ဤအင်္ကျီကို ယူသွားကြလေကုန်။ ထို့နောက် အသင်တို့သည် ယင်းအင်္ကျီကိုအကျွန်ုပ်၏ဖခမည်းတော်၏မျက်နှာပေါ်သို့ တင်ကြလေကုန်။ထိုဖခမည်းတော်သည် စက္ခုအလင်းရရှိလာအံ့။ ၎င်းပြင်အသင်တို့သည် မိမိတို့၏ အိမ်သူအိမ်သားများအားလုံးကို(လည်း) အကျွန်ုပ် ၏ထံသို့ (ခေါ်)ဆောင်၍ လာခဲ့ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I raztvorikhme Nie vratite na nebeto sŭs struyashta voda
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	ထိုအခါငါသည် ကောင်းကင်တံခါးများကို ဖွင့်၍ မိုးသည်းထန်စွာရွာသွန်းစေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ငါအရှင်မြတ်သည် မိုးကောင်းကင်၏ တံခါးများကိုဖွင့်၍ မိုးသည်းထန်စွာ ရွာသွန်းစေတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

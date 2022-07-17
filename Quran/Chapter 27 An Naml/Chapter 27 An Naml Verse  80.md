@@ -710,6 +710,12 @@ Ti ne mozhesh da nakarash mŭrtvite da chuyat, nito glukhite da chuyat zova, sht
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈ဝ။	မှတ်သားကြလော့၊ သင်တမန်တော်သည် သေသူများကို ကြားအောင်မပြုစွမ်းနိုင်ချေ၊ သို့မဟုတ် နားပင်းသူ တို့သည် ထွက်ပြေးရန် လှည့်သွားသောအခါ သင်သည် သူတို့ကို တရားစာကြားအောင် မပြုစွမ်းနိုင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အသင်သည် သူသေတို့အား ကြားစေနိုင်သည် မဟုတ်ပေ။ ထိုနည်းတူစွာ နားပင်းသူတို့အားလည်း ၎င်းတို့သည် ကျောခိုင်းကြလျက် ပြန်၍ လှည့်သွားကြသောအခါ အသင်သည် ကြားစေနိုင်သည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

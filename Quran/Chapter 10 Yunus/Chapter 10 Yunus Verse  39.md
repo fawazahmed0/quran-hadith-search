@@ -710,6 +710,12 @@ Da, vzimat za lŭzha znanieto, koeto ne obkhvashtat i oshte ne e doshlo pri tyak
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	သူတို့မရေးနိုင်ကြချေ။ သို့သော်သူတို့သည် ကျမ်းတော်ကြီးကို လက်မခံငြင်းပယ်ကြ၏။ သူတို့သည် ကုရ်အာန် ကျမ်းတော်ကို နားမလည်ကြချေ။ သူတို့ထံသို့ ကျမ်းတော်၏ အဓိပ္ပါယ်ကောက်ယူချက်သည် မလာသေးပေ။ သူတို့အလျင်လူတို့လည်း ဤကဲ့သို့ပင်ငြင်းပယ်ကြ၏။ ထို့ကြောင့်မကောင်းမှုကို ပြုကျင့်သူတို့အတွက် အဘယ် အကျိုးဆက်ရှိသည်ကို ကြည့်ရှုကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသို့အလျဉ်းမဟုတ်၊ စင်စစ်မူကား ၎င်း တို့ သည်မိမိတို့ကိုယ်တိုင် မသိနားမလည်သောအရာကို(စဉ်းစားဆင်ခြင်ခြင်းမပြုဘဲ) မဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ်ခဲ့ကြကုန်၏။ ထို့ပြင် တို့ထံ ယင်း၏ အကျိုးသည်လည်းရောက်ခဲ့သည်မရှိချေ။ ဤနည်းနှင်နှင် ၎င်း တို့အလျင် ရှေးအထက်ကျော်ကာရီ၌ရှိခဲ့ကြသောသူတို့ကလည်း မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်ခဲ့ဖူးကြလေသည်။ သို့ဖြစ်ပေရာ(အို-နဗီတမန်တော်) မတရားသောသူတို့သည် မည်သို့မည်ပုံ အကျိုးခံစားခဲ့ကြရသည်ကို အသင်သည် ကြည့်ရှုဆင်ခြင်ပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

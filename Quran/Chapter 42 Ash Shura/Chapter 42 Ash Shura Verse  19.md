@@ -710,6 +710,12 @@ Allakh e zhalostiv kŭm Svoite rabi. Dava Toĭ prepitanie na kogoto pozhelae. T
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	အလ္လာဟ်အရှင်မြတ်သည် မိမိ၏ကျေးကျွန်တော်များကို သနားကြင်နာတော်မူ၏၊ အလိုတော်ရှိသူတို့အား စားနပ် ရိက္ခာစည်းစိမ်ဥစ္စာချပေးသနားတော်မူ၏၊ အရှင်မြတ်သည် ခွန်အားဗလကြီးမားတော်မူ၏၊ အနန္တတန်ခိုးတော် အရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် မိမိကျွန်တို့၏အလွန်နက်နဲသိမ်မွေ့သော အရေးကိစ္စတို့ကိုပင် ကောင်းစွာသိတော်မူသော အရှင်ဖြစ်တော်မူ၏။ ထိုအရှင်မြတ်သည် မိမိအလိုရှိတော်မူသောသူအား (မိမိအလိုရှိတော်မူသရွေ့) စားနပ်ရိက္ခာကို ပေးသနားတော်မူ၏။ ၎င်းပြင် ထိုအရှင်မြတ်သည် စွမ်းရည်သတ္တိနှင့် အလွန်ပြည့်စုံတော်မူသောအရှင်၊ လွန်စွာ နိုင်နင်းလွှမ်းမိုးတော်မူသော အရှင်ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

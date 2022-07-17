@@ -710,6 +710,12 @@ Nie sŭzhivyavame mŭrtvite. I zapisvame kakvo sa napravili otnapred, i sledite 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	ငါအရှင်မြတ်သည် သေသူတို့ကို ရှင်ပြန်ထစေတော်မူ၏၊ သူတို့၏ တင်ကြိုပို့ထားနှင့်သောအမှုအခင်းများနှင့် နောက်တွင် ကျန်ရစ်သောအမှုအခင်းများကိုလည်း ငါသည် မှတ်သားထားတော်မူ၏၊ အရာခပ်သိမ်းကို သက်သေ ခံချက်စာရင်းစာအုပ်ကြီးတွင် အစုံအလင်ရှင်းလင်းစွာရေးသားမှတ်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မလွဲဧကန် ငါအရှင်မြတ်သည်သာလျှင် သူသေတို့အား ရှင်စေတော်မူပေမည်။ ထို့ပြင် ငါအရှင်မြတ်သည် ထိုသူတို့ ကြိုတင် ပို့ခဲ့ကြသည်များကိုလည်းကောင်း၊ ထိုသူတို့၏ ခြေရာများကိုလည်းကောင်း၊ (တစ်နည်း) ထိုသူတို့သည် နောက်တွင် ချန်ရစ်ခဲ့ကြသည်များကိုလည်းကောင်း၊ ရေးသားထားတော်မူ၏။ ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို ထင်ရှားစွာသော မှတ်တမ်းစာအုပ်တွင် တိကျစွာ ရေတွက် မှတ်သားတော်မူခဲ့ပြီး ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ot neya vi sŭtvorikhme i v neya vi vrŭshtame, i ottam shte vi izvadim oshte ve
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။	ငါသည် သင်တို့ကို ပထဝီမြေဖြင့် ဖန်ဆင်းတော်မူ၏။ မြေကြီးထဲသို့ ပြန်သွင်းတော်မူ၏။ တဖန်မြေကြီးထဲမှ ဒုတိယအကြိမ်ထုတ်ယူတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းပထဝီမြေကြီးမှပင် ငါအရှင်မြတ်သည်အသင်တို့အား ဖန်ဆင်းတော်မူခဲ့လေသည်။ ၎င်းပြင် ယင်းပထဝီမြေကြီး၌ပင် ငါအရှင်မြတ်သည် (အသင်တို့အားတစ်ဖန်ပြန်လည်၍ ရောက်စေတော်မူပေမည်။ ထိုမှတစ်ပါး ယင်းပထဝီမြေကြီးမှပင် ငါအရှင်မြတ်သည် အသင်တို့အား ဒုတိယအကြိမ် ထွက်စေတော်မူအံ့သတည်း။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

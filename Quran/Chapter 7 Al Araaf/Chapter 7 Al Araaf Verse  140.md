@@ -710,6 +710,12 @@ Kaza: “Nima drug, a ne Allakh shte vi tŭrsya za bog, sled kato vi predpochete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄ဝ။	တမန်တော်သည် ဆက်လက်၍ ဟောကြား၏။ အလ္လာဟ်အသျှင်မြတ်သည် သင်တို့အား လူသား အပေါင်းတို့ထက်သာလွန်၍ ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူ၏။ အလ္လာဟ်အသျှင်မြတ်မှတစ်ပါး အခြားဘုရားကို အကျွနု်ပ်သည် သင်တို့အတွက် ရှိာမှီးရမည်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (နဗီတမန်တော်)မူစာက (ဆက်လက်၍)ပြောကြားခဲ့သည်မှာ အချင်းတို့ ငါသည် အသင်တို့အဖို့ အလ္လာဟ်အရှင်မြတ်မှတစ်ပါး အခြားကိုးကွယ်ရာတစ်ပါးကို ရှာဖွေ၍ပေးရပါမည်လော၊ အမှန်စင်စစ်သော်ကား ထို(အလ္လာဟ်)အရှင်မြတ်သည် (အချို့ သောကျေးဇူးတော်များတွင်) အသင်တို့အားစကြဝဠာ ခပ်သိမ်းတို့ထက် ထွတ်မြတ်စေတော်မူခဲ့ပြီး ဖြစ်ချေသည် ဟု ပြောကြားခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

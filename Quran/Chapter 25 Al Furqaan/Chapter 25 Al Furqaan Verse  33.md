@@ -710,6 +710,12 @@ I ne shte doĭdat pri teb s primer, bez da sme ti donesli istinata [za nego] i 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	အို--တမန်တော်၊ သူတို့သည် တစ်စုံတစ်ခုသောဥပမာကို သင့်ထံသို့ယူဆောင်ခဲ့လျှင် ငါသည် ထိုအကြောင်းနှင့် စပ်လျဉ်း၍ မှန်ကန်သောအဖြေကို သင့်အား ပေးသနားတော်မူ၏၊ သူတို့၏ဥပမာထက်သာလွန်သောချေပချက်ကို ပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ၎င်းတို့သည် အသင့်ထံသို့ မည်မျှပင် အံ့ဖွယ်ထူးဆန်းသော ဥပမာ ပုံဆောင်ချက်ကိုပင် ယူဆောင်၍ လာကြစေကာမူ၊ ငါအရှင်မြတ်သည် တိကျမှန်ကန်သည့်ပြင် ရှင်းလင်းဖော်ပြချက်အားဖြင့် ပိုမို၍ကောင်းမွန်သော (၎င်း၏)အဖြေကို အသင့်ထံသို့ ပို့ဆောင်တော်မူခဲ့သည် ချည်းသာ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

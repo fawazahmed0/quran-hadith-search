@@ -710,6 +710,12 @@ Onezi, koito ne vyarvat i vŭzpirat ot pŭtya na Allakh, i se protivyat na Prate
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	မှတ်သားကြလော့၊ လမ်းညွန်တရားတော်ထွန်းလင်းတောက်ပပြီးသည့်နောက် ယုံကြည်မှုတရားမရှိပဲ အလ္လာဟ် အရှင်မြတ်၏ လမ်းတော်မှ လှည့်ထွက်သွားပြီးလျှင် တမန်တော်ကို ဆန့်ကျင်ခုခံသောသူတို့သည် အရှင်မြတ်အား တစ်စုံတစ်ရာမျှဆုံးရှုံးနစ်နာစေသည်မဟုတ်ချေ၊ အရှင်မြတ်သည် ထိုသူတို့၏ ပြုကျင့်မှုများကို အကျိုးမဲ့အချည်းနှီး ဖြစ်စေတော်မူလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် အကြင်သူတို့သည် သွေဖည်ငြင်းပယ်ခဲ့ကြကုန်၏။ ထို့ပြင် ၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ်၏လမ်းမှ(လည်း) တားဆီးခဲ့ကြကုန်၏။ ထိုမှတစ်ပါး ၎င်းတို့သည် ရစူလ်တမန်တော်မြတ်အား ဆန့်ကျင်ဘက် ပြုလုပ်ခဲ့ကြကုန်၏။၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ်အား အနည်းငယ်စိုးစဉ်းမျှပင် အကျိုးယုတ်စေနိုင်ကြမည် မဟုတ်ပေ။ သို့ရာတွင် ထိုအရှင်မြတ်သည် အမှန်ပင် ၎င်းတို့၏ ပြုလုပ်ဆောင်ရွက်ချက်တို့ကို အချည်းနှီး ဖြစ်စေတော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

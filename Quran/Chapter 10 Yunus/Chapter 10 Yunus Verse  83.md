@@ -710,6 +710,12 @@ No poradi strakh ot mŭchenieto na Faraona i znatnite mu khora, na Musa povyarva
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၃။	သို့သော်သူ၏ အမျိုးသားအချို့မှတပါး အခြားသူတို့သည် တမန်တော်မူစာကို မယုံကြည်ကြချေ။ သူတို့သည် ဖွာရောမင်းနှင့် ၎င်း၏ မှုးမတ်တို့နှိပ်စက်ကလူပြုမည်ကို အလွန်ပင်ကြောက်ရွ့ံကြ၏။ မှတ်သားကြလော့၊ ဖွာရောမင်းသည် မိမိနိုင်ငံအတွင်း မတရားညှင်းပန်းနှိပ်စက်သောအာဏာရှင်မုချဖြစ်၏။ မှတ်သားကြလော့၊ သူသည် မတရားမင်းအမှန်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် နဗီတမန်တော်မူစာအား ထို(နဗီတမန်တော်မူစာ)၏ အမျိုးသားတို့အနက်မှ ဖစ်ရ်အောင်န်နှင့်မိမိတို့၏အနက်မှ အကြီးအကဲတို့သည် မိမိတို့အား အန္တရာယ်ပြုကြမည်ဟု စိုးရိမ်ကြီးစွာရှိနေကြသဖြင့် လူတစ်စုသာလျှင်ယုံစား (ယုံကြည်ထောက်ခံ) ခဲ့ကြလေသည်။ စင်စစ်မှာမူကားဖစ်ရ်အောင်န်သည်(ထိုစဉ်အခါက)တိုင်းပြည်တွင် လွှမ်းမိုးကြီးစိုးနေသူဖြစ်ခဲ့သည့်ပြင်၊ ဧကန်စင်စစ် ၎င်း သည် ကျူးကျော်လွန်ကဲသူတစ်ဦးလည်း ဖြစ်ခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

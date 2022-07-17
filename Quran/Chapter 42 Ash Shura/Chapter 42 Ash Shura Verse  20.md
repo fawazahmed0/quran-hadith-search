@@ -710,6 +710,12 @@ Tozi, koĭto zhelae da zhŭne v otvŭdniya zhivot, na nego shte uvelichim zhŭt
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	အကြင်သူသည် နောင်တမလွန်ဘဝ၏ အသီးအနှံများကို တပ်မက်မောအ့ံ၊ ထိုသူအတွက် ငါသည် ထိုအသီး အနှံများကို ဖွံ့ဖြိုးစေတော်မူမည်၊ အကြင်သူသည် လောကီစည်းစိမ်တည်းဟူသောအသီးအနှံများကို လိုလားအ့ံ၊ ငါသည် ထိုသူအား အသီးအနှံများကို ဖွံ့ဖြိုးစေတော်မူမည်၊ အကြင်သူသည် လောကီစည်းစိမ်တည်းဟူသော အသီးအနှံများကို လိုလားအ့ံ၊ ငါသည် ထိုသူအား ထိုအသီးအနှံများကို ပေးတော်မူမည်၊ သို့သော်ထိုသူမှာ နောင်ဘဝအသီးအနှံ၌ ဝေစုမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သူမဆို အာခိရသ်တမလွန်ဘဝ၏ လယ်ယာစိုက်ပျိုးမှုကို လိုလားသည်ရှိသော် ငါအရှင်မြတ်သည် ၎င်း အား၎င်း၏လယ်ယာစိုက်ပျိုးမှုတွင် တိုးပွား စေတော်မူပေမည်။သို့ရာတွင် မည်သူမဆို (ဤမျက်မှောက်)လောက၏ လယ်ယာစိုက်ပျိုးမှု လိုလားပါမူ ငါအရှင်မြတ်သည် ၎င်းအား(လည်း)ဤ(မျက်မှောက်)လောကမှ အနည်းငယ်ပေးတော်မူမည်။ သို့ရာတွင် အာခိရတ်တမလွန်ဘဝ၌မူကား ၎င်း၏အဖို့ မည်သည့်ဝေစုဝေပုံမျှပင် ရှိလိမ့်မည်မဟုတ်ပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

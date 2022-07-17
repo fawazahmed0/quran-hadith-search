@@ -710,6 +710,12 @@ Ne byagaĭte i se vŭrnete tam, kŭdeto byakhte sviknali na razkosh, i kŭm svo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	သို့သော်သူတို့အား မိန့်တော်မူသည်မှာ နင်တို့မပြေးကြလင့်၊ နင်တို့အား စစ်ကြောမေးမြန်းဖို့ရာ နင်တို့ကို ညစ်ညမ်းအားလျော့စေသောဘဝသို့ ပြန်ကြလော့၊ နင်တို့နေအိမ်သို့ ပြန်သွားကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ ကောင်းကင်တမန်များက ၄င်းတို့အားပြက်ရယ်သောအားဖြင့်)"အသင်တို့သည် မပြေးကြကုန်လင့်။ အသင်တို့သည် စည်းစိမ်အဖြစ် ချီးမြှင့် ပေးသနားခြင်းခံခဲ့ ကြရသော ဥစ္စာပစ္စည်းများ(ရှိရာ)သို့လည်းကောင်း၊ မိမိတို့နေအိမ်များသို့လည်းကောင်း၊ပြန်ခဲ့ကြလေကုန်။ အသင်တို့သည် မေးမြန်းခြင်း ခံကြရာသည်၊"(ဟုပြောဆိုခဲ့ကြကုန်၏)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

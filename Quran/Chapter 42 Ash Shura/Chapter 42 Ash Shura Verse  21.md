@@ -710,6 +710,12 @@ Nima imat sŭdruzhnitsi, uzakonyavashti im v religiyata onova, koeto Allakh ne i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	အလ္လာဟ်အရှင်မြတ်သည် ပညတ်တော်မမူသည့်မိစ္ဆာအယူဝါဒကို ၎င်းတို့လိုက်နာကျင့်မူရန် အတည်ပြုထားသော ဘုရားတုများ သူတို့မှာ ရှိကြသလော၊ အကယ်၍ ငါသည် ထိုသူတို့ကို စစ်ကြောစီရင်တော်မူသောနေ့တော် ကြီးရောက်မှ ဆုံးဖြတ်စီရင်တော်မူမည်ဟူသောကတိဗျာဒိတ်တော်ကို ခတ်နှိပ်စီရင်ထားတော်မူပြီးမဟုတ်လျှင် ၎င်းတို့အလည်ကြား၌ တရားကို ဆုံးဖြတ်စီရင်တော်မူပြီးလတ့ံ၊ စင်စစ်မှာ မိစ္ဆာဒိဋ္ဌိတို့သည် အလွန်ပြင်းပြနာကျင် ဖွယ်သောအပြစ်ဒဏ်ကို ခံစားကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့၌ အလ္လာဟ်အရှင်မြတ်က ခွင့်ပြုတော်မူခြင်းမရှိသော ဒီန်သာသနာမျိုးကို ၎င်းတို့အဖို့ သတ်မှတ်ပြဋ္ဌာန်း၍ပေးခဲ့ကြသော တွဲဖက်(ကိုးကွယ်ရာ)များရှိကြသလော။အမှန်စင်စစ်သော်ကား စီရင်ဆုံးဖြတ်ရန် အမိန့်တော်တစ်ရပ်သည် (ရှေးဦးမဆွက)မရှိခဲ့ပါလျှင် ၎င်းတို့အကြား၌ စီရင်ဆုံးဖြတ်ခဲ့ပြီး ဖြစ်မည်သာ။ သို့တစေလည်း မတရားသောသူတို့၌မူကား ပြင်းပြ နာကျင်ဖွယ်ဖြစ်သော ပြစ်ဒဏ်သည် ဧကန်မလွဲရှိချေအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

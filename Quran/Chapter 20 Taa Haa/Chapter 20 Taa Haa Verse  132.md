@@ -710,6 +710,12 @@ I poveli na tvoeto semeĭstvo da ot·sluzhva molitvata, i samiyat ti postoyanst
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၂။	ထို့အပြင်သင်သည် မိမိလူများကို ဆွလားသ်ဝတ်ပြုရန် ဆင့်ဆိုလော့၊ ထိုဝတ်၌ တည်ကြည်ခိုင်မြဲလော့၊ ငါ သည် သင့်ထံမှ ရိက္ခာတောင်းတော်မမူချေ၊ ငါကသာလျှင် သင်တို့ကို ရိက္ခာပေးသနားတော်မူ၏၊ ဤဆုတော် သည် သူတော်ကောင်းတို့အဖို့သာလျှင်ဖြစ်သည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်သည် မိမိအိမ်သူအိမ်သား တပည့်သာဝကတို့အား ဆွလာတ်ဝတ်ပြုကြရန် အမိန့်ပေးလျက်ရှိပါလေ။ ထို့ပြင် အသင်ကိုယ်တိုင်လည်း ယင်းဆွလာတ်ဝတ်ပြုမှုအပေါ်၌ မယိမ်းမယိုင်တည်ကြည် မြဲမြံစွာရှိပါလေ။ ငါအရှင်မြတ်သည် အသင့် ထံတွင် စားနပ်ရိက္ခာကို တောင်းခံတော်မူမည် မဟုတ်ပေ။ (အမှန်မှာ) ငါအရှင်မြတ်သည်သာလျှင် အသင့်အား ရိက္ခာကို ချီးမြှင့်တော်မူလေသည်။ စင်စစ်နောက်ဆုံးအကျိုးဆက်သည် သူတော်စင်တို့အဖို့သာ ဖြစ်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

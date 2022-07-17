@@ -710,6 +710,12 @@ Onezi, koito se zakŭlnat da ne bŭdat s zhenite si - da izchakat chetiri mesets
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂၆။	အကြင်သူတို့သည် မိမိတို့ဇနီးမိန်းမနှင့် မပေါင်းသင်းပါဟူ၍ကျိန်ဆိုမိလျှင် ထိုသူတို့သည် လေးလ တိုင်တိုင် ဆိုင်းင့ံနေရမည်။ လေးလစေ့သောအခါ သူတို့စိတ်ပြောင်းလျှင် အရှင်မြတ်သည် အပြစ် လွှတ်တော်မူသောအရှင် ကောင်းချီးမင်္ဂလာပေးသနားတော်မူသောအရှင် မုချဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မိမိတို့၏ဇနီးမိန်းမများနှင့် (ကာယသံသဂ္ဂအမှု ပြုကြမည်မဟုတ်ပါဟု) ကျိန်ဆိုသူများအဖို့ လေးလစောင့် ဆိုင်းခွင့်ရှိ၏။ အကယ်၍ ထိုသူတို့သည် (ထိုကဲ့သို့) ကျိန်ဆိုပြီး နောက် (4-လအတွင်း မိမိ တို့၏ကျိန်ဆိုချက်ကို) ပြန်လည်ရုပ် သိမ်းကြပါလျှင် မုချဧကန် အလ္လာဟ်အရှင်မြတ်သည် အလွန် လွတ်ငြိမ်းချမ်းသာခွင့် ပေးသနားတော်မူသောအရှင်၊ အလွန် ကရုဏာပြုတော်မူသောအရှင် ဖြစ်တော် မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

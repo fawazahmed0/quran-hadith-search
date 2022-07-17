@@ -710,6 +710,12 @@ Bagrata na Allakh! A koĭ e po-khubav ot Allakh po bagra? Samo na Nego sluzhim
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၈။	အကျွန်ုပ်တို့သည် အကျွန်ုပ်တို့၏ အဆင်းအရောင်ကို အလ္လာဟ်ထံမှယူသည်။ အရောင်ဆိုးရာ၌ အဘယ်သူသည် အလ္လာဟ်ထက်သာမည်နည်း။ အကျွန်ု်ပ်တို့သည် အရှင်မြတ်အား ကိုးကွယ်သူများ ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-မုစ်လင်မ် အပေါင်းတို့၊ အသင်တို့သည် ယဟူဒီနှင့် ခရစ်ယာန် ဘာသာဝင်တို့ကို ဟယ်-အချင်းတို့ အကျွန်ုပ်တို့ကို) အလ္လာဟ် အရှင်မြတ်သည် (အစ္စလာမ်သာသနာတော်၏) ဆေးရောင်ဖြင့် ချယ်ထားတော် မူလေပြီ။ ထိုအလ္လာဟ်အရှင်မြတ်ထက်ပင် သာ၍ ကောင်းမွန်စွာ ဆေးရောင်ချယ်နိုင်သူ မည်သူရှိပါသေးသနည်း။ ထို့ကြောင့် အကျွန်ုပ်တို့သည် ထိုအလ္လာဟ် အသျှင်မြတ်ကို သာလျှင် ခဝပ်ကိုးကွယ်ကြသူများ ဖြစ်ကြသည် (ဟု ပြောဆိုကြ ကုန်လော့)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

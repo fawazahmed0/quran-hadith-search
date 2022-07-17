@@ -710,6 +710,12 @@ Nie gi sŭtvorikhme i ukrepikhme telata im, a ako pozhelaem, napŭlno shte gi za
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။ ငါသည် ထိုသူတို့ကို ဖန်ဆင်းတော်မူ၏၊ သူတို့၏ ကိုယ်ခန္ဓာကို အင်အားဖြည့်တင်းကြံ့ခိုင်စေတော်မူ၏၊ သို့သော်ငါသည် အလိုတော်ရှိသောအခါ ထိုသူတို့အားလုံးကို ကွပ်မျက်တော်မူပြီးလျှင် သူတို့အစားသူတို့နှင့် တူသောအခြားလူတို့ကို ယူခဲ့နိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည်ပင် ၎င်းတို့အား ဖန်ဆင်းတော်မူခဲ့သည့်ပြင် ငါအရှင်မြတ်သည်ပင် ၎င်းတို့၏ (ခန္ဓာကိုယ်၏) အဆစ်အဆက် အဆစ်အပိုင်းတို့ကို (အကြောအခြင်များဖြင့် ချည်နှောင်၍) ခိုင်ခံ့တော်မူစေခဲ့၏။ ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် အလိုရှိတော်မူသောအခါဝယ် ၎င်းတို့၏အစား ၎င်းတို့ကဲ့သို့ သောသူတို့အား လဲလှယ်တော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

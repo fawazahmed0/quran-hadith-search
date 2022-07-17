@@ -710,6 +710,12 @@ Sŭbotata be storena samo za onezi, koito byakha v raznoglasie za neya. V Denya 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၄။	ယဟူဒီလူမျိုးတို့စောင့်သောဥပုသ်ကို ထိုဥပုသ်နှင့်စပ်လျဉ်း၍ အငြင်းအခုံပြုလုပ်သူတို့အဖို့သာ ပြဋ္ဌာန်းထားတော် မူလေ၏။ မှတ်သားလော့။ သင်၏ ကျေးဇူးတော်သခင်သည် သူတို့အား ၎င်းတို့အချင်းချင်းကွဲပြားငြင်းခုံသော အမှုအခင်းများနှင့်ပတ်သက်၍ သူတို့အလယ်ကြားတွင် ရှင်ပြန်ထမြောက်ရသောနေ့တော်ကြီး၌ စစ်ကြောစီရင် တော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စဗ်တ် (ဥပုသ်)နေ့(ကို ရိုသေလေးစားရန်အမိန့်တော်)သည် ထို စဗ်တ် (ဥပုသ်)နေ့နှင့် စပ်လျဉ်း၍သဘောကွဲလွဲကြကုန်သောသူတို့အပေါ် ၌သာလျှင် (အတည်)ပြုလုပ်ခြင်း ခံခဲ့ရလေသည်။ ၎င်းပြင် ဧကန်အမှန် အသင့်အားဖန်ဆင်းမွေးမြူ တော်မူသောအရှင်မြတ်သည် ကိယာမတ်ရှင်ကြကပြန်ထမည့်နေ့တွင် ၎င်းတို့သဘောကွဲလွဲလျက်ရှိခဲ့ကြသောအရာနှင့်စပ်လျဉ်း၍ အမှန်ပင် စီရင်ဆုံးဖြတ်တော်မူအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

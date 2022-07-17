@@ -710,6 +710,12 @@ I go predizvestikhme s tazi povelya, che korenŭt na tezi shte bŭde ot·sechen 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၆။	ငါအရှင်မြတ်သည် သူ့အား သူတို့အနက် ဒုစရိုက်ပြစ်မှုကျူးလွန်သူတို့ကို နံနက်စောစောတွင် ချေမှုန်းပစ်မည်ကို ထင်ရှားစေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ငါအရှင်မြတ်သည် ထိုလူတ်၏ထံသို့ဧကန်စင်စစ် ထိုမြို့သားများ၏ အခြေအမြစ်သည် နံနက်မိုးလင်းချိန်၌ ဖြတ်တောက်ပြီး ဖြစ်ချိမ့်မည် ဟူသော စီရင်ဆုံးဖြတ်ချက်ကို ပေးပို့တော်မူခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

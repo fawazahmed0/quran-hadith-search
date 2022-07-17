@@ -710,6 +710,12 @@ I ako Allakh dadeshe izobilno prepitanie za vsichki Svoi rabi, shtyakha da prest
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	အကယ်၍ အလ္လာဟ်အရှင်မြတ်သည် မိမိကျေးကျွန်များအတွက် စားနပ်ရိက္ခာစည်းစိမ်ဥစ္စာများကို တိုးပွားကျယ် ဝန်းစေတော်မူခဲ့ပါလျှင် သူတို့သည် ကမ္ဘာတဝှမ်းလုံး၌ တရားကျုးလွန်၍ ဧကန်အမှန်သောင်းကျန်းခဲ့ကြလတ့ံ၊ သို့သော်အရှင်မြတ်သည် ကျေးဇူးတော်များကို ချင့်ချိန်တိုင်းဆသင့်လျော်ရုံမျှ အလိုတော်အတိုင်းချပေးသနားတော် မူ၏၊ အရှင်မြတ်သည် မိမိကျေးကျွန်တို့ကို အကြွင်းမဲ့သိတော်မူ၍ စောင့်ကြည့်နေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်မှာကား အကယ်၍သာ အလ္လာဟ်အရှင်မြတ်သည် မိမိကျွန်(အပေါင်း)တို့အား စားနပ်ရိက္ခာကို ကျယ်ဝန်းပေါများစွာ ချီးမြှင့်တော်မူခဲ့ပါလျှင် အမှန်ပင် ထိုကျွန်(အပေါင်း)တို့သည် ကမ္ဘာမြေဝယ် ဆိုးသွမ်း သောင်းကျန်းခဲ့ကြမည်သာ။ သို့ရာတွင် အရှင်မြတ်သည်(စားနပ်ရိက္ခာကို တဖြည်းဖြည်း) မိမိအလိုရှိတော် မူသောအတိုင်းအတာနှင့်အမျှ ချပေးတော်မူ၏။ စင်စစ်ဧကန် ထိုအရှင်မြတ်သည် မိမိကျွန်အပေါင်းတို့နှင့် ပတ်သက်၍ ကောင်းစွာသိတော်မူသောအရှင်၊ကောင်းစွာ မြင်တော်မူသောအရှင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

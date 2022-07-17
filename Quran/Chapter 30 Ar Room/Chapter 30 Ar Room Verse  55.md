@@ -710,6 +710,12 @@ V Denya, kogato nastane Chasŭt, prestŭpnitsite shte se kŭlnat, che sa prebiva
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။	အချိန်တော်ကြီးဆိုက်ရောက်လာသောနေ့၌ အပြစ်ရှိသူများက သူတို့သည် တစ်နာရီအချိန်လောက် ဆိုင်းင့ံနေခဲ့ပါ သည်ဟု ကျိန်ဆိုကြလတ့ံ၊ ထိုသို့သူတို့သည် လှည့်စားခြင်းကို အမြဲခံရကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင်"ကိယာမတ်"ရှင်ပြန်ထမည့်နေ့၏ အချိန်အခါ ဆိုက်ရောက်လာသောနေ့တွင် ပြစ်မှုကျူးလွန်ခဲ့ကြကုန်သော သူတို့သည် မိမိတို့မှာ တစ်နာရီထက်ပို၍ နေခဲ့ကြသည်မဟုတ်ဟု(ကျိန်တွယ်၍ပြောဆို)ကြပေမည်။ ၎င်းတို့သည် ဤနည်းအတိုင်းပင်(လောကီဘဝ၌)လှည့်စားလျက် ရှိခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

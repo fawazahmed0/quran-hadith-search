@@ -710,6 +710,12 @@ Kaza [Faraonŭt]: “A koĭ e vashiyat Gospod, o, Musa?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	ဖာရောမင်းက အို--မူစာ၊ သင်တို့နှစ်ဦး၏ အရှင်သခင်သည် အဘယ်သူနည်းဟု မေး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 း 49| ယင်းဖိရ်အောင်(န်)က သို့ဖြစ်လျှင် အို-မူစာအသင်တို့ နှစ်ဦးအား ဖန်ဆင်းတော်မူသောအရှင်သည် မည်သူနည်း ဟု ပြောဆို(မေးမြန်း)လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

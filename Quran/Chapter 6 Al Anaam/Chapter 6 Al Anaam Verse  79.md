@@ -710,6 +710,12 @@ Az obŭrnakh pravoveren svoeto litse kŭm Onzi, Koĭto e sŭtvoril nebesata i z
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၉။	မှတ်သားကြလော့။ အကျွနု်ပ်သည် ဖြောင့်မတ်မှန်ကန်သူတစ်ဦးဖြစ်သည့်အတိုင်း အကျွနု်ပ်သည် မိုးကောင်းကင်နှင့် ကမ္ဘာမြေကြီးကို ဖန်ဆင်းတော်မူထသော အသျှင်မြတ်ဘက်တော်သို့သာလျှင် မျက်နှာမူ၏။ အကျွနု်ပ်သည် ရုပ်ပွားဆင်းတုများကို ကိုးကွယ်သူတို့ဘောင်တွင် မပါဝင်ပေဟု ရင့်ကျူး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ငါသည် မိမိမျက်နှာကို မိုးများနှင့်ကမ္ဘာမြေကို ဖန်ဆင်းတော်မူသောအရှင်မြတ်ဖက်သို့သာလျှင်အာရုံစူးစိုက်လျက် လှည့်ခဲ့လေပြီ။ စင်စစ်သော်ကား ငါသည်(တစ်စုံတစ်ရာကို အလ္လာဟ်အရှင်မြတ်နှင့်) တွဲဖက်ယှဉ်ပြိုင်ကိုးကွယ်သော သူတို့အနက်မှာ မဟုတ်ပြီ။(တစ်နည်း။)မုချဧကန် ကျွန်ုပ်သည် (အခြားသောလမ်းစဉ်များကိုစွန့်လွှတ်၍) တစ်စိတ်တစ်လတ်တည်း ဖြောင့်မတ်တည်ကြည်သူအဖြစ်ဖြင့် မိမိမျက်နှာကို မိုးကောင်းကင်များနှင့်ကမ္ဘာမြေကြီးကို ဖန်ဆင်းတော်မူသော အရှင်မြတ်ဖက်သို့လှည့်ပါပြီ။ ၎င်းပြင် ကျွန်ုပ်သည် မုရှ်ရစ်က်များတွင် အပါအဝင်မဟုတ်ပါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

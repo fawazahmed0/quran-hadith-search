@@ -710,6 +710,12 @@ Kazhi: “Dostatŭchen e Allakh za svidetel mezhdu men i vas. Toĭ za Svoite ra
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၆။	တဖန် ဟောကြားလော့။ အလ္လာဟ်အရှင်မြတ်သည် အကျွနု်ပ်နှင့်သင်တို့အလယ်ကြားတွင် သက်သေတော်အဖြစ် ဖြင့် လုံလောက်တော်မူ၏။ မှတ်သားကြလော့။ အလ္လာဟ်အရှင်မြတ်သည် အရှင်၏ ကျေးကျွန်များကို သိတော်မူ သောအရှင်၊ မြင်တော်မူသောအရှင်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (၎င်းတို့အားဤသို့) ပြောကြားပါလေ။ (အချင်းတို့)အလ္လာဟ် အရှင်မြတ်သည်ပင် ငါနှင့်အသင်တို့၏ စပ်ကြားဝယ် သက်သေအဖြစ်လုံလောက်တော်မူ၏။ အကြောင်းမူကား ထိုအရှင်မြတ်သည်မိမိကျွန်အပေါင်းတို့နှင့် ပတ်သက်၍ အကြွင်းမဲ့သိတော်မူသော၊အကြွင်းမဲ့ မြင်တော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူသောကြောင့်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

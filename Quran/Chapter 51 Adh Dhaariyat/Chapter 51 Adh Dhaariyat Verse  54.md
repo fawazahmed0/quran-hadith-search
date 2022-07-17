@@ -710,6 +710,12 @@ Otvŭrni se ot tyakh i ne shte bŭdesh uprekvan
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၄။	ထို့ကြောင့် သူတို့ထံမှ ထွက်ခွာသွားလော့၊ သတိပေးနှိုးဆော်ခြင်းသည် ယုံကြည်သူတို့ကို အကျိုးပေး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်၊) အသင်သည် ၎င်းတို့အား လျစ်လျူရှုနေပါလေ။ အကြောင်းသော်ကား အသင်သည် ပြစ်တင်ခြင်းခံရမည် မဟုတ်သောကြောင့်ပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

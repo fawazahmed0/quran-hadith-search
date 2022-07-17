@@ -710,6 +710,12 @@ I ot milosŭrdie spusni za tyakh kriloto na smirenieto i kazhi: “Gospodi moĭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	သင်တို့သည် မိဘတို့အား ဂရုဏာသဘောနှင့်ခယရိုသေခြင်းအတောင်ကို နှိမ့်ချကြလော့။ ၎င်းအပြင်မိဘတို့ အတွက် အို-အကျွနု်ပ်၏ ကျေးဇူးတော်သခင် အကျွနု်ပ်၏ မိဘနှစ်ပါးသည် အကျွနု်ပ်အား ငယ်စဉ်တောင်ကျေး ကလေးဘဝတွင် ကျွေးမွေးပြုစုသကဲ့သို့ အရှင်ကလည်း ထိုမိဘနှစ်ပါးကို သနားစောင့်ရှောက်ချီးမြှောက်တော်မူပါ ဟု ဆုတောင်းပဌနာပြုကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းအပြင် အသင်သည် ထိုမိဘနှစ်ပါး၏ ရှေ့မှောက်တွင် ၎င်းတို့အပေါ်၌ ကရုဏာတရားထားရှိ သောအားဖြင့် ကျိုးနွံစွာရှိပါလေ။ ထို့ပြင် အသင်သည် (ထိုမိဘနှစ်ပါးနှင့်ပတ်သက်၍ အလ္လာဟ်အရှင်မြတ်အထံတော်၌) အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူ တော်မူသောအရှင်၊ ထိုမိဘနှစ်ပါးသည်ကျွန်တော် မျိုးအား ငယ်စဉ်တောင်ကျေး ကလေးဘဝ၌ ပြုစုပျိုးထောင်ခဲ့ကြသကဲ့သို့ပင် အရှင်မြတ်သည်လည်း ၎င်းတို့နှစ်ပါးအပေါ်၌ ကရုဏာပြုတော်မူပါဟု လျှောက်ထားပန်ကြားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

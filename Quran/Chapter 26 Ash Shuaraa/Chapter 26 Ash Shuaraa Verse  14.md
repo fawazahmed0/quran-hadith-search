@@ -710,6 +710,12 @@ I imam gryakh pred tyakh, zatova me e strakh da ne me ubiyat.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	အကျွန်ုပ်အပေါ်တွင် ထိုလူများနှင့်စပ်လျဉ်း၍ အမှုတစ်ခုရှိပါသည်၊ ထို့ကြောင့်သူတို့သည် အကျွနု်ပ်အား ဖမ်းဆီး၍ အဆုံးစီရင်မည်ကို ကြောက်ပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့နှင့်ပက်သက်၍ ကျွန်တော်မျိုး၏အပေါ်၌ အပြစ်တစ်ခုလည်းရှိနေပါသဖြင့် ၎င်းတို့ သည်ကျွန်တော်မျိုးအား သတ်ဖြတ်ကြမည်ကိုလည်း ကျွန်တော်မျိုးစိုးရိမ်မိပါသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

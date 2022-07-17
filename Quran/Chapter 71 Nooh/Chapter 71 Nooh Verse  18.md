@@ -710,6 +710,12 @@ Posle shte vi vŭrne v neya i otnovo shte vi izvadi [v Sŭdniya den]
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။ ထို့နောက်သင်တို့ကို မြေကြီးထဲသို့ ပြန်ဝင်စေတော်မူ၏၊ တဖန်သင်တို့ကို မြေကြီးမှ ပြန်ထုတ်တော်မူလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက်တစ်ဖန် ထိုအရှင်မြတ်သည် အသင်တို့အား ယင်းပထဝီမြေထဲသို့ပင် ပြန်ရောက်စေတော် မူပေမည်။ ထို့နောက်တစ်ဖန် အသင်တို့အား (ယင်း မြေထဲမှ) အပြင်သို့ ထွက်စေတော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

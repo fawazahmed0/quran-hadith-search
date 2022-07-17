@@ -710,6 +710,12 @@ I [predi teb, o, Mukhammad, nevernitsite] kazvakha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၇၊၁၆၈၊၁၆၉။	ထိုမိစ္ဆာမိုက်တို့က မုချအမှန်ပြောဆိုလေ့ရှိကြသည်မှာ အကယ်၍ ငါတို့ထံသို့ ရှေးပေါရာဏလူဟောင်း ထံမှ သမ္မာတရားတော်ကို သတိရဝေရာ ကျမ်းစာတော်တစ်စောင်ရရှိပါလျှင် ငါတို့သည် အလ္လာဟ်အရှင်မြတ်အား စိတ်အားထက်သန်စွာနှင့် အမြတ်တနိုးကိုးကွယ်သော ကျေးတော်မျိုးကျွန်တော်မျိုးများ မုချဧကန်ဖြစ်လတ့ံဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ဧကန်မလွဲ ထို(မုရှ်ရစ်က်) တို့သည် (ဤသို့)ပြောဆိုလျက် ရှိခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

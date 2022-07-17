@@ -710,6 +710,12 @@ Kogato zemyata bŭde raztŭrsena v trus
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။ ကမ္ဘာမြေကြီးသည် မိမိ၏ နောက်ဆုံးငလျင်အားဖြင့် တုန်လှုပ်သောအခါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ပထဝီမြေသည် မိမိ ငလျင်လှုပ်ခြင်း၊ မိမိ သွက်သွက်ခါ တုန်လှုပ်ခြင်းဖြင့် တုန်လှုပ်ခြင်းကို ခံရလေသောအခါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I gi napravi sedem nebesa v dva dni, i otredi Toĭ na vsyako nebe negovoto delo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	ထို့နောက်အရှင်မြတ်သည် မိုးခုနစ်ထပ်ကို နှစ်ရက်အတွင်းဖန်ဆင်းတော်မူ၏၊ ထို့အပြင်မိုးတစ်ထပ်တစ်ထပ်အား ၎င်း၏ တာဝန်ဝတ္တရားကို ပညတ်တော်မူ၏၊ ထို့အပြင်ငါအရှင်မြတ်သည် လူသားတို့နှင့်အနီးဆုံးဖြစ်သောအောက် ဆုံးထပ်မိုးကောင်းကင်ကို မီးအိမ်များနှင့်ဆင်ယင်တော်မူ၏၊ ထိုအောက်ထပ်ဆကောင်းကင်ကို မဖျက်ဆီးနိုင် အောင် စီရင်ထားတော်မူ၏၊ အနန္တတန်ခိုးတော်သခင်၊ သဗ္ဗညုတဉာာဏ်တော်ရှင်သည် ယင်းသို့စီရင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ထိုအရှင်မြတ်သည် ယင်းမိုးကောင်းကင်ကို နှစ်ရက်နှင့် မိုးခုနစ်ထပ်ပြုလုပ်တော်မူခဲ့၏။ ထိုမှတစ်ပါးမိုးကောင်းကင် အသီးသီး၌ ၎င်းနှင့် သက်ဆိုင်သင့်မြတ်သောအမိန့်တော်ကို ထုတ်ပြန်တော်မူခဲ့၏။ ထို့ပြင်တစ်ဝ ငါအရှင်မြတ်သည် အနီးဆုံး(ဖြစ်သောအောက်ဆုံး)မိုးထပ်ကို ကြယ်နက္ခတ်ဖြင့် တင့်တယ်စွာ တန်ဆာဆင်ယင်တော်မူခဲ့၏။ ထိန်းသိမ်းတော်မူခဲ့၏။ ဤသည် အလွန်တရာ နိုင်နင်းလွှမ်းမိုး တော်မူသော၊ အာကြွင်းမဲ့သိတော်မူသော အရှင်မြတ်၏ စီမံခန့်ခွဲသတ်မှတ်ပြဌာန်းခြင်းပင် ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

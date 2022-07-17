@@ -710,6 +710,12 @@ SELAMUN KAWLÆN MIN RABBIN REHIMIN
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈။	ငြိမ်သက်စေကုန်၊ အနန္တကောင်းကြီးမင်္ဂလာတော်သခင်၏ နှုတ်ဆက်နှုတ်ကပတ်တော်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဖန်ဆင်းမွေးမြူတော်မူသော အလွန်တရာ သနားကြင်နာတော်မူသော အရှင်မြတ်အထံတော်မှ "စလာမ်" (ချမ်းမြေ့သာယာစေ)ဟူ၍ မိန့်ကြားတော်မူအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

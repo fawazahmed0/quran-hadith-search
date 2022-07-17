@@ -710,6 +710,12 @@ Togava Toĭ shte popravi delata vi i shte oprosti grekhovete vi. Koĭto se pok
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၁။	အလ္လာဟ်အရှင်မြတ်သည် သင်တို့၏ကုသိုလ်ကောင်းမှုများကို အကျိုးရှိစေတော်မူမည်၊ သင်တို့၏အပြစ်များကို လွှတ်တော်မူမည်၊ အကြင်သူသည် အလ္လာဟ်အရှင်မြတ်နှင့် အရှင်မြတ်၏ တမန်တော်၏ သြဝါဒကို နာယူ နားထောင်အ့ံ၊ ထိုသူသည် အလွန်ထင်ရှားမွန်မြတ်သောအောင်မြင်ခြင်းကို အမှန်ရရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် အသင်တို့အဖို့ အသင်တို့၏ ပြုမူကျင့်ဆောင်ချက်များကို ပြုပြင်၍ ပေးသနားတော် မူပေမည်။ ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် အသင်တို့အဖို့ အသင်တို့၏ ပြစ်မှုဒုစရိုက်များကို ခွင့်လွှတ်တော်မူပေမည်။ စင်စစ်သော်ကား မည်သူမဆို အလ္လာဟ်အရှင် မြတ်၏အမိန့်တော်ကိုလည်းကောင်း၊ ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော်မြတ်၏အမိန့်တော်ကိုလည်းကောင်း၊ လိုက်နာပါမူ မလွဲဧကန် ထိုသူသည် ကြီးကျယ်စွာ အောင်မြင်ပြီး ဖြစ်မည်တကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

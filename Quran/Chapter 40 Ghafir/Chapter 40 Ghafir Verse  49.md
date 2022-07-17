@@ -710,6 +710,12 @@ I onezi, koito sa v Ogŭnya, shte rekat na pazitelite na Ada: “Pozovete vashiy
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	ငရဲခံစားနေရသူတို့က ငရဲထိန်းတို့အား တောင်းပန်ကြမည်မှာ အကျွနု်ပ်တို့ကို တစ်နေ့မျှသာ ငရဲမှ ချမ်းသာ ပေးတော်မူပါရန် သင်တို့၏ အရှင်သခင်ထံ ဆုတောင်းပေးကြပါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ငရဲမီး၌ရှိကြသူ(အားလုံး)တို့သည် "ဂျဟန္နမ်" ငရဲဘုံကိုစောင့်ကြပ်သော("မလာအိကဟ်"ကောင်းကင်တမန်)တို့အား "အသင်တို့သည် မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်တွင် ဆုတောင်းပတ္ထနာပြုကြပါလျှင် ထိုအရှင်မြတ်သည် တစ်နေ့တလေမျှပင် ပြစ်ဒဏ်ကို ကျွန်ုပ်တို့မှ ပေါ့လျော့စေတော်မူမည်"ဟု ပြောဆို(အသနားခံ)ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

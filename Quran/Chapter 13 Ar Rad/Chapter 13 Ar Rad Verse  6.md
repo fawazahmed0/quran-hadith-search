@@ -710,6 +710,12 @@ Iskat ot teb da uskorish zlinata predi dobrinata, a veche minakha predi tyakh pr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	သူတို့မဖြစ်ပွားမီ မှတ်သားလောက်သောအပြစ်ဒဏ်တော်များဖြစ်ပေါ်ပြီးသော်လည်း သူတို့သည် သင်တမန်တော် အား အကျိုးသုခကို မတောင်းပဲ အပြစ်ဒုက္ခကိုသာ အမြန်ပေးရန် တောင်းဆိုကြ၏။ သို့သော်မှတ်သားကြလော့။ သင်၏ အရှင်သခင်သည် လူသားတို့၌ အပြစ်ရှိပြီးသော်လည်း သူတို့ကို ရက်ရက်ရောရောအပြစ်လွှတ်ထားတော် မူ၏။ တဖန်မှတ်သားလော့။ သင်၏ အရှင်သခင်သည် အပြစ်ဒဏ်ခတ်ရာ၌ ပြင်းထန်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ၎င်းတို့သည် အသင့်ထံ၌ ဘေးရန်ကင်းငြိမ်းခြင်းထက် အလျင် ဘေးအန္တရာယ်ကို အသင့်ထံ၌အလျင်စလိုတောင်းဆွဲကြကုန်၏။ အမှန်စင်စစ်သော်ကား ပြစ်ဒဏ်ခတ်မှုများသည် ၎င်းတို့အလျင်ရှိခဲ့ပြီး ဖြစ်ခဲ့ပေသည်။ ၎င်းပြင် မလွဲဧကန် အသင့်အားဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည် လူတို့နှင့်ပတ်သက်၍ ၎င်းတို့သည် မတရားမှုကိုကျူးလွန်သူများဖြစ်ကြပါလျက် လွတ်ငြိမ်းချမ်းသာခွင့် ပေးတော်မူသောအရှင်မြတ်လည်း ဖြစ်တော်မူပေသည်။ ထိုမှတစ်ပါးအသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် ပြင်းထန်စွာအပြစ်ပေးတော်မူသော အရှင်မြတ်လည်း အမှန်ပင်ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

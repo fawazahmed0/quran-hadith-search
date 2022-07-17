@@ -710,6 +710,12 @@ Az predavam samo izvestie ot Allakh i Negovi poslaniya. A koito ne se podchinyav
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။ သို့ရာတွင် ငါ၏ဝတ္တရားမှာမူကား အလ္လာဟ်အရှင်ထံမှ သစ္စာတရားတော်နှင့် ဗျာဒိတ်တော်တို့ကို ဟောပြော ကြေငြာရန်သာဖြစ်၏၊ အကြင်သူသည် အလ္လာဟ်အရှင်မြတ်နှင့် အရှင်မြတ်၏ တမန်တော်ကို နားမထောင် ဆန့်ကျင်အံ့၊ ထိုသူသည် အဝီစိငရဲသို့ လားရမည်သာတည်း၊ ငရဲတွင် အစဉ်ထာဝရနေရလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (စင်စစ်သော်ကား) အလ္လာဟ်အရှင်မြတ်၏ကိုယ်စား (ထိုအရှင်မြတ်၏အမိန့်တော်များကို အသင်တို့ထံ) ပို့ဆောင်၍သာလျှင်လည်းကောင်း၊ ထိုအရှင်မြတ်၏ အကြောင်းကြားချက်များကို (ပို့ဆောင်ခြင်း) သာလျှင် ကာကွယ်နိုင်ပေမည်။ (စွမ်းဆောင်နိုင်၏)။ စင်စစ်တမူကား မည်သူမဆို အလ္လာဟ်အရှင်မြတ်အားလည်းကောင်း၊ ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော်မြတ်အားလည်းကောင်း၊ ဖီဆန်သည်ရှိသော် ဧကန်အမှန် ထိုသူအဖို့ "ဂျဟန္နမ်" ငရဲမီးသည် ရှိပေသည်။ (၎င်းတို့မှာ) ယင်းမီး၌ အမြဲထာ၀စဉ် နေထိုင်သူများအဖြစ် (၀င်ရောက်ကြရလတ္တံ့)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

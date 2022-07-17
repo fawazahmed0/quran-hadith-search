@@ -710,6 +710,12 @@ Allakh sŭtvori nebesata i zemyata s mŭdrost. V tova ima znamenie za vyarvashti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	အလ္လာဟ်အရှင်မြတ်သည် မိုးကောင်းကင်နှင့်တကွ ကမ္ဘာမြေကြီးကို မုချဖန်ဆင်းတော်မူ၏၊ မှတ်သားကြလော့၊ ဤအကြောင်းအရာတွင် ယုံကြည်သူတို့အတွက် နိမိတ်လက္ခဏာအ့ံဖွယ်တော်တစ်ပါးရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် မိုးကောင်းကင်များကိုလည်းကောင်း၊ ပထဝီမြေကိုလည်းကောင်း၊ တိကျမှန်ကန်စွာ ဖန်ဆင်းတော်မူခဲ့ပေသည်။ ဧကန်မလွဲ ဤသည်၌ "မုအ်မင်န်"သက်ဝင်ယုံကြည်သူတို့အဖို့ (ကြီးကျယ်လှစွာသော)သက်သေခံသည် အမှန်ပင် ရှိချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

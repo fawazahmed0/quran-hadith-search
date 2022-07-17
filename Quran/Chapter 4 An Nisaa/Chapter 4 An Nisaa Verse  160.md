@@ -710,6 +710,12 @@ I poradi gneta na yudeite im vŭzbranikhme razresheni za tyakh blaga, i zashtoto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆ဝ။	ရဟူဒီလူမျိုးတို့၏ မတရားမှုများကြောင့် ရှေးကတရားသည် သတ်မှတ်ထားသည့် ကောင်းသော အရာများကို ငါသည် သူတို့အား ပိတ်ပင်တားမြစ်တော်မူ၏။ အလ္လာဟ်အသျှင်မြတ်၏ လမ်းတော်မှ သူတို့၏များမြောင်သော တားဆီးမှုကြောင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် ယဟူဒီတို့၏ (ယင်းကဲ့သို့သော) ကျူးကျော်မှုကြောင့်လည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ်၏လမ်းတော်မှ (လူတို့အား) များစွာ ပိတ်ပင်တားဆီးမှုကြောင့်လည်းကောင်း၊ ငါအရှင်မြတ်သည် ၎င်းတို့အဖို့ (ယခင်မူလက) ခွင့်ပြုထားသော သန့်စင်ကောင်းမွန်သောအရာများကို ၎င်းတို့အပေါ်၌ ‘ဟရာမ်’ ဟူ၍ တားမြစ်တော်မူခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

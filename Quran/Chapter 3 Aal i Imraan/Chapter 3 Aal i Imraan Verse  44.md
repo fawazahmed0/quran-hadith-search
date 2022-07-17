@@ -710,6 +710,12 @@ Tova e ot vestite na nevedomoto, Nie ti go razkrivame. Ne be ti pri tyakh, kogat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	အို...မိုဟမ္မဒ် ဤအတ္ထုပ္ပတ်အကြောင်းအရာတော်များသည် သင်၏မျက်ကွယ်၌ဖြစ်သော ရှေးအဖြစ်နောက်ဟောင်းများတည်း။ အဘယ်သူသည် မရယမ်ကို အုပ်ထိန်းရမည်ဟုသိရှိရန် မိမိတို့ ကလောင်တံများကိုပစ်၍ မဲချကြသောအခါ သင်သည် မဲချသူတို့နှင့် အတူမရှိပေ။ ထိုအကြောင်းနှင့် ပတ်သက်၍ သူတို့ အငြင်းအခုံဖြစ်သောအခါလည်း သင်သည် သူတို့နှင့်အတူ မရှိပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) ဤ(သည့်အတ္ထုပ္ပတ္တိများ)သည် (အသင်၏) မျက်ကွယ်၌ဖြစ်သော သတင်းများအနက်မှဖြစ်ရကား ငါအရှင်မြတ်သည် ထိုအတ္ထုပ္ပတ္တိများကိုအသင့်အား ပြန်ကြားတော် မူလေသည်။ စင်စစ်တမူကားယင်းသူတို့သည် မရ်ယမ် ကို ယင်းသူတို့အနက်မှ မည်သူအုပ်ထိန်းရမည်ကို မဲကောက်ရန်အတွက်) မိမိတို့၏ ကလောင်များကို (ရေထဲ၌) ပစ်ချကြသောအခါတွင်လည်း အသင်သည်ယင်းသူတို့အပါး၌ ရှိခဲ့သည်မဟုတ်။ထိုနည်းတူစွာ ယင်းသူတို့သည် (မဲမကောက်မီ) မိမိတို့အချင်းချင်း တစ်ဦးနှင့်တစ်ဦးငြင်းခုံလျက် ရှိကြသော အခိုက်တွင်လည်း အသင်သည် ယင်းသူ တို့အပါးဝယ် ရှိခဲ့သည်မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

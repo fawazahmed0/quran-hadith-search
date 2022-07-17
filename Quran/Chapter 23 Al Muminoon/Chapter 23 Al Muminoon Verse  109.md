@@ -710,6 +710,12 @@ Imashe grupa ot Moite rabi, kazvashti: “Gospodi nash, nie povyarvakhme. Oprost
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၉။	မှတ်သားကြလော့၊ ငါအရှင်မြတ်၏ ကျေးကျွန်များအနက် အသင်းတစ်သင်းရှိ၏၊ သူတို့က ဤသို့လျှောက်ထား ကြ၏၊ အို--အကျွနု်ပ်တို့၏အသက်သခင်ကျေးဇူးရှင်၊ အကျွနု်ပ်တို့သည် ယုံကြည်ကြပါ၏၊ ထို့ကြောင့်အကျွနု်ပ် တို့အား အပြစ်လွှတ်တော်မူပါ၊ ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူပါ၊ အကြောင်းမူကားအရှင်သည် ကောင်းကြီး မင်္ဂလာပေးသူတကာတို့တွင် အထွဋ်အခေါင်ဖြစ်တော်မူပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ငါအရှင်မြတ်၏ ကျွန်တို့အနက် လူတစ်စုသည် ရှိခဲ့ကြကုန်၏။ ၎င်းတို့သည်(ငါအရှင်မြတ်အထံတော်တွင် ဤသို့) လျှောက်ထား ပန်ကြားလျက် ရှိခဲ့ကြကုန်၏။ အို-ကျွန်တော်မျိုးတို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ ကျွန်တော်မျိုးတို့သည် သက်ဝင်ယုံကြည်ကြပါသည်။ ထို့အတွက် အရှင်မြတ်သည် ကျွန်တော်မျိုးတို့အား လွတ်ငြိမ်း ချမ်းသာခွင့် ပေးတော်မူပါ။ ထို့ပြင် အရှင်မြတ်သည် ကျွန်တော်မျိုးတို့အား သနားတော်မူပါ။ စင်စစ်သော်ကား အရှင်မြတ်သည် သနားကြင်နာသူအပေါင်းတို့ထက် သာလွန် သနားကြင်နာတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပါသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

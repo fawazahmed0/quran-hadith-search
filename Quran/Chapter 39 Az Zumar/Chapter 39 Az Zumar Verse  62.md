@@ -710,6 +710,12 @@ Allakh e Tvoretsŭt na vsyako neshto i Toĭ e Razporeditelyat za vsyako neshto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	အလ္လာဟ်အရှင်မြတ်သည် ခပ်သိမ်းကုန်သောအရာဝထ္ထုအပေါင်းတို့ကို ဖန်ဆင်းထိန်းသိမ်းစောင့်ရှောက်တော် မူသောအရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည်ပင် အရာရာကို ဖန်ဆင်းတော်မူသော အရှင်ဖြစ်တော်မူသည့်ပြင် ထိုအရှင်မြတ်သည်ပင် အရာခပ်သိမ်းတို့ အပေါ်ဝယ် ထိန်းသိမ်းတော်မူသောအရှင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

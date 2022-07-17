@@ -710,6 +710,12 @@ Kazhi: “Vŭzmozhno e veche da e sled vas neshto ot onova [mŭchenie], za koeto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၂။	အို-တမန်တော်၊ သင်ဟောကြားလော့၊ ဟယ်-အချင်းတို့၊ သင်တို့မြန်မြန်ဖြစ်စေလိုသောအရာ၏ တစ်စိတ် တစ်ဒေသသည် သင်တို့နှင့်အလွန်နီးကပ်ကောင်းနီးကပ်နေချေမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်၊) အသင်ပြောကြားပါလေ၊(အချင်းတို့၊) အသင်တို့ အလျင်စလို လိုလားလျက်ရှိကြသောပြစ်ဒဏ် တစ်စိတ်တစ်ဒေသသည် မဝေးတော့ပြီ။ အသင်တို့၏နောက်မှပင် (ထပ်ကြပ်မကွာ)လိုက်လာခဲ့လေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

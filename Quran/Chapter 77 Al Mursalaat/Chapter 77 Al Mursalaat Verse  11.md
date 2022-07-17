@@ -710,6 +710,12 @@ i kogato za pratenitsite bŭde opredeleno vreme
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။ တမန်တော်တို့စုဝေးစေဖို့ရာ သတ်မှတ်ချိန်းချက်ထားတော်မူသော အချိန်ကျရောက်လာသော အခါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အကြင်အခါဝယ် (ရစူလ်)တမန်တော်များသည် (သတ်မှတ်ထားသော)အချိန်၌ လာရောက်စုရုံးကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

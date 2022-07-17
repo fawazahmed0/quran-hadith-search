@@ -710,6 +710,12 @@ V tova ima znamenie, no povecheto ot tyakh ne vyarvat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၇။	မှတ်သားကြလော့၊ ဤအဖြစ်အပျက်တွင် နိမိတ်လက္ခဏာအ့ံဖွယ်အမှန်ပင်ပါရှိ၏၊ သို့ပါလျက်သူတို့အနက် အများအပြားတို့သည် ယုံကြည်သူများမဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မလွဲဧကန် ဤသည့်(ဖြစ်ရပ်)၌ ကြီးကျယ် လှစွာသော သင်ခန်းစာသည်ရှိပေသည်။ စင်စစ်သော်ကား ၎င်းတို့အနက် အများဆုံးသောသူတို့မှာ သက်ဝင်ယုံကြည်ကြမည့်သူများ မဟုတ်ခဲ့ကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

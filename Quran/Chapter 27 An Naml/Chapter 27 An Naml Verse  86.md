@@ -710,6 +710,12 @@ Ne vizhdat li, che Nie storikhme noshtta, za da si pochivat v neya, i denya - sv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၆။	ငါသည် ညဉ့်ကို သူတို့အိပ်စက်အမောအပန်းဖြေဖို့ရာ နေ့ကို သူတို့အား အလင်းရောင်ပေးဖို့ရာ ဖန်ဆင်းတော်မူ သည်ကို သူတို့မမြင်ကြသလော၊ ဤအချင်းအရာများတွင် ယုံကြည်သူတို့အတွက် နိမိတ်လက္ခဏာထူးများ မုချအမှန်ပါရှိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသို့ပါနည်း။ ဧကန်စင်စစ် ငါအရှင်မြတ်သည် ညဉ့်ကို ထိုသူတို့ ယင်းညဉ့်၌ အနားယူကြအံ့သောငှာ လည်းကောင်း၊နေ့ကို မြင်နိုင်စွမ်းပေးသောအရာအဖြစ် လည်းကောင်း၊ ပြုလုပ်တော်မူခဲ့သည်ကို ၎င်းတို့သည် မမြင်ခဲ့ကြလေသလော။ ဧကန်မလွဲ ဤသည်၌ "မုအ်မင်န်" သက်ဝင်ယုံကြည်သူတို့အဖို့(ကြီးကျယ်လှစွာသော) သက်သေလက္ခဏာများသည် အမှန်ပင်ရှိကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

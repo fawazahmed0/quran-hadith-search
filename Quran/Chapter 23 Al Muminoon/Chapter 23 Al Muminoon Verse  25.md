@@ -710,6 +710,12 @@ Toĭ e samo edin lud. Iztŭrpete go izvestno vreme!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	သူသည် မိမိ၌ ရူးသွပ်ခြင်းရှိသောသူသာဖြစ်၏၊ ထို့ကြောင့်သူ့ကို အချိန်ကာလအတော်ကြာအောင် စောင့်ကြည့် ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (စစ်စစ်) ဤနူဟ်သည် ရူးသွပ်ခြင်း(ဝေဒနာစွဲ ကပ်လျက်)ရှိသော သူ(ရူး)တစ်ဦးမျှပင် ဖြစ်ပေရာ အသင်တို့သည် ၎င်းနှင့်ပတ်သက်၍ ကာလအတန်ကြာသည့်တိုင်အောင် စောင့်မျှော်(၍သာကြည့်နေ)ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

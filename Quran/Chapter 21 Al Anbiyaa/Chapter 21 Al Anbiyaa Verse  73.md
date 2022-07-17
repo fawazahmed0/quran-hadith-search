@@ -710,6 +710,12 @@ I gi storikhme voditeli, napŭtvashti spored Nashata povelya. I im razkrikhme da
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၃။	ထို့အပြင်ငါသည် သူတို့အား ငါ၏အမိန့်ဗျာဒိတ်တော်အားဖြင့် လမ်းပြသောအကြီးအကဲများဖြစ်စေတော်မူ၏၊ ထို့အပြင်ငါသည် သူတို့၏စိတ်နှလုံးအတွင်း၌ ဗျာဒိတ်တော်ကို ထင်ရှားစေတော်မူ၏၊ ဗျာဒိတ်တော်က သုစရိုက် ကောင်းမှုပွားများရန် ဆွလားသ်ဝတ်ပြုရန်နှင့် ဇကားသ်အလှုပေးကမ်းရန် ပညတ်၏၊ ထို့အပြင် သူတို့သည် ငါ့အားသာလျှင် ရှိခိုးဝတ်ပြုကြသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ ငါအရှင်မြတ်သည် ၎င်းတို့အားငါအရှင်မြတ်၏အမိန့်တော်နှင့် (ဝေနေယျသတ္တဝါများအား)တရားလမ်းမှန်ကို ညွှန်ပြကြလေသော ရှေ့ဆောင် ရှေ့ရပ်များအဖြစ်သို့ ချီးမြှင့်တော်မူခဲ့၏။ တစ်ဖန် ငါအရှင်မြတ်သည် ထိုသူတို့ထံ ကောင်းမြတ်သော အကျင့်အမူများကို ကျင့်မူ ဆောက်တည်ကြရန်လည်းကောင်း၊ ဆွလာတ် ဝတ်ပြုမှုကို ဆောက်တည်ရန်လည်းကောင်း၊ ဇကာတ်ပေးဆောင်ရန်လည်းကောင်း၊"ဝဟ်ယ်" အမိန့်တော်ကို ထုတ်ပြန်တော်မူခဲ့၏။ စင်စစ် ၎င်းတို့သည် ငါအရှင်မြတ်အား ခဝပ်ကိုးကွယ်သူများပင် ဖြစ်ခဲ့ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

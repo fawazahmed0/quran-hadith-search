@@ -710,6 +710,12 @@ I uznakhte onezi ot vas, koito prestŭpikha v Sŭbotata, i im rekokhme: “Bŭde
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၅။	ထို့ပြင် သင်တို့အထဲမှ ဥပုသ်ဖျက်သူများအား ငါအရှင်က သင်တို့သည် အလွန်စက်ဆုတ်မုန်းတီးဖွယ် ကောင်းသော မျောက်များဖြစ်ကြလော့ဟု မိန့်တော်မူခြင်းကို သင်တို့သိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 င်းပြင် အသင်တို့အနက်မှ ဥပုသ်သီတင်းနေ့နှင့် စပ်လျဉ်း၍ (တရားတော်၏ ပညတ်ချက်များကို) ဖောက်ဖျက် ကျူးလွန်ကြကုန်သော သူများအား ငါအရှင်က အသင်တို့သည် ယုတ်ညံ့သိမ်ဖျင်းသော မျောက်တိရစ္ဆာန်များ ဖြစ်ကြကုန်လော့ဟု မိန့်ကြားတော်မူခဲ့ဘူးသည်ကို အသင်တို့သည် မုချအသိပင် ဖြစ်ကြသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

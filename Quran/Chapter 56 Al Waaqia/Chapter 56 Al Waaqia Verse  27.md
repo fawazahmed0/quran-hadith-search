@@ -710,6 +710,12 @@ A onezi otdyasno... Kakvo shte e za onezi otdyasno
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	လက်ျာဘက်တော်တွင် နေရေသောအမျိုးအစား၊ ထိုလက်ျာဘက်တော်သားတို့သည် အဘယ်သို့ဖြစ်ကြသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် လက်ယာ ဘက်သားတို့ကား၊ ထိုလက်ယာဘက်သားတို့မှာ အဘယ်မျှ ကောင်းမြတ်ကြ ပေသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

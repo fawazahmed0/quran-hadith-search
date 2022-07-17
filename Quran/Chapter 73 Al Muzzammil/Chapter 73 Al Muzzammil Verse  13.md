@@ -710,6 +710,12 @@ i khrana, koyato prisyada, i bolezneno mŭchenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။ ထို့အပြင်ခံတွင်းထဲသို့ ထည့်သွင်းစားမျိုလိုက်သောအခါ လည်မျိုတွင် ဆို့ပိတ်နေမည့် အစာအာဟာရနှင့်တကွ အလွန်ပြင်းပြ နာကျင်သည့် အပြစ်ဒဏ်တို့လည်း ရှိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 လည်မျို၌ တစ်ဆို့၍နေအံ့သော အစားအစာသည်လည်းကောင်း၊ နာကျင်ဖွယ်ဖြစ်သော ပြစ်ဒဏ် သည်လည်းကောင်း၊ ရှိ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

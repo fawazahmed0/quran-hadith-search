@@ -710,6 +710,12 @@ v Denya, v koĭto Dukhŭt [Dzhibril] i angelite shte se vŭzpravyat v reditsa. 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။ ကောင်းကင်တမန်မင်းကြီးနှင့် တကွ ရှိရှိသမျှ ကောင်းကင်တမန်တို့သည် အတန်း ဖွဲ့၍ ရပ်တန့်လျက်နေရသော နေ့တော်ကြီး၌ မဟာကရုဏာတော်အရှင် ခွင့်ပြုတောမူသူမှ တပါး အဘယ်သူ တစ်စုံတစ်ယောက်မျှ လျှောက်ဆိုခွင့် မရှိချေ၊ ခွင့်ရသူသည် မှန်ကန်သောစကားကိုသာ တင်လျှောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်နေ့တွင် သက်ရှိ အပေါင်းတို့သည်လည်းကောင်း၊ "မလာအီကဟ်" ကောင်းကင်တမန် အပေါင်းတို့သည်လည်းကောင်း၊ (အလ္လာဟ်အရှင်မြတ်၏ ရှေ့တော်မှောက်ဝယ်)စီတန်းမတ်တတ် ရပ်ကြ ပေမည်။ (ထိုနေ့တွင် ၎င်းတို့အနက်)"ရဟ်မာန်" မဟာကရုဏာတော်ရှင်က ခွင့်ပြုတော်မူသော၊ မှန်ကန်သောစကားကို ပြောဆို(အံ့)သောသူမှတစ်ပါး မည်သူတစ်ဦးတယောက်မျှပင် စကားပြောဆိုနိုင်မည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

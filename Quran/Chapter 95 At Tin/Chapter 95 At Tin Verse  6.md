@@ -710,6 +710,12 @@ osven onezi, koito vyarvat i vŭrshat pravedni dela. Za tyakh ima bezspirna nagr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။ သို့သော်ယုံကြည်လျက် သုစရိုက်ကောင်းမှုပွားများသူတို့သည်ကား မကုန်မခန်းနိုင်သောဆုတော်ကို ရရှိကြလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် သက်ဝင် ယုံကြည်ပြီးနောက် ကောင်းမြတ်သော အကျင့်သီလများကို ကျင့်မူဆောက် တည်ကြကုန်သော သူတို့အဖို့မှာကား မကုန်ဆုံးနိုင်သော အကျိုးကျေးဇူးသည်(အသင့်)ရှိ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

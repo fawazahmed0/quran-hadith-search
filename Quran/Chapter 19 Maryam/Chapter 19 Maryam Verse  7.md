@@ -710,6 +710,12 @@ JA ZEKERIJA ‘INNA NUBESHSHIRUKE BIGULAMIN ESMUHU JEHJA LEM NEXH’AL LEHU MIN 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	အို-ဇကရီယာ၊ မှတ်သားလော့၊ ငါအရှင်မြတ်သည် သင့်အား ယဟာယခေါ် သားကောင်းရတနာတပါး ပေးသနား တော်မူမည့်အကြောင်းသတင်းကောင်းကို ဗျာဒိတ်ချတော်မူပြီ၊ ငါသည် ထိုအမည်နာမကို အထက်ကျော်ကာလက မည်သူ့ကိုမျှ ပေးဘူးတော်မမူချေဟု ဗျာဒိတ်ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ အလ္လာဟ်အရှင်မြတ်သည် ဤသို့ပြန်ကြားတော်မူခဲ့၏)။ အို-ဇကရီယာ၊ ဧကန်မလွဲ ငါအရှင်မြတ်သည် အသင့်အား ယဟ်ယာမည်သော သားရတနာတစ်ပါးနှင့်ပတ်သက်၍သတင်းကောင်း ပေးတော်မူ၏။ ယခင်က ငါအရှင်မြတ်သည်ယင်းယဟ်ယာနှင့် နာမည်တူသူတစ်ဦးတစ်ယောက်ကို ရှိစေတော်မူခဲ့သည် မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

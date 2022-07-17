@@ -710,6 +710,12 @@ Chu Allakh dumite na onazi, koyato sporeshe s teb za svoya sŭprug i se oplaka n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။	အို-တမန်တော်၊ မိမိခင်ပွန်းလင်ယောက်ျားအကြောင်းနှင့်စပ်လျဉ်း၍ သင့်ထံလာရောက်တင်လျှောက်သောမိန်းမ ၏ လျှောက်ချက်ကို အလ္လာဟ်အရှင်မြတ်မုချဧကန်ကြားတော်မူ၍ လက်ခံတော်မူပြီး ထိုမိန်းမသည် အလ္လာဟ် အရှင်မြတ်အား ဆည်းကပ်၍ မိမိနစ်နာချက်ကို တိုင်တန်း၏၊ အလ္လာဟ်အရှင်မြတ်သည် သူတို့အနက် နှစ်ဦး နှစ်ဖက်အခြေအတင်ပြောဆိုချက်များကို ကြားတော်မူ၏၊ မှတ်သားလော့၊ အလ္လာဟ်အရှင်မြတ်သည် အကြွင်းမဲ့ ကြားတော်မူ၏ အကြွင်းမဲ့သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အကြင်မိန်းမ၏ပြောဆိုမှုကို ကြားတော်မူခဲ့လေပြီ။ ထိုမိန်းမသည် မိမိလင်ယောက်ျားနှင့် ပတ်သက်၍ အသင်နှင့် ငြင်းခုံ ပြောဆိုဆွေးနွေးလျက်ရှိသည့်ပြင် (မိမိ)မကျေနပ်ကြောင်း အလ္လာဟ်အရှင်မြတ်အထံတော်တွင် ထုတ်ဖော်လျှောက်ထား တိုင်တန်းလျက်ရှိခဲ့၏။ ၎င်းပြင် အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့နှစ်ဦး ပြောဆိုမေးဖြေခြင်းကိုလည်း ကြားတော်မူ၏။ ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် အကြွင်းမဲ့ကြားတော်မူသောအရှင်၊ အကြွင်းမဲ့သိမြင်တော်မူသောအရှင်၊ ဖြစ်တော် မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Samo ako znaekha nevernitsite vremeto, kogato ne shte mogat da zashtityat ot Og�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	အကယ်၍ထိုမိစ္ဆာမိုက်တို့သည် မိမိ၏မျက်နှာနှင့် ကျောကုန်းများမှ ငရဲမီးတို့မဖယ်ရှားနိုင်သောအချိန်၊ အကူအညီ လုံးဝမရသောအချိန်၊ ဤအချိန်ကို သိလျှင် ကောင်းလေစွ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍သာ ကာဖိရ် သွေဖည်ငြင်းပယ်သောသူတို့သည် အကြင်အချိန်အခါကို သိကြပါမူ (ယင်းကဲ့သို့ ပြောဆိုကြမည် မဟုတ်ပေ)။ ထိုအချိန်အခါတွင် ယင်းသူတို့သည် မိမိတို့၏မျက်နှာများမှလည်းကောင်း၊ မိမိတို့၏ကျောက်ကုန်းများမှလည်းကောင်း၊ မီးကို တားဆီးနိုင်ကြမည်မဟုတ်ပေ။ ထိုမှတစ်ပါး ၎င်းတို့သည် (မည်သည့်)အကူအညီကို(မျှ)လည်း ရရှိကြမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Rekokha: “O, gospodaryu, toĭ ima mnogo star bashta. Vzemi nyakoĭ ot nas vm
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၈။	သူတို့ဆက်ပြောသည်၊ အို-အရှင်မင်းကြီး၊ ဤသူငယ်တွင် အလွန်အိုမင်းမစွမ်းသောအဘအိုကြီးအမှန်ရှိပါ၏။ ထို့ကြောင့်သူငယ်အစား အကျွနု်ပ်တို့အနက် တဦးတယောက်ကို ဖမ်းဆီးထားတော်မူပါ။ အရှင်မင်းကြီးသည် သနားကြင်နာတတ်သောသူတို့ဘောင်တွင် ပါဝင်ကြောင်းကို အကျွနု်ပ်တို့အမှန်ပင်သိမြင်ကြပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့က ပြောဆိုခဲ့ကြပြန်သည်မှာ အို-အဇီဇ်၊ဧကန်စင်စစ် ထိုညီငယ်၌ အလွန်အိုမင်း အသက်အရွယ်ကြီးရင့်သော ဖခင်ကြီးတစ်ပါးရှိပါသည်။ သို့ဖြစ်ပေရာ အသင်သည် ၎င်း၏အစား ကျွန်ုပ်တို့အနက်မှ တစ်ဦးဦးကို ယူထားပါလေ။ ဧကန်စင်စစ် ကျွန်ုပ်တို့သည် အသင့်အား ကျေးဇူးပြုတတ်သူတစ်ဦး ဖြစ်သည်ဟူ၍ပင် မြင်ကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

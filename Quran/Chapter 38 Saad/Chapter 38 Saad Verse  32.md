@@ -710,6 +710,12 @@ I reche: “Zaradi lyubovta kŭm blagata prenebregnakh spomenavaneto na moya Gos
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	သူပြောဆိုသည်မှာ ထိုမြင်းများကို ကန့်လန့်ကာနောက်ကွယ်သို့ ယူသွားသည့်တိုင်အောင် ငါသည် အလ္လာဟ် အရှင်မြတ်အား အာရုံပြုသည်ထက် လောကီစည်းစိမ်ဥစ္စာများကို သာလွန်နှစ်သက်မိချေပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ထို"စုလိုင်မာန်"က ငါသည် မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏အမိန့်တော်ကြောင့် မြောက်မြားစွာသော ပစ္စည်းများကို(ဝါ) မြင်းများကို ခုံမင်မြတ်နိုးခြင်းကို နှစ်သက်တာဝန်ယူ ဆောင်ရွက်ခဲ့သည်ဟု ပြောဆိုခဲ့လေ၏။ နောက်ဆုံးတွင် ထိုမြင်းများမှာ အကွယ်၌ ကွယ်ပျောက်၍ သွားခဲ့ကြ လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

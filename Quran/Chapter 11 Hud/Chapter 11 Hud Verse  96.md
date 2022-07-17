@@ -710,6 +710,12 @@ Veche izpratikhme Musa s Nashite znameniya i s yaven dovod
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၆။	တဖန် ငါအရှင်မြတ်သည် တမန်တော်မူစာအား ငါ၏ နှုတ်ကပတ်တော်များ၊ ၎င်းအပြင်ထင်ရှားသောသက်သေ သာဓကတို့နှင့် စေလွှတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် မလွဲဧကန် ငါအရှင်မြတ်သည်(နဗီတမန်တော်)မူစာအား မိမိသက်သေလက္ခဏာများနှင့် လည်းကောင်း၊ထင်ရှားစွာသောသက်သေခံတစ်ရပ်နှင့်လည်းကောင်း၊ စေလွှတ်တော်မူခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

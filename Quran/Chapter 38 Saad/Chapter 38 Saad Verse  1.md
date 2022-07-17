@@ -710,6 +710,12 @@ Sad. Kŭlna se v Korana, nosesht napomnyane
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။	ဆွားဒ်။ အလွန်ထင်ရှားကျော်ဇော်သော ကျမ်းမြတ်ကုရ်အာန်ရှိသကဲ့သို့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဆွာဒ်"။ (ငါအရှင်မြတ်သည်) ကျော်စောကိတ္တိရှိသော အဆုံးအမနှင့်ပြည့်နှက်သော၊ မြင့်မြတ်သော ကုရ်အာန်ကျမ်းတော်မြတ်ကို သက်သေထူတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

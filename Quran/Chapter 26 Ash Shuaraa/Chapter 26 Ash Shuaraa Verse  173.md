@@ -710,6 +710,12 @@ I izsipakhme vŭrkhu im dŭzhd [ot nazhezheni kamŭni]
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇၃။	ထို့အပြင်သူတို့အပေါ်၌ မိုးရွာသွန်းစေတော်မူ၏၊ သတိပေးခံရသူတို့အပေါ်တွင် ရွာသွန်းသောမိုးသည် အလွန် ပြင်းထန်ကြောက်မက်ဖွယ်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ငါအရှင်မြတ်သည် ၎င်းတို့အပေါ်၌ မိုးတစ်မျိုး(ခဲမိုး)ကို ရွာသွန်းစေတော်မူခဲ့၏။ စင်စစ် သတိပေးနှိုးဆော်ခြင်းခံကြရသူတို့ (အပေါ်၌ရွာသွန်းခဲ့သော)မိုးမှာ အဘယ်မျှ ဆိုးရွားလှဘိသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

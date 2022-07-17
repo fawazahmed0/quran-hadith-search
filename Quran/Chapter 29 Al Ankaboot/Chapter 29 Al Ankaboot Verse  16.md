@@ -710,6 +710,12 @@ I [izpratikhme] Ibrakhim, koĭto reche na svoya narod: “Sluzhete na Allakh i 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	ထို့အပြင်တမန်တော်အေဗရာဟမ်၊ မှတ်သားကြလော့၊ သူသည် မိမိအမျိုးသားတို့အား ဤသို့ဟောကြား၏၊ ဟယ်-အချင်းတို့၊ အလ္လာဟ်အရှင်မြတ်အား ကိုးကွယ်ကြလော့၊ အရှင်မြတ်၏ အမှုတော်ကို ကျေကုန်အောင် ထမ်းဆောင်ကြလော့၊ ဤအကျင့်အကြံသည် သင်တို့အဖို့ သာလွန်မွန်မြတ်၏၊ သင်တို့သိလျှင် တော်လေစွ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အိဗ်ရာဟီမ်အား(လည်းငါအရှင်မြတ်သည် ရစူလ်တမန်တော်အဖြစ် စေလွှတ်တော်မူခဲ့၏။)အကြင်အခါဝယ် ထိုအီဗ်ရာဟီမ်သည် မိမိ အမျိုးသားတို့အား(ဤသို့) ပြောကြားခဲ့လေ၏။ (အချင်းတို့၊) အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား ဆည်းကပ်ကိုးကွယ်ကြလေကုန်။ ၎င်းပြင် အသင်တို့သည် ထိုအရှင်မြတ်အား ခန့်ညားကြောက်ရွံ့ကြလေကုန်။ အကယ်၍ အသင်တို့သည် သိရှိကြလေသော် ဤသည် အသင်တို့အဖို့ အကောင်းဆုံးပင် ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kazhi: “Vŭrvete po zemyata i vizhte kak Toĭ nacheva tvorenieto! Taka Allakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	တမန်တော်မိုဟမ္မဒ်၊ သင်ဟောကြားလော့၊ ဟယ်-အချင်းတို့၊ သင်တို့သည် ကမ္ဘာမြေပေါ်ဝယ် လှည့်လည် သွားလာ၍ အရှင်မြတ်သည် ဖန်ဆင်းမှုကို မည်သို့စတင်စီရင်တော်မူသည်၊ နောင်ကိုလည်း မည်သို့ထပ်မံဖန်ဆင်း တော်မူသည်တို့ကို ကြည့်ရှုလော့၊ အလ္လာဟ်အရှင်မြတ်သည် အရာရာကို ပြုစွမ်းနိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်၊) အသင်သည် ပြောကြားပါလေ။ (အချင်းတို့၊) အသင်တို့သည် ကမ္ဘာမြေဝယ် လှည့်လည်သွားလာ၍ ထိုအရှင်မြတ်သည် အဖန်ဆင်းခံတို့ကို မည်သို့စတင် ဖန်ဆင်းတော်မူသည်ကို ကြည့်ရှုလေ့လာကြလေကုန်။ထို့နောက် တစ်ဖန် အလ္လာဟ်အရှင်မြတ်သည် (ထိုအဖန်ဆင်းခံတို့အား) နောက်တစ်ကြိမ် ထပ်မံ၍ပင် ဖန်ဆင်းတော်မူမည်။စင်စစ်ဧကန် အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို စွမ်းဆောင်နိုင်တော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

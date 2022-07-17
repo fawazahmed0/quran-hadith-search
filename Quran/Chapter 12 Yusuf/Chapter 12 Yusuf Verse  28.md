@@ -710,6 +710,12 @@ I kogato [gospodaryat] vidya, che rizata mu e skŭsana otzad, reche: “Tova e o
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	အိမ်ရှင်သည် ယူစွတ်(ဖ်)၏ ရှပ်အကျႌကျောဘက်တွင် စုတ်ပြဲနေသည်ကို မြင်လျှင် သူက မှတ်သားလော့။ ဤအမှုသည် သင်မိန်းမတို့၏ မာယာမှဖြစ်၏။ သင်မိန်းမတို့၏ မာယာသည် မုချဧကန်အလွန်ကြီးမား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် (ယင်းမိန်းမ၏ခင်ပွန်းသည်) ထို ယူဆွဖ်၏အင်္ကျီမှာ နောက်မှစုတ်ပြဲ၍နေသည်ကို တွေ့မြင်လတ်သော် ဤသည် အသင်မိန်းမတို့၏ စဉ်းလဲဉာဏ်သာဖြစ်သည်။အသင်တို့၏ စဉ်းလဲဉာဏ်သည် ကြီးမားလှဘိ၏တကားဟုပြောဆိုခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

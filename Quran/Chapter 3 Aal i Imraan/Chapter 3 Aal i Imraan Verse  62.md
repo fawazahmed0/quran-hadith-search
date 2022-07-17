@@ -710,6 +710,12 @@ Tova e istinnata vest. Nyama drug bog osven Allakh. Allakh e Vsemogŭshtiya, Pre
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	မှတ်သားကြလော့။ ဤအကြောင်းအရာသည် အမှန်ပင် မှန်ကန်သောအကြောင်းအရာတော်များ တည်း။ အလ္လာဟ်အသျှင်မြတ်မှတပါး အခြားအသျှင်သခင်မရှိပေ။ မှတ်သားကြလော့။ အလ္လာဟ်အသျှင်မြတ်သည် အနန္တဘုန်းတန်ခိုးတော်သခင်၊ အနန္တဉာဏ်တော်ရှင် ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မုချဧကန် ဤ (အဆိုပါ) အတ္ထုပ္ပတ္တိအကြောင်းအကြောင်းအရာများသည်သာလျှင် စင်စစ်အားဖြင့် မှန်ကန်သော အတ္ထုပ္ပတ္တိ အကြောင်းအရာများတည်း။ အမှန်စင်စစ်(တစ်ဆူတည်းသော)အလ္လာဟ်အရှင်မြတ်မှတစ်ပါး အခြားခဝပ်ကိုးကွယ်ရာ အရှင်ဟူ၍အလျင်းမရှိပြီ။ ၎င်းပြင် မုချဧကန်ထို အလ္လာဟ်အရှင်မြတ်သည်သာလျှင် စင်စစ်အား ဖြင့် တန်ခိုးအာနုဘော်ဖြင့် လွှမ်းမိုးတော်မူသောအရှင်၊ အကျုးိ အကြောင်းဆင်ခြင်တုံဉာဏ်နှင့် ပြည့်စုံတော်မူသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

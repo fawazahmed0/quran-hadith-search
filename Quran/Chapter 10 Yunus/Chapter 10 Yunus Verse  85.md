@@ -710,6 +710,12 @@ I kazakha: “Na Allakh se upovavame. Gospodi nash, ne storvaĭ ot nas izkushen
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၅။	သူတို့က အကျွနု်ပ်တို့သည် အလ္လာဟ်အရှင်မြတ်အား ယုံကြည်ကျိုးနွံကြပါ၏။ အို-အကျွနု်ပ်တို့၏ ကျေးဇူးတော် သခင်၊ အကျွန်ုပ်တို့အား မတရားပြုသူတို့ကို ညှို့သောအရာဖြစ်စေတော်မမူပါလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ နဗီတမန်တော်မူစာ၏ အမျိုးသားတို့က (အို-နဗီတမန်တော်မူစာ၊) ကျွန်တော်မျိုးတို့သည် အလ္လာဟ်အရှင်မြတ်အပေါ်၌သာလျှင် ယုံကြည်အားထားကြပါပြီ ဟုပြောဆိုပြန်ကြားခဲ့ပြီး (အလ္လာဟ်အရှင်မြတ်အထံတော်၌) အိုကျွန်တော်မျိုးတို့အား ဖန်ဆင်းမွေမြူးတော်မူသောအရှင်မြတ်၊အရှင်မြတ်သည် ကျွန်တော်မျိုးတို့အား နှိပ်စက်ကလူပြုမူကြကုန်သောသူတို့၏ အနှိပ်စက်ခံကြရသူများအဖြစ် ပြုတော်မမူပါနှင့်(ဟုပန်ကြားခဲ့ကြလေသည်။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

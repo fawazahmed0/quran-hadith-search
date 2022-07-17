@@ -710,6 +710,12 @@ Shte rekat: “Ne doĭdokha li pri vas vashite pratenitsi s yasnite znatsi?” 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅ဝ။	ငရဲထိန်းတို့က ပြန်ပြောမည်မှာ သင်တို့ထံသို့ ရှင်းလင်းထင်ရှားသောသက်သေခံချက်တော်များနှင့်တကွ တမန် တော်များပွင့်လာသည်မဟုတ်လော၊ ပွင့်လာပါသည်ဟု ဖြေကြလတ့ံ၊ ထိုအခါငရဲထိန်းများက သို့ဖြစ်လျှင် သင်တို့ဆုတောင်းလိုသလောက် တောင်းကြလော့၊ မယုံကြည်သူမိစ္ဆာဒိဋ္ဌိတို့၏ ဆုတောင်းခြင်းသည် အလဟဿ အချည်းနှီးသာဖြစ်မည်ဟု ပြောဆိုလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုရောအခါဝယ်) ထိုအစောင့်အကြပ်တို့က "အသင်တို့၏ ရစူလ်တမန်တော်များသည် အသင်တို့ထံ ထင်ရှားစွာသော သက်သေလက္ခဏာတော်များကို ယူဆောင်လာလေ့ရှိခဲ့ကြသည် မဟုတ်လော" ဟု ပြောဆို(မေးမြန်း)လေသော်၊ ၎င်းတို့က "အဘယ်ကြောင့် မဟုတ်ပါသနည်း။"(အမှန်ပင် ယူဆောင်ခဲ့ကြပေသည်)ဟု ပြောဆို(ဖြေကြား)ကြပေမည်။ (ထိုအခါ)ထိုအစောင့်အကြပ်တို့က "သို့ဖြစ်လျှင် အသင်တို့ ကိုယ်တိုင်ပင် ဆုတောင်းပတ္ထနာ ပြုကြကုန်လော့။" ဟု ပြန်ကြားကြပေမည်။ စင်စစ်သော်ကား (နောင်တမလွန်ဘဝ၌)"ကာဖိရ်"သွေဖည်ငြင်းပယ်သောသူတို့၏ ဆုတောင်းပတ္ထနာသည် အချည်းနှီးပင်
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Zovŭt im tam shte bŭde: “Prechist si Ti, o, Allakh!”, a pozdravŭt im tam 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၀။	ဥယျာဉ်တော်အတွင်း၌ သူတို့သည် အို-အလ္လာဟ်အရှင်၊ အရှင်သည် ချို့တဲ့ခြင်းကင်းတော်မူပါ၏ဟု ဆုတောင်းကြ လိမ့်မည်။ သူတို့သည် အချင်းချင်းအေးချမ်းသာယာခြင်းသက်ရောက်ပါစေသောဟု နှုတ်ဆက်မေတ္တာပို့ကြလိမ့် မည်။ သူတို့သည် မိမိတို့၏ ဆုတောင်းဒဏ်ကို စကြဝဠာအပေါင်းတို့၏ အရှင်သခင်အလ္လာဟ်အရှင်သည် ချီးမြှင့်ခြင်းတည်ရာဖြစ်တော်မူ၏ဟု ဥဒါန်းရင့်ကျူးခြင်းဖြင့် အဆုံးသတ်ကြလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းသုခဘုံနန်းဥယျာဉ်များတွင် ထိုသူတို့၏စကားသည် အို-အလ္လာဟ်အရှင်မြတ်၊ အရှင်မြတ်သည် သန့်ရှင်းစင်ကြယ်တော်မူပါ၏ ဟူ၍လည်းကောင်း၊ ထိုသူတို့၏နှုတ်ခွန်းဆက်ခြင်းသည် စလာမ်ဟူ၍လည်းကောင်း၊ ထိုသူတို့၏နောက်ဆုံး (နိဂုံးချုပ်) စကားသည် ချီးမွမ်းထောမနာပြုခြင်းအပေါင်းတို့အား စကြဝဠာခပ်သိမ်းတို့ကို ဖန်ဆင်းမွေးမြူတော်မူသော အလ္လာဟ်အရှင်မြတ်နှင့်သာ အပ်စပ်သည်ဟူ၍ လည်းကောင်း ဖြစ်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

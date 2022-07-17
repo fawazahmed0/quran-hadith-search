@@ -710,6 +710,12 @@ Kazhi: “Khodete po zemyata i vizhte kakŭv be krayat na predishnite khora! Pov
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	မိုဟမ္မဒ်၊ သင်သည် အယူမှားသူတို့အား ဟယ်-အချင်းတို့၊ ကမ္ဘာမြေပေါ်တွင် လှည့်ပတ်သွားလာ၍ သင်တို့ထက် ရှေးကျသောလူဟောင်းတို့သည် မည်သို့ဖြစ်ပျက်ကြလေသည်ကို ကြည့်ရှုကြလော့၊ သူတို့အနက် အများအပြား တို့သည် ဆင်းတုရုပ်များသည် ကိုးကွယ်သူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (၎င်းတို့အား) ပြောကြားပါလေ။ (အချင်းတို့၊) အသင်တို့သည် ကမ္ဘာမြေဝယ် လှည့်လည်သွားလာကြပြီးလျှင် ယခင်က ရှိခဲ့ဖူးကြသောသူတို့၏ နောက်ဆုံးအကျိုးသည် မည်သို့မည်ပုံရှိခဲ့သည်ကို ကြည့်ရှု(လေ့လာ)ကြလေကုန်။ ၎င်းတို့အနက် အများစုမှာမူကား "မုရှ် ရစ်က်" အခြားအရာများကို အလ္လာဟ်အရှင်မြတ်နှင့် တွဲဖက်နှိုင်းယှဉ် ကိုးကွယ်ကြသူများပင် ဖြစ်ခဲ့ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

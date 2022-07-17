@@ -710,6 +710,12 @@ Toĭ e, Koĭto vi dava zhivot, posle vi go otnema, posle shte vi sŭzhivi. Cho
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၆။	အလ္လာဟ်အရှင်မြတ်သည် သင်တို့ကို အသက်ရှင်စေတော်မူသောအရှင်၊ ထို့နောက်သေစေတော်မူမည့်အရှင်၊ တဖန်ရှင်ပြန်ထမြောက်စေတော်မူမည့်အရှင်ဖြစ်တော်မူ၏၊ မှတ်သားကြလော့၊ လူသားသည် ကျေးဇူးကန်းသူ အမှန်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည်ပင်လျှင် အသင်တို့အား အသက်ရှင်ခြင်းကို ချီးမြှင့်တော်မူခဲ့သောအရှင် ဖြစ်တော်မူသည်။ တစ်ဖန် ထိုအရှင်မြတ်သည် အသင်တို့အား အသက်သေစေတော်မူမည်။ ထို့နောက်တစ်ဖန် ထိုအရှင်မြတ်သည် အသင်တို့အား အသက်ရှင်စေတော်မူမည်ဖြစ်သည်။ ဧကန်မလွဲ လူသားသည် အလွန်တရာကျေးဇူးကန်သူ အမှန်ပင် ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

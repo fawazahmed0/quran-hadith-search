@@ -710,6 +710,12 @@ I ne bŭdete kato onezi, koito zabravikha Allakh - Toĭ gi nakara da zabravyat 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	သင်တို့သည် အလ္လာဟ်အရှင်မြတ်ကို သတိမရမေ့လျော့နေသောသူတို့ကဲ့သို့ မဖြစ်ကြစေလင့်၊ အရှင်မြတ်သည် ထိုသူတို့အား မိမိတို့၏ ဝိညာဉ်များကို မေ့လျော့စေတော်မူ၏၊ ထိုသူတို့သည် မကောင်းမှုကို ကျင့်ကြံသူများ ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အသင်တို့သည် အကြင်သူတို့ကဲ့သို့ မဖြစ်ကြကုန်လင့်၊ ထိုသူတို့သည် အလ္လာဟ်အရှင်မြတ်အား မေ့ပစ်ခဲ့ကြကုန်၏။ သို့ဖြစ်ပေရာ ထိုအရှင်မြတ်သည် ၎င်းတို့အား မိမိတို့ကိုယ်ကိုပင် မေ့ပျောက်စေတော်မူခဲ့၏။ ထိုသူတို့ကား ၎င်းတို့သည်ပင် အမိန့်တော်ကို သွေဖည်သူများ ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

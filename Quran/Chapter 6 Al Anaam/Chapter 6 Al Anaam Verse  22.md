@@ -710,6 +710,12 @@ Edin Den shte sŭberem vsichki, posle shte rechem na onezi, koito sŭdruzhavakha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	ငါအသျှင်မြတ်သည် သူတို့အားလုံးကို စုရုံးတော်မူသော နေ့တော်ကြီး၌ ငါအား ဘက်စပ်သူများ ရှိသည်ဟု စွပ်စွဲသူတို့အား သင်တို့ ယုံတမ်းစကားပြော၍ ငါအသျှင်မြတ်နှင့် တွဲဖက်သည်ဟုဆိုသော သူတို့သည် ယခု အဘယ်မှာနည်းဟု မိန့်တော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အကြင်နေ့ကိုလည်း သတိရသင့်၏။ထိုနေ့တွင် ငါအရှင်မြတ်သည် ယင်းသူတို့အားလုံးကို စုရုံးစေတော်မူပြီးနောက် (တစ်စုံတစ်ရာကို ငါအရှင်မြတ်နှင့်) တွဲဖက်ကိုးကွယ်ခဲ့ကြသော သူတို့အား အသင်တို့သည် (ငါအရှင်မြတ်၏တွဲဖက်များ ဖြစ်ကြသည်ဟူ၍) ထင်မြင်ယူဆ (ကိုးကွယ်)ခဲ့ကြသော အသင်တို့၏ အပေါင်းအဖော် (တွဲဖက်ကိုးကွယ်ရာ)များသည် အဘယ်နည်းဟု မေးမြန်းတော်မူအံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

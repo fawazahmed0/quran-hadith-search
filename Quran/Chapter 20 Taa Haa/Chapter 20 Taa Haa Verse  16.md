@@ -710,6 +710,12 @@ I nikoga da ne te vŭzpira ot tova onzi, koĭto ne vyarva v nego i sledva stras
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	ထို့ကြောင့်ငါ့ကို မယုံကြည်ပဲ မိမိအလိုဆန္ဒဆွဲငင်ရာသို့ လိုက်သောသူသည် သင့်အား ၎င်းကို တွေးတောခြင်းမှ လှည့်မသွားစေရန် ပြုလုပ်ခွင့်မပေးလင့်။ သို့မှသာလျှင်သင်သည် မပျက်စီးချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ယင်းကိယာမတ်ကို မယုံကြည်ဘဲမိမိစိတ်အလိုဆန္ဒကို လိုက်စားသောသူသည် အသင့်အား ယင်းကိယာမတ်ကို ယုံကြည်ခြင်းမှ တားဆီးခြင်းမပြုစေနှင့်။ သို့မဟုတ်လျှင် အသင်သည်လည်း ပျက်စီးသွားအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

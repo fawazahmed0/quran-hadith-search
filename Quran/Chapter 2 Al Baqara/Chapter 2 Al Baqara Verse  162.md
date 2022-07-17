@@ -710,6 +710,12 @@ vechno shte sa v nego. Mŭchenieto im ne shte bŭde oblekcheno i ne shte im se d
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၂။	သူတို့သည် ထိုကျိန်ဆဲခြင်းအတွင်း နေကြရ၏။ သူတို့အတွက် သူတို့၏အပြစ်ဒဏ်ကို လျော့ပေါ့ မည် မဟုတ်။ ေ့ရွှဆိုင်းထားမည်လည်းမဟုတ်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ယင်းသူတို့သည်) ထို(ကျိန်ဆဲခြင်း)၌ အမြဲတစေ နေကြရမည့်သူများဖြစ်ကြ၏။ ၎င်းတို့ထံမှ အပြစ်ဒဏ်သည် ပေါ့ပါးသွားမည်လည်းမဟုတ်၊ ၎င်းပြင် ယင်းသူတို့သည် အပြစ်ဒဏ်စီရင်ခြင်းကို ဆိုင်းငံ့ခွင့်လည်း ရရှိကြမည်မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

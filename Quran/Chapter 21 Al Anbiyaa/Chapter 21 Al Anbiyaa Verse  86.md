@@ -710,6 +710,12 @@ I gi vŭvedokhme v Nashata milost. Te byakha ot pravednitsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၆။	ထို့အပြင်ငါသည် သူတို့အားလုံးကို မိမိ၏ ဂရုဏာတော်နိုင်ငံအတွင်းသို့ သွတ်သွင်းချီးမြှင့်တော်မူ၏၊ မှတ်သား ကြလော့၊ သူတို့သည် တရားစောင့်သောသူတော်မြတ်တို့အထဲမှာ ဖြစ်ကြသည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ၎င်း(နဗီတမန်တော်)တို့အား မိမိကရုဏာတော်အတွင်း ပါဝင်စေတော် မူခဲ့၏။ဧကန်စင်စစ် ထိုနဗီတမန်တော်တို့ကား သူတော်စင်တို့တွင်ပါဝင်ခဲ့ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

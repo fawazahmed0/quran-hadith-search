@@ -710,6 +710,12 @@ Pogledni kak skalŭpvat za teb pritchite i taka se zabluzhdavat, i ne mogat da n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	အို--တမန်တော်၊ ၎င်းတို့သည် သင့်အား မည်သို့မည်ပုံနှိုင်းယှဉ်ကြသည်ကို သင်ဆင်ခြင်ကြည့်ရှုလော့၊ ထို့ကြောင့်သူတို့သည် လမ်းမှားကြ၏၊ လမ်းမှန်ကို မရနိုင်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) ၎င်းတို့သည် အသင်နှင့်ပက်သက်၍ မည်ကဲ့သို့သော ဥပမာပုံဆောင်ချက်များ ခိုင်းနှိုင်းခဲ့ကြသည်ကို အသင်ရှုပါလေ။ ထို့ကြောင့်ပင် ၎င်းတို့သည် လမ်းလွဲခဲ့ကြချေပြီ။ သို့ဖြစ်ပေရာ ၎င်းတို့သည်မည်သည့် (ထွက်) လမ်းကိုမျှပင် တွေ့ရှိနိုင်ကြတော့မည် မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

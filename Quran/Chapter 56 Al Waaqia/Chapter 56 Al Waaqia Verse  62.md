@@ -710,6 +710,12 @@ I uznakhte veche pŭrvoto sŭtvoryavane. Ne shte li se pouchite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	သင်တို့သည် ပထမအကြိမ်ဖန်ဆင်းတော်မူခြင်းကို မုချဧကန်သိမြင်ကြ၏၊ သို့ပါလျက် သင်တို့သည် အဘယ် ကြောင့်	မစဉ်းစားမဆင်ခြင်ကြသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ဧကန်စင်စစ် အသင်တို့သည် ပထမအကြိမ် ဖန်ဆင်းတော်မူခြင်းကို ကောင်းမွန်စွာ သိရှိပြီး ဖြစ်ကြလျက် မည်သည့်အတွက်ကြောင့် နားမလည် ကြသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I da se plashat te [ot nespravedlivost], kakto bikha se strakhuvali, ako ostavya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	သင်တို့သည် မိမိတို့ကွယ်လွန်သောအခါ သားငယ်၊ သမီးငယ်၊ လူမမယ်တို့ကို ချန်ထားခဲ့ရန် ကြောက်ရွံ့စိုးရိမ်းသကဲ့သို့ မိဘမဲ့တို့နှင့်ဆက်သွယ်သောအခါ စိုးရိမ်ကြလော့။ ထို့ကြောင့် သင်တို့သည် အလ္လာဟ်အသျှင်မြတ်၏အမှုတော်ကို ထမ်းဆောင်ကြလော့။ တရားမျှတသောစကားဆိုကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အကြင်သူများသည် ကြောက်ရွံ့ကြရပေမည်။ အကယ်၍ ထိုသူများသည် မိမိတို့နောက်၌ အင်အားချည့်နဲ့သောကလေးများကို စွန့်ထား (၍သေဆုံး) ကြရသည်ရှိသော် ထိုကလေးများနှင့် ပတ်သက်၍ စိုးရိမ်ပူပန်ကြပေမည်။ သို့ဖြစ်ပေရာ ထိုသူတို့သည် (ဖမဲ့ကလေးများနှင့်ပတ်သက်၍) အလ္လာဟ်အရှင်မြတ်အား ကြောက်ရွံ့ကြရပေမည်။ ၎င်းပြင် (တရားမျှတသော) ဖြောင့်မတ်မှန်ကန်သော စကားကို ပြောဆိုကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

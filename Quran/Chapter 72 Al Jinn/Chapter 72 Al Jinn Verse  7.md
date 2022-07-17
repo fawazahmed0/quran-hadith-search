@@ -710,6 +710,12 @@ I [khorata] predpolagakha, kakto i vie predpolagakhte, che Allakh ne shte vŭzkr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။ ထို့အပြင် ထိုဂျင်နတ်သားတို့သည် သင်တို့ထင်မှတ်သကဲ့သို့ အလ္လာဟ်အရှင်မြတ်သည် သေသူကို ပြန်ရှင်စေမည်မဟုတ်ဟု ထင်မှတ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ဧကန်မလွဲ ထိုဂျင်န်များမှာ အသင်တို့ ထင်မြင်ယူဆကြသကဲ့သို့ပင် ၎င်းအရှင်မြတ်သည် မည်သူတစ်ဦးတစ်ယောက်ကိုမျှ ရှင်ပြန်ထစေတော်မူမည်မဟုတ်၊ (စေလွှတ်တော်မူမည် မဟုတ်)ဟူ၍ပင် ထင်မြင်ယူဆခဲ့ကြကုန်သတည်း၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

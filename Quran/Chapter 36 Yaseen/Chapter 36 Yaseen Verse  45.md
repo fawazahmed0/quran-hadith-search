@@ -710,6 +710,12 @@ I kogato im se reche: “Boĭte se ot onova, koeto e bilo predi vas i ot onova,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	ထိုသူတို့အား အချင်းတို့၊ သင်တို့ကို အလ္လာဟ်အရှင်မြတ်သနားစောင့်ရှောက်ချီးမြှောက်စေခြင်းငှာ သင်တို့သည် မိမိတို့ရှေ့တွင် တင်ကြိုပို့နှင့်သောအမှုအခင်းများကိုသော်လည်းကောင်း၊ မိမိတို့နောက်တွင် ကျန်ရစ်ခဲ့မည့် အမှုအခင်းမျာကိုသော်လည်းကောင်း၊ ကြောက်ရွံ့ကြလော့ဟု ဆုံးမပြောဆိုသောအခါ သူတို့သည် နားမထောင်၊ ကျောပေးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ၎င်းတို့အား အသင်တို့သည် ကရုဏာပြုတော်မူခြင်း ခံကြရအံ့သောငှာ မိမိတို့၏ ရှေ့မှောက်၌ရှိသော(ပြစ်ဒဏ်)ကိုလည်းကောင်း၊ မိမိတို့၏ နောက်၌ရှိသော ပြစ်ဒဏ်ကိုလည်းကောင်း၊ ကြောက်ရွံ့စိုးရိမ်ကြလေကုန်ဟု ပြောခဲ့သောအခါ (၎င်းတို့သည် မျက်နှာလွှဲခဲ့ကြကုန်၏)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

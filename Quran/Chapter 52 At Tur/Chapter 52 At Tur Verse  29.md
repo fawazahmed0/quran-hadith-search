@@ -710,6 +710,12 @@ I pouchavaĭ [o, Mukhammad]! Ti ne si - po milost ot tvoya Gospod - nito gadate
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	ထို့ကြောင့် အို-တမန်တော်၊ လူသားတို့အား သတိပေးလော့၊ အလ္လာဟ်အရှင်မြတ်၏ ဂုဏ်ကျေးဇူးတော်ကြောင့် သင်သည် ဗေဒင်ဆရာလည်းမဟုတ်၊ စိတ်နှလုံးပေ့ါသွပ်သူအရူးလည်းမဟုတ်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်၊)အသင်သည် သတိပေးဆုံးမလျက် ရှိပါလေ။ စင်စစ်သော်ကား အသင်သည် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ ကျေးဇူးတော်အားဖြင့် အနာဂတ်ဟော ဆရာလည်း မဟုတ်ပေ၊ရူးသွပ်သူလည်း မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

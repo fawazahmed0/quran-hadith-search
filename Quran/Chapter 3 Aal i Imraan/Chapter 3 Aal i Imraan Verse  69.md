@@ -710,6 +710,12 @@ Edna grupa ot khorata na Pisanieto iskashe, ako mozhe, da vi zabludi. Ala zabluz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၉။	ရှေးကျမ်းတော်ကိုရရှိသူများအနက် လူတစ်စုသည် သင်တို့အား လမ်းလွဲသွားဘို့ရာ လိုလားကြ၏။ သူတို့သည် မိမိတို့ကိုယ်မှတပါး မည်သူ့ကိုမှ လမ်းမှားသို့မသွားစေနိုင်ပေ။ သို့သော် သူတို့သည် မသိမမြင်နိုင်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ရှေးအထက် ကျမ်းရရှိသူတို့အနက်မှ လူတစ်စုသည် အသင်တို့အား လမ်းမှားစေခြင်းကို အာသာဆန္ဒရှိကြကုန်၏။ အမှန်စင်စစ် ယင်းသူတို့သည် မိမိတို့ကိုယ်မှအပမည်သူတစ်ဦးတစ်ယောက်ကိုမျှ လမ်းမှားသို့ ရောက်စေနိုင်ကြသည်မဟုတ်။ သို့ရာတွင် ယင်းသူတို့သည် (ဤအကြောင်းကို) မသိနားမလည် ကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

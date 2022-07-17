@@ -710,6 +710,12 @@ Nie sme vashite pokroviteli i v zemniya zhivot, i v otvŭdniya. Shte imate tam, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။ ငါတို့သည် သင်တို့အား ဤဘဝနောင်ဘဝ၊ ဘဝနှစ်ပါးတွင်ပင် ကာကွယ်စောင့်ရှောက်သည့်အဆွေတော်များ ဖြစ်ကြ၏၊ နောင်ဘဝ၌ သင်တို့လိုသမျှကို အကြွင်းမဲ့ရကြလတ့ံ၊ သင်တို့တောင်းဆိုသမျှကိုလည်း အကြွင်းမဲ့ ရကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကျွန်ုပ်တို့သည် လောကီဘဝ၌တွင်လည်း အသင်တို့၏အဆွေခင်ပွန်းများပင် ဖြစ်ခဲ့ကြကုန်၏။ ထိုနည်းတူစွာအာခိရတ် တမလွန်ဘဝ၌လည်း အဆွေခင်ပွန်းများဖြစ်ကြမည်။ ထို့ပြင် အသင်တို့အဖို့ ယင်းဂျန္နတ် သုခဘုံ၌ အသင်တို့အလိုဆန္ဒရှိသော အရာဟူသမျှ ရှိကြမည့်ပြင် အသင်တို့အဖို့ယင်းဂျန္နတ်သုခဘုံ၌ အသင်တို့တောင်းဆိုသော အရာဟူသမျှတို့သည်လည်း ရှိကြ ပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

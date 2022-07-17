@@ -710,6 +710,12 @@ Ala ugnetitelite podmenikha s drugo slovoto, koeto im be kazano. I pratikhme vŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၂။	သို့သော် ဒုစရိုက်ပြစ်မှု ကျိူးလွန်သူတို့သည် မိမိတို့ထံကျရောက်လာသော ဗျာဒိတ်တော်စကားတော်ကို အဓိပ္ပါယ်ပြောင်းလွဲသွားအောင် အခြားစကားများနှင့် လဲလှယ်ကြ၏။ သူတို့၏ ဒုစရိုက်မှုများကြောင့် သူတို့အပေါ်သို့ ငါအသျှင်မြတ်သည် ကောင်းကင်ဘုံမှ အမျက်ချတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ထို(အမျိုးသား)တို့အနက် (မတရား)ကျူးလွန်(လေ့ရှိ)သူတို့သည် မိမိတို့အား မိန့်ကြား တော်မူသောစကားရပ်ကို အခြား(မလျော်ကန်သော) စကားဖြင့် ပြောင်းလဲ(၍ ပြောဆို)ခဲ့ကြလေသည်။ သို့ဖြစ်ပေရာ ငါအရှင်မြတ်သည်ထို(အမျိုးသား) တို့အပေါ်၌ (၎င်းတို့သည် မိမိတို့ကိုယ်ကို) နှိပ်စက်ညှဉ်းပန်းလေ့ရှိခဲ့ကြသည့်အတွက် ရောဂန္တရကပ်ကိုမိုးကောင်းကင်မှ သက်ရောက်စေတော်မူခဲ့လေသတည်း။(ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

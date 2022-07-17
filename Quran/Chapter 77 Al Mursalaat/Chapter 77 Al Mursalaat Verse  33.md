@@ -710,6 +710,12 @@ syakash sa zhŭlti kamili.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။ ထိုမီးပေါက်မီးပွင့်များသည် လျင်မြန်စွာသွားနေသောအသွေးအရောင်ဝါသည့်ကုလားအုတ် တိရိစ္ဆာန် တစီတတန်း ကဲ့သို့ ရှိလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းမီးပွင့်မီးပွားများမှာ အဝါရောင်ရှိသော ကုလားအုပ်များကဲ့သို့ ရှိကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

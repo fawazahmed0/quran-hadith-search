@@ -710,6 +710,12 @@ I nima [koravosŭrdechniyat e kato] onzi, chiyato grŭd Allakh e raztvoril za Is
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	အလ္လာဟ်အရှင်မြတ်သည် အကြင်သူ၏ စိတ်နှလုံးအား အလ္လာဟ်အရှင်မြတ်ကို ကျိုးနွံနာခံရန် ကျယ်ဝန်းစေတော် မူသောသဒ္ဓါတရားကို ပေးတော်မူ၏၊ ထို့ကြောင့်ထိုသူသည် မိမိ၏ အရှင်သခင်ထံမှ လာသောအလင်းရောင်ခြည် တော်ကို လိုက်၏၊ ထိုသူသည် မယုံကြည်သူမိစ္ဆာဒိဋ္ဌိတို့နှင့် ထပ်တူထပ်မျှဖြစ်သလော၊ ထို့ကြောင့်အရှင်မြတ်ကို သတိမရ၊ မေ့လျော့နေအောင် စိတ်နှလုံးမာမြင်းသူတို့သည် ပျက်စီးဆုံးရှုံးကြရလတ့ံ၊ ဤကဲ့သို့သောသူတို့သည် ရှင်းူလင်းထင်ရှားသောမဟာအမှားကြီးတွင် နစ်မွန်းနေကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အလ္လာဟ်အရှင်မြတ်သည် အကြင်သူ၏ရင်ကို အစ္စလာမ်သာသနာတော်နှင့် စပ်လျဉ်း၍ ဖွင့်ပေးတော်မူခဲ့၏။ တစ်ဖန် ထိုသူသည် မိမိအရှင်မြတ်အထံတော်မှ အလင်းပေါ်၌ လျှောက်သွားလျက်ရှိ၏။ (ထိုသူနှင့် စိတ်နှလုံးမာမြင်းသောသူသည် တူနိုင်ပါသလော)။ စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်အား အောက်မေ့၊ တသ၊ သတိရခြင်းမရှိဘဲ စိတ်နှလုံးမာမြင်းခဲယဉ်းလျက်ရှိသောသူတို့၌ ပျက်စီးခြင်းသည် ရှိပေသည်။ ထိုသူတို့ကား ထင်ရှားစွာသော လမ်းမှားမှု၌ပင် ရှိနေကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

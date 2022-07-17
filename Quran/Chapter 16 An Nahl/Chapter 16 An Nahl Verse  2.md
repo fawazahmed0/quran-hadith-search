@@ -710,6 +710,12 @@ Toĭ nizposlava angelite, razkrivaĭki Svoyata povelya komuto pozhelae ot Svoi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	အလ္လာဟ်အရှင်မြတ်သည် မိမိ၏ ကျေးကျွန်များအနက် အလိုရှိတော်မူသောပုဂ္ဂိုလ်ထံသို့ ကောင်းကင်တမန်တော် များကို မိမိ၏ ဗျာဒိတ်တော်နှင့်တကွ စေလွှတ်တော်မူ၏။ ထိုဗျာဒိတ်တော်မှာ ငါအရှင်မြတ်မှတပါး အခြားအရှင် မြတ်မှတပါး အခြားအရှင်သခင်မရှိဟု သင်သည် လူသားအပေါင်းတို့ကို ဟောကြားဆုံးမလော့။ ထို့ကြောင့် သင်တို့သည် ငါ့အား ကြောက်ရွံ့ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် မိမိ၏အမိန့်တော်ဖြင့် မိမိကျွန်များအနက်မှ အလိုရှိတော်မူသောသူများထံ မလာအိကဟ်ကောင်းကင်တမန်များအား ဝဟီအမိန့်တော်နှင့်တကွ ဆင်းသက်(လာရောက်) စေတော်မူ၏။ (ထိုအမိန့်တော်မှာ) အသင်(နဗီတမန်တော်)တို့သည် ဧကန်စင်စစ် ငါအရှင်မြတ်မှ တစ်ပါး၊အခြားကိုးကွယ်ရာ အလျှင်းမရှိရာ၊ ငါအရှင်မြတ်အားသာလျှင်ကြောက်ရွံ့ကြရမည်ဟု သတိပေးနှိုးဆော်ကြလေကုန် (ဟူ၍ဖြစ်သည်)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

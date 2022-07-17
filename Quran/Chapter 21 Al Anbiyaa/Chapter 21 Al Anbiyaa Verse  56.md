@@ -710,6 +710,12 @@ Reche: “Ne, vashiyat Gospod e Gospodŭt na nebesata i na zemyata, Koĭto gi e
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၆။	တမန်တော်အေဗရာဟမ်က ငါသည် လူပျက်မဟုတ်၊ သို့သော်သင်တို့၏အရှင်သခင်သည် မိုးကောင်းကင်နှင့် ကမ္ဘာမြေပြင်တို့၏ အရှင်သခင်ဖြစ်တော်မူ၏၊ အရှင်မြတ်သည် ၎င်းတို့ကို ဖန်ဆင်းတော်မူ၏၊ ငါသည် ဤ အကြောင်းကို သက်သေခံသူတို့တွင် အပါအဝင်ဖြစ်၏ဟု ပြန်ဖြေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အိဗ်ရာဟီမ်က ထိုသို့အလျင်းမဟုတ်။ စင်စစ် အသင်တို့၏ အရှင်သခင်သည်ကား မိုးကောင်းကင်များနှင့်ပထဝီမြေကို စိုးပင်တော်မူသော အကြင်အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။ ထိုအရှင်မြတ်သည်ပင် ယင်းမိုးကောင်းကင်များနှင့်ပထဝီမြေကို ဖန်ဆင်းတော်မူခဲ့လေသည်။ ၄င်းအပြင် ငါသည်ဤသည်နှင့်စပ်လျဉ်း၍ သက်သေများတွင် တစ်ဦးအပါအဝင်ပင်ဖြစ်သည်ဟု (ဖြေကြား)ခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

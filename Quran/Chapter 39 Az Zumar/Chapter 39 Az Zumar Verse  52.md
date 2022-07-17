@@ -710,6 +710,12 @@ Nima ne znayat, che Allakh uvelichava prepitanieto komuto pozhelae, i Toĭ go n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၂။	အလ္လာဟ်အရှင်မြတ်သည် အကြင်သူအား ရိက္ခာပစ္စည်းပေါများစေလိုတော်မူ၏၊ ထိုသူအား ပေါများစေတော်မူ၏၊ အကြင်သူအား ပစ္စည်းရှားပါးစေလိုတော်မူ၏၊ ထိုသူအား ရှားပါးစေတော်မူ၏၊ ဤအကြောင်းအရာကို ဤသူများ မသိကြပေလော့၊ မှတ်သားကြလော့၊ ဤအဖြစ်အပျက်၌ ယုံကြည်သူအပေါင်းသူတော်ကောင်းတို့ အဖို့အရာ နိမိတ်လက္ခဏာအ့ံဖွယ်တော်များပါရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် သိရှိခဲ့ကြသည်မဟုတ်လော။ ဧကန်စင်စစ် အလ္လာဟ်အရှင်သည် မိမိအလိုရှိတော်မူသောသူအား စားနပ်ရိက္ခာကို တိုးပွားစေတော်မူ၏။ ထိုနည်းတူစွာ အရှင်မြတ်သည်ပင်(မိမိအလိုတော်ရှိတော်မူသောသူအား စားနပ်ရိက္ခာကို) ကျပ်တည်းစေတော်မူ၏။ မလွဲဧကန် ဤသည်၌ သက်ဝင်ယုံကြည်ကြကုန်သော အမျိုးသားတို့အဖို့ သက်သေအထောက်အထားများ အမှန်ပင် ရှိကြပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

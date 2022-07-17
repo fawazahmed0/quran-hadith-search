@@ -710,6 +710,12 @@ Nima se udivikhte, che vi e doshlo napomnyane ot vashiya Gospod s mŭzh izmezhdu
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၃။	သင်တို့သည် သင်တို့ထံ သင်တို့၏ သားချင်းတစ်ယောက်အားဖြင့် သင်တို့၏ ကျေးဇူးတော်သခင် ထံမှ သတိပေးကျမ်းတော်တစ်စောင် ကျရောက်လာသည်ကို အံ့သြကြသလော။ ထိုကျမ်းတော် ရောက်လာရခြင်းအကြောင်းရင်းကား ထိုသားချင်းသည် သင်တို့အား သတိပေးဆုံးမသြဝါဒပေးဖို့ရာ သင်တို့သည် ဒုစရိုက်အမှုအခင်းကို ကြဉ်ရှောင်ဖို့ရာနှင့် သင်တို့သည် ကောင်းချီးမင်္ဂလာတော်ကို ရရှိကောင်းရရှိဖို့ရာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် မိမိတို့ အရှင်မြတ်အထံတော်မှမိမိတို့အနက်မှ လူတစ်ဦးမှတစ်ဆင့် အသင်တို့ထံ ဆုံးမဩဝါဒတော် ရောက်ရှိလာသည်ကိုပင် အံ့ဩကြပါသလော။ (အမှန်စင်စစ်သော်ကား ထိုပုဂ္ဂိုလ်သည်) အသင်တို့အား သတိပေးနှိုးဆော်ရန်လည်းကောင်း၊ ပြစ်မှုဒုစရိုက်များမှ ကြဉ်ရှောင်ကြရန်လည်းကောင်း၊ (ဖြစ်ပေသည်။) သို့မှသာလျှင် အသင်တို့သည်(ထိုအရှင်မြတ်၏) ကရုဏာတော်ကို ခံစားနိုင်ကြအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

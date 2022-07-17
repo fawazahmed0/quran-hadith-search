@@ -710,6 +710,12 @@ I ako se otdalechish ot tyakh, tŭrseĭki ot svoya Gospod milost, na koyato se 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	သို့သော်သင်သည် သင်၏ ကျေးဇူးတော်သခင်အထံတော်မှ မျှော်လင့်သောကောင်းကြီးမင်္ဂလာကို ရှာမှီးနေစဉ် သူတို့ကို မပေးကမ်းနိုင်ပဲ ကျောခိုင်းသွားရသော် သူတို့အား သနားကြင်နာနာပျော်ဖွယ်သောစကားကို ဆိုလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကယ်၍ အသင်သည် မိမိအားဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်အထံတော်မှ ကရုဏာတော်ကို စောင့်မျှော်နေခိုက် ၎င်းတို့အား လျစ်လျူရှုရပါလျှင်အသင်သည် ၎င်းတို့အား ပြေပြစ်သာယာသော စကားကိုပြောဆိုပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Toĭ e Allakh - Sŭtvoritelya, Izkusniya, Vayatelya! Negovi sa Naĭ-prekrasnit
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	အရှင်မြတ်သည် အလ္လာဟ်၊ ဖန်ဆင်းသူအရှင်၊ နတ္တိမှ ပုံသဏ္ဍာန်ဖော်သူအရှင်၊ အဆင်းအရောင်စီရင်သူအရှင် ဖြစ်တော်မူ၏၊ အရှင်မြတ်၏ နာမတော်များသည် အတိုင်းထက်အလွန်တင့်တယ်လှပ၏၊ မိုးကောင်းကင်နှင့် ကမ္ဘာမြေပြင်ဝယ် ရှိသမျှတို့သည် အရှင်မြတ်၏ ဂုဏ်ကျေးဇူးတော်ကို ရင့်ကျုးကြ၏၊ အရှင်မြတ်သည် အနန္တ တန်ခိုးတော်သခင်၊ သဗ္ဗညုတဉာာဏ်တော်ရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည်ပင် ဖန်ဆင်းတော်မူသော အကောင်အထည်ဖော်တော်မူသော (မရှိရာမှ ရှိအောင် ပြုလုပ်ဖန်ဆင်းတော်မူသော)ပုံသဏ္ဌာန်ပြုလုပ်တော်မူသော အလ္လာဟ်အရှင်မြတ် ဖြစ်တော်မူ၏။ ထိုအရှင်မြတ်၌ ကောင်းမြတ်လှစွာသော နာမံဂုဏ်တော်များ ရှိကုန်၏။ မိုးကောင်းကင်များ၌ ရှိသမျှတို့သည် လည်းကောင်း၊ ပထဝီမြေ၌ ရှိသမျှတို့သည် လည်းကောင်း၊ ထိုအရှင်မြတ် စင်ကြယ်သန့်ရှင်းတော်မူ ကြောင်းကို မြွက်ဆိုလျှက်ရှိကြကုန်၏။ ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည်ပင် လွန်စွာခန့်ညားတော်မူသောအရှင်၊ သိမ်မွေ့လှစွာသော ဆင်ခြင်တုံတရားနှင့် ပြည့်စုံတော်မူသောအရှင်၊ ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

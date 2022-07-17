@@ -710,6 +710,12 @@ I shtom prenebregnakha onova, koeto im be vŭzbraneno, im rekokhme: “Bŭdete m
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၆။	ထို့နောက် သူတို့အား တားမြစ်ပိတ်ပင်ထားသော တရားမဝင်သော အမင်္ဂလာအရာဝထ္ထုများကြောင့် သူတို့ ဂုဏ်မောက်ပလွှားသောအခါ သူတို့အား ငါအသျှင်မြတ်က သင်တို့သည် မလေးစာခြင်းနှင့် စက်ဆုပ်ရွံ့ရှာခြင်းခံရသော မျောက်များဖြစ်ကြလော့ဟု ဗျာဒိတ်ပေးတော်မူလိုက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ထိုသူတို့သည် မိမိတို့ မြစ်တားခြင်းခံခဲ့ကြရသော အမှုကိစ္စနှင့်စပ်လျဉ်း၍ စည်းကမ်းကို ကျူးလွန်ခဲ့ကြသောအခါ ငါအရှင်မြတ်သည် ၎င်းတို့အား အသင်တို့သည် ယုတ်ညံ့သိမ်ဖျင်းသောမျောက်တိရစ္ဆာန်များဖြစ်ကြလော့ဟူ၍ မိန့်ကြား တော်မူခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Koĭto se yavi kato prestŭpnik pred svoya Gospod, za nego e Adŭt. Tam nito sh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ရ၄။	မှတ်သားကြလော့၊ အကြင်သူသည် မိမိ၏ကျေးဇူးတော်သခင်ထံသို့ ဒုစရိုက်ကောင်အဖြစ်ဖြင့် လာအ့ံ၊ ထိုသူ အတွက် ငရဲအမှန်ပင်ရှိ၏၊ ထိုငရဲ၌သူသည် အသက်သေရမည်လည်းမဟုတ်၊ အသက်ရှင်ရမည်လည်းမဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် မည်သူမဆို မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်အထံတော်သို့ အပြစ်ရှိသူအဖြစ်ရောက်ရှိပါလျှင် ဧကန်မလွဲ ထိုသူ၏အဖို့ ဂျဟန္နမ်ငရဲဘုံသည်သာလျှင်ရှိပေမည်။ ထိုသူသည် ယင်းငရဲဘုံ၌ အသက်သေဆုံးမည်လည်းမဟုတ်ပေ။ အသက်ရှင်မည်လည်း မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

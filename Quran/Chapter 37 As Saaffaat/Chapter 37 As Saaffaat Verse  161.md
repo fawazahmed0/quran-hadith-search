@@ -710,6 +710,12 @@ I vie [o, nevernitsi], i onova, na koeto sluzhite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၁။	မှတ်သားကြလော့၊ မုချဧကန် သင်တို့နှင့် သင်တို့ကိုးကွယ်သောဘုရားပျက်တို့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ရာ အသင်တို့သည်လည်းကောင်း၊ အသင်တို့၏ ဆည်းကပ် ကိုးကွယ်ရာတို့သည်လည်းကောင်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

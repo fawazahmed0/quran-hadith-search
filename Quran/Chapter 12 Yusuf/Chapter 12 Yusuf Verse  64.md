@@ -710,6 +710,12 @@ Reche: “Nima da vi go poverya tŭĭ, kakto vi poverikh i negoviya brat predi?
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၄။	ခမည်းတော်က အထက်က သူ၏ အစ်ကိုကို သင်တို့အား အပ်နှံသကဲ့သို့ ငါသည် သူ့ကို သင်တို့အား ယုံ ကြည်အပ်နှံနိုင်သလော။ အလ္လာဟ်အရှင်မြတ်သည် စောင့်ရှောက်ခြင်း၌ သာလွန်မွန်မြတ်တော်မူ၏။ အရှင်မြတ် သည် ကျေးဇူးပြုသူတို့တွင် အထွဋ်အခေါင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ)ထိုခမည်းတော်သည် (ဤသို့) ပြန်ကြားခဲ့လေ၏။ ငါသည် အသင်တို့အပေါ်ဝယ် ယင်းညီတော်နှင့်ပတ်သက်၍ ယခင်က ၎င်း၏နောင်တော်(ယူဆွဖ်)နှင့်ပတ်သက်၍ယုံကြည်စိတ်ချဘိ သကဲ့သို့ပင် ယုံကြည်ရမည်သာဖြစ်သည်။သို့ရာတွင် အလ္လာဟ်အရှင်မြတ်သည် အကောင်းဆုံးစောင့်ရှောက်တော်မူသောအရှင်၊ ကရုဏာပြုသူတို့တွင် ကရုဏာအပြုဆုံးသောအရှင်၊ ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

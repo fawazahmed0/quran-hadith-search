@@ -710,6 +710,12 @@ I reche Pratenika: “O, Gospodi, moyat narod prenebregva tozi Koran.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	ထိုအခါတမန်တော်က အို--အကျွန်ုပ်၏အသက်သခင်ကျေးဇူးရှင်၊ အကျွနု်ပ်၏လူများသည် ကုရ်အာန်ကျမ်းတော် ကို မထီလေးစားစွန့်လွှတ်ထားပါသည်ဟု တင်လျှောက်လတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ရစူလ်တမန်တော်မြတ်က "အို-ကျွန် တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၊ ဧကန်အမှန် ကျွန်တော်မျိုး၏ အမျိုးသားများသည် ဤကုရ်အာန် ကျမ်းမြတ်တော်ကို စွန့်ပစ်၍ ထားခဲ့ကြပါသည်" ဟု လျှောက်ထားပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

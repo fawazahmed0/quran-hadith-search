@@ -710,6 +710,12 @@ Taka izpitvakhme edni ot tyakh chrez drugi, za da kazhat: “Tezi li izmezhdu na
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။	သို့ပါလျက် ငါအသျှင်မြတ်သည် သူတို့အနက် အချို့ကို အခြားသူတို့အားဖြင့် စမ်းသပ်တော်မူ၍ သူတို့က အကျွနု်ပ်တို့အနက် ဤသူတို့သည် အလ္လာဟ်အသျှင်မြတ်အထံတော်၌ မျက်နှာရသူများ ဖြစ်ကြသလော။ အလ္လာဟ်အသျှင်မြတ်သည် ဂုဏ်ကျေးဇူးတော်ကို ချီးကျူးသူတို့အား အသိဆုံး မဟုတ်ပေလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းနောက် ငါအရှင်မြတ်သည် ဤနည်းအတိုင်းပင် ထိုသူတို့အနက် အချို့ကို (ကာဖိရ်များကို) အချို့ဖြင့်(မုစ်လင်မ် များဖြင့်) စမ်းသပ်တော်မူ၏။ သို့မှသာလျှင် ထိုသူများက(ကာဖိရ်များက) ငါတို့ အနက်မှ အလ္လာဟ်အရှင်မြတ် ကျေးဇူးတော်ကို ပြုတော်မူသောသူများကား ဤသူများလော ဟု ဆိုကြပေအံ့။ အလ္လာဟ်အရှင်မြတ်သည် ကျေးဇူးတော်ကို သိတတ်သူများအား ကောင်းစွာသိတော်မူသောအရှင် မဟုတ်ပါသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

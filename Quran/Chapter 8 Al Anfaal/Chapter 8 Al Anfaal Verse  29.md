@@ -710,6 +710,12 @@ O, vyarvashti, ako se boite ot Allakh, Toĭ shte napravi da razgranichavate [do
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	အို-ယုံကြည်သူအပေါင်းတို့ သင်တို့သည် အလ္လာဟ်အသျှင်မြတ်အမှုတော်ကို ကြေကုန်လျှင် အသျှင်ိ မြတ်သည် သင်တို့အား အမှားအမှန်ကို ခွဲခြားဖို့ရာ စံချိန်ပေးသနားတော်မူမည်။ သင်တို့ထံမှ မိမိတို့၏ မကောင်းစိတ်နှင့် မကောင်းမှုများကို ဖယ်ရှားတော်မူမည်။ သင်တို့ကို အပြစ်လွှတ်တော်မူမည်။ အလ္လာဟ်အသျှင်မြတ်သည် အနန္တကောင်းချီးမင်္ဂလာတော်သခင် ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-မုအ်မင်န် သက်ဝင်ယုံကြည်သူအပေါင်းတို့၊ အကယ်၍ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အားကြောက်ရွံ့ရိုသေကြပါမူ၊ ထိုအရှင်မြတ်သည် အသင်တို့အား(အမှားနှင့်အမှန်ကို) ခွဲခြားစိတ်ဖြာ သိမြင်နိုင်စေသော အရာကို ချီးမြှင့်ပေးသနားတော်မူအံ့။ ထို့ပြင် အသင်တို့၏ မကောင်းမှုဒုစရိုက် များကိုလည်း မပျောက်စေတော်မူသည့်ပြင် အသင်တို့အား အပြစ်မှလည်း လွတ်ငြိမ်းချမ်းသာခွင့် ပေးတော်မူအံ့။အမှန်စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အနန္တကျေးဇူးတော်ရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

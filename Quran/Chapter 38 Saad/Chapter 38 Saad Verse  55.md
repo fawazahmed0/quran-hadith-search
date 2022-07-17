@@ -710,6 +710,12 @@ Taka e! A za prestŭpilite ima zloshtastno zavrŭshtane
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။ ဤအောင်ဆုမင်္ဂလာတော်ကြီးသည် သမ္မာတရားတော်အတိုင်း ကျင့်ကြံသောသူမွန်သူမြတ်တို့အဖို့အရာဖြစ်၏၊ မှတ်သားကြလော့၊ တရားလွန်သူအပြစ်ကောင်တို့မှာမူကား သူတို့၏ခရီးပန်းတိုင်သည် အမင်္ဂလာဖြစ်ရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည်(တွင် သူတော်ကောင်းတို့၏ အကြောင်း)ပြီးဆုံးခဲ့လေပြီ။ ၎င်းပြင် ဧကန်စင်စစ် ဆိုးသွမ်းသော သူယုတ်မာ (အကြီးအကဲ)တို့အဖို့ ဆိုးရွားလှစွာသော ပြန်လည်ရာ စခန်းသည် အမှန်ပင်ရှိ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

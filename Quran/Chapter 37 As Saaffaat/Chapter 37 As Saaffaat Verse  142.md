@@ -710,6 +710,12 @@ I go glŭtna kitŭt, i zasluzhi poritsanie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၂။	ထို့နောက်တမန်တော်သည် အပြစ်သင့်နေစဉ် ငါးကြီးသည် မိမိဝမ်းထဲသို့ သူ့ကို မျိုချ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ထိုယူနွတ်စ်သည် မိမိကိုယ်ကိုမိမိ အပြစ်တင်လျက်ရှိနေစဉ် ငါးသည် ၎င်းအား မျိုခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ che imenno te shte sa podkrepenite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇၂၊၁၇၃။ ထိုဂတိဗျာဒိတ်တော်မှာ ငါ၏ တမန်တော်များကို မုချဧကန် ငါစောင်မတော်မူမည်၊ ထို့အပြင် ငါ၏စစ်သည် တော်များသည် အမှန်အကန်အောင်မြင်ရမည့်သူများသာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် ၎င်းတို့သည်သာလျှင် ကူညီစောင်မခြင်း ခံကြရမည့်သူများ ဖြစ်ကြောင်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

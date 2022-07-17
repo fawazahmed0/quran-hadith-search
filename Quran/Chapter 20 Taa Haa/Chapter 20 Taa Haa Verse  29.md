@@ -710,6 +710,12 @@ I mi otredi pomoshtnik ot moeto semeĭstvo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	အကျွနု်ပ်၏သားချင်းထံမှ အကျွနု်ပ်အတွက် နောက်လိုက်တစ်ယောက်ခန့်တော်မူပါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အရှင်မြတ်သည် ကျွန်တော်မျိုး၏အိမ်ထောင်စုသားတို့အနက်မှပင် ကျွန်တော်မျိုးအဖို့ ကူညီယိုင်းပင်းသူအဖြစ် ပြုလုပ်၍ပေးသနားတော်မူပါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

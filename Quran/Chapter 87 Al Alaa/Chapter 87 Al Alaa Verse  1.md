@@ -710,6 +710,12 @@ Proslavyaĭ prechistoto ime na tvoya Gospod, Vŭrkhovniya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။ အတိုင်းထက်အလွန်မြင့်မြတ်သောသင်၏ အရှင်သခင်၏ နာမတော်ကို ချီးကျူးတသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် မိမိအားဖန်ဆင်းမွေးမြူတော်မူသော၊ အမြင့်မြတ်ဆုံးဖြစ်တော်မူသော၊ အရှင်မြတ်၏နာမံတော် (သန့်ရှင်းစင်ကြယ်ကြောင်း)ကို ချီးမွမ်းမြွက်ဆိုပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

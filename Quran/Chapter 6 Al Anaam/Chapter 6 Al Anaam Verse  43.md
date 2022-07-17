@@ -710,6 +710,12 @@ I pone kogato idvashe pri tyakh Nasheto mŭchenie, da se smiryavakha! Ala sŭrts
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	သူတို့သည် ငါအသျှင်မြတ်စီရင်တော်မူသော ဘေးဒုက္ခကို တွေ့ကြံုခံစားရသောအခါ နှိမ့်ချနူးညံ့သော စိတ်သဘောရှိလျှင် တော်လေစွ။ သို့သော် သူတို့သည် စိတ်ခက်ထန်ကြမ်းကြုတ်ကြ၏။ ရှိုင်တန် မာရ်နတ်ကလည်း သူတို့အား သူတို့ပြုကျင့်မှုများကို တင့်တယ်ဟန်ဆင်ထား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ၎င်းတို့သည် မိမိတို့ထံ ငါအရှင်မြတ်၏ (အထံတော်မှ) ပြစ်ဒဏ်ဆိုက်ရောက်လာ သောအခါ၌အဘယ်ကြောင့် ကျိုးနွံနိမ့်ကျခြင်း မရှိခဲ့ကြပါသနည်း။ သို့ရာတွင် ၎င်းတို့၏စိတ်နှလုံးများသည် မာမြဲတိုင်းမာကျောလျက်ရှိခဲ့၏။ ထို့အပြင် ရှိုင်တွာန် မိစ္ဆာကောင်သည်လည်း ၎င်းတို့ပြုလုပ်လျက်ရှိခဲ့သမျှတို့ကို ၎င်းတို့၏အမြင်၌ လှပတင့်တယ်အောင် တန်ဆာဆင်၍ပြထားခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

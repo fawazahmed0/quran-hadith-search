@@ -710,6 +710,12 @@ O, choveche, ti se napryagash s usilie kŭm svoya Gospod i shte Go sreshtnesh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။ အို-လူသား၊ သင်သည် မိမိအရှင်သခင်အောက်သို့ ရောက်ရှိရန် မပြတ်မစဲကြိုးစားအားထုတ်နေရ၏၊ သင်သည် မိမိအရှင်သခင်မျက်မှောက်ဝယ် မိမိပြုကျင့်မှုများကို တွေ့ရှိရလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-လူသား၊ ဧကန်စင်စစ် အသင်သည် မိမိအရှင်မြတ်အထံတော်သို့ ရောက်ရှိသည့်တိုင်အောင် (သေသည့်တိုင်အောင်) ပင်ပန်းကြီးစွာ ကြိုးပမ်းဆောင် ရွက်ရပေမည်။ ထို့နောက် (အသင်သည်) ယင်း ကြိုးပမ်းမှု(၏ အကျိုးကို)တွေ့ရှိရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Takava e blagodatta ot Allakh. Dostatŭchno Allakh znae
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇ဝ။	အလ္လာဟ်အသျှင်မြတ်၏ကောင်းကြီးမင်္ဂလာတော်သည် ယင်းသို့ဖြစ်၏။ အလ္လဟ်အသျှင်မြတ်သည် သိမြင်သူအဖြစ်နှင့် လုံလောက်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည်ကား၊ အလ္လာဟ်အရှင်မြတ်အထံတော်မှ ကျေးဇူးတော်ပင်တည်း။ စင်စစ်မူကား အလ္လာဟ်အရှင်မြတ်သည်ပင်လျှင် အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့သိရှိတော်မူသော အရှင်မြတ်အဖြစ် လုံလောက်လှတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

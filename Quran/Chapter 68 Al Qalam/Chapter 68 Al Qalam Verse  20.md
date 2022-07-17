@@ -710,6 +710,12 @@ I tya stana kato cherna nosht
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၀။ ထို့ကြောင့် နံနက်အာရုဏ်တက်သောအခါ ထိုဥယျာဉ်သည် အသီးအနှံများဆွတ်ခူးပြီးသကဲ့သို့ သွေ့ခြောက်လျက် ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ နံနက်အချိန်တွင် ယင်းဥယျာဉ်မှာ ဆွတ်ခူး ရိတ်ဖြတ်ပြီးသကဲ့သို့ပင် ဖြစ်သွားခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ sŭotvet·stvashto vŭzdayanie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။ သူတို့၏ ဒုစရိုက်မကောင်းမှုများနှင့်လျော်ညီသောဆုလာဘ်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤသည် ၎င်းတို့အား ၎င်းတို့ ကျူးလွန်ခဲ့ကြကုန်သော ပြစ်မှုဒုစရိုက်များနှင့်)လျော်ညီစွာ အစားပေးခြင်းပင် ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

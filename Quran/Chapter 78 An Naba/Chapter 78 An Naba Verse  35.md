@@ -710,6 +710,12 @@ Ne shte chuvat tam nito praznoslovie, nito lŭzha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။ သူတို့သည် ဥယျာဉ်တော်များ၌ အကျိုးမရှိသောအပြိန်းအဖျင်းစကားများကို မကြားကြရချေ၊ မုသားစကားကိုလည်း မကြားကြရချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့သည် ယင်းဥယျာဉ်များ၌ မည်သည့်သိမ်ဖျင်းသော စကားကိုမျှလည်းကောင်း၊ မည်သည့် မုသား စကားကိုမျှလည်းကောင်း၊ ကြားကြရမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

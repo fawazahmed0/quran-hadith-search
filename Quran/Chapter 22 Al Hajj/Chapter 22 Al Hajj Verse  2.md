@@ -710,6 +710,12 @@ V Denya, kogato shte go vidite, vsyaka kŭrmachka shte zabravi svoeto kŭrmache 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	ထိုအချိန်ကို သင်တို့မြင်ရသောနေ့၌ နို့စို့ကလေးရှိသောမိခင်တို့သည် သားငယ်သမီးငယ်တို့ကို သတိမရ မေ့လျော့မည်၊ သင်မိုဟမ္မဒ်သည် လူသားအပေါင်းတို့ကို ယစ်မူးတွေဝေနေသကဲ့သို့ တွေ့မြင်ရမည်၊ သို့သော် သူတို့သည် မယစ်မူးချေ၊ အလ္လာဟ်အရှင်မြတ်သည် သူတို့အပေါ်၌ အလွန်ပြင်းထန်တော်မူလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းမြေငလျင်လှုပ်ခြင်းကို အသင်တို့ တွေ့မြင်ကြသောနေ့တွင် နို့တိုက်သောမိခင်တိုင်းသည် မိမိနို့တိုက်လျက်ရှိသော ကလေးကို (လုံးဝ) မေ့လျော့၍ သွားပေမည်။ ၎င်းပြင် သန္ဓေရှိသူတိုင်းသည်လည်း (ကြောက်ရွံ့ထိတ်လန့်ကာ) မိမိ၌ရှိသောသန္ဓေလျှောကျပေမည်။ ထိုမှတစ်ပါး အသင်သည် လူတို့အား မူးယစ်တွေဝေမိန်းမောနေသူများအဖြစ် တွေ့မြင်ပေမည်။ စင်စစ်၎င်းတို့သည် မူးယစ်တွေဝေမိန်းမောနေသူများ(အလျင်း)မဟုတ် သို့ရာတွင် အလ္လာဟ်အရှင်မြတ်၏ ပြစ်ဒဏ်ကား ပြင်းထန်လှပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I vyarvaĭte v tova, koeto nizposlakh, za da potvŭrdi nalichnoto u vas! I ne b
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	ထို့ပြင် သင်တို့သည် ငါချပေးသနားတော်မူသော ကုရ်အာန်ကျမ်းတော်မြတ်ကို ယုံကြည်ကြလော့။ ထိုကျမ်းတော်သည် သင်တို့ရရှိပြီးသော ကျမ်းတော်ကို ထောက်ခံ၏။ သို့ဖြစ်၍ သင်တို့သည် ကုရ်အာန်ကျမ်းတော်ကို ရှေးဦးစွာ ပစ်ပယ်သူများမဖြစ်ကြလျင့်။ ငါ၏တရားတော်ကို အဘိုးနည်းနည်း နှင့် မရောင်းစားကြလင့်၊ ငါ့အား ကြောက်ရွံ့ရိုကျိုးကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-အစ္စရာအီလ်၏ မျိုးနွယ်အပေါင်းတို့) အသင်တို့သည် ငါအရှင်ထုတ်ပြန်ပို့ချတော်မူသော(ကုရ်အာန်) ကျမ်းကို နာယူ ယုံကြည်ကြကုန်လော့၊ အကြောင်းမူကား ယင်း(ကုရ်အာန်ကျမ်းတော်မြတ်သည်) သင်တို့ လက်ဝယ်၌ရှိသော ကျမ်းကိုပင် မှန်ကန်ကြောင်း ထောက်ခံ အတည်ပြုလျက်ရှိသော ကျမ်းဂန်ဖြစ်သည်။ သို့ဖြစ်လေရာအသင်တို့သည် ထို (ကုရ် အာန်) ကျမ်းတော်မြတ်ကို ဦးစွာပဌမ ငြင်းဆိုသူများ မဖြစ်ကြကုန်လင့်။ ထို့ပြင်တဝ အသင်တို့သည် အနည်းငယ်မျှသော အဖိုးငွေနှင့် ငါအရှင်မြတ်၏ တရားဒေသနာများကို လဲလှယ်ရောင်းချခြင်း မပြုကြကုန်လင့်၊ အသင်တို့သည် ငါအရှင်မြတ်ကိုသာလျှင် ကြောက်ရွံ့ ကြကုန်လော့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

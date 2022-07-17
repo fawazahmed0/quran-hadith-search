@@ -710,6 +710,12 @@ I spasikhme sinovete na Israil ot unizitelnoto mŭchenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	ငါသည် အစ္စရာအီလ်အမျိုးသားတို့အား ရှက်ဖွယ်သောအပြစ်ဒဏ်မှ ကယ်နှုတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး မလွဲဧကန် ငါအရှင်မြတ်သည် အီစ်ရာအီလီအမျိုးသားတို့အား ကျိုးယုတ်ရှက်ရခြင်း ဖြစ်စေသောပြစ်ဒဏ်မှ လွတ်မြောက်စေခဲ့တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

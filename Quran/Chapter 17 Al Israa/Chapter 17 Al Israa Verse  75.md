@@ -710,6 +710,12 @@ Togava shtyakhme da te nakarame dvoĭno da vkusish [mŭchenieto na] zhivota i d
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၅။	ထိုအခါငါအရှင်မြတ်သည် သင့်အား ဤဘဝ၌ အပြစ်ဒဏ်တော်ကြီးနှစ်ထပ်တပ်ရိုက်တော်မူမည်။ နောင်ဘဝ ၌လည်း အပြစ်ဒဏ်နှစ်ထပ်ခတ်မည်။ ယင်းကဲ့သို့အပြစ်ဒဏ်ပေးတော်မူသောအခါ ငါမှ သင့်အား ကယ်ဆယ်ကူညီ မည့်သူကို သင်မတွေ့ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ငါအရှင်မြတ်သည် အသင့်အား ဤအသက်ရှင်လျက်ရှိသော ပစ္စုပ္ပန်ဘဝ၏ နှစ်ဆနှင့် သေလွန်ပြီးနောင်ဘဝတွင် (ပြစ်ဒဏ်)နှစ်ဆကို မုချမြည်းစမ်းစေတော်မူမည်။ ထို့နောက် အသင်သည် ငါအရှင်မြတ်နှင့်ဆန့်ကျင်၍ မိမိတို့အဖို့ ကူညီစောင်မမည့်သူ တစ်ဦးတစ်ယောက်ကိုမျှပင် တွေ့ရှိလိမ့်မည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

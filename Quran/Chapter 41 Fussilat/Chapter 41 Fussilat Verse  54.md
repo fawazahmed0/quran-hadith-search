@@ -710,6 +710,12 @@ Sŭmnyavat se v sreshtata sŭs svoya Gospod. A Toĭ vsyako neshto obgrŭshta
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၄။	မည်သို့နည်း၊ သူတို့သည် သူတို့၏ အရှင်သခင်အား တွေ့ဆုံဖူးမြင်ရမည်ကို ယုံမှားသံသယရှိသေးသလော၊ မုချဧကန်အရှင်မြတ်သည် ခပ်သိမ်းကုန်သောအရာများကို ဝိုင်းဝန်းထားတော်မူသည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သတိပြုကြလေကုန်။ ဧကန်အမှန် ၎င်းတို့ သည်မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်နှင့်တွေ့ဆုံကြရမည်နှင့်စပ်လျဉ်း၍ အရာခပ်သိမ်း ရှိနေကြကုန်၏။ သတိပြုကြလေကုန်။ မလွဲဧကန် ထိုအရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို ဝန်းခြုံလျက် ရှိတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

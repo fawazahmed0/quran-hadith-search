@@ -710,6 +710,12 @@ Tolkova sa dostignali te ot znanieto. Tvoyat Gospod naĭ-dobre znae koĭ se e 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	ထိုသူတို့၏ အသိပညာသည် ဤမျှလောက်သာ စောက်နက်၏၊ မှတ်သားလော့၊ သင်၏ အရှင်သခင်သည် လမ်းလွဲသွားသူကို ကောင်းစွာသိမြင်တော်မူ၏၊ လမ်းမှန်ကို လိုက်သူကိုလည်း ကျနစွာသိမြင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည် ၎င်းတို့၏ အမြင့်ဆုံးသော အသိပညာပင်။ ဧကန်မလွဲ အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည်ပင်လျှင် ထိုအရှင်မြတ်၏လမ်းမှ လွဲချော်သူအား အသိတော်မူဆုံး ဖြစ်တော်မူ၏။ ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည်သာလျှင် တရား လမ်းရရှိသောသူအား အသိတော်မူဆုံး ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

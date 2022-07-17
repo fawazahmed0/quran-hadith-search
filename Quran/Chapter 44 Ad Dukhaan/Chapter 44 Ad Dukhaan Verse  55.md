@@ -710,6 +710,12 @@ Shte pozhelavat tam vsyakŭkŭv plod - v sigurnost
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။	သူတို့သည် နိဗ္ဗာန်ဥယျာဉ်တော်၌ ဘေးမရှိ လုံခြံုစွာနှင့် အလိုရှိရာအထူးထူးအထွေထွေသောသီးမျိုးဥမျိုးများကို တောင်းယူနိုင်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ယင်းဥယျာဉ်များ၌ အလုံးစုံသော သစ်သီးဝလံတို့ကို အေးချမ်းစွာ မှာယူကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I napravi toĭ pregled na ptitsite, i reche: “Zashto ne vizhdam papunyaka, il
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	သူသည် ငှက်တိရိစ္ဆာန်တို့ကို စစ်ဆေးကြည့်ရှု၍ ဤသို့မိန့်တော်မူ၏၊ အကျွနု်ပ်သည် ဘီတောင်ပိုငှက်ကို မမြင်ရသည်မှာ အဘယ်ကြောင့်နည်း၊ သူသည် အစည်းအဝေးမတက်သူတို့ဘောင်တွင် အပါအဝင်ဖြစ်သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုစုလိုင်မာန်သည် ငှက်တိရစ္ဆာန်တို့ကို စစ်ဆေးခဲ့ရာ (ဤသို့)ပြောကြားခဲ့၏။ ငါသည် မည်သည့်အတွက်ကြောင့် ဘီးတောင်ပိုငှက်ကို မမြင်ရပါသနည်း။ သို့တည်းမဟုတ် ၎င်းသည် ပျောက်ကွယ်နေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

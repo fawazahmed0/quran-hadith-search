@@ -710,6 +710,12 @@ Ne otsenyavat te Allakh s istinskoto Mu velichie. Allakh e vsesilen, vsemogŭsht
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၄။ မှတ်သားကြလော့၊ ထိုမိစ္ဆာမိုက်တို့သည် အလ္လာဟ်အရှင်မြတ်အား ထောက်ချင့်ထိုက်သလောက်မထောက်ချင့် ကြချေ၊ မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် အတိုင်းမသိခွန်အားကြီးတော်မူသောအရှင်၊ အနန္တဘုန်း တန်ခိုးတော်အရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ်အား ရိုသေကိုင်းရှိုင်းရန် တာဝန်ရှိသည်နှင့်အညီ ရိုသေကိုင်းရှိုင်းကြသည် မဟုတ်ပေ။ ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် ခွန်အားပြည့်စုံတော်မူသော၊ တန်ခိုးအာနုဘော်ဖြင့် လွှမ်းမိုးတော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Te uznavat blagodatta na Allakh, posle ya otrichat. Povecheto ot tyakh sa nevern
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၃။	သူတို့သည် အရှင်မြတ်၏ ကောင်းကြီးမင်္ဂလာတော်ကို သိကြ၏။ ထို့နောက်ကျေးဇူးတော်ကို ငြင်းကြ၏။ သူတို့အနက် အများအပြားတို့သည် ကျေးဇူးကန်းသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (စင်စစ်သော်ကား) ၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ်၏ ကျေးဇူးတော်များကို ဝန်ခံကြကုန်၏။ ထို့နောက်၎င်းတို့သည် ယင်းကျေးဇူးတော်များကို ငြင်းပယ်ကြကုန်၏။(တစ်နည်း)၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ်၏ ကျေးဇူးတော်များကို သိမှတ်ကြကုန်၏။ ထို့နောက် ၎င်းတို့သည် ယင်းကျေးဇူးအာတော်များကို မသိလေဟန်ဆောင်ကြကုန်၏။ ထိုမှတစ်ပါး ၎င်းတို့ အနက် မြောက်မြားစွာသောသူတို့ကား ကာဖိရ် မယုံမကြည်သွေဖည်ငြင်းပယ်သောသူတို့ပင် ဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

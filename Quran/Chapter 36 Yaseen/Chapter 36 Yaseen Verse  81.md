@@ -710,6 +710,12 @@ A nima Onzi, Koĭto sŭtvori nebesata i zemyata, ne e sposoben da sŭtvori podo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၁။	ကောင်းကင်ဘုံနှင့် ကမ္ဘာမြေကြီးအလုံးစုံကို ဖန်ဆင်းတော်မူသောအလ္လာဟ်အရှင်မြတ်သည် လူကဲ့သို့အသေး အဖွဲကို ဖန်ဆင်းခြင်းငှာစွမ်းနိုင်သည်မဟုတ်လော၊ မုချဧကန်အမှန်ပင်စွမ်းနိုင်တော်မူ၏၊ အကြောင်းမူကား အရှင်မြတ်သည် သဗ္ဗညုတဉာာဏ်တော်ရှင်၊ အတိုင်းထက်အလွန်ကြီးကျယ်မြင့်မြတ်တော်မူသောအရှင်၊ အရာခပ်သိမ်းကုန်တို့ကို ဖန်ဆင်းနိုင်တော်မူသောအရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မိုးကောင်းကင်များကိုလည်းကောင်း၊ ကမ္ဘာမြေကိုလည်းကောင်း၊ ဖန်ဆင်းတော်မူခဲ့သော အရှင်မြတ်သည် ၎င်းတို့ကဲ့သို့သောသူတို့အား(ဒုတိယအကြိမ်ထပ်မံ၍) ဖန်ဆင်းတော်မူရန် စွမ်းနိုင်တော်မူသော အရှင်မဟုတ်ပါလော။ အဘယ်ကြောင့်မဟုတ်ပါသနည်း။ မုချမလွဲ(စွမ်းနိုင်တော်မူသော အရှင်မြတ်ပင်)ဖြစ်တော်မူ၏။ စင်စစ်မူကား ထိုအရှင်မြတ်သည် အလွန်တရာ ဖန်ဆင်းတော်မူသောအရှင်၊ (အရာခပ်သိမ်းတို့ကို) အာကြွင်းမဲ့ သိတော်မူသောအရှင်၊ ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Onezi, koito zovete vmesto Allakh, sa rabi, podobni na vas. Prizovete gi, neka v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉၄။	မှတ်သားကြလော့။ အလ္လာဟ်အသျှင်မြတ်မှတစ်ပါး သင်တို့ကိုးကွယ်သောဘုရားတို့သည် သင်တို့ကဲ့သို့ အသျှင်မြတ်၏ ကျေးကျွန်များဖြစ်ကြ၏။ သင်တို့သည် မှန်ကန်သူများဖြစ်လျှင် ယခုသူတို့ထံ ဆုတောင်းကြလော့။ သူတို့သည် သင်တို့တောင်းသောဆုကို ပေးပြစေကုန်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်မှအပ ဟစ်ခေါ် (ကိုးကွယ်ဆည်းကပ်) ကြကုန်သောအရာတို့မှာလည်း အသင်တို့ကဲ့သို့ပင် ကျွန်များ(အဖန်ဆင်းခံများ)သာလျှင်ဖြစ်ကြကုန်၏။ သို့ဖြစ်ပေရာ အသင်တို့သည် အကယ်၍သာ ဟုတ်တိုင်းမှန်ရာ ပြောဆိုသူများဖြစ်ကြပါလျှင် အသင်တို့သည် ၎င်းတို့အားဟစ်ခေါ်ကြလေကုန်။ တစ်ဖန်4င်းတို့သည် (လည်း)အသင်တို့အား ပြန်၍ထူးကြပါစေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

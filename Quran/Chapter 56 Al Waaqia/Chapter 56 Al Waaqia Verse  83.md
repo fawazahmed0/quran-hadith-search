@@ -710,6 +710,12 @@ I kogato [dushata na umirashtiya] stigne gŭrloto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၃။	အသက်ထွက်ခါနီး အသက်ဝိညာဉ်သည် လည်မျိုသို့ ဆိုက်ရောက်သောအခါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်လျှင် အသက်ဇီဝိန်သည် လည်မျိုသို့ ရောက်ရှိလာသောအခါ အသင်တို့သည် မည်သည့်အတွက်ကြောင့် (မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်ခြင်း) မပြုကြသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

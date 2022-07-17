@@ -710,6 +710,12 @@ i vsichki, koito sa na zemyata, samo za da se spasi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။ ထိုမျှမက ကမ္ဘာမြေပေါ်တွင် ရှိရှိသမျှတို့ကို ပေး၍ မိမိကိုယ်ကို ရွေးယူနိုင်ခွင့်ကို တောင့်တ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ပထဝီမြေဝယ် ရှိကုန်သောသူ အားလုံးတို့အားလည်းကောင်း၊ အစားထိုး လျော်ကြေးပေးပြီးနောက် ထိုလျော်ကြေးသည် မိမိအား လွတ်မြောက်စေလျှင် ကောင်းလေစွဟု အာသာဆန္ဒရှိပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

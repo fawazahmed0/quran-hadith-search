@@ -710,6 +710,12 @@ No vie mislekhte, che Pratenika i vyarvashtite nikoga ne shte se vŭrnat pri svo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	အမှန်မှာ သင်တို့က တမန်တော်နှင့် ယုံကြည်သူတို့သည် ၎င်းတို့၏ အသင်းသားများထံ ပြန်လာတော့မည် မဟုတ်ဟု ထင်မှတ်ကြ၏၊ ဤသို့တွေးတောခြင်းသည် မှန်ကန်လျှောက်ပတ်သည်ဟု သင်တို့ယူဆကြ၏၊ မ လျောက်ပတ်ချေ၊ အလွန်ဆိုးဝါးသောအယူအဆသာဖြစ်၏၊ သင်တို့သည် အနှစ်မရှိ၊ ယုတ်မာသောသူတို့သာ ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်မှာမူကား ရစူလ်တမန်တော်မြတ်သည် လည်းကောင်း၊ ‘မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူတို့ သည်လည်းကောင်း၊ မည်သည့်အခါမျှပင် မိမိတို့၏ အိမ်သူအိမ်သားတို့ထံ အလျှင်းပြန်လာကြမည် မဟုတ်ဟူ၍ အသင်တို့ ထင်မှတ်နေခဲ့ကြကုန်၏။ ထို့ပြင် ယင်းအတွေးအထင်သည် အသင်တို့၏ စိတ်နှလုံးများကို လှပတင့်တယ်လျက် ရှိနေစေခဲ့၏။ ၎င်းပြင် အသင်တို့သည် မကောင်းသော ထင်မြင်ချက်ကို ထင်မြင်ခဲ့ကြကုန်၏။ ထိုမှတစ်ပါး အသင်တို့သည် ပျက်စီးသော သူများပင်ဖြစ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ i da cheta Korana. Koĭto se napŭtva, za sebe si se napŭtva. A na kogoto se z
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၂။	ထို့အပြင်ကျမ်းမြတ်ကုရ်အာန်ကို ရွတ်ဖတ်ဖို့ရာလည်း ပညတ်တော်မူ၏၊ ထို့အပြင်အကြင်သူသည် လမ်းမှန်ကို လိုက်၏၊ ထိုသူသည် မိမိဝိညာဉ်အကျိုးဖြစ်ဖို့ရာသာ ယင်းသို့လိုက်၏၊ ထို့အပြင်အကြင်သူသည် လမ်းမှားကို လိုက်အ့ံ၊ ထိုသူအား မှတ်သားလော့၊ အကျွနု်ပ်သည် သတိပေးသူသာဖြစ်၏ဟု သင်ဟောပြောလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါသည် ကုရ်အာန်ကျမ်းတော်မြတ်ကို(အသင်တို့ရှေ့ဝယ် အစ္စလာမ်သာသနာတော်သို့ ဖိတ်ခေါ်သောသူအနေနှင့်)ဖတ်ကြားရန်(အမိန့်ပေးတော်မူခြင်းကိုလည်း ခံရလေသည်)။ သို့ဖြစ်ပေရာ မည်သူမဆို တရားလမ်းမှန်ကို ရရှိခဲ့ပါလျှင် ထိုသူသည် မိမိအဖို့သာလျှင် တရားလမ်းမှန်ကို ရရှိခဲ့ခြင်းဖြစ်သည်။ သို့ရာတွင် မည်သူမဆို လမ်းလွဲလျက်နေခဲ့မူ ငါသည် သတိပေးနှိုးဆော်သူ တစ်ဦးသာလျှင် ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

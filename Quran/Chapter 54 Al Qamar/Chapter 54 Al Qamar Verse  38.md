@@ -710,6 +710,12 @@ I rano sutrinta gi spoletya traĭno mŭchenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	အမှန်မှာ ငါပြဌာန်းထားတော်မူသောအပြစ်ဒဏ်သည် သူတို့အပေါ်သို့ နံနက်အာရုဏ်တက်တွင် ကျရောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ဧကန်မလွဲ အဓွန့်ရှည်စွာ တည်မြဲအံ့သောငှာ ပြစ်ဒဏ်သည် ၎င်းတို့၌ နံနက်စောစော အချိန်တွင်ပင် သက်ရောက်ခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

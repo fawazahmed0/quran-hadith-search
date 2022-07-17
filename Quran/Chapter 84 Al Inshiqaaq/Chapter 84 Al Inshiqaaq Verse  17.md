@@ -710,6 +710,12 @@ i v noshtta, i v onova, koeto tya sŭbira
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၊၁၇၊၁၈။ ငါသည် နီမြန်းသောနေဝင်ချိန်၊ ညနှင့် ည၏အမှောင်ထု ထွန်းလင်းသာယာပြည့်ဖြိုးနေသောလပြည့်ဝန်းတို့ကို သက်သေထူတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်(ငါအရှင်မြတ်)သည် ညဉ့်ကိုလည်းကောင်း၊ ထိုညဉ့်က ဖုံးလွှမ်းသောအရာများကိုလည်းကောင်း၊ (သက်သေထူတော်မူ၏)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

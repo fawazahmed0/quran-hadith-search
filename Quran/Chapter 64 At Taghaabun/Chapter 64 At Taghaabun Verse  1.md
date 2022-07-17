@@ -710,6 +710,12 @@ Vsichko na nebesata i vsichko na zemyata proslavya Allakh. Negova e vlastta i Ne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။ မိုးကောင်းကင်နှင့် ကမ္ဘာမြေပေါ်ဝယ် ရှိရှိသမျှတို့သည် အလ္လာဟ်အရှင်မြတ်၏ ဂုဏ်တော်ကျေးဇူးတော်ကို ရင့်ကျုးကြ၏၊ စိုးပိုင်ခြင်းနှင့် ချီးမွမ်းခြင်းအပေါင်းတို့သည် အရှင်မြတ်၏ အရာသာလျှင်ဖြစ်၏၊ အရှင်မြတ်သည် အရာခပ်သိမ်းကုန်တို့ကို ပြုစွမ်းနိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မိုးကောင်းကင်များ၌ ရှိသမျှတို့သည်လည်းကောင်း၊ ပထဝီမြေ၌ ရှိသမျှတို့သည်လည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ် စင်ကြယ် သန့်ရှင်းတော်မူကြောင်း မြွက်ဆိုလျက် ရှိကြကုန်၏။ စိုးမိုးအုပ်ချုပ်မှုသည်လည်း ထိုအရှင်မြတ်၌သာ ရှိ၏။ ချီးမွမ်းထောပနာ ဟူဟူသမျှ တို့သည်လည်း ထိုအရှင်မြတ်နှင့်သာ အပ်စပ်၏။ ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို စွမ်းဆောင်နိုင်တော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

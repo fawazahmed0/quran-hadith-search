@@ -710,6 +710,12 @@ I da ti pokazhem chast ot onova [nakazanie], koeto im obeshtakhme, ili da te pri
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။	အို-မိုဟမ္မဒ်၊ ငါသည် သူတို့အား ကတိထားတော်မူသောအရာအချို့ကို သင့်အား မြင်စေတော်မူသည်ဖြစ်စေ၊ မြင်စေတော်မူသည်ဖြစ်စေ၊ မြင်စေတော်မမူသည်ဖြစ်စေ သူတို့သည် ငါ့အထံတော်သို့ ပြန်လာရမည်သာတည်း၊ ထို့အပြင်အလ္လာဟ်အရှင်မြတ်သည် သူတို့ကျင့်ဆောင်သမျှအပေါင်းတို့ကို အသိသက်သေဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အကယ်၍ ငါအရှင်မြတ်သည်၎င်း တို့အား ငါအရှင်မြတ် ကတိထားတော်မူခဲ့သော ပြစ်ဒဏ်အချို့ကို အသင့်အား ပြတော်မူသည် ဖြစ်စေ၊ သို့တည်းမဟုတ်ငါအရှင်မြတ်သည် အသင့်အား(ထိုပြစ်ဒဏ်မကျရောက်မီ)သေဆုံးတော်မူသည်ဖြစ်စေ၊ နောက်ဆုံးတွင် ၎င်း တို့၏ပြန်လည်ရာဌာနသည် ငါအရှင်မြတ်ထံတော်၌ပင်ရှိပေသည်။ ပြီးနောက်အလ္လာဟ်အရှင်မြတ်သည် ၎င်း တို့ပြုလုပ် ကြသည်တို့ ကိုလည်းသိတော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

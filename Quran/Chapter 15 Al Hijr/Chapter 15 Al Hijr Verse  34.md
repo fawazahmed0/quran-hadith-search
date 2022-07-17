@@ -710,6 +710,12 @@ Reche: “Izlez togava ottuk! Ti si prokuden
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	အလ္လာဟ်အရှင်မြတ်က နင်သည် ဤနေရာမှ ထွက်သွားလော့၊ အကြောင်းမူကား နင်သည် နှင်ထုတ်ထားသော သူအမှန်ပင်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်က (ဤသို့) မိန့်ကြားတော်မူခဲ့လေသည်။ (အို-အီဗ်လီစ်) သို့ဖြစ်လျှင် အသင်သည် (ယခုပင်) ဤကောင်းကင်မှထွက်လော့။ ဧကန်စင်စစ် အသင်သည်နှင်ထုတ်ခြင်းခံရသောသူပင် ဖြစ်ချေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

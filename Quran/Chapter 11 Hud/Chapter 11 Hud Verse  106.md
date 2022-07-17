@@ -710,6 +710,12 @@ Onezi, koito sa zlochesti, shte bŭdat v Ogŭnya. V nego shte vdishvat i izdishv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၆။	ထိုနေ့တော်ကြီး၌ စိတ်ညစ်ရမည့်သူတို့သည် အဝီစိငရဲအတွင်း၌ ရှိကြလတ့ံ။ ငရဲပြည်၌ ညည်းညူခြင်း၊ ငိုကြွေး မြည်တမ်းခြင်းတို့သည် သူတို့၏ ဝေစုဖြစ်ကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အကြောင်းမရှိလှသော သူတို့ သည်ဂျဟန္နမ်ငရဲဘုံ၌ ရှိကြပေမည်။ ၎င်းတို့၌ ထိုဂျဟန္နမ်ဘုံတွင်ဟစ်အော်ခြင်းနှင့် ညည်းတွားခြင်းများပင် ရှိကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

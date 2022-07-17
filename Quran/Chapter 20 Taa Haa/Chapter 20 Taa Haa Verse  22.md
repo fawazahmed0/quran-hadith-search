@@ -710,6 +710,12 @@ I slozhi rŭkata si pod mishnitsata, shte ya izvadish siyaĭnobyala, bez bolest
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	သင်၏လက်ကို မိမိလက်ကတီးကြားသို့ သွင်းလော့၊ ၎င်းသည် ဖြူစင်သန့်ရှင်းအနာမဲ့စွာထွက်လာတ္တံ့၊ ဤအ့ံဖွယ် သည် ဒုတိယသာဓကတော်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အသင်သည် မိမိ(ယာဘက်)လက်ကို မိမိ(ဝဲဘက်)ချိုင်းကြားတွင် သွင်းလေ၊ ယင်းလက်မှာ နောက်ထပ်သက်သေလက္ခဏာတော်တစ်ပါးအဖြစ် အပြစ်အနာအဆာလုံးဝမရှိဘဲ၊ လင်းဝင်းထွန်းတောက်လျက် ထွက်ပေါ်၍လာပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

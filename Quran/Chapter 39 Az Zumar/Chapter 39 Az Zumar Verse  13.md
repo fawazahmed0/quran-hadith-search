@@ -710,6 +710,12 @@ Kazhi: “Strakh me e, ako se vŭzprotivya na moya Gospod, ot mŭchenie vŭv vel
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	အို-တမန်တော်၊ ဟောကြားလော့၊ မှတ်သားကြလော့၊ ငါသည် မိမိ၏အရှင်သခင်အား မကျိုးနွံ မထီမဲ့မြင်ပြုလျှင် ငါသည် တရားစီရင်တော်မူသောနေ့တော်ကြီး၏ အပြစ်ဒဏ်ကို အလွန်ကြောက်ရွံ့စိုးရိမ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ပြောကြားပါလေ။ (အချင်းတို့) အကယ်၍ ငါသည် ငါ့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏အမိန့်တော်ကို ဖီဆန်ခဲ့သည်ရှိသော်၊ အမှန်ပင် ငါသည် ကြီးကျယ်လှသော ("ကိယာမတ်" ရှင်ပြန်ထမည့်)နေ့၏ ပြစ်ဒဏ်ကို ကြောက်ရွံ့စိုးရိမ်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I kazvat: “Zashto ne mu be nizposlano znamenie ot negoviya Gospod?” Kazhi [o
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၀။	သူတို့သည် သူတို့၏ အရှင်သခင်က သူ့ထံသို့ သက်သေသာဓကတစ်ပါးချပေးတော်မူပါလျှင် ကောင်းလေစွဟု ပြောကြ၏။ အို-မိုဟမ္မဒ်၊ သင်ဟောကြားလော့၊ မမြင်စွမ်းနိုင်သောအရာများသည် အလ္လာဟ်အရှင်မြတ်၏ ဘဏ္ဍာတော်ဖြစ်၏။ ထို့ကြောင့်စောင့်ဆိုင်းလော့၊ အကျွနု်ပ်လည်း သင်တို့နှင့်အတူ အမှန်ပင်စောင့်ဆိုင်းနေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်း တို့သည် (ဤသို့)ပြောဆိုကြကုန်၏။ အဘယ်ကြောင့် ထို(ရစူလ်တမန်တော်မြတ်) ၏အပေါ်၌၎င်း ၏ အရှင်မြတ်အထံတော်မှ သက်သေလက္ခဏာ တစ်စုံတစ်ရာ မကျရောက်ခဲ့ပါသနည်း။ သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်)အသင်သည ်(၎င်း တို့အား ဤသို့)ဖြေကြားပါလေ။ အကယ်စင်စစ် အကွယ်၌ရှိသမျှတို့ကို အလ္လာဟ်အရှင်မြတ်သာလျှင် ပိုင်ဆိုင်တော်မူ၏။ သို့ဖြစ်ပေရာ အသင်တို့သည် စောင့်မျှော်၍နေကြလေကုန်။ ငါသည်လည်း အသင်တို့နှင့်အတူ စောင့်မျှော်သူတို့တွင် တဦးအပါအဝင် ဖြစ်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

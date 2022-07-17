@@ -710,6 +710,12 @@ O, vyarvashti, vash dŭlg e da pazite dushite si. Ne shte vi navredi onzi, koĭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၅။	အို-ယုံကြည်သူအပေါင်းတို့ သင်တို့သည် မိမိတို့ဝိညာဉ်ကို ထိန်းသိမ်းကြရ၏။ အကယ်၍ သင်တို့သည် လမ်းမှန်ကို ညွှန်ပြခြင်းခံကြရလျှင် အယူမှားသူသည် သင်တို့ကို နစ်နာအောင် မပြုလုပ်နိုင်ပေ။ သင်တို့အားလုံးသည် အလ္လာဟ်အသျှင်မြတ်အထံတော်သို့ ပြန်ကြရလိမ့်မည်။ ထိုအခါ အသျှင်မြတ် သည် သင်တို့အား မိမိတို့ပြုကျင့်လေ့ရှိသောအမှုအခင်းများကို ပြောပြတော်မူလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို- ‘မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူအပေါင်းတို့ အသင်တို့သည် မိမိတို့ကိုယ်ကို မိမိတို့ ထိန်းသိမ်း စောင့်ရှောက်ရန်အတွက်သာလျှင် ပူပန်ကြလေကုန်။ အသင်တို့၏တရားလမ်းစဉ်အတိုင်း (မတိမ်းမစောင်း) လိုက်နာနေကြပါလျှင် တရားလမ်းမှားသောသူသည် အသင်တို့ကို (မည်သို့မျှ) အကျိုးယုတ် နစ်နာစေနိုင်မည်မဟုတ်ပေ။ အသင်တို့အားလုံးတို့သည် နောက်ဆုံးတွင် အလ္လာဟ်အရှင်မြတ် အထံတော်သို့သာလျှင် ပြန်ကြရလတ္တံ့။ ထိုအခါ ထိုအရှင်မြတ်သည် အသင်တို့ ပြုမူခဲ့သမျှတို့ကို အသင်တို့အား အသိပေးတော်မူအံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

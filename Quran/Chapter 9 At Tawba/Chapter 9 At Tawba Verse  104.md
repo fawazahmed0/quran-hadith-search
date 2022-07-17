@@ -710,6 +710,12 @@ Ne znaekha li, che Toĭ, Allakh, priema pokayanieto ot Svoite rabi i vzima poda
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၄။	အလ္လာဟ်အရှင်မြတ်သည် မိမိ၏ ကျေးတော်မျိုးကျွန်တော်မျိုးတို့ထံမှ ဝန်ချတောင်းပန်ခြင်း၊ အလှုဒါနကို နှစ်သက်တော်မူကြောင်းကိုသော်လည်းကောင်း၊ အရှင်မြတ်သည် အပြစ်လွှတ်တော်မူသောအရှင်၊ ကောင်းကြီး မင်္ဂလာပေးတော်မူသောအရှင်ဖြစ်တော်မူကြောင်းကိုသော်လည်းကောင်း၊ သူတို့မသိကြဘူးလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မုချဧကန် အလ္လာဟ်အရှင်မြတ်သည်ပင် မိမိကျွန်များ၏ ဝန်ချတောင်းပန်ချက်ကို သဘောတူ လက်ခံတော်မူသည်ကိုလည်းကောင်း၊ ထိုအရှင်မြတ်သည်ပင် အလှူဒါနဝတ္ထုပစ္စည်းများကို လက်ခံတော်မူသည်ကိုလည်းကောင်း၊ ထိုသူများ မသိကြလေသလော။ ဧကန်အမှန် ထိုအရှင်မြတ်သည်ပင်(မိမိကျွန်များ၏)ဝန်ချတောင်းပန်ချက်ကို အလွန်တရာသဘောတူ လက်ခံတော်မူသောအရှင်၊ (၎င်းတို့အပေါ်၌)အလွန်တရာ သနားကြင်နာညှာတာတော် မူသောအရှင်ဖြစ်တော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

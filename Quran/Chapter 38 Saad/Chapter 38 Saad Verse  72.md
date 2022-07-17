@@ -710,6 +710,12 @@ I kogato go zavŭrsha, i mu vdŭkhna ot Svoya dukh, svedete chela do zemyata pre
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၂။	ယင်းသို့ဗျာဒိတ်ပေးတော်မူပြီးနောက် လူသားကို ကိုယ်ကာယခြေလက်အင်္ဂါအစုံအလင်ဖန်ဆင်းတော်မူ၏၊ ၎င်း ကိုယ်ကာယအတွင်း ငါ၏ အသက်ဝိညာဉ်ကို မှုတ်သွင်းတော်မူ၏၊ ယင်းသို့အသက်သွင်းတော်မူပြီးသည်နောက် ကောင်းကင်တမန်တို့အား လူသားကို ဦးညွှတ်ချ၍ အရိုအသေပြုရန် ခိုင်းတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ငါအရှင်မြတ်သည် ထိုလူသားအား နေထားကျနစုံလင်စွာ ပြုလုပ်တော်မူပြီးလျှင် ၎င်း(၏ခန္ဓာကိုယ်) အတွင်းဝယ် မိမိအထံတော်မှ အသက်ဇီဝိန်ကို မှုတ်သွင်းတော်မူခဲ့သောအခါ အသင်တို့သည် ၎င်း၏ရှေ့ဝယ် ‘စဂျ်ဒဟ်’ပျပ်ဝပ်ဦးချကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

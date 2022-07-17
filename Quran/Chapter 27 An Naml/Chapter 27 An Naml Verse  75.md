@@ -710,6 +710,12 @@ I nyama nishto, nito na nebeto, nito na zemyata, bez da e v yasna kniga
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၅။	အလွန်ရှင်းလင်းထင်ရှားသောမှတ်ပုံတင်စာရင်းစာအုပ်ကြီးတွင် မပါဝင်ပဲ မိုးကောင်းကင်နှင့် ကမ္ဘာမြေပြင်ဝယ် ဖုံးအုပ်ထားသောအရာတစ်စုံတစ်ရာမျှမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား မိုးကောင်းကင်၌လည်းကောင်း၊ ပထဝီမြေ၌လည်းကောင်း၊ လျှို့ဝှက်သောအရာဟူ၍ မရှိချေ။သို့ရာတွင် (ထိုအရာသည်) ထင်ရှားစွာသော (မှတ်တမ်းတော်)စာအုပ်တွင် မှတ်သားထားပြီး ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

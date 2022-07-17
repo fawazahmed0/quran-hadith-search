@@ -710,6 +710,12 @@ HADHA FEWXHUN MUKTEHIMUN ME’AKUM LA MERHEBÆN BIHIM ‘INNEHUM SALU EN-NARI
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၉။	အို-ငရဲသားတို့၊ သည်မှာ သင်တို့ထံသို့ မစဉ်းစားမဆင်ခြင်ပဲ အရေးတကြီးတိုးဝင်လာသောစစ်တပ်ကြီးတစ်ခု ရှိသေး၏၊ ငရဲသားတို့က သင်တို့အဖို့သာယာသောခရီးဦးကြိုဆိုသောစကားမရှိချေ၊ အကယ်စင်စစ်သူတို့သည် ငရဲမီး၌ ဖုတ်ကင်ခြင်းကို ခံကြရလတ့ံဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (သူယုတ်မာအကြီးအကဲတို့က ပြောဆိုကြသည်မှာ) ဤသည် အသင်တို့နှင့်အတူ တိုးဝင်လျက် ရှိသော(အခြား)တပ်ဖွဲ့တစ်ဖွဲ့ပင်ဖြစ်၏။ ၎င်းတို့သည် ခုံမင်စွာ နှုတ်ဆက်ခြင်းနှင့် ကင်းဝေးကြစေသား၊ ဧကန်အမှန် ၎င်းတို့သည်လည်း ငရဲမီးထဲသို့ ဝင်ရောက်လျက်ရှိကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

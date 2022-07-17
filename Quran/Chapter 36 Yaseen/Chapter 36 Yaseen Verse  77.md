@@ -710,6 +710,12 @@ Ne vizhda li chovekŭt, che Nie go sŭtvorikhme ot chastitsa sperma? A eto go - 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၇။	ငါသည် လူသားတို့အား ကလကရေကြည်မှ ဖန်ဆင်းတော်မူသည်ကို သူမမြင်သလော၊ သို့သော်သူ့ကို ကြည့်ရှု လော့၊ သူသည် ငါ့အား ထင်ထင်ရှားရှားရန်မူချေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မနုဿ" လူသားသည် မစဉ်းစားမဆင်ခြင် မမြင်ခဲ့လေသလော။ ဧကန်မလွဲ ငါအရှင်မြတ်သည် ၎င်းအား ကလလရေကြည်တစ်စက်ဖြင့် ဖန်ဆင်း တော်မူခဲ့၏။ သို့ရာတွင် ရုတ်တရက် ၎င်းမှာ ထင်ရှားစွာသော အငြင်းအခုံ ပြုလုပ်သူဖြစ်လာခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

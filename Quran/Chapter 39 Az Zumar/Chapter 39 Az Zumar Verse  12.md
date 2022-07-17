@@ -710,6 +710,12 @@ I mi be poveleno da bŭda pŭrviyat Nemu otdaden.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	အလ္လာဟ်အရှင်မြတ်ကို ကျိုးနွံနာခံသူတို့အနက် ငါသည် ရှေးဦးပထမဖြစ်ရမည်ဟုလည်း ဗျာဒိတ်တော်လာ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ကျွန်ုပ်သည် အဦးဆုံးမွတ်စ်လင်မ် ဖြစ်ရန်လည်း အမိန့်ပေးတော်မူခြင်း ခံရသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

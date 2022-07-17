@@ -710,6 +710,12 @@ Ili smyatat, che ne chuvame tekhnite taĭni i skrishnite im besedi? Da, i Nashi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈ဝ။	သို့မဟုတ် သူတို့က မိမိတို့လျှို့ဝှက်မှုနှင့် အချင်းချင်းတီးတိုးတိုင်ပင်မှုများကို ငါကြားတော်မမူဟု ထင်မှတ်ကြ သလော၊ ငါသည် မုချဧကန်ကြားတော်မူ၏၊ ငါ၏ ကောင်းကင်တမန်များသည် သူတို့နှင့်အတူရှိ၍ အရာရာကို ရေးမှတ်ထားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် ငါအရှင်မြတ်သည် ထိုသူတို့၏ လျှို့ဝှက်ချက်များကိုလည်းကောင်း၊ ထိုသူတို့၏တီးတိုး ဆွေးနွေးချက်များကိုလည်းကောင်း၊ ကြားတော်မူသည်မဟုတ်ဟု ၎င်းတို့ထင်မှတ်ကြလေသလော။ အမှန်ပင်(ငါအရှင်မြတ်သည် ကြားတော်မူ ၏၊) ထိုမှတစ်ပါး ငါအရှင်မြတ်၏ စေတမန်များသည်လည်း (ထိုသည်တို့ကို)၎င်းတို့ထံ၌ ရေးမှတ်လျက် ရှိကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ili zavizhdat na khorata za onova, koeto Allakh im dari ot Svoyata blagodat? Nie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၄။	သို့မဟုတ် ထိုသူများသည် လူသားတို့ကို ၎င်းတို့အား အလ္လာဟ်အသျှင်မြတ်က မိမိအနန္တ ကောင်းကြီးမင်္ဂလာတော်မှ ချပေးသနားတော်မူသော ကျေးဇူးတော်ကြောင့် မနာလို ဝန်တိုကြသလော။ အကြောင်းမူကား ငါအသျှင်မြတ်သည် တမန်တော် အီဗရဟီမ်၏သားမြေးတို့အား ကျမ်းတော်နှင့် ပညာအလင်းရောင်ကို ပေးသနားတော်မူ၏။ ထို့ပြင် ငါသည် သူတို့အား အလွန်ကြီးမားသော နိုင်ငံတော်ကို ပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ်၊ ၎င်း (ယဟူဒီတို့သည် အလ္လာဟ်အရှင်မြတ်က မိမိကျေးဇူးတော်အနက်မှ အခြားသူတို့အား ချီးမြှင့်ပေးသနားတော်မူသော အရာများနှင့်စပ်လျဉ်း၍ မနာလိုကြလေသလော။ သို့ဖြစ်လျှင် ငါအရှင်မြတ်သည် (နဗီတမန်တော်) အစ်ဗ်ရာဟီမ်၏ အဆက်အနွယ်အား ကျမ်းဂန်ကိုလည်းကောင်း၊ ဉာဏ်ပညာကိုလည်းကောင်း၊ ချီးမြှင့်ပေးသနားတော်မူခဲ့သည့်အပြင်၊ ငါအရှင်မြတ်သည် ၎င်းတို့အား ကြီးကျယ်လှစွာသော (အုပ်ချုပ်မှု) ဩဇာအာဏာကိုလည်း ချီးမြှင့်ပေးသနားတော်မူခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I se obŭrnete kŭm svoya Gospod, i Mu se otdaĭte, predi mŭchenieto da doĭd
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၄။	တရားစီရင်တော်မူသောနေ့တော်ကြီး မဆိုက်ရောက်လာမီ အပြစ်ဒဏ်တော်မထိမီ သင်တို့သည် သတိနောင်တ ကောင်းစွာရလျက် အလ္လာဟ်အရှင်မြတ်ဘက်တော်သို့ မျက်နှာမူကြလော့၊ အရှင်မြတ်အား ယုံကြည်ကျိုးနွံနာခံ ကြလော့၊ ထိုနေ့တော်ကြီး၌ သင်တို့ကို ကူညီနိုင်မည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်တို့သည် မိမိတို့ထံ ပြစ်ဒဏ်ဆိုက်ရောက်၍မလာမီပင် မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်ဘက်တော်သို့ ပြန်လှည့်ခြင်းကိုလည်းကောင်း၊ ထိုအရှင်မြတ်၏ အမိန့်တော်များကို လိုက်နာခြင်းကိုလည်းကောင်း၊ ပြုကြလေကုန်။ ထို (ပြစ်ဒဏ်ဆိုက်ရောက်၍လာပြီး)နောက်တွင် အသင်တို့သည် (မည်သည့်) အကူအညီ(ကိုမျှ)ရရှိကြမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

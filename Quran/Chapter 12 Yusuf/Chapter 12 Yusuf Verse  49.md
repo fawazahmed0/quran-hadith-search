@@ -710,6 +710,12 @@ Setne shte doĭde podir tova godina, v koyato shte bŭde praten dŭzhd na khora
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	ထို့နောက်အလွန်ဝပြောသာယာသောနှစ်တစ်နှစ်ပေါ်ပေါက်လာမည်။ ထိုနှစ်၌ လူများသည် ကောက်ပဲသီးနှံ အမြောက်အများရရှိကြလိမ့်မည်။ ထိုအခါသူတို့သည် အရက်နှင့်ဆီများကို ညှစ်ထုတ်ယူကြလိမ့်မည်ဟု အိပ်မက် များ၏ အဓိပ္ပါယ်ကို ပြောပြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက်တစ်ဖန် နောက်တစ်နှစ်ရောက် လတ်သော် ထိုနှစ်တွင်မူ လူတို့သည်(ကောင်းမွန်စွာ) မိုးရွာသွန်းစေခြင်းကို ခံကြရသည့်ပြင် ထိုနှစ်တွင် ၎င်းတို့သည် စပျစ်ရည်များလည်း ညှစ်ကြပေမည် ဖြစ်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

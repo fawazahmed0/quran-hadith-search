@@ -710,6 +710,12 @@ Shte gori v ogŭn s plamŭtsi toĭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။ ထိုသူသည် မီးတောက်မီးလျှံဟုန်းဟုန်းတောက်လောင်သည့်မီးအထဲတွင် လောင်ကျွမ်းရမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မကြာမြင့်မီပင် ၎င်း ကိုယ်တိုင်လည်း ဟုန်းဟုန်းတောက်လောင်လျက်ရှိသော မီးထဲသို့ ဝင်ရောက်ရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I ne zovi drug bog zaedno s Allakh, za da ne bŭdesh ot izmŭchvanite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁၃။	ထို့ကြောင့် အို--တမန်တော်၊ သင်သည် ပျက်စီးဆုံးရှုံးခြင်းသို့ မဆိုက်ရောက်စေခြင်းငှာ အလ္လာဟ်အရှင်မြတ် မှတပါး ဘုရားတုဘုရားယောင်ကို ကိုးကွယ်ခြင်းကို မပြုလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်၊) အသင်သည် အလ္လာဟ်အရှင်မြတ်နှင့်အတူ မည်သည့် ကိုးကွယ်ရာကိုမျှပင် ဟစ်ခေါ်တသခြင်း မပြုပါလေနှင့်။ သို့ပြုခဲ့ပါလျှင် အသင်သည်လည်း ပြစ်ဒဏ်ပေးခြင်းခံကြရသူတို့တွင် အပါအဝင် ဖြစ်သွားပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

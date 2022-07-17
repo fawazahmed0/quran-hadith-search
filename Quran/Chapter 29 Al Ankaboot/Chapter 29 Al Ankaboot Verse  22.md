@@ -710,6 +710,12 @@ I ne mozhete da vŭzpirate nito na zemyata, nito na nebeto. I osven Allakh nyama
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	ကမ္ဘာမြေပြင်ပေါ်၌လည်းကောင်း၊ မိုးကောင်းကင်၌လည်းကောင်း၊ သင်တို့သည် အလ္လာဟ်အရှင်မြတ်ထံမှ လွတ်အောင် မပြေးနိုင်ချေ၊ ထို့အပြင်အလ္လာဟ်အရှင်မြတ်မှတပါး သင်တို့၌ အဆွေခင်ပွန်းသော်လည်းကောင်း၊ ကူညီရိုင်းပင်းသူသော်လည်းကောင်း မရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အသင်တို့သည် ကမ္ဘာမြေ၌လည်း (အလ္လာဟ်အရှင်မြတ်က မိမိတို့အား ပြစ်ဒဏ် ပေးတော်မူခြင်းကို) မစွမ်းဆောင်နိုင်လေအောင် ပြုနိုင်ကြသည် မဟုတ်ပေ။ မိုးကောင်းကင်၌လည်း ပြုနိုင်ကြသည်မဟုတ်ပေ။ ထိုမှတစ်ပါး အသင်တို့အဖို့ အလ္လာဟ်အရှင်မြတ်အပြင် ကိစ္စအဝဝကို ပြီးစီးအောင် ပြုလုပ်ပေးမည့်သူဟူ၍လည်းကောင်း၊ ကူညီစောင်မ မည့်သူဟူ၍လည်းကောင်း၊ တစ်ဦးတစ်ယောက်မျှပင်မရှိချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

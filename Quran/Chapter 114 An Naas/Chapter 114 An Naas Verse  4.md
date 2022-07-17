@@ -710,6 +710,12 @@ ot zloto na shepneshtiya sŭblazni [satana], pobyagvashtiya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+အို-တမန်တော်၊ ဟောပြောလော့၊ ဂျင်နတ်သားနှင့် လူသားတို့အလယ်တွင် လူသားတို့၏ စိတ်နှလုံးအတွင်း ဝင်ရောက်သွေးဆောင်သော ရှိုင်တန် မာရ်နတ်၏ လှညြ့်ဖားခြင်းကို အောင်နိုင်စေခြင်းငှာ လူသားတို့၏ အရှင်သခင်၊ လူသားတို့၏ ဘုရင်၊ လူသားတို့၏ ဘုရားသခင်၌ အကျွနု်ပ်သည် ခိုလှုံပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မကောင်းသော အကြံအစည်များကို ထည့်သွင်းတတ်သော၊ နောက်ဆုတ်သော၊ (ရှိုင်တွာန်မိစ္ဆာကောင်)၏ ဘေးအန္တရာယ်မှ)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

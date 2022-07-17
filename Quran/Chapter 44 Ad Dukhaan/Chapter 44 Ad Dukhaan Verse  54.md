@@ -710,6 +710,12 @@ Taka! I shte im dadem za sŭprugi krasavitsi s golemi ochi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၄။	ယင်းကဲ့သို့ မွေ့လျော်စံစားစေတော်မူမည်၊ ၎င်းအပြင်ငါသည် ၎င်းတို့အား မျက်လုံးမျက်ဆံပြည့်ဝသောနတ် ကညာတို့နှင့် ထိမ်းမြားပေးတော်မူလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤဖြစ်ရပ်မှာ) ဤအတိုင်းဖြစ်၏။ ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ၎င်းတို့အား ဖြူ၍လှပတင့်တယ်သော၊ မျက်စိပြူး၍လှပသော၊ မိန်းမများနှင့် ထိမ်းမြား၍ ပေးတော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I kakto stoeshe, moleĭki se v svetilishteto, angelite go prizovakha: “Allakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	တမန်တော် ဇကရီယာသည် ထူးမြတ်သောအဆောင်အတွင်း၌ ဆွလာသ်ဝတ်ပြုနေစဉ် ကောင်းကင် တမန်တော်များပေါ်လာ၍ အို-ဇကရီယာ အလ္လာဟ်အသျှင်မြတ်သည် သင့်အား ယဟယာမည်သော သားရတနာတစ်ဦးရမည့်အကြောင်း သတင်းကောင်းကို ပေးသနားတော်မူ၏။ သူသည် အသျှင်မြတ်၏ ဗျာဒိတ်တော်ကို အတည်ပြုရန်လာမည်။ မြင့်မြတ်သန့်စင်၍ သူတော်ကောင်းတို့၏ တမန်တော်တစ်ပါးဖြစ်မည်ဟု ပြောကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ထို [တမန်တော် ဇကရိယာ(အလိုင်ဟစ္စလာမ်)] သည် အခန်းတွင်း၌ ဆွလာတ်ဝတ်ပြုနေခိုက် မလာအေ့ကဟ် ကောင်းကင်တမန် များသည်ထိုတမန်တော်အား အသံကျယ်စွာ ပြောဆို နေကြသည်မှာမုချဧကန် အလ္လာဟ်အရှင်မြတ်သည် အသင့်အား ယဟ်ယာအမည်ရှိသော သားကောင်း ရတနာတပါး ပေးသနားတော်မူသည့် အကြောင်း ပီတိသောမနဿ ဝမ်းမြောက်ဘွယ်ရာသတင်းပြောကြားတော်မူလေသည်။ ထိုသားရတနာသည်ကလိမတုလ’ာဟ် အလ္လာဟ်အရှင်မြတ်၏ ‘မုက္ခပါဌ်တော်’(တည်း ဟူသော တမန်တော်အီစာ)ကို ထောက်ခံမည့်သူဖြစ်အံ့၊အကြီးအမှူးလည်းဖြစ်အံ့။ (ကာမဂုဏ်အာရုံကို) အထူးစောင့်စည်းသူလည်းဖြစ်အံ့၊ သူတော်စင်များ အနက်မှ နဗီတမန်တော်တပါးလည်းဖြစ်အံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

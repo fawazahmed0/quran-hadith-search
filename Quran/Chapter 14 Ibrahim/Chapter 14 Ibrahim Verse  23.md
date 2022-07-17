@@ -710,6 +710,12 @@ A onezi, koito vyarvat i vŭrshat pravedni dela, shte bŭdat vŭvedeni v Gradini
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	ယုံကြည်လျက် ကုသိုလ်ကောင်းမှုပွားများသူတို့အား နိဗ္ဗာန်ဥယျာဉ်တော်များကို ဝင်စေတော်မူ၏။ ထိုဥယျာဉ်တော် များအောက်တွင် မြစ်ချောင်းအထွေထွေစီးဆင်းလျက်ရှိ၏။ သူတို့သည် သူတို့၏ ကျေးဇူးတော်သခင်၏ ခွင့်ပြု တော်မူခြင်းဖြင့် ထိုဥယျာဉ်တော်များအတွင်း၌ စံမြန်းနေထိုင်ကြရ၏။ ထိုမှ သူတို့၏ နှုတ်ဆက်စကားမှာ အေးချမ်းသာယာပါစေသော်ဝ်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (အီမာန်)သက်ဝင် ယုံကြည်ခဲ့သည့်ပြင်ကောင်းမြတ်သောအကျင့်သီလများကို ကျင့်မူ ဆောက်တည်ခဲ့ကြကုန်သောသူတို့ကား ဥယျာဉ်များ သို့ ဝင်ရောက်စေခြင်းကိုခံကြရလတ္တံ့။ ထိုဥယျာဉ် များ၏အောက်တွင် စမ်းရေချောင်းများသည် စီးတွေလျက်ရှိကြကုန်အံ့။ ၎င်းတို့သည် မိမိတို့အားဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏အမိန့်တော်နှင့် ထိုဥယျာဉ်များတွင် ထာဝစဉ်နေထိုင်စံမြန်းသူများ ဖြစ်ကြပေအံ့။ထိုဥယျာဉ်များတွင် ၎င်းတို့၏မေတ္တာပို့သ နှုတ်ခွန်းဆက်သမှုကားစလာမ် (ငြိမ်းချမ်းသာယာ)ဟူ၍ပင် ဖြစ်ချိမ့်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

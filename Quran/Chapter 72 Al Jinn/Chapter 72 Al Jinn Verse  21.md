@@ -710,6 +710,12 @@ Kazhi: “Az nito moga da vi navredya, nito da vi bŭda ot polza.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။ အို-တမန်တော်၊ ဟောပြောလော့၊ သင်တို့အား ဘေးဥပါဒ်ပြုခြင်းကိုသော်လည်းကောင်း၊ ကောင်းကြီးပေးခြင်းကို သော်လည်းကောင်း၊ ပြုစွမ်းနိုင်သည့်တန်ခိုးအာဏာ ငါ၌မရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်ပြောကြားပါလေ။ ငါသည် အသင်တို့၏ ဆုံးရှုံးမှု၊ လမ်းလွဲမှုကိုလည်း ပိုင်ဆိုင်သည်မဟုတ်ပေ၊ (အသင်တို့၏) တရားလမ်းမှန် ရရှိရေးကိုလည်း ပိုင်ဆိုင်သည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

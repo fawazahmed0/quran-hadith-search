@@ -710,6 +710,12 @@ a tova e kletva - ako znaete - velika
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၆။	ဤသက်သေပြချက်သည် အလွန်ခိုင်မာနက်နဲ၏၊ သင်တို့နားလည်ကြလျှင် ကောင်းလေစွ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်ဆိုသော် ယင်းသို့ သက်သေထူခြင်း (ကျိန်ဆိုခြင်း)မှာ အကယ်၍ အသင်တို့သိရှိကြလျှင် ကြီးကျယ်စွာသော သက်သေထူမူ ကျိန်ဆိုမှု)ပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

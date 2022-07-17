@@ -710,6 +710,12 @@ i [srebŭrni] vrati za domovete im, i prestoli, na koito da se oblyagat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃၊၃၄။	လူသားအပေါင်းတို့သည် လူမျိုးတစ်မျိုးတည်းသာ ဖြစ်လာကြမည်မဟုတ်လျှင် မဟာကရုဏာတော််အရှင်အား မယုံကြည်သူတို့အဖို့အရာ ငါသည် သူတို့၏ အိမ်အမိုးအကာများကိုသော်လည်းကောင်း၊ သူတို့လဲလျောင်းထိုင်ရာ ပလ္လင်များကိုသော်လည်းကောင်း၊ ငွေသားအတိဖြစ်စေတော်မူခဲ့လေလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ထိုသူတို့နေအိမ်များ၏ တံခါးများကိုလည်းကောင်း၊ ထိုသူတို့မှီ၍ ထိုင်ကြကုန်သောခုတင်များကို လည်းကောင်း၊ (ငွေဖြင့် ပြုလုပ်၍ ပေးတော်မူခဲ့ပေမည်)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

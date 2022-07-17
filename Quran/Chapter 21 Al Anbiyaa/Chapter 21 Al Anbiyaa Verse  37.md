@@ -710,6 +710,12 @@ Chovek be sŭzdaden pripryan. Az shte vi pokazha Moite znameniya, ala ne iskaĭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	လူသားသည် လျင်မြန်လောကြီးတတ်သောသတ္တဝါဖြစ်၏၊ ငါသည် မိမိ၏လက္ခဏာအ့ံဖွယ်တော်များကို သင်တို့ အား ပြသတော်မူမည်၊ သို့သော်ငါအဆောတလျင်ပြသတော်မူရန် ဆုမတောင်းကြလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မနုဿလူသားသည် အလျင်လိုမှုဖြင့် ဖန်ဆင်းခြင်း ခံခဲ့ရလေသည်။ မကြာမြင့်မီ ငါအရှင်မြတ်သည် မိမိသက်သေလက္ခာဏာတော်များကို အသင်တို့အားပြသတော်မူမည် ဖြစ်ပေသည်။ သို့ဖြစ်ပေရာ အသင်တို့သည်ငါအရှင်မြတ်ထံတော်တွင် အလျင်မလို ကြကုန်လင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

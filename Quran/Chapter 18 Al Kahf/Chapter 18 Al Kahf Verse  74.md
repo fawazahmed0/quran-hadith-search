@@ -710,6 +710,12 @@ I pak trŭgnakha, dodeto sreshtnakha edno momche, i toĭ go ubi. Reche [Musa]: 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၄။	ထို့နောက်သူတို့နှစ်ဦးခရီးဆက်လက်သွားပြန်၏။ သူတို့သည် လုလင်ပျိုတယောက်ကို တွေ့သောအခါ ထိုလုလင် ပျိုကို ထိုသူသည် သတ်ဖြတ်၏။ မူစာသည် သူ့အား ဘာလဲ၊ သူတပါးကို မသတ်ဖြတ်သောအပြစ်ကင်းသူတဦး အား သင်သတ်ဖြတ်သလော။ အမှန်မှာ သင်သည် အလွန်ကြောက်မက်ရွံရှာဖွယ်ကောင်းသောအမှုကို ကျူးလွန် ဘိတကားဟု ပြစ်တင်ပြောဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနောက် တစ်ဖန် ၎င်း(မူစာနှင့်ခစ်ဿွ်ရ်)တို့နှစ်ဦးသည် (ရှေ့သို့ဆက်လက်၍ လျှောက်သွားခဲ့ကြပြန်ရာ သူငယ်တစ်ယောက်ကို တွေ့ကြသောအခါ ယင်း(ခစ်ဿွ်ရ်)ကထိုသူငယ်အား သတ်ဖြတ်ခဲ့လေ၏။ (ဤသည်တွင်) ထို(မူစာ)က(အချင်းခစ်ဿွ်ရ်) အသင်သည် သန့်စင်သော အသက်တစ်ချောင်းကို မည်သည့်အသက်တစ်ချောင်း(၏ သက်စားသတ်ခြင်း)မျှ မဟုတ်ဘဲ (မတရားသဖြင့်) သတ်ဖြတ်ခဲ့လေသလော။ဧကန်မလွဲ အသင်သည် အလွန့်အလွန် ဆိုးရွားလှသောအမှုတစ်ရပ်ကို ကျူးလွန်ပြုလုပ်ခဲ့ချေပြီတကား ဟု ပြောဆိုခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

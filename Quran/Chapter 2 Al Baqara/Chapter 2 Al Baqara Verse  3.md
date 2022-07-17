@@ -710,6 +710,12 @@ koito vyarvat v nevedomoto i ot·sluzhvat molitvata, i razdavat ot onova, koeto 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	ထိုသူတို့သည် မမြင်စွမ်းနိုင်သောအရာများကို ယုံကြည်ကြ၏။ ဆွလာသ်ဝတ်ပြုကြ၏။ ငါအရှင် ပေးသနားတော်မူသောဥစ္စာများမှသုံးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတော်စင်များသည် (ကုရ်အာန် ကျမ်းလာ) အကွယ်၌ တည်ရှိသော အရာများကို အမှန်ဖြစ်သည် ရှိသည်ဟု (ခိုင်ခံ့မြဲမြံသော သဒ္ဓါတရားဖြင့်) ယုံကြည် ကြသည်။ (စည်းကမ်းသေဝပ်စွာ) ဆွလာတ် ဝတ်ပြုကြသည်။ ထို့ပြင် ထိုသတို့သားတို့အား ငါအရှင်ပေးသနားတော်မူထားသော ဥစ္စာပစ္စည်းများမှ ထိုသူတို့သည် (တရားတော်နှင့်အညီ) လှူဒါန်းကြသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

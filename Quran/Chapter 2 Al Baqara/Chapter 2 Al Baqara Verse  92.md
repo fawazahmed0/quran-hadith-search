@@ -710,6 +710,12 @@ I Musa vi donese yasnite znatsi, a posle priekhte teletsa, stavaĭki ugnetiteli
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၂။	သင်တို့ထံသို့တမန်တော်မူဆာသည် အလ္လာဟ်အရှင်မြတ် အချုပ်အခြာအာဏာပိုင်သတော်မူခြင်းကို ထင်ရှားထောက်ခံသောသက်သေ သာဓကများကို ယူဆောင်လာခဲ့ပါလျက် သင်တို့သည် သူမရှိသော အချိန်တွင် နွားကလေးဆင်းတုရုပ်ကို ခဝပ်ကိုးကွယ်ကြ၏။ ထို့ကြောင့် သင်တို့သည် ဒုစရိုက်ကောင် များဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုတွင်မျှမကသေးချေ၊ အသင်တို့ထံသို့ နဗီတမန်တော် မူစာ(အလိုင်ဟစ္စလာမ်) သည် ထင်ရှားလှစွာသော သက်သေခံလက္ခဏာ တန်ခိုး ပြာဋိဟာများနှင့်တကွ ကြွလာချေပြီ။ ထို့နောက်သော်မှပင် အသင်တို့သည် ထို(နဗီတမန်တော်) မူစာ (အလိုင်ဟစ္စလာမ်တူရ်တောင်ပေါ်သို့ခေတ္တခဏ(ကမြန်းနေခိုက်၊ ယင်းနဗီတမန်တော်၏) နောက် ကွယ်ရာ၌၊ နွားငယ်ကို (မိမိတို့ကိုးကွယ်ရာအရှင် ဟု မှတ်ယူ) ကိုးကွယ်ခဲ့ကြသည်။ စင်စစ်သော်ကား အသင်တို့သည် (မိမိတို့ကိုယ်ကိုမိမိတို့ပင်အမြဲ)ညှဉ်းပန်းနှိပ်စက်ကလူ ပြုလေ့ရှိကြသူများသာတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

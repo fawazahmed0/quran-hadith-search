@@ -710,6 +710,12 @@ Toĭ e [spomenat] v pisaniyata na predtsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉၆။	ထို့အပြင်မှတ်သားကြလော့၊ ကုရ်အာန်ကျမ်းတော်မြတ်ကို ရှေးလူဟောင်းတို့၏ ကျမ်းတော်များ၌ ဖော်ပြထား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ဧကန်အမှန် ယင်း(ကုရ်အာန်ကျမ်းတော်မြတ်၏အကြောင်း)မှာ ရှေးလူဟောင်းတို့၏ ကျမ်းဂန်များ၌(လည်း)ပါရှိ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ O, zheni na Proroka, koyato ot vas izvŭrshi yavno bezsramie, mŭchenieto ĭ sh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	အို-တမန်တော်၏ ကြင်ဘက်တော်အပေါင်းတို့၊ ရှင်မတို့အနက် ကာမပြစ်မှုကျူးလွန်သူအား သာမန်မိန်းမ ကို ပေးသောအပြစ်ဒဏ်၏ ထမ်းပိုနှစ်ဆတပ်ရိုက်တော်မူမည်၊ ဤသို့ဒဏ်ခတ်ခြင်းသည် အလ္လာဟ်အရှင်မြတ် အဖို့အရာ အလွန်လွယ်ကူလှပေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-နဗီတမန်တော်မြတ်၏ ကြင်ရာတော်အပေါင်းတို့၊ အသင်မတို့အနက် မည်သူမဆို ထင်ရှားစွာသာမဖွယ်မရာအမှုကိစ္စ တစ်စုံတစ်ခုကို ပြုလုပ်သည် ရှိသော်၎င်းမှာ နှစ်ဆတိုး၍ ပြစ်ဒဏ်ပေးခြင်းကို ခံရပေမည်။စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်၌ ယင်းကဲ့သို့ ပြုလုပ်ရန်လွယ်ကူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

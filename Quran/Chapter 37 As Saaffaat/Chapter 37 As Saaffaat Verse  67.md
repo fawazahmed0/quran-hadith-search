@@ -710,6 +710,12 @@ Posle kŭm tova shte im se primesva pitie ot vryashta voda
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၇။	ထို့နောက်မှတ်သားကြလော့၊ သူတို့သည် ကျိုကျိုက်ဆူသောရေပူကို သောက်ကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ထိုသူတို့သည် ၎င်း၏အပေါ်၌ ဝါ(ထိုအပင်ကို စားသုံးဖြည့်တင်းပြီးနောက်) ကျိုက်ကျိုက်ဆူပွက်သောရေနွေးကို ရောစပ်(၍သောက်စေ) ခြင်းကို ခံကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

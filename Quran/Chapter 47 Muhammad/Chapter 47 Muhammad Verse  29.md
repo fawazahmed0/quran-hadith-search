@@ -710,6 +710,12 @@ Nima onezi, v chiito sŭrtsa ima bolest, smyatat, che Allakh ne shte razkrie zlo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	သို့မဟုတ် စိတ်နှစ်ခွရောဂါဖိစီးသူတို့က အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့၏ လျှို့ဝှက်သောမုန်းတီးမှုများကို ထင်ရှားစေတော်မူမည်မဟုတ်ဟူ၍ တွေးထင်ကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စိတ်နှလုံးများတွင် ရောဂါဝေဒနာရှိသော သူတို့သည် ၎င်းတို့၏ ရန်ငြိုးထားမှုများကို ငါအရှင်မြတ်သည်အလျှင်း ထုတ်ဖော်တော်မူမည်မဟုတ် ဟု ထင်မှတ်နေကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

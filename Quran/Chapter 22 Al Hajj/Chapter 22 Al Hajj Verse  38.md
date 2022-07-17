@@ -710,6 +710,12 @@ Allakh zakrilya vyarvashtite. Allakh ne obicha nikoĭ izmennik, neblagodarnik
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် အယူမှန်သူတို့အား ကာကွယ်စောင့်ရှောက်တော်မူ၏၊ မှတ်သား ကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် သစ္စာဖောက်ကျေးစွပ်သူတို့ကို ချစ်မြတ်နိုးတော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် မုအ်မင်န်သက်ဝင်ယုံကြည်သူတို့ဘက်မှ (မုရှ်ရစ်က်တို့၏ ဘေးအန္တရာယ်များကို) တွန်းလှန်ပယ်ရှားတော်မူမည်။ (တစ်နည်း) မုအ်မင်န်သက်ဝင်ယုံကြည်သော သူတို့ဘက်မှ (မုရှ်ရစ်က်တို့၏ ဘေးအန္တရာယ်များကို) ခုခံကာကွယ်တော်မူမည်။ ဧကန်အမှန် အလ္လာဟ်အရှင်မြတ်သည် မည်သည့်သွေဖည်ငြင်းပယ်သော သစ္စာသွေသူကိုမျှ နှစ်သက်တော်မူသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

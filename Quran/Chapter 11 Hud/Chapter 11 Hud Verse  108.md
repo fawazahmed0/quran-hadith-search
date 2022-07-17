@@ -710,6 +710,12 @@ A onezi, koito sa oshtastliveni, shte bŭdat v Raya, tam shte prebivavat vechno,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၈။	ထိုနေ့တော်ကြီး၌ စိတ်ရွှင်လန်းရမည့်သူများမှာမူကား သင်၏ အရှင်သခင်အလိုရှိတော်မူသည်မှတပါး နိဗ္ဗာန် ဥယျာဉ်တော်ကြီးအတွင်း၌ မိုးမြေတည်ရှိသမျှကာလပတ်လုံးစံမြန်းရကြလတ့ံ။ ဥယျာဉ်တော်သည် မကုန်မခန်းနိုင် သောဆုတော်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကြောင်းလှသောသူတို့မှာမူကားဂျန္နတ်အမတသုခဘုံ၌ ရှိကြပေမည်။ (၎င်းတို့သည်) မိုးကောင်းကင်များနှင့်ပထဝီမြေသည် တည်ရှိနေသမျှကာလပတ်လုံး ထိုဂျန္နတ်အမတသုခဘုံတွင် အသင်၏အရှင်မြတ် အလိုတော်ရှိတော်မူခဲ့သည်မှတစ်ပါး ထာဝစဉ်နေထိုင်သူများအဖြစ် စံမြန်းကြပေမည်။ (ဤဆုကျေးဇူး) ချီးမြှင့်တော်မူခြင်းကား အဆက်မပြတ် ချီးမြှင့်တော်မူခြင်းပင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

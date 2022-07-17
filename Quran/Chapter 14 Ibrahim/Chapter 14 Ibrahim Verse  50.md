@@ -710,6 +710,12 @@ Odezhdite im - ot nazhezhen katran i litsata im pokriva Ogŭnyat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅ဝ။	သူတို့၏ ဝတ်စားတန်ဆာသည် ကတ္တရာစေးအတိဖြစ်လတ့ံ။ သူတို့၏ မျက်နှာကို မီးတောက်မီးလျှံဖုံးလွှမ်း ထားလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့၏ အကျႌ အဝတ်အစားများကား ကတွီရာန် ကျောက်မီးသွေး၊ ကတ္တရာစေးဖြင့်ပြီးသော အဝတ်အစားများပင် ဖြစ်ကြပေမည်။ ထိုမှတစ်ပါး ငရဲမီးသည် ၎င်းတို့၏မျက်နှာများကို ဖုံးအုပ်လျက်ရှိချေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

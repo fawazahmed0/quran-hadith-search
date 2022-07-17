@@ -710,6 +710,12 @@ I vizh kakŭv be krayat na preduprezhdavanite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၃။	ထို့ကြောင့်သတိပေးဆုံးမခံရသူအပေါင်းတို့သည် အဆုံးသတ်၌ အဘယ်အဖြစ်သို့ ရောက်ကြသည်ကို ကြည့်ရှု ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်) အသင်သည် သတိပေး နှိုးဆော်ခြင်းခံခဲ့ကြရသောသူတို့၏ နောက်ဆုံးအကျိုးမှာ မည်ကဲ့သို့ဖြစ်ခဲ့သည်ကိုရှုပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

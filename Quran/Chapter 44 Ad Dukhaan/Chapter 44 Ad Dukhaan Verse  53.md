@@ -710,6 +710,12 @@ shte sa oblecheni v koprina i brokat, edin sreshtu drug
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။	နူးည့ံပြေပြစ်သောပိုးထည်အဝတ် ပန်းအမျိုးမျိုးထိုးထား၍ ချောမောထူထပ်သောပိုးထည်အဝတ်များကို ဝတ်ဆင် လျက် တစ်ဦးနှင့်တစ်ဦး မျက်နှာချင်းဆိုင်၍ နေထိုင်စံစားရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ပိုးထည်အပါးစားကိုလည်းကောင်း၊ ပိုးထည်အထူစားကိုလည်းကောင်း၊ ဝတ်ဆင်၍ မျက်နှာချင်းဆိုင်ထိုင်လျက် ရှိကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I ne bŭdi ot onezi, koito vzimat za lŭzha znameniyata na Allakh, za da ne bŭd
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၅။	၎င်းအပြင်သင်သည် အလ္လာဟ်အရှင်မြတ်၏ နှုတ်ကပတ်တော်များကို မယုံကြည်ငြင်းဆန်သူတို့အထဲတွင် မပါ ဝင်လင့်၊ ပါဝင်လျှင် သင်သည် ဆုံးရှုံးပျက်စီးသူတို့ဘောင်တွင် အပါအဝင်ဖြစ်ချေမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်သည် အလ္လာဟ်အရှင်မြတ်၏သက်သေလက္ခဏာများကို မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်သောသူတို့၏အနက်မှလည်း အလျင်း မဖြစ်ပါလေနှင့်။ သို့ဖြစ်ခဲ့ပါလျှင် အသင်သည်လည်း ဆုံးရှုံးသူတို့တွင် အပါအဝင်ဖြစ်သွားပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

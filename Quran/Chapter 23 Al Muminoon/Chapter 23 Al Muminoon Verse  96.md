@@ -710,6 +710,12 @@ Otvŭrni na zlinata s dobrina! Nie poveche znaem kakvo opisvat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၆။	အို--တမန်တော်၊ မကောင်းမှုကို ၎င်းထက်ကောင်းသောအမှုနှင့် တုံ့ပြန်လော့၊ ငါသည် သူယုတ်တို့စွပ်စွဲသည်ကို အသိဆုံးဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (ထိုကာဖိရ် သွေဖည်ငြင်းပယ်သောသူတို့၏) ဆိုးရွားသောပြုမူချက်တို့ကို အကောင်းဆုံးသောနည်းဖြင့် တွန်းလှန်ပါလေ။ ငါအရှင်မြတ်သည် (အသင့်အား) ၎င်းတို့ ကြံဖန်ပြောဆို စွပ်စွဲကြသည်များကို ကောင်းစွာ သိရှိတော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

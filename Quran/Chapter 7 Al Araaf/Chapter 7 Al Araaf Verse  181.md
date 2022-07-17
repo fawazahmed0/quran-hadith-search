@@ -710,6 +710,12 @@ Sred onezi, koito sme sŭtvorili, ima obshtnost napŭtvashta s istinata i s neya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈၁။	ငါအသျှင်မြတ် ဖန်ဆင်းတော်မူသောလူသားတို့အနက် လူမျိုးတစ်မျိုးရှိ၏။ သူတို့သည် သစ္စာ တရားတော်အားဖြင့် လမ်းညွှန်ပြကြ၍ တရားမျှတမှုကို ဆောက်တည်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ငါအရှင်မြတ် ဖန်ဆင်းတော်မူသောသူတို့တွင် မှန်ကန်သော တရားဓမ္မနှင့်အညီ လမ်းညွှန်ကြသည့်ပြင်မိမိတို့ကိုယ်တိုင်လည်း ထိုတရားဓမ္မနှင့်အညီ(လိုက်နာ)စီရင်ဆုံးဖြတ်သော လူတစ်စုသည် ရှိကြကုန်၏။(ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ za da vŭznagradi onezi, koito vyarvat i vŭrshat pravedni dela. Za tyakh ima op
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	အလ္လာဟ်အရှင်မြတ်သည် ယုံကြည်လျက် သုစရိုက်ကောင်းမှုပွားများသောသူတို့အား အောင်ဆုမင်္ဂလာတော် ဖြင့် ချီးမြှင့်တော်မူဖို့ရာ ဖြစ်၏၊ ထိုသူတို့အဖို့အရာ အပြစ်လွှတ်ခြင်းနှင့်ပေါများကြွယ်ဝသောဘောဇဉ်ရိက္ခာတို့ အသင့်ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ရှင်ပြန်ထမည့်အချိန်ကာလ ဆိုက်ရောက်စေခြင်းမှာ) ထိုအရှင်မြတ်သည် အီမာန် သက်ဝင် ယုံကြည်ပြီးနောက် ကောင်းမြတ်သော အကျင့်သီလများကို ကျင့်မူဆောက်တည်ကြသောသူတို့အား အစားပေးတော်မူရန်ပင် ဖြစ်၏။ထိုကဲ့သို့သော သူတို့အဖို့မှာကား လွတ်ငြိမ်းချမ်းသာခွင့်သည်လည်းကောင်း၊ မြင့်မြတ်စွာသော စားနပ်ရိက္ခာသည်လည်းကောင်း၊ ရှိပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

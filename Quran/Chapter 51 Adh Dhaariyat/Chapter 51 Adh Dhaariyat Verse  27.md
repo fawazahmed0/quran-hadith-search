@@ -710,6 +710,12 @@ i im go podnese. Reche: “Shte pokhapnete li?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	ထိုအမဲကင်ကို သူတို့ရှေ့တွင် ကောင်းမွန်စွာပြင်ဆင်၍ အဆွေတို့သုံးဆောင်တော်မူမည်မဟုတ်လောဟု ဆို၍ တည်ကျွေး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ပြီးနောက် (ကင်ထားသော) ထိုနွားကလေးကို ထိုဧည့်သည်တို့အပါး၌ နေရာတကျ တည်ခင်း(ဧည့်ခံ)ခဲ့လေ၏။ (ထို့နောက် ဧည့်သည်တို့အား) အသင်တို့သည် အဘယ်ကြောင့် မစားကြပါသနည်းဟု မေးမြန်းခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

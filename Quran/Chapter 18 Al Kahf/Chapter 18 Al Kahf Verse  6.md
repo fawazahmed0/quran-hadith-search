@@ -710,6 +710,12 @@ Ne pogubvaĭ sebe si ot skrŭb po tyakh [o, Mukhammad], ako ne povyarvat v tova
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	သို့ပါလျက် သူတို့သည် ဤဗျာဒိတ်တော်ကို မယုံကြည်လျှင် သူတို့၏ အပြုအမူကြောင့် သင်သည် မိမိဝိညာဉ်ကို ပူဆွေးခြင်းဖြင့် နှိပ်စက်ကောင်းနှိပ်စက်လတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ရာ(အို-နဗီတမန်တော်)အကယ်၍ ၎င်းတို့သည် ဤကျမ်းတော်ကို မယုံကြည်ခဲ့ကြပါလျှင် အသင်သည်(သေလုမတတ် ပူပန်သောကများနေဟန်တူသည်)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

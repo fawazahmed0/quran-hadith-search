@@ -710,6 +710,12 @@ Toĭ e, Koĭto nizposla spokoĭstvie v sŭrtsata na vyarvashtite, za da podsi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	အရှင်မြတ်သည် ယုံကြည်သူတို့၏ စိတ်နှလုံးအတွင်း၌ အားရငြိမ်သက်ခြင်းသဘောကို ထည့်သွင်းပေးသနား တော်မူ၏၊ သို့ပေးတော်မူခြင်းကား သူတို့၏ ယုံကြည်ခြင်းတရားကြီးမားလာစေရန်အလို့ငှာဖြစ်၏၊ အလ္လာဟ် အရှင်မြတ်သည် မိုးကောင်းကင်နှင့် ကမ္ဘာမြေကြီးဗိုလ်ခြေတို့၏ သခင်၊ သဗ္ဗညုတဉာာဏ်တော်ရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည်ပင် ‘မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူတို့၏ စိတ်နှလုံးများတွင် ၎င်းတို့၏ ရှိရင်းစွဲ ယုံကြည်မှုအပေါ်၌ ထပ်မံ၍ ယုံကြည်မှု တိုးပွားစေရန် စိတ်တည်ငြိမ်မှုကို ချပေးသနားတော်မူခဲ့၏။ စင်စစ်သော်ကား မိုးကောင်းကင်များ၌ရှိကုန်သော စစ်တပ်တို့သည်လည်းကောင်း၊ ပထဝီမြေ၌ရှိကုန်သော စစ်တပ်တို့သည်လည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ် ပိုင်ဆိုင်တော်မူသော စစ်တပ်များပင်ဖြစ်ကုန်၏။ စင်စစ်တမူကား အလ္လာဟ်အရှင်မြတ်သည် အကြွင်းမဲ့သိတော်မူသောအရှင်၊ ဆင်ခြင်တုံတရားနှင့် ပြည့်စုံတော်မူသောအရှင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

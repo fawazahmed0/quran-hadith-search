@@ -710,6 +710,12 @@ I byakha sledvani ot proklyatie na tozi svyat, i v Denya na vŭzkresenieto. Kolk
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၉။	အရှင်မြတ်၏ ကျိန်ဆဲခြင်းအား သူတို့နောက်သို့ ထက်ကြပ်မကွာ ဤမျက်မှောက်ဘဝနောင်တမလွန်နှစ်ပါးသော ဘဝတွင် လိုက်စေတော်မူ၏။ သူတို့အား ပေးရမည့်ဆုတော်မှာ ဆင်းရဲဒုက္ခကြီးသာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ယင်းသူတို့သည် ဤပစ္စက္ခမျက်မှောက်ဘဝ၌လည်းကောင်း၊ ကိယာမတ် ရှင်ပြန်ထမည့် နေ့တွင်လည်းကောင်း၊ ကရုဏာတော်မှကင်းဝေးစေခြင်း ကို (မိမိတို့)နောက်မှထပ်ကြပ်မကွာလိုက်စေခြင်းကို ခံခဲ့ကြရလေသည်။ (၎င်းတို့)ချီးမြှင့်ခြင်းခံကြရမည့် မေတ္တာလက်ဆောင်သည် အလွန်ဆိုးရွားလှသော မေတ္တာလက်ဆောင်ပင် ဖြစ်ပေသည်တကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

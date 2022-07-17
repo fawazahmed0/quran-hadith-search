@@ -710,6 +710,12 @@ Nima onezi, koito vŭrshat zlini, smyatat, che v zhivota im i v smŭrtta im shte
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။ အကုသိုလ်မကောင်းမှုပြုကျင့်သူတို့က သူတို့နှင့်ယုံကြည်၍ ကုသိုလ်ကောင်းမှုပွားများသူတို့ကို ဤဘဝနောင်ဘဝ၌ ထပ်တူထပ်မျှအရှင်မြတ်ထားတော်မူမည်ဟု ထင်မှတ်ကြသလော၊ သူတို့၏ အယူအဆမှားလေစွ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မကောင်းမှုများကို ကျူးလွန်ကြသောသူတို့က ငါအရှင်မြတ်သည် ထိုသူတို့အား "အီမာန်" သက်ဝင် ယုံကြည်၍ ကောင်းမှုများကို ကျင့်မူခဲ့ကြကုန်သောသူတို့ကဲ့သို့ ထိုသူတို့၏ အသက်ရှင်ခြင်းကိုလည်းကောင်း၊ ထိုသူတို့၏ အသက်သေဆုံးခြင်းကို ပြုလုပ်တော်မူမည်ဟု ထင်မှတ်ကြလေသလော။ ၎င်းတို့၏ စီရင်ဆုံးဖြတ်ချက်မှာ လွန်စွာဆိုးရွားလှပေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

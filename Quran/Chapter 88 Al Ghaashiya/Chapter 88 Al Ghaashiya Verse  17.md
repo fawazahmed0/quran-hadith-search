@@ -710,6 +710,12 @@ I nima ne vizhdat kak byakha sŭtvoreni kamilite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။ အို-တမန်တော်၊ သူတို့သည် ကုလားအုတ်များကို ကြည့်ရှုပြီးလျှင် ထိုတိရိစ္ဆာန်များကို မည်ကဲ့သို့ဖန်ဆင်းထား တော်မူသည်ကို မစဉ်းစားကြလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသို့ပါနည်း ကုလားအုတ်များသည် အဘယ်ကဲ့သို့ ဖန်ဆင်းခြင်း ခံခဲ့ကြရသည်ကို ၎င်းတို့သည် ကြည့်ရှုလေ့လာ ဆင်ခြင်သုံးသပ်ခြင်း မပြုကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

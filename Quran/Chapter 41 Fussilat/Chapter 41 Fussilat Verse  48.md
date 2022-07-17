@@ -710,6 +710,12 @@ I shte izchezne ot tyakh onova, koeto zovyakha predi, i shte se ubedyat, che nya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	ရှေးအခါက သူတို့ကိုးကွယ်ခဲ့သောဘုရားများသည် သူတို့အား ဘေးအန္တရာယ်အတွင်းဝယ် စွန့်ပစ်ထားခဲ့လိမ့်မည်၊ သူတို့သည် မိမိတို့ခိုလှုံစရာမရှိကြောင်းကို ကောင်းစွာသိကြရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား (ထိုနေ့တွင်)၎င်းတို့ ယခင်ကဟစ်ခေါ်တသ (ရှိခိုးပူဇော်)ခဲ့ကြသည်တို့မှာ ၎င်းတို့ထံမှ ပျောက်ကွယ်၍သွားကြပေမည်။ ထိုမှတစ်ပါး ၎င်းတို့သည် မိမိတို့၌ထွက်ပြေး(လွတ်မြောက်)ရာဟူ၍လည်း မရှိတော့ကြောင်းယုံကြည်သွားကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

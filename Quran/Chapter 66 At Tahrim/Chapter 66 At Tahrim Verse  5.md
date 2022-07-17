@@ -710,6 +710,12 @@ Ako toĭ se razvede s vas, negoviyat Gospod mozhe da mu dari v zamyana sŭprugi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။ တမန်တော်သည် အကယ်၍ သင်ရှင်မတို့ကို ကွာရှင်းခဲ့သော်၊ အလ္လာဟ်အရှင်မြတ်သည် တမန်တော်အား သင်တို့အစား သင်တို့ထက်သာလွန် ထွဋ်မြတ်သောအခြားမိန်းမတို့ကို ပေးသနားတော်မူလိမ့်မည်၊ သူတို့သည် အရှင်မြတ်အား ကျိုးနွံသောမိန်းမများ၊ ယုံကြည်သောမိန်းမများ၊ တရားကြည်ညိုသောမိန်းမများ၊ သတိသံဝေဂ ရသောမိန်းမများ၊ ဥပုသ်သီလ ဆောက်တည်လိုသော မိန်းမများဖြစ်ကြ၏၊ သူတို့သည် မုဆိုးမသော်လည်းကောင်း အပျိုစစ်သော်လည်းကောင်းဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍ ထိုနဗီတမန်တော်မြတ်သည် အသင်တို့အား ကွာရှင်းခဲ့ပါလျှင် ထိုနဗီတမန်တော်မြတ်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် အသင်တို့အစား ထိုနဗီတမန်တော်မြတ်အား အသင်တို့ထက် ပိုမို၍ထွတ်မြတ်သော’မွတ်စ်လင်မ်’ မိန်းမများ၊ ‘မုအ်မင်န်’ သက်ဝင်ယုံကြည်သော မိန်းမများ၊ အမိန့်ကိုနာခံသော မိန်းမများ၊ ဝန်ချတောင်းပန်ကြသော မိန်းမများ၊ ဝတ်ပြုသောမိန်းမများ၊ ဥပုသ်သီလ ဆောက်တည်သော မိန်းမများ၊ အအိုများနှင့် အပျိုများကို ပေးတော်မူအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ne vidya li [o, Mukhammad] kak postŭpi tvoyat Gospod s vladetelite na slona
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။ အို-တမန်တော်၊ သင်၏ အရှင်သခင်သည် ဆင်တပ်စစ်သည်တော်များကို အဘယ်သို့စီရင်တော်မူလိုက်သည်ကို သင်မမြင်သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် ဆင်ပိုင်ရှင်တို့အား မည်သို့မည်ပုံ ပြုလုပ်တော်မူခဲ့သည်ကို အသင်သည် မသိမမြင် မဆင်ခြင်ခဲ့ပါလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

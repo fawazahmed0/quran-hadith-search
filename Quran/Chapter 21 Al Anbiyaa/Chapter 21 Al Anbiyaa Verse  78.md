@@ -710,6 +710,12 @@ I [spomeni] Daud, i Sulaĭman, koito ot·sŭdikha za nivata, v koyato se razpr�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၈။	တဖန်တမန်တော်ဒါဝတ်(ဒ)နှင့် တမန်တော်စိုလိုင်မာန်တို့သည် ထွန်ယက်စိုက်ပျိုးထားသောလယ်အတွင်းသို့ ညဉ့်အချိန်တွင် လူများတို့၏ သိုးများဝင်စားဖျက်ဆီးသောအမှု၌ တရားစီရင်ဆုံးဖြတ်ကြ၏၊ သူတို့၏ဆုံးဖြတ်ချက် ကို ငါအရှင်သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး (အို-နဗီတမန်တော်)ဒါဝူဒ် (၏အတ္ထုပ္ပတ္တိအကြောင်း)ကို လည်းကောင်း၊ စုလိုင်မာန် (၏အတ္ထုပ္ပတ္တိ အကြောင်းကိုလည်းကောင်း၊ ပြန်လည်၍ သတိရပါလေ)။တစ်ရံရောအခါဝယ် ထို(သားအဖ)နှစ်ပါးတို့သည် လယ်ယာနှင့်စပ်လျဉ်း၍ စီရင်ဆုံးဖြတ်ကြကုန်၏။ အကြင်အခါဝယ်အမျိုးသားတို့၏ ဆိတ်များသည် ယင်းလယ်ယာ၌ ညဉ့်အချိန်တွင် ဝင်ရောက်(ဖျက်ဆီး)ခဲ့ကြကုန်၏။ စင်စစ် ငါအရှင်မြတ်သည် ၎င်းတို့၏ စီရင်ဆုံးဖြတ်မှုကို ရှုစားလျက်ပင် ရှိနေတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

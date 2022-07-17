@@ -710,6 +710,12 @@ Kogato kazakha: “Naistina Yusuf i brat mu [Beniamin] sa po-lyubimi ot nas za b
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	သူတို့သည် ဤသို့ပြောကြ၏။ ငါတို့သည် များပြားသော်လည်း ငါတို့၏ ခမည်းတော်သည် ငါတို့ထက် ယူစွတ်(ဖ်) နှင့် ၎င်း၏ ညီကို အမှန်ပင် သာလွန်ချစ်ခင်၏။ ခမည်းတော်သည် မုချဧကန်လမ်းမှားနေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ရံရောအခါ ထိုနောင်တော်များက ငါတို့သည် (အားအင်တောင့်တင်းသော) အုပ်စုကြီးတစ်ခုဖြစ်ပါလျက်ယူဆွဖ်နှင့် ၎င်း၏ညီသည် ငါတို့၏ဖခင်ကြီးထံ၌ ငါတို့ထက်ပင်ပိုမို၍ ချစ်ခင်ယုယခြင်း ခံနေကြရသည်။ ဧကန်မုချ ငါတို့၏ခမည်းတော်သည် ထင်ရှားစွာသော အထင်အရှား လွဲမှားနေချေပြီဟု အချင်းချင်း ပြောဆိုကြလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

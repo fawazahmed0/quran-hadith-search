@@ -710,6 +710,12 @@ A koĭto se otdrŭpva ot Moeto napomnyane, za nego ima zhivot v lisheniya i sly
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၄။	သို့သော်အကြင်သူသည် ငါ့အား တသဝတ်ပြုခြင်းမှ လှည့်သွားအ့ံ၊ ထိုသူ၏ဘဝသည် အလွန်ကျဉ်းမြောင်းပင်ပန်း သောဘဝဖြစ်မည်၊ ငါသည် သူ့ကို မျက်ကန်းအဖြစ်ဖြင့် ရှင်ပြန်ထမြောက်ရသောနေ့တော်ကြီး၏ စည်းဝေးပွဲသဘင် သို့ ယူဆောင်တော်မူမည်ဟု ဗျာဒိတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် မည်သူမဆို ငါအရှင်မြတ်၏ တရားဒေသနာတော်မှ မျက်နှာလွှဲခဲ့မူ ဧကန်မလွဲ ထိုသူ၌ ကျပ်တည်းသောအသက်မွေးမြူမှုရှိပေမည်။ ထို့ပြင် ငါအရှင်မြတ်သည်၎င်းအား ကိယာမတ်နေ့တွင် မျက်ကန်းအဖြစ် ရှင်ပြန်ထစေတော်မူမည်ဖြစ်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

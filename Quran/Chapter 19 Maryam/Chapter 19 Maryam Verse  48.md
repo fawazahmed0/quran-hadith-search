@@ -710,6 +710,12 @@ Otteglyam se ot vas i ot onova, koeto zovete vmesto Allakh. Az shte zova svoya G
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	ဖခင်နှင့်တကွ အလ္လာဟ်မှတပါး ဖခင်ကိုးကွယ်သောဘုရားများမှ အကျွနု်ပ်ထွက်ခွာသွားပါအ့ံ၊ အကျွနု်ပ်သည် မိမိ၏ အရှင်သခင်ထံ၌ ဆုတောင်းပါမည်၊ အကျွနု်ပ်၏ ကျေးဇူးတော်သခင်အား ဆုတောင်းခြင်း၌ အကျွနု်ပ်သည် ကောင်းကြီးမင်္ဂလာမဲ့မည်မဟုတ်ချေဟု ပြန်ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ကျွန်ုပ်သည် အသင်တို့ကိုလည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ်အားစွန့်၍ အသင်တို့ဟစ်ခေါ်(တသကိုးကွယ်) လျက်ရှိကြသော အရာဝတ္ထုတို့ကိုလည်းကောင်း၊(စွန့်ကာ) ဘေးဖယ်၍နေပါတော့မည်။ ၎င်းပြင်ကျွန်ုပ်သည်မိမိအား ဖန်ဆင်းမွေးမြူ တော်မူသော အရှင်မြတ်အားသာလျှင်ဟစ်ခေါ်(တသပန်ကြား)ပါတော့မည်။ (စင်စစ်) ကျွန်ုပ်သည်မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အား ဟစ်ခေါ်(တသပန်ကြား)၍ လိုဘမပြည့်သူ မဖြစ်နိုင်ပါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

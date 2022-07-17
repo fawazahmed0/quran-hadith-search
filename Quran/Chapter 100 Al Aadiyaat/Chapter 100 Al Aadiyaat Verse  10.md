@@ -710,6 +710,12 @@ i bŭde razkrito tova, koeto e v gŭrdite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၊၁၀၊၁၁။ သချႋုင်းများအတွင်းရှိ လူသေတို့ကို ရှင်ထွက်လာစေတော်မူသောနေ့တော်ကြီး၊ လူသားတို့၏ စိတ်နှလုံးတွင် လျှို့ဝှက်ဖုံးအုပ်ထားသည့် အရာများကို ထင်ရှားစေတော်မူသောနေ့တော်ကြီး၊ ထိုနေ့တော်ကြီး၌ သူတို့၏ အရှင် သခင်သည် သူတို့ အဖြစ်သနစ်အလုံးစုံကို အကြွင်းမဲ့သိတော်မူသည်ကို လူသားမစဉ်းစားမဆင်ခြင်သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် စိတ်နှလုံးများအတွင်း၌ လျှို့ဝှက်ချက်များသည် ထင်ရှားစေခြင်း ခံရမည်ကိုလည်း ထိုသူ (မသိလေသလော)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

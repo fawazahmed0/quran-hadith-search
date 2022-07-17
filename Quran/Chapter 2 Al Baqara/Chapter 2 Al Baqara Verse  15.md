@@ -710,6 +710,12 @@ Na tyakh se prismiva Allakh i im dava ot·srochka v tyakhnata prestŭpnost da se
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	အလ္လာဟ်အရှင်မြတ်သည် သူတို့ကို ပြောင်လှောင်တော်မူ၏။ သူတို့အား သူတို့၏ဒုစရိုက် အမှုအခင်း များ၌မျက်စိကန်းသူကဲ့သို့ လှည့်ပတ်သွားနေကြရန် ပစ်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည်(တုံ့ပြန်သော သဘောဖြင့်) ထို(သူတော်ယောင်ဆောင်သော) သူများအား ပြက်ရယ်ကျီစယ်တော်မူသည်။ ထို့ပြင်တဝ ထိုသူတို့ကို မိမိတို့၏ မောက်မာပလွှားမှု၌ ကာလရှည်လျားစွာ လှံထားတော်မူသည်။ သို့ဖြစ်ရာ ထိုသူတို့သည် မမြင်မကန်း တဝေ့လည်လည် ဖြစ်နေကြသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

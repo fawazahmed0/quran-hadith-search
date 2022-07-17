@@ -710,6 +710,12 @@ Yazhte i piĭte sŭs zdrave za onova, koeto ste vŭrshili predi, v otminalite d
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။ နိဗ္ဗာန်မှုးတို့က အို- နိဗ္ဗာန်သားတို့၊ အထက်လွန်လေပြီးသောနေရက်များ၌ ကုသိုလ်ကောင်းမှု တင်ကြိုပို့ထားနှင့် သောကြောင့်၊ ယခုအခါဤဥယျာဉ်တော်၌ အေးချမ်းသာယာစွာစားကြပါ၊ သောက်ကြပါကုန်ဟု ဆိုကြလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (၎င်းတို့သည် ဤသို့ပြောဆိုခြင်းကို ခံကြရပေမည်။) အသင်တို့သည် လွန်လေပြီးဖြစ်သော နေ့ရက်များတွင် မိမိတို့ ကြိုတင်ပို့နှင့်ခဲ့ကြလေသော အကျင့်သီလများကြောင့် မြိန်ရှက်စွာ စားသောက်ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

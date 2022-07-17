@@ -710,6 +710,12 @@ Toĭ e, Koĭto prashta vetrovete kato blagovestiteli predi Svoyata milost. I i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	တဖန်အလ္လာဟ်အရှင်မြတ်သည် လေများကို စေလွှတ်တော်မူ၏၊ ထိုလေများသည် အရှင်မြတ်၏ မဟာကရုဏာ တော်ကျရောက်မည့်သတင်းကောင်းကို ယူဆောင်လာသောရှေ့ပြေးများဖြစ်ကြသည်၊ ထို့နောက်အာကာသမှ သန့်ရှင်းစင်ကြယ်သောမိုးကို ရွာသွန်းစေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုအရှင်မြတ်သည်ပင် လေများကို မိမိကရုဏာတော် (ဝါ) မိုးမရွာမီ ရှေ့ပြေးသတင်းကောင်းအဖြစ် စေလွှတ်တော်မူခဲ့၏။ ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် မိုးကောင်းကင်မှ စင်ကြယ်သန့်ရှင်းအောင် ပြုလုပ်သော (မိုး)ရေကို ချပေးသနားတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

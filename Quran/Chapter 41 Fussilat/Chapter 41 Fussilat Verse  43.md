@@ -710,6 +710,12 @@ Ne ti se kazva [ot nevernitsite] drugo osven kakvoto be kazano na pratenitsite p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	အို-တမန်တော်၊ သင်မပွင့်မီ ပွင့်လာကြသောရှေးတမန်တော်အသီးသီးတို့အား မပေးခဲ့ဘူးသောဗျာဒိတ်တော်ကို သင့်အား ပေးတော်မူသည်မုဟုတ်၊ မှတ်သားကြလော့၊ သင်၏ အရှင်သခင်သည် အပြစ်လွှတ်တော်မူသောအရှင်၊ အတိဒုက္ခဖြစ်သောအပြစ်ဒဏ်ကို ပိုင်တော်မူသောအရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင့်အလျင် ပွင့်ကြလေကုန်သော ရစူလ်တမန်တော်များ ပြောဆို(စွပ်စွဲ)ခြင်း ခံခဲ့ကြရသည့် အတိုင်းပင်အသင်လည်း ပြောဆို(စွပ်စွဲ)ခြင်းကိုခံရ၏။ ဧကန်မလွဲ အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် အမှန်ပင်လွတ်ငြိမ်းချမ်းသာခွင့်ကို ပိုင်ဆိုင်တော်မူသောအရှင်၊ ပြင်းပြနာကျင်ဖွယ်ဖြစ်သောပြစ်ဒဏ်ကို ပိုင်ဆိုင်တော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

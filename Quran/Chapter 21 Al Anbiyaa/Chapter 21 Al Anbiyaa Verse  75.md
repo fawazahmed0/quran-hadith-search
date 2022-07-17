@@ -710,6 +710,12 @@ I go vŭvedokhme v Nashata milost. Toĭ be ot pravednitsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၅။	ထို့အပြင်ငါသည် တမန်တော်လွတ်အား ငါ၏ ဂရုဏာနိုင်ငံတော်ကြီးအတွင်းသို့ ယူဆောင်ခဲ့၏၊ မှတ်သား ကြလော့၊ သူသည် တရားတော်ကို စောင့်ရှောက်သူတို့ဘောင်တွင် အပါအဝင်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုလူ(တ်)အား ငါအရှင်မြတ်သည် မိမိကရုဏာတော်အတွင်း ဝင်ရောက်စေတော်မူခဲ့၏။ စင်စစ်ဧကန် ထိုလူ(တ်)ကား သူတော်စင်တို့တွင် ပါဝင်ခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

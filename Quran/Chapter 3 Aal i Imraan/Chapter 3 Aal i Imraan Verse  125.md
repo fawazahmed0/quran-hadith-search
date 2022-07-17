@@ -710,6 +710,12 @@ Da, ako ste tŭrpelivi i bogoboyazlivi, i [sŭdruzhavashtite] izniknat v yarost 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၅။	ထိုမျှပင်မဟုတ်သေး သင်တို့သည် ဝီရိယဂုဏ်ရှိ၍ မကောင်းမှုကို ကြဉ်ရှောင်လျှင် ရန်သူတို့သည် သင်တို့ကို ရုတ်တရက်တိုက်ခိုက်သော် သင်တို့၏ အသျှင်သခင်သည် သင်တို့အား ရန်သူတို့ကို နှိမ်နင်းဖို့ရာ ကောင်းကင်တမန် စစ်သည်တော်ငါးထောင်နှင့် ကူညီတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အဘယ်ကြောင့် မလုံလောက်ပါမည်နည်း။ (မုချလုံလောက်ပေမည်)။ အကယ်၍ အသင်တို့သည် ခနီ္တတရားထားရှိကြပါလျှင်လည်းကောင်း၊ ထိုနည်း တူစွာ အသင်တို့သည်(မြစ်တားထားသောအချက်တို့မှ) ကြည်ရှောင်ကြ ပါလျှင် လည်းကောင်း၊ ထို့ပြင် ထို (ရန်)သူများသည် အသင်တို့ထံ ရုတ်တရက်တမဟုတ်ခြင်း လာရောက်(တိုက်ခိုက်)ကြပါလျှင် လည်းကောင်း၊ အသင်တို့ကို မွေးမြူတော်မူသော အရှင်မြတ်သည်အမှတ်သညာ ထားရှိကြကုန်သော မလာအိကဟ် အပါးတော်စေတမန် ငါးထောင်ဖြင့် အသင်တို့အား ကူညီစောင်မတော်မူလတ္တံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

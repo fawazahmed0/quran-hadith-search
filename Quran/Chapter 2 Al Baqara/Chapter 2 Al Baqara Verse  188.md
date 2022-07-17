@@ -710,6 +710,12 @@ I ne yazhte svoite imoti pomezhdu si s izmama, i ne gi podkhvŭrlyaĭte na sŭd
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈၈။	ထို့ပြင် သင်တို့သည် မိမိတို့စည်းစိမ်ဥစ္စာများကို ဝါကြွား၍ အချည်းနှီးမသုံးစွဲကြလင့်။ အခြားသူများ၏ ဥစ္စာပစ္စည်းအချို့ကို မတရားသောနည်းဖြင့် ရရှိစေခြင်းငှာ တရားသူကြီးတို့အား လာဘ်ပေးဖို့ရာလည်း မသုံးစွဲကြလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် မိမိတို့အချင်းချင်း တစ်ဦး၏ ပစ္စည်းကို တစ်ဦးက မတရားသောနည်းဖြင့် မစားသုံး ကြကုန်လင့်။ ထို့ပြင်တဝ အသင်တို့သည် သူတစ်ပါးတို့ ၏ ဥစ္စာပစ္စည်း များအနက် တစ်စိတ်တစ်ဒေသကို မတရားသောနည်းဖြင့် စားသုံးရန်အလို့ငှါ (တန်ဆိုး လက်ဆောင်အဖြစ်ဖြင့်) အာဏာ ပိုင်မင်းများထံသို့ ယင်းပစ္စည်းများကို မပို့ဆောင်ကြကုန်လင့်။ ထိုသို့ ပြုလုပ်ခြင်းများသည် မတရားသောအကျင့်အကြံများ ဖြစ်သည်ကိုလည်း အသင်တို့အသိပင်ဖြစ်ကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

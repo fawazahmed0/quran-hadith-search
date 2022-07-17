@@ -710,6 +710,12 @@ I ne se pouchavat, bez Allakh da pozhelae. Toĭ e Dostoĭniyat da se boyat ot 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၆။ သို့သော် အလ္လာဟ်အရှင်မြတ် အလိုတော်မရှိပဲ သူတို့သည် အရေးစိုက်ကြမည်မဟုတ်ချေ၊ အရှင်မြတ်သည် ကြောက်မက်ဖွယ်ရာစတည်ရာ စမ်းပေါက်ဖြစ်တော်မူ၏၊ ကောင်းကြီးမင်္ဂလာတော်စရာ စမ်းပေါက်လည်း ဖြစ် တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ် အလိုတော်ရှိမှသာလျှင် လေ့ကျက်မှတ်သား တရား ရယူနိုင်ကြပေမည်။ ထိုအရှင်မြတ်သာလျှင် ကြောက်ရွံ့ထိုက်တော်မူသောအရှင်၊ လွတ်ငြိမ်းချမ်းသာခွင့် ပေးတော်မူအံ့သောအရှင်၊ ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

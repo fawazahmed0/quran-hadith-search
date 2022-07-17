@@ -710,6 +710,12 @@ I shte gi vŭvede v Raya, za koĭto gi e izvestil
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	ထို့အပြင်ကြေငြားထားတော်မူသည့်နိဗ္ဗာန်ဥယျာဉ်တော်အတွင်းသို့ သူတို့ကို ဝင်စေတော်မူလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် ၎င်းတို့အား’ဂျန္နတ်’သုခဘုံသို့ ဝင်ရောက်စေတော်မူပေမည်။ ထိုအရှင်မြတ်သည် ယင်း ‘ဂျန္နတ်’သုခဘုံကို ၎င်းတို့အား(ကောင်းစွာ) သိထားစေတော်မူမည်ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

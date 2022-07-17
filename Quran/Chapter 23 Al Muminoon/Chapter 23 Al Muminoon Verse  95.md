@@ -710,6 +710,12 @@ Sposobni sme Nie da ti pokazhem onova, koeto im obeshtavame
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၅။	အို--တမန်တော်၊ ငါသည် မိစ္ဆာမိုက်တို့အား ကတိထားတော်မူသည့်အပြစ်ဒဏ်တော်ကို သင့်အား မုချဧကန် ပြသနိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ဧကန်မလွဲ ငါအရှင်မြတ်သည် ၎င်းတို့အား ချိန်းချက်တော်မူသော(ပြစ်ဒဏ်ကို) အသင့်အား ပြသတော်မူရန် တတ်စွမ်းနိုင်တော်မူသောအရှင် အမှန်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kazhi [o, Mukhammad]: “Az sŭm samo predupreditel. Nyama drug bog osven Allakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၅။	အို-တမန်တော်မိုဟမ္မဒ်၊ သင်သည် သူတို့အား ဟောကြားလော့၊ ငါသည် အဆုံးအမသတိပေးသူသာတည်း၊ အလ္လာဟ်အရှင်မြတ်မှတပါး အခြားအရှင်သခင်မရှိချေ၊ အရှင်မြတ်သည် တစ်ဆူတည်းအထီးထီးတည်တော် မူ၏၊ ဇာတိပကတိအားဖြင့် ကုံလုံပြည့်စုံတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ပြောကြားပါလေ။ (အချင်းတို့) ငါသည် သတိပေးနှိုးဆော်သူတစ်ဦးသာလျှင် ဖြစ်၏။ ၎င်းပြင် တစ်ဆူတည်း ဖြစ်တော်မူသော လွန်စွာ နိုင်နင်းလွှမ်းမိုးတော်မူသော အလ္လာဟ်အရှင်မြတ်မှတစ်ပါး ဆည်းကပ်ကိုးကွယ်ရာ အရှင်ဟူ၍ မရှိပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

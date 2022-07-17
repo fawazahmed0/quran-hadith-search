@@ -710,6 +710,12 @@ I bŭdi tŭrpeliv pred povelyata na svoya Gospod! Ti naistina si pred Ochite Ni.
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	ထို့ကြောင့် အို-မိုဟမ္မဒ်၊ သင်၏ အရှင်သခင်၏ စီရင်ချက်ဗျာဒိတ်တော်ကိုသာ စိတ်ရှည်လက်ရှည်မျှော်လင့် စောင့်ဆိုင်းလော့၊ အကြောင်းမူကား သင်သည် မုချဧကန် ငါ၏မျက်မှောက်တော်တွင် ရှိ၏၊ သင်သည် နံနက်အိပ်ရာမှ ထသောအခါ သင်၏အရှင်သခင်၏ ကျေးဇူးတော်ကို ချီးကျုးလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (သို့ဖြစ်ပေရာ) အသင်သည် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏အမိန့်တော်ကို သည်းခံ၍စောင့်ဆိုင်းပါလေ။ အကြောင်းသော်ကား အသင်သည် ငါအရှင်မြတ်၏ ကြည့်ရှုစောင့်ရှောက်မှုအောက်တွင် ရှိနေသောကြောင့်ပင်။ ထိုမှတစ်ပါး အသင်သည် (ထိုင်ရာမှပြန်)ထသောအခါ အသင့်အား မွေးမြူဖန်ဆင်းတော်မူသော အရှင်မြတ်အား ချီးမွမ်း ထောပနာပြုခြင်းနှင့်တကွ (ထိုအရှင်မြတ်)စင်ကြယ် သန့်ရှင်းတော်မူကြောင်း မြွက်ဆိုပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

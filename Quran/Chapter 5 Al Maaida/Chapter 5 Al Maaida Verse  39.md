@@ -710,6 +710,12 @@ A koĭto se razkae i popravi, sled kato ugneti, Allakh shte prieme razkayanieto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	သို့သော် အကြင်သူသည် ပြစ်မှုကျူးလွန်ပြီးနောက် သတိသံဝေဂရပြီးလျှင် မိမိကိုယ်ကိုမိမိ ပြုပြင်၏။ အလ္လာဟ်အသျှင်မြတ်သည် သူ့အပေါ်၌ အမှန်ပင်အပြစ်လွှတ်တော်မူလိမ့်မည်။ မှတ်သားကြလော့။ အလ္လာဟ်အသျှင်မြတ်သည် အပြစ်လွှတ်တော်မူသောအသျှင်၊ ကောင်းကြီးမင်္ဂလာပေးသနားတော် မူသောအသျှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် မည်သူမဆို မိမိ ပြစ်မှုကျုးလွန်ပြီးသည့်နောက် (သတိသံဝေဂ နောင်တတရားရရှိကာ အလ္လာဟ်အရှင်မြတ်အထံတော်၌) ဝန်ချတောင်းပန်ပြီး (မိမိကိုယ်ကို မိမိ) ပြုပြင်ခဲ့ပါမူ မလွဲဧကန် အလ္လာဟ်အရှင်မြတ်သည် ထိုသူ၏ဘက်သို့ ကရုဏာတော်နှင့် ပြန်လှည့်တော်မူအံ့။ အလ္လာဟ်အရှင်မြတ်သည် စင်စစ်ဧကန် အလွန်တရာ လွတ်ငြိမ်းချမ်းသာခွင့် ပေးသနားတော်မူသောအရှင်၊ အလွန်တရာ သနားကြင်နာ ညှာတာတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

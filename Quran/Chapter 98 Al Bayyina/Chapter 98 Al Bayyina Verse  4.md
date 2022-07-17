@@ -710,6 +710,12 @@ I darenite s Pisanieto se razedinikha edva sled kato pri tyakh doĭde yasniyat 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။ ရှေးကျမ်းတော်ရသူများသည် မိမိတို့ထံသို့ ထင်ရှားသောသက်သေခံချက်ကျရောက်လာပြီးမှသာ အချင်းချင်း ကွဲပြားခြားနားကြကုန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ရှေးအထက်ကျမ်းဂန်ကို ချီးမြှင့်ပေးသနားတော်မူခြင်း ခံခဲ့ကြရသောသူတို့မှာ ၎င်းတို့ထံ ထင်ရှားစွာ သက်သေသာဓက ရောက်ရှိလာပြီး နောက်သော်မှပင် (သာသနာတော်နှင့်စပ်လျဉ်း၍) ကွဲလွဲခဲ့ကြကုန်လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

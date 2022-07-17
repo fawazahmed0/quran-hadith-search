@@ -710,6 +710,12 @@ Oni koji su kod Gospodara tvoga doista ne zaziru da Mu ibadet čine; samo Njega 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ၆။	မှတ်သားကြလော့။ သင်၏အသျှင်သခင်နှင့်ရှိသောသူတို့သည် အသျှင်မြတ်၏အမှုတော်ကို မထမ်း လောက်အောင် မာနမကြီးပေ။ သို့သော် သူတို့သည် အသျှင်မြတ်အား ချီးကျူးကြ၏။ ရှိခိုးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏အပါးတော်၌ရှိသူ (မလာအိကဟ်) အပါးတော်စေတမန်တို့သည် ထိုအရှင်မြတ်အား ခဝပ်ခြင်းကို မပြုဘဲမာန်မာန ထောင်လွှားကြသည်မဟုတ်ချေ။ ထို့ပြင် ၎င်းတို့သည် ထိုအရှင်မြတ် သန့်ရှင်းစင်ကြယ်တော်မူကြောင်းကို မြွက်ဆိုကြသည့်ပြင်၊ ၎င်းတို့သည် ထိုအရှင်မြတ်အားသာလျှင်ပျပ်ဝပ်ဦးချ၍ နေကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

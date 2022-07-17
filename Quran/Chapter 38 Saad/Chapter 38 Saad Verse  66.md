@@ -710,6 +710,12 @@ Gospoda na nebesata i na zemyata, i na vsichko mezhdu tyakh, Vsemogŭshtiya, Mno
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၆။	အရှင်မြတ်သည် ကမ္ဘာမြေပြင်မိုးကောင်းကင်နှင့် မိုးမြေအကြားရှိရှိသမျှတို့ကို သိမ်းရုံးစိုးပိုင်တော်မူ၏၊ အနန္တ တန်ခိုးတော်သခင်၊ အပြစ်လွှတ်တော်မူသောအရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအရှင်မြတ်သည်သာလျှင်)မိုးကောင်းကင်များကိုလည်းကောင်း၊ ပထဝီမြေကိုလည်းကောင်း၊ ယင်းမိုးကောင်းကင်များနှင့် ပထဝီမြေ၏အကြား၌ ရှိသမျှတို့ကိုလည်းကောင်း၊ ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်၊ တန်ခိုးအာနုဘော်နှင့် ပြည့်စုံတော်မူသောအရှင်၊ အလွန်တရာ ခွင့်လွှတ်ချမ်းသာပေးတော်မူသောအရှင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

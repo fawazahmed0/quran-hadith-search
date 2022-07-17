@@ -710,6 +710,12 @@ Nima shte go osporvate za onova, koeto vidya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။ သို့ပါလျက် သင်တို့သည် တမန်တော်တွေ့မြင်ရသည်တို့ကို ငြင်းခုံကြရမည်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ပါလျက် အသင်တို့သည် ထိုအဖော်နှင့် ၎င်းတွေ့မြင်ခဲ့သော အရာများတွင် အငြင်းအခုံ ပြုနေကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

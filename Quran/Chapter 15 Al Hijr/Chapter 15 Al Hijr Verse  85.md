@@ -710,6 +710,12 @@ Sŭtvorikhme Nie nebesata i zemyata, i onova, koeto e pomezhdu tyakh, edinstveno
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၅။	ငါသည် မိုးမြေနှင့် မိုးမြေစပ်ကြားရှိရှိသမျှအရာဝထ္ထုအပေါင်းတို့ကို အကျိုးမဲ့အကြောင်းမဲ့ဖန်ဆင်းတော်မူသည် မဟုတ်၊ မှန်ကန်မှုထင်ရှားစေခြင်းငှာဖြစ်၏။ အချိန်တော်ကြီးသည် မုချဧကန်လာနေသည်။ ထို့ကြောင့်မိုဟမ္မဒ်၊ သင်သည် အပြစ်လွှတ်ခြင်းကို သဘောကြည်ဖြူ၍ မေတ္တာရှေ့ထား၍ ပြုလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ငါအရှင်မြတ်သည် မိုးကောင်ကင်များကိုလည်းကောင်း၊ ပထဝီမြေကိုလည်းကောင်း၊ ထိုမြေနှင့်မြေစပ်ကြား၌ရှိရှိသမျှတို့ကိုလည်းကောင်း၊ (အကြောင်းမဲ့မဟုတ်) မှန်ကန်သောရည်ရွယ်ချက်နှင့်တကွ ဖန်ဆင်းတော်မူခဲ့လေသည်။ ၎င်းပြင် ဧကန်မလွဲ (ငါအရှင်မြတ် သတ်မှတ်ထားတော်မူသော) ကိယာမတ်သည် မုချဆိုက်ရောက်လာမည်ဖြစ်ပေသည်။ သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်)အသင်သည် (၎င်းတို့၏နှောက်ယှက်မှုများကို) ကောင်းမွန်စွာ ခွင့်လွှတ်ခြင်းနည်းမျိုးနှင့် ခွင့်လွှတ်ပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

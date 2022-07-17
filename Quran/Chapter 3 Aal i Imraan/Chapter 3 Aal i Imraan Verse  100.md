@@ -710,6 +710,12 @@ O, vyarvashti, ako se pokorite na grupa ot darenite s Pisanieto, sled kato ste p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝဝ။	အို-ယုံကြည်သူတို့ သင်တို့သည် ရှေးကျမ်းတော်ကိုရရှိသူများမှ အသင်းတသင်း၏စကားကို နားထောင်ကြလျှင် သူတို့သည် သင်တို့အား ယုံကြည်သူဘဝမှ မယုံကြည်သူဘဝသို့ လွှဲပြောင်းသွား စေကြမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-မုအ်မင်န် ယုံကြည်သူအပေါင်းတို့ အကယ်၍ အသင်တို့သည် (အထက်)ကျမ်းဂန်ရရှိသူ တို့အနက် လူတစ်စု(၏စကား)ကို လိုက်နာကြပါမူ ယင်းသူတို့သည် အသင်တို့အား အသင်တို့ ယုံကြည်ခြင်းသဒ္ဓါတရား ထားရှိကြပြီးနောက်ကာဖိရ် မယုံမကြည် သွေဖည်ငြင်းပယ်သောသူများအဖြစ်သို့ပြန်လည်ရောက်ရှိစေကြကုန်အံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

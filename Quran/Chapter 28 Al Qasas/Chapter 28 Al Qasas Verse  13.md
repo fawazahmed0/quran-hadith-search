@@ -710,6 +710,12 @@ I taka go vŭrnakhme na maĭka mu, za da se radvat ochite ĭ, da ne skŭrbi i 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	ဤနည်းအားဖြင့် ငါသည် မူစာ၏မိခင်အား ပူပန်သောကကင်းမဲ့ချမ်းသာစေရန်အလို့ငှာ သူ့ကို သူ၏မိခင်ထံ ပြန်ပေးတော်မူ၏၊ ယင်းသို့ပြန်ပေးခြင်းသည် အလ္လာဟ်အရှင်မြတ်၏ ကတိသစ္စာတော်သည် မှန်ကန်ကြောင်းကို သူမသိစေခြင်းငှာဖြစ်၏၊ သို့သော်သူတို့အနက် အများအပြားသည် မသိကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ထိုမိခင်၏မျက်စိ အေးမြကြည်လင်စေရန်လည်းကောင်း၊ ထိုမိခင် ပူဆွေးမနေရန်လည်းကောင်း၊ အမှန်မုချ အလ္လာဟ်အရှင်မြတ်၏ ကတိတော်သည် မှန်ကန်သည်ကို ထိုမိခင်(လက်တွေ့)သိရှိရန်လည်းကောင်း၊ ငါအရှင်မြတ်သည် (မိမိထားရှိတော်မူသော ကတိတော်အတိုင်း) ထိုသားငယ်အား ၎င်း၏ မိခင်ထံ ပြန်ပို့ပေးတော်မူခဲ့လေသည်။ သို့ရာတွင် ၎င်းတို့အနက် များစွာသောသူများသည် မသိကြပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

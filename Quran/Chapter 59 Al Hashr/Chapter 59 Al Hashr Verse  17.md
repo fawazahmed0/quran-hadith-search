@@ -710,6 +710,12 @@ Posledstvieto i za dvamata e, che shte prebŭdat v Ogŭnya, tam shte prebivavat 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	နောက်ဆုံးစွန်ဘဝတွင် ဖျားယောင်းသူနှင့် ဖျားယောင်းခံရသူနှစ်ဦးစလုံးပင်လျှင် အဝီစိငရဲမီးထဲသို့ ကျရောက် ကြရလတ့ံ၊ ထိုငရဲတွင် သူတို့သည် အစဉ်အမြဲနေကြရလတ့ံ၊ ဤသည်သာလျှင် အကုသိုလ်မကောင်းမှုများကို ပြုကျင့်သူတို့၏ အကျိုးတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ၎င်းတို့နှစ်ဦးစလုံး၏ နောက်ဆုံးအကျိုးမှာ ၎င်းတို့နှစ်ဦးသည် ငရဲထဲသို့ ရောက်ရှိကြပေမည်။၎င်းတို့နှစ်ဦးမှာ ယင်းငရဲထဲ၌ အမြဲထာဝစဉ် နေထိုင်ကြရပေမည်။ ဤသည် မတရားပြုလုပ်သော သူတို့၏အကျိုးတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Poluchikhte prozreniya ot vashiya Gospod. Koĭto progledne, to e za nego samiya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၄။	သင်တို့၏ ကျေးဇူးတော်သခင်ထံမှ သက်သေသာဓကတော်များသည် သင်တို့ထံသို့ ကျရောက်လာပြီ။ ထို့ကြောင့် အကြင်သူသည် တရားကိုမြင်၏။ ထိုမြင်ခြင်းသည် သူ၏အကျိုးအတွက်ဖြစ်၏။ အကြင်သူသည် တရားကို မမြင်အံ့။ ထိုသူသည် မိမိ၏ အကျိုးယုတ်ဖို့ရာ မျက်စိမမြင်ဖြစ်ပေ၏။ ကျွနု်ပ်သည် သင်တို့ကို ထိန်းသိမ်းအုပ်ချုပ်ရသူမဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော် အသင်သည် ဤသို့ ပြောဆိုပါလေ) ဧကန်စင်စစ် အသင်တို့ထံ၊ အသင်တို့၏အရှင်မြတ်အထံတော်မှ သက်သေခံများသည် ရောက်ရှိလာခဲ့ချေပြီ။ သို့ဖြစ်ပေရာ မည်သူမဆို(ထိုသက်သေခံ များကို)မြင်ပါလျှင်၊ ထိုသူ၏အဖို့သာ အကျိုးရှိအံ့။ ထိုနည်းတူစွာ မည်သူမဆိုမျက်စိကန်းလျက်နေပါလျှင် ထိုသူ၏အပေါ်၌သာ နစ်နာမှုရှိအံ့။ အမှန်သော်ကား ကျွန်ုပ်သည် အသင်တို့အပေါ်၌ ကြီးကြပ်အုပ်ထိန်းသူမဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

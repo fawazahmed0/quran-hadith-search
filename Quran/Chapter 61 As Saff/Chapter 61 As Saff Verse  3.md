@@ -710,6 +710,12 @@ Naĭ-omrazno pred Allakh e da govorite onova, koeto ne vŭrshite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။ အလ္လာဟ်အရှင်မြတ်၏ အထံတော်၌ ယင်းကဲ့သို့မပြုလုပ်ပဲလျက် ပြုလုပ်လေဟန်ပြောဆိုသောစကားရပ်များသည် အလွန်မနှစ်မြို့စက်ဆုတ်ဖွယ်ရာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်အထံတော်တွင် အသင်တို့မပြုလုပ်ကြသော အမှုကိစ္စကို (ပြုလုပ်လေဟန်) ပြောဆိုခြင်းသည် လွန်စွာ မုန်းတီးစက်ဆုပ်ဖွယ်ကောင်းလှ၏၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

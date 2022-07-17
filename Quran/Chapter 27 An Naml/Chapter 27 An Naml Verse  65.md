@@ -710,6 +710,12 @@ Kazhi: “Nikoĭ na nebesata i na zemyata ne znae nevedomoto, osven Allakh. I n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၅။	အို-မိုဟမဒ်၊ သင်ဟောကြားလော့၊ အလ္လာဟ်အရှင်မြတ်မှတပါး မိုးမြေတွင် ရှိရှိသမျှတို့သည် မမြင်နိုင်စွမ်းသော အရာတို့ကို မသိကြချေ၊ ထို့အပြင်၎င်းတို့သည် မိမိတို့အား ဘယ်သောအခါတွင် ရှင်ပြန်ထမြောက်စေတော်မူ သည်ကိုလည်း မသိကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်သည် ပြောကြားပါလေ။ (အချင်းတို့)အကွယ်၌ရှိသော အရာများကို အလ္လာဟ်အရှင်မြတ် မှတစ်ပါး၊ မိုးကောင်းကင်၌ရှိသူတို့သည် လည်းကောင်း၊ ပထဝီမြေ၌ရှိသူတို့သည် လည်းကောင်း၊ မည်သူတစ်ဦးတစ်ယောက်မျှပင် မသိချေ။ ထို့အတူ မိမိတို့သည် မည်သည့်အချိန်အခါ၌ ရှင်ပြန်ထစေခြင်း ခံကြရမည်ကိုလည်း ၎င်းတို့ မသိကြပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

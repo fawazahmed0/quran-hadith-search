@@ -710,6 +710,12 @@ Shte kazhat: “Prechist si Ti! Ne ni podobava da priemame drugi pokroviteli osv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	သူတို့က အို--အလ္လာဟ်အရှင်၊ အရှင်သည် ချို့တဲ့ခြင်းကင်းသောအနန္တဂုဏ်တော်ရှင်ဖြစ်တော်မူပါ၏၊ အရှင် မှတပါး အခြားကာကွယ်စောင့်ရှောက်မည့်အဆွေခင်ပွန်းကို ရှာဖွေခြင်းမှာ အကျွနု်ပ်တို့အဖို့အရာမဟုတ်ပါ၊ သို့သော်အရှင်သည် ထိုမိစ္ဆာနှင့် သူတို့၏မိဘဘိုးဘွားတို့အား ချမ်းသာသုခကို ပေးသနားတော်မူသဖြင့် သူတို့ သည် အရှင်မြတ်၏သတိပေးပညတ်တော်ကို မေ့လျော့၍ ပျက်စီးဆုံးရှုံးရသူများဖြစ်ကြပါ၏ဟု တင်လျှောက် ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ၎င်းတို့သည် (ဤသို့)လျှောက်ထားကြပေမည်။ (အို-အရှင်မြတ်၊) အရှင်မြတ်သည် စင်ကြယ် သန့်ရှင်းတော်မူပါ၏။ ကျွန်တော်မျိုးတို့သည် အရှင်မြတ်အပြင် အခြားကာကွယ်စောင့်ရှောက်မည့် အဆွေခင်ပွန်းများ မပြုလုပ်ဝံ့ကြပါ။ သို့ရာတွင် အရှင်မြတ်သည် ထိုသူတို့အားလည်းကောင်း၊ ထိုသူတို့၏ အဘ၊ ဘိုး၊ ဘေးတို့အားလည်းကောင်း၊ ချမ်းသာကြွယ်ဝစေတော်မူခဲ့ပါသည်။ နောက်ဆုံးတွင် ၎င်းတို့ သည်(အရှင်မြတ်အား) သတိရခြင်းကိုပင် မေ့လျော့ကြပြီးလျှင် ၎င်းတို့ကိုယ်တိုင်ပင် ပျက်စီးသွားခဲ့ကြပါသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

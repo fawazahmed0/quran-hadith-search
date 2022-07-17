@@ -710,6 +710,12 @@ I ne prosish ot tyakh otplata za tova. To e samo napomnyane za svetovete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၄။	သင်သည် သူတို့ထံမှ တရားဟောကြားခမတောင်းချေ။ ကုရ်အာန်ကျမ်းတော်သည် လူသားအပေါင်းတို့အား သတိပေးကျမ်းတော်မှတပါး အခြားဘာမျှမဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်သော်ကား အသင်သည် ၎င်းတို့ထံမှ ဤတရားဓမ္မဟောကြားခြင်းနှင့်စပ်လျဉ်း၍ အခကြေးငွေ တစ်စုံတစ်ရာကိုမျှ တောင်းသည်မဟုတ်ပေ။ ဤ(ကုရ်အာန်ကျမ်းတော်)သည်ကား စကြာဝဠာခပ်သိမ်းတို့အဖို့ ဆုံးမဩဝါဒသာလျှင် ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

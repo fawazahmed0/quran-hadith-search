@@ -710,6 +710,12 @@ Kaza: “Gospodŭt na nebesata i na zemyata, i na vsichko mezhdu tyakh, ako ste 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	တမန်တော်က ကမ္ဘာမြေပြင်မိုးကောင်းကင်နှင့် မိုးမြေစပ်ကြားရှိရှိသမျှတို့၏ အရှင်သခင်ဖြစ်တော်မူ၏၊ သင် ယုံကြည်လျှင် ကောင်းပေစွ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(မူစာ)က အကယ်၍ အသင်တို့သည် ယုံကြည်သူများဖြစ်ကြလျှင် (ထိုအရှင်မြတ်)သည် မိုးကောင်းကင်များကိုလည်းကောင်း၊ ပထဝီမြေကိုလည်းကောင်း၊ ယင်းမိုးကောင်းကင်နှင့် ပထဝီမြေ၏အကြား၌ ရှိရှိသမျှတို့ကိုလည်းကောင်း၊ ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူသည်ဟု ပြောဆိုဖြေကြားခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

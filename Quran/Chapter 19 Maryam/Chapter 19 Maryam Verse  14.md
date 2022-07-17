@@ -710,6 +710,12 @@ i nezhen s roditelite si. I ne be nasilnik, nepokornik
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	ထို့အပြင်သူသည် မိဘနှစ်ပါးဝတ်ကို ကျေပွန်၏။ မိမိကိုယ်ကို မိမိအထင်မကြီးချေ။ မိဘနှစ်ပါးကို မတော်လှန်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် မိမိ၏ မိဘနှစ်ပါးအား အလွန်ကျေးဇူးပြုတတ်သူလည်းဖြစ်ခဲ့၏။ ထို့ပြင် မာန်မာနထောင်လွှားသူအမိန့်တော်ကို ဖီဆန်သူမဖြစ်ခဲ့ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

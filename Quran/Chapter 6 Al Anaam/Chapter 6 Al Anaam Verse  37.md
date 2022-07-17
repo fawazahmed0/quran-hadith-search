@@ -710,6 +710,12 @@ I rekokha: “Da be mu nizposlano znamenie ot negoviya Gospod!” Kazhi [o, Mukh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	သူတို့က သူ၏ကျေးဇူးတော်သခင်အထံတော်မှ သူ့အပေါ်သို့ နိမိတ်လက္ခဏာတော်တစ်ပါးကို အဘယ်ကြောင့် ချပေးသနားတော်မမူသနည်းဟု ဆိုကြ၏။ ဟောကြားလော့။ မှတ်သားကြလော့။ အလ္လာဟ်အသျှင်မြတ်သည် လက္ခဏာတော်ကို ချပေးနိုင်တော်မူ၏။ သို့သော် သူတို့အနက် အများ အပြားတို့သည် မသိကြပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုသူတို့က(အကယ်၍သာ မုဟမ္မဒ်သည် နဗီတမန်တော်ဖြစ်ခဲ့ပါလျှင်) ၎င်း၏အရှင်မြတ် ထံတော်မှ ၎င်းထံသို့ ပြာဋိဟာတစ်ရပ်ရပ်သည် မည်သည့်အတွက်ကြောင့် မကျရောက်ပါသနည်းဟု ပြောဆိုကြလေသည်။ (အိုနဗီတမန်တော်အသင်သည် ထိုသူတို့ အား ဤသို့) ပြောကြားပါလေ။ မုချဧကန် အလ္လာဟ်အရှင်မြတ်သည် (ထိုသူတို့တောင်းဆိုသော)တန်ခိုး ပြာဋိဟာကို ချပေးနိုင်စွမ်းရှိတော်မူ သောအရှင်မြတ် ဖြစ်တော်မူ၏။ သို့ရာတွင် ထိုသူတို့အနက်မှ များစွာသော သူတို့သည် (ဤသည်ကိုပင်) မသိကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

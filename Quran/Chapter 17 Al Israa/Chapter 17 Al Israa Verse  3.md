@@ -710,6 +710,12 @@ o, potomstvo na onezi, koito prenesokhme zaedno s Nukh!” Toĭ be priznatelen 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	သူတို့သည် တမန်တော်နူဟိုနှင့်အတူတကွ လှေသင်္ဘောပေါ်တွင် ငါတင်ယူတော်မူသောသူတို့၏ မျိုးစေ့ဖြစ်ကြ၏။ မှတ်သားကြလော့၊ တမန်တော်နူဟိုသည် ငါ၏ ကျေးဇူးတော်ကို သိသောကျေးကျွန်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-အကြင်သူတို့၏ သားမြေးအပေါင်းတို့၊ ငါအရှင်မြတ်သည် ထိုသူတို့အား (နဗီတမန်တော်)နူဟ် နှင့်အတူ(သင်္ဘောပေါ်သို့)တင်ဆောင်တော်မူခဲ့လေသည်။ (အသင်တို့သည် အလ္လာဟ်အရှင်မြတ် တစ်ဆူတည်းဖြစ်တော်မူကြောင်းကိုသက်ဝင်ယုံကြည်ကြလေကုန်။ မလွဲဧကန် ထို(နဗီတမန်တော်)နူဟ်သည် ကျေးဇူးတော်ကို အလွန်သိတတ်သော ကျွန်တစ်ပါးဖြစ်ခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

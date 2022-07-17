@@ -710,6 +710,12 @@ I nedeĭ da sporish za onezi, koito izmenyat na sebe si! Allakh ne obicha nikoi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၇။	ထို့ပြင် မိမိကိုယ်ကိုမိမိတို့ လှည့်စားသောသူတို့အတွက် မှတ်သားလော့။ အလ္လာဟ်အသျှင်မြတ်သည် သစ္စာဖောက်၍ ပြစ်မှုကျူးလွန်သူကို ချစ်ခင်တော်မမူပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး မိမိကိုယ်ကို လိမ်လည်လှည့်ဖြားသူတို့ဘက်မှ အသင်သည် ပြောဆိုခြင်းမပြုလေနှင့်။ ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အလွန်သစ္စာမဲ့သူ၊ အလွန် ပြစ်မှုဒုစရိုက်ကျူးလွန်သူတို့ကို နှစ်သက်တော်မမူချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

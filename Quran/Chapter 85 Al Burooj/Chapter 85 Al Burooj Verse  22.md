@@ -710,6 +710,12 @@ v sŭkhranyavan skrizhal
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁၊၂၂။ ထိုသူယုတ်မာတို့စွပ်စွဲသည့်အတိုင်းမဟုတ်ပဲ ဤကျမ်းတော်သည် အလွန်ကြီးမြတ်နက်နဲစုံလင်လှ၏၊ ငါထိန်းသိမ်း စောင့်ရှောက်ထားတော်မူသောကျောက်ပြားပေါ်တွင် ရေးထင်မှတ်ထားသောကျမ်းမြတ်ကုရ်အာန်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 လုံခြုံစွာ ထိန်းသိမ်း၍ထားသည့် သင်ပုန်း၌ရေးမှတ်ပြီးဖြစ်သော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

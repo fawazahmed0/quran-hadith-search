@@ -710,6 +710,12 @@ Shte pomrŭknat vsichki tekhni dovodi v tozi Den i dori ne shte se pitat edin dr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၆။	ထိုနေ့တော်ကြီး၌ ထိုသူတို့သည် မည်သည့်အကြောင်းကိုမှ သတိမရ၊ တွေဝေမိန်းမောနေကြလတ့ံ၊ ထို့အပြင် သူတို့သည် အချင်းချင်းမေးမြန်းနှုတ်ဆက်ကြမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ၎င်းတို့အပေါ်၌ ထိုနေ့တွင် အလုံးစုံသော သတင်းစကားများသည် ဖုံးအုပ်ပျောက်ကွယ် သွားပေမည်။ ၎င်းတို့သည် အချင်းချင်း တစ်ဦးကိုတစ်ဦး စုံစမ်းမေးမြန်းခြင်းကိုပင် ပြုနိုင်ကြမည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

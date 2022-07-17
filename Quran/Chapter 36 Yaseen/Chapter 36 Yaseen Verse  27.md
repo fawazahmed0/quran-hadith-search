@@ -710,6 +710,12 @@ kak me oprosti moyat Gospod i me stori ot udostoenite!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	အကြောင်းမူကားငါ၏ အရှင်သခင်သည် ငါ့ကို အပြစ်မှ ခွင့်လွှတ်တော်မူပြီးလျှင် အရှင်မြတ်ဂုဏ်ပြုတော်မူသော သူတော်ကောင်းတို့၏ ဘောင်တွင်လည်း ငါ့အား သွင်းထားတော်မူပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကျွန်ုပ်၏အရှင်မြတ်သည် ကျွန်ုပ်အား ခွင့်လွှတ်ချမ်းသာ ပေးတော်မူခဲ့သည်ကိုလည်းကောင်း၊ ထိုအရှင်မြတ်သည် ကျွန်ုပ်အား ဂုဏ်သိန်ရှိသူတို့တွင် အပါအဝင် ဖြစ်စေတော်မူခဲ့သည်ကိုလည်းကောင်း၊ (ကျွန်ုပ်၏အမျိုးသားတို့သည် သိရှိကြလျှင် ကောင်းလေစွတကားဟု ပြောဆိုခဲ့လေသတည်း)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

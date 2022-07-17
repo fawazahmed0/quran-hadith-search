@@ -710,6 +710,12 @@ Kazhi: “Nima sluzhite ne na Allakh, a na onova, koeto ne vladee za vas nito vr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၆။	အို-တမန်တော် ဟောကြားလော့။ ဟယ်-အချင်းတို့ သင်တို့သည် အလ္လာဟ်အသျှင်မြတ်အစား သင်တို့ကို အကျိုးဆုတ်ယုတ်ခြင်းကိုသော်လည်းကောင်း၊ အကျိုးဖြစ်ထွန်းခြင်းကိုသော်လည်းကောင်း၊ မပြုစွမ်းနိုင်သောအရာများကို ခဝပ်ကိုးကွယ်ကြသလော။ အလ္လာဟ်အသျှင်မြတ်သည် အကြွင်းမဲ့ ကြားတော်မူသောအသျှင်၊ အကြွင်းမဲ့သိတော်မူသောအသျှင်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို- နဗီတမန်တော်) အသင်သည် (ခရစ်ယာန်တို့အား ဤသို့) ပြောကြားပါလေ။ “(ဟယ်-အချင်းတို့) အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်မှတစ်ပါး အသင်တို့အား အကျိုးယုတ် နစ်နာစေခြင်းကိုလည်းကောင်း၊ အကျိုး ဖြစ်ထွန်းစေခြင်းကိုလည်းကောင်း မပြုစွမ်းနိုင်ကြသောအရာများကို ကိုးကွယ်ဆည်းကပ်ကြလေသလော။ အမှန်စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည်သာလျှင် (အလုံးစုံတို့ကို) အကြွင်းမဲ့ကြားသိတော်မူသောအရှင် (အရာခပ်သိမ်းတို့ကို) အကြွင်းမဲ့သိရှိတော်မူသောအရှင် ဖြစ်တော်မူလေသတည်း။”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

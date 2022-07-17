@@ -710,6 +710,12 @@ koĭto im dade khrana sreshtu glada i sigurnost sreshtu strakha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။ အရှင်မြတ်သည် သူတို့အား မွတ်သိပ်ခေါင်းပါးခြင်းကင်းစေတော်မူ၏၊ စားဖို့ရာအစာ၊ သောက်ဖို့ရာရေကို ချ ပေးသနားတော်မူ၏၊ ထို့အပြင်စိုးရိမ်ကြောင့်ကျခြင်းကင်းစေ၍ ဘေးရန်ကင်းကွာငြိမ်းချမ်း သာယာခြင်းကိုလည်း စီရင်ပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်အရှင်မြတ်သည် ၎င်းတို့အား ဆာလောင် မွတ်သိပ်သောအခါ၌ (တစ်နည်း) ဆာလောင်မွတ်သိပ်ခြင်းမှ ကင်းလွတ်ရန် အာဟာရ ကျွေးမွေး တော်မူခဲ့၏။ ထိုမှတပါး ၎င်းတို့အား စိုးရိမ်သောအခါ၌ (တစ်နည်း) စိုးရိမ်မှု ဘေးရန်ကင်းငြိမ်းစေတော် မူခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

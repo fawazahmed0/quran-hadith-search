@@ -710,6 +710,12 @@ Nima kopneete da vi povyarvat, shtom chast ot tyakh slushakha Slovoto na Allakh,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၅။	ထိုသူများအနက် အသင်းတသင်းသည် အလ္လာဟ်အရှင်မြတ်၏ နှုတ်ကပတ်တော်ကို နာယူလေ့ ရှိ၏။ သူတို့သည် တရားတော်ကို နားလည်ပြီးသည့်နောက် သိလျက်နှင့်ပင် တရားတော်ကို ပြောင်းလဲ ကြ၏။ ဤသူများသည် သင်တို့အပေါ်တွင် သစ္စာရှိမည်ဟု သင်တို့ မျှော်ကိုးသေးကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို- ‘မုအ်မင်န်’ ယုံကြည်သူအပေါင်းတို့) အသင်တို့သည် (အစ္စရာအီလီ လူမျိုးတို့၏ စိတ်နှလုံး မာကျောခြင်းကို သိရှိပြီးဖြစ်ကြပါလျက်) ထို သူတို့သည် အသင်တို့ (၏ဆုံးမဩဝါဒ ဟောပြောချက်များ) ကို ယုံကြည်၍ သဒ္ဓါတရား ထားရှိကြကုန်အံ့ ဟု မြှော်ခေါ်တောင်းတ ကြပါသလော။ (စင်စစ် ယင်းကဲ့သို့ မြှော်လင့်ခြင်းသည် အချည်းနှီး ပင်) အကြောင်းမူကား ယင်းသူတို့တွင် အလ္လာဟ် အရှင်မြတ်၏မုက္ခပါဌ်တော်များကို ကြားနာကြရသောသူများ အမှန်ပင်ရှိကြလေသည်၊ (သိကြား နာ၍ ထိုမုက္ခပါဌ်တော်များကိုသိကျွမ်း နားလည် ပြီးနောက် မိမိတို့ အလိုရှိသည့်အတိုင်း) ပြုပြင် ပြောင်းလွှဲကြကုန်သည်။ စင်စစ် (ထိုကဲ့သို့ ပြောင်းလွှဲခြင်းသည် မပြုသင့် မပြုအပ်ကြောင်း ကိုလည်း) မိမိတို့ကိုယ်တိုင် သိရှိကြလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

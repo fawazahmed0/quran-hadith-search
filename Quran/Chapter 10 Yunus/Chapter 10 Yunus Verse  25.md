@@ -710,6 +710,12 @@ Allakh prizovava kŭm Doma na mira i nasochva kogoto pozhelae po praviya pŭt
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အား ငြိမ်သက်ခြင်းဗိမာန်တော်သို့ ခေါ်ယူတော်မူ၏။ အလိုတော်ရှိသူတို့အား သမ္မာလမ်းမှန်သို့ ပြသတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် (လူခပ်သိမ်းတို့အား) ငြိမ်းချမ်းရေး ဘုံဗိမာန်သို့ ဖိတ်ခေါ်တော်မူလေသည်။ ၎င်း ပြင် ထိုအရှင်မြတ်သည် မိမိအလိုရှိတော်မူသောသူအား ဖြောင့်မတ်မှန်ကန်သောတရားလမ်းစဉ်သို့ ပို့ဆောင်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

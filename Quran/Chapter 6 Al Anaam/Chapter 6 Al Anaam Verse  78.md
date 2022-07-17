@@ -710,6 +710,12 @@ I kogato vidya slŭntseto da izgryava, reche: “Tova e moyat Gospod. To e naĭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၈။	ထို့ပြင် သူသည် နေထွက်လာသည်ကိုမြင်သောအခါ ဤအရာသည် အကျွနု်ပ်၏အသျှင်သခင် ဖြစ်တော်မူ၏။ ဤအရာသည် သာ၍ကြီး၏ဟု ကြွေးကြော်၏။ သို့သော် နေဝင်သွားသောအခါ သူသည် အို-အကျွနု်ပ်၏အမျိုးသားအပေါင်းတို့ မှတ်သားကြလော့။ အကျွနု်ပ်သည် သင်တို့ အလ္လာဟ်အသျှင်မြတ်နှင့် တွဲဖက်သောအရာများကို ကိုးကွယ်သောအညစ်အကြေးများမှ ကင်းစင်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဂ။ တဖန် (တမန်တော်အစ်ဗ်ရာဟီမ်သည်) သူရိယနေကို ထွန်းလင်းတောက်ပစွာ မြင်လေပြန်သောအခါ (အသင်တို့၏ထင်မြင်ယူဆချက်အရ) ဤသည်သာလျှင် ငါ့အား ဖန်ဆင်းတော်မူသောအရှင် ဤသည်သာလျှင် အကြီးဆုံးဖြစ်သည်ဟု ပြောဆိုခဲ့ပြန်၏။ သို့ရာတွင် ထိုသူရိယနေသည်လည်းကွယ်ပျောက်သွားသောအခါ (တမန်တော် အစ်ဗ်ရဟီမ်က) အိုငါ၏အမျိုးသားအပေါင်းတို့၊ ငါသည် အသင်တို့ တွဲဖက်ယှဉ်ပြိုင်ကိုးကွယ်လျက်ရှိကြသောအရာများမှ လုံးဝလွတ်ကင်းသည်ဟုပြောကြားခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

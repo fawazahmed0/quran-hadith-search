@@ -710,6 +710,12 @@ Allakh! Nyama drug bog osven Nego - Gospoda na velikiya Tron!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	အလ္လာဟ်အရှင်မြတ်၊ အလ္လာဟ်အရှင်မြတ်မှတပါး အခြားအရှင်သခင်မရှိချေ၊ အရှင်မြတ်သည် အလွန်ကြီးကျယ် မြင့်မြတ်သောရာဇပလ္လင်တော်ကြီးကို စိုးပိုင်တော်မူပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည်(အကြင်အရှင်မြတ်ပင်၊)ထိုအရှင်မြတ်မှတစ်ပါး ခဝပ်ကိုးကွယ်ရာအရှင်ဟူ၍ အလျင်းမရှိပေ။ ကြီးကျယ်လှစွာသော ‘အရ်ရှ်’ ပလ္လင်တော်ကို စိုးပိုင်တော်မူသောအရှင်မြတ်ပင် ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

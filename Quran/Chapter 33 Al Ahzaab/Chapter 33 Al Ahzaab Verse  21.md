@@ -710,6 +710,12 @@ Pratenika na Allakh e prekrasen obrazets za vas - za vseki, koĭto se nadyava n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	အို-လူသားအပေါင်းတို့၊ သင်တို့အနက် အလ္လာဟ်အရှင်မြတ်နှင့် နောက်ဆုံးနေ့တော်ကြီးကို မျှော်လင့်ကိုးစား၍ အလ္လာဟ်အရှင်မြတ်ကို မကြာခဏအာရုံပြုသူအဖို့အရာ အရှင်မြတ်၏ တမန်တော်သည် အလွန်မွန်မြတ်သော စံနမူနာမုချအမှန်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ အသင်တို့အဖို့ (ဝါ) အလ္လာဟ်အရှင်မြတ်ကိုလည်းကောင်း၊ နောက်ဆုံးနေ့ကိုလည်းကောင်း၊ကြောက်ရွံ့သည့်ပြင် အလ္လာဟ်အရှင်မြတ်အား များစွာ အောက်မေ့တçသç သတိရလျက်ရှိသူ၏အဖို့ အလ္လာဟ်အရှင်မြတ်၏ရစူလ်တမန်တော်မြတ်၌ မွန်မြတ်လှစွာသော စံနမူနာသည်ရှိပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

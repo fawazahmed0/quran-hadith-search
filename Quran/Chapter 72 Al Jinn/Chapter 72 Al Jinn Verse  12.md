@@ -710,6 +710,12 @@ Veche sme ubedeni, che nikoga ne shte obezsilim Allakh na zemyata i nikoga ne sh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။ ကမ္ဘာ တစ်ခွင် မြေအပြင်တွင် အလ္လာဟ်အရှင်မြတ်အထံတော်မှ ငါတို့မလွှတ်နိုင်ကြောင်းကို ငါတို့ သိကြ၏။ထိုအပြင် ငါတို့သည် တောင်မြောက်လေးပါးပြေးလွှားခြင်းအားဖြင့် အရှင်မြတ်၏ လက်တော်မှ မလွတ်နိုင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် စင်စစ်ဧကန် ကျွန်ုပ်တို့သည် ၎င်းအရှင်မြတ်အား ပထဝီမြေပေါ်၌လည်း မစွမ်းဆောင်နိုင်အောင် အလျှင်းပြုလုပ်နိုင်ကြမည် မဟုတ် ကြောင်းကိုလည်းကောင်း၊ (ပထဝီမြေမှ)ထွက်ပြေး တိမ်းရှောင်ခြင်းအားဖြင့်လည်း ထိုအရှင်မြတ်အား မစွမ်းဆောင်နိုင်အောင် အလျှင်းပြုလုပ်နိုင်ကြမည် မဟုတ်ကြောင်းကိုလည်းကောင်း၊ သိရှိပြီးဖြစ်ခဲ့ကြလေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Allakh ne vi zabranyava da se otnasyate s dobro i da postŭpvate spravedlivo kŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။ အို-ယုံကြည်သူအပေါင်းတို့၊ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အား မိမိတို့ကို သာသနာ့အရေးကြောင့် စစ်မက် ပြိုင်ဆိုင်တိုက်ခိုက်ခြင်းကိုသော်လည်းကောင်း၊ မိမိတို့အိုးအိမ်စည်းစိမ်မှ နှင်ထုတ်ခြင်းကိုသော်လည်းကောင်း မကျူးလွန်မပြစ်မှားသောမိစ္ဆာဒိဋ္ဌိတို့နှင့် တရားသဖြင့်ခင်မင်ရင်းနှီးစွာမဆက်ဆံမပေါင်းဖော်ရဟု ပညတ်တော် မမူချေ၊ အလ္လာဟ်အရှင်မြတ်သည် တရားမျှတသူတို့အား မြတ်နိုးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့အား အကြင်သူတို့ကို ကျေးဇူးပြုခြင်းမှလည်းကောင်း၊ တရားမျှတစွာ ဆက်ဆံခြင်းမှလည်းကောင်း၊ တားမြစ်တော်မူသည် မဟုတ်ပေ။ထိုသူတို့သည် အသင်တို့အား "ဒီန်" သာသနာနှင့်စပ်လျဉ်း၍ တိုက်ခိုက်ခဲ့ကြသည်လည်း မဟုတ်ပေ။ အသင်တို့အား အသင်တို့၏ နေအိမ်များမှ နှင်ထုတ်ခဲ့ကြသည်လည်း မဟုတ်ပေ။ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် တရားမျှတသောသူတို့အား နှစ်သက်ချစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

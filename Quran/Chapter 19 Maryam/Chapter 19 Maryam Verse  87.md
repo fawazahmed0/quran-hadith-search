@@ -710,6 +710,12 @@ za nikogo ne shte ima zastŭpnichestvo, osven za onezi, koito poluchikha obeshta
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၇။	မိမိ၏ ကျေးဇူးတော်သခင်နှင့် ကတိစာချုပ်ချုပ်ဆိုထားသူများမှတပါး၊ အခြားသူတို့မှာ တောင်းပန်ကယ်နှုတ်ဖို့ရာ အာဏာရှိမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုနေ့တွင်) ရဟ်မာန် အနန္တကရုဏာတော်ရှင်၏အထံတော်မှ ကတိတစ်စုံတစ်ရာ ရရှိပြီးဖြစ် သောသူမှတစ်ပါး အခြားသူတို့မှာ ကြားဝင်အသနား ခံပိုင်ခွင့်ရှိကြမည်မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

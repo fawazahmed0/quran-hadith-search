@@ -710,6 +710,12 @@ Posle, shtom Toĭ vi otmakhne bedata, eto - nyakoi ot vas sŭdruzhavat svoya Go
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၄။	ထို့နောက်အရှင်မြတ်သည် သင်တို့ကို ဘေးဒုက္ခမှ ဖယ်ရှားတော်မူပြီးသောအခါ သင်တို့အနက် လူတစုသည် မိမိတို့၏ ကျေးဇူးတော်သခင်အား ဖက်စပ်သူများကို ပေးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက်တစ်ဖန် ထိုအရှင်မြတ်သည် ဘေး ဒုက္ခကို အသင်တို့မှ ဖယ်ရှားတော်မူသောအခါ အသင် တို့အနက်မှလူတစ်စုသည် ရုတ်တရက်ပင် (အခြားအရာများကို) မိမိတို့အားဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်နှင့် တွဲဖက်နှိုင်းယှဉ်(ကိုးကွယ်)ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

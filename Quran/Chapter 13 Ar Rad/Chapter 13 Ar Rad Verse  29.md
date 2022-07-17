@@ -710,6 +710,12 @@ Za onezi, koito vyarvat i vŭrshat pravedni dela, shte ima blazhenstvo i prekras
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	အကြင်သူတို့သည် ယုံကြည်လျက် မှန်ကန်မှုကို ပြုကျင့်ကြအ့ံ။ ထိုသူတို့အတွက် ပျော်ရွှင်မှုရှိ၏။ သူတို့၏ ဘဝခရီးအဆုံးသည် ချမ်းသာသုခဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတို့သည် သက်ဝင်ယုံကြည်ခဲ့ကြ ကုန်၏။ ၎င်းပြင် ထိုသူတို့သည် ကောင်းမြတ်သောအကျင့်သီလများကိုလည်း ကျင့်မူဆောက်တည်ခဲ့ကြကုန်၏။ ထိုသူတို့အဖို့ စိတ္တသုခ ကောင်းကြီးမင်္ဂလာသည်လည်းကောင်း၊ ထိုသူတို့အဖို့(ဤပစ္စက္ခဘဝ၌) ကောင်းသော အခြေအနေသည်လည်းကောင်း၊ကောင်းမြတ်သော (အကျိုးဆက်)ပြန်လည်ရာဌာနသည် လည်းကောင်း၊ ရှိချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

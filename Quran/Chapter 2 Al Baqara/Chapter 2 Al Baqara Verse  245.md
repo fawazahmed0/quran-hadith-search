@@ -710,6 +710,12 @@ Na onzi, koĭto zaema khubav zaem na Allakh, Toĭ mnogokratno shte umnozhi. Al
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄၅။	အဘယ်သူသည် ကောင်းမြတ်သောသဒ္ဒါစေတနာနှင့် အလ္လာဟ်အရှင်မြတ်ကို ကြွေးချေးမည်နည်း။ အရှင်မြတ်သည် ထိုအရင်းငွေကို အဆပေါင်းများစွာ တိုးပွားစေတော်မူမည်။ အရှင်မြတ်သည် ကျဉ်းကြပ်စေတော်မူ၏။ ကျယ်ဝန်းပေါများစေတော်မူ၏။ အရှင်မြတ်အထံတော်သို့ သင်တို့အားလုံး ပြန်ရကြမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်အား မွန်မြတ်လှစွာသော ကြွေးမြီချေးငှားမည့်သူသည် မည်သူနည်း။ သို့ ချေးငှားခြင်း အားဖြင့် အလ္လာဟ်အရှင်မြတ်သည် ယင်းကဲ့သို့သောချေး ငှားခြင်း၏ အကျိုးကို ထိုသူအဖို့ အဆပေါင်းမြောက်မြားစွာ တိုးပွားစေတော်မူအံ့။ (တဖန် ယင်းကဲ့သို့ ကြွေးမြီချေးငှားသူတို့ အဖို့မှာလည်း မိမိတို့၏ဥစ္စာပစ္စည်း နည်းပါးသွားမည်ကို စိုးရိမ် မကင်းမဖြစ်သင့်ချေ။) အဘယ့်ကြောင့်ဆိုသော် အလ္လာဟ်အရှင်မြတ်သည်သာလျှင်(ဥစ္စာပစ္စည်းကို) ကျပ်တည်းစေတော် မူသည်။ ထိုအရှင်မြတ်သည်ပင်လျှင် (ဥစ္စာပစ္စည်းကို) ချောင် လည်စေတော်မူလေသည်။ တစ်ဖန် အသင်တို့သည် ထိုအရှင် မြတ်အထံတော်သို့သာလျှင် ပြန်လှည့်ကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

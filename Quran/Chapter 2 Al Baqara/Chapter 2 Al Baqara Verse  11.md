@@ -710,6 +710,12 @@ I kogato im se kazhe: “Ne rushete po zemyata!” - kazvat: “Nie samo popravy
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	ထို့ပြင်သူတို့အား ပထဝီမြေကြီးပေါ်တွင် အကျိုးပျက်စီးမှု မပြုလုပ်ကြလင့်ဟုပြောသောအခါ သူတို့က အကျွန်ုပ်တို့သည် ငြိမ်းချမ်းသာယာမှုကို ပွားများသူများသာဖြစ်ကြ၏ဟု တုန့်ပြန်ပြောဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(မုစ်လင်(မ်)အသွင်ဆောင်သော) သူများအား အချင်းတို့၊ အသင်တို့သည် ကမ္ဘာ မြေပြင်ပေါ်ဝယ် ပျက်စီးရာ ပျက်စီးကြောင်း အမှုကိစ္စ များကို မပြုလုပ်ကြလင့်ဟု ဩဝါဒစကား ပြောကြား သောအခါ ထိုသူများက ကျွန်ုပ်တို့သည် (အေးချမ်း သာယာအောင်) ပြုလုပ်သူများသာ ဖြစ်ကြပါသည်ဟု တုံ့ပြန် ဖြေဆိုကြလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

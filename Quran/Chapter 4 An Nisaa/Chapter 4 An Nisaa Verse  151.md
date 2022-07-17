@@ -710,6 +710,12 @@ tezi sa istinskite nevernitsi. I prigotvikhme za nevernitsite unizitelno mŭchen
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၁။	ထိုသူတို့သည် အမှန်ပင် မိစ္ဆာမိုက်တို့အဘို့ဖြစ်ကြ၏။ ၎င်းတို့အဘို့ရာ ငါအသျှင်မြတ်သည် အလွန် ရှက်ဖွယ်ကောင်းသောအပြစ်ဒဏ်ကို စီရင်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (သို့ဖြစ်ပေရာ) ထိုသူတို့သည်သာလျှင် မုချ ‘ကာဖိရ်’ သွေဖည်ငြင်းပယ်သောသူများ ဖြစ်ကြကုန်၏။ ငါအရှင်မြတ်သည် ‘ကာဖိရ်’ သွေဖည်ငြင်းပယ်သောသူတို့အဖို့ ဂုဏ်ရည်သေးသိမ် စေသောအပြစ်ဒဏ်ကို အဆင်သင့် ပြင်ဆင်ထားရှိတော်မူပြီး ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ osven kakvoto Allakh pozhelae. Toĭ znae yavnoto i skritoto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။ တမန်တော် သည် အလ္လာဟ်အရှငြ်မတ်သည် မေ့လိုတော်ရှိသည်ကို မေ့လျော့နိုင်၏ ၊ မုချဧကန ်အရှင်မြတ်သည် ဖော်ပြထားသောအရာ၊ လျှို့ဝှက်ထားသော အရာအလုံးစုံကို အကြွင်းမဲ့သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ် အလိုရှိတော်မူသောအရာ မှတပါး အခြားကို၊ ဧကန်မလွဲ ထိုအရှင်မြတ်သည် ထင်ရှားသိသာသော အရာကိုလည်းကောင်း၊ ဖုံးကွယ်လျက်ရှိသော အရာကိုလည်းကောင်း၊ သိရှိတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

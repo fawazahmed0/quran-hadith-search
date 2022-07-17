@@ -710,6 +710,12 @@ Mozhe vashiyat Gospod da vi pomilva. I ako vie povtorite, i Nie shte povtorim. I
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	သင်တို့၏ ကျေးဇူးတော်သခင်သည် သင်တို့အား ကောင်းကြီးမင်္ဂလာတော်ပေးသနားတော်မူကောင်း ပေးသနား တော်မူချေမည်။ သို့သော်သင်တို့သည် တဖန်ပြစ်မှုကြီးကို ကျူးလွန်လျှင် ငါ အပြစ်ဒဏ်တဖန်ခတ်တော်မူမည်။ ငါသည် မယုံကြည်သူတို့အတွက် အဝီစိငရဲကို ထောင်အဖြစ် သတ်မှတ်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-အစ္စရာအီလီမျိုးနွယ်တို့) အသင်တို့ကို ဖန်ဆင်း မွေးမြူတော်မူသောအရှင်မြတ်သည် အသင် တို့အပေါ်၌ကရုဏာပြုကောင်းပြုတော်မူပေမည်။ သို့ရာတွင် အကယ်၍သာ အသင်တို့သည်(ရှေးနည်းတူ)မောက်မာပလွှားခြင်းတို့ကိုထပ်မံ၍ပြုခဲ့ကြသည်ရှိသော် ငါအရှင်မြတ်သည်လည်း (အသင်တို့အား ရှေးနည်းအတိုင်းပင်) ထပ်မံ၍ (ပြစ်ဒဏ်ပေးတော်မူခြင်းကို) ပြုလုပ်ထားတော်မူမည်သာတည်း။ စင်စစ်တွင် မူကားငါအရှင်မြတ်သည် ဂျဟန္နမ်ငရဲဘုံကို ကာဖိရ်သွေဖည် ငြင်းပယ်ကုန်သောသူတို့အဖို့ အကျဉ်းထောင်ပြုလုပ်ထားတော်မူချေတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

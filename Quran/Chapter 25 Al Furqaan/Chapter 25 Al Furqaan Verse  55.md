@@ -710,6 +710,12 @@ I vmesto na Allakh sluzhat na onova, koeto nito im pomaga, nito im vredi. Nevern
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။	သို့ပါလျက်သူတို့သည် အလ္လာဟ်အရှင်မြတ်အစား သူတို့ကို အကျိုးအပြစ်မပေးနိုင်သောဘုရားယောင်များကို ခဝပ်ဦးညွတ်ကြ၏၊ မယုံကြည်သူတို့၏ အရှင်သခင်ကို အမြဲဆန့်ကျင်သောသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ထို(မုရှ်ရစ်က်)တို့မှာမူကား အကြင်အရာများကို အလ္လာဟ်အရှင်မြတ်နှင့်ယှဉ်ပြိုင်၍ ဆည်းကပ်ကိုးကွယ်ကြကုန်၏။ ထိုအရာများသည် ၎င်းတို့အား အကျိုးဖြစ် ထွန်းစေနိုင်ကြသည်လည်း မဟုတ်ပေ။ ထိုနည်းတူစွာ ၎င်းတို့အား အကျိုးယုတ်စေနိုင်ကြသည်လည်း မဟုတ်ပေ။ စင်စစ် သော်ကား "ကာဖိရ်" သွေဖည်ငြင်းပယ်သောသူသည် မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်ဘက်မှ ကျောခိုင်းသူပင် ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

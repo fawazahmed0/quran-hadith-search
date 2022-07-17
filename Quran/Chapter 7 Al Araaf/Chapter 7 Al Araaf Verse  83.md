@@ -710,6 +710,12 @@ I spasikhme nego i semeĭstvoto mu, osven negovata zhena. Tya be ot ostavashtit
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၃။	ငါအသျှင်မြတ်သည် သူ့မိန်းမမှတစ်ပါး သူနှင့် သူ၏ အိမ်သားတို့ကို ကယ်ဆယ်တော်မူ၏။ သူ့မိန်းမသည် ကျန်ရစ်သူတို့အထဲတွင် အပါမဝင်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ငါအရှင်မြတ်သည်(နဗီတမန်တော်)လူတ်၏ ကြင်ရာမှတစ်ပါး ထိုလူတ်နှင့်တကွ အိမ်သူအိမ်သားတို့ကိုပါ ကယ်ဆယ်တော်မူခဲ့လေသည်။ ထိုကြင်ရာသည် နောက်ကျန်ရစ်သူတို့တွင် အပါအဝင် ဖြစ်ခဲ့ချေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

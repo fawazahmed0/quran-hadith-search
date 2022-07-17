@@ -710,6 +710,12 @@ Kŭlna se v iztrŭgvashtite [dushite] s vse sila
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။ ဆုံးရှုံးပျက်စီးရာသို့ ဆွဲငင်ယူရသောသူတို့အားဖြင့်လည်းကောင်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ကာဖိရ် မယုံမကြည်သွေဖည်ငြင်းပယ်သော သူတို့၏အသက်ဇီဝိန်များကို) ပြင်းထန်စွာ ဆွဲငင်နုတ်ထုတ်ယူကြသော (ကောင်းကင်တမန်)တို့အား သက်သေထူတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

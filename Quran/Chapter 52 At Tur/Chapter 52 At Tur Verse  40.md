@@ -710,6 +710,12 @@ Ili iskash otplata ot tyakh [o, Mukhammad], ta sa obremeneni ot dŭlg
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄ဝ။	သို့မဟုတ် သင်တမန်တော်သည် ၎င်းတို့အား တရားဓမ္မဟောပြောခတောင်းဖူးသလော၊ ယင်းသို့တောင်းခြင်း ကြောင့် သူတို့ကြွေးတွင် နစ်မြုနေပြီလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် အသင်သည် ၎င်းတို့ထံ အခကျေးဇူးတစ်စုံတစ်ရာကို တောင်းဆိုသောကြောင့် ၎င်းတို့သည် ကြွေးမြီပေးဆပ်ရန် တာဝန်၌ပိလျက် ရှိနေကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

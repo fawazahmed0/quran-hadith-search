@@ -710,6 +710,12 @@ I preobŭrnakhme selishteto nadolu, i izsipakhme nad tyakh poroĭ kamŭni ot gl
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၄။	ထိုအခါ ငါအရှင်မြတ်သည် သူတို့အား ဗရုန်းဗရင်းရှုပ်ပွေသွားစေတော်မူ၏။ သူတို့အပေါ်သို့ လောင်ကျွမ်းနေသော ရွှံ့ခဲမိုးရွာသွန်းချတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ငါအရှင်မြတ်သည် ထိုမြို့၏အထက်ပြင်ကိုအောက်ပြင် ပြုလုပ်တော်မူခဲ့လေသည်။ ထို့ပြင် ငါအရှင်မြတ်သည် ၎င်းင်တို့အပေါ်၌ ရွှံ့စေးဖြင့်ပြုလုပ်သော ကျောက်ခဲများကို ရွာသွန်းစေတော်မူခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

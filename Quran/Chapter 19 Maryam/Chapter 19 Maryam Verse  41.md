@@ -710,6 +710,12 @@ I spomeni v Knigata Ibrakhim. Toĭ be vsepravdiv, prorok
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	အို-မိုဟမ္မဒ်၊ တမန်တော်အေဗရာဟမ်၏ အကြောင်းကို ကုရ်အာန်ကျမ်းတော်မြတ်၌ ဖော်ပြ၏။ မှတ်သားလော့၊ သူသည် သူတော်စင်သူတော်မြတ်ဖြစ်၏။ တမန်တော်တပါးလည်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး (အို-နဗီတမန်တော်) အသင်သည်(မိမိအမျိုးတို့ရှေ့ဝယ်ဤ) ကျမ်းဂန်မှ (နဗီတမန်တော်)အစ်ဗ်ရာဟီမ်(၏အကြောင်းအတ္ထုပ္ပတ္တိ)ကို ဖတ်ကြားပါလေ။ ဧကန်မလွဲ ထိုအစ်ဗ်ရာဟီမ်သည် သစ္စာဝါဒီ ဖြစ်ခဲ့ပေသည်။ နဗီတမန်တော်လည်း ဖြစ်ခဲ့ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

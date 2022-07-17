@@ -710,6 +710,12 @@ Allakh izlichava i utvŭrzhdava, kakvoto pozhelae, i u Nego e Knigata-maĭka
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	အလ္လာဟ်အရှင်မြတ်သည် အလိုတော်ရှိရာကို ဖျက်သိမ်းတော်မူ၏။ အလိုတော်ရှိရာကို အတည်ပြုတော်မူ၏။ ပညတ်အမိန့်တော်အပေါင်းတို့၏ စတည်ရာသည် အရှင်မြတ်နှင့်ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် မိမိအလိုရှိတော်မူသောအရာကို ဖျောက်ဖျက်တော်မူလေသည်။ ထိုနည်းတူစွာထိုအရှင်မြတ်သည် (မိမိအလိုရှိတော်မူသောအရာကို) တည်တန့်စေတော်မူလေသည်။ စင်စစ်မူရင်း (မှတ်တမ်း)စာအုပ်မှာမူကား ထိုအရှင် မြတ်အထံတော်၌သာလျှင် ရှိပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

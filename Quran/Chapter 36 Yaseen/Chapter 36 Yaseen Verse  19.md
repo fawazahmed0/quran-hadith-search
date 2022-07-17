@@ -710,6 +710,12 @@ Rekokha: “Zlochestieto vi e ot samite vas. Nima da vi se napomnya [e zlochesti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	တမန်တော်တို့ပြန်ချေပြောပြသည်မှာ သင်တို့၏ အတိတ်ဆိုး၊ နိမိတ်ဆိုးများမှာ သင်တို့ကြောင့်သာလျှင် ဖြစ်ပေါ် လာကြ၏၊ သင်တို့အား သမ္မာတရားတော်ကို ပြသသွန်သင်ဆုံးမခြင်းကို သင်တို့သည် မကောင်းဆိုးဝါးသော အတိနိမိတ်ဟု ထင်မှတ်ကြသလော၊ ထိုသို့မဖြစ်နိုင်ချေ၊ သင်တို့သည် မှန်သောတရားတော်ကို အလွန်အကျူး ဖောက်ဖျက်သူများသာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ရစူလ်တမန်တော်တို့က (ဤသို့) ပြောဆို(ဖြေကြား)ခဲ့ကြကုန်၏။ "အချင်းတို့၊ အသင်တို့၏ မကောင်းသော အတိတ်နိမိတ်သည် အသင်တို့၌ပင် ရှိနေပေသည်။ အသင်တို့ ဆုံးမဩဝါဒပေးခြင်းကို ခံခဲ့ကြရခြင်းသည်(မကောင်းသော အတိတ်နိမိတ်ပင်) ဖြစ်လေသလော။ ထိုသို့အလျှင်းမဟုတ်၊ စင်စစ်မှာကား အသင်တို့သည်သာလျှင် စည်းကမ်း ဖောက်ဖျက်သူများ ဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

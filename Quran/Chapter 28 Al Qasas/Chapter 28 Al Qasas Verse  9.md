@@ -710,6 +710,12 @@ I zhenata na Faraona mu reche: “Radost za okoto - na men i na teb! Ne go ubiva
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	ထို့အပြင်ဖွာရောမင်း၏ မိဖုရားကြီးက အရှင်မင်းကြီး၊ ဤသူငယ်သည် အရှင်မင်းကြီးနှင့်ကျွနု်ပ်အဖို့ စိတ်နှစ်သိမ့့် ဖြေဖျော်စရာဖြစ်ပေမည်၊ သူ့အား မသတ်ပါလင့်၊ သူသည် အကျွနု်ပ်တို့အတွက် အသုံးကျကောင်းကျပေမည်၊ သို့မဟုတ် အကျွနု်ပ်တို့သည် သူ့အား သားအဖြစ် မွေးစားကောင်းမွေးစားပေမည်ဟု ပြော၏၊ သို့သော်သူတို့သည် မသိကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ဖစ်ရ်အောင်န်၏ကြင်ရာက ကျွန်ုပ်၏အဖို့လည်းကောင်း၊ အသင်၏အဖို့လည်းကောင်း၊ မျက်စိအေးမြစေဖွယ်ဖြစ်ပေသည်။ (သို့ဖြစ်ပေရာ) အသင်တို့သည် ထိုမူစာအား မသတ်ဖြတ်ကြကုန်လင့်။ ၎င်းသည် ကျွန်ုပ်တို့အား အကျိုးပေးကောင်းပေးလိမ့်မည်။ သို့တည်းမဟုတ် ကျွန်ုပ်တို့သည် ၎င်းအား သားအဖြစ် မွေးစားထားကြမည်ဟု ပြောဆိုခဲ့လေ၏။ စင်စစ်သော်ကား ၎င်းတို့သည် (မိမိတို့မှာ ထိုသူငယ်လက်ချက်နှင့် ပျက်စီးကြရမည်ကို) မသိကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

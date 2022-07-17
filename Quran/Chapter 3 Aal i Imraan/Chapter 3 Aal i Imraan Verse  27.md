@@ -710,6 +710,12 @@ Ti vŭvezhdash noshtta v denya i Ti vŭvezhdash denya v noshtta, i izvazhdash zh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	အသျှင်သည် ညဉ့်ကို နေ့အတွင်းသို့ ဝင်စေတော်မူပါ၏။ နေ့ကိုလည်း ညဉ့်အတွင်းသို့ ဝင်စေတော် မူပါ၏။ သက်ရှိကို သက်မဲ့မှ ဖန်ဆင်းတော်မူပါ၏။ သက်မဲ့ကို သက်ရှိမှ ဖြစ်စေတော်မူပါ၏။ အလိုတော်ရှိသူအား စားနပ်ရိက္ခာကို အတိုင်းအထွာ ပမာဏမရှိ မတွန့်တိုဘဲ ပေးသနားတော်မူပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အရှင်မြတ်သည် (အချို့ဥတုရာသီ၌) ညဉ့်(၏အစိတ်အပိုင်း)ကို နေ့၏အတွင်း၌ထည့်သွင်း တော်မူလေသည်။ထိုနည်းတူစွာ (အချို့ရာသီဥတု၌) နေ့(၏အစိတ်အပိုင်း)ကိုညဉ့်၏အတွင်း၌ ထည့်သွင်းတော်မူလေသည်။ ထို့ပြင် အရှင်မြတ်သည် သက်မဲ့မှ သက်ရှိကို ထုတ်တော်မူ၏။ ထိုနည်းပမာသက်ရှိမှသက်မဲ့ကို ထုတ်တော်မူ၏။ ထိုမှတစ်ပါးတုံ အရှင်မြတ်သည် မိမိနှစ်လိုတော်မူသော သူအား အသချေင်္ အသချင်္ာအရေအတွက်မရှိ ရိက္ခာပေးသနားတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

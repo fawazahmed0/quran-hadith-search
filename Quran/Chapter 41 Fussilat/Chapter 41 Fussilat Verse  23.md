@@ -710,6 +710,12 @@ Tazi vasha dogadka, koyato dopuskakhte za vashiya Gospod, vi donese gibel i taka
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	သင်တို့၏ အရှင်သခင်အား ယင်းသို့တွေးတောထင်မြင်ခြင်းသည် သင်တို့ကို ဖျက်ဆီးခဲ့ပြီ၊ ယခုမှာမူကား သင်တို့သည် ပျက်စီးခြင်းမကပျက်စီးသောသူတို့ဘောင်တွင် ပါဝင်ကြပြီဟု ပြောကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အသင်တို့သည် မိမိတို့အားဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်နှင့်ပတ်သက်၍ ထင်မြင်ယူဆခဲ့ကြသော ထိုထင်မြင်ယူဆချက်သည်ပင်လျှင် အသင်တို့အား ဖျက်ဆီးခဲ့လေ၏။ သို့ဖြစ်ပေရာ အသင်တို့သည်ပျက်စီးဆုံးရှုံးသူများပင် ဖြစ်ခဲ့ကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A otmetnat li se, kazhi: “Dostatŭchen mi e Allakh! Nyama drug Bog osven Nego!
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၉။	အို-မိုဟမ္မဒ်၊ သူတို့သည် လှည့်သွားလျှင် သင်ဟောကြားလော့၊ အလ္လာဟ်အရှင်မြတ်သည် အကျွနု်ပ်အတွက် လုံလောက်တော်မူ၏။အရှင်မြတ်မှတပါး အခြားအရှင်သခင်မရှိပေ။အရှင်မြတ်ကိုသာလျှင် အကျွနု်ပ်သည် ယုံကြည်ကိုးစား၏။အရှင်မြတ်သည် အလွန်ကြီးကျယ်မြင့်မြတ်သောရာဇပလ္လင်တော်၏ အရှင်သခင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တဖန် အကယ်၍ ၎င်းတို့သည် (သိနားလည်ပါလျက်နှင့်ယုံကြည်လိုက်နာခြင်းမရှိပဲ) ပြန်လှည့်၍ သွားခဲ့ကြပါလျှင် အသင်သည် (၎င်းတို့အား ဤသို့ ပြောကြားပါလေ)ငါတို့အဖို့ အလ္လာဟ်အရှင်မြတ်သည် (အဖက်ဖက်မှ) လုံလောက်တော်မူပေသည်၊ ထိုအရှင်မြတ်မှတစ်ပါး ကိုးကွယ်ရာအရှင်ဟူ၍ အလျင်းမရှိ။ ထိုအရှင်မြတ်အပေါ်၌သာလျှင်ငါသည် (အစစအရာရာတွင် လုံးဝ)ယုံကြည် လွှဲအပ်ခဲ့လေပြီ၊ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် ကြီးကျယ်မြင့်မြတ် လှစွာသောအရ်ရ်ှပလ္လင်တော်ကို စိုးပိုင်တော်မူ သောအရှင်လည်း ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

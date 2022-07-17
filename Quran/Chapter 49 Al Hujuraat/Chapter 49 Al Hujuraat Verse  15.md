@@ -710,6 +710,12 @@ Vyarvashti sa imenno onezi, koito vyarvat v Allakh i v Negoviya Pratenik, posle 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	အကြင်သူတို့သည် အလ္လာဟ်အရှင်မြတ်ကိုသော်လည်းကောင်း၊ အရှင်မြတ်၏ တမန်တော်ကိုသော်လည်းကောင်း၊ ယုံကြည်ကြ၏၊ ထို့နောက်သံသယမရှိ၊ အရှင်မြတ်၏ သာသနာအရေးတော်အတွက် မိမိအသက်၊ စည်းစိမ်ဥစ္စာ အားဖြင့် အားထုတ်ကြိုးစားကြ၏၊ ထိုသူသာလျှင် ယုံကြည်သူအစစ်ဖြစ်ကြ၏၊ ဤသူများသာလျှင် သစ္စာရှိသူများ ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကြင်သူတို့သည်သာလျှင်(ပြည့်ဝစုံလင်သော)’မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူများ ဖြစ်ကြကုန်၏။ ထိုသူတို့သည် အလ္လာဟ်အရှင်မြတ်အားလည်းကောင်း၊ ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော်မြတ်အားလည်းကောင်း၊ သက်ဝင်ယုံကြည်ခဲ့ကြသည်။ ပြီးနောက် ၎င်းတို့သည် သံသယ ဖြစ်ခဲ့ကြသည် မရှိချေ။ထိုမှတစ်ပါး ထိုသူတို့သည် မိမိတို့၏ပစ္စည်းဥစ္စာများဖြင့် လည်းကောင်း၊ မိမိတို့၏ အသက်ဇီဝိန်များဖြင့်လည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ်၏လမ်းတော်၌ သက်စွန့်ကြိုးပမ်း ဆောင်ရွက်ခဲ့ကြကုန်၏။ ထိုသူတို့သည်သာလျှင် သစ္စာဝါဒီများ ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

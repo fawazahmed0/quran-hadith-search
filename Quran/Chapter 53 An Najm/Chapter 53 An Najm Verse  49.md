@@ -710,6 +710,12 @@ i Toĭ e Gospodŭt na Sirius
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	ထို့အပြင်အရှင်မြတ်သည် ဆီရီရတ်(စ်)ခေါ် ကြယ်နက္ခတ်တာရာတို့၏ အရှင်သခင်ဖြစ်တော်မူကြောင်းလည်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ် ထိုအရှင်မြတ်သည်ပင် ‘ရှစ်အ်ရာ’(လုဒ္ဒက)ကြယ်ကို ဖန်ဆင်းတော်မူသော အရှင်မြတ် ဖြစ်တော်မူသည် ဟူ၍လည်းကောင်း၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

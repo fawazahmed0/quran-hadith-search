@@ -710,6 +710,12 @@ Reche [Faraonŭt]: “Daĭ go, ako kazvash istinata!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	ထိုအခါဖွာရောမင်းက အို--မူစာ၊ သင်အမှန်ကို ဆိုလျှင် သင်ပြောသောအရာကို ပြလော့ဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုဖစ်ရ်အောင်န်က(အို-မူစာ၊)သို့ဖြစ်လျှင် အကယ်၍ အသင်သည် အမှန်ဆိုသူတစ်ဦးဖြစ်ပါမူ ထိုအရာ (မုအ်ဂျီဇဟ်)ကို ယူခဲ့ပါဟု ပြောဆိုခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

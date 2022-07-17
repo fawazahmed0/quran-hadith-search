@@ -710,6 +710,12 @@ Pretŭrpyakha zaguba onezi, koito ot bezumie ubivakha svoite rozhbi v nevedenie 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၀။	အကြင်သူတို့သည် အသိဉာဏ်ကင်းမဲ့၍ မိုက်မဲခြင်းဖြင့် မိမိတို့ ရင်သွေးများကို သတ်ဖြတ်ကြ၏။ အလ္လာဟ်အသျှင်မြတ်၏ နာမတော်ကို အလွဲသုံးစားကြ၏။ အသျှင်မြတ်ပေးသနားတော်မူသော ကျေးဇူးတော်ကို မသုံးမစွဲ တရားမဝင် အမင်္ဂလာဟုဆိုကြ၏။ ထိုသူတို့သည် ဆုံးရှုံးပျက်စီးသူများ ဖြစ်ကြ၏။ သူတို့သည် လမ်းမှားသို့ရောက်ကြ၏။ နည်းပြလမ်းညွှန် အလင်းရောင်ကိုမရသူများ ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတို့သည် မချွတ်ဧကန် ဆုံးရှုံးခဲ့ကြချေပြီ။ ထိုသူတို့သည် မိမိတို့၏သားသမီးများကို အသိပညာမရှိဘဲမိုက်မဲစွာသတ်ဖြတ်ကြကုန်၏။ ၎င်းပြင် ထိုသူတို့သည် အလ္လာဟ်အရှင်မြတ်က မိမိတို့အား ချီးမြှင့်ပေးသနားတော်မူသော အရာများကို (ထို)အလ္လာဟ်အရှင်မြတ်အပေါ်၌ လီဆယ် ပြောဆိုကာဟရာမ်’ ခွင့်မပြုသောအရာများဟူ၍ သတ်မှတ်ကုန်ကြ၏။မုချဧကန်ထိုသူတို့သည် လမ်းမှားခဲ့ကြလေပြီ။ စင်စစ်တမူကား၊၎င်းတို့သည် (ယခင်မူလကလည်း) လမ်းမှန်ကို လိုက်ဘူးသောသူများ မဖြစ်ခဲ့ကြချေ။(ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

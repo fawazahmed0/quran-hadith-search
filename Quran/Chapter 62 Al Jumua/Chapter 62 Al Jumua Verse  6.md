@@ -710,6 +710,12 @@ Kazhi: “O, yudei, shtom tvŭrdite, che vie ste blizhnite na Allakh bez drugite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။ အို-တမန်တော်၊ ယဟူဒီမလူမျိုးတို့အား ဤသို့ပြောဆိုလော့၊ အို-အချင်းယဟူဒီတို့၊ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အား အခြားလူမျိုးတို့ထက် သာလွန်မြတ်နိုးတော်မူသည်ဟု သင်တို့ဆိုလျှင် သင်တို့သည် မှန်သောစကားကို ဆိုသူဖြစ်သော် ယခုချက်ချင်းသေလိုကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ပြောကြားပါလေ။ အို-'ရေဝတီ' ဖြစ်ကြသောသူတို့၊ အကယ်၍ အသင်တို့သည် အခြားသူများမပါဘဲ မိမိတို့သည်သာလျှင် အလ္လာဟ်အရှင်မြတ်၏အချစ်တော်များ ဖြစ်ကြသည်ဟု ထင်မှတ်ကြလျှင်၊ အကယ်၍ အသင်တို့သည် (ယင်းသို့ ထင်မှတ်ပြောဆိုရာ၌)သစ္စာဝါဒီများ ဖြစ်ကြလျှင်၊ ‘မရဏ’ သေခြင်းတရားကို တောင့်တ ဆန္ဒပြုကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

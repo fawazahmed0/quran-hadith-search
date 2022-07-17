@@ -710,6 +710,12 @@ Toĭ e Vsevlastvashtiya nad Svoite rabi, Toĭ e Premŭdriya, Svedushtiya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	အသျှင်မြတ်သည် မိမိကျေးတော်မျိုး၊ ကျွန်တော်မျိုးတို့ကို အနန္တတန်ခိုးတော်အားဖြင့် လွှမ်းမိုးထား တော်မူ၏။ အသျှင်မြတ်သည် ဉာဏ်ပညာရှိတော်မူသောအသျှင်၊ သိတော်မူသောအသျှင်ဖြစ်တော် မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုအရှင်မြတ်သည် မိမိကျွန်များအပေါ်ဝယ် နိုင်နင်းလွှမ်းမိုးတော်မူသော အရှင်မြတ်လည်းဖြစ် တော်မူပေသည်။ ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် ဉာဏ်အမြော်အမြင်နှင့် အလွန်ပြည့်စုံတော်မူသောအရှင်၊ (သတင်းအလုံးစုံတို့ကို) အကြွင်းမဲ့ ကြားသိတော်မူသောအရှင်မြတ်လည်း ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I da ne te naskŭrbyavat slovata im! Nie naĭ-dobre znaem kakvo spotaĭvat i k
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၆။	အို-တမန်တော်၊ ထိုမိစ္ဆာဒိဋ္ဌိတို့ ပုတ်ခတ်ထိပါးပြောဆိုသောစကားရပ်များကြောင့် သင်သည် စိတ်နှလုံးမချမ်း မသာမညှိုးငယ်လင့်၊ အမှန်ကိုဆိုသော် ငါသည် ထိုသူယုတ်တို့၏ စိတ်နှလုံးတွင် လျှို့ဝှက်ထားသောအရာများကို လည်းကောင်း ထုတ်ပြောဆိုသောအရာများကိုလည်းကောင်း အကြွင်းမဲ့သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်) ထိုသူတို့၏ပြောဆိုမှုသည် အသင့်အား စိတ်နှလုံးမချမ်းမြေ့ မဖြစ်စေရ။ဧကန်အမှန် ထိုသူတို့ လျှို့ဝှက်သမျှတို့ ကိုလည်းကောင်း၊ ထိုသူတို့ ထင်ရှားစေသမျှတို့ကိုလည်းကောင်း၊ ငါအရှင်မြတ်သည်(အကြွင်းမဲ့) သိရှိတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

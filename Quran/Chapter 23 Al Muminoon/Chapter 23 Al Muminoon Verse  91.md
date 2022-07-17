@@ -710,6 +710,12 @@ Allakh ne se sdobi sŭs sin i nyama drug bog zaedno s Nego. Inache vseki bog sht
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၁။	အလ္လာဟ်အရှင်မြတ်သည် သားသမီးရှိခြင်း၊ အညစ်အကြေးမှ ကင်းစင်တော်မူ၏၊ အရှင်မြတ်နှင့်တွဲဖက်၍ ဘုရားမရှိချေ၊ ရှိပါလျှင် ထိုဘုရားတိုင်းသည် မိမိဖန်ဆင်းတော်မူသောအရာများကို လွှမ်းမိုးဧကန်အားပေး စောင်မလတ့ံ၊ အချို့ဘုရားများက အချို့သောဘုရားများကို လွှမ်းမိုးနိုင်နင်းကြလတ့ံ၊ အလ္လာဟ်အရှင်မြတ်သည် မိစ္ဆာဒိဌိတို့စွပ်စွဲသောအညစ်အကြေးတို့မှ သန့်ရှင်းတော်မူထသောအရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် သားတော်ဟူ၍ တစ်ဦးတစ်ယောက်မျှပင် ရွေးချယ်ပြုလုပ်ထားတော်မူသည် မဟုတ်ပေ။ ထိုနည်းတူစွာ ထိုအရှင်နှင့်အတူ ကိုးကွယ်ရာဟူ၍လည်း (အခြား) တစ်ဦးတစ်ယောက်မျှပင် အလျှင်းမရှိချေ။ သို့ရှိခဲ့ပါမူ ကိုးကွယ်ရာတိုင်းသည် မိမိဖန်ဆင်းထားသာ အရာခပ်သိမ်းတို့ကို အမှန်ပင် ခေါ်ဆောင်၍ ထွက်ခွာသွားခဲ့မည်သာမက၊ ထိုကိုးကွယ်ရာတို့အနက် တစ်ဦးသည် တစ်ဦး၏အပေါ်၌ မုချလွှမ်းမိုးခဲ့မည်သာ။ အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့ ကြံဖန်စွပ်စွဲ ပြောဆိုကြကုန်သော အကြောင်းကိစ္စတို့မှ လုံးဝစင်ကြယ်သန့်ရှင်းတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Na vseki vyarvasht, mŭzh ili zhena, koĭto izvŭrshva pravedno delo, Nie shte 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၇။	အကြင်ယောက်ျားဖြစ်စေ၊ မိန်းမဖြစ်စေ၊ တရားမှန်ကန်မှုကို ပြကျင့်လျက် ယုံကြည်သူဖြစ်အ့ံ၊ ငါအရှင်မြတ်သည် သူူ့အား သာယာမွန်မြတ်ဆုံးသောအကျင့်သီလအတိုင်း လျော်ကြေးပေးသနားတော်မူလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သူမဆို ယောက်ျားဖြစ်စေ၊ မိန်းမဖြစ်စေ(မုအ်မင်န်အဖြစ်နှင့်) ကောင်းမြတ်သောအကျင့်သီလကို ကျင့်မူဆောက်တည်ခဲ့သော်၊ ၎င်းပြင် ထိုသူသည် မုအ်မင်န် သက်ဝင်ယုံကြည်သူ(လည်း)ဖြစ်ခဲ့သော် မလွဲဧကန် ငါအရှင်မြတ်သည်ထိုသူအား သန့်ရှင်းစင်ကြယ်သောအသက်ရှင်ခြင်းမျိုးဖြင့်အသက်ရှင်စေတော်မူပေမည်။ ထိုမှတစ်ပါး မုချစင်စစ် ငါအရှင်မြတ်သည် ထိုသူတို့အား ၎င်းတို့၏အကျိုးကို ၎င်းတို့ကျင့်မူဆောက်တည်လျက်ရှိခဲ့ကြကုန်သော ကောင်းမြတ်သောအကျင့်သီလနှင့်လျော်ညီစွာ ချီးမြှင့်တော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

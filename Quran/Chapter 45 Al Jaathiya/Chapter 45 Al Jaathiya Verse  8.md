@@ -710,6 +710,12 @@ Chuva toĭ znameniyata na Allakh da mu se chetat, posle nadmenno uporstva, syak
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	ထိုသူသည် မိမိအား ရွတ်ဖတ်ပြသော အလ္လာဟ်အရှင်မြတ်၏ နှုတ်ကပတ်တော်များကို ကြားသော်လည်း မကြားသကဲ့သို့ အလေးမပြု မော်ကြွားနေ၏၊ ထို့ကြောင့်အေ-တမန်တော်၊ သင်သည် ထိုသူအား အလွန်ပြင်းပြ နာကျင်ဖွယ်သောအပြစ်ဒဏ်အကြောင်း သတင်းကို ပေးလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူသည် မိမိရှေ့ဝယ် ဖတ်ကြားပြသော အလ္လာဟ်အရှင်မြတ်၏ အာယတ်တော်များကို နားထောင်လေ၏။ သို့ပါလျက် ၎င်းမှာ ယင်းအာယတ်တော်များကို မကြားခဲ့ဘိသကဲ့သို့ပင် (မိမိ၏ဝါဒလမ်းစဉ်ပေါ်၌သာလျှင်) မာန်မာန ထောင်လွှားကာ ဆက်လက်တင်းမာ၍သာ နေလေ၏။ သို့ဖြစ်ပေရာ(အို-နဗီ တမန်တော်) အသင်သည် ၎င်းအား အလွန်တရာနာကျင်ဖွယ်ဖြစ်သော ပြစ်ဒဏ်နှင့် စပ်လျဉ်း၍ သတင်းကောင်း ပြောကြားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

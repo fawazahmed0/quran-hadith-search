@@ -710,6 +710,12 @@ A stigna li do teb vestta za sporeshtite, kogato se pokaterikha v svetilishteto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	ထို့အပြင်အို-တမန်တော်၊ တမန်တော်ဒါဝတ်(ဒ်)ထံ ထရားစွဲဆိုရန် လာကြသူတို့၏ အကြောင်းအရာများကို သင်ကြားရပြီလော၊ ထိုအမှုသည်တို့သည် တံတိုင်းပြဿဒ်ကို ချိပ်တက်ကျော်နင်းပြီးလျှင် ဘုရင်မင်းမြတ်၏ အခမး်တော်ထဲသို့ ဝင်လာကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (အို-နဗီတမန်တော်)အသင့်ထံ ပဋိပက္ခဖြစ်သူများ၏ အကြောင်းသတင်းသည် ရောက်လာလေသလော။ တစ်ရံရောအခါဝယ် ထိုပဋိပက္ခဖြစ်သူတို့သည် နံရံကိုကျော်တက်၍ ဝတ်ပြုဆောင်ထဲသို့ ခုန်ချခဲ့ကြလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

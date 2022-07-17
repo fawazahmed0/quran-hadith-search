@@ -710,6 +710,12 @@ I procheti im vestta za onzi, na kogoto darikhme Nashite znameniya, a toĭ se i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇၅။	အကြင်သူအား ငါအသျှင်မြတ်သည် ကျမ်းတော်မြတ်ကို ချပေးသနားတော်မူ၏။ ထိုသူသည် ကျမ်းတော်ကို မလေးမစားကျောခိုင်းနေ၏။ ထို့ကြောင့် ရှိုင်တာန်မာရ်နတ်သည် သူ့ကို ဖမ်းဆီး၏။ သူသည် လမ်းမှားရောက်သောသူတို့ဘောင်တွင် အပါအဝင်ဖြစ်၏။ ဤသူ၏ အကြောင်းအရာကို ဟောကြားလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (အို-နဗီတမန်တော်) အသင်သည်ထိုသူတို့ရှေ့ဝယ် အကြင်သူ၏အကြောင်းကို ဖတ်ကြား ပါလေ။ငါအရှင်မြတ်သည် ထိုသူအား မိမိသက်သေလက္ခဏာများ (ဝါ)အမိန့်ပညတ်တော်များ၏ အသိပညာကို ချီးမြှင့်ပေးသနားတော်မူခဲ့လေသည်။ တဖန် ထိုသူသည် ယင်းသက်သေလက္ခဏာများကိုစွန့်၍ ထွက်သွားခဲ့လေသည်။ သို့ဖြစ်ရာ ရှိုင်တွာန် မိစ္ဆာကောင်သည် ၎င်း၏နောက်သို့ လိုက်ပါခဲ့လေသည်။ ထို့နောက်၎င်းသည် လမ်းမှားသူတို့တွင် အပါအဝင် ဖြစ်ခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

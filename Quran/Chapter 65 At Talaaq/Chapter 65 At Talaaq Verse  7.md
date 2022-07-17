@@ -710,6 +710,12 @@ Zamozhniyat da dade [za zhenata i deteto] spored svoite vŭzmozhnosti! I komuto 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။ လင်ကွာမိန်းမတို့အား ပေးကမ်းရာ၌ ဥစ္စာကြွယ်ဝသော ယောကျာ်းသည် မိမိဥစ္စာ ကြွယ်ဝသည့်အလျောက် ပေး ကမ်းလော့၊ ဆင်းရဲနွမ်းပါးသူလည်း မိမိဥစ္စာအင်အားအလျောက် ထောက်ပံ့လော့၊ အလ္လာဟ်အရှင်မြတ်သည် မည်သူထံမှ အရှင်မြတ်ပေးသနားတော်မူသောဥစ္စာမှတပါး အခြားဥစ္စာကို တောင်းတော်မမူချေ၊ အလ္လာဟ်အရှင် မြတ်သည် ဆင်းရဲဒုက္ခနောက်၊ ချမ်းသာသုခကို ပေးသနားတော်မူလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကြွယ်ဝချမ်းသာသောသူသည် မိမိကြွယ်ဝမှု နှင့်လျော်ညီစွာ သုံးစွဲရပေမည်။ သို့ရာတွင် စီးပွား ဥစ္စာကျပ်တည်းသော သူမှာမူကား မိမိအား အလ္လာဟ်အရှင်မြတ် ချီးမြှင့်ပေးသနားတော်မူသမျှ (ဥစ္စာပစ္စည်း)အနက်မှ သုံးစွဲရပေမည်။ အလ္လာဟ်အရှင်မြတ်သည် မည်သူတစ်ဦး တစ်ယောက်ကိုမျှပင် မိမိချီးမြှင့်ပေးသနားတော်မူသည်ထက်ပို၍ တာဝန်ပေးသည်မဟုတ်ပေ။ အလ္လာဟ်အရှင်မြတ်သည် ကျပ်တည်းမှု၏နောက်တွင် မကြာမြင့်မီပင် ချောင် လည်မှုကို ဖန်တီး၍ ပေးသနားတော်မူအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

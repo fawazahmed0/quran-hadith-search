@@ -710,6 +710,12 @@ Chiito vezni natezhat, tezi sa spoluchilite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၂။	ထိုနေ့တော်ကြီး၌ အကြင်သူတို့၏ စည်းချိန်သည် လေးလံအ့ံ၊ ထိုသူတို့သည် အောင်မြင်ရသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ကြောင့် (ထိုနေ့တွင် ကောင်းမှုဘက်၌) အလေးချိန်သာသော သူတို့သည်သာလျှင် အောင်မြင်မှုရရှိသူများ ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

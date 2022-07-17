@@ -710,6 +710,12 @@ V Denya na vŭzkresenieto shte vidish onezi, koito lŭzhekha za Allakh, s pocher
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆ဝ။	အို-မိုဟမ္မဒ်၊ ရှင်ပြန်ထမြောက်ရသောနေ့တော်ကြီး၌ အလ္လာဟ်အရှင်မြတ်နှင့်စပ်လျဉ်း၍ မဟုတ်မလျားမုသား ဆိုသူတို့အား လွန်စွာမည်းနက်သောမျက်နှာများနှင့် သင်မြင်ရ၏၊ တရားတော်ကို စက်ဆုတ်ရွံရှာမလေးမခန့် သူတို့၏ နေအိမ်သည် အဝီစီငရဲမဟုတ်ပေလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား (အို-နဗီတမန်တော်၊) အသင်သည် "ကိယာမတ်"ရှင်ပြန်ထမည့်နေ့တွင် အလ္လာဟ်အရှင်မြတ်အပေါ်၌ မုသားပြောဆိုစွပ်စွဲခဲ့ကြ ကုန်သောသူတို့အား၊ ၎င်းတို့၏မျက်နှာတို့မှာ မည်း၍နေကြသည်ကို တွေ့မြင်ပေမည်။ မာန်မာနထောင်လွှား ကြသောသူတို့၏ နေထိုင်ရာဌာနသည် "ဂျဟန္နမ်" ငရဲဘုံ၌ ရှိသည်မဟုတ်လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

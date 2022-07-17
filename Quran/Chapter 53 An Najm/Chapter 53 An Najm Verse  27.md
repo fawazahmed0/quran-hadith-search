@@ -710,6 +710,12 @@ Onezi, koito ne vyarvat v otvŭdnoto, nazovavat angelite s zhenski imena
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။ မှတ်သားကြလော့၊ နောင်တမလွန်ဘဝကို မယုံကြည်သောသူတို့သာလျှင် ကောင်းကင်တမန်များအား မိန်းမတို့ အမည်ကို ပေးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ‘အာခိရတ်’တမလွန်ကို မယုံကြည်သော သူတို့သည် ‘မလာအိကဟ်’ ကောင်းကင်တမန်တို့အား မိန်းမများ၏ အမည်နာမများဖြင့် မှည့်ခေါ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

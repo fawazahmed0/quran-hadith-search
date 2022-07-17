@@ -710,6 +710,12 @@ Nima chovek smyata, che Nie ne shte sŭberem kostite mu
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။ အို-တမန်တော်၊ လူသားသည် သူ၏ အရိုးအရေများကို ငါစုပေါင်းတော်မူမည်မဟုတ်ဟု ထင်သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 လူသားသည် ၎င်း၏အရိုးများကို ငါအရှင်မြတ် စုပေါင်းတော်မူမည်မဟုတ်ဟု ထင်မှတ်၍နေ လေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

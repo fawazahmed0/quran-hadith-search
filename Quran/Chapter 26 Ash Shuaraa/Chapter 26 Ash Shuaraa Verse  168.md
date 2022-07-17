@@ -710,6 +710,12 @@ Kaza: “Az mrazya vasheto deyanie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၈။	ထိုအခါသူက ဟယ်-အချင်းတို့၊ အမှန်မှာ ငါသည် သင်တို့အပြုအမူကို မုန်းထားသောသူတို့ဘောင်တွင် ပါဝင်၏ဟု ပြန်ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုလူ(တ်)က (အချင်းတို့၊) ဧကန်အမှန် ငါသည် အသင်တို့၏အကျင့်အမူကို လွန်စွာစက်ဆုပ်သူတစ်ဦးပင် ဖြစ်သည်ဟု ပြောကြားခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

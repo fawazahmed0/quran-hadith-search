@@ -710,6 +710,12 @@ I iskat ot teb [o, Mukhammad] da uskorish mŭchenieto. I ako nyamashe opredelen 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။	သူတို့သည် သင့်အား အလ္လာဟ်အရှင်မြတ်၏ အပြစ်ဒဏ်တော်ကို အဆောတလျင်ပြသရန် တောင်းဆိုကြ၏၊ အကယ်၍ငါသည် အချိန်သတ်မှတ်ထားတော်မမူခဲ့လျှင် အပြစ်ဒဏ်တော်သည် သူတို့အပေါ်သို့ မုချဧကန်ကျ ရောက်လေပြီးအ့ံ၊ အမှန်မှာ အပြစ်ဒဏ်တော်သည် သူတို့မသိမမြင်ပဲလျက် ၎င်းတို့အပေါ်သို့ လတ်တလော ရှောင်တခင်ရောက်လာအ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) ဧကန်စင်စစ် ၎င်းတို့သည် ပြစ်ဒဏ်နှင့်စပ်လျဉ်း၍ အသင့်ထံတွင် အဆောတလျင် တောင်းဆိုကြကုန်၏။ သို့ရာတွင် အကယ်၍သာ ကာလအပိုင်းအခြားတစ်ခုသည် သတ်မှတ်ပြဋ္ဌာန်းပြီး မဖြစ်ခဲ့ပါလျှင် ပြစ်ဒဏ်သည် ၎င်းတို့ထံ မုချ ဆိုက်ရောက်ခဲ့ပြီး ဖြစ်ပေမည်။ စင်စစ်သော်ကား ထိုပြစ်ဒဏ်သည် ၎င်းတို့ထံ ရုတ်တရက်မုချ ဆိုက်ရောက်လာမည်ဖြစ်၏။ ၎င်းတို့သည် (အလျှင်း) သိရှိလိုက်ကြမည်ပင် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

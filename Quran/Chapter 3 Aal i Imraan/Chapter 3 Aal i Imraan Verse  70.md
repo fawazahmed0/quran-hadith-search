@@ -710,6 +710,12 @@ O, khora na Pisanieto, zashto ne vyarvate v znameniyata na Allakh, sled kato ste
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇ဝ။	အို-ရှေးကျမ်းတော်ကိုရရှိသူတို့ သင်တို့သည် အလ္လလာဟ်၏နှုတ်ကပတ်တော်များ မှန်ကန်ကြောင်းကို ဝန်ခံပြီးနောက် အဘယ်ကြောင့် ထိုနှုတ်ကပတ်တော်များကို မယုံကြည်ကြသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-အထက်ကျမ်းဂန် ရရှိသူအပေါင်းတို့၊အသင်တို့သည် (မိမိတို့ ယုံကြည်လေးစားကြသော တောင်ရာတ် နှင့် အိန်ဂျီလ် ကျမ်းလာ) အလ္လာဟ်အရှင်မြတ်၏မုက္ခပါဋ္ဌ်တော်များကို အဘယ်ကြောင့် မယုံမကြည် သွေဖည်ငြင်းဆန်ကြ ပါသနည်း။ အမှန်စင်စစ် အသင်တို့သည် မိမိတို့ကိုယ်တိုင် ဝန်ခံပြီး ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

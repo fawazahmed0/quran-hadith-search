@@ -710,6 +710,12 @@ Nima smyatash, che [istoriyata na] khorata ot peshterata i ar-Rakim e nyakakvo c
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	သို့မဟုတ် ဂူလှိုင်တောင်ခေါင်းကိန်းအောင်းလျက်ရှိသောလူမျိုးနှင့် ၎င်းတို့၏ ကျောက်စာကမ္ဗည်းတို့သည် ငါအရှင်မြတ်၏ သာဓကတော်များအနက် အ့ံဖွယ်တပါးဖြစ်သည်ဟု သင်ထင်မှတ်သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ဥမင်လိုဏ်ခေါင်းတွင် ခို(အောင်းခဲ့)သူတို့သည် ရေးသားထားသော သင်ပုန်းရှင်တို့နှင့် ရကီမ်မြို့သားတို့သည် ငါအရှင်မြတ်၏ သက်သေ လက္ခဏာများအနက်ထူးဆန်းအံ့ဖွယ်ဖြစ်သည်ဟု အသင်ထင်မှတ်လေသလော့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

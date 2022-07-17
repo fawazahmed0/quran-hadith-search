@@ -710,6 +710,12 @@ Takava e istinata za svadata mezhdu obitatelite na Ogŭnya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၄။	မှတ်သားကြလော့၊ ငရဲသားတို့သည် အချင်းချင်းတစ်ဦးနှင့်တစ်ဦး ယင်းကဲ့သို့မုချဧကန်အငြင်းအခုန်ပြုကြ၏၊ အချင်းဖြစ်ပွားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ("ဂျဟန္နမ်"ငရဲဘုံ၌) ငရဲသားတို့အချင်းချင်း ထို(ကဲ့သို့) ပဋိပက္ခဖြစ်ခြင်းကား လုံးဝအမှန်ပင် ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

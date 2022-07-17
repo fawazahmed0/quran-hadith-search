@@ -710,6 +710,12 @@ Tova e napomnyane. Koĭto zhelae, poema pŭtya kŭm svoya Gospod
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။ စင်စစ်အားဖြင့် ဤအကြောင်းအရာသည် အဆုံးအမတော် တစ်ပါးဖြစ်၏၊ ထို့ကြောင့်ရွေးချင်သူသည် မိမိအရှင် သခင်အထံတော်သို့ သွားရာလမ်းကို ရွေးကောက်စေကြကုန်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ဤ(အာယတ်တော်များ)ကား ဆုံးမဩဝါဒ(များ)ပင်ဖြစ်၏။ သို့ဖြစ်ပေရာ အလိုရှိသောသူသည် ၎င်းအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်သို့(သွားရာ)လမ်းကို ရွေးချယ်ရာ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

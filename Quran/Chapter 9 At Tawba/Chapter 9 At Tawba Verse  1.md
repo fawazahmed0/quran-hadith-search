@@ -710,6 +710,12 @@ Snemane ot Allakh i ot Negoviya Pratenik na zadŭlzheniyata spryamo sŭdruzhavas
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။	သင်တို့မဟာမိတ်စာချုပ်ချုပ်ဆိုထားသောဆင်းထုကိုးကွယ်သူများအပေါ် ပြုအပ်သောတာဝန်မှ လွတ်ကြောင်းကို အလ္လာဟ်နှင့် အရှင်မြတ်၏ တမန်တော်မြတ်တို့သည် ကြေငြာ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည် အလ္လာဟ်အရှင်မြတ် အထံတော်မှလည်းကောင်း၊ ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော် မြတ်အထံတော်မှလည်းကောင်း၊ အသင်တို့ (ကာလအပိုင်းအခြားမရှိ)ပဋိညာဉ်စာချုပ် ချုပ်ဆိုခဲ့ကြ သော’မုရှ်ရစ်က်’ တို့အား (၎င်းတို့၏ ပဋိညာဉ်စာချုပ်နှင့်စပ်လျဉ်း၍) လုံးဝတာဝန်ကင်းကြောင်း(ကြေငြာခြင်းပင်) ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

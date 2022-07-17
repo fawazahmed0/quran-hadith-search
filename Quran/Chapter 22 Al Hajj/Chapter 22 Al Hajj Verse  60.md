@@ -710,6 +710,12 @@ Taka e! A koĭto nakazhe sŭs sŭshtoto, s kakvoto e bil nakazan, posle otnovo 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆ဝ။	ယင်းသို့အမှန်ဖြစ်၏၊ ထို့အပြင်အကြင်သူသည် မိမိနစ်နာဆုံးရှုံးရသလောက် လက်စားချေလို၏၊ ထို့နောက် သူသည် တဖန်မတရားညှင်းဆဲခြင်းကို ခံရအ့ံ၊ အလ္လာဟ်အရှင်မြတ်သည် ထိုသူအား စောင်မတော်မူအ့ံ၊ မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် နူးည့ံသိမ်မွေ့တော်မူ၏၊ အပြစ်လွှတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည်ပင်(အသင့်အား ငါအရှင် ပြောကြားတော်မူသော အရေးကိစ္စများဖြစ်၏)။ ၎င်းပြင် အကြင်သူသည် မိမိဒုက္ခပေးခြင်းကို ခံခဲ့ရသည်နှင့် အညီအမျှ ပြန်လှန်ဒုက္ခပေးခဲ့လေသည်။ ထို့နောက်တစ်ဖန် ထိုသူသည် ကျူးလွန်စော်ကားခြင်းကို ခံခဲ့ရပြန်သည်ရှိသော် မချွတ်ဧကန် အလ္လာဟ်အရှင်မြတ်သည် ထိုသူအား ကူညီတော်မူမည်ဖြစ်၏။ ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အလွန်တရာ ခွင့်လွှတ်တော်မူသောအရှင်၊အလွန်တရာ အပြစ်မှလွတ်ငြိမ်းချမ်းသာခွင့် ပေးသနားတော်မူသောအရှင် အမှန်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

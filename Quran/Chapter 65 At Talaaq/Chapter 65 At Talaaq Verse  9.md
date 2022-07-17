@@ -710,6 +710,12 @@ I vkusikha te pagubnostta na svoeto delo. I posleditsata na deloto im be zaguba
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။ ထို့ကြောင့်သူတို့သည် မိမိတို့ပြုကျင့်မှု၏ မကောင်းကျိုးများကို မြည်းကြရ၏၊ သူတို့အပြုအမူ၏ အကျိုးကား ဆုံးရှုံးခြင်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သို့ပင်ဖြစ်စေ ယင်းမြို့(သူ)ရွာ(သား)တို့မှာ မိမိတို့၏ အမှုကိစ္စများနှင့်စပ်လျဉ်း၍ ပြစ်ဒဏ်ကို မြည်းစမ်းခဲ့ကြရကုန်၏။ စင်စစ် ၎င်းတို့၏ နောက်ဆုံး အကျိုးမှာ ဆုံးရှုံးမှုပင် ဖြစ်ခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

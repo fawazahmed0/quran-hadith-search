@@ -710,6 +710,12 @@ Posle shte bŭdete pitani v tozi Den za nasladite [na zemyata]
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။ ထိုမြင်ရသောနေ့တော်ကြီး၌ သင်တို့အား မိမိတို့လောကဓာတ်တွင် မက်မောပျော်ရွှင်ခဲ့မှုများအတွက် စစ်ကြော စီရင်တော်မူလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် အသင်တို့သည် စည်းစိမ်များနှင့်စပ်လျဉ်း၍ မုချအမှန် စစ်ဆေးမေးမြန်းခြင်းကို ခံကြရမည် ဖြစ်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

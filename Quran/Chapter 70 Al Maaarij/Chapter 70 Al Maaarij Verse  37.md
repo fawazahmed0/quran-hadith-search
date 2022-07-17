@@ -710,6 +710,12 @@ otdyasno i otlyavo na tŭlpi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။ သင်၏ ဝဲယာရှေ့နောက်က အစုလိုက်အစုလိုက်ဝန်းဝိုင်း၍ နေကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 လက်ယာဘက်မှလည်းကောင်း၊ လက်ဝဲဘက်မှလည်းကောင်း၊ အဖွဲ့လိုက်၊ အဖွဲ့လိုက်၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

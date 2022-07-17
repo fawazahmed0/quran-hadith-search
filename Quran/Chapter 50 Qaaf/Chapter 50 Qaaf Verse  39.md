@@ -710,6 +710,12 @@ Bŭdi tŭrpeliv kŭm tova, koeto kazvat, i proslavyaĭ s vŭzkhvala svoya Gospo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	အေ-တမန်တော်မိုဟမ္မဒ်၊ ထိုသူမိုက်တို့ပြောစကားကို သည်းခံ၍ သင်၏အသက်သခင်ကျေးဇူးရှင်ကြီးအား အစဉ်အမြဲနေမထွက်မီ နေမဝင်မီ ချီးကျူးတသဝတ်ပြုလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်)၊ အသင်သည်၎င်းတို့၏ ပြောဆိုမှုများနှင့်စပ်လျဉ်း၍ သည်းခံပါလေ။ ထို့ပြင်အသင်သည် နေမထွက်မီလည်းကောင်း၊ နေမဝင်မီလည်းကောင်း၊ အသင့်အားဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အား ချီးမွမ်းထောပနာပြုခြင်းနှင့်တကွ (ထိုအရှင်မြတ်) စင်ကြယ်သန့်ရှင်းတော်မူကြောင်း မြွက်ဆိုလျက် ရှိပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

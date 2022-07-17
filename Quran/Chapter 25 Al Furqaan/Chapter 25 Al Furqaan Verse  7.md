@@ -710,6 +710,12 @@ I kazvat: “Shto za pratenik e tozi? Yade khrana i khodi po pazarite. Zashto ne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	ထို့အပြင်သူတို့ပြောကြသည်၊ ဤအလ္လာဟ်အရှင်မြတ်၏ တမန်တော်သည် အစားအစာမှီဝဲသုံးဆောင်၏၊ စျေးဆိုင် ကမ်းနားများကိုလည်း လှည့်ပတ်သွားလာလေ့ရှိ၏၊ ဤသူသည် ဘာရောဂါဖြစ်နေသနည်းဟု ဆိုကြကုန်၏၊ သူနှင့်အတူတကွ သတိပေးသူဖြစ်ဖို့ရာ အထက်ကောင်းကင်ဘုံမှ ကောင်းကင်တမန်တော်တစ်ပါးကို ဤသူထံသို့ အဘယ်ကြောင့်ချပေးတော်မမူပါသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ထို "ကာဖိရ်" သွေဖည်ငြင်းပယ်သောသူတို့က (ဤသို့)ပြောဆိုကြသေး၏။ "ဤရစူလ်တမန်တော်သည် မည်သို့သော ရစူလ်တမန်တော်နည်း။ ၎င်းသည် အစားအစာကို စားသုံးလေသည်။ ၎င်းပြင် ဈေးများတွင် လှည့်ပတ်သွားလာလေသည်။ ၎င်း၏ထံသို့ ကောင်းကင်တမန်တစ်ပါးပါးသည် အဘယ်ကြောင့် စေလွှတ်ခြင်းမခံရလေသနည်း။ သို့စေလွှတ်ခြင်းခံရပါလျှင် ထိုကောင်းကင်တမန်သည်လည်း ၎င်းနှင့်အတူ ကူညီသတိပေး နှိုးဆော်သူဖြစ်ပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

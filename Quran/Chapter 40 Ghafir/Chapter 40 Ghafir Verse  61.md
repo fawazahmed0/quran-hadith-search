@@ -710,6 +710,12 @@ Allakh e, Koĭto stori za vas noshtta, za da pochivate v neya, i denya - svetŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၁။	အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အိပ်စက်အမောဖြေဖို့ရာ ညဉ့်ကို ဖန်ဆင်းတော်မူ၏၊ နေ့ကိုမူကား တောင် မြောက်လေးပါးကို မြင်နိုင်ရန်အလို့ငှာ ဖန်ဆင်းထားတော်မူ၏၊ စင်စစ်အားဖြင့် အရှင်မြတ်သည် လူသားတို့ အဖို့ ရက်ရောစွာပေးကမ်းတော်မူသောအရှင်သခင်ဖြစ်တော်မူ၏၊ သို့ပါလျက် များလှစွာသောသူတို့သည် အရှင် မြတ်အား ကျေးဇူးမတင် ကျေးစွပ်ကြကုန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည်ပင် အကြင်အရှင်မြတ် ဖြစ်တော်မူ၏။ ထိုအရှင်မြတ်သည် အသင်တို့အဖို့ ညဉ့်ကို ထိုညဉ့်၌အနားယူကြအံ့သောငှာ ပြုလုပ်တော်မူခဲ့သည့်ပြင်၊ နေ့ကို မြင်နိုင်စွမ်းပေးသောအရာအဖြစ် ပြုလုပ်ထားတော်မူ၏။ ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် လူတို့အပေါ်ဝယ် အမှန်ပင် ကျေးဇူးတော်ရှင်ဖြစ်တော်မူ၏။ သို့တစေလည်း မြောက်မြားစွာသောသူတို့မှာ ကျေးဇူးတော်ကို သိတတ်ကြသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

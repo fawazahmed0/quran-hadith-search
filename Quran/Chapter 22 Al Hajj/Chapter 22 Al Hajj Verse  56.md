@@ -710,6 +710,12 @@ Vladenieto v tozi Den prinadlezhi na Allakh. Toĭ shte ot·sŭdi mezhdu tyakh. 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၆။	ထိုနေ့တော်ကြီး၌ အချုပ်အခြာအာဏာသည် အလ္လာဟ်အရှင်မြတ်အဖို့သာတည်း၊ အရှင်မြတ်သည် လူသားတို့ အလည်ကြား၌ စီရင်ဆုံးဖြတ်တော်မူလိမ့်မည်၊ ယုံကြည်၍ ကုသိုလ်ကောင်းမှုပွားသူတို့သည် သုခဥယျာဉ်တော် များတွင် နေထိုင်ကြရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနေ့တွင် စိုးမိုးအုပ်ချုပ်မှုသည် အလ္လာဟ်အရှင်မြတ်၌သာ ရှိပေမည်။ ထိုအရှင်မြတ်သည် ၎င်းတို့အကြားဝယ် စီရင်ဆုံးဖြတ်တော်မူမည်။ ထို့နောက် အကြင်သူတို့သည် သက်ဝင်ယုံကြည်ခဲ့ကြကုန်၏။ ၎င်းပြင် ထိုသူတို့သည် ကောင်းမြတ်သော အကျင့်သီလများကို ကျင့်မူ ဆောက်တည်ခဲ့ကြကုန်၏။(ထိုသူတို့သည်) သုခချမ်းသာနှင့်ပြည့်စုံသော ဥယျာဉ်များ၌ ရှိကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

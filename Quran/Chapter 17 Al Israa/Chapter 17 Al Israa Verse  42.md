@@ -710,6 +710,12 @@ Kazhi [o, Mukhammad]: “Ako imashe zaedno s Nego drugi bogove, kakto kazvat, to
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	မိုဟမ္မဒ်၊ သင်သည် မယုံကြည်သူတို့အား ပြောလော့။ သူတို့ပြောဆိုသကဲ့သို့ အလ္လာဟ်အရှင်မြတ်နှင့်အတူတကွ အခြားဘုရားရှိလျှင် သူတို့သည် ရာဇပလ္လင်တော်ကြီး၏ အရှင်သခင်ထံ သွားသောလမ်းကို ရှာမီးကြချေလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်)အသင်သည်(ဤသို့)ပြောကြားပါလေ။ အကယ်၍သာ ယင်း(မုရှ်ရစ်က်)တို့ ပြောဆိုသည့်အတိုင်း ထို(အလ္လာဟ်)အရှင်မြတ်နှင့်အတူ အခြား ကိုးကွယ်ရာများလည်း ရှိကြပါလျှင် ဧကန်မလွဲ ၎င်းတို့သည် အရ်ရှ်ပလ္လင်တော်ကိုစိုးပိုင်တော်မူသောအရှင်မြတ်အထံတော်သို့(သွားရောက်တိုက်ခိုက်ရန်) နည်းလမ်းရှာဖွေခဲ့ကြပြီး ဖြစ်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

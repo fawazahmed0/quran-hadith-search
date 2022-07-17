@@ -710,6 +710,12 @@ No ne - kŭlna se v tvoya Gospod! - te ne shte stanat vyarvashti, dokato ne te s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၅။	သို့သော် သင်၏အသျှင်သခင်အားဖြင့် သူတို့သည် အမှန်ပင်မယုံကြည်သူများဖြစ်ကြ၏။ သူတို့ အချင်းချင်း ငြင်းခုံမှုကို သူတို့စပ်ကြားတွင် သင့်အား စီရင်ဆုံးဖြတ်ရန် တောင်းပန်ခြင်း၊ သင်၏ ဆုံးဖြတ်ချက်ကို အပြစ်မဆို နှစ်သက်ခြင်း၊ ကျေနပ်စွာလက်ခံခြင်း စသည်တို့ကို သူတို့မပြုသည့် ကာလပတ်လုံး သူတို့သည် ယုံကြည်သူများမဖြစ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ၊ အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၏ ‘ကစမ်’ ထိုသူတို့သည် မိမိတို့အချင်းချင်း အငြင်းပွားသော ပြဿနာနှင့်စပ်လျဉ်း၍ အသင်အား ခုံသမာဓိတင်မြှောက်ခြင်း မရှိသမျှကာလပတ်လုံး၊ ပြီးနောက် ၎င်းတို့သည် အသင်စီရင်ခဲ့သော ဆုံးဖြတ်ချက်နှင့်စပ်လျဉ်း၍ မိမိတို့စိတ်တွင်းဝယ်၊ မည်သည့် ကျဉ်းကျပ်မှုကိုမျှ မတွေ့ရှိကြသည့်ပြင် (ယင်းစီရင်ဆုံးဖြတ်ချက်ကို) အပြည့်အစုံ (ကြည်ဖြူစွာ) လက်ခံနာယူခြင်း မရှိသမျှကာလပတ်လုံး ထိုသူတို့သည် ‘မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူများ ဖြစ်နိုင်ကြမည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

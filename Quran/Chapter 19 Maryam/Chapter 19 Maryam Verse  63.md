@@ -710,6 +710,12 @@ Tova e Rayat, koĭto ostavyame v nasledstvo na vseki ot Nashite bogoboyazlivi r
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၃။	ငါသည် မိမိ၏ ကျေးကျွန်များအနက် သီလဝန္တပုဂ္ဂိုလ်မြတ်တို့အား အမွေပေးတော်မူသည့်ဥယျာဉ်တော်များသည် ယင်းဥယျာဉ်တော်များဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည် အကြင်ဂျန္နတ်သုခဘုံတည်း။ ငါအရှင်မြတ်သည် မိမိ၏ကျွန်များအနက်(ငါအရှင်မြတ်အား ကြောက်ရွံ့ရိုသေသောအားဖြင့်) ပြစ်မှုဒုစရိုက်များမှ ရှောင်ကြဉ်သောသူများ)အား အမွေဆက်ခံစေတော်မူမည် ဖြစ်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kŭlna se v tvoya Gospod, Nie shte sŭberem i tyakh, i satanite, posle shte gi n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၈။	သင်၏ ကျေးဇူးတော်သခင်၏ တန်ခိုးတော်ကြောင့် ငါသည် လူသားအပေါင်းတို့နှင့် ရှိုင်တန်မာရ်နတ်များကို စုဝေးစေတော်မူမည်ဟူသည်မှာလည်း မှန်ကန်ပေ၏။ ထို့နောက်ငါသည် သူတို့အား ငရဲပတ်လည်သို့ ဝပ်တွား လာစေတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၏ ကစမ် မလွဲဧကန် ငါအရှင်မြတ်သည်ထိုသူတို့အားလည်းကောင်း၊ ရှိုင်တွာန်မိစ္ဆာကောင်တို့အားလည်းကောင်း၊ စုရုံးတော်မူပြီးလျှင်မုချအမှန် ငါအရှင်မြတ်သည်၎င်းတို့အား ဂျဟန္နမ်ငရဲဘုံ၏ ပတ်ဝန်းကျင်၌ ပုဆစ်ဒူးတုပ်လျက် အသင့်ရောက်ရှိစေ တော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

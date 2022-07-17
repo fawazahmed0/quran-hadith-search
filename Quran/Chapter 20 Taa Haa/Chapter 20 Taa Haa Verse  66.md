@@ -710,6 +710,12 @@ Kaza: “Vie metnete!” I eto - stori mu se ot magiyata im, che tekhnite vŭzhe
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၆။	ထိူအခါမူစာက မဟုတ်ချေ၊ သင်တို့ပစ်ချပါလော့ဟု ပြန်ပြော၏။ ထိုအခါသူတို့၏မန္တာန်မန္တရားအစွမ်းကြောင့် သူတို့၏ကြိုးခွေများနှင့် ကြိမ်လုံးတောင်ဝှေးများသည် လျှောက်ပြေးလာသည်ဟု တမန်တော်မူစာထင်မှတ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မူစာကထိုသို့မဟုတ်၊ အသင်တို့ပင်(ဦးစွာ)ပစ်ချကြလော့ဟု ပြောကြားခဲ့လေသည်။ ထိုအခါ ၎င်းတို့၏ပဉ္စလက်အတတ်ကြောင့် ထိုသူတို့ ၏ကြိုးများသည်လည်းကောင်း၊ထိုသူတို့၏ တုတ်ရှည်များသည်လည်းကောင်း၊ ထိုမူစာ၏အမြင်၌ လှုပ်ရှားပြေးလွှားနေကြသည်ဟု ထင်ရလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

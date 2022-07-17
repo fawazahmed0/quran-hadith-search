@@ -710,6 +710,12 @@ syakash sa skriti biseri
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	ထိုနတ်ကညာတို့၏ မျက်လုံးမှာ ဖုံးအုပ်ထားသောငှက်ကုလားအုတ်ဥများကဲ့သို့ သန့်ရှင်းကြည်လင်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုကြင်ဘက်များမှာကား လျှို့ဝှက်ဖုံးအုပ်လျက်ထားရှိသော ဥများပမာ ဖြစ်ကြကုန်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

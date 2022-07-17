@@ -710,6 +710,12 @@ I proglasi vashiyat Gospod: “Ako ste priznatelni, Az nepremenno shte vi nadbav
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	ထို့အပြင်သင်တို့၏ ကျေးဇူးတော်သခင်သည် ဤသို့ဗျာဒိတ်ပေးတော်မူ၏။ သင်တို့သည် ငါ၏ ကျေးဇူးတော်ကို ချီးမွမ်းကြလျှင်၊ ငါသည် သင်တို့အား ထပ်လောင်း၍ ပေးသနားတော်မူလတ့ံ။ သို့သော်သင်တို့သည် ကျေးဇူး ကန်းလျှင် ငါ၏ အပြစ်ဒဏ်တော်သည် အမှန်ပင်ပြင်းထန်လှ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး (ပြန်လည်၍သတိရကြလေကုန်၊)အကြင်အခါဝယ် အသင်တို့အား ဖန်ဆင်းမွေးမြူတော် မူသောအရှင်မြတ်သည် (အသင်တို့အား)အကယ်၍ အသင်တို့သည်ကျေးဇူးတော်ကို သိတတ်ခဲ့ကြလျှင်၊ အမှန်ပင် ငါအရှင်မြတ်သည် အသင်တို့အား တိုး၍ချီးမြှင့် ပေးသနားတော်မူမည်ဖြစ်ကြောင်း။ သို့ရာတွင် အကယ်၍သာ အသင်တို့သည် ကျေးဇူးကန်းခဲ့ကြသည် ရှိသော်၊ ဧကန်မလွဲ ငါအရှင်မြတ်၏ ပြစ်ဒဏ်သည် ပြင်းထန်လှကြောင်း၊ သိစေတော်မူလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

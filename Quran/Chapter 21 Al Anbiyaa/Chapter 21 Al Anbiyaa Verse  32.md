@@ -710,6 +710,12 @@ I storikhme nebeto pazen svod. A te ot Negovite znameniya se otvrŭshtat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	ငါသည် မိုးကောင်းကင်ကို အမိုးအကာအဖြစ်ဖြင့် ဖန်ဆင်းတော်မူ၏၊ လူသားတို့အပေါ်သို့ ပြိုပျက်မကျစေရန် ထိန်းသိမ်းစောင့်ရှောက်ထားတော်မူ၏၊ သို့ပါလျက်အယူမှားသူတို့သည် အရှင်မြတ်၏ နိမိတ်လက္ခဏာအ့ံဖွယ် တော်များကို မျက်နှာနောက်ထားနေကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ငါအရှင်မြတ်သည် မိုးကောင်းကင် ကို(ပြိုပျက်ခြင်းမှ) ထိန်းသိမ်းပြီးဖြစ်သော အမိုး ပြုလုပ်တော်မူခဲ့လေသည်။ သို့ပါလျက် ၎င်းတို့သည် ယင်းမိုးကောင်းကင်ရှိ သက်သေလက္ခဏာများမှ မျက်နှာလွှဲလျက် ရှိကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

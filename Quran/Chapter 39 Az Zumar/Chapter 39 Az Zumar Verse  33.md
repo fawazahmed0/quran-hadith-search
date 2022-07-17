@@ -710,6 +710,12 @@ A onzi, koĭto donese istinata i ya potvŭrdi, tezi sa bogoboyazlivite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	အကြင်သူသည် သမ္မာတရားတော်ကို ယူဆောင်လာ၍ ထိုတရားတော်ကို ယုံကြည်မြတ်နိုး၏၊ ထိုကဲ့သို့သော သူတို့သည် အရှင့်ဝတ်ကို ပြေလည်အောင် ပြုသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကြင်သူသည် အမှန်တရားကို ဆောင်ယူခဲ့၏။ ထိုမှတစ်ပါး ယင်းအမှန်တရားကို ဟုတ်မှန်ကြောင်း ယုံကြည်ထောက်ခံခဲ့၏။ ထိုသူတို့ ပင်လျှင် "မွတ္တကီ"ပြစ်မှုများမှ ကြဉ်ရှောင်ကြကုန်သော သူတော်စင်များဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

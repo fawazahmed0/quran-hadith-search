@@ -710,6 +710,12 @@ Reche: “Nima sluzhite na onova, koeto vie ste izdyalali
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၅။	ထိုအခါတမန်တော်အေဗရာဟမ်က ဟယ်-အချင်းတို့၊ သင်တို့သည် မိမိလက်ဖြင့် ထုလုပ်သောရုပ်ပွားဆင်းူတု များကို ဘုရားအမှတ်ဖြင့် ဆည်းကပ်ကိုးကွယ်ကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ထိုသူ(အီဗ်ရာဟီမ်)က (ဤသို့)ပြောကြားခဲ့၏။ အသင်တို့သည် မိမိတို့ကိုယ်တိုင် ထုလုပ်ထားကြသောအရာများကို ဆည်းကပ်ကိုးကွယ် ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

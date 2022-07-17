@@ -710,6 +710,12 @@ Samo na Teb sluzhim i Teb za podkrepa zovem
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+အကျွနု်ပ်တို့သည် အရှင်အားသာလျှင် ကိုးကွယ်ပါ၏။ အစောင်အမတော်အတွက် အရှင်သာလျှင် ဆုပန်ပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကျွန်တော်မျိုးတို့သည် အရှင်မြတ်ကိုသာလျှင်ခယရိုကျိုး ရှိခိုးဆည်းကပ်ကြပါ၏။ ထို့ပြင်တဝ ကျွန်တော်မျိုးတို့အား ကူညီစောင်မတော် မူပါရန်အရှင်မြတ် အထံတော်၌သာလျှင် ဆုတောင်းပတ္ထနာပြုပါ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

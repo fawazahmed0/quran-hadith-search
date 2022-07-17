@@ -710,6 +710,12 @@ Kazakhme: “Napusnete ottuk vsichki! I doĭde li pri vas napŭt·stvie ot Men,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	ငါအရှင်က အေ အာဒမ် သင်တို့အားလုံး ဥယျာဉ်တော်မှ ယခုချက်ချင်း ဆင်းသွားကြလော့။ သို့သော် ငါ့ထံမှ သင်တို့ထံသို့ လမ်းညွှန်အမှန်ပင်ကျလာလတ္တံ့။ အကြင်သူတို့သည် ငါ၏လမ်းညွှန်ကို လိုက်ကြအ့ံ။ ထိုသူတို့အပေါ်သို့ စိုးရိမ်ကြောင့်ကြခြင်းကျမည်မဟုတ် သူတို့သည် ပူဆွေးကြရမည် လည်း မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အာဒမ်(အ)နှင့် ကြင်ယာတော် ဟောင်ဝါတို့အား] ငါအရှင်မိန့်ကြားတော်မူသည်မှာ (ယခု) အသင်တို့အားလုံးသည် ဤဂျန္နတ် အမတသုခဘုံမှ ဆင်းသက်သွားကြကုန်၊ နောင်သောအခါကာလ၌ အကယ်၍ ငါ၏အထံတော်မှ တရားဒေသနာများ ကျရောက်လာလျှင် (ကျရောက်မည်လည်းမုချပင်) သို့ငါအရှင် ချမှတ်ပေးအပ်တော်မူသော တရား ဒေသနာတော်တို့ကို အကြင်မည်သူမဆို နာယူ ကျင့်မူပါကထိုကဲ့သို့သော (သူတော်စင် သူတော်မြတ်)တို့သည် စိုးရိမ်ကြောင့်ကြရမည်လည်းမဟုတ်၊ ပူဆွေးကြရမည်လည်းမဟုတ်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

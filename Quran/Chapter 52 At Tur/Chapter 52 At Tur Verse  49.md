@@ -710,6 +710,12 @@ I noshtem Go proslavyaĭ, i pri skrivaneto na zvezdite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	ထို့အပြင် သင်သည် ညဉ့်အခါ၌လည်းကောင်း၊ နံနက်မိုးသောက်ကြယ်နက္ခတ်များဝင်သောအခါ၌လည်းကောင်း၊ အရှင်မြတ်အား ချီးကျူးတသလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်သည် ညဉ့်၌လည်းကောင်း၊ကြယ်များ (ကွယ်ပျောက်သွားသည့်) နောက်ပိုင်းတွင် လည်းကောင်း၊ ထိုအရှင်မြတ် စင်ကြယ်သန့်ရှင်းတော်မူကြောင်း မြွက်ဆိုပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

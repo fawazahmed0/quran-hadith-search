@@ -710,6 +710,12 @@ s pomoshtta na Allakh. Pomaga Toĭ komuto pozhelae. Toĭ e Vsemogŭshtiya, Pre
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	အလ္လာဟ်အရှင်မြတ်သည် သူတို့အား အောင်မြင်အောင် စောင်မတော်မူသဖြင့် ရွှင်မြူးကြ၏၊ အရှင်မြတ်သည် အလိုတော်ရှိသူအား အောင်မြင်အောင် ကူညီတော်မူ၏၊ အရှင်မြတ်သည် အနန္တတန်ခိုးူတော်ရှင်၊ အနန္တ ကောင်းကြီးမင်္ဂလာတော်သခင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်၏ ကူညီမှုကြောင့် ထိုအရှင်မြတ်သည် မိမိ အလိုရှိတော်မူသော သူအား အောင်နိုင်စေတော်မူ၏။ စင်စစ်မှာမူကား ထိုအရှင်မြတ်သည် အလွန်တရာ လွှမ်းမိုးတော်မူသော၊ အလွန်တရာ သနားကြင်နာတော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

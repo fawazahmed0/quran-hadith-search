@@ -710,6 +710,12 @@ I da ne te vŭzkhishtavat imotite im, nito detsata im! Allakh iska da gi nakazhe
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(၅၅။	အို-မိုဟမ္မဒ်၊ ထို့ကြောင့် သူတို့၏ ဥစ္စာပစ္စည်းသော်လည်းကောင်း၊ သားသမီးအေြ)ွခအရံသည်သော်လည်းကောင်း၊ သင့်အား မနှစ်သက်စေလင့်၊ အလ္လာဟ်သည် ၎င်းတို့အားဖြင့် သူတို့အား ဤလောက၌ ဒဏ်ပေးတော်မူရန်ကိုသာ ရည်ရွယ်တော်မူ၏။သူတို့အား မိစ္ဆာဒိဋ္ဌိဘဝတွင် ကံကုန်စေတော်မူရန်ကိုလည်း ရည်ရွယ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ထို(မုနာဖစ်က်) တို့၏ဥစ္စာပစ္စည်းများသည်လည်းကောင်း၊ ထိုသူတို့၏သားသမီး များသည်လည်းကောင်း၊ အသင့်အား အံ့အားမသင့်စေရ။ အလ္လာဟ်အရှင်မြတ်သည် ထိုဥစ္စာပစ္စည်းနှင့် သားသမီးတို့အားဖြင့် ထိုသူတို့အား ပစ္စုပ္ပန်လောကီဘဝတွင် ပြစ်ဒဏ်ပေးတော်မူရန်နှင့်၎င်းတို့သည် ကာဖိရ်သွေဖည်ငြင်းပယ်သူများအဖြစ်နှင့် ၎င်းတို့၏ အသက်ဇီဝိန်များ ထွက်သွားရန်သာလျှင် ရည်စူးတော်မူလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

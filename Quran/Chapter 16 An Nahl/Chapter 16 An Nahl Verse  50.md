@@ -710,6 +710,12 @@ Strakhuvat se ot svoya Gospod, Koĭto e nad tyakh, i vŭrshat, kakvoto im se po
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅ဝ။	သူတို့သည် မိမိတို့အပေါ်၌ရှိတော်မူသောအလ္လာဟ်အရှင်မြတ်ကို ကြောက်ရွံ့ရိုသေကြ၍ အရှင်မြတ်၏ ပညတ် တော်ကို နာခံကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 င်းတို့သည် မိမိတို့ထက်၌လွှမ်းမိုးလျက် ရှိတော်မူသော မိမိတို့၏အရှင်မြတ်အား ကြောက်ရွံ့ကြလေသည်။ ထိုမှတစ်ပါး 4င်းတို့သည် မိမိတို့အား ချမှတ်ပေးတော်မူသော အမိန့်တော်များကို လိုက်နာဆောင်ရွက်ကြသည်သာတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

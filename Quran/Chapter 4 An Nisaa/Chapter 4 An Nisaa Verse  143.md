@@ -710,6 +710,12 @@ nepostoyanni sa - tu kŭm tezi, tu kŭm onezi. A kogoto Allakh ostavya v zabluda
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၃။	သူတို့သည် သည်ဘက်ယိမ်း၊ ဟိုဘက်ယိုင်ကြ၏။ ဤသူတို့ဘက်လည်းမပါ ထိုသူဘက်လည်းမပါ၊ ခြံစည်းရိုးပေါ်တွင် နေသူများဖြစ်ကြ၏။ အို-မိုဟမ္မဒ် အကြင်သူအား အလ္လာဟ်အသျှင်မြတ်သည် လမ်းမှန်မှ တိမ်းစောင်းစေတော်မူ၏။ ထိုသူအတွက် သင်သည် လမ်းရှာ၍ ရနိုင်လိမ့်မည်မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ယင်း ‘မုနာဖစ်က်’ အယောင်ဆောင် မွတ်စ်လင်မ်တို့သည်) ‘အီမာန်’ ယုံကြည်မှုနှင့် ‘ကုဖ်ရ်’ မယုံမကြည် သွေဖည်ငြင်းပယ်မှု၏ စပ်ကြားဝယ် (မည်သည့်ဘက်ကိုမျှ) အတိတကျ စိတ်ဆုံးဖြတ် နိုင်ခြင်းမရှိဘဲ၊ ထိုဘက်မရောက်၊ ဤဘက်မရောက် (သို့လော၊ သို့လော ယုံမှားသံသယတည်းဟူသော ‘ဝီစိကိစ္ဆာ’ စိတ်နှစ်ခွထားရှိသူများ) ဖြစ်နေကြကုန်၏။ အမှန်စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် မည်သူ့ကိုမဆို လမ်းမှား၌ထားရှိတော်မူပါလျှင် အသင်သည် ထိုသူ၏အဖို့ မည်သည့်နည်းလမ်းကိုမျှ အလျင်းတွေ့ရှိမည်မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

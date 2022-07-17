@@ -710,6 +710,12 @@ Obedinyava Toĭ sŭrtsata im. A ti i da razdadesh vsichko, koeto e na zemyata, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၃။	အသျှင်မြတ်သည် ယုံကြည်သူတို့၏ စိတ်နှလုံးများကို ညီညွတ်စေတော်မူ၏။ သင်သည် ကမ္ဘာပေါ်ရှိ ပစ္စည်းအားလုံးကို သုံးစွဲသော်လည်း သူတို့၏ စိတ်နှလုံးများ ညီညွတ်အောင် မပြုစွမ်းနိုင်ပေ။ သို့သော် အသျှင်မြတ်သည် ၎င်းတို့ကို ညီညွတ်စေတော်မူပြီ။ အသျှင်မြတ်သည် အနန္တဘုန်းတန်ခိုးတော်သခင်၊ အနန္တရွှေဉာဏ်တော်ရှင် မုချဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုအရှင်မြတ်သည် ထိုမုအ်မင်န်သက်ဝင်ယုံကြည်သူတို့၏ စိတ်နှလုံးများစပ်ကြားတွင်(သမစိတ္တ ဖြစ်စေခြင်းငှာ) ညီညွတ်စေတော်မူခဲ့လေသည်။ အကယ်၍အသင်သည် ကမ္ဘာမြေ၌ ရှှိသမျှ(ပစ္စည်း)အားလုံးကို သုံးစွဲသည့်တိုင်အောင်၊ ထိုသူတို့ ၏ စိတ်နှလုံးများစပ်ကြားဝယ် ညီညွတ်စေနိုင်မည် မဟုတ်ပေ။ သို့ရာတွင် အလ္လာဟ်အရှင်မြတ်သည်(မိမိတန်ခိုးတော်ဖြင့်) ၎င်းတို့၏စပ်ကြားတွင် (သမစိတ္တဖြစ်စေ၍)ညီညွတ်စေတော်မူခဲ့လေသည်။ မုချဧကန် ထိုအရှင်မြတ်သည် တန်ခိုးအာနုဘော်နှင့် ပြည့်စုံတော် မူသောအရှင်၊ နက်နဲသိမ်မွေ့သောဉာဏ်အမြော်အမြင်နှင့် ပြည့်စုံတော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

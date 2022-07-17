@@ -710,6 +710,12 @@ Negovi sa klyuchovete na nebesata i na zemyata. Toĭ uvelichava prepitanieto za
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	မိုးမြေတို့၏ သော့များကို အလ္လာဟ်အရှင်မြတ်စိုးပိုင်တော်မူ၏၊ စားနပ်ရိက္ခာစည်းစိမ်တို့ကို အရှင်မြတ်သည် ကျယ်ဝန်းစေလိုတော်သူအား ကျယ်ဝန်းပေါများစေတော်မူ၏၊ ကျဉ်းမြောင်းစေလိုတော်မူသောသူအား ကျဉ်း မြောင်းနည်းပါးစေတော်မူ၏၊ အရှင်မြတ်သည် အရာဝထ္ထုများကို အကြွင်းမဲ့သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မိုးကောင်းကင်များနှင့်ပထဝီမြေ၏ သော့များသည် ထိုအရှင်မြတ်၌သာရှိကုန်၏။ ထိုအရှင်မြတ်သည် မိမိအလိုရှိတော်မူသောသူအား စားနပ်ရိက္ခာကို ကျယ်ဝန်းစွာ ချီးမြှင့်တော်မူ၏။ ထိုနည်းတူစွာ (မိမိ အလိုရှိတော်မူသောသူအားစားနပ်ရိက္ခာကို)ကျပ်တည်းစေတော်မူ၏။ ဧကန်မလွဲ ထိုအရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို အကြွးမဲ့သိတော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

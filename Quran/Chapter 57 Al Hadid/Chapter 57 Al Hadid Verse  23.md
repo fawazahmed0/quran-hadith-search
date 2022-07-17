@@ -710,6 +710,12 @@ Za da ne stradate za onova, koeto vi se e izplŭznalo i da ne likuvate za onova,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	ထိုအကြောင်းအရာများမှာ သင်တို့သည် မိမိလက်လွတ်သွားသောအရာများအတွက် စိတ်ပျက်လက်လျှော့ခြင်း မပြုစေခြင်းငှာသော်လည်းကောင်း၊ မိမိတို့အား အရှင်မြတ်ပေးသနားတော်မူသောကောင်းကြီးမင်္ဂလာတော်ကြောင့် အထူးပျော်ရွှင်ခြင်းမပြုစေခြင်းငှာသော်လည်းကောင်းဖြစ်၏၊ အမှန်မှာ အလ္လာဟ်အရှင်မြတ်သည် ကိုယ့်ဂုဏ်ကို ကိုယ်ဖော်၍ မော်ကြွားပလွှားသူတို့အား ချစ်မြတ်နိုင်တော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် မိမိတို့ထံမှ လွတ်သွားသောအရာနှင့် စပ်လျဉ်း၍ ပူဆွေးခြင်းမရှိကြရန် လည်းကောင်း၊ မိမိတို့အား ထိုအရှင်မြတ်က ချီးမြှင့်ပေးသနား တော်မူသောအရာနှင့်စပ်လျဉ်း၍ ဝမ်းမြောက် မော်ကြွားခြင်းမပြုကြရန် လည်းကောင်း၊ (ထိုအရှင်မြတ်သည် အသင်တို့အား ဤသည်ကို သိစေတော်မူခြင်းဖြစ်၏)။အမှန်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် မည်သည့် မာန်မာနထောင်လွှားသူ၊ ဂုဏ်မောက်သူကိုမျှ နှစ်သက်တော်မူသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ i planinite shte bŭdat kato razpokŭsana vŭlna
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။ ဤနေ့တော်ကြီး၌ တောတောင်ဟူသမျှတို့သည် ဖန်၍ထားသောဝါဂွမ်းဆိုင်ကဲ့သို့ ဖြစ်ကြလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး တောင်များသည် ဖတ်ပြီး အရောင်ဆိုးထားသော သိုးမွှေးကဲ့သို့ ဖြစ်ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

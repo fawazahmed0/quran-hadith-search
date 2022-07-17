@@ -710,6 +710,12 @@ I shtom snemakhme ot tyakh nakazanieto za srok, koĭto da dostignat, eto gi - n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၅။	သို့သော် ငါအသျှင်မြတ်သည် သူတို့ထံမှ ဘေးအန္တရာယ်ကို သူတို့အတွက် သတ်မှတ်ထားတော် မူသောအချိန်တိုင်အောင် ဖယ်ရှားတော်မူသောအခါ သူတို့သည် မိမိတို့ ဂတိသစ္စာကို မစောင့်ထိန်း ဖောက်ချိုးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တဖန် ငါအရှင်မြတ်သည် ၎င်းတို့အပေါ်မှအပြစ်ဒဏ်ကို သတ်မှတ်ထားသည့်အချိန် ထိုအချိန်အထိ၎င်းတို့သည်ရောက်ကြရမည်ဖြစ်၏။ ဖယ်ရှား၍ ပေးတော်မူလိုက်သောအခါ ၎င်းတို့သည် ရုတ်တရက်(ချက်ချင်း) ကတိဖျက်ကြပြန်လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

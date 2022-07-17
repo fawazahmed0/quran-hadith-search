@@ -710,6 +710,12 @@ Kazhi [o, Mukhammad]: “Toĭ e, Koĭto vi sŭtvori i sŭzdade za vas slukha i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။ အို-တမန်တော်၊ ၄င်းတို့အား ဟယ်-အချင်းတို့၊ အရှင်မြတ်သည် သင်တို့ကို ဖန်ဆင်းတော်မူ၏၊ နား၊မျက်စိ၊ စိတ်နှလုံးများကို ပေးသနားတော်မူ၏၊ သို့သော်သင်တို့သည် ကျေးဇူးတော်ကို မသိကြချေဟု ဟောပြောလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ပြောကြားပါလေ။ (အချင်းတို့၊) ထိုအရှင်မြတ်သည်ပင် အသင်တို့အား ဖန်ဆင်းတော်မူခဲ့သော အရှင်ဖြစ်တော်မူ၏။ ထို့ပြင် အသင်တို့အဖို့ ထိုအရှင်မြတ်သည် နားကိုလည်းကောင်း၊ မျက်စိကိုလည်းကောင်း၊ စိတ်နှလုံးများကိုလည်းကောင်း၊ ပြုလုပ်၍ ပေးသနားတော်မူခဲ့၏။ (သို့ရာတွင်) အသင်တို့မှာမူကား အနည်းငယ်မျှသာလျှင် ကျေးဇူးသိတတ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

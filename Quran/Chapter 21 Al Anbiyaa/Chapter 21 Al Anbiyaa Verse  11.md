@@ -710,6 +710,12 @@ I kolko selishta, koito ugnetyavavakha, Nie razrushikhme i sŭzdadokhme sled tya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	မတရားမှုတွင် နစ်မြုပ်နေသောလူမျိုးစုအမြောက်အများကို ငါအရှင်မြတ်သည် ဖျက်ဆီးရုပ်သိမ်းတော်မူ၍ ၎င်းတို့နောက် အခြားလူမျိုးစုကို ဖန်ဆင်းတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ငါအရှင်မြတ်သည် များစွာသောကျူးလွန်လျက်ရှိခဲ့သောမြို့ရွာများကို ပျက်စီးစေတော်မူခဲ့၏။ ၎င်းပြင်ယင်းမြို့ရွာများ(ပျက်စီးသွားပြီး)နောက်တွင် ငါအရှင်မြတ်သည်အခြားသောလူမျိုးများကို ပေါ်ထွန်းစေတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

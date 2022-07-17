@@ -710,6 +710,12 @@ I rekokha: “Nima sled kato izcheznem v zemyata, naistina shte bŭdem sŭtvoren
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	ထို့အပြင်အယူလွဲသူတို့က ငါတို့သည် မြေကြီးထဲတွင် ဆွေးမြေ့ပျက်စီးပျောက်ပျက်ပြီးနောက် ငါတို့ကို အဘယ်သို့ တဖန်ထပ်မံဖန်ဆင်းမည်နည်းဟု မေးမြန်းကြ၏၊ အမှန်ဆိုသော်ထိုသူတို့သည် သူတို့ကို ဖန်ဆင်းမွေးမြူတော် မူသောကျေးဇူးတော်သခင်အား မျက်ဝါးထင်ထင်ဖူးမျော်ရမည်ကို မယုံကြည်သူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ၎င်းတို့က အသို့ပါနည်း၊ ကျွန်ုပ်တို့သည်မြေထဲ၌ ဆွေးမြည့်ပျောက်ပျက် သွားခဲ့ကြသောအခါ အသစ်ပြန်၍ ဖန်ဆင်းခြင်းကို ခံကြရဦးမည်လော ဟုဆိုကြကုန်၏။ စင်စစ်မှာမူကား ၎င်းတို့သည် မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်နှင့်တွေ့ဆုံမှုကိုပင် ငြင်းပယ်သူများ ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

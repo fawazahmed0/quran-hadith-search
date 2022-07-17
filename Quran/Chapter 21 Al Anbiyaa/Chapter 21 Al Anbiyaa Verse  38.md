@@ -710,6 +710,12 @@ I kazvat [nevernitsite]: “Koga [shte se sbŭdne] tova obeshtanie, ako govorite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	အယူလွဲသူတို့က သင်တို့အမှန်ကို ဆိုလျှင်၊ အရှင်မြတ်၏ဂတိသစ္စာတော်သည် ဘယ်သောအခါပြည့်စုံမည်နည်းဟု မေးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ၎င်းတို့က "အကယ်၍ အသင်တို့သည်မှန်ကန်စွာ ပြောဆိုသူများ ဖြစ်ကြပါလျှင် ဤ ချိန်းဆိုချက်သည် မည်သည့်အခါ၌ ပြီးမြောက်ပါမည်နည်း" ဟု ပြောဆိုကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kaza [Musa]: “Gospodŭt na iztoka i na zapada, i na vsichko mezhdu tyakh, ako 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	တဖန်တမန်တော်မူစာက ထိုအရှင်မြတ်သည် အရှေ့မျက်နှာစွန်း၊ အနောက်မျက်နှာစွန်းနှင့် ထိုမျက်နှာစွန်း စပ်ကြား ရှိသမျှတို့၏အသက်သခင်ကျေးဇူးရှင်ဖြစ်တော်မူ၏၊ သင်နားလည်လျှင် ကောင်းလေစွဟု ဟောပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(မူစာ)က အကယ်၍ အသင်တို့သည် သိနားလည်ကြပါမူ (ထိုအရှင်မြတ်သည်)အရှေ့ဘက် နေထွက်ရာအရပ်ကိုလည်းကောင်း၊ အနောက်ဘက် နေဝင်ရာအရပ်ကိုလည်းကောင်း၊ ယင်းအရပ်နှစ်မျက်နှာ၏ကြား၌ ရှိရှိသမျှကိုလည်းကောင်း၊ ဖန်ဆင်းတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူသည်ဟု ပြောကြားခဲ့ပြန်လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

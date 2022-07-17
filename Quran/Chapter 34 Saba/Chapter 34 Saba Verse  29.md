@@ -710,6 +710,12 @@ I kazvat [nevernitsite]: “Koga [shte se sbŭdne] tova obeshtanie, ako govorite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	ထို့အပြင်ထိုသူတို့က အို-မိုဟမ္မဒ်၊ သင်သည် အမှန်စကားကိုဆိုသော် ထိုချိန်းချက်သောနေ့တော်ကြီးသည် ဘယ်အခါဆိုက်ရောက်မည်နည်းဟု မေးမြန်းကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ၎င်းတို့က အကယ်၍ အသင်တို့သည်သစ္စာဝါဒီများ ဖြစ်ခဲ့ကြလျှင် ဤချိန်းဆိုချက်သည် မည်သည့်အခါ၌ ဖြစ်မြောက်အံ့နည်း ဟု မေးမြန်းကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A koĭto prizovava drug bog zaedno s Allakh bez dovod za tova, ravnosmetkata mu
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၇။	အကြင်သူသည် အလ္လာဟ်အရှင်မြတ်နှင့်တွဲဖက်၍ အခြားဘုရားများကို ဝတ်ပြုအ့ံ၊ ထိုသူ၌ မိမိ၏အယူဝါဒအတွက် အကိုးအကားမရှိချေ၊ အလ္လာာဟ်အရှင်မြတ်သာ သူ့ကို စစ်ကြောစီရင်တော်မူမည်၊ မှတ်သားကြလော့၊ မိစ္ဆာမိုက် တို့သည် အောင်မြင်ရကြလိမ့်မည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား မည်သူမဆို အလ္လာဟ်အရှင်မြတ်နှင့် တွဲဖက်နှိုင်းယှဉ်၍ အကြောင်းမဲ့၊ အထောက်အထားမဲ့၊ အခြားကိုးကွယ်ရာ တစ်စုံတစ်ရာကို ဟစ်ခေါ် ဆည်းကပ်ကိုးကွယ်သည်ရှိသော်၊ ထိုသူအား စစ်ဆေးရန်မှာ ၎င်းအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ် အထံတော်၌သာလျှင် ရှိပေသည်။ မလွဲဧကန် ကာဖိရ် သွေဖည် ငြင်းပယ်သော သူတို့ကား အောင်မြင်မှု ရရှိကြမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

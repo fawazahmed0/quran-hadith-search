@@ -710,6 +710,12 @@ Vsyaka vest si ima opredeleno vreme i shte uznaete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၇။	ပြဌာန်းချက်တိုင်းတွင် သတ်မှတ်ထားတော်မူသော အချိန်ကာလရှိ၏။ သင်တို့သည် သိရှိရမည်သာ တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြောင်းကြားချက်၊ မှာကြားချက်သတင်းတိုင်း(ဖြစ်ပျက်ရန်) အတွက် ကန့်သတ်ထားသော အချိန်တစ်ချိန်ရှိ၏။ စင်စစ် အသင်တို့သည် မကြာမီအတွင်း သိရှိကြမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

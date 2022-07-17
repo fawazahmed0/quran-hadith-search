@@ -710,6 +710,12 @@ I ako se podkhlŭznete, sled kato ste poluchili yasnite znatsi, znaĭte, che Al
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ၉။	သင်တို့သည် ထင်ရှားသောသက်သေခံချက်များရရှိပြီးနောက် မိစ္ဆာအယူဝါဒကို လက်ခံပြီး လွဲချော် ကြလျှင် အလ္လာဟ်အရှင်မြတ်သည် အနန္တတန်ခိုးတော်သခင် အနန္တဉာဏ်တော်ရှင်ဖြစ်ကြောင်း မှတ်သားကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ကြောင့် (အစ္စလာမ်သာသနာရေးရာနှင့် စပ် လျဉ်း၍) ထင်ရှားသော သက်သေလက္ခဏာများ အသင် တို့ထံ ရောက်ရှိလာပြီးသည့် နောက်သော်မှပင် အသင်တို့သည် (ဖြောင့်မတ်မှန်ကန်သော လမ်းစဉ်မှ) ချွတ်ချော် တိမ်းပါးသွား ခဲ့ကြသော် ဧကန်မုချ အလ္လာဟ်အရှင်မြတ်သည် တန်ခိုးအာနု ဘော်နှင့် ပြည့်စုံတော်မူသောအရှင်၊ ကျိုးကြောင်းဆင်ခြင်တုံ တရားနှင့် ပြည့်စုံတော်မူသောအရှင်၊ ဖြစ်တော် မူသည်ကို အသင်တို့သည် ကောင်းစွာ ယုံကြည် မှတ်သားထားကြကုန် လော့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I ne sa ti razresheni otposle drugi zheni osven tezi, nito da gi podmenyash sŭs
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၂။	အို-တမန်တော်၊ သင်သည် ဤလက်ထပ်ပြီးသောမိန်းမတို့အနက် အခြားမိန်းမများနှင့်တဖန် လက်မထပ်လင့်၊ အခြားမိန်းမ၏ ရုပ်ဆင်းအင်္ဂါကို သင်အဘယ်မျှပင် နှစ်ခြိုက်သော်လည်း ထိုမိန်းမတို့အား သင်သည် လက်ရှိ မယားများကို ကွာရှင်း၍ အစားထိုးသဘောဖြင့် မယူလင့်၊ သို့သော်ငွေဝယ်ကျွန်မများကို သင်နှစ်သက်မူကား ယူငင်သိမ်းပိုက်လော့၊ စင်စစ်အားဖြင့်အလ္လာဟ်အရှင်မြတ်သည် အရာရာကို စောင့်ကြည့်နေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည့်နောက်တွင် (အထက်ဖော်ပြပါအင်္ဂါရပ်များနှင့်မညီသော) အခြား အမျိုးသမီးများသည် အသင့်အဖို့တရားမဝင်တော့ပြီ။ ထိုနည်းတူစွာ လက်ရှိကြင်ရာများ၏အစားအခြား အမျိုးသမီးများကို ၎င်းတို့၏လှပမှုသည် အသင့်အားနှစ်သက်စေခဲ့သော်လည်း အသင်သည် ပြောင်းလဲ(ထိမ်းမြား)နိုင်ခွင့်မရှိချေ။ သို့ရာတွင် အသင်ပိုင်ဆိုင်သောကျွန်မများကိုမူကား (ပြောင်းလဲနိုင်ခွင့်/ယူပိုင်ခွင့်ရှိ၏)။ စင်စစ် သော်ကားအလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ အပေါ်ဝယ်(ကောင်းစွာ) စောင့်ရှောက်တော်မူသော အရှင်မြတ်ပင်ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

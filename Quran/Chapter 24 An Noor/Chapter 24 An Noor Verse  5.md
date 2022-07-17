@@ -710,6 +710,12 @@ osven koito sled tova se pokayat i popravyat. Allakh e oproshtavasht, milosŭrde
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	သို့ရာတွင် အကြင်သူသည် ယင်းကဲ့သို့အပြစ်ဒဏ်ခံရပြီးနောက် သတိနောင်တရ၍ သီလသမာဓိရှိအ့ံ၊ ထိုသူကို သက်သေခံခွင့်ပေးကြလော့၊ မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် အပြစ်လွှတ်တော်မူ၏၊ ကောင်းကြီး မင်္ဂလာပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကြင်သူတို့သည် ထို့နောက် ဝန်ချတောင်းပန်ကြ၍ (မိမိတို့ကိုယ်ကို) ပြုပြင်ခဲ့ကြသည်ရှိသော် ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် အလွန်တရာ ခွင့်လွှတ်တော်မူသော အလွန်တရာ သနားညှာတာတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

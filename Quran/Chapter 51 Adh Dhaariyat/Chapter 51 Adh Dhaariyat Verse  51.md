@@ -710,6 +710,12 @@ I ne priemaĭte drug Bog zaedno s Allakh! Az sŭm Negov yaven predupreditel za 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁။	ထို့အပြင်အလ္လာဟ်အရှင်မြတ်နှင့် အခြားဘုရားကို တွဲ၍ မကိုးကွယ်ကြလင့်၊ ငါ့မှာမူကား အရှင်မြတ်အထံတော် မှ သင်တို့အတွက် သတိပေးသူရိုးရိုးသာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်နှင့်အတူ အခြားတစ်စုံတစ်ရာ ကိုးကွယ်ရာကို ဖက်စပ်သတ်မှတ်ခြင်း မပြုကြကုန်လင့်။ ဧကန်အမှန် ငါသည် အသင်တို့အဖို့ ထိုအရှင်မြတ်အထံတော်မှ ထင်ရှားစွာ သတိပေး နှိုးဆော်သူပင် ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

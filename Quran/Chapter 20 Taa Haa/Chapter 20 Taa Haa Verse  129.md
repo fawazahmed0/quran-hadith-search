@@ -710,6 +710,12 @@ I ako nyamashe predishno Slovo ot tvoya Gospod, i nazovan srok, [mŭchenieto] sh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၉။	အို--တမန်တော်၊ သင်၏အရှင်သခင်သည် အမိန့်တော်ချမှတ်၍ အချိန်သတ်မှတ်ထားတော်မူပြီ၊ မဟုတ်လျှင် ဤကမ္ဘာလောကကြီးဝယ် ချက်ခြင်းလက်ငင်းတရားစီရင်တော်မူလတ္တံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် အကယ်၍သာ အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်အထံတော်မှ အမိန့်တော် တစ်ရပ်သည်လည်းကောင်း၊ သတ်မှတ်ပိုင်းခြားအပ်သော အချိန်ကာလတစ်ခုသည်လည်းကောင်း၊ မူလကပင် မရှိခဲ့ပါလျှင် အမှန်ပင်(ပြစ်ဒဏ်သည် ၎င်းတို့အပေါ်၌)မလွှဲမရှောင်သာဆိုက်ရောက်ခဲ့မည်သာ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

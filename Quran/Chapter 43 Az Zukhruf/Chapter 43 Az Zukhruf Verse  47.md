@@ -710,6 +710,12 @@ I kogato im donese Nashite znameniya, te im se podigrakha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	တမန်တော်မူစာသည် ငါ၏ သာဓကတော်များကို ယူဆောင်လာသောအခါ သူတို့သည် ထိုသာဓကတော်များကို ပျက်ရယ်ပြုကြလေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ထိုမူစာသည် ၎င်းတို့ထံ ငါအရှင်မြတ်၏သက်သေလက္ခဏာ တန်ခိုးပြာဋိဟာများကို ယူဆောင်ခဲ့လေသောအခါ ရုတ်တရက် ၎င်းတို့သည် ယင်းသက်သေလက္ခဏာ တန်ခိုးပြာဋိဟာများကိုမြင်၍ ပြက်ရယ်သောအားဖြင့် ရယ်မောကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

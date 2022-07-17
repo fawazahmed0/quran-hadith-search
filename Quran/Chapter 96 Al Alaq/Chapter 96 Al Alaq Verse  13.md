@@ -710,6 +710,12 @@ Vidya li dali toĭ otricha i se otmyata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။ ထိုသူယုတ်မာသည် အလ္လာဟ်အရှင်မြတ်၏ နည်းပြလမ်းညွှန်ကို ငြင်းပယ်လျက် တရားတော်ကို တော်လှန်သည် ကို သင်မြင်ပြီမဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည်(ထိုသူ၏အခြေအနေကို) ပြောပြပါလေ။ အကယ်၍ ၎င်းသည် (နဗီတမန်တော်အား) မဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ်ပြီးနောက် (အီမာန်သက်ဝင်ယုံကြည်ခြင်းမှ) မျက်နှာလွှဲဖယ်ခဲ့သော် (မည်သူအကျိုးယုတ်အံ့နည်း)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

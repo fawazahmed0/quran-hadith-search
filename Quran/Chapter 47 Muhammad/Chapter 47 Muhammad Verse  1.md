@@ -710,6 +710,12 @@ Na onezi, koito ne vyarvat i vŭzpirat ot pŭtya na Allakh, Toĭ shte provali d
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။	အကြင်သူတို့သည် အလ္လာဟ်အရှင်မြတ်ကို မယုံကြည်ပဲ လူသားတို့အား အရှင်မြတ်၏ လမ်းတော်မှ တားဆီး ထားအ့ံ၊ အရှင်မြတ်သည် ထိုသူတို့၏ ပြုလုပ်မှုများကို အချည်းနှီးဖြစ်စေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတို့သည် သွေဖည်ငြင်းပယ်ခဲ့ကြကုန်၏။ ၎င်းပြင် ထိုသူတို့သည် အလ္လာဟ်အရှင်မြတ်၏ လမ်းတော်မှ ပိတ်ပင်တားဆီးခဲ့ကြကုန်၏။ ထိုအရှင် မြတ်သည် ၎င်းတို့၏ ကျင့်မူဆောင်ရွက်ချက်များကို အချည်းနှီး ဖြစ်စေတော်မူမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

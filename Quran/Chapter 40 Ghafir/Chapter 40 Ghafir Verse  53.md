@@ -710,6 +710,12 @@ I dadokhme na Musa napŭt·stvieto. I ostavikhme v nasledstvo na sinovete na Isr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။	ငါအရှင်မြတ်သည် ရှေးအထက်ကျော်ကာလက တမန်တော်(မူစာ)အား လမ်းညွှန်ကျမ်းတော်ကို ချပေးသနားတော် မူ၏၊ ငါသည် ထိုကျမ်းတော်ကို (အစ္စရာအီလ်)လူမျိုးတို့အား အမွေပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် မလွဲဧကန် ငါအရှင်မြတ်သည် "မူစာ"အား တရားလမ်းညွှန်ကို ချီးမြှင့်ပေးသနားတော်မူခဲ့ပြီး ဖြစ်၏။ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် အီစ်ရာအီလီ အမျိုးသားတို့အား ကျမ်းဂန်ကို အမွေပေးတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

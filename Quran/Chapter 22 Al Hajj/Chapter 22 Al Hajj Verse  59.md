@@ -710,6 +710,12 @@ Shte gi vŭvede Toĭ v myasto, koeto shte im kharesa. Allakh e vseznaesht, vseb
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၉။	အမှန်မှာ အလ္လာဟ်အရှင်မြတ်သည် ထိုသူတို့အား မိမိတို့နှစ်သက်မြတ်နိုးသောဝင်ခြင်းဖြင့် ဝင်စေတော်မူလိမ့်မည်၊ မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် မုချသိတော်မူ၏၊ ဧကန်အလိုလိုက်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့အား ၎င်းတို့နှစ်သက်ကြအံ့သော နေရာဌာနကို ဝင်ရောက်စေတော်မူမည်။ အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့သိတော်မူသော အလုံးစုံကိုသိမြင်တော်မူသောအရှင်၊ အလွန်တရာ သည်းခံတော်မူသောအရှင် အမှန်ပင်ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

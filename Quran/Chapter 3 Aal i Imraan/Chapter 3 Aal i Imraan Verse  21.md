@@ -710,6 +710,12 @@ Onezi, koito ne vyarvat v znameniyata na Allakh i ubivat bez pravo prorotsite, i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	အို...တမန်တော် အလ္လာဟ်အသျှင်မြတ်၏ ဗျာဒိတ်တော်များကို မယုံကြည်သူများ၊ တမန်တော် များကို မတရားသတ်ဖြတ်သူများ၊ တရားမျှတမှုကိုဆင့်ဆိုသော လူသားများ သတ်ဖြတ်သူများ၊ ဤမိစ္ဆာမိုက်တို့အား သူတို့သည် အလွန်နာကျင်ဘွယ်သောအပြစ်ဒဏ်ကို ခံစားရမည်ဟု သင် ဂတိပြုလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အကြင်သူတို့သည် အလ္လာဟ်အရှင်မြတ်၏ တရားဒေသနာတော်များကို မနာယူ ငြင်းဆန်ပယ်ရှားကြကုန်၏။ ထို့ပြင်တဝ ယင်းသူတို့သည် နဗီတမန်တော်များကို သတ်ဖြတ်ခွင့်မရှိဘဲလျက် (တရားမဲ့)သတ်ဖြတ်ကြကုန်၏။ ထိုနည်းတူစွာ ယင်း သူတို့သည် လူသားတို့အနက်မှ တရားမျှတစွာပြုလုပ်ရန် ညွှန်ကြားသူတို့ကိုလည်းသတ်ဖြတ်ကြကုန်၏။ သို့ဖြစ်ပေရာ အသင်သည် ယင်းကဲ့သို့သောသူတို့အား အလွန်နာကျင်ဖွယ်ဖြစ်သော အပြစ်ဒဏ်(ခံကြရမည့်အကြောင်း) သတင်းကောင်း ကျေညာပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

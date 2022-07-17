@@ -710,6 +710,12 @@ Kazhi [o, Mukhammad]: “Toĭ e Allakh - Edinstveniya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။အို-တမန်တော်၊ ဟောပြောလော့၊ အလ္လာဟ်အရှင်မြတ်သည် အရှင်သခင်ဖြစ်တော်မူ၏၊ တစ်ဆူတည်းသာ ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ပြောကြားပါလေ။ ထိုအလ္လာဟ်အရှင်မြတ်သည် တစ်ဆူတည်း ဖြစ်တော်မူ၏။ (တစ်နည်း) (အို-နဗီတမန်တော်) အသင်သည် ဤသို့ပြောကြားပါလေ။ အလ္လာဟ်အရှင်မြတ်သည် တစ်ဆူတည်း ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

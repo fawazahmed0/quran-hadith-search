@@ -710,6 +710,12 @@ Allakh dŭrzhi nebesata i zemyata da ne se razrushat, a ako se rushat, nikoĭ n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် မိုးနှင့်မြေကို သူတို့၏ လမ်းမှ သွေ၍ မသွားအောင် ထိန်းသိမ်း စောင့်ရှောက်တော်မူ၏၊ အကယ်၍သူတို့သွေဖယ်သွားလျှင် သူတို့ကို ထိန်းစောင့်နိုင်သူအရှင်မြတ်မှတပါး တစ်စုံ တစ်ယောက်မျှမရှိချေ၊ မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် သည်းခံတော်မူသောအရှင်၊ အပြစ်လွှတ် တော်မူသောသခင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်ဧကန် အလ္လာဟ်အရှင်မြတ်သည် မိုးကောင်းကင်များကိုလည်းကောင်း၊ ပထဝီမြေကိုလည်းကောင်း၊ရွေ့လျားတိမ်းပါးမသွားရန် ထိန်းထားတော်မူ၏။ သို့ရာတွင်ဧကန်စင်စစ် အကယ်၍သာ ယင်းမိုးကောင်းကင်များနှင့်ပထဝီမြေတို့သည် ရွေ့လျားတိမ်းပါး၍ သွားခဲ့ကြသော် ထိုအရှင်မြတ်မှတစ်ပါး မည်သူတစ်ဦးတစ်ယောက်မျှကပင် ယင်းမိုးကောင်းကင်များနှင့် ပထဝီမြေတို့ကို ထိန်းနိုင်မည် မဟုတ်ပေ။ ဧ ကန်အမှန် ထိုအရှင်မြတ်သည် ခနီ္တတရားနှင့်အလွန်ပြည့်စုံတော်မူထသော၊ အလွန်တရာ ခွင့်လွှတ်တော်မူထသောအရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Litsemerite se starayat da izmamyat Allakh, no Toĭ mami tyakh. Izpravyat li se
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၂။	မှတ်သားကြလော့။ ယုံကြည်ဟန်ဆောင်သူတို့သည် အလ္လာဟ်အသျှင်မြတ်ကို လှည့်ဖြားရန် အားထုတ်ကြ၏။ သို့သော် အလ္လာဟ်အသျှင်မြတ်ကသာလျှင် သူတို့ကို လှည့်စားတော်မူ၏။ သူတို့သည် ဆွလာသ်ဝတ်ပြုသောအခါ စိတ်မပါဘဲ ပျင်းရိ၍ လူမြင်ကောင်းအောင်သာ ဝတ်ပြုကြပြီးလျှင် အလ္လာဟ်အသျှင်မြတ်အား အနည်းငယ်သာ အာရုံပြုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ‘မုနာဖစ်က်’ အယောင်ဆောင်မွတ်စ်လင်မ်တို့သည် အလ္လာဟ်အရှင်မြတ်ကို လိမ်လည်လှည့်ဖြားကြကုန်၏။ ထိုအရှင်မြတ်သည်လည်း ၎င်းတို့အား လှည့်ဖြားတောမူမည့် အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။ ၎င်းပြင် ထိုသူတို့သည် ‘ဆွလာဟ်’ ဝတ်ပြုရန် ရပ်ကြရာ၌လည်း ပျင်းရိစွာနှင့်၊ လူခပင်းတို့အား ပြစားရန်အတွက်သာလျှင် ရပ်ကြကုန်၏။ ထို့ပြင်တဝ ၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ်ကို အနည်းငယ်မျှ (လူကြားကောင်းအောင်) မှအပ အောက်မေ့တသကြသည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

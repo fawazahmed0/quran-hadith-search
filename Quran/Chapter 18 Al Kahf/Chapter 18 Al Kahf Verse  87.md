@@ -710,6 +710,12 @@ Reche: “Onzi, koĭto ugnetyava, shte go izmŭchim. Posle shte bŭde vŭrnat p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၇။	သူက မတရားမှုကို ပြုကျင့်သူအား အကျွနု်ပ်အပြစ်ခတ်ပါမည်၊ ထို့နောက်ထိုသူသည် သူ၏ ကျေးဇူးတော်သခင် ထံ ပြန်ယူခဲ့ခြင်းခံရပါမည်၊ အရှင်မြတ်သည် ထိုသူအား ကြီးမားသောအပြစ်ဒဏ်ခတ်နှိပ်တော်မူပါမည်ဟု တင်လျှောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းဇုလ်ကရ်နိုင်န်က မည်သူမဆို မတရားပြုမြပြုနေခဲ့ပါလျှင်၊ ကျွန်ုပ်သည် မကြာမြင့်မီပင် ထိုသူအား ပြစ်ဒဏ်စီရင်ပေမည်။ ထို့နောက် ထိုသူသည် မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်သို့ ပြန်လည်၍ ရောက်စေခြင်းကိုခံရပေမည်။ ထိုအခါ ထိုအရှင်မြတ်သည် ၎င်းအား ပြင်းထန်သော ပြစ်ဒဏ်ကို စီရင်တော်မူပေလိမ့်မည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

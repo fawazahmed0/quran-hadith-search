@@ -710,6 +710,12 @@ Koĭto stori zlo ili sebe si ugneti, a setne pomoli Allakh za proshka, shte otk
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁ဝ။	သို့ငြားသော်လည်း အကြင်သူသည် ဒုစရိုက်ပြစ်မှု ကျူးလွန်မိ၏။ သို့မဟုတ် မိမိကိုယ်ကိုမိမိ ပြစ်မှား မိ၏။ ထို့နောက် အသျှင်မြတ်အထံတော်၌ ဝန်ချတောင်းပန်၏။ အလ္လာဟ်အသျှင်မြတ်သည် အပြစ်လွှတ်တော်မူသောအသျှင်၊ ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူသောအသျှင် ဖြစ်သည်ကို ထိုသူတွေ့ရှိရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ်သော်ကား မည်သူမဆို မကောင်းမှုအကုသိုလ်တစ်စုံတစ်ရာကို ကျူးလွန်မိအံ့။ သို့တည်းမဟုတ် ထိုသူသည် မိမိကိုယ်ကို နှိပ်စက်ကလူပြုမိအံ့။ ထို့နောက် ယင်းသူသည် အလ္လာဟ်အရှင်မြတ်အထံတော်၌ လွတ်ငြိမ်းချမ်းသာခွင့်ကို လျှောက်ထားပန်ကြားအံ့၊ ထိုသူသည် အလ္လာဟ်အရှင်မြတ်ကို အလွန်တရာ လွတ်ငြိမ်းချမ်းသာခွင့်ပေးသနားတော်မူသောအရှင်၊ အလွန်တရာ သနားကြင်နာ ညှာတာတော်မူသောအရှင်အဖြစ် တွေ့ရှိရပေအံ့၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ i koito kazvat: “Gospodi nash, dari ni sŭs sŭprugi i potomtsi - radost za oc
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၄။	၎င်းအပြင်ထိုသူတို့သည် အို--အကျွနု်ပ်တို့၏ အရှင်သခင်၊ အကျွနု်ပ်တို့အား မိမိတို့မျက်ရှုဖြစ်ကြသောသားမယား တို့ကြောင့် ပျော်ရွှင်ချမ်းမြေ့ခြင်းကို ချပေးသနားတော်မူပါ၊ ဒုစရိုက်မကောင်းမှုများကို တွန်းဖယ်သူတို့၏ စံနမူနာဖြစ်တော်မူပါဟု ငါအရှင်မြတ်ထံဆုတောင်းကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အကြင်သူများပင်။ ထိုသူတို့သည် အို-ကျွန်တော်မျိုးတို့အား ဖန်ဆင်းမွေးမြူတော်မူ သောအရှင်မြတ်။ အရှင်မြတ်သည် ကျွန်တော်မျိုးတို့အား ကျွန်တော်မျိုးတို့၏ ဇနီးကြင်ရာများထံမှလည်းကောင်း၊ ကျွန်တော်မျိုးတို့၏ သားမြေးတို့ထံမှလည်းကောင်း၊ မျက်စိအေးမြကြည်လင်မှုကို ပေးသနားတော်မူပါ။ ထိုမှတစ်ပါး အရှင်မြတ်သည် ကျွန်တော်မျိုးတို့အား ‘မွတ္တကီ’ သူတော်စင်များ၏ရှေ့ဆောင်ရှေ့ရပ် ပြုလုပ်တော်မူပါဟု လျှောက်ထား အသနားခံကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

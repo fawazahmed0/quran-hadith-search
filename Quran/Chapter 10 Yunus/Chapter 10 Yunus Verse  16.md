@@ -710,6 +710,12 @@ Kazhi: “Ako Allakh pozhelaeshe, ne bikh vi go chel i Toĭ ne bi vi dal znanie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	ဟောကြားလော့၊ အလ္လာဟ်အရှင်မြတ်သည် အလိုတော်ရှိခဲ့ပါလျှင် အကျွနု်ပ်သည် ကုရ်အာန်ကျမ်းတော်မြတ်ကို သင်တို့အား ဖတ်ပြဟောပြောမည်မဟုတ်ပေ။ သို့မဟုတ်အရှင်မြတ်သည် သင်တို့အား ကျမ်းတော်မြတ်ကို သိစေတော်မူလေမည်မဟုတ်ပေ။ အကျွနု်ပ်သည် ကုရ်အာန်ကျမ်းတော်မြတ်မကျရောက်လာမီ၊ သင်တို့နှင့်အတူ တကွ တစ်သက်လုံးနေခဲ့ပြီးဖြစ်သည်။ သင်တို့၌ အသိဉာာဏ်မရှိကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (၎င်း တို့အားဤသို့)ပြောကြားပလေ။ (ဟယ်-အချင်းတို့)အကယ်၍အလ္လာဟ်အရှင်မြတ်သည် (ဤအတိုင်း) အလိုရှိတော်မူခဲ့ပါလျှင် ငါသည်လည်း ထို (ကုရ်အာန်) ကို အသင်တို့ရှေ့ဝယ် ဖတ်ကြားနိုင်မည်မဟုတ်။ ထိုအရှင်မြတ်သည်လည်း အသင်တို့အား ယင်း(ကုရ်အာန်)နှင့်စပ်လျင်း၍ အသိပေးတော်မူမည်မဟုတ်။ တစ်ဖန်ဧကန်စင်စစ် ငါသည် ထို(ကုရ်အာန်)မကျရောက်မီ အလျင်ကလည်း အသင်တို့အထဲတွင် တစ်သက်တာမျှ နေခဲ့ပြီး ဖြစ်ပေသည်။ သို့ပါလျက် အသင်တို့သည် နားမလည်ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ne uzna li ti, che na Allakh prinadlezhi vladenieto na nebesata i na zemyata, i 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၇။	အလ္လာဟ်အရှင်မြတ်သည် မိုးကောင်းကင်နှင့် ကမ္ဘာမြေကြီးကို စိုးပိုင်တော်မူသည်ုိ သင်မသိသလော။ အလ္လာဟ်အရှင်မြတ်မှတပါး သင်တို့၌အဆွေခင်ပွန်းသော်လည်းကောင်း၊ ကူညီသူသော် လည်းကောင်း၊ တစ်စုံတစ်ယောက်မျှမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုမှတပါးတုံ၊ အို-နဗီတမန်တော်) ကောင်းကင်ဘုံများနှင့် ပထဝီမြေကို (ငါ)အလ္လာဟ် အရှင် မြတ်သာလျှင် စိုးပိုင်တော်မူကြောင်း အသင် မသိလေသလော၊ ထို့ပြင်တဝ(အို-လူသားတို့) အသင်တို့အဘို့အရာ အလ္လာဟ်အရှင်မြတ်မှတစ်ပါး အခြားမည်သူ တစ်ဦးတစ်ယောက်မျှ ကြည့်ရှုစောင့်ရှောက်မည့်သူ ဟူ၍လည်းကောင်း၊ ကူညီ မစမည့်သူ ဟူ၍လည်းကောင်း၊ မရှိချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

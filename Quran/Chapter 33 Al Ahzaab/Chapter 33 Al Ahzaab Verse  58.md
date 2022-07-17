@@ -710,6 +710,12 @@ A koito nezasluzheno ogorchavat vyarvashtite mŭzhe i zheni, te se nagŭrbvat s 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈။	ထို့အပြင်အကြင်သူတို့သည် ယုံကြည်သူယောက်ျားမိန်းမတို့အား မတရားကဲ့ရဲ့စော်ကားကြအ့ံ၊ ထိုသူတို့သည် ဂုံးချောအတင်းပြောသောအပြစ်၊ အလွန်ကြီးကျယ်ထင်ရှားသောအပြစ်ဝန်ထုပ်ဝန်ပိုးကြီးကို ထမ်းရွက်သူဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မုအ်မင်န် သက်ဝင်ယုံကြည်သူ ယောက်ျား၊မိန်းမများအား၊ ၎င်းတို့တစ်စုံတစ်ရာကို ကျူးလွန်ကြသည် မရှိဘဲလျက် စိတ်ဒုက္ခပေးကြသောသူတို့မှာမူကား မတရားယိုးစွပ်မှုကိုလည်းကောင်း၊ ထင်ရှားစွာသော ပြစ်မှုကိုလည်းကောင်း၊ထမ်းဆောင်ခဲ့ကြကုန်သတည်း၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

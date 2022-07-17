@@ -710,6 +710,12 @@ JA BUNEJJE ‘INNEHA ‘IN TEKUN MITHKALE HEBBETIN MIN HARDELIN FETEKUN FI SEHRE
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	လု(က်)မာန်က ဆက်လက်၍ သြဝါဒပေးသည်မှာ အို-ချစ်သား၊ ဆိုးကောင်းမဟူ လူတို့ပြုကျင့်အပ်သောအမှုသည် မုန်ညင်းစေ့ခန့်မျှပင် လေးသော်လည်း ကျောက်ခဲကျောက်တုံးကြီးအတွင်း၌ဖြစ်စေ၊ မိုးကောင်းကင်၌ဖြစ်စေ၊ မဟာပထဝီမြေအတွင်း၌ဖြစ်စေ၊ ရှိသော်ငြားလည်း အလ္လာဟ်အရှင်မြတ်သည် ထိုအမှုကို ဆွဲထုတ်တော်မူလိမ့် မည်၊ စင်စစ်အားဖြင့်အလ္လာဟ်အရှင်မြတ်သည် သိမ်မွေ့နက်နဲသောအမှုများကို မြင်တော်မူ၏၊ အကြွင်းမဲ့သိတော် မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ချစ်သား၊ မုချဧကန် အပြုအမူတစ်စုံတစ်ရာသည် မုန်ညင်းစေ့ခန့်မျှဖြစ်ပြီး၊ ကျောက်ဆောင်တစ်ခုခု၌ ရှိနေသည်ဖြစ်စေ၊ မိုးကောင်းကင်များ၌ ရှိနေသည်ဖြစ်စေ၊ ပထဝီမြေအတွင်း၌ရှိနေသည်ဖြစ်စေ၊ အလ္လာဟ်အရှင်မြတ်သည် ယင်းအပြုအမူကို (ရှေ့တော်မှောက်ဝယ်) အသင့်ရောက်စေတော်မူမည်ဖြစ်သည်။ စင်စစ်ဧကန် အလ္လာဟ်အရှင်မြတ်သည် နက်နဲသိမ်မွေ့သောအရာတို့ကို အလွန်တရာ သိမြင်တော်မူသောအရှင်၊ အလွန်တရာ ကြားသိတော်မူသောအရှင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

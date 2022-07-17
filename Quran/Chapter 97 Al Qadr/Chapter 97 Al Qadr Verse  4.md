@@ -710,6 +710,12 @@ Slizat angelite i Dukhŭt [Dzhibril] prez neya - s pozvolenieto na tekhniya Gosp
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။ ဤည၌ မိမိတို့အရှင်သခင်၏ အမိန့်တော်အရ များလှစွာသော ကောင်းကင်တမန်တို့နှင့် တကွ ဂျစ်ဗရာအီလ် မင်းကြီးသည် အခွင့်ကိစ္စများကို ဆောင်ရွက်ရန် သက်ဆင်းကြကုန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုညဉ့်၌ ကောင်းကင်တမန်များသည်လည်းကောင်း၊ ဂျစ်ဗ်ရိလ်သည်လည်းကောင်း၊ မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ် အမိန့်တော်ဖြင့် ကောင်းမြတ်သော အရေးကိစ္စအသီးသီးကို ယူဆောင်၍ ဆင်းသက်လာကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

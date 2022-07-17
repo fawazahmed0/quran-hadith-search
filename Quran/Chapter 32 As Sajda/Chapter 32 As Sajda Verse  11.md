@@ -710,6 +710,12 @@ Kazhi: “Shte vi pribere dushite Angelŭt na smŭrtta, komuto ste vŭzlozheni. 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	အို-တမန်တော်ဟောကြားလော့၊ သင်တို့၏ အသက်ဝိညာဉ်ကို နှုတ်သိမ်းရန် ခန့်ထားသောသေမင်းသည် သင်တို့ကို စုဆောင်းလိမ့်မည်၊ ထို့နောက်သင်တို့သည် မိမိတို့၏အသက်သခင်ကျေးဇူးရှင်အထံတော်သို့ ပြန်ပို့ခြင်း ခံကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ပြောကြားပါလေ။ (အချင်းတို့၊) အသင်တို့နှင့်ပတ်သက်၍ ခန့်အပ်ထားခြင်းခံရလေသော သေမင်းတမန်သည် အသင်တို့၏အသက်ဇီဝိန်ကို နှုတ်သိမ်းလေသည်။ ထို့နောက် အသင်တို့သည် မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်ထံတော်သို့ပင်ပြန်ရောက်စေခြင်းကို ခံကြရကုန်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

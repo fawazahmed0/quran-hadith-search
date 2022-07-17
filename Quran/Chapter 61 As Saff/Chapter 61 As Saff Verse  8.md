@@ -710,6 +710,12 @@ Te iskat da ugasyat svetlinata na Allakh s usta. No Allakh shte stori da zasiyae
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။ ထိုသူယုတ်မာတို့သည် အလ္လာဟ်အရှင်မြတ်၏ ရောင်ခြည်တော်ကို မိမိတို့ ခံတွင်းလေဖြင့် မှုတ်၍ ငြိမ်းစဲစေလိုသော ဆန္ဒရှိကြ၏၊ သို့သော် မိစ္ဆာဒိဋ္ဌိတို့သည် အဘယ်ပင် မလိုမုန်းတီးသော်လည်း အရှင်မြတ်သည် မိမိအလင်းရောင် တော်ကို ပြည့်ပြည့်စုံစုံထွန်းလင်းတောက်ပစေတော်မူလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ်၏ရောင်ခြည်ကို မိမိတို့၏ပါးစပ်ဖြင့် ငြိမ်းသတ်လိုကြကုန်၏။ သို့ရာတွင် ကာဖိရ် သွေဖည်ငြင်းပယ်သောသူများ မနှစ်မြို့ကြငြားသော်လည်း အလ္လာဟ်အရှင်မြတ်မှာမူကား မိမိရောင်ခြည်ကို ပြည့်ဝစုံလင်အောင် ပြုတော်မူမည့် အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

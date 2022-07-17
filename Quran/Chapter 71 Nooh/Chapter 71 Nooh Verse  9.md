@@ -710,6 +710,12 @@ posle im proglasyavakh yavno i im shepnekh taĭno
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။ ထို့အပြင်အကျွနု်ပ်သည် သူတို့အး လူသိရှင်ကြား တရားဓမ္မဟောပြောပါ၏၊ တိတ်တိတ်တိုးတိုးလည်း တိုက်တွန်း သွေးဆောင်ပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် အမှန်စင်စစ် ကျွန်တော်မျိုးသည် ၎င်းတို့အား ပွင့်လင်းထင်ရှားစွာ ကြေညာ၍လည်း ဖိတ်ခေါ်ခဲ့ပါ၏။ ထိုမှတစ်ပါး ကျွန်တော်မျိုးသည် ၎င်းတို့အား လျှို့ဝှက်စွာဖိတ်ခေါ်မှုလည်း ပြုခဲ့ပါ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

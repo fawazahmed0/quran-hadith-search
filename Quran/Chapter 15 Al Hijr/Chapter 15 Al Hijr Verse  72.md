@@ -710,6 +710,12 @@ Kŭlna se v tvoya zhivot [o, Mukhammad], te v svoeto opiyanenie se lutat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၂။	မိုဟမ္မဒ်၊ သင်အသက်နှင့်ရှိကြောင်း မှန်သကဲ့သို့၊ သူတို့သည် နီးကပ်လာနေသောသေကျေပျက်စီးရာသို့ မိုက်မဲ တွေဝေ၊ မသိမမြင်အကန်းပမာ အမှန်ပင်သွားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်မုဟမ္မဒ်) အသင်၏ အသက်ဇီဝိန်၏ကစမ်။ စင်စစ်ဧကန် ၎င်းတို့သည် မိမိတို့ မာန်ယစ်မှု၌ပင် တွေဝေလျက် ရှိကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

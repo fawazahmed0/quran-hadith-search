@@ -710,6 +710,12 @@ i sŭshto - naroda na Nukh predi, te byakha oshte po-ugnetyavashti i prestŭpvas
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၂။	ထို့အပြင်ရှေးလွန်လေပြီးသောကာလတွင် တမန်တော်နူဟို၏ လူတို့သည် လွန်စွာဆိုးယုတ်မတရားကျင့်၍ ထောင်ထားခြားနားခြင်းကြောင့် ပျက်စီးဆုံးရှုံးရကြောင်းလည်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ ရှေးအထက်ကျော်ကာလ၌ ‘နူဟ်’၏အမျိုးသားတို့အားလည်း (ဖျက်ဆီးတော်မူခဲ့၏)။ ဧကန်စင်စစ် ထို ‘နူဟ်’ ၏အမျိုးသားတို့မှာ ပိုမို၍ပင် မတရားသောသူများ၊ ပိုမို၍ပင် ဆိုးသွမ်းသူများ ဖြစ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

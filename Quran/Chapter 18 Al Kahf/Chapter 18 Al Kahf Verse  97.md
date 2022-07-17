@@ -710,6 +710,12 @@ I [Yadzhudzh i Madzhudzh] nito mozhakha da ya izkateryat, nito mozhakha da ya pr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၇။	ထိုအခါဟာဂျူးမာဂျူးခေါ်အသင်းသားတို့သည် ထိုတံတိုင်းကြီးပေါ်သို့ မတက်စွမ်းနိုင်ချေ။ ဖောက်လည်း ဖောက်ထွင်းနိုင်စွမ်းမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(တံတိုင်းကြီးကို ပြုလုပ်၍ ပြီးစီးသော) အခါထို(ယအ်ဂျူဂျ်နှင့်မအ်ဂျူဂျ်)တို့မှာ ယင်းတံတိုင်းကြီးကို ကျော်တက်ခြင်းကိုလည်းကောင်း၊ ဖောက်ထွင်း ခြင်းကိုလည်းကောင်း၊မပြုစွမ်းနိုင်ခဲ့ကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

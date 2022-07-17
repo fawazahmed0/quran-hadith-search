@@ -710,6 +710,12 @@ Taka e! I neka vkusyat tova - vryashta voda i gnoĭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၇။	ငရဲအတွင်း၌ သူတို့သောက်ဖို့ရာ ကျိုက်ကျိုက်ဆူသောရေပူရှိ၏၊ အလွန်အေးသောရေခဲရေလည်း ရှိ၏၊ သူတို့ သည် ၎င်းရေကိုသာ သောက်ရမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည် ကျိုက်ကျိုက်ဆူပွက်လျက်ရှိသော ရေပူနှင့် ပြည်ပုပ်ဖြစ်၏။ သို့ဖြစ်ပေရာ ၎င်းတို့သည် ဤသည်ကို မြည်းစမ်းကြပါစေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

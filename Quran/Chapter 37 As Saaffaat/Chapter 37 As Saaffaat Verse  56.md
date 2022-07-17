@@ -710,6 +710,12 @@ Reche: “Kŭlna se v Allakh, ti edva ne me pogubi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၆။	ထိုအခါနိဗ္ဗာန်သားက မိတ်ဆွေငရဲသားအား ပြောသည်မှာ မိတ်ဆွေ ငါသည် အလ္လာဟ်အရှင်မြတ်ကို တိုင်တည်၍ ပြော၏၊ သင်၏ ဖျားယောင်းသွေးဆောင်မှုကြောင့် ငါသည် ပျက်စီးဆုံးရှုံးရာသို့ ရောက်ဖို့ လက်မတင်ကလေးသာ လိုလေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ၎င်းသည် ထိုအဖော်အား (ဤသို့)ပြောဆိုပေမည်။ အလ္လာဟ်အရှင်မြတ်၏ "ကစမ်" ဧကန်စင်စစ် အသင်သည် ကျွန်ုပ်အား ဖျက်ဆီးလု နီးနီး ဖြစ်ခဲ့ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

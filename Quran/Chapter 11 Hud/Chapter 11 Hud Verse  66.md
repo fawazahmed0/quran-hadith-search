@@ -710,6 +710,12 @@ I kogato Nashata povelya doĭde s milost ot Nas, spasikhme Salikh i onezi, koit
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၆။	ထို့ကြောင့်ငါအရှင်မြတ်၏ အမိန့်တော်ကျရောက်လာသောအခါ ငါသည် ငါ၏ ကရုဏတော်အားဖြင့် တမန်တော် ဆွာလေ(ဟ်)နှင့် သူနှင့်အတူတကွယုံကြည်သူတို့ကို ထိုနေ့၏ အရှက်တကွဲဖြစ်ရခြင်းမှ ကယ်နှုတ်တော်မူ၏။ မှတ်သားလော့၊ သင်၏ အရှင်သခင်သည် အတိုင်းမသိအားကြီးတော်မူသောအရှင်၊ အနန္တတန်ခိုးတော်နှင့်ပြည့်စုံ သောအရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန်(သုံးရက်ကုန်၍)ငါအရှင်မြတ်၏ အမိန့်တော်ရောက်ရှိလာသောအခါ ငါအရှင်မြတ်သည် (နဗီတမန်တော်)ဆွာလိဟ်နှင့်တကွ ထို(နဗီတမန်တော်) ဆွာလိဟ်နှင့်အတူ သက်ဝင်ယုံကြည်ခဲ့ကြသောသူတို့ကိုပါ မိမိကရုဏာတော်ဖြင့် ပျက်စီးခြင်း၏ပြစ်ဒဏ်မှလည်းကောင်း၊ ထိုနေ့တွင် အရှက်တကွဲအကျိုးနည်းဖြစ်ခြင်းမှလည်းကောင်း ကယ်တင်တော်မူခဲ့လေသည်။ ဧကန်စင်စစ် အသင့်အား ဖန်ဆင်းမွေးမြူ တော်မူသောအရှင်မြတ်သည် ခွန်အားကြီးမားတော် မူသောအရှင်၊လွှမ်းမိုးတော်မူသောအရှင်၊ ဖြစ်တော်မူပေတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

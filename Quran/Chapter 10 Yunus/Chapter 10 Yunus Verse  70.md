@@ -710,6 +710,12 @@ Nyakakva naslada imat v zemniya zhivot, posle kŭm Nas e zavrŭshtaneto im, posl
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၀။	ဤလောက၏ ဝေစုသည် သူတို့အဖို့ဖြစ်မည်။ ထို့နောက်သူတို့၏ ပြန်ခြင်းသည် ငါအရှင်မြတ်အထံတော်သို့ ဖြစ်၏။ ထိုအခါငါသည် သူတို့မယုံကြည်ကြသောကြောင့် အလွန်ကြောက်မက်ဖွယ်ကောင်းသောအပြစ်ဒဏ်တော် ကို ခံစားစေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (၎င်း တို့အဖို့)လောကီဘဝတွင် အကျိုးခံစားခြင်းအနည်းငယ်မျှသာရှိပေသည်။ ထို့နောက် ၎င်း တို့သည် ငါအရှင်မြတ်အထံတော်တို့သာလျှင် ပြန်လည်ရောက်ရှိရပေမည်။ ထို့နောက် ငါအရှင်မြတ်သည် ၎င်း တို့အား ၎င်း တို့သွေဖည်ငြင်းပယ်လျက်ရှိခဲ့ကြသောကြောင့် ပြင်းထန်စွာသော ပြစ်ဒဏ်(၏ရသာ)ကို မြည်းစမ်းစေတော်မူမည် ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

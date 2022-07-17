@@ -710,6 +710,12 @@ Onezi, koito vyarvat i vŭrshat pravedni dela, i ot·sluzhvat molitvata, i davat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇၇။	မှတ်သားကြလော့၊ အကြင်သူတို့သည်ယုံကြည်ကြကုန်၏။ ကုသိုလ်ကောင်းမှုပွားများကြကုန်၏။ ဆွလာသ်ဝတ်ပြုကြကုန်၏။ ဇကားသ်အလှူကို လှူကြကုန်၏။ ထိုသူတို့၏ အောင်ဆုမင်္ဂလာသည် သူတို့၏ အရှင်သခင်အထံတော်၌ ရှိ၏။ သူတို့အပေါ်သို့ ကြောက်ရွံ့ခြင်းကျမည်မဟုတ်ပေ။ သူတို့သည် ပူဆွေးကြရမည်လည်းမဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မုချဧကန် အကြင်သူတို့သည် ယုံကြည်ခြင်းသဒ္ဓါတရားထားရှိကြ၍ ကောင်းမြတ်သော အကျင့်သီလများကိုလည်း ဆောက်တည်ကြကုန်၏။ ထို့ပြင်တဝ ယင်းသူတို့သည်“ဆွလာတ်”ဝတ်ပြုကြကုန်၏။ 4င်းပြင် ထိုသူတို့သည်”ဇကာတ်”တရားဝင်ဒါနကြေးကိုလည်း ပေးဆောင်ကြကုန်၏။ ယင်းသူတို့၏အကျိုးဆုလာဘ်သည် ယင်းသူတို့အား မွေးမြူတော်မူသောအရှင်မြတ်၏အထံတော်၌ (အသင့်)ရှိ၏။ 4င်းပြင် ယင်းသူတို့အဖို့အရာမည်သည့် စိုးရိမ်ကြောက် ရွံ့ခြင်းမျှမရှိချေ။ 4င်းပြင်ယင်းသူတို့သည် ဝမ်းနည်းပူဆွေး ကြမည်လည်းမဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

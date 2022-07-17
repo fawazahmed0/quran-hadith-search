@@ -710,6 +710,12 @@ koito ne davat milostinyata zakat i otvŭdniya zhivot otrichat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	ထိုသူယုတ်မာတို့သည် ဇကားသ်အလှုကို မပေး၊ နောင်တမလွန်ဘဝကိုလည်း မယုံကြည်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတို့သည် ဇကာတ် ပေးဆောင်ကြသည် မဟုတ်ပေ။ ထိုမှတစ်ပါး ၎င်းတို့သည်ပင်လျှင် အာခိရတ် တမလွန်ဘဝကို ငြင်းပယ်သူများ ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

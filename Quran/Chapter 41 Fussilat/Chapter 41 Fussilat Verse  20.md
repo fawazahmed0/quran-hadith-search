@@ -710,6 +710,12 @@ Kogato stignat tam, i slukhŭt, i zrenieto, i kozhata im shte svidetelstvat prot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	ထိုနေ့တော်ကြီး၌ သူတို့သည် ငရဲမီးသို့ ရောက်လာသောအခါ သူတို့၏နားမျက်စိနှင့်တကွ အသားအရေကိုယ် အင်္ဂါအစိတ်အပိုင်းစသည်တို့ကပါ ၎င်းတို့လောကတွင် ပြုကျင့်ခဲ့သောအကျင့်အကြံများကို ဖော်ထုတ်၍ သက်သေ ခံကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 နောက်ဆုံးတွင် ထိုသူတို့သည် ယင်းငရဲမီး၏အနီးရောက်ရှိကြသောအခါ ထိုသူတို့၏နားများသည် လည်းကောင်း၊ ထိုသူတို့၏ မျက်စိများသည်လည်း ကောင်း၊ ထိုသူတို့၏သားရေများသည်လည်းကောင်း၊ ထိုသူတို့နှင့်ဆန့်ကျင်ကာ ထိုသူတို့ကျင့်မူလျက် ရှိခဲ့ကြသည်တို့နှင့်စပ်လျဉ်း၍ သက်သေခံကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

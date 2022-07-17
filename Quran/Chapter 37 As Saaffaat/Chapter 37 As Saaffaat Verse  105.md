@@ -710,6 +710,12 @@ ti izpŭlni sŭnya.” Taka nagrazhdavame Nie blagodetelnite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၅။	သင်သည် မိမိမြင်မက်သောအိပ်မက်အတိုင်း အမှန်ပြုလေပြီ၊ မှတ်သားကြလော့၊ ငါသည် သူတော်စင်တို့အား ယင်းကဲ့သို့အောင်မှုကို သနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ အသင်သည် အိပ်မက်ကို အမှန်အကန် ဆောင်ရွက်ခဲ့လေပြီ။ ဧကန်အမှန် ငါအရှင်မြတ်သည် သူတော်ကောင်းတို့အား ဤနည်းအတိုင်းပင် အစားပေးလေ့ရှိတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

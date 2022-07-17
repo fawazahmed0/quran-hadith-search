@@ -710,6 +710,12 @@ Veche dadokhme na Musa Pisanieto i nastana raznoglasie za nego. I ako nyamashe p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁ဝ။	ထို့အပြင်ငါအရှင်မြတ်သည် တမန်တော်မူစာအား ကျမ်းတော်တစ်စောင် မုချအမှန်ထုတ်ပြန်ပေးသနားတော် မူ၏။ ထိုကျမ်းတော်နှင့်ပတ်သက်၍ အငြင်းအခုံပွားကြ၏။ သင်၏ အရှင်သခင်သည် အထံတော်မှ အမိန့်တော် ထွက်မသွားခဲ့လျှင် သူတို့၏ အမှုကို သူတို့အလည်ကြားတွင် စီရင်ဆုံးဖြတ်တော်မူပြီးလတ့ံ။ မှတ်သားလော့။ သူတို့သည် ထိုကျမ်းတော်ကြီးကို ကြီးစွာယုံမှားသံသယဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ဧကန်မလွဲ ငါအရှင်မြတ်သည်(နဗီတမန်တော်)မူစာအား ကျမ်းဂန်ကိုချီးမြှင့် ပေးသနားတော်မူခဲ့လေသည်။ သို့ရာတွင် ထိုကျမ်းဂန် နှင့်စပ်လျဉ်း၍(လည်း)အကွဲအလွဲဖြစ်ခဲ့ရလေသည်။ စင်စစ်သော်ကား အကယ်၍သာအသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်အထံတော်မှ အမိန့်တော် တစ်ရပ်သည် မူလကပင် မရှိခဲ့ပါလျှင် ၎င်းတို့၏စပ်ကြားတွင် စီရင်ဆုံးဖြတ်ခဲ့မည်မှာ ဧကန်မလွဲ အမှန်သော်ကား ၎င်းတို့သည် ယင်းကိစ္စနှင့်စပ်လျဉ်း၍ အမြဲတစေယုံမှားသံသယဖြစ်စေသော ဒွိဟ၌ အမှန်ပင် ရှိနေကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

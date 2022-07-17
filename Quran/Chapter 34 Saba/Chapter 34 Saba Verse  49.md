@@ -710,6 +710,12 @@ Kazhi: “Istinata doĭde, a lŭzhata nito mozhe da nachene, nito da vŭzstanov
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	တဖန်ဟောကြားလော့၊ သမ္မာတရားအလင်းရောင်တော်သည် ထွန်းလင်းတောက်ပနေပြီ၊ မိစ္ဆာတရားသည် မျက်နှာမပြရဲ ကွယ်ပျောက်သွားပြီ၊ တဖန်ပြန်ပေါ်လာမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ပြောကြားပါဦးလေ။ (အချင်းတို့၊) အမှန်တရားသည် ရောက်ရှိ၍ လာခဲ့ချေပြီ။ စင်စစ်သော်ကား အမှားသည် (တစ်စုံတစ်ရာကို)ဖြစ်ပေါ်စေသည်လည်းမဟုတ်ပေ။ (တစ်စုံတစ်ရာ)ကို ပြန်၍ယူလာသည်လည်း မဟုတ်ပေ။ (ယိုယွင်းပျက်စီးချေပြီ)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

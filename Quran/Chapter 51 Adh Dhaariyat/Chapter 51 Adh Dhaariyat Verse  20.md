@@ -710,6 +710,12 @@ Za ubedenite na zemyata ima znameniya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	ထို့အပြင်ဤကမ္ဘာမြေပေါ်တွင်ကား ယုံကြည်သူအစစ်အမှန်တို့အဖို့ သက်သေသာဓကတော်များရှိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ယုံကြည်လိုသော သူတို့အဖို့ပထဝီမြေ၌ များစွာသောသက်သေ လက္ခဏာများ ရှိကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

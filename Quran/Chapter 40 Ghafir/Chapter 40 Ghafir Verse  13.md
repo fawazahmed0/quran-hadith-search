@@ -710,6 +710,12 @@ Toĭ e, Koĭto vi pokazva Svoite znameniya i spuska za vas prepitanie ot nebet
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	အို-လူသားအပေါင်းတို့၊ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အား အရှင်မြတ်၏ သက်သေသာဓကတော်များကို ပြတော်မူ၏၊ သင်တို့စားဖို့ရာ အစားအစာများကို အထက်ကောင်းကင်ဘုံမှ ချပေးသနားတော်မူ၏၊ အလ္လာဟ် အရှင်မြတ်ဘက်တော်သို့ တရားသံဝေဂရလျက် လှည့်သောသူတို့မှတပါး အခြားသူတို့သည် တရားကို အရေးစိုက် ကြမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည်ပင် အသင်တို့အား မိမိ သက်သေလက္ခဏာတော်များကို ပြသတော်မူ၏။ ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည်ပင် အသင်တို့အဖို့ မိုးကောင်းကင်မှ စားနပ်ရိက္ခာကို ချပေးသနားတော်မူ၏။ သို့ရာတွင် (ထိုအရှင်မြတ်ဘက်သို့) ပြန်လှည့်သော သူသည်သာလျှင် စဉ်းစားဆင်ခြင်တရား ရယူလေ့ရှိပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

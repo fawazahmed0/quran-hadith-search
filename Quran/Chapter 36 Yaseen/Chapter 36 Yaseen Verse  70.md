@@ -710,6 +710,12 @@ za da predupredi onzi, koĭto e zhiv, i da se sbŭdne Slovoto spryamo nevernits
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၀။	ကျမ်းမြတ်ကုရ်အာန်ကို ထုတ်ပြန်ချပေးသနားတော်မူရသည့်အကြောင်းရင်းကား စိတ်နှလုံးရှင်၊ ယုံကြည်သူ အပေါင်းတို့ကို ဆုံးမပဲ့ပြင်ဟောပြောစိမ့်သော်ငှာလည်းကောင်း၊ သူသေအလား သမ္မာတရားတော်ကို မယုံကြည် ငြင်းဆန်သူမိစ္ဆာဒိဋ္ဌိအားလုံးတို့အပေါ်၌ ငရဲအပြစ်ဒဏ်ထိုက်ကြောင်း ထင်ရှားစေသောသက်သေခံချက်ဖြစ်စိမ့် သောငှာလည်းကောင်း၊ ဤအကြောင်းနှစ်ပါးကြောင့် ကျမ်းမြတ်ကုရ်အာန်ကို ငါချပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ယင်းကုရ်အာန်ကျမ်းတော်မြတ်ကို ထုတ်ပြန်တော်မူခြင်းမှာ)ထိုတမန်တော်မြတ်သည် (စိတ်နှလုံး)ရှင်သူတို့အား သတိပေး နှိုးဆော်အံ့သောငှာလည်းကောင်း၊ "ကာဖိရ်" သွေဖည်ငြင်းပယ်သောသူတို့အပေါ် စွပ်စွဲချက် အတည်ဖြစ်အံ့သောငှာလည်းကောင်း၊ ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

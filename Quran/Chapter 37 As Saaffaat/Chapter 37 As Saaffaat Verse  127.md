@@ -710,6 +710,12 @@ No go vzekha za lŭzhets i zatova te shte bŭdat dovedeni [v Ada]
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၇။	သို့သော်ထိုအမျိုးသားတို့သည် ဤတမန်တော်ကို မယုံကြည်ငြင်းပယ်ကြ၏၊ ထို့ကြောင့်သူတို့သည် အဝီစိငရဲက ခရီးဦးကြိုဆိုခြင်းကို မုချဧကန်ခံကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တစေလည်း ၎င်းတို့သည် ထို(နဗီတမန်တော်) အီလ်ယာစ်အား မုသာဝါဒီဟူ၍ စွပ်စွဲငြင်းပယ်ခဲ့ကြပေရာ၊ ဧကန်စင်စစ် ၎င်းတို့သည် (ငါအရှင်မြတ်၏) ရှေ့တော်မှောက်သို့ သွင်းခြင်းခံကြရမည့်သူများ အမှန်ပင်ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

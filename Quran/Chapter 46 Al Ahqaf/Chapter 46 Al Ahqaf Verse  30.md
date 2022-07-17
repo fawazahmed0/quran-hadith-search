@@ -710,6 +710,12 @@ Rekokha: “O, narode nash, chukhme Kniga, nizposlana podir Musa v potvŭrzhdeni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	ထိုဂျင်နတ်သားတို့ပြန်ပြောသည်မှာ အို-အချင်းတို့၊ ငါတို့သည် တမန်တော်မူစာပြန်တော်မူပြီးမှ ချပေးသနားတော် မူသောကျမ်းတော်တစ်စောင်ကို ကြားနာခဲ့ရပြီ၊ ထိုကျမ်းတော်သည် အထက်ထက်က ချပေးသနားတော်မူသော ကျမ်းတော်များကို ထောက်ခံ၏၊ ထိုကျမ်းတော်သည် လူသားတို့အား သမ္မာတရားတော်ကို ပေး၏၊ ဖြောင့်မတ် သောလမ်းကို ညွှန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့က ပြောဆိုခဲ့ကြသည်မှာ "အို-ကျွန်ုပ်တို့၏အမျိုးသားတို့၊ ဧကန်မလွဲ ကျွန်ုပ်တို့သည်(နဗီတမန်တော်)မူစာ၏နောက်တွင် ချပေးခြင်းခံခဲ့ရလေသော ကျမ်းဂန်တစ်စောင်ကို ကြားနားခဲ့ကြရကုန်၏။ (ယင်းကျမ်းဂန်သည်) ၎င်း၏အလျင်ရှိခဲ့သော ကျမ်းဂန်တို့ကို ထောက်ခံလျက်ရှိ၏။ အမှန်တရားကိုလည်းကောင်း၊ ဖြောင့်မတ်သောတရားလမ်းကိုလည်းကောင်း၊ ညွှန်ပြ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

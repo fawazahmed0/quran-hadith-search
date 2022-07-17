@@ -710,6 +710,12 @@ Allakh e, Koĭto sŭtvori nebesata i zemyata, i vsichko mezhdu tyakh v shest dn
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	အလ္လာဟ်အရှင်မြတ်သည် ကမ္ဘာမြေပြင်မိုးကောင်းကင်နှင့်တကွ ထိုနှစ်ရပ်အကြားရှိ အရာဝထ္ထုအပေါင်းတို့ကို ခြောက်ရက်ကာလမျှနှင့် ပြီးစီးအောင်ဖန်ဆင်းတော်မူ၏၊ ထို့နောက်အရှင်မြတ်သည် ရာဇပလ္လင်တော်ကြီးအပေါ်သို့ တက်၍ စံမြန်းတော်မူ၏၊ အို-လူသားအပေါင်းတို့၊ သင်တို့၌ အရှင်မြတ်မှတပါး အခြားကာကွယ်စောင့်ရှောက်သူ အဆွေခင်ပွန်းသော်လည်းကောင်း၊ ရန်ဖြေဖြန်သူသော်လည်းကောင်း၊ တစ်စုံတစ်ယောက်မျှမရှိချေ၊ ထို့ကြောင့် သင်တို့သည် တရားတော်ကို အာရုံပြုကြမည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်ပင် မိုးကောင်းကင်များကိုလည်းကောင်း၊ ပထဝီမြေကိုလည်းကောင်း၊ ယင်းမိုး ကောင်းကင်များနှင့် ပထဝီမြေ၏အကြား၌ ရှိသမျှတို့ ကိုလည်းကောင်း၊ခြောက်ရက်တွင် ဖန်ဆင်းတော်မူပြီး နောက် အရ်ရှ် ပလ္လင်တော်ထက်ဝယ် စံမြန်းတော်မူခဲ့၏။ အသင်တို့အဖို့ ထိုအရှင်မြတ်အပြင် ကူညီစောင်မမည့်သူ၊ ကြားဝင် အသနားခံပေးမည့်သူဟူ၍လည်း တစ်ဦးတစ်ယောက်မျှပင် မရှိပြီ။ သို့ပါလျက်အသင်တို့ သတိမမူ နားမလည်ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ i sŭstradanie ot Nas, i chistota. I be bogoboyazliv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	ထို့အပြင်သနားတတ်သောစိတ်ဓာတ်နှင့် သန့်ရှင်းမြင့်မြတ်သောသဘောကို ပေးသနားတော်မူ၏။ သူသည် အရှင်မြတ်နှင့် တရားတော်ကို သဒ္ဓါကြည်ညို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ မိမိအထံတော်မှ အကြင်နာတရားကိုလည်းကောင်း၊ သန့်ရှင်းစင်ကြယ်မှုကိုလည်း ကောင်း၊(ချီးမြှင့်တော်မူခဲ့၏)။ ၎င်းပြင် ယင်းယဟ်ယာသည် (ပြစ်မှုဒုစရိုက်တို့မှ) အလွန် ရှောင်ရှားသူပင် ဖြစ်ခဲ့ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

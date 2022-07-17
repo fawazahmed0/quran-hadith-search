@@ -710,6 +710,12 @@ I spomenavaĭ imeto na svoya Gospod i sutrin, i vecher
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။ သင်သည် မိမိအရှင်သခင်၏ နာမတော်ကို နံနက်တိုင်း၊ ညနေတိုင်းချီးကျူးတသလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်အသင်သည် နံနက်ယံ၌လည်းကောင်း၊ ညနေချမ်း၌လည်းကောင်း၊ အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ နာမံတော်ကို တသ စီးဖြန်းပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

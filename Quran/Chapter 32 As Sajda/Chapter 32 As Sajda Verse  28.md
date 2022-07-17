@@ -710,6 +710,12 @@ I kazvat: “Koga shte bŭde tova ot·sŭzhdane, ako govorite istinata?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	ထို့အပြင်သူတို့က သင်တို့အမှန်ကို ဆိုလိုလျှင် သင်တို့ပြောဆိုသည့်အောင်မင်္ဂလာနေ့တော်ကြီးသည် အဘယ် အခါဆိုက်ရောက်မည်နည်းဟု မေးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့က အကယ်၍ အသင်တို့သည် သစ္စာဝါဒီများ ဖြစ်ကြပါလျှင် ဤစီရင် ဆုံးဖြတ်မှုသည်မည်သည့်အခါ၌ ဖြစ်အံ့နည်း ဟု ပြောဆိုကြ ကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

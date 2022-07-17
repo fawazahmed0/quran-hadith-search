@@ -710,6 +710,12 @@ i s iramitite, imashti visoki postroĭki
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၊၇။ အို-တမန်တော်၊ သင်၏ အရှင်သခင်သည် အလွန်မြင့်မားသောကျောက်တိုင်များပြည့်လျှံသော(အေရမ်)မြို့တော် ကြီးသား(အားဒ်)လူမျိုးကို မည်သို့မည်ပုံ စီရင်တော်မူလိုက်သည်ကို သင်မစဉ်းစားမဆင်ခြင်သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အရပ်အမောင်းထွားကျိုင်းသော၊ တိုင်ရှည်ကြီးများ၏ပိုင်ရှင်ဖြစ်ကြသော "အိရမ်"(၏အဆက်အနွယ်)အား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I ako se sŭmnyavash v onova, koeto ti nizposlakhme [o, Mukhammad], pitaĭ chet
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၄။	အို-မိုဟမ္မဒ်၊ သင်သည် သင့်အား ငါအရှင်မြတ်ထုတ်ပြန်ပို့ချသနားတော်မူသောကျမ်းတော်မြတ်၌ ဝိစိကိစ္စရှိလျှင် သင်မဖြစ်ပေါ်မီ ကျရောက်သောရှေးကျမ်းတော်များကို လေ့လာသူတို့အား မေးမြန်းကြည့်လော့။ သင်၏ ကျေးဇူး တော်သခင်ထံမှ သစ္စာတရားတော်ကြီးသည် သင့်ထံသို့ မုချဧကန်ကျရောက်လာပြီ။ ထို့ကြောင့်သင်သည် ယုံမှားသံသယရှိသူတို့ဘောင်တွင် မပါဝင်သင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တဖန် အကယ်၍ အသင်တို့သည် မိမိထံ ငါအရှင်မြတ် ချပေးသနားတော်မူသော အကြောင်းအချက်များနှင့်စပ်လျဉ်း၍ ဒွိဟသံသယဖြစ်ခဲ့ပါမူ အသင်သည် မိမိအလျင်ကျမ်းဂန်များကို ဖတ်လျက်ရှိသောသူတို့အား စုံစမ်းမေးမြန်းပါလေ။ စင်စစ်ဧကန် အသင့်ထံ အသင်၏အရှင်မြတ်အထံတော်မှ အမှန်တရားသည် ရောက်ရှိလာခဲ့လေပြီ။ သို့ဖြစ် ပေရာအသင်သည် ဒွိဟသံသယရှိသူတို့အနက်မှ အလျင်းမဖြစ်ပါလေနှင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

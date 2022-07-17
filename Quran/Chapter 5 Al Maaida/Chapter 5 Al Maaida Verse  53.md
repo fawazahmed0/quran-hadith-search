@@ -710,6 +710,12 @@ I shte rekat povyarvalite: “Tezi li sa, koito se klekha v Allakh s naĭ-usŭr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။	ထိုအခါ ယုံကြည်သူများက ရှေးကျမ်းတော်ရရှိသူတို့အား ဤလူများသည် သင်တို့ဘက်သို့ မုချအမှန် ပါဝင်သည်ဟု အလ္လာဟ်အသျှင်မြတ်ကိုတိုင်တည်၍ သင်တို့အား အကျိန်ကြီးကျိန်ဆိုပြောသူတို့ ဖြစ်ကြသလောဟု ပြောဆိုကြလိမ့်မည်။ သူတို့၏ပြုကျင့်မှုများသည် အယဟဿအကျိုးမဲ့ ဖြစ်သွားပြီ။ သူတို့သည် ဆုံးရှုံးသူများ ဖြစ်ကြပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ‘အီမာန်’ သက်ဝင်ယုံကြည်သောသူများက (မုနာဖစ်က်များနှင့်စပ်လျဉ်း၍) အလ္လာဟ်အရှင်မြတ်အား အထူးတလည်တိုင်တည်၍ “မုချဧကန် ၎င်းတို့သည် အသင်တို့နှင့်အတူပင် ရှိကြပါသည်ဟု ပြောဆိုသောသူများမှာ ဤသူများပင်လော” ဟု ပြောဆိုကြမည်။ ၎င်းတို့၏အပြုအမူများသည် အချည်းနှီးဖြစ်ခဲ့ချေပြီ။ သို့ဖြစ်ပေရာ ၎င်းတို့သည် နစ်နာဆုံးရှုံးသူများပင် ဖြစ်ခဲ့ကြချေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

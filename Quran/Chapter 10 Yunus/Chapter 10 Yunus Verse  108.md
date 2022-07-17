@@ -710,6 +710,12 @@ Kazhi: “O, khora, veche doĭde pri vas istinata ot vashiya Gospod. I koĭto 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၈။	ဟောကြားလော့၊ အို-လူသားအပေါင်းတို့၊ သင်တို့၏ ကျေးဇူးတော်သခင်အထံတော်မှ သင်တို့ထံသို့ သမ္မာတရား တော် ယခုကျရောက်လာပြီ။ ထို့ကြောင့်အကြင်သူသည် လမ်းမှန်ကို ရရှိ၏။ ထိုသူသည် မိမိ၏ ဝိညာဉ်ကောင်းစား ဖို့ရာ လမ်းမှန်ကို ရ၏။ အကြင်သူသည် လမ်းမှားသို့ ရောက်၏။ ထိုသူသည် မိမိ၏ ဝိညာဉ်နစ်နာဖို့သာ လမ်းမှားကို ရောက်၏။ အကျွနု်ပ်သည် သင်တို့ကို ထိန်းသိမ်းအုပ်ချုပ်ရသူမဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (ဤသို့တစ်ဖန်) ပြောကြားပါလေ။ အို-လူအပေါင်းတို့၊ အမှန်စင်စစ်အသင်တို့ထံ အသင်တို့၏အရှင်မြတ်အထံတော်မှ အမှန်တရားသည် ရောက်ရှိ၍လာခဲ့လေပြီ။ သို့ဖြစ်ပေရာ မည်သူမဆိုတရားလမ်းမှန်ကို ရရှိခဲ့ပါလျှင် ထိုသူသည် မိမိအကျိုးငှာ တရားလမ်းမှန်ကိုရရှိခဲ့သည်ပင်။ ထိုနည်းတူစွာ မည်သူမဆို လမ်းမှားခဲ့ပါမူထိုသူသည် မိမိကိုယ်နှင့်ဆန့်ကျင်၍သာ လမ်းမှားခဲ့သည်ပင်။စင်စစ် ငါသည် အသင်တို့အပေါ်၌ တာဝန်ခံ မဟုတ်ချေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

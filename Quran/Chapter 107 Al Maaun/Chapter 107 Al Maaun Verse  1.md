@@ -710,6 +710,12 @@ Vidya li ti onzi, koĭto vzima za lŭzha Vŭzmezdieto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။ အို-တမန်တော်၊ သာသနာတော်ကြီးကို မယုံကြည်ပဲ ငြင်းပယ်သူကို သင်မသိမမြင်သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်သည် အစားပေးခြင်း(၏နေ့)ကို မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်သောသူအား မမြင်ခဲ့လေ သလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

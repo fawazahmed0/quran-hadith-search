@@ -710,6 +710,12 @@ I nadbavya Allakh napŭt·stvie za napŭtenite. No neprekhodnite pravedni dela s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၆။	အလ္လာဟ်အရှင်မြတ်သည် လမ်းမှန်ကို လျှောက်လိုက်သူတို့အတွက် လမ်းညွှန်ပြအလင်းရောင်ကို ပိုမိုထွန်းလင်း တောက်ပစေတော်မူ၏၊ အစဉ်တည်မြဲသောကုသိုလ်ကောင်းမှုသည် အကျိုးသုခအတွက် သင်၏ အရှင်သခင် ၏ မျက်မှောက်တော်ဝယ် သာလွန်ကောင်းမွန်၏။ ထိုကုသိုလ်ကောင်းမှုသာလျှင် နောင်တမလွန်ဘဝတွင် သာလွန်မွန်မြတ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် တရားလမ်းမှန်ကို လိုက်စားသူတို့အား တရားလမ်းမှန်၌ တိုး တက်စေတော်မူ၏။ အမှန်သော်ကား အမြဲတစေ တည်ရှိနေမည်ဖြစ်သောကောင်းမြတ်သော အကျင့်သီလများသည် အသင့်အားဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်အထံတော်တွင် ကုသိုလ်အကျိုးအားဖြင့်လည်း အကောင်းဆုံးပင်ဖြစ်ပေသည်။ နောက်ဆုံးအကျိုးဆက်အားဖြင့်လည်း အကောင်းဆုံးပင်ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

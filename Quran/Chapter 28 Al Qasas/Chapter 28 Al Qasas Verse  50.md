@@ -710,6 +710,12 @@ A ako ne ti otkliknat, znaĭ, che sledvat samo strastite si! A koĭ e po-zablu
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅ဝ။	သူတို့သည် စကားမတုံ့ပြန်လျှင် သူတို့သည် မိမိတို့မက်မောခြင်းများနောက်သို့ တကောက်ကောက်လိုက်သူများ ဖြစ်ကြသည်ဟု သင်မှတ်သားလော့၊ အရှင်မြတ်၏ အဆုံးအမတော်မရှိပဲလျက် မိမိ၏အလိုဆန္ဒကို လိုက်သော သူထက် သာလွန်၍ တရားလမ်းကြောင်းမှ ဝေးကွာသူအဘယ်သူနည်း၊ မှတ်သားလော့၊ အလ္လာဟ့်အရှင်မြတ် သည် မကောင်းမှုပြုကျင့်နေသူတို့အား လမ်းညွှန်ပြတော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကယ်၍ ၎င်းတို့သည် အသင်၏ပြောကြားချက်ကို သဘောမတူခဲ့ကြပါလျှင် ၎င်းတို့သည် မိမိတို့၏စိတ်အလိုဆန္ဒများကို လိုက်စားသူများသာလျှင် ဖြစ်ကြသည်ဟူ၍သာ အသင်သည် မှတ်ယူပါလေ။ စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်အထံတော်မှ တရားလမ်းညွှန်ခြင်း တစ်စုံတစ်ရာမျှ မရှိဘဲလျက် မိမိ၏စိတ်အလိုဆန္ဒကိုသာ လိုက်စားသောသူထက် ပိုမို၍လမ်းလွဲမှားသောသူဟူ၍ကား မည်သူရှိပါအံ့နည်း။ ဧကန်အမှန် အလ္လာဟ်အရှင်မြတ်သည် ကျူးကျော်စော်ကားသော အမျိုးသားတို့အား တရားလမ်းမှန်ကို ညွှန်ပြတော်မူသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

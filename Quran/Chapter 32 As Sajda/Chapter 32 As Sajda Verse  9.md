@@ -710,6 +710,12 @@ Posle go osŭrazmeri i mu vdŭkhna ot Svoya dukh. I stori za vas slukha i zrenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	ထို့နောက်လူ့ပုံကို စီရင်တော်မူပြီးလျှင် ထိုပုံအတွင်းသို့ ဝိညာဉ်တော်မှ မှုတ်သွင်းတော်မူ၏၊ အို-လူသားအပေါင်း တို့၊ ငါသည် ကြားနာဖို့ရာ နား၊ ကြည့်မြင်ဖို့ရာမျက်စိ၊ အာရုံခံဖို့ရာ စိတ်နှလုံးစသည်တို့ကို ဖန်ဆင်းတော်မူ၏၊ သို့ပါလျက်သင်တို့သည် ငါ၏ကျေးဇူးတော်ကို အနည်းငယ်မျှသာသိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ထိုအရှင်မြတ်သည် ၎င်းအား နေထားကျနစွာ ပြုလုပ်တော်မူ၍ ၎င်း(၏ ခန္ဓာကိုယ် အတွင်း)၌မိမိအထံတော်မှ အသက်ဇီဝိန်ကို မှုတ်သွင်းတော်မူခဲ့၏။ ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် အသင်တို့အဖို့ နားကိုလည်းကောင်း၊ မျက်စိများကိုလည်းကောင်း၊ စိတ်နှလုံးများကိုလည်းကောင်း၊ ပြုလုပ်ပေးသနားတော်မူခဲ့၏။ (သို့ပါလျက်) အသင်တို့သည် အနည်းငယ်သာလျှင် ကျေးဇူးတင်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

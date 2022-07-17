@@ -710,6 +710,12 @@ I ne idva pri tyakh novo napomnyane ot Vsemilostiviya, bez da se otvŭrnat ot ne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	မဟာကရုဏာတော်အရှင်အထံတော်မှ သူတို့ထံသို့ ကျမ်းတော်သစ်ကျရောက်လာသည့်အခါတိုင်း မိစ္ဆာမိုက် တို့သည် ကျမ်းတော်မှ လှည့်သွားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ‘ရဟ်မာန်’ ကြီးမားလှသော ကရုဏာတော်ရှင်၏ အထံတော်မှ မည်သည့် သစ်လွင်သော ဆုံးမဩဝါဒမဆို ၎င်းတို့ထံ ရောက်ရှိလာပါလျှင် ၎င်းတို့သည် ယင်းဆုံးမဩဝါဒဘက်မှ မျက်နှာလွှဲ၍ နေလေ့ရှိကြသည်သာ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

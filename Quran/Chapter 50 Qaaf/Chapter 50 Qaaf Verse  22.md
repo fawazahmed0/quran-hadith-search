@@ -710,6 +710,12 @@ LEKAD KUNTE FI GAFLETIN MIN HADHA FEKESHEFNA ‘ANKE GITA’EKE FEBESERUKEL-JEWM
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	ထိုအခါမကောင်းမှုကျူးလွန်သူအား ဤသို့မိန့်တော်မူလတ့ံ၊ နင်သည် ဤနေ့တော်ကြီးကို ဂရုမစိုက်ခဲ့ချေ၊ ယခုမူကား နင်၏မျက်စိကို ဖုံးအုပ်ထားသောအမြှေးကို ငါခွာပစ်တော်မူပြီ၊ ထို့ကြောင့် ယနေ့နင်၏ မျက်စိသည် စူးရှထင်ရှားစွာမြင်နိုင်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ အသင်သည် ဤနေ့နှင့် စပ်လျဉ်း၍ ပေါ့ဆမှု၌ ရှိနေခဲ့ပေသည်။ သို့ဖြစ်ပေရာ (ယခုမူ) ငါအရှင်မြတ်သည် အသင့်အပေါ်မှ အကွယ်အကာကို ဖယ်ရှား၍ ပေးတော်မူလိုက်ပြီ။ ထို့ကြောင့် ယနေ့သော်ကား အသင်၏ မြင်နိုင်သောသတ္တိမှာ ထိုးဖောက်၍ မြင်နိုင်စွမ်းရှိနေပြီ ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

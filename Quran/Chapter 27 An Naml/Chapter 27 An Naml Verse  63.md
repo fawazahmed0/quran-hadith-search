@@ -710,6 +710,12 @@ Ili Onzi, Koĭto vi napŭtva v tŭmninite na sushata i na moreto, i Koĭto izp
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၃။	သင်တို့အား ကမ္ဘာမြေပြင်မိုးကောင်းကင်တို့၏ အမှောင်ထုအတွင်းတွင် လမ်းပြသတော်မူထသောအရှင်၊ လေများ ကို အရှင်မြတ်၏ကောင်းကြီးမင်္ဂလာတော်ရှေ့ပြေးအဖြစ်ဖြင့် တိုက်ခတ်စေတော်မူထသောအရှင်၊ ကျေးဇူးတော် သခင်သည် အမြတ်ဆုံးမဟုတ်ချေလော၊ အလ္လာဟ်အရှင်မြတ်မှတပါး အခြားအရှင်သခင်ရှိသလော၊ အလ္လာဟ် အရှင်မြတ်သည် မိစ္ဆာမိုက်တို့တွဖက်စပ်ထားသောဘုရားတုဘုရားယောင်များထက် သာလွန်မြင့်မြတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤရုပ်တုများ မြင့်မြတ်သလော)။ သို့တည်းမဟုတ် အကြင်အရှင်မြတ်ပင်(မြင့်မြတ်တော်မူပါသလော။) ထိုအရှင်မြတ်သည် အသင်တို့အား ကုန်းမြေနှင့်သမုဒ္ဒရာပင်လယ်၏ အမှောင်ထုများ၌ လမ်းညွှန်တော်မူ၏။ ထိုမှတပါး အကြင်အရှင်မြတ်သည် မိမိကရုဏာတည်းဟူသော မိုးမရွာမီ လေများကို ရှေ့ပြေး သတင်းကောင်းအဖြစ် စေလွှတ်တော်မူ၏။ အလ္လာဟ်အရှင်မြတ်နှင့်အတူ(အခြား)ဆည်းကပ်ကိုးကွယ်ရာဟူ၍ ရှိပါသေးသလော။ အလ္လာဟ်အရှင်မြတ်သည်ကား ၎င်းတို့ နှိုင်းယှဉ်ကိုးကွယ်ကြသည်များထက် (အတိုင်းမရှိ) မြင့်မြတ်တော်မူဘိသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

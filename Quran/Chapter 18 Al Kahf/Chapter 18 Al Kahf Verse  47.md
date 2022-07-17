@@ -710,6 +710,12 @@ A na Dan kad planine uklonimo i kad vidiš Zemlju ogoljenu – a njih smo već s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	ငါအရှင်မြတ်သည် တောင်ကြီးတောင်ငယ်များကို ဖယ်ရှား၍ ကမ္ဘာမြေကြီးသည် ဟင်းလင်းပကတိရှိနေသည်ကို သင်မြင်ရသောနေ့တော်ကြီးအကြောင်းကို ဆင်ခြင်တွေးတောလော့။ ထိုနေ့တော်ကြီး၌ လူသားတစုံတယောက်မျှ မကြွင်းမကျန်အောင် ငါသည် သူတို့အားလုံးကို စုရုံးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အကြင်နေ့ကို(လည်းသတိရသင့်၏၊)ငါအရှင်မြတ်သည် (ထိုနေ့တွင်)တောင်များကို ရွေ့ရှား စေတော်မူမည်။ ထို့ပြင် အသင်သည် ကမ္ဘာမြေကို လွင်ပြင်ထီးထီးအဖြစ်တွေ့မြင်ပေမည်။ ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ထို(လူသားအားလုံး)တို့ကို ၎င်းတို့အနက် တစ်ဦးတစ်ယောက်ကိုမျှ ချန်ထားခြင်းမရှိပဲ စုရုံးစေတော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

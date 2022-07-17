@@ -710,6 +710,12 @@ Prechist e Toĭ i e mnogo visoko, previsoko nad onova, koeto govoryat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	အရှင်မြတ်သည် ချို့တဲ့ခြင်းကင်းမဲ့၍ တန်ခိုးတော်ကြီးမားသောအရှင်ဖြစ်တော်မူပါ၏။ သူတို့စွပ်စွဲသောအညစ် အကြေးများမှ ကင်းစင်မြင့်မြတ်တော်မူပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် စင်ကြယ်သန့်ရှင်းတော် မူ၏။၎င်းပြင် ထိုအရှင်မြတ်သည် ယင်း(မုရှ်ရစ်က်)တို့ ပြောဆို(စွပ်စွဲ)ကြသည်တို့ထက်သာလွန်ထူးကဲ မြင့်မြတ်လှတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

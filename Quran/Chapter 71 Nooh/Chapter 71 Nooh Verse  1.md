@@ -710,6 +710,12 @@ Nie izpratikhme Nukh pri negoviya narod: “Predupredi naroda si, dokato ne go e
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။ ငါသည် တမန်တော်နူဟိုအား အေ-နူဟို၊ သင်သည် မိမိအမျိုးသားတို့အား ပြင်းပြခက်ထန်သောအပြစ်ဒဏ် မရောက်လာမီ သတိပေးဆုံးမလော့ဟု မိန့်တော်မူ၍ သူ၏ အမျိုးသားတို့ထံ စေလွှတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ငါအရှင်မြတ်သည် (နဗီတမန်တော်)နူဟ်အား ၎င်း၏အမျိုးသားတို့ထံ စေလွှတ်တော်မူခဲ့၏။အသင်သည် မိမိအမျိုးသားတို့အား၊ ၎င်းတို့ထံ နာကျင်ဖွယ်ဖြစ်သောပြစ်ဒဏ် ဆိုက်ရောက်၍မလာမီ သတိပေးပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

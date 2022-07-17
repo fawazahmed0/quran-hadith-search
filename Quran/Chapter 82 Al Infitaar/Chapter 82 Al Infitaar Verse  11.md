@@ -710,6 +710,12 @@ blagorodni, zapisvashti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။ ထိုကောင်းကင်တမန်တော်များသည် သနားကြင်နာတတ်ကြ၏၊ သင်တို့ပြုသမျှတို့ကို အကုန်အစင်ရေးသား မှတ်ထားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ငါအရှင်မြတ်အထံတော်၌) မြင့်မြတ်သူများ၊(အသင်တို့၏ ပြောဆိုပြုမူချက်တို့ကို) ရေးမှတ်သူများ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

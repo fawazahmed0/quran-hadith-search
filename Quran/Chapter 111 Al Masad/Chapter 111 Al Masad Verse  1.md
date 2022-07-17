@@ -710,6 +710,12 @@ Da se pogubyat dvete rŭtse na Abu Lakhab! I toĭ da se pogubi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။ အဘူလဟဗ်၏ တန်ခိုးအာဏာသည် ပျက်စီးဆုံးပါးရာသတည်း၊ သူလည်း သေကြေပျက်စီးရာသာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အဗူလဟဗ်၏ လက်နှစ်ဖက်သည် ကျိုးပဲ့ပျက်စီးစေသား။ ထို့ပြင် ၎င်းကိုယ်တိုင်လည်း ပျက်စီးစေသား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

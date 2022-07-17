@@ -710,6 +710,12 @@ ot koeto nebesata bikha se razkŭsali i zemyata - raztsepila, i planinite - sgro
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉ဝ။	ထိုစကားကြောင့် မိုးကောင်းကင်အထပ်ထပ်သည် အစိတ်စိတ်အမွှာမွှာပြိုကျရမလောက်ဖြစ်၏။ ကမ္ဘာမြေကြီး လည်း ကွဲသွားရမလောက်ဖြစ်၏။ တောင်ကြီးတောင်ငယ်များလည်း ပျက်ပြိုသွားကြရမလောက်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းပြောဆိုမှုကြောင့် မိုးကောင်းကင်များသည်ပြိုလုအံ့ဆဲဆဲ၊ ပထဝီမြေသည်အက်ကွဲအံ့ဆဲဆဲ၊ တောင်များသည်တုန်လှုပ်၍ ပြိုလဲကျအံ့ဆဲဆဲ၊ ဖြစ်ကုန်ကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

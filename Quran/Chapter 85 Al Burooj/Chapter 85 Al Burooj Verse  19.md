@@ -710,6 +710,12 @@ Da, onezi, koito ne vyarvat, otrichat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။ အယူမှားသူတို့သည် တရားတော်ကို ဆက်လက်ငြင်းဆန်နေကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမျှမကသေးပေ၊ စင်စစ်မှာကား ကာဖိရ် သွေဖည်ငြင်းပယ်ခဲ့ကြကုန်သောသူတို့သည် (ကုရ်အာန်ကျမ်းမြတ်ကိုပင်) မဟုတ်မမှန်ဟူ၍ ပြောဆိုငြင်းပယ်လျက် ရှိကြသေး၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

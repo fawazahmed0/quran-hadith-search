@@ -710,6 +710,12 @@ Znatnite ot negoviya narod, koito otrekokha i vzekha za lŭzha sreshtata v otvŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	သူ၏ လူများအနက် အကြီးအမှုးတို့သည် မယုံကြည်၊ နောင်တမလွန်ဘဝ၏ အစည်းအဝေးပွဲကိုလည်း ငြင်းဆန် ကြ၏၊ ထိုလူများအား ငါသည် လောကီစည်းစိမ်ကို ပေးသနားတော်မူ၏၊ သူတို့က ဤသူသည် သင်တို့ကဲ့သို့ သေမျိုးသာဖြစ်၏၊ သူသည် သင်တို့စားသောက်သောအစာကို စား၏၊ သင်တို့သောက်သောသောက်စရာကို သောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုရစူလ်တမန်တော်၏ အမျိုးသားတို့အနက် အကြင်အကြီးအကဲတို့သည် မယုံမကြည် သွေဖည်ငြင်းပယ်ခဲ့ကြ၏။ ၎င်းပြင် တမလွန်ဘဝနှင့် တွေ့ကြုံ ရင်ဆိုင်ရမည်ကိုလည်း မဟုတ်မမှန်ဟူ၍ ငြင်းဆိုခဲ့ကြသေး၏။ ၎င်းပြင် ငါအရှင်မြတ်သည် ထိုသူတို့အား (ဤမျက်မှောက်) လောကီ ဘဝတွင် စည်းစိမ်ချမ်းသာကိုလည်း ပေးတော်မူခဲ့၏။ ၎င်းတို့က (မိမိတို့အမျိုးသားတို့အား-အချင်းတို့၊) ဤသူသည် အသင်တို့ကဲ့သို့ပင် လူသားတစ်ဦးမျှဖြစ်၏။ ၎င်းသည် အသင်တို့ စားသုံးကြ ကုန်သောအရာများကို စားသုံးလေသည်။ ၎င်းပြင် အသင်တို့ သောက်ကြကုန်သော အရာများကိုပင် သောက်သုံးလေသည်ဟု ပြောဆိုခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

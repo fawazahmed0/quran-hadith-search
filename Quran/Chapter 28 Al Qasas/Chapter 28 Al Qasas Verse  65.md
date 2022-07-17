@@ -710,6 +710,12 @@ V tozi Den Toĭ shte gi prizove i shte kazhe: “Kakvo otvŭrnakhte na pratenit
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၅။	ထို့အပြင်နေ့တော်ကြီး၌ အလ္လာဟ်အရှင်မြတ်သည် ထိုသူမိုက်တို့အား ခေါ်တော်မူလျက် မိစ္ဆာမိုက်တို့၊ နင်တို့သည် ငါစေလွှတ်တော်မူသောတမန်တော်တို့အား အဘယ်အဖြေကို ပေးကြလေသနည်းဟု မေးတော်မူလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ အကြင်နေ့တွင် ထိုအရှင်မြတ်သည် ၎င်းတို့ကို ဟစ်ခေါ်၍ ‘အသင်တို့သည် ရစူလ်တမန်တော်တို့အား မည်သို့ဖြေကြားခဲ့ကြသနည်း’ ဟု မေးမြန်းတော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

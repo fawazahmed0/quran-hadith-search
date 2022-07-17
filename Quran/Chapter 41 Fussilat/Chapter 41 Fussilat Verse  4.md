@@ -710,6 +710,12 @@ blagovestitel i predupreditel. No povecheto ot tyakh se otvrŭshtat i ne se vslu
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	ထိုကျမ်းတော်မြတ်တွင် ဝမ်းမြောက်ဖွယ်သောသတင်းကောင်းနှင့် သတိပေးဗျာဒိတ်တော်များပါရှိ၏၊ သို့သော် များစွာသောလူသားတို့သည် လှည့်သွားကြ၏၊ မကြားကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သတင်းကောင်း ပြောကြားသည်၊ သတိပေးနှိုးဆော်သည်၊ သို့ရာတွင် ၎င်းတို့အနက် အများဆုံး သောသူတို့မှာမျက်နှာလွှဲခဲ့ကြကုန်၏။ သို့ဖြစ်ပေရာ ၎င်းတို့သည် နားထောင်ကြသည်ပင် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

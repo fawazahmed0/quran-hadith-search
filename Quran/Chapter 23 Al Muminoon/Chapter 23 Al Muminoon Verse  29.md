@@ -710,6 +710,12 @@ I kazhi: “Gospodi moĭ, poseli me na blagosloveno myasto! Naĭ-dobre Ti pose
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	အို-အကျွနု်ပ်၏ အသက်သခင်ကျေးဇူးရှင်၊ အကျွနု်ပ်ကို မင်္ဂလာရှိသောမြေမြတ်ပေါ်တွင် ဆိုက်ရောက်စေတော် မူပါ၊ အရှင်သည် မြေသို့ချပေးသောသူတို့တွင် အထွဋ်အခေါင်ဖြစ်တော်မူပါ၏ဟု ဆုတောင်းလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်သည် (သင်္ဘောပေါ်မှဆင်း သောအခါ) "အို-ကျွန်တော်မျိုးတို့အား ဖန်ဆင်းမွေးမြူတော်မူ သောအရှင်မြတ်၊ အရှင်မြတ်သည် ကျွန်တော်မျိုးအား ကျက်သရေမင်္ဂလာနှင့်ပြည့်စုံစွာ၊ ပြည့်စုံသောနေရာသို့ ဆင်းသက်စေတော်မူပါ။ စင်စစ် အရှင်မြတ်သည် အကောင်းဆုံးသောဆင်း သက်စေတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပါသည်" ဟုလျှောက်ထားပန်ကြားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

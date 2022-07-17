@@ -710,6 +710,12 @@ Shte bŭdat raztopyavani s neya i vŭtreshnostite, i kozhata im
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	ထိုအဝတ်အရည်များကြောင့် သူတို့ဝမ်းတွင်း၌ ရှိရှိသမျှတို့နှင့် အသားအရေအားလုံးတို့ပင် အရည်ပျော်၍ ကျလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုရေကြောင့် ထိုသူတို့၏ဝမ်းဗိုက်များ၌ရှိသောအရာ (အူသိမ်အူမ၊ အသည်း၊ နှလုံး) စသည်တို့သည်လည်းကောင်း၊ အသားအရည်တို့သည် လည်းကောင်း၊ အရည်ပျော်၍သွားကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

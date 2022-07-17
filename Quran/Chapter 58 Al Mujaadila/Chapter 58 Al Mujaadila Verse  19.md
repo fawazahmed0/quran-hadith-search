@@ -710,6 +710,12 @@ Zavladya gi satanata i gi nakara da zabravyat spomenavaneto na Allakh. Tezi sa p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	ရှိုင်တန်မာရ်နတ်သည် ထိုသူတို့ကို လွှမ်းမိုးပြီးလျှင် သူတို့အား အလ္လာဟ်အရှင်မြတ်အား သတိမရမေ့လျော့ သွားစေပြီး သူတို့သည် ရှိုင်တန်မာရ်နတ်ဘက်တော်သားများဖြစ်ကြ၏၊ သူ၏ အသင်းအပင်းသည် ဧကန်အမှန် ဆုံးရှုံးပျက်စီးရမည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘ရှိုင်တွာန်’ မိစ္ဆာကောင်သည် ၎င်းတို့အား နိုင်နင်း ကြီးစိုးလျက် ရှိပေရာ ၎င်းတို့အား ယင်း ‘ရှိုင်တွာန်’မိစ္ဆာကောင်သည် အလ္လာဟ်အရှင်မြတ်အား သတိရခြင်းကို မေ့ပျောက်စေခဲ့၏။ ထိုသူတို့ကား ‘ရှိုင်တွာန်’ မိစ္ဆာကောင်၏အုပ်စုပင် ဖြစ်ကြကုန်၏။ ကောင်းစွာ မှတ်ယူကြလေကုန်။ ဧကန်မလွဲ ‘ရှိုင်တွာန်’ မိစ္ဆာကောင်၏အုပ်စုကား ဆုံးရှုံးအံ့သောသူများပင် ဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

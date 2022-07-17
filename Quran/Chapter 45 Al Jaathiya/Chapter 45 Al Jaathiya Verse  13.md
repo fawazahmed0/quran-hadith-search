@@ -710,6 +710,12 @@ I podchini Toĭ za vas vsichko na nebesata i vsichko na zemyata - vsichko e ot 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	အရှင်မြတ်သည် မိုးကောင်းကင်နှင့် ကမ္ဘာမြေပြင်ဝယ် ရှိသမျှအရာခပ်သိမ်းတို့ကို သင်တို့အကျိုးရှိဖို့ရာ စီမံ ပြုပြင်ထားတော်မူ၏၊ ဤအရာများသည် အရှင်မြတ်အထံတော်မှ ဖြစ်၏၊ မှတ်သားကြလော့၊ ယင်းအချက်များ တွင် စဉ်းစားဆင်ခြင်တတ်သူတို့အဖို့အရာ သက်သေသာဓကတော်များပါရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် မိုးကောင်းကင်များ၌ ရှိသမျှကိုလည်းကောင်း၊ ကမ္ဘာမြေဝယ် ရှိသမျှကိုလည်းကောင်း၊ အလုံးစုံတို့ကို မိမိအထံတော်မှ အသင်တို့၏ လက်အောက်ခံ ဖြစ်စေတော်မူခဲ့၏။ ဧကန်မလွဲ ထိုသည်တို့၌ စဉ်းစားဆင်ခြင်ကြသော သူတို့အဖို့ အမှန်သက်သေ လက္ခဏာများသည် ရှိကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

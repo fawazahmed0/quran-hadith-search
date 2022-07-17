@@ -710,6 +710,12 @@ I kogato chuyat praznoslovie, te se otdrŭpvat ot nego i kazvat: “Nashite dela
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။	သူတို့သည် အကျိုးမရှိ၊ သိမ်ဖျင်းသောစကားကို ကြားရသောအခါ ထိုစကားဖျင်းမှ ထွက်ခွာသွားကြ၏၊ ထို့နောက်ဟယ်-အချင်းတို့၊ အကျွနု်ပ်တို့အတွက် အကျွနု်ပ်တို့၏ပြုကျင့်မှုများ၊ သင်တို့အတွက် သင်တို့၏ပြုကျင့်မှု များဖြစ်ကြ၏၊ သင်တို့အပေါ်သို့ အေးချမ်းသာယာမှုသက်ရောက်ပါစေသော်ဝ်၊ ငါတို့သည် အသိပညာမရှိသူတို့ကို မလိုလားကြဟု ဆိုကြကုန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ၎င်းတို့မှာ အချည်းနှီးသောစကားကို ကြားကြလေသောအခါ ထိုအချည်းနှီးသောစကားမှ မျက်နှာလွှဲ ဆုတ်ခွာသွားကြသည့်ပြင် ကျွန်ုပ်တို့၏ အပြုအမူများသည် ကျွန်ုပ်တို့အဖို့ဖြစ်၍ အသင်တို့၏ အပြုအမူများမှာ အသင်တို့အဖို့ ဖြစ်သည်။ ငြိမ်းချမ်းမှုသည် အသင်တို့အပေါ်၌ ရှိပါစေ။ကျွန်ုပ်တို့သည် အသိပညာ ကင်းမဲ့သူတို့အား အလိုမရှိကြပြီဟု ပြောဆိုခဲ့ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

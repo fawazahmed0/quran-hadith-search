@@ -710,6 +710,12 @@ Yadat ya samo greshnitsite.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။ ဤအညစ်အကြေးများကို ငရဲသူငရဲသားတို့မှတပါး မည်သူတစ်စုံတစ်ယောက်မျှမစားရချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းသည့် ရေညစ်ရေပုပ်ကို အပြစ်ရှိသူတို့ မှတစ်ပါး မည်သူမျှ စားသုံး(သောက်မျို)ရမည် မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

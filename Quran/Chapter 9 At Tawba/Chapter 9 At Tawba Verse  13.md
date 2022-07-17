@@ -710,6 +710,12 @@ Zar se nećete boriti protiv ljudi koji su zakletve svoje prekršili i nastojali
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	အကြင်သူတို့သည် မိမိတို့၏ ကျိန်ဆိုသောကတိသစ္စာများကို မစောင့်ထိန်းကြ၊ တမန်တော်ကို မောင်းထုတ်ရန် ကြံစည်ကြ၏၊ သင်တို့ကို စတင်၍ စစ်တိုက်ကြ၏။ထိုသူတို့ကို သင်တို့သည် တိုက်ခိုက်ကြမည်မဟုတ်လော၊ သင်တို့သည် သူတို့ကို ကြောက်ရွံ့သလော၊ သင်တို့သည် ယုံကြည်သူများဖြစ်ကြလျှင်၊ အလ္လာဟ်အရှင်မြတ်အား သာ ကြောက်ရွ့ံအပ်ကြသည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် အကြင်အမျိုးသားတို့အားအဘယ်ကြောင့် မတိုက်ခိုက်ကြသနည်း။ ထိုအမျိုးသားတို့သည်မိမိတို့၏ကတိသစ္စာကိုလည်း ဖောက်ဖျက်ခဲ့ကြကုန်၏။ ထို့ပြင်၎င်းတို့သည် တမန်တော်မြတ်(မုဟမ္မဒ်)အား(မက္ကာမြို့မှ) နှင်ထုတ်ရန်လည်း သန္ဓိဋ္ဌာန်ချခဲ့ကြကုန်၏။ ထိုမှတစ်ပါး ၎င်းတို့သည်ပင်လျှင် အသင်တို့အား ဦးစွာပထမ စတင်တိုက်ခိုက်ခဲ့ကြကုန်၏။ အသင်တို့သည် ၎င်းတို့အားကြောက်ရွံ့ကြလေသလော၊စင်စစ်တမူကား အကယ်၍ အသင်တို့သည် ‘မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူများဖြစ်ကြလျှင် အလ္လာဟ်အရှင်မြတ်အား ပိုမို၍ပင် ကြောက်ရွံ့ထိုက်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

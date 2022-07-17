@@ -710,6 +710,12 @@ I Negovo e vsichko na nebesata i na zemyata, i neizmenno za Nego e sluzheneto. I
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၂။	မိုးကောင်းကင်နှင့် ကမ္ဘာမြေပေါ်ဝယ်ရှိရှိသမျှအပေါင်းတို့သည် အလ္လာဟ်အရှင်မြတ်၏ ဘဏ္ဍာတော်များဖြစ်ကြ၏။ ဘာသာတရားသည် အရှင်မြတ်၏ ဘာသာသာလျှင် အစဉ်ဖြစ်၏။ ထို့ကြောင့်သင်တို့သည် အလ္လာဟ်အရှင်မြတ် မှတပါး အခြားတစုံတရာကို ကြောက်ရွံ့ကြမည်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် မိုးကောင်းကင်များ၌ ရှိကုန်သော (သက်ရှိသက်မဲ့) အရာဝတ္ထု အလုံးစုံတို့သည်လည်း ကောင်း၊ ပထဝီမြေ၌ရှိကုန်သော (သက်ရှိသက်မဲ့) အရာဝတ္ထုခပ်သိမ်းတို့သည်လည်းကောင်း၊ ထိုအရှင်မြတ် ပိုင်ဆိုင်တော်မူသော အရာဝတ္ထုချည်းသာဖြစ်ကုန်၏။ ထိုမှတစ်ပါး ထိုအရှင်မြတ် ၏(အမိန့်တော်)ကိုသာ ထာဝစဉ် လိုက်နာရပေမည်။ သို့ပါလျက် အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အပြင်အခြားတစ်စုံတစ်ရာကိုကြောက်ရွံ့ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

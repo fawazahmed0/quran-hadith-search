@@ -710,6 +710,12 @@ Tova e ot mŭdrostta, koyato tvoyat Gospod ti razkri. I ne vzimaĭ drug za bog 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	မိုဟမ္မဒ်၊ ဤပညတ်တော်များသည် သင်၏ ကျေးဇူးတော်သခင်က သင်၏ စိတ်နှလုံးအတွင်း၌ ထင်ရှားစေတော် မူသော၊ သိမ်မွေ့နက်နဲသောပညာရပ်၏ တစိတ်တဒေသဖြစ်၏။ သင်သည် အပြစ်ဒဏ်ခတ်၌ ငရဲမီးအတွင်းတွင် စွန့်ပစ်ခြင်းမခံရစိမ့်သောငှာ သင်သည် အလ္လာဟ်အရှင်မြတ်နှင့် အခြားဘုရားကို မတွဲဖက်လင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည်တို့ကား အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည် ဉာဏ်ပညာများအနက်မှ အသင့်ထံသို့ ထုတ်ပြန်တော်မူသော အမိန့်ပညတ်တော် များပင်ဖြစ်ကုန်၏။ သို့ဖြစ်ရာ အသင်သည် အလ္လာဟ် အရှင်မြတ်နှင့် ယှဉ်တွဲ၍အခြားကိုးကွယ်ရာ တစ်စုံတစ်ရာကိုမျှ (တွဲဖက်ကိုးကွယ်ခြင်းကို)မပြုလေနှင့်။ သို့ပြုခဲ့သော် အသင်သည် ဂျဟန္နမ်ငရဲဘုံ၌ ပြစ်တင် ရှုတ်ချခြင်းခံရလျက်၊ ကရုဏာတော်မှ ကင်းဝေးစေခြင်းခံရလျက် ပစ်ချခြင်းခံရအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

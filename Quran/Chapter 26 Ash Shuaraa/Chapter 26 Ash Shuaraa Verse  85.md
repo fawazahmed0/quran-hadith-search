@@ -710,6 +710,12 @@ i me stori da bŭda ot naslednitsite na blazheniya Raĭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၅။	အကျွနု်ပ်အား သုခနိဗ္ဗာန်ဥယျာဉ်တော်ကို အမွေခံစားရသူတို့အထဲတွင် အပါအဝင်ဖြစ်စေတော်မူပါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အရှင်မြတ်သည် ကျွန်တော်မျိုးအား ကျေးဇူးတော်နှင့်ပြည့်စုံသော ‘ဂျန္နတ်’ သုခဘုံ၏ အမွေစားအမွေခံ ပြုလုပ်တော်မူပါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

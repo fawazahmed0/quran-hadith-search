@@ -710,6 +710,12 @@ Az sŭm Allakh. Nyama drug Bog osven Men. Zatova na Men sluzhi i izvŭrshvaĭ m
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	မှတ်သားလော့၊ ငါသည် အလ္လာဟ်အရှင်မြတ်ဖြစ်တော်မူ၏။ ငါမှတပါး အခြားအရှင်သခင်မရှိချေ။ ထို့ကြောင့် ငါ့ကိုသာလျှင် ခဝပ်ကိုးကွယ်လော့၊ ငါ့ကို အောက်မေ့တသဖို့ရာ ဆွလားသ်ဝတ်ပြုလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် ငါအရှင်မြတ်သည် ပင်လျှင်အလ္လာဟ်အရှင်မြတ် ဖြစ်တော်မူပေသည်။ ငါအရှင်မြတ် မှတစ်ပါး ခဝပ်ကိုးကွယ်ရာအရှင်ဟူ၍ အလျှင်းမရှိပြီ။ သို့ဖြစ် ပေရာအသင်သည် ငါအရှင်မြတ်အားသာလျှင် ခဝပ်ကိုးကွယ်ပါလေ။ထို့ပြင် အသင်သည် ငါအရှင်မြတ်အား သတိရခြင်းငှာ ဆွလာတ်ဝတ်ပြုမှုကို ဆောက်တည်ပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

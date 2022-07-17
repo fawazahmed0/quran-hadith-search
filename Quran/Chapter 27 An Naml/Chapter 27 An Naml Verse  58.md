@@ -710,6 +710,12 @@ I izsipakhme otgore im dŭzhd [ot nazhezheni kamŭni]. I kolko losh e dŭzhdŭt 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈။	ထို့နောက်ငါသည် ထိုကျန်ရစ်သူတို့အပေါ်သို့ မိုးရွာသွန်းစေတော်မူ၏၊ သတိပေးခံရသူတို့၏ မိုးသည် အလွန် ကြောက်ရွ့ံဖွယ်ကောင်း၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ငါအရှင်မြတ်သည် ၎င်းတို့အပေါ်၌ မိုးတစ်မျိုးကို ရွာသွန်းစေတော်မူခဲ့၏။ စင်စစ် သတိပေးနှိုးဆော်ခြင်း ခံခဲ့ကြရသောသူတို့၏ မိုးမှာ အလွန်ဆိုးရွားခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

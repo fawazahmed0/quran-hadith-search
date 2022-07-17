@@ -710,6 +710,12 @@ Proslavata e za Allakh - Gospoda na nebesata i Gospoda na zemyata, Gospoda na sv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	ထို့ကြောင့်ကောင်းကင်ဘုံများ၏ အရှင်သခင်၊ မဟာပထဝီမြေကြီး၏ အရှင်သခင်၊ အနန္တစကြာဝဠာတို့၏ အရှင်သခင်၊ အလ္လာဟ်အရှင်မြတ်သည် ချီးမွမ်းခြင်းတည်ရာဖြစ်တော်မူပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်မှာကား ချီးမွမ်းထောပနာအပေါင်းတို့သည် မိုးကောင်းကင်များကို ဖန်ဆင်းတော်မူသော အရှင်၊ကမ္ဘာမြေကို ဖန်ဆင်းတော်မူသောအရှင်၊ စကြာဝဠာခပ်သိမ်းတို့ကို ဖန်ဆင်းမွေးမြူတော်မူသောအရှင် ဖြစ်တော်မူသည့် အလ္လာဟ်အရှင်မြတ်နှင့်သာလျှင် ဆက်စပ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

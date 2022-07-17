@@ -710,6 +710,12 @@ I kogato metnakha, Musa kaza: “Magiyata e tova, koeto vie donesokhte. Allakh s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၁။	သူတို့သည် မိမိတို့ပညာကို ပြကြသောအခါ တမန်တော်မူစာက သင်တို့သည် စုံးမျက်လှည့်အတတ်ကို ယူခဲ့ကြ၏။ ကြည့်ကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အတတ်ပညာကို အချည်းနှီးဖြစ်စေတော်မူလိမ့်မည်။ ကြည့် ကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် ပျက်စီးမှုပြုသူတို့၏ ပြုလုပ်မှုကို ထောက်မတော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ၎င်း တို့သည် (မိမိတို့ပစ်ချလိုသောကြိုးများကို မြေဝယ်)ပစ်ချခဲ့ကြသောအခါ (နဗီတမန်တော်)မူစာက(၎င်း တို့အားဤသို့)ပြောဆိုခဲ့ကြလေသည်။ အသင်တို့ ယူဆောင်ခဲ့ကြသောအရာများကား စုန်းပယောဂအတတ်ပင် ဖြစ်ပေသည်။ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် ယခုမကြာမီပင် ဤစုန်းပယောဂများကို အချည်းနှီး ဖြစ်စေတော်မူမည်။ စင်စစ်ဧကန်အလ္လာဟ်အရှင်မြတ်သည် (တန်ခိုးပြာဋိဟာနှင့်ပြိုင်ဆိုင်၍)ပျက်စီးရာပျက်စီးကြောင်း ပြုလုပ်သောသူတို့၏ လုပ်ငန်းကို အဆင်ပြေအောင် ပြုလုပ်ပေးသနားတော်မူသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Rekokha: “Ti li stori tova s nashite bozhestva, o, Ibrakhim?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	သူတို့က မေးသည်မှာ အို--အေဗရာဟမ်၊ ငါတို့ဘုရားများကို စော်ကားသူသည် သင်ပင်ဖြစ်သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အိဗ်ရာဟီမ်သည် ၎င်းတို့ရှေ့မှောက်သို့ရောက်သောအခါ) ၎င်းတို့က အို-အိဗ်ရာဟီမ် အသင်သည်ပင်လျှင်ကျွန်ုပ်တို့၏ ကိုးကွယ်ရာများကို ဤသို့ ပြုလုပ်ခဲ့လေသလောဟုပြောဆို(မေးမြန်း)ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

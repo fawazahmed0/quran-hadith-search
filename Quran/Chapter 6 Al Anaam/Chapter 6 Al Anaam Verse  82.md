@@ -710,6 +710,12 @@ Za onezi, koito vyarvat i ne smesvat svoyata vyara s gnet - za tyakh e sigurnost
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၂။	အကြင်သူတို့သည် ယုံကြည်မှုတရားရှိ၍ မိမိယုံကြည်မှုကို မကောင်းမှုပြုခြင်းအားဖြင့် မဖုံးလွှမ်းကြ။ သူတို့၏ပစ္စည်းသည် လုံခြံုခြင်းဖြစ်သည်။ ၎င်းပြင် သူတို့သည် လမ်းမှန်ပြခြင်း ခံကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတို့သည် အီမာန် သက်ဝင် ယုံကြည်ကြ၏။ ၎င်းပြင် ထိုသူများသည် မိမိတို့ အီမာန် သက်ဝင်ယုံကြည်မှုကို (ရှစ်ရ်က်)တွဲဖက်ကိုးကွယ်မှုနှင့် ရောနှောခြင်းကိုလည်းမပြုခဲ့ကြချေ။ ဘေးရန်ကင်းငြိမ်းခြင်းသည် ထိုသူတို့အဖို့သာလျှင်ရှိ၏။ ၎င်းပြင် ထိုသူတို့သည်သာလျှင် ဖြောင့်မတ်မှန်ကန်သောတရားလမ်းကို ရရှိသောသူများ ဖြစ်ကြကုန်သတည်း။ (ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

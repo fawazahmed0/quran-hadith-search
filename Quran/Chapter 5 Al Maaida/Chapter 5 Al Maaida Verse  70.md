@@ -710,6 +710,12 @@ Priekhme obeta ot sinovete na Israil i im izpratikhme pratenitsi. Vseki pŭt, sh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇ဝ။	ငါအသျှင်မြတ်သည် ရှေးအခါက အစ္စရာအီလ်အမျိုးသားတို့နှင့် ပဋိညာဉ်ဖွဲ့တော်မူ၏။ ငါသည် သူတို့ထံသို့ တမန်တော်များစေလွှတ်တော်မူ၏။ သူတို့မနှစ်သက်သော ကျင့်စဉ်တရားဥပဒေကို တမန်တော်တစ်ပါး ယူဆောင်လာလျှင်လာခြင်း သူတို့သည် ထောင်ထားခြားနားကြ၏။ အချို့ တမန်တော်များကို သူတို့လက်မခံ ငြင်းဆန်ကြ၏။ အချို့တမန်တော်များကို သူတို့ သတ်ဖြတ်ပစ် ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မုချ ငါအရှင်မြတ်သည် အစ္စရာအီလီမျိုးနွယ်တို့ထံမှ ပဋိညာဉ်ကို ယူတော်မူခဲ့၏။ ၎င်းပြင် ငါအရှင်မြတ်သည် ၎င်းတို့ထံသို့ (များစွာသော) ရစူလ်တမန်တော်များကိုလည်း စေလွှတ်တော်မူခဲ့၏။ မည်သည့်အခါမျိုးမဆို ထိုသူတို့ထံသို့ ရစူလ်တမန်တော်တစ်ပါးပါးသည် ထိုသူတို့မကြိုက်မနှစ်သက်သော အမိန့်ပညတ်တော်ကို ယူဆောင်လာခဲ့သည်ရှိသော် ထိုသူတို့သည် အချို့ (ရစူလ်တမန်တော်များ) ကို မုသာဝါဒီများဟူ၍ ပြောဆိုငြင်းပယ်ခဲ့ကြ၏။ အချို့တမန်တော်များကိုမူ သတ်ဖြတ်ခဲ့ကြ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ izvrŭshtaĭki se nadmenno, za da otklonyat ot pŭtya na Allakh. Za tyakh v zem
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	သူသည် သူတပါးကို လှည့်စားစိမ့်သောငှာ အလ္လာဟ်အရှင်မြတ်၏ လမ်းတော်မှ ကြီးမားသောမာန်မာနနှင့် လှည့်သွား၏၊ ထိုသူအတွက် ဤလောကမျက်မှောက်ဘဝ၌ အရှက်တကွဲအသရေပျက်ခြင်းသာရှိ၏၊ ရှင်ပြန် ထမြောက်ရသောနေ့တော်ကြီး၌ ငါသည် သူ့အား လောင်ကျွမ်းခြင်းအပြစ်ဒဏ်တော်ကို မြည်းစမ်းစေတော်မူသည်၊
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (မာန်မာနထောင်လွှားကာ)မိမိလည်ပင်းကိုလိမ်လျက်(သူတစ်ပါးတို့အားလည်း) အလ္လာဟ်အရှင် မြတ်၏လမ်းတော်မှလွဲမှားစေခြင်းငှာ ထိုသူ၌ (ဤ) ပစ္စုပ္ပန်လောကတွင်လည်း ကျိုးယုတ်ရှက်ရဖြစ်ခြင်းသည်ရှိ၏။ ကိယာမတ် ရှင်ပြန်ထမည့်နေ့တွင်လည်း ငါအရှင်မြတ်သည် ထိုသူအား (ကျွမ်းလောင်စေသောငရဲ)မီး၏ ပြစ်ဒဏ်ကို မြည်းစမ်းစေတော်မူမည်ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

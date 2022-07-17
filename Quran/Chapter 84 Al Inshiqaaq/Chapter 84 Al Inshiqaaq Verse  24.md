@@ -710,6 +710,12 @@ I vŭzvesti gi za bolezneno mŭchenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။ ထို့ကြောင့် လူသားတို့အား ကြီးလေးလှသောအပြစ်ဒဏ်အကြောင်းသတင်းကို သင်တမန်တော်ပေးလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်၊) အသင်သည် ၎င်းတို့အား ပြင်းပြနာကျင်ဖွယ်သော ပြစ်ဒဏ်နှင့်စပ်လျဉ်း၍ သတင်းကောင်း ပြောကြားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

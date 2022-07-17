@@ -710,6 +710,12 @@ Kazhi: “Kakvo mislite? Shtom tozi [Koran] e ot Allakh, a vie posle go otkhvŭr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၂။	အို-တမန်တော်၊ ဟောပြောလော့၊ အို-အချင်းတို့၊ ကျမ်းမြတ်ကုရ်အာန်သည် အလ္လာဟ်အရှင်မြတ်အထံတော်မှ မဟုတ်ဟု စဉ်းစားဆင်ခြင်ကြသလော၊ အရှင်မြတ်အား တော်လှန်သူထက် အဘယ်သူသည် ပိုမိုလမ်းလွဲသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်)အသင်သည် ပြောကြားပါလေ။ (အချင်းတို့၊) အသင်တို့သည်ပင် ပြောပြကြလေကုန်။အကယ်၍ ယင်း(ကုရ်အာန်ကျမ်းမြတ်)သည် အလ္လာဟ်အရှင်မြတ်အထံတော်မှ (ကျရောက်ခဲ့သည်) ဖြစ်ခဲ့အံ့။ ထို့နောက်တစ်ဖန် အသင်တို့သည် ယင်း(ကုရ်အာန်ကျမ်းတော်မြတ်)ကိုငြင်းပယ်ခဲ့ကြသည်ရှိအံ့၊ သို့ဖြစ်လျှင် ဝေးကွာလှသော ကွဲပြားမှု၌ရှိနေသောသူထက် ပိုမို၍လမ်းမှားသောသူ မည်သူရှိအံ့နည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

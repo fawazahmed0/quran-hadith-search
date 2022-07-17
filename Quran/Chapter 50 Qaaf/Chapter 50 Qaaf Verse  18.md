@@ -710,6 +710,12 @@ ne izricha i edna duma, bez da ima gotov nadzornik pri nego
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	လူသားအကြင်စကားကို ပြောအ့ံ၊ ထိုစကားကို မှတ်ထားရန် ကောင်းကင်တမန်တော်သည် သူနှင့်အတူတကွ ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမနုဿလူသားသည်(နှုတ်ဖြင့်)မည်သည့်စကားကိုမျှ မြွက်ဟသည်ဟူ၍မရှိချေ။ သို့ရာတွင် ချောင်းမြောင်း၍ နေသူတစ်ဦးသည် ၎င်း၏အနီး၌ပင် အသင့်ရှိနေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A shtom vi dostigne obilie ot Allakh, toĭ vse kazva, syakash ne e imalo mezhdu
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၃။	အကယ်၍ သင်တို့အား အလ္လာဟ်အသျှင်မြတ်သည် ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူပါလျှင် သင်တို့နှင့် ထိုသူတို့စပ်ကြားတွင် ချစ်ကြည်ရေးမရှိသကဲ့သို့ ထိုသူက အကျွနု်ပ်သည် သူတို့နှင့်အတူ ရှိလေလျှင် ကောင်းလေစွ။. အကျွနု်ပ်သည် ကြိးမားသောအောင်မြင်မှုကို ရရှိလေအ့ံဟု အမှန်ပင် ညည်းညူလတ္တံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကယ်၍ အသင်တို့၌ အလ္လာဟ်အရှင်မြတ်ထံတော်မှ ကျေးဇူးတော်သည် ဆိုက်ရောက်ခဲ့မူ ထိုသူသည် အသင်တို့နှင့် ၎င်း၏အကြားတွင် ခင်မင်ရင်းနှီးမှု လုံးဝမရှိခဲ့ဘူးသည့်အလား၊ ဪ- ကျွန်ုပ်သည်လည်း ထိုသူတို့နှင့်အတူ (စစ်မြေပြင်သို့လိုက်ပါသွားသည်) ဖြစ်ခဲ့ပါလျှင် ကောင်းလေစွတကား။ သို့ (လိုက်ပါသွားခဲ့) ပါလျှင်၊ ကျွန်ုပ်သည်လည်း (၎င်းတို့ကဲ့သို့ပင်) ကြီးကျယ်လှစွာသော အောင်မြင်မှုကို ရရှိချေမည်တကား”ဟု ဧကန်မလွဲ (ဟစ်ကြွေး) ပြောဆိုလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Smyata, che negovoto bogat·stvo shte go uvekovechi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။ ဤဆိုးညစ်သူသည် မိမိစည်းစိမ်ဥစ္စာက မိမိကို မသေမပျောက် ထာဝရ အသက်ရှင်စေမည်ဟု ထင်မှတ်၏ ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူသည် မိမိအား မိမိဥစ္စာပစ္စည်းသည် အမြဲတစေ (အသက်ထင်ရှား)ရှိစေမည်။(တစ်နည်း) (မိမိထံမိမိဥစ္စာပစ္စည်းသည် အမြဲတစေရှိနေမည်ဟု) ထင်မှတ်လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

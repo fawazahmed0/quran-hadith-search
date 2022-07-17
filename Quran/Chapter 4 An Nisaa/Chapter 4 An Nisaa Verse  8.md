@@ -710,6 +710,12 @@ I kogato na podyalbata prisŭstvat blizki i siratsi, i nuzhdaeshti se, daĭte i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	အမွေခွဲဝေပေးသောအခါတွင် ဆွေမျိုးနည်းစပ်များ၊ မိဘမဲ့များ၊ သူဆင်းရဲများရောက်ရှိကြလျှင် သူတို့အား ပေးကမ်းကြလော့။ သူတို့အား ကြင်နာချိုသာသောစကားကို ဆိုကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (အမွေပစ္စည်း) ခွဲဝေရာ၌ (အမွေမရထိုက်သော) ဆွေမျိုးညာတကာတို့သည်လည်းကောင်း၊ မိဘမဲ့ကလေးတို့သည်လည်းကောင်း၊ သူဆင်းရဲတို့သည်လည်းကောင်း၊ ရှေ့မှောက်တွင် အသင့်ရောက်ရှိလာကြသည်ရှိသော် အသင်တို့သည် ထိုသူတို့အားလည်း ယင်း (အမွေပစ္စည်း) ထဲမှ (အနည်းငယ်မျှ) ကြွေးမွေးပေးကမ်းကြကုန်။ ၎င်းပြင် အသင်တို့သည် ထိုသူတို့အား ကောင်းမွန်စွာ ပြောဆိုကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

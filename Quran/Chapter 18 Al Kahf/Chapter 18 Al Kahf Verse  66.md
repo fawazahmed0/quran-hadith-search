@@ -710,6 +710,12 @@ Musa mu reche: “Mozhe li da te posledvam, za da me nauchish na onova, na koeto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၆။	တမန်တော်မူစာက ထိုသူအား သင့်အား သင်ပေးတော်မူသောကျင့်စဉ်အမှန်ကို အကျွန်ုပ်အား သွန်သင်ပြပေးရန်၊ အကျွနု်ပ်သည် သင်၏ နောက်သို့ လိုက်ပါရစေဟု တောင်းပန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မူစာသည် (ငါအရှင်မြတ်၏)ထိုကျွန်အား အသင်သည် မိမိသင်ကြားပို့ချခြင်းခံရသည့် ဆင်ခြင်တုံ တရားအနက်မှကျွန်ုပ်အားလည်း သင်ပေးပါရန် ကျွန်ုပ်အသင်နှင့်အတူ လိုက်နိုင်ပါသလောဟု ပြောဆို (မေတ္တာရပ်ခံ)ခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

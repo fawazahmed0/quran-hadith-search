@@ -710,6 +710,12 @@ Ili smyatash, che povecheto ot tyakh chuvat ili proumyavat? Te sa kato dobitŭka
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	သို့မဟုတ်ထိုသူတို့အနက် အများအပြားတို့သည် ကြားနိုင်၊ သို့မဟုတ်နားလည်နိုင်သည်ဟု သင်ထင်မှတ်သလော၊ ယင်းသို့မဟုတ်ချေ၊ သူတို့သည် အခြေလေးချောင်းတိရိစ္ဆာန်များကဲ့သို့ပင်ဖြစ်၏၊ သူတို့သည် တရားလမ်းတော်ကို ဝေးစွာလွှဲသွားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် ထိုသူတို့အနက် များစွာသော သူတို့သည် ကြားကြသည်။ သို့မဟုတ် နားလည်ကြသည်ဟု အသင်ထင်မှတ်လေသလော။ ၎င်းတို့သည် ကုလားအုတ်၊ ကျွဲ၊ နွား၊ တိရစ္ဆာန် များကဲ့သို့သာလျှင် ဖြစ်ကြသည်။ ထိုမျှမက(ထို တိရစ္ဆာန်များထက်ပင်) သာလွန် လမ်းလွဲသူများဖြစ်ကြကုန် သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I kazvat: “Sŭrtsata ni imat bronya sreshtu onova, kŭm koeto ni zovesh, i v u
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	ထိုသူမိုက်တို့က ဆိုကြသည်မှာ အို-ရှင်မိုဟမ္မဒ်၊ အကျွနု်ပ်တို့၏ နှလုံးများကို သင်ကြီးသောအသံဖြင့် ဟောပြော သောတရားမှ ကာကွယ်ထား၏၊ အကျွနု်ပ်တို့နားများ၌လည်း နားပင်းခြင်းရှိ၏၊ အကျွနု်ပ်တို့နှင့် သင်၏ အလည် ကြား၌လည်း ကန့်လန့်ကာဆီတားထား၏၊ ထို့ကြောင့်သင်သည် ပြုလိုရာကို ပြုကုန်လော့၊ ငါတို့လည်း ပြုလိုရာ ကို ပြုမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့က ပြောဆိုခဲ့ကြကုန်၏။ကျွန်ုပ်တို့၏ စိတ်နှလုံးများမှာ အသင်ဖိတ်ခေါ်လျက်ရှိသောတရားကို (နားလည်ခြင်း)မှ ဖုံးအုပ်လျက် ရှိကြပေသည်။ ထို့ပြင်ကျွန်ုပ်တို့၏ နားများသည်လည်း ပင်းလျက် ရှိကြသည်။ ထိုမှတစ်ပါး ကျွန်ုပ်တို့နှင့် အသင်၏အကြားဝယ် အကွယ်အကာတစ်ခု ရှိနေပေသည်။ သို့ဖြစ်ပေရာ အသင်သည် (မိမိအလုပ်ကို)လုပ်ကိုင်ပါလေ။ ဧကန်စင်စစ် ကျွန်ုပ်တို့သည် (မိမိတို့ အလုပ်ကို) လုပ်ကိုင်နေသူများပင် ဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

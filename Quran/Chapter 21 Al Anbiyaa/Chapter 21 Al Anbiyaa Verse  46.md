@@ -710,6 +710,12 @@ I shtom gi dokosne i polŭkh ot mŭchenieto na tvoya Gospod, nepremenno kazvat: 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။	ထို့အပြင်သင်၏ကျေးဇူးတော်သခင်၏ အပြစ်ဒဏ်တော်သည် သူတို့ကို အနည်းငယ်မျှထိလျှင် သူတို့သည် ဒုက္ခပဲ ငါတို့သည် မတရားမှုကို ကျူးလွန်သူတို့အမှန်ဖြစ်၏ဟု မုချဧကန်ဝန်ခံကြလတ္တံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် စင်စစ် အကယ်၍သာ အသင့်အားဖန်ဆင်း မွေးမြူတော်မူသောအရှင်မြတ်၏ ပြစ်ဒဏ်မှ အငွေ့မျှပင် ၎င်းတို့၌ သက်ရောက်ခဲ့မူ အမှန်ပင် ၎င်းတို့က "ဪ-ကျွန်ုပ်တို့ဖြစ်မှဖြစ်ရလေခြင်း၊ ကျွန်ုပ်တို့သည်သာလျှင် မတရားမှုကို ကျူးလွန်သော သူများဖြစ်ကြသည်" ဟု (ညည်းညူမြည်တမ်း) ပြောဆိုကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

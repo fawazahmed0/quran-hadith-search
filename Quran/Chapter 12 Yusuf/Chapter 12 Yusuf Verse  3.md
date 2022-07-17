@@ -710,6 +710,12 @@ Nie ti razkazvame naĭ-khubavite razkazi s otkrovenieto, koeto ti dadokhme v to
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	မိုဟမ္မဒ်၊ စင်စစ်အားဖြင့် အထက်ကျော်ကာလက သင်သည် တရားမသိမေ့လျော့နေသောသူတို့ဘောင်တွင် အပါအဝင်ဖြစ်ငြားသော်လည်း ငါသည် သင်၏ စိတ်နှလုံးအတွင်း ဤကုရ်အာန်ကျမ်းတော်ကို သွန်သင်ပေးတော် မူရာ၌ ငါသည် သင့်အား အကောင်းဆုံးသောဒေသနာတော်ကို ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် အသင့်ထံ ဤကုရ်အာန်ကျမ်းတော်မြတ်ကို ထုတ်ပြန်တော်မူခြင်းအားဖြင့် ငါအရှင်မြတ်သည် အသင်၏ရှေ့ဝယ် အကောင်းဆုံးသော အကြောင်းအတ္ထုပ္ပတ္တိတစ်ခုကို ပြန်၍ပြောကြားတော်မူလေသည်။ စင်စစ်သော်ကား အသင်သည် ထိုကုရ်အာန်မကျရောက်မီ အလျင်က(ဤအကြောင်းအတ္ထုပ္ပတ္တိကို)အလျင်း မသိသူတစ်ဦးပင် ဖြစ်ခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

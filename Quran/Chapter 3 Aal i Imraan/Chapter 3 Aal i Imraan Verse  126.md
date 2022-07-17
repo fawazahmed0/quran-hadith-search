@@ -710,6 +710,12 @@ Allakh stori tova za vas da bŭde samo radostna vest i za da se uspokoyat sŭrts
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၆။	အလ္လာဟ်အသျှင်မြတ်သည် ဤဗျာဒိတ်တော်ကို ဝမ်းမြောက်ဘွယ်သတင်းအဖြစ်ဖြင့်သာ သင်တို့အား ချပေးတောါ်မူ၏။ ထိုသတင်းသည် သင်တို့၏ စိတ်နှလုံးငြိမ်သက်ချမ်းသာဘို့ရာဖြစ်၏။ အနန္တ တန်ခိုးတော်သခင်၊ အနန္တဉာဏ်တော်ရှင်မှသာလျှင် အောင်ဆုမင်္ဂလာတော် ကျရောက်လာ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် (တမန်တော်မြတ်၏)ထို (ပြောကြားချက်) ကို အသင်တို့အဖို့ ဝမ်းမြောက်ဖွယ်ရာသတင်း (ဖြစ်စေရန်)နှင့် ထို (ပြောကြားချက်ကို ကြားသိရခြင်း)အားဖြင့် အသင်တို့၏ စိတ်နှလုံးများတည်ငြိမ်ရန်အတွက်သာလျှင် ပြုတော်မူခဲ့လေသည်။ အမှန်စင်စစ် ကူညီမှုဟူသည်ကား တန်ခိုးအာနုဘော်ဖြင့်လွှမ်းမိုးတော်မူသော။ အကျိုးအကြောင်း ဆင်ခြင်တုံဉာဏ်နှင့် ပြည့်စုံတော်မူသော အလ’ာဟအရှင်မြတ်၏အထံတော်မှသာလျှင် ဖြစ်ချေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

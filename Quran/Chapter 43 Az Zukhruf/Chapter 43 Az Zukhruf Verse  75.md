@@ -710,6 +710,12 @@ To ne shte bŭde oblekcheno i shte gi obzeme otchayanie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၅။	ထိုအပြစ်ဒဏ်ကို အနည်းငယ်မျှမလျော့ချေ၊ သူတို့သည် မျှော်မြင်ရာကင်းမဲ့စိတ်ပျက်ကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းပြစ်ဒဏ်မှာ ၎င်းတို့မှ ပေါ့လျော့စေခြင်း ခံရမည်လည်း မဟုတ်ပေ။ စင်စစ် ၎င်းတို့သည် ယင်းပြစ်ဒဏ်၌ပင် မျှော်လင့်ချက်ကင်းစွာဖြင့် ရှိနေကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Iztŭrpi do prisŭdata na tvoya Gospod i ne bŭdi kato choveka v kita, koĭto z
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။ သို့သော်အေ-တမန်တော်၊ သင်သည် မိမိ၏ အရှင်သခင်၏ အမိန့်တော်ကို စောင့်စားနေလော့၊ သင်သည် ငါးတိရိစ္ဆာန်ကြီးအမျိုခံရ၍ စိုးရိမ်သောကပြင်းစွာဖြင့် မြည်တမ်းငိုေြွကးသောတမန်တော်ယူနွတ်စ်ကဲ့သို့ မဖြစ်စေလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်) အသင်သည် မိမိအရှင်မြတ်၏ စီရင်ပြဋ္ဌာန်းချက်ကို စောင့်စားသောအားဖြင့် သည်းခံ၍နေပါလေ။ ၎င်းပြင် အသင်သည် ငါးရှင်ကဲ့သို့ မဖြစ်ပါလေနှင့်။ တရံရောအခါဝယ် ထိုငါးရှင်သည် ဒုက္ခကို ကျိတ်မှိတ်ခံစားလျက်ရှိနေစဉ် မိမိအရှင်မြတ်အား ဟစ်ခေါ်(တမ်းတ)ခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

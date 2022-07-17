@@ -710,6 +710,12 @@ I shte kazhat [na sŭdruzhavanite ot tyakh]: “Vie ni se predstavyakhte kato pr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။ မေးမြန်းပုံမှာ မိတ်ဆွေတို့၊ သင်တို့သည် ငါတို့ထံ မကြာခဏလာ၍ ငါတို့လမ်းမှားရောက်အောင် သွေးဆောင် လှည့်ဖြားလေ့ရှိခဲ့ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့ (အနက်မှ နောက်လိုက်များ)က (ခေါင်းဆောင်များအား) "ဧကန်စင်စစ် အသင်တို့သည် အရှိန်အစော်ကြီးစွာဖြင့် ကျွန်ုပ်တို့ထံ လာရောက်လေ့ ရှိခဲ့ကြသည်" ဟုပြောဆိုကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

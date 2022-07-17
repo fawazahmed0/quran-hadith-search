@@ -710,6 +710,12 @@ I zapechatakhme ushite im v peshterata godini nared
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	ငါအရှင်မြတ်သည် သူတို့၏ နားကို ဂူအတွင်း နှစ်ပေါင်းများစွာတံဆိပ်ခတ်နှိပ်ပိတ်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ငါအရှင်မြတ်သည် ၎င်းတို့၏နားပေါ်၌ ဥမင်လိုဏ်ခေါင်းတွင် ရေတွက်ထားသော နှစ်ပေါင်းများစွာအထိ (တံဆိပ်)ရိုက်နှိပ် အဖုံးပိတ်ထားတော်မူခဲ့လေ၏။(ဝါ) (အိပ်ပျော်စေတော်မူခဲ့လေသည်။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

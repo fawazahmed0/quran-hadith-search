@@ -710,6 +710,12 @@ Taka ti sŭobshtavame [o, Mukhammad] ot vestite za onova, koeto be predi. I vech
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၉။	ဤကဲ့သို့ငါသည် သင်မိုဟမ္မဒ်အား ရှေးဖြစ်နောက်ဟောင်းအချို့တို့ကို ဗျာဒိတ်ပေးတော်မူ၏။ ထို့အပြင်ငါသည် သင့်အား အထံတော်မှ သတိပေးကျမ်းတော်ကို ချပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းကဲ့သို့ပင် ငါအရှင်မြတ်သည် အသင်၏ ရှေ့ဝယ် လွန်လေပြီးသောဖြစ်စဉ်များ၏ အကြောင်း သတင်းများကို ပြန်ပြောင်းမိန့်ကြားတော်မူသည်။ ၎င်းပြင် ငါအရှင်မြတ်သည် အသင်အား မိမိအထံတော် မှ (ကုရ်အာန်တည်းဟူသော)သတိပေးနှိုးဆော်သည့်ကျမ်းဂန်တစ်စောင်ကို ချီးမြှင့်ပေးသနားတော်မူခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

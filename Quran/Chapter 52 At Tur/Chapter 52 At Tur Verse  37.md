@@ -710,6 +710,12 @@ Ili pri tyakh sa sŭkrovishtnitsite na tvoya Gospod, ili te sa vlastvashtite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	အို-တမန်တော်၊ သူတို့သည် သင်၏ အရှင်သခင်၏ ဘဏ္ဍာပစ္စည်းတော်များကို ပိုင်ဆိုင်ကြသလော၊ သို့မဟုတ် သူတို့သည် အရှင်မြတ်၏ ဘဏ္ဍာစိုးများဖြစ်ကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် ၎င်းတို့ထံ အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ ဘဏ္ဍာတော်များ ရှိလေသလော။ သို့တည်းမဟုတ် ၎င်းတို့သည် ကွပ်ကဲ အုပ်ချုပ်သူများပင် ဖြစ်ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

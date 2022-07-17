@@ -710,6 +710,12 @@ V tozi Den zemyata shte se raztsepi nad tyakh - zabŭrzani. Tova e sŭbirane, le
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	သူတို့ထွက်လာနိုင်ရန် ကမ္ဘာမြေကြီးကွဲအက်ပေးသောနေ့တော်ကြီး၌ သူတို့သည် အလျင်အမြန်ထွက်လာကြ ရမည်၊ သူတို့ကို စုရုံးစေတော်မူခြင်းကား ငါ့အဖို့ အလွန်လွယ်ကူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်နေ့တွင် (၎င်းတို့)ပြေးလျက်ရှိကြစဉ် မြေသည် ၎င်းတို့အပေါ်မှ ပွင့်ထွက်သွားပေမည်။ ဤသည် ငါအရှင်မြတ်အဖို့ လွယ်ကူသောစုရုံးခြင်းပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

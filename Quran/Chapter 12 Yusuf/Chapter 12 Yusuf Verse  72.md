@@ -710,6 +710,12 @@ Rekokha: “Izgubikhme bokala na tsarya i koĭto go donese, shte ima tovar za e
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၂။	သူတို့က အကျွနု်ပ်တို့၏ ဘုရင်မင်းမြတ်၏ ဖလားတော်ပျောက်ဆုံးသွားပါ၏။ အကြင်သူသည် ထိုဖလားကို ပြန်ပေးအ့ံ။ ထိုသူအား ကုလားအုပ်တစီးတင်ရိက္ခာကို ဆုချတော်မူမည်ဟု ပြောကြ၏။ ထို့အပြင်ယူစွတ်(ဖ်) ကလည်း ထိုဖလားအတွက် အကျွနု်ပ်မှာ တာဝန်ရှိပါသည်ဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုကြေညာသူတို့က (ဤသို့) ပြောဆိုခဲ့ကြလေ၏။ကျွန်ုပ်တို့ ဘုရင်မင်းမြတ်၏ ပမာဏခြင်ခွက်(ဖလား)ကိုပျောက်ဆုံးနေပါသည်ဟု ပြောဆိုခဲ့ကြလေသည်။ မည်သူမဆို ထိုခြင်ခွက် ပမာဏကို(ရှာဖွေ)ယူဆောင်ခဲ့ပါလျှင်၊ ၎င်း၏အဖို့ ကုလားအုတ် တစ်စီးစာ(စားနပ်ရိက္ခာ)သည်ရှိအံ့။ ထို့ပြင် ဤသည်နှင့်စပ်လျဉ်း၍ ကျွန်ုပ်သည် အာမခံသူဖြစ်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

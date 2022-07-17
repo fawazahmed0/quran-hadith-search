@@ -710,6 +710,12 @@ I ako se byakha pridŭrzhali kŭm praviya pŭt, Nie shtyakhme da im dadem voda v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။ ထိုသာသနာပလူတို့သည် လမ်းမှန်ကို လိုက်ကြလျှင် ငါသည် သူတို့အား မြောက်များစွာသောသောက်ရေကို ပေးသနာေးတာ်မူလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အကယ်၍သာ ၎င်းတို့သည်(တရား)လမ်း(မှန်)ပေါ်၌ တည်ကြည်ဖြောင့်မတ် ကြံ့ခိုင်စွာတည်တံ့ခဲ့ကြလျှင် အမှန်ပင် ငါအရှင်မြတ်သည် ၎င်းတို့အား လှိုင်လှိုင်ရှိသော (ဖောဖောသီသီရှိသော)ရေကို တိုက်ကျွေးတော်မူမည်ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

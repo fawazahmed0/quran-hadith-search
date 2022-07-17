@@ -710,6 +710,12 @@ Vashiyat Bog e edinstveniyat Bog. A onezi, koito ne vyarvat v otvŭdniya zhivot,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	သင်တို့၏ အရှင်သခင်သည် တဆူတည်းဖြစ်တော်မူ၏။ သို့သော်နောင်တမလွန်ဘဝကို မယုံကြည်သူတို့မှာမူကား သူတို့သည် မာနကြီးမားပလွှားသောကြောင့် သူတို့၏ စိတ်နှလုံးသည် အသိတရားကို ငြင်းပယ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့၏ ခဝပ်ကိုးကွယ်ရာ အရှင်မြတ်သည်တစ်ဆူတည်းသော ခဝပ်ကိုးကွယ်ရာအရှင်မြတ်ပင် ဖြစ်တော်မူ၏။ သို့ရာတွင် တမလွန်ဘဝကို မယုံ ကြည်ကြသောသူတို့၏စိတ်နှလုံးများသည်(ထိုအရှင်မြတ်တစ်ဆူတည်းဖြစ်တော်မူကြောင်းကို)ငြင်းဆိုလျက်ရှိ၍ ၎င်းတို့မှာမူ မာန်မာန ထောင်လွှားလျက်ပင်ရှိကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I otklikva Toĭ na onezi, koito vyarvat i vŭrshat pravedni dela, i im nadbavya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	ကုသိုလ်ကောင်းမှုပွားများသူတို့ကို နှစ်သက်တော်မူ၍ အရှင်မြတ်၏ အနန္တဆုမင်္ဂလာတော်မှ ကြီးပွားတိုးတက်ခြင်း ဆုမင်္ဂလာကို ပေးသနားတော်မူ၏၊ သို့သော်အယူမှားသူတို့အတွက်မူကား အလွန်ပြင်းပြကြောက်မက်ဖွယ်ကောင်း သောအပြစ်ဒဏ်ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည်အီမာန်သက်ဝင်ယုံကြည်၍ ကောင်းမြတ်သော အကျင့်သီလများကို ကျင့်မူဆောက်တည်ကြကုန်သောသူတို့၏ ဆုတောင်းပတ္ထနာပြုချက်ကို သဘောတူလက်ခံတော်မူ၏။ ထို့ပြင် ၎င်းတို့အား မိမိကျေးဇူးတော်ဖြင့် တိုး၍ပင် ချီးမြှင့်ပေးသနားတော်မူ၏။ သို့ရာတွင်ကာဖိရ်သွေဖည်ငြင်းပယ်သောသူတို့၌မူ ပြင်းထန်လှစွာသောပြစ်ဒဏ်သည် ရှိချေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Sŭtvorikhme Nie nebesata i zemyata, i vsichko mezhdu tyakh, edinstveno s mŭdro
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	ငါသည် ကမ္ဘာမြေပြင် မိုးကောင်းကင်ကို ကောင်းကျိုးအတွက်မှတပါး အခြားအတွက် ဖန်ဆင်းတော်မမူချေ၊ ထို့အပြင်သတ်မှတ်ထားသောကာလအချိန်အတွက်သာဖြစ်၏၊ သို့သော်မယုံကြည်သူတို့သည် သတိပေးနှိုးဆော် ခြင်းမှ လှည့်သွားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် မိုးကောင်းကင်များကို လည်းကောင်း၊ ကမ္ဘာမြေကိုလည်းကောင်း၊ ယင်းမိုး ကောင်းကင်များနှင့်ကမ္ဘာမြေ နှစ်ခု၏အကြားတွင် ရှိသမျှတို့ကိုလည်းကောင်း၊ နက်နဲသိမ်မွေ့သော ဆင်ခြင်တုံတရားနှင့် လျော်ညီစွာ ဖန်ဆင်းတော်မူခဲ့သည့်အပြင် အချိန်ကာလတစ်ခု သတ်မှတ်ပိုင်းခြား၍ ဖန်ဆင်းတော်မူခဲ့၏။ သို့တစေလည်း သွေဖည်ငြင်းပယ်သော သူတို့မှာမူ မိမိတို့ သတိပေးနှိုးဆော်ခြင်း ခံကြရသည်များမှ မျက်နှာလွှဲလျက်ပင် ရှိကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

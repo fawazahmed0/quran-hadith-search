@@ -710,6 +710,12 @@ I koĭto pridobie vina ili gryakh, setne nabedi za tova nevinen, toĭ se e nag
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၂။	အကြင်သူသည် ပေါ့လျော့ပျက်ကွက်မှုကိုသော်လည်းကောင်း၊ ရာဇဝတ်ပြစ်မှုကိုသော်လည်းကောင်း ကျူးလွန်ပြီးလျှင် မိမိ၏အပြစ်ကို အပြစ်ကင်းမဲ့သူအပေါ်သို့ လွှဲချ၏။ ထိုသူသည် မိမိအပေါ်၌ မုသားစကားဆိုမှုနှင့် ကြီးမားသောအပြစ်ဝန်ထုပ်ကြီးကို တင်သူဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါးတုံ မည်သူမဆို မှားယွင်းပြုမိတတ်သော ပြစ်မှုအသေးအဖွဲကိုဖြစ်စေ၊ ကြီးလေးသော ပြစ်မှုဒုစရိုက်ကိုဖြစ်စေ ရှာဖွေဆည်းပူးပြီးနောက် ယင်းပြစ်မှုဒုစရိုက်နှင့်စပ်လျဉ်း၍ အပြစ်ကင်းမဲ့သောသူ တစ်ဦးတစ်ယောက်ကို ယိုးစွပ်ပါမူ ထိုသူသည် ဧကန်မလွဲ ကြီးမားသောစွပ်စွဲမှုကိုလည်းကောင်း၊ ထင်ရှားလှသော ပြစ်မှုဒုစရိုက်ကိုလည်းကောင်း သည်ပိုးရွက်ဆောင်ခဲ့ချေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

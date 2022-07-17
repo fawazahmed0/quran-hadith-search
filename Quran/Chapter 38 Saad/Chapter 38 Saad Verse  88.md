@@ -710,6 +710,12 @@ Sled vreme shte uznaete vestite v nego
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၈။	သင်တို့သည် ထိုကျမ်းတော်မြတ်အကြောင်းအရာအမှန်ကို ကာလမကြာမီ သိကြရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး မုချဧကန် အသင်တို့သည် အနည်းငယ်သော အချိန်ကာလနောက်တွင် ယင်း (ကုရ်အာန်ကျမ်းတော်မြတ်)၏ အကြောင်းသတင်း မှန်ကန်ကြောင်းကို သိရှိကြကုန်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

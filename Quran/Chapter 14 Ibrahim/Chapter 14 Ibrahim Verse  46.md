@@ -710,6 +710,12 @@ I zamislyakha lukavstvo, ala pri Allakh e zamisŭlŭt im, dori tekhniyat zamisŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။	အမှန်မှာ မိစ္ဆာမိုက်တို့သည် သူတို့၏ ဥပါယ်တမည်ကို လုပ်ကြံပြီး တောတောင်ကို ရွှေ့ဖို့ရာ ကြီးမားသော အကြံအစည်ကို ကြံစည်အားထုတ်ငြားသော်လည်း သူတို့၏ အကြံမှာ အလ္လာဟ်နှင့်ရှိတော်မူ၍ အချည်းနှီးသာ ဖြစ်ချေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ၎င်းတို့သည် မိမိတို့၏လျှို့ဝှက်ကြံစည်မှုကို ကြံစည်ခဲ့ကြလေသည်။ စင်စစ်သော်ကား ၎င်းတို့၏လျှို့ဝှက်ကြံစည်မှုသည် အလ္လာဟ်အရှင်မြတ်၏ရှေ့တော်၌ပင် ရှိခဲ့လေသည်။ အမှန်စင်စစ်မှာမူကား ၎င်းတို့၏ လျှို့ဝှက်ကြံစည်မှုသည် ယင်းကြံစည်မှုကြောင့် တောင်များပင်ရွေ့သွားနိုင်ကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

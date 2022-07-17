@@ -710,6 +710,12 @@ Na Allakh se poklanya vsichko na nebesata i na zemyata, s poslushanie ili po pri
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	သူတို့၏ အရိပ်များသည် နံနက်နှင့်ညနေပိုင်းတွင် အလ္လာဟ်အရှင်မြတ်ကို ဦးညွှတ်သကဲ့သို့ မိုဃ်းကောင်းကင်နှင့် ကမ္ဘာမြေပြင်ပေါ်ဝယ်ရှိရှိသမျှတို့သည် စိတ်စေတနာရှိသော်လည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ်အား ဦးဝပ်တွား ရှိခိုးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် မိုးကောင်းကင်၌ရှိသည်တို့သည် လည်းကောင်း၊ ပထဝီမြေ၌ရှိသည်တို့သည်လည်းကောင်း၊ မိမိစေတနာအလျောက်ဖြစ်စေ၊ စေတနာမရှိဘဲ မလွဲမရှောင်သာ၍ဖြစ်စေ၊ ထိုအရှင်မြတ်၏ရှေ့တော် မှောက်၌သာလျှင် ပျပ်ဝပ်ဦးချခယရိုကျိုးလျက်ရှိကုန်၏။ ထိုမှတစ်ပါး ယင်းတို့၏အရိပ်ဆာယာတို့မှာလည်း နံနက်ယံများ၌လည်းကောင်း၊ညနေခင်းများ၌ လည်းကောင်း၊(ထိုနည်းအတိုင်းပင် ပျပ်ဝပ်ဦးချခယရိုကျိုးလျက် ရှိကုန်သတည်း)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

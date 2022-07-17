@@ -710,6 +710,12 @@ Nima ne vizhdat, che Allakh, Koĭto sŭtvori nebesata i zemyata, e sposoben da 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၉။	မိုးကောင်းကင်နှင့် ကမ္ဘာမြေပြင်ကို ဖန်ဆင်းတော်မူသောအလ္လာဟ်အရှင်မြတ်သည် လူသားတို့ကို ရှင်ပြန်ထ မြောက်စေနိုင်တော်မူကြောင်းကို သူတို့မသိမမြင်ကြသလော။ ထို့အပြင် အရှင်မြတ်သည် သူတို့အဖို့အရာ ယုံမှားသံသယကင်းသောသေကျေပျက်စီးခြင်းကို သတ်မှတ်ထားတော်မူ၏။ သို့သော်မတရားမှုကို ကျူးလွန်သူ တို့သည် မိစ္ဆာဝါဒမှတပါး အခြားအရာများကို ငြင်းပယ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် မိုးကောင်းကင်ကိုလည်းကောင်း၊ကမ္ဘာမြေကိုလည်းကောင်း၊ ဖန်ဆင်းတော်မူသော အရှင်မြတ်သည် ၎င်းတို့ကဲ့သို့သောသူတို့အား(အသစ်ပြန်လည်) ဖန်ဆင်းတော်မူရန် စွမ်းဆောင်နိုင်တော်မူသောအရှင် ဖြစ်တော်မူသည်ကို ၎င်းတို့သည် မသိမမြင်ကြလေသလော။ စင်စစ် ထိုအရှင်မြတ်သည် (သေဆုံးရန်နှင့် ရှင်ပြန်ထရန်) ယုံမှားသံသယ လုံးဝကင်းရှင်းသောကာလအပိုင်းအခြားတစ်ခုကို သတ်မှတ် ပြဋ္ဌာန်းတော်မူခဲ့လေသည်။ သို့တစေလည်း မတရား ကျူးလွန်သူတို့မူကား မယုံမကြည် ငြင်းဆိုခြင်းမှတစ်ပါး အခြားကို မနှစ်သက်ခဲ့ကြပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

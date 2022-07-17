@@ -710,6 +710,12 @@ Te sa obshtnost, veche otminala. Tyakhno e onova, koeto sa pridobili i vashe e o
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၁။	ဤလူများသည် သေလွွန်ကွယ်ပျောက်သွားကြပြီး သူတို့သည် ၎င်းတို့ပြုကျင့်မှုများ၏ အကျိုးအပြစ် ကို ခံစားရကြ၏။ သင်တို့လည်း သင်တို့၏ ပြုကျင့်မှုများ၏ အကျိုးအပြစ်ကို ခံစားရကြ၏။ သင်တို့ သည် သူတို့၏ ပြုကျင့်မှုကို စစ်ကျောမေးမြန်းခြင်း ခံကြရမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့သည် (အတိတ်ကာလ၌) လွန်လေပြီးသော သာသနာဝင်လူစုဖြစ်ကြကုန်၍ ထိုသူတို့ပြုကျင့် ဆည်းပူးခဲ့သမျှ သောသုစရိုက်မှု ကုသိုလ်ကံ၊ ဒုစရိုက်မှု အကုသိုလ်ကံတို့သည် ထိုသူတို့ အဘို့သာဖြစ်လေသည်။ ထိုနည်းတူစွာ အသင်တို့ ပြုကျင့် ဆည်းပူးခဲ့သမျှ သော(ကောင်းမှုမကောင်းမှု) တို့၏အကျိုးသည်လည်း သင်တို့အဘို့ အရာသာတည်း။ ထိုမှတပါးအသင်တို့ သည် ထိုသူတို့ပြုကျင့်ခဲ့ကြသော ကိစ္စများနှင့် စပ်လျဉ်း၍ မေးမြန်းခြင်းကို ခံကြရမည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Naĭ-loshite tvari pred Allakh sa onezi, koito Go otrichat i ne vyarvat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။	မှတ်သားကြလော့။ အလ္လာဟ်အသျှင်မြတ်၏ မျက်မှောက်တော်ဝယ် အဆိုးဝါးဆုံးသောတိရစ္ဆာန်များ သည် ကျေးဇူးကန်သော မိစ္ဆာဒိဌိများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မလွဲဧကန် အလ္လာဟ်အရှင်မြတ်အထံတော်တွင်အဆိုးဆုံးသော သတ္တဝါတို့ကား (ဤ)အကြင်မယုံမကြည် သွေဖည်ငြင်းပယ်သောသူတို့ပင်တည်း။ သို့ဖြစ်ပေရာ ၎င်းတို့သည်သက်ဝင်ယုံကြည်ကြမည့်သူများ မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

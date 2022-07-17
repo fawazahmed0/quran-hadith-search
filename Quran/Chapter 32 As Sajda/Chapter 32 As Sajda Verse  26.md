@@ -710,6 +710,12 @@ I nima na nevernitsite ne im be posocheno kolko pokoleniya predi tyakh pogubikhm
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	သူတို့မဖြစ်ပေါ်မသေးမီ များလှစွာသောရှေးလူဟောင်းအဆက်ဆက်တို့သည် ပယ်ရှားသုတ်သင်ခဲ့လေပြီ၊ ထိုသို့ ပယ်ရှားသုတ်သင်သောသူတို့၏ နေရာထိုင်ခင်းများတွင် ဤသူတို့သည် လှည့်ပတ်သွားလာနေကြ၏၊ ထိုအခြင်း အရာများကို ကြည့်ရှုခြင်းအားဖြင့် ဤသူတို့သည် တရားသံဝေဂရသူဖို့ရာမဟုတ်ပေလော၊ မှတ်သားကြလော့၊ ထိုအခြင်းအရာများတွင် သာဓကတော်များအမှန်အကန်ပါရှိ၏၊ သို့ပါလျက်သူတို့ဂရုမစိုက်ကြဘူးလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် ၎င်းတို့အလျင် မြောက်မြားစွာသောမျိုးနွယ်တို့ကို (သွေဖည်မှု၊ တွဲဖက်နှိုင်းယှဉ် ကိုးကွယ်မှုများကြောင့်) ဖျက်ဆီးတော်မူခဲ့၍၊ ၎င်းတို့ သည် (ဖျက်ဆီးခြင်းခံခဲ့ကြရသော)သူတို့၏ နေထိုင်ရာ ဒေသများ၌ (ဖြတ်သန်း)သွားလာလျက် ရှိကြသည်။ ဤသည် ၎င်းတို့အဖို့ တရားလမ်းညွှန် မဖြစ်လေသလော။ ဧကန်စင်စစ် ဤ(ဖြစ်ရပ်)၌ အမှန်ပင်သက်သေ အထောက်အထားများသည် ရှိကြပေသည်။ သို့ပါလျက် ၎င်းတို့သည် မကြားကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

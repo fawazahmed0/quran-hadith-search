@@ -710,6 +710,12 @@ V Denya, kogato vragovete na Allakh bŭdat sŭbrani za Ogŭnya, te shte bŭdat p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	အလ္လာဟ်အရှင်မြတ်၏ ရန်သူအပေါင်းတို့ကို စုရုံး၍ ငရဲမီးသို့ ယူဆောင်လာသောနေ့တော်ကြီး၌ သူတို့ကို စီတန်း၍ လာစေတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး (အို-နဗီတမန်တော်၊ အသင်သည်၎င်းတို့အား ထိုနေ့ကိုသတိရစေပါလေ)။ အကြင်နေ့တွင်အလ္လာဟ်အရှင်မြတ်၏ရန်သူများသည် ငရဲမီး၏အနီးသို့ စုရုံးခေါ်ဆောင်ခြင်းခံကြရပေမည်။ ထို့နောက် ၎င်းတို့သည် တားဆီးခြင်းကို ခံကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

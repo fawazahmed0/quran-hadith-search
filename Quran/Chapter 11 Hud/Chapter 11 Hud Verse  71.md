@@ -710,6 +710,12 @@ A zhena mu stoeshe i se smeeshe. I ya blagovestikhme za Iskhak, a otpodir Iskhak
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၁။	ထို့နောက်ငါအရှင်သည် သူမအား အစ္စဟတ်(က်)ခေါ် သားရတနာနှင့်အစ္စဟတ်(က်)နောက် ယာကု(ဘ်)တို့ကို ဖွားမြင်မည့်အကြောင်းသတင်းကောင်းကို ပေးတော်မူသောအခါ အနားတွင် ရပ်နေသောအေဗရာဟမ်၏ ဇနီး မိန်းမက ပြံုးရယ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ယင်း(နဗီတမန်တော်) အစ်ဗ်ရာဟီမ်၏ကြင်ရာတော်(စာရာ)သည် မတ်တပ်ရပ်လျက်ရှိခဲ့ပေရာ(ဤအဖြစ်အပျက်ကိုသိမြင်၍)ရယ်မောခဲ့လေ၏။ တစ်ဖန် ငါအရှင်မြတ်သည် ထို(နဗီတမန်တော်အစ်ဗ်ရာဟီမ်၏) ကြင်ရာတော်အား (ယင်းစေတမန်တို့မှတစ်ဆင့် နဗီတမန်တော်)အစ္စဟာက်(ကိုဖွားမြင်မည့်အကြောင်း)နှင့် ထို(နဗီတမန်တော်)အစ္စဟာက်၏နောက်တွင် (မြေးတော်နဗီတမန်တော်) ယအ်ကူဗ်(သည်လည်းဖွားမြင်မည့်အကြောင်း) သတင်းကောင်းကိုပြောကြားတော်မူခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Tam vsyaka dusha shte izpita predishnite si deyaniya. I shte bŭdat vŭrnati pri
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၀။	ထိုနေ့တော်ကြီး၌ ဝိညာဉ်တိုင်းသည် မိမိတို့ပြုကျင့်ခဲ့သောအလုံးကို တွေ့မြင်ရကြ၏။ သူတို့ကို တရားသဖြင့် ပိုင်သောအရှင်သခင်၊ အလ္လာဟ်အရှင်မြတ်ထံတော်သို့ ပြန်ရကြ၏။ သူတို့သည် သူတို့လုပ်ကြံဖန်တီးသောဘုရားတု များက သူတို့ကို စွန့်ပစ်ထားသည်ကိုလည်း တွေ့မြင်ကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနေရာတွင် လူတိုင်းလူတိုင်းသည် မိမိတို့တင်ကြိုပို့နှင့်ခဲ့ပြီးဖြစ်သောအပြုအမူများကိုစမ်းသပ်(မျက်ဝါး၏ထင်ထင်သိရှိတွေ့မြင်)ကြမည်ဖြစ်ပေသည်။ ထို့ပြင် ၎င်း တို့သည်မိမိတို့၏အရှင်သခင်အစစ်အမှန်ဖြစ်တော်မူသော အလ္လာဟ်အရှင်မြတ် အထံတော်သို့ ပြန်ပို့ခြင်းကို ခံကြရပေမည်။ ထိုမှတစ်ပါး၎င်း တို့ ကြံဖန်လီဆယ်ခဲ့သမျှတို့သည် ၎င်း တို့ထံမှ ကွယ်ပျောက်သွားကြမည်သာဖြစ်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

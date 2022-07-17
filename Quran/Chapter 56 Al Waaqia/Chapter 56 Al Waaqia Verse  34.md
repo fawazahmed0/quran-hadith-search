@@ -710,6 +710,12 @@ i vŭzdignati posteli
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	ထို့အပြင်မြင့်စွင့်သောပလ္လင်များလည်းရှိသော နိဗ္ဗာန်ဥယျာဉ်တော်၌ စံစားနေထိုင်ကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး (၎င်းတို့သည်) မြင့်စွင့်လှစွာသောသလွန်များ၊ အခင်းအကျင်းများ၊ မွေ့ရာများပေါ်၌ ရှိနေကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

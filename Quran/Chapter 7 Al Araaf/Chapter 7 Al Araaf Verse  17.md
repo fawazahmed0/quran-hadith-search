@@ -710,6 +710,12 @@ Posle shte idvam pri tyakh i otpred, i otzad, i otdyasno, i otlyavo, i shte otkr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	ထိုအခါ အကျွနု်ပ်သည် သူတို့ကိုရှေ့မှနောက်မှ လကျ်ာဘက်များမှ လက်ဝဲများမှ တိုက်ခိုက်ပါမည်။ အသျှင်သည် သူတို့အနက် များလှစွာသော သူတို့ကျေးဇူးကန်း၊ သစ္စာမရှိသည်ကို တွေ့မြင်ရပါမည် ဟု တင်လျှောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ကျွန်တော်မျိုးသည် ထိုသူတို့ထံ၊ ထိုသူတို့၏ ရှေ့မှလည်းကောင်း၊ ထိုသူတို့၏နောက်မှလည်းကောင်း၊ ထိုသူတို့၏ လက်ယာဘက်မှ၎င်း၊ ထိုသူတို့၏ လက်ဝဲဖက်မှလည်းကောင်း၊ (လေးဘက်လေးတန် အဖက်ဖက်မှ)ဝင်ရောက်ပါမည်။ ၎င်းပြင် အရှင်မြတ်သည် ထိုသူတို့အနက်အများစုကို ကျေးဇူးသိတတ်သော သူများအဖြစ် တွေ့ရှိတော်မူမည် မဟုတ်ပါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

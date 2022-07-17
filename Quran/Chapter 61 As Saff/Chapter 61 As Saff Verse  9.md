@@ -710,6 +710,12 @@ Toĭ e, Koĭto izprati Svoya Pratenik s napŭt·stvieto i s pravata religiya, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။ အလ္လာဟ်အရှင်မြတ်သည် မိမိ၏ တမန်တော်ကို လမ်းညွှန်တော်၊ မှန်ကန်သော သာသနာတော်နှင့်တကွ စေလွှတ်တော်မူ၏၊ သို့စေလွှတ်တော်မူသည်မှာ အရှင်မြတ်သည် အစ္စလာမ်သာသနာတော်ကြီးကို ဘာသာအမျိုးမျိုးတို့ အပေါ်၌ လွှမ်းမိုးစေရန် အလို့ငှာ ဖြစ်၏၊ မိစ္ဆာဒိဋ္ဌိတို့သည် ဘယ်လိုပင် မနှစ်သက်မုန်းတီးသော်လည်း သာသနာတော်ကြီးအောင်နိုင်ရမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို အရှင်မြတ်သည် အကြင် အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။ မုရှ်ရစ်က်တို့သည် မနှစ်မြို့ကြငြားသော်လည်း ထိုအရှင်မြတ်သည် မိမိ ရစူလ်တမန်တော်အား တရားလမ်းညွှန်နှင့်တကွလည်းကောင်း၊ ဘာသာ သာသနာ အလုံးစုံတို့ထက်ဝယ် လွှမ်းမိုးစေတော်မူအံ့သောငှာ မှန်ကန်သော ‘ဒီန်’သာသနာတော်နှင့်တကွလည်းကောင်း၊ (ယင်း မှန်ကန်သော သာသနာကို) စေလွှတ်တော်မူခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

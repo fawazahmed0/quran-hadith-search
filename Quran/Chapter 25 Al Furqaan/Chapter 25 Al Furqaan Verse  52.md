@@ -710,6 +710,12 @@ I ne se pokoryavaĭ na nevernitsite, i chrez nego [-Korana] vodi sreshtu tyakh 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၂။	ထို့ကြောင့်မိစ္ဆာဒိဋ္ဌိတို့ကို နားမထောင်လင့်၊ သို့သော်သူတို့ကို နိုင်နင်းအောင် ကျမ်းတော်အားဖြင့် ကြီးစွာကြိုးစား လော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ(အို-နဗီတမန်တော်၊) အသင်သည် ကာဖိရ်သွေဖည်ငြင်းပယ်သော သူတို့၏စကားကို လိုက်နာခြင်းမပြုဘဲ၊ ဤကုရ်အာန်ကျမ်းတော်မြတ်ဖြင့် ၎င်းတို့အား ကြီးကျယ်ပြင်းထန်စွာ ယှဉ်ပြိုင်ပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

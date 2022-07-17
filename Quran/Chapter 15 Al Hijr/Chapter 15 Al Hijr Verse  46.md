@@ -710,6 +710,12 @@ EDHULUHA BISELAMIN ‘AMININE
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။	သူတို့အား သင်တို့သည် ဥယျာဉ်တော်များသို့ ဘေးရန်ကင်းမဲ့၊ အေးချမ်းစွာဝင်ကြလော့ဟု ဗျာဒိတ်တော်ချတော် မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ယင်းသူတော်စင် သူတော်မြတ်တို့အား ကိယာမတ်နေ့တွင်) အသင်တို့သည် ယင်းဥယျာဉ်များသို့ (စိုးရိမ်ကြောင့်ကြမှုအပေါင်းမှ) ငြိမ်းချမ်းလျက် (ဘေးအန္တရာယ်အသွယ်သွယ်တို့မှ) ကင်းလွတ်စွာ ဝင်ရောက်ကြလေကုန် (ဟုမိန့်ကြားတော်မူမည်။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

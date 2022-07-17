@@ -710,6 +710,12 @@ Nie otredikhme smŭrtta za vas i ne shte bŭdem vŭzpreni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆ဝ။	ငါသည် သင်တို့ထဲတွင် သေခြင်းတရားကို ပြဋ္ဌာန်းစေတော်မူ၏၊ ငါ့အား တားဆီးခြင်းငှာ မတတ်စွမ်းနိုင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည်ပင်လျှင် အသင်တို့ကြား၌’မရဏ’ သေဆုံးခြင်းကို တင်ရင်စီမံတော်မူခဲ့၏။ ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် မစွမ်းနိုင်တော်မူသောအရှင် မဟုတ်ပြီ၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

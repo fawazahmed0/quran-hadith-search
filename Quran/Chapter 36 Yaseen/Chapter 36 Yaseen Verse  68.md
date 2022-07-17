@@ -710,6 +710,12 @@ I na kogoto dadem dŭlgoletie, preobrŭshtame negovata priroda. Nima ne proumyav
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၈။	ငါသည် မည်သူ့ကိုမဆို အသက်အရွယ်ကြီးရင့်အိုမင်းအောင် ထားတော်မူလျှင် ထိုသူအား သဘာဝအတိုင်း ခွန်အားနည်းပါးသောအဖြစ်သို့ ရောက်အောင် ငါပြန်လှည့်တော်မူ၏၊ သို့ပါလျက် သူတို့သည် ငါ၏ အနန္တ တန်ခိုးတော်ကို အဘယ်ကြောင့်စဉ်းစားဆင်ခြင်သိမြင်ခြင်းမရှိကြသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ငါအရှင်မြတ်သည် သက်ရွယ်ကြီးရင့် အိုမင်းစေတော်မူသောသူအား ၎င်း၏ ဖန်ဆင်းမှု၌ ပြောင်းပြန်ဖြစ်စေတော်မူ၏။ သို့ပါလျက် ၎င်းတို့သည် (ဤမျှပင်) မသိ နားမလည်ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

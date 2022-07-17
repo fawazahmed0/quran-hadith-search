@@ -710,6 +710,12 @@ A kak shte bŭde, kogato angelite gi priberat, udryaĭki gi po litseto i gŭrba
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	ကောင်းကင်တမန်တို့သည် သူတို့၏အသက်ကို နှုတ်ယူ၍ မျက်နှာနှင့်ကျောကို ရိုက်နှက်သောအခါ သူတို့သည် မည်သို့ဖြစ်မည်နည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ‘မလာအိကဟ်’ ကောင်းကင်တမန်များသည် ထိုသူတို့၏ မျက်နှာများကိုလည်းကောင်း၊ ထိုသူတို့၏ ကျောက်ကုန်းများကိုလည်းကောင်း၊ ရိုက်ကြလျက် ထိုသူတို့၏ အသက်ဇီဝိန်နှုတ်သိမ်းကြသောအခါ (ထိုသူတို့သည်) မည်သည့်အဖြစ်သို့ (ရောက်ရှိကြအံ့နည်း)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

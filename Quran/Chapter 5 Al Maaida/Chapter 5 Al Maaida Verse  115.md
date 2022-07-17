@@ -710,6 +710,12 @@ Reche Allakh: “Az shte vi ya spusna, ala koĭto ot vas sled tova otkhvŭrli v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၅။	အလ္လာဟ်အသျှင်မြတ်က အို-အီဆာ မှတ်သားလော့။ ငါသည် သင်တို့အာ ရိက္ခာအစားအစာ ချပေးသနားတော်မူ၏။ ထို့နောက် သင်တို့အနက် အကြင်သူသည် ဆန့်ကျင်တော်လှန် မယုံကြည်အံ့။ ထိုသူအား ငါသည် မိမိ၏ကျေးကျွန်တစ်ယောက်ကိုမှ ပေးတော်မမူသေးသော အပြစ်ဒဏ်ကြီးကို မုချပေးတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်က “ငါအရှင်မြတ်သည် ထိုစားဖွယ်သောက်ဖွယ်ကို အသင်တို့အပေါ်၌ မုချဧကန် ချပေးသနားတော်မူအံ့။ သို့ရာတွင် ထို (သို့ချပေးသနားတော်မူပြီး) နောက် အသင်တို့အနက် မည်သူမဆို ငြင်းပယ်ပါမူ ငါအရှင်မြတ်သည် စကြာဝဠာခပ်သိမ်းတို့အနက် မည်သူတစ်ဦးတစ်ယောက်ကိုမျှ ပေးတော်မမူမည့် အပြစ်ဒဏ်ကို ထိုသူအား ဧကန်မလွဲ ပေးတော်မူအံ့” ဟု ပြန်ကြားတော်မူခဲ့လေသတည်း။ (ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ syakash ne byakha prebivavali tam. Da, gibel za madyanitite, kakto poginakha i s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၅။	သူတို့သည် ထိုနေရာ၌ မနေဘူးသကဲ့သို့ဖြစ်၏။ စမုဒ်အမျိုးသားတို့ကို ဝေးစွာဖယ်ရှားပစ်သကဲ့သို့ မဒရမ်မြို့သူ မြို့သားတို့လည်း ဝေးစွာဖယ်ပစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ထိုအိမ်များတွင် မနေခဲ့ဘူးကြသကဲ့သို့ပင်။ သတိပြုကြလေကုန်၊ စမူဒ် အမျိုးသားတို့သည်(အလ္လာဟ်အရှင်မြတ်၏ကရုဏာတော်မှ)ကင်းဝေးခဲ့ကြဘိသကဲ့သို့ပင် မဒ်ယန်(မြို့သူမြို့သား)တို့၌လည်း(ထိုအရှင်မြတ်၏ကရုဏာတော်မှ) ကင်းဝေးခြင်းသည် ရှိစေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

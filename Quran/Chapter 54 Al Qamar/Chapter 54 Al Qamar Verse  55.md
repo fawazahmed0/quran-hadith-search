@@ -710,6 +710,12 @@ istinno obeshtanie pri Vladetelya, Vsemogŭshtiya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။	ထိုသူမြတ်တို့သည် အနန္တတန်ခိုးရှိသောဘုရင်မင်းမြတ်အထံတော်၌ မျက်နှာကောင်းစွာရသောသူတို့ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တန်ခိုးတော်နှင့် ပြည့်စုံတော်မူသော ဘုရင်၏ထံတော်ပါး၌ မြင့်မြတ်မှန်ကန်သော နေရာဌာနတွင် ရှိကုန်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

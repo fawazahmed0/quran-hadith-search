@@ -710,6 +710,12 @@ I ako imate strakh, spazvaĭte molitvata i kato khodite, i kato yazdite! A shto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃၉။	အကယ်၍ သင်တို့သည် ထိတ်လန့်ကြောက်မက်ဖွယ်သောကာလနှင့် တွေ့ကြံုသောအခါ ထ၍သော် လည်းကောင်း၊ မြင်းစီး၍သော်လည်းကောင်း၊ ဆွလာသ်ဝတ်ကိုပြုကြလော့။ သင်တို့သည် လုံခြံုမှုကို ပြန်ရသောအခါ အထက်က သင်တို့မသိသောအရာများကို သိနားလည်အောင် သင်ပြတော်မူခဲ့သည့် နည်းလမ်းအရ အလ္လာဟ်အရှင်အား သတိရကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကယ်၍ အသင်တို့သည် (ရန်သူတို့ ၏ ဘေးရန်များကို) စိုးရိမ်မကင်း ဖြစ်ကြပါမူ ခြေလျင်ဖြစ်စေ၊ (တစ်စုံတစ်ခုသော အစီးအနင်းကို) စီးနင်းလျက်ဖြစ်စေ၊ (ဖြစ်နိုင်သောနည်းဖြင့် ဆွလာတ်ဝတ်ပြုကြလေကုန်)၊ ထို့နောက် အသင်တို့သည် ဘေးရန်ခပ်သိမ်း ကင်းငြိမ်း ကြသော အခါဝယ် အသင်တို့အား အသင်တို့ မသိ နားမလည်စဉ်က သင်ကြား ပြသတော်မူသည့် အတိုင်း အသင်တို့သည် အလ္လာဟ် အရှင် မြတ်ကို အောက်မေ့ တçသ သတိရကြကုန်လော့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

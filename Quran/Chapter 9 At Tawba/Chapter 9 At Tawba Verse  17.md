@@ -710,6 +710,12 @@ Sŭdruzhavashtite nyamat pravo da ustroĭvat khramovete na Allakh, svidetelstva
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	မိမိတို့သည် ယုံကြည်သူမဟုတ်ဟု ဝန်ခံသူ၊ ဆင်းတုကိုးကွယ်သူသည် အလ္လာဟ်အရှင်မြတ် ဘေးမဲ့ပလီဝတ် ကျောင်းတော်များ၏ ဂေါပကလူကြီးများမဖြစ်ရပေ။ဤသူများမှာမူကား သူတို့၏ ပြုကျင့်မှုများသည် အကျိုးမဲ့ အချည်းနှီးသာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မွတ်ရှ်ရစ်က် တို့၌ ၎င်းတို့သည် မိမိတို့ ကာဖိရ် ဖြစ်ကြောင်း ဝန်ခံလျက် ရှိနေကြစဉ် အလ္လာဟ်အရှင်မြတ်၏ဗလီကျောင်းတော်များကို သာယာစည်ကားအောင် ပြုလုပ်ရန် အရည်အချင်းမရှိချေ။ ၎င်းတို့သည် အကြင်သူများပင်တည်း။ ထိုသူတို့၏ အပြုအမူများသည် အချည်းနှီး ဖြစ်ခဲ့ကြသည့်ပြင် ထိုသူတို့သည် ငရဲမီး၌ ထာဝစဉ် နေထိုင်ကြရ မည့်သူများပင် ဖြစ်ကြကုန်လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

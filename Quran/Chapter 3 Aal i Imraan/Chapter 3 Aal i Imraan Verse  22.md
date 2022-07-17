@@ -710,6 +710,12 @@ Te sa onezi, chiito dela se provalyat i v zemniya zhivot, i v otvŭdniya, i ne s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	ထိုသူများသည် မိမိကြိုးပမ်းမှုများ၊ ဤဘဝ၊ နောင်ဘဝ နှစ်ဖြာသောဘဝ၌ အကျိုးမဲ့ အချည်းနှီး ဆုံးရှုံးရသောသူများသာတည်း။ ထို့ပြင် သူတို့မှာ ကူညီစောင်မသူတို့ မရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသူများသည် အကြင်သူများပင်တည်း။ယင်းသူတို့ ဆည်းပူးခဲ့သမျှသော (ကောင်းမှု)တို့သည် ဤပစ္စုပ္ပန်ဘဝ၌လည်းကောင်း၊ နောင်တမလွန်ဘဝ၌လည်းကောင်း အချည်းနှီးအကျိုးမဲ့ဖြစ်ချေပြီ။ ထို့ပြင်တဝ ယင်းသူတို့ကို (အလ္လာဟ်အရှင်မြတ်၏) အပြစ်ဒဏ်မှ လွတ်မြောက်စေရန် ကယ်ဆယ်စောင်မမည့်သူဟူ၍ လည်းတစ်ဦးတစ်ယောက်မျှ ရှိမည်မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

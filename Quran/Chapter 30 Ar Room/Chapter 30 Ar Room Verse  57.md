@@ -710,6 +710,12 @@ V tozi Den ne shte pomogne na ugnetitelite tyakhnoto izvinenie i ne shte im bŭd
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၇။	ထိုနေ့တော်ကြီး၌ မတရားမှုကျူးလွန်သူတို့ချေပလျှောက်လဲချက်များသည် သူတို့အား အကျိုးမပေးချေ၊ ထို့အပြင် ၎င်းတို့အား မိမိကိုယ်ကို မိမိပြုပြင်ခွင့်ပေးတော်မူလိမ့်မည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ထိုနေ့တွင် မတရားပြုလုပ်ခဲ့ကြသော သူတို့အား ၎င်းတို့၏ အကြောင်းပြချက်သည် အကျိုးပေးလိမ့်မည်မဟုတ်ပေ။ ထိုမှတစ်ပါး ၎င်းတို့သည် အမှားကိုပြုပြင်ရန်လည်း တောင်းဆိုခြင်းကို ခံကြရမည် မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

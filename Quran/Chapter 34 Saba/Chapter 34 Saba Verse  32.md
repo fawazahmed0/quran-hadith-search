@@ -710,6 +710,12 @@ A gordelivite kazvat na slabite: “Nima nie vi otvŭrnakhme ot napŭt·stvieto,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	ထို့အပြင်အထက်တန်းစားမာနကြီးသူတို့က အောက်တန်းစားသူဆင်းရဲတို့အား ပြောကြသည်မှာ တရားအလင်း ရောင်ထွန်းတောက်ပြီးသည်နောက် သင်တို့ကို ငါတို့က မိစ္ဆာလမ်းသို့ မောင်းပို့ခဲ့ကြသလော၊ မမောင်းကြချေ၊ သို့သော်သင်တို့သည် အပြစ်ထိုက်သူဒုစရိုက်ကောင်များဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) အကြီးအကဲတို့က နောက်လိုက်ငယ်သားတို့အား ပြောဆိုကြပေမည်။ (အချင်းတို့၊) အသင်တို့ထံတရားလမ်းမှန် ရောက်ရှိ၍လာပြီးနောက် ကျွန်ုပ်တို့သည်အသင်တို့အား ယင်းတရားလမ်းမှန်မှ ပိတ်ပင်တားဆီးခဲ့ကြပါသလော၊ ထိုသို့ အလျှင်းမဟုတ်၊ စင်စစ်မှာကား အသင်တို့သည်ပင်လျှင် ပြစ်မှုကျူးလွန်သူများ ဖြစ်ခဲ့ကြကုန်၏
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

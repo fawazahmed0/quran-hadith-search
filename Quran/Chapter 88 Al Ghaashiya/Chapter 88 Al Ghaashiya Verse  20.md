@@ -710,6 +710,12 @@ i kak be razprostryana zemyata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၀။ ထိုမှတပါး ဤကမ္ဘာမြေကြီးကို ကြည့်ရှုပြီးလျှင် မည်ကဲ့သို့ဖြန့်ခင်းထားတော်မူသည်ကိုလည်း မစဉ်းစားမဆင်ခြင်ကြလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ပထဝီမြေသည် အဘယ်ကဲ့သို့ ခင်းကျင်းထားခြင်း ခံခဲ့ရသည်ကိုလည်းကောင်း၊ (ကြည့်ရှုလေ့လာ ဆင်ခြင်သုံးသပ်ခြင်း မပြုကြလေသလော)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

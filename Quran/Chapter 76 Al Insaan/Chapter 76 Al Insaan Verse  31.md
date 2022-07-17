@@ -710,6 +710,12 @@ Toĭ vŭvezhda kogoto pozhelae v Svoyata milost, a za ugnetitelite e prigotvil 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။ အရှင်မြတ်သည် အလိုတော်ရှိသူအား အရှင်မြတ်၏ ကောင်းကြီးမင်္ဂလာအတွင်းသို့ ဝင်စေတော်မူ၏၊ သို့သော် ဆိုးယုတ်မိုက်မဲသော ဒုစရိုက်ကောင်များအဖို့ မူကား အလွန်ပြင်းပြနာကျင်ဖွယ်သောအပြစ်ဒဏ်တော်ကြီးကို အသင့် စီရင်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် မိမိ အလိုရှိတော်မူသောသူအား မိမိကရုဏာတော်အတွင်းဝယ် ဝင်ရောက်စေတော်မူ၏။ သို့ရာတွင် မတရားသော သူတို့အဖို့မှာမူကား၊ ထိုအရှင်မြတ်သည် နာကျင်ဖွယ်ဖြစ်သော ပြစ်ဒဏ်တော်ကို အဆင်သင့်ပြုလုပ်၍ ထားရှိတော်မူပြီး ဖြစ်ပေသည်တကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

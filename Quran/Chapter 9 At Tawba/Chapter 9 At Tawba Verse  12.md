@@ -710,6 +710,12 @@ I ako narushat kletvite si podir svoya obet, i porugayat vashata religiya, srazh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	အကယ်၍ သူတို့သည် သင်တို့နှင့်မဟာမိတ်စာချုပ်ချုပ်ပြီးမှ သစ္စာဖောက်ကြ၏၊ သင်တို့၏ ဘာသာအယူဝါဒကို ပုတ်ခတ်ပြောဆိုကြ၏၊ ထိုအယူမှားသောသူတို့ကို တိုက်ခိုက်လော့၊ သို့မှသာ သူတို့သည် ဘာသာအယူဝါဒဖျက်မှု ကို ရပ်စဲကြလိမ့်မည်။မှတ်သားကြလော့၊ သူတို့၌ တည်မြဲသောကတိသစ္စာကျိန်ဆိုချက်များမရှိပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန်အကယ်၍ ထိုသူတို့သည် ကတိသစ္စာထားရှိပြီးနောက်သော်မှပင် မိမိတို့ ထားရှိကြကုန် သောကတိသစ္စာများကို ဖောက်ဖျက်ခြင်းကိုလည်းကောင်း၊ အသင်တို့၏ဒီန်သာသနာနှင့်စပ်လျဉ်း၍ ကဲ့ရဲ့ရှုတ်ချ(အမနာပ)ပြောဆိုခြင်းကိုလည်းကောင်း၊ ပြုခဲ့ကြပါလျှင် အသင်တို့သည် ကုဖ်ရ်မယုံမကြည်သွေဖည်ငြင်းပယ်မှုကို ခေါင်းဆောင်သော ရှေ့ဆောင်တို့အား ၎င်းတို့သည် (မိမိတို့၏အယူဝါဒများမှ) ရပ်စဲသွားကြအံ့သောငှာ တိုက်ခိုက်ကြလေကုန်။ အကြောင်းသော်ကား ၎င်းတို့၌ကတိသစ္စာများမရှိကြတော့ပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

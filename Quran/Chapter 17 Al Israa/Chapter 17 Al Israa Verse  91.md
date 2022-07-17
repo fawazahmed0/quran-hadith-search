@@ -710,6 +710,12 @@ ili da imash gradina s palmi i grozde, i da napravish da bliknat sred neya reki 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၁။	သို့မဟုတ် သင်၌ စွန်ပလွံ၊ သပြက်ပင်တို့နှင့်ပြည့်နှက်နေအောင် ဥယျာဉ်တခုရှိ၏။ ထိုဥယျာဉ်အတွင်းမြစ်ချောင်း အသွယ်သွယ်စီးထွက်လာအောင်ပြုလုပ်ပြခြင်းကိုသော်လည်းကောင်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် အသင်၌ စွန်ပလွံပင်များနှင့်စပျစ်ပင်များ (ပြည့်စုံစွာရှိကုန်သော)ခြံတစ်ခုရှိရမည်။ ပြီးနောက် အသင်သည် ထိုခြံ၏အလယ်ဗဟို၌ စမ်းရေချောင်းများသွင်သွင် စီးထွက်လာအောင် ပြုလုပ်ရမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

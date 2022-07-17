@@ -710,6 +710,12 @@ V tozi Den priyatelite shte sa vragove edin na drug osven bogoboyazlivite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၇။	ထိုနေ့တော်ကြီး၌ အလ္လာဟ်အရှင်မြတ်၏ အမှုတော်ကို ထမ်းသူတို့မှတပါး အခြားသူတို့သည် အဆွေခင်ပွန်း အချင်းချင်းတစ်ဦးနှင့်တစ်ဦးရန်သူများဖြစ်ကြလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနေ့တွင် "မွတ္တကီ" သူတော်စင်တို့မှတပါး အခြားမိတ်ဆွေရင်းချာတို့မှာ အချို့သည် အချို့၏ ရန်သူများပင် ဖြစ်ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

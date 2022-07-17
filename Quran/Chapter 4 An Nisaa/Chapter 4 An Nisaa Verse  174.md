@@ -710,6 +710,12 @@ O, khora, pri vas doĭde dovod ot vashiya Gospod i vi nizposlakhme yavna svetli
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇၄။	အို-လူသားတို့ သင်တို့၏အသျှင်သခင်အထံတော်မှ သက်သေသာဓကစ်ပါး သင်တို့ထံသို့ ယခု ကျရောက်လာပြီး။ ငါအသျှင်မြတ်သည် သင်တို့ထံသို့ အလွန်ကြည်လင်တောက်ပသော ရောင်ခြည် တော်ကို ချပေးတော်မူပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို- လူခပ်သိမ်းတို့၊ အသင်တို့အား မွေးမြူတော်မူသော အရှင်မြတ်၏အထံတော်မှ အသင်တို့ထံသို့ ခိုင်လုံသောသက်သေသာဓကတစ်ရပ် (ဖြစ်သော နဗီတမန်တော်မုဟမ္မဒ် (ဆွ) သည် ဧကန်မလွဲ ရောက်ရှိလာခဲ့ချေပြီ။ ၎င်းပြင် ငါအရှင်မြတ်သည် အသင်တို့ထံသို့ ထင်ရှားလှစွာသော အလင်းရောင် (ဖြစ်သော ကုရ်အာန်ကျမ်းတော်မြတ်) ကိုလည်း ချပေးသနားတော်မူခဲ့ချေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

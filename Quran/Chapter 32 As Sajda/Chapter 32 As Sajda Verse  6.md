@@ -710,6 +710,12 @@ Toĭ e Znaeshtiya i skritoto, i yavnoto, Vsemogŭshtiya, Milosŭrdniya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	ထိုသို့အခွင့်ကိစ္စအဝဝကို စီမံခန့်ခွဲတော်မူသောအရှင်မြတ်သည် မမြင်ရသောအရူပ၊ မြင်ရသောရှုပအပေါင်းတို့ကို အကြွင်းမဲ့သိတော်မူသောအရှင်၊ အနန္တတန်ခိုးတော်သခင်၊ မဟာကရုဏတော်အရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည်ပင် ဖုံးကွယ်လျက်ရှိသည်တို့ကိုလည်းကောင်း၊ ထင်ရှားစွာရှိသည်တို့ကိုလည်းကောင်း၊ သိရှိတော်မူသော၊ တန်ခိုးအာနုဘော်နှင့်ပြည့်စုံတော်မူသော၊ အလွန်တရာသနားကြင်နာတော်မူသောအရှင်ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

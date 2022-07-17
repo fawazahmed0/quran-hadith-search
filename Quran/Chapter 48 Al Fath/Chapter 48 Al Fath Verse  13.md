@@ -710,6 +710,12 @@ A za onezi, koito ne vyarvat v Allakh i v Negoviya Pratenik - Nie sme prigotvili
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	အကြင်သူတို့သည် အလ္လာဟ်အရှင်မြတ်နှင့် အရှင်မြတ်၏ တမန်တော်ကို မယုံကြည်ကြအ့ံ၊ ထိုမိစ္ဆာဒိဋ္ဌိများ အတွက် ငါသည် မီးတောက်မီးလျှံကို အသင့်စီရင်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား မည်သူမဆို အလ္လာဟ်အရှင်မြတ်အားလည်းကောင်း၊ ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော်မြတ်အားလည်းကောင်း၊ သက်ဝင်ယုံကြည် ခြင်းမရှိခဲ့မူ ဧကန်မလွဲ ငါအရှင်မြတ်သည် ‘ကာဖိရ်’ သွေဖည် ငြင်းပယ်ကြကုန်သောသူတို့အဖို့ ‘ဂျဟန္နမ်’ ငရဲဘုံကို အဆင်သင့် ပြုလုပ်ထားတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I ne prevrŭshtaĭte svoite kletvi v izmama pomezhdu vi, ta da se podkhlŭzne k
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၄။	သင်တို့သည် မိမိတို့အချင်းချင်းလိမ်လည်လည့်စားဖို့ရာ ကတိသစ္စာမပြုကြလင့်။ ထိုသို့ပြုလုပ်ခြင်းကြောင့် သင်တို့ကြောင့် မိမိတို့ခြေထောက်ကို မြဲမြံစွာရပ်ပြီးမှ ခြေချော်တတ်ကြသည်။ သင်တို့သည် လူသားတို့အား အလ္လာဟ်အရှင်မြတ်၏ လမ်းတော်မှ ပိတ်ပင်ဟန့်တားခြင်းကြောင့် ဆိုးကျိုးကို မြည်းကြရလိမ့်မည်။ သင်တို့၏ အပြစ်ဒဏ်သည် အလွန်းဆိုးဝါးကြောက်မက်ဖွယ်ဖြစ်လိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အသင်တို့သည် မိမိတို့၏ကျိန်ဆိုချက်များကို မိမိတို့အချင်းချင်းတွင် ပရိယာယ်ဝေဝုစ် မပြုလုပ်ကြကုန်လင့်။ သို့ဖြစ်လျှင် (အခြားသူတို့၏)ခြေသည် မြဲမြံခိုင်ခံ့ပြီးနောက်ချွတ်ချော်တိမ်းပါး သွားပေလိမ့်မည်။ ထို့ပြင် အသင်တို့သည်အလ္လာဟ်အရှင်မြတ်၏လမ်းတော်မှ တားဆီးခဲ့ကြသောကြောင့်(ဤလောက၌လည်း) ဘေးဒုက္ခ ခံစားကြရပေမည်။ ထိုမှတစ်ပါး(တမလွန်ဘဝ၌လည်း) အသင်တို့၌ ကြီး ကျယ်လှစွာသောပြစ်ဒဏ်သည် သက်ရောက်ပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

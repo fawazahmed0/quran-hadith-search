@@ -710,6 +710,12 @@ Chasŭt - skrivam go dokraĭ - nepremenno shte doĭde, za da se vŭzdade na vs
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	မှတ်သားလော့၊ အချိန်တော်သည် အမှန်ပင်ချဉ်းကပ်လာနေပြီ၊ သို့သော်ငါသည် ထိုနေ့တော်ကြီးကို လျှို့ဝှက် ထားမည်၊ အကြောင်းမူကား ဝိညာဉ်တိုင်းသည် မိမိပြုကျင့်သည့်အလျောက် အကျိုးအပြစ်ခံစားစေဖို့ရာဖြစ်သည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ကိယာမတ်သည် ရောက်ရှိလာ ပေမည်။ လူတိုင်းလူတိုင်းသည် မိမိကြိုးပမ်းမှု၏ အကျိုးကို ခံစားနိုင်အံ့သောငှာ ငါအရှင်မြတ်သည် ယင်းကိယာမတ်နေ့ကို(မည်သူ့အားမျှအသိမပေးဘဲ) လျှို့ဝှက်ထားလိုတော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Veche izpitakhme onezi predi tyakh. Allakh znae koi govoryat istinata i znae lŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	မှတ်သားကြလော့၊ ငါသည် သင်တို့ထက်ရှေးကျသောလူဟောင်းများကို စုံစမ်းတော်မူ၏၊ ဤနည်းအားဖြင့် အလ္လာဟ်အရှင်မြတ်သည် ဟုန်မဆောင်သူများနှင့် ယုံကြည်ဟန်ဆောင်သူများကို ခြားနားသိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား မချွတ်မလွဲ ငါအရှင်မြတ်သည် ၎င်းတို့အလျင် ရှိခဲ့ကြကုန်သော သူတို့အား စမ်းသပ်တော်မူခဲ့၏။ သို့ဖြစ်ပေရာ မုချဧကန် အလ္လာဟ်အရှင်မြတ်သည် မှန်ကန်စွာပြောဆိုကြသော သူတို့အား ခွဲခြားသိမြင်အောင် ပြုလုပ်တော်မူပေမည်။ ထိုမှတစ်ပါး ဧကန်မုချ ထိုအရှင်မြတ်သည် မုသာဝါဒီတို့အားလည်း ခွဲခြားသိမြင်အောင် ပြုလုပ်တော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

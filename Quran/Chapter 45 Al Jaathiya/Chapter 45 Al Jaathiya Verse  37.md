@@ -710,6 +710,12 @@ Negovo e velichieto na nebesata i na zemyata. Toĭ e Vsemogŭshtiya, Premŭdriy
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	မိုးမြေနှစ်ပါး၌ ကြီးကဲမြင့်မြတ်တင့်တယ်ခန့်ငြားခြင်းသည် အရှင်မြတ်အဖို့သာလျှင် ဖြစ်၏၊ အရှင်မြတ်သည် အနန္တတန်ခိုးတော်သခင်၊ သဗ္ဗညုတဉာာဏ်တော်ရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး မိုးကောင်းကင်များ၌လည်းကောင်း၊ ကမ္ဘာမြေ၌လည်းကောင်း၊ ထူးကဲကြီးမြတ်ခြင်းသည် ထိုအရှင်မြတ်၌သာရှိပေသည်။ ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည်သာလျှင် လွန်စွာ နိုင်နင်းလွှမ်းမိုးတော်မူသောအရှင်၊ နက်နဲသိမ်မွေ့သော ဆင်ခြင်တုံတရားဖြင့် ပြည့်စုံတော်မူသောအရှင် ဖြစ်တော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

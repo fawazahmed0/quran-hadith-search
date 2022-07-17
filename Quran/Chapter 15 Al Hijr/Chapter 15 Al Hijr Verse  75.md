@@ -710,6 +710,12 @@ V tova ima znameniya za prozorlivite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၅။	မှတ်သားကြလော့၊ သက်သေသာဓကတော်များကို ဖတ်တတ်သူတို့ ဤအဖြစ်အပျက်များ၌ သာဓကတော်များ အမှန်ပင်ပါရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ဤသည့်(အဖြစ်အပျက်)၌ စဉ်းစားဆင်ခြင်တတ်သော သူတို့အဖို့ သက်သေလက္ခဏာ များသည်အမှန်ပင် ရှိပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

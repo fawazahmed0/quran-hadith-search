@@ -710,6 +710,12 @@ Kazhi: “Nikoĭ ne mozhe da me zashtiti ot Allakh i ne shte namerya ubezhishte
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။ အို-တမန်တော်၊ ဟောပြောလော့၊ ငါ့ကို မည်သူမျှ အလ္လာဟ်အရှင်မြတ်မှ မကာကွယ်နိုင်ချေ၊ ငါသည် အရှင်မြတ်မှတပါး အခြားခိုလှုံရာကို မတွေ့နိုင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်သည် ပြောကြားပါဦးလေ။ (အချင်းတို့၊ အကယ်၍သာ ငါသည် အလ္လာဟ်အရှင်မြတ်အား ဖီဆန်ခဲ့မူ)မည်သူတစ်ဦးတစ်ယောက်မျှပင် ငါ့အား အလ္လာဟ်အရှင်မြတ်(၏ပြစ်ဒဏ်)မှ အလျှင်းကာကွယ် စောင့်ရှောက်နိုင်မည် မဟုတ်ပေ။ ထို့ပြင် ငါသည် ထိုအရှင်မြတ်(အထံတော်)မှတစ်ပါး မည်သည့်ခိုလှုံရာ နေရာကိုမျှ အလျှင်းတွေ့နိုင်မည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

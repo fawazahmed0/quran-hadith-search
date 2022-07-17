@@ -710,6 +710,12 @@ Nikoĭ ne shte go otblŭsne ot nevernitsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။ ထိုအပြစ်ဒဏ်ကို မိစ္ဆာဒိဋ္ဌိတို့ခံစားရမည်သာတည်း၊ ထိုအပြစ်ဒဏ်ကို မည်သူမှ မတွန်းလှန်နိုင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကာဖိရ် သွေဖည်ငြင်းပယ်သော သူတို့အပေါ်ဝယ် ယင်းပြစ်ဒဏ်ကို တွန်းလှန် ဖယ်ရှားအံ့သောသူ ဟူ၍တစ်ဦးတစ်ယောက်မျှပင်မရှိပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I nosi vashite tovari kŭm strani, koito ne bikhte stignali osven s tezhŭk trud
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	ထို့အပြင်သင်တို့သည် အလွန်ခဲယဉ်းစွာသွားရသောနေရာအရပ်သို့၊ ၎င်းတို့သည် သင်တို့၏ အထုပ်အပိုးများကို သည်ပိုးရွက်ဆောင်၏။ မှတ်သားကြလော့။ သင်တို့၏ အရှင်သခင်သည် အလွန်သနားကြင်နာတော်မူ၏။ ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ယင်းခြေလေးချောင်းတိရစ္ဆာန်များသည် အသင်တို့၏ ဝန်စည်စလယ်များကို အသင်တို့ အလွန်အမင်း ခဲယဉ်းစွာသာလျှင် ရောက်ရှိနိုင်ကြသောမြို့ရွာသို့ သယ်ပိုး(၍ပို့ဆောင်)ခြင်းကိုလည်း ပြုကြကုန်သည်။ ဧကန်စင်စစ်အသင်တို့၏အရှင်မြတ်သည် အလွန်တရာ နူးညံ့သိမ်မွေ့တော်မူသောအရှင်၊ အလွန်တရာ သနားကြင်နာညှာ တာတော်မူသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

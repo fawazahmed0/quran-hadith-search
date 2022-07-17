@@ -710,6 +710,12 @@ Nima kogato vi porazi beda [pri Ukhud], [a] vie porazikhte s dvoĭna [pri Badr]
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၅။	ရန်သူတို့အား သင်တို့ဆုံးရှုံးသည်ထက် နှစ်ဆဆုံးရှုံးစေတော်မူ၏။ သို့ပါလျက် သင်တို့သည် ဆုံးရှုံးခြင်းခံရသောအခါ အဘယ်သို့ဖြစ်သနည်းဟု ညည်းညူကြသလော။ အို-မိုဟမ္မဒ် သင်သည် လူသားတို့အား ဟောကြားလော့။ ထိုဆုံးရှုံးခြင်းသည် သင်တို့ကြောင့်ဖြစ်၏။ မှတ်သားကြလော့။ အလ္လာဟ်အသျှင်မြတ်သည် အရာရာကို ပြုစွမ်းနိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တဖန် (အုဟုဒ် စစ်မြေပြင်ဝယ်) အသင်တို့၌အတိဒုက္ခသည် ဆိုက်ရောက်ခဲ့လေသည်။ အသင်တို့သည်ယင်းအတိဒုက္ခ၏ နှစ်ဆမျှသော အတိဒုက္ခများကိုမူ (ရန်သူတို့၌) စင်စစ်ဧကန် ဆိုက်ရောက် စေခဲ့ကြပြီးဖြစ်၏။ (သို့အတိဒုက္ခဆိုက်ရောက်သောအခါ) အသင်တို့က ဤ(ဒုက္ခ)သည်(ကျွန်ုပ်တို့၌) အဘယ်မှ ဆိုက်ရောက်ပါသနည်းဟု (ညည်းညူ)ပြောဆိုခဲ့ကြလေသည်။ (အို-နဗီတမန်တော် စင်စစ်) ယင်းဒုက္ခသည် အသင်တို့ထံမှပင် (ဆိုက်ရောက်ခြင်း) ဖြစ်သည်ဟု ပြောကြားပါလေ။ မုချဧကန် အလ္လာဟ်အရှင်မြတ်သည် အရာခပသိမ်းတို့ကို တတ်စွမ်းနိုင်တော်မူသော အနန္တတန်ခိုးတော်ရှင်ဖြစ်တော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

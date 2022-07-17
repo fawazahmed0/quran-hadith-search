@@ -710,6 +710,12 @@ Pred tyakh e Adŭt. I ne shte gi izbavi s nishto onova, koeto sa pridobili, nito
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	ထိုသူတို့ရှေ့၌ ငရဲရှိ၏၊ သူတို့၏ လောကီစည်းစိမ်ဥစ္စာတို့သည်ကား ထိုသူတို့ကို ကျေးဇူးမပြုစွမ်းနိုင်ချေ၊ သူတို့ကို ကာကွယ်စောင့်ရှောက်ရန်၊ အလ္လာဟ်အရှင်မြတ်မှတပါး ၎င်းတို့ကိုးကွယ်သောဘုရားတုဘုရားယောင် တို့သည် ဘာမျှမတတ်စွမ်းနိုင်ချေ၊ သူတို့ခံစားဖို့ရာ အလွန်ကြီးမားသောအပြစ်ဒဏ်တော်ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်း၏ရှေ့မှောက်ဝယ် "ဂျဟန္နမ်"ငရဲဘုံသည် ရှိနေလေ၏။ ထို့ပြင် ထိုသူတို့ ရှာဖွေဆည်းပူးခဲ့သမျှ တို့သည်လည်းကောင်း၊ ထိုသူတို့က အလ္လာဟ်အရှင်မြတ်အပြင် ကိစ္စအဝဝကို ပြီးစီးအောင် ဆောင်ရွက်ပေးသူများဟူ၍ ပြုလုပ်သတ်မှတ်ထားသူတို့သည် လည်းကောင်း၊ ထိုသူအဖို့ အနည်းငယ် စိုးစဉ်းမျှပင် အသုံးဝင်ကြမည် မဟုတ်ပေ။ ထိုမှတစ်ပါး ၎င်းတို့၌ ကြီးလေးလှစွာသော ပြစ်ဒဏ်သည် ရှိပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

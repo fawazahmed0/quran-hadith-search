@@ -710,6 +710,12 @@ Kogato prizovakhte vashiya Gospod za pomosht, Toĭ vi otklikna: “Az shte vi p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	သင်တို့သည် မိမိတို့၏ အသျှင်သခင်၏ စောင့်ရှောက်ခြင်းကျေးဇူးတော်ကို ရှာမှီးသောအခါ အသျှင်မြတ်က ငါသည် သင်တို့အား ကောင်းကင်တမန်တော်တစ်ထောင်အားဖြင့် စောင်မတော် မူမည်။ သူတို့သည် စီတန်းလာကြလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ပြန်လည်သတိရကြလေကုန်) အကြင်အခါဝယ်၊အသင်တို့သည် မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်အထံတော်တွင် ကူညီစောင်မတော်မူရန် လျှောက်ထားပန်ကြားလျက်ရှိကြလေသည်။ ၎င်းနောက် ထိုအရှင်မြတ်သည်အသင်တို့၏ ပန်ကြား ချက်ကို (လက်ခံတော်မူ၍) ဧကန်စင်စစ်ငါအရှင်မြတ်သည် အသင်တို့အား တစ်ပါးပြီးတစ်ပါး (ဆက်တိုက်)လာကြမည်ဖြစ်သော မလာအိကဟ်ကောင်းကင်တမန်တစ်ထောင်ဖြင့် ကူညီစောင်မတော်မူမည်ဟု ပြန်ကြားတော်မူခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

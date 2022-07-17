@@ -710,6 +710,12 @@ I koito ako kharchat, nito prakhosvat, nito skŭpernichat, a sa po sredata na to
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၇။	တဖန်ထိုသူတို့သည် သုံးစွဲရာ၌ လက်ဖွာသည်မဟုတ်၊ စေးနဲသည်လည်းမဟုတ်၊ မလွန်မယုတ်၊ အလယ်အလတ် လမ်းကို လိုက်သူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အကြင်သူများပင်။ ထိုသူတို့သည် သုံးစွဲကြသောအခါ အချည်းနှီး၊ ဖြုန်းတီးကြသည်လည်း မဟုတ်ပေ။ စစ်စီစေးနှဲကြသည်လည်း မဟုတ်ပေ။ စင်စစ် (၎င်းတို့၏သုံးစွဲမှုကား) ယင်း (အချည်းနှီးဖြုန်းတီးမှုနှင့် စစ်စီစေးနှဲမှု)၏ အကြားတွင် မလွန်မယုတ် အလယ်(အလတ်သုံးစွဲမှု)သာလျှင် ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

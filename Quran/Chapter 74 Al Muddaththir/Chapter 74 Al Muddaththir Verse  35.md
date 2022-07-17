@@ -710,6 +710,12 @@ Tozi [Ogŭn] e edno ot velikite izpitaniya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။ မှတ်သားကြလော့၊ ဤအရာသည် ကြီးမားထင်ရှားသောလက္ခဏာအံ့ဖွယ်သရဲများအနက် တစ်ပါးဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ယင်း "စကရ်"မှာ (ဂျဟန္နမ်ငရဲ၏)အကြီးအကျယ် ကြောက်မက်ဖွယ်ကောင်းသော (အထပ်များ)အနက် တစ်ခုဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

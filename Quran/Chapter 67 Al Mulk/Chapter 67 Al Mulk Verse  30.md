@@ -710,6 +710,12 @@ Kazhi: “Vizhdate li? Ako vodata vi potŭne, koĭ shte vi dade izvorna voda?�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၀။ အို-တမန်တော်၊ ဟောပြောလော့၊ သင်တို့ဆင်ခြင်ပြီးပြီလော၊ သင်တို့၏ ချောင်းမြောင်းသည် အလိုအလျောက် မြေတွင်ပျောက်၍ ခန်းခြောက်သွားလျှင် အယဉ်အထွေထွေစီးဆင်းနေသောရေကို သင်တို့အား အဘယ်သူပေး နိုင်အံ့နည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ပြောကြားပါလေ။ (အချင်းတို့) အကယ်၍ အသင်တို့၏ ရေသည် (မြေဝယ်)တိမ်မြုပ်၍ သွားခဲ့ပါလျှင် အသင်တို့ထံ ကြည်လင်စီးတွေသော ရေကို မည်သူယူလာအံ့နည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

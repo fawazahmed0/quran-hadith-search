@@ -710,6 +710,12 @@ koĭto ima mosht. Toĭ se vŭzpravi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	ထိုကောင်းကင်တမန်သည် ခွန်အားဗလကြီး၍ မြင်လောက်အောင် ထင်ရှားစွာဖြစ်ပေါ်လာ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စွမ်းအင်နှင့်ပြည့်စုံသူဖြစ်သော လွန်စွာလှပတင့်တယ်သူဖြစ်သော၊ ထို့နောက် ထို(ကောင်းကင် တမန်)သည်နဂိုမူလ ရုပ်သဏ္ဌာန်နှင့် အထင်အရှား ပေါ်လာခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

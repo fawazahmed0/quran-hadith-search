@@ -710,6 +710,12 @@ A vsichki pri Nas shte bŭdat dovedeni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	သို့သော်ဤလွန်လေပြီးသောလူတိုင်း၊ အားလုံးပင် ငါအရှင်မြတ်၏ မျက်မှောက်တော်သို့ စစ်ကြောစီရင်ဖို့ အလို့ငှာ ဝင်ကြရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး (၎င်းတို့)အားလုံးတို့သည် ငါအရှင်မြတ်အထံတော်သို့ အဆင်သင့်ရောက်ရှိစေခြင်းကို ခံကြရမည့်သူများသာ ဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

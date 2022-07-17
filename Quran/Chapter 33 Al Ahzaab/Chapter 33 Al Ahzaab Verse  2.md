@@ -710,6 +710,12 @@ I sledvaĭ onova, koeto ti se razkriva ot tvoya Gospod! Za vashite dela Allakh 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	ထို့အပြင်သင်သည် မိမိ၏အရှင်သခင်က သင်၏စိတ်နှလုံးတွင် ထင်ရှားစေသောဗျာဒိတ်တော်ကို လိုက်နာကျင့် ဆောင်လော့၊ အလ္လာဟ်အရှင်မြတ်သည် သင်ပြုကျင့်သမျှအပေါင်းတို့ကို အကြွင်းမဲ့မုချဧကန်သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အသင်သည် မိမိထံသို့ မိမိအရှင်မြတ်အထံတော်မှ ထုတ်ပြန်ခြင်းခံရသောအမိန့် တော်များကိုသာလျှင် လိုက်နာဆောင်ရွက်ပါလေ။ ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့ကျင့်မူလျက် ရှိကြသည်များကို ကောင်းစွာကြားသိ တော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ izvor, ot koĭto piyat rabite na Allakh - puskat go v obilie da blikva
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။ ထိုရေသည် အလ္လာဟ်အရှင်မြတ်၏ ကျေးတော်မျိုးကျွန်တော်မျိုးတို့သောက်ကြ၍ ရေများစွာပန်းထွက်နေသောစိမ့်စမ်းမှ ဖြစ်သည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်၏ (ထူးကဲမြင့်မြတ်သော)ကျွန်တို့သည် အကြင်စမ်းမှ၊ ထိုစမ်းမှ၊ သောက်သုံး ကြပေမည်။၎င်းတို့သည် ယင်းစမ်းကို (အလိုရှိရာသို့) လွယ်လင့်တကူ စီးဆင်းစေကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

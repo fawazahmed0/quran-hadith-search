@@ -710,6 +710,12 @@ I da ti pokazhem chast ot onova, s koeto gi zaplashvame, ili da te priberem pred
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄ဝ။	တမန်တော်၊ ငါအရှင်မြတ်သည် လူသားတို့အား ကတိထားသည့်အရာမှ အချို့ကို သင့်အား ငါအရှင်မြတ်မြင်ခွင့် ပြုတော်မူသည်ဖြစ်စေ၊ သို့မဟုတ် ထိုအရာမဖြစ်မီ သင်ကံကုန်သည်ဖြစ်စေ၊ သင်၏ တာဝန်ဝတ္တရားမှာကား အမှာဗျာဒိတ်တော်ကို ယူဆောင်လာရခြင်းသာဖြစ၏။ စစ်ကြောစီရင်ခြင်းမှာ ငါအရှင်မြတ်၏ ဝတ္တရားသာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်သော်ကား အကယ်၍ ငါအရှင်မြတ်သည်အသင်အား ငါအရှင်မြတ် ၎င်းတို့ကို ကတိပေးတော်မူရာအချို့ကိုပြသတော်မူသည်ဖြစ်စေ၊ သို့တည်းမဟုတ် ငါအရှင်မြတ်သည် ကွယ်လွန်စေတော်မူသည်ဖြစ်စေ၊ (မည်သို့ပင်ဖြစ်စေ) အသင့် အပေါ်၌မူကား (ငါအရှင်မြတ် အမိန့်ပညတ်တော်များကိုလူတို့ထံ)ပို့ဆောင်ရုံမျှပင် ထာဝန်ရှိပေသည်။ ငါအရှင်မြတ်အပေါ်၌မူကား စစ်ဆေးရန်တာဝန်သည် ရှိပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

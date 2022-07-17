@@ -710,6 +710,12 @@ Reche: “A kakvo vi e namerenieto, o, pratenitsi?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	ထိုအခါတမန်တော်အေဗရာဟမ်က အို-အလ္လာဟ်အရှင်မြတ်၊ စေလွှတ်တော်မူသောတမန်တို့၊ ထို့နောက် သင် တို့မှာ မည်သည့်အမိန့်တော်ပါလာပါသနည်းဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ထိုအီဗ်ရာဟီမ်က သို့ဖြစ်လျှင် အသင်တို့၌ မည်သည့် အရေးကိစ္စ ရှိသနည်းဟု မေးမြန်းခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ da ti dovedat vsichki veshti mag’osnitsi!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	ထိုဆင့်ခေါ်သူများသည် အရှင်မင်းကြီးထံသို့ ဝိဇ္ဇာဆရာတိုင်းကို ခေါ်ငင်လာရကြပါမည်ဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမင်းစေတို့သည်(တစ်ဖက်ကမ်းခပ်)တတ်မြောက်ကျွမ်းကျင်ကြကုန်သော ပဉ္စလက်ဆရာတို့အား (ဘုရင်မင်းမြတ်ထံသို့) ခေါ်ဆောင်၍ လာခဲ့ကြကုန်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

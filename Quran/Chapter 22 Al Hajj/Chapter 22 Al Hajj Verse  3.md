@@ -710,6 +710,12 @@ Nyakoi ot khorata sporyat za Allakh, bez da imat znanie, i sledvat vseki nepokor
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	လူသားတို့အနက် အသိတရားမရှိပဲ အလ္လာအရှင်မြတ်နှင့်စပ်လျဉ်း၍ ငြင်းခုံပြောဆိုပြီးလျှင် တော်လှန်သော ရှိုင်တန်မာရ်နတ်နောက်သို့ တကောက်ကောက်လိုက်သူရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် လူတို့အနက် အကြင်သို့သောသူလည်းရှိ၏။ ထိုသူသည် အသိပညာမရှိဘဲလျက် အလ္လာဟ် အရှင်မြတ်နှင့်ပတ်သက်၍ အငြင်းအခုံပြုသည်။ ၎င်းပြင် ထိုသူသည်ဆိုးသွမ်း ပုန်ကန်သော "ရှိုင်တွာန်" မိစ္ဆာကောင် အသီးသီး၏နောက်သို့လိုက်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

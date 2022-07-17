@@ -710,6 +710,12 @@ Reche: “Nima i ako sŭm doshŭl pri vas s po-dobro napŭtvane ot tova, s koeto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	ထိုအခါသူတို့လက်ထက်ပွင့်သောတမန်တော်က ဟယ်-အချင်းတို့၊ ငါယူဆောင်လာသောတရားတော်သည် သင်တို့မိဘဘိုးဘွားတို့လိုက်နာကျင့်သုံးသောအယူဝါဒထက် သာလွန်ကောင်းမြတ်၏ဟု ဟောကြား၏၊ သူတို့က အကျွနု်ပ်တို့ကား သင်တို့ယူဆောင်လာသောကျမ်းကို မယုံကြည်သူများဖြစ်ကြ၏ဟု ပြန်ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသတိပေးနှိုးဆော်သူ (နဗီတမန်တော်)က"(အချင်းတို့၊) အကယ်၍ ငါသည် အသင်တို့ထံ အသင်တို့ မိမိတို့အဘ၊ ဘိုး၊ ဘေးတို့ (လိုက်ခဲ့ကြသည်)ကို တွေ့ရှိခဲ့ကြလေသောလမ်းစဉ်ထက် ပိုမို (တိကျမှန်ကန်သော)တရားလမ်းမှန်ကို ညွှန်ပြအံ့သော တရားဓမ္မကို အသင်တို့ထံ ဆောင်ကြဉ်းခဲ့ပါလျက်(အသင်တို့သည် မိမိတို့၏ ရိုးရာဓလေ့များကိုသာ လိုက်စားကြမည်လော)"ဟု ပြောဆို(မေးမြန်းခဲ့)လေ၏။ (ထိုအခါ)၎င်းတို့က "စင်စစ်ဧကန် ကျွန်ုပ်တို့သည် အသင်တို့ယူဆောင်ခဲ့ကြသောတရားဓမ္မကို ယုံကြည် သူများမဟုတ်" ဟု ပြောဆိုခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Vizh kak izmislyat lŭzha za Allakh! Tova stiga za yaven gryakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅ဝ။	ကြည့်ရှုလော့။ သူတို့သည် အလ္လာဟ်အသျှင်မြတ်နှင့်စပ်လျဉ်း၍ အဘယ်ကဲ့သို့ မဟုတ်မလျား မုသားလုပ်ကြံပြောဆိုကြသနည်း။ ဤလုပ်ကြံမှုပင်လျှင် အလွန်ကြီးမားထင်ရှားသော အပြစ်ဖြစ်ပေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို- နဗီတမန်တော်) ထိုသူတို့သည် အလ္လာဟ်အရှင်မြတ်အပေါ်၌ မုသားကို မည်ကဲ့သို့ ကြံဖန်လီဆယ်ပြောဆိုဝံ့ကြသည်ကို အသင်ရှုပါလေ။ အမှန်စင်စစ် ယင်း (ကဲ့သို့) လီဆယ်ပြောဆိုခြင်းသည်ပင်လျှင် (၎င်းတို့၏) ထင်ရှားလှစွာသော ပြစ်မှုဒုစရိုက်အဖြစ် လုံလောက်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

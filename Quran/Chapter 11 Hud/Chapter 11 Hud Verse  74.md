@@ -710,6 +710,12 @@ I kogato uplakhata napusna Ibrakhim, i radostnata vest doĭde pri nego, toĭ n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၄။	၎င်းအပြင်ကြောက်စိတ်ပျောက်၍ သူ့ထံသို့ မင်္ဂလာရှိသောသတင်းရောက်သောအခါ တမန်တော်အေဗရာဟမ် သည် ငါအရှင်မြတ်အထံတော်၌ တမန်တော်လွတ်၏ လူများအတွက် တောင်းပန်တင်လျှောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် (နဗီတမန်တော်)အစ်ဗ်ရာဟီမ်(၏စိတ်ထဲ)မှစိုးရိမ်မှုသည် ကင်းရှင်း၍သွားပြီးနောက် ယင်း၏ထံသို့ဝမ်းမြောက်ဖွယ်ရာသတင်းကောင်း ရောက်ရှိလာသောအခါထို(နဗီတမန်တော်)အစ်ဗ်ရာဟီမ်သည်(နဗီတမန်တော်)လူ(တ်)၏အမျိုးသားတို့နှင့်ပတ်သက်၍ ငါအရှင်မြတ်(၏ ကောင်းကင်တမန်များ)နှင့် အငြင်းအခုံ ပြုလုပ်လေတော့သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

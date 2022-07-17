@@ -710,6 +710,12 @@ O, khora na Pisanieto, zashto smesvate istinata s lŭzhata i potulvate istinata,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၁။	အို-ရှေးကျမ်းတော်ကိုရရှိသူတို့ သင်တို့သည် အဘယ်ကြောင့် အမှားနှင့်အမှန်ကို ရှုပ်ထွေးရောနှော ကြသနည်း။ အဘယ်ကြောင့် အမှန်တရားသိလျှက်နှင့် ကွယ်ဝှက်ထားကြသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-အထက်ကျမ်းဂန်ရရှိသူအပေါင်းတို့၊ အဘယ်ကြောင့် အသင်တို့သည် အမှန်ကိုအမှားနှင့် ရောနှောရှုပ်ထွေးစေကြပါသနည်း၊ ၎င်းပြင် (အဘယ်ကြောင့်) အမှန်ကိုထိမ်ချန်ထား ကြပါသနည်း၊။ အမှန်သော်ကား အသင်တို့သည်မိမိတို့ကိုယ်တိုင် သိမြင်နားလည်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

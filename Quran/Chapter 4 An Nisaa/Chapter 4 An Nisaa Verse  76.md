@@ -710,6 +710,12 @@ Vyarvashtite se srazhavat po pŭtya na Allakh, a nevernitsite se srazhavat po p�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၆။	ယုံကြည်သူတို့သည် အသျှင်မြတ်လမ်းတွင် စစ်တိုက်ကြ၏။ မယုံကြည်သူတို့မူကား ဘုရားတု ဘုရားယောင်များအတွက် စစ်ခင်းကြ၏။ ထို့ကြောင့် သင်တို့သည် ရှိုင်တန်မာရ်နတ်၏ စစ်သည်များကို တိုက်ခိုက်ကြလော့။ မှတ်သားကြလော့။ ရှိုင်တန်မာရ်နတ်၏ သေနင်္ဂဗျူဟာသည် ညံ့ဖျင်း၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မုအ်မင်န်တို့သည် အလ္လာဟ်အရှင်မြတ်၏လမ်းတော်၌ စစ်မက်ပြိုင်ဆိုင်တိုက်ခိုက်ကြ၏။ ကာဖိရ်တို့သည်မူကား ‘တွာဂူတ်’၏လမ်း၌ စစ်မက်ပြိုင်ဆိုင်တိုက်ခိုက်ကြ၏။ သို့ဖြစ်ပေရာ အသင်တို့သည် ရှိုင်တွာန်၏အဆွေခင်ပွန်းတို့ကို တိုက်ခိုက်ကြကုန်၏။ မုချဧကန် ရှိုင်တွာန်၏ပရိယာယ်သည် ချည့်နဲ့လှပေသည်။ (တစ်နည်း ပေါ့ပျက်လှပေသည်။) (ရကူ ၇၊ ၇)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

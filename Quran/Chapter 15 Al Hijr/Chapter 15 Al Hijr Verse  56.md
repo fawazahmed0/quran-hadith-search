@@ -710,6 +710,12 @@ Kaza: “A koĭ gubi nadezhda za milostta na svoya Gospod osven zabludenite?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၆။	သူက လမ်းမှားသွားသူမှတပါး အဘယ်သူသည် မိမိ၏ ကျေးဇူးတော်သခင်၏ ကောင်းကြီးမင်္ဂလာတော်ကို မမျှော်လင့်ပဲ အားလျော့သနည်းဟု ပြန်ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(နဗီတမန်တော်)အစ်ဗ်ရာဟီမ်က အမှန်စင်စစ် လမ်းလွဲသူတို့မှတစ်ပါး မည်သူသည် မိမိအားဖန်ဆင်းမွေးမြူ တော်မူသောအရှင်မြတ်၏ ကရုဏာတော်မှ မျှော်လင့်ချက် ကင်းပါသနည်းဟု ပြောဆိုခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

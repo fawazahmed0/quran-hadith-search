@@ -710,6 +710,12 @@ Nima ne vizhdash, che Allakh vŭvezhda noshtta v denya i vŭvezhda denya v nosht
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	အို-လူသားအပေါင်းတို့၊ အလ္လာဟ်အရှင်မြတ်သည် ညဉ့်ကို နေ့အတွင်းသို့၊ နေ့ကို ညဉ့်အတွင်းသို့ သွင်းတော် မူသည်ကို သင်တို့မမြင်ကြသလော၊ အလ္လာဟ်အရှင်မြတ်သည် နေနှင့်လကို အစိုးရတော်မူ၏၊ ၎င်းတို့အား ၎င်းတို့အဖို့အရာ အသီးသီးသတ်မှတ်ထားသောအချိန်တိုင်အောင် သွားလာဝင်ထွက်ခြင်းကို ပြုစေတော်မူ၏၊ သင်တို့ပြုကျင့်သမျှအလုံးစုံတို့ကို အလ္လာဟ်အရှင်မြတ်သည် အကြွင်းမဲ့သိတော်မူသည်ကိုလည်း သင်တို့မသိ ကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်သည် မသိမမြင်ခဲ့လေသလော၊ ဧကန်မုချ အလ္လာဟ်အရှင်မြတ်သည် ည(၏အစိတ်အပိုင်းများ)ကို နေ့တွင်လည်းကောင်း၊ နေ့(၏ အစိတ်အပိုင်းများ)ကို ညတွင်လည်းကောင်း ဝင်စေတော်မူ၏။ ထို့ပြင်၊ ထိုအရှင်မြတ်သည် ‘နေ’ကိုလည်းကောင်း၊ ‘လ’ ကို လည်းကောင်း နိုင်နင်းစေတော်မူ၏။ယင်း (‘နေ’နှင့်’လ’) အသီးသီးတို့သည် သတ်မှတ်ပြဌာန်းအပ်သော အချိန်ကာလတိုင်အောင် သွားလာလှုပ်ရှားလျက်ပင်ရှိပေမည်။ ထိုမှတစ်ပါး အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့ပြုလုပ်ကြသည်တို့ကို အကြွင်းမဲ့ ကြားသိတော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

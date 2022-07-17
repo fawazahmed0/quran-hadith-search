@@ -710,6 +710,12 @@ Denyat, v koĭto shte naviem nebeto kato svitŭk za pisane. Kakto nachenakhme p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၄။	ထိုနေ့တော်ကြီး၌ ငါအရှင်မြတ်သည် စာရင်းတင်သူသည် ရေးပြီးသောစက္ကူပေလွှာကို လိပ်ခေါက်သကဲ့သို့ မိုးကောင်းကင်ကို လိပ်ခေါက်တော်မူမည်၊ ငါသည် စကြဝဠာခပ်သိမ်းကုန်တို့ကို ရှေးဦးပထမဖန်ဆင်းတော်မူ သကဲ့သို့ အသစ်တဖန်ဖန်ဆင်းတော်မူမည်၊ ဤသို့ပြုလုပ်တော်မူခြင်းသည် ငါထားတော်မူသောဂတိသစ္စာတော် အတိုင်းပင်ဖြစ်၏။ မှတ်သားကြလော့၊ ငါသည် ယင်းသို့ဖန်ဆင်းခြင်းကို ပြုတော်မူမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်)အကြင်(နေ့၏အကြောင်းကိုလည်းပြောကြားပါလေ။)ထိုနေ့တွင် ငါအရှင်မြတ်သည် မိုးကောင်းကင်ကို ရေးသားထားသော မှတ်တမ်းစာရွက်လိပ်ကဲ့သို့ပင် ခေါက်လိပ်တော်မူမည်။ ငါအရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို ပထမအကြိမ်စတင် ဖန်ဆင်းတော်မူသကဲ့သို့ ထိုအရာကိုပင် ထပ်မံ၍ပြုလုပ်(ဖန်ဆင်း)တော်မူပေမည်။ (ဤသည် ငါအရှင်မြတ်) မိမိအပေါ်၌ကတိပြု(တာဝန်ယူ)တော်မူခြင်းပင် ဖြစ်ပေရာ ဧကန်အမှန် ငါအရှင်မြတ်သည် (မိမိကတိတော်အတိုင်း)ပြုလုပ်တော်မူမည့် အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

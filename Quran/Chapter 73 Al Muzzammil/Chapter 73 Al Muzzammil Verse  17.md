@@ -710,6 +710,12 @@ I kak shte se predpazite, ako ste nevernitsi, ot Denya, koĭto shte napravi i d
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။ အို-မိစ္ဆာဒိဋ္ဌိ အပေါင်းတို့၊ သင်တို့သည် မယုံကြည်ကြလျှင် ကလေးသူငယ်များကို ဆံပင်ဖြူဖြစ်စေတော်မူသော နေ့တော်ကြီး၌ သင်တို့သည် မိမိကိုယ်ကို မိမိမည်သို့ ကာကွယ်စောင့်ရှောက်မည်နည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်တို့သည် အကြင်နေ့(၏ဘေးဒုက္ခ)မှ မည်ကဲ့သို့ ကင်းလွတ်ကြမည်နည်း။ ထိုနေ့သည် ကလေးသူငယ်တို့အား ဇရာအိုများအဖြစ်သို့ပင် ရောက်စေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

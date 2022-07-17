@@ -710,6 +710,12 @@ I shte se protrŭbi s Roga. “Tova e Denyat na obeshtanieto!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	ထို့အပြင်တံပိုးကို ပြင်းစွာမှုတ်၏၊ ထိုနေ့သည် ခြိမ်းခြောက်ထားတော်မူသောနေ့တော်ကြီးဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး တံပိုးခရာမှုတ်ခြင်း ခံရပေမည်။ထိုသည်ပင် ချိန်းချက်ထားသောနေ့ ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

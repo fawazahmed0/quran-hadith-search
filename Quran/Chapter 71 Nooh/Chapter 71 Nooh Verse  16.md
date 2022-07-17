@@ -710,6 +710,12 @@ I stori Toĭ tam ot lunata siyanie, i stori ot slŭntseto svetilnik
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။ ထိုအာကာသကောင်းကင်တွင် လကို အလင်းရောင်ဖြစ်စေတော်မူ၍ နေကိုလည်း မီးအိမ်ကြီးဖြစ်စေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုအရှင်မြတ်သည် ယင်းမိုးများ၌ "လ"ကို လင်းရောင်ခြည် ဖြစ်စေတော်မူခဲ့၏။ ထို့ပြင် "နေ"ကိုမီးရှူးမီးတိုင် ပြုလုပ်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

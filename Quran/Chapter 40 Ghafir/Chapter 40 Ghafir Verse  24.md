@@ -710,6 +710,12 @@ pri Faraona i Khaman, i Karun, i rekokha te: “Mag’osnik-izmamnik!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃၊၂၄။	လွန်လေပြီးသောအခါဝယ် ငါအရှင်မြတ်သည် တမန်တော်(မူစာ)ကို မုချဧကန်ငါ့ကျမ်းတော်နှင့်တကွ ထင်ရှား ခိုင်မာသောအမိန့်တော်ကို ပေးသနားတော်မူပြီးလျှင် ဖွာရော၊ ဟာမန်နှင့် ကိုရာဟ်တို့ထံ စေလွှတ်တော်မူ၏၊ သူတို့သည် တမန်တော်အား မုသားဆိုသူမျက်လှည့်ဆရာဟု ပုတ်ခတ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဖစ်ရ်အောင်န်"၊ "ဟာမာန်" နှင့် "ကာရူန်"တို့ထံ။ ထိုအခါ ၎င်းတို့က (ထိုမူစာသည်)ပဉ္စလက် ဆရာတစ်ဦးသည်လည်းကောင်း၊ လွန်စွာ မုသားပြောဆိုသူတစ်ဦးသည်လည်းကောင်း၊ ဖြစ်သည်ဟု ပြော၏ဆိုခဲ့ကြ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

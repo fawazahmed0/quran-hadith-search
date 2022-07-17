@@ -710,6 +710,12 @@ I vŭzdarikhme Musa i Kharun [s prorochestvoto]
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၄။	ထို့အပြင်ငါသည် တမန်တော်မူစာနှင့် တမန်တော်ဟာရွန်တို့ကို ကောင်းကြီးမင်္ဂလာပြုတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး မလွဲဧကန် ငါအရှင်မြတ်သည် (နဗီတမန်တော်)"မူစာ"၏အပေါ်၌လည်းကောင်း၊(နဗီတမန်တော်)"ဟာရူန်"၏အပေါ်၌လည်းကောင်း၊ ကျေးဇူးပြုတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

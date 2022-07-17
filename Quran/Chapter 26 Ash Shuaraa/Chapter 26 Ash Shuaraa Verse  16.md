@@ -710,6 +710,12 @@ Idete pri Faraona i kazhete: “Nie sme prateni ot Gospoda na svetovete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၊၁၇။	သင်တို့နှစ်ဦးသည် ဖွာရောမင်းရှိရာသို့ ကြွသွား၍ ဤသို့ဟောကြားလော့၊ အကျွနု်ပ်တို့သည် အနန္တစကြာဝဠာ တို့၏ အရှင်သခင်အထံတော်မှ အမှာဗျာဒိတ်တော်ကို ယူဆောင်လာကြ၏၊ အစ္စရာအီလ်အမျိုးသားတို့ကို ငါတို့နှင့်အတူ သွားခွင့်ပြုလော့ဟု ဗျာဒိတ်ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်တို့နှစ်ဦးသည် ဖစ်ရ်အောင်န်၏ထံသို့သွား၍ (ဤသို့)ပြောဆိုကြလေကုန်။ ဧကန်စင်စစ် ငါတို့သည် စကြာဝဠာခပ်သိမ်းတို့ကို ဖန်ဆင်း မွေးမြူတော်မူသောအရှင် စေလွှတ်တော်မူသည့် ရစူလ်တမန်တော်(များ)ပင် ဖြစ်ကြသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

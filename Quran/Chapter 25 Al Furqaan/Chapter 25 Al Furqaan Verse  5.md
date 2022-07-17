@@ -710,6 +710,12 @@ I kazvat: “Legendi na predtsite! Nakaral e da mu gi prepishat i mu se diktuvat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	တဖန်သူတို့က ပြောသည်မှာ ရှင်မိုဟမ္မဒ်သည် ရှေးလူဟောင်းတို့စီရင်သောဒဏ္ဍာရီပုံဝထ္ထုများကို ရေးသားထား၍ ထိုပုံဝထ္ထုများကို နေ့ညဉ့်မပြတ်သူ့အား ရွတ်ဖတ်ပြကြ၏ဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုကာဖိရ် သွေဖည်ငြင်းပယ်သော သူတို့က"(ဤကုရ်အာန်ကျမ်းမြတ်သည်)ဤသူ ရေးမှတ်စေခဲ့သော ရှေးသူဟောင်းတို့၏ အခြေအမြစ် မရှိသောပုံပြင်များသာ ဖြစ်သည်။ တစ်ဖန် ထိုအခြေအမြစ်မရှိသော၊ ပုံပြင်များကို ဤသူ၏ရှေ့ဝယ် နံနက်ယံ၌လည်းကောင်း၊ ညနေချမ်း၌လည်းကောင်း ဖတ်ကြားရလေသည်" ဟု ပြောဆိုကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

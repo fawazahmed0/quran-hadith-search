@@ -710,6 +710,12 @@ I ako teb [o, Mukhammad] vzimat za lŭzhets, to i onezi predi tyakh vzimakha za 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	သူတို့သည် သင့်အား မယုံကြည်ငြင်းပယ်လျှင် သူတို့ရှေးကျသောလူဟောင်းတို့လည်း ယင်းသို့ငြင်းဆန်ကြလေပြီ၊ ထိုလူဟောင်းများထံသို့ ၎င်းတို့၏တမန်တော်တို့သည် အလ္လာဟ်အရှင်မြတ်သည် အချုပ်အခြာအာဏာပိုင်သသော အထွဋ်အခေါင်ဖြစ်ကြောင်းကို ခိုင်မာထင်ရှားသည့်သက်သေခံချက်များကိုသော်လည်းကောင်း၊ အလင်းပြကျမ်းဂန် တော်များကိုသော်လည်းကောင်း၊ ယူဆောင်လာခဲ့ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အကယ်၍ ၎င်းတို့သည် အသင့်အားမုသာဝါဒီဟူ၍ စွပ်စွဲငြင်းပယ်ကြလျှင် အမှန်စင်စစ် ၎င်းတို့အလျင် ရှိခဲ့ဘူးကြသော ရှေးသူဟောင်းတို့ သည်လည်း မဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ်ခဲ့ကြ ကုန်၏။ ထို(ရှေးသူဟောင်း)တို့ထံ ၎င်းတို့၏ ရစူလ်တမန်တော်များသည် ထင်ရှားစွာသောသက်သေလက္ခဏာများကိုလည်းကောင်း၊ ကျမ်းငယ်များကိုလည်းကောင်း၊ ကျမ်းကြီးများကိုလည်းကောင်း၊ ယူဆောင်၍လာခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

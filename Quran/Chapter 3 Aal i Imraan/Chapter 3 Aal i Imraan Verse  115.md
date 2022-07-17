@@ -710,6 +710,12 @@ Kakvoto i dobro da storyat, ne shte im se otreche. Allakh znae bogoboyazlivite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၅။	အကြင်ကောင်းမှုကို သူတို့သည်ပြုအံ့။ ထိုကောင်းမှု၏အကျိုးသုခကို သူတို့အား ငြင်းပယ်မည် မဟုတ်ပေ။ အလ္လာဟ်အသျှင်မြတ်သည် ဒုစရိုက်မှုကို ရှောင်ကြဉ်၍ သုစရိုက်ပြုသူတို့အား အကြွင်းမဲ့ သိမြင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်တဝ၊ ယင်းသူတို့သည် မည်သည့် ကောင်းမှုကုသိုလ်ကိုမဆို ပြုလုပ်ကြပါမူ၊ ထိုသူတို့သည် ထိုကောင်းမှုကုသိုလ်(၏အကျိုး)ကို လက်လွတ်စေခြင်း အလျင်းခံကြရမည်မဟုတ်ပေ။ အကြောင်းတမူကား အလ္လာဟ်အရှင်မြတ်သည်ပြစ်မှုဒုစရိုက်များမှ ကြဉ်ရှောင်ကြကုန်သော သူတော်စင်အပေါင်းတို့ကို အကြွင်းမဲ့သိရှိတော်မူသော အရှင်မြတ်ပင်ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

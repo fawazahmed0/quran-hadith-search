@@ -710,6 +710,12 @@ I reche [Ibrakhim]: “Otivam pri moya Gospod. Toĭ shte me napŭti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၉။	ထို့နောက်တမန်တော်က ၎င်းတို့အား ပြောဆိုသည်မှာ ဟယ်-အချင်းတို့၊ မှတ်သားကြလော့၊ ငါသည် သမ္မာ တရားလမ်းတော်ကို ပြတော်မူသောမိမိ၏ ကျေးဇူးတော်သခင်အထံတော်သို့ သွားနေသည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ထိုအီဗ်ရာဟီမ်သည် (ဤသို့)ပြောကြားခဲ့လေ၏။ ဧကန်အမှန် ငါသည် ငါ့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်သို့ သွားတော့မည်။ ထိုအရှင်မြတ်သည် ငါ့အား (လိုရာပန်းတိုင်သို့) အမှန်ပင် ပို့ဆောင်တော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ i koito ot praznoslovieto stranyat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	သူတို့သည် အကျိုးမဲ့သောစကားကို ကြဉ်ရှောင်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၄င်းပြင် ထို("မုအ်မင်န်" သက်ဝင်ယုံကြည်)သူတို့သည် အချည်းနှီး အကျိုးမဲ့ အမှုကိစ္စတို့မှ ရှောင်ဖယ် သူများလည်း ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

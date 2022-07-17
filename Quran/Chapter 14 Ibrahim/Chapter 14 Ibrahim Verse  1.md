@@ -710,6 +710,12 @@ Alif. Lam. Ra. Tazi Kniga ti nizposlakhme Nie, za da izvedesh khorata ot tŭmnin
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။	အလီ(ဖ်)၊လမ်၊ရာ၊ တမန်တော်မိုဟမ္မဒ်၊ ဤကျမ်းတော်သည် ငါအရှင်မြတ်သည် သင့်ထံသို့ ချပေးတော်မူသော ကုရ်အာန်ကျမ်းတော်ဖြစ်၏။ ထုတ်ပြန်ခြင်းအကြောင်းမှာ ဤကျမ်းတော်သည် သင်လူသားတို့အား သူ၏ ကျေးဇူးတော်သခင်၏ ခွင့်ပြုတော်မူချက်အရ အမှောင်ထုမှ ယုံကြည်မှုအလင်းရောင်သို့ ပို့ဆောင်ကယ်တင်ရန် ဖြစ်၏။ အနန္တတန်ခိုးတော်အရှင်၊ ချီးမွမ်းထောမနာသခင်၊ အလ္လာဟ်အရှင်မြတ်၏ လမ်းတော်သို့ ကယ်တင်ရန် ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလစ်ဖ်၊ လမ်၊ ရာ။ ဤ(ကုရ်အာန်)သည်ကားအကြင်ကျမ်းမြတ်ပင်တည်း။ အသင်သည် လူသားအားလုံးတို့ကို ၎င်းတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏အမိန့်တော်နှင့် အမှောင်ထုမှအလင်းသို့ (ဝါ) တန်ခိုးအာနုဘော်နှင့်ပြည့်စုံတော်မူသောချီးမွမ်းဖွယ် ဂုဏ်တော်အပေါင်းနှင့် ပြည့်စုံတော်မူသောအရှင်မြတ်၏လမ်းသို့ ထုတ်ဆောင်(ကယ်တင်)အံ့သောငှာ ငါအရှင်မြတ်သည် ယင်းကျမ်းမြတ်ကို အသင်၏ထံသို့ ချပေးသနားတော် မူခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Vyarvaĭte v Allakh i v Negoviya Pratenik, i razdavaĭte ot onova, na koeto vi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	အို-လူသားအပေါင်းတို့၊ အလ္လာဟ်အရှင်မြတ်နှင့် အရှင်မြတ်၏ တမန်တော်ကို ယုံကြည်ကြလော့၊ သင်တို့အား အရှင်မြတ်အပ်နှံထားတော်မူသောစည်းစိမ်ဥစ္စာများလှုဒါန်းကြလော့၊ အကြောင်းမူကား သင်တို့အနက် ယုံကြည် လျက် အလှုဒါနပေးသူတို့အတွက် အလွန်ကြီးမားသောအောင်ဆုမင်္ဂလာတော်ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား လည်းကောင်း၊ ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော်မြတ် အားလည်းကောင်း၊ သက်ဝင်ယုံကြည် ကြလေကုန်။ထို့ပြင် အသင်တို့သည် အကြင်ဥစ္စာပစ္စည်းအနက်မှ သုံးစွဲ လှူဒါန်းကြလေကုန်။ ထိုအရှင်မြတ်သည် အသင်တို့အား ယင်းပစ္စည်းဥစ္စာများနှင့် စပ်လျဉ်း၍ ကိုယ်စားလှယ်များအဖြစ် ခန့်အပ်တော်မူခဲ့၏။ စင်စစ် အသင်တို့အနက်မှ အကြင်သူတို့သည် သက်ဝင်ယုံ ကြည်ခဲ့ကြကုန်၏။ ၎င်းပြင် ထိုသူတို့သည် သုံးစွဲလှူဒါန်းခဲ့ကြကုန်၏။ထိုသူတို့အဖို့ ကြီးကျယ်လှစွာသောအကျိုးသည် ရှိပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

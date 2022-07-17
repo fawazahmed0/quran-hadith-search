@@ -710,6 +710,12 @@ V Denya, kogato ugnetitelyat shte khape rŭtsete si, kazvaĭki: “Akh, da byak
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	ထိုနေ့တော်ကြီး၌ လက်နှစ်ဘက်ကိုအားဖြင့် လျှိုကိုက်လျက် ဒုစရိုက်ကောင်က အလ္လာဟ်အရှင်မြတ်၏ တမန် တော်သခင်နှင့်အတူတကွ လမ်းမှန်ကို အကျွနု်ပ်ရွေးချယ်ခဲ့လျှင် တော်လေစွဟု ဆိုလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အကြင်နေ့တွင် မတော်မတရား ပြုမူသောသူသည် "ဪ-ငါသည် ရစူလ်တမန်တော်မြတ်နှင့်အတူ တရားလမ်းမှန်ကို လိုက်ခဲ့သော်၊ ကောင်းလေစွ" ဟု ပြောဆိုလျက် မိမိလက်နှစ်ဖက်ကို ကိုက်ပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

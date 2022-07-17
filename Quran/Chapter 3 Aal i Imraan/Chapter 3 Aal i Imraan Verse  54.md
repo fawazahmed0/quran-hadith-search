@@ -710,6 +710,12 @@ I [yudeite] lukavstvakha. A Allakh provali tyakhnoto lukavstvo. Allakh e nad luk
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၄။	မိစ္ဆာဒိဌိတို့သည် ကြံစည်ကြ၏။ အလ္လာဟ်အသျှင်မြတ်လည်း ကြံစည်တော်မူ၏။ အလ္လာဟ်အသျှင်မြတ်သည် ကြံစည်သူအပေါင်းတို့တွင် အထွဋ်အခေါင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်း (အစ္စရာအီလီ မျိုးနွယ်တို့အနက် တမန်တော်အီစာအား မယုံကြည်သော) သူတို့သည် လည်း [နဗီတမန်တော်အီစာ(အလိုင်ဟစ္စလာမ်)ကို သတ်ဖြတ်ကြရန်အလို့ငှာ ပရိယာယ်မာယာ ဝေဝုစ်အားဖြင့်] လိမ္မာပါးနပ်စွာကြံစည်ခဲ့ကြ၏။ အလ္လာဟ်အရှင်မြတ်သည်လည်း [နဗီတမန်တော် အီစာ(အလိုင်ဟစ္စလာမ်)အား ယင်းသူတို့၏ ဘေးရန်ခပ်သိမ်းတို့မှ ကင်းလွတ်စေတော်မူခြင်းငှာ] ပရိယာယ်ဝေဝုစ်ဖြင့်ပင် ကြံဆောင်တော်မူခဲ့လေသည်။ အမှန် သော်ကားအလ္လာဟ်အရှင်မြတ်သည် ပရိယာယ် ဝေဝုစ်ဖြင့် ကြံဆောင်သူများထက် အကောင်းဆုံး ကြံဆောင်တော်မူနိုင်သောအသျှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

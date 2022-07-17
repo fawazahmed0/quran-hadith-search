@@ -710,6 +710,12 @@ I [pogubikhme sŭshto] aditite, i samudyanite... Tova vi se izyasni ot [ruinite 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	ထို့အပြင်အားဒ်နှင့် စမုဒ်လူမျိုးစုများ သူတို့၏ ကြွင်းကျန်ယိုယွင်းသောအဆောက်အအုံများမှ သူတို့သည် အဘယ်ဘဝသို့ ဆိုက်ရောက်ကြသည်ကို သင်တို့ကောင်းစွာသိနိုင်၏၊ ရှိုင်တန်မာရ်နတ်သည် သူတို့အား မိမိတို့ ပြကျင့်မှုများကို အကောင်းထင်မှတ်စေ၏၊ လမ်းမှန်မှ တားဆီးထား၏၊ ထိုသူများသည် ဉာာဏ်ပညာထက်မြက် သော်လည်း လှည့်စားခြင်းကို ခံကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး (ငါအရှင်မြတ်သည်) ‘အာဒ်’ အမျိုးသားတို့အားလည်းကောင်း၊ ‘ဆမူဒ်’ အမျိုးသားတို့အားလည်းကောင်း၊ (ကွပ်မျက်ဖျက်ဆီးတော်မူခဲ့၏၊) ထို့ပြင် မချွတ်မလွဲ(၎င်းတို့ကွပ်မျက်ခြင်းခံခဲ့ရသည်မှာ) အသင်တို့အဖို့ ၎င်းတို့၏နေအိမ်များကို (ကြည့်ရှုလေ့လာခြင်း)ဖြင့် ထင်ရှားခဲ့လေပြီ။စင်စစ်သော်ကား ‘ရှိုင်တွာန်’ မိစ္ဆာကောင်သည် ၎င်းတို့၏လုပ်ကိုင် ဆောင်ရွက်ချက်များကို ၎င်းတို့၏အမြင်၌ တင့်တယ်လှပအောင် ပြုလုပ်ပြီးလျှင် ၎င်းတို့အား (မှန်ကန်သောတရား)လမ်းမှ တားဆီးပိတ်ပင်ခဲ့လေ၏။ စင်စစ် ၎င်းတို့မှာ အသိအမြင်ရှိသောသူများပင် ဖြစ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

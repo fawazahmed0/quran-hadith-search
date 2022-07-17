@@ -710,6 +710,12 @@ Toĭ e, Koĭto vi sŭtvori. Nyakoi ot vas sa nevernitsi, a drugi - vyarvashti.
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။ အို-လူသားအပေါင်းတို့၊ အရှင်မြတ်သည် သင်တို့ကို ဖန်ဆင်းတော်မူ၏၊ သင်တို့အနက် တစ်ယောက်သည် မယုံကြည်သူဖြစ်၏၊ တစ်ယောက်သည် ယုံကြည်သူဖြစ်၏၊ အကယ်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် သင်တို့ ပြုကျင့်သမျှကို အကြွင်းမဲ့မြင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည်သာ အသင်တို့အား ဖန်ဆင်းတော်မူခဲ့သောအရှင် ဖြစ်တော်မူ၏။ သို့ပါသော်လည်း အသင်တို့အနက် အချို့မှာ သွေဖည်ငြင်းပယ်သူဖြစ်၍ အသင်တို့အနက် အချို့မှာ သက်ဝင်ယုံကြည်သူ ဖြစ်၏။ စင်စစ်တမူကား အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့ ကျင့်မူသမျှတို့ကို အကြွင်းမဲ့မြင်တော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

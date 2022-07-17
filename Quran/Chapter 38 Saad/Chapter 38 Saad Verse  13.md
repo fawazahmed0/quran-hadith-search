@@ -710,6 +710,12 @@ i narodŭt na Lut, i samudyanite, i obitatelite na Gorichkata. Te byakha sŭyuze
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၊၁၃။	သူတို့ထက် ရှေးကျသောတမန်တော်နူဟို၏ လူများ၊ အားဒ်အမျိုးသားများ၊ လွဒ်၏ လူများ၊ တောင်သူတောင်သား ခေါ်လူများ၊ဤအသင်းသားတို့သည် မိမိတို့ထံရောက်လာသောတမန်တော်များကို မယုံကြည်ငြင်းဆန်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ "ဆမူဒ်" အမျိုးသားတို့သည်လည်းကောင်း၊ (နဗီတမန်တော် "လူတ်"၏အမျိုးသားတို့သည်လည်းကောင်း၊ "အိုက်ကဟ်" တောအုပ်၌ နေကြသောသူတို့သည်လည်းကောင်း (တမန်တော်များအား မုသာဝါဒီများဟူ၍ စွပ်စွဲငြင်းပယ်ခဲ့ကြကုန်၏)။ ထိုသူတို့ကား အုပ်စုကြီးများပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

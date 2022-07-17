@@ -710,6 +710,12 @@ Tova e dokazatelstvoto, koeto Nie dadokhme na Ibrakhim sreshtu naroda mu. Vŭzdi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၃။	ထိုအရာသည် ငါအသျှင်မြတ်၏ ရှင်းခင်းချက်တော်ဖြစ်ရ၏။ ငါသည် တမန်တော်အီဗရာဟီမ်အား သူ၏လူအများနှင့် အချေအတင်ပြောဆိုဖို့ရာ ထိုရှင်းလင်းချက်ကို ပေးသနားတော်မူ၏။ ငါသည် အလိုတော်ရှိသူအား ပညာဉာဏ်အဆင့်အတန်းကို တိုးမြှင့်ပေးသနားတော်မူ၏။ မှတ်သားလော့။ သင်၏ကျေးဇူးတော်သခင်သည် ဉာဏ်ပညာရှိတော်မူသော သိမြင်သောအသျှင် ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည် ငါအရှင်မြတ်၏သက်သေ သာဓကဖြစ်သည်၊ ငါအရှင်မြတ်သည်ထိုသက်သေသာဓကကို (တမန်တော်)အစ်ဗ်ရာဟီမ်အား ၎င်း၏အမျိုးသားများ နှင့်ပြိုင်ဆိုင်ရာတွင် (အနိုင်ရစေရန်အလို့ငှာ) ခြီးမြှင့်တော်မူခဲ့၏။ ငါအရှင်မြတ်သည် မိမိအလိုရှိတော်မူသောသူအား ဂုဏ်ဒြပ်များခြီးမြှင့်တော်မူလေသည်။ စင်စစ်ဧကန် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည် အမြော်အမြင်နှင့် ပြည့်စုံတော်မူသောအရှင်၊ အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့ သိရှိတော်မူသောအရှင် ဖြစ်တော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

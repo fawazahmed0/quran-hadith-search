@@ -710,6 +710,12 @@ Tezi sa dvama protivnitsi, koito sporyat za svoya Gospod. Za nevernitsite shte b
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	ဤလူနှစ်ဦးတို့သည် သူတို့၏အရှင်သခင်နှင့်စပ်လျဉ်း၍ အချင်းဖြစ်ပွားသောရန်သူနှစ်ဦးဖြစ်ကြ၏၊ သို့သော် မိစ္ဆာမိုက်တို့မှာမူကား မီးအတိပြီးသောအဝတ်အစားကို ရရှိကြလိမ့်မည်၊ ပွက်ပွက်ဆူသောအရည်ကိုလည်း သူတို့ဦးခေါင်းထက်သို့ သွန်းလောင်းလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤအုပ်စုနှစ်စုကား မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်နှင့်ပတ်သက်၍ အငြင်းပွားခဲ့ ကြသောအုပ်စုနှစ်စုပင်။ သို့ဖြစ်ပေရာ မယုံမကြည် သွေဖည်ငြင်းပယ်ခဲ့ကြသောသူတို့အဖို့ မီးဖြင့်ပြီးသော အဝတ်အထည်များသည် ကိုက်ညှပ်(ချုပ်စပ်)ပြီးဖြစ်ပေမည်။ (ထို့ပြင်) ၎င်းတို့၏ဦးခေါင်းများထက်မှ ကျိုက်ကျိုက်ဆူသောရေ သွန်းလောင်းခြင်းခံရမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

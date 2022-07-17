@@ -710,6 +710,12 @@ O, vyarvashti, preklanyaĭte se i svezhdaĭte chela do zemyata v sudzhud, i sl
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၇။	အို--ယုံကြည်သူအပေါင်းတို့၊ သင်တို့သည် မိမိတို့၏အသက်သခင်ကျေးဇူးရှင်အာ ဦးညွတ်ချပျဝပ်ရှိခိုးကြလော့၊ သုစရိုက်ကောင်းမှုကို ပွားများကြလော့၊ သို့မှသာလျှင်သင်တို့သည် ကြီးပွားကောင်းကြီးပွားကြလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-"မုအ်မင်န်" သက်ဝင်ယုံကြည်သူ အပေါင်းတို့၊ အသင်တို့သည် မိမိတို့ အောင်မြင်ကြအံ့သောငှာ "ရုကုအ်"ဦးညွှတ်(၍နေ)ကြလေကုန်။ ထို့ပြင် အသင် တို့သည် "စဂျ်ဒဟ်"ပျပ်ဝပ်ဦးချ(၍နေ)ကြလေကုန်။ ၎င်းပြင် အသင်တို့သည်မိမိတို့ကို ဖန်ဆင်း မွေးမြူတော်မူသော အရှင်မြတ်အား ခဝပ်ကိုးကွယ်(၍နေ)ကြလေကုန်။ ထိုမှတစ်ပါး အသင်တို့သည် ကောင်းမြတ်သော အမှုကိစ္စများကိုလည်း ပြုလုပ်(၍နေ)ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

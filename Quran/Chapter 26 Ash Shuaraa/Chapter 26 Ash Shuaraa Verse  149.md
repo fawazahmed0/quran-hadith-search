@@ -710,6 +710,12 @@ i da izsichate umelo v planinite domove
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၉။	သင်တို့သည် မိမိအတတ်ပညာ၊ စွမ်းရည်သတ္တိရှိ၍ တောင်ကို ဖောက်ထွင်းပြီးလျှင် တည်ဆောက်သောနေအိမ် တိုက်တာများတွင်သော်လည်းကောင်း၊ မပျက်မစီးအစဉ်အမြဲနေရမည်ဟု ယူဆကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်တို့သည် တောင်များကို အိမ်များဖြစ်အောင် ကျွမ်းကျင်စွာ ထွင်းကြကုန်၏။ (တစ်နည်း) ၎င်းပြင် အသင်တို့သည် မော်ကြွားလျက် တောင်များကို အိမ်များဖြစ်အောင် ထွင်းကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

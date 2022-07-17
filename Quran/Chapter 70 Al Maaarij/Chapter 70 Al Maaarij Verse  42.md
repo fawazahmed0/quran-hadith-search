@@ -710,6 +710,12 @@ Ostavi gi da tŭnat i da se zabavlyavat, dodeto sreshtnat svoya Den, koĭto im 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။ ထို့ကြောင့်သူတို့သည် ကတိထားတော်မူသောနေ့တိုင်အောင် သူတို့တီးတိုးစကားပြောစေကုန်၊ ကစားစေကုန်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်) အသင်သည် ထိုသူတို့အား မိမိတို့ချိန်းဆိုခြင်း ခံကြရလေသောနေ့နှင့် ရင်ဆိုင်တွေ့ဆုံကြသည်အထိ အချည်းနှီးသောစကားများ ပြောဆိုကြလျက်ရှိကြရန် လည်းကောင်း၊ ကစားခုန်စားလျက် ရှိကြရန်လည်းကောင်း၊ စွန့်ထားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

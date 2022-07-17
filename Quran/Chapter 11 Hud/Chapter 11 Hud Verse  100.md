@@ -710,6 +710,12 @@ Tezi sa ot vestite na selishtata. Razkazvame gi na teb. Ima sred tyakh ruini, im
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝဝ။	ထိုအကြောင်းမှာ ရှေးလွန်လေပြီးသောကာလတွင် ငါဖျက်ဆီးပစ်တော်မူသောမြို့ရွာ၊ နယ်ပယ်၏ အကြောင်းအရာ အချို့ဖြစ်၏။ မိုဟမ္မဒ်၊ ငါသည် သင့်အား ထိုအကြောင်းအရာကို ဗျာဒိတ်ပေးတော်မူ၏။ ထိုမြို့ရွာများအနက် အချို့ကား ယခုတိုင်တည်ရှိနေသေး၏။ အချို့ကား ပျက်စီးသွားကြပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤကား အကြင်မြို့ရွာများ၏ အချို့သတင်းစကားစကားပင်။ ငါအရှင်မြတ်သည် ထိုသတင်းစကားကို အသင်၏ရှေ့ဝယ်ပြန်၍ ပြောကြားတော်မူ၏။ ထိုမြို့ရွာများအနက် အချို့မှာ(ယနေ့တိုင်အောင်)တည်ရှိနေ၍ (အချို့မြို့ရွာများမှာမူကား)ပျက်ပြုန်းခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

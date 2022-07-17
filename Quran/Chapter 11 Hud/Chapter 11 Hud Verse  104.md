@@ -710,6 +710,12 @@ Ne shte go zabavim Nie osven za opredelen srok
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၄။	ငါအရှင်မြတ်သည် ထိုနေ့တော်ကြီးကို ချိန်းချက်သတ်မှတ်ထားသောအခါကာလတိုင်အောင်သာ ရွှေ့ဆိုင်းထား တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်မူကား ငါအရှင်မြတ်သည် ထိုနေ့ရက်ကိုရေတွက်ပြီးဖြစ်သောအချိန်ကာလတိုင်မျှသာလျှင်ရွှေ့ဆိုင်းထား တော်မူလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

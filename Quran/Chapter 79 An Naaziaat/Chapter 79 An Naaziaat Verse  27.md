@@ -710,6 +710,12 @@ Vie li ste po-trudni za sŭtvoryavane ili nebeto? Toĭ go sŭgradi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။ အို-လူသားအပေါင်းတို့၊ သင်တို့ကို ဖန်ဆင်းခြင်းသည် မိုးကောင်းကင်ကို ဖန်ဆင်းခြင်းထက် သာလွန်ခဲယဉ်းသလော၊ အရှင်မြတ်သည် မိုးကောင်းကင်ကို ဖန်ဆင်းတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသို့ပါနည်း၊ အသင်တို့အား ဖန်ဆင်းတော်မူခြင်းသည် ပို၍ခဲယဉ်းလေသလော၊ သို့တည်းမဟုတ် မိုးကောင်းကင်ကို ဖန်ဆင်းတော်မူခြင်းသည် ပို၍ ခဲယဉ်းလေသလော။ ထိုအရှင်မြတ်သည် ယင်း မိုးကောင်းကင်ကိုပြုလုပ်(ဖန်ဆင်း)တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

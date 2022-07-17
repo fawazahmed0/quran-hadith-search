@@ -710,6 +710,12 @@ Bogoboyazlivite shte sa v gradini i v blazhenstvo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	မှတ်သားကြလော့၊ မိမိတို့ကျင့်အပ်သောကျင့်ဝတ်များကို ကျေပွန်သူတို့မှာမူကား နိဗ္ဗာန်ဥယျာဉ်တော်များ၌ စံစားကြရ၏၊ ပျော်ရွှင်ကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ‘မွတ္တကီ’ သူတော်စင်တို့မှာကား ဥယျာဉ်များ၌လည်းကောင်း၊ အံ့မခန်းသုခ၌လည်းကောင်း၊ ရှိကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

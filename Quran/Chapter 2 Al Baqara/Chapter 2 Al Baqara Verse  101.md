@@ -710,6 +710,12 @@ I shtom pri tyakh doĭde Pratenika na Allakh, za da potvŭrdi nalichnoto u tyak
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၁။	သူတို့လက်တွင်းရှိ ကျမ်းတော်ကို ထောက်ခံအတည်ပြုသော အလ္လာဟ်အရှင်မြတ်၏ တမန်တော် တစ်ပါးပွင့်လာသောအခါ ထိုကျမ်းစာ ရရှိသူများအနက် လူတစ်စုသည် အလ္လာဟ်အရှင်မြတ်၏ ကျမ်းတော်မှန်းမသိသကဲ့သို့ သူတို့ကျောနောက်သို့ လွှင့်ပစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တဖန် (ထိုကဲ့သို့ပင်) ယင်း(ယဟူဒီ ဘာသာဝင်) များထံသို့ အလ္လာဟ် အရှင်မြတ် အထံတော်မှ ထိုသူတို့ထံ၌ ရှိနှင့်ပြီးဖြစ်သော (တောင်ရာတ်) ကျမ်းမြတ်ကို ထောက်ခံသော နဗီတမန်တော် (မိုဟမ္မဒ် ဆွာလ္လလ္လာဟု အလိုင်ဟိ ဝစလ္လာမ်) ကြွရောက်လာသည့်အခါ ထိုကျမ်းရလူမျိုးတို့အနက် မှပင် လူတစ်စုသည် မသိကြသကဲ့သို့ အလ္လာဟ် အရှင်မြတ်၏ ကျမ်းမြတ်(တောင်ရာတ်) ကိုပင် မိမိတို့၏ ကျောနောက်သို့ ပစ်ပယ်ထားကြလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

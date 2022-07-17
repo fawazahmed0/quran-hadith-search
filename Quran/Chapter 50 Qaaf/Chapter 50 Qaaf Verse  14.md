@@ -710,6 +710,12 @@ i obitatelite na Gorichkata, i narodŭt na Tubbaa. Vsichki smyatakha za lŭzhtsi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	ထို့အပြင်တောင်ကုန်းသားများနှင့် တွတ်ဘ(အ်)လူမျိုးများလည်း မိမိတို့တမန်တော်များကို မယုံကြည်ငြင်းပယ် ကြ၏၊ ထို့ကြောင့်ငါခြိမ်းခြောက်တော်မူသောအပြစ်ဒဏ်ကျရောက်လာ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် (အိုက်ကဟ်)တောအုပ်၌ နေထိုင်သူတို့သည်လည်းကောင်း၊ ‘သွဗ္ဗအ်’ အမျိုးသားသည်လည်းကောင်း၊ အားလုံးတို့သည်ပင် ရစူလ်တမန်တော်များအား မဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ်ခဲ့ကြပေရာ ငါအရှင်မြတ်၏ ချိန်းချက်မှုသည်(၎င်းတို့အပေါ်၌) သက်ရောက်ခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

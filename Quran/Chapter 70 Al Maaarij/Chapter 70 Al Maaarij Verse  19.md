@@ -710,6 +710,12 @@ Chovekŭt be sŭzdaden kolebliv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။ အမှန်မှာ လူသားကို စိုးရိမ်ကြောင့်ကျတတ်သောစိတ်နှင့် ဖန်ဆင်းတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်ဧကန် "မနုဿ" လူသားမှာ လွန်စွာစိတ်စောသူ၊ သည်းမခံနိုင်သောသူအဖြစ် ဖန်ဆင်းခြင်းကို ခံခဲ့ရလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

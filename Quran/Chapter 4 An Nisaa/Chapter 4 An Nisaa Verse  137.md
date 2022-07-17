@@ -710,6 +710,12 @@ Koito povyarvakha, posle stanakha nevernitsi, posle povyarvakha, posle pak stana
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၇။	မှတ်သားကြလော့။ အကြင်သူတို့သည် ယုံကြည်ကြ၏။ ထို့နောက် မယုံကြည်ကြ။ နောက်တစ်ဖန် ယုံကြည်ပြန်၏။ နောက်တစ်ဖန် ယုံကြည်မှုကို စွန့်ပယ်၍ မယုံကြည်ကြ။ သူတို့၏ မယုံကြည်မှုသည် ပြင်းထန်တိုးပွားလာ၏။ အလ္လာဟ်အသျှင်မြတ်သည် ထိုသူတို့အား ဘယ်သောအခါမျှ အပြစ်လွှတ် တော်မူမည်မဟုတ်ပေ။ လမ်းမှန်ကိုလည်း ညွှန်ပြတော်မူမည်မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မုချဧကန် အကြင်သူတို့သည် ‘အီမာန်’ ယုံကြည်ခြင်းသဒ္ဓါတရား ထားရှိကြ၏။ ထို့နောက် မယုံမကြည် သွေဖည်ငြင်းပယ်ကြပြန်၏။ ထို့နောက် တစ်ဖန်ပြန်၍ ‘အီမာန်’ ယုံကြည်ခြင်းသဒ္ဓါတရား ထားရှိကြပြန်၏။ ထို့နောက် တစ်ဖန် မယုံမကြည် သွေဖည်ငြင်းပယ်ကြပြန်၏။ ထို့နောက် ၎င်းတို့သည် (အသက်ထက်ဆုံး) သွေဖည် ငြင်းပယ်မှု၌ပင် တိုးတက်နစ်မွန်းလျက် ရှိကြကုန်သည်။ အလ္လာဟ်အရှင်မြတ်သည် (ထိုသူတို့အား အပြစ်မှ) လွတ်ငြိမ်းချမ်းသာခွင့်လည်း ပေးသနားတော်မူမည်မဟုတ်ပေ။ ထိုသူတို့အား (ဂျန္နတ်) ရောက်ရာရောက်ကြောင်းလမ်းကိုလည်း ညွှန်ပြတော်မူမည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

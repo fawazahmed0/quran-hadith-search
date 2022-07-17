@@ -710,6 +710,12 @@ Delata na onezi, koito otrichat svoya Gospod, prilichat na pepel, koyato vyatŭr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	မိမိတို့၏ ကျေးဇူးတော်သခင်အား မယုံကြည်သူတို့၏ ဥပမာပုံစံမှာကား သူတို့၏ ကြိုးစားမှုများသည် လေမုန်တိုင်း တိုက်သောနေ့တွင် လေပြင်းထန်စွာတိုက်ခိုက်ခြင်းခံရသောပြာကဲ့သို့ဖြစ်၏။ သူတို့သည် မိမိတို့ပြုကျင့်မှုများ၏ အကျိုးအပြစ်ကို မအုပ်ချုပ်ရချေ။ ဤအရာသည် အကြီးဆုံးသောဆုံးရှုံးခြင်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်အား သွေဖည်ငြင်းပယ်ခဲ့ကြကုန်သော သူတို့၏ အကျင့်သီလများ၏ဥပမာကား အကြင် ပြာနှင့်တူပေသည်။ ထိုပြာကိုလေမုန်တိုင်းကျသောနေ့တွင် လေသည် ပြင်းထန်စွာ တိုက်ခတ်ခဲ့လေသည်။ ၎င်းတို့သည် မိမိတို့ရှာဖွေ ဆည်းပူးခဲ့ကြသောအရာများအနက်မှ မည်သည့်တစ်စုံတစ်ရာ(အကျိုးကျေးဇူး)ကိုမျှ (ခံစားနိုင်ရန်) တတ်စွမ်းနိုင်ကြမည် မဟုတ်ပေ။ ဤသည်အလွန်ဝေးစွာသောလမ်းမှားခြင်း ပင် ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

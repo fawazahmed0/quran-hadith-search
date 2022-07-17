@@ -710,6 +710,12 @@ Ne smyataĭ, che nevernitsite shte obezsilyat [Allakh] na zemyata! Myastoto im 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၇။	မိစ္ဆာမိုက်တို့သည် ကမ္ဘာမြေပေါ်ဝယ် ပြေး၍ လွတ်နိုင်ကြသည်ဟု မထင်ကြလင့်၊ သူတို့၏နေအိမ်သည် အဝီစိ ငရဲမီးဖြစ်၏၊ ငရဲသည် ဘဝခရီး၏အလွန်ဆိုးဝါးသောပန်းတိုင်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်သည် ကာဖိရ် သွေဖည်ငြင်းပယ်သောသူတို့ကို (၎င်းတို့သည် ငါအရှင်မြတ်အား) ကမ္ဘာမြေဝယ် မစွမ်းဆောင်နိုင်အောင် ပြုနိုင်ကြမည်ဟု အလျှင်း မထင်မှတ်လေ နှင့်။ အမှန်စင်စစ် ၎င်းတို့၏ ခိုလှုံရာဌာနမှာ ငရဲမီးပင်ဖြစ်ပေသည်။ စင်စစ်သော်ကား ယင်းငရဲမီးသည် အလွန်တရာ ဆိုး ရွားလှသောစခန်းပင် ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

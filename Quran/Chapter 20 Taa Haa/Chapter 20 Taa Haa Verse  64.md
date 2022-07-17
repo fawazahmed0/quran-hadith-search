@@ -710,6 +710,12 @@ Zatova podgotvete svoyata khitrina, posle elate v reditsi! Dnes shte spoluchi on
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၄။	ထို့ကြောင့်သင်တို့သည် အကြံအစည်ထုတ်ပြီးလျှင် ပြိုင်ပွဲကို လာကြလော့၊ ယနေ့သင်တို့အနက် အကြင်သူသည် ထိုသူနှစ်ဦးကို နိုင်အံ့၊ ထိုသူသည် အမှန်ပင် အောင်မြင်လိမ့်မည်ဟု ပြောဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်တို့သည် မိမိတို့၏ ကြံစည်ချက်များကိုစုဆောင်းပြီးလျှင် စီတန်း၍လာကြလေကုန်။ အကြောင်းမူကား ယနေ့အနိုင်ရသော သူသည်သာလျှင် စင်စစ် အောင်မြင်သောသူဖြစ်အမှန်ဖြစ်အံ့သတည်းဟု ဆိုကြလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A za onezi, koito vyarvat i vŭrshat pravedni dela, shte ima bezspirna nagrada.�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	သို့သော်ယုံကြည်ခြင်းတရားရှိ၍ ကောင်းမှုပွားများသူတို့အတွက်မူကား သုံးစွဲ၍ မကုန်နိုင်သောဆုတော်ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲအီမာန်သက်ဝင်ယုံကြည်ခဲ့ကြသည့်ပြင် ကောင်းမြတ်သောအကျင့်သီလများကို ကျင့်မူဆောက်တည်ခဲ့ကြကုန်သောသူတို့အဖို့ကား ကုန်ခန်းခြင်းမရှိသောအကျိုးသည် ရှိပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

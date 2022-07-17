@@ -710,6 +710,12 @@ Ubaci ga u tabut i baci ga u rijeku, pa će ga izbaciti rijeka na obalu, uzeće 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	သူ့ကို သေတ္တာတွင်ထည့်ပြီးလျှင် ၎င်းကို မြစ်ထဲသို့ ပစ်ချလော့၊ မြစ်သည် ၎င်းကို ကမ်းခြေသို့ ပစ်တင်လတ္တံ့၊ ထိုမှာ ငါ၏ရန်သူသည် သူ့ကို ယူလိမ့်မည်။ အို--မူစာ၊ သင့်အား ငါ့အလိုတော်အတိုင်း သင်ကြားပြသဖို့ရာ ငါသည် သင့်အား ငါ့ထံမှ ချစ်ခင်မြတ်နိုးခြင်းဖြင့် ခြံုထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်မသည် ထိုမူစာအား သေတ္တာထဲသို့ ထည့်လော့။ ထို့နောက် အသင်မ ယင်းမူစာအား(သေတ္တာနှင့်တကွ)မြစ်ထဲသို့ (မျှော)ချလော့။ ထိုအခါ ထိုမြစ်(ရေ)သည် ယင်းမူစာအား ကမ်းခြေသို့ (ရိုက်ခတ်) ဆိုက်ရောက်စေမည်။ ထိုရောအခါဝယ် ငါအရှင်မြတ်၏ရန်သူလည်းဖြစ်သူ၊ ထိုမူစာ၏ရန်သလည်းဖြစ်သူသည် ထိုမူစာအား (ရေထဲမှ) ဆယ်ယူလိမ့်မည်ဟု (ထုတ်ပြန်တော်မူခဲ့လေသည်။) ထို့ပြင် ငါအရှင်မြတ်သည် (အသင့်အား မြင်သူတိုင်းချစ်ခင်အံ့သောငှာ)အသင့်အပေါ်၌ မိမိအထံတော်မှ ချစ်မြတ်နိုးမှုကို သက်ရောက်စေတော် မူခဲ့ပေသည်။(ယင်းကဲ့သို့ပြုတော်မူခြင်းမှာ) စင်စစ် အသင်သည် ငါအရှင်မြတ်၏ မျက်မှောက်တော်၌ မွေးမြူပြုစုခြင်း ခံရအံ့သောငှာဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

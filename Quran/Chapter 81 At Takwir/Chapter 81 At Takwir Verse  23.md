@@ -710,6 +710,12 @@ Toĭ go vidya na yasniya khorizont
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။ တမန်တော်မိုဟမ္မဒ်သည် ထိုကောင်းကင်တမန်တော်ကို အလွန်မြင့်သာသောကောင်းကင်တိမ်ခြေ၌ မျက်ဝါးထင် ထင် မုချဧကန်မြင်ရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် မလွဲဧကန် ထိုအသင်တို့၏ အဖေါ်သည် ရှင်းလင်းသော ‘အူဖွတ်က်’ မိုးကုပ်စက်ဝိုင်း၌ ၎င်းစေတမန်အား တွေ့မြင်ခဲ့ဖူးပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

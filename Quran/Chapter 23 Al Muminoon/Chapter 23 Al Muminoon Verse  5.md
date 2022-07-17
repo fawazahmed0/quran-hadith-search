@@ -710,6 +710,12 @@ i koito tselomŭdrieto si pazyat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၊၆။	သူတို့သည် သူတို့၏အင်္ဂါဇာတ်များကို သူတို့လက်ထပ်မယား၊ အမြှောင်မယားတို့မှတပါး ကာကွယ်ထိန်းသိမ်း ကြ၏၊ ထို့ကြောင့်သူတို့သည် အပြစ်မသင့်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ထို("မုအ်မင်န်" သက်ဝင်ယုံကြည်) သူတို့သည် (ကာမေသုမိစ္ဆာရကံ ကျူးလွန်ခြင်းမှ) မိမိတို့၏ အရှက်အင်္ဂါများကို စောင့်စည်း ထိန်းသိမ်းသူများလည်း ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kazhi: “Nima na drug, a ne na Allakh, mi povelyavate da sluzha, o, nevezhi?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၄။	အို-မိုဟမ္မဒ်၊ သင်သည် မိစ္ဆာမိုက်တို့အား ဟောပြောလော့၊ ဟယ်-မိုက်ရူးရဲတို့၊ သင်တို့သည် ငါ့အား အလ္လာဟ် အရှင်မြတ်မှတပါး ဘုရားတုဘုရားယောင်များကို ဦးညွှတ်ဝတ်ပြုဖို့ရာ တိုက်တွန်းသွေးဆောင်ကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (ဤသို့) ပြောဆို (မေးမြန်း)ပါလေ။ အို-အသိပညာ ကင်းမဲ့သူတို့၊ သို့ပါလျက် ငါသည် အလ္လာဟ်အရှင်မြတ်မှတစ်ပါး အခြားကို ဆည်းကပ်ကိုးကွယ်ရန် အသင်တို့သည် ငါ့အား တိုက်တွန်းကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

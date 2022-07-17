@@ -710,6 +710,12 @@ Toĭ e Bogŭt i na nebesata, i na zemyata. Znae Toĭ kakvo skrivate i kakvo iz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	အသျှင်မြတ်သည် မိုးကောင်းကင်ဘုံများ၌သော်လည်းကောင်း၊ ကမ္ဘာမြေကြီးပေါ်၌လည်းကောင်း၊ အလ္လာဟ်အသျှင်မြတ် ဖြစ်တော်မူ၏။ အသျှင်မြတ်သည် သင်တို့၏ လျှို့ဝှက်ချက်၊ ပြောဆိုချက် နှစ်မျိုးလုံးပင် အကြွင်းမဲ့သိတော်မူ၏။ သင်တို့လုပ်ကိုင်၍ရသည်တို့ကိုလည်း သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ် မိုးများနှင့်မြေတွင်၊ ထိုအလ္လာဟ်အရှင်မြတ်သည်သာလျှင်၊ ကိုးကွယ်ခြင်းကို ခံထိုက် သောမူသော (တစ်ဆူတည်းသော)အရှင်ဖြစ်တော်မူသည်။ ထိုအရှင်မြတ်သည် အသင်တို့၏လျှို့ဝှက် ထားသောအဖြစ်အပျက်အခြေအနေကိုလည်းကောင်း၊ အသင် တို့၏ပေါ်လွင်ထင်ရှားစေသောအဖြစ်အပျက် အခြေအနေကိုလည်းကောင်း၊ သိတော်မူ၏။၎င်းပြင် ထိုအရှင်မြတ်သည် အသင်တို့ရှာဖွေဆည်းပူး ပြုလုပ်ကြသမျှသော အရာများကိုလည်း (အကြွင်းမဲ့) သိတော်မူသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

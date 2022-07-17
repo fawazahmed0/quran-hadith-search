@@ -710,6 +710,12 @@ Sledvaĭte tova, koeto vi be nizposlano ot vashiya Gospod i ne sledvaĭte osve
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	ဟယ်-အချင်းတို့ သင်တို့၏ကျေးဇူးတော်သခင်သည် သင်တို့ထံ ချပေးသနားတော်မူသောကျမ်းတော် ကို လိုက်နာကြလော့။ အလ္လာဟ်အသျှင်မြတ်မှတစ်ပါး အခြားစောင့်ရှောက်သူ အဆွေခင်ပွန်းများ နောက်သို့ မလိုက်ကြလင့်။ သင်တို့သည် အနည်းငယ်မျှ သတိမရကြပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် မိမိတို့၏ အရှင်မြတ်အထံတော်မှ မိမိတို့ထံကျရောက်လာသော ဒေသနာတော်ကိုသာလိုက်နာကြလေကုန်။ ၎င်းပြင် အသင်တို့သည် ထိုအရှင်မြတ်မှတစ်ပါး အခြားမိတ်ဆွေများ(၏ပြောစကားများ)ကို မလိုက်နာကြကုန်လင့်။ အမှန်စင်စစ်သော်ကား အသင်တို့သည် ဆုံးမဩဝါဒများ ကို အနည်းငယ်မျှသာလျှင် နာယူကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

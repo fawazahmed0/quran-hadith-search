@@ -710,6 +710,12 @@ Kazhi: “O, khora, za vas sŭm samo yaven predupreditel!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	အို--တမန်တော် ဟောကြားလော့၊ ဟယ်-လူသားအပေါင်းတို့၊ ငါသည် သင်တို့အား သတိပေးသူရိုးရိုး သာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (ဤသို့)ပြောကြားပါလေ။ အို-လူသားအပေါင်းတို့ ငါသည် အသင်တို့ အဖို့ထင်ရှားစွာသော သတိပေးနှိုးဆော်သူ တစ်ဦးမျှဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I se srazhavaĭte s tyakh, dokogato ne shte ima zabluda i religiyata shte e na 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉၃။	သင်တို့သည် နှိပ်စက်ညှဉ်းပန်းခြင်း၊ ဘေးအန္တရာယ် ပျောက်ကင်းသည့်တိုင်အောင် သူတို့အား တိုက်ခိုက်ကြလော့။ အရှင်မြတ်၏ သာသနာတော်ကြီးတည်ရှိသည့်တိုင်အောင် တိုက်ခိုက်ကြလော့။ သို့သော် သူတို့သည် စစ်ကို ရပ်တန့်လျှင် မတရားပြုသူတို့မှတပါး အခြားသူတို့နှင့် စစ်မခင်းကြလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့အပြင်တဝအသင်တို့သည် သာသနာရေးညှဉ်း ပန်းမှု လုံးဝပပျောက်၍ သာသနာသည် အလ္လာဟ်အရှင်မြတ် အဖို့သာ ဖြစ်သွားသည့် တိုင်အောင် (ဝါ) (အလ္လာဟ်အရှင်မြတ် ၏အမိန့် တော်ကိုသာလျှင် လိုက်နာလာ ကြသည့်တိုင်အောင်) ထိုသူတို့နှင့် စစ်မက်ပြိုင်ဆိုင် တိုက်ခိုက်ကြကုန်လော့။ သို့ရာ တွင် အကယ်စင်စစ် ထိုသူတို့သည် စစ်မက်ပြိုင်ဆိုင် တိုက်ခိုက် ခြင်းကို ရပ်စဲကြပါမူ၊ ကျူးလွန်နှိပ်စက် ညှင်းပန်းသူတို့မှတစ်ပါး အခြားသူတို့၏အပေါ်ဝယ် မည်သို့မျှ ကျူးကျော်စော်ကား(တုံ့ပြန်သတ်ဖြတ်)ရန် အကြောင်းမရှိပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

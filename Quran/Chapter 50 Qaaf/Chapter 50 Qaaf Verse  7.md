@@ -710,6 +710,12 @@ I zemyata razprostryakhme, i polozhikhme po neya nepoklatimi planini, i storikhm
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	ထို့အပြင်ငါသည် ကမ္ဘာမြေပြင်ကို ဖြန့်ခင်းတော်မူ၏၊ မြေပေါ်တွင် တောင်ကြီးတောင်ငယ်အသွယ်သွယ်တို့ကို လည်း ခိုင်ခန့်စွာဖန်ဆင်းထားတော်မူ၏၊ မြေပေါ်၌ လှပတင့်တယ်သောသစ်ပင်များကို ပေါက်ရောက်စေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ပထဝီမြေကိုဖြန့်ခင်းထားတော်မူ၏။ ၎င်းပြင် ယင်းပထဝီမြေ၌ တောင်များကို စိုက်ထူထားတော်မူ၏။ ထို့ပြင် ငါအရှင်မြတ်သည် ယင်းပထဝီမြေ၌ လှပတင့်တယ် ရှုချင်စဖွယ်ကောင်းသော အရာဝတ္ထုမျိုးစုံတို့ကို ပေါက်ရောက် စေထားတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

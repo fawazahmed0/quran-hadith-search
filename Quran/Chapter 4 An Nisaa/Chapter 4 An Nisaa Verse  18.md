@@ -710,6 +710,12 @@ I ne e pokayanieto za onezi, koito pravyat zlini, a shtom doĭde pri nyakogo ot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	အကြင်သူတို့သည် အသက်ထွက်ခွာနီးတိုင်အောင် မကောင်းမှုများကို ကျူးလွန်၍ သေခါနီးတွင် အကျွနု်ပ် သတိသံဝေဂအမှန်ရပြီဟုဆို၏။ ထိုသူတို့၏အပြစ်များကို ခွင့်လွှတ်တော်မူမည်မဟုတ်ပေ။ အကြင်သူတို့သည် မိစ္ဆာဒိဌိဘဝတွင် အသက်ကုန်၏။ ထိုသူတို့သည် အပြစ်လွှတ်ခြင်းခံရမည် မဟုတ်ပေ။ ဤလူ ဤလူများအတွက် ငါသည် အလွန်နာကျင်ဘွယ်သောအပြစ်ဒဏ်ကို စီရင်ထား တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကြင်သူတို့အဖို့ ဝန်ချတောင်းပန်ချက်ကား မရှိပေ။ ထိုသူတို့သည် ဒုစရိုက်မှုများကို ပြုကျင့်လျက်ရှိကြ၏။ (ယင်းကဲ့သို့ ဒုစရိုက်မှုများတွင် နစ်မွန်းလျက်ရှိကြပေရာ နောက်ဆုံးတွင်) ထိုသူတို့အနက် တစ်ဦးတစ်ယောက်ထံသို့ သေခြင်းတရားသည် ရောက်ရှိလာလေတော့၏။ ထိုအခါ ထိုသူက “ကျွန်တော်မျိုးသည် ယခု မုချတောင်းပန်ပါပြီ” ဟု လျှောက်ထားလေသည်။ ၎င်းပြင် အကြင်သူများအဖို့လည်း ဝန်ချတောင်းပန်ခြင်းကား မရှိပေ။ ထိုသူများသည် ကာဖိရ်များအဖြစ်နှင့်ပင် သေဆုံးသွားကြ၏။ ဤသူများ (ကာဖိရ်များ) အဖို့ ငါအရှင်မြတ်သည် ပြင်းပြနာကြင်ဖွယ်ဖြစ်သော အပြစ်ဒဏ်ကို အသင့်ပြုလုပ်ထားတော်မူသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

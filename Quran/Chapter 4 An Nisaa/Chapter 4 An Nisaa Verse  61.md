@@ -710,6 +710,12 @@ I kogato im se kazhe: “Elate pri onova, koeto Allakh nizposla, i pri Pratenika
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၁။	ထိုသူတို့အား ဟယ် အချင်းတို့ သင်တို့သည် အလ္လာဟ်အသျှင်မြတ် ချပေးသနားတော်မူသော ကုရ်အာန်ကျမ်းတော်မြတ်နှင့် အသျှင်မြတ်၏ တမန်တော်ထံသို့လာကြလော့ဟု ဟောပြောသောအခါ ထိုယုံကြည်ဟန်ဆောင်သူတို့သည် မနှစ်မြို့ခြင်းအားဖြင့် လှည့်သွားကြသည်ကို သင်မြင်ရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (တစ်ဦးတစ်ယောက်သောသူသည်) ထိုသူတို့အား “အသင်တို့သည် (တရားစီရင်ဆုံးဖြတ်ရန်အလို့ငှာ) အလ္လာဟ်အရှင်မြတ် ထုတ်ပြန်ချမှတ်တော်မူသော တရားဓမ္မ (တည်းဟူသော ကုရ်အာန်ကျမ်းတော်မြတ်) ဘက်သို့လည်းကောင်း၊ ရစူလ်တမန်တော်မြတ်ထံသို့လည်းကောင်း လာကြလေကုန်” ဟု ပြောဆိုသောအခါ၊ အသင်သည် ‘မုနာဖစ်က်’ အယောင်ဆောင်မွတ်စ်လင်မ်တို့အား မိမိထံ (လာရောက်ခြင်း) မှ ဖဲကြဉ်သွေရှောင်ကြသည်ကို တွေ့မြင်ရပေအံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

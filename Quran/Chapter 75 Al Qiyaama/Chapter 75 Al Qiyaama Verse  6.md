@@ -710,6 +710,12 @@ i pita: “Koga e Denyat na vŭzkresenieto?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။ လူသားက ပြန်ရှင်ရမည့်နေ့တော်ကြီးသည် မည်သည့်အခါဆိုက်ရောက်လာမည်နည်းဟု မေး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုလူသားက ‘ကိယာမတ်’ ရှင်ပြန်ထမည့်နေ့သည် မည်သည့်အခါ၌ ဖြစ်အံ့နည်းဟု မေးမြန်း၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

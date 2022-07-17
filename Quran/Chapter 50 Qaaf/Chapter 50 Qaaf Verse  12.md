@@ -710,6 +710,12 @@ Predi tyakh smyatakha, che e lŭzha i narodŭt na Nukh, i obitatelite na ar-Ras,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	ထိုသူတို့မဖြစ်ပေါ်မီ အထက်ကျော်ကာလက တမန်တော်နူဟိုအသင်းသားများသည်လည်းကောင်း၊ အာရ်ရိစ်တွင် နေထိုင်သူများသည်လည်းကောင်း၊ သမု(ဒ်)အသင်းသားများသည်လည်းကောင်း၊ မိမိတို့၏ တမန်တော်များကို လက်မခံငြင်းပယ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့အလျင် ‘နူဟ်’၏အမျိုးသားတို့သည်လည်းကောင်း၊ ရတ်စ်(စ်)၌ နေထိုင်သူတို့သည် လည်းကောင်း၊’ဆမူဒ်’ အမျိုးသားတို့သည်လည်း ကောင်း၊ မဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

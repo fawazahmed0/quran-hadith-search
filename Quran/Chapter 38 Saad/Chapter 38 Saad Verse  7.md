@@ -710,6 +710,12 @@ Ne sme chuvali za tova v poslednata religiya. To e samo izmislitsa
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	အချင်းတို့၊ ငါတို့သည် ဤကဲ့သို့တရားမျိုးကို နောက်ပေါ်သောဘာသာများတွင် တစ်ရံတစ်ခါမျှမကြားဘူးချေ၊ ဤတရားသည် မဟုတ်မမှန် သူ၏ စိတ်ကစားခြင်းသာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကျွန်ုပ်တို့သည် လွန်လေခဲ့ပြီးဖြစ်သောသာသနာတွင် ဤမည်သောစကားမျိုးကို ကြားခဲ့ဘူးကြသည် မရှိပေ။ဤသည် လီဆယ်ဖန်တီးမှုမှအပ အခြားမဟုတ်ပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

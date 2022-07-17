@@ -710,6 +710,12 @@ A shtom chuyat nizposlanoto na Pratenika, ti vizhdash ochite im da prelivat ot s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၃။	ထိုခရစ်ယာန်ဘာသာဝင်တို့သည် တမန်တော်ထံသို့ ချပေးတော်မူသော တရားဒေသနာတော်ကို နာခံရသောအခါ သူတို့သည် ထိုတရားတော်သည် ဟုတ်မှန်ကြောင်း သိရသောကြောင့် စိတ်နှလုံး နူးညွတ်၍ မျက်လုံးများမှ မျက်ရည်ထွက်လာသည်ကို သင်မြင်ရ၏။ သူတို့ကို အို-အကျွနု်ပ်တို့၏ အသျှင်သခင်၊ အကျွနု်ပ်တို့သည် ယုံကြည်ကြပါ၏။ အကျွနု်ပ်တို့အား သက်သေတော်၏အထဲတွင် မှတ်ပုံတင်ထားတော်မူပါဟု တင်လျှောက်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ယင်းသူတို့သည် ရစူလ်တမန်တော် (မုဟမ္မဒ်) ၏ထံသို့ ကျရောက်လာသော မုက္ခပါဌ်တော်များကို ကြားနာကြရသောအခါ (ထိုမုက္ခပါဌ်တော်များအားဖြင့်) အမှန်ကို သိမြင်လာကြသောကြောင့်၊ ၎င်းတို့၏မျက်စိများမှ မျက်ရည်များယိုစီးလျက်ရှိသည်ကို အသင်တွေ့မြင်ရလတ္တံ့။ (၎င်းပြင်) ယင်းသူတို့က “အို- ကျွန်တော်မျိုးတို့အား မွေးမြူတော်မူသောအရှင် ကျွန်တော်မျိုးတို့သည် ယုံကြည်ပါပြီ၊ သို့ဖြစ်ပေရာ အရှင်မြတ်သည် ကျွန်တော်မျိုးတို့အားလည်း ယုံကြည်ထောက်ခံ သက်သေထွက်ဆိုသောသူတို့နှင့်အတူ အသိအမှတ်ပြုတော်မူပါ” ဟု လျှောက်ထားပန်ကြားကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

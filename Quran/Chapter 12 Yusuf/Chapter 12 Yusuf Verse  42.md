@@ -710,6 +710,12 @@ I reche na onzi ot tyakh, za kogoto smyatashe, che shte bŭde spasen: “Spomeni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။ ထို့အပြင်သူတို့နှစ်ဦးအနက် ထောင်မှ အလွှတ်ခံရမည်ဟု ထင်သောသူအား ဟယ်-အချင်း၊ အကျွနု်ပ်၏ အကြောင်းကို သင်၏ သခင်၏ အရှေ့တော်ဝယ်ပြောပြပါဟု မှာလိုက်၏။ သို့သော်ရှိုင်တန်မာရ်နတ်သည် သူ့အား ယူစွတ်(ဖ်)၏ အကြောင်းကို မိမိသခင်အား ပြောပြဖို့ရာ မေ့လျော့စေ၏။ ထို့ကြောင့်ယူနွတ်(စ်)သည် ထောင်ထဲတွင် နှစ်ပေါင်း အတော်ကြာရှည်စွာနေရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုယူဆွဖ်သည် ယင်းလုလင်နှစ်ဦးအနက်မှ လွတ်မြောက်မည့်သူဖြစ်သည်ကို ယုံကြည် သာသူအား အသင်သည် မိမိသခင်(ဖြစ်သောဘုရင် မင်းမြတ်)ထံတွင်ကျွန်ုပ်၏အကျိုးအကြောင်းကို ဖော် ပြပြောဆိုပါလေဟု ပြောဆိုမှာကြားခဲ့လေ၏။ သို့ရာတွင် ရှိုင်တွာန်မိစ္ဆာကောင်သည်ထိုလုလင်အား မိမိသခင် (ဘုရင်မင်းမြတ်)ရှေ့တွင်ထိုယူဆွဖ်၏အကြောင်း ပြောပြရန် မေ့လျော့စေခဲ့ရာ ထိုယူဆွဖ်သည် အကျဉ်းထောင်ထဲတွင် နှစ်ကာလအတန်ကြာအောင်နေထိုင်ခဲ့ရလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

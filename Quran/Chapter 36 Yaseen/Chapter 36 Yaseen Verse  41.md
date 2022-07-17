@@ -710,6 +710,12 @@ I znamenie za tyakh e, che prenesokhme bashtite im [s Nukh] v natovareniya Kovch
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	ထို့အပြင်သူတို့အတွက် ငါ၏တပါးသောနိမိတ်လက္ခဏာတော်မှာ လူသား၏အဆက်အနွယ်များကို သက်ရှိသက်မဲ့ အစာရိက္ခာပြည့်နှက်စွာပါရှိသောသင်္ဘောထက်သို့ တက်စေ၍ သူတို့အား ကမ္ဘာမြေကြီးကို ရေလွှမ်းမိုးစဉ်အခါဝယ် ငါယူဆောင်ကယ်တင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့အဖို့ သက်သေလက္ခဏာတစ်ရပ်မှာ ဧကန်မလွဲ ငါအရှင်မြတ်သည် ၎င်းတို့၏ သားမြေးတို့အား ဝန်ကုန်အပြည့်တင်ထားသော သင်္ဘောပေါ်၌ တင်ဆောင်စီးနင်း စေတော်မူခြင်းပင် ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

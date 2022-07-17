@@ -710,6 +710,12 @@ O, khora, sluzhete na svoya Gospod, koĭto e sŭtvoril vas i onezi predi vas, z
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	အေ လူသားတို့ သင်တို့သည် သင်တို့၏ အရှင်သခင်အား ကိုးကွယ်ကြလော့။ အရှင်မြတ်သည် သင်တို့နှင့်သင်တို့ထက်ရှေးကျသောသူများကို ဖန်ဆင်းတော်မူ၏။ သို့မှသာ သင်တို့သည် မကောင်းမှု ကို ဖယ်ရှားပစ်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-လူသားအပေါင်းတို့၊ အသင်တို့သည် မိမိတို့အား မွေးမြူတော်မူထသော (အလ္လာဟ်အရှင်မြတ်)ကို ခဝပ်ကိုးကွယ်ကြကုန်။ ထိုအရှင်သည် အသင်တို့ကိုလည်းကောင်း၊ အသင်တို့အလျင် အထက်ထက် အဆက်ဆက်က ရှိခဲ့ဘူးသော ရှေးပဝေသဏီ လူဟောင်းများကို လည်းကောင်း၊ ဖန်ဆင်းတော်မူသော အရှင်ဖြစ်သည်။ ထိုသို့ ခဝပ်ကိုးကွယ်ကြမှသာလျှင် အသင်တို့သည် (ဒုစရိုက်မှုများကို) ကြဉ်ရှောင်သော သူတော်သူစင်များ ဖြစ်တန်ကြရာသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

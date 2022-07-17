@@ -710,6 +710,12 @@ Nima Ni zatrudni pŭrvoto sŭtvoryavane? Ala se sŭmnyavat te v novoto sŭtvorya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	ငါသည် အနန္တစကြာဝဠာတို့ကို ပထမအကြိမ်ဖန်ဆင်းရတော်မူသည့်အတွက် လက်ပန်းအားကုန်တော်မူသလော၊ မကုန်ချေ၊ သို့ပါလျက် သူတို့သည် အသစ်တဖန်ဖန်ဆင်းတော်မူမည်ကို ယုံမှားသံသယရှိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် ပထမအကြိမ် ဖန်ဆင်းတော်မူခဲ့သောကြောင့် ပင်ပန်း နွမ်းနယ်တော်မူခဲ့လေသလော။ ထိုသို့အလျှင်းမဟုတ်။ စင်စစ်မှာကား ၎င်းတို့သည် အသစ်တစ်ဖန် ပြန်လည်ဖန်ဆင်းခြင်းနှင့် စပ်လျဉ်း၍ ယုံမှားသံသယ၌ ရှိနေကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Gospoda na dvata izgreva i Gospoda na dvata zaleza
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	အရှင်မြတ်သည် နေထွက်ရာအရပ်နှစ်ခုနှင့် နေဝင်ရာအရပ်နှစ်ခုတို့၏ အရှင်သခင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအရှင်မြတ်သည်ပင်) နေထွက်ရာအရပ် နှစ်ခုလုံးကို ဖန်ဆင်းတော်မူသောအရှင်၊ နေဝင်ရာအရပ် နှစ်ခုလုံးကို ဖန်ဆင်းတော်မူသော အရှင်ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

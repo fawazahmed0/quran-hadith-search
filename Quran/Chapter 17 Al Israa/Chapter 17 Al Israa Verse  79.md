@@ -710,6 +710,12 @@ I v chast ot noshtta bodŭrstvaĭ s [molitva] dopŭlnitelno za teb. Tvoyat Gosp
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၉။	ထို့အပြင်သင်သည် ညဉ့်နက်သန်းခေါင်အချိန်၌ ဆွလတ်ဝတ်ပြုရန် ကုရ်အာန်ကျမ်းတော်ကို ဖတ်ရန် သင်နိုးကြား လော့၊ ယင်းသို့ပြုလုပ်ခြင်းသည် အလွန်အကျိုးများ၏။ သင်၏ အရှင်သခင်သည် သင့်အား အလွန်ချီးမွမ်းဖွယ် ကောင်းသောဂုဏ်ကျက်သရေရှိသောနေရာဌာနသို့ မြှင့်တင်တော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး (အို-နဗီတမန်တော်) အသင်သည်ညဉ့်၌တစ်ဖန်တဟဂျွဒ်ဆွလာတ်ကိုလည်း မိမိ၌အပို(တာဝန်)အဖြစ် ဆောက်တည်ပါလေ။ အမှန်စင်စစ် အသင့်အားဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည် မကာမု မဟ်မူဒ်သို့ အသင့်အား ပို့တော်မူအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

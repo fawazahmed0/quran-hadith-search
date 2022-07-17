@@ -710,6 +710,12 @@ I ako vzimate za lŭzha, to i drugi obshtnosti predi vas vzimakha za lŭzha. Dŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	သို့သော်သင်တို့သည် ငြင်းဆန်ကြလျှင် သင်တို့အလျင်ရှေးလူမျိုးဟောင်းများစွာတို့သည်လည်း ငြင်းပယ်ကြ၏၊ တမန်တော်မှာမူကား တရားဒေသနာတော်ကို ထင်ထင်ရှားရှားဟောကြားဖို့ရာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကယ်၍ အသင်တို့သည် (ငါ့အား)မဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ်ကြလျှင် အသင်တို့အလျင်ရှိခဲ့ကြလေသော အုပ်စုများကလည်း (မိမိတို့၏ နဗီတမန်တော်များအား)မဟုတ်မမှန်ဟူ၍ပင် စွပ်စွဲငြင်းပယ်ခဲ့ကြကုန်၏။ စင်စစ်မှာမူကား ရစူလ်တမန်တော်များအပေါ်၌ (အလ္လာဟ်အရှင်မြတ်၏ အမိန့်ပညတ်တော်များကို လူသားတို့ထံ) ရှင်းလင်းထင်ရှားစွာ ပို့ဆောင်ရန်သာလျှင် တာဝန်ရှိပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

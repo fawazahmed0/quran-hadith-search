@@ -710,6 +710,12 @@ I vzekha za lŭzha pravdata, kogato tya doĭde pri tyakh. No shte gi dostignat 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	သူတို့သည် မိမိတို့ထံသို့ ကျရောက်လာသော သမ္မာတရားတော်ကို မယုံကြည်ဘဲ ငြင်းပယ်ကြ၏။ သို့သော် သူတို့ကဲ့ရဲ့ပြောင်လှောင်လေ့ရှိသောအမှု၏ အကြောင်းသတင်းများသည် သူတို့ထံသို့ ရောက်လာလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ၎င်းတို့သည် မိမိတို့ထံ အမှန်ရောက်ရှိလာသောအခါ၊ ထိုအမှန်ကိုလည်း ငြင်းပယ် လိုက်ကြလေသည်။ သို့ဖြစ်၍ ၎င်းတို့ထံ မကြာမြင့်မီ ကာလအတွင်းအကြင်အရာ၏ သတင်းမှန်သည် ရောက်လာပေမည်။ ထိုအရာ နှင့်စပ်လျဉ်း၍ ၎င်းတို့ သည် ပြက်ချော် ပြောင်လှောင်လေ့ရှိခဲ့ကြ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ shte vzimat onova, koeto im daryava tekhniyat Gospod. Predi tova te vŭrshekha d
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	ထိုနိဗ္ဗန်သားတို့သည် မိမိတို့၏ အသက်သခင်ကျေးဇူးရှင်ကြီးပေးသနားတော်မူသောအောင်ဆုမင်္ဂလာတော်ကို ခံယူနေကြရလိမ့်မည်၊ အကြောင်းမူကား သူတို့သည် အထက်ကျော်ကာလက ကောင်းမှုပြုသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (၎င်းတို့သည်) မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်က မိမိတို့အား ချီးမြှင့် ပေးသနားတော်မူသည်တို့ကို ယူငင်လျက် ရှိကြပေမည်။ စင်စစ်ဧကန် ၎င်းတို့မှာ ထိုသည့်အလျင် ကောင်းမှုပြုသူများပင် ဖြစ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

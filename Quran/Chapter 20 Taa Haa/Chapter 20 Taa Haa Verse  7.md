@@ -710,6 +710,12 @@ I dali shte govorish na glas [o, Mukhammad], ili ne - Toĭ znae i taĭnoto, i 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	ထို့အပြင်သင်သည် အသံကျယ်စွာနှင့်ပြောဆိုသောအခါ အရှင်မြတ်သည် သင်၏ စိတ်ထဲတွင် လျှို့ဝှက်ထားသော အရာများနှင့် ထိုထက်သာလွန်စွာထိမ်ဝှက်ထားသောအရာများကို သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အကယ်၍ အသင်သည်အသံကျယ်စွာ စကားပြောဆိုပါလျှင်လည်း (ထိုအရှင်မြတ်သည်သိတော်မူသည်သာဖြစ်၏။) ဧကန်စင်စစ် ထိုအရှင်မြတ်သည်စိတ်ထဲတွင် ပြောဆိုသောစကားကို လည်းကောင်း၊ စိတ်ထဲတွင်ပေါ်ပေါက်ရုံမျှ ရှိသေးသောစကားကိုလည်းကောင်း၊ သိရှိတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

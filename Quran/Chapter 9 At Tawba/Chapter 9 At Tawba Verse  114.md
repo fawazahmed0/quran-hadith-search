@@ -710,6 +710,12 @@ Molbata na Ibrakhim za oproshtenie na bashta mu be samo obeshtanie, koeto toĭ 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၄။	တမန်တော်အေဗရာဟမ်သည် မိမိဖခင်ကို ပေးသောကတိကြောင့် ဖခင်ကို အပြစ်လွှတ်တော်မူရန် ဆုတောင်း၏။သို့သော်သူ၏ ဖခင်သည် အလ္လာဟ်အရှင်မြတ်၏ ရန်သူဖြစ်ကြောင်း သိသောအခါ တမန်တော်သည် ဖခင်ကို စွန့်ပစ်၏။မှတ်သားကြလော့။တမန်တော်အေဗရာဟမ်သည် သနားကြင်နာတတ်၏။သည်းခံတတ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား (နဗီတမန်တော်)အစ်ဗ်ရာဟီမ်သည် မိမိဖခင်အဖို့ လွတ်ငြိမ်းချမ်းသာခွင့်ကို ပန်ကြားခဲ့သည်မှာ ထို(နဗီတမန်တော်) အစ်ဗ်ရာဟီမ်သည် ဖခင်အားပေးခဲ့သော ကတိဝန်ခံချက်ကြောင့်သာဖြစ်ပေ၏။ တစ်ဖန် ထို(နဗီတမန်တော်) အစ်ဗ်ရာဟီမ်၌(ဖခင်)သည် အလ္လာဟ်အရှင်မြတ်၏ရန်သူဖြစ်ကြောင်း ထင်ရှားခဲ့သောအခါ ထို(နဗီတမန်တော်)အစ်ဗ်ရာဟီမ်သည် ဖခင်နှင့်(မည်သို့မျှ)မသက်ဆိုင်၊ မပတ်သက်ဟူ၍ ငြင်းဆိုခဲ့လေ၏။ ဧကန်စင်စစ် (နဗီတမန်တော်)အစ်ဗ်ရာဟီမ်သည် စိတ်နှလုံးအလွန်နူးညံ့သူ၊ သည်းခံခြင်းတရားအလွန်ထားရှိသူ ဖြစ်ခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

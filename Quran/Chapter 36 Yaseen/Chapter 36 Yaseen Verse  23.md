@@ -710,6 +710,12 @@ Nima shte priema drugi bogove, a ne Nego? Ako Vsemilostiviya poiska da me spolet
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	ငါသည် အလ္လာဟ်အရှင်မြတ်အစား ဘုရားတုဘုရားယောင်များကို ဝတ်ပြုမည်လော၊ မဟာဂရုဏာတော်အရှင် သည် ငါ့အား ဆင်းရဲဒုက္ခပေးရန် ကြံစည်တော်မူအ့ံ၊ ထိုဘုရားတုများသည် ငါ့ကို တောင်းပန်ကယ်နှုတ်နိုင်မည် မဟုတ်ချေ၊ သူတို့သည် ငါ့ကို ဘေးဥပါဒ်မှ ကယ်တင်နိုင်မည်လည်းမဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကျွန်ုပ်သည် ထိုအရှင်မြတ်အားစွန့်၍ အခြားအကြင်ကဲ့သို့သော ကိုးကွယ်ရာများကို (ကိုးကွယ်) ရမည်လော။ အကယ်၍ "ရဟ်မာန်" အနန္တကရုဏာတော်ရှင်သည် ကျွန်ုပ်တွင် ဘေးအန္တရာယ် တစ်စုံတစ်ရာ သက်ရောက်စေရန် ရည်စူးတော်မူပါလျှင် ယင်းကိုးကွယ်ရာများ၏ ကြားဝင် အသနားခံပေးမှုသည်လည်း ကျွန်ုပ်၏အဖို့ အနည်းငယ်မျှပင် အသုံးကျမည် မဟုတ်ပေ။ ထိုမှတစ်ပါး ၎င်းတို့သည် ကျွန်ုပ်အား လွတ်မြောက်စေနိုင်ကြမည်လည်း မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

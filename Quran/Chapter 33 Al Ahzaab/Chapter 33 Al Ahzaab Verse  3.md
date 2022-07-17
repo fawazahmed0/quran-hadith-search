@@ -710,6 +710,12 @@ I se upovavaĭ na Allakh! Dostatŭchen e Allakh za pokrovitel
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	ထို့အပြင်အလ္လာဟ်အရှင်မြတ်အား ယုံကြည်ကိုးစားလော့၊ အကြောင်းမူကား အရှင်မြတ်သည် ယုံကြည်ကိုးစားရ သူအဖြစ်ဖြင့် လုံလောက်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်သည် အလ္လာဟ်အရှင်မြတ်အပေါ်၌ ယုံပုံလွှဲအပ်ပါလေ။ စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည်ပင်လျှင် ကိစ္စအဝဝကို ပြီးစီးအောင် ဆောင်ရွက်ပေးတော်မူသော အရှင်မြတ်အဖြစ် လုံလောက်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

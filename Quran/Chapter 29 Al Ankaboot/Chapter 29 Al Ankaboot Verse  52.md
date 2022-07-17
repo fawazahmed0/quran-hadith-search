@@ -710,6 +710,12 @@ Kazhi: “Dostatŭchen e Allakh za svidetel mezhdu men i vas. Toĭ znae vsichko
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၂။	မိုဟမ္မဒ်၊ သင်သည် သူတို့အား ဟောကြားလော့၊ ဟယ်-အချင်းတို့၊ အကျွနု်ပ်နှင့် သင်တို့အလယ်ကြားတွင် အလ္လာဟ်အရှင်မြတ်သည် သက်သေတော်အဖြစ်ဖြင့် လုံလောက်၏၊ အလ္လာဟ်အရှင်မြတ်သည် အထက်ကောင်း ကင်ဘုံနှင့် အောက်မဟာပထဝီမြေပေါ်ရှိရှိသမျှအပေါင်းတို့ကို အကြွင်းမဲ့သိတော်မူ၏၊ အကြင်သူတို့သည် ဝါကြွားမောက်မာလျက် အလ္လာဟ်အရှင်မြတ်အား မယုံကြည်ကြအ့ံ၊ ထိုသူတို့သည် ဆုံးရှုံးပျက်စီးသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ပြောကြားပါလေ၊ "(အချင်းတို့) အလ္လာဟ်အရှင်မြတ်သည်ပင် ငါနှင့် အသင်တို့၏အကြား၌ သက်သေအဖြစ် လုံလောက်တော်မူ၏။ထိုအရှင်မြတ်သည် မိုးကောင်းကင်များ၌ ရှိသမျှတို့ကိုလည်းကောင်း၊ ပထဝီမြေ၌ ရှိသမျှတို့ကိုလည်းကောင်း၊ ကောင်းစွာသိရှိတော်မူ၏။ သို့ရာတွင် အမှားကို ယုံကြည်လက်ခံ၍ အလ္လာဟ်အရှင်မြတ်အား ငြင်းပယ်ကြသော သူတို့မှာမူကား ၎င်းတို့သည်သာလျှင် ဆုံးရှုံးပျက်စီးသူများ ဖြစ်ကြပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

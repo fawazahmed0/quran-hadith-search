@@ -710,6 +710,12 @@ V tozi Den shte kazhem na Ada: “Napŭlni li se?” A toĭ shte reche: “Ima 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	ငါသည် အဝီစငရဲကို အေ-ငရဲ၊ နင့်ကို ပြည့်အောင် ဖြည့်ပြီလောဟု မေးတော်မူ၍ ငရဲက အို-အရှင်မြတ်၊ အကျွန်ုထံသို့ လာဖို့ရာရှိပါသေးသလောဟု ပြန်လျှောက်သောနေ့၌။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော် အသင်သည် သတိရစေပါလေ။) အကြင်နေ့တွင် ငါအရှင်မြတ်သည် ‘ဂျဟန္နမ်’ ငရဲဘုံကို အသင်သည် ပြည့်လေပြီလောဟု မိန့်ကြားတော်မူမည်။ ထိုအခါယင်းဂျဟန္နမ်ငရဲဘုံက ‘နောက်ထပ်ရှိပါသေးသလော’ ဟုလျှောက်ထားပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

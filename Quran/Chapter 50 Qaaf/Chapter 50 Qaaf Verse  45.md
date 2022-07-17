@@ -710,6 +710,12 @@ Naĭ-dobre Nie znaem kakvo izrichat. A ti ne si za tyakh prinuditel. I pouchava
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	အို-တမန်တော်မိုဟမ္မဒ်၊ ဤမယုံကြည်သူတို့ပြောကြားသမျှကို ငါသည် အကြွင်းမဲ့သိတော်မူ၏၊ သင်သည် ၎င်းတို့အပေါ်၌ အတင်းအကျပ်ပြုနိုင်သူမဟုတ်၊ သို့သော်သင်သည် ငါ၏ ခြိမ်းခြောက်ခြင်းကို ကြောက်ရွံ့သောသူ အား ကုရ်အာန်ကျမ်းတော်အားဖြင့် သတိပေးဆုံးမလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် ၎င်းတို့ပြောဆိုသမျှတို့ကို အသိတော်မူဆုံးပင်ဖြစ်တော်မူ၏။ စင်စစ်သော်ကား(အို-နဗီတမန်တော်) အသင်သည် ၎င်းတို့အပေါ်၌ အနိုင်အထက်ပြုသူမဟုတ်ပေ။ သို့ဖြစ်ပေရာ အသင်သည် ငါအရှင်မြတ်၏ ချိန်းဆိုချက်ကို ကြောက်ရွံ့သူအား ကုရ်အာန်ကျမ်းတော်မြတ်ဖြင့် ဩဝါဒပေးလျက် နေပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

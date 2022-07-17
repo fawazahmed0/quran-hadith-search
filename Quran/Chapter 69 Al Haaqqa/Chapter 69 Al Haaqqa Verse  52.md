@@ -710,6 +710,12 @@ Zatova proslavyaĭ imeto na tvoya Gospod, Prevelikiya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၂။ ထို့ကြောင့် အေ-တမန်တော်၊ အတိုင်းမသိမြင့်မြတ်တော်မူသော သင်၏ အရှင်သခင်၏ နာမတော်ကို ချီးကျူး တသလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်) အသင်သည် မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသော၊ ထူးကဲမြင့်မြတ်တော်မူသော၊ အရှင်မြတ်၏(နာမံတော်)ကို စင်ကြယ်သန့်ရှင်းတော်မူကြောင်း မြွက်ဆို(ချီးမွမ်း) ပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A te izrichat sŭshtoto, koeto izrichakha i predtsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၁။	သူတို့၌ ဉာာဏ်မရှိချေ၊ သူတို့သည် ရှေးလူဟောင်းများပြောဆိုသကဲ့သို့ ပြောဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသို့ အလျှင်းမဟုတ်၊ စင်စစ်မှာကား ၎င်းတို့သည် ရှေးသူဟောင်းတို့ ပြောဆိုခဲ့ကြသည့်နည်းတူ ပြောဆိုကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

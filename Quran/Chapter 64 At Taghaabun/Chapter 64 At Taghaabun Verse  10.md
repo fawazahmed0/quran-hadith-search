@@ -710,6 +710,12 @@ A koito ne vyarvat i vzimat za lŭzha Nashite znameniya, te sa obitatelite na Og
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၀။ သို့သော် မိစ္ဆာအယူဝါဒကို လက်ကိုင်ထား၍ ငါ၏ နှုတ်ကပတ်တော်များကို တွန်းလှန်ဖယ်ရှားသောသူတို့မူကား အဝီစိငရဲမီးကို ပိုင်ဆိုင်သူများဖြစ်ကြ၏၊ သူတို့သည် ထိုငရဲမီးအတွင်းတွင် အစဉ်ထာဝရနေကြရလိမ့်မည်၊ အလွန်ညံ့ဖျင်းဆိုးဝါးသောခရီးဆုံးဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တစေလည်း အကြင်သူသည် သွေဖည် ငြင်းပယ်ခဲ့ကြကုန်၏။ ၎င်းပြင် ငါအရှင်မြတ်၏ အာယတ်တော်များကို မဟုတ်မမှန်ဟူ၍ စွပ်စွဲ ငြင်းပယ်ခဲ့ကြကုန်၏။ ထိုသူတို့ကား ငရဲမီး၌ အမြဲ ထာဝစဉ် နေထိုင်ကြရအံ့သော သူများပင် ဖြစ်ကြကုန်၏။ စင်စစ်သော်ကား ယင်းငရဲမီးသည် လွန်စွာ ယုတ်ညံ့လှစွာသော စခန်းပင် ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

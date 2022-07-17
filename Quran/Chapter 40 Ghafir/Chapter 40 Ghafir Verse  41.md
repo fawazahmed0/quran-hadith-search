@@ -710,6 +710,12 @@ I o, narode moĭ, kak az vi zova kŭm spasenieto, a vie me zovete kŭm Ogŭnya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	အို-အချင်းတို့၊ သင်တို့သည် ငါ့အား ငရဲမီးထဲသို့ ခေါ်နေ၏၊ ငါမူကား သင်တို့အား ငရဲမီးဘေးမှ လွတ်ကင်းရာသို့ ခေါ်ငင်နေ၏၊ ဤအခြင်းအရာသည် ဘယ်လောက်ထူးဆန်းပါသလဲ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး၊ အို - ကျွန်ုပ်၏ အမျိုးသားတို့၊ အသို့ပါနည်း။ ကျွန်ုပ်သည် အသင်တို့အား (ပြစ်ဒဏ်မှ) ကင်းလွတ်ရာသို့ ဖိတ်ခေါ်နေပါသည်။ သို့သော် အသင်တို့သည်မူ ကျွန်ုပ်အား ငရဲမီးသို့ ဖိတ်ခေါ်နေကြပါသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I zagovorikha zheni v grada: “Zhenata na gospodarya sŭblaznyava svoya sluga. 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	ထိုအခါအီဂျစ်မြို့နေမိန်းမတို့ ဤသို့ပြောကြ၏။ အမတ်ကြီး၏ ဇနီးသည် မိမိ၏ ကျွန်လုလင်ပျိုထံမှ မကောင်းမှု တောင်း၏။ အမှန်မှာ သူသည် သူမ၏ စိတ်နှလုံးကို အချစ်မီးလောင်စေ၏။ ငါတို့သည် သူမကို ထင်ရှားသော လမ်းမှားမှာ မြင်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် မြို့တွင်း၌ရှိသော အချို့မိန်းမများသည်(မာယာဆင်၍ဤသို့ပြစ်တင်)ပြောဆိုကြကုန်၏။ အဇီဇ်၏ ကြင်ရာသည် မိမိကျွန်ကို ၎င်း၏စိတ်သဘောနှင့် ဆန့်ကျင်ပြီး ချော့မော့မြှူဆွယ်နေလေသည်။ ဧကန်စင်စစ် ထိုကျွန်သည် ၎င်း၏စိတ်နှလုံးကို ချစ်မေတ္တာအားဖြင့်ဖုံးလွှမ်းလျက် ရှိနေပေသည်။ဧကန်အမှန် ကျွန်ုပ်တို့သည် ယင်းအဇီဇ်၏ကြင်ရာအား လွှဲချော်မှောက်မှားမှု၌(ကျဆင်းနေသည်ကို)တွေ့မြင် ကြရပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Samudyanite otrichakha poradi svoeto nepokorstvo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။ (သမုဒ်)လူမျိုးတို့သည် မာန်မာနထောင်လွှားခြင်းကြောင့် တရားတော်ကို လက်မခံပယ်ရှားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဆမူဒ်" အမျိုးသားတို့သည် မိမိတို့၏ ဆိုးသွမ်းမှုကြောင့် (နဗီတမန်တော် ဆွာလစ်ဟ်အား) မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

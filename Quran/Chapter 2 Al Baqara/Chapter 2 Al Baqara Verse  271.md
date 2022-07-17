@@ -710,6 +710,12 @@ Ako yavno razdavate milostinya, kolko khubavo e tova! No ako skŭtate i taĭno 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇၁။	အကယ်၍ သင်တို့သည် လူသိရှင်ကြား လှူဒါန်းကြလျှင် ကောင်း၏။ သို့သော် တိတ်တဆိတ် လျှို့ဝှက်စွာ လှူ၏။ သူဆင်းရဲသားတို့အားလှူ၏။ ထိုအလှူသည် သင်တို့အဖို့ သာလွန်မွန်မြတ်၍ သင်တို့ မကောင်းမှုအချို့တဝက်ကိုဖြေ၏။ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့ပြုလုပ်သမျှတို့ကို အကြွင်းမဲ့သိမြင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍ အသင်တို့သည်(မိမိတို့ပေးကမ်း စွန့်ကြဲကြကုန်သော) အလှူဝတ္ထုများကို ထင်ရှား စွာ (လှူဒါန်းပေးကမ်းကြပါမူ) ယင်းသို့ထင်ရှားစေ ခြင်းသည်လည်းကောင်းမြတ်၏။ သို့ရာတွင် အကယ်၍ အသင်တို့သည် ယင်း(ပေးကမ်းလှူဒါန်း ကြကုန်သော) အလှူဝတ္ထုများကို လျှို့ဝှက်စွာသူဆင်းရဲတို့အား ပေးကမ်းစွန့်ကြဲကြပါမူ၊ ယင်းသို့ လျှို့ဝှက်ခြင်းသည်ကား အသင်တို့အဘို့ရာ သာ၍ပင် ကောင်းမြတ်ပေသည်။ ထို့ပြင် (အလ္လာဟ်အရှင်မြတ်သည်) အသင်တို့၏ဒုစရိုက်မှုအချို့တို့ကို ဖယ်ရှားတော်မူအံ့။ အကြောင်းမူကားအလ္လာဟ်အရှင်မြတ်သည် အသင်တို့ ပြုလုပ်ကြကုန်သောကိစ္စရပ်တို့ကို အြွကင်းမဲ့ ကြားသိတော်မူသောအရှင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

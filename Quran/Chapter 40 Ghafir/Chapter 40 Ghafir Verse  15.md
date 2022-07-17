@@ -710,6 +710,12 @@ Naĭ-vŭzdignatiya, Vladetelya na Trona! Po Svoya povelya Toĭ prashta Dukha [
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	အလ္လာဟ်အရှင်မြတ်သည် အတိုင်းထက်အလွန်မြင့်မြတ်တော်မူ၍ ဘုန်းတန်ခိုးတော်နှင့်ပြည့်စုံသော ပလ္လင်တော်၏ အရှင်သခင်ဖြစ်တော်မူ၏၊ အရှင်မြတ်သည် မိမိ၏ ကျေးကျွန်များအနက် အလိုတော်ရှိရာ ကျေးကျွန်ထံသို့ နှုတ်ကပတ်တော်ကို ချပေးတော်မူ၏၊ ယင်းကဲ့သို့ချပေးတော်မူခြင်းကား အရှင်မြတ်သည် လူသားအပေါင်းတို့အား စည်းဝေးပွဲကြီး နေ့တော်ကြီးအကြောင်းကို သတိပေးတော်မူဖို့ရာ ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအရှင်မြတ်သည်)ဂုဏ်ရည်အဆင့်အတန်းများကို မြှင့်ပေးတော်မူသော မြင့်မြတ်သော ဂုဏ်ရည်အဆင့်အတန်းများနှင့် ပြည့်စုံတော်မူသော "အရ်ရှ်"ပလ္လင်တော်ကိုစိုးပိုင်တော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။ ထိုအရှင်မြတ်သည် "ဝဟ်ယ်" ထုတ်ပြန် ချက်တည်းဟူသော မိမိအမိန့်တော်ကို မိမိကျွန်တို့အနက်မှ မိမိအလိုရှိတော်မူသောသူ၏ အပေါ်ဝယ်ချပေးတော်မူ၏။ (ယင်းသို့ ချပေးတော်မူခြင်းမှာ) ထိုကျွန်သည် စုရုံးမည့်နေ့ (ဝါ) "ကိယာမတ်" ရှင်ပြန်ထမည့်နေ့နှင့်စပ်လျဉ်း၍ (လူတို့အား) သတိပေးနှိုးဆော်အံ့သောငှာ ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

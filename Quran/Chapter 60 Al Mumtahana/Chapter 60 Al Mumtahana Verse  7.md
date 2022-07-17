@@ -710,6 +710,12 @@ Allakh mozhe da porodi obich mezhdu vas i onezi ot tyakh, s koito vrazhduvakhte.
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့နှင့် သင်တို့၏ ရန်သူတို့စပ်ကြားတွင် အချင်းချင်းချစ်ခင်ကြင်နာ၊ မေတ္တာ စိတ်ဓာတ်သည် ပေးသနားတော်မူကောင်း ပေးသနားတော်မူလတံ့၊ အလ္လာဟ်အရှင်မြတ်သည် အနန္တတန်ခိုးတော်ရှင်၊ အဖန်တလဲလဲအပြစ်လွှတ်တော်မူသောအရှင်၊ မဟာကရုဏာတော်ရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့နှင့် အသင်တို့၏ရန်ဘက်များဖြစ်ကြသော သူတို့၏အကြားဝယ် ချစ်ခင်မှုကို စီမံဖန်တီးပေးတော်မူမည် ဖြစ်တန်ရာ၏။ အမှန်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အရာရာကို အကြွင်းမဲ့ စွမ်းနိုင်တော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူ၏။ ၎င်းပြင် အလ္လာဟ်အရှင်မြတ်သည် အလွန်တရာ ခွင့်လွှတ်ချမ်းသာ ပေးတော်မူသောအရှင်၊ အလွန်တရာ သနားကြင်နာ ညှာတာတော်မူသောအရှင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I kogato doĭde pri tyakh istinata ot Nas, kazakha: “Tova e yavna magiya.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၆။	၎င်းအပြင်ငါ၏ အထံတော်မှ သစ္စာတရားတော်သည် သူတို့ထံသို့ ကျရောက်လာသောအခါ သူတို့က ဤအရာ သည် ဝိဇ္ဇာအတတ်သာဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ၎င်း တို့ထံ ငါအရှင်မြတ် အထံတော်မှ အမှန်တရား (တန်ခိုးပြာဋိဟာ)သည် ရောက်လာသောအခါ၎င်း တို့က ဤသည် ဧကန်မလွဲ စုန်းပယောဂ အတတ်ပင်ဖြစ်သည်ဟူ၍ ပြောဆိုခဲ့ကြလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

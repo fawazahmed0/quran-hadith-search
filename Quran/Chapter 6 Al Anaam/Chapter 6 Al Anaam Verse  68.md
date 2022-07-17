@@ -710,6 +710,12 @@ I shtom vidish takiva, koito praznoslovyat za Nashite znameniya, ot·strani se o
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၈။	ငါအသျှင်မြတ်၏ ဗျာဒိတ်တော်များကို မထီလေးစားပြောဆိုနေသူတို့ကိုမြင်လျှင် သူတို့သည် စကားလွှဲ၍ပြောသည်တိုင်အောင် သူတို့ထံမှ သင်ထွက်ခွာသွားလော့။ အကယ်၍ ရှိုင်တန်မာရ်နတ်က သင့်ကို မေ့လျော့စေလျှင် သင်သည် သတိရလျှင်ရခြင်း ဒုစရိုက်မှုကျူးလွန်သူတို့၏ အစည်းအဝေးတွင် ထိုင်မနေလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (အို-နဗီတမန်တော်) ငါအရှင်မြတ်၏မုက္ခပါဌ်တော်များကို ကဲ့ရဲ့ပြစ်တင်သော သူတို့ကို အသင်တွေ့မြင်သောအခါ ၎င်းတို့သည် အခြားအကြောင်းအရာများ၌ စိတ်ဝင်စားသွားကြသည်အထိ အသင်သည် ၎င်းတို့၏ထံ (ထိုင်ခြင်း)မှ လွှဲရှောင်နေပါလေ။ ၎င်းပြင် အကယ်၍ ရှိုင်တွာန်သည် အသင့်အား မေ့လျော့စေခဲ့သော် ပြန်လည်သတိရရှိပြီးနောက်တွင်မူ အသင်သည် မတော်မတရားပြုမူသော သူတို့နှင့်အတူ မထိုင်ပါလေနှင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

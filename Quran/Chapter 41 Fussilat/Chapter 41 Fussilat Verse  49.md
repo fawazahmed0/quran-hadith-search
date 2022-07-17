@@ -710,6 +710,12 @@ Ne mu dotyaga na choveka da zove dobroto, a zasegne li go zloto, toĭ se otchai
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	လူသားသည် ကောင်းကြီးမင်္ဂလာတော်ပန်ထွာခြင်း၌ မမောပန်းမငြီးငွေ့ချေ၊ သို့သော်ဆင်းရဲဒုက္ခထိသောအခါ မျှော်လင့်ကိုးစားခြင်းကို မပြုပဲ စိတ်ပျက်ပူဆွေးတတ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 လူသားသည် ကောင်းကျိုးချမ်းသာကို တောင်းဆိုခြင်းမှ ငြီးငွေ့သည်ဟူ၍မရှိပေ။ သို့ရာတွင် အကယ်၍ ၎င်း၌ဘေးအန္တရာယ်တစ်စုံတစ်ရာ သက်ရောက်ခဲ့သည်ရှိသော် ထိုအခါ (၎င်းမှာ) စိတ်အား လျှော့သူ၊ မျှော်လင့်ချက်လုံးဝကင်းသူဖြစ်လာလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

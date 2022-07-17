@@ -710,6 +710,12 @@ I kogato im bŭde cheten, kazvat: “Vyarvame v nego. Toĭ e istinata ot nashiy
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။	ထို့အပြင်ကျမ်းမြတ်ကုရ်အာန်ကို သူတို့အား ရွတ်ဖတ်ပြသောအခါ ချပေးတော်မူ၏၊ ထိုသူတို့သည် ကျမ်းမြတ် ကုရ်အာန်၌ ယုံကြည်ကြ၏၊ မှတ်သားကြလော့၊ ထိုကျမ်းတော်သည် အကျွနု်ပ်တို့၏ အရှင်သခင်အထံတော်မှ သစ္စာတရားတော်တည်း၊ မှတ်သားကြလော့၊ ဤကျမ်းတော်ကို ချပေးသနားမမူမီကာလပင်လျှင် အကျွနု်ပ်တို့ သည် အရှင်မြတ်အား ကျိုးနွံနာခံသောသူတို့ဘောင်တွင် ပါဝင်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ဤ(ကုရ်အာန်ကျမ်းမြတ်)ကို ၎င်းတို့ရှေ့ဝယ် ဖတ်ကြားသောအခါ ၎င်းတို့က ကျွန်တော်မျိုးတို့သည် ဤ(ကုရ်အာန်ကျမ်းမြတ်)ကို ယုံကြည်ပါပြီ။ ဧကန်မလွဲ ဤ(ကုရ်အာန်ကျမ်းမြတ်)သည် ကျွန်တော်မျိုးတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်မှ (ထုတ်ပြန်တော်မူသည့်) အမှန်တရားပင် ဖြစ်ပါသည်။ ဧကန်စင်စစ် ကျွန်တော်မျိုးတို့သည် ဤ(ကုရ်အာန်ကျမ်းမြတ်မကျရောက်မီ) အလျင်ကပင် ‘မွတ်စ်လင်မ်’ အမိန့်တော်ကိုလိုက်နာသူများ ဖြစ်ခဲ့ကြပါသည်ဟု ပြောဆိုခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

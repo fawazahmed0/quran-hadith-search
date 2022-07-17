@@ -710,6 +710,12 @@ Tvoyat Gospod ne shte pogubi selishtata, dokato ne provodi v glavnoto ot tyakh p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၉။	အို--တမန်တော်၊ သင်၏အရှင်သခင်သည် မည်သည့်မြို့ရွာနယ်ပယ်တို့မှ ထိုနယ်ပယ်၏ မြို့တော်သို့ ငါ၏ ပညတ်တော်များကို ရွတ်ဖတ်ဟောပြောသည့်တမန်တော်တစ်ပါးမျှ စေလွှတ်တော်မမူပဲ ဖျက်ဆီးတော်မမူချေ၊ ထို့အပြင်ငါသည် မြို့ရွာနယ်ပယ်တစ်ခုကို ၎င်းတွင် မှီတင်းနေထိုင်သူတို့သည် မကောင်းမှုကို မကျူးလွန်ပဲ ဖျက်သိမ်းတော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် မြို့ရွာများကို ထိုမြို့ရွာများ၏ရာဇဌာနေတွင် ငါအရှင်မြတ်၏ အာယတ်တော်များကို ၎င်းတို့ရှေ့၌ ဖတ်ကြားအံ့သော ရစူလ်တမန်တော်တစ်ပါးပါးကို ပွင့်စေတော်မူခြင်း မရှိသမျှကာလပတ်လုံး ဖျက်ဆီးတော်မူသည့် အရှင်မဟုတ်ပေ။ ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် မြို့ရွာများကို ထိုမြို့ရွာများ၌ နေထိုင်ကြသောသူတို့သည် (လွန်စွာ) မတရားသောသူများ မဖြစ်ကြသမျှ ကာလပတ်လုံး ဖျက်ဆီးတော်မူသောအရှင် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

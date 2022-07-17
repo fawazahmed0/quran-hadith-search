@@ -710,6 +710,12 @@ Kazakha: “Ako ne prestanesh, o, Lut, shte bŭdesh prokuden!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၇။	သူတို့က အို--လွတ်ဒ်၊ သင်သည် ရပ်တန်းက မရပ်လျှင် သင်သည် ဆေးကြောမေးဖော်မရှိ၊ သပိတ်မှောက်ခြင်း ခံရလိမ့်မည်ဟု ပြောကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအမျိုးသားတို့က ‘‘အို-လူ(တ်)၊ အကယ်၍အသင်သည် (မိမိဆုံးမဩဝါဒပေးခြင်းမှ) မရပ်တန့်ပါလျှင် ဧကန်မလွဲ အသင်သည်(တိုင်းပြည်မှ)နှင်ထုတ်ခြင်းခံရသူတစ်ဦးပင် ဖြစ်ချေလိမ့်မည်ဟု ဆိုခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

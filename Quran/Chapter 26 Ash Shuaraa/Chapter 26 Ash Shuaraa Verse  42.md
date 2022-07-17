@@ -710,6 +710,12 @@ Reche: “Da, i togava shte bŭdete ot priblizhenite.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	ထိုအခါမင်းကြီးက သင်တို့အမှန်အကန်ဆုရချေမည်၊ ထိုအခါသင်တို့သည် အမှန်ပင်ငါ့အား နီးကပ်စွာခစား ရမည်ဟု ပြန်ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုဖစ်ရ်အောင်န်က ဟုတ်ပေသည်။ ထို့ပြင်တစ်ဝ ထိုသို့ဖြစ်ခဲ့လျှင် အသင်တို့သည် (ငါနှင့်အတူ) လက်ပွန်းတတီး(ချစ်ကျွမ်း)နေထိုင်သူတို့တွင်လည်း အပါအဝင် ဖြစ်ကြပေမည်ဟု ဆိုခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

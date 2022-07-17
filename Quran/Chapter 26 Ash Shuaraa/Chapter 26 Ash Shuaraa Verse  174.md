@@ -710,6 +710,12 @@ I kolko losh be dŭzhdŭt za predupredenite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇၄။	ဤအဖြစ်အပျက်တွင် နိမိတ်ထူးလက္ခဏာထူးပါရှိ၏၊ အနန္တတန်ခိုးတော်ရှင်၊ အနန္တကောင်းကြီးမင်္ဂလာတော်သခင် အမှန်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ဤသည့်(ဖြစ်ရပ်)၌ (ကြီးကျယ်လှစွာသော) သင်ခန်းစာသည် ရှိပေ၏။ သို့ရာတွင် ၎င်းတို့အနက်(မက္ကာမြို့သား ကာဖိရ်များအနက်)အများဆုံးသော သူတို့မှာမူကား သက်ဝင်ယုံကြည်ကြမည့်သူများ မဟုတ်ကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Stremyakha se i po-rano kŭm smut i preobrŭshtakha zaradi teb delata, dokato ne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	သူတို့မနှစ်မြို့သော်လည်း အလ္လာဟ်အရှင်မြတ်ထံမှ တရားတော်ကျလာ၍ ဗျာဒိတ်အမိန့်တော်ထင်ရှားလာသည့် တိုင်အောင် သူတို့သည် လွန်လေပြီးသောအခါဝယ်၊ သစ္စာဖောက်မှုဖြစ်ပေါ်လာအောင် ကြိုးစားကြ၏။သင့်ကို ဒုက္ခအမျိုးမျိုးပေးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ၎င်းတို့သည် ယခင်ကလည်း(အသင်တို့အား အုဟုဒ် အစရှိသော စစ်ပွဲများတွင်) အနှောင့်အယှက် ဖြစ်စေခဲ့ကြလေသည်။ ထို့ပြင် ၎င်းတို့သည် [အသင်၏အရေးကိစ္စများကို ကပြောင်းကပြန် ပြုလုပ်ခဲ့ကြလေသည်။]နောက်ဆုံးတွင်မူ ၎င်းတို့မနှစ်မြို့ကြသော်လည်း အမှန်တရားသည် ရောက်လာခဲ့လေသည်။ အလ္လာဟ်အရှင်မြတ်၏ အမိန့်တော်သည်လည်း ထင်ရှားလာခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

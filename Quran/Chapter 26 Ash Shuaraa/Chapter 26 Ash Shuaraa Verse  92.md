@@ -710,6 +710,12 @@ I shte im se reche: “Kŭde sa onezi, na koito ste sluzhili
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၂၊၉၃။	ထိုသူမိုက်တို့အား အလ္လာဟ်အရှင်မြတ်မှတပါး သင်တို့ဦးညွတ်ဝတ်ပြုလေ့ရှိသောဘုရားတုတို့သည် အဘယ်မှာ ရှိကြသနည်း၊ သူတို့သည် သင်တို့အား စောင်မနိုင်ကြသလော၊ သို့မဟုတ်သူတို့သည် မိမိကိုယ်ကိုမိမိ ထောက်ပ့ံ နိုင်ကြသလောဟု မေးတော်မူလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့သည် ‘အသင်တို့ ဆည်းကပ် ကိုးကွယ်လျက်ရှိခဲ့ကြသော ကိုးကွယ်ရာများသည် (ယခု) မည်သည့်နေရာ၌ ရှိကြသနည်း’ ဟု ပြောဆိုမေးမြန်းခြင်းကို ခံကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

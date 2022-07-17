@@ -710,6 +710,12 @@ i v dushata, i v Onzi, Koĭto ya e sŭzdal
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။ ဝိညာဉ်နှင့် ၄င်းကို စုံလင်စေတော်မူသောအရှင်မြတ်ကိုသော်လည်းကောင်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသက်ဇီဝိန်ကိုလည်းကောင်း၊ ထိုအသက်ဇီဝိန်ကို စုံလင်အောင် ပြုလုပ်တော်မူသော အရှင်ကိုလည်းကောင်း၊ သက်သေထူတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

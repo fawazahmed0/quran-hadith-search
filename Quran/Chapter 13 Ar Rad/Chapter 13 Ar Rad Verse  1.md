@@ -710,6 +710,12 @@ Alif. Lam. Mim. Ra. Tezi sa znameniyata na Knigata. Nizposlanoto na teb ot tvoya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။	အလီ(ဖ်)၊လမ်၊မြီ(မ်)၊ရာ၊ ဤဂါထာတော်များသည် ကုရ်အာန်ကျမ်းတော်၏ ဂါထာတော်များဖြစ်၏။ တမန်တော် သင့်ထံသို့ သင်၏ အရှင်သခင်အထံတော်မှ ကျရောက်လာသောကျမ်းတော်သည် တရားတော်အစစ်အမှန်ဖြစ်၏။ သို့သော်လူသားတို့အနက် များပြားလှစွာသောသူတို့သည် မယုံကြည်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလစ်ဖ်၊ လာမ်၊ မီမ်၊ ရာ။ ဤသည်တို့ကား(ထွတ်မြတ်လှစွာသောကုရ်အာန်) ကျမ်းတော်မြတ်၏ ဒေသနာတော်များပင်တည်း။ စင်စစ်မူကား အသင့်ထံ အသင့်အားဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်အထံတော်မှ ကျရောက်လာသော တရားတော်များသည်(လုံးဝ)အမှန်ပင် ဖြစ်ချေသည်။သို့ရာတွင် လူသားတို့အနက် မြောက်မြားစွာသောသူများမူကားသက်ဝင်ယုံကြည်ကြသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

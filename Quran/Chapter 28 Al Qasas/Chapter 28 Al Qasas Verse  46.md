@@ -710,6 +710,12 @@ I ne be ti otkŭm planinata, kogato prizovakhme [Musa]. Ala e milost ot tvoya Go
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။	ထို့အပြင်ငါခေါ်တော်မူသောအခါ သင်တမန်တော်သည် တူစီနာတောင်အပါးတွင် မရှိချေ၊ သို့သော်ဤအကြောင်း အရာများသည် သိရခြင်းမှာ သင်၏အရှင်သခင်၏ ကောင်းကြီးမင်္ဂလာတော်တစ်ပါးပင်ဖြစ်၏၊ ဤအကြောင်းအရာ များမှာ သင်ပွင့်မလာမီ တမန်တော်တစ်ဦးတစ်ယောက်ကိုမျှ မရသေးသောလူမျိုးအား သင်သည် သတိပေး တရားအမြိုက်ဆေးကို တိုက်ကျွေးဖို့ရာဖြစ်၏၊ သို့ဟောပြောသွန်သင်လျှင် သူတို့သည် တရားအလင်းရောင်ကို ရကောင်းရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ငါအရှင်မြတ်သည်(မူစာအား)ဟစ်ခေါ်တော်မူခဲ့စဉ်အခါတွင် အသင်သည် ‘တွူရ်’ တောင်၏နံဘေး၌ ရှိခဲ့သည်လည်းမဟုတ်ပေ။ သို့ရာ တွင် အသင်သည် မိမိအားဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ကရုဏာတော်ဖြင့် အကြင်အမျိုးသားတို့အား သတိပေးနှိုးဆော်အံ့သောငှာ(နဗီတမန်တော်အဖြစ် ချီးမြှင့်တော်မူခြင်းကို ခံခဲ့ရလေသည်)။ထို အမျိုးသားတို့ထံ အသင့်အလျင် သတိပေးနှိုးဆော်သူ တစ်ဦးမျှပင် ရောက်ရှိ၍လာခဲ့သည် မဟုတ်ပေ။ သို့မှသာလျှင် ၎င်းတို့သည် တရားရကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

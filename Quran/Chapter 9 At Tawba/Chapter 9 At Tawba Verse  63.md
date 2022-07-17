@@ -710,6 +710,12 @@ Nima ne znayat, che koĭto se protivi na Allakh i na Negoviya Pratenik, za nego
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၃။	အကြင်သူသည် အလ္လာဟ်အရှင်မြတ်နှင့် အရှင်မြတ်၏ တမန်တော်ကို ဆန့်ကျင်လျှင် ထိုသူ၏ ဝေစုမှာ ငရဲ အမှန်ဖြစ်သည်ကို သူတို့မသိကြသလော။ထိုဘဝသည် အယုတ်ည့ံဆုံးအနိမ့်ကျဆုံးဖြစ်သည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် မည်သူမဆို အလ္လာဟ်အရှင်မြတ်အားလည်းကောင်း၊ ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော်မြတ်အားလည်းကောင်း၊ ဆန့်ကျင်ဖက်ပြုပါလျှင် မလွဲဧကန် ထိုသူ၏အဖို့ ငရဲမီးသာလျှင်ရှိ၍ ထိုငရဲမီးတွင် ထာဝစဉ်နေထိုင်လျက်ရှိချေမည်။ ဤကား ကြီးကျယ်လှစွာသော ကျိုးယုတ်ရှက် ရစေခြင်းပင် ဖြစ်သည်ကို ထိုမုနာဖစ်က်များသည် (ယခုထက်တိုင်)မသိကြသေးသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

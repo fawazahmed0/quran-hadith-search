@@ -710,6 +710,12 @@ Reche: “Za tova, che Ti me pogubi, shte gi debna po Tvoya prav pŭt
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	သူက အို-အသျှင်မြတ် အသျှင်သည် အကျွနု်ပ်အား လမ်းမှားသို့ ပို့ဆောင်တော်မူသောကြောင့် အကျွနု်ပ်သည် သူတို့အား အသျှင်၏လမ်းတော်တွင် ပုန်းလျှိုးတိုက်ခိုက်ပါမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ၎င်းအစ်ဗ်လီးစ်က (ဤသို့)လျှောက်ထားခဲ့လေ၏။ (အို-အရှင်) အရှင်မြတ်သည် ကျွန်တော်မျိုးအားလမ်းမှားစေတော်မူသောကြောင့် ကျွန်တော်မျိုးသည်လည်း ၎င်းတို့(အားလမ်းမှားစေရန်)အလို့ငှာ အရှင်မြတ်၏တရားလမ်းမှန်၌ မုချ(ပုန်းလျှိုးချောင်းမြောင်း၍)ထိုင်နေပါမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

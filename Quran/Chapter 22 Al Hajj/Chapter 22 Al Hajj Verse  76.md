@@ -710,6 +710,12 @@ Znae Toĭ kakvo e bilo predi tyakh i kakvo shte bŭde sled tyakh. Pri Allakh sh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၆။	အရှင်မြတ်သည် လူသားတို့၏အတိတ်၊ ပစ္စုပ္ပန်၊ အနာဂတ်ကာလသုံးပါးကို သိတော်မူ၏၊ အလ္လာဟ်အရှင်မြတ် အထံတော်သို့ ခပ်သိမ်းကုန်သောအရာတို့ကို ပြန်ပို့မည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် ၎င်းတို့၏ ရှေ့နောက် အဖြစ်အပျက် အလုံးစုံတို့ကို(အကြွင်းမဲ့)သိရှိတော်မူပေသည်။ စင်စစ်သော်ကား အရေးကိစ္စအဝဝတို့မှာ အလ္လာဟ်အရှင်မြတ် အထံတော်သို့ပင် ပြန်လည်ရောက်ရှိကြမည် သာတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

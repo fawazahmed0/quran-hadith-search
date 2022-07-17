@@ -710,6 +710,12 @@ No go vzekha za lŭzhets i gi obkhvana sŭtresenieto, i osŭmnakha bezzhizneni v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	သို့သော်ထိုမြို့နေလူတို့သည် တမန်တော်ကို မယုံကြည်ငြင်းဆန်ကြ၏၊ ထိုအခါအလွန်ပြင်းထန်ကြောက်မက်ဖွယ် သောမြေငလျင်လှုပ်၏၊ နံနက်မိုးသောက်သောအခါ ထိုသူတို့အား မိမိတို့တိုက်တာအိမ်ရာအတွင်း၌ ကျွမ်းထိုး မှောက်ခုံသေကြေပျက်စီးလျက် တွေ့ရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ၎င်းတို့သည် ထို’ရှုအိုက်ဗ်’အားမဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ်ခဲ့ကြကုန်၏။ သို့ဖြစ်ပေရာ မြေငလျင်သည် ၎င်းတို့အား ဖမ်းဆီးကွပ်မျက်ခဲ့လေရာ၊ ၎င်းတို့မှာ မိမိတို့နေအိမ်များ၌ မှောက်လျက်လဲနေသူများပင် ဖြစ်ခဲ့ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I kogato dvamata se podchinikha, i toĭ go polozhi po litse
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၃။	ယင်းသို့သားခမည်းနှစ်ဦးစလုံးပင် ငါ့အား ကျိုးနွံ၍ သားတော်ကို ယဇ်ပူဇော်ဖို့ရာ မြေပေါ်တွင် မှောက်လျက် လဲလျောင်းစေသောအခါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ထို(သားအဖ)နှစ်ပါးလုံးသည် အမိန့်တော်ကို လိုက်နာပြီး ထိုအီဗ်ရာဟီမ်သည် (လှီးဖြတ်ရန်)ထိုသားတော်အား မှောက်လျက် လှဲခဲ့လေ သောအခါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

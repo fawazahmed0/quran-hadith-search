@@ -710,6 +710,12 @@ I kogato bŭdat prizovani kŭm Allakh i kŭm Negoviya Pratenik, za da ot·sŭdi 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	ထို့အပြင်ထိုသူတို့သည် မိမိတို့အလည်ကြား၌ တရားမှန်ကန်စွာဆုံးဖြတ်စီရင်ရန် အလ္လာဟ်အရှင်မြတ်နှင့် တမန် တော်ကို တောင်းပန်လျှောက်ထားသောအခါ သူတို့အနက်လူတစ်စုသည် အမှန်ပင်မနှစ်သက်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုသူတို့သည် အလ္လာဟ်အရှင်မြတ် အထံတော်သို့လည်းကောင်း၊ ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော်မြတ်ထံသို့လည်းကောင်း၊ ထိုရစူလ်တမန်တော်မြတ်သည် ၎င်းတို့အကြား၌ စီရင်ဆုံးဖြတ်ပေးတော်မူအံ့သောငှာ အခေါ်ခံကြရသောအခါ ၎င်းတို့အနက် လူတစ်စုသည် ရုတ်တရက် လွှဲရှောင်သွားကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

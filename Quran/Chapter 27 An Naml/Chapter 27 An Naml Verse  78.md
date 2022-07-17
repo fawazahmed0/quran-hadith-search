@@ -710,6 +710,12 @@ Tvoyat Gospod shte ot·sŭdi pomezhdu im sŭs Svoeto reshenie. Toĭ e Vsemogŭs
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၈။	သင်၏အရှင်သခင်သည် သူတို့၏အလယ်ကြားတွင် သဗ္ဗညုတဉာာဏ်တော်အားဖြင့် စီရင်ဆုံးဖြတ်တော်မူလိမ့်မည်၊ အရှင်မြတ်သည် အနန္တတန်ခိုးတော်သခင်၊ သဗ္ဗညုတဉာာဏ်တော်ရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မလွဲဧကန် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် ၎င်းတို့၏အကြားဝယ်၊ မိမိ အမိန့်တော်ဖြင့် စီရင်ဆုံးဖြတ်တော်မူပေမည်။ စင်စစ်သော်ကား ထိုအရှင်မြတ်သည် အလွန်တရာ လွှမ်းမိုးတော်မူသောအရှင်၊ အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့သိရှိတော်မူသောအရှင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

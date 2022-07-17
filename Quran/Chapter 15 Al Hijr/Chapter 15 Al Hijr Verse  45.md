@@ -710,6 +710,12 @@ Bogoboyazlivite shte bŭdat sred gradini i izvori
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	မှတ်သားကြလော့။ ဒုစရိုက်အပြစ်များကို ရှောင်ကြဉ်သူတို့မူကာ ဥယျာဉ်များနှင့် စိမ့်စမ်းများတို့အတွင်း၌ ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ သူတော်စင် သူတော်မြတ်တို့မှာမူကား ဥယျာဉ်များ၌လည်းကောင်း၊ စိမ့်စမ်းများ၌လည်း ကောင်း၊ရှိကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

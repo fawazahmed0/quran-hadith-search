@@ -710,6 +710,12 @@ I gi sledva proklyatie na tozi svyat i v Denya na vŭzkresenieto. Da, aditite ot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆ဝ။	ထို့ကြောင့်ကျိန်ဆဲတော်မူခြင်းကို သူတို့အား ဤဘဝတွင်သော်လည်းကောင်း၊ ရှင်ပြန်ထမြောက်ရသောနေ့တော် ကြီးတွင်လည်းကောင်း၊ နောက်က ထက်ကြပ်မကွာလိုက်စေတော်မူ၏။ မှတ်သားကြလော့၊ အားဒ်လူမျိုးတို့သည် သူတို့၏ အရှင်သခင်အား မယုံကြည်ကြချေ။ ထို့ကြောင့်တမန်တော်ဟုဒ်၏ အမျိုးသားအားဒ်လူမျိုးကို သုတ်သင် ရှင်းလင်းတော်မူလေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ၎င်းတို့သည် ဤပစ္စုပ္ပန်မျက်မှောက်လောကီဘဝ၌လည်းကောင်း၊ ကိယာမတ်ရှင်ပြန်ထရမည့် နေ့တွင်လည်း ကောင်း၊ ကရုဏာတော်မှ ကင်းဝေးစေခြင်းကို(မိမိတို့)နောက်မှ ထက်ကြပ်မကွာလိုက်စေခြင်းကို ခံခဲ့ကြရလေသည်။သတိပြုကြလေကုန်။ ဧကန်မလွဲ အာဒ် အမျိုးသားတို့သည်မိမိတို့အရှင်မြတ်အား ငြင်းပယ်ခဲ့ကြလေသည်။ သတိပြုကြလေကုန်။ (နဗီတမန်တော်)ဟူဒ်၏အမျိုးသားများဖြစ်ကုန်သောအာဒ်အမျိုးသားတို့၌ (ကရုဏာတော်မှ)ကင်းဝေးခြင်းသည်ရှိစေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

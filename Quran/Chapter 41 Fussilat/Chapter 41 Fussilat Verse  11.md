@@ -710,6 +710,12 @@ Posle se nasochi kŭm [sŭtvoryavaneto na] nebeto, a to be dim, i reche na nego 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	ထို့နောက်အရှင်မြတ်သည် ကောင်းကင်ဘက်သို့ လှည့်တော်မူ၏၊ ကောင်းကင်သည် မီးခိုးကဲ့သို့ ရှိနေ၏၊ ထိုအခါအရှင်မြတ်သည် မိုးနှင့်မြေအား အို-မိုးမြေတို့၊ သင်တို့သည် နှစ်သက်သည်ဖြစ်စေ၊ မနှစ်သက်သည် ဖြစ်စေ၊ အတူတကွလာကြလော့ဟု မိန့်တော်မူ၏၊ ထိုအခါ မိုးနှင့်မြေကို အို-အရှင်မြတ်၊ အကျွနု်ပ်တို့သည် အမိန့်တော်ကို နာခံ၍ လာကြပါသည်ဟု လျှောက်ထားကြကုန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ထိုအရှင်မြတ်သည် မိုးကောင်းကင်ဘက်သို့ လှည့်တော်မူခဲ့၏။ ထိုအချိန်တွင် ယင်း မိုးကောင်းကင်သည် မီးခိုးအခိုးအငွေ့သာ ဖြစ်နေခဲ့၏။ ထိုအခါ အရှင်မြတ်သည် ယင်းမိုးကောင်းကင်ကိုလည်းကောင်း၊ ပထဝီမြေကိုလည်းကောင်း၊ အသင်တို့ ကျေနပ်စွာဖြစ်စေ၊ ကျေနပ်ပဲဖြစ်စေ၊လာကြလေကုန်ဟု မိန့်ကြားတော်မူခဲ့ရာ ယင်းမိုးကောင်းကင်နှင့်ပထဝီမြေတို့က ကျွန်တော်မျိုးတို့သည် ကျေနပ်စွာ လာခဲ့ကြပါပြီဟု လျှောက်ထားခဲ့ကြလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

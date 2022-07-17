@@ -710,6 +710,12 @@ Ti ne be otkŭm zapadnata strana [na planinata, o, Mukhammad], kogato dadokhme n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	အို--မိုဟမ္မဒ်၊ ငါသည် တမန်တော်မူစာအား ပညတ်ဗျာဒိတ်တော်ကို ရှင်းလင်းဖော်ပြတော်မူသောအခါ၌ တူစီနာတောင်၏ အနောက်ဘက်တွင် သင်မရှိချေ၊ ထိုအခါရှိသောသူတို့အထဲတွင် သင်မရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား (အို-တမန်တော်၊) ငါအရှင်မြတ်သည် မူစာ၏ထံသို့ အမိန့်တော်(များ)ကို ထုတ်ပြန်တော်မူခဲ့စဉ်အခါ၌ အသင်သည် (တောင်၏) အနောက်ဘက်အရပ်၌ ရှိခဲ့သည်လည်းမဟုတ်ပေ။ ထိုနည်းတူစွာ အသင်သည် ကြည့်ရှုသောသူတို့တွင် အပါအဝင် ဖြစ်ခဲ့သည်လည်း မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

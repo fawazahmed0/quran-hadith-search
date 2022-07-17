@@ -710,6 +710,12 @@ Allakh shte vŭvede onezi, koito vyarvat i vŭrshat pravedni dela, v Gradinite, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် ယုံကြည်၍ ကောင်းမှုပွားများသူတို့အား သုခဘုံဥယျာဉ် တော်များ အတွင်း ဝင်စေတော်မူမည်၊ ထိုဥယျာဉ်တော်များအောက်တွင် စိမ့်စမ်းချောင်းမြောင်းအယဉ်အထွေထွေစီးဆင်း လျက်ရှိ၏၊ သုခဘုံတွင် သူတို့သည် ရွှေလက်ကောက်ပုလဲရတနာနှင့် ပိုးဖဲအဝတ်အစားများကို ဆင်မြန်းကြ ရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် သက်ဝင်ယုံကြည်ခဲ့ကြသည့်ပြင် ကောင်းမြတ်သော အကျင့်သီလများကိုလည်း ကျင့်မူဆောက်တည်ခဲ့ကြကုန်သော သူတို့အား အကြင်ဥယျာဉ်များသို့ ဝင်ရောက်စေတော် မူပေမည်။ ထိုဥယျာဉ်များအောက်မှ ချောင်းများ စီးတွေလျက် ရှိကြပေမည်။ ထိုသူသည် ယင်းဥယျာဉ်များတွင် ရွှေလက်ကောက်(လက်မောင်းပတ်)များဖြင့်လည်း ကောင်း၊ ပုလဲများဖြင့်လည်းကောင်း တန်ဆာဆင်ယင်ပေးခြင်းကို ခံကြရပေမည်။ ထိုမှတစ်ပါး ယင်းဥယျာဉ်များတွင် ၎င်းတို့၏ဝတ်စားတန်ဆာများသည် ပိုးအဝတ်များပင်ဖြစ်ချေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

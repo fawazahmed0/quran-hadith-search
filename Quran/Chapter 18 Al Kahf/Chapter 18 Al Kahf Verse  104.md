@@ -710,6 +710,12 @@ onezi, chieto staranie v zemniya zhivot se pogubva, a te si mislyat, che vŭrsha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၄။	မိမိ၏ ကြိုးပမ်းမှုသည် ဤလောကီဘဝ၌ လမ်းမှားသွားငြားသော်လည်း မိမိတို့သည် ကောင်းမှုကို ပွားများ နေသည်ဟု ထင်မှတ်သူများ။း
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုသူကား) အကြင်သူများပင်တည်း။ [၎င်းတို့၏(ကောင်းမှုကုသိုလ်များနှင့်စပ်လျဉ်းသော)ကြိုးပမ်းဆောင်ရွက်မှုသည် လောကီဘဝ၌ပင် အချည်းနှီးဖြစ်ခဲ့ရလေပြီ၊] [(တစ်နည်း) ၎င်းတို့၏ လောကီဘဝနှင့်စပ်လျဉ်းသော ကြိုးပမ်းဆောင်ရွက်မှုသည် အချည်းနှီးပင် ဖြစ်ခဲ့လေပြီ၊] [(တစ်နည်း)၎င်းတို့၏ ကြိုးပမ်းဆောင်ရွက်မှုသည် လောကီရေး၌ပင် ပျက်ပြုန်းခဲ့ရချေပြီ၊] သို့ပါလျှက် ၎င်းတို့သည် ဧကန်အမှန် မိမိတို့မှာကောင်းမြတ်သောအပြုအမူများ ကိုပင် ပြုလုပ်နေကြသည်ဟုထင်မှတ်ကြ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

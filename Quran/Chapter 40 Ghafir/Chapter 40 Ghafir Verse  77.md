@@ -710,6 +710,12 @@ Zatova bŭdi tŭrpeliv [o, Mukhammad]! Obeshtanieto na Allakh e istinno. I da ti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၇။	အေ-တမန်တော်၊ သည်းခံခြင်းတရားရှိလော့၊ အလ္လာဟ်အရှင်မြတ်၏ ဂတိသစ္စာတော်သည် မုချဧကန်မှန်ကန်၏၊ အကယ်၍ ငါအရှင်မြတ်သည် မိစ္ဆာဒိဋ္ဌိတို့အား ထားတော်မူသောကတိသစ္စာအချို့ကို သင့်အား ပြသတော်မူသည် ဖြစ်စေ၊ သို့မဟုတ် ပြသတော်မမူမီ သင့်အား ကံကုန်စေတော်မူသည်ဖြစ်စေ၊ သူတို့အားလုံးသည် ငါ့အထံတော်သို့ ပြန်ကြရမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်) အသင်သည် သည်းခံပါလေ။ ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်၏ ကတိပြုတော်မူချက်သည် မှန်ကန်သော ကတိပြုချက်ပင်ဖြစ်၏။ ထို့နောက် အကယ်၍ ငါအရှင်မြတ်သည် ၎င်းတို့အား ငါအရှင်မြတ် ချိန်းချက်တော်မူသည်များအနက် အချို့ကို အသင့်အား ပြသတော်မူသည်ဖြစ်စေ၊ အသင့်အား သေဆုံးစေတော်မူသည်ဖြစ်စေ၊ မည်သို့ပင်ဖြစ်စေ၊ ၎င်းတို့မှာမူကား ငါအရှင်မြတ်အထံတော်သို့ ပြန်လာကြရမည်သာတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

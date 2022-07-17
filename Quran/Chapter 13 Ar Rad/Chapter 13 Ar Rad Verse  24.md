@@ -710,6 +710,12 @@ Selam neka je vama, zato što ste trpjeli, a divan li je ishod nakon dunjaluka
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	ထိုကောင်းကင်တမန်တော်တို့က သင်တို့သည် ကြိုးစားအားထုတ်ခဲ့သောကြောင့် သင်တို့အပေါ်သို့ အေးချမ်း သာယာခြင်းသက်ရောက်ပါစေသော်ဝ်။ နိဗ္ဗာန်ဘုံနန်းသည် အလွန်မြင့်မြတ်သာယာချေ၏ဟု နှုတ်ဆက်စကား ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ယင်းမလာအိကဟ် ကောင်းကင်တမန်များသည် ၎င်းတို့ထံဝင်ရောက်ကြသောအခါ ဤသို့နှုတ်ခွန်းဆက်သပြောဆိုကြမည်ဖြစ်၏)။ အသင်တို့သည်(လောကီဘဝ၌)ခန္တီတရားထားရှိ၍ တည်တံ့ကြံ့ခိုင်စွာ ရှိခဲ့ကြသည့်အတွက် ငြိမ်းချမ်း သာယာမှုသည် အသင်တို့အပေါ်၌ ကျရောက်ပါစေသား။ဤ တမလွန်ဘဝ၌ (အသင်တို့ခံစားကြရမည့်)အကျိုးသည်အလွန် ကောင်းမြတ်လှပေသည်တကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

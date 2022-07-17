@@ -710,6 +710,12 @@ Shte ti dadem da chetesh [Korana, o, Mukhammad] i ne shte zabravish
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။ အို-တမန်တော်၊ သင်သည် ဤကုရ်အာန်ကျမ်းမြတ်ကို မမေ့မလျော့စေခြင်းငှာ ငါသည် သင့်အား သွန်သင်ပြသ တော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်၊)မုချဧကန် ငါအရှင်မြတ်သည် အသင့်အား ရွတ်ဖတ်စေတော်မူမည်၊ သို့ဖြစ်လျှင် အသင်သည် မေ့လျော့မည် မဟုတ်တော့ပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

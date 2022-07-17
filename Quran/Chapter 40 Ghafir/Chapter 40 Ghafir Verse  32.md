@@ -710,6 +710,12 @@ O, narode moĭ, strakhuvam se za vas ot Denya na priziva
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	အို-အချင်းတို့၊ ငါသည် သင်တို့ကို ဆင့်ခေါ်တော်မူမည့်နေ့တော်ကြီးကို ကြောက်လှပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အို-ကျွန်ုပ်၏အမျိုးသားတို့၊ ဧကန်မလွဲ ကျွန်ုပ်သည် အသင်တို့နှင့်ပတ်သက်၍ ဟစ်အော်မည့်နေ့(၏အပြစ်ဒဏ်)ကိုလည်းစိုးရိမ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

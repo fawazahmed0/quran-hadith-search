@@ -710,6 +710,12 @@ I rekokha [nevernitsite]: “O, ti, komuto be nizposlano Napomnyaneto, ti si lud
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	ထို့အပြင် သူတို့က အို-ကျမ်းတော်ချပေးခြင်းခံရသူ၊ သင်သည် ရူးသွပ်သူအမှန်ပင် ဖြစ်သည်ဟု ပြောဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (အို-နဗီတမန်တော်) ထို (ကာဖိရ်သွေဖည်ငြင်းပယ်သော)သူတို့က (အသင့်အား) အို-ဆုံးမဩဝါဒ(ကုရ်အာန်ကျမ်းတော်မြတ်)ချပေးသနားတော်မူခြင်းခံရသောသူဧကန်စင်စစ် အသင်သည် အမှန်ပင် စိတ်ဖောက်ပြန်သူဖြစ်သည်ဟု ပြောဆိုခဲ့ကြသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

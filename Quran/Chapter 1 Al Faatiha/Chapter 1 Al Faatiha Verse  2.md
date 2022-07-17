@@ -710,6 +710,12 @@ Khvala na Allakh - Gospoda na svetovete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+အလ္လာဟ်သည် ချီးမွမ်းခြင်းတည်ရာ၊ အနန္တစကြဝဠာသခင်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ချီးမွမ်းထောမနာခြင်း ဟူဟူသမျှသည် စကြာဝဠာ အပေါင်းတို့ကို (မဖြစ်ပေါ်မီကစ၍ ပြည့်စုံပြီးစီးသည့်တိုင်အောင် အဆင့်ဆင့်) ပြုစု ပျိုးထောင်တော်မူသော အလ္လာဟ်အရှင်မြတ် အဖို့သာတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Shte rekat: “Prestoyakhme den ili chast ot denya. Pitaĭ otbroyavashtite [ang
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၃။	သူတို့က အကျွနု်ပ်တို့သည် တစ်နေ့(သို့မဟုတ်)နေ့တစ်ဝက်အချို့မျှသာနေခဲ့ရပါ၏၊ စာရင်းအင်းထားသူတို့အား မေးတော်မူပါဟု လျှောက်ထားကြလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ၎င်းတို့က ကျွန်တော်မျိုးတို့သည် တစ်နေ့တိတိသော်လည်းကောင်း၊ တစ်နေ့လျော့လျော့သော်လည်းကောင်း၊ နေခဲ့ကြပါသည်။ သို့ပါ၍ အရှင်မြတ်သည် ရေတွက်သူ(များဖြစ်ကြသော "မလာအိကဟ်" ကောင်းကင်တမန်) တို့ အား မေးမြန်း၍ ကြည့်တော်မူပါဟု လျှောက်ထားကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A chiito vezni oleknat - tezi sa, koito svoite dushi sa oshtetili, zashtoto poga
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	အကြင်သူတို့၏ချိန်ခွက်သည် ပေါ့အံ့။ ထိုသူတို့သည် ငါ၏နှုတ်ကပတ်တော်များကို မယုံကြည်သဖြင့် မိမိတို့၏ ဝိညာဉ်ကို ဆုံးရှုံးသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင်မူကား၊ အကြင်သူ၏ အလေးချိန်သည်အချိန်ပေါ့ပါးအံ့။ ထို(ကဲ့သို့သော)သူတို့ သည်သာလျှင်မိမိတို့ကိုယ်ကို (မိမိတို့ပင်) နစ်နာဆုံးရှုံးအောင် ပြုလုပ်ခဲ့သောသူများဖြစ်ကြ၏။ အကြောင်းမူကား ၎င်းတို့သည် ငါအရှင်မြတ်၏သက်သေလက္ခဏာများနှင့် စပ်လျဉ်း၍ မတရား ပြုလုပ်ခဲ့သောကြောင့်ပင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

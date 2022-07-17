@@ -710,6 +710,12 @@ I opazil me moyat Gospod i vashiyat Gospod, da ne me prebiete s kamŭni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	မှတ်သားကြလော့၊ သင်တို့သည် ငါ့ကို ခဲပေါက်၍ သတ်ခြင်းကို မပြုစေခြင်းငှာ ငါသည် ငါ၏အရှင်သခင်၊ သင်တို့၏အရှင်သခင်၌ ခိုလှုံ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ ၎င်းတို့သည် ကျောက်ခဲများဖြင့် ပစ်ပေါက်၍သတ်ကြရန် ခြိမ်းခြောက်ရာ ထိုရစူလ် တမန်တော်က ဤသို့ပြောကြားခဲ့၏) ၎င်းပြင် ဧကန်အမှန် ငါသည် အသင်တို့ ငါ့အား ကျောက်ခဲများဖြင့် ပစ်ပေါက်၍ သတ်ကြမည်ကိုစိုး၍ ငါ့အားလည်းကောင်း၊ အသင်တို့အားလည်းကောင်း၊ ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်၌ အကွယ်အကာယူထားပြီး ဖြစ်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

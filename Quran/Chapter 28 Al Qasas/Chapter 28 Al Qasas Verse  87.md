@@ -710,6 +710,12 @@ I da ne te vŭzpirat ot znameniyata na Allakh, sled kato sa ti nizposlani! I pri
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၇။	တမန်တော် အရှင်မြတ်၏နှုတ်ကပတ်တော်များမှ သင့်ထံသို့ ကျရောက်လာပြီးမှ မိစ္ဆာယုတ်တို့သည် သင့်အား ထိုနှုတ်ကပတ်တော်များမှ လှည့်မသွားအောင် မလှည့်စားစေလင့်၊ သို့သော်လူသားတို့အား သင်၏အရှင်သခင် ဘက်တော်သို့ ဖိတ်ခေါ်လော့၊ အရှင်မြတ်အား ဘက်စပ်သူတို့ဘောင်တွင် သင်မပါဝင်လင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အသင့်ထံသို့ အလ္လာဟ်အရှင်မြတ်၏အမိန့်တော်များ ကျရောက်လာခဲ့ပြီးနောက်၊ ၎င်းတို့သည် အသင့်အား ထိုအမိန့်တော်များမှ လုံးဝတားဆီးခြင်း မပြုကြစေနှင့်။ ထိုမှတစ်ပါး အသင်သည် မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်ဘက်သို့(လူတို့အား) ဖိတ်ခေါ်လျက်ရှိပါလေ။၎င်းပြင် အသင်သည်’မုရှ်ရစ်က်’တစ်စုံတစ်ရာကို အလ္လာဟ်အရှင်မြတ်နှင့်တွဲဖက် နှိုင်းယှဉ်ကိုးကွယ်ကြသော သူတို့တွင် အပါအဝင် အလျှင်း မဖြစ်ပါလေနှင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

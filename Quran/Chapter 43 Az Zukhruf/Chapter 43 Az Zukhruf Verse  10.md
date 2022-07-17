@@ -710,6 +710,12 @@ Koĭto stori zemyata postelya za vas i prokara tam pŭtishta, za da se napŭtit
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	အရှင်မြတ်သည် သင်တို့အဖို့အရာ ကမ္ဘာမြေကို အမောဖြေရာစခန်းဖြစ်စေတော်မူ၏၊ ထိုမြေပေါ်၌ သင်တို့သွား လိုရာအရပ်သို့ လွယ်လင့်တကူသွားလာရောက်ပေါက်နိုင်စေရန် အလို့ငှာ ယင်းသို့ဖန်ဆင်းတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်အရှင်မြတ်ပင်။ ထိုအရှင်မြတ်သည် အသင်တို့အဖို့ ပထဝီမြေကို အခင်းပြုလုပ်တော်မူခဲ့၏။ ၎င်းပြင် ထိုအရှင်မြတ်သည် အသင်တို့အဖို့ ယင်းပထဝီမြေ၌ အသင်တို့သည် (မိမိတို့လိုရာခရီးများကို လွယ်ကူစွာသွားနိုင်ရန်) လမ်းမှန်ကို ရရှိကြအံ့သောငှာ လမ်းပမ်းများကို ပြုလုပ်၍ ပေးတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

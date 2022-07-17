@@ -710,6 +710,12 @@ Nosyat v sŭrtsata si bolest i im nadbavi Allakh bolest. Za tyakh ima bolezneno 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	သူတို့၏ စိတ်နှလုံးတွင် ဝေဒနာစွဲကပ်နေ၏။ အလ္လာဟ်အရှင်မြတ်သည် သူတို့၏ဝေဒနာကို တိုးစေ တော်မူ၏။ သူတို့သည် မုသားစကားဆိုသောကြောင့် သူတို့၏အပြစ်၏ဏ်သည် အလွန်ပြင်းပြ နာကျင်ဖွယ်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(မုစ်လင်(မ်) အသွင်ဆောင်သော) သူများ၏ စိတ်နှလုံးများ၌ (မနာလိုဝန်တို ဣဿာ၊ မစ္ဆရိယ ) တည်းဟူသော ရောဂါဝေနာသည် စွဲကပ် လျက်ရှိ၏။ သို့ဖြစ်လေရာ အလ္လာဟ်အရှင်မြတ်သည် ထိုသူတို့၏ရောဂါကို တိုးပွားစေတော်မူ၏။ ထိုမှတပါးတုံ ထိုသူများအဖို့ (ဆင်းရဲကြီးစွာ ခံစားရန်) ပြင်းပြနာကျင်ဘွယ်ကောင်းသော အပြစ်ဒဏ်ကိုလည်း အသင့်ထားရှိတော် မူလေ၏။ အဘယ်ကြောင့်ဆိုသော် ထိုသူများသည် (မယုံကြည်ဘဲလျက် ကျွန်ုပ်တို့ယုံကြည်ကြပါ၏ ဟု) မဟုတ်မလျား မုသား ပြောဆိုလေ့ ရှိခြင်းကြောင့်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

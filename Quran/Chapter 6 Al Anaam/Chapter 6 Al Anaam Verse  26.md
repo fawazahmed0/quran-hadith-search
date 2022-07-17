@@ -710,6 +710,12 @@ I vŭzpirat ot nego [- Pratenika], i se otdalechavat ot nego, no pogubvat samo s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	ထို့ပြင် သူတို့သည် လူသားတို့အား ကုရ်အာန်ကျမ်းတော်မှ တားမြစ်ပိတ်ပင်ကြ၏။ သူတို့သည် ကျမ်းတော်ကို ရှောင်ရှားကြ၏။ သူတို့သည် မိမိတို့မှတစ်ပါး မည်သူကိုမျှ မဖျက်ဆီးကြပေ။ သို့သော် သူတို့သည် မသိမမြင်ကြပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ယင်းသူတို့သည်(သူတစ်ပါးတို့ကိုလည်း)ထိုကုရ်အာန်ကျမ်းတော်မြတ်(ကိုနားဆင်ခြင်း)မှ တားမြစ်ကြကုန်၏။ မိမိတို့ကိုယ်တိုင်လည်း ယင်း ကုရ်အာန်ကျမ်းမြတ်(ကိုနားဆင်ခြင်း) မှ (ဝေးစွာ) ကြဉ်ရှောင်ကြကုန်၏။ စင်စစ်သော်ကား ထိုသူတို့သည် မိမိတို့ကိုယ်သာ ပျက်စီးကုန်၏။ သို့ရာတွင် ၎င်းတို့သည် (ဤမျှပင်) မသိတတ်ကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

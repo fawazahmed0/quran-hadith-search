@@ -710,6 +710,12 @@ I nadprevarvaĭte se kŭm oproshtenie ot svoya Gospod i kŭm Gradinata s shirin
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၃။	သင်တို့သည် မိမိတို့၏အသျှင်သခင်ထံတော်မှ အပြစ်လွှတ်ခြင်းကျေးဇူးတော်ကိုရရန်နှင့် သုခဥယျာဉ်တော်သို့ဝင်ရအောင် အချင်းချင်း ပြိုင်ဆိုင်ကြိုးပန်းကြလော့။ သုခဘုံတော်သည် မိုးမြေအမျှ ကျယ်ဝန်း၍ ဒုစရိုက်မှုကို ရှောင်ရှားသော သူတော်ကောင်းတို့အဖို့အရာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုပြင်တဝ အသင်တို့သည် မိမိတို့၏ အရှင်မြတ်၏အထံတော်မှဖြစ်သာ အပြစ်မှ ချမ်းသာ ပေးသနားတော်မူရာသို့လည်းကောင်း၊ ဂျန္နတ် အမတ သုခဘုံသို့လည်းကောင်း၊သူ့ထက်ငါသာအောင် လျင်မြန်စွာ ပြေးလာကြကုန်လော့။ ထိုဂျန္နတ် အမတသုခဘုံ၏ အကျယ်အဝန်းကား မိုးကောင်ကင်များနှင့် ပထဝီမြေပြင်(တမျှ) ဖြစ်၏။ ထို ဂျန္နတ် အမတသုခဘုံသည် ပြစ်မှုဒုစရိုက်တို့မှ ကြဉ်ရှောင် ကြကုန်သောမွတ္တကီ သူတော်စင်များအဖို့ အသင့်ပြင်ဆင်ထားပြီးဖြစ်လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

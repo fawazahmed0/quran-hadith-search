@@ -710,6 +710,12 @@ a za napomnyane na vseki, koĭto se strakhuva [ot Allakh]
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	သို့သော်အလ္လာဟ်အရှင်မြတ်ကို ကြောက်ရွံ့ရိုသေသူတို့အား သတိပေးဆုံးမဖို့ရာဖြစ်သည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်မှာမူကား (ဤကုရ်အာန်ကျမ်းတော်မြတ်သည် ငါအရှင်မြတ်အား) ကြောက်ရွံ့ (ရိုသေသော) သူ၏အဖို့ဆုံးမဩဝါဒပင် ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

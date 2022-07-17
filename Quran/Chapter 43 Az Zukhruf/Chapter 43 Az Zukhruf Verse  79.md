@@ -710,6 +710,12 @@ Nima [nevernitsite] neshto drugo sa reshili? No Nie sŭshto sme reshili
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၉။	မိစ္ဆာဒိဋ္ဌိတို့သည် တမန်တော်ကို ဆန့်ကျင်ဖို့ရာ အကြံအစည်ထုတ်ကြသလော၊ မှတ်သားကြလော့၊ ငါလည်း ကြံစည်နေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် အရေးကိစ္စ တစ်စုံတစ်ရာကို စီမံပြဋ္ဌာန်းပြီး ဖြစ်ခဲ့ကြလေသလော။ သို့ဖြစ်လျှင် မလွဲဧကန် ငါအရှင်မြတ်သည်လည်း စီမံပြဋ္ဌာန်းတော်မူမည်ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

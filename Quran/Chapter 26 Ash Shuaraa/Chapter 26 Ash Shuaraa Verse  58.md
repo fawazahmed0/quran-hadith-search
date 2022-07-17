@@ -710,6 +710,12 @@ i ot sŭkrovishta, i ot znatno myasto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈။	ထို့အပြင်၎င်းတို့ကို ၎င်းတို့၏ပစ္စည်းဥစ္စာရတနာများစွာတို့နှင့် ကြီးကျယ်ခမ်းနားသောတိုက်တာအိမ်ယာတို့အတွင်း မှလည်း နှင်ထုတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ ဘဏ္ဍာများမှလည်းကောင်း၊ ခမ်းနားသိုက်မြိုက်လှစွာသော နေအိမ်များမှလည်းကောင်း၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

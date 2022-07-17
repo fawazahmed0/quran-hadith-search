@@ -710,6 +710,12 @@ I s tyakh, i s korabite se prevozvate
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	ထိုတိရိစ္ဆာန်များ၏ ကျောကုန်းပေါ်နှင့် လှေသင်္ဘောတို့၏ အပေါ်တွင် သင်တို့စီးနင်း၍ သွားလိုရာသွားလာကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်တို့သည် ယင်းတိရစ္ဆာန်များပေါ်၌လည်းကောင်း၊ သင်္ဘောများပေါ်၌လည်းကောင်း၊ စီးနင်း (သွားလာ တင်ဆောင်)ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

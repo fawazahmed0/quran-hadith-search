@@ -710,6 +710,12 @@ Ne shte se sdobiete s pravednostta, dodeto ne razdadete ot onova, koeto obichate
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၂။	သင်တို့သည် မိမိတို့မြတ်နိုးသော ဥစ္စာပစ္စည်းများမှ မပေးကမ်းမစွန့်ကြဲသမျှ ကာလပတ်လုံး အသျှင်မြတ်နှင့် တရားတော်ကို ကြည်ညိုသည့် ကောင်းမြတ်ခြင်းကိုရမည်မဟုတ်။ သင်တို့ လှူဒါန်းသမျှကို အလ္လာဟ်အသျှင်မြတ်သည် သိမြင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-မုစ်လင်မ်အပေါင်းတို့) အသင်တို့သည်မိမိတို့ နှစ်သက်ကြကုန်သော ဥစ္စာပစ္စည်းများအနက်မှ၊လှူဒါန်းသုံးစွဲခြင်း မပြုသမျှ ကာလပတ်လုံး၊ မြင့်မြတ်သောအကျင့်တရားအစစ် အမှန်(၏ အကျိုးကျေးဇူး) ကိုမည်သည့်နည်းနှင့်မျှ ရယူနိုင်ကြမည် မဟုတ်ပေ။ ၎င်းပြင်မည်သည့်အရာမဆို အသင်တို့ လှူဒါန်း သုံးစွဲကြပါမူ၊အလ္လာဟ်အရှင်မြတ်သည် ထိုအရာကို အကြွင်းမဲ့သိတော်မူသောအရှင် ဖြစ်တော်မူသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I e vse edno dali gi preduprezhdavash ili ne gi preduprezhdavash, te ne vyarvat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	ထိုသူယုတ်များအား သင်သည် သွန်သင်ဆုံးမသည်ဖြစ်စေ၊ မဆုံးမသည်ဖြစ်စေ၊ မထူးချေ၊ သူတို့သည် မယုံကြည် ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် (အို-နဗီတမန်တော်၊) အသင်သည် ၎င်းတို့အား သတိပေး နှိုးဆော်ခဲ့သည်ဖြစ်စေ၊ သတိပေး နှိုးဆော်ခြင်းမပြုခဲ့သည်ဖြစ်စေ၊ ၎င်းတို့အဖို့ အကြောင်းမထူးပြီ၊ ၎င်းတို့သည် "အီမာန်" သက်ဝင် ယုံကြည်ကြတော့မည် မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

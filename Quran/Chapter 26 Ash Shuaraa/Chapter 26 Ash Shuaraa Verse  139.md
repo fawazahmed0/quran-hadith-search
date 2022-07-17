@@ -710,6 +710,12 @@ I go vzekha za lŭzhets, i gi pogubikhme. V tova ima znamenie, no povecheto ot t
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၉။	ထိုသူတို့သည် သူ့ကို ငြင်းဆန်ကြ၏၊ ထို့ကြောင့်ငါသည် သူတို့အား သုတ်သင်ရှင်းလင်းတော်မူ၏၊ မှတ်သား ကြလော့၊ ဤအကြောင်းအရာများတွင် နိမိတ်လက္ခဏာထူးအမှန်ပါရှိ၏၊ သို့သော်သူတို့အနက်များပြားလှသော သူတို့သည် ယုံကြည်သူများမဟုတ်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အချုပ်မှာ ၎င်းအမျိုးသားတို့သည် ထိုဟူဒ်အား မဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ်ခဲ့ကြပေရာ ငါအရှင်မြတ်သည် ထိုအမျိုးသားတို့အား ပြင်းထန်လှစွာသော လေပြင်းမုန်တိုင်းဖြင့် ကွပ်မျက်ဖျက်ဆီးတော်မူခဲ့၏။ ဧကန်မလွဲ ဤသည့်ဖြစ်ရပ်၌လည်း (ကြီးကျယ်လှစွာသော) သင်ခန်းစာ ရှိပေ၏။ သို့ရာတွင် ၎င်းတို့(မက္ကာမြို့သားကာဖိရ်များ)အနက် အများဆုံးသော သူတို့မှာကား သက်ဝင်ယုံကြည်မည့်သူများ မဟုတ်ကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

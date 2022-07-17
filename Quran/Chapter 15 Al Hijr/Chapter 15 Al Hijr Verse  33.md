@@ -710,6 +710,12 @@ Reche: “Ne mi podobava da se poklonya na chovek, kogoto Ti sŭtvori ot izsŭkh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	အီဗလစ်က အရှင်မြတ်၊ ရွှံ့မြေစေးမှ ဖန်ဆင်းတော်မူသောလူသားကို အကျွနု်ပ်သည် အဘယ်ကြောင့်ပျပ်ဝပ် ဦးချရပါမည်နည်းဟု တင်လျှောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ယင်းအီဗ်လီစ်က ကျွန်တော်မျိုးသည်အရှင်မြတ်က ပုံသွင်းထားသော အသံမြည်သောရွှံ့ပုပ် ဖြင့်ဖန်ဆင်းတော်မူခဲ့သောလူသားအား ပျပ်ဝပ်ဦးချ မည့်သူမဟုတ်ဟု လျှောက်ထားခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

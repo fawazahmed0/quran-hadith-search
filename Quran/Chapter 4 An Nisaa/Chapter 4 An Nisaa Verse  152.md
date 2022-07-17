@@ -710,6 +710,12 @@ Na tezi, koito povyarvakha v Allakh i v Negovite pratenitsi, i ne otdelyakha nik
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၂။	သို့သော် အကြင်သူတို့သည် အလ္လာဟ်အသျှင်မြတ်နှင့် အသျှင်မြတ်၏တမန်တော်များကို ယုံကြည်ကြ ၏။ တမန်တော်များကို တစ်ပါးထက်တစ်ပါး သာလွန်မြင့်မြတ်သည်ဟု ခွဲခြားကြ။ ထိုသူတို့အား အလ္လာဟ်အသျှင်မြတ်သည် ၎င်းတို့၏လုပ်ခများကို ပေးသနားတော်မူမည်။ အလ္လာဟ်အသျှင်မြတ် သည် အတိုင်းမသိ အပြစ်လွှတ်တော်မူသောအသျှင်၊ ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူလှသော အသျှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကြင်သူတို့သည် အလ္လာဟ်အရှင်မြတ်နှင့် ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော်တို့ကို ယုံကြည်ခဲ့ကြ၏။ (‘အီမာန်’ ယုံကြည်ခြင်းသဒ္ဓါတရားထားရှိရာ၌) ၎င်း၊ (‘ရစူလ်’တမန်တော်) တို့အနက် မည်သည့် (ရစူလ်တမန်တော်) တစ်ပါးကိုမျှ ခွဲခြားခြင်းကိုလည်း မပြုခဲ့ကြချေ။ သို့ဖြစ်ပေရာ ထိုအရှင်မြတ်သည် ယင်းသူတို့အား ၎င်းတို့၏ကုသိုလ်အကျိုးများကို မုချ ချီးမြှင့်ပေးသနားတော်မူအံ့။ အမှန်စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အလွန်တရာ လွတ်ငြိမ်းချမ်းသာခွင့် ပေးသနားတော်မူသောအရှင်၊ အလွန်တရာ သနားကြင်နာညှာတာတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။ (ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

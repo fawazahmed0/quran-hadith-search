@@ -710,6 +710,12 @@ ili da napravish nebeto da padne - kakto tvŭrdish - vŭrkhu nas na otlomki, ili
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၂။	သို့မဟုတ် သင်လိမ်လည်ဟောပြောသကဲ့သို့ မိုးကောင်းကင်ကို အကျွနု်ပ်တို့အပေါ်သို့ အစိတ်စိတ်အပိုင်းပိုင်း ကြွေကျစေခြင်းကိုသော်လည်းကောင်း၊ သို့မဟုတ် အလ္လာဟ်အရှင်မြတ်နှင့်ကောင်းကင်တမန်တော်များကို သင်၏ အကိုးအကားအဖြစ်ဖြင့် ယူဆောင်လာခြင်းကိုသော်လည်းကောင်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် အသင်သည် မိမိထင်မြင် ယူဆခဲ့သည့်အတိုင်း ကျွန်ုပ်တို့အပေါ်၌ မိုးကိုအပိုင်းပိုင်း အစစဖြစ်၍ပြိုကျလာအောင်ပြုလုပ်ရမည်။ သို့တည်းမဟုတ် အသင်သည်အလ္လာဟ်အရှင်မြတ်အားလည်းကောင်း၊ ကောင်းကင်တမန်များအားလည်းကောင်း၊ ကျွန်ုပ်တို့၏ရှေ့မှောက်သို့ (သက်သေများအဖြစ်) ခေါ်ယူ၍လာရမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Sŭtvorikhme Nie choveka i znaem kakvo mu nashepva negovata dusha. Nie sme po-bl
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	ငါသည် လူသားကို မုချဧကန်ဖန်ဆင်းတော်မူ၏၊ လူသားက မိမိဝိညာဉ်အား တီးတိုးပြောဆိုသည်ကို ငါအကုန် အစင်သိမြင်တော်မူ၏၊ လူသားသည် ၎င်း၏ လည်ချောင်းနီးကပ်သည်ထက် ငါသည် သူနှင့်နီးကပ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ဧကန်မလွဲ ငါအရှင်မြတ်သည် မနူဿလူသားအား ဖန်ဆင်းတော်မူခဲ့၏။ ထို့ပြင် ငါအရှင်မြတ်သည် ၎င်း၌ ၎င်း၏စိတ်က မသိမသာ ပေါ်ပေါက်စေသောအရာကိုလည်း သိတော်မူ၏။ စင်စစ်သော်ကား ငါအရှင်မြတ်သည် ၎င်း၏လည်ချောင်းသွေးကြောထက်ပင် ၎င်းနှင့် ပိုမိုနီးကပ်စွာ ရှိနေတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

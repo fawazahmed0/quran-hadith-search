@@ -710,6 +710,12 @@ Onezi, koito zovete vmesto Nego, ne mogat da vi pomognat, nito na sebe si pomaga
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉၇။	အလ္လာဟ်အသျှင်မြတ်မှတစ်ပါး သင်တို့မကိုးကွယ်သောဘုရားတုများ၌ သင်တို့ကို ကူညီထောက်ပ့့ံရန် တန်ခိုးအာဏာမရှိပေ။ ၎င်းတို့ကိုယ်ကိုလည်း ၎င်းတို့ မကူညီနိုင်ကြပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ထိုအရှင်မြတ်မှတစ်ပါး အသင်တို့ဟစ်ခေါ် (ကိုးကွယ်ဆည်းကပ်တမ်းတ)ကြကုန်သော သူတို့မှာမူကား အသင်တို့အားလည်း ကူညီနိုင်ကြသည် မဟုတ်ပေ။မိမိတို့ ကိုယ်များကိုလည်း (မိမိတို့)ကူညီနိုင်ကြသည် မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

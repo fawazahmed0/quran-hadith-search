@@ -710,6 +710,12 @@ s yasnite znatsi i pisaniyata... I nizposlakhme na teb [o, Mukhamad] Napomnyanet
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	ငါသည် ထိုတမန်တော်များကို ထင်ရှားခိုင်မာသောသက်သေခံချက်များ၊ ကျမ်းဂန်တော်များနှင့်တကွ စေလွှတ် တော်မူ၏။ သင့်အားလည်း ငါသည် ကုရ်အာန်ကျမ်းတော်မြတ်ကို ထုတ်ပြန်ပို့ချပေးသနားတော်မူ၏။ ချပေးတော် မူခြင်းအကြောင်းရင်းကား၊ သင်သည် လူသားတို့အား သူတို့အတွက် ပြဋ္ဌာန်းသောကျမ်းတော်မြတ်ကို ရှင်းလင်း ဟောကြားဖို့ရာနှင့် သူတို့သည် ဆင်ခြင်ကောင်းဆင်ခြင်ဖို့ရာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ငါအရှင်မြတ်သည်တမန်တော်များအား) ထင်ရှားသောသက်သေသာဓကများ၊ ကျမ်းဂန်များနှင့်တကွ(စေလွှတ်တော်မူခဲ့သည်။) ထိုမှတစ်ပါး ငါအရှင်မြတ်သည်အသင့်ထံသို့လည်း ကျမ်းဂန်ဓမ္မခန်ကို အသင်သည် လူသားတို့အား ထိုသူတို့ထံချပေးသနားတော်မူခြင်းခံရသည့် အမိန့်တော်များကို ထင်ရှားပြစေအံ့သောငှာလည်းကောင်း၊ ထိုသူတို့သည်စဉ်းစားဆင်ခြင်ကြအံ့သောငှာလည်းကောင်း၊ ချပေး နားတော်မူခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Sluzhi edinstveno na Allakh i bŭdi ot priznatelnite!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၆။ သင်သည် ယင်းသို့မပြုထိုက်ချေ၊ သို့သော်အလ္လာဟ်အရှင်မြတ်၏ ဝတ်ကို ပြုလော့၊ ကျေးဇူးမင်္ဂလာတော်ကို ချီးမွမ်းသူတို့ဘောင်တွင် အပါအဝင်ဖြစ်လော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်သည် ထိုသို့ အလျင်းမပြုဘဲ အလ္လာဟ်အရှင်မြတ်အားသာလျှင် ဆည်းကပ်ကိုးကွယ်ပါလေ။ထိုမှတစ်ပါး အသင်သည် ကျေးဇူးတော်ကို သိတတ်သောသူတို့တွင် အပါအဝင် ဖြစ်ပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

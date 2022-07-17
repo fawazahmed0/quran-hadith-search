@@ -710,6 +710,12 @@ Naistina Nie nizposlakhme Napomnyaneto i Nie nepremenno shte go pazim
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	မှတ်သားကြလော့။ ငါအရှင်မြတ်သည် ကုရ်အာန်ကျမ်းတော်မြတ်ကို ထုတ်ပြန်ချပေးသနားတော်မူ၏။ ငါသာလျှင် ကျမ်းတော်၏ အစောင့်အထိန်းတော်မုချဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ငါအရှင်မြတ်သည်ပင်လျှင်(ဤ)ဆုံးမဩဝါဒ(တည်းဟူသောကုရ်အာန်ကျမ်းတာ်မြတ်)ကို ချပေးသနားတော်မူခဲ့လေသည်။ ထိုမှတစ်ပါး ဧကန်မလွဲ ငါအရှင်မြတ်သည်ပင်လျှင် ယင်းဆုံးမဩဝါဒကို ထိန်းသိမ်းစောင့်ရှောက်တော်မူမည့် အရှင်မြတ် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

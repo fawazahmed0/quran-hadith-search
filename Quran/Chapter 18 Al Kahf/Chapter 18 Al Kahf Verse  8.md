@@ -710,6 +710,12 @@ I shte prevŭrnem Nie tova, koeto e na neya, v bezplodna prŭst
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	တဖန် မှတ်သားကြလော့။ ငါအရှင်မြတ်သည် မြေကြီးပေါ်ရှိရှိသမျှကို အသီးအပင်ကင်းမဲ့စေတော်မူမည်။ ကုန်းခေါင်ခေါင်ဖြစ်စေတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် ဧကန်မလွဲ ငါအရှင်မြတ်သည် ယင်းပထဝီမြေပေါ်၌ ရှိရှိသမျှတို့ကို အမှန်ပင် သွေ့ခြောက်သောမြေပြင်အတိပြုလုပ်တော်မူမည့်အရှင်မြတ်လည်း ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

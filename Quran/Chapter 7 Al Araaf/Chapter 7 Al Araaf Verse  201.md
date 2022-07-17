@@ -710,6 +710,12 @@ Kogato natraplivo videnie ot satanata zasegne bogoboyazlivite, te si spomnyat [z
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ၁။	မှတ်သားကြလော့။ ဒုစရိုက်အမှုအခင်းကို ကြဉ်ရှောင်သူတို့သည် ရှိုင်တန်မာရ်နတ် လှည့်ဖြားသော အခါ အလ္လာဟ်အသျှင်မြတ်ကို အာရုံပြုကြ၏။ ထိုအခါ သူတို့သည် ရှင်းလင်းစွာမြင်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မလွဲဧကန် (အလ္လာဟ်အရှင်မြတ်အား)ကြောက်ရွံ့ရိုသေခန့်ညားသောသူတို့မူကား ရှိုင်တွာန် မိစ္ဆာကောင်၏ထံမှ တစ်စုံတစ်ရာ စိုးရိမ်ဖွယ်ရာသည် ထိုသူတို့၌ သက်ရောက်ခဲ့သောအခါ (အလ္လာဟ်အရှင်မြတ်အား ချက်ချင်း) အောက်မေ့တသကြကုန်၏။ သို့ဖြစ်လျှင် ၎င်းတို့သည် ရုတ်တရက်ပင်(အမှန် ကို) မြင်လာကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

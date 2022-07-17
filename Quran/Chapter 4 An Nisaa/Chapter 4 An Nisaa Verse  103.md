@@ -710,6 +710,12 @@ I kogato zavŭrshite molitvata, spomenavaĭte Allakh pravi, sednali i na khŭlb
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၃။	သင်တို့သည် ဆွလာသ်ဝတ်ကို ပြုပြီးသောအခါ အလ္လာဟ်အသျှင်မြတ်ကို ထ၍သော်လည်းကောင်း၊ ထိုင်၍သော်လည်းကောင်း၊ လျောင်း၍သော်လည်းကောင်း အာရုံပြုကြလော့။ ထို့ပြင် သင်တို့သည် ဘေးရန်ကင်းမဲ့၊ လုံခြံုသောအခါ ဆွလာသ်ဝတ်ကို ကျင့်စဉ်တရားအတိုင်း ပြည့်စုံစွာပြုကြလော့။ သတ်မှတ်ထားသော အချိန်နာရီများတွင် ဆွလာသ်ဝတ်ပြုရန် ယုံကြည်သူတို့အား ပညတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် အသင်တို့သည် ‘ဆွလာသ်’ ဝတ်ပြု၍ပြီးကြသောအခါ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်ကို မတ်တတ်ရပ်လျက်လည်းကောင်း၊ ထိုင်လျက်လည်းကောင်း၊ လဲလျောင်းလျက်လည်းကောင်း၊ အောက်မေ့တသ သတိရရှိကြလေကုန်။ တစ်ဖန် အသင်တို့သည် ဘေးရန်ကင်းငြိမ်း၍ စိတ်ချရသောအခါ (နဂိုမူလအတိုင်း စည်းကမ်းကျနစွာဖြင့်) ‘ဆွလာသ်’ ဝတ်ပြုမှုကို ဆောက်တည်ကြလေကုန်။ ဧကန်မလွဲ‘ဆွလာသ်’ ဝတ်ပြုမှုသည် ‘မုအ်မင်န်’ တို့အပေါ်၌ အချိန်ကာလပိုင်းခြား၍ အတည် သတ်မှတ်ပြဋ္ဌာန်းထားသော ဖရဇ်တာဝန်တစ်ရပ်ပင် ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

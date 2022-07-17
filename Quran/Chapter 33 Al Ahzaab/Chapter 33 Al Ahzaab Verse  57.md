@@ -710,6 +710,12 @@ Koito ogorchavat Allakh i Negoviya Pratenik, Allakh gi proklina v zemniya zhivot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၇။	အကြင်သူတို့သည် အလ္လာဟ်အရှင်မြတ်နှင့် အရှင်မြတ်၏ တမန်တော်အား မရိုမသေကဲ့ရဲ့စော်ကားကြမူ ထိုသူ တို့ကို့ အလ္လာဟ်အရှင်မြတ်သည် ဤဘဝနောင်ဘဝ၌ ကျိန်ဆဲတော်မူပြီ၊ အရှင်မြတ်သည် ထိုသူတို့အဖို့အရာ အလွန်ယုတ်ည့ံသိမ်ဖျင်းသောအပြစ်ဒဏ်ကို အသင့်စီရင်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်အားလည်းကောင်း၊ ထိုအရှင်မြတ်၏ရစူလ်တမန်တော်မြတ်အား လည်းကောင်း၊ စိတ်ဒုက္ခပေးကြကုန်သော သူတို့အား အလ္လာဟ်အရှင်မြတ်သည် လောကီဘဝ၌လည်းကောင်း၊ အာခိရတ် တမလွန်ဘဝ၌လည်းကောင်း၊ ကရုဏာတော်မှ ကင်းဝေးစေတော်မူသည့်အပြင် ထိုအရှင်မြတ်သည် ၎င်းတို့အဖို့ ဂုဏ်ရည်သေးသိမ်စေသောပြစ်ဒဏ်ကိုလည်း အဆင်သင့်ပြုလုပ်၍ ထားရှိတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

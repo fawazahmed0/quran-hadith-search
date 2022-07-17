@@ -710,6 +710,12 @@ koito slushat Slovoto i sledvat naĭ-khubavoto ot nego! Tezi sa, koito Allakh e
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	ထိုသူမြတ်တို့သည် ဆုံးမသြဝါဒတော်ကို နာယူ၍ သြဝါဒတော်အတိုင်း ပြုကျင့်ကြ၏၊ ဤကဲ့သို့သောသူတို့ကို အလ္လာဟ်အရှင်မြတ်က လမ်းပြတော်မူ၏၊ သူတို့သည် အသိအလိမ္မာဉာာဏ်ပညာရှိသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုကျွန်တို့သည် (ဤ)အာယတ်တော်ကို အာရုံစိုက်၍ နားထောင်ကြကုန်၏။ ထို့နောက် ထိုအာယတ်တော်၏အကောင်းဆုံးသော အချက်များကို လိုက်နာကြကုန်၏။ ထိုသူတို့ကား အကြင်သူတို့ပင်။ အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့အား တရားလမ်းမှန်သို့ ပို့ဆောင်တော်မူ၏။ ထိုမှတစ်ပါး ထိုသူတို့သည်ပင်လျှင် ဉာဏ်ရှင်များ ဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I ne gi oplaka nito nebeto, nito zemyata. I ne im be dadena ot·srochka
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	၎င်းတို့သေကြေပျက်စီးသောကြောင့် မိုးကောင်းကင်နှင့် ကမ္ဘာမြေပြင်က ဝမ်းနည်းကြေကွဲခြင်းမပြုချေ၊ သူတို့၏ အပြစ်ဒဏ်ကို ရွှေ့ဆိုင်းထားတော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တစေလည်း (ယင်းဖစ်ရ်အောင်န်၏အမျိုးသား)တို့နှင့် ပတ်သက်၍ မိုးကောင်းကင်သည်လည်း ငိုကြွေး(ဝမ်းနည်းကြေကွဲ)သည် မရှိခဲ့ပေ။ ပထဝီမြေ သည်လည်း ငိုကြွေး(ဝမ်းနည်း)သည် မရှိခဲ့ချေ။ ထိုမှတစ်ပါး ၎င်းတို့မှာ ရွှေ့ဆိုင်းခွင့်လည်း မရခဲ့ကြပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

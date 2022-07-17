@@ -710,6 +710,12 @@ Nima onezi, koito kroyat zlinite, imat sigurnost, che Allakh ne shte nakara zemy
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	ဒုစရိုက်မကောင်းမှုများကို ကြံစည်သူတို့သည် အလ္လာဟ်အရှင်မြတ်က မိမိတို့အား မြေမျိုစေတော်မူမည့်ဘေးမှ လုံခြံုကြသလော သို့မဟုတ် မည်သည်မှ ကျရောက်လာသည်ကို မိမိတို့မသိသောအပြစ်ဒဏ်တော်မှလည်း လုံခြံုကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသို့ပါနည်း၊ (အစ္စလာမ်နှင့် ဆန့်ကျင်၍ လည်းကောင်း၊ ရစူလ်တမန်တော်မြတ်နှင့်ဆန့်ကျင်၍ လည်းကောင်း၊)အန္တရာယ်ပြုကြရန် လျှို့ဝှက်ကြံစည် ခဲ့ကြသောသူတို့သည် ထိုသူတို့အား အလ္လာဟ်အရှင်မြတ်သည် မြေမျိုစေတော်မူမည်ကိုသော်လည်းကောင်း၊ ထိုသူတို့ထံ ထိုသူတို့ မထင်ကြသောနေရာမှ ပြစ်ဒဏ်ရောက်ရှိလာမည်ကိုသော်လည်းကောင်း၊ စိုးရိမ်ခြင်းကင်း၍ နေကြလောသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

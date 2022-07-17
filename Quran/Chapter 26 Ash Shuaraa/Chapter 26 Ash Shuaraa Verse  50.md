@@ -710,6 +710,12 @@ Rekokha: “Ne e beda! Naistina pri nashiya Gospod shte se zavŭrnem
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅ဝ။	ဝိဇ္ဇာဆရာတို့က ၎င်းသည် ဘေးဥပါဒ်မဟုတ်ပါ၊ အကြောင်းမူကား အကျွနု်ပ်တို့သည် မိမိတို့၏အသက်သခင် ကျေးဇူးရှင်ထံမှောက်သို့ ပြန်ရပါမည်သာတည်းဟု ပြန်ပြောကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုပဉ္စလက်ဆရာတို့က (ကျွန်ုပ်တို့၌) လုံးဝ အကျိုးယုတ်မှု ရှိလိမ့်မည်မဟုတ်။ ဧကန်စင်စစ် ကျွန်ုပ်တို့သည် မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်သို့ ပြန်သွားကြမည့်သူများပင် ဖြစ်ကြကုန်၏ဟု ပြောကြားလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

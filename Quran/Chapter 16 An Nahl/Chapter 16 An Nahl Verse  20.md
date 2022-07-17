@@ -710,6 +710,12 @@ Onezi, koito [nevernitsite] gi zovat vmesto Allakh, nishto ne mogat da sŭtvorya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	အလ္လာဟ်အရှင်မြတ်မှတပါး သူတို့ကိုးကွယ်သောဘုရားတုတို့သည် တစုံတရာမျှမဖန်ဆင်းချေ၊ ဖန်ဆင်း ခြင်းကိုသာ ခံရကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်မှာမူကား အလ္လာဟ်အရှင်မြတ်၏အပြင်၎င်းတို့ ဟစ်ခေါ်ကြကုန်သောသူတို့သည် တစ်စုံတစ်ရာကိုမျှဖန်ဆင်းနိုင်ကြသည်မဟုတ်။ ၎င်းတို့(ကိုယ်တိုင်)သည်ပင်လျှင်ဖန်ဆင်းခြင်းကိုခံခဲ့ကြရပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

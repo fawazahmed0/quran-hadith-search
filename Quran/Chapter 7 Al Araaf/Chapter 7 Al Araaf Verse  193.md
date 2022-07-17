@@ -710,6 +710,12 @@ I ako gi zovete kŭm praviya pŭt, ne vi sledvat. Edno i sŭshto e za vas dali s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉၃။	အကယ်၍ သင်သည် သူတို့ကို အဆုံးအမ လမ်းညွှန်ကျမ်းတော်ကြီးဖက်သို့ ဖိတ်ခေါ်လျှင် သူတို့သည် သင့်နောက်သို့ မလိုက်ကြပေ။ သင်သည် သူတို့အား တရားဟောသော်လည်းကောင်း၊ မဟောသော် လည်းကောင်း သူတို့အတွက် မထူးပေ။ အတူတူပင်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အကယ်၍ အသင်တို့သည် ၎င်းတို့အားမှန်ကန်သောတရားလမ်းသို့ ဖိတ်ခေါ်ကြလျှင်လည်း ၎င်းတို့သည် အသင်တို့နောက်သို့ လိုက်နိုင်ကြမည် မဟုတ်ပေ။ (သို့ဖြစ်ပေရာ) အသင်တို့သည် ၎င်းတို့အား ဟစ်ခေါ်ကြသည်ဖြစ်စေ၊ ဆိတ်ဆိတ်နေကြသည်ဖြစ်စေ၊ (မည်သို့မျှ) အကြောင်းမထူးပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

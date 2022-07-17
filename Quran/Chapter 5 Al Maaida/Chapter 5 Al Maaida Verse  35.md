@@ -710,6 +710,12 @@ O, vyarvashti, boĭte se ot Allakh i tŭrsete priblizhavane kŭm Nego, i se bor
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	အို-ယုံကြည်သူအပေါင်းတို့ သင်တို့သည် အောင်ဆုမင်္ဂလာရရှိစိမ့်သောငှာ အလ္လာဟ်အသျှင်မြတ်၏ အမှုတော်ကို ထမ်းဆောင်ကြလော့။ အသျှင်မြတ်၏အထံတော်နှင့် နီးကပ်ရာလမ်းကို ရှာမှီးကြ လော့။ အသျှင်မြတ်၏လမ်းဝယ် အပတ်တကုတ် ကြိုးစားအားထုတ်ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို- ‘မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူအပေါင်းတို့ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်ကို ကြောက်ရွံ့ကြလေကုန်။ ၎င်းပြင် အသင်တို့သည် ထိုအရှင်မြတ်၏အပါးတော်သို့ ချဉ်းကပ်မှုကို ရှာဖွေကြလေကုန်။ ထိုမှတစ်ပါး အသင်တို့သည် (နောင်တမလွန်ဘဝတွင်) အောင်မြင်ကြအံ့သောငှါ ထိုအရှင်မြတ်၏လမ်းတော်၌ (စစ်မက် ပြိုင်ဆိုင်တိုက်ခိုက်ကြလေကုန်) (တစ်နည်း) (အပတ်တကုတ် ကြိုးစားအားထုတ်ကြလေကုန်) ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

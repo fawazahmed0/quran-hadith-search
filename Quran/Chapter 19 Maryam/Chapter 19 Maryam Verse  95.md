@@ -710,6 +710,12 @@ I vseki ot tyakh sam-samichŭk shte se yavi pri Nego v Denya na vŭzkresenieto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၅။	ရှင်ပြန်ထမြောက်ရသောနေ့တော်ကြီး၌ သူတို့သည် အရှင်မြတ်အထံတော်သို့ တယောက်စီတယောက်စီဝင်ရ ကြမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ၎င်းတို့အနက် အသီးသီးတို့သည် ထိုအရှင်မြတ်အထံတော်သို့ ကိယာမတ်ရှင်ပြန်ထမည့်နေ့တွင်တစ်ဦးချင်း လာရောက်ရမည့်သူများသာလျှင် ဖြစ်ကြကုန်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ i da vi podkrepya s imoti i sinove, i da storva za vas gradini, i da storva za v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အား စီးပွားဥစ္စာ၊ သားသမီးတို့နှင့် ချီးမြှင့်တော်မူမည်၊ သင်တို့အား ဥယျာဉ် များနှင့် မြစ်ချောင်းများပေးသနားတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုအရှင်မြတ်သည် အသင်တို့အား ပစ္စည်းဥစ္စာများ (ချီးမြှင့်တော်မူခြင်းအား)ဖြင့်လည်းကောင်း၊ သား(သမီး)များ (ချီးမြှင့်တော်မူခြင်းအား) ဖြင့်လည်းကောင်း၊ စောင်မ ကူညီတော်မူပေမည်။ ထို့ပြင် အသင်တို့အဖို့ ဥယျာဉ်များကို ဖန်ဆင်း၍ ပေးသနားတော်မူသည့်ပြင် အသင်တို့အဖို့ ချောင်းများကိုလည်း စီးတွေစေတော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

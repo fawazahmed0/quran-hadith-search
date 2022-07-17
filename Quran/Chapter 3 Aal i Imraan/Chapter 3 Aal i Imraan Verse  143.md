@@ -710,6 +710,12 @@ I vŭzzhelakhte smŭrtta [v bitka], predi da ya sreshtnete. No veche ya vidyakht
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၃။	အမှန်မှာ သင်တို့သည် စစ်မြေပြင်ပေါ်တွင် မသေခင်ပင်လျှင် သေချင်လိုသောဆန္ဒရှိကြ၏။ ယခု သင်တို့သည် သေခြင်းတရားကို မျက်ဝါးထင်ထင်တွေ့မြင်ရပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်တို့သည် မရဏသေခြင်းတရားကို ထိုမရဏသေခြင်းတရားနှင့် မတွေ့ကြုံမီ အလျင်က မချွတ်မလွဲ တောင်းတလျက်ရှိခဲ့ကြကုန်၏။ သို့ဖြစ်ပေရာ(ယခုမူကား)အသင်တို့သည် ထိုမရဏ သေခြင်းတရားကို (မိမိတို့ တောင်းတသည့်အားလျော်စွာ) မလွဲဧကန် မျက်မြင်ဒိဋ္ဌတွေ့မြင်ခဲ့ ကြချေပြီတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

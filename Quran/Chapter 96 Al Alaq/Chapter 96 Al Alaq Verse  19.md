@@ -710,6 +710,12 @@ Ala ne! Ne mu se podchinyavaĭ! I svezhdaĭ chelo do zemyata v sudzhud, i [kŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။ အို-တမန်တော်၊ သင်သည် ထိုသူယုတ်မာကို မနာခံလင့်၊ အလ္လာဟ်အရှင်မြတ်အား ဦးညွှတ်ချ၍ ချဉ်းကပ်လော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလျှင်းမဟုတ်၊ (အို-နဗီတမန်တော်) အသင်သည် ၎င်း၏စကားကို မလိုက်နာလေနှင့်၊ ထို့ပြင် အသင်သည်(အလ္လာဟ်အရှင်မြတ်အား) "စဂျ်ဒဟ်" ပျပ်ဝပ်ဦးချပါလေ။ ၎င်းပြင် အသင်သည် (ဝတ်ပြုခြင်းအားဖြင့် ထိုအရှင်မြတ်အပါးတော်သို့) ချဉ်းကပ်ပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

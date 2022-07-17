@@ -710,6 +710,12 @@ I moli proshka ot Allakh! Allakh e oproshtavasht, milosŭrden
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၆။	ထို့ပြင် အလ္လာဟ်အသျှင်မြတ်၏ အပြစ်လွှတ်ခြင်းကို ရှာမှီးလော့။ အလ္လာဟ်အသျှင်မြတ်သည် အမြဲတစေ အပြစ်လွှတ်တော်မူ၏။ ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်သည် အလ္လာဟ်အရှင်မြတ်အထံတော်၌ (အပြစ်မှ) လွတ်ငြိမ်းချမ်းသာခွင့်ကို လျှောက်ထားပန်ကြားပါလေ။ ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် အကြိမ်ကြိမ် လွတ်ငြိမ်းချမ်းသာခွင့် ပေးသနားတော်မူသောအရှင်၊ အလွန် သနားကြင်နာ ညှာတာတော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

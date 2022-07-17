@@ -710,6 +710,12 @@ koĭto otricha i se otvrŭshta
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၊၁၆။ သို့သော်ငြင်းပယ်လျက် လှည့်သွားသောသူယုတ်မာသာလျှင် ထိုမီးကို ခံစားရမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်(အကြောင်းမလှသော)သူသည် (နဗီတမန်တော်မြတ်အား) မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်ကာ(အီမာန်သက်ဝင် ယုံကြည်ခြင်းမှလည်း) မျက်နှာလွှဲခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

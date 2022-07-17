@@ -710,6 +710,12 @@ shte go ulesnim kŭm lesnoto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၊၆၊၇။ ထို့ကြောင့်အကြင်သူသည် ပေးကမ်းအံ့၊ အလ္လာဟ်အရှင်မြတ်၏ အမှုတော်ကို ကျေပွန်အံ့၊ ကောင်းမှု၌ အကြွင်းမဲ့ ယုံကြည်အံ့၊ ထိုသူအတွက် ငါသည် သုခလမ်းကို အမှန်လွယ်ကူချောမောစေတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်လျှင် မကြာမီပင် ငါအရှင်မြတ်သည် ထိုသူအား လွယ်ကူမှုသို့ ပို့ပေးတော်မူသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

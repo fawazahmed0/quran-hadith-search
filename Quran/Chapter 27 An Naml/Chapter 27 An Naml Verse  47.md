@@ -710,6 +710,12 @@ Rekokha: “Predchuvstvame zlochestie ot teb i ot onezi, koito sa s teb.” Rech
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	သူတို့က ဟယ်-ဆွာလေဟ်၊ အကျွန်ုပ်တို့သည် သင်နှင့်သင့်အပေါင်းအဖော်တို့ကြောင့် နိမိတ်ဆိုးကို မြင်ကြ၏ဟု ဆိုကြ၏၊ တမန်တော်က ဟယ်-သူမိုက်တို့၊ သင်တို့၏နိမိတ်ဆိုးသည် အလ္လာဟ်အရှင်မြတ်နှင့်ရှိ၏၊ သို့သော် သင်တို့သည် စမ်းသပ်ခြင်းခံနေရသူတို့အမှန်ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအမျိုးသားတို့က ကျွန်ုပ်တို့သည် အသင့်အားဖြင့်လည်းကောင်း၊ အသင်၏အပေါင်းပါတို့ အားဖြင့်လည်းကောင်း၊ နိမိတ်ဆိုးကောက်ကြသည်ဟု ပြောဆိုခဲ့ကြကုန်၏။(ထိုအခါ)ထို"ဆွာလိဟ်"က အသင်တို့၏ နိမိတ်ဆိုး(၏အကြောင်းအကြောင်းရင်း)မှာ အလ္လာဟ်အရှင်မြတ် အထံတော်၌ပင်ရှိပေသည်။ ထိုသို့ အလျှင်းမဟုတ်။ စင်စစ်မှာကား အသင်တို့သည် စမ်းသပ်ခြင်းကို ခံကြရမည်ဖြစ်သော အမျိုးသားများပင် ဖြစ်ကြ၏သည်ဟု ပြောကြားခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

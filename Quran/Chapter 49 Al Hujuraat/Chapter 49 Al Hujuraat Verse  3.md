@@ -710,6 +710,12 @@ Onezi, koito snishavat glas pred Pratenika na Allakh, te sa onezi, chiito sŭrts
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	အကြင်သူတို့သည် အလ္လာဟ်အရှင်မြတ်၏ တမန်တော်အပါး၌ တိုးတိုးပြောကြအ့ံ၊ ထိုသူတို့၏ စိတ်နှလုံးအပြစ် ရှောင်ကြဉ်ကြောင်းကို အရှင်မြတ်သိတော်မူပြီးပြီ၊ အရှင်မြတ်သည် သူတို့ကို အပြစ်လွှတ်တော်မူ၍ အလွန်ကြီး ကျယ်မြင့်မြတ်သောဆုတော်ကို ပေးသနားတော်မူလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်၏ ရစူလ်တမန်တော်၏ရှေ့ဝယ် မိမိတို့၏အသံများကို နှိမ့်ချကြကုန်သော သူတို့သည် အကြင်သူများပင်။ အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့၏စိတ်နှလုံးများကို ပြစ်မှုများမှ ကြဉ်ရှောင်ခြင်းငှာ ရွေးချယ်တော်မူခဲ့၏။ ထိုသူတို့အဖို့ လွတ်ငြိမ်းချမ်းသာခွင့် သည်လည်းကောင်း၊ကြီးကျယ်လှစွာသောအကျိုး သည်လည်းကောင်း၊ ရှိချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

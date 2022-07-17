@@ -710,6 +710,12 @@ Glukhi, nemi, slepi - te ne se zavrŭshtat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	သူတို့သည် ပင်းသူ၊ အသူ၊ ကန်းသူများဖြစ်ကြ၏။ လမ်းမှန်သို့ ပြန်မလာကြပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(မုစ်လင်(မ်) အသွင်ဆောင်သော) သူများသည် (အမှန်တရားကို မကြားနာလိုကြသည့်အတွက်) နားပင်းသူများလည်း မည်၏။ (ပီယဝါစာ နှစ်သက်ဖွယ်ရာဖြစ်သော စကားကို မပြောဆိုလို ကြသည့်အတွက်) ဆွံ့အ သူများလည်း မည်၏။ (အမြော်အမြင် ဆင်ခြင်တုံတရား မရှိကြသည့်အတွက်) မျက်စိကန်းများလည်း မည်၏။ ထိုကဲ့သို့သော အယောင်ဆောင်များသည် (ဤမျှတိုင် ဆွံ့အ၊ နားပင်း၊ မျက်ကန်းများ ဖြစ်ကြရာ အမှန် တရားဘက်သို့) ပြန်လှည့်ကြမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Be ni razkrito, che mŭchenieto e za onzi, koĭto otricha i se otvrŭshta [ot z
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	မှတ်သားလော့၊ တရားတော်ကို ငြင်းပယ်ကျောပေးသူသည် အပြစ်ဒဏ်တော်ခံစားရမည်ဟု အကျွနု်ပ်တို့ထံသို့ ဗျာဒိတ်တော်လာ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ပြစ်ဒဏ်သည် အကြင်သူ၏ အပေါ်၌ပင် ကျရောက်မည် ဖြစ်ကြောင်း၊ အမှန်ပင် ကျွန်ုပ်တို့ထံ အမိန့်တော်ရောက်ရှိလာပြီးဖြစ်ပေသည်။ ထိုသူသည်(ကျွန်ုပ်တို့ယူဆောင်လာခဲ့ကြသောအမိန့် ပညတ်တော်များကို) မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်အံ့။ ၎င်းပြင် ထိုသူသည် မျက်နှာလွှဲဖယ် ကျောခိုင်းသွားအံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

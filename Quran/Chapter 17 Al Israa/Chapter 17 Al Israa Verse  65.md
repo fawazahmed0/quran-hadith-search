@@ -710,6 +710,12 @@ ali ti, doista, nećeš imati nikakve vlasti nad robovima Mojim!” A Gospodar j
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၅။	မှတ်သားလော့။ သစ္စာရှိသောငါ၏ ကျေးကျွန်တို့၊ သူတို့အပေါ်တွင် နင်သြဇာမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ငါအရှင်မြတ်၏ကျွန်(အစစ်အမှန်)တို့မူကား အသင်၌ ၎င်းတို့အပေါ်တွင် လုံးဝဩဇာ အာဏာရှိလိမ့်မည်မဟုတ်ပေ။ စင်စစ် အသင်(မုဟမ္မဒ်)အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည်ပင်(၎င်းတို့အား)ထိန်းသိမ်းစောင့်ရှောက်တော်မူသော အရှင်မြတ်အဖြစ် လုံလောက်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

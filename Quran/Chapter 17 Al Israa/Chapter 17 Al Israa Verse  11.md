@@ -710,6 +710,12 @@ Chovek zove zloto, kakto zove i dobroto. Chovek e pripryan
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	လူသားသည် ကောင်းကြီးမင်္ဂလာကို ဆုတောင်းသကဲ့သို့ အမင်္ဂလာကိုလည်း ဆုတောင်း၏။ အကြောင်းမူကား လူသားသည် အမြဲပင်စိတ်မြန်ကိုယ်မြန်ပြုလုပ်တတ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် လူသားများသည် အကောင်းနှင့် စပ်လျဉ်း၍ မိမိတို့လျှောက်ထားပန်ကြားဘိသကဲ့သို့ပင် အဆိုးနှင့်စပ်လျဉ်း၍လည်း လျှောက်ထားပန်ကြားကြကုန်၏။ စင်စစ်သော်ကား လူသားတို့သည်(သဘာဝအလျောက်ပင်)အလွန် အလျင်လိုသူများ ဖြစ်ကြကုန် သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

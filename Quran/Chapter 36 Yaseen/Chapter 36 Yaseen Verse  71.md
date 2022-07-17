@@ -710,6 +710,12 @@ Nima ne vizhdat, che izmezhdu onova, koeto Nie sŭtvorikhme za tyakh, sŭzdadokh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၁။	ငါသည် မိမိတန်ခိုးတော်ဖြင့် ဖန်ဆင်းတော်မူသောအရာဝထ္ထုများအနက် လူသားတို့အဖို့ သူတို့စိုးပိုင်သည့်ခြေ လေးချောင်းရှိ တိရိစ္ဆာန်များကို ဖန်ဆင်းပေးသနားတော်မူသည်ကို သူတို့သည် အဘယ်ကြောင့်စဉ်းစားဆင်ခြင် သိမြင်ခြင်းမရှိသနည်း။း
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်ဧကန် ငါအရှင်မြတ်သည် ၎င်းတို့အကျိုးငှာ မိမိလက်တော်ဖြင့် ပြုလုပ်တော်မူခဲ့သောအရာတို့တွင် ကုလားအုတ်၊ ကျွဲ၊ နွားတိရစ္ဆာန်တို့ကို ဖန်ဆင်းတော်မူခဲ့ရာ၊ ၎င်းတို့သည် ယင်းကုလားအုတ်၊ ကျွဲ၊ နွားတိရစ္ဆာန်များကို ပိုင်ဆိုင်သူများ ဖြစ်သွားခဲ့ကြသည်ကို ၎င်းတို့ မမြင်ခဲ့ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

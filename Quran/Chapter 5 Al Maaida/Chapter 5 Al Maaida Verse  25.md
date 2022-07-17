@@ -710,6 +710,12 @@ Reche: “Gospodi, imam vlast samo nad sebe si i nad brat si. Otdeli ni ot khora
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	ထိုအခါ မူဆာက အို-အကျွနု်ပ်၏အသျှင်သခင်၊ အကျွနု်ပ်သည် မိမိကိုယ်နှင့် မိမိအစ်ကိုမှတစ်ပါး အခြားသူတို့ကို သြဇာမပေးနိုင်ပါ။ ထို့ကြောင့် အကျွနု်ပ်တို့နှင့် အပြစ်ကျုးလွန်သူတို့ကို ခွဲခြားတော် မူပါဟု ဆုတောင်း၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုရောအခါဝယ် (နဗီတမန်တော်) မူစာက “အို- ကျွန်တော်မျိုး၏အရှင်မြတ်၊ ကျွန်တော်မျိုးသည် မိမိကိုယ်နှင့် မိမိ၏နောင်တော် (နဗီတမန်ဟာရွန်) မှတစ်ပါး အခြား မည်သူ့အပေါ်၌မျှ အခွင့်အာဏာ ပိုင်ဆိုင်သည်မရှိပါ။ သို့ဖြစ်ရာ အရှင်မြတ်သည် ကျွန်တော်မျိုးနှင့် (ဤ) စည်းကမ်းဖောက်ဖျက် သွေဖည်ငြင်းဆန်သော လူမျိုးတို့၏စပ်ကြားတွင် အဆုံးအဖြတ်ပေးတော်မူပါ”ဟု လျှောက်ထားပန်ကြားခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

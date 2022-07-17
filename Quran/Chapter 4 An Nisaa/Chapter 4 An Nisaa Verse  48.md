@@ -710,6 +710,12 @@ Allakh ne proshtava da se sŭdruzhava s Nego, no osven tova proshtava na kogoto 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	မှတ်သားကြလော့။ အလ္လာဟ်အသျှင်မြတ်သည် မိမိ၌ ဘက်စပ်သူရှိသည်ဟုပြောဆိုခြင်းကို ခွင့်လွှတ်တော်မမူပေ။ ထိုပြစ်မှုမှတစ်ပါး ကျန်အပြစ်များကို အလိုတော်ရှိသူအား အပြစ်လွှတ်တော် မူ၏။ အကြင်သူသည် အလ္လာဟ်အသျှင်မြတ်၌ ဘက်စပ်သူရှိသည်ဟုဆို၏။ ထိုသူသည် အလွန် ကြီးမာသောအပြစ်ကို အမှန်ပင် လုပ်ကြံဖန်တီးပေပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် တစ်စုံတစ်ရာကို မိမိနှင့် တွဲဘက်ယှဉ်ပြိုင်ကိုးကွယ်ခြင်းကို လွတ်ငြိမ်းချမ်းသာခွင့် အလျင်း ပေးတော်မူမည်မဟုတ်ပေ။ သို့ရာတွင် ထိုတွဲဖက်ယှဉ်ပြိုင် ကိုးကွယ်မှုမှတစ်ပါး အခြား ပြစ်မှုဒုစရိုက်တို့ကိုမူကား မိမိအလိုရှိတော်မူသောသူအား လွတ်ငြိမ်းချမ်းသာခွင့် ပေးသနားတော်မူအံ့။ အမှန်စင်စစ်သော်ကား မည်သူမဆို တစ်စုံတစ်ရာကို အလ္လာဟ်အရှင်မြတ်နှင့် တွဲဖက်နှိုင်းယှဉ်ကိုးကွယ်ပါမူ ထိုသူသည် ဧကန်မလွဲ အလွန်ကြီးလေးလှစွာသော ပြစ်မှုဒုစရိုက်ကို ကျူးလွန်ခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

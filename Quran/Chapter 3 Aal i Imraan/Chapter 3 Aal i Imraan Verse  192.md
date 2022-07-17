@@ -710,6 +710,12 @@ Gospodi nash, kogoto vkarash v Ogŭnya, opozoril si go. Za ugnetitelite nyama iz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉၂။	အို-အကျွနု်ပ်တို့၏အသျှင်သခင် အကြင်သူကို အသျှင်သည် ငရဲမီးထဲသို့ ဝင်စေတော်မူအံ့။ ထိုသူကို အသျှင်သည် အရှက်တကွဲဖြစ်စေတော်မူပါ၏။ ဒုစရိုက်ကောင်းများ၌ ကူညီစောင်မသူများ ရှိကြမည် မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ကျွန်တော်မျိုးတို့၏အရှင်၊ ဧကန်မုချ အရှင်မြတ်သည် အကြင်မည်သူ့ကိုမဆို ငရဲမီးထဲသို့ ထည့်သွင်းတော်မူပါလျှင် အရှင်မြတ်သည် ထိုသူအား ုချဂုဏ်ရည်သေးသိမ်အောင်ပြုတော်မူချေပြီ။ ၎င်းပြင် မတရားကျူးလွန်သောသူတို့အဖို့ ကူညီ စောင်မမည့်သူဟူ၍လည်း တစ်ဦးတစ်ယောက်မျှမ ရှိပါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

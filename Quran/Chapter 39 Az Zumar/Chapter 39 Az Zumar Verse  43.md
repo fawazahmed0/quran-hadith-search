@@ -710,6 +710,12 @@ Ili [nevernitsite] se sdobikha sŭs zastŭpnitsi vmesto Allakh? Kazhi: “Nima d
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	သူတို့သည် အလ္လာဟ်အရှင်မြတ်မှတပါး အခြားဘုရားများမှားဘုရားပျက်များကို အပြစ်ဖြေရန် ယုံကြည်ကိုးစား အားထားကြသလော၊ အို-တမန်တော်၊ သင်ဟောပြောလော့၊ သူတို့၌ တစုံတရာကိုမျှ အစိုးရခြင်းလည်းမရှိ၊ အသိဉာာဏ်လည်းမရှိ၊ သို့ပါလျက် သင်တို့သည် တစုံတရာကိုမျှ ထိုဘုရားပျက်တို့ကို ကိုးစားကြသေးသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ်အပြင် သူတစ်ပါးတို့အား ကြားဝင် အသနားခံပေးသောသူများ ပြုလုပ်သတ်မှတ်ခဲ့ကြလေသလော၊ (အို-နဗီတမန်တော်)အသင်သည် ၎င်းတို့အား (အချင်းတို့) ၎င်းတို့သည် မည်သည့် တစ်စုံတစ်ရာကိုမျှ ပိုင်ဆိုင်ခြင်း မရှိကြသည့်အပြင် မည်သည့် တစ်စုံတစ်ရာကိုမျှ မသိနားမလည်ကြသော်လည်း (ကြားဝင် အသနားခံ၍ ပေးနိုင်ကြမည်လော)ဟု ပြောဆို(မေးမြန်း) ပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

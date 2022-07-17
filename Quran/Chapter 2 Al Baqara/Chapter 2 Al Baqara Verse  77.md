@@ -710,6 +710,12 @@ Nima ne znayat, che Allakh znae i kakvoto spotaĭvat, i kakvoto razglasyavat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၇။	အလ္လာဟ်အရှင်မြတ်သည် သူတို့ ထိမ်ဝှက်ထားသောအရာနှင့် ဖော်ပြသောအရာ သိမြင်တော်မူသည် ကို ထိုသူတို့ မသိကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့သည် (မိမိတို့ စိတ်တွင်းဝယ်) တိတ်တဆိတ် လျှို့ဝှက်ထားကြသော အကြောင်းအရာခပ်သိမ်းတို့ကိုလည်းကောင်း၊ အထင်အရှား ပွင့်လင်းစွာ ထုတ်ဖော်ပြောဆိုကြကုန်သော အကြောင်းအရာခပ်သိမ်းတို့ကို လည်းကောင်း၊ ဧကန်စင်စစ် အလ္လာဟ် အရှင်မြတ်သည် (မိမိ၏ ဉာဏ်တော်ဖြင့် အကြွင်းမဲ့) သိရှိတော်မူသည်ကို မသိကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

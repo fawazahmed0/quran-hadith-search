@@ -710,6 +710,12 @@ O, narode moĭ, izpŭlvaĭte myarkata i veznata sŭs spravedlivost, i ne smaly
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၅။	ဟယ်-အချင်းတို့၊ သင်တို့သည် တရားသဖြင့် အတိုင်းအထွာအပြည့် အလေးချိန်အပြည့်ပေးကြလော့။ လူများကို သူတို့၏ ပစ္စည်းနှင့်စပ်လျဉ်း၍ မတရားမပြုကြလင့်။ ကမ္ဘာမြေပေါ်တွင် ဆုံးရှုံးပျက်စီးမှုများပြားစေခြင်းငှာ မတရားမှုကို မပြုကြနှင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အို-ငါ၏အမျိုးသားတို့၊ အသင် တို့သည် (တောင်း၊တင်းစသော)ပမာဏအချင်အတွယ်များ ကိုလည်းကောင်း၊ အလေးချိန်ကိုလည်းကောင်း၊ အပြည့်ပေးကြလေကုန်။ ထို့ပြင် အသင်တို့သည် လူတို့အား (အရောင်းအဝယ်ပြုကြသောအခါဝယ်) ၎င်းတို့ပစ္စည်းများကို လျော့၍ မပေးကြကုန်လင့်။ ၎င်းပြင် အသင်တို့သည် ကမ္ဘာမြေဝယ်ဖျက်ဆီးသူများ အဖြစ်ဖြင့် မသောင်းကျန်းကြကုန်လင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

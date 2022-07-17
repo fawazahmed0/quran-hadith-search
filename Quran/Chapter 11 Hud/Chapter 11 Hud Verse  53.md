@@ -710,6 +710,12 @@ Rekokha: “O, Khud, ti ne ni donese yasen znak i ne shte izostavim nashite bozh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။	ထိုအခါ သူတို့က ဟုဒ်၊ သင်သည် ထင်ရှားသောသက်သေသာဓကကို မယူဆောင်ခဲ့ချေ။ သင်ပြောရုံမျှနှင့် ငါတို့သည် မိမိတို့ဘုရားများကို စွန့်လွှတ်ကြမည်မဟုတ်။ ငါတို့သည် သင့်အား ယုံကြည်သူများမဟုတ်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်း(အမျိုးသား)တို့က (နဗီတမန်တော်ဟူဒ်အား ဤသို့)ပြောဆိုခဲ့ကြလေသည်။ အို-ဟူဒ်၊ အသင်သည်(မိမိပြောဆိုချက်နှင့်စပ်လျဉ်း၍) ကျွန်ုပ်တို့ထံ ထင်ရှားသောသက်သေသာဓက တစ်စုံတစ်ရာကိုမျှ ယူဆောင်ခဲ့သည်မရှိချေ။ ထို့ပြင် ကျွန်ုပ်တို့သည် အသင်ပြောဆိုချက်ကြောင့် မိမိတို့၏ကိုးကွယ်ရာများကို စွန့်လွှတ်ကြမည့်သူများလည်း မဟုတ်ကြချေ။ထိုမှတစ်ပါး ကျွန်ုပ်တို့သည် အသင့်၏အပေါ်၌ ယုံကြည်ကြမည့်သူများလည်း မဟုတ်ကြပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

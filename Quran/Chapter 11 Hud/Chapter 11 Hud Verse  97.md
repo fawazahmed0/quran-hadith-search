@@ -710,6 +710,12 @@ pri Faraona i znatnite mu khora. Te sledvakha povelyata na Faraona, a povelyata 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၇။	သူ့ကို ဖွာရောမင်းနှင့် ၎င်း၏ မှုးမတ်များထံသို့ စေလွှတ်တော်မူ၏။ သို့သော်သူတို့သည် ဖွာရောမင်း၏ အမိန့်ကိုသာ နာခံကြ၏။ ဖွာရောမင်း၏ အမိန့်မှာ မှန်သောညွှန်ပြချက်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဖစ်ရ်အောင်န်၏ထံသို့လည်းကောင်း၊ ယင်း ဖစ်ရ်အောင်န်၏အကြီးအကဲ (မှူးကြီးမတ်ရာ)များထံ သို့လည်းကောင်း၊ သို့ရာတွင် ၎င်းမူကား ဖစ်ရ်အောင်န် တို့၏အမိန့်ကိုပင် လိုက်နာနေခဲ့ကြကုန်၏။ စင်စစ် ဆိုသော် ဖစ်ရ်အောင်န်၏အမိန့်သည် လုံးဝသင့်တော် မှန်ကန်သော လမ်းမှန်သောအမိန့်မဟုတ်ခဲ့ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

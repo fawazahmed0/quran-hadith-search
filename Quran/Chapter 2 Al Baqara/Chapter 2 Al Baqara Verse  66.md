@@ -710,6 +710,12 @@ Storikhme go za nazidanie po tyakhno vreme i sled tyakh, i za pouka na bogoboyaz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၆။	ယင်းအပြစ်ဒဏ်ပေးခြင်းကို သူတို့၏ လက်ရှိမျိုးသားများနှင့် နောင်လာနောက်သားတို့အဖို့ သင်ခန်းစာ တစောင်အဖြစ်ဖြင့် ငါအရှင်မြတ် စီရင်တော်မူ၏။ အရှင်မြတ်အားကြောက်ရွံ့ရိုကျိုးသူတို့အဖို့ ဆုံးမ သြဝါဒတပါးဖြစ်စေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တဖန် ငါအရှင်မြတ်သည် ယင်းသူတို့၏ မျက်မှောက်၌ ရှိကြကုန်သော သူများနှင့် ယင်းသူ တို့၏ နောင်လာနောက်သားများ အဖို့အရာ ထိုအတ္ထုပ္ပတ္တိကို သတိသံဝေဂရဘွယ်ရာ အကြောင်း တရပ်အဖြစ်လည်းကောင်း၊ (အလ္လာဟ်အရှင်မြတ် ကို ကြောက်ရွံ့ ရိုသေခြင်းအားဖြင့်) ပြစ်မှု ဒုစရိုက်များကို ကြဉ်ရှောင်ကြကုန်သော သူတော်စဉ်များ အဖို့အရာ ဆုံးမဩဝါဒတရပ်အဖြစ် လည်းကောင်း ပြုထားတော် မူခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

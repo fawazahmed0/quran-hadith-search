@@ -710,6 +710,12 @@ Kazhi: “Znanieto e samo pri Allakh, a az sŭm samo yaven predupreditel.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။ သင်ဟောပြောလော့၊ ထိုအကြောင်းကို အလ္လာဟ်အရှင်မြတ်သာလျှင် သိတော်မူ၏၊ အကျွနု်ပ်မှာမူကား သတိ ပေးသူရိုးရိုးသာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ပြောကြားပါလေ။ "(ဤသည်နှင့်စပ်လျဉ်း၍ တိကျသော)အသိပညာမှာ အလ္လာဟ်အရှင်မြတ်၌သာရှိ၏။ စင်စစ်သော်ကား ငါသည် ထင်ရှားလှစွာသော သတိပေးနှိုးဆော်သူ တစ်ဦးမျှသာဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

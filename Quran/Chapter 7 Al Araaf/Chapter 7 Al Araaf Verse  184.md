@@ -710,6 +710,12 @@ Nima ne razsŭdikha? - Nyama nikakva ludost u tekhniya drugar [Mukhammad]. Toĭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈၄။	သူတို့သည် မိမိတို့အဆွေတော်သည် ရူးသွပ်သူမဟုတ်ကြောင်းကို မတွေးတော၊ မဆင်ခြင်ကြ သလော။ သူသည် တရားဟောပြောဆုံးမသူ တမန်တော်အစစ်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် မိမိတို့၏အဖော် (နဗီတမန်တော်မုဟမ္မဒ်သခင်) ၌ရူးသွပ်ခြင်းသည် လုံးဝမရှိကြောင်း၊ ၎င်းသည်ထင်ရှားစွာသော အသိပေးနှိုးဆော်သူ တစ်ဦးသာလျှင်ဖြစ်ကြောင်း ကောင်းမွန်စွာ ဆင်ခြင်သုံးသပ်ခဲ့ကြသည် မရှိလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

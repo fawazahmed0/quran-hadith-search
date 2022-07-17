@@ -710,6 +710,12 @@ Negoviyat drugar, govoreĭki s nego, mu reche: “Nima ne vyarvash v Onzi, Koi�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	သူသည် သူ၏ အဆွေခင်ပွန်းနှင့်ပြောဆိုနေစဉ် ထိုအဆွေခင်ပွန်းက သင့်ကို မြေမှုန့်မှ ထို့နောက်မျိုးစေ့တစေ့မှ ဖန်ဆင်းတော်မူသော၊ ထို့နောက်လူသားဖြစ်စေတော်မူသောအလ္လာဟ်အရှင်မြတ်ကို သင်သည် မယုံကြည် သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ)၎င်း၏အဖော်သည် ၎င်းအား ဖြေကြားသောအားဖြင့်(ဤသို့)ပြောဆိုခဲ့လေ၏။ (အိုချစ်ဆွေ)အသင်သည် အကြင်အရှင်မြတ်အား သွေဖည်ငြင်းပယ်ခဲ့လေသလော။ထိုအရှင်မြတ်သည် အသင့်အား (ဦးစွာပထမ)မြေကြီးဖြင့်ဖန်ဆင်းသောမူခဲ့လေသည်။ ထို့နောက် သုတ်ရည်စက်တစ်စက်ဖြင့် (သန္ဓေတည်စေ)ပြီးနောက် အသင့်အား ယောက်ျားအဖြစ်ပြီးမြောက်စုံလင်အောင် စီမံဆောင်ရွက်တော်မူခဲ့ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

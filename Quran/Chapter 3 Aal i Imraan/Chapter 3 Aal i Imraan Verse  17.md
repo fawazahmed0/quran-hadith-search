@@ -710,6 +710,12 @@ Strpljivi, i iskreni, i Allahu poslušni, i koji od imetka dijele, i koji u osvi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	ထိုသူတို့သည် သည်းခံကြ၏။ အမှန်စကားကိုသာဆိုကြ၏။ ကျိုးနွံ့နာခံကြ၏။ ထိုသူတို့သည် ဥစ္စာပစ္စည်းများကို သုံးစွဲလှူဒါန်းကြ၏။ အာရုံတက်၌ အပြစ်လွှတ်ဘို့ရာ ဆုတောင်းကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အပြစ်များမှကြဉ်ရှောင်သော ထိုသူတော်စင်များသည်) ခန္တီတရားနှင့် ပြည့်စုံသောသူများလည်းကောင်း၊(စိတ်နှလုံးဖြောင့်မတ်မှန်ကန် ငြိမ်သက်တည်ကြည်သော)သစ္စာဝါဒီများလည်းကောင်း၊ (အလ္လာဟ်အရှင်မြတ် ရှေ့တော်မှောက်တွင်) ခယ ရိုကျိုးသူများလည်းကောင်း၊ (အစ္စလာမ်တရားတော်နှင့်အညီ သဒ္ဓါစေတနာထက်သန်စွာ) လှူဒါန်းသုံးစွဲ ပေးကမ်းစွန့်ကြဲသူများလည်းကောင်း၊ ညဉ့်၏နောက်ဆုံးယံ အရုဏ်တက်ချိန်များတွင် (အလ္လာဟ်အရှင်မြတ် အထံတော်တွင် မိမိတို့အပြစ်များမှ) လွတ်ငြိမ်းချမ်းသာခွင့် ပန်ကြားသူများလည်းကောင်း၊ ဖြစ်ကြလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

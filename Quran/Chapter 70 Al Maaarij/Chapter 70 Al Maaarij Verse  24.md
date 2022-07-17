@@ -710,6 +710,12 @@ i v chiito imoti e zadelen dyal
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄၊၂၅။ ထို့အပြင်ထိုသူတို့သည် မိမိတို့ဥစ္စာပစ္စည်းများ၌ သူတောင်းစားနှင့် သူဆင်းရဲတို့အတွက် ဝန်ခံထားသောအခွင့်အရေးရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အကြင်("ဆွလာတ်"ဝတ်ပြု)သူတို့သည် ၎င်းတို့၏ပစ္စည်းဥစ္စာများ၌ သိရှိသတ်မှတ်ပြီးဖြစ်သော အခွင့်အရေးသည်ရှိပေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

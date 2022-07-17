@@ -710,6 +710,12 @@ Na takiva shte priemem khubavite dela i shte im oprostim loshite postŭpki. Te s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	ငါသည် ဤသူတို့ထံမှ သူတို့၏ ကုသိုလ်ကောင်းမှုများကို လက်ခံတော်မူ၍ သူတို့အကုသိုလ်မကောင်းမှုများကို အရေးမယူလျစ်လျူရှုတော်မူ၏၊ သူတို့သည် နိဗ္ဗာန်ဥယျာဉ်တော်ကို ဝင်ရသူတို့ဘောင်တွင် ပါဝင်၏၊ ဤသို့ ခံစားရခြင်းသည် သူတို့အား လောက၌ ပေးထားတော်မူခဲ့သော မှန်ကန်သောကတိသစ္စာအတိုင်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့သည်ပင် အကြင်သူများ ဖြစ်ကြကုန်၏။ငါအရှင်မြတ်သည် ၎င်းတို့ထံမှ ၎င်းတို့၏ ကောင်းမြတ်လှသော ကျင့်မူချက်များကို သဘောတူ လက်ခံတော်မူပေမည်။ ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ၎င်းတို့၏ပြစ်မှုများကို(အရေးမယူ)လျစ်လျူရှုတော်မူပေမည်။ (၎င်းတို့မှာ) ‘ဂျန္နတ်’ သုခဘုံသားတို့တွင် အပါအဝင် ဖြစ်ကြပေမည်။ (ဤသည်)၎င်းတို့ ကတိပေးခြင်းခံခဲ့ကြရသော မှန်ကန်သော ကတိပြုချက်ပင် ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

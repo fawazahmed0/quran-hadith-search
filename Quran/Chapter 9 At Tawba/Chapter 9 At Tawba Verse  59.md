@@ -710,6 +710,12 @@ A ako li da byakha dovolni ot tova, koeto im dari Allakh, i Negoviyat Pratenik, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၉။	သူတို့သည် အလ္လာဟ်အရှင်မြတ်နှင့် အရှင်မြတ်၏ တမန်တော်တို့ပေးသမျှနှင့် တင်းတိမ်ကြပြီးလျှင် အလ္လာဟ် အရှင်မြတ်သည် အကျွနု်ပ်တို့အဖို့ လုံလောက်တော်မူ၏။အလ္လာဟ်အရှင်မြတ်နှင့် တမန်တော်သည် အကျွနု်ပ် တို့အား အရှင်မြတ်၏ အနန္တကောင်းကြီးမင်္ဂလာမှ ပေးသနားတော်မူကြလိမ့်မည်ဟု ပြောဆိုကြလေလျှင် တော် လေစွ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်သော်ကား အကယ်၍သာ ထိုသူတို့သည်မိမိတို့အား အလ္လာဟ်အရှင်မြတ်သည်လည်းကောင်း၊ ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော်မြတ်သည်လည်းကောင်း၊ ချီးမြှင့်ပေးသနားတော်မူသည်များအပေါ်၌ ကျေနပ်ခဲ့ကြပြီး ကျွန်ုပ်တို့အဖို့ အလ္လာဟ်အရှင်မြတ်သည်ပင် လုံလောက်တော်မူပေသည်။အလ္လာဟ်အရှင်မြတ်သည် မကြာမြင့်မီ ကျွန်ုပ်တို့အား မိမိကျေးဇူးတော်ဖြင့် ချီးမြှင့်ပေးသနားတော်မူအံ့။ ၎င်းပြင် ထိုအရှင်မြတ်၏ရစူလ်တမန်တော်မြတ်သည်လည်း (ကျွန်ုပ်တို့အား ထပ်မံ၍ပေးတော်မူဦးအံ့၊) ဧကန်စင်စစ် ကျွန်ုပ်တို့သည် အလ္လာဟ်အရှင်မြတ် ဘက်သို့သာလျှင် တိမ်းယိမ်းညွှတ်ပြောင်းသူများဖြစ်ကြပါသည် ဟုပြောဆိုခဲ့ကြပါလျှင် ကောင်းလေစွ တကား။(ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

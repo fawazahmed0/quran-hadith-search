@@ -710,6 +710,12 @@ Reche [Faraonŭt]: “Ako priemesh drug bog osven men, shte te tikna pri zatvorn
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	ထိုအခါဖွာရောမင်းက အို--မူစာ၊ သင်သည် ငါမှတပါး အခြားဘုရားကို ခဝပ်ကိုးကွယ်လျှင် ငါသည် သင့်ကို အကျဉ်းသားတို့အထဲ၌ မုချထားမည်ဟု ကျိန်းမောင်း၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုဖစ်ရ်အောင်န်က(အို-မူစာ၊)အသင်သည် ကျွန်ုပ်မှလွဲ၍ အခြားသောကိုးကွယ်ရာ တစ်ပါးပါးကို ရွေးချယ်ခဲ့ပါလျှင် ဧကန်မလွဲ ကျွန်ုပ်သည် အသင့်အား အကျဉ်းထောင်ချထားမည်ဟု ပြောဆို ကြုံးဝါးခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

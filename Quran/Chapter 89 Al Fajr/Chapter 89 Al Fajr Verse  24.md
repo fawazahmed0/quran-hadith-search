@@ -710,6 +710,12 @@ Shte kazva: “O, da byakh storil otnapred dobrini zaradi moya [otvŭden] zhivot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။ ထိုအခါလူသားသည် ဤသို့ညည်းညူလတံ့၊ ဤနောင်တမလွန်ဘဝအတွက် ငါသည် ကုသိုလ်ကောင်းမှုကို ကြိုတင်ပို့ထားနှင့်ခဲ့သော် ကောင်းလေစွ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ)လူသားသည် (ဤသို့)ပြောဆို(ညည်းညူ)ပေလိမ့်မည်။ ဪ-ငါသည် (အာခိရတ် တမလွန်ဘဝ၌) မိမိအသက်ရှင်ရေးအလို့ငှာ (တစ်နည်း) မိမိသက်တမ်း၌ (ကောင်းမှုတစ်စုံတစ်ရာကို) ကြိုတင်၍ ဆည်းပူးခဲ့ပါလျှင် ကောင်းလေစွတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Vasheto sŭtvoryavane i vasheto vŭzkresyavane e samo kato na edna dusha. Allakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	ဟယ်-မိစ္ဆာယုတ်တို့ သင်တို့ကို ဖန်ဆင်းတော်မူခြင်း်၊ ရှင်ပြန်ထမြောက်စေတော်မူခြင်းတို့သည် ဝိညာဉ်တစ်ခု ကို ဖန်ဆင်းတော်မူခြင်း၊ ရှင်ပြန်ထမြောက်တော်မူခြင်းသာဖြစ်၏၊ မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် ခပ်သိမ်းကုန်သောအရာတို့ကို အကြွင်းမဲ့ကြားသိတော်မူသောအရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့အား ဖန်ဆင်းတော်မူခြင်းနှင့် အသင်တို့အား (သေပြီးနောက်တဖန်) ရှင်ပြန်ထစေတော်မူ ခြင်းသည်လူတစ်ယောက်(ကိုဖန်ဆင်းတော်မူခြင်း၊ သို့မဟုတ် လူတစ်ယောက်အား ရှင်ပြန်ထစေတော်မူခြင်း) ကဲ့သို့သာဖြစ်သည်။အကယ်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အလွန်တရာကြားတော်မူသော၊ အလွန်တရာ မြင်တော်မူသောအရှင်မြတ်ပင်ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

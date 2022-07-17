@@ -710,6 +710,12 @@ Ako bŭdat progoneni, te ne shte izlyazat zaedno s tyakh i ako bŭdat napadnati,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	အကြောင်းမူကား မယုံကြည်သူတို့ကို မိမိတို့နေထိုင်ထိုင်ခင်းမှ နှင်ထုတ်သော် ထိုလျှာနှစ်ခွလူလိမ်တို့သည် ထိုသူနှင့်အတူတကွ လိုက်ပါသွားမည်မဟုတ်၊ သူတို့ကို တိုက်ခိုက်သော် ထိုလူညာတို့သည် သူတို့ဘက်က ဝင်ရောက်တိုက်ခိုက်မည်မဟုတ်၊ ထို့အပြင်ထိုလူလိမ်တို့သည် ကူညီရိုင်းပင်းပါလျှင် ရန်သူတို့နှင့် ရင်ဆိုင်ရသော အခါ သူတို့သည် ကျောခိုင်းလျက် ထွက်ပြေးကြလတ့ံ၊ ထို့ကြောင့်မိစ္ဆာဒိဋ္ဌိတို့သည် အောင်မြင်ကြမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (စင်စစ်မှာကား) အမှန်ပင် အကယ်၍ ထိုသူတို့သည် (‘မဒီနာ’မြို့တော်မှ) နှင်ထုတ်ခြင်းကို ခံခဲ့ကြရလျှင်လည်း ၎င်းတို့သည် ထိုသူတို့နှင့်အတူ ထွက်ကြမည် မဟုတ်ပေ။ထိုနည်းတူစွာ အမှန်ပင် အကယ်၍ ထိုသူတို့သည် တိုက်ခိုက်ခြင်းကို ခံခဲ့ကြရလျှင်လည်း ၎င်းတို့သည် ထိုသူတို့အား ကူညီကြမည် မဟုတ်ပေ။ သို့ရာတွင် အကယ်၍ ၎င်းတို့သည် ထိုသူတို့အား ကူညီခဲ့ငြားအံ့လည်း ဧကန်မုချ ၎င်းတို့သည် ကျောခိုင်း၍ ထွက်ပြေးကြမည်သာ။ ထို့နောက် ထိုသူတို့သည် အကူအညီရရှိကြမည် မဟုတ်တော့ပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

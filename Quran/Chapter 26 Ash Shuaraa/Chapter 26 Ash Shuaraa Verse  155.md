@@ -710,6 +710,12 @@ Kaza: “Tova e kamila. Tya da pie v opredelen den i vie da piete v drug
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၅။	တမန်တော်က သူတို့အား ဤသို့ပြောဆို၏၊ ဤကုလားအုတ်မကို ကြည့်ရှုကြလော့၊ ထိုကုလားအုပ်မနှင့် သင်တို့သည် မိမိတို့အတွက် သတ်မှတ်ထားသောနေ့၌ ရေတွင်းတွင် အလှည့်ကျသောက်သုံးခွင့်ရှိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဆွာလိဟ်ကပြောကြားခဲ့၏)။ ဤသည် ကုလားအုတ်မတစ်ကောင်ဖြစ်၏။ ယင်း ကုလားအုတ်မ၌ ရေသောက်ရန် အလှည့်တစ်လှည့်ရှိ၍ အသင်တို့၌လည်း သတ်မှတ်ထားပြီးဖြစ်သော နေ့တစ်နေ့တွင် ရေသောက်ရန် အလှည့်တစ်လှည့်သည်ရှိ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Allakh znae koi prepyat·stvat sred vas i koi kazvat na svoite bratya: “Khaĭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အနက် သူတပါးတို့အား စစ်ဝင်မတိုက်ရန် တားဆီးသူတို့ကိုသော်လည်းကောင်း၊ မိမိတို့သားချင်းတို့အား ငါတို့ထံသို့ လာကြပါလော့ဟု ခေါ်ကြသူတို့ကိုသော်လည်းကောင်း၊ သိမြင်နှင့်တော်မူ၏၊ သူတို့သည် ရန်သူတို့ကို စိတ်ပါကိုယ်ရောက်တိုက်ကြသည်မဟုတ်၊ ဝတ်ကျေရုံအနည်းငယ်မျှတိုက်ခိုက်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့အနက် နှောင့်ယှက်တားဆီးကြသောသူတို့အား လည်းကောင်း၊ မိမိတို့၏ညီအစ်ကိုများအား အသင်တို့သည် ကျွန်ုပ်တို့ထံလာခဲ့ကြကုန်လော့ ဟု ပြောဆိုကြကုန်သော သူတို့အားလည်းကောင်း၊ ကောင်းစွာ သိရှိတော်မူ၏။ စင်စစ်သော်ကား၎င်းတို့သည် အမည်ခံအားဖြင့်သာလျှင် စစ်တိုက်ရာသို့လာကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

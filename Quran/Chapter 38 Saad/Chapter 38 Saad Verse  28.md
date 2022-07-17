@@ -710,6 +710,12 @@ Nima shte storim onezi, koito vyarvat i vŭrshat pravedni dela, da sa kato seesh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	ငါသည် သမ္မာတရားတော်ကို ယုံကြည်၍ ကောင်းမြတ်သောအကျင့်သီလကို ဖြည့်ကျင့်သူတို့အား ကမ္ဘာပေါ်တွင် ဒုစရိုက်မကောင်းမှုပွားများနှံ့ပြားစေသောသူတို့နှင့် ထပ်တူထပ်မျှထားတော်မူမည်လော၊ သို့မဟုတ် ငါသည် အပြစ်ကို ရှောင်ကြဉ်သူ၊ သူတော်ကောင်းကို အပြစ်ကျူးလွန်သူ၊ သူယုတ်မာနှင့် တတန်းတစားတည်းထားတော် မူမည်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် "အီမာန်" သက်ဝင်ယုံကြည်ပြီးနောက် ကောင်းမြတ်သော အကျင့်သီလများကို ကျင့်မူဆောက်တည်ကြသောသူတို့အား တိုင်းပြည်ဝယ် သောင်းကျန်းဖျက်ဆီးမှုကို ပြုလုပ်ကြသောသူတို့ကဲ့သို့ ပြုလုပ်တော်မူပါမည်လော၊ သို့တည်းမဟုတ် ငါအရှင်မြတ်သည် ပြစ်မှုဒုစရိုက်များမှ ကြဉ်ရှောင်ကြကုန်သော သူတော်စင်တို့အား သွေဖည်ဆိုးသွမ်းသောသူတို့ကဲ့သို့ ပြုလုပ်တော်မူပါမည်လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

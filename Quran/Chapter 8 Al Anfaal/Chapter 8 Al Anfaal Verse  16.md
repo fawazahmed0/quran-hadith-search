@@ -710,6 +710,12 @@ A koĭto im obŭrne grŭb v tozi den, osven s namerenie za boĭ, ili za da pre
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	အကြင်သူသည် စစ်အချီအတက် လွှဲပြောင်းရန်သော်လည်းကောင်း၊ အခြားစစ်တပ်များနှင့် ပူးပေါင်း ဆုံမိရန်သော်လည်းကောင်း၊ မဟုတ်ဘဲ အခြားအကြောင်းများကြောင့် စစ်မြေပြင်၌ ရန်သူများကို ကျောပေး၏။ ထိုသူသည် အလ္လာဟ်အသျှင်မြတ်အား အမှန်ပင် အမျက်ထွက်တော်မူစေ၏။ ထိုသူ၏ နေရာဌာနသည် အလွန်ဆိုးယုတ်သော ခရီးဆုံးဖြစ်သည့် ငရဲသာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်သော်ကား မည်သူမဆို ထိုနေ့တွင် အချီအတက် လွှဲပြောင်းစစ်ဆင်ခြင်း၊ သို့တည်းမဟုတ် (မိမိတို့၏)တပ်ဖွဲ့တစ်ခုခုထံ(သွားရောက်)ပူးပေါင်း နေရာယူခြင်းမှတစ်ပါး၎င်းတို့အားကျောခိုင်း၍သွားခဲ့မူ၊ ထိုသူသည် အလ္လာဟ်အရှင်မြတ်၏ အမျက်တော်နှင့်တကွ ပြန်ခဲ့သည်။ ထိုသူသည် အမျက်တော်သင့်လေပြီ။ ထို့ပြင် ဂျဟန္နမ် ငရဲဘုံသည်ပင်လျှင် ၎င်း၏နေရာထိုင်ခင်း ဖြစ်ချေသည်။ စင်စစ်တမူကား ဂျဟန္နမ်ငရဲဘုံသည် အလွန်ယုတ်ညံ့သိမ်ဖျင်းလှသော ပြန်လည်ရာစခန်းပင်ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ne se vŭzgordyavaĭte i elate pri men otdadeni na Allakh!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	အို-ရှီဗာပြည်ကြီးရှင်မ၊ သင်တို့သည် အကျွနု်ပ်အပေါ်သို့ မာနမကြီးကြလင့်၊ ဂုဏ်မမောက်ကြလင့်၊ သို့သော် အကျွနု်ပ်ထံသို့ ကျိုးနွံနာခံသူအဖြစ်ဖြင့် လာကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် ငါနှင့်ယှဉ်ပြိုင်၍ ဘဝင်မကြွကြကုန်လင့်။ ထိုမှတစ်ပါး အသင်တို့သည် ငါ့ထံသို့ "မွတ်စ်လင်မ်"အမိန့်နာခံသူများအဖြစ် လာရောက်ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

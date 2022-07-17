@@ -710,6 +710,12 @@ I ako pozhelaem, shte gi izdavim i nito shte imat izbavitel, nito shte bŭdat sp
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃၊၄၄။	အကယ်၍ငါသည် အလိုတော်ရှိက သူတို့ကို ရေတွင် နစ်မြုပ်နစ်မွန်းစေနိုင်၏၊ ထိုအခါသူတို့၏ မြည်တမ်းငိုကြွေး ခြင်းကို ကြားမည့်သူ၊ သူတို့ကို ကယ်ဆယ်စောင်မမည့်သူဟူ၍ တစ်ဦးတစ်ယောက်မျှရှိမည်မဟုတ်ချေ၊ ငါ၏ ဂရုဏာတော်မှတပါး သူတို့ကို မည်သူမျှ ဤရေဘေးမှ မကယ်နှုတ်နိုင်ချေ၊ သူတို့အား သတ်မှတ်ပိုင်းခြားထား တော်မူသောရက်တိုင်အောင် လောကီစည်းစိမ်ကို ခံစားစေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အကယ်၍သာ ငါအရှင်မြတ်သည် အလိုရှိတော်မူပါလျှင် ၎င်းတို့အား နှစ်မြှုပ်တော်မူပေမည်။ သို့နှစ်မြှုပ်တော်မူခဲ့လျှင် ၎င်းတို့အား ကူညီရိုင်းပင်းမည့်သူဟူ၍လည်း တစ်ဦးတစ်ယောက်မျှ ရှိလိမ့်မည် မဟုတ်ပေ။၎င်းတို့သည် လွတ်မြောက်စေခြင်း ခံကြရမည်လည်း မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

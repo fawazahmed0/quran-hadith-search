@@ -710,6 +710,12 @@ Shte kazhat: “Na Allakh!” Kazhi: “Kak togava ste omag’osvani?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၉။	သူတို့က ခပ်သိမ်းကုန်တို့ကို အလ္လာဟ်အရှင်မြတ်အစိုးရတော်မူ၏ဟု ဆိုကြလိမ့်မည်၊ ထိုအခါ သူတို့အား သို့ပါလျက်သင်တို့သည် အဘယ်ကြောင့်စုန်းအဖမ်းခံကြသနည်းဟု ဆိုလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤမည်သောဂုဏ်တော်များလည်း) အလ္လာဟ်အရှင်မြတ်၌သာ ရှိကြောင်း အမှန်ပင် ၎င်းတို့က ဖြေကြားကြပေလိမ့်မည်။ (ထိုအခါ ၎င်းတို့အား) အသင်က "သို့ဖြစ်လျှင် အသင်တို့သည် အဘယ်ကြောင့် တွေဝေနေကြပါသနည်း" ဟု ပြောကြားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

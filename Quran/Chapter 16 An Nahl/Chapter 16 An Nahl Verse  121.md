@@ -710,6 +710,12 @@ priznatelen be za Negovite blaga. Izbra go Toĭ i go nasochi po praviya pŭt
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၁။	သူသည် အရှင်မြတ်၏ ကျေးဇူးတော်များကို ချီးမွမ်း၏။ အရှင်မြတ်သည် သူ့အား ရွေးကောက်တော်မူ၍ လမ်းပြတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်၏ ကျေးဇူးတော်များကို အလွန် သိတတ်၍ကျေးဇူးတင်ရှိသူဖြစ်ခဲ့၏။ ထိုအရှင်မြတ်သည် ယင်း(နဗီတမန်တော်)အစ်ဗ်ရာဟီမ်အား ရွေးချယ်တော်မူ၍ ဖြောင့်မတ်မှန်ကန်သောတရားလမ်းသို့လည်း ပို့တော်မူခဲ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Znaeshtiya nevedomoto. Toĭ na nikogo ne razkriva Svoite taĭni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။ မမြင်စွမ်းနိုင်သောအရာများကို အလ္လာဟ်အရှင်မြတ်သာလျှင် သိမြင်တော်မူ၏၊ အလ္လာဟ်အရှင်မြတ်သည် မိမိ၏ လျှို့ဝှက်မှုများကို အဘယ်သူတစ်စုံတစ်ယောက်အားမျှ ဖော်ပြတော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအရှင်မြတ်သည်ပင်) ဖုံးကွယ်လျက်ရှိသည်တို့ကို သိရှိတော်မူသောအရှင် ဖြစ်တော်မူ၏။ စင်စစ်သော်ကား ထိုအရှင်မြတ်သည် ဖုံးကွယ်လျက် ရှိသည်တို့နှင့်စပ်လျဉ်းသော မိမိအသိပညာကို မည်သူတစ်ဦးတစ်ယောက်ကိုမျှပင် အသိပေးတော်မူသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A petiya pŭt - gnevŭt na Allakh da e nad neya, ako mŭzhŭt e iskren
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	ပဥ္စမမြောက်အကြိမ်၌ အကျွန်ုပ်အား စွပ်စွဲသူသည် အမှန်စကားကို ဆိုပါလျှင် အကျွနု်ပ်အပေါ်သို့ အလ္လာဟ် အရှင်မြတ်၏ အမျက်တော်ကျရောက်ပါစေသောဝ်ဟု ကျိန်ဆိုရမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ပဉ္စမအကြိမ်၌ အကယ်၍ ထိုယောက်ျားသည် သစ္စာဝါဒီဖြစ်ခဲ့မူ မိမိအပေါ်၌ အလ္လာဟ်အရှင်မြတ်၏ အမျက်တော်သည် ကျရောက်ပါစေဟု ထွက်ဆိုရမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

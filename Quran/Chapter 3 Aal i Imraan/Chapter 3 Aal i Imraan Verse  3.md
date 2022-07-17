@@ -710,6 +710,12 @@ Toĭ ti nizposla Knigata s istinata, potvŭrzhdavashta onova, koeto be predi ne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	အို - မုဟမ္မဒ် အလ္လာဟ်အရှင်မြတ်သည် လွန်လေပြီးသောအခါကာလ၌ လူသားတို့အား နည်းလမ်း ညွှန်ဖို့ရာ တောင်ရတ်ကျမ်းတော်နှင့် အင်ဂျီလ်ကျမ်းတော်ကို မုချဧကန် ပြဋ္ဌာန်းပေးသနားတော်မူ၏။ ထိုနည်းတူ ကုရ်အာန်ကျမ်းတော်ကို သင့်အား အမှန်ပင်ချပေးသနားတော်မူ၏။ ဤကျမ်းတော်သည် ရှေးကျသောကျမ်းတော်များကို ထောက်ခံအတည်ပြု၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(အလ္လာဟ်)အရှင်မြတ်သည် အသင်၏ အပေါ်ဝယ် ကျမ်းမြတ်(ကုရ်အာန်)ကို မှန်ကန် တိကျစွာဖြင့် ထုတ်ပြန်ပို့ချတော်မူလေပြီ။ (ယင်းကုရ်အာန်ကျမ်းတော်မြတ်သည်) မိမိထက်ရှေးဦးစွာ ကျရောက်ခဲ့သော ဒေသနာတော် ကျမ်းဂန်များကို ထောက်ခံလျက်ရှိပေသည်။ ထိုနည်းတူစွာ ထိုအရှင်မြတ်သည် ရှေးအထက်ကျော်ကာလ၌ လူခပင်းတို့ အဖို့တရားဓမ္မအဖြစ် တော်ရာတ် ကျမ်းမြတ်နှင့် အီန်ဂျီလ်ကျမ်းမြတ်ကိုလည်း ထုတ်ပြန်ပို့ချတော် မူခဲ့လေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

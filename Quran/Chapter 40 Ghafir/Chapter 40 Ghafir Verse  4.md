@@ -710,6 +710,12 @@ Samo nevernitsite sporyat za znameniyata na Allakh. I da ne te mami ozhivlenieto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	မယုံကြည်သူတို့မှတပါး မည်သူတစ်စုံတစ်ယောက်မျှ အရှင်မြတ်၏ ကျမ်းတော်နှင့်စပ်လျဉ်း၍ မငြင်းခုံကြချေ၊ အို-တမန်တော်၊ ထိုမသူတော်တို့၏ လောကစည်းစိမ်သည် သင့်ကို မလှည့်ဖြားစေနှင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်၏ အာယတ် အမိန့်တော်များနှင့်စပ်လျဉ်း၍ "ကာဖိရ်" သွေဖည်ငြင်းပယ်သော သူတို့သည်သာလျှင် အငြင်းအခုံ ပြုလေ့ရှိကြကုန်၏။ သို့ဖြစ်ပေရာ(အို-နဗီတမန်တော်)တိုင်းပြည်နိုင်ငံများတွင် ၎င်းတို့၏ လှည့်ပတ်သွားလာလှုပ်ရှားမှုသည် အသင့်အား ဖြားယောင်းခြင်း မရှိစေရ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

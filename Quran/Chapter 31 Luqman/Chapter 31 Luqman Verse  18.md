@@ -710,6 +710,12 @@ I ne krivi litse pred khorata, i ne vŭrvi po zemyata s visokomerie! Allakh ne o
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	အို-ချစ်သား၊ မလေးမခန့်စိတ်ထားမြင့်မောက်၍ သင့်မျက်နှာကို သူတို့ဘက်မှ အခြားဘက်သို့ လှည့်၍ မထားနှင့်၊ မဟာပထမဝီမြေပေါ်၌ စွာတာတာဆောင့်ကြွကြွနှင့် မသွားမလာလင့်၊ အလ္လာဟ်အရှင်မြတ်သည် မာနထောင်လွှား ဝါကြွားပြောဆိုသူကို နှစ်သက်တော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (အို-ချစ်သား) အသင်သည် လူတို့ရှေ့ဝယ် မိမိမျက်နှာကို စူ၍မထားလေနှင့်။ (လူတို့ဘက်မှ မိမိမျက်နှာကို မလွှဲပါလေနှင့်၊) ထို့ပြင် အသင်သည် ပထဝီမြေဝယ်မော်ကြွားလျက်လမ်းမလျှောက်လေနှင့်။ ဧကန်အမှန်အလ္လာဟ်အရှင်မြတ်သည် မည်သည့်စိတ် နေမြင့်သူ၊ အထင်ကြီးသူ၊ ဝါကြွားသူ၊ ဂုဏ်မောက်သူ တို့ကို နှစ်သက်တော်မူသည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

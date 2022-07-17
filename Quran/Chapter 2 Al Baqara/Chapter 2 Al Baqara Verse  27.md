@@ -710,6 +710,12 @@ koito narushavat obeta pred Allakh sled negovoto potvŭrzhdavane i prekŭsvat on
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	အလ္လာဟ်အရှင်နှင့်ထားသော ပဋိညာဉ်စာချုပ်ကို အတည်ပြုပြီးမှ ထိုစာချုပ်ကိုဖျက်သူ အရှင်မြတ်က အတူတကွပူးပေါင်းထားရန် ဗျာဒိတ်ပေးတော်မူသည်များကို ဖြိုခွဲဖြတ်တောက်သူ မြေပေါ်တွင် မကောင်းမှုကို ပြုကျင့်ကြသူ ဤလူများသည် ဆုံးရှုံးသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(သူယုတ်မာ)တို့သည် အလ္လာဟ်အရှင်င်မြတ်နှင့် ခိုင်မာစွာ ပဋိညာဉ်သစ္စာထားကြပြီး သည့်နောက် ထိုပဋိညာဉ်ကို ဖောက်ဖျက်ကြ၏၊ (အချင်းချင်း) ရင်းနှီးစွာ ပေါင်းသင်းဆက်ဆံရန် အမိန့်တော်ချ မှတ်ထားသည်ကိုလည်း လိုက်နာကြသည်မရှိ၊ အဆက်ဖြတ်ကြ၏။ ထို့ပြင်တဝ ထိုသူတို့သည် ကမ္ဘာမြေပြင်၌လည်း (ကမ္ဘာသူကမ္ဘာသားတို့၏) ပျက်စီးရာ ပျက်စီးကြောင်းကို ပြုလုပ်ကြ၏။ (စင်စစ်မှာကား) ထိုသူများသည် ဆုံးရှုံးပျက်စီးသူများသာ ဖြစ်ကြပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

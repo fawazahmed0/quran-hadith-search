@@ -710,6 +710,12 @@ A Kharun oshte predi be im kazal: “O, narode moĭ, tova e samo izpitanie za v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉ဝ။	တမန်တော်မူစာပြန်မလာမီ တမန်တော်ဟာရွန်က ဟယ်-အချင်းတို့၊ သင်တို့ကို ထိုနွားရုပ်ငယ်ဖြင့် လှည့်စားပြီး အကြောင်းမူကား သင်တို့၏အရှင်သခင်သည် မဟာဂရုဏာတော်အရှင်ဖြစ်တော်မူ၏၊ ထို့ကြောင့်အကျွနု်ပ်နောက် သို့ လိုက်၍ အကျွနု်ပ်အမိန့်ကို နာခံကြလော့ဟု ဟောကြား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ်သော်ကား ဟာရူန်က(မူစာ) ပြန်မရောက်မီကပင်ယင်းအမျိုးသားတို့အား(ဤသို့)ပြောဆို (သတိပေး)ခဲ့လေသည်။ အို-ကျွန်ုပ်၏ အမျိုးသားတို့၊ ဧကန်စင်စစ်အသင်တို့သည် ဤနွားရုပ်ကြောင့်လမ်းမှားခဲ့ကြရချေပြီ။ အမှန်စင်စစ်မှာမူကား အသင်တို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည်ရဟ်မာန်အနန္တကရုဏာတော်ရှင်သာတည်း။ သို့ဖြစ်ပေရာ အသင်တို့သည် ကျွန်ုပ်၏နောက်သို့လိုက်ခဲ့ကြလေကုန်။ ၎င်းပြင် အသင်တို့သည် ကျွန်ုပ်၏အမိန့်ကိုလိုက်နာကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

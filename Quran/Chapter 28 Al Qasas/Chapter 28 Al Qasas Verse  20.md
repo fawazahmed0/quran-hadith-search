@@ -710,6 +710,12 @@ I doĭde mŭzh ot drugiya kraĭ na grada - ustremen. Reche: “O, Musa, znatni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	ထိုအခါမြို့စွန်မြို့ဖျားမှ လူတစ်ယောက်ပြေးလာ၏၊ ဤလူက အို-မူစာ၊ မှတ်သားလော့၊ အကြီးအကဲမှုးမတ် တို့သည် သင့်ကို ကွပ်မျက်ဖို့ရာ တိုင်ပင်နှီးနှောနေကြပြီ၊ သို့အတွက်ပြေးလော့၊ မှတ်သားလော့၊ ငါသည် သင့်အား ကောင်းသောသြဝါဒပေးသူတို့အထဲမှ ဖြစ်၏ဟု ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် မြို့၏အစွန်မှ လူတစ်ယောက်သည် ပြေးလျက်လာပြီးလျှင်၊ အို-မူစာ၊ မှူးကြီးမတ်ရာတို့သည် အသင်နှင့်ပတ်သက်၍ အသင့်အား သတ်ပစ်ရန် ဆွေးနွေးတိုင်ပင်လျက်ရှိကြပေသည်။ သို့ပါ၍ အသင်သည် ထွက်သွားပါလေ။ ကျွန်ုပ်သည် အသင်၏ကောင်းကျိုး လိုလားသူတစ်ဦးဖြစ်သည်ဟု ပြောကြားခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

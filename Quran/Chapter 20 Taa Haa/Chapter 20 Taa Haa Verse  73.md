@@ -710,6 +710,12 @@ Nie naistina povyarvakhme v nashiya Gospod, za da ni oprosti grekhovete i magiya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ရ၃။	မှတ်သားပါလော့၊ အလ္လာဟ်အရှင်မြတ်သည် အကျွနု်ပ်တို့အား မိမိတို့အပြစ်များကို လွှတ်တော်မူပါရန်၊ ထို့အပြင် သင်မင်းကြီးက အတင်းအကျပ်ခိုင်းစေ၍ ကျွနု်ပ်တို့ပြုလုပ်ရသောမှော်ဆရာဝိဇ္ဇာအတတ်၏ အပြစ်များကို ခွင့်လွှတ် တော်မူပါရန်၊ အကျွန်ုပ်တို့သည် မိမိတို့၏အရှင်သခင်အား ယုံကြည်ကိုးကွယ်ပါ၏။ အလ္လာဟ်အရှင်မြတ်သည် သာလွန်မြင့်မြတ်၍ နိစ္စထာဝရဖြစ်တော်မူ၏ဟု တုံ့ပြန်ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ကျွန်ုပ်တို့သည် မိမိကို ဖန်ဆင်းတော်မူသောအရှင်မြတ်အား ထိုအရှင်မြတ်သည် ကျွန်ုပ်တို့၏ပြစ်မှုများကိုလည်းကောင်း၊ ကျွန်ုပ်တို့အား ပဉ္စလက် အတတ်နှင့်စပ်လျဉ်း၍ အတင်းအကျပ် အသင်ပြုလုပ်စေခဲ့သည် ကိုလည်းကောင်း၊ ခွင့်လွှတ်ချမ်းသာပေးတော်မူပါရန် သက်ဝင်ယုံကြည်ခဲ့ကြချေပြီ။ စင်စစ်မှာမူကား အလ္လာဟ်အရှင်မြတ်သည်သာလျှင်အမွန်မြတ်ဆုံး၊ နိစ္စထာဝရဖြစ်တော်မူပေသည်ဟု ဖြေကြားခဲ့ကြလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

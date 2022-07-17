@@ -710,6 +710,12 @@ Na Allakh e vsichko na nebesata i vsichko na zemyata. Kogoto pozhelae, Toĭ sht
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၉။	အလ္လာဟ်အသျှင်မြတ်သည် မိုးကောင်းကင်နှင့် ကမ္ဘာမြေပေါ်၌ ရှိရှိသမျှအပေါင်းတို့ကို အစိုးရတော် မူ၏။ အသျှင်မြတ်သည် အလိုတော်ရှိသူအား အပြစ်လွှတ်တော်မူ၏။ အပြစ်ပေးလိုတော်မူသော သူအား အပြစ်ပေးတော်မူ၏။ အသျှင်မြတ်သည် အပြစ်လွှတ်တော်မူသောအသျှင်၊ ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူသောအသျှင် ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်တဝ အာကာသကောင်းကင်များ၌ ရှိရှိသမျှသော (သက်ရှိသက်မဲ့) အရာများသည်လည်းကောင်း၊ပထဝီမြေ၌ ရှိရှိသမျှသော (သက်ရှိသက်မဲ့) အရာများသည်လည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ် ပိုင်ဆိုင်တော်မူသောအရာများချည်းသာတည်း။ ထိုအရှင်မြတ်သည် မိမိအလိုရှိတော်မူသောသူကို အပြစ်မှချမ်းသာပေးသနားတော်မူသည်။၎င်းပြင် ထိုအရှင်မြတ်သည် မိမိအလိုရှိတော်မူသော သူကိုအပြစ်ပေးတော်မူလေသည်။ အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အပြစ်များမှ အလွန်ချမ်းသာခွင့် ပေးသနားတော်မူထသောအရှင်၊ အစဉ်သနားကြင်နာ ညှာတာတော်မူထသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

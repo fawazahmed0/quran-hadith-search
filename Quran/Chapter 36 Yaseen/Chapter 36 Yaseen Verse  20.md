@@ -710,6 +710,12 @@ I doĭde mŭzh ot drugiya kraĭ na grada - ustremen. Reche: “O, narode moĭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	ထိုအခါတွင် မြို့စွန်မြို့ဖျားမှ လူတစ်ယောက်သည် အို-အချင်းတို့၊ တမန်တော်တို့စကားကို နားထောင်ကြပါ ကုန်ဟု ဟစ်အော်ကြွေးကြော်လျက် ပြေးလာ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါမြို့၏အစွန်အဖျားမှ လူတစ်ယောက်သည် ပြေး၍လာခဲ့ပြီးလျှင် (ဤသို့)ပြောကြားခဲ့လေ၏။ "အို- ကျွန်ုပ်၏အမျိုးသားတို့၊ အသင်တို့သည် ရစူလ်တမန်တော်များ၏လမ်းကို လိုက်ကြလေကုန်၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

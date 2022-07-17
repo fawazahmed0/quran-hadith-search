@@ -710,6 +710,12 @@ I kogato kazakhme na angelite: “Svedete chela pred Adam!”, te se poklonikha,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၁။	ငါအရှင်မြတ်သည် ကောင်းကင်တမန်တော်တို့အား သင်တို့သည် အာဒမ်အား ဝပ်တွားရှိခိုးကြလော့ဟု ဗျာဒိတ် ပေးတော်မူ၏။ ထိုအခါအီဗလစ်မှတပါး အခြားတမန်တော်များသည် အာဒမ်အား ဦးညွှတ်ချကြ၏။ သို့သော် အီဗလစ်က အရှင်မြတ် ရွှံ့စေးမှ ဖန်ဆင်းတော်မူသောအရာကို အကျွနု်ပ်သည် ဝပ်တွားရှိခိုးရပါမည်လောဟု တင်လျှောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန်(ပြန်လည်၍သတိရကြလေကုန်)။ တစ်ရံရောအခါဝယ် ငါအရှင်မြတ်သည် မလာအိကဟ် ကောင်းကင်တမန်တို့အား အသင်တို့သည် အာဒမ်၏ရှေ့ဝယ် ဦးချကြလေကုန်ဟု မိန့်ကြားတော်မူခဲ့ရာ အစ်ဗ်လီစ်မှတစ်ပါး ထိုကောင်းကင်တမန်အပေါင်းတို့သည် ဦးချခဲ့ကြလေသည်။ ယင်းအစ်ဗ်လီစ်ကအရှင်မြတ်ရွှံ့စေးဖြင့်ဖန်ဆင်းတော်မူခဲ့သောသူအားကျွန်တော်မျိုးသည်ဦးချရပါမည်လော ဟုလျှောက်ထားခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

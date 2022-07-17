@@ -710,6 +710,12 @@ A onezi, koito vyarvat i vŭrshat pravedni dela, tekhni shte sa Gradinite na Fir
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၇။	မှတ်သားကြလော့၊ အကြင်သူတို့သည် ယုံကြည်မှုရှိ၍ သုစရိုက်မှုများကို ပြုကြ။ ထိုသူတို့ကို ဧည့်ခံဖို့အတွက် နိဗ္ဗာန်ဥယျာဉ်တော်များရှိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ အကြင်သူတို့သည် သက်ဝင်ယုံကြည်ခဲ့ကြကုန်၏။ ၎င်းပြင် ထိုသူတို့သည် ကောင်း မြတ်သောအကျင့်သီလများကိုလည်း ကျင့်မူဆောက်တည်ခဲ့ကြကုန်၏။ ထိုသူတို့အဖို့ ဖစ်ရ်ဒေါက်စ်တည်း ဟူသောဥယျာဉ်သည် ဧည့်ခံရာဌာနအဖြစ် (အဆင်သင့်) ရှိကြပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Tezi sa, koito kupuvat zabludata vmesto napŭt·stvieto. Ala nito tŭrgoviyata i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	ဤလူများသည် သမ္မာတရားတော်ကို မိစ္ဆာအယူဝါဒနှင့်ဖလှယ်ကြ၏ ထို့ကြောင့် သူတို့၏ ရောင်းဝယ် ဖောက်ကားမှုသည် အကျိုးမရှိပေ။ သူတို့သည် လမ်းညွှန်ခြင်းကို မခံရပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မှန်ကန်သော (အစ္စလာမ်) သာသနာကို ပေးလှယ်၍ မှောက်မှားသောတရားကို ဝယ်ယူကြသော အကြင်သူများမှာ ဤသူများပင်၊ ထိုသူများ သည် မိမိတို့၏ (ဤ) ရောင်းဝယ်လဲလှယ်မှု၌ အမြတ်မရရှိသည့်အပြင် တရားရသူများလည်း မဟုတ်ကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

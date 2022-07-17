@@ -710,6 +710,12 @@ Davame Nie tezi primeri na khorata, no gi proumyavat samo znaeshtite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	ငါသည် ဤဥပများကို လူသားတို့အတွက် စီရင်တော်မူ၏၊ သို့သော်သူတို့အနက်ပညာရှိတို့မှတပါး မည်သူမျှ ထိုဥပမာများ၏ ဆိုလိုချက်အဓိပ္ပါယ်ကို နားလည်ကြမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် ဤဥပမာပုံဆောင်ချက်များကို လူတို့၏အကျိုးငှာ ခိုင်းနှိုင်းတော်မူ၏။ သို့ရာတွင် ‘အာလင်မ်’ပညာရှင်တို့သည်သာလျှင် ယင်းဥပမာ ပုံဆောင်ချက်တို့ကိုသိနားလည်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

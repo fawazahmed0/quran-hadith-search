@@ -710,6 +710,12 @@ Rekokha: “O, gorko ni, naistina sme prestŭpvashti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။ ထို့အပြင် သူတို့ညည်းညူမြည်တမ်းကြသည်မှာ ငါတို့ပျက်စီးကြပြီတကား၊ ငါတို့သည် တရားတော်ကို ကျူးကျော် သူများသာဖြစ်လေစွ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထို့နောက်) ၎င်းတို့(အားလုံးသည်) (ဤသို့)ပြောဆိုခဲ့ကြကုန်၏။ ဪ-ကျွန်ုပ်တို့ ဖြစ်ရလေခြင်း၊ ဧကန်အမှန် ကျွန်ုပ်တို့သည်ပင် ဆိုးသွမ်းသူများ ဖြစ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

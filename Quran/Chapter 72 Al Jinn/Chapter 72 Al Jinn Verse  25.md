@@ -710,6 +710,12 @@ Kazhi: “Ne znam blizo li e tova, koeto vi e obeshtano, ili e storil za nego pr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။ အို-တမန်တော်၊ ဟောကြားလော့၊ သင်တို့အား ကတိဗျာဒိတ်ခတ်နှိပ်ထားတော်မူသောအပြစ်ဒဏ်သည် နီးကပ် လာသလော၊ သို့မဟတု ် ငါ၏အရှင်သခင်သည် ထိုအပြစ်ဒဏ်တော်၏ အချိန်ကို ဝေးကွာစွာသတ်မှတ်ထားတော် မူသလောကို ငါမသိနိုင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ပြောကြား ပါလေ။ (အချင်းတို့) အသင်တို့ ချိန်းဆိုခြင်းခံကြရသော(ကိယာမတ်နေ့)မှာ နီးလေသလော၊ သို့တည်းမဟုတ် ငါ့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် ယင်း(ကိယာမတ်နေ့)နှင့်စပ်လျဉ်း၍ အဓွန့်ရှည်သော ကာလအပိုင်းအခြားကို သတ်မှတ်၍ ထားတော်မူလေသလောဟူ၍ ငါသည် သိရှိသည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kogato bŭdat khvŭrleni tam, shte chuyat negoviya rev, kakto vri
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။ သူတို့ကို ငရဲထဲသို့ ပစ်ချသောအခါ သူတို့သည် ငရဲမှ ပြင်းထန်စွာဆူပွက်ကြောက်မက်ဘွယ်သောအသံကို ကြားကြရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ယင်းငရဲ၌ပစ်ချခြင်းကို ခံခဲ့ကြရသောအခါ ယင်းငရဲ၏ဟိန်းသံကို ကြားကြရပေမည်။ ၎င်းပြင် ယင်းငရဲသည် ဆူပွက်လျက်ရှိမည်မှာ၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

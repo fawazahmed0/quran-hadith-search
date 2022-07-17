@@ -710,6 +710,12 @@ v Denya, kogato i ezitsite, i rŭtsete, i krakata im shte svidetelstvat za tekhn
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	သူတို့၏လျှာများ၊ သူတို့၏လက်များ၊ သူတို့၏ခြေထောက်များက သူတို့ပြုကျင့်လေ့ရှိသော အမှုအခင်းတို့ကို ဖော်ထုတ်၍ သက်သေထွက်ဆိုသောနေ့တော်ကြီး၌။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်နေ့တွင်(ထိုနေ့တွင်) ထိုသူတို့၏ နူတ်လျှာများသည်လည်းကောင်း၊ ထိုသူတို့၏ ခြေလက်များသည်လည်းကောင်း၊ ထိုသူတို့နှင့်ဆန့်ကျင်ကာ ထိုသူတို့ ကျင့်မူခဲ့သမျှတို့ကို သက်သေခံကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

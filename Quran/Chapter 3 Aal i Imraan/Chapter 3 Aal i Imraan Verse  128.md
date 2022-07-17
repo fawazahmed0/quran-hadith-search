@@ -710,6 +710,12 @@ Ot teb nishto ne zavisi - Toĭ ili shte prieme pokayanieto im, ili shte gi naka
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၈။	အလ္လာဟ်အသျှင်မြတ်သည် သူတို့အား အပြစ်လွှတ်တော်မူသည်ဖြစ်စေ၊ အပြစ်ဒဏ်ခတ်တော်မူသည် ဖြစ်စေ၊ သင်တို့၏အမှုမဟုတ်ပေ။ အကြောင်းမူကား သူတို့သည် မကောင်းမှုပြုကျင့်သူများ ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို- နဗီတမန်တော်) ဤကိစ္စနှင့်စပ်လျဉ်း၍အသင်တစ်စုံတစ်ရာ ဝင်ရောက် စွက်ဖက်ပိုင်ခွင့်မရှိချေ။ ထိုအရှင်မြတ်သည် ထိုသူတို့ဖက်သို့ ကရုဏာတော်ဖြင့် ပြန်လှည့်တော်မူသည်ဖြစ်စေ၊ သို့တည်းမဟုတ် ထိုသူတို့အား အပြစ်ဒဏ်ပေးတော်မူသည်ဖြစ်စေ၊ အဘယ်ကြောင့်ဟူမူ ထိုသူများသည်မုချဧကန် မတော်မတရားကျူးလွန်သောသူများဖြစ်ကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

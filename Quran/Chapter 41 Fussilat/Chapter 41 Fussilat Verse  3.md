@@ -710,6 +710,12 @@ Kniga, znameniyata na koyato sa razyasneni - Koran na arabski za khora proumyava
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	ထိုကျမ်းမြတ်၌ ဂါထာများကို အသေးစိတ်ရှင်းလင်းပြထား၏၊ ပညာဉာဏ်ရှိသူများအတွက် (အာရဗီ)ဘာသာ တရားဒေသနာတော်မြတ်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤသည်) အကြင်ကျမ်းဂန်ပင်ဖြစ်၏။ ယင်းကျမ်းဂန်၏ အာယတ်တော်များသည် သိနားလည်ကြသောအမျိုးသားတို့အဖို့ ရှင်းလင်းစွာ ဖော်ပြထားတော် မူသော (ဝါ)အရဗ်ဘာသာစကားဖြင့်ထုတ်ပြန်သော) ကုရ်အာန်ကျမ်းတော်မြတ်ပင် ဖြစ်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

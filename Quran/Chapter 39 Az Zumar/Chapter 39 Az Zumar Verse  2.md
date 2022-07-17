@@ -710,6 +710,12 @@ Nizposlakhme na teb Knigata s istinata. Na Allakh sluzhi, predan Nemu v religiya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	အို-တမန်တော်မိုဟမ္မဒ်၊ မှတ်သားလော့၊ ငါသည် သင့်အား ကုရ်အာန်ကျမ်းတော်ကို အမှန်ချပေးသနားတော် မူ၏၊ ထို့ကြောင့် အလ္လာဟ်အရှင်မြတ်အားသာလျှင် ဝတ်ပြုလော့၊ အရှင်မြတ်အားသာလျှင် ခဝပ်ကိုးကွယ်ခြင်း သည် ဖြူစင်မှန်ကန်သောတရားဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ငါအရှင်မြတ်သည် အသင့်ထံသို့ ဤ(ကုရ်အာန်)ကျမ်းတော်မြတ်ကို တိကျမှန်ကန်စွာ ချပေးသနားတော်မူခဲ့ရာ၊ အသင်သည် အလ္လာဟ် အရှင်မြတ်အားသာလျှင် ဆည်းကပ်ကိုးကွယ်မှုကို သက်သက် ထိုအရှင်အတွက် သဒ္ဓါဖြူစင်စေလျက် ဆည်းကပ်ကိုးကွယ်ပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

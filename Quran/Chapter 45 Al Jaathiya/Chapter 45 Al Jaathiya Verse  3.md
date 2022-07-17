@@ -710,6 +710,12 @@ Na nebesata i na zemyata ima znameniya za vyarvashtite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	မှတ်သားကြလော့၊ မိုးကောင်းကင်နှင့် ကမ္ဘာမြေကြီး၌ ယုံကြည်သူတို့အဖို့အရာ သက်သေသာဓကတော်များ ပါရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် မိုးကောင်းကင်များ၌လည်းကောင်း၊ပထဝီမြေ၌လည်းကောင်း၊ "မုအ်မင်န်"သက်ဝင်ယုံကြည်ကြကုန်သော သူတို့အဖို့ အမှန်ပင် သက်သေလက္ခဏာများ ရှိကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

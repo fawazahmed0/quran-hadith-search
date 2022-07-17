@@ -710,6 +710,12 @@ Toĭ e, Koĭto sŭtvori smŭrtta i zhivota, za da vi izpita koĭ ot vas e po-
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။ အရှင်မြတ်သည် သင်တို့အနက် အဘယ်သူသည် ကောင်းမြတ်သောအကျင့်သီလကို ဆောက်တည်သနည်းဟု စုံစမ်းတော်မူရန်အလို့ငှာ သေခြင်းရှင်ခြင်းတို့ကို စီရင်တော်မူ၏၊ အရှင်မြတ်သည် အနန္တတန်ခိုးတော်သခင်၊ အဖန်တလဲလဲအပြစ်လွှတ်တော်မူသောအရှင် ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင် အရှင်မြတ်သည် အသင်တို့အား အသင်တို့အနက် မည်သူသည် အကျင့်အမူအားဖြင့် အကောင်းဆုံးဖြစ်သည်ကို စမ်းသပ်တော်မူအံ့သောငှာ "မရဏ" သေခြင်းတရားကိုလည်းကောင်း၊ အသက် ရှင်ခြင်းကိုလည်းကောင်း၊ ဖန်ဆင်းတော်မူခဲ့၏။ ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် အလွန်တရာ ခန့်ညား တော်မူသောအရှင်၊ အလွန်တရာ ခွင့်လွှတ်တော်မူသောအရှင်၊ ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

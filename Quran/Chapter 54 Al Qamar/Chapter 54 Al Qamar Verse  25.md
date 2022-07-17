@@ -710,6 +710,12 @@ Nima na nego be razkrito Pouchenieto sred nas? Ne, toĭ e nadmenen lŭzhets.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	ငါတို့အနက် သူ့ကိုသာ ဗျာဒိတ်ချပေးတော်မူသလော၊ မဟုတ်ချေ၊ သို့သော်သူသည် မာနကြီးသောမုသားကောင် တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကျွန်ုပ်တို့အနက်မှ ၎င်း၏အပေါ်၌သာ (ရွေးကောက်၍) ‘ဝဟ်ယ်’ အမိန့်တော် ဆုံးမဩဝါဒတော် ချပေးခြင်း ခံခဲ့ရလေသလော။ ထိုသို့ အလျှင်းမဟုတ်။ စင်စစ်မှာကား ၎င်းသည် လွန်စွာမုသားပြောဆိုသူ၊ ဝင့်ကြွားသူပင် ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

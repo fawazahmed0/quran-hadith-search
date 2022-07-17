@@ -710,6 +710,12 @@ Shte bŭde praten sreshtu vas plamŭk ot ogŭn i dim, i ne shte vi se pomogne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	အို-လူနှင့် ဂျင်အပေါင်းတို့၊ ငါသည် သင်တို့အပေါ်၌ မီးအပူရှိန်နှင့်တကွ ကြေးဝါမီးတောက်မီးလျှံတို့ကို စေ လွှတ်တော်မူမည်၊ သင်တို့သည် ဤဘေးဆိုးကြီးမှ မလွတ်မြောက်နိုင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့နှစ်ဦး၏ အပေါ်ဝယ် မီးခိုးမပါသော မီးတောက်မီးလျှံသည်လည်းကောင်း၊ (မီးမပါသော)အခိုးများသည်လည်းကောင်း၊ စေလွှတ်ခြင်းခံရလတ္တံ့။ ထိုအခါ အသင်တို့သည် ဖယ်ရှားနိုင်ကြမည်မဟုတ်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A ako iskakha da izlyazat [za bitka], shtyakha da se podgotvyat za tova. No Alla
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။	အကယ်၍ သူတို့သည် စစ်တိုက်သွားကြလျှင် သူတို့သည် မိမိတို့လက်နက်ကိရိယာများကို မုချဧကန်အသင့် ပြင်ဆင်ထားလေလတ္တံ့။သို့သော်အလ္လာဟ်အရှင်မြတ်သည် သူတို့၏ စစ်ချီသွားခြင်းကို နှစ်ခြိုက်တော်မမူပေ။သူတို့ကို ဆွဲထားတော်မူ၏။သူတို့အား သင်တို့သည် ထိုင်လုပ်ငန်းသမားတို့နှင့် ထိုင်နေရစ်ကြလော့ဟု မိန့်တော် မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်တမူကား အကယ်၍သာ ၎င်းတို့သည်(အသင်တို့နှင့်အတူ စစ်တလင်းသို့) ထွက်ကြရန် ရည်စူးခဲ့ကြပါလျင်၊ မုချဧကန် ၎င်းတို့သည် ထွက်ရန်အလို့ငှာ တစ်စုံတစ်ရာပြင်ဆင်မှု အသင့်ပြုလုပ်ထားရှိ ကြပေမည်။ သို့ရာတွင်အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့ (စစ်တလင်းသို့လိုက်ပါ) သွားခြင်းကို မနှစ်မြို့တော်မူခဲ့ချေ။ သို့ဖြစ်ပေရာ ထိုအရှင်မြတ်သည် ၎င်းတို့အား နေမြဲနေစေတော်မူခဲ့လေသည်။ ၎င်းပြင်(အလ္လာဟ်အရှင်မြတ်အထံတော်မှ ထိုသူတို့အား) အသင်တို့သည် ကျန်ရစ်ခဲ့သောသူတို့နှင့်အတူ၊ ထိုင်၍ ပင် ကျန်ရစ်ခဲ့ကြလေကုန် ဟု အမိန့်ရှိခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

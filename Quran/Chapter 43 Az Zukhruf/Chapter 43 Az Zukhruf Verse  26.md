@@ -710,6 +710,12 @@ Ibrakhim reche na svoya bashta i na svoya narod: “Az otkhvŭrlyam tova, na koe
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	မှတ်သားလော့၊ တမန်တော်အေဗရာဟမ်က သူ၏ အဘနှင့်အမျိုးသားတို့ကို ဤသို့ပြောဟော၏၊ သင်တို့ကိုး ကွယ်သောဘုရားတုများကို ကိုးကွယ်မှုမှ အကျွနု်ပ်သန့်စင်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး (ပြန်လည်သတိရရှိကြလေကုန်၊)တစ်ရံရောအခါဝယ် "တမန်တော်အိဗ်ရာဟီမ်"သည် မိမိဘခင်အားလည်းကောင်း၊ မိမိအမျိုးသားအားလည်းကောင်း၊ "မုချဧကန် ငါသည် အသင်တို့ ဆည်းကပ် ကိုးကွယ်ကြသည်တို့မှကင်းလွတ်၏"။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

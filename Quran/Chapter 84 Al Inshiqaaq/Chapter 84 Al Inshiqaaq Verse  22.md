@@ -710,6 +710,12 @@ Da, onezi, koito ne vyarvat, otrichat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။ သို့သော် ယင်းသို့ကိုင်းညွှတ်မည့်အစား မိစ္ဆာဒိဋ္ဌိတို့သည် ငြင်းပယ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမျှမကသေးပေ၊ စင်စစ်မှာမူကား ကာဖိရ်သွေဖည်ငြင်းပယ်သော သူတို့သည် ("ကိယာမတ်" အကြောင်းကို ရှင်းလင်းပြသော ထိုကုရ်အာန်ကျမ်းတော်မြတ်ကို) မဟုတ်မမှန်ဟူ၍ပင် ငြင်းပယ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

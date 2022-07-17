@@ -710,6 +710,12 @@ I ako ti byakhme nizposlali napisano Poslanie i go pipnekha s rŭtsete si, never
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	အို-မိုဟမ္မဒ်၊ အကယ်၍ ငါအသျှင်မြတ်သည် သင့်ထံသို့ စက္ကပေါ်တွင် ရေးထားသော ကျမ်းတော်ကို သူတို့ကိုင်တွယ်စမ်းသပ်ကြည့်နိုင်အောင် ချပေးသော်လည်း သူတို့သည် ဤအရာသည် ထင်ရှားသော ဝိဇ္ဇာမျက်လှည့်အတတ်မှတစ်ပါး အခြားတစ်စုံတစ်ရာမဟုတ်ပေဟု ပြောဆိုကြမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အကယ်၍ ငါအရှင်မြတ်သည် အသင်၏အပေါ်သို့ စာရွက်တွင် ရေးသားထားသော ကျမ်းတစ်စောင်စောင်ကို ထုတ်ပြန်တော်မူခဲ့သော်၊ ထို့နောက် ထိုသူတို့သည်ယင်းကျမ်းကို မိမိတို့၏ လက်များဖြင့် ထိတွေ့ စမ်းသပ်ခဲ ့ကြသည်ရှိသော်၊ သို့တစေလည်း ကာဖိရ် မယုံမကြည် သွေဖည်ငြင်းပယ်သော သူတို့ကမူ ဤသည် အလွန်ထင်ရှား သောစုန်းပယောဂဖြစ်သည် ဟူ၍ပင် မုချ ပြောဆိုကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

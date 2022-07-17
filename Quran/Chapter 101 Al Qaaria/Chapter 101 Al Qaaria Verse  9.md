@@ -710,6 +710,12 @@ zavrŭshtaneto mu e bezdna
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၊၉။ အကြင်သူ၏ ချိန်ခွင်လျှာသည် ကုသိုလ်ကောင်းမှုဘက်က ပေါ့လတံ့၊ ဆိုးပါးငတ်မွတ်သူသည် ထိုသူ၏ မိခင် ဖြစ်လတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူ၏ နေထိုင်ရာဌာနမှာ နက်ရှိုင်းသောငရဲတွင်းပင် ဖြစ်ပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

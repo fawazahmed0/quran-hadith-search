@@ -710,6 +710,12 @@ I pozova toĭ svoya Gospod: “Tezi khora sa prestŭpnitsi.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	သူသည် မိမိ၏ အသက်သခင်ကျေးဇူးရှင်ကြီးအား ဤသူ ဤသူတို့သည် အပြစ်ရှိသူများဖြစ်ကြပါ၏ဟု ငိုကြွေး တိုင်တန်း၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ထိုရစူလ်တမန်တော်(မူစာ)သည် မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်တွင် အမှန်ဧကန် ဤသူတို့သည် ပြစ်မှုကျူးလွန်ကြကုန်သော အမျိုးသားများ ဖြစ်ကြပါသည်ဟူ၍ လျှောက်ထားပန်ကြားခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

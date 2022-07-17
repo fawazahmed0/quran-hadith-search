@@ -710,6 +710,12 @@ Nie te izpratikhme [o, Mukhammad] samo kato blagovestitel i predupreditel
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၆။	အို--တမန်တော်မိုဟမ္မဒ်၊ ငါသည် သင့်အား သတင်းကောင်းဆောင်သူနှင့် သတိပေးသူအဖြစ်ဖြင့်သာ စေလွှတ် တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား (အို-နဗီတမန်တော်၊) ငါ အရှင်မြတ်သည် အသင့်အား သတင်းကောင်း ပြောကြားသူနှင့် သတိပေးနှိုးဆော်သူအဖြစ်သာ စေလွှတ်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ TE-ELLAHI ‘IN KUNNA LEFI DELALIN MUBININ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၇။	ငါတို့သည် အလ္လာဟ်အရှင်မြတ်ကို တိုင်တည်၍ဆိုကြပါ၏၊ ငါတို့သည် အမှား၌ မုချရှိကြသည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်၏ ‘ကစမ်’။ ဧကန်အမှန် ကျွန်ုပ်တို့သည် အလွန်ထင်ရှားလှစွာသော လမ်းလွဲမှု၌ပင် ရှိခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

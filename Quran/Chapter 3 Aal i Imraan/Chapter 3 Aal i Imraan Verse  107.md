@@ -710,6 +710,12 @@ A onezi, chiito litsa pobeleyat, te sa v milostta na Allakh, v neya shte prebiva
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၇။	မျက်နှာဖြူစင်တောက်ပလာရသောသူတို့မူကား အလ္လာဟ်အသျှင်မြတ်၏ ကောင်းကြီးမင်္ဂလာတော်၌ အမြဲခံစားနေထိုင်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် (ကျက်သရေမင်္ဂလာနှင့်ပြည့်စုံ၍)မျက်နှာသန့်ရှင်းကြည်လင် ဖြူစင်သောသူတို့မူကား အလ္လာဟ်အရှင်မြတ်၏ ကရုဏာတော်၌ ရှိကြ၍ ထိုကရုဏာတော်၌ပင်ထာဝစဉ် တည်နေကြမည့်သူများ ဖြစ်ကြပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

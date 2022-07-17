@@ -710,6 +710,12 @@ Ili [nevernitsite] se sdobikha ot zemyata s bozhestva, koito vŭzkresyavat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	သို့မဟုတ် မိစ္ဆာမိုက်တို့သည် သေသူအား ရှင်ပြန်ထမြောက်စေတော်မူသောဘုရားများကို ကမ္ဘာမြေကြီးပေါ်မှ ရွေးချယ်ပြီးပြီလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ပါလျက် ၎င်း(မုရှ်ရစ်က်)တို့သည် ပထဝီမြေမှဖြစ်သောအရာများကို ကိုးကွယ်ရာများ ပြုလုပ် ထားကြလေသလော။ ယင်းအရာများသည် ရှင်ပြန်စေနိုင်ကြသည်(လော)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

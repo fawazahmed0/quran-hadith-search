@@ -710,6 +710,12 @@ Kogato rabŭt na Allakh [Mukhammad] se izpravi da Go pozove, te edva ne se strup
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။ အလ္လာဟ်အရှင်မြတ်၏ ကျေးကျွန်တမန်တော်သည် အရှင်မြတ်အား ဝတ်ပြုရန် ရပ်သောအခါ သူတို့သည် တမန်တော်မွန်းလုနီးမျှ အမြောက်အများဝိုင်းဝန်းကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ဧကန်အမှန် အလ္လာဟ်အရှင်မြတ်၏ ကျွန်တော်(မုဟမ္မဒ်)သည် ထိုအရှင်မြတ်အား ဝတ်ပြုရန် (ထ၍)ရပ်သောအခါ ၎င်းတို့သည် ထိုကျွန်တော် (မုဟမ္မဒ်)အပေါ်ဝယ် ဝိုင်းအုံကြအံ့ဆဲဆဲ ဖြစ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A onzi ot dvamata, koĭto be spasen, si spomni sled vreme i reche: “Az shte v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	ထိုအခါထိုသူနှစ်ဦးအနက် အလွှတ်ခံရသောသူသည် နောက်ဆုံး၌ သတိရ၍ အကျွနု်ပ်သည် အိပ်မက်များ၏ အဓိပ္ပါယ်ကို ရှင်းလင်းပြပါမည်။ သို့အတွက်အကျွနု်ပ်ကို ယခုသင့်တို့ထံမှ ထွက်သွားခွင့်ပြုပါဟု လျှောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ယင်း(အကျဉ်းချထားခြင်း ခံခဲ့ကြသော) လုလင်နှစ်ဦးအနက် ပြန်၍လွတ်မြောက်ခဲ့သော လုလင်သည် ကာလအတော်ကြာပြီးနောက်သော်မှပင် သတိရလာ၍ထိုအိပ်မက်၏ဒိဗ်ဓုမ်ကို ဘုရင်မင်းမြတ်တို့အား ကျွန်တော်မျိုးတစ်ဆင့်ပြောပြပါမည်။ သို့ပါ၍ အရှင်မင်းမြတ်သည် ကျွန်တော်မျိုးအား သွားခွင့်ပြုတော်မူပါဟု လျှောက်ထားခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

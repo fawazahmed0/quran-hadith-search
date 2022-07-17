@@ -710,6 +710,12 @@ Pŭrviyat Dom, sŭgraden za khorata, e v Beka - blagosloven i za napŭtvane na n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၆။	မှတ်သားကြလော့။ လူသားတို့အတွက် ရှေးဦးပထမသတ်မှတ်ထားတော်မူသော သန့်ရှင်းသော ဘေးမဲ့သောဌာနမှာမူကား မက္ကာမြို့၌ရှိ၏။ ကောင်းကြီးမင်္ဂလာရှိသောဌာန၊ လူသားတို့အား လမ်းညွှန်ဌာနဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် (အလ္လာဟ်အရှင်မြတ်အားခဝပ်ကိုး ကွယ်ရန်အလို့ငှာ) လူသားတို့အဖို့ ဦးစွာပဌမ တည်ဆောက်ထား သော အိမ်တော်သည်ကား မက္ကာမြို့တော်၌တည်ရှိသော အိမ် တော်ပင်တည်း။ ထိုအိမ်တော်သည်ကောင်းခြီးမင်္ဂလာ အဖြာဖြာ နှင့် ပြည့်စုံလျက်ရှိသည့်ပြင်စကြာဝဠာခပ်သိမ်းကို တရားလမ်းမှန် သို့လည်း ညွှန်ကြားလျက် ရှိ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

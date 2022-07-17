@@ -710,6 +710,12 @@ I ako toĭ Ni pripisvashe nyakakvi slova
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။ ထို့အပြင် တမန်တော်ရှင် မိုဟမ္မဒ်သည် ငါ၏ နာမတော်ကို အလွဲသုံးစားလျက် မဟုတ်မမှန်လုပ်ကြံဟောကြားလျှင်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အကယ်၍သာ ထို(နဗီတမန်တော်မြတ်)သည် ငါအရှင်မြတ်အပေါ်၌ အချို့သောစကားများကို လုပ်ကြံပြောဆိုခဲ့ပါလျှင်၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

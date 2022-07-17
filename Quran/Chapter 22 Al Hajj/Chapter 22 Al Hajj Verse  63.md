@@ -710,6 +710,12 @@ Ne vizhdash li, che Allakh izsipva voda ot nebeto i togava zemyata se razzelenya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၃။	အလ္လာဟ်အရှင်မြတ်သည် အထက်မိုးကောင်းကင်မှ ကမ္ဘာကြီးပေါ်သို့ မိုးကို ရွာသွန်းစေတော်မူခြင်း၊ ထိုမိုးရွာသွန်း ပြီးနောက် နံနက်မိုးသောက်တွင် ပထဝီမြေကြီးသည် စိမ်းလန်းစွတ်စိုလာခြင်းတို့ကို သင်မမြင်သလော၊ မှတ်သား ကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် နက်နဲသိမ်မွေ့တော်မူ၏၊ သိမြင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် မိုးရေကို ရွာသွန်းစေတော်မူခဲ့ရာ ပထဝီမြေမှာ စိမ်းစိမ်းစိုစို ဖြစ်လာသည်ကို အသင်သည် မသိမမြင်လေသလော။ ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် အလွန်တရာ ချစ်ခင်သနားကြင်နာတော်မူသော၊ အလွန်တရာ ကြားသိတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

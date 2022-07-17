@@ -710,6 +710,12 @@ To e ot Allakh, Vladetelya na nebesnite stŭpala
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။ ထိုအပြစ်ဒဏ်သည် တက်ရာလမ်းမြတ်များတို့၏ အရှင်သခင် အလ္လာဟ်အထံတော်မှ ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 လှေကား အဆင့်အထစ် အဆင့်အတန်းများကို ပိုင်ဆိုင်တော်မူသော ၎င်းအရှင်မြတ်ထံတော်မှ (ကျရောက်မည်)ဖြစ်သော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

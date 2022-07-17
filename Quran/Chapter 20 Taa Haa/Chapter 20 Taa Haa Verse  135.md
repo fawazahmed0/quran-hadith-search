@@ -710,6 +710,12 @@ Kazhi: “Vsichki chakame. Chakaĭte i vie, i shte razberete koi sa na praviya 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၅။	အို--တမန်တော်၊ သင်တို့သည် စောင့်ဆိုင်းနေကြဦးလော့၊ သင်တို့သည် ကာလမကြာမြင့်မီ အဘယ်သူတို့သည် တရားလမ်းမှန်ကို ရရှိသည်၊ အဘယ်သူသည် မှန်ကန်သည်တို့ကို သိမြင်ကြရလတ္တံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (၎င်းတို့ အားဤသို့)ပြောကြားပါလေ။ (အချင်းတို့၊)အားလုံးပင် စောင့်မျှော်၍နေသူများပင်ဖြစ်ကြပေရာ အသင်တို့သည်လည်း စောင့်မျှော်ကြလေကုန်။ သို့(စောင့်မျှော် ကြ)ပါလျှင် မကြာမြင့်မီ မည်သူတို့သည် ဖြောင့်မှန်သောလမ်းပေါ်၌ ရှိခဲ့သူများ ဖြစ်ကြသည်ကိုလည်းကောင်း၊ မည်သူတို့သည် တရားလမ်းမှန် ရရှိခဲ့သူများဖြစ်ကြသည်ကိုလည်းကောင်း၊ အသင်တို့သည် သိရှိကြအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

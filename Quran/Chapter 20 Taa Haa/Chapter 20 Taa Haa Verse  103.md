@@ -710,6 +710,12 @@ Shte shepnat pomezhdu si: “Prebivavakhte [na zemyata] samo deset [dni].”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၃။	သူတို့သည် အချင်းချင်း အချင်းတို့၊ သင်တို့သည် ဆယ်ရက်မျှသာနေခဲ့ကြသည်ဟု တီးတိုးပြောဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုနေ့တွင်) 4င်းတို့သည် မိမိတို့အချင်းချင်းအသင်တို့သည် (လောကတွင်)ဆယ်ရက်မျှသာ နေခဲ့ကြသည်ဟုတီးတိုးပြောဆိုကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I kogato nevernitsite lukavstvakha sreshtu teb, da te zadŭrzhat ili da te ubiya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	မယုံကြည်သူတို့သည် သင်မိုဟမ္မဒ်အား သေလောက်အောင် နာကျင်စေရန်ကိုသော်လည်းကောင်း၊ သတ်ပစ်ရန်ကိုသော်လည်းကောင်း၊ မောင်းနှင်ထုတ်ရန်ကိုသော်လည်းကောင်း ကြံစည်အားထုတ် သောအခါ သူတို့သည် အကြံထုတ်ကြ၏။ အလ္လာဟ်အသျှင်မြတ်လည်း အကြံထုတ်တော်မူ၏။ သို့သော် အလ္လာဟ်အသျှင်မြတ်သည် အကြံထုတ်သူအပေါင်းတို့၌ အထွဋ်အခေါင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (အို-နဗီတမန်တော် အသင်သည် ပြန်လည်၍ သတိရပါလေ။) အကြင်အခါ၌ ကာဖိရ် မယုံမကြည်သွေဖည်ငြင်းပယ်သော သူတို့သည် အသင်နှင့် ပတ်သက်၍အသင့် အား ဖမ်းဆီးချုပ်နှောင် ကြရန်သော်လည်းကောင်း၊အသင့်အား သတ်ဖြတ်ကြ ရန်သော်လည်းကောင်း၊ အသင့်အား(မက္ကဟ်မြို့မှ) နှင်ထုတ်ကြရန်သော်လည်းကောင်း၊ လျို့ဝှက်စွာကြံစည်လျက်ရှိကြကုန်၏။ (ထိုစဉ်အခါဝယ်)၎င်းတို့သည် (မိမိတို့၏ အကြံအစည်များကို) ကြံစည်လျက် ရှိကြလေသည်။အလ္လာဟ်အရှင်မြတ်သည်လည်း (မိမိအကြံအစည်ကို)ကြံစည်လျက် ရှိတော်မူ၏။ စင်စစ်တမူကား အလ္လာဟ်အရှင်မြတ်သည် အကောင်းဆုံးကြံစည်နိုင် တော်မူသောအရှင်မြတ်ပင်ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

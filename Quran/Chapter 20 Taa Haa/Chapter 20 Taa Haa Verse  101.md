@@ -710,6 +710,12 @@ tam shte prebivavat vechno [v Ogŭnya na Ada]. I kolko losho breme e v Denya na 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၁။	ထိုဝန်ထုပ်ကြီးကို အမြဲပင်ထမ်းပိုးလျက်နေရလတ္တံ့၊ ရှင်ပြန်ထမြောက်ရသောနေ့ကြီး၌ ထိုဝန်ထုပ်သည် အလွန် ဆိုးဝါးယုတ်မာလှပေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုသူတို့သည်) ယင်း(ဝန်ထုပ်ကိုထမ်းဆောင်သယ်ပိုးခြင်း၏)အဖြစ်၌ ထာဝစဉ် ခံစားလျက် ရှိကြပေမည်။စင်စစ် ထိုဝန်ထုပ်သည် ၎င်းတို့အဖို့ ကိယာမတ် ရှင်ပြန်ထရမည့်နေ့တွင် အလွန်ဆိုးရွား လှသော ဝန်ထုပ်ပင် ဖြစ်ချိမ့်မည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

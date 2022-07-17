@@ -710,6 +710,12 @@ I podchini Toĭ za vas noshtta i denya, i slŭntseto, i lunata, i zvezdite sa p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	ထို့အပြင်အရှင်မြတ်သည် နေ့နှင့်ညဉ့်၊ နေနှင့်လတို့အား သင်တို့၏ အကျိုးကို ဆောင်စေတော်မူ၏။ အရှင်မြတ်၏ ဗျာဒိတ်တော်အတိုင်း နက္ခတ်တာရာတို့လည်း သင်တို့အကျိုးကို ဆောင်ရ၏။ မှတ်သားကြလော့၊ ဤအကြောင်း အရာ၌ အသိဉာာဏ်ရှိသူတို့အဖို့ သာဓကတော်များအမှန်ပင်ပါရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုအရှင်မြတ်သည်ပင်လျှင် အသင်တို့အကျိုးငှာ ညဉ့်ကိုလည်းကောင်း၊ နေ့ကိုလည်းကောင်း၊သူရိယနေမင်းကိုလည်းကောင်း၊ လစန္ဒာကိုလည်း ကောင်း၊အမိန့်ကို လိုက်နာစေတော်မူခဲ့၏။ ထိုမှတစ်ပါး ကြယ်နက္ခတ်တို့သည်လည်း ထိုအရှင်မြတ်၏အမိန့်တော်နှင့် လိုက်နာစေခြင်းကိုခံခဲ့ကြရပြီ ဖြစ်၏။ဧကန်မလွဲ ဤသည်၌ နားလည်ကြကုန်သော သူတို့အဖို့သက်သေသာဓကများသည်ရှိကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

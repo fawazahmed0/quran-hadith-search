@@ -710,6 +710,12 @@ Rekokha: “O, Musa, nikoga ne shte vlezem v neya, dokato sa oshte tam. Vŭrvete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	သူတို့က အို-မူဆာ ထိုကြီးမားသောသူတို့ ရှိသေးသမျှကာလပတ်လုံး အကျွနု်ပ်တို့သည် ထိုအရပ်ဒေသ ကို ဝင်ကြမည်မဟုတ်ပေ။ ထို့ကြောင့် သင်နှင့် သင်၏အသျှင်သခင်သွား၍ စစ်မက်ဆိုင်ပြိုင် တိုက်ခိုက်ကြပါလော့။ အကျွနု်ပ်တို့သည် ဤနေရာ၌ အမှန်ပင်ထိုင်၍နေမည်ဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ အမျိုးသားတို့က အို- မူစာ ၎င်းတို့သည် ထို (နယ်) မြေအတွင်း ရှိနေသမျှကာလပတ်လုံး မုချဧကန် ကျွန်ုပ်တို့သည် ယင်း (နယ်) မြေအတွင်းသို့ မည်သည့်အခါမျှ အလျင်း ဝင်ရောက်ကြမည်မဟုတ်ပေ။ သို့ဖြစ်ပေရာ အသင်ကိုယ်တိုင် မိမိအရှင်မြတ်နှင့်တကွ သွားရောက်ပြီး အသင်တို့နှစ်ဦးသာလျှင် တိုက်ခိုက်ကြလေကုန်။ ကျွန်ုပ်တို့မူကား ဤနေရာ၌ပင် ထိုင်၍နေကြကုန်အံ့” ဟု ပြောဆိုကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

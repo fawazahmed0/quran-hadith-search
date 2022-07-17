@@ -710,6 +710,12 @@ Ovaj prijatelj moj ima devedeset i devet ovaca, a ja samo jednu, i on mi reče: 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	နားဆင်တော်မူပါ၊ ဤအကျွနု်ပ်ညီရင်းအစ်ကိုဖြစ်သူတွင် သိုးမကောင်ရေကိုးဆယ်ကိုးရှိပါ၏၊ အကျွနု်ပ်မှာမူကား သိုးမတစ်ကောင်သာရှိပါ၏၊ သို့ပါလျက် သူက ထိုသိုးမကို သူ့အား အပ်နှံရန်ပြောပါ၏၊ ထို့အပြင် သူသည် စကားဖြင့် အနိုင်ကျင့်ပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ဤသူသည် ကျွန်ုပ်နှင့်ညီအစ်ကိုတော်စပ်သူ ဖြစ်ပါသည်။ ၎င်း၌ သိုးမကိုးဆယ့်ကိုးကောင်ရှိ၍ ကျွန်ုပ်တွင်မူ သိုးမတစ်ကောင်တည်းသာ ရှိပါသည်။ သို့ပါလျက် ဤသူသည် "ယင်းသိုးမကိုလည်း ကျွန်ုပ်အား လွှဲအပ်လော့"ဟုပြောဆိုပါသည်။ ထိုမှတစ်ပါး ၎င်းသည် စကားပြောရာ၌လည်း ကျွန်ုပ်အား နိုင်ပါသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

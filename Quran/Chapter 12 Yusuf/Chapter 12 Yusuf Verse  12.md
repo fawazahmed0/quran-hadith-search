@@ -710,6 +710,12 @@ Izprati go s nas utre da se ponaslazhdava i zabavlyava! Nepremenno shte go pazim
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	သူသည် ပျော်ရွှင်မြူးတူးကစားနိုင်စေခြင်းငှာ သူကို အကျွနု်ပ်တို့နှင့်အတူ မနက်ခါထည့်ပါ။ အကျွနု်ပ်တို့သည် သူ့ကို ကောင်းစွာစောင့်ရှောက်ပါမည်ဟု ပြောကြား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (သို့ပါ၍) ခမည်းတော်သည် ယင်းယူဆွဖ်အားနက်ဖြန်နံနက် ကျွန်ုပ်တို့နှင့်အတူ ပျော်ပျော်ရွှင်ရွှင် စားသောက်ကစားနိုင်ရန်အလို့ငှာလွှတ်ပါ။ ကျွန်ုပ်တို့သည် ဧကန်အမှန်၎င်းအား (ဘေးရန်ခပ်သိမ်းတို့မှ ကာကွယ်)စောင့်ရှောက်မည့်သူများပင် ဖြစ်ကြပါသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

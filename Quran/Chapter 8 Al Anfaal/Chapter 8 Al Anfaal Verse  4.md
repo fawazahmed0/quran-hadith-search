@@ -710,6 +710,12 @@ Tezi sa istinskite vyarvashti. Za tyakh ima stepeni pri tekhniya Gospod, i opros
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	ထိုလူများသည် ယုံကြည်သူအစစ်ဖြစ်ကြ၏။ သူတို့အတွက် သူတို့၏ အသျှင်သခင်အထံတော်၌ ဂုဏ်အဆင့်အတန်း၊ အပြစ်လွှတ်ခြင်းများစွာသော အစာရိက္ခာများရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသူများပင် မုအ်မင်န် သက်ဝင်ယုံကြည်သူအစစ်အမှန်များ ဖြစ်ကြကုန်၏။ ၎င်းတို့အဖို့ ၎င်းတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်၌(မြင့်မြတ်လှသော) အဆင့်အတန်းများသည် လည်းကောင်း၊ (အပြစ်များမှ)လွတ်ငြိမ်းချမ်းသာခွင့်သည်လည်းကောင်း၊ မင်္ဂလာနှင့်ပြည့်စုံသော (ဂုဏ်ရှိသော) ရိက္ခာသည်လည်းကောင်း၊ ရှိချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

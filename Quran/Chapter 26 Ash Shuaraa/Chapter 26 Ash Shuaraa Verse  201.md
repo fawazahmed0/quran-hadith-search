@@ -710,6 +710,12 @@ Ne shte povyarvat v nego, dokato ne vidyat boleznenoto mŭchenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ၁။	သို့သော်သူတို့သည် အလွန်နာကျင်ဖွယ်သောအပြစ်ဒဏ်တော်ကြီးကို မျက်ဝါးထင်ထင်မြင်ရသည့်တိုင်အောင် ကုရ်အာန်ကျမ်းတော်ကို ယုံကြည်မည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ပြင်းပြနာကြင်ဖွယ်ဖြစ်သော ပြစ်ဒဏ်ကို မမြင်ကြရလေသမျှကာလပတ်လုံး ယင်း (ကုရ်အာန်ကျမ်းတော်မြတ်)ကို ယုံကြည်ကြမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

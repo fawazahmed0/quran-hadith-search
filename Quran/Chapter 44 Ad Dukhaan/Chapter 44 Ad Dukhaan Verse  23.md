@@ -710,6 +710,12 @@ FE’ESRI BI’IBADI LEJLÆN ‘INNEKUM MUTTEBA’UNE
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	ထိုအခါသူ၏ အရှင်သခင်က အို-တမန်တော်မူစာ၊ ငါ၏ ကျေးကျွန်များကို ညတွင်ခေါ်ငင်ထွက်ပြေးလော့၊ မှတ်သားလော့၊ သင်တို့ကို လိုက်ဖမ်းလိမ့်မည်ဟု ဗျာဒိတ်ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ အရှင်မြတ်သည် ဤသို့ မိန့်ကြားတော်မူခဲ့၏။ အို-မူစာ) အသင်သည် ငါအရှင်မြတ်၏ ကျွန်တို့အား ညဉ့်အချိန်အခါဝယ် ခေါ်ဆောင်သွားပါလေ။ မလွဲဧကန် အသင်တို့သည် မိမိတို့နောက်မှ (ဖစ်ရ်အောင်န်နှင့် ၎င်း၏စစ်တပ်၏)လိုက်လံခြင်း ခံကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

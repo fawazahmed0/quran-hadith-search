@@ -710,6 +710,12 @@ Ili za Nego sa dŭshterite, a za vas - sinovete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	အို-မိစ္ဆာဒိဋ္ဌိတို့၊ အလ္လာဟ်အရှင်မြတ်မှာ သမီးမိန်းမတော်များသာရှိ၍ သင်တို့မှာ သားယောက်ျားများရှိကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် ထိုအရှင်မြတ်၌ သမီးမိန်းကလေးများ ရှိကြပြီး၊ ၎င်းတို့၌မူ သားယောက်ျားကလေးများ ရှိကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

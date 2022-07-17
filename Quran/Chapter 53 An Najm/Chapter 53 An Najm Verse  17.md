@@ -710,6 +710,12 @@ I ne se otkloni pogledŭt [na Mukhammad], i ne se otkŭsna
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	တမန်တော်၏ မျက်စိအိန္ဒြေသည် တောင်မြောက်လေးပါးတိမ်းငဲ့၍လည်း မကြည့်၊ ရှေ့သို့ ကျူးလွန်၍လည်း မကြည့်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအဖော်၏) မျက်စိသည် သွေချော်ခဲ့သည်လည်း မရှိချေ။ ကျော်လွန်သွားခဲ့သည်လည်း မရှိချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

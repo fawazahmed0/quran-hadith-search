@@ -710,6 +710,12 @@ I kogato Moite rabi te pitat za Men - Az sŭm nablizo, otklikvam na zova na zovy
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈၆။	အို၊ တမန်တော် ငါအရှင်မြတ်၏ ကျေးကျွန်များသည် သင့်အား ငါ၏အကြောင်းကို မေးမြန်းသော အခါ ငါသည် အမှန်ပင် နီးကပ်စွာရှိတော်မူ၏။ ငါ၏အထံတော်၌ ငါ့အားကျိုးနွံသူ၏ တောင်းသောဆု ကို ငါပေးသနားတော်မူ၏။ ထိုကြောင့် သူတို့သည် ငါ၏ ဗျာဒိတ်တော်ကို နားစွင့်ကြစေလော့။ သူတို့သည် ငါ့အား ယုံကြည်ကိုးစားကြစေလော့။ သို့မှသာလျှင် သူတို့သည် လမ်းမှန်သို့ ညွှန်တော် မူခြင်းကို ခံရကြမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်တဝ [အို-နဗီတမန်တော်မုဟမ္မဒ်(ဆွ)] ငါ အရှင်မြတ်၏ကျွန်များသည် ငါအရှင်မြတ်နှင့် ပတ်သက်၍ အသင့် ထံမေးမြန်းကြသောအခါဝယ် (အသင်သည် ဤကဲ့သို့ ဖြေကြားပါလေ)မုချဧကန် ငါအရှင်မြတ်သည် (ယင်းသူတို့နှင့်) နီးကပ် စွာ ပင် ရှိတော်မူ၏။ ငါအရှင်သည် ဆုတောင်းပတ္ထနာ ပြုသူ၏ ဆုတောင်း ပတ္ထနာပြုချက်ကို သဘောတူ လက်ခံ တော် မူ၏။ သို့ဖြစ်လေရာ ယင်းသူတို့သည် ငါအရှင်မြတ်၏ အမိန့်တော်များကို လက်ခံနာယူ၍ ငါအရှင်မြတ်ကိုသာ ယုံ ကြည်မြတ်နိုးကြရမည်။ သို့မှသာလျှင် ယင်းသူတို့သည် ဖြောင့်မတ်မှန်ကန်သော တရားလမ်းကို ရရှိကြသူများဖြစ် တန်ရာ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

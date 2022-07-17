@@ -710,6 +710,12 @@ I reche toĭ na slugite si: “Slozhete [taĭno] stokata im v tekhnite vŭrzop
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	ထိုအခါတမန်တော်ယူစွတ်(ဖ်)သည် မိမိလုလင်များအား ဤသူများပေးသောကုန်ပစ္စည်းကို သူတို့၏ ကုလားအုပ် ကုံးနှီးအိတ်အတွင်း ထည့်သွင်းဖုံးအုပ်၍ ထည့်လိုက်ကြလော့။ ယင်းသို့တိတ်တဆိတ်ထည့်ပေးလိုက်လျှင် သူတို့ သည် မိမိတို့အမျိုးသားတို့ထံ ပြန်ရောက်သောအခါ ဤအကြောင်းကို သိကြ၍ ထိုပစ္စည်းများကို ပေးရန် ပြန်လာကြလိမ့်မည်ဟု ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုယူဆွဖ်က မိမိအစေအပါးတို့အား(ဤသို့)ပြောဆို အမိန့်ပေးခဲ့လေသည်။ အသင်တို့သည် ၎င်းတို့အရင်းအနှီး ပြုလုပ်သောပစ္စည်းကို ၎င်းတို့၏ ခရီးဆောင်ပစ္စည်းများတွင် (လျှို့ဝှက်စွာပြန်၍ထည့်)ထားကြလေကုန်။ သို့မှသာလျှင် ၎င်းတို့သည် ထိုအရင်းအနှီး ပြုလုပ်သော မိမိတို့ပစ္စည်းကို အိမ်သူအိမ်သားတို့ထံ ပြန်လည်ရောက်ရှိသောအခါ မှတ်မိကြကုန်မည်။ သို့မှသာလျှင် ၎င်းတို့သည် ပြန်လာနိုင်ကြရာကုန်မည်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

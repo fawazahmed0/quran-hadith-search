@@ -710,6 +710,12 @@ pri Faraona i znatnite mu khora. A te se vŭzgordyakha i byakha khora nadmenni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။ ထိုတမန်တော်နှစ်းပါးကို ဖွာရောမင်းနှင့် သူ၏မှုးမတ်အရာရှိတို့ထံ စေလွှတ်တော်မူ၏၊ သို့သော်သူတို့သည် တမန်တော်တို့သည် မထီမဲ့မြင်ပြုကြ၏၊ သူတို့သည် နိုင်ထက်စီးနင်းပြုသောအာဏာရှင်များဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဖစ်ရ်အောင်န်၏ထံသို့လည်းကောင်း၊ ထိုဖစ်ရ်အောင်န်၏ မှူးမတ်တို့ထံသို့လည်းကောင်း၊ သို့ရာတွင် ၎င်းတို့သည် မောက်မာခဲ့ကြကုန်၏။ စင်စစ် ၎င်းတို့သည် (ရှေးဦးမဆွကပင်) မောက်မာသူများ ဖြစ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

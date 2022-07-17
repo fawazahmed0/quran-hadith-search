@@ -710,6 +710,12 @@ Vŭzmezdieto za zlina e zlina kato neya. A koĭto izvinyava i se pomiryava, neg
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄ဝ။	မိမိနာကျင်ဆုံးရှုံးသည်နှင့်ညီမျှသောနာကျင်မှုဖြင့် လက်စားချေခွင့်ရှိ၏၊ သို့သော်လူတစ်ဦးတစ်ယောက်သည် သူတပါး၏ အပြစ်ကို လွှတ်၍ ထိုသူနှင့်သင့်မြတ်အောင် စေ့စပ်လျှင် အပြစ်လွှတ်သူသည် အလ္လာဟ်အရှင်မြတ် အထံတော်မှ အောင်ဆုမင်္ဂလာတော်ရလတ့ံ၊ အလ္လာဟ်အရှင်မြတ်သည် မကောင်းမှုကို ပြုကျင့်သူတို့အား နှစ်သက်တော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား မကောင်းပြုခြင်း၏အစားယင်းမကောင်းပြုခြင်းနှင့် အညီအမျှ မကောင်းပြုခြင်းပင်။ သို့တစေလည်း မည်သူမဆို ခွင့်လွှတ်ခဲ့ပါမူ ၎င်းပြင် (မိမိတို့အချင်းချင်း၏ အရေးကိစ္စများကို ပြေလည်)ကောင်းမွန်အောင် ပြုပြင်ခဲ့ပါမူ ထိုသူအား အကျိုးပေးခြင်းမှာ အလ္လာဟ်အရှင်မြတ်၏တာဝန်ပင်ဖြစ်၏။ ဧကန်မလွဲ ထိုအရှင်မြတ်သည် မတရားသောသူတို့အား နှစ်မြို့တော်မူသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

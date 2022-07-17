@@ -710,6 +710,12 @@ Pitat: “Koga shte e Sŭdniyat den?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	ထိုသူမိုက်တို့က တရားစီရင်တော်မူသောနေ့တော်ကြီးသည် အဘယ်အခါကျရောက်လိမ့်မည်နည်းဟု မေးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည်(မထီမဲ့မြင်ပြုသောအားဖြင့်)အစားပေးမည့်နေ့သည် မည်သည့်အခါ၌ ဆိုက်ရောက် ပါမည်နည်းဟု မေးမြန်းကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

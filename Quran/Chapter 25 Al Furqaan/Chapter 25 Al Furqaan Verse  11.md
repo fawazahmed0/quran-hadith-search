@@ -710,6 +710,12 @@ No te vzimat za lŭzha Chasa, a Nie prigotvikhme plamŭtsi za onezi, koito vzima
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	အို--တမန်တော်၊ သူသည် သင့်ကိုသာ ငြင်းဆန်သည်မဟုတ်၊ အချိန်တော်ကြီး ကျရောက်မည်ကိုလည်း ငြင်းပယ်ကြ၏၊ ဤအချိန်တော်ကြီးကို ပစ်ပယ်သောသူတို့အဖို့အရာ ငါသည် ငရဲမီးတောက်မီးလျှံကို စီရင်ထား တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသို့ အလျှင်းမဟုတ်၊ စင်စစ်မှာကား ၎င်းတို့ သည် ‘ကိယာမတ်’ ရှင်ပြန်ထမည့်နေ့ကို မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်ကြကုန်၏။ စင်စစ် ငါအရှင်မြတ်သည် ‘ကိယာမတ်’ ရှင်ပြန်ထမည့်နေ့ကို မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်သောသူ၏အဖို့ မီးတောက်မီးလျှံကို အဆင်သင့် ပြုလုပ်၍ ထားတော်မူပြီး ဖြစ်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

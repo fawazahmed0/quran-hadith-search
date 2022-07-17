@@ -710,6 +710,12 @@ I shtom vi pozdravyat s pozdrav, pozdravete s po-khubav ot nego ili otvŭrnete s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၆။	သင်တို့သည် နှုတ်ဆက်မေတ္တာပို့ခြင်းခံရသောအခါ ထိုနှုတ်ဆက်စကားထက် သာလွန်၍ လည်းကောင်း၊ သို့မဟုတ် အလားတူ မင်္ဂလာရှိသောစကားဖြင့်လည်းကောင်း တုန့်ပြန်နှုတ်ဆက်ကြ လော့။ အလ္လာဟ်အသျှင်မြတ်သည် အရာခပ်သိမ်းကုန်တို့ကို မှတ်သားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် အသင်တို့သည် တနည်းနည်းအားဖြင့် (စလာမ်မေတ္တာပို့သလျက်) နှုတ်ခွန်းဆက်သခြင်းကို ခံကြရသောအခါ၊ အသင်တို့သည် ထိုနှုတ်ခွန်းဆက်သခြင်းခံကြရသည်ထက် ပိုမို၍ ကောင်းမြတ် သောနည်းမျိုးဖြင့် (စလာမ်မေတ္တာပို့၍) နှုတ်ခွန်းဆက်သကြလေကုန်။ သို့တည်းမဟုတ်ထို (နှုတ်ခွန်း ဆက်ခြင်းခံကြရသည်) အတိုင်းပင် တုံ့ပြန်ကြလေကုန်။ ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို စစ်ဆေးတော်မူမည့် အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

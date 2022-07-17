@@ -710,6 +710,12 @@ nizposlanie ot Onzi, Koĭto sŭtvori zemyata i visokite nebesa
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	မိုးကောင်းကင်နှင့် ကမ္ဘာမြေကြီးကို ဖန်ဆင်းတော်မူသောအရှင်မြတ်ထံတော်မှ ကျရောက်လာသောဆုံးမစကား ဖြစ်သည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ပထဝီမြေကိုလည်းကောင်း၊ မြင့်မားလှစွာသောမိုးကောင်းကင်များကိုလည်းကောင်း၊ ဖန်ဆင်းတော်မူသောအရှင်မြတ်၏အထံတော်မှ ချပေးသနားတော်မူခြင်းပင် ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

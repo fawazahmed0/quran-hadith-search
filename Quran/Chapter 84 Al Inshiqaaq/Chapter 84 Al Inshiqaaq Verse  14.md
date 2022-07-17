@@ -710,6 +710,12 @@ toĭ predpolagashe, che ne shte se zavŭrne [pri Nas]
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။ အမှန်မှ ထိုသူမိုက်သည် အလ္လာဟ်အရှင်မြတ်အထံတော်သို့ ရှင်ပြန်ထမြောက်လာရမည်မဟုတ်ဟု ထင်မှတ်ခဲ့၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ၎င်းသည် (မိမိအရှင်မြတ်အထံတော်သို့)အလျင်းပြန်သွားရမည် မဟုတ်ဟု ထင်မှတ်ခဲ့ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

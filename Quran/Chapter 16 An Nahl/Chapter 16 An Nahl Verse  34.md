@@ -710,6 +710,12 @@ I gi spoletyakha zlinite na onova, koeto izvŭrshikha. I gi obgradi onova, na ko
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	ထို့ကြောင့်သူတို့ကျူးလွန်ခဲ့သောပြစ်မှုများ၏ အကျိုးဆက်က သူတို့ကို ဆုံးမကြ၏။ သူတို့ပြောင်လှောင်လေ့ရှိသော အရာသည် သူတို့ကို ဝိုင်းထား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ၎င်းတို့၌ ၎င်းတို့ ကျင့်မူခဲ့ကြကုန်သော မကောင်းမှု၏အန္တရာယ်များသည် သက်ရောက်ခဲ့လေသည်။ ထိုမှတစ်ပါး ၎င်းတို့ ပြက်ရယ်သမှု ပြုခဲ့ကြသည့်အရာ(ဝါ)ပြစ်ဒဏ်သည် ၎င်းတို့အား ဝန်းရံခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

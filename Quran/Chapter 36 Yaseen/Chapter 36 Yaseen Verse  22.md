@@ -710,6 +710,12 @@ I zashto da ne sluzha na Onzi, Koĭto me e sŭtvoril i pri Kogoto shte bŭdete 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	ငါသည် မိမိကို ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်ကို မခဝပ်မကိုးကွယ်လျှင် ငါ၌ ဆင်ခြင်တုံတရားမရှိရာ ရောက်ချေမည်၊ အရှင်မြတ်ထံသို့ သင်တို့အားလုံးသည် ပြန်ကြရမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကျွန်ုပ်တွင် မိမိအား ဖန်ဆင်းတော်မူခဲ့သော အရှင်မြတ်အား ဆည်းကပ်ကိုးကွယ်ခြင်းမပြုရန် မည်သည့်အကြောင်း ရှိပါသနည်း။ အမှန်သော်ကား အသင်တို့(အားလုံး)သည် ထိုအရှင်မြတ် အထံတော်သို့ပင် ပြန်လည်ရောက်ရှိကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Tova e Denyat na razdelenieto. Sŭbirame vi s predtsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။ ထိုနေ့ကား စီရင်ဆုံးဖြတ်တော်မူသောနေ့တော်ကြီးဖြစ်၏၊ ထိုနေ့၌ သင်တို့နှင့်တကွ ရှေးလူဟောင်းများကို ငါစုဆောင်းယူခဲ့တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည် စီရင်ဆုံးဖြတ်မည့်နေ့ပင်။ ငါအရှင်မြတ်သည် အသင်တို့အားလည်းကောင်း၊ ရှေးသူဟောင်းတို့အားလည်းကောင်း၊ စုရုံးတော်မူလိုက်ပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

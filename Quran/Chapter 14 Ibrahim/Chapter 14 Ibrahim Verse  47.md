@@ -710,6 +710,12 @@ I nikoga ne smyataĭ, che Allakh narushava obeshtanieto Si kŭm Svoite pratenit
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	ထို့ကြောင့်အလ္လာဟ်အရှင်မြတ်သည် မိမိ၏ တမန်တော်များအား ပေးသနားတော်မူသောကတိတော်ကို တည် တော်မူမည်မဟုတ်ဟု သင်မထင်မှတ်လင့်။ မှတ်သားလော့၊ အလ္လာဟ်အရှင်မြတ်သည် အနန္တတန်ခိုးတော်နှင့် ပြည့်စုံတော်မူ၏။ ဒုစရိုက်ကောင်များကို လက်စားချေနိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်သည် အလ္လာဟ်အရှင်မြတ်အား မိမိရစူလ်တမန်တော်များနှင့် ချိန်းချက်ထားရှိတော်မူသော ကတိတော်ကို ဖောက်ဖျက်တော်မူမည့်အရှင် ဟူ၍အလျင်း မထင်မှတ်လေနှင့်။ မလွဲဧကန် အလ္လာဟ်အရှင်မြတ်သည် တန်ခိုးအာနုဘော်နှင့် ပြည့်စုံတော်မူသောအရှင်၊ လက်စားချေတော်မူ သောအရှင်၊ ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

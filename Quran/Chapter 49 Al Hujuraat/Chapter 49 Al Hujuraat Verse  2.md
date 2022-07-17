@@ -710,6 +710,12 @@ O, vyarvashti, ne nadigaĭte glas nad glasa na Proroka i ne mu govorete visoko,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	အို-ယုံကြည်သူအပေါင်းတို့၊ သင်တို့၏ အသံများကို တမန်တော်၏အသံထက် မကျယ်စေကြလင့်၊ သင်တို့သည် တစ်ဦးနှင့်တစ်ဦးကျယ်လောင်စွာစကားပြောဆိုသကဲ့သို့ တမန်တော်အား ကျယ်လောင်စွာမပြောဆိုကြလင့်၊ အကယ်၍ယင်းသို့ပြောဆိုလျှင် သင်တို့ပြုကျင့်မှုအားလုံးသည် အချည်းနှီးဖြစ်ကြလိမ့်မည်၊ သင်တို့သည် မသိ ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-မုအ်မင်န် သက်ဝင် ယုံကြည်သူအပေါင်းတို့၊အသင်တို့သည် မိမိတို့၏အသံများကို နဗီတမန်တော်၏ အသံထက် မကျယ်မမြင့် စေကြကုန်လင့်။ ထိုမှတစ်ပါး အသင်တို့သည် မိမိတို့အချင်းချင်း တစ်ဦးကိုတစ်ဦး ဟစ်အော်ကျယ်လောင်စွာ ပြောဆိုသကဲ့သို့ ထိုနဗီတမန်တော်နှင့် စကားပြောဆိုရာ၌ ဟစ်အော်၍ ကျယ်လောင်စွာ ပြောဆိုခြင်းကို မပြုကြကုန်လင့်။ (သို့ပြုကြလျှင်) အသင်တို့ မသိကြဘဲလျက် အသင်တို့၏ အပြုအမူများသည် အချည်းနှီးဖြစ်သွားပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

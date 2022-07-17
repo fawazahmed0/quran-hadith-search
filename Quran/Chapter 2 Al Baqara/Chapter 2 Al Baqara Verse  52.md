@@ -710,6 +710,12 @@ posle vi prostikhme, za da ste priznatelni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၂။	ယင်းသို့ပြုကျင့်ပြီးနောက် သင်တို့သည် ငါ၏ကျေးဇူးတော်ကို ချီးမွမ်းစိမ့်သောငှာ ငါအရှင်သည် သင်တို့ကို အပြစ်လွှတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-အစ္စရာအီလီ မျိုးနွယ်အပေါင်းတို့) အသင်တို့သည်၊ ထိုသို့နွားကို ကိုးကွယ်ကြပြီးသည့် နောက်သော်မှပင် ငါအရှင်သည် အသင်တို့အား ချမ်းသာခွင့် ပေးသနားတော် မူခဲ့လေသည်။ သို့မှသာလျှင် အသင်တို့သည် ကျေးဇူးတင်ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

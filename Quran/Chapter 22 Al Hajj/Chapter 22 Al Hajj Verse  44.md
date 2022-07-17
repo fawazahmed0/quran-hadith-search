@@ -710,6 +710,12 @@ i zhitelite na Madyan. I Musa be vzet za lŭzhets. Dadokh Az ot·srochka na neve
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	ထို့အပြင် မဒယန်မြို့သူမြို့သားတို့လည်း ငြင်းဆန်ခဲ့ပြီ၊ တမန်တော်မူစာကိုလည်း မယုံကြည်ငြင်းဆန်ခဲ့ပြီ၊ သို့သော်ငါသည် မိစ္ဆာဒိဋ္ဌိတို့အား အချိန်ပေးတော်မူ၏၊ ထို့နောက်ငါသည် သူတို့ကို ဖမ်းဆီးအပြစ်ပေးတော်မူ၏၊ ငါ၏ စက်ဆုတ်ရွံရှာတော်မူခြင်းသည် အလွန်ကြောက်မက်ဖွယ်ကောင်း၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မဒ်ယန်မြို့သားတို့သည်လည်းကောင်း၊ (ငြင်းပယ်ခဲ့ကြကုန်၏)။ ထိုမှတပါး (နဗီတမန်တော်) မူစာသည်လည်း( Copt အမျိုးသားတို့ဘက်မှ) မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်ခြင်းကို ခံခဲ့ရလေသည်။ ထိုအခါ ငါအရှင်မြတ်သည် ကာဖိရ် သွေဖည်ငြင်းပယ်သောသူတို့အား (ပြစ်ဒဏ်ခတ်ခြင်းမှခေတ္တ)ရွှေ့ဆိုင်း ထားတော်မူခဲ့၏။ ထို့နောက် ငါအရှင်မြတ်သည် ၎င်းတို့အား ဖမ်းဆီးကွပ်မျက်တော်မူခဲ့၏။ သို့ဖြစ်ပေရာ ငါအရှင်မြတ်၏ပြစ်ဒဏ်သည် မည်သို့ရှိခဲ့ဘိသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

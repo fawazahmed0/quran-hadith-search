@@ -710,6 +710,12 @@ A chiito vezni oleknat, tezi sa se pogubili - v Ada shte prebivavat vechno
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၃။	တဖန်အကြင်သူတို့၏ စည်းချိန်သည် ပေါ့အ့ံ၊ ထိုသူတို့သည် မိမိတို့ဝိညာဉ်ကို ဆုံးရှုံး၍ ငရဲတွင် နေထိုင်ကြသူများ ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် (ကောင်းမှုဘက်တွင်) အလေးချိန် ပေါ့လျော့နေသူတို့မူကား မိမိတို့ကိုယ်ကို မိမိတို့ပင် ဆုံးရှုံးစေခဲ့သူများ ဖြစ်ကြပေရာ (၎င်းတို့သည်) ဂျဟန္နမ်ငရဲဘုံ၌ ထာဝစဉ် နေထိုင်ကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

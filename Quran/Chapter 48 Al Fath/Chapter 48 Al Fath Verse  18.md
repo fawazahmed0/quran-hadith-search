@@ -710,6 +710,12 @@ Allakh be dovolen ot vyarvashtite, kogato ti zayavikha vyarnost pod dŭrvoto [o,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	ယုံကြည်သူတို့သည် သစ်ပင်အောက်တွင် သင့်ထံ အမှုတော်ကို မဖောက်မပြန်ထမ်းရွက်ပါမည်ဟု သစ္စာခံယူသော အခါ အလ္လာဟ်အရှင်မြတ်သည် သူတို့ကို နှစ်ထောင်းအားရတော်မူ၏၊ အရှင်မြတ်သည် သူတို့၏စိတ်နှလုံးအတွင်း ရှိသမျှကို အကြွင်းမဲ့သိမြင်တော်မူ၏၊ အရှင်မြတ်သည် သူတို့အပေါ်သို့ တည်ကြည်ငြိမ်ဝပ်ခြင်းချပေးသနား တော်မူ၏၊ စစ်အောင်နိုင်သောအခြေအနေတည်းဟူသောဆုတော်ကို ပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်၊) ‘မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူတို့သည် သစ်ပင်အောက်တွင် အသင်နှင့် ‘ဗိုင်အတ်’ပြုနေကြစဉ်အခါ၌ ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့အပေါ်ဝယ် ကျေနပ်တော်မူခဲ့၏။ တစ်ဖန် ထိုအရှင်မြတ်သည် ၎င်းတို့၏ စိတ်တွင်း၌ရှိသည်ကို သိတော်မူခဲ့၏။ သို့ဖြစ်ပေရာ ထိုအရှင်မြတ်သည် ၎င်းတို့အပေါ်ဝယ် စိတ်တည်ငြိမ်မှုကို ချပေး သနားတော်မူခဲ့၏။ ထို့ပြင် ၎င်းတို့အား ထိုအရှင်မြတ်သည် နီးကပ်စွာသော အောင်မြင်မှုကိုလည်း ချီးမြှင့်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

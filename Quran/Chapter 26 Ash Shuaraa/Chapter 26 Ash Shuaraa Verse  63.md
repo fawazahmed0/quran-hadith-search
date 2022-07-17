@@ -710,6 +710,12 @@ I razkrikhme na Musa: “Udari s toyagata si po moreto!” I to se raztsepi. I v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၃။	ထိုအခါငါသည် တမန်တော်မူစာ၏ နှလုံးတွင် သင်သည် ပင်လယ်ကို သင်၏လှံတံဖြင့် ရိုက်လော့ဟူသော ဗျာဒိတ်ကို ထင်ရှားစေတော်မူ၏၊ ထိုသို့ရိုက်ခတ်သောအခါ ပင်လယ်သည် နှစ်ခြမ်းကွဲ၍ ကျယ်ပြန့်သော တောင်ကြီးတစ်ခုစီဖြစ်လာ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ငါအရှင်မြတ်သည် မူစာ၏ထံသို့အသင်သည် မိမိတောင်ဝှေးဖြင့် ပင်လယ်ကို ရိုက်ခတ်ပါလေဟု အမိန့်တော် ထုတ်ပြန်တော်မူခဲ့၏။ သို့ဖြစ် ပေရာ(မူစာသည် အမိန့်တော်အတိုင်းရိုက်ခတ်လေသော်)ထိုပင်လယ်မှာ ကွဲ၍သွားပြီးလျှင်(ရေ၏)အစုအပုံ အသီးသီးတို့မှာ ကြီးမားလှစွာသော တောင်ကြီးများပမာ ဖြစ်သွားခဲ့ကြလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

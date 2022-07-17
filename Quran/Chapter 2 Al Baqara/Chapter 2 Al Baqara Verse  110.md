@@ -710,6 +710,12 @@ I ot·sluzhvaĭte molitvata, i davaĭte milostinyata zakat, i kakvoto i blago 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁ဝ။	ဆွလာသ်ဝတ်ပြုကြလော့။ ဇကားသ်အလှူကိုပေးကြလော့။ သင်တို့သည် မိမိတို့ဝိညာဉ်များအတွက် အကြင်ကုသိုလ်ကောင်းမှုကို ကြိုတင်ပို့ထားနှင့်၏။ ထိုကုသိုလ်ကောင်းမှုကို အလ္လာဟ်အရှင်မြတ် ထံတော်၌ တွေ့ရှိရကြလတ္တံ့။ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့ပြုသမျှကို မုချမြင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတပါး အသင်တို့သည် ဆွလာတ် ဝတ်ပြုခြင်းကို အမြဲတစေ ဆောက်တည်ကြလေကုန်၊ ၎င်းပြင်အသင်တို့သည် ဇကာတ် တရားဝင်ဒါန ကြေးများကို ပေးဆောင်ကြလေကုန်။ ထို့ပြင်တဝ အသင်တို့သည် မည်သည် ကောင်းမှုကုသိုလ်ကိုမဆို မိမိတို့အဘို့အရာ ရှေ့သို့ တင်ကြိုပို့ထားနှင့်ကြပါမူ အလ္လာဟ်အရှင်မြတ် အထံတော်မှ ယင်းကောင်းမှု(၏ ကုသိုလ်အကျိုး) ကို အသင်တို့ရရှိကြအံ့၊ မုချအမှန် အလ္လာဟ် အရှင်မြတ်သည် အသင်တို့ပြုမူကြ ကုန်သောအရာခပ်သိမ်းတို့ကို အကြွင်းမရှိ သိမြင်တော်မူသောအရှင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

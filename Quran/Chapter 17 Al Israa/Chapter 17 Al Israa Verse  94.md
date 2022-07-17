@@ -710,6 +710,12 @@ I precheshe na khorata da povyarvat, kogato im se yavi napŭt·stvieto, samo tov
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၄။	လူသားတို့ထံသို့ လမ်းညွှန်တော်ကျရောက်လာသောအခါ သူတို့ယုံကြည်မှုတရားမှ မည်သည့်မျှ တားဆီးထား သည်မဟုတ်ချေ။ သို့သော်သူတို့က အလ္လာဟ်သည် လူသားတယောက်ကို အရှင်၏ တမန်တော်အဖြစ်ဖြင့် စေလွှတ်တော်မူသလားဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် လူတို့ထံ(ဖြောင့်မတ်မှန်ကန်သော)တရားဓမ္မရောက်ရှိလာသောအခါ ၎င်းတို့က အလ္လာဟ်အရှင်မြတ်သည်ရစူလ်တမန်တော်အဖြစ် လူသားတစ်ဦးကို စေလွှတ်တော်မူပါသလောဟု ပြောဆိုခဲ့ ကြသည်မှအပ အခြားတစ်စုံတစ်ရာမျှ၎င်းတို့အား အီမာန် သက်ဝင်ယုံကြည်ခြင်းမှ ပိတ်ပင်တားဆီးခဲ့သည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

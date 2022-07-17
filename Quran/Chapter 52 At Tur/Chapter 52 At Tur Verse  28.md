@@ -710,6 +710,12 @@ Nie Go zovyakhme i predi. Toĭ e Vladetelya na dobroto, Milosŭrdniya.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	အကျွနု်ပ်တို့ကား ရှေးအခါလောကတွင် အရှင်မြတ်အား အစဉ်မပြတ်ဝတ်ပြုခဲ့ကြ၏၊ အရှင်မြတ်သည် မဟာ ကရုဏာတော်အရှင်၊ အနန္တကောင်းကြီးမင်္ဂလာတော်သခင် အမှန်အကန်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် ကျွန်ုပ်တို့သည် ရှေးအထက်ကျော်ကာလ၌ ထိုအရှင်မြတ်အထံတော်တွင် ဆုတောင်းလျက် ရှိခဲ့ကြကုန်၏။ ဧကန်မလွဲ ထိုအရှင်မြတ်မှာကား လွန်စွာ ကျေးဇူးပြုတော်မူသောအရှင်၊ လွန်စွာ သနားကြင်နာတော်မူသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

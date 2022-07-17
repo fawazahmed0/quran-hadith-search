@@ -710,6 +710,12 @@ Tvoyat Gospod nadzirava
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။ မှတ်သားလော့၊ သင်၏ အရှင်သခင်သည် အမြဲစောင့်ကြည့်နေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ အသင့်အား မွေးမြူဖန်ဆင်းတော်မူသော အရှင်မြတ်သည် တပ်ပုန်းချထားရာအရပ်၌ ချောင်းမြောင်းလျက် စောင့်ကြည့်လျက် ရှိတော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

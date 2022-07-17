@@ -710,6 +710,12 @@ I obitatelite na al-Khidzhr vzekha za lŭzhtsi pratenitsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈ဝ။	ထို့အပြင်ဟဂျာရ်နယ်မြေ၌ မှီတင်းနေထိုင်သောသူတို့သည်လည်း ငါအရှင်မြတ်၏ တမန်တော်တို့ကို မယုံကြည်၊ ငြင်းပယ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် မလွဲဧကန် ဟစ်ဂျ်ရ် ၌ နေထိုင်သောသူတို့သည်လည်း စေလွှတ်ခြင်းခံခဲ့ရကုန်သော ရစူလ်တမန်တော်တို့အား မဟုတ်မမှန်ဟူ၍ ငြင်းပယ် ခဲ့ကြလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

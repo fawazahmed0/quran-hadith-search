@@ -710,6 +710,12 @@ I vi sŭtvorikhme, posle vi dadokhme obraz, posle kazakhme na angelite: “Svede
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	ငါသည် သင်တို့ကို ဖန်ဆင်းပြုပြင်တော်မူပြီးလျှင် ကောင်းကင်တမန်တော်တို့အား အို-တမန်တော်တို့ သင်တို့သည် အာဒမ်အား ဦးညွတ်ကန်တော့ကြလော့ဟု မိန့်တော်မူ၏။ အီဗလစ်မှတစ်ပါး အားလုံးသော ကောင်းကင်တမန်များသည် ဦးချကြ၏။ သို့သော် အီဗလစ်သည် ဦးမချပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မုချစင်စစ် ငါအရှင်မြတ်သည်ပင်လျှင် အသင်တို့အား ဖန်ဆင်းတော်မူခဲ့လေသည်။ ထို့နောက်ငါအရှင်မြတ်သည် အသင်တို့၏ရုပ်သဏ္ဍာန်ကို ပြုလုပ်တော်မူခဲ့လေသည်။ ထို့နောက် ငါအရှင်မြတ်သည် မလာအိကဟ်ကောင်းကင်တမန်တို့အားအာဒမ်ကို ပျပ်ဝပ်ဦးချကြလေကုန်ဟု မိန့်ကြား တော်မူခဲ့လေသည်။ သို့ဖြစ်ပေရာ အစ်ဗ်လီးစ်မှတစ်ပါး မလာအိကဟ် ကောင်းကင်တမန်အပေါင်းတို့သည် ပျပ်ဝပ်ဦးချခဲ့ကြလေသည်။ ယင်း အစ်ဗ်လီးစ်မှာမူကားပျပ်ဝပ်ဦးချသူတို့အနက် အပါအဝင် မဖြစ်ခဲ့ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

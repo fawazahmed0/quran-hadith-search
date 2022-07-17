@@ -710,6 +710,12 @@ kŭm vryashtata voda, posle v Ogŭnya shte bŭdat goreni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၂။	သူတို့သည် ပွက်ပွက်ဆူသောရေပူတလျှောက် ဆွဲငင်ပြီးလျှင် ငရဲမီးထဲသို့ ပစ်ချခြင်းကို ခံကြရလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကျိုက်ကျိုက်ဆူလျက်ရှိသော ရေနွေးပူ၌။ ထို့နောက် ၎င်းတို့သည် ငရဲမီးထဲသို့ တွန်းထိုးခြင်းကို ခံကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

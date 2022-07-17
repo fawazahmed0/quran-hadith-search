@@ -710,6 +710,12 @@ I koĭto pridobie gryakh, toĭ go pridobiva samo v svoĭ ushtŭrb. Allakh e v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၁။	အကြင်သူသည် အပြစ်ကျူးလွန်၏။ ထိုကျူးလွန်မှုသည် မိမိနစ်နာဆုံးရှုံးဖို့ရာသာဖြစ်၏။ အလ္လာဟ် အသျှင်မြတ်သည် အမြဲသိမြင်တော်မူသော၊ ပညာဉာဏ်ရှိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်တဝ မည်သူမဆို ပြစ်မှုဒုစရိုက်ကို ရှာဖွေဆည်းပူးပါမူ ထိုသူသည် ယင်းပြစ်မှုဒုစရိုက်ကို မိမိကိုယ်နှင့်ဆန့်ကျင်၍ (တစ်နည်း) မိမိကိုယ်ကို နစ်နာဆုံးရှုံးအောင် ရှာဖွေဆည်းပူးသည်သာဖြစ်အံ့။ အမှန်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့ သိရှိတော်မူသောမူသောအရှင်၊ ကျိုးကြောင်းဆင်ခြင်တုံဉာဏ်နှင့် ပြည့်စုံတော်မူသောအရှင် ဖြစ်တော်မူလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

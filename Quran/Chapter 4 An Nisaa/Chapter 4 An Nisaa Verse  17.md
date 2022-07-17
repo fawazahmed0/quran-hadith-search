@@ -710,6 +710,12 @@ Allakh priema pokayanieto na onezi, koito pravyat zlo v nevedenie, posle skoro s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	အကြင်သူတို့သည် တရားတော်ကိုမသိသဖြင့် ဒုစရိုက်မှုကို ပြုကျင့်မိကြ၏။ နောက် အလျှင်အမြန် သတိသံဝေဂရ၍ အလ္လာဟ်အသျှင်မြတ်ထံ ဝန်ချတောင်းပန်၏။ ဤလူများကို အလ္လာဟ်အသျှင်မြတ် အပြစ်လွှတ်တော်မူ၏။ အလ္လာဟ်အသျှင်မြတ်သည် အမြဲသိမြင်တော်မူသောအသျှင်၊ အနန္တ ဉာဏ်တော်ရှင် ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်အပေါ်၌ အကြင်သူတို့၏ ဝန်ချတောင်းပန်ချက်ကိုသာလျှင် သဘောတူလက်ခံတော်မူရန် တာဝန်ရှိပေသည်။ ထိုသူတို့သည် မသိမိုက်မဲမှုကြောင့် ဒုစရိုက်မှုကိုပြုမိကြ၏။ ထို့နောက် မကြာမီအတွင်း ထိုသူတို့သည် (သတိသံဝေဂ နောင်တရရှိကာ) ဝန်ချတောင်းပန်ကြ၏။ သို့ဖြစ်လျှင် အလ္လာဟ်အရှင်မြတ်သည် ထိုသူတို့ဘက်သို့ (ကရုဏာတော်နှင့်) ပြန်လှည့်တော်မူလေသည်။ စင်စစ် အလ္လာဟ်အရှင်အရှင်မြတ်သည် အကြွင်းမဲ့ သိရှိတော်မူသောအရှင်၊ အကျိုးအကြောင်း ဆင်ခြင်တုံတရားနှင့် ပြည့်စုံတော်မူသောအရှင် ဖြစ်တော်မူသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

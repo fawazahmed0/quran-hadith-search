@@ -710,6 +710,12 @@ Istinata e ot tvoya Gospod. Ne bŭdi ot sŭmnyavashtite se
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆ဝ။	အို...မိုဟမ္မဒ် ဤအတ္ထုပတ္တိသည် သင်၏အသျှင်သခင်ထံမှ အမှန်ပင်ကျရောက်လာ၏။ ထို့ကြောင့် သင်သည် ဒွိဟဖြစ်သူတို့၏ဘောင်တွင် မပါဝင်လင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော် ဤအဆိုပါ နဗီတမန်တော်အီစာ၏) အတ္ထုပ္ပတ္တိ အကြောင်းအရာများသည် အသင့်အား မွေးမြူတော်မူသော အရှင်မြတ်၏အထံတော်မှ (ထုတ်ပြန်မိန့်ကြားတော် မူသော) အတ္ထုပ္ပတ္တိ အကြောင်းအရာများပင်ဖြစ်ပေရာ အသင်သည် ဒွိဟသံသယရှိသူတို့အနက် အပါအဝင် မဖြစ်လေနှင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

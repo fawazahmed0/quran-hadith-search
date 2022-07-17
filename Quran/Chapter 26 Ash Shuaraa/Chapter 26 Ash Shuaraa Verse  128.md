@@ -710,6 +710,12 @@ Nima gradite pametnik na vsyako vŭzvishenie za zabavlenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၈။	သင်တို့သည် မြေမြင့်ရာတောင်ကုန်းစသည်တို့အပေါ်၌ အကျိုးမဲ့ပျော်ရွှင်မှုအတွက် အဆောက်အဦးကြီးများကို တည်ဆောက်ကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် ကုန်းမြင့်တိုင်း၌ အထိမ်းအမှတ်တစ်ခု အချည်းနှီး တည်ဆောက်ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

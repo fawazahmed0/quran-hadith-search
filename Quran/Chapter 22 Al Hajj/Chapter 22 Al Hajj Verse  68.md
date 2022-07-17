@@ -710,6 +710,12 @@ A ako zasporyat s teb, kazhi: “Allakh naĭ-dobre znae vashite dela.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၈။	အကယ်၍ဤသူတို့သည် သင့်အား ငြင်းခုံကြအ့ံ၊ သူတို့အား သင်တို့ပြုကျင့်သမျှကို အလ္လာဟ်အရှင်မြတ်သည် အသိဆုံးဖြစ်တော်မူ၏ဟု သင်ဟောကြားလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍ ၎င်းတို့သည် အသင်နှင့် အငြင်းအခုံပြုခဲ့ကြသည်ရှိသော် အသင်သည်(၎င်းတို့အား ဤ သို့)ပြောဆိုပြန်ကြားပါလေ။ (အချင်းတို့၊ ဧကန်စင်စစ်) အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့၏အပြုအမူတို့ကို ကောင်းစွာ သိရှိတော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

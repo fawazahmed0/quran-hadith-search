@@ -710,6 +710,12 @@ Bez sŭmnenie, za onova, kŭm koeto me zovete, nyama zov nito v zemniya zhivot, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	ဤလောကတွင်သော်လည်းကောင်း၊ နောက်လောကုတ္တရာတွင်သော်လည်းကောင်း၊ မကိုးကွယ်ထိုက်သူကို ဦးညွတ်ရန် သင်တို့သည် ငါ့အား ဧကန်အမှန်တိုက်တွန်းကြ၏၊ ငါတို့အားလုံးသည် အလ္လာဟ်အရှင်မြတ်အထံ တော်သို့ ပြန်ကြရလတ့ံ၊ ထိုအခါသမ္မာတရားတော်ကို ကျုးလွန်ဖောက်ပြန်သောသူတို့သည် ငရဲမီးကို ပိုင်ဆိုင်ကြ ရလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မချွတ်မလွဲ ကျွန်ုပ်အား၊ အသင်တို့ ဖိတ်ခေါ်နေသောအရာသည် ဤပစ္စုပ္ပန်လောက၌လည်း ဟစ်ခေါ် တသရန် မထိုက်ပေ။ အာခိရတ်တမလွန်ဘဝ၌လည်း ဟစ်ခေါ်တသရန် မထိုက်ပေ။ ထို့ပြင် ကျွန်ုပ်တို့ သည် အလ္လာဟ်အရှင်မြတ်အထံတော်သို့ ပြန်ကြရပေမည်။ ထိုမှတစ်ပါး စည်းကမ်းကျူးလွန်သောသူတို့သည် ငရဲသားများပင် ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

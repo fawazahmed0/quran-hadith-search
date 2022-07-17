@@ -710,6 +710,12 @@ Posle da se pochistyat i da izpŭlnyat svoite obeti i da obikalyat drevniya Dom
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	ထို့နောက်ဟဂျ်ပြုသူတို့သည် မိမိကိုယ်ကို သန့်စင်စေကြလော့၊ အဓိဋ္ဌာန်ပြုကြလော့၊ ရှေ့လက်ဟောင်းကျောင်း တော်ကြီးကို လှည့်ခြင်းဝတ်များကို ပြုကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ၎င်းတို့သည် ကြေးညှော်ကို(သုတ်သင်)ပယ်ရှားကြရမည်။ ထို့ပြင် မိမိတို့၏(တာဝန်များ)အဓိဋ္ဌာန်များကို ပြီးဆုံးအောင် ဆောင်ရွက်ကြရမည်။ ထိုမှတစ်ပါး ရှေးကျသောအိမ်(ကအ်ဗဟ်ကျောင်း)တော်ကို တွဝါဖ် လှည့်ကြရမည်ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

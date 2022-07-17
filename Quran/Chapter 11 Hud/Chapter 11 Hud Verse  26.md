@@ -710,6 +710,12 @@ za da ne sluzhite na drug osven na Allakh. Strakhuvam se za vas ot mŭchenie v b
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	သင်တို့သည် အလ္လာဟ်အရှင်မြတ်မှတပါး မည်သည်ကိုမှ မကိုးကွယ်မခဝပ်ကြလင့်၊ မှတ်သားကြလော့၊ ငါသည် အလွန်ကြောက်မက်ဖွယ်ကောင်းသောနေ့တော်ကြီး၏ လက်စားချေခြင်းကို သင်တို့အဖို့ ကြောက်ရွံ့၏ဟု ပြော ကြား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် အလ္လာဟ် အရှင်မြတ်မှ တစ်ပါးအခြားတစ်စုံတစ်ရာကိုမျှ ကိုးကွယ်ဆည်းကပ်ခြင်း မပြုကြကုန်လင့်။ အကြောင်းသော်ကား ငါသည် အသင်တို့နှင့်ပတ်သက်၍နာကျင်ဖွယ်ဖြစ်သောနေ့၏ပြစ်ဒဏ်ကို စိုးရိမ်သောကြောင့်ပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

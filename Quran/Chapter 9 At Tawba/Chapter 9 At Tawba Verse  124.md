@@ -710,6 +710,12 @@ I kogato se nizposlava sura, nyakoi ot tyakh kazvat: “Na kogo ot vas tazi shte
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၄။	မည်သည့်အခါမဆို စူရာဟ်တော်တစ်စောင်ကို ချပေးတော်မူသောအခါ သူတို့အနက် အချို့သောသူတို့က ဤစူရာဟ်ကြောင့် သင်တို့အနက် အဘယ်သူ၌ ယုံကြည်မှုတရားတိုးတက်သနည်းဟု ဆိုကြ၏။ယုံကြည်သူတို့ မှာမူကား စူရာဟ်တော်သည် သူတို့၏ ယုံကြည်မှုကို တိုးပွားစေ၏။ထို့ကြောင့်သူတို့သည် ဝမ်းမြောက်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား မည်သည့်အခါမျိုး၌မဆို (ကုရ်အာန်ကျမ်းတော်မြတ်၏)’စူရဟ်ကဏ္ဍ တစ်ခုခုသည် (အလ္လာဟ်အရှင်မြတ်အထံတော်မှ) ချပေးသနားတော်မူခြင်း ခံခဲ့ရပါလျှင်၊ထို (မုနာဖစ်က်မုစ်လင်မ်အယောင်ဆောင်သော) သူတို့အနက်မှ အချို့က ဤ စူရဟ် ကဏ္ဍသည် အသင်တို့အနက် မည်သူ၏အီမာန်သက်ဝင်ယုံကြည်မှုကို တိုးတက်စေပါသနည်းဟု ပြောဆိုလေ၏။ စင်စစ်သော်ကား မည်သို့ပင်ဖြစ်စေ မုအ်မင်န်သက်ဝင်ယုံကြည်သူတို့အဖို့ ထိုစူရဟ်ကဏ္ဍသည် ၎င်းတို့၏အီမာန် သက်ဝင်ယုံကြည်မှုကို တိုးတက်စေခဲ့၏။ ထို့ပြင် ၎င်းတို့သည်ဝမ်းမြောက်ပျော်ရွှင်လျက် ရှိကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

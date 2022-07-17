@@ -710,6 +710,12 @@ I shtom beda zasegne khorata, te zovat svoya Gospod, vrŭshtaĭki se kŭm Nego 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	သို့သော်ဘေးဥပါဒ်ထိသောအခါ လူသားတို့သည် သတိသံဝေဂရလျက် မိမိ၏အရှင်သခင်ဘက်တော်သိို့ မျက်နှာ မူ၍ အထံတော်၌ ဆုတောင်းကြ၏၊ ထို့နောက်အရှင်မြတ်၏ ကယ်တင်ခြင်းကျေးဇူးတော်ကို မြည်းရသောအခါ မြည်းရသည်နှင့်တပြိုင်နက် သူတို့အနက် အချို့သောသူတို့တွင် ဘုရားတုဘုရားယောင်များကို မိမိတို့၏ကျေးဇူး တော်သခင်နှင့်တွဲဖက်ကိုးကွယ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား လူတို့၌ ဘေးဥပဒ်တစ်စုံတစ်ရာ သက်ရောက်လေသောအခါ ၎င်းတို့သည် မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်ဘက်တော်သို့ ပြန်လှည့်ကြလျက် ထိုအရှင်မြတ်အား ဟစ်ခေါ် တသကြကုန်၏။ ထို့နောက် ထိုအရှင်မြတ်သည် ၎င်းတို့အား မိမိအထံတော်မှ အနည်းငယ်ကျေးဇူးတော် ရသာကို မြည်းစမ်းစေတော်မူသောအခါ ၎င်းတို့အနက် လူတစ်စုသည် မဆိုင်းမငံ့ ရုတ်တရက် ချက်ချင်းပင်လျှင်(အခြားအရာများကို) မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်နှင့် တွဲဖက်နှိုင်းယှဉ် ကိုးကွယ်ကြလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

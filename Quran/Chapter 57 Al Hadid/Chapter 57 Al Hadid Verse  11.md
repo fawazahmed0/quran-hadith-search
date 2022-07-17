@@ -710,6 +710,12 @@ Na onzi, koĭto dava khubav zaem [po pŭtya] na Allakh Toĭ shte mu go umnozhi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	အဘယ်သူသည် အလ္လာဟ်အရှင်မြတ်အား ကောင်းသောချေးငှားခြင်းကို ပြုမည်နည်း၊ အကြောင်းမူကား အရှင်မြတ်သည် ထိုသူအား သူ၏ အရင်းနှစ်ဆပြန်ပေးသနားတော်မူလတ့ံ၊ ထို့အပြင် သူသည် အကန့်အသတ် မရှိသောဆုလာဘ်ပဏ္ဏာကိုလည်း ရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်အား ကောင်းမြတ်သော(စေတနာနှင့်) ကြွေးမြီချေးငှားအံ့သောသူသည် မည်သူရှိသနည်း။ သို့ချေးငှားခဲ့သည်ရှိသော် ထိုအရှင်မြတ် သည်ယင်းကြွေးမြီကို ထိုသူ၏အဖို့ ဆတက်တိုးပွား စေတော်မူသည့်ပြင် ထိုသူ၏အဖို့ မြင့်မြတ်လှစွာသော အကျိုးသည်လည်း ရှိချေအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

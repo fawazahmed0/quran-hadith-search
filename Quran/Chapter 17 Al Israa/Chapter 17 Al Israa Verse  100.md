@@ -710,6 +710,12 @@ Kazhi: “Dori da pritezhavakhte sŭkrovishtnitsite s milostta na moya Gospod, i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝဝ။	အို-တမန်တော်၊ ထိုမိစ္ဆာမိုက်တို့အား သင်ဟောကြားလော့။ အကယ်၍သင်တို့သည် ငါ၏ကျေဇူးတော်သခင်၏ ကောင်းကြီးမင်္ဂလာရတနာများကို စိုးပိုင်လျှင် သင်တို့သည် ထိုရတနာများကုန်ဆုံးဖို့ရာ ကြောက်ရွံ့သဖြင့် ဥစ္စာပစ္စည်းများကို မသုံးမစွဲပဲ အမှန်ပင်သိမ်းဆည်းထားကြလတ့ံ။ အကြောင်းမူကား လူသားသည် အမြဲပင် စေးနဲ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (၎င်းတို့အားဤသို့)ပြောကြားပါလေ။ အကယ်၍သာ အသင်တို့သည် ကျွန်ုပ်အားဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၏ ကရုဏာတော်၏ဘဏ္ဍာတော်များကို ပိုင်ဆိုင်ကြသည်ရှိသော်၊ အမှန်ပင် (ယင်းဘဏ္ဍာတော်များ) သုံးစွဲ၍ ကုန်ဆုံးသွားမည်ကိုစိုး၍ အသင်တို့စေးနှဲကြပေမည်။ စင်စစ် လူသားတို့သည် အလွန်စေးနှဲတွန့်တိုသူများပင် ဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

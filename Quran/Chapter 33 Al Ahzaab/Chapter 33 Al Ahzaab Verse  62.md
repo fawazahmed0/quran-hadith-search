@@ -710,6 +710,12 @@ Takŭv be obichayat na Allakh i spryamo otminalite predi, i ne shte otkriesh ti 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	ရှေးလွန်လေပြီးသောလူမိုက်တို့ကိုလည်း ဤနည်းလမ်းအတိုင်းပင် အလ္လာဟ်အရှင်မြတ်စီရင်တော်မူ၏၊ အလ္လာဟ် အရှင်မြတ်စီရင်တော်မူ၏၊ အလ္လာဟ်အရှင်မြတ်၏ နည်းလမ်းတော်ကို ပြောင်းလဲပြုပြင်နိုင်သူတစ်စုံတစ်ယောက်မျှ မရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည် ရှေးအထက်ကျော်ကာလ၌ လွန်လေခဲ့ကြသောသူတို့နှင့်ပတ်သက်၍ အလ္လာဟ်အရှင်မြတ်၏ ဥပဒေစည်းကမ်းပင်။ စင်စစ် အသင်သည် အလ္လာဟ် အရှင်မြတ်၏ဥပဒေစည်းကမ်း၌ မည်သည့်ပြောင်းလဲမှုကိုမျှပင် အလျှင်းတွေ့ရှိလိမ့်မည် မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

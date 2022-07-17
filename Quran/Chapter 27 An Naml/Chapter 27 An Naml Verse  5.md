@@ -710,6 +710,12 @@ Za tezi e loshoto mŭchenie i te v otvŭdniya zhivot sa naĭ-gubeshtite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	ဤသူများအတွက် အဆုုိးဆုံးသောအပြစ်ဒဏ်ရှိ၏၊ နောင်တမလွန်ဘဝတွင် သူတို့အရှုံးကြီးဆုံးရှုံးကြရသူများ ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည်ပင်လျှင် အကြင်သူများ ဖြစ်ကြကုန်၏။ ထိုသူတို့အဖို့ (ဤလောက၌လည်း) အလွန်ဆိုးရွားသောပြစ်ဒဏ်သည် ရှိပေ၏။ "အာခိရတ်"နောင်တမလွန်ဘဝတွင်လည်း ၎င်းတို့သည် အလွန်ဆုံးရှုံးသူများပင် ဖြစ်ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

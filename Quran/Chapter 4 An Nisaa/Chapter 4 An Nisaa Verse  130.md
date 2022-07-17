@@ -710,6 +710,12 @@ A ako dvamata se razdelyat, Allakh shte obogati vsekigo ot Svoeto izobilie. Alla
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃ဝ။	သို့သော် သူတို့နှစ်ဦး ကွာရှင်းကြသော် အလ္လာဟ်အသျှင်မြတ်သည် မိမိ၏ကောာင်းကြီးမင်္ဂလာတော် အနန္တမှ ယောကျ်ားကိုသော်လည်းကောင်း၊ မိန်းမကိုသော်လည်းကောင်း လျော်ကြေးပေးသနားတော် မူလိမ့်မည်။ အလ္လာဟ်အသျှင်မြတ်သည် မုချဧကန် အရာခပ်သိမ်းကုန်တို့ကို အရေးစိုက်တော်မူ၏။ သိမြင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကယ်၍ ထို (ဇနီးမောင်နှံ) နှစ်ဦးတို့သည် (မိမိတို့အချင်းချင်း သင့်မြတ်နိုင်ခြင်းငှာ နည်းလမ်းမရှိတော့၍) ကွာရှင်းခွဲခွာကြပါမူ အလ္လာဟ်အရှင်မြတ်သည် မိမိ၏ များပြားသောကျေးဇူးတော်ဖြင့် (ယင်းဇနီးမောင်နှံနှစ်ဦးတို့အား) တစ်ဦးကိုတစ်ဦး မတောင့်တ မကြောင့်ကြရအောင် ပြုလုပ်ပေးတော်မူအံ့။ အမှန်စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အလွန်ပေါများကြွယ်ဝတော်မူသော ကျေးဇူးတော်ရှင်၊ ကျိုးကြောင်းဆင်ခြင်တုံတရားနှင့် ပြည့်စုံတော်မူသောအရှင်မြတ် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

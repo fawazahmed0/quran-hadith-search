@@ -710,6 +710,12 @@ I kogato se otpravi po posoka na Madyan, reche: “Nadyavam se moyat Gospod da m
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။ မူစာသည် မဒယန်မြို့ဘက်သို့ မျက်နှာမူသောအခါ သူသည် အကျွနု်ပ်၏အရှင်သခင်သည် အကျွနု်ပ်အား လမ်းမှန်ကို ပြသတော်မူကောင်းပြသတော်မူမည်ဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် ထိုမူစာသည် ‘မဒ်ယန်’ မြို့ဘက်သို့ မျက်နှာလှည့်ခဲ့သောအခါ ငါ၏အရှင်မြတ်သည် ငါ့အား လမ်းမှန်ကိုညွှန်ပြတော်မူမည်ကို မျှော်လင့်ရပေသည်ဟု မြွက်ဆိုခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

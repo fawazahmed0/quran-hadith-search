@@ -710,6 +710,12 @@ Reche [Musa]: “Ako posle te popitam za [oshte] neshto, togava poveche ne me vo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၆။	မူစာသည် သူ့အား ဤမှ ရှေ့ကို သင့်အား အကျွနု်ပ်တစုံတခုမေးပါလျှင် အကျွနု်ပ်ကို အာဘော်မပြုပဲ ခရီး ခွဲထွက်သွားပါ၊ သင်သည် ခွဲသွားဖို့ရာ အကြောင်းအခွင့်ကို အကျွနု်ပ်ထံမှ ရရှိပါပြီဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်း(မူစာ)က (အချင်း-ခစ်ဿွ်ရ်)အကယ်၍ကျွန်ုပ်သည် ဤသည့်နောက်တွင် အသင်အား တစ်စုံတစ်ရာနှင့်စပ်လျဉ်း၍ မေးမြန်းခဲ့ပါလျှင် အသင်သည် ကျွန်ုပ်အား(မိမိနှင့်) အတူမထားပါနှင့်၊ ဧကန်မလွဲ အသင်သည်ကျွန်ုပ်ထံမှ ခွင့်လွှတ် ရန်အကြောင်းပြချက်(၏အဆုံးစွန်)သို့ရောက်ခဲ့ချေပြီဟု ပြော ဆိုခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

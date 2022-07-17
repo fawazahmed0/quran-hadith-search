@@ -710,6 +710,12 @@ Tova e, zashtoto vŭznenavizhdat nizposlanoto ot Allakh i zatova Toĭ pravi bez
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	ယင်းသို့ဖြစ်ရခြင်းမှာ သူတို့သည် အလ္လာဟ်အရှင်မြတ်၏ ကျမ်းတော်ကို မုန်းတီးသောကြောင့်တည်း၊ ထို့ကြောင့် အရှင်မြတ်သည် သူတို့၏ ပြုကျင့်မှုများကို အကျိုးမဲ့ဖြစ်စေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည် အလ္လာဟ်အရှင်မြတ် ချပေးတော်မူသော (အမိန့်ပညတ်တို့)ကို ၎င်းတို့ စက်ဆုပ်ခဲ့ကြသောကြောင့်ပင်။ သို့ဖြစ်ပေရာ ထိုအရှင်မြတ်သည် ၎င်းတို့၏ ကျင့်မူဆောင်ရွက်ချက်များကို အချည်းနှီး ဖြစ်စေတော်မူခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

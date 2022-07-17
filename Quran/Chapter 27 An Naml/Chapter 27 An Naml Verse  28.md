@@ -710,6 +710,12 @@ Vŭrvi s tova moe poslanie i im go spusni, posle se otdrŭpni ot tyakh i vizh ka
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	သင်သည် အကျွနု်ပ်၏ သဝဏ်လွှာကို ရှီဗာပြည်သို့ ယူသွားပြီးလျှင် သူတို့အတွင်းသို့ ပစ်ချလော့၊ ထို့နောက် လှည့်လာပြီးလျှင် သူတို့မည်သည့်အဖြေကို ပေးသည်ကို ကြည့်ရှုလော့ဟု မိန့်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်သည် ငါ၏စာကို ယူဆောင်၍ သွားလော့၊ထို့နောက် အသင်သည် ဤစာကို ၎င်းတို့ထံ ချ၍ပေးပြီးလျှင်၊ ၎င်းတို့၏အပါးမှ (အနည်းငယ်) ဘေးဖယ်၍နေလော့။ တစ်ဖန်အသင်သည် ၎င်းတို့ မည်သို့အကြောင်းပြန်ကြသည်ကို ရှုလော့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I otmervaĭte spravedlivo, i ne oshtetyavaĭte v myarkata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	သို့သော်သင်တို့သည် အလေးတင်းတောင်းစည်းချိန်လျှာများကို ကြပ်ကြပ်မှန်ကန်စေကြလော့၊ အလေးအတိုင်း အထွာမခိုးကြလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အသင်တို့သည် ချိန်တွယ်မှုကို တရားမျှတစွာ စောင့်ထိန်းကြရန်လည်းကောင်း၊ ချိန်တွယ်ရာ၌ ယုတ်လျော့စေခြင်း မရှိစေကြရန်လည်းကောင်း၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

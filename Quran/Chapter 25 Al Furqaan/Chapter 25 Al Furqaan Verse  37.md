@@ -710,6 +710,12 @@ I naroda na Nukh izdavikhme, kogato vze za lŭzha pratenitsite, i go storikhme z
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	ထို့အပြင်တမန်တော်နူဟို၏လူများ၊ သူတို့သည် ငါ၏တမန်တော်များကို မယုံကြည်ပယ်ရှားသောအခါ ငါသည် သူတို့အားလုံးကို ရေတွင် နှစ်မြုပ်သတ်တော်မူ၏၊ သူတို့ပုံစံကို လူသားတို့အဖို့အရာ မဟာသင်ခန်းစာတော်ကြီး အဖြစ်ဖြင့် ပြုထားတော်မူ၏၊ ငါသည် ဒုစရိုက်မှုကျူးလွန်သူတို့အဖို့ အလွန်ပြင်းပြနာကျယ်ဖွယ်ရှိသောအပြစ် ဒဏ်တော်ကို ပြင်ဆင်ထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ နူဟ်၏ အမျိုးသားတို့အား ၎င်းတို့သည် ရစူလ်တမန်တော်များအား မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်ခဲ့ကြသောအခါ ငါအရှင်မြတ်သည် ၎င်းတို့အားလည်း နစ်မြုပ်စေတော်မူခဲ့၏။ ထို့ပြင် ငါအရှင်မြတ်သည် ၎င်းတို့အား လူခပ်သိမ်းတို့အဖို့ သက်သေလက္ခဏာ တစ်ရပ်ပြုလုပ်တော်မူခဲ့၏။ ၎င်းပြင် ငါအရှင်မြတ်သည် မတော်မတရား ပြုလုပ်သောသူတို့အဖို့ ပြင်းပြနာကျင်ဖွယ်ဖြစ်သော ပြစ်ဒဏ်ကို အဆင်သင့် ပြုလုပ်၍ ထားရှိတော်မူသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

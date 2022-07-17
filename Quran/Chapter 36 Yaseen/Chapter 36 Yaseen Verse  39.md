@@ -710,6 +710,12 @@ I na lunata otredikhme fazi, dokato zaprilicha na izsŭkhnala palmova klonka
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	ငါသည် လအတွက်လည်း သွားလာဝင်ထွက်လှည့်လည်ရန် လမ်းကို သတ်မှတ်ပိုင်းခြားတော်မူ၏၊ လသည် လဆန်းပက္ခ၌ တရွေ့ရွေ့ကြီး၍ လဆုတ်ပက္ခ၌ တရွေ့ရွေ့ငယ်ပြီးလျှင် စွန်ပလွံကိုင်းခြောက်ပမာဖြစ်သွား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ လသည်(လည်း သက်သေလက္ခဏာတစ်ရပ်)ပင်။ ငါအရှင်မြတ်သည် ထိုလ၏အဖို့ ခရီးစခန်းများကို သတ်မှတ်တော်မူခဲ့ရာ နောက်ဆုံးတွင်မူ ထိုလမှာ ခြောက်သွေ့လျက်ရှိသော စွန်ပလွံကိုင်းကဲ့သို့ ပြန်၍ဖြစ်လာလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

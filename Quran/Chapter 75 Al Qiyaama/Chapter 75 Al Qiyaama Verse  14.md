@@ -710,6 +710,12 @@ Da, chovekŭt sam za sebe si shte e svidetel
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၊၁၅။ ထိုမျှမက လူသားသည် မိမိထုချေချက်များကို တင်ပြငြားသော်လည်း သူသည်ပင်လျှင် သူ့အပေါ်မှာ ခိုင်မာသော သက်သေဖြစ်လိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်မှာကား လူသားသည် မိမိကိုယ်ကို မိမိကောင်းစွာ မြင်သူဖြစ်မည်။ (တစ်နည်း) စင်စစ်မှာကား လူသား၏ ခန္ဓာကိုယ်၌ပင် သက်သေရှိနေပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

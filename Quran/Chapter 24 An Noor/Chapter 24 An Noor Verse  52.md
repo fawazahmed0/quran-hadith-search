@@ -710,6 +710,12 @@ Koĭto se pokoryava na Allakh i na Negoviya Pratenik, i se strakhuva ot Allakh,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၂။	အကြင်သူသည် အလ္လာဟ်အရှင်မြတ်နှင့် တမန်တော်ကို နာခံ၏၊ အရှင်မြတ်အား ကြောက်ရွံ့ကြ၏၊ အရှင်မြတ်၏ ဝတ်ကို ပြေအောင်ပြု၏၊ ထိုသူသည် အောင်နိုင်သူအမှန်အကန်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား မည်သူမဆို အလ္လာဟ်အရှင်မြတ်၏ အမိန့်တော်များကိုလည်းကောင်း၊ ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော်မြတ်၏ အမိန့်တော်များကိုလည်းကောင်း၊ လိုက်နာပါမူ ထို့ပြင် ထိုသူသည် အလ္လာဟ်အရှင်မြတ်အား ကြောက်ရွံ့ပါမူ ထိုမှတစ်ပါး ထိုသူသည် အရှင်မြတ်(၏အမိန့် တော်များကိုဖီဆန်ခြင်းမှ) ရှောင်ကြဉ်ပါမူ ထိုကဲ့သို့သော သူတို့သည်သာလျှင် အလိုဆန္ဒ ပြည့်ဝသူများ ဖြစ်ကြကုန်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

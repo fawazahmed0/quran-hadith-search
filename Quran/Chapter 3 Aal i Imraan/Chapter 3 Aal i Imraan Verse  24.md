@@ -710,6 +710,12 @@ Tova e, zashtoto rekokha: “Ne shte ni zasegne Ogŭnyat, osven samo v broeni dn
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	ယင်းသို့ဖြစ်ရခြင်းသည် သူတို့က ငရဲမီးသည် အကျွနု်ပ်တို့အား ရက်အနည်းငယ်မှတပါး ထိခိုက်မည် မဟုတ်ချေဟု ပြောရဲခြင်းကြောင့်ဖြစ်၏။ သူတို့လုပ်ကြလေ့ရှိသောအရာများသည် သူတို့အား ဘာသာအယူဝါဒနှင့်စပ်လျဉ်း၍ လှည့်စားထားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤ(ကဲ့သို့ တရားဒေသနာတော်များကို သွေ ဖည်ကျောခိုင်းဝံ့ခြင်းအကြောင်း)မှာကား ထိုသူတို့က ငရဲမီးသည်ငါတို့အား ရေတွက်ထားသော နေ့ရက် အနည်းငယ်)မှအပအလျင်းထိရောက်မည်မဟုတ် ဟု (ယုံကြည်) ပြောဆို နေခြင်းကြောင့်ပင်တည်း။ စင်စစ်သော်ကား ၎င်းတို့အား ၎င်းတို့၏သာသနာရေး နှင့် စပ်လျဉ်း၍ ၎င်းတို့ကိုယ်တိုင် လီဆယ်လုပ်ကြံ ဖန်တီးထားသော အချက်များကပင် လှည့်ပတ်ဖြားယောင်းထားလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

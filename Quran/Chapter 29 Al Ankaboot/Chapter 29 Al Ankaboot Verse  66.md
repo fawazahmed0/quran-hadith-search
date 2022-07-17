@@ -710,6 +710,12 @@ za da otrekat onova, koeto sme im dali, i za da se naslazhdavat, no shte uznayat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၆။	ထိုသို့ဘုရားတုများဘုရားယောင်များကို ဝတ်ပြုခြင်းမှာ ငါ၏ကျေးဇူးတော်ကို မသိ၊ မယုံကြည်ဖို့ရာနှင့် လောကီ စည်းစိမ်ကာမဂုဏ်တွင် နစ်မွန်းနေဖို့ရာဖြစ်၏၊ သို့သော်သူတို့သည် အစစ်အမှန်ကို သိကြရမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ငါအရှင်မြတ်မှ ၎င်းတို့အား ချီးမြှင့်ပေးသနားတော်မူခဲ့သော ကျေးဇူးတော်များကို ငြင်းပယ် ကျေးဇူးကန်းကြအံ့သောငှာ (တွဲဖက်ကိုးကွယ်မှုကို ပြုလုပ်ကြကုန်၏)။သို့ဖြစ်ပေရာ ၎င်းတို့သည် ခေတ္တခဏ အကျိုးခံစားကြပါစေ၊ထို့နောက်တွင်မူ မကြာမြင့်မီပင် ၎င်းတို့သည် သိရှိကြကုန်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

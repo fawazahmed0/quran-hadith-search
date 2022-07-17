@@ -710,6 +710,12 @@ I neka se srazhavat po pŭtya na Allakh onezi, koito prodavat zemniya zhivot za 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၄။	ဤဘဝကို အရင်းအနှီးပြု၍ နောင်တမလွန်ဘဝကို ရှာမှီးသောသူတို့အား အလ္လာဟ်အသျှင်မြတ်၏ ဘက်တော်၌ စစ်ဝင်တိုက်၍ စစ်မြေပြင်ဝယ်ကျ၏။ သို့မဟုတ် စစ်ရေးသာအနိုင်ရ၏။ ထိုသူအား ငါအသျှင်မြတ်သည် မဟာဆုတော်ကြီးကို ချပေးတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ပစ္စုပ္ပန်ဘဝကို နောင်တမလွန်ဘဝဖြင့် လဲလှယ်ရောင်းချကြသောသူတို့သည် အလ္လာဟ်အရှင်မြတ်၏လမ်းတော်၌ စစ်မက်ပြိုင်ဆိုင်တိုက်ခိုက်ကြရပေမည်။ (တစ်နည်း- သို့ဖြစ်ပေရာ ထိုသူသည် အလ္လာဟ်အရှင်မြတ်၏လမ်းတော်၌ အကြင်သူများနှင့် စစ်မက်ပြိုင်ဆိုင်တိုက်ခိုက်ရပေမည်။ ထိုသူတို့သည် မျက်မှောက်ဘဝကို နောင်တမလွန်ဘဝဖြင့် လဲလှယ်ဝယ်ယူကြ၏) စင်စစ်သော်ကား မည်သူမဆို အလ္လာဟ်အရှင်မြတ်၏လမ်းတော်၌ စစ်မက်ပြိုင်ဆိုင်တိုက်ခိုက်အံ့။ ထို့နောက် သို့တိုက်ခိုက်ရာတွင် ထိုသူသည် အသတ်ခံရသည်ဖြစ်စေ၊ အောင်နိုင်သည်ဖြစ်စေ ငါအရှင်သည် ထိုသူ့အား မကြာမြင့်မီအတွင်း ကြီးကျယ်မြင့်မြတ်သောအကျိုးကို ပေးသနားတော်မူအံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

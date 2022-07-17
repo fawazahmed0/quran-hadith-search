@@ -710,6 +710,12 @@ I naroda na Nukh [pogubikhme] predi. Te byakha nechestivi khora
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။	ထို့အပြင်အထက်ကျော်ကာလက တမန်တော်နူဟို၏ လူတို့ရှိကြ၏၊ မှတ်သားကြလော့၊ သူတို့သည် တရား လက်လွှတ်ဆိုးသွမ်းသောသူတို့ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနည်းတူစွာ (ငါအရှင်မြတ်သည်) (၎င်းတို့)အလျင် နူဟ်၏အမျိုးသားတို့အားလည်း (ဖျက်ဆီးတော်မူခဲ့၏)။ ဧကန်မလွဲ ၎င်းတို့မှာကား အမိန့်တော်ကို ဖောက်ဖျက်ကျူးလွန်သော အမျိုးသားတို့ပင် ဖြစ်ခဲ့ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

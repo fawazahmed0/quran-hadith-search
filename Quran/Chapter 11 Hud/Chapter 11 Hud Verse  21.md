@@ -710,6 +710,12 @@ Tezi sa, koito sebe si pogubikha i se skri ot tyakh onova, koeto izmislyakha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	ထိုသူမိုက်တို့သည် မိမိတို့ဝိညာဉ်ကို မိမိတို့ဆုံးရှုံးသူများဖြစ်ကြ၏။ သူတို့လုပ်ကြံဖန်တီးလေ့ရှိသောအရာများသည် သူတို့ကို ပစ်ပယ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသူများပင် မိမိတို့ကိုယ်ကို မိမိတို့ ဆုံးရှုံး နစ်နာစေခဲ့ကြသောသူများတည်း။ ထို့ပြင် ၎င်းတို့ထံမှ ၎င်းတို့ လီဆယ်ဖန်တီးခဲ့ကြသော (ကိုးကွယ်ရာများသည်) ပျောက်ကွယ်၍သွားကြလေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

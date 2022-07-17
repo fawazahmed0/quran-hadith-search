@@ -710,6 +710,12 @@ Taka razyasnyavame znameniyata, za da prolichi pŭtyat na prestŭpnitsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။	မသူတော်တို့၏လမ်းကို ထင်ရှားစေတော်မူခြင်းငှာ ငါအသျှင်မြတ်သည် မိမိ၏ဗျာဒိတ်တော်များကို ဤကဲ့သို့ ရှင်းလင်းပြတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင်၊ ဤနည်းအတိုင်းပင် အပြစ်ထိုက်သင့်သောသူတို့၏လမ်းစဉ်သည် ထင်ရှားသွားရန်အလို့ငှာ ငါအရှင်မြတ်သည် သက်သေလက္ခဏာတော်များကို ထင်ရှားစွာထုတ်ဖော်မိန့်ကြားတော်မူလေသတည်း။တနည်း၎င်းပြင် ဤနည်းအတိုင်းပင် ငါအရှင်မြတ်သည် အာယသ် သက်သေလက္ခဏာတော်များကို ထင်ရှားစွာဖော်ပြတော်မူသည်။ (သို့မှသာလျှင် မုအ်မင်န်တို့၏ လမ်းစဉ်သည်လည်း ထင်ရှားသွားပေမည်)။ ၎င်းပြင် အပြစ်ထိုက်သင့်သူတို့၏ လမ်းစဉ်လည်း ထင်ရှားသွားပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

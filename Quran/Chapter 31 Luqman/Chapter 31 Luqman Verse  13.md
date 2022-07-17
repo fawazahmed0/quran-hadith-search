@@ -710,6 +710,12 @@ I reche Lukman na sina si, pouchavaĭki go: “O, sinko moĭ, ne sŭdruzhavai�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	မှတ်သားကြလော့၊ လု(က်)မာန်သုခမိန်သည် မိမိသားအား ဤသို့ဆုံးမ၏၊ အို-ချစ်သား၊ သင်သည် အလ္လာဟ် အရှင်မြတ်နှင့်တွဲဖက်၍ အခြားအရာများကို မကိုးကွယ်လင့်၊ မှတ်သားကြလော့၊ အရှင်မြတ်နှင့်အခြားအရာများကို တွဲဘက်ခြင်းသည် အလွန်ဆိုးသွမ်းသောပြစ်မှုတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် တစ်ရံရောအခါဝယ် လွတ်က်မာန်သည် မိမိသားကို ဆုံးမဩဝါဒပေးရာ၌(ဤ)သို့ ပြောကြားခဲ့လေ၏။ အို-ချစ်သား၊ အသင်သည် (မည်သည့်တစ်စုံတစ်ရာကိုမျှပင်) အလ္လာဟ်အရှင်မြတ်နှင့် တွဲဖက်နှိုင်းယှဉ် ကိုးကွယ်မှုကို မပြုလေနှင့်။ (အကြောင်းမူကား)မချွတ်ဧကန်တွဲဖက်နှိုင်းယှဉ် (ကိုးကွယ်) မှုသည် အမှန်ပင် ကြီးလေးလှစွသောမတရား မှု ဖြစ်သောကြောင့်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

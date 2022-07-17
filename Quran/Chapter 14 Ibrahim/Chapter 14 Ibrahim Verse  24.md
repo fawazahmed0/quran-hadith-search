@@ -710,6 +710,12 @@ Ne vidya li ti kakŭv primer dava Allakh? - Dobrata duma e kato dobroto dŭrvo. 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	အလ္လာဟ်အရှင်မြတ်သည် ဥပမာပုံစံကို မည်သို့မည်ပုံစီရင်တော်မူသည်ကို သင်မြင်သည်မဟုတ်လော၊ ပမာ ဆိုသော်နက်နဲသိမ်မွေ့သောစကားတစ်ခွန်းသည် အခြေအမြစ်ခိုင်မြဲသောအကိုင်းအခက်အရွက်တို့သည် မိုဃ်းကောင်းကင်ထိလုဘနန်းမျှတက်သောသစ်ပင်ကောင်းနှင့် တူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အလ္လာဟ်အရှင်မြတ်သည်စင်ကြယ်သန့်ရှင်းသောစကားကို မည်သို့ဥပမာခိုင်းနှိုင်းတော်မူခဲ့သည်ကို အသင်သည် မသိမမြင်လေသလော။ အလ္လာဟ်အရှင်မြတ်သည် ယင်းစကားကို ဥပမာခိုင်းနှိုင်းတော်မူသည်မှာ စင်ကြယ်သန့်ရှင်းသောထိုစကားသည်) အကြင် သန့်စင်သောသစ်ပင်တစ်ပင်နှင့်တူပေသည်။ ယင်းသစ်ပင်၏ အမြစ်ကား မြဲမြံခိုင်ခံ့၍ ၎င်း၏အကိုင်းအလက်တို့မှာမူကား ကောင်းကင်၌ ရှိနေကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

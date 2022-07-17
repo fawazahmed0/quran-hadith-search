@@ -710,6 +710,12 @@ koĭto pronikva do sŭrtsata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။ ဤငရဲမီးသည် ထိုလူယုတ်မာတို့၏ စိတ်နှလုံးအတွင်းသို့ ဝင်ရောက်လောင်ကျွမ်း၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်မီးသည် စိတ်နှလုံးများအထိ တိုးတက်ဖုံးလွှမ်းလေ၏။ (ထိရောက်လေ၏)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

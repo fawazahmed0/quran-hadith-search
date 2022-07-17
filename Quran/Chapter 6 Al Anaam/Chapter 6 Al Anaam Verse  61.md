@@ -710,6 +710,12 @@ Toĭ e Vsevlastvashtiya nad Svoite rabi i vi izprashta [angeli-] paziteli. A sh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၁။	အသျှင်မြတ်သည် မိမိ၏ကျေးတော်မျိုး၊ ကျွန်တော်မျိုးတို့အပေါ်၌ တန်ခိုးအတိုင်းထက် အလွန်ကြီး တော်မူ၏။ သင်တို့ကံကုန်သည်တိုင်အောင် စောင့်ရှောက်ဖို့ရာ အစောင့်တော်များကို အသျှင်မြတ် ချထားတော်မူ၏။ သင်တို့အနက် တစ်စုံတစ်ယောက် အနိစ္စရောက်လျှင် သူကို ငါအသျှင်မြတ်၏ ကောင်းကင်တမန်တော်များ လက်ခံယူထားကြ၏။ သူတို့သည် ပေါ့ပေါ့ဆဆမဟုတ်ကြပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုအရှင်မြတ်သည်သာလျှင် မိမိကျွန်များအပေါ်ဝယ် လွှမ်းမိုးတော်မူသောအရှင် ဖြစ်တော်မူ၏။၎င်းပြင် ထိုအရှင်မြတ်သည် အသင်တို့ထံ ထိန်းသိမ်းစောင့်ရှောက်သော(မလာအိကဟ် ကောင်းကင်တမန်)များကိုစေလွှတ်တော်မူ၏။ နောက်ဆုံးတွင် အသင်တို့အနက် တစ်ဦးဦးထံ မရဏ သေခြင်းတရားသည် ဆိုက်ရောက်လာ သောအခါ၊ ငါအရှင်မြတ်၏ (မာလာအိကဟ် ကောင်းကင်တမန်)များသည် ထိုသူ(၏အသက်ဇီဝိန်)ကိုရုပ်သိမ်းကြ၏။၎င်းပြင် ထို(မလာအိကဟ်ကောင်းကင်တမန်)တို့သည် (ငါအရှင်မြတ်၏ အမိန့်တော်များကို လိုက်နာဆောင်ရွက်ရာတွင်အနည်းငယ်စိုးစဉ်းမျှ) ပေါ့လျော့ကြသည်မရှိချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

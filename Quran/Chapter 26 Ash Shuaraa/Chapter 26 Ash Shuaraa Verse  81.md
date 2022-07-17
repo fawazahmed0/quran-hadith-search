@@ -710,6 +710,12 @@ i Koĭto shte me umŭrtvi, a posle shte me sŭzhivi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၁။	ထိုအရှင်သည် ငါ့ကို သေစေတော်မူ၍ တဖန်ပြန်ရှင်စေတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ထိုအရှင်မြတ်သည်ပင် ငါ့အား(သေချိန်တွင်) သေစေတော်မူမည်။ ထို့နောက် ထိုအရှင်မြတ်သည်ပင် ငါ့အား (ကိယာမတ်နေ့တွင်) ရှင်စေတော်မူမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ No Allakh shte gi predpazi ot zloto na tozi Den, i shte im dari siyanie i shtast
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။ ထို့ကြောင့်အလ္လာဟ်အရှင်မြတ်သည် ထိုသူမြတ်တို့ထံမှ ထိုနေ့တော်ကြီး၏ အပြစ်ဒဏ်ကို တွန်းလှန်ပစ်တော်မူပြီ၊ ထိုအရှင်မြတ်သည် သူတို့အား တောက်ပခြင်းနှင့် ရွှင်လန်းခြင်းကို တွေ့စေတော်မူပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့အား ထိုနေ့၏ဘေးအန္တရာယ်မှ လွတ်ကင်းစေတော်မူပေမည်။ ၎င်းပြင် ထိုအရှင်မြတ်သည် ထိုသူတို့အား ရွှင်လန်းမှုနှင့်လည်းကောင်း၊ ဝမ်းမြောက် ပျော်ရွှင်မှုနှင့် လည်းကောင်း၊ တွေ့ကြုံစေတော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

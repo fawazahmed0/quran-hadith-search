@@ -710,6 +710,12 @@ Kaza [Musa]: “Vashiyat Gospod i Gospodŭt na drevnite vi predtsi...”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	တဖန်တမန်တော်မူစာက ထိုအရှင်မြတ်သည် သင်တို့၏အရှင်သခင်နှင့် သင်တို့၏မိဘဘိုးဘွားတို့၏ အသက် သခင်ကျေးဇူးရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(မူစာ)က (ထိုအရှင်မြတ်သည်) အသင်တို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် လည်းကောင်း၊အသင်တို့၏ ရှေးဟောင်း အဘ၊ ဘိုးဘေးများအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင် မြတ်သည်လည်းကောင်း၊ ဖြစ်တော်မူသည်ဟု ပြောကြားခဲ့ပြန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

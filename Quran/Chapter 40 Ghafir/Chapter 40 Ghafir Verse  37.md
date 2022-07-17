@@ -710,6 +710,12 @@ pŭtishtata na nebesata, dano zŭrna boga na Musa! No az mislya, che e lŭzhets.
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	ထိုလမ်းများမှာ ကောင်းကင်ဘုံကို တက်ရောက်ရာလမ်းများဖြစ်မည်၊ ငါသည် (မူစာ)ကိုးကွယ်သောအလ္လာဟ် အရှင်မြတ်ထံသို့ တက်လို၏၊ သို့သော်သူသည် ဖွာရောမင်းအား သူ၏ မကောင်းမှုများကို တင့်တယ်လျှောက်ပတ် ဟန်ဖြစ်ပေါ်စေတော်မူ၏၊ သူ့ကို မှန်ကန်သောလမ်းမှ တားဆီးထားတော်မူ၏၊ စင်စစ်အားဖြင့် ဖွာရောမင်း၏ အကြံအစည်သည် ပျက်စီးခြင်း၌ပင် အဆုံးသတ်ရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ငါသည်)မိုးကောင်းကင်(ပေါ်တက်နိုင်ရန်)လမ်းများသို့ (တက်ရောက်နိုင်အံ့သောငှာ၊) သို့ (တက်ရောက်နိုင်ခဲ့)လျှင် ငါသည် မူစာ၏ကိုးကွယ်ရာ အရှင်မြတ်အား မြင်ပေမည်။အမှန်စင်စစ်သော်ကား ငါသည် မူစာအား မုသားဝါဒီတစ်ဦးဟုပင် ထင်မြင်ယူဆပေသည်။ စင်စစ်သော်ကား ထိုနည်းအတိုင်းပင် "ဖစ်ရ်အောင်န်"၏အမြင်၌ ၎င်း၏ မကောင်းမှုသည် လှပတင့်တယ်အောင် ပြုလုပ်ခြင်းခံခဲ့ရလေ၏။ ထိုမှတစ်ပါး ၎င်းသည် (ဖြောင့်မှန်သော)လမ်းမှလည်း တားဆီးခြင်းခံခဲ့ရလေ၏။ အမှန်သော်ကား "ဖစ်ရ်အောင်န်" ၏အကြံအစည်မှာ ပျက်စီးခဲ့သည်သာတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

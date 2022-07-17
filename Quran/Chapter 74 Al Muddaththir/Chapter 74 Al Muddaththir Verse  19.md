@@ -710,6 +710,12 @@ i - proklet da e! - kak pretseni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။ သူသည် မည်မျှပင် ကြံစည်အားထုတ်သော်လည်း မိမိကိုယ်ကို မိမိဖျက်ဆီးရာသာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ၎င်း သည် ပျက်စီးစေသား၊ ၎င်းသည် (အဘယ်ကဲ့သို့)သော အကြံအစည်ကို ဆုံးဖြတ်ခဲ့ဘိသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

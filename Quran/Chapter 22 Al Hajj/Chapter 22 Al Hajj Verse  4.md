@@ -710,6 +710,12 @@ za kogoto e pisano - vseki, koĭto se sblizhi s nego, toĭ shte go zabludi i s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	ရှိုင်တန်မာရ်နတ်နှင့်စပ်လျဉ်း၍ အလ္လာဟ်အရှင်မြတ်၏ ခတ်နှိပ်တော်မူသောဗျာဒိတ်တော်မှာကား အကြင်သူသည် ရှိုင်တန်မာရ်နတ်နှင့် အဆွေခင်ပွန်းဖွဲ့အ့ံ၊ ထိုသူအား ရှိုင်တန်မာရ်နတ်သည် လမ်းမှားသို့ အမှန်အကန်သွေးဆောင် ပြီးလျှင် ငရဲမီးအပြစ်ဒဏ်သို့ ညွှန်မည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အမှန်သော်ကား) ထို "ရှိုင်တွာန်" မိစ္ဆာကောင်နှင့်ပတ်သက်၍ စီရင်ပြဋ္ဌာန်းပြီးဖြစ်သည်မှာ မည်သူမဆို ယင်း"ရှိုင်တွာန်" မိစ္ဆာကောင်အား အဆွေခင်ပွန်း ပြုလုပ်ခဲ့မူ ယင်း"ရှိုင်တွာန်" မိစ္ဆာကောင်သည် ထိုသူအားလမ်းမှားစေခြင်းကိုလည်းကောင်း၊ ထိုသူအား အလျှံ ပြောင်ပြောင် တောက်လောင်သောငရဲမီး၏ ပြစ်ဒဏ်သို့ လမ်းညွှန်ခြင်းကိုလည်းကောင်း၊ဧကန်မလွဲ ပြုလုပ်မည်ဖြစ်သည်ဟု စီရင်ပြဋ္ဌာန်းပြီး ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Gospodi nash, Ti znaesh kakvo spotaĭvame i kakvo razglasyavame. Nishto ne e sk
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	အို-အကျွနု်ပ်တို့၏ အသက်သခင်ကျေးဇူးရှင်၊ အရှင်သည် အကျွနု်ပ်တို့ကို လျှို့ဝှက်ထားသောအရာကိုသော် လည်းကောင်း၊ ထုတ်ဖော်ပြောဆိုရာကိုသော်လည်းကောင်း၊ မုချဧကန်သိတော်မူပါ၏။ အထက်ဘဝဂ်၊ အောက် မြေကြီးပေါ်တွင် တစုံတခုကိုမျှ အလ္လာဟ်အရှင်မြတ်အထံတော်မှ ဖုံးကွယ်လျှို့ဝှက်၍ မထားနိုင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ကျွန်တော်မျိုးတို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ အရှင်မြတ်သည် ကျွန်တော်မျိုးတို့ လျှို့ဝှက်ကြသော အချက်တို့ကိုလည်းကောင်း၊ ကျွန်တော်မျိုးတို့ ထင်ရှားစေကြကုန်သောအချက်တို့ကို လည်းကောင်း၊ သိရှိတော်မူပါ၏။စင်စစ်သော်ကား ပထဝီမြေ၌လည်းကောင်း၊ မိုးကောင်းကင်၌လည်းကောင်း၊ မည်သည့်တစ်စုံတစ်ရာမျှပင် အလ္လာဟ် အရှင်မြတ်အပေါ်၌ ဖုံးအုပ်လျက်အလျင်းမရှိပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

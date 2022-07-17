@@ -710,6 +710,12 @@ I gi stori da prilichat na proyadeni lista
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။ သို့ပစ်ချပြီးလျှင် သင်၏ အရှင်သခင်သည် ထိုရဲမက်ဗိုလ်ခြေအလုံးတို့အား တိရိစ္ဆာန်စသည်တို့ဝါး၍ ကြေမွသော မြက်ဝါးဖတ်များကြဲဖြန့်လျက် အသီးအနှံကင်းမဲ့သည့် လယ်ပြင်ကဲ့သို့ဖြစ်အောင် စီရင်တော်မူလိုက်သည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းနောက် ထိုအရှင်မြတ်သည် ၎င်းတို့အား စားထားပြီးဖြစ်သော ကောက်ရိုးဖတ်များကဲ့သို့ ပြုလုပ်တော်မူခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

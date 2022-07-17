@@ -710,6 +710,12 @@ Ne shte vkusyat tam nito prokhlada, nito pitie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄၊၂၅။ ထိုသူတို့သည် ငရဲထဲတွင် အေးမြခြင်းရမည်မဟုတ်၊ ပွက်ပွက်ဆူနေသောရေပူနှင့် ကျင်ထုံလာစေသောအအေးထုများမှတပါး အခြားသောက်စရာရမည်မဟုတ်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ယင်းဂျဟန္နမ်ငရဲ၌ မည်သည့် အေးချမ်း၊ အေးဆေး၊ အေးမြမှုကိုမျှ၊ မြည်းစမ်းကြရမည် မဟုတ်ပေ။၎င်းပြင် မည်သည့်သောက်သုံးရာ ပစ္စည်းကိုမျှလည်း မြည်းစမ်းကြရမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

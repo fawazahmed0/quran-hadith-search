@@ -710,6 +710,12 @@ A toĭ se otvŭrna ot tyakh i kaza: “O, narode moĭ, sŭobshtikh vi poslanie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၉။	တမန်တော် ဆွာလေ(ဟ်)သည် ထိုသူများကို ကျောခိုင်းလှည့်သွားပြီးလျှင် ဟောကြား၏။ ဟယ်-အကျွနု်ပ်၏အမျိုးသားတို့ အကျွနု်ပ်သည် မိမိ၏ ကျေးဇူးတော်သခင်၏ ဗျာဒိတ်တော်များကို သင်တို့အား ဟောပြီးပြီ။ သင်တို့အား ကောင်းသောသြဝါဒကို ပေးပြီးပြီ။ သို့သော် သင်တို့ ကောင်းသော အကြံဉာဏ်ပေးသူများကို မခင်ကြပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ယင်း(နဗီတမန်တော်) ဆွာလိဟ်သည် ၎င်းတို့ဘက်မှ မျက်နှာလွှဲ၍ ထွက်ခဲ့လေသည်။ ထို့ပြင်အို-ငါ၏အမျိုးသားတို့ ငါသည် မိမိအရှင်မြတ်က မှာကြားတော်မူလိုက်သော အမိန့်တော်ကိုလည်း အသင်တို့ထံ ဧကန်စင်စစ် ပို့ဆောင်ခဲ့ပြီးဖြစ်၏။ ၎င်းပြင် ငါသည် အသင်တို့၏ကောင်းကျိုးကိုလည်း သယ်ပိုးရွက်ဆောင်ခဲ့သည်။ သို့ရာတွင်အသင် တို့သည်ကား ကောင်းကျိုးသယ်ပိုးရွက်ဆောင်သူတို့ကိုပင် မနှစ်သက်ကြပါ ဟု ပြောကြားခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

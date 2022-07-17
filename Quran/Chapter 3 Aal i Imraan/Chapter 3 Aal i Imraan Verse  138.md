@@ -710,6 +710,12 @@ Tova e poyasnenie za khorata i napŭt·stvie, i nastavlenie za bogoboyazlivite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၈။	ဤကျမ်းသည် လူသားတစ်မျိုးလုံးအတွက် ပြဌာန်းချက်ဖြစ်သည်။ မကောင်းမှုကို ရှောင်ကြဉ်သူတို့ အဖို့ လမ်းညွှန်ပြချက်နှင့် အဆုံးအမတော်ဖြစ်သည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည်ကား လူခပ်သိမ်းတို့ (သိနားလည် နိုင်ရန်) အလို့ငှာ ရှင်းလင်းဖေါ်ပြချက်လည်းဖြစ်၏။ ပြစ်မှုဒုစရိုက်များမှ ကြဉ်ရှောင်ကြကုန်သော မွတ္တကီ သူတော်စင်များအဖို့ တရားဓမ္မ ညွှန်ကြားချက်များလည်းဖြစ်၏။ ဆုံးမဩဝါဒလည်းဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

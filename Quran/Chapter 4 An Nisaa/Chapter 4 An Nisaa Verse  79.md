@@ -710,6 +710,12 @@ Kakvato i dobrina da te dostigne, tya e ot Allakh, a kakvato i zlina da te spole
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၉။	အို-လူသားတို့ သင်တို့စံစားရသောချမ်းသာသုခများသည် အလ္လာဟ်အသျှင်မြတ်အထံတော်မှ တဖြစ်ကြ၏။ သင်တို့ခံစားရသော ဆင်းရဲဒုက္ခများသည် သင်တို့ထံမှဖြစ်ကြ၏။ မိုဟမ္မဒ် ငါသည် သင့်အား လူသားတို့ထံသို့ တမန်တော်အဖြစ်ဖြင့် စေလွှတ်တော်မူ၏။ အလ္လာဟ်အသျှင်မြတ်သည် သက်သေတော်အဖြစ်ဖြင့် လုံလောက်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို- လူသား) ။ အသင့်၌ ဆိုက်ရောက်သမျှသော ကောင်းခြင်းမင်္ဂလာအဖြာဖြာတို့သည် အလ္လာဟ်အရှင်မြတ်၏ အထံတော်မှပင်ဖြစ်၏။ သို့ရာတွင် အသင့်၌ ဆိုက်ရောက်သမျှသော ဒုက္ခဟူသရွေ့တို့သည် မိမိ (အပြုအမူတို့) ကြောင့်သာဖြစ်၏။ (အို- နဗီတမန်တော်) ငါအရှင်မြတ်သည် အသင့်အား လူခပ်သိမ်းတို့ထံသို့ ရစူလ်တမန်တော်အဖြစ် စေလွှတ်တော်မူခဲ့လေသည်။ အမှန်စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည်ပင်လျှင် (အသင် ရစူလ်တမန်တော်မြတ်ဖြစ်ခြင်းနှင့် စပ်လျဉ်း၍) သက်သေအဖြစ် လုံလောက်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

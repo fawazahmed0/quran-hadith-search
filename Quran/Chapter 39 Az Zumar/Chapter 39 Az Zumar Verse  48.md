@@ -710,6 +710,12 @@ I shte im se yavyat loshite posledstviya na onova, koeto sa pridobili, i shte gi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	ထို့အပြင် ထိုသူတို့ပြုကျင့်ခဲ့သောဒုစရိုက်မကောင်းမှု၏ ကံဆိုးများသည် သူတို့မျက်မှောက်ပေါ်လွင်လာအ့ံ၊ ထို့အပြင် သူူတို့ပျက်ချော်ပြောင်လှောင်ပြုခဲ့သောအရာဝထ္ထုများသည် သူတို့အား ဝန်းဝိုင်းပိတ်ဆီး၍ ထားကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့ ဆည်းပူးခဲ့ကြကုန်သော ပြစ်မှုဒုစရိုက်များ၏ အန္တရာယ်များလည်း ၎င်းတို့ရှေ့ဝယ် ပေါ်လွင်ထင်ရှားလာခဲ့ပေမည်။ ထိုမှတစ်ပါး ၎င်းကိုပြက်ချော်သမှုပြုလျှက်ရှိကြကုန်သော ပြစ်ဒဏ်သည်လည်း ၎င်းတို့အား ဝိုင်းဝန်းလျက် ရှိချေအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

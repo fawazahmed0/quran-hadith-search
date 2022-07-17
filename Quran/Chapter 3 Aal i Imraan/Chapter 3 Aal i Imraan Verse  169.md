@@ -710,6 +710,12 @@ I ne smyataĭ za mŭrtvi ubitite po pŭtya na Allakh! Ne, zhivi sa! Pri svoya G
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၉။	အလ္လာဟ်အသျှင်မြတ်၏လမ်းတော်၌ အသတ်ခံရသောသူတို့ကို သေဆုံးသည်ဟု မယူဆကြလင့်။ သူတို့သည် သေလွန်သည်မဟုတ် အသက်ရှင်နေကြ၏။ သူတို့၏အသျှင်သခင်အထံတော်၌ သူတို့သည် ရိက္ခာပစ္စည်းများရရှိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (အို-နဗီတမန်တော်) အသင်သည်အလ္လာဟ်အရှင်မြတ်၏ တရားလမ်းတော်၌ (စစ်တိုက်စဉ်)အသတ်ခံရသော သူတို့ကို သူသေများဟူ၍ အလျင်း မထင်မှတ်ပါလေနှင့်။ (ထိုသူတို့ကား သူသေများ) အလျင်းမဟုတ်၊ စင်စစ်မှာမူကား ထိုသူများသည် ၎င်းတို့၏ အရှင်မြတ်အထံတော်ဝယ်အသက်ရှင်နေသော သူများပင်ဖြစ်ကြသည့်ပြင် (အလ္လာဟ်အရှင်မြတ်၏) ကျွေးမွေးတော်မူခြင်းကိုလည်း ခံကြရကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

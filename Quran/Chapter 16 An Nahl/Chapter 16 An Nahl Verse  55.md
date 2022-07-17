@@ -710,6 +710,12 @@ za da otrekat onova, koeto sme im dali. Naslazhdavaĭte se i shte uznaete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။	ယင်းသို့ပေးခြင်းမှာ ငါ သူတို့အား ပေးသနားတော်မူသောကျေးဇူးတော်ကို ငြင်းပယ်ရန်အဖို့ဖြစ်၏။ ထို့ကြောင့် သင်တို့သည် ဤဘဝကို ခံစားရအ့ံ။ ခံစားကြလော့၊ များမကြာမီ သင်တို့သိစေရမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 နောက်ဆုံးတွင် ၎င်းတို့သည် အရှင်မြတ် ချီးမြှင့်ပေးသနားတော်မူသောကျေးဇူးတော်များနှင့်စပ်လျဉ်း ၍ကျေးဇူးကန်းသွားကြလေသည်။ သို့ဖြစ်ပေရာ အသင်တို့သည် ခေတ္တခဏမျှအဖို့ အကျိုးကျေးဇူးခံစားကြလေကုန်။ ထို့နောက်အသင်တို့သည် မကြာမီသိရှိကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

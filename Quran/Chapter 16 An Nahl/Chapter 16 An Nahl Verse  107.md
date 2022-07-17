@@ -710,6 +710,12 @@ Tova e, zashtoto vŭzlyubikha zemniya zhivot poveche ot otvŭdniya i zashtoto Al
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၇။	ယင်းကဲ့သို့အပြစ်ကြီးခံရခြင်းအကြောင်းမှာ သူတို့သည် ဤမျက်မှောက်ဘဝကို နောင်တမလွန်ဘဝထက် သာလွန် နှစ်ခြိုက်ခြင်းကြောင့်ဖြစ်၏။ အလ္လာဟ်အရှင်မြတ်သည် မိစ္ဆာမိုက်တို့အား လမ်းညွှန်ပြတော်မမူခြင်းကြောင့်လည်း ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤ(သို့ အမျက်တော်နှင့်ပြစ်ဒဏ်ခံကြရခြင်း)သည်ကား ၎င်းတို့သည် လောကီဘဝကို နောင်တမလွန်ဘဝထက်သာ၍ နှစ်သက်သဘောကျခဲ့ကြသောကြောင့်တည်း။အမှန်စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် ကာဖိရ်သွေဖည်ငြင်းပယ်ကြကုန်သော သူတို့ကို တရားလမ်းမှန်ပြတော်မူသည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

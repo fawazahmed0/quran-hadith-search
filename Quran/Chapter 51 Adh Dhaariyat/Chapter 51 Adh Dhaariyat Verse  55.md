@@ -710,6 +710,12 @@ I pouchavaĭ! Naistina pouchenieto nosi polza na vyarvashtite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။	အို-တမန်တော်၊ သတိပေးလော့၊ သတိပေးနှိုးဆော်ခြင်းသည် ယုံကြည်သူတို့ကို အကျိုးပေး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်သည် ဆုံးမဩဝါဒပေးလျက်ရှိပါလေ။ အဘယ်ကြောင့်ဆိုသော် ဆုံးမဩဝါဒသည်’မုအ်မင်န်’သက်ဝင် ယုံကြည်သူတို့အား အကျိုးရှိစေသောကြောင့်ပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

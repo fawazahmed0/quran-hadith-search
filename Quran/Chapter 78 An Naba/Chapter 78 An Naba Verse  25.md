@@ -710,6 +710,12 @@ osven vryashta voda i gnoĭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄၊၂၅။ ထိုသူတို့သည် ငရဲထဲတွင် အေးမြခြင်းရမည်မဟုတ်၊ ပွက်ပွက်ဆူနေသောရေပူနှင့် ကျင်ထုံလာစေသောအအေးထုများမှတပါး အခြားသောက်စရာရမည်မဟုတ်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ပွက်ပွက်ဆူလျက်ရှိသော ရေပူနှင့် ပြည်ပုပ်ကိုသာ (မြည်းစမ်းကြရပေမည်)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

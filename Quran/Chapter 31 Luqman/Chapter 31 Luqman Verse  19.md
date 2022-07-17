@@ -710,6 +710,12 @@ I bŭdi umeren v svoyata pokhodka, i snizhavaĭ svoya glas! Naĭ-protivniyat o
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	အို-ချစ်သား၊ အသွားအလာအပြုအမူတွင် အလယ်အလတ်လမ်းကို လိုက်လော့၊ မိမိအသံကိုလည်း မကျယ် စေပဲ ဖြည်းညှင်းသာယာစေလော့၊ စင်စစ်အားဖြင့်အသံဟူသမျှတွင် နာခံဖွယ်မရှိ၊ အစူးရှဆုံးအသံသည် မြည်း တိရိစ္ဆာန်၏ အသံဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အသင်သည် မိမိလမ်းလျှောက်မှု၌အလယ်အလတ်ပြုလုပ်ပါလေ။ ဣန္ဒြေစောင့်စည်းပါလေ။ထိုမှတစ်ပါး အသင်သည် မိမိအသံကို နှိမ့်ချပါလေ။ မလွဲဧကန်စက်ဆုပ်ဖွယ်အဖြစ်ဆုံး အသံကား မြည်း သတ္တဝါတို့၏အသံပင်ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

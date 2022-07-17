@@ -710,6 +710,12 @@ belyazani pri tvoya Gospod za prekalyavashtite.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃၊၃၄။	သို့စေလွှတ်တော်မူခြင်းမှာ ၎င်းသူဆိုးသူညစ်တို့ကို ဖျက်ဆီးဖို့ရာ သင်၏ အသက်သခင်ကျေးဇူးရှင်ကြီး တံဆိပ် ခတ်နှိပ်ပြီးဖြစ်သောရွှံ့လုံးများကို သူတို့အပေါ်သို့ ပစ်ချဖို့အလို့ငှာဖြစ်၏ဟု ဆက်လက်၍ ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ယင်းကျောက်ခဲများမှာ) တရားစည်းကမ်း ကျူးလွန်သူတို့အဖို့ အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်၌ မှတ်သားပြီးဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Tezi khora ot nashiya narod priekha drugi bogove osven Nego. Zashto ne donesat y
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	သူတို့ဆက်လက်၍ ဆိုကြသည်မှာ အကျွနု်ပ်တို့၏ အမျိုးသားဖြစ်သောဤလူများသည် အလ္လာဟ်အရှင်မြတ်နှင့် ယှဉ်ပြိုင်၍ ဘုရားတုများကို ဝပ်တွားရှိခိုးပူဇော်ကြ၏။ ယင်းအယူဝါဒအတွက် သူတို့သည် သူတို့အား သနားတော် မူသောအခိုင်အမာတစုံတရာမျှမယူခဲ့ကြချေ။ အလ္လာဟ်အရှင်မြတ်နှင့်ပတ်သက်၍ မုသားစကားတီထွင်ပြောသူ ထက် သာလွန်မတရားပြုလုပ်သူသည် အဘယ်သူနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ကျွန်ုပ်တို့၏)ဤအမျိုးသားတို့သည်ထိုအရှင်မြတ်မှတစ်ပါး အခြားကိုးကွယ်ရာများ ပြုလုပ်ခဲ့ကြကုန်၏။ ၎င်းတို့သည် ယင်း(ကိုးကွယ်ရာ) တို့(ကိုခဝပ်ကိုးကွယ်ခြင်း)နှင့်ပတ်သက်၍ ထင်ရှားသောသက်သေသာဓက တစ်စုံတစ်ရာကိုအဘယ်ကြောင့် ယူဆောင်(တင်ပြ)ခြင်းကို မပြုကြသနည်း။သို့ဖြစ်ပေရာ အလ္လာဟ်အရှင်မြတ်အပေါ်၌ မဟုတ်မမှန် မုသားကို လီဆယ်စွပ်စွဲသောသူထက် သာလွန်မတရားသောသူဟူ၍ တစ်ဦးတစ်ယောက်မျှပင် မရှိပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

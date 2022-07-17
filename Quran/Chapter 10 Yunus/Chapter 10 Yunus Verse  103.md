@@ -710,6 +710,12 @@ Posle spasyavame Nashite pratenitsi i onezi, koito sa povyarvali. Taka Nash dŭl
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၃။	ထိုအခါရှေးလွန်လေပြီးသောအခါ ကာလမှာကဲ့သို့ ငါအရှင်မြတ်၌ မိမိ၏ တမန်တော်များနှင့်ယုံကြည်သူများကို ကယ်နှုတ်တော်မူရန် တာဝန်ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုနောက် ငါအရှင်မြတ်သည် မိမိရစူလ် တမန်တော်များအားလည်းကောင်း၊ အီမာန်သက်ဝင်ယုံကြည်ခဲ့ကြကုန်သောသူတို့အားလည်းကောင်း၊ ကယ်ဆယ်တော်မူလေ့ရှိခဲ့သည်။ဤနည်းအတိုင်းပင် ငါအရှင်မြတ်အပေါ်၌ (ကယ်ဆယ်ရန်)တာဝန်တော် ရှိ၏။ ငါအရှင်မြတ်သည် မုအ်မင်န်သက်ဝင် ယုံကြည်သူတို့အား ကယ်ဆယ်တော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

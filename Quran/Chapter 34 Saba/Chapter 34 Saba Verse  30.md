@@ -710,6 +710,12 @@ Kazhi: “Obeshtan vi e Den, koĭto dori s mig nito shte zabavite, nito shte us
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	အို-တမန်တော်မိုဟမ္မဒ်၊ ဟောပြောလော့၊ သင်တို့အား ချိန်းဆိုသောနေ့တော်ကြီးသည် သင်တို့တစ်နာရီမျှပင် နောက်ဆိုင်း၍သော်လည်းကောင်း၊ ရှေ့တိုး၍သော်လည်းကောင်း မရသောနေ့ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်သည် ဖြေကြားပါလေ၊(အချင်းတို့၊)အသင်တို့အား အထူးနေ့တစ်နေ့ကို ချိန်းချက်ထားသည်ဖြစ်ပေရာ၊အသင်တို့သည် ယင်းချိန်းချက်ထားသောနေ့မှ အချိန် အနည်းငယ်ခန့်မျှပင် နောက်ဆုတ်နိုင်ကြမည်လည်း မဟုတ်ပေ၊ ရှေ့တိုးနိုင်ကြမည်လည်း မဟုတ်ပြီတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Nima sŭdruzhavat s Nego takiva, koito nishto ne tvoryat, a samite te sa sŭtvor
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉၁။	သူတို့သည် တစ်စုံတစ်ခုမျှ မဖန်ဆင်းနိုင်ဘဲ မိမိတို့သာ ဖန်ဆင်းခံရသူများကို အသျှင်မြတ်နှင့် တွဲဖက်သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် အကြင် သို့သောအရာများကို(အလ္လာဟ်အရှင်မြတ်နှင့်)ယှဉ်တွဲကိုးကွယ်ကြသလော။ ထိုအရာများသည် တစ်စုံတစ်ရာကိုမျှ ဖန်ဆင်းနိုင်ကြသည်မရှိသည့်ပြင်မိမိတို့ကိုယ်တိုင်ပင် ဖန်ဆင်းခြင်း ခံကြရပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

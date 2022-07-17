@@ -710,6 +710,12 @@ Naĭ-blizkite khora do Ibrakhim sa onezi, koito go posledvakha, i tozi Prorok, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၈။	တမန်တော် အီဗရာဟီမ်နှင့် အနီးစပ်ဆုံးသောသူတို့မှာ သူ့ကို လိုက်နာသူများ၊ တမန်တော် မိုဟမ္မဒ်၊ သူနှင့်အတူ ယုံကြည်သူများဖြစ်ကြ၏။ အလ္လာဟ်အသျှင်မြတ်သည် ယုံကြည်သူများအား ကာကွယ် စောင့်ရှောက်သော အဆွေခင်ပွန်းဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မုချ တမန်တော် အစ်ဗ်ရာဟီမ်နှင့် အနီးစပ်ဆုံးသော သူတို့သည်ကား အမှန်စင်စစ် ထိုတမန်တော် (အစ်ဗ်ရာဟီမ်၏ ဩဝါဒများ)ကို လိုက်နာသူများသည် လည်းကောင်း၊ဤနဗီတမန်တော် (မုဟမ္မဒ်ဆွာလ္လလာဟု အလိုင်ဟိဝစလာမ်)သည်လည်းကောင်း၊ ယုံကြည်ခြင်းသဒ္ဓါတရား ထားရှိကုန်သော(တမန်တော်မုဟမ္မဒ်၏ တပည့် နောက်လိုက်များ)သည်လည်းကောင်း၊ ဖြစ်ကြပေသည်။ အလ္လာဟ်အရှင်မြတ်သည်(မှန်ကန်စွာ)ယုံကြည်ခြင်း သဒ္ဓါတရားထားရှိသော မုအ်မင်န်များကို စောင့်ရှောက်တော်မူသောအရှင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

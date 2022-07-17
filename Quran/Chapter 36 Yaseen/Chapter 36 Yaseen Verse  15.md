@@ -710,6 +710,12 @@ Rekokha: “Vie ste samo khora kato nas. Vsemilostiviya ne e nizposlal nishto. V
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	မြို့သူမြို့သားတို့က ပြန်ပြောသည်မှာ သင်တို့သည် ငါတို့ကဲ့သို့ သေမျိုးများသာဖြစ်ကြ၏၊ မဟာကရုဏာတော် အရှင်သည် သင်တို့အား မည်သည့်ဗျာဒိတ်တော်မျှချပေးတော်မမူချေ၊ သင်တို့သည် မဟုတ်မမှန်မုသားစကား ဆိုသူတို့သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမြို့သူမြို့သားတို့က "အသင်တို့သည် ကျွန်ုပ်တို့ကဲ့သို့ လူသားများပင် ဖြစ်ကြပေသည်။ စင်စစ် "ရဟ်မာန်" အနန္တကရုဏာတော်ရှင်သည် အသင်တို့အပေါ်၌ မည်သည့်တစ်စုံတစ်ရာကိုမျှ ချပေးတော်မူသည် မဟုတ်ပေ။ အသင်တို့သည် မုသားပြောဆိုနေကြသည်သာ ဖြစ်သည်" ဟု ပြောဆိုခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

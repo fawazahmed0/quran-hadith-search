@@ -710,6 +710,12 @@ I gi spoletya mŭchenieto. V tova ima znamenie, no povecheto ot tyakh ne vyarvat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၈။	ထိုအခါသူတို့အပေါ်သို့ လက်စားချေဒဏ်တော်ကြီးကျရောက်လာ၏၊ မှတ်သားကြလော့၊ ဤအဖြစ်အပျက် များတွင် နိမိတ်ထူးလက္ခဏာများပါရှိ၏၊ သို့ပါလျက်သူတို့အနက် များလှစွာသောသူတို့သည် မယုံကြည်သူများ ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ပြစ်ဒဏ်သည် ၎င်းတို့အား ဖမ်းဆီးကွပ်မျက်ခဲ့၏။ ဧကန်မလွဲ ဤသည့်ဖြစ်ရပ်၌လည်း (ကြီးကျယ်လှစွာသော)သင်ခန်းစာသည် ရှိပေ၏။ သို့ရာတွင် ၎င်း(မက္ကာမြို့သား ကာဖိရ်များအနက်) အများဆုံးသောသူတို့မှာ သက်ဝင်ယုံကြည်ကြမည့်သူများ မဟုတ်ကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

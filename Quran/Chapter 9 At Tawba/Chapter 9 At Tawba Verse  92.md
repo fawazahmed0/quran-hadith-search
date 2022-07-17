@@ -710,6 +710,12 @@ nito za onezi, na koito ti reche, kogato doĭdokha pri teb, za da gi otkarash: 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၂။	အကြင်သူတို့သည် စစ်တိုက်လိုက်ချင်၍ သင့်ထံ စီးစရာလာတောင်းသောအခါ သင်သည် သူတို့အား အကျွနု်ပ် သည် သင်တို့အတွက် စီးစရာမရနိုင်ဟု ပြန်ပြော၏။ထိုအခါသူတို့သည် မျက်ရည်ယိုစီးကျလျက် ပြန်သွားကြ၏။သူတို့သည် စစ်အတွက် သုံးစရာပစ္စည်းမရှိ၍ ဝမ်းနည်းကြ၏။ထိုသူတို့အတွက် စစ်တိုက်မလိုက်သောကြောင့် အပြစ်သင့်ကြပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အကြင် သူတို့အပေါ်၌လည်း(အပြစ်တင်ရန် မည်သည့်နည်းလမ်းမျှ) မရှိချေ။ ထိုသူတို့သည်အသင့်ထံသို့ ၎င်းတို့အား အသင်သည် (တစ်စုံတစ်ရာ) အစီးအနင်းပေါ်သို့တင်ပေးရန် လာကြသောအခါ အသင်သည် ၎င်းတို့အား ငါ့ထံ၌ အသင်တို့အားတင်ပေးရန် အစီးအနင်း တစ်စုံတရာမရှိပါ ဟု ပြောခဲ့လေသည်။ (ထိုအခါ) ၎င်းတို့သည်(စစ်ရေးတွင်)သုံးစွဲရန် တစ်စုံတစ်ရာကိုမျှ မရရှိကြသောကြောင့်ဝမ်းနည်းပူဆွေး၍ မျက်စိများမှာ ၎င်းတို့မျက်ရည်များဖြင့်ပြည့်လျှံလျက် (ပြန်သွားခဲ့ကြရရှာလေသတည်း။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

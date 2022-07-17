@@ -710,6 +710,12 @@ Kolko pokoleniya pogubikhme predi tyakh! I stenekha te, no veche ne be vreme za 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	ငါအရှင်မြတ်သည် ဤလူများထက် ရှေးကျသောလူအဆက်ဆက်ပေါင်းများစွာကို ဖျက်ဆီးရုပ်သိမ်းတော်မူခဲ့ပြီ၊ အပြစ်ဒဏ်မှ လွတ်မြောက်ရမည့်အချိန်ကုန်လွန်သောအခါမှသာ ထိုလူဟောင်းတို့သည် ကယ်ဆယ်စောင်မတော် မူရန် မြည်တမ်းတောင်းပန်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် ၎င်းတို့အလျင် မြောက်မြားစွာသောလူမျိုးဆက်ကို ဖျက်ဆီးတော်မူခဲ့၏။ (ပျက်စီးသည့်အချိန်တွင်) ၎င်းတို့သည် ဟစ်အော်မြည်တမ်း ခဲ့ကြကုန်၏။သို့ရာတွင် အကျိုးမရှိပြီ၊ အဘယ်ကြောင့်ဆိုသော် ထိုအချိန်မှာ လွတ်မြောက်ရန်အချိန် မဟုတ်တော့ပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

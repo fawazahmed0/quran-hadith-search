@@ -710,6 +710,12 @@ I Nukh Ni prizova. I kak prekrasno otklikvame
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၅။	ထို့အပြင်တမန်တော်နူဟိုသည် ငါ့အထံတော်၌ မုချဧကန်ဆုတောင်းလေ၏၊ သူ၏ ပန်ကြားလွှာကို နာကြားတော် မူသောအခါ အရှင်သည် မဟာဂရုဏာတော်ရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ဧကန်မလွဲ (နဗီတမန်တော်) "နူးဟ်"သည် ငါအရှင်မြတ်အား ဟစ်ခေါ်ခဲ့လေရာ ငါ အရှင်မြတ်သည်(နူးဟ်၏ပန်ကြားချက်ကို) အဘယ်မျှလောက် ကောင်းစွာ နားထောင်တော်မူသောအရှင်မြတ် ဖြစ်တော်မူဘိသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

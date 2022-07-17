@@ -710,6 +710,12 @@ Spoluchva onzi, koĭto ya prechistva
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။ အမှန်မှာ အကြင်သူသည် မိမိဝိညာဉ်ကို သန့်ရှင်းဖြူစင်စွာထားအံ့၊ ထိုသူသည် အမှန်ပင်အောင်မြင်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်ဧကန် ထိုအသက်ဇီဝိန်ကို သပ္ပာယ ဖြစ်အောင် စင်ကြယ် သန့်ရှင်းစေခဲ့သောသူသည် အောင်မြင်ခဲ့လေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

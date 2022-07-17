@@ -710,6 +710,12 @@ na takiva nagradata im e oproshtenie ot tekhniya Gospod i Gradinite, sred koito 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၆။	ဤသူတို့၏ဆုလာဘ်သည် သူတို့၏အသျှင်သခင်ထံမှ အပြစ်လွှတ်ခြင်းရတနာနှင့် သုခဥယျာဉ်တော် များဖြစ်၏။ ထိုဥယျာဉ်များအောက်တွင် မြစ်ချောင်းအသွယ်သွယ် စီးဆင်းလျက်ရှိကြ၏။ ထိုဥယျာဉ်များ၌ သူတို့သည် စံမြန်းနေထိုင်ကြရမည်။ တရားသဖြင့် ကြိုးစားသူတို့အဖို့ အလွန် ရက်ရောသော ဆောင်ဆုမင်္ဂလာတော်ကြီးဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတော်စင်တို့၏အကျိုးကား ယင်းသူတို့ အားမွေးမြူတော်မူသောအရှင်မြတ် အထံတော်မှ အပြစ်ချမ်းသာပေးသနားတော်မူခြင်းနှင့် ဥယျာဉ်များ ဖြစ်၏။ ထိုဥယျာဉ်များ၏အောက်တွင် စမ်းရေချောင်း များစီးဆင်းလျက်ရှိ၏။ (ထိုသူတော်စင်များသည်)ထို ဥယျာဉ်များ၌ ထာဝစဉ် စံမြန်းနေထိုင်လျက်ရှိကြကုန်အံ့။ စင်စစ် ကောင်းမှုပြုလုပ်သောသူတို့၏ကုသိုလ် အကျိုးသည် အလွန်ကောင်းမြတ်လှပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

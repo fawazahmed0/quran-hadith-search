@@ -710,6 +710,12 @@ Ibrakhim be sŭstradatelen, umolyavasht, kaesht se
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၅။	မှတ်သားကြလော့၊ တမန်တော်အေဗရာဟမ်သည် သိမ်မွေ့နူးည့ံသောစိတ်သဘောရှိ၏။ ဆုတောင်းပဌနာပြုတတ် ၏။ သတိသံဝေဂရတတ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် (နဗီတမန်တော်)အစ်ဗ်ရာဟီမ်သည် အလွန်တရာ ထောက်ထား စာနာတတ်သူ၊ အလွန်တရာတိုးလျှိုးတောင်းပန်သူ၊ အလွန်တရာ နောင်တရတတ်သူပင်ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

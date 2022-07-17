@@ -710,6 +710,12 @@ Reche [Allakh]: “Skoro nepremenno shte sŭzhalyavat.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄ဝ။	ထိုအခါအလ္လာဟ်အရှင်မြတ်က ကာလမကြာမြင့်မီ သူတို့သည် မုချဧကန်နောင်တသတိရကြလိမ့်မည်ဟု ဗျာဒိတ် တော်ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ထိုအရှင်မြတ်က (အို-နဗီတမန်တော်) ၎င်းတို့သည် အမှန်ပင် မကြာမြင့်မီကာလအတွင်း နောင်တရ မည့်သူများဖြစ်ကြသည်ဟု မိန့်ကြားတော်မူခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

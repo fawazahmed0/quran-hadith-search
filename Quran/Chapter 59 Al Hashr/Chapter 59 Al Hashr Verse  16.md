@@ -710,6 +710,12 @@ podobno na satanata, koĭto kazva na choveka: “Otkhvŭrli vyarata!” A shtom
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	ရှိုင်တန်မာရ်နတ်က လူသားအား မယုံကြည်ဖို့ရာ ဖျားယောင်းသွေးဆောင်သကဲ့သို့ ယုံကြည်ဟန်ဆောင်သူတို့ လည်း လှည့်ဖြားကြ၏၊ သို့သော်လူသားက မယုံကြည်ဟုဆိုသောအခါ ရှိုင်တန်မာရ်နတ်က အချင်းလူသား၊ ငါသည် သင်၏ ဆိုးသွမ်းသောအပြုအမူနှင့်မည်သို့မျှမသက်ဆိုင်ချေ၊ ငါသည် အနန္တစကြာစဠာတို့၏ အရှင်သခင် အား ကြောက်ရွံ့၏ဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထို့ပြင် ၎င်းတို့၏ ဥပမာကား)’ရှိုင်တွာန်’မိစ္ဆာကောင်၏ ဥပမာကဲ့သို့ပင်။ အဘယ်ကြောင့်ဆိုသော် ထို’ရှိုင်တွာန်’ မိစ္ဆာကောင်သည် လူသားအား အသင်သည် သွေဖည်ငြင်းပယ်လော့ဟု ပြောဆို(စေခိုင်း)လေ့ရှိ၏။ သို့ စေခိုင်းသည့်အလျောက် ထိုလူသားသည် သွေဖည် ငြင်းပယ်သောအခါ ယင်း ‘ရှိုင်တွာန်’မိစ္ဆာကောင်က ‘ဧကန်စင်စစ် ငါသည် အသင်နှင့် မည်သို့မျှ မပတ်သက်တော့ပြီ။ ဧကန်အမှန် ငါသည် စကြာဝဠာခပ်သိမ်းတို့ကို ဖန်ဆင်းမွေးမြူတော်မူသော အလ္လာဟ်အရှင်မြတ်အား ကြောက်ရွံ့သည်’ ဟု ပြောဆို (နောက်ဆုတ်)လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

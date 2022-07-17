@@ -710,6 +710,12 @@ Nie ya storikhme Koran na arabski, za da proumeete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	အို-လူသားအပေါင်းတို့၊ ငါသည် သင်တို့နားလည်ကောင်းနားလည်စေခြင်းငှာ ထိုကျမ်းတော်ကို အာရဗီဘာသာ ဖြင့် ပြဋ္ဌာန်းတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်ဧကန် ငါအရှင်မြတ်သည် အသင်တို့(ကောင်းမွန်စွာ) သိနားလည်ကြအံ့သောငှာ ယင်းကျမ်းဂန်ကို အရဗ်ဘာသာစကားဖြင့် (ထုတ်ပြန်အပ်သော)ကုရ်အာန်ကျမ်းတော်မြတ် ပြုလုပ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

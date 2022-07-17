@@ -710,6 +710,12 @@ I sporekha pomezhdu si za svoeto delo, i skrishom si shepnekha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	သူတို့အဘယ်အရာကို ပြုလုပ်ရမည်ကိ သူတို့အချင်းချင်းနှီးနှောတိုင်ပင်ကြ၏။ သူတို့သည် မိမိတို့တိုင်ပင်ချက်ကို လျှို့ဝှက်ထားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ယင်းပဉ္စလက်ဆရာတို့သည် မိမိတို့အရေးကိစ္စနှင့်စပ်လျဉ်း၍ အချင်းချင်း ငြင်းခုံကွဲလွဲခဲ့ကြလေသည်။ ထို့နောက် ၎င်းတို့သည် တီးတိုးဆွေးနွေးခဲ့ကြပြန်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

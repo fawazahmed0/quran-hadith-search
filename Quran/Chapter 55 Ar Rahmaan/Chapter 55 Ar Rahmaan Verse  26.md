@@ -710,6 +710,12 @@ Vsichko tuk pogiva
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	ကမ္ဘာမြေပေါ်တွင် ရှိနေကြကုန်သောသတ္တဝါအပေါင်းတို့သည် တစ်နေ့ပျက်စီးရမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းပထဝီမြေပေါ်၌ ရှိသမျှတို့သည် (မမြဲ)ပျက်စီးဆိတ်သုဉ်းအံ့သော အရာများပင် ဖြစ်ကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

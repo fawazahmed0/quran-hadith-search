@@ -710,6 +710,12 @@ no samo po milost ot tvoya Gospod [ne shte go otnemem]. Naistina blagodatta Mu k
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၇။	ကျမ်းတော်သည် သင်၏ သခင်အထံတော်မှ ကောင်းကြီးမင်္ဂလာတော်မှတပါး အခြားတစုံတရာမဟုတ်ချေ။ မှတ်သားလော့။ အရှင်မြတ်သည် သင့်အပေါ်မှာ အရှင်မြတ်၏ သနားကြင်နာခြင်းမေတ္တာတရားတော်သည် ကြီးမားလှ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်မှ ကရုဏာတော်အားဖြင့်သာ (ထိုသို့ရုပ်သိမ်းခြင်းကိုပြုတော်မမူခဲ့ချေ)။ ဧကန်စင်စစ် ထိုအရှင်မြတ်၏ကျေးဇူးတော်ကား အသင်၏အပေါ်၌ ကြီးမားလှပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I da gi poshtadyakhme i izbavekhme ot bedata, koyato gi e spoletyala, pak shtyak
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၅။	ငါသည် သူယုတ်တို့အား မဟာဂရုဏာပြတော်မူ၏၊ သူတို့အား ဖိစီးနှိပ်စက်နေသောဘေးအန္တရာယ်မှ ကယ်နှုတ် တော်မူ၏၊ သို့ငြားသော်လည်းသူတို့သည် ထောင်ထားခြားနားလျက်ပင်ရှိကြသေး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်အကယ်၍ ငါအရှင်မြတ်သည် ၎င်းတို့အပေါ်၌ သနားကရုဏာပြုတော်မူခဲ့သော်၊ ထို့ပြင် ငါအရှင်မြတ်သည် ၎င်းတို့၌ သက်ရောက်နေသော ဘေးဒုက္ခကို ပပျောက်စေတော်မူခဲ့သော်၊ ၎င်းတို့သည် မိမိတို့၏ လမ်းမှားမှု၌ပင် တဝဲလည်လည်ဖြစ်ကြလျက် ခေါင်းမာမြဲ မာနေကြမည်သာတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

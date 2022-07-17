@@ -710,6 +710,12 @@ Ostavish li gi, te shte zabludyat Tvoite rabi i shte rodyat samo nechestivtsi, n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။ အရှင်သည် ထိုသူတို့ကို ချန်ထားတော်မူပါလျှင် သူတို့သည် အရှင်၏ ကျေးတော်မျိုး ကျွန်တော်မျိုးတို့အား လမ်းမှားကို ပြပါလိမ့်မည်၊ သူတို့သည် ဆိုးသွမ်းယုတ်မာ၍ ကျေးဇူးကန်းသူများမှတပါး အခြားသားမြေးတို့ကို ဖွားမြင်မည်မဟုတ်ပါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မလွဲဧကန် အကယ်၍ အရှင်မြတ်သည် ၎င်းတို့အား ချန်ထားတော်မူပါလျှင် ၎င်းတို့သည် အရှင်မြတ်၏ကျွန်များအား လမ်းလွဲစေကြမည်သာမက ၎င်းတို့သည် လွန်စွာကျေးဇူးကန်း သွေဖည်ငြင်းပယ်အံ့သော၊ အကျင့်စာရိတ္တဖောက်ပြန်အံ့သော၊ သူတို့ကိုသာလျှင် မွေးဖွားကြမည်ဖြစ်ပါသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

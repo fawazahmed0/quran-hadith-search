@@ -710,6 +710,12 @@ I kak shte ti otredyat da sŭdish, kogato u tyakh e Torata s prisŭdata na Allak
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	မိမိတို့ထံတွင် တောင်ရတ်ကျမ်းတော်ရှိပ်လျှက် သူတို့သည် သင့်ထံသို့ အဘယ်ကြောင့် တရားဆုံးဖြတ် ဖို့ရာ လာကြသနည်။ ထိုကျမ်းတော်တွင် သူတို့အတွက် အလ္လာဟ်အသျှင်မြတ်သည် စီရင်ချက် ချပေးသနားတော်မူပြီ။ ထိုသို့ ကျေးဇူးကြီးပါလျက် သူတို့သည် တရားတော်ကို ကျောခိုင်းသွားကြ၏။ ဤလူများသည် ယုံကြည်သူများမဟုတ်ကြပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၄င်းအပြင် ထိုသူတို့သည် အသင့်အား အဘယ်ကဲ့သို့ ခုံသမာဓိတင်မြှောက်ကြပါသနည်း။ အမှန်စင်စစ်သော်ကား ၎င်းတို့ထံဝယ် တောင်ရာတ်ကျမ်းလည်းရှိ၏။ ယင်းတောင်ရာတ်ကျမ်းတွင် အလ္လာဟ်အရှင်မြတ်၏ အမိန့်တော်လည်းပါရှိ၏။ တစ်ဖန် ထို (ကဲ့သို့ အသင့်အား ခုံသမာဓိတင်မြှောက်ပြီး) နောက် ယင်းသူတို့သည် (အသင်၏ တရားစစ်ဆေးစီရင်ချက်မှ) မျက်နှာလွှဲဖယ်သွားကြပြန်၏။ အမှန်စင်စစ်သော်ကား ၎င်းတို့သည် ‘မုအ်မင်န်’ ယုံကြည်ခြင်းသဒ္ဓါတရားထားရှိသူများ အလျင်းမဟုတ်ကြချေ။ (ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

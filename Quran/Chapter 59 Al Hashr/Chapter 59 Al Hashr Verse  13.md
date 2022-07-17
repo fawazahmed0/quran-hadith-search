@@ -710,6 +710,12 @@ V sŭrtsata im vie ste po-strashni ot Allakh. Tova e, zashtoto sa khora, koito n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	အို-ယုံကြည်သူအပေါင်းတို့၊ အမှန်မှာ ထိုလျှာနှစ်ခွလူလိမ်လူကောက်တို့စိတ်နှလုံးအတွင်းတွင် သင်တို့ကို အလ္လာဟ်အရှင်မြတ်ထက် ပိုမိုထိတ်လန့်ကြောက်ရွံ့ကြ၏၊ ယင်းသို့ဖြစ်ရခြင်းအကြောင်းမူကား သူတို့တွင် အသိ ဉာာဏ်ကင်းမဲ့သောကြောင့်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်ပင် အသင်(မွတ်စ်လင်မ်)တို့သည် ၎င်းတို့၏စိတ်တွင်းဝယ် အလ္လာဟ်အရှင်မြတ်ထက်ပင် ကြောက်ရွံ့ စိုးရိမ်ဖွယ်ဖြစ်နေကြပေသည်။ ထိုသို့ဖြစ်ရခြင်းမှာ အမှန်စင်စစ် ၎င်းတို့သည် နားမလည်သူများ ဖြစ်ကြသောကြောင့်ပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

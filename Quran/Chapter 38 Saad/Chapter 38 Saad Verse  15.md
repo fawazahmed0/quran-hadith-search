@@ -710,6 +710,12 @@ I tezi gi ochakva samo edin Vik, za koĭto nyama ot·srochka
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	ဤသူတို့သည် အလွန်ထိတ်လန့်ကြောက်မက်ဖွယ်သောအသံကြီးကိုသာ စောင့်ဆိုင်းနေကြ၏၊ ထိုအသံကြီး တစ်ခါတစ်ကြိမ်တည်းသာ မည်ဟီး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ဤသူတို့သည် စက္ကန့်ပိုင်းမျှပင် ဆိုင်းငံ့ခြင်းမရှိ(ဘဲ အဆက်မပြတ် ပေါ်ထွက်လာမည်ဖြစ်)သော ပြင်းထန်လှသည့် ဟစ်အော်သံ တစ်ခုကိုသာလျှင် စောင့်စား၍ နေကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

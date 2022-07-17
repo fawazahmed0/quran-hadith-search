@@ -710,6 +710,12 @@ Ne vi li povelikh, o, sinove na Adam, da ne sluzhite na satanata? Toĭ e vash y
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၀။	အို-အာဒမ်၏ သားမြေးအပေါင်းတို့၊ နင်တို့၏ ရန်သူဟု အတိအလင်းကြေငြာထားသောရှိုင်တန်မာရ်နတ်ကို မခဝပ်မကိုးကွယ်ကြကုန်လင့်ဟု ငါအရှင်မြတ်သည် နင်တို့အား ပညတ်တော်မူသည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-"အာဒမ်"၏သားသမီးအပေါင်းတို့၊ ငါအရှင်မြတ်သည် အသင်တို့အား(ကြပ်ကြပ်)သတိပေး တော်မူခဲ့သည် မဟုတ်လော။ အသင်တို့သည် "ရှိုင်တွာန်" မိစ္ဆာကောင်အား ဆည်းကပ်ကိုးကွယ်ခြင်း မပြုကြကုန်လင့်၊ ဧကန်မလွဲ "ရှိုင်တွာန်" မိစ္ဆာကောင်သည် အသင်တို့၏ ထင်ရှားသော ရန်သူပင် ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I drugi, koito si priznavat grekhovete... Smesikha dobroto deyanie s drugo - zlo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၂။	မိမိတို့အပြစ်များကို ဝန်ချတောင်းပန်သူများလည်းရှိကြ၏။သူတို့သည် သုစရိုက်မှုတစ်ခုကို ဒုစရိုက်မှုတစ်ခုနှင့် ရောပြွန်းထားကြ၏။အလ္လာဟ်အရှင်မြတ်သည် သူတို့ဘက်သို့ ကောင်းကြီးမင်္ဂလာတော်နှင့် လွှတ်တော်မူလိမ့်မည်၊ မှတ်သားကြလော့။အလ္လာဟ်အရှင်မြတ်ည် အပြစ်လွှတ်တော်မူ၏။ကောင်းကြီးမင်္ဂလာပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အခြားသူတို့လည်း ရှိကြကုန်၏။ ထိုသူတို့သည် မိမိတို့၏ ပြစ်မှုဒုစရိုက်များကို ဝန်ခံခဲ့ကြလေသည်။ထိုသူတို့သည် ကောင်းမြတ်သောအကျင့်အမူနှင့် မကောင်းသောအကျင့်အမူကို ရောနှောပြုလုပ်ခဲ့ကြလေသည်။ အလ္လာဟ်အရှင်မြတ်သည် ထိုသူတို့ဘက်သို့ ကရုဏာတော်နှင့်လှည့်တော်မူရန် မျှော်ကိုးရာ၏။ ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည်(ပြစ်မှု များကို) အလွန်တရာ လွတ်ငြိမ်းချမ်းသာခွင့် ပေးသနားတော်မူသောအရှင်၊(မိမိကျွန်များအပေါ်၌)အလွန်တရာ သနားကြင်နာညှာတာတော်မူသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

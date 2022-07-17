@@ -710,6 +710,12 @@ I boĭte se ot Denya, v koĭto shte bŭdete vŭrnati pri Allakh! Posle na vsya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈၁။	သင်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ အထံတော်သို့ ဝင်ရောက်ခစားရမည့်နေ့တော်ကြီးမှ မိမိကိုယ်ကို ကာကွယ်ကြလော့။ ထိုအခါ လူတိုင်းသည် မိမိပြုကျင့်ခဲ့သောအမှု၏ ကောင်းကျိုးဆိုးကျိုးကို အပြည့် အစုံ ပေးတော်မူခြင်းကို ခံရကြလတ္တံ့။ သူတို့ကို မတရားပြုခြင်းခံကြရမည်မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်တဝ (အို-မုစ်လင်မ် အပေါင်းတို့) အသင်တို့သည် အကြင်နေ့ကို ကြောက်ရွံ့ကြကုန်။ ထိုနေ့တွင် အသင်တို့သည် အလ္လာဟ်အရှင်မြတ် အထံတော်သို့ ပြန်လည်ရောက်ရှိကြကုန်အံ့။ ထို့နောက် လူတိုင်းသည် မိမိတို့ ရှာဖွေ ဆည်းပူးခဲ့ကြသော (ကောင်းမှု မကောင်းမှုတို့၏ အကျိုးအပြစ်များကို)အပြည့်အစုံပေးခြင်း ခံကြရလတ္တံ့။ သို့ရာတွင် ယင်း သူတို့သည်(ထိုကဲ့သို့ အကျိုးအပြစ်ပေးခြင်း ခံကြရာတွင် တစ်စုံတစ်ရာမျှ)မတော်မတရား နစ်နာ ဆုံးရှုံးခြင်းကို ခံကြရမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

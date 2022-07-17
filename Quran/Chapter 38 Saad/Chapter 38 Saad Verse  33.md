@@ -710,6 +710,12 @@ Vŭrnete gi pri men!” I zapochna da seche krakata i shiite im
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	ထို့နောက်ထိုမြင်းများကို ငါ၏ရှေ့သို့ သွင်းခဲ့ကြလော့ဟု အမိန့်ပေး၍ ရောက်သောအခါ ၎င်းမြင်းများ၏ ခြေ များနှင့် လည်တိုင်များကို သန်လျက်ဖြင့် ခုတ်ပိုင်းလေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ နဗီတမန်တော် "စုလိုင်မာန်"သည် မြင်းထိန်းတို့အား) အသင်တို့သည် ထိုမြင်းများကို ငါ၏ရှေ့မှောက်ဝယ် ပြန်လည်၍ သွင်းခဲ့ကြလေကုန်(ဟုအမိန့်ပေးခဲ့လေ၏)။ ထို့နောက် (ထိုမြင်းများမှာ နဗီတမန်တော် စုလိုင်မာန်၏ရှေ့ဝယ် ပြန်လည်၍ ရောက်ရှိလာကြလေသော်)ထို"စုလိုင်မာန်"သည်(ထိုမြင်းများ၏)ခြေသလုံးများ(ခြေထောက်များ)ကို လည်းကောင်း၊ လည်ကုပ်များကို စတင်ပွတ်သပ်ခြင်းကို ပြုလုပ်ခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

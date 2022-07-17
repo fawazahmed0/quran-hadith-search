@@ -710,6 +710,12 @@ Posle negovoto razyasnyavane e Nasha grizha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။ ထိုမျှမက ထိုကျမ်းတော်မြတ်ကို နားလည်အောင် ရှင်းလင်းဖော်ပြခြင်းမှာလည်း ငါ၏တာဝန်သာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ယင်းကုရ်အာန်ကျမ်းတော်မြတ်ကို ရှင်းပြခြင်းမှာလည်း ဧကန်အမှန် ငါအရှင်မြတ်၏ တာဝန်သာဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

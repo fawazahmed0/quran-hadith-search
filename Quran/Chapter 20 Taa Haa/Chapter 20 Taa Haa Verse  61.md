@@ -710,6 +710,12 @@ Musa im kaza: “Gorko vi! Ne izmislyaĭte lŭzha za Allakh, ta da ne vi izkore
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၁။	ထိုအခါတမန်တော်မူစာက ဟယ်-အချင်းတို့၊ သင်တို့ပူဆွေးကြရလတ္တံ့၊ အရှင်မြတ်သည် သင်တို့အား အပြစ်ဒဏ် တစ်ခုခုနှင့် သုတ်သင်ရှင်းလင်းပစ်တော်မမူခြင်းငှာ သင်တို့သည် အရှင်မြတ်အား မုသားစွပ်စွဲပြောဆိုခြင်းကို မဖန်တီးကြနှင့်၊ မုသားစကားဆိုသူသည် အကြီးအကျယ်ဆုံးရှုံးရာတည်းဟု ဟောကြား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) မူစာက ယင်းပဉ္စလက်ဆရာတို့အား(ဤသို့) ပြောကြားခဲ့လေသည်။ အသင်တို့ အကျိုး ယုတ်ပါစေ။အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အပေါ်၌ မုသားကိုလီဆယ်စွပ်စွဲခြင်း မပြုကြကုန်လင့်။ သို့ပြုခဲ့ကြပါလျှင် ထိုအရှင်မြတ်သည် အသင်တို့အား ပြစ်ဒဏ်ပေးတော်မူခြင်းအားဖြင့် လုံးဝပျက်စီးစေတော်မူမည်။ အမှန်စင်စစ်သော်ကားလီဆယ်ဖန်တီး သူသည် မျှော်လင့်သည့်အတိုင်း မအောင်မြင်သောသူသာလျှင်ဖြစ်မည်ဟု ပြောကြားခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

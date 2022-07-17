@@ -710,6 +710,12 @@ Reche na svoya bashta i na svoya narod: “Kakvi sa tezi izvayaniya, pred koito 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၂။	သူသည် မိမိ၏ခမည်းတော်နှင့် အမျိုးသားတို့အား သင်တို့ခဝပ်ကိုးကွယ်သော ဤရုပ်ပွားဆင်းတုများသည် အဘယ်အရာများဖြစ်သနည်းဟု မေး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်အခါဝယ် ထိုအိဗ်ရာဟီမ်သည် မိမိဖခင်အားလည်းကောင်း၊ မိမိအမျိုးသားတို့အားလည်းကောင်း၊ (အချင်းတို့၊)အသင်တို့ စွဲလမ်းကိုးကွယ်လျှက်ရှိကြကုန်သော ဤရုပ်တုများကား အဘယ်သို့သောအရာများနည်းဟု ပြောဆို(မေးမြန်း)ခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

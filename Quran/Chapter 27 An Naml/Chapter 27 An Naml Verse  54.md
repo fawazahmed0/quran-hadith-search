@@ -710,6 +710,12 @@ I reche Lut na svoya narod: “Nima vŭrshite skvernostta, vŭpreki che se vizhd
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၄။	တဖန်တမန်တော်လွဒ်၊ သူသည် မိမိအမျိုးသားတို့အား သင်တို့သည် စက်ဆုတ်ရွံရှာဖွယ်သောဒုစရိုက်အမှုအခင်း ကို သိလျက်နှင့် ကျူးလွန်ကြမည်လောဟု ဟောကြား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် လူ(တ်)အား(လည်း နဗီတမန်တော်အဖြစ် စေလွှတ်တော်မူခဲ့၏၊) အကြင်အခါဝယ် ထိုလူ(တ်)က မိမိအမျိုးသားတို့အား ပြောကြားခဲ့လေ၏။ အသင်တို့သည် သိမြင်ကြလျက် စက်ဆုပ်ဖွယ်ရာအမှုကို ကျူးလွန်ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

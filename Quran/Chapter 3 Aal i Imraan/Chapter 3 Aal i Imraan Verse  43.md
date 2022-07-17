@@ -710,6 +710,12 @@ O, Mariam, smiri se pred svoya Gospod i svedi chelo do zemyata v sudzhud, i se k
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	အို-မရယမ် သင်မသည် မိမိကို ဖန်ဆင်းမွေးမြူတော်မူသောအသျှင်မြတ်ကို ကျိုးနွံ့နာခံလော့။ ဝပ်တွားလော့။ အသျှင်မြတ်အား ညွတ်တွားခစားလော့ဟုပြောကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (သို့ဖြစ်ပေရာ) အို-မရ်ယမ်၊ အသင်သည်မိမိအရှင်မြတ်၏ အမိန့်တော်များကို ဦးထိပ်ရွက် ဆင်လျက်နေပါလေ။ ထို့ပြင်တဝ အသင်သည် စဂျ်ဒဟ် ပျပ်ဝပ်ဦးချ လျက်နေပါလေ။ ထို့ပြင် အသင်သည် ရုကူအ် ကိုင်းညွတ်ရိုကျိုးသူတို့နှင့် အတူတကွ ရုကူအ် ကိုင်းညွတ် ရိုကျိုးလျက်နေပါလေ(ဟု မလာအိကဟ် အပါးတော် စတမန်များ ကဆက်လက်၍ ပြောကြားကုန်သတည်း)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

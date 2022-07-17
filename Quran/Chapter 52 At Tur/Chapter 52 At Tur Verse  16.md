@@ -710,6 +710,12 @@ Gorete tam i da tŭrpite, i da ne tŭrpite, vse edno e za vas! Shte vi se vŭzda
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။ ငရဲမီးအပူရှိန်ကို ခံကြလော့၊ ထိုအပူရှိန်ကို နင်တို့သည်းခံစွာခံသည်ဖြစ်စေ၊ မခံသည်ဖြစ်စေ၊ နင်တို့အတွက် မထူးချေ၊ အတူတူသာဖြစ်၏၊ နင်တို့ပြုကျင့်လေ့ရှိသောအကျင့်အကြံများအတွက် နင်တို့အား ပေးအပ်ခြင်းသာ ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် ယင်းငရဲမီးထဲသို့ ဝင်ရောက်ကြလေကုန်။ ထို့နောက် အသင်တို့သည် သည်းခံကြသည်ဖြစ်စေ၊ သည်းမခံကြသည်ဖြစ်စေ၊ အသင်တို့ အဖို့ အကြောင်းမထူးပြီ။အသင်တို့သည် မိမိတို့ ကျင့်မူခဲ့ကြသော အမှုကိစ္စများနှင့် စပ်လျဉ်း၍ အစားပေးခြင်းကို ခံကြရသည်သာတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

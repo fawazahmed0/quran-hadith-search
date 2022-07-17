@@ -710,6 +710,12 @@ s nekhaĭni sŭrtsa. I skrishom si shepnekha ugnetitelite: “Tozi [Mukhammad] 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	သူတို့၏စိတ်နှလုံးတွင် အစွဲအလန်းရှိ၏၊ သူတို့သည် တိတ်တဆိတ်တိုင်ပင်ကြ၏၊ ထိုမသူတော်တို့က သူသည် သင်တို့ကဲ့သို့ သေမျိုးမှတပါး အခြားသတ္တဝါဖြစ်သလော၊ သင်တို့သည် မျက်လှည့်အတတ်ကို မြင်လျက်နှင့်ပင် မျက်လှည့်ဆရာလှည့်စားခြင်းကို ခံကြမည်လောဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့၏ စိတ်နှလုံးများသည် (ယင်းသတိ ပေးနှိုးဆော်ချက်ကို) ဂရုမမူဘဲ(ရှိကြ၏)။ ၎င်းပြင် (ယင်း)ကျူးလွန်သောသူတို့က ဤသည် အသင်တို့ကဲ့သို့ပင် လူသားတစ်ဦးမျှသာဖြစ်သည်။ သို့ပါလျက် အသင်တို့သည် မိမိတို့ သိမြင်ကြ လျက်၌ပဉ္စလက်(ဆိုင်ရာစကား)ကို (နားထောင်ရန်) လာကြဦးမည်လောဟု လျှို့ဝှက်ဆွေးနွေးကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

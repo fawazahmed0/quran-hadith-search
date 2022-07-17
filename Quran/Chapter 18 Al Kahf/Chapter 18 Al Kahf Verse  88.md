@@ -710,6 +710,12 @@ A onzi, koĭto vyarva i vŭrshi pravedni dela, negova e Naĭ-prekrasnata nagra
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၈။	သို့သော် ယုံကြည်၍ မှန်ကန်မှုကို ပြကျင့်သောမှာမူကား သူ၏ ဆုလာဘ်သည် မွန်မြတ်လတ့ံ။ ငါအရှင်မြတ်သည် သူ့အား နာခံဆောင်ရွက်လွယ်သောဗျာဒိတ်တော်ကို ပေးတော်မူလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် မည်သူမဆို သက်ဝင်ယုံကြည်၍ကောင်းမြတ်သောအကျင့်သီလများကို ကျင့်မူဆောက်တည်ခဲ့ပါမူထိုသူ၏အဖို့ အကျိုးအားဖြင့် အကောင်းဆုံးသောအရာပင် ရှိပေမည်။ ထိုမှတစ်ပါး အမှန်ပင် ကျွန်ုပ်သည်လည်း မိမိ အမိန့်ထုတ်ပြန်ချက်တွင် နူးညံ့သောစကားကို ပြောဆိုပေအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

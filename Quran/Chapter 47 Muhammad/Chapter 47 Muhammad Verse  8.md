@@ -710,6 +710,12 @@ A koito ne povyarvat - gibel za tyakh! Shte provali Toĭ delata im
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	သို့သော်အကြင်သူတို့သည် မယုံကြည်ကြအ့ံ၊ ထိုသူတို့အဖို့ငှာ ပျက်စီးဆုံးရှုံးခြင်းသာရှိ၏၊ အရှင်မြတ်သည် သူတို့၏ ကြိုးပမ်းမှုကို အချည်းနှီးဖြစ်စေတော်မူလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘ကာဖိရ်’သွေဖည်ငြင်းပယ်သော သူတို့၌မူ ပျက်စီးခြင်းသာလျှင် ရှိပေမည်။ ထိုမှတစ်ပါး ၎င်းတို့၏ ကျင့်မူဆောင်ရွက်ချက်များကိုလည်း ထိုအရှင်မြတ်သည် အချည်းနှီး ဖြစ်စေတော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

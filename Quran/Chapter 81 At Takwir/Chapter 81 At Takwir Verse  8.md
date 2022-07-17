@@ -710,6 +710,12 @@ i kogato zhivopogrebanoto momiche bŭde popitano
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၊၉။ အရှင်လတ်လတ်မြေမြှုပ်ထားသောသူငယ်မအား မိမိကို မည်သည့်အပြစ်ကြောင့် သတ်သနည်းဟု မေးမြန်းသောအခါ၌လည်းကောင်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အရှင်လတ်လတ် မြှုပ်နှံခြင်းကိုခံခဲ့ရသော သမီးမိန်းကလေးသည် မေးမြန်းခြင်းကို ခံရသောအခါ၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

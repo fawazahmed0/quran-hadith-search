@@ -710,6 +710,12 @@ Onezi, koito chetat Knigata na Allakh i ot·sluzhvat molitvata, i davat skrito i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	မှတ်သားကြလော့၊ အကြင်သူတို့သည် အလ္လာဟ်အရှင်မြတ်ထုတ်ပြန်ပို့ချပေးသနားတော်မူသော ကျမ်းမြတ် ကုရ်အာန်ကို ဖတ်ရွတ်သရဇ္ဈာယ်ကြ၏၊ ဆွလားသ်ဝတ်ပြုကြ၏၊ ထို့အပြင်ငါအရှင်မြတ်ပေးသနားတော်မူသော ပစ္စည်းဥစ္စာများအနက် အချို့အဝက်ကို တိတ်တိတ်တိုးတိုးသော်လည်းကောင်း၊ လူသိရှင်ကြားသော်လည်းကောင်း၊ လှုဒါန်းကြသည်၊ ထိုသူတို့သည် မပျက်စီးမဆုံးရှုံးသောထာဝရအမြတ်အစွန်းကိုသာ မျှော်လင့်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် အကြင်သူတို့သည် အလ္လာဟ်အရှင်မြတ်၏ ဒေသနာတော် ကျမ်းဂန်ကို ရွတ်ဖတ် သရဇ္ဈာယ်ကြကုန်၏။ ၎င်းပြင် ဆွလာတ်ဝတ်ပြုမှုကို ဆောက်တည်ကြကုန်၏။ထိုမှတစ်ပါး ထိုသူတို့အား ငါအရှင်မြတ်ချီးမြှင့် ပေးသနားတော်မူခဲ့သည့် (ပစ္စည်းဥစ္စာ)များအနက်မှ လျှို့ဝှက်စွာလည်းကောင်း၊ ထင်ပေါ်စွာသော်လည်းကောင်း၊ လှူဒါန်းကြကုန်၏။ထိုသူတို့ကား အလျဉ်င်း ဆုံးရှုံးပျက်စီးမည် မဟုတ် သောရောင်းဝယ်ဖောက်ကားမှုမျိုးကို မျှော်လင့် တောင့်တလျက်ရှိကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

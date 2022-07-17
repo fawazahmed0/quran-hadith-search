@@ -710,6 +710,12 @@ Ili Nie v tyakhno prisŭstvie sŭtvorikhme angelite ot zhenski pol
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅ဝ။	သို့မဟုတ် ငါသည် ထိုသူမိုက်တို့ရှေ့တွင် ကောင်းကင်တမန်များကို မိန်းမအဖြစ်နှင့် ဖန်ဆင်းတော်မူသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် ငါအရှင်မြတ်သည် "မလာအိကဟ်" ကောင်းကင်တမန်တို့အား မိန်းမများအဖြစ် ဖန်ဆင်းတော်မူခဲ့သည်ကိုလည်းကောင်း၊ သို့ ကြည့်ရှုလျက် ရှိခဲ့ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ ala go vzekha za lŭzhets i ya zaklakha, - togava tekhniyat Gospod gi unishtozhi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။ သို့သော် ထိုသူယုတ်တို့သည် မိမိတို့တမန်တော်ကို မယုံကြည်နားမထောင်ပဲ ကုလားအုတ်မ၏ ဒူးခေါက်ကြောကို လှီးဖြတ်ပစ်၏၊ ထို့ကြောင့်အလ္လာဟ်အရှင်မြတ်သည် သူတို့ကို မိမိတို့ပြစ်မှုကြောင့် စီရင်သုတ်သင်ပစ်တော်မူ၏၊ သူတို့၏ အိုးအိမ်တိုက်တာကိုလည်း ဖျက်ဆီးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ထို "ဆမူဒ်" အမျိုးသားတို့သည်(အလ္လာဟ်အရှင်မြတ်၏) ထိုရစူလ်တမန်တော်အား မဟုတ်မမှန်ဟူ၍ ငြင်းဆိုခဲ့ပြီးနောက် ထိုကုလားအုတ်မ၏ခြေများကို ဖြတ်တောက်ခဲ့ကြကုန်၏။ ထိုအခါ ၎င်းတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် ၎င်းတို့၏အပေါ်၌ ၎င်းတို့၏ပြစ်မှုများကြောင့် ပြစ်ဒဏ်ကို စီရင်တော်မူခဲ့၏။ ထို့နောက် ထိုအရှင်မြတ်သည် ထိုပြစ်ဒဏ်ကို အားလုံးနှင့် သက်ဆိုင်စေတော်မူခဲ့၏။ (အားလုံးအပေါ်သို့ ပျံ့နှံ့သက်ရောက်စေတော်မူခဲ့လေသည်)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

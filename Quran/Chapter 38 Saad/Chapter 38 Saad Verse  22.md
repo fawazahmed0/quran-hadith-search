@@ -710,6 +710,12 @@ Te vlyazokha pri Daud i toĭ se uplashi ot tyakh. Rekokha: “Ne se strakhuvai�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	သူတို့သည် ရုတ်တရက်ဝင်ရောက်လာကြသဖြင့် တမန်တော်ဒါဝတ်(ဒ်)သည် ထိတ်လန့်သွား၏၊ သူတို့က တမန်တော်ကြီးမကြောက်ရွံ့ပါနှင့်၊ အကျွနု်ပ်တို့သည် အမှုသည်နှစ်ယောက်ဖြစ်ပါသည်။ အကျွနု်ပ်တို့အနက် တစ်ယောက်သည် အခြားတစ်ယောက်ကို ပြစ်မှားမိပါ၏။ ထို့ကြောင့်အကျွနု်ပ်တို့စပ်ကြားတွင် မှန်ကန်စွာဆုံးဖြတ် ပေးတော်မူပါ၊ မတရားဆုံးဖြတ်တော်မမူပါနှင့်၊ သမာသမတ်လမ်းကို ပြသတော်မူပါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် (နဗီတမန်တော်) "ဒါဝူဒ်"၏ ထံသို့ဝင်ရောက်ခဲ့ကြသောအခါ ထို"ဒါဝူဒ်"သည် ၎င်းတို့အား ကြောက်ရွံ့စိုးရိမ်ခဲ့လေ၏။ (ထိုအခါ)၎င်းတို့က ပြောဆိုခဲ့ကြသည်မှာ အသင် မစိုးရိမ်မကြောက်ရွံ့ပါလေနှင့်။ (ကျွန်ုပ်တို့သည်) နှစ်ဖက်သောအမှုသည်များ ဖြစ်ကြပါသည်။ ကျွန်ုပ်တို့အနက် တစ်ဦးသည်တစ်ဦး၏အပေါ်၌ မတရားကျူးလွန်ခဲ့ပါသည်။ သို့ဖြစ်ပေရာ အသင်သည် ကျွန်ုပ်တို့၏အကြား၌ မတရားပြုလုပ်ခြင်းမရှိဘဲ မှန်ကန်စွာစီရင်ဆုံးဖြတ်၍ ပေးပါလေ။ ထိုမှတစ်ပါး အသင်သည် ကျွန်ုပ်တို့အား ဖြောင့်မတ်သောလမ်းကို ညွှန်ပြပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Tezi sa, na koito Allakh zapechata sŭrtsata i slukha, i zrenieto, tezi sa nekha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၈။	ဤလူများသည် မိမိတို့စိတ်နှလုံးများ၊ နားများ၊ မျက်စိများကို အလ္လာဟ်အရှင်မြတ်ချိပ်တံဆိပ်ခတ်နှိပ်သော့ပိတ် ထားတော်မူခြင်းခံရကြ၏။ ထို့အပြင်သူတို့သည် တရားတော်ကို ဂရုမစိုက်မေ့လျော့ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသူများတွင် အကြင်သူများတည်း။ အလ္လာဟ်အရှင်မြတ်သည် ထိုသူတို့၏စိတ်နှလုံးများအပေါ်၌ လည်းကောင်း၊ နားများအပေါ်၌လည်းကောင်း၊ မျက်စိ များအပေါ်၌လည်းကောင်း၊ တံဆိပ်ခပ်နှိပ်တော်မူခဲ့လေသည်။ ထိုမှတစ်ပါးဤသူများပင် (လောကီဘဝ၌ ပျော်မြူးလျက် တမလွန်ဘဝကို)လျစ်လျူရှုနေကြသူများ ဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

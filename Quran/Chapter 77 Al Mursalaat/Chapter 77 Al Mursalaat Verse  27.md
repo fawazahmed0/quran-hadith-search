@@ -710,6 +710,12 @@ i polozhikhme vŭrkhu neya nepoklatimi visoki planini, i vi dadokhme za piene pr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။ ငါသည် ကမ္ဘာမြေကြီးပေါ်တွင် မြင့်စွင့်သောတောင်များကို ဖန်ဆင်းတော်မူသည်မဟုတ်လော၊ သင်တို့အား ရေချိုရေကောင်းကို ပေးသနားတော်မူသည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ယင်းပထဝီမြေဝယ် မြင့်စွင့်လှစွာသော တောင်များကို (နေရာတကျ) စိုက်ထူတော်မူသည်။ ၎င်းပြင် ငါအရှင်မြတ်သည် အသင်တို့အား ချိုမြသောရေကို တိုက်ကျွေးတော်မူသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

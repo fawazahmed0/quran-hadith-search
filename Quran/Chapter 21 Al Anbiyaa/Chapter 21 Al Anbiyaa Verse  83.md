@@ -710,6 +710,12 @@ I [spomeni] Aĭyub, koĭto prizova svoya Gospod: “Zasegna me beda, a Ti si N
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၃။	တဖန်တမန်တော်အိုင်ယူး(ဘ်)၊ သူသည် မိမိ၏အရှင်သခင်အား ကြွေးကြော်တင်လျှောက်သည်မှာ အို---အကျွနု်ပ်၏ ကျေးဇူးတော်သခင်၊ အကျွနု်ပ်သည် အတိဒုက္ခရောက်နေပါရပါ၏၊ အရှင်မြတ်သည် သနားဂရုဏာ ပြသူတကာတို့တွင် အထွဋ်အခေါင်ဖြစ်တော်မူထသော မဟာဂရုဏာတော်အရှင်ဖြစ်တော်မူပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (အို-နဗီတမန်တော်၊ အသင်သည် နဗီတမန်တော်)အိုက်ယူးဗ်(၏အတ္ထုပ္ပတ္တိအကြောင်း) ကို(လည်းထုတ်ဖော်ပြောကြားပါလေ)။ တစ်ရံသော အခါဝယ် ထိုအိုက်ယူးဗ်သည် မိမိအား ဖန်ဆင်းမွေးမြူ တော်မူသောအရှင်မြတ်အား (အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊) ဧကန်မလွဲ ကျွန်တော်မျိုး၌ ဘေးဥပဒ်သက်ရောက်ပါပြီ။စင်စစ် သော်ကား အရှင်မြတ်သည် သနားကရုဏာ ပြုတတ်သူတို့တွင် သနားကရုဏာ ပြုတော်မူဆုံးသော အရှင်မြတ်ပင်ဖြစ်တော်မူပါသည်ဟု ဟစ်ခေါ်တသ ပန်ကြားခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

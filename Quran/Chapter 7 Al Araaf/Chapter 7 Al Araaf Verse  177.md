@@ -710,6 +710,12 @@ Kolko losh primer sa khorata, koito vzimat za lŭzha Nashite znameniya i ugnetya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇၇။	အကြင်သူတို့သည် ငါ၏ကျမ်းတော်ကို မယုံကြည်ဖယ်ရှား၍ မိမိကိုယ်ကိုမိမိတို့ ပြစ်မှားလေ့ရှိကြ၏။ ထိုသူတို့၏ဥပမာပုံသည် ဆိုးဝါးယုတ်ညံ့သောဥပမာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတို့၏ ဥပမာကား ဆိုးယုတ်လှပေ၏။ထိုသူတို့သည် ငါအရှင်မြတ်၏ သက်သေ လက္ခဏာတော်များကိုမဟုတ်မမှန်ဟု ငြင်းပယ်ကြကုန်၏။ ၎င်းပြင် ထိုသူတို့သည်မိမိ တို့ကိုယ်ကို သာလျှင် မိမိတို့နှိပ်စက်ညှဉ်းပန်းလျက် ရှိခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

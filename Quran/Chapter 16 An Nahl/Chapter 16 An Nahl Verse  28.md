@@ -710,6 +710,12 @@ na koito - ugnetili sebe si - angelite pribirat dushite.” Togava shte se smiry
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	ထိုသူများသည် မိမိကိုယ်ကို မိမိပြစ်မှားနေစဉ် ကောင်းကင်တမန်တော်များသည် သူတို့၏ အသက်ကို နှုတ်ယူ ကြ၏။ ထိုအခါသူတို့က အကျွနု်ပ်တို့သည် မကောင်းမှုများကို မကျူးလွန်ခဲ့ပါဟု လျှောက်ကြလတ့ံ။ ယင်းသို့ မဟုတ်ချေ။ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့ပြုကျင့်သမျှအားလုံးကို သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းကာဖိရ်များသည် မိမိတို့ကိုယ်ကို နှိပ်စက်လျက်ရှိနေခဲ့ကြစဉ် ကောင်းကင်တမန်များသည် ၎င်းတို့၏အသက်များကိုနှုတ်ယူခဲ့ကြသည်။ ထိုအခါ ၎င်းတို့သည် ကျွန်တော်မျိုးတို့ မည်သည့်မကောင်းမှုကိုမျှ ပြုလုပ်လျက်ရှိခဲ့ကြသည်မဟုတ်ဟူ၍(ပြောဆိုကာ)ကျိုးနွံလာကြပေမည်။ ထိုသို့အလျှင်းမဟုတ်၊ စင်စစ်မှာကား(၎င်းတို့သည် မကောင်းမှုများကိုအမှန်ပင် ပြုလုပ်လျက်ရှိခဲ့ကြကုန်၏) ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့ပြုလုပ်လျက် ရှိခဲ့ကြသည်တို့ကိုအကြွင်းမဲ့သိတော်မူသော အရှင်မြတ်ပင်ဖြစ်ပေတော်မူတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

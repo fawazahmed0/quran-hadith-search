@@ -710,6 +710,12 @@ No proslavyaĭ s vŭzkhvala svoya Gospod i bŭdi ot poklanyashtite se v sudzhud
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၈။	သို့သော်သင်သည် မိမိ၏ ကျေးဇူးတော်သခင်၏ ဂုဏ်ကျေးဇူးတော်ကို ရင့်ကျူးလော့။ အရှင်မြတ်အား ဝပ်တွား ရှိခိုးပူဇော်သူတို့ဘောင်တွင် ပါဝင်လော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်သည် မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်ကို ချီးမွမ်းထောမနာပြု ခြင်းနှင့်အတူ (ထိုအရှင်မြတ်၏)ဂုဏ်တော်ကိုလည်း ထင်ရှားစေပါလေ။၎င်းပြင် အသင်သည်(ထိုအရှင်မြတ်အား)ပျပ်ဝပ်ဦးချသူတို့တွင်အပါအဝင် ဖြစ်ပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

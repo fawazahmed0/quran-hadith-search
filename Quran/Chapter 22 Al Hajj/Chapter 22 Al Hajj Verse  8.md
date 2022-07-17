@@ -710,6 +710,12 @@ A nyakoi khora sporyat za Allakh, bez da imat nito znanie, nito napŭt·stvie, n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	လူသားတို့အနက် သူတစ်ဦးတစ်ယောက်ရှိ၏၊ ထိုသူသည် အသိတရားသော်လည်းကောင်း၊ လမ်းညွှန်ပြခြင်း သော်လည်လည်းကောင်း မခံစားရ၊ အလင်းပြကျမ်းတော်သော်လည်းကောင်း၊ မရှိပဲလျက် အလ္လာဟ်အရှင်မြတ် နှင့်စပ်လျဉ်း၍ အငြင်းအခုံပြု၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် လူတို့တွင် အသိပညာ လုံးဝမရှိဘဲလျက်လည်းကောင်း၊ မည်သည့်သက်သေထင်ရှား တင်ပြချက်မျှမရှိဘဲလျက်လည်းကောင်း၊ မည်သည့်ရှင်းလင်းစေသော ကျမ်းဂန်မျှမရှိဘဲလျက်လည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ်နှင့်ပတ်သက်၍ အငြင်းအခုံ ပြုတတ်သူလည်း ရှိပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

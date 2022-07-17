@@ -710,6 +710,12 @@ I molitvata im pri Doma be samo svirukane i plyaskane. “Vkusete mŭchenieto, z
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	ပလီကျောင်းတော်၌ သူတို့၏ဝတ်ပြုခြင်းသည် ဘာမျှမဟုတ်ပေ။ လေချွန်ခြင်းနှင့် လက်ခုပ်တီးခြင်းသာ ဖြစ်၏။ ထို့ကြောင့် သူတို့ထံသို့ သင်တို့သည် မယုံကြည်သောကြောင့် အပြစ်ဒဏ်တော်ကို ခံစားကြ လော့ဟု ဗျာဒိတ်တော်လာ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား(သန့်စင်သော)အိမ်တော်(ဝါ)ကအ်ဗဟ်ကျောင်းတော်၏အပါးတွင် ၎င်းတို့၏ ဆွလာတ်ဝတ်ပြုမှုသည် လေချွန်ခြင်းနှင့် လက်ခုပ်တီးခြင်းမျှသာ ဖြစ်ချေသည်။ သို့ဖြစ်ပေရာ အသင်တို့သည် မိမိတို့၏ မယုံမကြည်သွေဖည်ငြင်းပယ်မှုကြောင့် ပြစ်ဒဏ်(၏ ရသာကို မြိန်ရှက်စွာ)မြည်းစမ်းကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

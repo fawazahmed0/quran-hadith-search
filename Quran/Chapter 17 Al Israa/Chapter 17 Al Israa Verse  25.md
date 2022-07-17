@@ -710,6 +710,12 @@ Vashiyat Gospod naĭ-dobre znae kakvo e v dushite vi. Ako ste pravedni, na razk
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။	သင်တို့၏ ကျေးဇူးတော်သခင်သည် သင်တို့၏ စိတ်နှလုံးတွင်းရှိသည်များကို ကောင်းစွာသိမြင်တော်မူ၏။ အကယ်၍သင်တို့သည် အကျင့်သီလကောင်းသူတို့ဖြစ်ကြလျှင် အရှင်မြတ်သည် မိမိဘက်တော်သို့ လှည့်သူ တို့အား မုချဧကန်အမြဲပင်အပြစ်လွှတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် အသင်တို့၏စိတ်နှလုံးများ၌ ရှိသည် တို့ကို ကောင်းစွာသိတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။ အကယ်၍အသင်တို့သည် အမိန့်တော်ကို လိုက်နာသူများ (သူတော်စင်များ)ဖြစ်ကြပါလျှင် ဧကန်မလွဲ ထိုအရှင်မြတ်သည်လည်း ဝန်ချတောင်းပန် သူတို့အဖို့ အလွန်တရာ လွတ်ငြိမ်းချမ်းသာခွင့်ပေးသနားတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

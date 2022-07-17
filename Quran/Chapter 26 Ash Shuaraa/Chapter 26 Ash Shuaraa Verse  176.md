@@ -710,6 +710,12 @@ I obitatelite na Gorichkata vzekha pratenitsite za lŭzhtsi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇၆။	မီဒီရန်တောတောင်တွင် နေထိုင်သူတို့သည် အလ္လာဟ်အရှင်မြတ်၏ တမန်တော်များကို မယုံကြည်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တောအုပ်၌ နေထိုင်ကြကုန်သော အမျိုးသားတို့သည်လည်း ရစူလ်တမန်တော်တို့အား မဟုတ်မမှန်ဟူ၍စွပ်စွဲ ငြင်းပယ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

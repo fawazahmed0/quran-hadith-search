@@ -710,6 +710,12 @@ I ne onevinyavam sebe si. Naistina dushata povelyava zloto, osven onazi, koyato 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။	အကျွနု်ပ်သည် မိမိကိုယ်ကို မိမိဒုစရိုက်မှုမှ ကင်းစင်ပြီဟု မဝါမကြွားဝ့ံပါ။ မှတ်သားကြလော့။ အကျွနု်ပ်၏ အရှင်သခင်က သနားစောင့်ရှောက်ချီးမြှောက်တော်မူသောဝိညာဉ်မှတပါး အခြားလူ့ဝိညာဉ်သည် မကောင်းမှု ကိုသာ လှုံ့ဆော်တိုက်တွန်းကြ၏။ မှတ်သားကြလော့။ အကျွနု်ပ်၏ အရှင်သခင်သည် အပြစ်လွှတ်တော်မူ၏။ ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ကျွန်ုပ်သည် မိမိကိုယ်ကိုအပြစ်မှကင်းလွတ်သည်ဟု မဆိုလိုပေ။ အကြောင်း သော်ကားဧကန်မလွဲ စိတ်နှလုံးများသည် မကောင်းမှုကို အလွန်အမိန့်ပေးတိုက်တွန်းလေ့ရှိကြသောကြောင့်ပင်။ သို့ရာတွင်ကျွန်ုပ်အား ဖန်ဆင်းမွေးမြူ တော်မူသော အရှင်မြတ်က သနားကရုဏာပြုတော်မူသည့် (စိတ်နှလုံးမှာမူ အပြစ်မှလွတ်ကင်းနိုင်ပေသည်။) မလွဲဧကန် ကျွန်ုပ်အား ဖန်ဆင်းမွေးမြူ တော်မူသောအရှင်မြတ်သည် အလွန်တရာ လွတ်ငြိမ်းချမ်းသာခွင့် ပေးသနားတော်မူသောအရှင်၊ အလွန်တရာ သနားကရုဏာပြုတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

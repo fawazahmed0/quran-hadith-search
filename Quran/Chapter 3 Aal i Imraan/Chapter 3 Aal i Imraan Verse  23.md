@@ -710,6 +710,12 @@ Ne vidya li ti darenite s dyal ot Pisanieto? Te sa pozovani kŭm Pisanieto na Al
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။	အို...တမန်တော် သင်သည် ရှေးကျမ်းတော်ရသူများအကြောင်းကို မမြင်သလော။ သူတို့သည် အချင်းချင်း ငြင်းခုံကွဲပြားကြ၏။ သူတို့၏ ကွဲပြားမှုကို ကျမ်းတော်အတိုင်းဆုံးဖြတ်ရန် ပြုလုပ်သော အခါ သူတို့အနက် ဂိုဏ်းတဂိုဏ်းက ကျမ်းတော်ကို ကန့်ကွက်ပြီးလျှင် ထွက်သွားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီ)ကျမ်းဂန်များအနက်မှ တစ်စိတ်တစဒေသ ချီးမြှင့်ခြင်းခံရသော အကြင်သူတို့(၏အဖြစ်)ကိုအသင်စဉ်းစားဆင်ခြင် မမြင်မိပါသလော၊ ထိုသူတို့သည်၎င်းတို့၏စပ်ကြားဝယ် အချင်းချင်း (အငြင်းပွားလျက်ရှိသောပြဿနာကို) စီရင်ဆုံးဖြတ် ပေးရန်အလို့ငှာ အလ္လာဟ်အရှင်မြတ်၏ကျမ်းဂန် (၏အဆုံးအဖြတ်)ကို ခံယူကြရန်ဘိတ်ခေါ်ခြင်း ခံကြရလေသည်။ (သို့ ဖိတ်ခေါ်ခြင်းခံကြရသည့်) နောက်တွင် ယင်းသူတို့အနက် (အကြီးအကဲဖြစ်သော)လူတစ်စုသည် သွေဖည်ကျောခိုင်း၍ သွားကြလေသည်။အမှန်သော်ကား ထိုသူများသည် (အမြဲတစေ) မျက်နှာလွှဲဖယ်သူများပင် ဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

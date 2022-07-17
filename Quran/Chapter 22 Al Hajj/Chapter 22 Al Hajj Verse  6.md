@@ -710,6 +710,12 @@ Tova e, zashtoto Allakh e Istinata i Toĭ sŭzhivyava mŭrtvite, i Toĭ za vsy
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	ယင်းသို့ဖန်ဆင်းတော်မူခြင်းကား မုချဧကန်အလ္လာဟ်အရှင်မြတ်သည် တရားမှန်ဖြစ်တော်မူသောကြောင့်၊ မှတ် သားကြလော့၊ အရှင်မြတ်သည် သေသူအပေါင်းတို့ကို အမှန်ရှင်စေတော်မူ၏၊ အရာခပ်သိမ်းတို့အတွက် မုချဧကန်ပြုစွမ်းနိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည်တို့ ဖြစ်ရခြင်းအကြောင်းကား ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည်သာလျှင် အမှန်တည်ရှိတော်မူသောအရှင် ဖြစ်တော်မူခြင်းကြောင့်လည်းကောင်း၊ ဧကန်အမှန် ထိုအရှင်မြတ်သည်ပင် သေသူအပေါင်းကို ရှင်စေတော်မူမည့်အရှင် ဖြစ်တော်မူခြင်းကြောင့်လည်းကောင်း၊ မလွဲဧကန် ထိုအရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို စွမ်းဆောင်နိုင်တော်မူသောအရှင် ဖြစ်တော်မူခြင်းကြောင့်လည်းကောင်း ဖြစ်ချေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Prestŭpnitsite shte sa v zabluda i bezumie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	မှတ်သားကြလော့၊ အပြစ်ကျုးလွန်သူတို့သည် အမှားနှင့် ရူးသွပ်ခြင်းတွင် နစ်မြုပ်နေကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် ပြစ်မှုကျူးလွန်သူတို့သည် လမ်းလွဲမှု၌လည်းကောင်း၊ ဉာဏ်ကင်းမဲ့မှု၌ လည်းကောင်း၊ ရှိနေကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

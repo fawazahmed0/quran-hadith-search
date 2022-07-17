@@ -710,6 +710,12 @@ Zatova boĭte se ot Allakh, kolkoto vi e po silite, i slushaĭte, i se pokorya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။ ထို့ကြောင့် သင်တို့တတ်စွမ်းနိုင်သမျှ အလ္လာဟ်အရှင်မြတ်၏ အမှုတော်ကို ထမ်းဆောင်ကြလော့၊ နာယူကြလော့၊ နားထောင်ကြလော့၊ လှုဒါန်းကြလော့၊ ဤအကျင့်အကြံသည် သင်တို့၏ ဝိညာဉ်များအတွက် သာလွန်မွန်မြတ်၏၊ အမှန်မှာ လောဘရမ္မက်ဖိစီးနှိပ်စက်ခြင်းမှ ကင်းလွတ်သူတို့သည်ကား ချမ်းသာကြွယ်ဝ၍ အောင်မြင်ရသူများ ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်တို့သည် မိမိတို့တတ် စွမ်းနိုင်သမျှ အလ္လာဟ်အရှင်မြတ်အား ကြောက်ရွံ့ကြလေကုန်။ ထို့ပြင် အသင်တို့သည် နာခံကြလေကုန်။ ၎င်းပြင် အသင်တို့သည် လိုက်နာကြလေကုန်။ ထိုမှတစ်ပါး အသင်တို့သည် မိမိတို့ကိုယ်တိုင် ကောင်းစားရန် သုံးစွဲ(လှူဒါန်း)ကြလေကုန်။ စင်စစ်သော်ကား မည်သူမဆို မိမိကိုယ်တိုင်၏ လောဘရမ္မက်ကြီးမှုမှ လွတ်ကင်းပါမူ ယင်းကဲ့သို့သော သူတို့သည်သာလျှင် အောင်မြင်သူများ ဖြစ်ကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

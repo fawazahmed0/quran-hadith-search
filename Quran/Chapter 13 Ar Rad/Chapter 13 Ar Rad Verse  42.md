@@ -710,6 +710,12 @@ Onezi predi tyakh zamislyakha lukavstvo, no na Allakh e tseliyat zamisŭl. Znae 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	ဤမိစ္ဆာမိုက်တို့အလျင်ဖြစ်ပေါ်လာသောသာသနာပလူများလည်း အကြံအဖန်ထုတ်ကြ၏။ သို့သော်ကြံစည်ခြင်း အားလုံးသည် အလ္လာဟ်အရှင်မြတ်အဖို့သာလျှင်ဖြစ်၏။ အရှင်မြတ်သည် ဝိညာဉ်တိုင်းရအပ်သည့်အကျိုးအပြစ်ကို သိတော်မူ၏။ နိဗ္ဗာန်ဘုံနန်းဆုတော်သည် မည်သူ့အဖို့ဖြစ်သည်ကို အတုယူမှားသူတို့သည် သိမြင်ကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်သော်ကား ၎င်းတို့အလျင်ရှိခဲ့ကြကုန်သောသူတို့သည် လျှို့ဝှက်စွာ ကြံစည်ခဲ့ကြကုန်၏။ စင်စစ်မှာမူကား အလုံးစုံသော အကြံအစည်တို့သည် အလ္လာဟ်အရှင်မြတ်၌သာရှိပေသည်။ ထိုအရှင်မြတ်သည် လူတိုင်းလူတိုင်း ပြုလုပ်သမျှတို့ကိုသိတော်မူ၏။ ထိုမှတစ်ပါး တမလွန်ဘဝ၏ အကျိုးဆက်သည် မည်သူတို့အဖို့ရှိသည်ကို ကာဖိရ်သွေဖည် ငြင်းပယ်ကုန်သောသူတို့သည် မကြာမြင့်မီ သိရှိသွားကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

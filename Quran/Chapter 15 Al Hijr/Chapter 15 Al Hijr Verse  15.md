@@ -710,6 +710,12 @@ pak shtyakha da rekat: “Pogledite ni byakha zaslepeni. Nie sme omag’osani kh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၊၁၅။	အကယ်၍ ငါအရှင်မြတ်သည် သူတို့အား နိဗ္ဗာန်တံခါးတပေါက်ကို ဖွင့်ပေးတော်မူ၍ သူတို့သည် ထိုတံခါးပေါက်ကို တက်ဝင်နေကြသော်လည်း သူတို့က အကျွနု်ပ်တို့သည် စုန်းပယောဂဖမ်းဆီးခံရသဖြင့် အမြင်မှောက်မှား၏ဟု ပြောကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုသို့သောအခါမျိုး၌လည်း) ၎င်းတို့က ကျွန်ုပ်၏မျက်စိများသည်(လှည့်စား)ပိတ်ပင်ထားခြင်းကို ခံခဲ့ကြရပေသည်။ ထိုမျှမက ကျွန်ုပ်တို့သည် စုန်းပြုစားခြင်းကို ခံခဲ့ကြရသောလူစုပင် ဖြစ်ကြပေသည်ဟု ပြောဆိုကြမည်မှာ အမှန်ပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

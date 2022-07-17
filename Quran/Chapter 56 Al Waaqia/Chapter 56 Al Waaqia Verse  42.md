@@ -710,6 +710,12 @@ Sred izgaryasht vyatŭr i vryashta voda
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	လောင်ကျွမ်းမြိုက်စေသောလေပူလေပြင်းနှင့် ကျိုက်ကျိုက်ဆူသောရေပူတွင် ခံစားနေကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုလက်ဝဲဘက်သားတို့မှာ) ခြစ်ခြစ်ပူလောင်သော လေပူ၌လည်းကောင်း၊ ပွက်ပွက်ဆူလျက်ရှိသော ရေနွေးပူ၌လည်းကောင်း၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

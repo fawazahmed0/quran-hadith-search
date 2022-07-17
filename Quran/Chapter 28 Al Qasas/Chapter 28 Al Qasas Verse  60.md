@@ -710,6 +710,12 @@ I kakvoto i da vi se dade, to e naslada za zemniya zhivot i negova ukrasa. Ala o
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆ဝ။	ထို့အပြင်သင်တို့အား ပေးသနားတော်မူသောအရာတို့သည် ဤလောကီဘဝ၏ စည်းစိမ်ချမ်းသာနှင့် တန်ဆာ ပလာသာဖြစ်၏၊ သို့သော်အလ္လာဟ်အရှင်မြတ်အထံတော်၌ရှိသည့်အရာတို့မူကား သာလွန်မြင့်မြတ်၍ တည်မြဲ၏၊ သို့ပါလျက်သင်တို့တွင် အသိဉာာဏ်မရှိကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် အသင်တို့ပေးသနားတော်မူခြင်း ခံကြရသောအရာများမှာ ဤပစ္စုပ္ပန်လောကီဘဝ၏ အသုံးအဆောင်နှင့် ဤပစ္စုပ္ပန်လောကီဘဝ၏ တင့်တယ်မှုမျှသာ ဖြစ်ကြပေသည်။ သို့ရာတွင် အလ္လာဟ်အရှင်မြတ် အထံတော်၌ ရှိသောအရာများမှာမူကား အကောင်းဆုံး ဖြစ်ကြသည့်ပြင် အခိုင်အမြဲဆုံးလည်းဖြစ်ကြကုန်၏။ သို့ပါလျက် အသင်တို့သည် (ဤမျှပင်)မသိ နားမလည်ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

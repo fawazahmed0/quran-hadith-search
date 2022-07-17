@@ -710,6 +710,12 @@ I shte zovat: “O, Malik, neka tvoyat Gospod ni unishtozhi!” Shte reche: “T
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၇။	သူတို့က အို-ငရဲထိန်းကြီး၊ သင်၏အရှင်သခင်သည် ငါတို့ကို အဆုံးစီရင်တော်မူပါစေဟု မြည်တမ်းငိုကြွေး လတ့ံ၊ ယင်းသို့စီရင်မည်မဟုတ်၊ နင်တို့အစဉ်ထာဝရခံစားရမည်ဟု ပြန်ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့သည် ("ဂျဟန္နမ်"ငရဲဘုံကို ကွပ်ကဲအုပ်ချုပ်သူအား) အို-‘မာလစ်က်၊ အသင့်အား ဖန်ဆင်း မွေးမြူတော်မူသော အရှင်မြတ်သည် ကျွန်ုပ်တို့အား အဆုံးစီရင်တော်မူပါစေ’ဟု ဟစ်အော်(ပြောဆို)ကြပေမည်။ (ထိုအခါ)ထို ‘မာလစ်က်’သည်(ဤသို့)ပြောဆို (ဖြေကြား)ပေမည်။ ဧကန်မလွဲ အသင်တို့ကား (ဤအခြေအနေ၌ပင် အမြဲထာဝစဉ်) နေမြဲနေကြရမည့်သူများ ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ i ne shte go izbavi negovoto bogat·stvo, kogato propadne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။ ထိုသူယုတ်သည် ပျက်စီးသောအခါ သူ၏ စည်းစိမ်ဥစ္စာတို့သည် သူ့ကို ကယ်ဆယ်နိုင်မည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုသူသည် တွင်းထဲသို့ကျသောအခါ ၎င်း၏ပစ္စည်းဥစ္စာသည် ၎င်း၏အဖို့ အသုံးဝင်လိမ့်မည် မဟုတ်ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

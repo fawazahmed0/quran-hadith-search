@@ -710,6 +710,12 @@ No ne i za predanite rabi na Allakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄ဝ။	သို့သော်အလ္လာဟ်အရှင်မြတ်အား စိတ်နှလုံးအကြွင်းမဲ့ကိုးကွယ်သော ကျေးတော်မျိုး ကျွန်တော်မျိုးတို့မူကား ယင်းသို့အပြစ်ဒဏ်မခံစားရပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ရွေးခြယ်ခြင်းကို ခံခဲ့ကြရသော အလ္လာဟ်အရှင်မြတ်၏ ကျွန်များသည်၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

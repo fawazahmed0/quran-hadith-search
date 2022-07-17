@@ -710,6 +710,12 @@ I metnakha te svoite vŭzheta i toyagi, i rekokha: “S mogŭshtestvoto na Farao
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	ထိုအခါဝိဇ္ဇာဆရာတို့သည် မိမိတို့စွဲကိုင်သောလှံတံတောင်ဝှေးနှင့် ကြိုးခွေကြီးများကို ပစ်ချ၍ အကျွန်ုပ်တို့သည် ဖွာရောမင်း၏ ဘုန်းတော်ကြောင့် အမှန်အကန်နိုင်ရမည်သာတည်းဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ထိုပဉ္စလက်ဆရာတို့သည် မိမိတို့၏ ကြိုးများကိုလည်းကောင်း၊ မိမိတို့၏ တောင်ဝှေးများကိုလည်းကောင်း၊ ပစ်ချခဲ့ကြကုန်၏။ ထို့ပြင် ၎င်းတို့က ဖစ်ရ်အောင်န်(ဘုရင်မင်းမြတ်)၏ ဘုန်းတန်ခိုးကိုတိုင်တည်၍ မလွဲဧကန် ကျွန်ုပ်တို့သည် ပင်လျှင် အောင်နိုင်သူများ အမှန်ပင် ဖြစ်ကြပေမည်ဟု ပြောဆိုခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

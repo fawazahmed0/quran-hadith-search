@@ -710,6 +710,12 @@ Ili imat stŭlba, ot koyato podslushvat? Togava neka tozi ot tyakh, koĭto e ch
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	သို့မဟုတ် သူတို့၌ ကောင်းကင်သို့ တက်၍ အမိန့်တော်များကို နားထောင်ဖို့ရာ လှေကားရှိသလော၊ သို့ပါလျှင် သူတို့၏ နားထောင်သူအား လုံလောက်ထင်ရှားသောသက်သေပြစေကုန်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် ၎င်းတို့၌ လှေကား တစ်စုံတစ်ခုရှိနေ၍ ၎င်းတို့သည် ထိုလှေကားဖြင့် (မိုးကောင်းကင်မှ စကားများကို) နားထောင်ကြလေသလော။ သို့ဖြစ်လျှင် ၎င်းတို့အနက်မှ နားထောင်သောသူသည် ထင်ရှားစွာသော သက်သေသာဓကကို ဆောင်ယူခဲ့ရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I nima onzi, koĭto znae, che nizposlanoto na teb ot tvoya Gospod e istinata, e
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	အကြင်သူသည် သင်၏ အရှင်သခင်အထံတော်မှ သင့်အား ချပေးသနားတော်မူသောကျမ်းတော်သည် တရားစစ် တရားမှန်ဟု သိနားလည်အ့ံ။ ထိုသူသည် မျက်စိကန်းသူနှင့်ထပ်တူထပ်မျှဖြစ်သလော။ သို့သော်အသိအလိမ္မာ ဉာာဏ်ပညာရှိသူတို့သာလျှင် ဂရုစိုက်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူသည် စက္ခုအလင်းမရရှိသော မျက်ကန်းကဲ့သို့ဖြစ်နိုင်ပါမည်လော။ ထိုသူသည် အသင်၏ထံသို့အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူ သောအရှင်မြတ်အထံတော်မှ ကျရောက်လာသောအရာသည် အမှန်တရားပင် ဖြစ်သည်ဟုကောင်းစွာ ယုံကြည်လေသည်။ (စင်စစ်မှာမူကား) နိသမ္မဉာဏ်ရှင်တို့ သည်သာသာလျှင် တရားကျကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

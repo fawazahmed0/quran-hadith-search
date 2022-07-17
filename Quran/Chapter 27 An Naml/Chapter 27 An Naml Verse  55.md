@@ -710,6 +710,12 @@ Nima khodite sŭs strast pri mŭzhete vmesto pri zhenite? Da, vie ste khora neve
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။	သင်တို့သည် မိန်းမများနှင့် ကာမမစပ်ယှက်ပဲ ယောက်ျားများကိုသာ လိုလားကြသလော၊ သို့သော်သင်တို့သည် အစဉ်းစားဉာာဏ်မဲ့သူများအမှန်ဖြစ်ကြ၏ဟုလည်း ဟော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် မိန်းမတို့အားစွန့်၍ ယောက်ျားများထံ ကာမဂုဏ်ခံစားရန် လာကြလေသလော။ စင်စစ်မှာကား အသင်တို့သည် မိုက်မဲသောအမျိုးသားများပင် ဖြစ်ကြကုန်၏ဟု ပြောကြားခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

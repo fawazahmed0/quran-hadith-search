@@ -710,6 +710,12 @@ I ne bŭdete kato onezi, koito izlyazokha ot domovete si s nadmennost i za pokaz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	သင်တို့သည် လူမြင်ရန်နှင့် လူအများကို အလ္လာဟ်အသျှင်မြတ်၏ လမ်းမတော်ကြီးမှ တားမြစ်ပိတ်ပင် ထားရန် မိမိတို့အိမ်များမှ အဝါအကြွား ပြောဆိုလျက် ထွက်လာသောသူတို့နှင့် မတူစေကြလင့်။ အလ္လာဟ်အသျှင်မြတ်သည် သူတို့ကျင့်ကြံမှုအားလုံးကို ဝိုင်းဝန်းထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (အို-မုအ်မင်န် သက်ဝင်ယုံကြည်သူအပေါင်းတို့) အသင်တို့သည် အကြင်သူတို့ကဲ့သို့ မဖြစ်ကြကုန်လင့်။ ထိုသူတို့သည် မိမိတို့အိမ်များမှပလွှားဝါးကြွားလျက်လည်းကောင်း၊ လူတို့အား ပြစားလျက်လည်းကောင်း၊ ထွက်လာခဲ့ကြလေသည်။ ထို့ပြင် ၎င်းတို့သည် (သူတစ်ပါးတို့အား) အလ္လာဟ်အရှင်မြတ်၏လမ်းတော်မှ ပိတ်ပင်တားဆီးခဲ့ကြလေသည်။အမှန်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့ပြုမူသမျှတို့ကို ဝန်းဝိုင်းလျက်ရှိတော်မူသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

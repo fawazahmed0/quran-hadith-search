@@ -710,6 +710,12 @@ Toĭ znae vsichko na nebesata i na zemyata. I znae kakvo spotaĭvate i kakvo r
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။ အရှင်မြတ်သည် အထက်ကောင်းကင်ဘုံ အောက်မဟာပထဝီမြေကြီးပေါ်ဝယ် ရှိရှိသမျှအလုံးစုံကို လုံးဝသိတော် မူ၏၊ ထို့အပြင်သင်တို့ဖုံးထားသောအရာကိုသော်လည်းကောင်း၊ ဖော်ပြသောအရာကိုသော် လည်းကောင်း သိ တော်မူ၏၊ အလ္လာဟ်အရှင်မြတ်သည် လူသားတို့၏ ရင်ဘတ်များအတွင်းရှိသည်ကို အကြွင်းမဲ့သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် မိုးကောင်းကင်များ၌လည်းကောင်း၊ ပထဝီမြေ၌လည်းကောင်း၊ ရှိရှိသမျှတို့ကို သိရှိတော်မူ၏။ ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် အသင်တို့ လျှို့ဝှက်စွာ ပြုလုပ်သမျှတို့ကိုလည်းကောင်း၊ အသင်တို့ ထင်ရှားစွာ ပြုလုပ်သမျှတို့ကိုလည်းကောင်း၊ သိရှိတော်မူ၏။ ထိုမှတစ်ပါး အလ္လာဟ်အရှင်မြတ်သည် စိတ်နှလုံးများအတွင်း၌ ရှိသမျှတို့ကိုလည်း အကြွင်းမဲ့ သိရှိတော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

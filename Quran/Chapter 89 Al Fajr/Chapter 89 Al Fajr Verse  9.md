@@ -710,6 +710,12 @@ i sŭs samudyanite, koito izsichakha skalite v dolinata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။ တော်တောင်ကြားတွင် ကြီး မားသောကျောက်တောင်များ၌ တောင်ခေါင်း လှိုဏ်ဂူများ ဖောက်ထွင်း ပြုလုပ်နေထိုင်ကြကုန်သော(စမုဒ်)လူမျိုးတို့ကိုလည်း မည်သို့မည်ပုံ စီရင်တော်မူလိုက်သည်ကို အသင်တမန်တော် မစဉ်းစား မဆင်ခြင်သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဝါဒစ်လ်ကုရာ" အရပ်၌ ကျောက်ဆောင်များကို ထွင်းခဲ့ကြသော "ဆမူဒ်" အမျိုးသားတို့အား (မည်ကဲ့သို့ ပြုလုပ်တော်မူခဲ့သည်ကို)လည်းကောင်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

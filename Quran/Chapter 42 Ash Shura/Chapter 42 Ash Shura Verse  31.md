@@ -710,6 +710,12 @@ I ne mozhete da Go vŭzprete na zemyata. I osven Allakh nyamate nito pokrovitel,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	သင်တို့သည် မြေကြီးပေါ်တွင် ထွက်ပြေးနေခြင်းဖြင့် အရှင်မြတ်၏ အပြစ်ဒဏ်တော်မှ လွတ်မြောက်နိုင်မည် မဟုတ်ချေ၊ အလ္လာဟ်အရှင်မြတ်မှတပါး အခြားကာကွယ်စောင့်ရှောက်သူမိတ်ဆွေသော်လည်းကောင်း၊ ကူညီ ထောက်ပ့ံသူသော်လည်းကောင်း၊ သင်တို့၌ မရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်တို့သည် ထို(အရှင်မြတ်အား)ကမ္ဘာမြေ၏ မည်သည့်အစိတ်အပိုင်း မည်သည့်နေရာ၌(မျှပင်) မတတ်စွမ်းနိုင်အောင် ပြုစွမ်းနိုင်ကြသူများ မဟုတ်ပေ။ထိုမှတစ်ပါး အသင်တို့၌ အလ္လာဟ် အရှင်မြတ်အပြင် ကာကွယ်စောင့်ရှောက်အံ့သောသူဟူ၍လည်း အလျှင်းမရှိပြီ။ ကူညီစောင်မအံ့သောသူဟူ၍လည်း အလျှင်း မရှိပြီတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

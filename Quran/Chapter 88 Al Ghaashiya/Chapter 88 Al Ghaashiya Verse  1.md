@@ -710,6 +710,12 @@ Stigna li do teb razkazŭt za Vsepokrivashtiya den
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။ အတိုင်းထက်အလွန်ကြောက်မက်ထိတ်လန့်ဖွယ်ကောင်းသောအဖြစ်အပျက်၏ သတင်းသည် သင်တမန်တော် ထံသို့ ရောက်လာပြီလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော် ထိုကမ္ဘာအဝန်းကို) ထိုဖုံးလွှမ်းမည့် အဖြစ်အပျက်၏အကြောင်း သတင်းသည် အသင့်ထံ ရောက်ရှိခဲ့ပြီ မဟုတ်လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

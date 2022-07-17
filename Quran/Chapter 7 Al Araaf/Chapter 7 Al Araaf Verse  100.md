@@ -710,6 +710,12 @@ Nima Toĭ ne pokaza na onezi, koito nasledikha zemyata sled neĭnite [predishn
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝဝ။	ရှေးလူများသည် မိမိတို့ပြုကျင့်မှု၏အကျိုးအရှိန်ကြောင့် ပျက်စီးသွားကြပြီးနောက် ဤလောကဓာတ် ကြီးကို အမွေရသူတို့အား ငါအသျှင်မြတ်အလိုရှိတော်မူပါလျှင် ထိုသူတို့ကို ၎င်းတို့၏ပြစ်မှုများကြောင့် ဒဏ်ပေးစွမ်းနိုင်ကြောင်း ထိုသူတို့မကြားနိုင်အောင် သူတို့၏ စိတ်နှလုံးများကို တံဆိပ်ခပ်နှိပ် ပိတ်ထားစွမ်းနိုင်ကြောင်းကို ပြသသည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဝ။(ဤ)ပထဝီမြေ နေထိုင်ခဲ့ကြသူများမရှိသည့်နောက် ယခု ဤပထဝီမြေကို အမွေဆက်ခံလျက် ရှိသူတို့အဖို့ အကယ်၍သာ ငါအရှင်မြတ်သည် အလိုရှိတော်မူပါလျှင် 4င်းတို့အားလည်း 4င်းတို့၏ ပြစ်မှုများကြောင့် ဒုက္ခရောက်စေတာ်မူမည် ဖြစ်ကြောင်း မထင်ရှားသေးပါသလော။အမှန်သော်ကား ငါအရှင်မြတ်သည် 4င်းတို့၏ စိတ်နှလုံးများအပေါ် တံဆိပ်ခတ်နှိပ်ထားတော်မူသဖြင့် 4င်းတို့ သည် (မှန်ကန်သောတရားဒေသနာတော်များကို) နားဆင်နိုင်ကြမည် မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

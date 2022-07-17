@@ -710,6 +710,12 @@ I ti shte umresh [o, Mukhammad], i te shte umrat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃ဝ။	မှတ်သားကြလော့၊ သင်တမန်တော်လည်း အနိစ္စရောက်ရမည်သာတည်း၊ သူတို့လည်း မုချဧကန် ကံကုန်ကြရ မည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) ဧကန်မလွဲ အသင်သည်လည်း သေဆုံးရအံ့သောသူဖြစ်၏။ ထိုနည်းတူစွာ ၎င်းတို့သည်လည်း ဧကန်အမှန် သေဆုံးကြရအံ့သော သူများပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

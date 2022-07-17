@@ -710,6 +710,12 @@ I za vsyako neshto, po koeto ste v raznoglasie, ot·sŭzhdaneto e na Allakh. Tov
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။ သင်တို့သည် မည်သည့်အရာတွင်မဆို ကွဲလွဲငြင်းခုံကြအ့ံ၊ ထိုကွဲလွဲမှုကို အလ္လာဟ်အရှင်မြတ်သာလျှင် စီရင် ဆုံးဖြတ်နိုင်တော်မူ၏၊ ငါ၏အသက်သခင်ကျေးဇူးရှင်ကြီးသည် ယင်းသို့ဖြစ်တော်မူ၏၊ ငါသည် အရှင်မြတ်အား ယုံကြည်ကိုးစား၏၊ မျက်နှာမူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အကြင်ကိစ္စသည် ယင်းကိစ္စနှင့်စပ်လျဉ်း၍ အသင်တို့သည် (မုစ်လင်မ်တို့နှင့်) ကွဲပြားလျက်ရှိကြကုန်၏။စင်စစ်သော်ကား ယင်းကိစ္စ၏ အဆုံးအဖြတ်မှာ အလ္လာဟ်အရှင်မြတ်အထံတော်၌ပင်ရှိ၏။ ဤသည်ပင် ငါ့အား ဖန်ဆင်းမွေးမြူတော်မူသော အလ္လာဟ်အရှင်မြတ် ဖြစ်တော်မူ၏။ ငါသည် ထိုအရှင်မြတ်အပေါ်၌ပင် ယုံပုံလွှဲအပ်ပေသည်။ ၎င်းပြင်ငါသည် ထိုအရှင်မြတ်ဘက်သို့သာလျှင် ပြန်လှည့်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

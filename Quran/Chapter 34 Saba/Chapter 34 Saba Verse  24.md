@@ -710,6 +710,12 @@ Kazhi: “Koĭ vi dava prepitanie ot nebesata i ot zemyata?” Kazhi: “Allakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	အို-တမန်တော်၊ မိစ္ဆာဒိဋ္ဌိအား မေးလော့၊ ဟယ်-အချင်းတို့၊ သင်တို့အား မိုးကောင်းကင်နှင့် ပထဝီမြေပြင်မှ ရိက္ခာအစာများကို အဘယ်သူပေးသနည်း၊ အို-တမန်တော်၊ သင်ပြောလော့၊ အလ္လာဟ်အရှင်မြတ် ပေးသနား တော်မူ၏၊ ဟယ်-အချင်းတို့၊ သင်တို့နှင့်ငါသည် အဘယ်သူတရားလမ်းမှန်ကို မုချဧကန်ရသနည်း၊ အဘယ် သူသည် ထင်ရှားသောလမ်းမှားကို ရောက်သနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်)အသင်သည် မေးမြန်းပါလေ။ (အချင်းတို့၊) မိုးကောင်းကင်များမှလည်းကောင်း၊ ပထဝီမြေမှလည်းကောင်း၊ မည်သူသည် အသင်တို့အား စားနပ်ရိက္ခာချီးမြှင့်ပါသနည်း။ (ထို့နောက်)အသင်သည် အလ္လာဟ်အရှင်မြတ်ပင် ချီးမြှင့်ပေးသနားတော်မူ၏ဟု ဖြေကြားပါလေ။ ၎င်းပြင် ငါတို့သည် သို့မဟုတ် အသင်တို့သည်ပင် တရားလမ်းမှန်ပေါ်၌သော်လည်းကောင်း၊ ထင်ရှားစွာ သောလမ်းမှားမှု၌သော်လည်းကောင်း၊ ရှိကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

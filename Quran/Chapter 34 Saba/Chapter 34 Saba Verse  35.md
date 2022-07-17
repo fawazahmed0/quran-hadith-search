@@ -710,6 +710,12 @@ I kazvakha: “Nie sme s poveche imot i detsa, i ne shte bŭdem nakazani.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	ထို့အပြင်ဆိုကြပြန်သည်မှာ ငါတို့သည် သင်တို့ထက် စည်းစိမ်ဥစ္စာ၊ သားသမီးမှစ၍ သာလွန်ပေါများကြွယ်ဝ ကြ၏၊ ထို့ကြောင့်ငါတို့သည် အပြစ်ဒဏ်သင့်သူများမဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့က ကျွန်ုပ်တို့သည် ပစ္စည်းဥစ္စာအားဖြင့်လည်းကောင်း၊ သားသမီးအားဖြင့်လည်း ကောင်း၊(အသင်တို့ထက်)ပေါများကြွယ်ဝသူများဖြစ်ကြပေရာ ကျွန်ုပ်တို့သည် ပြစ်ဒဏ်ပေးခြင်းခံကြရမည့်သူများမဟုတ်ပေဟု ပြောဆိုခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

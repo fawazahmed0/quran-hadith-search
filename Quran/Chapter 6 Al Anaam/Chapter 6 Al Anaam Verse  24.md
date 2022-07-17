@@ -710,6 +710,12 @@ Vizh kak lŭzhat protiv sebe si i ot tyakh izchezna onova, koeto sa izmislyali!�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	သူတို့သည် သူတို့ကိုယ်ကိုသူတို့ ဆန့်ကျင်၍ ဘယ်လိုမုသားဆိုသည် သူတို့ဖန်တီးသောအရာသည် သူတို့ကို ဘယ်လိုစွန့်ပစ်ထားကြသည်ကို သင်ကြည့်ရှုလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) ထိုသူတို့သည် မိမိတို့နှင့်ဆန့်ကျင် ၍ပင် မည်ကဲ့သို့ မုသားပြောဆိုကြသည် ကိုလည်းကောင်း၊ ယင်းသူတို့ထံမှ ယင်းသူတို့၏အကြံအစည်များ သည်၊မဟုတ်မလျား စွပ်စွဲပြစ်မှားလေ့ရှိခဲ့ကြသော အရာများသည်(မည်ကဲ့သို့) ပျက်ပြားဆုံးပါး၍ သွားသည်ကိုလည်းကောင်း၊အသင်သည် (စဉ်းစားဆင်ခြင်၍) ကြည့်ပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I taka na vseki prorok storikhme vrag ot prestŭpnitsite. Dostatŭchen e tvoyat 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	ဤကဲ့သို့ငါသည် ဒုစရိုက်ကောင်တို့မှ ရန်သူတစ်ယောက်ကို တမန်တော်တိုင်းအတွက် ပေါ်ပေါက်စေတော်မူ၏၊ သို့သော်အလ္လာဟ်သည် လမ်းပြသူ၊ မှိုင်းမသူအဖြစ်ဖြင့် လုံလောက်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ငါအရှင်မြတ်သည် ဤနည်းအတိုင်းပင် နဗီတမန်တော်တိုင်း၌ ပြစ်မှုရှိသူတို့အနက်မှ ရန်သူများ ပြုလုပ်တော်မူခဲ့၏။ စင်စစ် အသင့်အား ဖန်ဆင်း မွေးမြူတော်မူသော အရှင်မြတ်သည်ပင် တရားလမ်းမှန်သို့ ပို့ဆောင်တော်မူသော အရှင်အဖြစ်လည်းကောင်း၊ ကူညီဆောင်မသူ အဖြစ်လည်း ကောင်း၊ လုံလောက်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

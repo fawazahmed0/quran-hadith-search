@@ -710,6 +710,12 @@ Onezi, koito vzimat za lŭzha Knigata i onova, s koeto izpratikhme Nashite prate
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇ဝ။	ကုရ်အာန်ကျမ်းတော်မြတ်နှင့် ငါအရှင်မြတ်၏ တမန်တော်များအား ချပေးသနားတော်မူသောပညတ်တရားတော် များကို မယုံကြည်ပယ်ရှားသောသူမိုက်တို့သည် ကာလမကြာမြင့်မီ သိကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတို့သည် (ဤကုရ်အာန်)ကျမ်းတော်မြတ်ကိုလည်းကောင်း၊ ငါအရှင်မြတ် မိမိ ရစူလ်တမန်တော်များအား ပေး၍ စေလွှတ်တော်မူသော(အယူဝါဒ အမိန့်ပညတ်စသည်တို့)ကိုလည်းကောင်း၊ မဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ်ခဲ့ကြကုန်၏။ သို့ဖြစ်ပေရာ မကြာမီပင် ၎င်းတို့သည် သိရှိကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

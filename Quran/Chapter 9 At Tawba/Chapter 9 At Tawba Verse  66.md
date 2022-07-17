@@ -710,6 +710,12 @@ Ne se opravdavaĭte! Vie stanakhte nevernitsi, sled kato byakhte vyarvashti. Do
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၆။	ဆင်ခြေမပေးကြလင့်၊ သင်တို့သည် ယုံကြည်ပါသည်ဟု ဝန်ခံပြောဆိုပြီးနောက်၊ မယုံကြည်ကြပေ။ငါအရှင်မြတ် သည် သင်တို့အနက် လူတစ်စုကို အပြစ်လွှတ်တော်မူလျှင် အခြားတစ်စုကို ၎င်းတို့၌ အပြစ်ရှိသောကြောင့် အပြစ်ဒဏ်ပေးတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် (အချည်းနှီး) အကြောင်း မပြုကြကုန်လင့်။ စင်စစ်ဧကန် အသင်တို့သည် မိမိတို့ အီမာန်သက်ဝင်ယုံကြည်ကြောင်း ထုတ်ဖော်ပြောဆိုပြီးနောက် သွေဖည်ငြင်းပယ်ခဲ့ကြလေပြီ၊ အကယ်၍ ငါအရှင်မြတ်သည် အသင်တို့အနက် လူတစ်စုကို ခွင့်လွှတ်တော်မူငြားအံ့လည်း အခြားလူတစ်စုကိုမူကား ပြစ်ဒဏ် ပေးတော်မူမည်သာ ဖြစ်သည်။အကြောင်း သော်ကား ၎င်းတို့သည် ပြစ်မှု ထင်ရှားသောသူများဖြစ်ကြသောကြောင့်ပင်တည်း။(ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kazhi: “Zova edinstveno moya Gospod i nikogo ne sŭdruzhavam s Nego.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၀။ အို-တမန်တော်၊ ဟောပြောလော့၊ ငါသည် အလ္လာဟ်အရှင်မြတ်အားသာလျှင် ဝတ်ပြု၏၊ ငါသည် အရှင်မြတ်နှင့်ဘုရားတုများကို တွဲဖက်ခြင်းမပြုချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်ပြောကြားပါလေ။(အချင်းတို့) ငါသည် မိမိအရှင်မြတ်အားသာလျှင် ဆည်းကပ်ကိုးကွယ်၏။ စင်စစ် ငါသည် မည်သူ တစ်ဦးတစ်ယောက်ကိုမျှပင် ထိုအရှင်မြတ်နှင့် တွဲဖက်နှိုင်းယှဉ် (ကိုးကွယ်)ခြင်းမပြုပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

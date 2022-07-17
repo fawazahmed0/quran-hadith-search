@@ -710,6 +710,12 @@ Ne vidya li ti, che Allakh e sŭzdal nebesata i zemyata s mŭdrost? Ako pozhelae
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	အလ္လာဟ်အရှင်မြတ်သည် မိုဃ်းကောင်းကင်နှင့် ကမ္ဘာမြေကြီးကို ကောင်းကျိုးအတွက် ဖန်ဆင်းတော်မူသည် ကို သင်မြင်ပြီမဟုတ်လော၊ အကယ်၍ အရှင်မြတ်အလိုတော်ရှိပါလျှင် သင်တို့ကို သုတ်သင်ရှင်းလင်း၍ လူ သစ်ကို ဖန်ဆင်းနိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် မိုးကောင်း ကင်များကိုလည်းကောင်း၊ ပထဝီမြေကို လည်းကောင်း၊(တိကျ) မှန်ကန်စွာ ဖန်ဆင်းတော် မူခဲ့သည်ကို အသင်သည်မြင်လေသလော။ အကယ်၍သာ ထိုအရှင်မြတ်သည် အလိုရှိတော်မူပါလျှင် အသင်တို့အား ဖယ်ရှားတော်မူ၍ အဖန်ဆင်းခံအသစ် (အသင်တို့အစား) ယူဆောင်လာတော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

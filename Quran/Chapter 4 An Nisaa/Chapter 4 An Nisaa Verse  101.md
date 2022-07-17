@@ -710,6 +710,12 @@ A kogato stranstvate po zemyata, ne e pregreshenie za vas da sŭkrashtavate moli
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၁။	သင်တို့သည် ခရီးသွားလာသောအခါ ခရီးလမ်းတွင် မိစ္ဆဒိဌိတို့ တိုက်ခိုက်မည်ကို စိုးရိမ်ကြောင့်ကြ သောကြောင့် ဆွလာသ်ဝတ်ကိုလျှော့၍ပြု၏။ ယင်းကဲ့သို့ ချုံးခြင်းကြောင့် သင်တို့၌ အပြစ်မသင့် ပေ။ အမှန်မှာ မိစ္ဆာမိုက်တို့သည် သင်တို့၏ ပွင့်လင်းသောရန်သူဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အကြင်အခါဝယ်၊ အသင်တို့သည် ကမ္ဘာမြေပြင်ဝယ် ခရီးထွက်ခဲ့ကြကုန်၏။ ထိုအခါဝယ် အသင်တို့သည် အကယ်၍ မိမိတို့အား ‘ကာဖိရ်’ မယုံမကြည် သွေဖည်ငြင်းပယ်သောသူတို့က ဒုက္ခပေးကြမည်ကို စိုးရိမ်ကြသည်ရှိသော်၊ အသင်တို့၌ ‘ဆွလာသ်’ ဝတ်ပြုမှုကို လျော့၍ပြုခြင်းအားဖြင့် အပြစ်တစ်စုံတစ်ရာမျှမရှိချေ။ ဧကန်စင်စစ် ‘ကာဖိရ်’ မယုံမကြည် သွေဖည်ငြင်းပယ်သောသူတို့ကား အသင်တို့၏ ထင်ရှားစွာသောရန်သူများပင် ဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

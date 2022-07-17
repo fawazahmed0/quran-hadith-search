@@ -710,6 +710,12 @@ Oproshtavashtiya grekha i Priemashtiya pokayanieto, Strogiya v nakazanieto, Vlad
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	အရှင်မြတ်သည် အပြစ်လွှတ်တော်မူသောအရှင်၊ အပြစ်ဝန်ချတောင်းပန်ခြင်းကို လက်ခံတော်မူသောအရှင်၊ ပြစ်မှုကျူးလွန်သူများကို ပြင်းပြစွာဒဏ်တပ်ရိုက်စီရင်တော်မူသောအရှင်၊ ကောင်းကြီးမင်္ဂလာအနန္တနှင့် ပြည့်စုံတော် မူလှသောအရှင်ဖြစ်တော်မူ၏၊ အလ္လာဟ်အရှင်မြတ်မှတပါး အခြားအရှင်သခင်မရှိချေ၊ သတ္တဝါအပေါင်းတို့သည် အလ္လာဟ်အရှင်မြတ်အထံတော်သို့ ပြန်ကြရမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအရှင်မြတ်သည်) ပြစ်မှုဒုစရိုက်များကို ခွင့်လွှတ် ချမ်းသာပေးတော်မူသောအရှင်၊ ဝန်ချ တောင်းပန်ခြင်းကို သဘောတူလက်ခံတော်မူသောအရှင်၊ ပြင်းထန်စွာ ပြစ်ဒဏ်စီရင်တော်မူသောအရှင်၊ စွမ်းရည်သတ္တိနှင့် ပြည့်စုံတော်မူသော(ရက်ရောစွာ ပေးကမ်းစွန့်ကြဲတော်မူသော)အရှင် ဖြစ်တော်မူ၏။ ထိုအရှင်မြတ်မှတစ်ပါး ဆည်းကပ်ကိုးကွယ်ရာအရှင်ဟူ၍ အလျင်းမရှိပေ။ နောက်ဆုံး ပြန်လည်ရာစခန်းသည် ထိုအရှင်မြတ်အထံတော်၌ပင် ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

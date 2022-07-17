@@ -710,6 +710,12 @@ Tezi sa znameniyata na Allakh, chetem ti gi s istinata. Allakh ne iska gnet za n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၈။	ဤဂါထာတော်များသည် အလ္လာဟ်အသျှင်မြတ်၏ နှုတ်ကပတ်တော်များဖြစ်သည်။ ငါအသျှင်သည် ဤဂါထာတော်များကို သင့်အား မှန်ကန်စွာ ဖတ်ပြတော်မူ၏။ ပလ္လာဟ်သည် မိမိ၏ ကျေးကျွန်များကို မတရားနစ်နာစေတော်မူလိုသည်မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) ဤသည်တို့ကား အလ္လာဟ်အရှင်မြတ်၏ မုခပါဌ်တော်များတည်း။ ငါအရှင်မြတ်သည်ထိုမုခပါဌ်တော်များကို မှန်ကန်စွာဖြင့် အသင်အားကြားနာစေတော်မူ၏။ အမှန် သော်ကား အလ္လာဟ်အရှင်မြတ်သည်စကြာဝဠာ ခပ်သိမ်းတို့ကို အနည်းငယ်မျှပင် မတရားပြုရန်ကြံရွယ်တော်မူသည် မရှိချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

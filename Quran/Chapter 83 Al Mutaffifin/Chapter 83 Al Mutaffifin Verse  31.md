@@ -710,6 +710,12 @@ I kogato se zavrŭshtakha pri svoite khora, te se zavrŭshtakha razveseleni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။ တဖန်သူတို့သည် မိမိတို့သားချင်းထံ ပြန်သောအခါ ပြက်ရယ်ပြောင်ချော်လျက် ပြန်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ၎င်းတို့သည် မိမိတို့ အိမ်သူအိမ်သားထံ ပြန်ခဲ့ကြသောအခါ (ထိုသက်ဝင်ယုံကြည်သူတို့၏ အကြောင်းများကို စားမြုံ့ပြန်၍) ဝမ်းမြောက်ဝမ်းသာ ဖြစ်ကြကုန်၏။(ရယ်မောမြူးတူး ကျီစယ်ကြကုန်၏)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

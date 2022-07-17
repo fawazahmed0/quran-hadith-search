@@ -710,6 +710,12 @@ I Musa izpratikhme s Nashite znameniya pri Faraona i znatnite mu khora, i toĭ 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။	ငါသည် တမန်တော်မူစာအား ငါ၏ နှုတ်ကပတ်တော်များနှင့်တကွ မုချဧကန်ဖွာရောမင်းနှင့် ၎င်း၏မှုးမတ်အရာရှိ တို့ထံ စေလွှတ်တော်မူ၏၊ တမန်တော်က ၎င်းတို့အား ဟယ်-အချင်းတို့၊ ငါသည် အနန္တစကြာဝဠာအပေါင်း တို့၏ အရှင်သခင်၏ တမန်တော်ဖြစ်သည်ဟု ဟောကြား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် စင်စစ်ဧကန် ငါအရှင်မြတ်သည် မူစာအား မိမိသက်သေလက္ခဏာ တန်ခိုးပြာဋိဟာများနှင့် တကွ"ဖစ်ရ်အောင်န်" ၏ထံသို့လည်းကောင်း၊ "ဖစ်ရ်အောင်န်"၏မှူးမတ်ထံသို့လည်းကောင်း၊ စေလွှတ်တော်မူခဲ့ရာ ထိုမူစာက("ဖစ်ရ်အောင်န်"နှင့်တကွ၎င်း၏ မှူးမတ်တို့အား) ငါသည် စကြဝဠာ ခပ်သိမ်းတို့ကို ဖန်ဆင်းမွေးမြူသောအရှင်မြတ်၏ ရစူလ်တမန်တော် ဖြစ်သည်ဟု ပြောကြားခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

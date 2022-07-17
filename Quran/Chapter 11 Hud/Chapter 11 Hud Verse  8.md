@@ -710,6 +710,12 @@ A ako zabavim za tyakh mŭchenieto do opredeleno vreme, nepremenno shte rekat: �
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	အကယ်၍ ငါအရှင်မြတ်သည် သူတို့အတွက် အပြစ်ဒဏ်တော်ကို ချိန်းချက်ထားတော်မူသည့်အချိန်တိုင်အောင် ဆိုင်းငံ့ထားတော်မူလျှင် သူတို့က အပြစ်ဒဏ်ကို အဘယ်သူဆွဲထားသနည်းဟု အမှန်မေးကြလိမ့်မည်။ အကယ် စင်စစ်မှာ သူတို့ထံ ထိုအပြစ်ဒဏ်ဆိုက်ရောက်လာသောနေ့တော်ကြီး၌ သူတို့သည် အပြစ်ဒဏ်ကို သူတို့ထံမှ လွဲသွားအောင် မပြုနိုင်ချေ။ သူတို့ပြောင်လှောင်ခဲ့သောအပြစ်ဒဏ်တော်သည် သူတို့အား ဝိုင်းထားလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အကယ်၍ ငါအရှင်မြတ်သည် ပြစ်ဒဏ်ကို ၎င်းတို့အပေါ်မှ ရေတွက်(သတ်မှတ်) ထားပြီးဖြစ်သောအချိန်ကာလတိုင်အောင် ရွှေ့ဆိုင်း၍ထားတော်မူခဲ့ပါလျှင် ၎င်းတို့သည် ထိုပြစ်ဒဏ်ကို မည်သည့်အရာက ချုပ်၍ထားဘိသနည်းဟူ၍ မုချပြောဆိုကြလေသည်။ သတိပြုကြလေကုန်၊ထိုပြစ်ဒဏ် သည် ၎င်းတို့ထံ ရောက်ရှိလာမည့်နေ့တွင် ၎င်းတို့အပေါ်မှ လွှဲဖယ်သွားမည်မဟုတ်ပေ။ ထို့ပြင် ၎င်းတို့ ပြက်ချော်ပြောင်လှောင်လျက် ရှိကြကုန်သော ပြစ်ဒဏ်သည် ၎င်းတို့အားဝိုင်းဝန်း၍ ထားရှိပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

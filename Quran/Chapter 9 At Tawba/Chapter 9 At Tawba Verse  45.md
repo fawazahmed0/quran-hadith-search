@@ -710,6 +710,12 @@ A te molyat za razreshenie samo onezi, koito ne vyarvat v Allakh i v Setniya den
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	အကြင်သူတို့သည် အလ္လာဟ်အရှင်မြတ်နှင့် နောက်ဆုံးနေ့တော်ကြီးကို မယုံကြည်ကြ၊ သူတို့၏ စိတ်နှလုံးများ ယုံမှားသံသယဖြစ်ကြ၏။ထိုသူတို့သာ ကျန်ရစ်ခွင့်တောင်းကြ၏။ထို့ကြောင့်သူတို့သည် သူတို့၏ သံသယ၌ယိမ်းယိုင်လွင့်ပါးနေကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတို့သည်သာလျှင် အသင့်ထံခွင့်ပန်ကြကုန်၏။ ထိုသူတို့သည် အလ္လာဟ်အရှင်မြတ်ကို လည်းကောင်း၊နောက်ဆုံးနေ့ကိုလည်းကောင်း၊ မယုံကြည်ကြသည့်ပြင် ၎င်းတို့၏စိတ်နှလုံးများသည်လည်း (အစ္စလာမ်နှင့်စပ်လျဉ်း၍) ဒွိဟသံသယ၌ပင် တစ်ဝဲလည်လည် ရှိကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

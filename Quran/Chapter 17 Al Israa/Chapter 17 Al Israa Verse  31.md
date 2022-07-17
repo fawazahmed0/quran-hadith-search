@@ -710,6 +710,12 @@ I ne ubivaĭte detsata si poradi strakh ot bednost! Nie khranim i tyakh, i vas.
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	သင်တို့သည် ဆင်းရဲဒုက္ခရောက်မည်ဟု စိုးရိမ်ကြောင့်ကျသောကြောင့် သားငယ်သမီးငယ်တို့ကို မသတ်ဖြတ် ကြလင့်၊ ငါသည် သင်တို့နှင့်သင်တို့၏ သားသမီးတို့ကို ရိက္ခာပေးသနားတော်မူမည်။ မှတ်သားကြလော့။ ယင်းသို့သတ်ဖြတ်ခြင်းသည် ကြီးမားသောအပြစ်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်တို့သည် စီးပွားရေးကျပ်တည်းမှုကို စိုးရိမ်သောကြောင့် မိမိတို့၏သားသမီးများအား မသတ်ဖြတ်ကြကုန်လင့်။ (စင်စစ်) ငါအရှင်မြတ်သည် ပင်လျှင်ယင်းတို့အားလည်းကောင်း၊ အသင်တို့အား လည်းကောင်း၊စားနပ်ရိက္ခာ ချီးမြှင့်ပေးသနားတော် မူပေသည်။ ဧကန်မလွဲ၎င်းတို့အား သတ်ဖြတ်ခြင်းကား အလွန်ကြီးလေးသော ပြစ်မှုပင် ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

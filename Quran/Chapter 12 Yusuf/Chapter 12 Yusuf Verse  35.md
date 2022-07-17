@@ -710,6 +710,12 @@ Posle [na mŭzhete] im khrumna da go zatvoryat za izvestno vreme, vŭpreki che v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	တမန်တော်ယူစွတ်(ဖ်)၏ အပြစ်ကင်းမဲ့သည့်အချက်များကို သိရပြီးသောအခါ ယောက်ျားတို့က ဤသူကို ထောင်ထဲတွင် အချိန်အတော်အတန်ထည့်ထားလျှင် ကောင်းမည်ဟု အကြံရကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက်တစ်ဖန်၎င်းတို့သည်(အပြစ်တစ်စုံတစ်ရာမရှိကြောင်း)သက်သေခံအထောက်အထားများကိုတွေ့မြင်ကြပြီးနောက် ၎င်းတို့၌ထိုယူဆွဖ်အားကာလအနည်းငယ်မျှအကျဉ်းချထားရန် သင့်တော်၏သည်ဟု အတွေးပေါ်လာခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

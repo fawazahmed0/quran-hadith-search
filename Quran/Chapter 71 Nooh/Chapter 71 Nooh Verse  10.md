@@ -710,6 +710,12 @@ I kazvakh: “Molete vashiya Gospod za oproshtenie - Toĭ e mnogooproshtavasht
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၀။ ထိုသူတို့ကို အကျွနု်ပ်ဟောဆိုဆုံးမသည်မှာ အို-အချင်းတို့၊ သင်တို့သည် မိမိတို့အရှင်သခင်ထံ အပြစ်လွှတ်ဆုတောင်းကြလော့၊ မှတ်သားလော့၊ အရှင်မြတ်သည် အဖန်တလဲလဲအပြစ်လွှတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုကဲ့သို့ ဖိတ်ခေါ်ရာတွင် (၎င်းတို့အား ဤသို့)ပြောကြားခဲ့ပါ၏။ (အချင်းတို့) အသင်တို့သည် မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ အထံတော်၌ လွတ်ငြိမ်းချမ်းသာခွင့်ကို ပန်ကြား အသနားခံကြလေကုန်။မလွဲဧကန် ထိုအရှင်မြတ်သည် အလွန်တရာ ခွင့်လွှတ်ချမ်းသာ ပေးသနားတော်မူသောအရှင် ဖြစ်တော် မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

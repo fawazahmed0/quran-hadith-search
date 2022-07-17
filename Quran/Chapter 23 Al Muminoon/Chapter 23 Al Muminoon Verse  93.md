@@ -710,6 +710,12 @@ Kazhi [o, Mukhammad]: “Gospodi moĭ, ako mi pokazhesh onova, koeto im e obesh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၃။	အို--အကျွန်ုပ်၏ အသက်သခင်ကျေးဇူးရှင်၊ အကယ်၍အရှင်သည် မိစ္ဆာယုတ်တို့အား ပေးတော်မူမည်ဟု ကတိထားတော်မူသောအပြစ်ဒဏ်ကို အကျွနု်ပ်အား ပြသတော်မူပါလျှင်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (ဤသို့) လျှောက်ထားပါလေ။ အို-ကျွန်တော်မျိုး၏အရှင်မြတ်၊ အကယ်၍ အရှင်မြတ်သည် ထို(ကာဖိရ်သွေဖည် ငြင်းပယ်သော)သူတို့ ချိန်းချက်ခြင်းခံကြရကုန်သော (ပြစ်ဒဏ်)ကို ကျွန်တော်မျိုးအား ပြသတော်မူလျှင်၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

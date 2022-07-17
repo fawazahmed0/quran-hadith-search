@@ -710,6 +710,12 @@ Znae Toĭ kakvo e bilo predi tyakh i kakvo shte bŭde sled tyakh. A te ne obkhv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁ဝ။	အလ္လာဟ်အရှင်မြတ်သည် လူသားတို့၏အတိတ်၊ အနာဂတ်အလုံးစုံကို သိတော်မူ၏၊ သူတို့သည် ၎င်းကိုမသိ နိုင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် ၎င်းတို့၏ရှေ့နောက် အဖြစ်အပျက်(အကြောင်းကိစ္စ)အလုံးစုံတို့ကို (အကြွင်းမဲ့)သိရှိတော်မူ၏။ သို့ရာတွင် ၎င်းတို့မူကား ထိုအရှင်မြတ် (သိတော်မူသောယင်းအကြောင်းကိစ္စများ)ကို (မိမိတို့၏) အသိပညာဖြင့် ဝန်းခြုံ(၍သိ)နိုင်ကြသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Onezi, koito vyarvat v Allakh i v Setniya den, ne te molyat za razreshenie da se
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	အလ္လာဟ်အရှင်မြတ်နှင့် နောက်ဆုံးနေ့တော်ကြီးကို ယုံကြည်သူတို့သည် မိမိတို့အသက်စည်းစိမ်တို့အားဖြင့် အလ္လာဟ်အရှင်မြတ်လမ်းတော်ဝယ် ကြိုးစားအားထုတ်ခွင့်ကို လက်မလွှတ်လိုကြပေ။သင့်ထံ၌ ကျန်ရစ်ခွင့်ကို မတောင်းကြပေ။အလ္လာဟ်အရှင်မြတ်သည် မိမိအမှုတော်ကို ကျေကုန်သူတို့ကို ကောင်းစွာသိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်နှင့် နောက်ဆုံးနေ့ကို သက်ဝင်ယုံကြည်သောသူတို့ကား၊ မိမိတို့၏ဥစ္စာ ပစ္စည်းများဖြင့်လည်းကောင်း၊ မိမိတို့၏ အသက်ဇီဝိန်များဖြင့်လည်းကောင်း၊စစ်မက်ပြိုင်ဆိုင် တိုက်ခိုက်ခြင်းမှထိုင်နေကြရန် (မည်သည့်အခါ၌မျှ) အသင့်ထံ ခွင့်ပန်ကြမည်မဟုတ်ပေ။ စင်စစ်သော်ကားအလ္လာဟ်အရှင်မြတ်သည် ပြစ်မှုဒုစရိုက်များမှ ကြဉ်ရှောင်ကြကုန်သောသူတော်စင်တို့အား ကောင်းစွာ သိရှိတော်မူသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

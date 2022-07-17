@@ -710,6 +710,12 @@ A koito nabedyat svoite sŭprugi i nyamat svideteli, osven samite sebe si, vseki
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	မိမိတို့ဇနီးမိန်းမတို့ကို ကာမခိုးမှုနှင့်စွပ်စွဲသူတို့သည် မိမိတို့မှတပါး အခြားသက်သေမပြနိုင်လျှင်၊ ထိုသူတို့အား တစ်ဦးစီကို အလ္လာဟ်အား တိုင်တည်၍ သူသည် အမှန်စကားကို ဆိုသူများမှ ဖြစ်သည်ဟု ကျမ်းလေးကြိမ် လေးဖန်ကျိန်ဆိုစေကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် မိမိတို့၏ဇနီးကြင်ရာများအား (ကာမေသုမိစ္ဆာစာရမှုကျူးလွန်ပါသည်ဟု) စွပ်စွဲသောသူတို့သည် ၎င်းတို့၌ မိမိတို့အပြင် သက်သေများမရှိကြလျှင် ထိုစွပ်စွဲသူတို့အနက် တစ်ဦးသည် အလ္လာဟ်အရှင်မြတ်အား တိုင်တည်၍ မိမိသည် သစ္စာဝါဒီဖြစ်ကြောင်း လေးကြိမ်တိုင်တိုင် သက်သေထွက်ဆိုရမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

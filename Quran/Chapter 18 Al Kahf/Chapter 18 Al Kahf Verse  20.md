@@ -710,6 +710,12 @@ Ako se natŭknat na vas, shte vi prebiyat s kamŭni ili shte vi vŭrnat kŭm tya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၀။ အကြောင်းမူကား သူတို့သည် အသင်တို့ အကြောင်းကိုသိလျှင် ၊ သူတို့သည် သင်တို့ကို ခဲနှင့်ပစ်ခတ်ကြမည်၊ သို့မဟုတ် သင်တို့အား ၄င်းတို့၏ ဘာသာအယူဝါဒအတွင်း သို့ ပြန်သွတ်သွင်းကြမည်၊ ထိုအခါ သင်တို့သည် မည်သည့်အခါမှ ကြီးပွားကြမည် မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အဘယ်ကြောင့်ဆိုသော် အကယ်၍ ၎င်းတို့သည် အသင်တို့နှင့်ပတ်သက်၍ သိသွားခဲ့ကြပါလျှင် ထိုသူတို့သည် အသင်တို့အား ခဲဖြင့်ပစ်ပေါက်၍ သတ်ခြင်းကိုသော်လည်းကောင်း၊ မိမိတို့၏ဘာသာ၊ သာသနာတွင်းသို့ ပြန်လည်သိမ်းသွင်းခြင်းကိုသော် လည်းကောင်း၊ ပြုလုပ်ကြမည်ဖြစ်သောကြောင့်ပင်၊ စင်စစ်သော်ကား (အကယ်၍သာ ထိုကဲ့သို့ ဖြစ်ခဲ့ရပါလျှင်) အသင်တို့သည် မည်သည့်အခါမျှပင် အောင်မြင်ကြမည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

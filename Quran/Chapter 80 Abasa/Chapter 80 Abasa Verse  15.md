@@ -710,6 +710,12 @@ u rukama izaslanika
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၊၁၄၊၁၅၊၁၆။ ဤကျမ်းတော်မြတ်ကို မြင့်မြတ်ဖြူစင်ခန့်ညားသောပေရွက်များပေါ်၌ ဂုဏ်ကျက်သရေရှိ၍ တရားခင်မင် သောစာရေးသူတို့ ရေးမှတ်ထားသောကျမ်းမြတ်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ယင်းအရွက်များသည်) ရေးသားကြသော ကောင်းကင်တမန်တို့၏ လက်တွင်း၌ရှိ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

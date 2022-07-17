@@ -710,6 +710,12 @@ Idi pri Faraona! Toĭ naistina prestŭpi.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	သင်သည် ဖာရောမင်းထံသို့ သွားလော့၊ မှတ်သားလော့၊ သူသည် တရားကျူးလွန်သူဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ယခုသော်) အသင်သည် ဖိရ်အောင်(န်)ထံ သို့သွားလေ။ ဧကန်မလွဲ ယင်းဖစ်ရ်အောင်န်ကား သွေဖည်ရာတွင်လွန်ကျူးနေချေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

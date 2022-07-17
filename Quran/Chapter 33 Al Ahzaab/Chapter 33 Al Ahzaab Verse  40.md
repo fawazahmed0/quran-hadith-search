@@ -710,6 +710,12 @@ Mukhammad ne e bashta na nikogo ot vashite mŭzhe, a e Pratenika na Allakh i pos
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄ဝ။	တမန်တော်မိုဟမ္မဒ်သည် သင်တို့အနက် တစ်စုံတစ်ယောက်သောသူ၏ အဘမဟုတ်ချေ၊ အလ္လာဟ်အရှင်မြတ် ၏ တမန်တော်ဖြစ်၏၊ အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မုဟမ္မဒ်သည် အသင်တို့ ယောက်ျားများအနက် မည်သူတစ်ဦးတစ်ယောက်၏ဖခင်မျှမဟုတ်ပေ။ စင်စစ်မှာမူကား (မုဟမ္မဒ်သည်) အလ္လာဟ်အရှင်မြတ်၏ ရစူလ်တမန်တော်သည်လည်းကောင်း၊ နဗီတမန်တော် အပေါင်းတို့(၏နုဗုဝသ်)ကို အဆုံးသတ်သူသည်လည်းကောင်း၊ ဖြစ်ပေသည်။အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကိုအကြွင်းမဲ့ သိတော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

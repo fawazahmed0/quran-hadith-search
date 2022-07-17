@@ -710,6 +710,12 @@ Rekokha: “O, Salikh, predi tova ti vŭzlagakhme nadezhdi. Nima ni zabranyavash
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	သူတို့က အို-ဆွာလေ(ဟ်)၊ ယခုအချိန်အထိ သင်သည် အကျွနု်ပ်တို့အားထားမျှောကိုးသူအဖြစ်ဖြင့် အကျွနု်ပ်တို့ အထဲမှာ နေခဲ့၏။ သင်သည် ငါတို့အား မိမိတို့မိဘ၊ဘိုးဘွားတို့ကိုးကွယ်သည်များကို မရှိခိုးမပူဇော်ရဟု ဟောကြားသလော၊ မှတ်သားလော့၊ ငါတို့သည် အကြင်တရားသို့ သင်သည် ငါတို့ကို ခေါ်၏။ ထိုတရားနှင့် ပတ်သက်၍ ငါတို့သည် ကြီးစွာသံသယအမှန်ပင်ရှိကြ၏ဟု ပြန်ပြောကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်း(ဆမူဒ်အမျိုးသား)တို့က(ဤသို့) ပြောဆိုခဲ့ကြလေသည်။ အို- ဆွာလိဟ် ယခင်ကမူ ဧကန်အမှန် အသင်သည် ကျွန်ုပ်တို့တွင် မျှော်လင့်ချက် ထားရှိခြင်းခံရသူ(တစ်ဦး)ဖြစ်ခဲ့လေသည်။ (ယခုသော်ကား) အသင်သည် ကျွန်ုပ်တို့၏အဖ၊ ဘိုး၊ ဘေးများ၊ ကိုးကွယ်ဆည်းကပ်ကြကုန်သောဘုရားများကို ဆည်းကပ်ကိုးကွယ် ခဝပ်ခြင်းမပြုကြရန် ကျွန်ုပ်တို့အားတားမြစ်လေသလော။ စင်စစ်သော်ကား ဧကန်မလွဲ ကျွန်ုပ်တို့သည်အသင် ကျွန်ုပ်တို့အား(ယုံကြည်လိုက်နာရန် ဖိတ်ခေါ်လျက်ရှိသော တရားဓမ္မနှင့်စပ်လျဉ်း၍ ယုံမှားသံသယ ဖြစ်စေသောဒွိဟသံသယ၌ ရှိနေကြပေသတည်း။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

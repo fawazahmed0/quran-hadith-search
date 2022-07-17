@@ -710,6 +710,12 @@ Nito edno selishte, koeto pogubikhme predi tyakh, ne povyarva, che te li shte po
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	သူတို့မဖြစ်ပေါ်မီ ဖြစ်ပေါ်လာသောသူဟောင်းတို့သည် လက္ခဏာအ့ံဖွယ်တော်များကို မြင်ရကြသော်လည်း မယုံကြည်ငြင်းဆန်ကြလေ၏။ ထို့ကြောင့်ငါအရှင်မြတ်သည် သူတို့နှင့်တကွ သူတို့နေထိုင်ရာမြို့ရွာ၊ နယ်ပယ်ကို ဖျက်ဆီးတော်မူခဲ့ပြီး သူတို့သည် ယုံကြည်ကြမည်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့အလျင် ငါအရှင်မြတ် ပျက်စီးစေတော်မူခဲ့သောမည်သည့်မြို့ရွာ(မှမြို့သူရွာသားများ)မျှပင် (တန်ခိုးများကို တွေ့မြင်ကြပါလျှက်နှင့်ပင်)သက်ဝင် ယုံကြည်ခဲ့ကြသည်မဟုတ်ပေ။ သို့ဖြစ်ပေရာ ဤသူတို့သည် သက်ဝင်ယုံကြည်ကြဦးမည်လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

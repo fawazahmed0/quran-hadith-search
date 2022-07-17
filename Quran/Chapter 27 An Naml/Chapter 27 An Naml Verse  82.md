@@ -710,6 +710,12 @@ I kogato se sbŭdne za tyakh slovoto, shte im izvadim Nie ot zemyata edno zhivot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၂။	ငါသည် မိစ္ဆာမိုက်တို့အပေါ်တွင် ထားတော်မူသောကတိဗျာဒိတ်တော်ကို အကောင်အထည်ဖော်တော်မူသောအခါ ငါသည် သူတို့အား စကားစမြည်ပြောဆိုဖို့ရာ မြေမှ ခြေလေးချောင်းတိရိစ္ဆာန်တစ်ကောင်ကို ထွက်စေတော်မူမည်၊ အကြောင်းမူကားလူသားတို့သည် ငါ၏နှုတ်ကပတ်တော်များကို မယုံကြည်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ချိန်းဆိုချက်သည် ၎င်းတို့အပေါ်၌ ကြုံကြိုက်လာသောအခါ ငါအရှင်မြတ်သည် ၎င်းတို့အဖို့ မြေကြီးမှ အကြင်တိရစ္ဆာန်ကို ထွက်စေတော်မူမည်။ ထိုတိရစ္ဆာန်သည် ၎င်းတို့နှင့် စကားပြောဆိုမည်ဖြစ်သည်။ အဘယ်ကြောင့်ဆိုသော် လူတို့သည် ငါအရှင်မြတ်၏ သက်သေလက္ခဏာများကို မယုံကြည်ခဲ့ကြသောကြောင့်ပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Smyatat, che teb oblagodetelstvat, priemaĭki Islyama. Kazhi [o, Mukhammad]: �
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	အို-တမန်တော်၊ သူတို့သည် အရှင်မြတ်အား ကျိုးနွံနာခံပါသည်ဟု ဆိုခြင်းအားဖြင့် သင့်ကို ကျေးဇူးပြုသည်ဟုု ယူဆကြ၏၊ သင်ဟောပြောလော့၊ အချင်းတို့၊ သင်တို့သည် မိမိတို့၏ ယုံကြည်ခြင်းဖြင့် ငါ့ကို ကျေးဇူးပြုသည်ဟု ထင်မှတ်ကြသလော၊ ယင်းသို့မဟုတ်ချေ၊ သို့သော်သင်တို့သည် စိတ်အားထက်သန်လျှင် အရှင်မြတ်သည် သင်တို့ကို ယုံကြည်ခြင်းတရားသို့ ညွှန်ပြခြင်းအားဖြင့် သင်တို့အား ကောင်းကြီးမင်္ဂလာပေးတော်မူပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်)၊ ၎င်းတို့သည် (အမိန့်ကို)နာခံခဲ့ကြကြောင်း အသင့်ရှေ့ဝယ် ဂုဏ်ဖော်၍နေကြကုန်၏။အသင်သည် ပြောကြားပါလေ။ (အချင်းတို့၊) အသင်တို့သည် ငါ၏ရှေ့ဝယ် မိမိတို့ အမိန့်နာခံမှုကို ဂုဏ်ဖော်ခြင်း မပြုကြကုန်လင့်။ စင်စစ်မှာမူကား အကယ်၍ အသင်တို့သည် သစ္စာဝါဒီများဖြစ်ကြလျှင် အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့အား အီမာန် သက်ဝင်ယုံကြည်နိုင်ရန် တရားလမ်းကို ပြသတော်မူခဲ့သောကြောင့် ထိုအရှင်မြတ်ကသာလျှင် အသင်တို့အပေါ်ကျေးဇူးပြုထားတော်မူခြင်း ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

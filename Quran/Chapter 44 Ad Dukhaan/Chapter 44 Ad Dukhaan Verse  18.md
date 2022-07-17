@@ -710,6 +710,12 @@ Izručite mi robove Allahove. Uistinu! Ja sam vam poslanik pouzdani
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	ထိုတမန်တော်က သူတို့အား ဟယ်-အချင်းတို့၊ အလ္လာဟ်အရှင်မြတ်၏ ကျေးကျွန်များကို ငါ့အား ပြန်အပ် ကြလော့၊ ငါသည် သင့်တို့အဖို့အရာ သစ္စာရှိသောတမန်တော်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ ကျွန်တို့ကို ငါ့အား အပ်ကြလေကုန်၊ စင်စစ်ဧကန် ငါသည် အသင်တို့အဖို့ ယုံကြည်စိတ်ချအပ်သော ရစူလ်တမန်တော်တစ်ပါးပင်ဖြစ်သည်(ဟူ၍လည်းကောင်း)၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

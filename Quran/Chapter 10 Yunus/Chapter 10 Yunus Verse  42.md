@@ -710,6 +710,12 @@ Nyakoi ot tyakh se vslushvat v teb, ala nima ti shte nakarash glukhite da chuyat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	သူတို့အနက် အချို့သောသူတို့သည် သင့်အား ကြားနာကြ၏။ သို့သော်သူတို့သည် နားမလည်နိုင်သော်လည်း သင်သည် နားပင်းသူတို့ကို ကြားအောင် ပြုနိုင်စွမ်းသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်း တို့တွင်(အမြင်အားဖြင့်) အသင့်ဘက်သို့ နားစွင့်နေကြသူများလည်း ရှိကြကုန်၏။ သို့ဖြစ်ပေရာအသင်သည် နားပင်းနေသော သူတို့အား (၎င်း တို့သည်အသိဉာဏ်ကိုအသုံးမပြုဘဲ ရှိနေကြပါလျက်) ကြားအောင်ပြုနိုင်ပါသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

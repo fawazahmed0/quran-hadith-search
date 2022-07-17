@@ -710,6 +710,12 @@ osven za tekhnite sŭprugi ili za vladenite ot tekhnite desnitsi. Te ne shte bŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၀။ ထိုသူတို့သည် မိမိတို့လက်ထပ်မယား၊ အမြှောင်မယားတို့နှင့်သာ မွေ့လျော်ကြသည်၊ ထို့ကြောင့်သူတို့ကိုအပြစ်မတင်ထိုက်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မိမိတို့၏ ဇနီးမိန်းမများမှတစ်ပါး၊ သို့တည်းမဟုတ် မိမိတို့၏လက်ယာလက်များက ပိုင်ဆိုင်သော (တရားဝင်) ကျွန်မိန်းမများမှတစ်ပါး၊ အကြောင်း သော်ကား (မိမိတို့၏ ဇနီးမိန်းမများနှင့် သော်လည်းကောင်း၊ တရားဝင်ကျွန်မိန်းမများနှင့် သော်လည်းကောင်း၊ ကာယသံသဂ္ဂ ပြုခြင်းအားဖြင့်) ၎င်းတို့မှာ ကဲ့ရဲ့ပြစ်တင်ခြင်း ခံထိုက်သောသူများ မဟုတ်သောကြောင့်ပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

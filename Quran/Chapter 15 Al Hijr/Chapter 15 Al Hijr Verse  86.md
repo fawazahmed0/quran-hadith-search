@@ -710,6 +710,12 @@ Tvoyat Gospod e Vsetvoryashtiya, Vseznaeshtiya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၆။	မှတ်သားလော့၊ သင်၏ ကျေးဇူးတော်သခင်သည် သဗ္ဗညုတဉာာဏ်တော်အရှင်၊ ဖန်ဆင်းတော်မူသောအရှင် ဖြစ်တော်မူသောအရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မလွဲဧကန် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည်၊ ထိုအရှင်မြတ်သည်ပင်လျှင် အရာခပ်သိမ်းတို့ကို ဖန်ဆင်းတော်မူသောအရှင်၊ အရာခပ်သိမ်းတို့ကိုအကြွင်းမဲ့ သိတော်မူသောအရှင်၊ ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

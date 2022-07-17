@@ -710,6 +710,12 @@ Te shte obikalyat mezhdu nego i vryashta, kipyashta voda
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	ထိုအခါငရဲသားတို့သည် ငရဲနှင့်ပြင်းထန်စွာပွက်ပွက်ဆူထလျက်ရှိသောရေပူအလယ်ကြားတွင် လှည့်ပတ်ပြေးလွှား ၍ တဝဲလည်လည်ရှိနေကြလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအပြစ်ရှိသူတို့ကား ယင်း’ဂျဟန္နမ်’ငရဲနှင့် ပွက်ပွက်ဆူလျက်ရှိသော ရေနွေးပူ၏အကြား၌ လှည့်ပတ်လျက် နေကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

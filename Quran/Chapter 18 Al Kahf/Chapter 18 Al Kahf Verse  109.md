@@ -710,6 +710,12 @@ Kazhi [o, Mukhammad]: “Dori moreto da e ot mastilo za [da se zapisvat] Slovata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၀၉။	အို-တမန်တော်၊ ဟောကြားလော့။ ဟယ်-အချင်းတို့၊ အကျွနု်ပ်၏ ကျေးဇူးတော်သခင်၏ စကားတော်များကို ရေးသားရန် သမုဒ္ဒရာပင်လယ်ရေသည် အကယ်၍ မှင်ဖြစ်လာအ့ံ၊ ထိုစကားတော်များကို ရေးသား၍ အဆုံး မသတ်မီ ထိုသမုဒ္ဒရာရေသည် မုချဧကန်ခန်းခြောက်ရာ၏။ ၎င်းကဲ့သို့အခြားသမုဒ္ဒရာရေရှိသော်လည်း ထိုရေသည် လုံလောက်မည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-(နဗီတမန်တော်) အသင်သည် (4င်းတို့အားဤသို့) ပြောကြားပါလေ။ (အချင်းတို့) အကယ်၍ ငါ့အားဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ မုက္ခပါဌ်တော်များ(ကိုရေးသားရန်)အလို့ငှာ သမုဒ္ဒရာပင်လယ်(အားလုံးတို့) သည်ပင် မင်ရည်များဖြစ်ခဲ့ငြားအံ့။ ၎င်းပြင် အကယ်၍ ငါတို့သည်ယင်းပင်လယ်များကဲ့သို့ (အခြားပင်လယ်များ)ကိုပင် အကူအညီအဖြစ်(ထပ်မံ၍)ယူခဲ့အံ့ငြားသော်လည်း ငါ့အားဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၏ မုက္ခပါဌ်တော်များကား ရေးသားကုန် ဆုံးခြင်းမရှိဘဲ၊ (ထိုထိုသော)သမုဒ္ဒရာ ပင်လယ်ရေများသည်သာလျှင် ကုန်ခန်း၍ သွားအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

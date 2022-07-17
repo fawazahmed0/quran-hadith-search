@@ -710,6 +710,12 @@ I nikoga ne ot·sluzhvaĭ molitva za tekhen pokoĭnik, i ne stoĭ na groba mu
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၄။	အို-တမန်တော်မိုဟမ္မဒ်၊ သင်သည် သူတို့အနက် သေသူအတွက် ဆုမတောင်းလင့်။ထိုသူ၏ သချုႋင်း၌လည်း ဆွလတ်ဝတ်မပြုလင့်။မှတ်သားလော့။သူတို့သည် အလ္လာဟ်အရှင်မြတ်နှင့် အရှင်မြတ်၏ တမန်တော်ကို မယုံကြည်ကြပေ။သူတို့သည် မကောင်းမှုကို ပြုနေစဉ် ကံကုန်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 င်းပြင် (နဗီတမန်တော်)အသင်သည် 4င်းတို့အနက် မည်သူတစ်ဦးတစ်ယောက်မဆို သေဆုံးခဲ့ပါလျှင် ထိုသူ၏အပေါ်၌ ဆွလာသွလ်ဂျနာဇဟ် ဝတ်ပြုမှုကို မည်သည့်အခါမျှမပြုပါလေနှင့်။ 4င်းပြင် ထိုသူ၏သချႋုင်းပေါ်၌လည်း မည်သည့်အခါမျှ မရပ်ပါလေနှင့်။ အကြောင်းသော်ကား၊ ယင်းသူတို့သည် အလ္လာဟ်အရှင်မြတ်အားလည်းကောင်း၊ ထိုအရှင်မြတ်၏ရစူလ်တမန်တော်မြတ်အားလည်းကောင်း၊ သွေဖည်ငြင်းပယ်ခဲ့ကြသည့်ပြင် ယင်းသူတို့သည် အမိန့်တော်ကို ဖီဆန်သူများအဖြစ်နှင့်ပင် သေဆုံးခဲ့ကြသော ကြောင့်ပင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

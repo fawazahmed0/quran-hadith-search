@@ -710,6 +710,12 @@ Reche [Allakh]: “Kakvo ti poprechi da se poklonish, kogato ti povelikh?” Rec
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	အသျှင်မြတ်က အို-အီဗလစ် သင်သည် ငါ၏အမိန့်တော်အတိုင်း အဘယ်ကြောင့် ဦးမညွတ်သနည်း ဟု မိန့်တော်မူ၏။ အီဗလစ်က အို-အသျှင် အကျွနု်ပ်သည် သူ့ထက် သာလွန်မြင့်မြတ်ပါ၏။ အသျှင် သည် အကျွနု်ပ်ကို မီးမှဖန်ဆင်းတော်မူပါ၏။ သူတို့အား ရွံ့မြေမှ ဖန်ဆင်းတော်မူပါ၏ဟု တင်လျှောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) အရှင်မြတ်က (ဟယ်-အစ်ဗ်လီးစ်)ငါအရှင်မြတ်သည် အသင့်အား အမိန့်ပေးတော်မူခဲ့သည့် အခါမည်သည့်အရာက အသင့်ကို ဦးမချရန် တားမြစ်ခဲ့ သနည်းဟု မေးမြန်းတော်မူခဲ့၏။ (ထိုအခါ) ယင်း အစ်ဗ် လီးစ်က(အို-အရှင်) ကျွန်တော်မျိုးသည် ထို(အာဒမ်)ထက် မြင့်မြတ်ပါသည်။ အရှင်မြတ်သည် ကျွန်တော်မျိုးအား၊ မီးဖြင့်ဖန်ဆင်းတော်မူ၍၊ ၎င်းကိုမူကား ရွှံ့မြေဖြင့်ဖန်ဆင်း တော်မူပါသည် ဟု လျှောက်ထားခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

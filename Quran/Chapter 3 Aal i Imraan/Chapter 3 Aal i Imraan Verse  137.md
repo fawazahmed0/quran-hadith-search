@@ -710,6 +710,12 @@ Veche minakha predi vas drugi sŭbitiya. Vŭrvete po zemyata i vizhte kakŭv e k
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၇။	သင်တို့မဖြစ်မီ အယူဝါဒအဖုံဖုံ၊ လူအမျိုးမျိုးပေါ်လာ ပျောက်ကွယ်သွားကြပြီ။ ကမ္ဘာမြေပေါ်ဝယ် အနှံ့အပြားသွားလာ၍ မိမိတို့တမန်တော်များကို မယုံကြည်၊ ငြင်းပယ်သူတို့သည် အဘယ် အကျိုးဆက်ကို ခံစားရလေသည်ကို စုံစမ်းကြည့်ရှုကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်ဆတ်ဆတ် အသင်တို့အလျင် အမျိုးမျိုးသော (အယူဝါဒ) ထုံးတမ်းဓလေ့များကို (လိုက်စားသူများ)လွန်လေခဲ့ကြချေပြီ။ သို့ဖြစ်ရာ အသင်တို့သည် မ္ဘာမြေပြင်ဝယ် သွားလာလှည့်ပတ်၍ (အလ္လာဟ်အရှင်မြတ်၏ ဒေသနာတော်ကို) မဟုတ်မမှန် မုသားဟု ပြောဆိုငြင်းပယ်ကြသောသူတို့၏ နောက်ဆုံးအဖြစ်အပျက်သည် မည်သို့ ဖြစ်ခဲ့သည်ကို၊ကြည့်ရှုဆင်ခြင်ကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

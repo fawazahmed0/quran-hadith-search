@@ -710,6 +710,12 @@ I go nauchikhme da izrabotva dospekhi za vas, da vi pazyat v bitka. Ne shte li b
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈ဝ။	တဖန်ငါသည် သင်တို့စစ်မက်ယှဉ်ပြိုင်တိုက်ခိုက်ရာ၌ သင်တို့ကို ကာကွယ်ဖို့ရာ သံချပ်အကျႌလုပ်သောအတတ်ကို တမန်တော်ဒါဝတ်(ဒ်)အား သွန်သင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ငါအရှင်မြတ်သည် ထိုဒါဝူဒ်အားအသင်တို့အကျိုးငှာ သံချပ်အင်္ကျီပြုလုပ်သောအတတ်ပညာကို သင်ပေးတော်မူခဲ့၏။ သို့မှသာလျှင် ယင်းသံချပ်အင်္ကျီသည် အသင်တို့အား အသင်တို့စစ်တိုက်ခိုက်ရာတွင် ကာကွယ်နိုင်မည်ဖြစ်ပေသည်။ သို့ဖြစ်ပေရာ အသင်တို့သည် ကျေးဇူးတော်ကိုသိတတ်သူများ ဖြစ်ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

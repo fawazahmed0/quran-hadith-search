@@ -710,6 +710,12 @@ i storikhme da bliknat izvori ot zemyata, i vodite se sreshtnakha za predopredel
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	ထို့အပြင် ငါသည် မြေကြီးမှ စမ်းရေများစီးထွက်လာစေတော်မူ၏၊ ထိုအခါရေအပေါင်းတို့သည် ငါပြဌာန်းတော်မူ သည့်ကိစ္စအတွက် စုပေါင်းတွေ့ဆုံကြလေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ငါအရှင်မြတ်သည် ပထဝီမြေမှ စမ်းများကို ပန်း၍ထွက်စေတော်မူခဲ့ရာ (ထက်အောက်) ရေသည် တင်ရင်စီမံထားသော အရေးကိစ္စ (ပြည့်ဝစေရန်) ရောစပ်၍ သွားခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A [nevernitsite] kazvat: “Toĭ ya e izmislil!” Ne, tya e istinata ot tvoya 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	သို့မဟုတ်ဤမိစ္ဆာဒိဋ္ဌိတို့က ဤကျမ်းသည် ရှင်မိုဟမ္မဒ်၏ လက်ဖြစ်ကျမ်းသာဖြစ်၏ဟု ဆိုကြသလော၊ ဤစကား အလျင်းမမှန်ချေ၊ သို့သော်ကျမ်းမြတ်ကုရ်အာန်သည် သင်၏အသက်သခင်ကျေးဇူးရှင်၏ အထံမှ သစ္စာတရား တော်ဖြစ်၏၊ သင်မပွင့်မီရှေးကာလက တရားဟောပြောသတိပေးသူတမန်တော်ဟူ၍ မလာမရောက်ဖူးသော လူစုလူမျိုးတို့အား သင်သည် တရားသွန်သင်ဆုံးမသတိပေးဖို့ရာအတွက်ဖြစ်၏၊ သို့မှသာလျှင် သူတို့သည် လမ်းမှန်ကို သွားကောင်းသွားလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့က တမန်တော်မြတ်သည် ဤကျမ်းတော်မြတ်ကို ကြံစည်၊ ဖန်တီး(စီကုံးရေးသား)ခဲ့သည်ဟု ဆိုကြလေသလော။ ထိုသို့ အလျှင်းမဟုတ် စင်စစ်မှာကား ယင်းကျမ်းဂန်သည် အသင့်အလျင် သတိပေးနှိုးဆော်သူတစ်ဦးတစ်ယောက်မျှ လာရောက်ခဲ့ခြင်း မရှိ သေးသော အမျိုးသားတို့အား၎င်းတို့တရားလမ်းမှန် ရရှိကြအံ့သောငှာ အသင် သတိပေးနှိုးဆော်ရန် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်မှ(ချပေးသနားတော်မူသောမှန်ကန်သောကျမ်းဂန်)ပင် ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

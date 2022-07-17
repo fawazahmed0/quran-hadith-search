@@ -710,6 +710,12 @@ Ili imat drug bog osven Allakh? Prechist e Allakh ot onova, s koeto Go sŭdruzha
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	သို့မဟုတ် သူတို့မှာ အလ္လာဟ်အရှင်မြတ်မှတပါး အခြားအရှင်သခင်ရှိသလော၊ အလ္လာဟ်အရှင်မြတ်သည် သူတို့တွဲဖက်သောဘုရားတုဘုရားယောင်များထက် မြင့်မြတ်တော်မူထသောအနန္တဂုဏ်တော်ရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် ၎င်းတို့၌ အလ္လာဟ်အရှင်မြတ် အပြင် ကိုးကွယ်ရာအရှင်မြတ် တစ်ပါးပါးရှိလေသလော။အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့ တွဲဖက် ကိုးကွယ်ကြသည်တို့မှ လုံးဝစင်ကြယ် သန့်ရှင်းတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

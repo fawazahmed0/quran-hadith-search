@@ -710,6 +710,12 @@ I govoryat, kakvoto ne pravyat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂၆။	သူတို့သည် မိမိတို့မပြုသည်ကို ပြုသကဲ့သို့ ပြောဆိုသည်ကိုသော်လည်းကောင်း၊ သင်မမြင်သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ် ပါး ၎င်းတို့သည် မိမိတို့ မပြုလုပ်ကြသောကိစ္စကို (ပြုလုပ်ကြသည်ဟု) ပြောဆိုလေ့ ရှိကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

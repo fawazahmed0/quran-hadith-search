@@ -710,6 +710,12 @@ Shte piete, kakto piyat prezhadnelite kamili
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။	သဲကန္တာရအတွင်း ရေမွတ်သိပ်သောကုလားအုတ်ရေသောက်သကဲ့သို့ သင်တို့သည် ထိုရေပူကို သောက်မျို ကြရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ (အသင်တို့သည် ထိုပွက်ပွက်ဆူလျက်ရှိသော ရေနွေးပူကို) လွန်စွာ ရေမွတ်သိပ်လျက် ရှိကုန်သော ကုလားအုတ်များ သောက်သကဲ့သို့ပင် သောက်ကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I kogato dostigna svoyata zrelost i ulegna, Nie mu dadokhme mŭdrost i znanie. T
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	ထို့အပြင်မူစာသည် လူလားမြောက်အရွယ်ရောက်လာသောအခါ ငါသည် သူ့အား ဉာာဏ်ပညာပေးသနားတော် မူ၏၊ ယင်းသို့ငါသည် သူတော်ကောင်းတို့အား ဆုပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် ထိုမူစာသည် မိမိလူလားမြောက်သော အရွယ်သို့ရောက်ရှိပြီး (အသိဉာဏ်) ရင့်သန်လာသောအခါ၊ ငါအရှင်မြတ်သည် ထိုမူစာအား ဉာဏ် အမြော်အမြင်ကိုလည်းကောင်း၊ အသိပညာကိုလည်းကောင်း၊ ချီးမြှင့်ပေးသနားတော်မူခဲ့၏။ စင်စစ်သော်ကား၊ ငါအရှင်မြတ်သည် သူတော်ကောင်းတို့အား ဤနည်းအတိုင်းပင် အစားပေးတော်မူသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

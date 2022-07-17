@@ -710,6 +710,12 @@ Reche [Musa]: “Shte otkriesh, ako Allakh zhelae, che sŭm tŭrpeliv i ne shte 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၉။	တမန်တော်မူစာက အလ္လာဟ်အရှင်မြတ်အလိုတော်ရှိပါလျှင် သင်သည် အကျွနု်ပ်အား သည်းခံသူအဖြစ်နှင့်ပင် တွေ့မြင်ရလတ့ံ။ အကျွနု်ပ်ကား မည်သည့်အရာ၌မဆို သင်၏ အမိန့်ကို ငြင်းဆန်မည်မဟုတ်ပါဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ယင်းမူစာက အလ္လာဟ်အရှင်မြတ်အလိုရှိတော်မူပါလျှင် အသင်သည် ကျွန်ုပ်အား သည်းခံ သူတစ်ဦးဖြစ်သည်ကို တွေ့ရှိပါလိမ့်မည်။ ထိုမှတစ်ပါး ကျွန်ုပ်သည်အသင်၏ မည်သည့်အမိန့်ကိုမျှပင် သွေဖည်မည် မဟုတ်ပါဟုပြောဆိုခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

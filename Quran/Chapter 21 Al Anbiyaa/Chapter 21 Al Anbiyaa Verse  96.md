@@ -710,6 +710,12 @@ Kogato bŭdat pusnati [plemenata] Yadzhudzh i Madzhudzh, koito ot vseki sklon sh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၅၊၉၆။	ထို့အပြင်ငါအရှင်မြတ်ပျက်စီးသေကြေစေတော်မူပြီးသော လူ့အစုအဖွဲ့များတို့အပေါ်၌ တားမြစ်ခြင်းတစ်ခုပြဋ္ဌာန်း ထားတော်မူ၏၊ ထိုပြဋ္ဌာန်းချက်မှာကား သူတို့သည် ယာဂျူး(ဂျ်)နှင့် မာဇု(ဂျ်)တို့ကို လွှတ်မပစ်သည့်တိုင်အောင် သူတို့သည် ရှင်ပြန်ထမြောက်ရမည်မဟုတ်၊ ထိုသို့လွှတ်ပစ်ထားသောအခါ သူတို့သည် သချုႋင်းအတွင်းမှ လျင်မြန်စွာထွက်လာကြရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 နောက်ဆုံးတွင် ‘ယအ်ဂျူဂျ်’နှင့် ‘မအ်ဂျူဂျ်’(လူမျိုးတို့သည် လွတ်လပ်ခဲ့ကြပြီ)၊ (ဖွင့်ပေးခြင်း ခံရသောအခါ)(ကမ္ဘာမြေဝယ်ရှိ) ကုန်းမြင့်တိုင်းမှ လျင်မြန်စွာ(ဆင်း၍) လာကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

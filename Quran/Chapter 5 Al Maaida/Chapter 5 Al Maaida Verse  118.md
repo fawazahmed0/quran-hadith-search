@@ -710,6 +710,12 @@ Ako gi izmŭchvash - te sa Tvoi rabi, a ako gi oprostish - Ti si Vsemogŭshtiya,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၈။	အို...အလ္လာဟ်အသျှင်ကိုယ်တော်သည် သူတို့အား အပြစ်ဒဏ်ပေးတော်မူပါလျှင် သူတို့သည် ကိုယ်တော်၏ ကျေးတော်မျိုး၊ ကျွန်တော်မျိုးများ အမှန်ပင်ဖြစ်ပါ၏။ ကိုယ်တော်သည် သူတို့အား အပြစ်လွှတ်တော်မူပါလျှင်လည်း သူတို့သည် အသျှင်၏ ကျေးတော်မျိုး၊ ကျွန်တော်မျိုးများသာ ဖြစ်ပါ၏။ အို...အသျှင် ကိုယ်တော်သာလျှင် အနန္တတန်ခိုးတော်သခင်၊ အနန္တဉာဏ်တော်ရှင် ဖြစ်တော်မူပါ၏ဟု တင်လျှောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 “အရှင်မြတ်သည် အကယ်၍ ထိုသူတို့အား အပြစ်ဒဏ်ပေးတော်မူခဲ့ပါလျှင် ၎င်းတို့သည် ဧကန်မလွဲ အရှင်မြတ်၏ကျွန်များပင် ဖြစ်ကြပါ၏။ ၎င်းပြင် အကယ်၍ အရှင်မြတ်သည် ထိုသူတို့ အား (အပြစ်မှ) လွတ်ငြိမ်းချမ်းသာခွင့် ပေးသနားတော်မူပါလျှင်လည်း (ပြုစွမ်းတော်မူနိုင်ပါသည်။) အဘယ်ကြောင့်ဆိုသော် ဧကန်စင်စစ် အရှင်မြတ်သည် တန်ခိုးအာနုဘော်နှင့် ပြည့်စုံတော်မူသောအရှင်၊ ကျိုးကြောင်း ဆင်ခြင်တုံဉာဏ်နှင့် ပြည့်စုံတော်မူသောအရှင် ဖြစ်တော်မူပါသည်။”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

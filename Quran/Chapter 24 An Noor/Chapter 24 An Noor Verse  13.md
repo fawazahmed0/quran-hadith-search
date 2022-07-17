@@ -710,6 +710,12 @@ Zashto ne dovedokha za tova chetirima svideteli? I sled kato ne sa doshli sŭs s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။ ယင်းကဲ့သို့လုပ်ကြံစွပ်စွဲသူတို့သည် မိမိတို့စွပ်စွဲချက်ကို ထောက်ခံဖို့ရာ သက်သေလေးဦးတို့ကို အဘယ်ကြောင့် မတင်ပြနိုင်သနည်း၊ သက်သေများမထူသောကြောင့် သူတို့သည် အလ္လာဟ်အရှင်မြတ်ရှေ့တော်ဝယ် မုသား ထွက်ဆိုသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(မုသားစွပ်စွဲခဲ့ကြသော)လူစုသည် အဘယ်ကြောင့် ယင်းစွပ်စွဲချက်နှင့် စပ်လျဉ်း၍ သက်သေလေးယောက် တင်မပြခဲ့ကြသနည်း။ စင်စစ် ၎င်းတို့သည် သက်သေတင်မပြခဲ့ကြသောကြောင့် ၎င်းတို့သည်ပင်လျှင် အလ္လာဟ်အရှင်မြတ်အထံတော်၌ မုသာဝါဒီများ ဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

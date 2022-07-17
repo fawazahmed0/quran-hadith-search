@@ -710,6 +710,12 @@ Kogato dve vashi druzhini tŭkmo da se provalyat, Allakh gi vze pod pokrovitelst
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၂။	သူတို့အနက် အသင်းနှစ်သင်းတို့သည် လက်လျှော့၍ ထွက်သွားလုမတတ်ရှိသောအခါ အလ္လာဟ် အသျှင်မြတ်သည် သူတို့ကို ကာကွယ်တော်မူသော အဆွေခင်ပွန်းဖြစ်တော်မူ၏။ ယုံကြည်သူတို့သည် အလ္လာဟ်အသျှင်မြတ်ကို ယုံကြည်ကိုးစားကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအချိန်တွင် အသင်(မုစ်လင်မ်)တို့အနက်မှလူစုနှစ်စုကားအားလျှော့(၍လှည့်ပြန်ကြ)ရန် ကြံရွယ် ခဲ့ကြလေသည်။ အမှန်စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည်ထိုလူစုနှစ်စုလုံးကိုပင် စောင့်ရှောက် လျက် ရှိတော်မူခဲ့သည်။သို့ဖြစ်ရာ ယုံကြည်ခြင်းသဒ္ဓါတရား ထားရှိကြကုန်သော မုအ်မာန် အပေါင်းတို့သည် အလ္လာဟ်အရှင်မြတ်ကိုသာလျှင်ယုံကြည်စိတ်ချ၍ အားကိုးအားထား)ပြုထိုက်ကြပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ i koito svŭrzvat onova, koeto Allakh povelyava da se svŭrzhe, i se boyat ot sv
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	ဤလူတို့သည် အလ္လာဟ်အရှင်မြတ်က အတူတကွပေါင်းထားရမည်ဟု ပညတ်တော်မူသည့်အရာများကို အတူ တကွစည်းရုံးထားကြ၏။ သူတို့သည် မိမိတို့၏ အရှင်သခင်အား ကြောက်ရွံ့ရိုကျိုးကြ၏။ ပူဆွေးဒုက္ခပေးမည့် စစ်ကြောစီရင်တောမူခြင်းကို အထူးထိတ်လန့်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုသူတို့သည် အလ္လာဟ်အရှင်မြတ်ကဆက်စပ်၍ထားရှိရန် အမိန့်ပေးတော်မူသည့် အဆက်အသွယ်များကို ဆက်စပ်၍ ထားရှိကြကုန်၏။ ထို့ပြင် ၎င်းတို့သည်မိမိတို့ကို ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အား ကြောက်ရွံ့ရိုသေကြကုန်၏။ ထိုမှတစ်ပါး ၎င်းတို့သည် အလွန်ပူဆွေးဖွယ်ဖြစ်သော စစ်ဆေးမှုကိုလည်း စိုးရိမ်ကြောင့်ကြကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

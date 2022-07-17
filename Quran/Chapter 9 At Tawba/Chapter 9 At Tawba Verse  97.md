@@ -710,6 +710,12 @@ Beduinite sa naĭ-silni po neverie i litsemerie, i naĭ-sklonni da ne proumeya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၇။	ကျေးတောသားအာရဗ်လူမျိုးတို့သည် မိစ္ဆာအယူဝါဒနှင့် ယုံကြည်ဟန်ဆောင်ခြင်း၌ သာလွန်ပြင်းထန်ကြ၏။အလ္လာဟ်အရှင်မြတ်က မိမိတမန်တော်အား ချပေးသနားတော်မူသောကျင့်စဉ်တရားတော်များကို မသိနားမလည် မှု၌ ပိုမိုဆိုးဝါးတတ်ကြ၏။အလ္လာဟ်အရှင်မြတ်သည် သိတော်မူသောအရှင်၊ ဉာာဏ်ပညာရှိတော်မူသောအရှင် ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကျေးရွာများ၌ နေထိုင်ကြကုန်သော အရဗ်အမျိုးသား(မုနာဖစ်က်)များသည် ကုဖ်ရ် သွေဖည် ငြင်းပယ်မှုတွင်လည်းကောင်း၊ နိဖာက် အယောင် ဆောင်မှုတွင်လည်းကောင်း၊ ပိုမို၍ပင် ပြင်းထန်ကြကုန်၏။ ၎င်းပြင် ထိုသူတို့သည်အလ္လာဟ်အရှင်မြတ်က မိမိ၏ရစူလ်တမန်တော်မြတ်အပေါ်၌ချပေးသနားတော်မူသော အမိန့်ပညတ်တော်များကို ပို၍ပင်မသိထိုက်ကြသူများဖြစ်ကြ၏။ စင်စစ်မူကား အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့သိရှိတော်မူသောအရှင်၊ နက်နဲသိမ်မွေ့သော ကျိုးကြောင်း ဆင်ခြင်တုံတရားနှင့်ပြည့်စုံတော်မူသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

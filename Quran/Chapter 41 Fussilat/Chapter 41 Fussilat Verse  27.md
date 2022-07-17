@@ -710,6 +710,12 @@ Shte nakarame Nie nevernitsite da vkusyat surovo mŭchenie i shte im vŭzdadem z
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	သို့သော်ငါသည် မယုံကြည်သူတို့အား အလွန်ပြင်းပြနာကျင်သောအပြစ်ဒဏ်ကို အမှန်ခတ်တော်မူမည်၊ ထို့အပြင် ငါသည် သူတို့၏ အဆိုးဆုံးသောအပြုအမူများကို လက်စားချေတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အမှန်စင်စစ် ငါအရှင်မြတ်သည်ကာဖိရ်သွေဖည်ငြင်းပယ်သောသူတို့အား ပြင်းထန်လှစွာသောပြစ်ဒဏ်ကို မြည်းစမ်းစေတော်မူပေမည်။ ထို့ပြင် ဧကန်မလွဲ ငါအရှင်မြတ်သည် ၎င်းတု့ိအား ၎င်းတို့ကျင့်မူလျက်ရှိခဲ့ကြသော အဆိုးဆုံးသောကျင့်မူချက်များ၏ မကောင်းကျိုးကိုပေးတော်မူမည်ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

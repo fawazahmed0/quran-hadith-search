@@ -710,6 +710,12 @@ Reche: “Gospodi moĭ, oprosti me i mi daĭ vlast, s koyato da ne bŭde udost
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	တမန်တော်စိုလိုင်မာန်သည် ငါ့အထံတော်၌ ပန်ထွာဆုတောင်းသည်မှာ အို-အကျွနု်ပ်၏ အရှင်သခင်၊ အကျွနု်ပ်၏ အပြစ်များကို ခွင့်လွှတ်တော်မူပါ၊ အကျွနု်ပ်မရှိသည့်နောက် မည်သူတစ်စုံတစ်ယောက်နှင့်မျှ မထိုက်တန်သော အချုပ်အခြာအာဏာကို အကျွနု်ပ်အား ပေးသနားတော်မူပါ၊ အရှင်သည် ပေးကမ်းစွန့်ကြဲတော်မူထသောအရှင် အမှန်အကန်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို"စုလိုင်မာန်"သည် လျှောက်ထားပန်ကြားခဲ့လေ၏။ အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်၊ အရှင်မြတ်သည် ကျွန်တော်မျိုးအား ခွင့်လွှတ်ချမ်းသာပေးတော်မူပါ။ ၎င်းအပြင် အရှင်မြတ်သည် ကျွန်တော်မျိုးမှတစ်ပါး မည်သူတစ်စုံတစ်ယောက်မျှပင် မရထိုက်သော စိုးမိုးအုပ်ချုပ်မှုမျိုးကို ကျွန်တော်မျိုးအား ချီးမြှင့်တော်မူပါ၊ ဧကန်စင်စစ် အရှင်မြတ်သည် လွန်စွာ ရက်ရောစွာပေးကမ်းတော်မူသော အရှင်ပင် ဖြစ်တော်မူပါသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

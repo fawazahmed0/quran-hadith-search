@@ -710,6 +710,12 @@ Nima te byakha v bezopasnost pred zamisŭla na Allakh? Samo gubeshtite khora smy
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၉။	သူတို့သည် အလ္လာဟ်အသျှင်မြတ်၏ စီမံကိန်းမှ လွတ်မြောက်ချမ်းသာကြသလော။ ပျက်စီးဆုံးရှုံးသူမှ တစ်ပါး မည်သူမှ မိမိကိုယ်ကို အလ္လာဟ်အသျှင်မြတ်၏ စီမံခန့်ခွဲခြင်းမှ လွတ်မြောက်သည်ဟု မထင်မှတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 င်းတို့သည် အလ္လာဟ်အရှင်မြတ်၏ လျှို့ဝှက်စွာ ကြံစည်မှုကို စိုးရိမ်ခြင်းကင်းမဲ့ကာ စိတ်ချ၍နေကြပါသလော။ သို့ဖြစ်လျှင် နစ်နာဆုံးရှုံးသူတို့မှအပ အလ္လာဟ်အရှင်မြတ်၏ အကြံအစည်ကို စိုးရိမ်ကင်းမဲ့သူဟူ၍ တဦးတယောက်မျှမရှိပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kazhi: “O, khora na Pisanieto, zashto ne vyarvate v znameniyata na Allakh? - A
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၈။	အို-တမန်တော် ဟောကြားလော့။ အို-ရှေးကျမ်းတော်ကိုရရှိသူတို့ သင်တို့သည် အလ္လာဟ်အသျှင်မြတ် ထုတ်ပြန်ချပေးသနားတော်သော ကုရ်အာန်ကျမ်းတော်မြတ်ကို အဘယ်ကြောင့် မယုံကြည်ကြ သနည်း။ အလ္လာဟ်အသျှင်မြတ်ကို ကိုယ်တော်တိုင် သင်တို့ပြုကျင့်သမျှကို အသိသက်သေဖြစ်တော် မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်သည် (ထိုအထက်ကျမ်းဂန်ရရှိသူတို့အား ဤသို့)ပြောကြားပါလေ။ အို-ကျမ်းဂန်ရရှိသူ အပေါင်းတို့အသင်တို့သည် အလ္လာဟ်အရှင်မြတ် ၏အမိန့်တော်များကိုအဘယ်ကြောင့် ငြင်းပယ်ကြပါသနည်း။ စင်စစ်တမူကားအလ္လာဟ်အရှင်မြတ်သည် အသင်တို့ ပြုလုပ်သမျှသော ကိစ္စအဝဝကိုဒိဋ္ဌမျက်မြင် အသိသက်သေပင် ဖြစ်တော်မူသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

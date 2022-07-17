@@ -710,6 +710,12 @@ O, vyarvashti, boĭte se ot Allakh i se otkazhete ot nadbavenoto chrez likhvata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇၈။	အို - ယုံကြည်သူတို့ သင်တို့သည် အလ္လာဟ်အရှင်မြတ်၏အမှုတော်ကို ကြေကုန်အောင် ထမ်းဆောင် ကြလော့။ သင်တို့သည် ယုံကြည်သူအကယ်စင်စစ်ဖြစ်လျှင် ကျန်ရှိသော အတိုးငွေများကို လျော် ပစ်ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ယုံကြည်သူ အပေါင်းတို့၊ အကယ်၍ အသင်တို့သည် ယုံကြည်သူများဖြစ်ကြပါမူ၊ အလ္လာဟ်အရှင်မြတ်ကိုကြောက်ရွံ့လေးစား ရိုသေ ခန့်ညားကြကုန်၊ 4င်းပြင် ကြွင်းကျန်လျက်ရှိသော အတိုးအညွန့်များကိုလည်း စွန့်လွှတ်ကြကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

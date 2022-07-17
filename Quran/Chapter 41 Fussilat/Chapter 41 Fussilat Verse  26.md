@@ -710,6 +710,12 @@ I kazvakha nevernitsite: “Ne slushaĭte tozi Koran i vdigaĭte glŭchka tam,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	မယုံကြည်သူတို့က ဤကုရ်အာန်ကို အရေးမစိုက်ကြနှင့်၊ မကြားရအောင် အသံကျယ်လောင်စွာပြုကြလော့၊ သင်တို့အောင်မြင်ကောင်း အောင်မြင်လိမ့်မည်ဟု ပြောကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ကာဖိရ် သွေဖည်ငြင်းပယ်သောသူတို့က အသင်တို့သည် ကုရ်အာန်ကို နားပင်မထောင်ကြကုန်လင့်။ ထို့ပြင် အသင်တို့သည် ယင်းကုရ်အာန် (ဖတ်ကြားနေသောအချိန်) စပ်ကြားတွင် ဆူညံကြလေကုန်။ သို့မှသာလျှင်အသင်တို့သည် (မိမိတို့ အသံများဖြင့် မုဟမ္မဒ်၏အသံကို)လွှမ်းမိုး နိုင်ကြမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

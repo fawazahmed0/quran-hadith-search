@@ -710,6 +710,12 @@ Allakh prokle nevernitsite i prigotvi za tyakh Plamŭtsi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၄။	မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် မိစ္ဆာဒိဋ္ဌိတို့အား ကျိန်ဆဲတော်မူပြီး သူတို့အဖို့အရာအလျှံပြောင် ပြောင်တောက်လောင်သောငရဲမီးကို အသင့်ပြင်ဆင်ထားရှိတော်မူပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် ကာဖိရ်သွေဖည်ငြင်းပယ်ကြသော သူတို့အား ကရုဏာတော်မှ ကင်းဝေးစေတော်မူခဲ့၏။ ၎င်းပြင် ထိုအရှင်မြတ်သည် ထိုသူတို့အဖို့အလျှံပြောင်ပြောင် တောက်လောင်လျက် ရှိသော မီးတောက်မီးလျှံကို အဆင်သင့် ပြုလုပ်၍ ထားတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

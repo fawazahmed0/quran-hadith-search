@@ -710,6 +710,12 @@ I go vŭzradvakhme za Iskhak - prorok ot pravednitsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၂။	ထို့အပြင် ငါသည် သူ့အား အစ္စဟတ်(က်)မည်သော သားကောင်းရတနာကိုလည်း ပေးသနားတော်မူမည်ဟု သတင်းကောင်းကို ပေးတော်မူ၏၊ ထိုအစ္စဟတ်(က်)သည် သူတော်သူမြတ်တို့ဘောင်တွင် ပါဝင်သောတမန်တော် တစ်ပါးဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ငါအရှင်မြတ်သည် ထိုအီဗ်ရာဟီမ်အား "အစ်ဟာက်"နှင့်ပတ်သက်၍ နဗီတမန်တော်တစ်ပါး၊ သူတော်ကောင်းတစ်ပါး ဖြစ်မည့်အကြောင်း ဝမ်းမြောက်ဖွယ်သတင်း မိန့်ကြားတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

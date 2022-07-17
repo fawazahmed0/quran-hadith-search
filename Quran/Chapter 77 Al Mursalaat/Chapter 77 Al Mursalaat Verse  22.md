@@ -710,6 +710,12 @@ za opredelen srok
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁၊၂၂။ ငါသည် ထိုအရည်စက်ကို လုံခြံုခိုင်ခန့်သောနေရာတစ်ခုတွင် သတ်မှတ်ပိုင်းခြားထားတော်မူသောနေ့ရက်အချိန်တိုင်အောင် ထိန်းသိမ်းထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သတ်မှတ်ပြီးဖြစ်သော အချိန်ကာလတိုင်အောင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

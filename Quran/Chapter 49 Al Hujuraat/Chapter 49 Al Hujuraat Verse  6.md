@@ -710,6 +710,12 @@ O, vyarvashti, ako nechestivets vi donese vest, prouchete ya, za da ne zasegnete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	အို-ယုံကြည်သူအပေါင်းတို့၊ သင်တို့ထံသို့ ဆိုးသွမ်းသူတစ်ဦးက တစ်စုံတစ်ခုသောသတင်းစကားကို အကယ်၍ ဆောင်လာခဲ့သော် ထိုသတင်းမှန်မမှန်ကို စုံစမ်းထောက်လှမ်းကြလော့၊ မေးမြန်းစုံစမ်းခြင်းမပြုလျှင် သင်တို့သည် မှားယွင်းပြီးလျှင် အခြားအသင်းသားတို့ပျက်ပြားဆုံးရှုံးရာဖြစ်တတ်၏၊ ယင်းကဲ့သို့မှားမိခြင်းကြောင့် သတိနောင်တ ကြီးစွာရတတ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-မုအ်မင်န် သက်ဝင်ယုံကြည်သူအပေါင်းတို့၊ အကယ်၍ စာရိတ္တဖောက်ပြန်သူ တစ်ဦးတစ်ယောက်သည် အသင်တို့ထံ တစ်စုံတစ်ရာ သတင်းကို ယူဆောင်လာခဲ့သည်ရှိသော် အသင်တို့သည် မသိဘဲလျက် လူမျိုးတစ်မျိုးကို အန္တရာယ်မပြုမိကြရန်(ယင်းသတင်း)မှန်မမှန်ကို(စူးစမ်း)စစ် ဆေးကြလေကုန်။ (သို့မဟုတ်လျှင်) အသင်တို့သည် မိမိတို့ပြုမိခဲ့ကြသောကိစ္စကြောင့် ကြေကွဲကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

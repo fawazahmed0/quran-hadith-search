@@ -710,6 +710,12 @@ I ukrepikhme negovoto tsarstvo, i mu dadokhme mŭdrostta, i tochnoto ot·sŭzhda
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၀။	ငါသည် ထိုတမန်တော် စိုးမိုးအုပ်ချုပ်သောနိုင်ငံတော်ကို အင်အားတောင့်တင်းပြည့်ဝစေတော်မူ၏၊ သူ့အားလည်း ဉာာဏ်ပညာနှင့် ထက်မြက်မှန်ကန်စွာဆုံးဖြတ်နိုင်သည့်စွမ်းရည်သတ္တိတို့ကို ပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ထို(နဗီတမန်တော်)"ဒါဝူဒ်"၏ နိုင်ငံကို ခိုင်ခံ့စေတော်မူခဲ့သည့်ပြင် ထိုဒါဝူဒ်အား ဆင်ခြင်တုံတရားကိုလည်းကောင်း၊ စကားအဆုံးအဖြတ်ပေးနိုင်သော ဉာဏ်စွမ်းကိုလည်းကောင်း၊ ချီးမြှင့် ပေးသနားတော်မူခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

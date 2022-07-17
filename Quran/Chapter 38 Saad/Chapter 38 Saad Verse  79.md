@@ -710,6 +710,12 @@ Reche: “Gospodi, daĭ mi ot·srochka do Denya, kogato shte bŭdat vŭzkreseni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၉။	ထိုအခါသူက အို-အကျွနု်ပ်၏အရှင်သခင်၊ သူတို့ကို ရှင်ပြန်ထမြောက်စေတော်မူသောနေ့တော်ကြီးတိုင်အောင် အကျွနု်ပ်၏ အပြစ်ဒဏ်ကို ဆိုင်းင့ံထားတော်မူပါဟု ပြန်လျှောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို "ဗ်လီစ်" က အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်၊ သို့ဖြစ်ပါလျှင် အရှင်မြတ်သည် ကျွန်တော်မျိုးအား (လူသတ္တဝါအပေါင်း) ရှင်ပြန်ထစေခြင်းခံကြရမည့်နေ့တိုင်အောင်(သေခြင်းမှ- ပြစ်ဒဏ်စီရင်တော်မူခြင်းမှ) ရွှေ့ဆိုင်း၍ ထားတော်မူပါ"ဟု လျှောက်ထားခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

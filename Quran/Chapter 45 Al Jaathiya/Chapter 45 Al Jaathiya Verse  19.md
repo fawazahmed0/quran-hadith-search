@@ -710,6 +710,12 @@ Te ne mogat da te izbavyat ot Allakh s nishto. Ugnetitelite sa pokroviteli edin 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	မှတ်သားကြလော့၊ သူတို့သည် အလ္လာဟ်အရှင်မြတ်အား အန်မတုနိုင်ချေ၊ မှတ်သားလော့၊ တရားကျူးလွန်သူ တို့သည် အချင်းချင်းတစ်ဦးနှင့်တစ်ဦး အဆွေခင်ပွန်းဖြစ်ကြ၏၊ သို့သော်အလ္လာဟ်အရှင်မြတ်သည် မကောင်းမှုကို ရှောင်ကြဉ်သူတို့၏ အဆွေခင်ပွန်းကြီးဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ် နှင့်ဆန့်ကျင်၍ အနည်းငယ်မျှပင် အသင့်အဖို့ အလျှင်းအသုံးဝင်ကြမည် မဟုတ်ပေ။ ၎င်းပြင် ဧကန်အမှန် မတရားသောသူတို့သည် ၎င်းတို့အနက် အချို့မှာအချို့၏ အဆွေခင်ပွန်းများပင်ဖြစ်ကြကုန်၏။ အလ္လာဟ်အရှင်မြတ်မူကား "မွတ္တကီ" သူတော်စင်တို့၏ အဆွေခင်ပွန်း ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

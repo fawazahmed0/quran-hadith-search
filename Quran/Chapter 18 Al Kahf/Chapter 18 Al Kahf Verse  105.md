@@ -710,6 +710,12 @@ Te sa onezi, koito otkhvŭrlyat znameniyata na svoya Gospod i sreshtata s Nego. 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၅။	မိမိတို့၏ ကျေးဇူးတော်သခင်၏ နှုတ်ကပတ်တော်များနှင့် အရှင်မြတ်အား မျက်ဝါးထင်ထင်ဖူးမြင်ရမည်ကိုလည်း မယုံကြည်သူများ၊ ထိုသူတို့၏ ပြုကျင့်မှုများသည် အကျိုးမရှိ၊ အချည်းနှီးသာဖြစ်၏။ ရှင်ပြန်ထမြောက်ရသော နေ့တော်ကြီး၌ ငါသည် ထိုသူတို့ကို အရေးစိုက်တော်မူမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသူများပင် အကြင်သူများတည်း။ ထိုသူတို့သည် မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏သက်သေလက္ခဏာတော်များကိုလည်းကောင်း၊ ထိုအရှင်မြတ်နှင့်တွေ့ဆုံကြရမည်ကိုလည်း ကောင်း၊ ငြင်းပယ်ခဲ့ကြလေသည်။သို့ဖြစ်ပေရာ ၎င်းတို့၏ အကျင့်အမူများမှာ အချည်းနှီးပင်ဖြစ်ခဲ့ကြပေသည်။ သို့ဖြစ်ပေရာ ငါအရှင်မြတ်သည်လည်း ကိယာမတ်ရှင်ပြန်ထမည့်နေ့တွင် မည်သည့်အလေးချိန်ကိုမျှပင် ၎င်းတို့အဖို့ သတ်မှတ်၍ ပေးတော်မူမည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

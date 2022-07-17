@@ -710,6 +710,12 @@ Kazhi: “Kak mislite, ako Allakh stori denya dŭlgovechen za vas do Denya na v�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၂။	တမန်တော်ဟောကြားလော့၊ ဟယ်-အချင်းတို့၊ သင်တို့သည် ဤအကြောင်းအရာကို စဉ်းစားဆင်ခြင်ပြီး ကြသလော၊ အကယ်၍အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အဖို့အရာနေ့ကို ရှင်ပြန်ထမြောက်ရသောနေ့တော်ကြီး တိုင်အောင် မပြတ်မစဲတည်စေတော်မူပါလျှင် အလ္လာဟ်အရှင်မြတ်မှတပါး အဘယ်ဘုရားသည် သင်တို့အိပ်စက် အမောဖြေရန် ညဉ့်ကို ဖန်ဆင်းနိုင်အံ့နည်း၊ ထို့ကြောင့်သင်တို့သည် မြင်ကြမည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်၊)အသင်သည်(၎င်းတို့ အား)ပြောကြားပါလေ။ (အချင်းတို့၊)အကယ်၍သာ အလ္လာဟ်အရှင်မြတ်သည် ‘ကိယာမတ်’ ရှင်ပြန်ထမည့် နေ့တိုင်အောင် နေ့ကိုအသင်တို့အပေါ်၌ အမြဲထာဝစဉ် တည်စေတော်မူခဲ့ပါလျှင် အလ္လာဟ်အရှင်မြတ်အပြင် အသင်တို့ အနားယူကြအံ့သောငှာ ညဉ့်ကို အသင်တို့ထံသို့ ဆောင်ကြဉ်းအံ့သော အခြားကိုးကွယ်ရာဟူ၍ မည်သူရှိပါသနည်း။ သို့ပါလျက် အသင်တို့သည် မမြင်ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

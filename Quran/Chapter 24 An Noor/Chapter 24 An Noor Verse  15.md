@@ -710,6 +710,12 @@ Eto, vie ya prenasyate s ezika si i izrichate s ustata si onova, za koeto nyamat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	သင်တို့သည် မိမိတို့မသိမမြင်သောမကောင်းသတင်းကို လျှာနှင့်လက်ခံ၍ ပါးစပ်နှင့်ပြောဆိုသောအခါ ထိုအရာ သည် အသေးအဖွဲဟု ထင်မှတ်ကြ၏၊ ယင်းသို့မဟုတ်ချေ၊ ထိုအရာသည် အလ္လာဟ်အရှင်မြတ်အထံတော်၌ အလွန်အရေးကြီးသောအရာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်အခါ၌ အသင်တို့သည် ယင်းကိစ္စကို မိမိတို့လျှာများဖြင့် လက်ခံပြောဆိုနေခဲ့ကြ၏။ ထို့ပြင် မိမိတို့ အလျှင်းမသိသော အကြောင်းကိစ္စကို မိမိတို့နှုတ်များဖြင့် မြွက်ဆိုနေခဲ့ကြကုန်၏။ ထိုမှတစ်ပါး အသင်တို့သည် ယင်းကိစ္စကို ပေါ့ပေါ့ဆဆ သာမန်ကိစ္စဟု ထင်မှတ်နေကြကုန်၏။ အမှန်စင် စစ်မှာမူကား ယင်းကိစ္စသည် အလ္လာဟ်အရှင်မြတ်အထံတော်၌ အလွန်ကြီးလေးလှသောကိစ္စပင် ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

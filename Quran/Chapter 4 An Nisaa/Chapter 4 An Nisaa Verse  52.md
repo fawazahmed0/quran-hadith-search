@@ -710,6 +710,12 @@ Tezi sa, koito Allakh e proklel. A za onzi, kogoto Allakh prokŭlne, ti ne shte 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၂။	ထိုသူများသည် အလ္လာဟ်အသျှင်မြတ် ကျိန်ဆဲတော်မူပြီးသောသူများ ဖြစ်ကြ၏။ အကြင်သူအား အလ္လာဟ်အသျှင်မြတ် ကျိန်ဆဲတော်မူ၏။ ထိုသူအတွက် သင် မိုဟမ္မဒ်သည် ကူညီသူရှာတွေ့နိုင်မည် မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသူများပင် အကြင်သူများတည်း။ အလ္လာဟ်အရှင်မြတ်သည် ထိုသူတို့အား (မိမိ) ကရုဏာတော်မှ ကင်းဝေးစေတော်မူခဲ့လေသည်။ အမှန်သော်ကား မည်သူ့ကိုမဆို အလ္လာဟ်အရှင်မြတ်သည် (မိမိ) ကရုဏာတော်မှ ကင်းဝေးစေတော်မူခဲ့ပါလျှင် အသင်သည် ထိုသူအားကူညီစောင်မမည့်သူ တစ်ဦးတစ်ယောက်ကိုမျှ အလျင်း တွေ့ရှိလိမ့်မည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

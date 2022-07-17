@@ -710,6 +710,12 @@ Naĭ-dobre tvoyat Gospod znae koĭ se e otklonil ot Negoviya pŭt i naĭ-dobr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။ စင်စစ်အားဖြင့် သင်၏ အရှင်သခင်သည် သင်တို့အနက် မည်သူသည် အရှင်မြတ်၏ လမ်းတော်မှ လွဲသွားသည်ကို အသိဆုံးဖြစ်တော်မူ၏၊ မည်သူသည် လမ်းမှန်ကို လိုက်သည်ကိုလည်း အသိဆုံးပင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်ဧကန် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည်ပင် ထိုအရှင်မြတ်၏ လမ်းတော်မှ ချွတ်ချော်တိမ်းပါးခဲ့သောသူအား အသိတော်မူဆုံး ဖြစ်တော်မူ၏။ ထိုနည်းတူ ထိုအရှင်မြတ်သည်ပင်လျှင် တရားလမ်းမှန်ကို ရရှိကြသောသူတို့အား အသိတော်မူဆုံး ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

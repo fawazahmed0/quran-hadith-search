@@ -710,6 +710,12 @@ Kazhi: “Az ne sŭm pŭrviyat pratenik i ne znam nito s men kakvo shte stane, n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	အို-တမန်တော်၊ ဟောပြောလော့၊ ဟယ်-အချင်းတို့၊ ကမ္ဘာမြေပြင်ဝယ် ပွင့်တော်မူသောတမန်တော်များအနက် ငါသည် တရားသစ်အယူဝါဒသစ်ကို ယူဆောင်လာသူမဟုတ်၊ ရှေးအနာဂတ်ကာလတွင် ငါသော်လည်းကောင်း၊ သင်တို့သော်လည်းကောင်း မည်ကဲ့သို့ဖြစ်ရမည်ကို ငါလုံးဝမသိချေ၊ ငါသည် မိမိစိတ်အတွင်း၌ ထင်ရှားစေတော် မူသောပညတ်တော်ကိုသာလျှင် လိုက်နာကျင့်သုံး၏၊ ငါသည် သတိပေးနှိုးဆော်သူရိုးရိုးသာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်၊) အသင်သည် ပြောကြားပါလေ။ (အချင်းတို့၊) ငါသည် ရစူလ်တမန်တော်တို့အနက် အသစ်အဆန်းမဟုတ်ပြီ။ ထို့ပြင် ငါသည် မိမိနှင့်ပတ်သက်၍ လည်းကောင်း၊ အသင်တို့နှင့်ပတ်သက်၍လည်းကောင်း၊ မည်သို့ ပြုလုပ်ခြင်းခံရမည်ကို သိရှိသည်မဟုတ်ပြီ။ ငါသည် မိမိထံ ထုတ်ပြန်ခြင်းခံရလေသော ‘ဝဟ်ယ်’ အမိန့်တော်ကိုသာလျှင် လိုက်နာ၏။ ထိုမှတစ်ပါး ငါသည် ရှင်းလင်းထင်ရှားစွာ သတိပေးနှိုးဆော်သူတစ်ဦး မှအပ အခြားမဟုတ်ပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

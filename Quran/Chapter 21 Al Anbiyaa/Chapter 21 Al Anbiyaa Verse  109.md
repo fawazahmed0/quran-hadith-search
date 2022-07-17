@@ -710,6 +710,12 @@ A otvŭrnat li se, kazhi: “Vsichki vi ednakvo izvestikh. I ne znam dali e bliz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၉။	သို့သော်သူတို့သည် မနှစ်သက်ငြင်းဆန်လျှင် သင်ဟောကြားလော့၊ သင်တို့အား ဂတိပေးထားတော်မူသော နေ့တော်ကြီးသည် နီးကပ်လာသည်ကိုသော်လည်းကောင်း၊ ဝေးကွာသေးသည်ကိုသော်လည်းကောင်း ငါမသိငြား သော်လည်း ငါသည် သင်တို့အားလုံးကို သတိပေးဟောပြောပြီးပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ပါလျက် အကယ်၍ ၎င်းတို့သည် မျက်နှာလွှဲ ငြင်းဆန်ခဲ့ကြပါလျှင် အသင်သည် (၎င်းတို့အား အချင်းတို့) ငါသည်အသင်တို့အား တိလင်းထင်ရှားစွာ အသိပေး(ကြေညာ) ခဲ့ပြီးဖြစ်သည်။ အသင်တို့ ချိန်းချက် ခြင်းခံကြရသောကိစ္စသည်နီးသည် ဝေးသည်ကိုမူ ငါမသိဟု ပြောကြားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

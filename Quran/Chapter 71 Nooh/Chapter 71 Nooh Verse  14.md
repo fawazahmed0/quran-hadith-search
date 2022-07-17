@@ -710,6 +710,12 @@ Sŭtvori vi Toĭ na etapi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။ မုချဧကန်အရှင်မြတ်သည် သင်တို့အား အနည်းနည်းအဖုံဖုံ အဆင့်ဆင့်ခွဲခြား၍ ဖန်ဆင်းတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်ဧကန် ထိုအရှင်မြတ်သည် အသင်တို့အား (ရုပ်ဆင်းသဏ္ဌာန်) အမျိုးမျိုးနှင့်၊ နည်းအမျိုးမျိုး(ပြောင်း၍ အဆင့်ဆင့်)ဖန်ဆင်းတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

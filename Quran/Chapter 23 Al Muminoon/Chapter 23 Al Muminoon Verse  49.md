@@ -710,6 +710,12 @@ I dadokhme na Musa Pisanieto, za da se napŭtyat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	ထို့အပြင်ထိုသူအပေါင်းတို့သည် လမ်းမှန်ကို လိုက်စိမ့်သောငှာ ငါသည် တမန်တော်မူစာအား ကျမ်းတော်ကို မုချဧကန်ထုတ်ပြန်ချပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်သော်ကား (ဖစ်ရ်အောင်န်နှင့် ၄င်း၏မှူးမတ်များ သေကြေပျက်စီးကြပြီးနောက်) ငါအရှင်မြတ်သည် တမန်တော်မူစာအား တောင်ရာတ်ကျမ်းဂန်ကို ချီးမြှင့်ပေးသနားတော်မူခဲ့လေသည်။ သို့မှသာလျှင် (တမန်တော်မူစာ၏) ယင်းအစ္စရာအီလီ အမျိုးသားများ တရားလမ်းမှန်ကို ရရှိကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

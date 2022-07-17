@@ -710,6 +710,12 @@ I ot vsyako neshto sŭtvorikhme dvoĭki, za da se pouchite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	ငါသည် ခပ်သိမ်းသောဝထ္ထုများကို အစုံလိုက်၊ အစုံလိုက်ဖန်ဆင်းတော်မူ၏၊ သို့ဖန်ဆင်းတော်မူခြင်းကား သင်တို့သုံးသပ်ဆင်ခြင်ကောင်း ဆင်ခြင်ဖို့ရာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် အသင်တို့ တရားရယူကြအံ့သောငှာ အရာဝတ္ထုတိုင်းကို နှစ်မျိုးနှစ်စား ဖန်ဆင်းတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

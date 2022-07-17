@@ -710,6 +710,12 @@ I ot Negovite znameniya e, che vi sŭtvori ot prŭst, posle - eto vi - khora, ko
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂ဝ။	အလ္လာဟ်အရှင်မြတ်၏ တန်ခိုးအ့ံဖွယ်တော်များအနက် တစ်ပါးမှာ အရှင်မြတ်သည် သင်တို့အား မြေမှုန့်မှ ဖန်ဆင်းတော်မူခြင်းဖြစ်သည်၊ သင်တို့သည် မြေပေါ်တွင် အနှံ့အပြားသွားလာနေကြသည်ကို ကြည့်ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် (ဤသည်) ထိုအရှင်မြတ်၏ သက်သေလက္ခဏာတော်များတွင် အပါအဝင်ဖြစ်သည်။ ထိုအရှင်မြတ်သည် အသင်တို့အား မြေကြီးဖြင့် ဖန်ဆင်းတော်မူခဲ့၏။ ထို့နောက် အသင်တို့သည် ရုတ်တရက် လူသားများဖြစ်လာပြီး(ကမ္ဘာမြေဝယ်) ပျံ့နှံ့လျက် ရှိကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

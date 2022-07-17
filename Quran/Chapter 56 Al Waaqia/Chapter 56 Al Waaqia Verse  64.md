@@ -710,6 +710,12 @@ Vie li go karate da raste, ili Nie go karame
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၄။	ထိုမျိုးစေ့များမှ အညွန့်၊ အညှောက်၊ အပင်ပေါက်အောင် သင်တို့ပြုလုပ်သလော၊ သို့မဟုတ် ငါသာလျှင် ပြု လုပ်သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုစိုက်ပျိုးထားကြသည့် မျိုးစေ့ကို အသင်တို့ကိုယ်တိုင် ပေါက်ရောက်စေကြလေသလော။ သို့တည်းမဟုတ်၊ ငါအရှင်မြတ်သည်ပင် ပေါက်ရောက်စေတော်မူသော အရှင်မြတ် ဖြစ်တော်မူပါသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

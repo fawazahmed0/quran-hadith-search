@@ -710,6 +710,12 @@ Toĭ e, Koĭto vi oformya v utrobite, kakto pozhelae. Nyama drug Bog osven Neg
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	အရှင်မြတ်သည် အလိုတော်အတိုင်း အမိ၏သားအိမ်များအတွင်း၌ သင်တို့၏ရုပ်သွင်ကို ပြုပြင် ဖန်ဆင်းတော်မူ၏။ အရှင်မြတ်မှတပါး အခြားအရှင်သခင်မရှိပေ။ အရှင်မြတ်သည် အနန္တဘုန်း တန်ခိုးတော်သခင်၊ အနန္တဉာဏ်တော်ရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် မိမိအလိုရှိတော်မူသည့်အတိုင်း(မိခင်တို့၏)သားအိမ်များတွင် အသင်တို့၏ရုပ်အဆင်းသဏ္ဍာန်များကို ပြုလုပ်ဖန်ဆင်းတော်မူသော အရှင်မြတ်ပင်(ဖြစ်တော်မူ၏)။ ထိုအရှင်မြတ်သည် တန်ခိုးအာနုဘော်ဖြင့်လွမ်းမူတော်မူသောအရှင်၊ အကျိုးအကြောင်း ဆင်ခြင်တုံဉာဏ် ပညာနှင့်ပြည့်စုံတော်မူသော အရှင်ဖြစ်တော်မူချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

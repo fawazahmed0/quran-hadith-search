@@ -710,6 +710,12 @@ i v chetyashtite Napomnyaneto [angeli]
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	တဖန်တရားသံဝေဂရရာရကြောင်း ကျမ်းမြတ်ကုရ်အာန်ကို ဖတ်ရွတ်လေ့လာသောသူတို့၊ ဤသူအပေါင်းကို စဉ်းစားဆင်ခြင်လျက် ငါအရှင်မြတ်၏ တန်ခိုးတော်၊ ဂုဏ်တော်ကို အောက်မေ့သတိရကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက်တစ်ဖန် (ငါအရှင်မြတ်သည်) "ဇစ်က်ရ်"ကမ္မဋ္ဌာန်းကို စီးဖြန်းသရဇ္ဈာယ်ကြသူတို့အား (တစ်နည်း) ကျက်မှတ်ရွတ်ဖတ် သရဇ္ဈာယ်သူတို့အား သက်သေထူတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

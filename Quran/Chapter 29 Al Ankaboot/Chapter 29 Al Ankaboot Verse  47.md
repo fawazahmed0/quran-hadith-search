@@ -710,6 +710,12 @@ I taka nizposlakhme na teb Knigata. Onezi, na koito dadokhme Pisanieto, vyarvat 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	တမန်တော်၊ ထိုနည်းတူငါသည် သင့်ထံသို့ ကျမ်းမြတ်ကုရ်အာန်ကို ချပေးသနားတော်မူ၏၊ ထို့အပြင်ရှေးလွန်လေ ပြီးသောအခါ၌ ကျမ်းတော်မြတ်နှင့် ချီးမြှောက်ခြင်းခံရသူတို့သည် ကုရ်အာန်ကျမ်းတော်ကို သက်ဝင်ယုံကြည် ကြလိမ့်မည်၊ မယုံကြည်သူတို့မှတပါး မည်သူတစ်စုံတစ်ယောက်မှ ငါ၏ကျမ်းဂန်တော်ကို တွန်းလှန်ဖယ်ရှား ကြမည်မဟုတ်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ဤနည်းအတိုင်းပင် ငါအရှင်မြတ် သည်အသင့်ထံသို့ ကျမ်းဂန်(ကုရ်အာန်ကျမ်းမြတ်)ကို ချပေးသနားတော်မူခဲ့၏။ သို့ဖြစ်ပေရာ ငါအရှင်မြတ် ကျမ်းဂန် ချီးမြှင့် ပေးသနားတော်မူခဲ့သောသူတို့သည် ယင်း(ကုရ်အာန်)ကျမ်းမြတ်ကိုယုံကြည်ကြကုန်၏။ ထိုမှတစ်ပါး ဤ(မက္ကာမြို့သားတို့)အနက်မှလည်း ယင်း(ကုရ်အာန်)ကျမ်းမြတ်ကို ယုံကြည်ကြသူများရှိ ကြ၏။ စင်စစ်သော်ကား ငါအရှင်မြတ်၏ ‘အာယတ်’တော်များကို ‘ကာဖိရ်’ သွေဖည်ငြင်းပယ်သောသူတို့ သည်သာလျှင် ငြင်းပယ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

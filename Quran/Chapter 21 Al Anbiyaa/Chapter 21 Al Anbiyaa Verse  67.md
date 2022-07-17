@@ -710,6 +710,12 @@ Uf i na vas, i na onova, na koeto sluzhite vmesto na Allakh! Nima ne proumyavate
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၇။	သင်တို့နှင့်တကွ အလ္လာဟ်အရှင်မြတ်မှတပါး သင်တို့ကိုးကွယ်သောဘုရားပျက်များသည် ရှက်ဖွယ်ဖြစ်ကြ၏၊ သင်တို့၌ ဆင်ခြင်တုံတရားမရှိသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထွီ၊ အသင်တို့သည် ၎င်းအလ္လာဟ်အရှင်မြတ်အပြင် အသင်တို့ကိုးကွယ်ကြသော အရာများသည် လည်းကောင်း၊ စက်ဆုပ်ဖွယ်ကောင်းလှပေသည်။ အသင်တို့သည် မသိနားမလည်ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

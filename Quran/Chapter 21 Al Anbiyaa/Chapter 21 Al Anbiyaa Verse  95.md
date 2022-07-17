@@ -710,6 +710,12 @@ I vŭzbraneno e na vsyako selishte, koeto sme pogubili, da se zavŭrne [na zemya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၅၊၉၆။	ထို့အပြင်ငါအရှင်မြတ်ပျက်စီးသေကြေစေတော်မူပြီးသော လူ့အစုအဖွဲ့များတို့အပေါ်၌ တားမြစ်ခြင်းတစ်ခုပြဋ္ဌာန်း ထားတော်မူ၏၊ ထိုပြဋ္ဌာန်းချက်မှာကား သူတို့သည် ယာဂျူး(ဂျ်)နှင့် မာဇု(ဂျ်)တို့ကို လွှတ်မပစ်သည့်တိုင်အောင် သူတို့သည် ရှင်ပြန်ထမြောက်ရမည်မဟုတ်၊ ထိုသို့လွှတ်ပစ်ထားသောအခါ သူတို့သည် သချုႋင်းအတွင်းမှ လျင်မြန်စွာထွက်လာကြရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား မည်သည့်မြို့ရွာကိုမဆို ငါအရှင်မြတ်သည် ဖျက်ဆီးတော်မူခဲ့ပါလျှင် ထိုမြို့သူ မြို့သားတို့အား (ဤလောကသို့ ၎င်းတို့ ပြန်လာကြရန် မဖြစ်နိုင်ပေ)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Dnes nikoĭ ne shte bŭde ugneten s nishto i shte vi se vŭzdade samo za onova,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၄။	ထို့အပြင်ထိုနေ့တော်ကြီး၌ မည်သည့်ဝိညာဉ်ကိုမျှ မတရားခံစားစေမည်မဟုတ်ချေ၊ သင်တို့အား မိမိတို့ပြုကျင့် ခဲ့သောကောင်းကျိုးဆိုးပြစ်များအလျောက်သာလျှင် ပြန်ပေးလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ယနေ့သော်ကား မည်သူတစ်ဦးတစ်ယောက်မျှပင် အနည်းငယ် စိုးစဉ်းမျှပင် မတရားပြုမူခြင်းကို ခံရမည်မဟုတ်ပေ။ ထိုမှတစ်ပါး အသင်တို့သည် မိမိတို့ကျင့်မူခဲ့ကြသော အမှုကိစ္စတို့၏ အစားပေးခြင်းကိုသာလျှင် ခံကြရကုန်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

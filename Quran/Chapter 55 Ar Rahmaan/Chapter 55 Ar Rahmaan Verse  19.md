@@ -710,6 +710,12 @@ Pusna Toĭ dvete moreta da se sreshtnat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	အရှင်မြတ်သည် ပင်လယ်နှစ်ပြင်ကို လွှတ်တော်မူ၏၊ ရေယဉ်နှစ်ခုတွေ့ဆုံပေါင်းစပ်စေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည်ပင် သမုဒ္ဒရာပင်လယ်နှစ်ခုကို လွှတ်တော်မူခဲ့ရာ ထိုသမုဒ္ဒရာ ပင်လယ်နှစ်ခုမှာ ဆုံဆည်း ဆက်စပ်လျက်ရှိကြ၏။ (တစ်နည်း) ထိုအရှင်မြတ်သည်ပင် ဆက်စပ် စီးဆင်းလျက်ရှိသော သမုဒ္ဒရာနှစ်ခုကို လွှတ်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

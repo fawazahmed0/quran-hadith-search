@@ -710,6 +710,12 @@ A drugi [ot neizlezlite za bitka] sa poluchili ot·srochka za reshenieto na Alla
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၆။	အရှင်မြတ်သည် သူတို့အား အပြစ်ဒဏ်ခတ်တော်မူမည်၊ သို့မဟုတ် အပြစ်လွှတ်တော်မူမည်ကို သိရန် အမိန့် ဗျာဒိတ်တော်ကို စောင့်ဆိုင်းနေကြသူများလည်း ရှိကြသေး၏။အလ္လာဟ်အရှင်မြတ်သည် သိတော်မူသောအရှင်၊ ပညာရှိတော်မူသောအရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အခြားသူတို့သည်လည်း ရှိကြကုန်၏၊ထိုသူတို့၏အရေးကိစ္စမှာ အလ္လာဟ်အရှင်မြတ်၏အမိန့်တော်(ကျရောက်သည်)အထိ ရွှေ့ဆိုင်းထားပြီး ဖြစ်ချေသည်။ ထိုအရှင်မြတ်သည် ၎င်းတို့အား ပြစ်ဒဏ်ပေးတော်မူသည်ဖြစ်စေ၊၎င်းတို့၏ ဝန်ချတောင်းပန်ချက်ကို သဘောတူလက်ခံတော်မူသည်ဖြစ်စေ၊ အမှန်စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည်အရာခပ်သိမ်းတို့ကို သိတော်မူသောအရှင်၊ ကျိုးကြောင်း ဆင်ခြင်တုံတရားနှင့် ပြည့်စုံတော်မူသောအရှင်၊ ဖြစ်တော်မူပေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

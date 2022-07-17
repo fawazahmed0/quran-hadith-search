@@ -710,6 +710,12 @@ I shte zasiyae zemyata sŭs svetlinata na neĭniya Gospod. I shte bŭde polozhe
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၉။	ထိုအခါ ကမ္ဘာမြေပြင်တဝှမ်းလုံးသည် မိမိ၏အရှင်သခင်၏ ရောင်ခြည်တော်အားဖြင့် ထွန်းလင်းတောက်ပရ၏၊ ပြုကျင့်မှုစာရင်းစာအုပ်ကြီးကိုလည်း ဖွင့်ထား၏၊ တမန်တော်များနှင့် သက်သေတော်များလည်း ရောက်လာကြ၏၊ သူတို့အလယ်ကြားတွင် တရားသဖြင့် မှန်ကန်စွာစစ်ကြောစီရင်တော်မူ၏၊ သူတို့ကို မတရားစီရင်တော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ပထဝီမြေမှာ ၎င်းကို ဖန်ဆင်းတော်မူသောအရှင်မြတ်၏ ရောင်ခြည်တော်ကြောင့် လင်းထိန်၍သွားပေမည်။ ထို့ပြင် မှတ်တမ်းစာအုပ်များသည်လည်း(အဆင်သင့်)ထားရှိပြီး ဖြစ်ကြပေမည်။ ထိုမှတစ်ပါး နဗီတမန်တော်တို့သည်လည်းကောင်း၊ "ရှဟီးဒ်"(အလ္လာဟ်အရှင်မြတ်၏လမ်းတော်၌ ကျဆုံးခဲ့ကြရသောသူ)တို့သည်လည်းကောင်း၊ (ရှေ့တော်မှောက်သို့) ရောက်လာကြရပေမည်။ ထို့ပြင် ၎င်းတို့၏ အကြားဝယ် တိကျမှန်ကန်စွာ စီရင်ဆုံးဖြတ်ပြီး ဖြစ်ချေမည်။ သို့ရာတွင် ၎င်းတို့မှာ (အနည်းငယ်စိုးစဉ်းမျှပင်) မတရားပြုလုပ်ခြင်းကို ခံကြရမည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

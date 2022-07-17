@@ -710,6 +710,12 @@ Ili shte kazhe: “Ako me be napŭtil Allakh, shtyakh da sŭm ot bogoboyazlivite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၇။	သို့မဟုတ် အကယ်၍ အလ္လာဟ်အရှင်မြတ်သည် ငါ့အား လမ်းပြတော်မူခဲ့ပါလျှင် ငါသည် အရှင့်ဝတ်ကို ပြု သူတို့ဘောင်တွင် အပါအဝင်ဖြစ်ခဲ့လတ့ံဟုလည်း မညည်းရလေအောင်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် (မည်သူမဆို) "ဧကန်အမှန် အလ္လာဟ်အရှင်မြတ်သည် ငါ့အား အကယ်၍သာ တရားလမ်းမှန်သို့ ပို့ပေးတော်မူခဲ့ပါလျှင် ငါသည် "မွတ္တကီ" ပြစ်မှုများမှ ကြဉ်ရှောင်ကြကုန်သော သူတော်စင်တို့အနက် အမှန်ပင် အပါအဝင်ဖြစ်ခဲ့ပေမည်" ဟူ၍ မပြောဆိုနိုင်ရန်လည်းကောင်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Nima onzi, koĭto be mŭrtŭv i go sŭzhivikhme, i mu otredikhme svetlina, da v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၂။	အကြင်သူသည် အနိစ္စရောက်ပြီးနောက် ငါသည် သူ့အား ပြန်ရှင်စေတော်မူပြီးလျှင် အမှောင်ထုထဲ သို့ ကျရောက်၍ အမှောင်ထုမှ မထွက်နိုင်သောသူနှင့် တူသလော။ မိစ္ဆာဒိဌိတို့အတွက် သူတို့၏ အပြုအမှုကို သင့်တင့်လျောက်ပတ်ဟန်ဆောင်စေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူသည် သူသေဖြစ်ခဲ့၏။ ထို့နောက်ငါအရှင်မြတ်သည် ထိုသူအား ရှင်စေတော်မူခဲ့၏။ ငါအရှင်မြတ်သည် ထိုသူ၏အဖို့ ‘အီမာန်’ တည်း ဟူသော လင်းရောင်ခြည်ကို ပြုပေးတော်မူခဲ့၏။ ထိုသူသည် ထိုလင်းရောင်ခြည်နှင့်တကွ လူတို့တွင် သွားလာလျက်ရှိ၏။ ထိုသူသည် အမှောင်ထု၌နစ်မွန်း၍ ထိုအမှောင်ထုထဲမှ မထွက်နိုင်ပဲလျက် ရှိနေသောသူနှင့် တူနိုင်ပါမည်လော။ ဤနည်းအတိုင်းပင် ကာဖိရ် မယုံမကြည်သွေဖည်ငြင်းပယ်သောသူတို့၏ အမြင်၌ ၎င်းတို့၏ အပြုအမူတို့ကို လှပတင့်တယ်အောင် ပြုထားပြီးဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

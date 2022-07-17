@@ -710,6 +710,12 @@ Izrađuj prostrane pancire i određuj plet, i radite dobro. Uistinu, Ja sam onog
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	ငါသည် တမန်တော်အား အို-ဒါဝတ်၊ သင်သည် သံချပ်အကျႌများပြုလုပ်လော့၊ ထိုအကျႌပြုလုပ်ရန် သံကွင်း များကို တစ်ကွင်းနှင့်တစ်ကွင်းအတက်အဆင်းမကျဉ်းမကျယ်တင့်တယ်ညီမျှစွာ ပြုလုပ်လော့၊ သင်သည် ကောင်း မြတ်သောအကျင့်သီလကို ကျင့်သုံဆောက်တည်လော့၊ ငါသည် သင်ပြုကျင့်သမျှအပေါင်းတို့ကို အကြွင်းမဲ့ သိတော်မူသောအရှင်ဖြစ်တော်မူ၏ဟု ဗျာဒိတ်ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ဒါဝူဒ် အားမိန့်ကြားတော်မူခဲ့၏။) အသင်သည် ပြည့်စုံသော သံချပ်အကျႌရှည်များကို ပြုလုပ်ပါလေ။ ၎င်းပြင် အသင်သည် (ကွင်းဆက်များကို) ဆက်ရာတွင် သင့်မြတ်အောင် ချိန်ဆခန့်မှန်း၍ ပြုလုပ်ပါလေ။ ထို့ပြင် (အို-ဒါဝူဒ်၏သားမြေးတို့) အသင်တို့သည်(ထိုဒါဝူဒ်နှင့်အတူ) ကောင်းမြတ်သောအကျင့်သီလကို ကျင့်မူဆောက်တည်ကြလေကုန်၊ ဧကန်မလွဲ ငါအရှင်မြတ်သည်အသင်တို့ ကျင့်မူပြုလုပ်သမျှတို့ကို အကြွင်းမဲ့သိမြင်တော်မူသောအရှင်မြတ် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

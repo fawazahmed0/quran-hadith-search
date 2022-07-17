@@ -710,6 +710,12 @@ ot kapka sperma, kogato se izkhvŭrlya [v utrobata]
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။	ယင်းလင်မယားစုံတွဲကို ကကလရေကြည်မှ ဖန်ဆင်းတော်မူ၏၊ ထိုရေကြသည် အဘထံမှ ထွက်၍ အမိသားအိမ် တွင်းသို့ သက်ဝင်ရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကလလရေကြည်ဖြင့်၊ ယင်းကလလရေကြည်သည် သွန်းလောင်းခြင်းခံရသောအခါ၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

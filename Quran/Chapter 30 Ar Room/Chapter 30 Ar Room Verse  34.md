@@ -710,6 +710,12 @@ za da otrekat onova, koeto Nie sme im dali. Naslazhdavaĭte se - shte uznaete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	ငါပေးသနားတော်မူသောကျေးဇူးတော်ကို မယုံကြည်ဖို့ရာ ထိုသို့ပြုမူကြ၏၊ ဤကျေးဇူးကန်းသူတို့အား သင်တို့ သည် လောကီစည်းစိမ်ကို ခေတ္တခဏခံစားကြလော့၊ သို့သော်သင်တို့သည် သိကြရလတ့ံဟု ဗျာဒိတ်စကား မိန့်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ငါအရှင်မြတ် ၎င်းတို့အား ချီးမြှင့်ပေးသနားတော်မူခဲ့သော ကျေးဇူးတော်များကို ငြင်းပယ် ကျေးဇူးကန်းကြအံ့သောငှာ (တွဲဖက်ကိုးကွယ်မှုကိုပြုကြကုန်၏)။ သို့ဖြစ်ပေရာ အသင်တို့သည် (အခိုက်အတန့်အားဖြင့်) အကျိုးကျေးဇူး ခံစားကြလေကုန်။ ထို့နောက် မကြာမြင့်မီပင် အသင်တို့သည် သိရှိကြရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

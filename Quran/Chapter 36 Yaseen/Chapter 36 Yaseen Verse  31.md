@@ -710,6 +710,12 @@ Ne vizhdat li kolko pokoleniya predi tyakh pogubikhme? Te ne shte se zavŭrnat p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	ထိုသူယုတ်တို့သည် မိမိတို့ကို မဖန်ဆင်းမီအထက်ကျော်ကာလ၌ အဘယ်မျှသောလူမျိုးဆက်ကို ငါအရှင်မြတ် ဖျက်သိမ်းတော်မူသည်ကို မသိကြသလော၊ ဤသေကြေပျက်စီးသွားသူတို့သည် ဤလူမိုက်တို့ထံ ပြန်လာမည် မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် ၎င်းတို့အလျင် မြောက်မြားစွာသော လူမျိုးဆက်တို့ကို ဖျက်ဆီးတော်မူခဲ့ရာ ထိုပျက်စီးခဲ့ကြရသော လူမျိုးဆက်တို့မှာ ၎င်းတို့ထံ ပြန်လာကြမည် မဟုတ်သည်ကို ၎င်းတို့သည် မမြင်ခဲ့ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

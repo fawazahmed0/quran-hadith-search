@@ -710,6 +710,12 @@ O, moi sinove, idete i prouchete za Yusuf i brat mu, i ne gubete nadezhda za mil
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၇။	ချစ်သားတို့၊ သင်တို့သည် ယူစွတ်(ဖ်)နှင့် သူ၏ ညီငယ်တို့အကြောင်းကို စုံစမ်းရှာဖွေကြလော့။ အရှင်မြတ်၏ ကောင်းကြီးမင်္ဂလတော်ကို မျှော်ကိုးခြင်း၌ စိတ်မပျက်ကြလင့်။ မှတ်သားကြလော့။ အယူမှားသူတို့မှတပါး အဘယ်သူမျှ အရှင်မြတ်၏ ကောင်းကြီးမင်္ဂလာတော်ကို မျှော်လင့်ခြင်း၌ စိတ်မလျှော့ကြချေဟု ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ငါ၏ချစ်သားတို့၊ အသင်တို့သည် ယူဆွဖ်အားလည်းကောင်း၊ ယင်းယူဆွဖ်၏ညီငယ်အား လည်းကောင်း၊သွား၍ရှာဖွေ စုံစမ်းကြလေကုန်။ ထိုမှတစ်ပါး အသင်တို့သည်အလ္လာဟ်အရှင်မြတ်၏ ကရုဏာတော်မှ မျှော်လင့်ချက်မကင်းကြကုန်လင့်။ ဧကန်မလွဲ ကာဖိရ် သွေဖည်ငြင်းပယ်သူတို့သည်သာလျှင် အလ္လာဟ်အရှင်မြတ်၏ကရုဏာတော်မှ မျှော်လင့်ချက် ကင်းကြပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

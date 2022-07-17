@@ -710,6 +710,12 @@ I spomenavaĭ imeto na svoya Gospod, i s vseotdaĭnost se posveti na Nego
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။ သို့သော်သင်သည် မိမိ၏အရှင်သခင်၏ နာမတော်ကို သတိရလျက် အရှင်မြတ်အား လုံးလုံးစွဲလမ်း၍ ကိုးကွယ် ဆည်းကပ်လော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် သင်သည် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏နာမံတော်ကို ရွတ်ဆို တသပါလေ။ ထိုမှတစ်ပါး အသင်သည် အနှောင်အဖွဲ့ဟူသမျှတို့ကို ဖြတ်တောက်၍ ထိုအရှင်မြတ်ဘက်သို့သာလျှင် အာရုံစူးစိုက်လျက် ရှိပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Gorko v tozi Den za otrichashtite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	တရားတော်ကို ငြင်းပယ်သောသူအပေါင်းသည် ထိုနေ့တော်ကြီး၌ ကြီးစွာပျက်စီးရတော့သည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ထိုနေ့တွင် မဟုတ်မမှန်ဟူ၍ စွပ်စွဲ ငြင်းပယ်ကြကုန်သော သူတို့၌ ပျက်စီးခြင်းသည် ရှိချေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I bŭdi na praviya pŭt, kakto ti be poveleno, ti i vseki pokayal se s teb, i ne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၂။	ထို့ကြောင့် သင်သည် သင့်အား မိန့်တော်မူသည့်အတိုင်း တရားလမ်းမှန်ကို လိုက်လျှောက်လော့။ သင်နှင့် အတူတကွ အလ္လာဟ်အရှင်မြတ်ဘက်တော်သို့ လှည့်သူတို့ကိုလည်း ယင်းသို့ကျင့်ကြံကြလော့။ သင်တို့သည် မကျူးလွန်ကြလင်။ မှတ်သားကြလော့။ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့ပြုကျင့်သည်ကို မြင်တော်မူသော အရှင်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်သည်လည်းကောင်း၊ ဝန်ချတောင်းပန်ပြီး အသင်နှင့်အတူရှိနေသူများသည် လည်းကောင်း၊အသင့်အမိန့်တော် ကျရောက်သည့်အတိုင်း ဖြောင့်မတ်တည်ကြည်စွာရှိကြလေကုန်။ ထို့ပြင် အသင်တို့သည် ကျူးလွန်ခြင်းမပြုကြ ကုန်လင့်။ ဧကန်မလွဲ ထိုအရှင်မြတ်သည် အသင်တို့ပြုမူသမျှတို့ကို ကောင်းစွာ မြင်တော်မူသော အရှင်မြတ်ပင်ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

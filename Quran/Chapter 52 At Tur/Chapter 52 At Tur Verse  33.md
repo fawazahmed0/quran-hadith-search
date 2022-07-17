@@ -710,6 +710,12 @@ Ili iskat da kazhat: “Sam si go e sŭchinil!” Ne, te ne vyarvat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	သို့မဟုတ် သူတို့က ဤကျမ်းတော်ကို သူဖန်တီး၏ဟု စွပ်စွဲသလော၊ ယင်းစွပ်စွဲချက်မမှန်ချေ၊ သို့သော် သူ တို့သည် ယုံကြည်မည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့တည်းမဟုတ် ၎င်းတို့က ထိုသူ(တမန်တော်မြတ်)သည် ဤ(ကုရ်အာန်ကျမ်းတော်မြတ်)ကို ကြံစည်ဖန်တီးခဲ့သည်ဟု ပြောဆိုကြလေသလော။ ထိုသို့ အလျှင်းမဟုတ်၊ စင်စစ်မှာကား ၎င်းတို့ ကိုယ်တိုင် သက်ဝင်ယုံကြည်ခြင်းမရှိကြပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

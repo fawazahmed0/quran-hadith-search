@@ -710,6 +710,12 @@ I rekokha: “Zashto ne mu be provoden angel?” A ako byakhme provodili angel, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	သူတို့က သူ့ထံသို့ ကောင်းကင်တမန်တော်တစ်ပါးကို အဘယ်ကြောင့် ချပေးတော်မမူသနည်းဟု မေးကြ၏။ အကယ်၍ ငါအသျှင်မြတ်သည် ကောင်းကင်တမန်တော်တစ်ပါးကို စေလွှတ်တော်မူခဲ့လျှင် ထိုအခါ ကိစ္စအဝဝကို အပြီးအစီး ဆုံးဖြတ်တော်မူပေလိမ့်မည်။ သူတို့သည် တွေးတောဆင်ခြင်ဘို့ရာ အချိန်ပိုရှိတော့မည်မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထိုသူတို့က အဘယ်ကြောင့် ၎င်း (နဗီတမန်တော်)၏အထံသို့ ကောင်းကင်တမန်တစ်ပါး စေလွှတ်ထားခြင်း မရှိပါသနည်း ဟု ပြောဆိုကြကုန်၏။ စင်စစ်မှာမူအကယ်၍သာ ငါအရှင်မြတ်သည် ကောင်းကင်တမန်တစ်ပါးပါးကို စေလွှတ်တော်မူခဲ့ပါလျှင် အရေးကိစ္စမှာ မုချဧကန်ပြီးဆုံးသွားမည် သာဖြစ်၏။ ထို့နောက်ပိုင်းတွင် ၎င်းတို့သည်(အပြစ်ပေးခြင်းမှ အနည်းငယ်မျှ) ရွှေ့ဆိုင်းခွင့်ကို ရရှိကြလိမ့်မည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

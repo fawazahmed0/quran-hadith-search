@@ -710,6 +710,12 @@ Podobno na onezi, koito byakha predi tyakh neotdavna, te vkusikha pagubnostta na
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅။	ထိုသူယုတ်မာတို့သည် မိမိတို့ထက် ကာလအနည်းငယ်မျှရှေးကျသောသူမိုက်တို့ကဲ့သို့ မိမိတို့ပြုကျင့်မှု၏ ဒုက္ခ အကျိုးကို ဤပစ္စုပ္ပန်ဘဝတွင် ခံစားရပြီ၊ နောင်တမလွန်ဘဝ၌လည်း သူတို့အတွက် အလွန်ပြင်းပြသောအပြစ် ဒဏ်တော်သည် အသင့်ရှိလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (၎င်းတို့၏ ဥပမာကား)၎င်းတို့နှင့် အချိန်ကာလ အနည်းငယ်အလျင် မိမိတို့၏ အပြုအမူများ၏ပြစ်ဒဏ်ကို မြည်းစမ်း သွားခဲ့ကြရသောသူတို့၏ ဥပမာကဲ့သို့ပင်။ ထိုမှတစ်ပါး ထိုသူတို့၌(တမလွန်ဘဝတွင်လည်း) နာကျင်ဖွယ်ဖြစ်သော ပြစ်ဒဏ်သည် ရှိပေဦးမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

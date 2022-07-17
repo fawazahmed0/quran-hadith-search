@@ -710,6 +710,12 @@ I ne sledvaĭ nevernitsite i litsemerite, i otmini obidite im, i se upovavaĭ 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	ထို့အပြင်မိစ္ဆာဒိဋ္ဌိနှင့် ယုံကြည်ဟန်ဆောင်သူများဘက်သို့ မယိမ်းမယိုင်လင့်၊ သူတို့၏ အကျိုးဆုတ်ယုတ်ဘေး ဥပါဒ်ဖြစ်စေတတ်သောစကားကို ဂရုမစိုက်ပဲ လျစ်လျူရှုလော့၊ အလ္လာဟ်အရှင်မြတ်ကို ကိုးစားကြလော့၊ကိုးစား အားထားရသူအဖြစ်ဖြင့် အရှင်မြတ်သည် လုံလောက်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အသင်သည် ကာဖိရ်သွေဖည်ငြင်းပယ်ကြကုန်သောသူတို့၏ ပြောဆိုချက်ကိုလည်းကောင်း၊ မုနာဖစ်က် အယောင်ဆောင်မုစ်လင်မ်တို့၏ ပြောဆိုချက်ကိုလည်းကောင်း၊ မလိုက်နာလေနှင့်။ ထို့ပြင် အသင်သည် ၎င်းတို့၏ထိပါးပြောဆိုမှုကို လျစ်လျူရှု၍ အလ္လာဟ်အရှင်မြတ်အပေါ်၌သာ ယုံပုံ လွှဲအပ်ထားပါလေ။ စင်စစ်မှာမူကား အလ္လာဟ်အရှင် မြတ်သည်ပင်လျှင် ကိစ္စအဝဝကို ပြီးစီးအောင် ဆောင်ရွက်ပေးတော်မူသောအရှင်မြတ်အဖြစ် လုံလောက်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

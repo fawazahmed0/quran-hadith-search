@@ -710,6 +710,12 @@ i za onezi, koito otbyagvat golemite grekhove i skvernostite, i dori da se gnevy
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	ထိုသူတို့သည် ကြီးလေးသောအပြစ်များနှင့် ရှက်ဖွယ်သောအပြုအမူတို့မှ ရှောင်ကြဉ်ကြ၏၊ အမျက်ဒေါသထွက် သော်လည်း သူတပါး၏ အပြစ်ကို လွှတ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အကြင်သူတို့အဖို့ဖြစ်၏။ ထိုသူတို့ သည်ကြီးလေးသော ပြစ်မှုဒုစရိုက်တို့မှလည်းကောင်း၊ ညစ်ညမ်းသောအမှုကိစ္စတို့မှလည်းကောင်း ကြဉ်ရှောင် ကြကုန်၏။ ထိုမှတစ်ပါး၎င်းတို့သည် မည်သည့်အခါမျိုးမဆို ဒေါသအမျက်ထွက်ကြသည်ရှိသော် ခွင့်လွှတ်လေ့ရှိကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

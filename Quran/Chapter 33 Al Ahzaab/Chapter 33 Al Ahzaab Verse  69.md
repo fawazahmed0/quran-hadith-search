@@ -710,6 +710,12 @@ O, vyarvashti, ne bŭdete kato onezi, koito ogorchavakha Musa! No Allakh go onev
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၉။	အို-ယုံကြည်သူအပေါင်းတို့၊ သင်တို့သည် တမန်တော်မူစာအား မဟုတ်မမှန်စွပ်စွဲသူများကဲ့သို့မဖြစ်စေလင့်၊ သို့သော်အလ္လာဟ်အရှင်မြတ်သည် သူတို့၏မဟုတ်မလျားစွပ်စွဲချက်များမှ တမန်တော်မူစာသည် ကင်းလွတ် သန့်ရှင်းကြောင်းကို ထင်ရှားစေတော်မူ၏၊ စင်စစ်အားဖြင့်တမန်တော်မူစာသည် အလ္လာဟ်အရှင်မြတ်အထံတော် ၌ ကြီးစွာချီးမြှောက်ခြင်းခံရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-မုအ်မင်န် သက်ဝင်ယုံကြည်သူအပေါင်းတို့၊ အသင်တို့သည် အကြင်သူတို့ကဲ့သို့ မဖြစ်ကြကုန်လင့်။ ထိုသူတို့သည် မူစာအား စိတ်ဒုက္ခပေးခဲ့ကြကုန်၏။ ထို့နောက်အလ္လာဟ်အရှင်မြတ်သည် ထိုမူစာအား ၎င်းင်တို့၏ ပြောဆိုစွပ်စွဲချက်များမှ အပြစ်ကင်းကြောင်း ထင်ရှားစေတော်မူခဲ့၏။စင်စစ် ထိုမူစာသည် အလ္လာဟ်အရှင်မြတ်အထံတော်၌ဂုဏ်ကျက်သရေနှင့် အလွန်ပြည့်စုံသူပင် ဖြစ်ခဲ့ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Kŭlna se v Allakh, shte se razpravya s vashite idoli, sled kato si idete.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၇။	ထို့အပြင်သူက ဆက်လက်၍ပြောသည်မှာ အလ္လာဟ်အရှင်မြတ်၏ တန်ခိုးတော်ကြောင့် သင်တို့သည် ကျောခိုင်း၍ ထွက်ခွာသွားသောအခါ ငါသည် သင်တို့၏ရုပ်ပွားများကို လှည့်ဖြားမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အလ္လာဟ်အရှင်မြတ်၏ကစမ်၊ ငါသည်အသင်တို့၏ (ကိုးကွယ်ရာဖြစ်သော) ရုပ်ပွားဆင်းတု များနှင့်စပ်လျဉ်း၍ အသင်တို့ပြန်သွားကြပြီးနောက် လျှို့ဝှက်ကြံစည်မည်ဖြစ်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

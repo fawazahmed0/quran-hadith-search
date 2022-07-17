@@ -710,6 +710,12 @@ Allakh i Negovite angeli blagoslavyat Proroka. O, vyarvashti, blagoslavyaĭte g
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၆။	မှတ်သားကြလော့၊ အို-ယုံကြည်သူအပေါင်းတို့၊ အလ္လာဟ်အရှင်မြတ်နှင့် ကောင်းကင်တမန်တော်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ တမန်တော်အပေါ်သို့ ကောင်းကြီးမင်္ဂလာမေတ္တာပို့သကြ၏၊ သင်တို့သည် တမန်တော် အပေါ်သို့ ကောင်းကြီးမင်္ဂလာပြုတော်မူရန် ဆုတောင်းကြလော့၊ တမန်တော်အား တွေ့သောအခါ ရိုသေ လေးမြတ်စွာနှုတ်ဆက်ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် အလ္လာဟ်အရှင်မြတ်သည်လည်းကောင်း၊ ထိုအရှင်မြတ်၏ မလာအိကဟ် ကောင်းကင် တမန်များသည်လည်းကောင်း၊ နဗီတမန်တော်မြတ် အပေါ်ဝယ်ကောင်းချီးမင်္ဂလာ ပို့သကြကုန်၏။ အို-မုအ်မင်န် သက်ဝင်ယုံကြည်သူအပေါင်းတို့၊ အသင်တို့သည်လည်း ထိုနဗီတမန်တော်မြတ်အပေါ်ဝယ် ကောင်းချီးမင်္ဂလာ ပို့သခြင်းကိုလည်းကောင်း၊ လွန်စွာ စလာမ် မေတ္တာပို့သခြင်းကိုလည်းကောင်းပြုကြ လေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Vlastta mu e samo nad onezi, koito se sblizhavat s nego i koito sŭdruzhavat s A
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝဝ။	သူ၏ သြဇာအာဏာသည် သူ့ကို မိတ်ဖွဲ့သူများနှင့် ဘုရားတုများကို အရှင်မြတ်နှင့်တွဲဖက်သူများတို့အပေါ်မှာသာ လွှမ်းမိုး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းရှိုင်တွာန်မိစ္ဆာကောင်၏ ဩဇာအာဏာသည်ကား ၎င်းအားအဆွေခင်ပွန်းဖွဲ့သော သူတို့နှင့် ယင်းရှိုင်တွာန်မိစ္ဆာကောင်ကြောင့် (အခြားအရာများကို အလ္လာဟ်အရှင်မြတ်နှင့်)တွဲဖက်ကိုးကွယ်သောသူတို့ အပေါ်၌သာရှိပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

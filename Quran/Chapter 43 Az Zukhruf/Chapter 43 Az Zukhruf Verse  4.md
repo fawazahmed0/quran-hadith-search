@@ -710,6 +710,12 @@ Toĭ e v Knigata-maĭka pri Nas - vŭzvisen, mŭdŭr
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	မှတ်သားကြလော့၊ ထိုကျမ်းတော်သည် ငါ၏အထံတော်၌ ရှိသောမူလဘူတပညတ်တော်များပါသောကျမ်းတော် မြတ်ဖြစ်၏၊ စင်စစ်အားဖြင့် ထိုကျမ်းတော်မြတ်သည် လွန်စွာမြင့်မြတ်၊ ရှင်းလင်းပြတ်သားသောကျမ်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ဧကန်စင်စစ် ကုရ်အာန်ကျမ်းတော်မြတ်သည် မူရင်းကျမ်း(ဖြစ်သော "လောင်ဟုမဟ်ဖူဇ်" သင်ပုန်း)တွင် ငါအရှင်မြတ်ထံတော်၌ အမှန်ပင် လွန်စွာ မြင့်မြတ်လှ၏။ ဉာဏ်ပညာရပ်နှင့် ပြည့်စုံလှ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

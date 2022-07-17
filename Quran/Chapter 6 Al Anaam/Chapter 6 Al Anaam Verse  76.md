@@ -710,6 +710,12 @@ I kogato go pokri noshtta, toĭ vidya zvezda. Reche: “Tova e moyat Gospod.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၆။	ညဉ့်အမှောင်ထုသည် သူ့ကိုဖုံးလွှမ်းသောအခါ သူသည် တောက်ထွန်းနေသော ကြယ်တစ်ပွင့်ကို မြင်ရ၏။ သူက ဤအရာသည် အကျွနု်ပ်၏အသျှင်သခင် ဖြစ်၏ဟုဆို၏။ သို့သော် ကြယ်ဝင်သော အခါ သူက အကျွနု်ပ်သည် ပျောက်ကွယ်သွားသောအရာများကို မနှစ်သက်ပေဟုဆိုပြန်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ညဉ့်(၏အမိုက်မှောင်)သည် ထို(အစ်ဗ်ရာဟီမ်)အား ဖုံးလွှမ်းသောအခါ ထို (တမန်တော်အစ်ဗ်ရာဟီမ်)သည် ကြယ်တစ်လုံးကို တွေ့မြင်လေ၏။ ထိုအခါတမန်တော်အစ်ဗ်ရာဟီမ်က ဤသည် ငါ့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင် ဖြစ်တော်မူသည်ဟုဆိုခဲ့၏။ တဖန် ထိုကြယ်ပျောက်ကွယ်သွားသောအခါ (တမန်တော်အစ်ဗ်ရာဟီမ်)က ငါသည်ကွယ်ပျောက်သွားသောအရာများကို မနှစ်သက်ပေဟုပြောကြားခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

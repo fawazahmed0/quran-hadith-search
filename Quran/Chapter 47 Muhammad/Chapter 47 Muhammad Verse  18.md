@@ -710,6 +710,12 @@ I nima ochakvat drugo osven vnezapno za tyakh da nastŭpi Chasŭt? Veche se poya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	ဤမိစ္ဆာဒိဋ္ဌိတို့သည် မိမိတို့အပေါ်၌ ရုတ်တရက်ရှောင်တခင်ကျရောက်လာမည့်အချိန်တော်ကြီးမှတပါး အဘယ် အရာကို စောင့်ဆိုင်းနေကြသနည်း၊ သို့သော်ထိုနေ့တော်ကြီး၏ ပုဗ္ဗနိမိတ်တို့သည် ထင်လာပြီး ထိုနေ့တော်ကြီး သည် သူတို့အပေါ်သို့ ဆိုက်ရောက်လာသောအခါ တရားတော်သည် သူတို့အား မည်သို့အကျိုးပေးနိုင်မည်နည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ၎င်းတို့သည် ရုတ်တရက် မိမိတို့ထံ’ကိယာမတ်’ ရှင်ပြန်ထမည့်အချိန်ကာလ ဆိုက်ရောက်လာခြင်းကိုသာလျှင် မျှော်လင့်စောင့်ဆိုင်း၍ နေကြကုန်၏။ သို့ဖြစ်လျှင် ဧကန်မလွဲ ယင်းရှင်ပြန်ထမည့်အချိန်ကာလ၏ နိမိတ်လက္ခဏာများမှာမူကား ရောက်လာခဲ့ချေပြီ။ သို့ဖြစ်ပေရာ ယင်းရှင်ပြန်ထမည့် အချိန်ကာလသည် ၎င်းတို့ထံ ရောက်လာသောအခါ ၎င်းတို့၌ သတိရခြင်းသည် အဘယ်မှာလျှင်အကျိုးရှိတော့အံ့နည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

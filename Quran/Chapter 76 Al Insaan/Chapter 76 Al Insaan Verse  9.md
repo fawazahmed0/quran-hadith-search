@@ -710,6 +710,12 @@ Samo vas hranimo radi lica Allahovog. Ne želimo od vas plaćanje, niti zahvalno
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။ သို့ကျွေးသောအခါ သူတို့ဤသို့ပြောဆိုကြ၏၊ အချင်းတို့၊ အကျွနု်ပ်တို့သည် အလ္လာဟ်အရှင်မြတ်အတွက်ကြောင့်သာ သင်တို့ကို ကျွေးမွေးပါ၏၊ သင်တို့ထံမှ ဆုလာဘ်ပဏ္ဍာကိုသော်လည်းကောင်း၊ ကျေးဇူးကိုသော် လည်းကောင်း မလိုလားပါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုကျွန်များက) ကျွန်ုပ်တို့သည် အသင်တို့အား အလ္လာဟ်အရှင်မြတ်အား ရည်စူး၍သာလျှင် ကျွေးမွေးကြ၏။ ကျွန်ုပ်တို့သည် အသင်တို့ထံမှ မည်သည့် အကျိုးကျေးဇူးကိုမျှလည်းကောင်း၊ မည်သည့် ကျေးဇူးတင်ခြင်းကိုလည်းကောင်း၊ ရည်စူးကြသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

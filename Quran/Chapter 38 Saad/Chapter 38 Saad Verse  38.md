@@ -710,6 +710,12 @@ a treti - vŭrzani v okovi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	ထို့အပြင်သံကြိုးနှင့်အတူတကွ ဖွဲ့နှောင်ထားသောရှိုင်တန်နတ်ဘီလူးများကိုလည်း တမန်တော်၏ အခိုင်းအစေ ဖြစ်စေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သံကြိုးများဖြင့် ပူးတွဲတုပ်နှောင်ထားခြင်းခံကြရသော အခြားဂျင်န်(န်)တို့ကိုလည်းကောင်း၊ (ထို "စုလိုင်မာန်"၏လက်အောက်ခံများအဖြစ် ဆောင်ရွက်စေတော်မူခဲ့၏)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

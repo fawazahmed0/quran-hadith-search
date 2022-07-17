@@ -710,6 +710,12 @@ I darenite sŭs znanieto vizhdat, che onova, koeto ti be nizposlano ot tvoya Gos
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	အကြင်သူတို့သည် အသိတရားကို ပေးသနားတော်မူခြင်းခံရအ့ံ၊ ထိုသူတို့သည် သင်၏အသက်သခင်ကျေးဇူးရှင် က သင့်အား ချပေးသနားတော်မူသောကျမ်းတော်မြတ်ကို မုချဧကန်မှန်ကန်သည်ဟူ၍ သိမြင်ကြ၏၊ ထိုကျမ်း တော်သည် အနန္တတန်ခိုးတော်အရှင်၊ အနန္တချီးမွမ်းထောပနာတော်သခင်၊ အလ္လာဟ်အရှင်မြတ်၏ လမ်းတော်သို့ ညွှန်ပို့သည်ဟုလည်း သိမြင်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်မှာကား အသိပညာကို ချီးမြှင့်ပေးသနားတော်မူခြင်း ခံခဲ့ကြရသော သူတို့သည် အသင့်ထံ ချပေးခြင်းခံခဲ့ရသော (ကုရ်အာန်ကျမ်းတော်)သည် မှန်ကန်သည်ဟူ၍ လည်းကောင်း၊ ထို(ကုရ်အာန်ကျမ်းတော်)သည် အလွန်တရာနိုင်နင်းလွှမ်းမိုးတော် မူသော၊ ချီးမွမ်းထောပနာခြင်းအပေါင်းကိုအလွန်တရာ ခံယူထိုက်တော်မူသော၊ အရှင်မြတ်၏လမ်းကိုညွှန်ပြသည်ဟူ၍လည်းကောင်း၊ (သိ)မြင်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

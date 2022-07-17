@@ -710,6 +710,12 @@ Naistina Toĭ znae yavnoto slovo i znae kakvo spotaĭvate
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁ဝ။	မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်သည် အတိအလင်းထုတ်ဖော်ပြောဆိုသည်ကိုသော်လည်းကောင်း၊ သင်တို့လျှို့ဝှက်ထားသည်ကိုသော်လည်းကောင်း၊ သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ထိုအရှင်မြတ်သည် (အသင်တို့၏)ထင်ရှားစွာ ပြောဆိုချက်ကိုလည်း သိရှိတော်မူ၏။ ထိုနည်းတူစွာထိုအရှင်မြတ်သည် အသင်တို့လျှို့ဝှက် ထားကြသည်ကိုလည်းသိရှိတော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

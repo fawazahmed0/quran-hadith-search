@@ -710,6 +710,12 @@ O, narode moĭ, vlezte v Sveshtenata zemya, koyato Allakh vi otredi, i ne ot·s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	အို-အကျွနု်ပ်၏အမျိုးသားအပေါင်းတို့ အလ္လာဟ်အသျှင်မြတ်သည် သင်တို့အဖို့အရာ အသီးသီး သတ်မှတ်ထားတော်မူသည့် ထူးမြတ်လှသောအောင်မြေကို ဝင်ရောက်နေထိုင်ကြလော့။ ထွက်ပြေး လာခြင်းမပြုကြလင့်။ အမှန်မှာ သင်တို့ထွက်ပြေးလျှင် ဆုံးရှုံးသူကဲ့သို့သာ ပြန်လာရသည်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 “အို- ကျွန်ုပ်၏အမျိုးသားအပေါင်းတို့ အသင်တို့သည် မိမိတို့အဖို့ အလ္လာဟ်အရှင်မြတ်က (သတ်မှတ်) ရေးသားတော်မူပြီးဖြစ်သော ထွတ်မြတ်သည့် (နယ်) အတွင်းသို့ ဝင်ရောက်ကြလေကုန်။ ၎င်းပြင် အသင်တို့သည် မိမိတို့၏နောက်ဘက်သို့လှည့်၍ ပြန်မသွားကြကုန်လင့်။ သို့ပြန်လှည့်သွားကြပါမူ အသင်တို့သည် ဆုံးရှုံးပျက်စီးသူများ ဖြစ်သွားကြရပေမည်။”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

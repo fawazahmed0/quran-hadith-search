@@ -710,6 +710,12 @@ Da, za priblizhenite na Allakh ne shte ima strakh i ne shte skŭrbyat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	မှတ်သားကြလော့၊ အကယ်စင်စစ်မှာ အလ္လာဟ်အရှင် အကြင်သူတို့အပေါ်သို့ ကြောက်ရွံ့ခြင်းမကျရောက်၊ အကြင်သူတို့သည် မပူဆွေး၊ ထိုသူတို့သည် အလ္လာဟ်၏ အဆွေတော်များဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-ကြားနာသူ အပေါင်းတို့ အသင်တို့သည်)သတိပြုကြလေကုန်။ အလ္လာဟ်အရှင်မြတ်၏ အဆွေတော်တို့အပေါ်၌မူကား တစ်စုံတစ်ရာကြောက်ရွံ့စိုးရိမ်ဖွယ်ရာလည်းရှိလိမ့်မည်မဟုတ်ပေ၊ ထို့ပြင် ၎င်း တို့သည် ဝမ်းနည်းပူဆွေးကြမည်လည်းမဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

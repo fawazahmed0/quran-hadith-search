@@ -710,6 +710,12 @@ Zashto kogato chukhte tova, vyarvashtite mŭzhe i zheni ne pomislikha dobro v se
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	ယုံကြည်သူမိန်းမယောက်ျားတို့သည် ထိုသတင်းစကားကို ကြားရသောအခါ မိမိတို့လူစုကို အဘယ်ကြောင့် အကောင်းမထင်ကြသနည်း၊ ထို့အပြင်ထိုမင်္ဂလာစကားသည် မုချဧကန်မုသားစကားဖြစ်သည်ဟု အဘယ်ကြောင့် မဆိုကြသနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းမုသားစွပ်စွဲချက်ကို အသင်တို့ကြားသိခဲ့စဉ်က ‘မုအ်မင်န်’ ယောက်ျားတို့သည်လည်းကောင်း၊ ‘မုအ်မင်န်’ မိန်းမတို့သည်လည်းကောင်း၊ မိမိတို့ အချင်းချင်းနှင့်ပက်သက်၍ အဘယ်ကြောင့် ကောင်းမွန်သော ထင်မြင်ချက်ကို မထင်မြင်မ ယူဆခဲ့ကြသနည်း။ ထိုမှတစ်ပါး ထို ‘မုအ်မင်န်’ ယောက်ျား မိန်းမတို့က ဤသည် ထင်ရှားလှစွာသော မုသားစွပ်စွဲချက်ပင် ဖြစ်သည်ဟု အဘယ်ကြောင့် မပြောဆိုခဲ့ကြသနည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

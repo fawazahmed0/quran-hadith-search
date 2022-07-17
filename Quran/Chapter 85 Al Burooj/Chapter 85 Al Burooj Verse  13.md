@@ -710,6 +710,12 @@ Toĭ nacheva i Toĭ presŭzdava
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။ အရှင်မြတ်သည် အစကနဦးကို ဖန်ဆင်းတော်မူ၏၊ ထပ်မံဖန်ဆင်းတော်မူ၏၊ ရှင်ပြန်ထမြောက်စေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ထိုအရှင်မြတ်သည်သာလျှင် (ပထမအကြိမ်) စတင်ဖန်ဆင်းတော်မူ၏။ တစ်ဖန် ထိုအရှင်မြတ်သည်သာလျှင်(ဒုတိယအကြိမ်)ပြန်လည် ဖန်ဆင်းတော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

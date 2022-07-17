@@ -710,6 +710,12 @@ Rekokha: “Pozovi ni tvoya Gospod, da ni razkrie kakŭv da bŭde tsvetŭt ĭ!�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၉။	တမန် သူတို့က နွားမ၏အရောင်ကို မိန့်တော်မူရန် သင်၏အရှင်သခင်အား လျှောက်ပါလော့ဟု ဆို၏။ ထိုအခါ မူဆာက မှတ်သားကြလော့။ နွားမ၏အရောင်မှာ အဝါဖြစ်၍ မြင်ရသူတိုင်း နှစ်သက် လောက်အောင် တောက်ပြောင်စေရမည်ဟု ဗျာဒိတ်တော်လာ၏ဟုဖြေဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (တဖန်) ယင်းအမျိုးသားများက (အို-နဗီ တမန်တော်မူစာ) ကျွန်တော်မျိုးများ သိနားလည်ရန်အဖို့ အသင့်အားမွေးမြူတော်မူသော အရှင်၏အထံ တော်၌ ထိုနွားမ၏ အသွေးအရောင် အဘယ်ကဲ့သို့ဖြစ်သည်ကို ကျွန်တော်မျိုးတို့အား ရှင်းလင်းဖော်ပြ ပေးသနားတော်မူရန် ဆုတောင်းပတ္ထနာ ပြုပေးပါဦး ဟု တောင်းပန် လျှောက်ထားကြသည်။ ထိုအခါ နဗီ တမန်တော်မူစာ (အလိုင်ဟစ္စလာမ်) က ပြန်လည်ဖြေ ကြားတော်မူသည်မှာ (အို-အချင်းတို့) ဧကန်စင်စစ် ယင်းနွားမသည် အဝါရင့်ရောင် တောက်ပြောင် လျက်ရှိပြီးကြည့်ရှုသူများအား စက္ခုပသာဒဖြစ်စေ၍ (စိတ်ကို) ကြည်လင်ရွှင်လန်းစေနိုင်သော နွားမပင်ဖြစ်စေရမည် ဟု အလ္လာဟ်အရှင်မြတ်က မိန့်ကြားတော်မူသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ A otkŭde da znaesh ti kakvo e Troshiloto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။ ဤအစိတ်စိတ်အမွှာမွှာ ချိုးဖဲ့သည့် စက်ရဟတ်သည် အဘယ်အရာ ဖြစ်သည်ကို သင်တမန်တောအား အဘယ်သူရှင်းလင်းပြောပြလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ထိုချိုးဖျက်ချေခွဲ အပိုင်းပိုင်း အစစဖြစ်စေသော (ငရဲ)သည် အဘယ်နည်းဟု အသင် သိပါသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

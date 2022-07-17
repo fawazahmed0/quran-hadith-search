@@ -710,6 +710,12 @@ I samudyanite napŭtikhme, no te predpochetokha slepotata pred napŭt·stvieto. 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	(ဆမွတ်ဒ်)အသင်းသားတို့အကြောင်းမူကား ငါသည် သူတို့အား အဆုံးအမကျမ်းတော်ကို ပေးသနားတော်မူ၏၊ သို့သော်သူတို့သည် တရားအလင်းရောင်ထက် အဝဇ္ဇာအမှောင်အမိုက်ကို သာလွန်လိုလားနှစ်သက်ကြ၏၊ ထို့ကြောင့်သူတို့သည် သူတို့ပြုကျင့်ခဲ့သောကံအတိုင်း အလွန်ပြင်းပြသောအပြစ်းဒဏ်ကို ခံကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ဆမူဒ် အမျိုးသားတို့မှာမူကား အမှန်စင်စစ် ငါအရှင်မြတ်သည် ၎င်းတို့အား တရားလမ်းမှန်ကို ညွှန်ပြတော်မူခဲ့သော်လည်း ၎င်းတို့မှာ တရားလမ်းမှန်ကို မြင်ခြင်းထက် မျက်စိကန်းခြင်းကိုသာ နှစ်သက်မြတ်နိုးခဲ့ကြကုန်၏။ သို့ဖြစ်ပေရာ ၎င်းတို့အား ၎င်းတို့၏ဆည်းပူးခဲ့ကြသည်များကြောင့်ဂုဏ်အသရေ ပျက်ပြားနိမ့်ကျစေသောပြစ်ဒဏ်၏ လောင်မီးသည် ဖမ်းဆီးကွပ်မျက်ခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

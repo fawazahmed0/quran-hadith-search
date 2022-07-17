@@ -710,6 +710,12 @@ shte se ubedyat, che gi e spoletyala beda, prechupvashta grŭbnaka
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။ သူတို့အပေါ်သို့ ဘေးဆိုးကြီးဆိုက်ရောက်လုနီးဖြစ်ကြောင်းကို သင်တမန်တော်သိရလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့၌ ခါးရိုးကျိုးစေမည့် ပြစ်ဒဏ်ကို ခံရမည်ကို ကောင်းမွန်စွာ သိလျက်ရှိကြကုန် အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

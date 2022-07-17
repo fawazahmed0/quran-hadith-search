@@ -710,6 +710,12 @@ I molete za oproshtenie vashiya Gospod, i se pokaĭte pred Nego! Moyat Gospod e
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉ဝ။	သင်တို့သည် သင်တို့၏ အရှင်သခင်ခံ အပြစ်လွှတ်တော်မူရန် တောင်းပန်ကြလော့။ အရှင်မြတ်ဘက်တော်သို့ သတိနောင်တရခြင်းဖြင့် လှည့်မူကြလော့။ မှတ်သားကြလော့။ ငါ၏ ကျေးဇူးတော်သခင်သည် ကောင်းကြီးမင်္ဂလာ ပေးတော်မူ၏။ ချစ်ခင်ကြင်နာတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင်တို့သည် မိမိတို့၏အရှင်မြတ်အထံတော်၌ လွတ်ငြိမ်းချမ်းသာခွင့်ကို ပန်ကြားကြလေကုန်။ထို့နောက် အသင်တို့သည် (မိမိတို့၏အာရုံကို) ထိုအရှင်မြတ်ဖက်သို့သာလျှင် လှည့်ကြလေကုန်။ ဧကန်မလွဲ ငါ့အားဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည် အလွန်တရာ ချစ်ကြင်တော်မူသော အရှင်မြတ်ပင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

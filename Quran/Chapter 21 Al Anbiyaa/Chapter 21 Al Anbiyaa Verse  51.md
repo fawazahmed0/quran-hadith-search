@@ -710,6 +710,12 @@ I oshte otrano nasochikhme Ibrakhim po praviya pŭt. Poznavakhme go Nie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁။	ငါသည် အထက်ကျော်ကာရီက တမန်တော်အေဗရာဟမ်အား သင့်တော်သောလမ်းကြောင်းကို ပေးသနားတော် မူ၏၊ ငါသည် သူတို့ကို သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ဧကန်မလွဲ ငါအရှင်မြတ်သည်(တမန်တော်)အိဗ်ရာဟီမ်အား ရှေးဦးမဆွကပင် ၎င်း၏ဆင်ခြင်တုံတရားကို ချီးမြှင့်ပေးသနားတော်မူခဲ့၏။ စင်စစ် ငါအရှင်မြတ်သည် ထိုအိဗ်ရာဟီမ်အား ကောင်းစွာသိတော်မူသော အရှင်မြတ်ပင်ဖြစ်တော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

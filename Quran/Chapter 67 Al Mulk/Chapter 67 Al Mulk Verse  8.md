@@ -710,6 +710,12 @@ edva ne izbukhva ot yarost. Vsyakoga, shtom v nego bŭde khvŭrlena tŭlpa, stra
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။ ငရဲမီး သည် အမျက်ချောင်းချောင်း ထကွ ်၍ ပေါက်ကွဲ လုမတတ်ကြောက်မက်ဖွယ်ရာအသံကြီးဖြင့် မြည်ဟီးလိမ့်မည်၊ ငရဲမီးထဲသို့ ဒုစရိုက်ကောင်တစ်စုကို ပစ်ချသောအခါတိုင်း ငရဲမှုများက "ဟယ်-မိစ္ဆာဒိဋ္ဌိတို့၊ နင်တို့ထံသို့ သတိပေးသူမလာရောက်လား" ဟု မေးကြလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမျက်ဒေါသကြောင့် ပေါက်ကွဲလုမတတ်ရှိပေမည်။ ယင်း"ဂျဟန္နမ်"ငရဲ၌ အုပ်စုတစ်စု ပစ်ချခြင်းခံရတိုင်း ယင်းငရဲကို စောင့်ကြပ်သော ကောင်းကင်တမန်များက ၎င်းတို့အား "အသင်တို့ထံ သတိပေး နှိုးဆော်သူ တစ်ဦးတစ်ယောက်မျှ မလာခဲ့လေသလော" ဟု မေးမြန်းကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

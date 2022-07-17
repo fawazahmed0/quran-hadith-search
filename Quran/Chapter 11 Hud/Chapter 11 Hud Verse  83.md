@@ -710,6 +710,12 @@ belyazani pri tvoya Gospod. Te ne sa dalech ot ugnetitelite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၃။	ထိုရွှံ့စေးခဲများကို သင်၏ အရှင်ကျေးဇူးတော်သခင်၏ တန်ခိုးတော်ကြောင့် သူယုတ်မာတို့ကို ဖျက်ဆီးဖို့ရာ မီးနှင့်မှတ်သားထားတော်မူ၏။ ထိုခဲများသည် ဒုစရိုက်ကောင်များထံမှ မည်သည့်အခါမှ မဝေးကွာချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုကျောက်ခဲများသည်) အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်မှ အထူး အမှတ်တံဆိပ်ခတ်နှိပ်ပြီးဖြစ်သော (ကျောက်ခဲများဖြစ်သည်)။ စင်စစ်ထိုမြို့ရွာသည် မတရားပြုမူကြကုန်သော (မက္ကာဟ်မြို့သား)တို့နှင့်ကား ဝေးကွာသည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

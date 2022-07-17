@@ -710,6 +710,12 @@ Kazhi: “Zabraneno mi be da sluzha na onezi, koito vie zovete vmesto Allakh, sl
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၆။	အို-တမန်တော်၊ ဟောပြောလော့၊ အချင်းတို့၊ ငါ၏အသက်သခင်၊ ကျေးဇူးရှင်ကြီးသည် ရှင်းလင်းထင်ရှားသော သက်သေခံချက်တော်များကို ချပေးသနားတော်မူပြီ၊ အရှင်မြတ်မှတပါး သင်တို့ခဝပ်ကိုးကွယ်သောဘုရားယောင် များကို မကိုးကွယ်ရန် ငါ့ထံသို့ ပညတ်တော်လာ၏၊ ထို့အပြင်အနန္တစကြဝဠာအပေါင်းတို့၏ အရှင်သခင်အားသာ လျှင် ကျိုးနွံနာခံရန်လည်း ပညတ်တော်လာ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (ဤသို့) ပြောကြားပါလေ။ (အချင်းတို့) ဧကန်မလွဲ ငါ၏ထံသို့ ငါ့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အထံတော်မှ ထင်ရှားစွာသော သက်သေလက္ခဏာတော်များ ရောက်လာခဲ့ပြီဖြစ်ရာ၊ ငါသည် အလ္လာဟ်အရှင်မြတ်မှတစ်ပါး အသင်တို့ ဟစ်ခေါ်တသကြကုန်သောသူတို့အား ဆည်းကပ်ကိုးကွယ်ခြင်းမပြုရန် တားမြစ်တော်မူခြင်းကိုခံရ၏။ ထိုမှတစ်ပါး ငါသည် စကြာဝဠာခပ်သိမ်းတို့ကို ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏အမိန့်တော်ကိုသာလျှင် လိုက်နာရန် အမိန့်ပေးတော်မူခြင်းကိုခံရ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

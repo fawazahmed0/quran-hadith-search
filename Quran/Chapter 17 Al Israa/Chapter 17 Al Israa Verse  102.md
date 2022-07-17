@@ -710,6 +710,12 @@ Reche [Musa]: “Ti veche uzna, che tezi [znameniya] gi nizposla kato yavni dovo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၂။	တမန်တော်မူစာက ဤနိမိတ်အ့ံဖွယ်တော်များကို မိုးကောင်းကင်နှင့် ကမ္ဘာမြေပြင်၏ အရှင်သခင်မှတပါး မည်သူမျှ ချမပေးနိုင်ကြောင်းကို မင်းကြီးအမှန်ပင်သိ၏။ အို-ဖွာရောမင်းကြီး၊ သင်သည် အမှန်ပင်ဆုံးရှုံးပျက်စီးသူ ဖြစ်သည်ဟု အကျွနု်ပ်ထင်မှတ်၏ဟု ပြန်ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမူစာက (ဤသို့)ပြောဆိုဖြေကြားခဲ့လေသည်။ဤသည်တို့ကို မိုးကောင်းကင်များကိုလည်းကောင်း၊ ပထဝီမြေကိုလည်းကောင်း၊ ဖန်ဆင်းတော်မူသော အရှင်မြတ်သည်သာလျှင် ပိုင်းခြားသိမြင်နိုင်စေသော သက်သေ သာဓကများအဖြစ်ချပေးတော်မူခဲ့ ကြောင်း။ အမှန်စင်စစ် အသင်သည်သိရှိခဲ့ပြီးဖြစ်ပေသည်။ ၎င်းပြင်၊ အို-ဖိရ်အောင်(န်) ဧကန်စင်စစ် ကျွန်ုပ်သည် အသင့်အား ဆုံးရှုံးဖျက်ဆီးခြင်းခံရမည်ဖြစ်သည်ဟု ထင်မှတ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

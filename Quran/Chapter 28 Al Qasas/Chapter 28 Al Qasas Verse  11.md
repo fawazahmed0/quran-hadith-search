@@ -710,6 +710,12 @@ I reche na sestra mu: “Prosledi go!” I tya go nablyudavashe ot·strani, bez 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။	ထို့အပြင်သူမသည် သူ၏အမအား ချစ်သမီး၊ သူသွားရာနောက်သို့ ကြည့်၍ကြည့်လော့၊ ထို့ကြောင့်သူမသည် မနီးမဝေးက လိုက်လံကြည့်ရှု၏၊ သို့သော်ဖွာရောမင်း၏လူတို့သည် သူမကို မမြင်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထို(မူစာ၏)မိခင်သည် ထိုမူစာ၏အစ်မအား အသင်သည် ၎င်းမူစာ၏နောက်သို့ လိုက်၍သွားလေဟုပြောဆိုခဲ့၏။ သို့ဖြစ်ပေရာ ထို(မူစာ၏)အစ်မသည် ၎င်းမူစာအား အဝေးမှ(စောင့်၍)ကြည့်နေခဲ့လေ၏။ သို့ရာတွင်၎င်း(ဖစ်ရ်အောင်န်၏အိမ်သူအိမ်သား)တို့သည် (ထိုမူစာ၏အစ်မအား မူစာ၏အစ်မဖြစ်သည်ဟူ၍) မသိကြပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

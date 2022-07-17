@@ -710,6 +710,12 @@ Koĭto e vrag na Allakh i na Negovite angeli, i na Negovite pratenitsi, i na Dz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၈။	အကြင်သူတို့သည် အလ္လာဟ်အရှင်မြတ်၏ ကောင်းကင်တမန်တော်များ၊ လူသားတမန်တော်များ ဂျေဗရာအီလ်နှင့် မြီကာအီလ်တို့၏ ရန်သူဖြစ်ကြအ့ံ။ အလ္လာဟ်အရှင်မြတ်သည် ထိုမယုံကြည်သူတို့၏ ရန်သူဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သူမဆို အလ္လာဟ် အရှင်မြတ်ကိုသော် လည်းကောင်း၊ ထိုအရှင်မြတ်၏ အပါးတော် စေတမန်များကိုသော် လည်းကောင်း၊ ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော်များ ကိုသော်လည်းကောင်း၊ အပါးတော်စေတမန် ဂျိဗ်ရီလ် (အလိုင်ဟစ္စလာမ်) ကိုသော်လည်းကောင်း၊ အပါးတော် စေတမန်မီကာလ် (အလိုင်ဟစ္စလာမ်) ကိုသော်လည်းကောင်း၊ ရန်မူခဲ့ပါမူ အလ္လာဟ် အရှင်မြတ်သည်လည်း (ထိုကဲ့သို့ရန် မူသော) ကာဖစ်ရ် သွေဖည် ငြင်းပယ်သောသူတို့၏ ရန်သူဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

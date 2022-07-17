@@ -710,6 +710,12 @@ I kogato im byakha cheteni Nashite yasni znameniya, nevernitsite kazvakha na vya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၃။	ငါ၏ ရှင်းလင်းထင်ရှားသောနှုတ်ကပတ်တော်များကို သူတို့အား ရွတ်ဖတ်ဆိုပြသောအခါ၊ မယုံကြည်သူတို့က ယုံကြည်သူတို့အား အချင်းတို့၊ သင်တို့ငါတို့နှစ်သင်းတွင် အဘယ်အသင်းက စည်းစိမ်ဥစ္စာ၊ သာလွန်ပေါများ၍ စစ်တပ်ပိုမိုခန့်ငြားကြသနည်းဟု ပြောကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ၎င်းတို့ရှေ့ဝယ် ငါအရှင်မြတ်၏ ထင်ရှားစွာသောအာယတ်တော်များကို ဖတ်ကြားသောအခါ ကာဖိရ်သွေဖည်ငြင်းပယ်သောသူတို့က မုအ်မင်န် သက်ဝင်ယုံကြည်သောသူတို့အား (ကျွန်ုပ်တို့နှင့်အသင်တို့) အုပ်စုနှစ်စုအနက်မည်သည့်အုပ်စုသည် အခြေအနေအားဖြင့် ပိုကောင်း၍ (မည်သည့်အုပ်စုသည်) အပေါင်းအဖော်အားဖြင့် ပို၍ကောင်းပေသနည်း ဟု ပြောဆို(မေးမြန်း)ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

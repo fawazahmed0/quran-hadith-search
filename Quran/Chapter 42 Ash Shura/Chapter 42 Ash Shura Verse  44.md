@@ -710,6 +710,12 @@ A kogoto Allakh ostavi v zabluda, toĭ nyama pokrovitel sled tova. I shte vidis
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	အကြင်သူအား အလ္လာဟ်အရှင်မြတ်သည် လမ်းမှား၌ ပစ်ထားတော်မူအ့ံ၊ ထိုသူအား အရှင်မြတ်မှတပါး ကာကွယ်စောင့်ရှောက်မည့်အဆွေခင်ပွန်းမရှိချေ၊ အေ-တမန်တော်၊ ဒုစရိုက်ကောင်များသည် ငရဲမီးကို မျက်ဝါး ထင်ထင်မြင်ရသောအခါ အချင်းတို့ ငါတို့သည် လောကဓာတ်သို့ ပြန်ဖို့ရာ လမ်းစလမ်းနတစ်ခုခုရှိသလောဟု သင်မြင်ရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အကြင်သူအား အလ္လာဟ်အရှင်မြတ်သည် လမ်းမှား၌ပင် ရှိစေတော်မူပါလျှင် ထိုသူ၏အဖို့ ထိုအရှင်မြတ်မှတစ်ပါး (ဤပစ္စက္ခတွင် လည်း)အမှားကိုပြုပြင်၍ ပေးအံ့သောသူဟူ၍ အလျှင်း မရှိတော့ပြီ။ထိုမှတစ်ပါး (အို-နဗီတမန်တော်နောင် တမလွန်ဘဝတွင်လည်း) အသင်သည် မတရားသော သူတို့အား ၎င်းတို့သည်ပြစ်ဒဏ်ကို တွေ့မြင်ကြသောအခါ(ကမ္ဘာလောကသို့)ပြန်သွားရန်နည်းလမ်း တစ်စုံတစ်ရာရှိပါသလောဟု ပြောဆိုနေကြမည်ကို တွေ့မြင်ရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

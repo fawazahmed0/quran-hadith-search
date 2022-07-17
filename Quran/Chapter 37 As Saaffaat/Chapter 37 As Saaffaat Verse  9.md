@@ -710,6 +710,12 @@ za propŭzhdane, i za tyakh ima postoyanno mŭchenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	ထို့အပြင်၎င်းမာရ်နတ်တို့သည် အပေါင်းအဖော်မရှိ၊ သပိတ်မှောက်ခြင်းခံရပြီးလျှင် ငရဲမီးထဲတွင် အမြဲလောင်ကျွမ်း ရသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 နှင်ထုတ်ခြင်းခံကြရလျက်၊ ထိုမှတစ်ပါး ၎င်းတို့၌ ထာဝစဉ်ခံကြရအံ့သော ပြစ်ဒဏ်သည်လည်း ရှိပေဦးမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

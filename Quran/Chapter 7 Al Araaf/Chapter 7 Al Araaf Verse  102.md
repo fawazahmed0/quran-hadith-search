@@ -710,6 +710,12 @@ I ne namerikhme u mnozinstvoto im obet, a namerikhme, che mnozinstvoto im sa nec
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၂။	ငါအသျှင်မြတ်သည် သူတို့အနက် များလှစွာသောသူတို့သည် ပဋိညာဉ်များကို မစောင့်ထိန်း၊ သစ္စာ မရှိကြောင်းကို တွေ့တော်မူ၏။ ထိုမျှမက သူတို့အနက် များပြားလှစွာသောသူတို့သည် ဒုစရိုက် မကောင်းမှုကို ကျူးကျော်သူများဖြစ်ကြောင်းကို ငါသိမြင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်သော်ကား ငါအရှင်မြတ်သည် 4င်းတို့အနက် မြောက်မြားစွာသောသူတို့ ၌ ကတိသစ္စာတည်ကြည်မှုကို တွေ့ရှိတော်မမူခဲ့ချေ၊ စင်စစ်တမူကား ငါအရှင်မြတ်သည် 4င်းတို့ အနက်မြောက်မြားစွာသောသူတို့အား တရားလမ်းမှန်ကို ဖယ်ရှားသူများသာ တွေ့ရှိတော်မူခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

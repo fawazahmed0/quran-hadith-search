@@ -710,6 +710,12 @@ I mu podchinikhme vyatŭra leko da dukha spored negovata povelya, kŭdeto poiska
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	ထိုအခါ ငါသည် လေကို တမန်တော်စိုလိုင်မာန်၏ အမိန့်ကို နာခံစေတော်မူ၏၊ လေသည် တမန်တော်၏ အမိန့်အတိုင်းရောက်လိုသောအရပ်သို့ ဖြည်းညှင်းသာယာစွာယူဆောင်၍ သွားလေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်၍ ငါအရှင်မြတ်သည် ထို"စုလိုင်မာန်"၏အဖို့ လေကို ၎င်း၏လက်အောက်ခံအဖြစ် ဆောင်ရွက်စေတော်မူခဲ့ရာ ထိုလေသည် ထို"စုလိုင်မာန်" အလိုရှိရာအရပ်သို့ ၎င်း၏အမိန့်နှင့် ညင်သာစွာတိုက်ခတ် သွားလာနေခဲ့သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

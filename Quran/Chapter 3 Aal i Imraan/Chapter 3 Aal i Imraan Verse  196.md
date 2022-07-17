@@ -710,6 +710,12 @@ Da ne te mami ozhivlenieto na nevernitsite po zemyata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉၆။	အို-မိုဟမ္မဒ် ကမ္ဘာမြေပေါ်ဝယ် အယူဝါဒမှောက်မှားသူတို့၏ အောင်မြင်မှုသည် သင့်အား မလှည့်စားစေလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အမြို့မြို့အရွာရွာတွင်(လောကီစည်းစိမ်များဖြင့် ပြည့်ပြည့်စုံစုံ ချမ်းသာစွာ) ကာဖိရ်တို့၏သွားလာခြင်းသည် အသင့်အား အထင်မှား အမြင်မှားမဖြစ်စေနှင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

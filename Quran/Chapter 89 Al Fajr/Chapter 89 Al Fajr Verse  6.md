@@ -710,6 +710,12 @@ Ne vidya li ti kak postŭpi tvoyat Gospod s aditite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၊၇။ အို-တမန်တော်၊ သင်၏ အရှင်သခင်သည် အလွန်မြင့်မားသောကျောက်တိုင်များပြည့်လျှံသော(အေရမ်)မြို့တော် ကြီးသား(အားဒ်)လူမျိုးကို မည်သို့မည်ပုံ စီရင်တော်မူလိုက်သည်ကို သင်မစဉ်းစားမဆင်ခြင်သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်)အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည် "အာဒ်"အမျိုးသားတို့အား မည်သို့ပြုလုပ်တော်မူခဲ့သည်ကို အသင်သိမြင်ခဲ့ပြီ မဟုတ်လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

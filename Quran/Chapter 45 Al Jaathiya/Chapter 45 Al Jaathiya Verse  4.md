@@ -710,6 +710,12 @@ I vŭv vasheto sŭtvoryavane, i v tova na tvarite, prŭsnati [po zemyata], ima z
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	အို-လူသားအပေါင်းတို့၊ သင်တို့ကို ဖန်ဆင်းတော်မူခြင်းနှင့် တိရိစ္ဆာန်သတ္တဝါများကို ကမ္ဘာမြေပေါ်ဝယ် အနှံ့အပြား ကြဲဖြန့်ထားတော်မူခြင်းတို့၌လည်း အမှန်အကန်ယုံကြည်သူတို့အဖို့အရာ သက်သေသာဓကတော်များပါရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အသင်တို့အား ဖန်ဆင်းခြင်း၌လည်းကောင်း၊ ထိုအရှင်မြတ် ပျံ့နှံ့စေတော်မူသော တိရစ္ဆာန်တို့ကို ဖန်ဆင်းခြင်း၌လည်းကောင်း၊ ယုံကြည်ကြကုန်သော သူတို့အဖို့ သက်သေလက္ခဏာများသည် ရှိကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

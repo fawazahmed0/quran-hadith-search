@@ -710,6 +710,12 @@ Za onezi, koito vyarvat i vŭrshat pravedni dela, sa Gradinite na blazhenstvoto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	မှတ်သားလော့၊ အကြင်သူတို့သည် သမ္မာတရားတော်ကို ယုံကြည်လျက် သုစရိုက်ကောင်းမှုများကို ပြုကျင့်အ့ံ၊ ထိုသူတို့အတွက် သုခဥယျာဉ်တော်များရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ အီမာန် သက်ဝင်ယုံကြည်၍ကောင်းမြတ်သောအကျင့်သီလများကို ကျင့်မူဆောက် တည်ကြကုန်သော သူတို့အဖို့ စည်းစိမ်ချမ်းသာနှင့် ပြည့်စုံသောဥယျာဉ်များ ရှိကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Poveleno mi be da sluzha edinstveno na Gospoda na tozi grad [Meka], koĭto Toi�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၁။	အို-တမန်တော်မိုဟမ္မဒ်၊ သင်ဟောကြားလော့၊ ဤမြေကို အထွဋ်အမြတ်ဖြစ်စေတော်မူသော ဤမြေ၏အရှင် သခင်အားသာလျှင် ခဝပ်ကိုးကွယ်ဖို့ရာ အကျွနု်ပ်အား ပညတ်တော်မူ၏၊ အရာခပ်သိမ်းတို့ကို အရှင်မြတ်သာလျှင် စိုးပိုင်တော်မူ၏၊ အရှင်မြတ်အား ကျိုးနွံနာခံသူတို့ဘောင်တွင် အပါအဝင်ဖြစ်ဖို့ရာ အကျွနု်ပ်အား ပညတ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်၊ အသင်သည် ဤသို့ပြောကြားပါလေ)။ ငါသည် ဤ(မက္ကာ)မြို့တော်၏ အရှင်သခင်(အစစ်အမှန်)အား ဆည်းကပ်ကိုးကွယ်ရန် အမိန့်ပေးတော်မူခြင်းကို ခံရလေသည်။ ထိုအရှင်မြတ်သည် ဤမြို့တော်ကို ထူးမြတ်စေတော်မူခဲ့သည်။ အမှန်မှာ အရာခပ်သိမ်းတို့သည် ထိုအရှင်မြတ် ပိုင်ဆိုင်သောအရာများပင် ဖြစ်ကြကုန်၏။ ၎င်းပြင်ငါသည် ‘မွတ်စ်လင်မ်’ အမိန့်တော်ကို လိုက်နာသူများတွင် အပါအဝင်ဖြစ်ရန် အမိန့်ပေးတော်မူခြင်းလည်းခံရပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Posle v Denya na vŭzkresenieto pred vashiya Gospod shte se osporvate
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	ထို့နောက် ရှင်ပြန်ထမြောက်တရားစီရင်တော်မူသောနေ့တော်ကြီး၌ မိမိတို့၏ အရှင်သခင်ရှေ့တော်ဝယ် သင်တို့ သည် အငြင်းအခုံပြုကြမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် အသင်တို့သည် "ကိယာမတ်" ရှင်ပြန်ထမည့်နေ့တွင် မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ရှေ့တော်မှောက်ဝယ် ဧကန်အမှန် အငြင်းအခုံ ပြုကြကုန်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

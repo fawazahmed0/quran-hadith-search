@@ -710,6 +710,12 @@ Tozi e samo edin mŭzh, koĭto izmislya lŭzha za Allakh, i nikoga ne shte mu p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	ထိုသူသည် အလ္လာဟ်အရှင်မြတ်၏ အကြောင်းတော်ကို မုသားဖန်တီးသူသာဖြစ်၏၊ အကျွနု်ပ်တို့သည် သူ့အား ယုံကြည်ကြမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသူသည် အလ္လာဟ်အရှင်မြတ်အပေါ်၌ မဟုတ်မမှန် မုသားစကားကို လီဆယ်ပြောဆိုသူတစ်ဦးမျှဖြစ်ပေရာ ကျွန်ုပ်တို့သည် ၎င်းအား ယုံကြည်မည့်သူ့ အလျှင်းမဟုတ်ကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

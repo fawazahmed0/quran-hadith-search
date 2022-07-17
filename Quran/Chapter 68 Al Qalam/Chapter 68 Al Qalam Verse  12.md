@@ -710,6 +710,12 @@ vŭzpira dobroto, prestŭpva, sŭgreshava
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။ ထိုသူမိုက်သည် ကုသိုလ်ကောင်းမှုကို တားဆီး၏၊ တရားတော်ကို ကျူးလွန်၏၊ ရာဇဝတ်မှုပြုကျင့်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကောင်းမှုကို လွန်စွာ တားမြစ်သူ၊ စည်းကမ်းကျူးလွန်သူ၊ လွန်စွာ အပြစ်ကျူးလွန်သူ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

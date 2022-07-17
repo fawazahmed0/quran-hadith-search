@@ -710,6 +710,12 @@ Pratenik ot Allakh, chetyasht prechisteni svitŭtsi [ot Korana]
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။ ထိုထင်ရှားသောသက်သေခံချက်သည် သန့်ရှင်းစင်ကြယ်သောကျမ်းတော်မြတ်ကို ရွတ်ဖတ်သော အလ္လာဟ် အရှင်မြတ်အထံတော်မှ တမန်တော်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုထင်ရှားစွာသော သက်သေသာဓကမှာ ၎င်းတို့ရှေ့ဝယ်) သန့်ရှင်းသော ကျမ်းစာများကို ဖတ်ကြားအံ့သော အလ္လာဟ်အရှင်မြတ်၏ ရစူလ်တမန် တော်တစ်ပါးပင်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

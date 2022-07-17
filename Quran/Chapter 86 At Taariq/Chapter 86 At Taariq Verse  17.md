@@ -710,6 +710,12 @@ I daĭ ot·srochka na nevernitsite, ot·srochi gi za kratko
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။ ထို့ကြောင့်အယူလွဲသူတို့အား အပြစ်ဒဏ်ခတ်မည့်အချိန်ကာလကို ရွှေ့ဆိုင်းထားလော့၊ သူတို့အား သိမ်မွေ့စွာ ခေတ္တဆက်ဆံလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော်) အသင်သည် "ကာဖိရ်" သွေဖည်ငြင်းပယ်သောသူတို့အား ရွှေ့ဆိုင်းခွင့်ပေးပါလေ။ အသင်သည် ၎င်းတို့အား မသိမသာ အချိန်ဆွဲ၍ ထားပါလေ။ (ခေတ္တ လန်စမ်းထားပါလေ။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

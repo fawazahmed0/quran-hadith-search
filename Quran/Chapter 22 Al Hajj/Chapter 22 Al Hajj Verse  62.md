@@ -710,6 +710,12 @@ Taka e, zashtoto Allakh e Istinata, a onova, koeto zovat vmesto Nego, e lŭzhata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	ထို့အပြင်အလ္လာဟ်အရှင်မြတ်သည် အစစ်အမှန်ဖြစ်တော်မူသောကြောင့်တည်း၊ အရှင်မြတ်မှတပါး မိစ္ဆာမိုက်တို့ ကိုးကွယ်သောဘုရားများသည် အစစ်အမှန်မဟုတ်သောကြောင့်တည်း၊ အလ္လာဟ်အရှင်မြတ်သည် အတိုင်းထက် အလွန်ကြီးကျယ်မြင့်မြတ်တော်မူသောအရှင်ဖြစ်သောကြောင့်တည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤ(သို့ကူညီတော်မူခြင်းကား) အလ္လာဟ်အရှင်မြတ်သည်သာလျှင် မှန်ကန်သော အရှင်ဖြစ်တော်မူ၍ ထိုသူတို့ ဟစ်ခေါ်(တသကိုးကွယ်)ကြသော အရာများမှာမူကား (လုံးဝ)မှားသောကြောင့်လည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ်သည်သာလျှင် အလွန်မြင့်မြတ်တော်မူသောအရှင်၊ အလွန်ကြီးကဲတော်မူသောအရှင်၊ ဖြစ်တော်မူသောကြောင့်လည်းကောင်း၊ ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Tova e ot vestite na nevedomoto, koito ti razkrivame [o, Mukhammad]. Ne beshe ti
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၂။	တမန်တော်မိုဟမ္မဒ်၊ ဤအကြောင်းအရာများမှ သင့်အား ငါ ဗျာဒိတ်ပေးတော်မူသည့်၊ မမြင်စွမ်းနိုင်သောအဖြစ် အပျက်အကြောင်းအရာများမှဖြစ်သည်။ သူတို့သည် သူတို့၏ စီမံကိန်းကို ကြံစည်သဘောတူဆုံးဖြတ်သောအခါ တွင် သင်သည် သူတို့နှင့်အတူတကွမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤအကြောင်း အတ္ထုပ္ပတိ္တသည်ကား အကွယ်၌ရှိသော သတင်းများအနက်မှပင် ဖြစ်ပေသည်။ ငါအရှင်မြတ်သည် ယင်းအကြောင်း အတ္ထုပ္ပတိ္တကို အသင်(မုဟမ္မဒ်)ထံသို့ဝဟီဖြင့် ပေးပို့တော်မူလေသည်။ စင်စစ်တစ်မူကား ထိုသူတို့သည် မိမိတို့ အရေးကိစ္စကို တစ်စည်းတစ်လုံးတည်း ဆုံးဖြတ်စဉ်အခါ၌လည်းကောင်း၊ ထိုသူတို့သည် ကြံစည်လျက် ရှိနေကြစဉ်ခါ၌လည်းကောင်း၊ အသင်(မုဟမ္မဒ်)သည် ထိုသူတို့ထံ၌ ရှိခဲ့သည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

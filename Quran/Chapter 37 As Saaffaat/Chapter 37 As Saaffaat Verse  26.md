@@ -710,6 +710,12 @@ Da, v tozi Den shte sa pokorni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	ထိုနေ့တော်ကြီး၌ သူတို့သည် မာနမကြီးပဲ ညှိုးငယ်ကျိုးနွံသောစိတ်ဖြင့် ဦးညွှတ်ချ၍ အမိန့်တော်ကို နာယူကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်မှာကား ၎င်းတို့သည် ထိုနေ့တွင် ဦးခေါင်းညွှတ်ချ အညံ့ခံကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ i Toĭ sŭzhivyava i umŭrtvyava
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၄။	ထို့အပြင်အရှင်မြတ်သည် ဖြစ်ခြင်း၊ ပျက်ခြင်း၊ အသက်ရှည်ခြင်း၊ သေခြင်းတို့ကို စီရင်တော်မူသောအရှင်ဖြစ်တော် မူကြောင်းလည်းဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည် မချွတ်မလွဲ သေစေတော်မူသည်၊ ရှင်စေတော်မူသည်ဟူ၍လည်းကောင်း၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

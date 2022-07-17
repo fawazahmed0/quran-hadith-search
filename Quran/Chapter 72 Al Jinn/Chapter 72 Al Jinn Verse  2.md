@@ -710,6 +710,12 @@ Nasochva toĭ kŭm praviya pŭt. Zatova povyarvakhme v nego i nikogo ne shte s�
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။ ထိုကျမ်းတော်သည် ဖြောင့်မတ်မှန်ကန်သောလမ်း ကို ပြ၏၊ ငါတို့သည် တရားတော်ကို ယုံကြည်ကြပြီ၊ ငါတို့သည်ငါတို့၏ အရှင်သခင်နှင့် မည်သည်ကိုမှ တန်းတူထားကြမည် မဟုတ်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်းကုရ်အာန်ကျမ်းတော်မြတ်သည် ဖြောင့်မှန်သော တရားလမ်းကို ညွှန်ပြသည်ဖြစ်ရာ ကျွန်ုပ်တို့သည် ထိုကုရ်အာန်ကျမ်းတော်မြတ်ကို သက်ဝင်ယုံကြည်ခဲ့ကြလေပြီ။ ၎င်းပြင် ကျွန်ုပ်တို့သည် မည်သူတစ်ဦးတစ်ယောက်ကိုမျှပင် မိမိတို့အား ဖန်ဆင်း မွေးမြူတော်မူသော အရှင်မြတ်နှင့် တွဲဖက်နှိုင်းယှဉ်ကြမည် မဟုတ်ပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

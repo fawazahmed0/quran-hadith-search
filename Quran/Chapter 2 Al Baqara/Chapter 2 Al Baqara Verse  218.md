@@ -710,6 +710,12 @@ Koito povyarvakha i koito se preselikha, i se borekha po pŭtya na Allakh, te se
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁၈။	မှတ်သားကြလော့၊ ယုံကြည်သူများ၊ ဖိနှိပ်ညှင်းပန်းမှုကြောင့် မိမိတို့နေရပ်မှ ထွက်ပြေးရသူများ၊ အလ္လာဟ်အရှင်မြတ်၏လမ်းတော်ဝယ် ကျိုးပမ်းအားထုတ်သူများ၊ ဤသူတို့သည် အလ္လာဟ်အရှင်မြတ် ၏ ကောင်းချီးမင်္ဂလာတော်ကို မျှော်ကိုးကြ၏။ အလ္လာဟ်အရှင်မြတ်သည် အပြစ်လွှတ်တော်မူသော အရှင်၊ ကောင်းချီးမင်္ဂလာပေးသနားတော်မူသောအရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မုချ အကြင်သူတို့သည်အီမာန် ယုံကြည် ခြင်းသဒ္ဓါတရားထားရှိကြ၏။ ထို့ပြင် အကြင်သူတို့သည် (မိမိတို့ ၏နေရင်းဌာနများကိုပင်) စွန့်၍ ထွက်ခွာသွားကြကုန်၏။ ထို့ပြင် ယင်းသူတို့သည် ဂျိဟာဒ် အလ္လာဟ် အရှင်မြတ်၏ လမ်း၌ သက်စွန့်ကြိုးပမ်းဆောင်ရွက်ကြကုန်၏။ ဤသူများ သည်ပင် အလ္လာဟ်အရှင်မြတ်၏ ကရုဏာတော်ကို မြှော်လင့် တောင့်တကြကုန်သည်။ဧကန်စင်စစ် အလ္လာဟ် အရှင်မြတ် သည် အကြိမ်ကြိမ် အဖန်ဖန် ချမ်းသာခွင့် ပေးသနား တော်မူ သောအရှင်၊ အစဉ်မပြတ် သနားကြင်နာတော် မူသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

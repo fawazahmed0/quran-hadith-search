@@ -710,6 +710,12 @@ osven koito se pokayat, predi da gi nadviete. I znaĭte, che Allakh e oproshtav
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	သို့သော် သင်တို့သည် သူတို့အား မလွှမ်းမိုးမိအောင် သူတို့အနက် သတိသံဝေဂရသူတို့အား ချမ်းသာပေးချေမည်။ အကြောင်းမူကား အလ္လာဟ်အသျှင်မြတ်သည် အပြစ်လွှတ်တော်မူသော အသျှင်၊ ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူသောအသျှင် ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကြင်သူတို့သည် အသင်တို့ လက်ရမဖမ်းဆီးမီ (သတိသံဝေဂ၊ နောင်တတရားရရှိကာ) ဝန်ချတောင်းပန်ခဲ့ကြသည်ရှိသော် ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အလွန်တရာမျှ လွတ်ငြိမ်းချမ်းသာခွင့် ပေးသနားတော်မူသောအရှင်၊ အလွန် သနားကြင်နာ ညှာတာတော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူကြောင်းကို အသင်တို့သည် သိထားကြလေကုန်။ (ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

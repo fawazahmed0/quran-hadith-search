@@ -710,6 +710,12 @@ i se vslusha v svoya Gospod, i se podchini
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၊၄၊၅။ ကမ္ဘာမြေကြီးသည် အညီအညာဖြန့်ခင်းထားခြင်းကို ခံရ၏၊ ထို့နောက်မိမိအတွင်းရှိရှိ သမျှတို့ကို အန်ထုတ်ပစ်ရ၏၊ ထို့နောက်ဟာလာဟင်းလင်းဖြစ်လျက် မိမိအရှင်သခင်၏ အမိန့်တော်ကို ကြောက်ရွံ့သေချာစွာနာခံရသောအခါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ယင်းပထဝီမြေသည် မိမိအား ဖန်ဆင်းတော်မူသော အရှင်မြတ်၏ အမိန့်တော်ကို နာခံစေမည်။ စင်စစ် ယင်းပထဝီမြေသည် ယင်းသို့ နာခံရန်သာ ထိုက်တန်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

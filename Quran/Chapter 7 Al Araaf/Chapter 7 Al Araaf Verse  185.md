@@ -710,6 +710,12 @@ Nima ne poglednakha kŭm vladenieto na nebesata i na zemyata, i kŭm neshtata, k
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈၅။	သူတို့သည် မိုးမြေနိုင်ငံတော်ကြီး၊ အလ္လာဟ်အသျှင်မြတ် ဖန်ဆင်းတော်မူသောအရာများ၊ သူတို့၏ သက်တမ်းသည် ကုန်ခန်းနီးကြောင်း နီးလိမ့်မည်စသည်တို့ကို မစဉ်းစား၊ မဆင်ခြင်ကြသလော။ သူတို့သည် မည်သည်ကို ယုံကြည်ကြမည်နည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့သည် မိုးကောင်းကင်များနှင့် ကမ္ဘာမြေဝယ်(အလ္လာဟ်အရှင်မြတ်၏)အာဏာစက်တော်ကိုလည်းကောင်း၊အလ္လာဟ်အရှင်မြတ် ဖန်ဆင်းတော်မူသော (သက်ရှိသက်မဲ့)အရာဝတ္ထု အလုံးစုံတို့ကိုလည်းကောင်း၊ မိမိတို့ (သေဆုံးရန်)သတ်မှတ်ထား ပြီးဖြစ်သောကာလ အပိုင်းအခြားသည် နီးကပ်လာပြီဖြစ်သည်ကိုလည်းကောင်း၊ မတွေးမမြင်မဆင်ခြင် မသုံးသပ်ကြလေသလော။ ၎င်းတို့သည် ဤ(ကုရ်အာန်ကျမ်းတော်မြတ်ကျရောက်ပြီး)နောက် မည်သည့်စကားကို ယုံကြည်ကြပါဦးမည်နည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

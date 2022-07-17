@@ -710,6 +710,12 @@ I s vseki chovek shte doĭde vodach i svidetel [ot angelite]
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	ထိုအခါဝိညာဉ်တိုင်းသည် ပြန်ရှင်လာရ၏၊ ဝိညာဉ်နှင့်အတူတကွ ၎င်းကို မောင်းနှင်လာသောကောင်းကင်တမန် တော်တစ်ဦး သက်သေခံမည့်ကောင်းကင်တမန်တော်တစ်ဦးပါလာကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး လူတိုင်းသည် ‘မဟ်ရှရ်’(စုရုံးရာဌာနသို့)လာရပေမည်။ (ထိုအခါ) ၎င်းနှင့်အတူ မောင်းနှင်သူတစ်ဦးနှင့် သက်သေတစ်ဦးရှိကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

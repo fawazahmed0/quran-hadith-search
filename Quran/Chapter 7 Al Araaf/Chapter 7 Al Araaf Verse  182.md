@@ -710,6 +710,12 @@ A koito vzimat za lŭzha Nashite znameniya, shte gi vŭvlechem v gibel, bez da r
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈၂။	အကြင်သူတို့သည် ငါ၏နှုတ်ကပတ်တော်များကို ငြင်းပယ်ကြ၏။ ထိုသူတို့ကို ငါသည် သူတို့မသိသော နေရာမှ တစ်လှမ်းပြီးတစ်လှမ်း တိုးသွားစေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အကြင်သူတို့သည် ငါအရှင်မြတ်၏သက်သေလက္ခဏာတော်များကို မဟုတ်မမှန်ဟု ငြင်းပယ်ကြကုန်၏။ ငါအရှင်မြတ်သည် ထိုသူတို့အား (ဂျဟန္နမ်ဘက်သို့)ထိုသူတို့မသိသောနည်းဖြင့် တဖြည်းဖြည်း ဆွဲယူတော်မူအံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

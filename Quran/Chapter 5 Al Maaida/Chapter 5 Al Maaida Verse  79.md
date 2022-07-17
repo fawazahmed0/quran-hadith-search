@@ -710,6 +710,12 @@ Ne se vŭzpirakha vzaimno ot poritsavanoto, koeto storikha. Kolko losho e onova,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၉။	သူတို့သည် မိမိတို့ပြုကျင့်သော မိုက်မဲမှုမှ အချင်းချင်း တစ်ယောက်ကိုတစ်ယောက် ဟန့်တားခြင်းကို မပြုကြပေ။ အကယ်စင်စစ်သူတို့သည် မကောင်းမှုကိုသာပွားများလေ့ရှိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့သည် မိမိတို့ပြုကျင့်ခဲ့ကြသော မကောင်းမှုဒုစရိုက်မှ အချင်းချင်းတစ်ဦးကိုတစ်ဦး ပိတ်ပင်မြစ်တားလေ့မရှိခဲ့ကြပေ။ စင်စစ်ဧကန် ၎င်းတို့ ပြုကျင့်လေ့ရှိခဲ့ကြကုန်သော အပြုအမူတို့သည် ဆိုးယုတ် သိမ်ဖျင်းလှပေစွတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

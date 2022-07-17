@@ -710,6 +710,12 @@ Onzi, koĭto ti vŭzlozhi Korana, Toĭ shte te vŭrne kŭm Myastoto na zavrŭs
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၅။	တမန်တော်မှတ်သားလော့၊ သင့်အား ကျမ်းမြတ်ကုရ်အာန်ကို ပညတ်တရားတော်အဖြစ်ဖြင့် ထုတ်ပြန်ပို့ချပေး သနားတော်မူသောအရှင်မြတ်သည် သင့်ကို မုချအမှန်သင့်နေရာသို့ တဖန်ပို့ဆောင်တော်မူလတ့ံ၊ တမန်တော် သင်ဟောကြာလော့၊ အကျွနု်ပ်၏ အသက်သခင်ကျေးဇူးရှင်သည် အဘယ်သူသည် လမ်းညွှန်တရားကို ယူဆောင် လာသည်၊ အဘယ်သူသည် သိသာထင်ရှားသောအမှားတွင် နစ်မွန်းနေသည်ကို အသိဆုံးဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ (အို-နဗီတမန်တော်၊) အသင့်အပေါ်၌ ကုရ်အာန်ကျမ်းတော်မြတ်ကို (ချမှတ်)ပြဌာန်း၍ ပေးတော်မူခဲ့သော အရှင်မြတ်သည် အသင့်အား (အသင်၏)ဇာတိနေရပ်သို့ အမှန်ပင်ပြန်၍ ပို့ပေးတော်မူအံ့သော အရှင်ဖြစ်တော်မူ၏။ (အို-နဗီတမန်တော်၊) အသင်သည် ပြောကြားပါလေ။ငါ့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် တရားလမ်းမှန်ကို ဆောင်ကြဉ်းခဲ့သောသူအားလည်းကောင်း၊ ထင်ရှားစွာသော လမ်းမှား၌ ရှိနေသောသူအားလည်းကောင်း၊ ကောင်းစွာ သိရှိတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

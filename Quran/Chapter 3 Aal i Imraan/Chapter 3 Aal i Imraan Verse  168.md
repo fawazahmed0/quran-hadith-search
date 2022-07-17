@@ -710,6 +710,12 @@ Na onezi, koito rekokha na svoite bratya, kogato si sedyakha vkŭshti: “Ako by
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၈။	အကြင်သူတို့သည် မိမိတို့အိမ်များတွင်နေကြစဉ် အလ္လာဟ်အသျှင်မြတ်ဘက်တော်၌ စစ်ခင်းနေသော မိမိတို့သားချင်းအကြောင်းကို ဤသို့ဆိုကြ၏။ သူတို့သည် အကျွနု်ပ်တို့၏စကားကို နားထောင်ခဲ့လျှင် သတ်ဖြတ်ခြင်းကို ခံကြရမည်မဟုတ်ပေ။ အို-မိုဟမ္မဒ် ထိုသူတို့အား ဟယ် အချင်းတို့ သင်တို့ အမှန်စကားကိုဆိုကြလျှင် သင်တို့သည် မိမိတို့ထံမှ သေခြင်းကို လွဲသွားစေကြလော့ဟု သင်ပြောကြား လော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့သည် (စစ်မက်ပြိုင်ဆိုင်တိုက်ခိုက်စဉ်က) ကိုယ်တိုင် (မိမိတို့အိမ်များတွင်) ထိုင်နေခဲ့ကြပါလျက်(အုဟုဒ်စစ်မြေပြင်၌ကျဆုံးခဲ့သော) မိမိတို့၏ ညီသားအစ်ကိုများနှင့် ပတ်သက်ပြီး အကယ်၍သာ ထိုသူတို့သည် ကျွန်ုပ်တို့(ပြောစကား)ကို နာယူခဲ့ကြပါမူ (ယင်းကဲ့သို့) သတ်ဖြတ်ခြင်းခံကြရမည် မဟုတ်ပေတကား ဟု ပြောဆို (ဝေဘန်) ကြကုန်သည်။ (အို-နဗီတမန်တော်) အသင်သည် (ထိုသူတို့ အား)သို့ဖြစ်လျှင် အကယ်၍သာ အသင်တို့သည် မှန်ကန်စွာပြောဆိုသူများဖြစ်ခဲ့ကြပါလျှင် မိမိ တို့ကိုယ်မှ ‘မရဏ’ သေခြင်းတရားကို ဖယ်ရှား ကြပါလေကုန် ဟု ပြောဆိုဖြေကြားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

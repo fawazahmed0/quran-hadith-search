@@ -710,6 +710,12 @@ Toĭ vi ostavi v nasledstvo zemyata im, domovete, imotite i zemya, na koyato os
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	ထို့အပြင်အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အား သူတို့၏ ကိုင်းကျွန်းလယ်မြေဥယျာဉ်၊ အိုးအိမ်တိုက်တာစည်းစိမ် ဥစ္စာအပေါင်းတို့ကို အမွေပေးတော်မူ၏၊ ထိုလယ်မြေအပေါ်သို့ သင်တို့ခြေမချဖူးသေးချေ၊ အလ္လာဟ်အရှင်မြတ် သည် ခပ်သိမ်းကုန်သောအရာအပေါင်းတို့ကို ပြုစွမ်းနိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် ထိုသူတို့၏မြေကိုလည်းကောင်း၊ ထိုသူတို့၏ နေအိမ်များကိုလည်းကောင်း၊ထိုသူတို့၏ ဥစ္စာပစ္စည်းများကိုလည်းကောင်း၊ ထို့ပြင် အသင်တို့ခြေမချရသေးသော မြေကိုလည်းကောင်း၊ အသင်တို့အားအမွေဆက်ခံစေတော်မူခဲ့၏။ စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို စွမ်းဆောင်နိုင်တော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

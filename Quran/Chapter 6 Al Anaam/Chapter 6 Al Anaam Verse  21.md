@@ -710,6 +710,12 @@ Koĭ e po-golyam ugnetitel ot onzi, koĭto izmislya lŭzha za Allakh, ili vzim
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	အလ္လာဟ်အသျှင်မြတ်နှင့်စပ်လျဉ်း၍ မဟုတ်မလျား လုပ်ကြံပြောဆို၍ ပညတ်တော်များကို ငြင်းဆန်သောသူထက် အဘယ်သူ မကောင်းမှုကို ပိုမိုပြုကျင့်သနည်း။ မှတ်သားကြလော့။ ဒုစရိုက်မှုကို ကျူးလွန်သူတို့သည် မအောင်မြင်နိုင်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ် မည်သူမဆို မဟုတ်မမှန် မုသားကို အလ္လာဟ်အရှင်မြတ်အပေါ်၌ ကြံစည်လီဆယ် ၍ စွပ်စွဲအံ့။သို့တည်းမဟုတ် ထိုအရှင်မြတ်၏ သက်သေလက္ခဏာများကိုမဟုတ်မမှန်ဟု ငြင်းပယ်အံ့၊ ထိုသူထက်ပိုမို၍ မတရားသောသူကား မည်သူရှိအံ့နည်း။ အမှန်စင်စစ်သော်ကား (ထိုကဲ့သို့သော) မတရားသော သူတို့သည် (မည်သည့်အခါမျှ) အောင်မြင်ကြမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

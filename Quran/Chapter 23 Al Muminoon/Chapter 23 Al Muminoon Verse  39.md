@@ -710,6 +710,12 @@ Reche: “Gospodi moĭ, pomogni mi, zashtoto me vzekha za lŭzhets!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။	ထိုအခါထိုတမန်တော်က အို--အကျွနု်ပ်၏အရှင်သခင်၊ သူတို့သည် အကျွနု်ပ်ကို ငြင်းဆန်ကြပါ၏၊ အကျွနု်ပ်ကို မှိုင်းမတော်မူပါဟု တင်လျှောက်လေ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ထိုရစူလ်တမန်တော်က အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူသောအရှင်မြတ်၊ ၎င်းတို့သည် ကျွန်တော်မျိုးအား မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်ကြပေရာ၊ အရှင်မြတ်သည် ကျွန်တော်မျိုးအား ကူညီစောင်မတော်မူပါဟု လျှောက် ထားပန်ကြားခဲ့လေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

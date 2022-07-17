@@ -710,6 +710,12 @@ I Allakh gi nakara da vkusyat pozora v zemniya zhivot, a mŭchenieto v otvŭdniy
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆။	အလ္လာဟ်အရှင်မြတ်သည် ထိုသူတို့အား ဤဘဝ၌ ဂုဏ်အသရေသိမ်ဖျင်း၍ အောက်ကျနောက်ကျဖြစ်ခြင်း အရသာကို မြည်းစေတော်မူ၏၊ သို့သော်အမှန်မှာ နောင်တမလွန်ဘဝတွင် ခံစားရမည့်အပြစ်ဒဏ်တော်ကား သာလွန်ကြီးမားပြင်းပြလိမ့်မည်၊ သူတို့သိနားလည်လျှင် ကောင်းလေစွ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 တစ်ဖန် အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့အား ပစ္စုပ္ပန်လောကီဘဝတွင် ကျိုးယုတ်ရှက်ရ၊ ဂုဏ်ရည် နိမ့်ကြခြင်း၏ရသာကို မြည်းစမ်းစေတော်မူခဲ့၏။ တမလွန်ဘဝ၏ ပြစ်ဒဏ်သည် အမှန်ပင် သာ၍ကြီးမားလေးလှပေသည်။ ၎င်းတို့သည်(ဤသည်ကို) သိကြပါလျှင် ကောင်းစွ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

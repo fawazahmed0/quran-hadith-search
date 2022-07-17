@@ -710,6 +710,12 @@ No Allakh naĭ-dobre znae kakvo potulvat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။ အလ္လာဟ်အရှင်မြတ်သည် သူတို့၏ စိတ်နှလုံးအတွင်းလျှို့ဝှက်မျိုသိပ်ထားသမျှတို့ကို အကြွင်းမဲ့သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့လျှို့ဝှက်မျိုသိပ်၍ ထားရှိကြသည်ကို ကောင်းစွာသိရှိတော်မူသော အရှင်မြတ်ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

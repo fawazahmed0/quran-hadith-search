@@ -710,6 +710,12 @@ I kolko selishta pogubikhme, po-silni ot tvoeto selishte [Meka], koeto te progon
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	အို-တမန်တော်၊ သင့်ကို မောင်းထုတ်လိုက်သောနယ်ပယ်ထက်သာလွန်ကြီးမားတောင့်တင်းသောမြို့ရွာနယ်ပယ် မြောက်မြားစွာကို ငါဖျက်ဆီးတော်မူလေပြီ၊ ထိုမြို့များကို ကာကွယ်စောင့်ရှောက်မည့်သူမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား မြောက်မြားစွာသော မြို့ရွာများမှာ၊ ခွန်အားဗလအားဖြင့် အသင့်အား နှင်ထုတ်ခဲ့သော အသင်၏မြို့ရွာထက်ပိုမို (ကြီးမား) ပြင်းထန်ခဲ့ကြကုန်၏။ ငါအရှင်မြတ်သည် ထိုမြို့ရွာများကို ဖျက်ဆီးတော်မူခဲ့၏။ ၎င်းတို့အား ကူညီစောင်မမည့်သူဟူ၍ တစ်ဦးတစ်ယောက်မျှပင် မရှိခဲ့ပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Nima ochakvat dni, razlichni ot tezi na otminalite predi tyakh? Kazhi: “Chakai
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၂။	သူတို့အလျင်ကွယ်ပျောက်သွားသူတို့တွေ့ကြံုရသောအဖြစ်အပျက်မှတပါး အခြားအရာတစ်ခုခုကို သူတို့မျှော်ကိုး ကြသလော၊ ဟောကြားလော့။ သင်တို့မျှော်ကိုးကြလော့။ အကျွနု်ပ်လည်း သင်တို့နှင့်အတူ မျှော်လင့်သူအထဲတွင် ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ပါလျက် ၎င်း တို့သည် မိမိတို့အလျင် လွန်လေပြီးခဲ့ကြသောသူတို့၏ ဘေးအန္တရာယ်များ ကဲ့သို့သော ဘေးအန္တရာယ်ကိုသာ မျှော်လင့်လျက် ရှိကြလေသလော။ (အိုနဗီတမန်တော်)အသင်သည် (၎င်း တို့အား အချင်းတို့) ဤသို့ဖြစ်လျှင် အသင်တို့သည် မျှော်လင့်ကြလေကုန်။ ငါသည်လည်း အသင်တို့ နှင့်အတူ မျှော်လင့်သူတို့အနက် တစ်ဦးအပါအဝင် ဖြစ်သည်ဟု ပြောကြားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

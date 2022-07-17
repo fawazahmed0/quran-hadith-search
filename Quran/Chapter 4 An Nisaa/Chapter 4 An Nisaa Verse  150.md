@@ -710,6 +710,12 @@ Koito ne vyarvat v Allakh i v Negovite pratenitsi, i iskat da otdelyat Allakh ot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅ဝ။	မှတ်သားကြလော့။ အကြင်သူတို့သည် အလ္လာဟ်အသျှင်မြတ်နှင့် အသျှင်မြတ်၏တမန်တော်တို့ကို မယုံကြည်ကြ။ အသျှင်မြတ်နှင့် တမန်တော်များစပ်ကြားတွင် ခွဲခြားရန် ကြိုးစားကြ၏။ အကျွနု်ပ်တို့ သည် တမန်တော်အချို့ကို ယုံကြည်ကြ၏။ တစ်ချို့ကို မယုံကြည်ဟုပြောကြ၏။ ထိုစပ်ကြားတွင် အလယ်အလပ်လမ်းကို ရှာဖွေကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အကြင်သူတို့သည် အလ္လာဟ်အရှင်မြတ်နှင့် ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော်တို့ကို ငြင်းပယ်ကြကုန်သည်။ ၎င်းပြင် ထိုသူတို့သည် (အီမာန်ယုံကြည်ခြင်းသဒ္ဓါတရား ထားရှိရာ၌လည်း) အလ္လာဟ်အရှင်မြတ်နှင့် ထိုအရှင်မြတ်၏ ရစူလ်တမန်တော်တို့၏စပ်ကြားတွင် ခွဲခြားလိုကြကုန်သည်။ ထိုမျှမကသေးချေ၊ ယင်းသူတို့သည် (မိမိတို့၏နှုတ်ဖြင့်) ငါတို့သည် အချို့ (ရစူလ်တမန်တော်များ) ကို ယုံကြည်ကြကုန်၏။ သို့ရာတွင် အချို့ (ရစူလ်တမန်တော် များ) ကိုမူ ငြင်းပယ်ကြသည်ဟူ၍လည်း ပြောဆိုကြကုန်သည်။ ထိုမှတစ်ပါးတုံ ၎င်းတို့သည် ယင်း (‘ကုဖ်ရ်’ သွေဖည်ငြင်းပယ်မှုနှင့် ‘အီမာန်’ ယုံကြည်မှု) ၏ အလယ်အကြားတွင် နည်းလမ်းတစ်ခုကိုလည်း ပြုလုပ်လိုကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

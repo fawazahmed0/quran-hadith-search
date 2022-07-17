@@ -710,6 +710,12 @@ Kazhi: “Na Allakh sluzha, predan Nemu v moyata religiya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	အို-တမန်တော်၊ ဟောပြောလော့၊ အလ္လာဟ်အရှင်မြတ်အားသာလျှင် အမြတ်တနိုးကိုးကွယ်အပ်သည်ဖြစ်သော သန့်ရှင်းစင်ကြယ်သောဘာသာအယူဝါဒနှင့် ငါသည် အရှင်မြတ်အား ဝတ်ပြု၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်)၊ အသင်သည် ပြောကြားပါလေ။ (အချင်းတို့) ငါသည် အလ္လာဟ်အရှင်မြတ်အားသာလျှင် မိမိဆည်းကပ်ကိုးကွယ်မှုကို သက်သက် ထိုအရှင်မြတ်အဖို့ စေတနာဖြူစင်စွာ ဆည်းကပ်ကိုးကွယ်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

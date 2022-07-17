@@ -710,6 +710,12 @@ A moyat brat Kharun e s po-krasnorechiv ezik ot men. Izprati go s men za opora, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	အကျွနု်ပ်၏အစ်ကိုဟာရွန်သည် အကျွနု်ပ်ထက် စကားပြောကောင်းပါသည်၊ ထို့ကြောင့်အကျွနု်ပ်ကို ကူညီဖို့ရာ သူ့အား အကျွနု်ပ်နှင့်အတူတကွထည့်တော်မူပါ၊ သူတို့သည် အကျွနု်ပ်အား မုသားသမားဟု စွပ်စွဲမည်ကို အကျွနု်ပ်အမှန်ပင်ကြောက်လှပါ၏ဟု လျှောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ကျွန်တော်မျိုး၏နောင်တော် ဟာရူန်မှာမူကား၊ ၎င်းမှာ စကားပြောဆိုရာ၌ ကျွန်တော်မျိုး ထက်ပို၍ပင် စကားပီသ အာစလျှာစကောင်းသူ ဖြစ်ပါ၏။ အရှင်မြတ်သည် ထိုနောင်တော်အားလည်း ကျွန်တော်မျိုးနှင့်အတူ ကျွန်တော်မျိုးအား ထောက်ခံ(ပြောဆိုနိုင်ရန်) ကူညီရိုင်းပင်းသူအဖြစ် စေလွှတ်တော်မူပါ။ ဧကန်မလွဲ ကျွန်တော်မျိုးသည် မိမိအား ၎င်းတို့က မဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ်ကြမည်ကို စိုးရိမ်မိပါသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

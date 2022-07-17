@@ -710,6 +710,12 @@ v Denya, kogato litsa shte pobeleyat i litsa shte pocherneyat. A onezi, chiito l
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၆။	မျက်နှာအချို့ကို ဖြူစင်တောက်ပစေမည့်နေ့၊ အချို့မျက်နှာကို မည်းနက်စေမည့်နေ့၌ မျက်နှာ မည်းနက်ရသောသူတို့အား သင်တို့သည် ယုံကြည်ပြီးမှ မယုံကြည်သူများမဟုတ်ကြလော့။ ထို့ကြောင့် ၎င်းတို့သည် မိမိတို့၏ မယုံကြည်မှုကြောင့် အပြစ်ဒဏ်တော်ကို ခံစားကြလော့ဟု မိန့်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(လာလတ္တံ့သော ရှင်ပြန်ထမည့်) နေ့၌ များစွာသော(သူတို့၏) မျက်နှာများသည် (ကျက်သရေ မင်္ဂလာနှင့်ပြည့်စုံ၍ သန့်ရှင်းကြည်လင်)ဖြူစင်စွာ ရှိကြကုန်အံ့။ သို့ရာတွင်များစွာသော (သူတို့၏) မျက်နှာများမှာမူကား (ဣန္ဒြေကင်းမဲ့)လျက် မည်းနက်စွာ ရှိကြကုန်အံ့။ ထိုအခါ မည်းနက်သောမျက်နှာရှင်တို့အား အသင်တို့သည် ယုံကြည်ခြင်း သဒ္ဓါတရားထားရှိပြီးနောက် သွေဖည်ငြင်းပယ်ခဲ့ကြသည် မဟုတ်လော၊။သို့ဖြစ်ပေရာ အသင်တို့သည် မိမိတို့ ငြင်းပယ်သွေဖယ်ခဲ့ကြသည့်အတွက် အပြစ်ဒဏ်၏ အရသာကို မြည်းစမ်းကြကုန်လော့ (ဟု မိန့်ကြားတော်မူပေမည်)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

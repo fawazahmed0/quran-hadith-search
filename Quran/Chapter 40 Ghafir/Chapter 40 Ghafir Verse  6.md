@@ -710,6 +710,12 @@ Taka se izpŭlni slovoto na tvoya Gospod spryamo nevernitsite. Te sa obitatelite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။ အေ၊ တမန်တော်၊ သင်၏ အသက်သခင်ကျေးဇူးရှင်ကြီး၏ အပြစ်ဒဏ်တော်သည် အယူမှားသူတို့အပေါ်သို့ ယင်းသို့ကျရောက်ရ၏၊ ထိုမိစ္ဆာဒိဋ္ဌိတို့သည် ငရဲသားများဖြစ်ရမည်ဟု သင်၏ အရှင်သခင် ဗျာဒိတ်ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ဤနည်းအတိုင်းပင် "ကာဖိရ်"သွေဖည်ငြင်းပယ်သူတို့နှင့်ပတ်သက်၍ "ဧကန်အမှန် ၎င်းတို့သည် ငရဲသားများဖြစ်ကြသည်" ဟူသော အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်(မိန့်ကြားတော်မူခဲ့သော) အမိန့်တော်သည် အတည် ဖြစ်ခဲ့ချေပြီတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

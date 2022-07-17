@@ -710,6 +710,12 @@ Tam shte prebivavat vechno i shte imat, kakvoto pozhelayat. Tova e obeshtanie, i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	ထိုသူမြတ်တို့မှာ ၎င်းဥယျာဉ်တော်၌ နေထိုင်၍ မိမိတို့အလိုရှိသမျှကို အကြွင်းမဲ့ရရှိကြလတ့ံ၊ ယင်းသို့ပေးသနား တော်မူခြင်းကား သင်၏အသက်သခင်ကျေးဇူးရှင်အတွက် ဖြည့်ရမည့်ကတိသစ္စာတော်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ယင်း"ဂျန္နတ်" သုခတွင် မိမိတို့ အလိုရှိကြသည်များကို ရရှိကြပေမည်။ ၎င်းတို့သည် ယင်း(ဂျန္နတ် သုခ) ၌ အမြဲထာဝစဉ် နေထိုင်စံမြန်းသူများ ဖြစ်ကြပေမည်။ (ဤသည်) အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အပေါ်၌ (ကျေးဇူးတော် အလျောက်) လျှောက်ထားအပ်သော ကတိပင် ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

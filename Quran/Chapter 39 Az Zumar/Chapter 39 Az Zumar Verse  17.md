@@ -710,6 +710,12 @@ A koito otkazvat da sluzhat na idolite i se razkaĭvat pred Allakh, za tyakh e 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	အကြင်သူတို့သည် ဘုရားတုဘုရားယောင်များကို ဝတ်မပြုပဲ စွန့်ပစ်လျက် အလ္လာဟ်အရှင်မြတ်ဘက်တော်သို့ သတိနောက်တရခြင်းနှင့် လှည့်ကြအ့ံ၊ သူတို့အဖို့အရာ ဝမ်းမြောက်ဝမ်းသာဘွယ်သောသတင်းကောင်းများရှိ၏၊ အို-မိုဟမ္မဒ်၊ ထို့ကြောင့် သင်သည် ငါ၏ ကျေးတော်မျိုး ကျွန်တော်မျိုးတို့ကို သုမင်္ဂလာသတင်းကောင်းကို ကြေငြာဟောပြောလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် မဟုတ်မမှန်သော ကိုးကွယ်ရာများကို ဆည်းကပ်ကိုးကွယ်ခြင်းမှ ဝေးစွာကြဉ်ရှောင်ခဲ့ကြ၍ အလ္လာဟ်အရှင်မြတ်ဖက်သို့ လှည့်ခဲ့ကြသောသူတို့အဖို့မှာကား ဝမ်းမြောက်ဖွယ်ရာ သတင်းရှိ၏။ သို့ဖြစ်ပေရာ(အို-နဗီတမန်တော်)အသင်သည် ငါအရှင်မြတ်၏ အကြင်ကျွန်တို့အား ဝမ်းမြောက်ဖွယ်ရာ သတင်းကို ပြောကြားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ako byakhme nizposlali tozi Koran vŭrkhu planina, shteshe da ya vidish smirena,
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	ငါသည် ဤကျမ်းမြတ်ကုရ်အာန်ကို တောင်တစ်ခုခုပေါ်တွင် ပစ်တင်ထားတော်မူခဲ့လျှင်၊ အကယ်စင်စစ်ထိုတောင် သည် အလ္လာဟ်အား ကြောက်ရွံ့တုန်လှုပ်ခြင်းကြောင့် နှိမ့်ချသဘောဖြင့် ဝပ်စင်း၍ အစိတ်စိတ်အမွှာမွှာဖြစ်သွား သည်ကို သင်တမန်တော်မျက်ဝါးထင်ထင်မြင်ခဲ့ရလတ့ံ၊ ငါသည် ဤဥပမာများကို လူသားတို့ဆင်ခြင်စဉ်းစား ဖို့ရာ ဆောင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍သာ ငါအရှင်မြတ်သည် ဤကုရ်အာန်ကျမ်းတော်မြတ်ကို တစ်စုံတစ်ခုသော တောင်ပေါ်၌ ချပေးတော်မူခဲ့ပါလျှင် အသင်သည် ထိုတောင်ကို အလ္လာဟ်အရှင်မြတ်အား ကြောက်ရွံ့သောကြောင့် နိမ့်ကျလျက်၊ အပိုင်းပိုင်းဖြစ်လျက်၊ ရှိသည်ကို အမှန်ပင် တွေ့မြင်ရပေမည်။ စင်စစ်သော်ကား ငါအရှင်မြတ်သည် လူတို့ သုံးသပ်ဆင်ခြင် စဉ်းစားကြအံ့သောငှာ ယင်းဥပမာပုံဆောင်ချက်များကို ခိုင်းနှိုင်းဖော်ပြတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

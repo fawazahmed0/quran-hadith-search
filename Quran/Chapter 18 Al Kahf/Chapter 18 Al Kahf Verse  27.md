@@ -710,6 +710,12 @@ I cheti [o, Mukhammad] onova, koeto ti be razkrito ot Knigata na tvoya Gospod! N
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	ထို့အပြင် သင်၏ ကျေးဇူးတော်သခင်၏ ကျမ်းတော်မြတ်မှ သင့်အား ထုတ်ပြန်ချပေးသနားတော်မူသောဂါထာ တော်များကို ရွတ်ဖတ်လော့။ အရှင်မြတ်၏ ဗျာဒိတ်စကားတော်များကို ပြောင်းလဲနိုင်သူတစုံတယောက်မျှ မရှိချေ။ အလ္လာဟ်အရှင်မြတ်မှတပါး ခိုလှုံရာကို သင်သည် ရှာဖွေရနိုင်တော့မည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် (အို-နဗီတမန်တော်)အသင်သည် မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏ ကျမ်းဂန်မှမိမိထံသို့ ထုတ်ပြန်တော်မူခြင်းခံရသော အမိန့်တော်များကို(၎င်းတို့ရှေ့ဝယ်)ဖတ်ကြားပါလေ။ ထိုအရှင်မြတ်၏ အာယတ်တော်များကို ပြောင်းလဲမည့်သူဟူ၍ တစ်ဦးတစ်ယောက်မျှပင်မရှိချေ။ စင်စစ် အသင်သည် ထိုအရှင်မြတ်(အထံတော်)မှတစ်ပါး ခိုကိုးရာဟူ၍ အလျှင်း တွေ့ရှိလိမ့်မည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

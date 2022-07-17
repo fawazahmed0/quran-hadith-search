@@ -710,6 +710,12 @@ izvor, ot koĭto piyat priblizhenite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။ ထိုတတ်(စ်)နီး(မ်)စမ်းရေကို အရှင်မြတ်အား နီးကပ်စွာခစားရသောသူတို့မှီဝဲကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ယင်း"တတ်စ်နီမ်"မှာ) စမ်းတစ်ခုပင် ဖြစ်သည်။အလ္လာဟ်အရှင်မြတ်နှင့် နီးစပ်သော သူမွန် သူမြတ်တို့ကား ယင်း"တတ်စ်နီမ်"မှပင် သောက်သုံး ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

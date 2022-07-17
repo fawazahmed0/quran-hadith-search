@@ -710,6 +710,12 @@ I ot Negovite znameniya sa noseshtite se po moreto korabi kato planini
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။	အလ္လာဟ်အရှင်မြတ်၏ သာဓကတော်များအနက် တစ်ပါးသောသာဓကတော်ကား သမုဒ္ဒရာပင်လယ်ကြားတွင် အောင်လံသဖွယ်ဖြစ်သောသင်္ဘောကြီးများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး သမုဒ္ဒရာပင်လယ်၌ တောင်များပမာ(လှုပ်ရှားသွားလာလျက်ရှိနေကြသော)ရွက်သင်္ဘောများမှာလည်း ထိုအရှင်မြတ်၏ သက်သေလက္ခဏာတော်တို့တွင် အပါအဝင် ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

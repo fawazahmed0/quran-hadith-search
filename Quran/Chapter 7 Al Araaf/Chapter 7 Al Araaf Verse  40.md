@@ -710,6 +710,12 @@ Na onezi, koito vzimat za lŭzha Nashite znameniya i se golemeyat pred tyakh, ne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄ဝ။	မှတ်သားကြလော့။ အကြင်သူတို့သည် ငါအသျှင်မြတ်၏ ကုရ်အာန်ကျမ်းတော်ကို မယုံကြည်၊ စက်ဆုတ်ရွံ့ရှာကြ၏။ (ကုလားအုပ်သည် ချုပ်အပ်နဖားပေါက်အတွင်းသို့ ဝင်မသွားနိုင်သည့် ကာလပတ်လုံး) ထိုသူတို့အတွက် ဂျန္နတ်သုခဘုံသို့ ဝင်ကြရမည်မဟုတ်ပေ။ ငါသည် ဒုစရိုက်ပြုသူများ ကို ဤဂလဲ့စားချေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အကြင်သူတို့သည် ငါအရှင်မြတ်၏ ဒေသနာတော်များကို မဟုတ်မမှန်ဟု ငြင်းဆိုကြကုန်၏။၎င်းပြင် ထိုသူတို့သည် ယင်းဒေသနာတော် များကိုနာယူခြင်းမှမထီလေးစား ပြုလုပ်ကြကုန်၏။ ထိုသူတို့အဖို့ ကောင်းကင်၏တံခါးများသည် ဖွင့်ထားခြင်း ခံရလိမ့်မည်မဟုတ်ပေ။ ထိုနည်းတူစွာ ကုလားအုတ်သည် အပ်ပေါက်တွင်းသို့ မဝင်နိုင်သမျှကာလပတ်လုံး ၎င်းတို့သည် ဂျန္နတ် အမတသုခဘုံ သို့လည်းဝင်ရောက်နိုင်ကြမည် မဟုတ်ချေ။ အမှန်သော်ကား ငါအရှင်မြတ်သည် ဤနည်းအတိုင်းပင် အပြစ်ရှိသူတို့အား ပြစ်ဒဏ်ပေးတော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

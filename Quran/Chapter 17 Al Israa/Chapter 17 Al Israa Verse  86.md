@@ -710,6 +710,12 @@ I ako pozhelaem, Nie shte otnemem onova, koeto ti razkrikhme - posle ne shte si 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၆။	ငါအလိုတော်ရှိခဲ့လျှင် သင့်ကို ပေးသနားတော်မူသောကျမ်းတော်ကို ပြန်ရုပ်သိမ်းနိုင်တော်မူ၏။ ထိုအခါဤကိစ္စနှင့် ပတ်သက်၍ သင်သည် မိမိအတွက် ငါ့ကို ဆန့်ကျင်သောစောင့်ထိန်းသူတွေ့နိုင်မည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် အကယ်၍ ငါအရှင်မြတ်သည် အလိုရှိတော်မူခဲ့ပါလျှင် အသင်၏အထံသို့ ငါအရှင်မြတ် ထုတ်ပြန်ချမှတ်တော်မူခဲ့သည့် (ကုရ်အာန်ကျမ်းတော် မြတ်)ကို အမှန်ပင်ပြန်လည်ရုပ်သိမ်းတော်မူပေမည်။ ထို့နောက် ယင်းကုရ်အာန်ကျမ်းတော်မြတ်နှင့်စပ်လျဉ်း၍ ငါအရှင်မြတ်နှင့် ဆန့်ကျင်သောအားကိုးအားထား တစ်ဦးတစ်ယောက်ကိုမျှပင် အသင်တွေ့ရှိလိမ့်မည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

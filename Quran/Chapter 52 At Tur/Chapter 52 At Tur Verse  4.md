@@ -710,6 +710,12 @@ i v poseshtavaniya Dom
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	ထို့အပြင် လူအများခဏခဏဝတ်တက်ရန်လာသောကအ်ဘာကျောင်းတော်ကြီးကိုလည်း အာရုံပြု၍ ငါ၏ တန်ခိုး တော် ဂုဏ်တော်ကို သတိရလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် စည်ပင်သာယာသော အိမ်တော်'ဗိုက်တိမအ်မူရ်' အိမ်တော်ကို သက်သေထူတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

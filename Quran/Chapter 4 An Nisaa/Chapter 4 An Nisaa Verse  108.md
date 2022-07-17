@@ -710,6 +710,12 @@ Prikrivat se ot khorata, no ot Allakh ne se prikrivat. Toĭ e s tyakh, kogato n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၈။	သူတို့သည် လူသားတို့ထံမှ ဖုံးကွယ်ထားခြင်းကို ရှာမှီးကြ၏။ သို့သော် အလ္လာဟ်အသျှင်မြတ် အထံတော်မှ လျှို့ဝှက်ထားခြင်းကို မရှာမှီးကြပေ။ သူတို့သည် ညဉ့်အချိန်ကာလတွင် အလ္လာဟ် အသျှင်မြတ် နှစ်သက်တော်မမူသောတရားကို ဟောပြောသောအခါ အသျှင်မြတ်သည် သူတို့နှင့် အတူတကွရှိတော်မူ၏။ အလ္လာဟ်အသျှင်မြတ်သည် သူတို့ပြုသမျှတို့ကို အမြဲဝိုင်းထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် လူသားတို့ကို ရှက်ကြောက်ကြကုန်၏။ သို့ရာတွင် အလ္လာဟ်အရှင်မြတ်ကိုမူ ရှက်ကြောက်ခြင်းမရှိကြချေ။ စင်စစ် ထိုအရှင်မြတ်သည် ၎င်းတို့ ညဉ့်အချိန်၌ ထိုအရှင်မြတ် မနှစ်မြို့တော်မူသောစကားများကို လျှို့ဝှက်ကြံစည်ကြစဉ်ကလည်း ၎င်းတို့နှင့်အတူ ရှိတော်မူခဲ့၏။ ၎င်းပြင် အလ္လာဟ်အရှင်မြတ်သည် ထိုသူတို့ပြုမူကြကုန်သော အမှုကိစ္စအဝဝတို့ကိုလည်း ဝန်းခြုံလျက် ရှိတော်မူလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

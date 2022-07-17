@@ -710,6 +710,12 @@ Tova, koeto e pri vas, sekva, a koeto e pri Allakh, e vechno. Shte vŭzdadem Nie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၆။	သင်တို့၌ ရှိသောအရာများသည် ပျက်စီးပျောက်ကွယ်သွားတတ်ကြ၏။ အလ္လာဟ်အရှင်မြတ်အထံတော်၌ ရှိသော အရာများကား မပျက်မစီး၊ အမြဲတည်ရှိကြ၏။ မုချဧကန်ငါအရှင်မြတ်သည် တည်ကြည်၍ ခန္တီပါရမီရှိသူအား ၎င်းပြုကျင့်လေ့ရှိသော အကောင်းဆုံးသောအပြုအမူအတိုင်း ပေးသနားတော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့ထံ၌ရှိသော အရာများသည် ကုန်ခန်းသွားမည်သာတည်း။ သို့ရာတွင် အလ္လာဟ်အရှင်မြတ်အထံတော်၌ရှိသောအရာတို့မှာမူကား ရှိရစ်မည့်အရာများပင် ဖြစ်ကုန်သတည်း။ ထို့ပြင် ဧကန်အမှန် ငါအရှင်မြတ်သည် ကြံ့ခိုင်စွာရပ်တည် ခဲ့ကြကုန်သောသူတို့အား၊ ၎င်းတို့၏အကျိုးကို ၎င်းတို့ကျင့်မူခဲ့ကြကုန်သော ကောင်းမြတ်သောအကျင့်သီလနှင့်လျော်ညီစွာ ပေးဆပ်တော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

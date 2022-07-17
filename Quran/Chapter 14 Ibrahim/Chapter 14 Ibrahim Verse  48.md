@@ -710,6 +710,12 @@ v Denya, kogato zemyata shte bŭde smenena s druga zemya, kakto i nebesata. I sh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	ကမ္ဘာမြေကြီးနှင့် မိုးကောင်းကင်ကို ကမ္ဘာမြေကြီးနှင့်မိုးကောင်းကင်မဟုတ်သောအဖြစ်သို့ ပြောင်းတော်မူသော နေ့တော်ကြီး၌ လူသားအပေါင်းတို့သည် တဆူတည်းသောအနန္တတန်ခိုးတော်အရှင်၊ အလ္လာဟ်အရှင်မြတ်ရှေ့တော် သို့ ဝင်ကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤသည်တို့ကားထိုနေ့၌ဖြစ်အံ့)၊ အကြင်နေ့တွင် (ဤ)ပထဝီမြေသည် အခြားသောပထဝီမြေဖြင့် ပြောင်းလဲသွားအံ့။ ထိုနည်းတူစွာ (ဤ)မိုးကောင်းကင်များသည်လည်း(အခြားမိုးကောင်းကင်များဖြင့် ပြောင်းလဲသွားလတ္တံ့)။ထိုမှတစ်ပါး (ခပ်သိမ်းကုန်သောလူသတ္တဝါတို့သည်) တစ်ဆူတည်း ဖြစ်တော်မူသော၊ အနန္တတန်ခိုးတော်ရှင်ဖြစ်တော်မူသောအလ္လာဟ်အရှင်မြတ်၏ ရှေ့တော်မှောက်သို့ ထွက်ပေါ်လာခဲ့ကြလတ္တံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

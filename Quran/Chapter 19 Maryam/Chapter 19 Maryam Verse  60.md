@@ -710,6 +710,12 @@ osven onezi, koito se pokayat i vyarvat, i vŭrshat pravedni dela. Te shte vlyaz
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆ဝ။	သို့သော် သတိနောင်တရပြီးလျှင် ယုံကြည်လျက် မှန်ကန်မှုကို ပြုကျင့်သူတို့သည် ယင်းသို့ဖြစ်ကြလိမ့်မည် မဟုတ်ချေ။ သူတို့သည် မတရားနှိပ်စက်ခြင်းကို အနည်းငယ်မျှခံကြရမည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူမှတစ်ပါး ထိုသူသည် ဝန်ချတောင်းပန်ခဲ့လေသည်။ ၎င်းပြင် ထိုသူသည် သက်ဝင်ယုံကြည် ခဲ့လေသည်။ ထိုမှတစ်ပါး ထိုသူသည် ကောင်းမြတ် သောအကျင့်သီလများကိုလည်း ကျင့်မူဆောက်တည်ခဲ့လေသည်။ သို့ဖြစ်လျှင်ထို(ကဲ့သို့သော)သူတို့မူကား ဂျန္နတ်သုခဘုံသို့ လားကြရပေမည်။၎င်းပြင် ထိုသူတို့သည် (မိမိတို့၏ကုသိုလ်အကျိုးများမှ) အနည်းငယ်စိုးစဉ်းမျှပင် လျော့နည်းစေခြင်းကိုခံကြရမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

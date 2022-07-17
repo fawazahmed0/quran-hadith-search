@@ -710,6 +710,12 @@ I koĭ e po-zabluden ot onzi, koĭto zove ne Allakh, a onezi, koito ne shte mu
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	အလ္လာဟ်အရှင်မြတ်မှတပါး ရှင်ပြန်ထမြောက်ရသောနေ့တိုင်အောင် မိမိတို့ဆုတောင်းချက်ကို ကြားလည်းမကြား၊ သိလည်းမသိသောဘုရားတုများကို ကိုးကွယ်သောသူတို့ထက် သာလွန်လမ်းမှားသူသည် မည်သူနည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အလ္လာဟ်အရှင်မြတ် အပြင်အခြားသူများကို ဟစ်ခေါ်သောသူထက် ပို၍လမ်းမှားသောသူ မည်သူရှိအံ့နည်း။ ၎င်းတို့သည် ထိုသူ၏ စကားကို ‘ကိယာမတ်’ရှင်ပြန်ထမည့်နေ့တိုင်အောင် ဖြေကြားကြမည် မဟုတ်သည်သာမက ၎င်းတို့မှာ ဤသူတို့၏ ဟစ်ခေါ်ခြင်းကိုပင် သိကြရှာသူများမဟုတ်ပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

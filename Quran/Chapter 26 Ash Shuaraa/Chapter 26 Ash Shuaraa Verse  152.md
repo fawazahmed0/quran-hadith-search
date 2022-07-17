@@ -710,6 +710,12 @@ koito rushat po zemyata i ne popravyat!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၂။	ထိုသူတို့သည် ကမ္ဘာမြေပေါ်တွင် ဒုစရိုက်အမိုက်မှုများကို အနှံ့အပြားပွားများကြ၏၊ ကောင်းအောင်မပြုပြင်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတို့သည် တိုင်းပြည်တွင် ပျက်စီးရာပျက်စီးကြောင်းကို ပြုလုပ်ကြကုန်၏။ သို့ရာတွင် ထိုသူတို့သည်(တိုင်းပြည်ကိုသာယာဝပြောအောင်) ပြုပြင်ကြသည်ကား မဟုတ်ကြပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Ne povyarva toĭ v Allakh, Prevelikiya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။ သူသည် အလွန်မြင့်မြတ်တော်မူသောအလ္လာဟ်အရှင်မြတ်အား မယုံကြည်ခဲ့သောသူယုတ်မာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် ၎င်းသည် ထူးကဲမြင့်မြတ်တော်မူသော ၎င်းရှင်မြတ်အား ယုံကြည်ခဲ့သည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

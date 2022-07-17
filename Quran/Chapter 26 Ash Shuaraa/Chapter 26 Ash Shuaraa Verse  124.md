@@ -710,6 +710,12 @@ Tekhniyat brat Khud im kaza: “Ne se li boite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၄။	သူတို့၏သားချင်းဖြစ်သော တမန်တော်ဟုဒ်က သူတို့အား ဤသို့ဟောကြား၏၊ သင်တို့သည် ဒုစရိုက်မကောင်းမှု ကို ဖယ်ရှားကြမည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်အခါဝယ် ၎င်းတို့၏ နောင်တော် ‘ဟူဒ်’က ပြောကြားခဲ့၏။ (အချင်းတို့)အသင်တို့သည်(အလ္လာဟ်အရှင်မြတ်အား) မကြောက်ရွံ့ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

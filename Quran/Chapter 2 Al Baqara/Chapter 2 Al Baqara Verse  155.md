@@ -710,6 +710,12 @@ I nepremenno shte vi izpitame s malko strakh i glad, i s otnemane ot imotite, du
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၅။	ငါသည် သင်တို့အား ကြောက်ရွံ့ခြင်း၊ မွတ်သိပ်ခြင်း၊ ဥစ္စာပစ္စည်း၊ အသက်စည်းစိမ် ကောက်ပဲသီးနှံ ဆုံးရှုံးခြင်းတို့ဖြင့် မုချဧကန် စမ်းသပ်တော်မူမည်။ သို့သော် သင်သည် သည်းခံတည်ကြည်ကြသူတို့ အား ဝမ်းမြောက်ဘွယ်သတင်းကိုပေးလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်တဝ (အို-မုအ်မင်န် အပေါင်းတို့) မချွတ်ဧကန် ငါအရှင်မြတ်သည် အသင်တို့ကို တစ်စုံတစ်ခုသော ကြောက်ရွံ့ စိုးရိမ်စေခြင်းဖြင့် သော်လည်းကောင်း၊ ငတ်မွတ်စေခြင်း အားဖြင့် သော်လည်းကောင်း၊ ဥစ္စာပစ္စည်းများ ဆုံးပါးစေခြင်းဖြင့် သော်လည်းကောင်း၊ အသက်သေကြေပျက်စီးစေခြင်းဖြင့် သော်လည်းကောင်း၊ ကောက်ပဲသီးနှံများ ပျက်ပြားစေခြင်းဖြင့်သော်လည်း ကောင်း၊ [(တနည်း) သားသမီးများ သေဆုံးစေခြင်းဖြင့် သော်လည်းကောင်း၊] စမ်းသပ်တော် မူလတ္တံ့။ သို့ရာတွင် (ထိုကဲ့သို့ စမ်းသပ်သော ဘေးအန္တရာယ် များကို) ခန္တီတရားဖြင့် သည်းခံသူအပေါင်းအား ဝမ်းမြောက်ဘွယ်ရာ ကောင်းချီးမင်္ဂလာသတင်းကို [အို-နဗီတမန်တော် မုဟမ္မဒ်(ဆွ)] အသင်သည် ပြောကြားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

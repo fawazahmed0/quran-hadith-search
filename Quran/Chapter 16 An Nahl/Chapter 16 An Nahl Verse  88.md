@@ -710,6 +710,12 @@ Na onezi, koito otrichat i vŭzpirat ot pŭtya na Allakh, nadbavyame mŭchenie v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၈။	အကြင်သူတို့သည် အယူမှား၍ လူသားတို့အား အလ္လာဟ်အရှင်မြတ်၏ လမ်းတော်မှ တားဆီးထားကြ၏။ ထိုသူတို့သည် ကမ္ဘာမြေပေါ်တွင် မတရားယုတ်ည့ံမှုကို ကျူးလွန်သောကြောင့် ငါအရှင်မြတ်သည် အပြစ် ဒဏ်တော်တစ်ခုပြီးတစ်ခုဖြစ်ပေါ်စေခဲ့၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတို့သည် (မိမိတို့ကိုယ်တိုင်) သွေဖည်ငြင်းပယ်ခဲ့ကြကုန်၏။ ၎င်းပြင် (သူတစ်ပါးတို့အား) အလ္လာဟ်အရှင်မြတ်၏လမ်းစဉ်မှ တားဆီးခဲ့ကြကုန်၏။ ငါအရှင်မြတ်သည် ထိုသူတို့အား ၎င်းတို့သည် ဖျက်ဆီးလေ့ရှိခဲ့ကြ သောကြောင့် ပြစ်ဒဏ်တစ်မျိုးပေါ်၌ ပြစ်ဒဏ်တစ်မျိုးကို ထပ်တိုးစေတော်မူအံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

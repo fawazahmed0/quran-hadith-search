@@ -710,6 +710,12 @@ Posle ti razkrikhme [o, Mukhammad]: “Sledvaĭ religiyata na Ibrakhim pravover
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၃။	ထို့နောက်ငါသည် သင်မိုဟမ္မဒ်၏ စိတ်နှလုံးတွင် ထင်ရှားစေသောဗျာဒိတ်တော်မူကား မိုဟမ္မဒ် သင်သည် ဖြောင့်မတ်မှန်ကန်သောပင်ကိုယ်ဓာတ်ခံရှိသူတယောက်ဖြစ်သည့်အတိုင်း တမန်တော်အေဗရာဟမ်၏ ဘာသာ အယူဝါဒကို ယုံကြည်လိုက်နာလော့။ သူသည် ရုပ်တုဆင်းပွားကို ဝတ်ပြုသူတို့ဘောင်တွင် မပါဝင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ငါအရှင်မြတ်သည် အသင်တို့၏ထံသို့ (နဗီတမန်တော်)အီဗ်ရာဟီမ်၏ လမ်းစဉ်ကို လိုက်နာပါလေဟု အမိန့်တော် ချမှတ်တော်မူခဲ့လေသည်။ (အမှန်စင်စစ်ယင်းနဗီတမန်တော် အီဗ်ရာဟီမ်သည်) ဖြောင့်မတ်တည်ကြည်သူဖြစ်ခဲ့၏။ ၎င်းပြင် မုရှ်ရစ်က် တစ်စုံတစ်ရာကို အလ္လာဟ်အရှင်မြတ်နှင့် တွဲဖက်နှိုင်းယှဉ် ကိုးကွယ်သူတို့ အနက်မှလည်းမဖြစ်ခဲ့ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

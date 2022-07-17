@@ -710,6 +710,12 @@ I kogato gi vizhdakha, kazvakha: “Tezi sa zabludeni.”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၂။ တဖန် သူတို့သည် ယုံကြည်သူတို့ကို မြင်သောအခါတိုင်း သူတို့သည် "ကြည့်ကြလော့၊ ဤလူတို့သည်ဧကန်အမှန်လမ်းလွဲသွားသူများတည်း" ဟု ပြောဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့သည် ထိုသက်ဝင်ယုံကြည်သူတို့အား တွေ့မြင်ကြသောအခါ "ဧကန်မလွဲ ဤသူ တို့သည်အမှန်ပင် လမ်းလွဲသူများ ဖြစ်ကြသည်"ဟု ပြောဆိုကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

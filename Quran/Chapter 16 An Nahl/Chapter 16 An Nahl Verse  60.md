@@ -710,6 +710,12 @@ Onezi, koito ne vyarvat v otvŭdniya zhivot, imat naĭ-loshite kachestva, a nai
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆ဝ။	နောင်တမလွန်ဘဝကို မယုံကြည်သူတို့အဖို့ ဆိုးဝါးသောဥပမာကားဖြစ်၏။ အလ္လာဟ်အရှင်မြတ်၏ ဥပမာကာ အလွန်ကြီးကျယ်ထူးမြတ်လှ၏။ အရှင်မြတ်သည် အနန္တတန်ခိုးတော်သခင်၊ သဗ္ဗညုတဉာာဏ်တော်ရှင်ဖြစ်တော်မူ ပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 နောင်တမလွန်ဘဝကို မယုံကြည်ကြသောသူတို့၌ မကောင်းသော အရည်အချင်းရှိ၏။ သို့ရာတွင်အလ္လာဟ်အရှင် မြတ်၌မူကား မြင့်မြတ်လှစွာသော အရည်အချင်းများသည်ရှိကုန်၏။ ၎င်းပြင် ထိုအရှင်မြတ်သည် တန်ခိုးအာနုဘော်နှင့်လွှမ်းမိုးတော်မူသောအရှင်၊ ကျိုးကြောင်း ဆင်ခြင်တုံတရားနှင့်ပြည့်စုံတော်မူသောအရှင်ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

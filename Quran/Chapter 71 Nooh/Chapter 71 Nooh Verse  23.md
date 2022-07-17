@@ -710,6 +710,12 @@ I kazvakha: “Nikoga ne izostavyaĭte svoite bozhestva, ne izostavyaĭte nito
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၃။ ထို့အပြင် သူတို့ပြောဆိုကြသည်မှာ အဆွေတို့၊ သင်တို့သည် မိမိတို့ဘုရားများကို မစွန့်ကြလင့်၊ ဝဒ်၊ စူဝါး၊ ယဇူ၊ ယဆွက်၊ နမာရ်တို့ကို မပစ်ကြလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထို ကျွန်တော်မျိုး၏အမျိုးသားတို့ သည်(လက်အောက်ငယ်သား လူ့ဗာလတို့အား ဤသို့) ပြောဆိုခဲ့ကြပါသည်။ (အချင်းတို့၊) အသင်တို့ သည် မိမိတို့၏ ကိုးကွယ်ရာများကို စွန့်ပယ်၍ အလျှင်း မထားကြကုန်လင့်။ ၎င်းပြင် အသင်တို့သည် "ဝဒ္ဒ်" ဆင်းတုကိုလည်း အလျှင်း မစွန့်ပယ်ကြကုန်လင့်၊ "ဆုဝါအ်" ဆင်းတုကိုလည်း စွန့်ပယ်ခြင်း မပြုကြကုန်လင့်၊ ထိုမှတစ်ပါး "ယဂူဆ်" ဆင်းတုကိုလည်းကောင်း၊ "ယအူက်"ဆင်းတုကိုလည်းကောင်း၊ "နတ်စ်ရ်" ဆင်းတုကိုလည်းကောင်း၊ စွန့်ပယ်ခြင်းကိုမပြုကြကုန်လင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

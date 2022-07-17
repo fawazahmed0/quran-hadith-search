@@ -710,6 +710,12 @@ A onezi, koito sa bili nevernitsi i sa vzimali za lŭzha Nashite znameniya, za t
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၇။	သို့သော်မယုံကြည်ပဲ ငါ၏ကျမ်းတော်ကို ငြင်းခုံသူတို့၊ သူတို့အတွက်မူကား အလွန်ရှက်ဖွယ်ကောင်းသောအပြစ် ဒဏ်ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် အကြင်သူတို့သည် သွေဖည်ငြင်းပယ်ခဲ့ကြကုန်၏။ ၎င်းပြင် ထိုသူတို့သည် ငါအရှင်မြတ်၏ အာယတ်တော်များကို မဟုတ်မမှန်ဟူ၍ ငြင်းဆိုခဲ့ကြကုန်၏။ ထိုသူတို့မူကား ၎င်းတို့၌ ဂုဏ်အင်သေးသိမ်စေသော ပြစ်ဒဏ်သည် ရှိချေအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

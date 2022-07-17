@@ -710,6 +710,12 @@ I tova, koeto sŭzdade za vas po zemyata v razlichni tsvetove... V tova ima znam
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	ထို့အပြင်အရှင်မြတ်သည် သင်တို့အဖို့အရာ ကမ္ဘာမြေပေါ်တွင် ခပ်သိမ်းကုန်သောအရာတို့ကို ဖန်ဆင်းထားတော် မူ၏။ ထိုအရာများသည် အဆင်း၊ အရောင်ကွဲပြားကြ၏။ အထူးထူးအခြားခြားဖြစ်ကြ၏။ မှတ်သားကြလော့။ ဤအဖြစ်အပျက်၌ ဂရုစိုက်ရသူတို့အဖို့ သာဓကတော်တစ်ပါးအမှန်ပင်ပါရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် အသင်တို့အကျိုးငှာ ပထဝီမြေ၌ ဖန်ဆင်းထားတော်မူသော အရာများကိုလည်း(အမိန့်ကိုလိုက်နာစေတော်မူခဲ့လေသည်။) ထိုအရာဝတ္ထုများ၏ အသွေးအရောင် (မျိုး၊မည်၊ ရသာ ရနံ့စသည်တို့မှာတစ်ခုနှင့်တစ်ခု မတူ) ကွဲပြားခြားနားလျက်ပင် ရှိကြပေသည်။မုချဧကန်ဤသည်၌ တရားကျကြသူတို့အဖို့ အမှန်ပင် သက်သေသာဓကသည် ရှိချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

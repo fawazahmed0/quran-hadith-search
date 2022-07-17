@@ -710,6 +710,12 @@ I ako gi sreshtnesh vŭv voĭna, progoni s porazhenieto im onezi, koito gi sled
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၇။	အကယ်၍ သင်သည် သူတို့နှင့်စစ်ဖြစ်လျှင် သူတို့နောက်ကွယ်တွင်ရှိသူများ ကြောက်လန့် တုန်လှုပ် အောင် သူတို့ကို တိုက်ခိုက်လော့။ သူတို့သည် သတိတရား ရကောင်းရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်သည် အကယ်၍ ၎င်းတို့အား စစ်ပွဲတွင် (လက်ရ)ဖမ်းမိသည်ရှိသော်၊ အသင်သည် ၎င်းတို့အားဖြင့် ၎င်းတို့အပြင်၌ ရှိကြကုန် သော(ရန်)သူတို့အားဖရိုဖရဲ ကစဉ့်ကလျား ဖြစ်အောင်ပြုလေလော့၊ သို့မှသာလျှင် ၎င်းသူတို့သည် သတိရကြလတ္တံ့။ (တစ်နည်း) နောင်ကြဉ်ကြလတ္တံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

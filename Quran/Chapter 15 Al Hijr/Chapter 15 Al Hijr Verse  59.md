@@ -710,6 +710,12 @@ osven semeĭstvoto na Lut. Shte go spasim tsyaloto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၈၊၅၉။	သူတို့က ပြောကြသည်၊ တမန်တော်လွတ်၏ အိမ်သူအိမ်သားများမှတပါး အပြစ်ရှိသောလူမျိုးတစုထံသို့ အကျွနု်ပ် တို့ကို စေလွှတ်လိုက်တော်မူ၏။ သူ၏ မိန်းမမှတပါး အခြားအိမ်သူအိမ်သားတို့ကို အကျွနု်ပ်တို့ကယ်နှုတ်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် (နဗီတမန်တော်)လူတ်၏အိမ်ထောင်စုသားတို့မပါ။ သို့ရာတွင် ဧကန်အမှန် ကျွန်ုပ်တို့သည် ထိုတမန်တော်လူတ်၏အိမ်ထောင်စုသား အားလုံးကို ကယ်တင်မည့်သူများပင် ဖြစ်ကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

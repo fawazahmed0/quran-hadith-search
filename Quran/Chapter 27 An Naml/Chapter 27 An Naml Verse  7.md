@@ -710,6 +710,12 @@ Musa reche na semeĭstvoto si: “Zabelyazakh ogŭn. Shte vi donesa ottam vest 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇။	မှတ်သားကြလော့၊ တမန်တော်မူစာသည် မိမိအိမ်သူအိမ်သားတို့အား ကြည့်ရှုကြလော့၊ ဟိုအဝေးတွင် ငါသည် မီးကို မြင်ရ၏၊ ထိုမီးရှိရာမှ တစ်စုံတစ်ခုသောသတင်းဖြစ်စေ၊ သို့မဟုတ်သင်တို့မီးလှုံဖို့ရာ မီးကူးယူလာခဲ့မည်ဟု ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ပြန်လည်သတိရရှိပါလေ)။ တစ်ရံရောအခါဝယ် မူစာသည် မိမိအိမ်သူအိမ်သားများအား ပြောကြားခဲ့လေ၏။ ဧကန်စင်စစ် ငါသည် မီးတစ်ခုကို မြင်တွေ့လေပြီ။ယခုပင် ငါသည် အသင်တို့ထံ ထိုမီးရှိရာမှ သတင်းတစ်စုံတစ်ရာကို ယူခဲ့မည်။ သို့တည်းမဟုတ် ငါသည် အသင်တို့ထံ မီးလှုံနိုင်ကြအံ့သောငှာ မီးတောက်တစ်ခုကို (ထင်း သို့မဟုတ် အခြားတစ်စုံတစ်ရာဖြင့်)ညှိ၍ အသင်တို့ထံ ဆောင်ကြဉ်းခဲ့ပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

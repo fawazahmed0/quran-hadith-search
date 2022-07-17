@@ -710,6 +710,12 @@ Pusni s nas sinovete na Israil!”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၊၁၇။	သင်တို့နှစ်ဦးသည် ဖွာရောမင်းရှိရာသို့ ကြွသွား၍ ဤသို့ဟောကြားလော့၊ အကျွနု်ပ်တို့သည် အနန္တစကြာဝဠာ တို့၏ အရှင်သခင်အထံတော်မှ အမှာဗျာဒိတ်တော်ကို ယူဆောင်လာကြ၏၊ အစ္စရာအီလ်အမျိုးသားတို့ကို ငါတို့နှင့်အတူ သွားခွင့်ပြုလော့ဟု ဗျာဒိတ်ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်သည် အစ္စရာအီလီအမျိုးသားတို့အား ငါတို့နှင့်အတူ သွားခွင့်ပြုပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ i koito svoite molitvi redovno ot·sluzhvat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	သူတို့သည် ဆွလားသ်ဝတ်များကို စောင့်စည်းကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ထို("မုအ်မင်န်" သက်ဝင်ယုံကြည်)သူတို့ သည် မိမိတို့၏ ဆွလာတ်ဝတ်ပြုမှု(တာဝန်)ကို ဂရုဓမ္မပြုသူများလည်း ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

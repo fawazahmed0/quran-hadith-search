@@ -710,6 +710,12 @@ Sluzhete na Allakh i se boĭte ot Nego, i mi se pokorete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။ သင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား ခဝပ်ကိုးကွယ်ကြလော့၊ ငါ့စကားနားထောင်ကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် ၎င်းအရှင်မြတ်အားသာလျှင် ဆည်းကပ်ကိုးကွယ်ကြလေကုန်၊ အသင်တို့သည် ထိုအရှင်မြတ်အား ကြောက်ရွံ့ကြလေကုန်၊ အသင်တို့သည် ငါ၏အမိန့်ကိုနာခံကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

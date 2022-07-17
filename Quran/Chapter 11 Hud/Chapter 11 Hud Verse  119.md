@@ -710,6 +710,12 @@ osven koito [zasluzhavat] tvoyat Gospod da gi pomilva i Toĭ [taka] gi e sŭtvo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၉။	သင်၏ အရှင်သခင်ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူသောသူကား ယင်းသို့မပြုကျင့်ချေ။ အရှင်မြတ်သည် လူသားတို့အား ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူဖို့ရာ ဖန်ဆင်းတော်မူ၏။ သင်၏ သခင်၏ ဗျာဒိတ်တော် သည် အတည်ဖြစ်ပြီး အမှန်စင်စစ်ငါအရှင်မြတ်သည် အဝီစီငရဲကို ဂျင်နတ်သား၊ လူသားနှစ်မျိုးလုံးအားဖြင့် အပြည့်ဖြည့်တော်မူမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်၏ အရှင်မြတ်က ကရုဏာပြုတော်မူသော သူတို့မှတစ်ပါး စင်စစ်မှာမူကား ထိုအရှင် မြတ်သည်ဤသည့်အတွက်ကြောင့်ပင် ၎င်းတို့အား ဖန်ဆင်းတော်မူခဲ့လေသည်။ ၎င်းပြင် ငါအရှင်မြတ်သည် ဂျဟန္နမ်ငရဲဘုံကို ဂျင်(န်)သတ္တဝါများနှင့် လူများအားလုံးဖြင့် ပြည့်နှက်စေတော်မူမည်ဟူသော အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၏စကားတော်လည်း ဆုံးခန်းတိုင် ရောက်ခဲ့လေပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

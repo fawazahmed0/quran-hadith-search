@@ -710,6 +710,12 @@ Kazhi: “Ako otvŭdniyat dom pri Allakh e samo za vas, a ne za drugite khora, v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၄။	ဟောကြားလော့။ နောင်တမလွန်ဘဝ၌ အလ္လာဟ်နှင့်အတူတကွစံမြန်းရမည့် ဗိမာန်သည် အခြား သူများအတွက်မဟုတ်ဘဲ သင်တို့အဘို့သာဖြစ်လျှင် သင်တို့မှန်သောစကားကိုုဆိုလျှင် သေဖို့ရာ ဆုတောင်းကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (ထို ယဟူဒီဘာသာဝင်တို့အား ဤသို့ချေပပြောဆိုပါလေ၊ ဟယ်-အချင်းတို့) အကယ်၍ အလ္လာဟ် အရှင်မြတ် အထံတော်၌ရှိသော နောင်တမလွန်ဘဝ(၏ အမတ သုခချမ်းသာများ)သည် အခြားလူခပ်သိမ်းတို့နှင့် အလျင်းမသက်ဆိုင်ဘဲ အသင်တို့အဖို့သာလျှင် ဖြစ်သည်ဟု (ယုံကြည်ပါမူ) အသင်တို့သည် (ဆောလျင်စွာ) မရဏသေခြင်းကို လိုလားတောင်းတကြလေကုန်။ (ဟယ်-အချင်းတို့) အသင်တို့သည် ဟုတ်မှန်ရာကို ထုတ်ဖော်ပြောဆိုသူများ ဖြစ်ကြပါလျှင် မရဏသေခြင်းကို စင်စစ်တောင်းတကြရမည်၊ (သို့ရာတွင် အသင်တို့၌ ဤကဲ့သို့ တောင်းတသူဟူ၍ မတွေ့ရပါရပါတကား)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

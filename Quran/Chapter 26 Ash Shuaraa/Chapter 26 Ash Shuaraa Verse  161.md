@@ -710,6 +710,12 @@ Tekhniyat brat Lut im kaza: “Ne se li boite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၁။	သူတို့၏ အမျိုးသားချင်းတမန်တော်လွဒ်က ဤသို့ဟောကြား၏၊ ဟယ်-အချင်းတို့၊ သင်တို့သည် ဒုစရိုက်အမှုများ ရှောင်ကြဉ်ကြမည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်အခါဝယ် ၎င်းတို့အား၊ ၎င်းတို့၏နောင်တော်လူ(တ်)က ပြောကြားခဲ့လေ၏။ အသင်တို့သည်(အလ္လာဟ်အရှင်မြတ်အား) မကြောက်ရွံ့ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

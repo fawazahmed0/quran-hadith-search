@@ -710,6 +710,12 @@ A koito vyarvat i vŭrshat pravedni dela, tezi sa obitatelite na Raya, tam shte 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၂။	ထို့ပြင် အကြင်သူတို့သည် ယုံကြည်ခြင်းတရားရှိ၍ ကောင်းမှုပွားများ၏။ ထိုသူတို့သည် သုခဥယျာဉ် တော်ကို ပိုင်ဆိုင်သူများဖြစ်ကြ၏။ သူတို့သည် ဥယျာဉ်တော်၌ စံမြန်းနေထိုင်ကြရလတ္တံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့သော် အကြင်သူများသည် ယုံကြည်ခြင်း သဒ္ဓါတရားထားရှိ၍ ကောင်းမြတ်သော အကျင့်သီလများကို ကျင့်မူဆောက်တည်ခဲ့ကြ၏၊ ထိုသူတို့သည် ဂျန္နတ်အမတ သုခဘုံသားများ ဖြစ်ကြကုန်၏။ ထိုသူများသည် ယင်း ဂျန္နတ် အမတသုခဘုံ၌ အမြဲ ခံစားကြရမည့်သူများ ဖြစ်ကြ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

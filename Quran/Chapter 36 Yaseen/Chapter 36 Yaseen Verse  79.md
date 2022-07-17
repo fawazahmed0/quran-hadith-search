@@ -710,6 +710,12 @@ Kazhi: “Shte gi sŭzhivi Onzi, Koĭto gi sŭtvori pŭrviya pŭt. Toĭ znae v
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၉။	အို-တမန်တော်၊ ဟောပြောလော့၊ ထိုအရိုးများကို အစကနဦးတွင် ဖန်ဆင်းတော်မူထသောအလ္လာဟ်အရှင် မြတ်သည် ၎င်းတို့ကို တဖန်အသက်သွင်းတော်မူမည်၊ အကြောင်းမူကားအရှင်မြတ်သည် ဖန်ဆင်းပြုပြင်ခြင်း အပေါင်းတို့၌ အတိုင်းထက်အလွန်ကျွမ်းကျင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ပြောကြားပါလေ။ (အချင်းတို့၊) ပထမအကြိမ် ယင်းအရိုးများကို ဖန်ဆင်းတော်မူခဲ့သော အရှင်မြတ်သည်ပင်လျှင် ယင်းအရိုးများကို ရှင်(ပြန်)စေတော်မူမည်။ စင်စစ်သော်ကား ထိုအရှင်မြတ်သည် အလုံးစုံသောဖန်ဆင်းပုံ ဖန်ဆင်းနည်းတို့ကို ကောင်းစွာ သိရှိတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

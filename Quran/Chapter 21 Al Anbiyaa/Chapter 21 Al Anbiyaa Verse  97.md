@@ -710,6 +710,12 @@ togava shte e nablizhilo istinnoto obeshtanie. I s vtreshteni pogledi nevernitsi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၇။	ထို့အပြင်ဂတိသစ္စာမှန်တော်သည် နီးကပ်လာသည်၊ ထိုအခါကြည့်ကြလော့၊ အယူလွဲသူမိစ္ဆာမိုက်တို့သည် ကြောက်ရွံ့ထိတ်လန့်ခြင်းဖြင့် မျက်လုံးမျက်ဆံပြူးပြူးထွက်၍ ငေးကြည့်နေကြလတ္တံ့၊ ထို့အပြင်သူတို့မြည်တမ်း ညည်းညူကြမည်မှာ အကျွနု်ပ်တို့ဒုက္ခတွေ့ကြပြီ၊ အကျွနု်ပ်တို့သည် ဤအရာကို မေ့မေ့ပျောက်ပျောက်နေခဲ့ကြ လေပြီ၊ စင်စစ်အားဖြင့် အကျွနု်ပ်တို့သည် မတရားကျင့်ကြံသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် မှန်ကန်စွာ ချိန်းချက်ထားသောအချိန်ကာလ(ကိယာမတ်နေ့)သည် နီးကပ်၍ လာခဲ့သောအခါ ကာဖိရ်သွေဖည်ငြင်းပယ်သော သူတို့၏မျက်လုံးများကား ပြူးကျယ်လျက် ရှိကြပေမည်။ (ထိုအခါ ၎င်းတို့သည်) ဪ-ဖြစ်မှဖြစ်ရလေခြင်း၊ မချွတ်ဧကန် ကျွန်ုပ်တို့သည် ဤ(ကိယာ မတ်နေ့)ကိုဂရုမထား မေ့လျော့၍သာ နေခဲ့ကြလေသည်။ စင်စစ်မှာကား ကျွန်ုပ်တို့သည်သာလျှင် အပြစ်ကျူးလွန်သူများ ဖြစ်ကြသည်ဟု ညည်းညူမြည်တမ်း ကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

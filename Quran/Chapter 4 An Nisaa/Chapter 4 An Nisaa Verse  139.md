@@ -710,6 +710,12 @@ za onezi, koito vzimat nevernitsite za blizhni vmesto vyarvashtite. Nima u tyakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၉။	ထိုသူတို့သည် ယုံကြည်သူတို့အစား မိစ္ဆာဒိဌိတို့ကို မိတ်ဆွေများအဖြစ် ရွေးချယ်ကြ၏။ သူတို့သည် ထိုမိစ္ဆာမိုက်တို့ထံမှ တန်ခိုးအာဏာ မျှော်လင့်ကြသလော။ မှတ်သားကြလော့။ ခပ်သိမ်းကုန်သော တန်ခိုးအာဏာတို့သည် အလ္လာဟ်အသျှင်မြတ်အထံတော်၌သာလျှင် ရှိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင် (‘မုနာဖစ်က်’ အယောင်ဆောင် မွတ်စ်လင်မ်) တို့သည် ‘မုအ်မင်န်’ တို့အား စွန့်လွှတ်ပြီး ‘ကာဖိရ်’တို့ကို အဆွေခင်ပွန်းများ ပြုလုပ်ကြလေသည်။ ၎င်းတို့သည် ထို‘ကာဖိရ်’တို့ထံတွင် ဂုဏ်အင်ဒြဗ် ရှာဖွေကြလေသလော။ သို့ဖြစ်လျှင် ဂုဏ်အင်ဒြဗ်ဟူသမျှတို့သည် မုချဧကန် အလ္လာဟ်အရှင်မြတ်၌သာ ရှိသည်သာတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

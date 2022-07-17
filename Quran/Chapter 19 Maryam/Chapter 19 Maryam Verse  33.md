@@ -710,6 +710,12 @@ I mir na men v denya, v koĭto sŭm roden, i v denya, kogato shte umra, i v Den
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	မွေးဖွားသောနေ့၌လည်းကောင်း၊ သေပျောက်ရသောနေ့၌လည်းကောင်း၊ ရှင်ပြန်ထမြောက်ရသောနေ့တော်ကြီး ၌ အကျွနု်ပ်အပေါ်သို့ အေးချမ်းသာယာခြင်းမင်္ဂလာတော်ကြီးသက်ရောက်ပါစေသော်ဝ်ဟု ပြောဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ကျွန်ုပ်၏အပေါ်၌ ကျွန်ုပ်မွေးဖွားခဲ့သည့်နေ့၌လည်းကောင်း၊ ကျွန်ုပ်သေဆုံးမည့်နေ့၌ လည်းကောင်း၊ကျွန်ုပ်ရှင်ပြန်ထစေခြင်း ခံရမည့်နေ့၌လည်းကောင်း၊ (အလ္လာဟ်အရှင်မြတ်အထံတော်မှ) ငြိမ်းချမ်းသာယာမှုသည် ကျရောက်ပါစေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

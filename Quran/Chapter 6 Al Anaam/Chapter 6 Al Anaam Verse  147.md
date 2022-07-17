@@ -710,6 +710,12 @@ A ako te vzimat za lŭzhets, kazhi: “Vashiyat Gospod e s vseobkhvatna milost, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၇။	အို-မိုဟမ္မဒ် သူတို့သည် သင်တို့အား မုသားဆိုသူဟု စွပ်စွဲကြလျှင် သင်ဟောကြားလော့။ ဟယ်-အချင်းတို့ သင်တို့၏ကျေးဇူးတော်သခင်သည် အနန္တကောင်းချီးမင်္ဂလာတော်အသျှင် ဖြစ်တော်မူ၏။ ၎င်းပြင် အသျှင်မြတ်၏အမျက်တော်ကို အပြစ်ရှိသူများထံမှ လုံးဝရုပ်သိမ်းတော်မူမည်မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက်သော်မှပင် (အို-နဗီတမန်တော်)အကယ်၍ ၎င်းတို့သည် အသင့်အား မုသားပြောဆိုသည်ဟူ၍စွပ်စွဲကြပါလျှင်၊ အသင်သည်(၎င်းတို့ကိုဤသို့) ဖြေကြားပါလေ။အသင်တို့အား ဖန်ဆင်း မွေးမြူတော်မူသော အရှင်မြတ်သည်အလွန်ကြီးကျယ်သော မဟာကရုဏာတော်ရှင် ဖြစ်တော်မူသည်။ သို့ရာတွင် ထိုအရှင်မြတ်၏ပြစ်ဒဏ်သည်လည်း အပြစ်ရှိသောသူတို့အပေါ်မှ ဆုတ်ခွာ၍ (ရွေ့လျော) သွားလိမ့်မည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

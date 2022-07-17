@@ -710,6 +710,12 @@ Taka ukrepikhme Yusuf na Zemyata. Nastanyavashe se po neya, kŭdeto pozhelae. Ni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၆။	ယင်းကဲ့သို့ ငါအရှင်မြတ်သည် ယူစွတ်(ဖ်)အား ကမ္ဘာမြေပေါ်တွင် တန်ဖိုးအာဏာပေးသနားတော်မူ၏။ သသည် မိမိလိုတိုင်း အာဏာကို စိုးပိုင်၏။ ငါအရှင်မြတ်သည် ချီးမြှင့်လိုတော်မူသောသူအား သနားစောင့်ရှောက်ချီးမြှင့် တော်မူ၏။ ငါသည် သူတော်ကောင်းတို့၏ ဆုံးရှုံးတော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ငါအရှင်မြတ်သည် ဤနည်းအတိုင်းပင် ယူဆွဖ်အား တိုင်းပြည်တွင် ထိုယူဆွဖ်သည် ယင်းတိုင်းပြည်၌ မိမိနေလိုသောနေရာတွင်နေထိုင်ရန် အာဏာကိုချီးမြှင့်တော်မူခဲ့လေသည်။ ငါအရှင်မြတ်သည် မိမိအလိုရှိတော်မူသောသူ၌ မိမိကရုဏာတော်ကို သက်ရောက်စေတော်မူ၏။၎င်းပြင် ငါအရှင်မြတ်သည် ကောင်းမှုပြုလုပ်သူတို့၏အကျိုးကိုအချည်းအနှီး ဖြစ်စေတော်မူသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

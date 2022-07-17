@@ -710,6 +710,12 @@ I predi teb izprashtakhme Nie pratenitsi pri tekhnite narodi i im donasyakha yas
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	မိုဟမ္မဒ်၊ ငါသည် သင်မပွင့်မီအချိန်ကာလတွင် တမန်တော်အသီးသီးတို့ကို ၎င်းတို့၏ အမျိုးသားတို့ထံသို့ မုချစေလွှတ်တော်မူ၏၊ အလ္လာဟ်အရှင်မြတ်သည် အချုပ်အခြာအာဏာပိုင်သတော်မူကြောင်းကို ထင်ရှားစေသော ရှင်းလင်းခိုင်မာသည့်သက်သေခံချက်ကြီးများကို ထိုတမန်တော်တို့ယူဆောင်လာကြ၏၊ ထို့နောက်ငါသည် တမန် တော်တို့အား ပြစ်မှားသောသူတို့ကို လက်စားချေတော်မူ၏၊ ယုံကြည်သူတို့ကို စောင်မကြည့်ရှုမှုကား အရှင်မြတ် ၏ တာဝန်တော်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် မချွတ်မလွဲ ငါအရှင်မြတ်သည် အသင့်အလျင် ရစူလ်တမန်တော်များအား ၎င်းတို့၏အမျိုးသားတို့ထံ စေလွှတ်တော်မူခဲ့ရာ ထိုရစူလ်တမန်တော်များသည် ၎င်းတို့ထံ ထင်ရှားစွာသော သက်သေသာဓကများနှင့်တကွ ရောက်ရှိလာခဲ့ကြကုန်၏။ ထို့နောက် ငါအရှင်မြတ်သည် ပြစ်မှုကျူးလွန်ကြကုန်သော သူတို့အား လက်စားချေတော်မူခဲ့၏။ စင်စစ်’မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူတို့အား ကူညီစောင်မတော်မူခြင်းသည် ငါအရှင်မြတ်၏ တာဝန်ပင် ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

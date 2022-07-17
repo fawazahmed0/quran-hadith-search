@@ -710,6 +710,12 @@ Veche ti nizposlakhme yasni znameniya. V tyakh ne vyarvat samo nechestivtsite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၉။	အေ - တမန်တော်၊ ငါသည် သင့်အား အလွန်ထင်ရှားပေါ်လွင်သော ကုရ်အာန်ကျမ်းတော်မြတ်ကို အမှန်ပင်ထုတ်ပြန်ချပေးသနားတော်မူပြီး မိစ္ဆာဒိဋ္ဌိတို့သာ ဤကျမ်းတော်မြတ်ကို မယုံမကြည်ပဲ ရှိကြမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (အို-နဗီတမန်တော်) ငါအရှင်သည် အသင်၏ထံသို့ ထင်ရှားသော သက်သေခံ လက္ခဏာများကိုထုတ်ပြန်ပို့ချတော်မူခဲ့လေပြီ၊ ထို သက်သေခံ က္ခဏာများကို အမိန့်တော်မနာခံသော သူယုတ်မာများမှအပ မည်သူတစ်စုံတစ်ယောက်မျှ ထွက်ပြူငြင်းပယ်မည် မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

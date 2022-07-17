@@ -710,6 +710,12 @@ Toĭ vŭvezhda noshtta v denya i vŭvezhda denya v noshtta. I znae sŭkrovenoto
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆။	အရှင်မြတ်သည် ညမှ နေ့သို့၊ နေ့မှ ညသို့၊ ပြောင်းလွဲစေတော်မူ၏၊ လူသားတို့၏ စိတ်နှလုံးအတွင်း၌ ထိမ်ချိန်လျှို့ဝှက်ထားသမျှအပေါင်းတို့ကို အကြွင်းမဲ့သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်သည်ပင်(အချို့သောရာသီဥတု ၌)ညဉ့်(၏ အစိတ်အပိုင်းအချို့)ကို နေ့၏အတွင်းဝယ် ထည့်သွင်းတော်မူ၏။ ထိုနည်းတူစွာ ထိုအရှင် မြတ်သည်ပင် (အချို့သောရာသီဥတု၌) နေ့(၏အစိတ်အပိုင်းအချို့)ကို ညဉ့်၏အတွင်းဝယ် ထည့်သွင်းတော်မူ၏။ ထိုမှတစ်ပါး ထိုအရှင်မြတ်သည် စိတ်နှလုံးများအတွင်း၌ ရှိသည်တို့ကိုပင် အကြွင်းမဲ့သိရှိတော်မူသောအရှင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

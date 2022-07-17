@@ -710,6 +710,12 @@ V tova ima znamenie, no povecheto ot tyakh ne vyarvat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၁။	မှတ်သားကြလော့၊ ဤအဖြစ်အပျက်များတွင် နိမိတ်လက္ခဏာအထူးအမှန်ပင်ပါရှိ၏၊ သို့သော်သူတို့အနက်များလှ စွာသောသူများသည် ယုံကြည်သူများမဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ဤသည့်ဖြစ်ရပ်၌(ကြီးကျယ်လှသော)သင်ခန်းစာသည်ရှိ၏။ စင်စစ်သော်ကား ၎င်းတို့အနက် (မက္ကာမြို့သား ကာဖိရ်များအနက်)အများဆုံးသောသူတို့မှာ သက်ဝင်ယုံကြည်မည့်သူများ မဟုတ်ကြပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

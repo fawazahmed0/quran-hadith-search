@@ -710,6 +710,12 @@ Reche: “Shte nadzŭrnete li?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၄။	ထိုတရားသံပါသူက အဆွေတို့၊ သင်တို့ကြည့်ကြမည်လောဟု မေး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ထိုအရှင်မြတ်သည် မိန့်ကြားတော်မူပေမည်။ (တစ်နည်း) ["ဂျန္နတ်" သုခဘုံ၌ အတူရှိနေသော အဖော်တစ်ဦးက ပြောဆိုပေမည်။] အသင်တို့သည် (ထိုအဖော်အား)ချောင်း၍ ကြည့်လိုကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

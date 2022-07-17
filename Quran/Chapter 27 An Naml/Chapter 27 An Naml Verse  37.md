@@ -710,6 +710,12 @@ Vŭrni se [vodacho] pri tyakh! I shte otidem tam s voĭski, za koito nyamat sil
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၇။	အို-သံအမတ်တို့၊ သင်တို့သည် မိမိတို့တိုင်းပြည်သို့ ပြန်ကြလော့၊ အကယ်စင်စစ်အကျွနု်ပ်တို့သည် သင်တို့ပြည်သူ ပြည်သားထံသို့ သူတို့မခုခံနိုင်သောစစ်တပ်ကြီးများနှင့်ချီတက်လာမည်၏၊ အကျွနု်ပ်တို့သည် သူတို့အား ထိုပြည်မှ အရှက်တကွဲနှင့်နှင်ထုတ်တော်မူမည်၊ သူတို့သည် ဂုဏ်သိမ်ပြတ်ကင်း ဆင်းရဲကြီးစွာဖြစ်ရလိမ့်မည်ဟု မိန့်တော် မူလိုက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်သည် ၎င်းတို့ထံ ပြန်သွားလော့။ ထို့နောက် ဧကန်အမှန် ငါတို့သည် ၎င်းတို့ထံ ၎င်းတို့ ယှဉ်ပြိုင်နိုင်စွမ်းမရှိသော ရဲမက်များနှင့်တကွ ချီတက်ရောက်ရှိ၍ လာကြမည်။ထိုမှတစ်ပါး ဧကန်မလွဲ ငါတို့သည် ၎င်းတို့အား ထို(မြို့ရွာ)မှ ဂုဏ်ရည်သေးသိမ်သူများအဖြစ်နှင့် နှင်ထုတ်ကြမည်။ ထို(အခါ)၎င်းတို့သည် အရှက်ကွဲအကျိုးနည်းသူများ ဖြစ်သွားကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

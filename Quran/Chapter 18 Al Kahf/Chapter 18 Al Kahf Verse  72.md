@@ -710,6 +710,12 @@ Reche: “Nali ti kazakh, che ne shte mozhesh da tŭrpish zaedno s men?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၂။	ထိုသူက သင်သည် အကျွနု်ကို လျစ်လျူရှုနေနိုင်မည်မဟုတ်ဟု သင့်အား အကျွနု်ပ်မပြောခဲ့ဘူးလားဟု ဆို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ယင်း (ခစ်ဿွ်ရ်) က (ဤသို့) ပြောဆိုခဲ့လေ၏။(အချင်းမူစာ)ဧကန်အမှန် အသင်သည် ကျွန်ုပ်နှင့်အတူအလျင်းသည်းခံ၍ နေနိုင်မည်မဟုတ်ကြောင်း ကျွန်ုပ် ပြောကြားခဲ့သည် မဟုတ်ပါလောဟု ဆိုလေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

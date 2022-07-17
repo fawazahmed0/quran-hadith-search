@@ -710,6 +710,12 @@ I ne sled dŭlgo Rayat shte bŭde priblizhen za bogoboyazlivite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	ဒုစရိုက်မကောင်းမှုများကို ရှောင်ခဲ့သူတို့အဖို့အရာ နိဗ္ဗာန်ဥယျာဉ်တော်ကို ချဉ်းကပ်ပေးတော်မူ၍ နိဗ္ဗာန်မဝေးသော နေ့၌။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ‘ဂျန္နတ်’ သုခဘုံသည် မွတ္တကီ သူတော်စင်များအနီးသို့ ယူလာခြင်းကို ခံရပေမည်။ (ယင်း’ဂျန္နတ်’သုခဘုံမှာ) ဝေးကွာလှမည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

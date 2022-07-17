@@ -710,6 +710,12 @@ Kogato negoviyat Gospod mu reche: “Otdaĭ se!” - toĭ reche: “Otdadokh s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၁။	သူ၏ အရှင်သခင်က အေ - အီဗရာဟီမ်၊ သင်သည် ငါ့အား ကျိုးနွံနာခံလော့ဟု ဗျာဒိတ် ပေးတော်မူသောအခါ သူသည် အကျွန်ုပ်သည် စကြဝဠာတို့၏အရှင်သခင်အား ကျိုးနွံပါပြီဟု တင်လျှောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ပြန်လည်အောက်မေ့သတိရကြကုန်လော့) အကြင်အခါ၌ နဗီတမန်တော် အစ်ဗ်ရာဟီမ်(အ)ကို အလ္လာဟ် အရှင်မြတ်က [အို-အစ်ဗ်ရာဟီမ်(အ) အသင်သည် ငါအရှင်မြတ်၏]အမိန့်နာခံသူ (မုစ်လင်မ်) ဖြစ်ပါလေဟု မိန့်ကြားတော် မူခဲ့၏။ ထိုအခါ နဗီတမန်တော် အစ်ဗ်ရာဟီမ်(အ)က ကျွန်တော်မျိုးသည် ခပ်သိမ်းကုန်သော စကြာဝဠာအပေါင်းတို့က မွေးမြူတော် မူထသောအရှင်မြတ်၏ အမိန့်တော်ကို ကြည်ဖြူစွာ ခံယူပါပြီဟု တင်လျှောက် ခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

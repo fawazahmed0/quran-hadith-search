@@ -710,6 +710,12 @@ pratenitsi, za koito veche ti razkazakhme predi, i pratenitsi, za koito ne sme t
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၄။	အချို့သောတမန်တော်များ၏အကြောင်းကို သင့်အား ငါအသျှင်မြတ်ဗျာဒိတ်ပေးတော်မူပြီ။ အချို့သောတမန်တော်အကြောင်းကို ဖော်ပြတော်မမူပေ။ တမန်တော်မူဆာအား အလ္လာဟ်အသျှင် မြတ်သည် တိုက်ရိုက်ဗျာဒိတ်ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် (ငါအရှင်မြတ်သည်) အကြင်ရစူလ်တမန်တော်များထံသို့လည်း (ဝဟ်ယ် အမိန့်ဗျာဒိတ်တော်များကို ပို့တော်မူခဲ့လေသည်) ။ ထိုရစူလ်တမန်တော်များ၏အကြောင်း အတ္ထုပ္ပတ္တိကို ငါအရှင်မြတ်သည် ယခင်မူလက အသင်၏ရှေ့ဝယ် ပြောပြတော်မူခဲ့ဖူး၏။ ထိုနည်းတူစွာ (ငါအရှင်မြတ်သည်) အကြင်ရစူလ်တမန်တော်များထံသို့လည်း (ဝဟ်ယ် အမိန့်ဗျာဒိတ်တော်များကို ပို့တော်မူခဲ့လေသည်၊) ထိုရစူလ်တမန်တော်များ၏အတ္ထုပ္ပတ္တိကို ငါအရှင်မြတ်သည် အသင်၏ရှေ့ဝယ် ဖေါ်ပြတော်မူခဲ့ဖူးသည်မရှိချေ။ ထိုမှတစ်ပါး အလ္လာဟ်အရှင်မြတ်သည် (နဗီတမန်တော်) မူစာနှင့် (အထူးသဖြင့်) စကား ပြောဆိုတော်မူခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

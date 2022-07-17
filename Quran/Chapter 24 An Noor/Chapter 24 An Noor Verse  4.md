@@ -710,6 +710,12 @@ A na onezi, koito nabedyat tselomŭdreni zheni, posle ne dovedat chetirima svide
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။	အကြင်သူတို့သည် ဂုဏ်သရေရှိအမျိုးသမီးတို့အား မတရားမေထုံကျင့်သည်ဟု သက်သေလေးယောက်မထူပဲ စွပ်စွဲငြားအ့ံ၊ ထိုသူတို့အား ကြိမ်ဒဏ်အချက်ရှစ်ဆယ်တပ်ရိုက်ကြလော့၊ ထို့နောက်ထိုသူတို့၏ သက်သေထွက် ချက်ကို မည်သည့်အမှုတွင်မှ အရေးယူလက်မခံကြချေ၊ ထိုသူတို့သည် မတရားမှုကို အမှန်ပင်ကျူးလွန်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အပြစ်ကင်းစင်သော အမျိုးသမီးများအား(ကာမေသုမိစ္ဆာစာရကျူးလွန်သည်ဟု)စွပ်စွဲပြီးနောက် သက်သေလေးယောက် တင်မပြနိုင်ခဲ့ကြသော သူတို့အား အသင်တို့သည် ကြိမ်ဒဏ်အချက်ပေါင်း ရှစ်ဆယ်ရိုက်ကြလေကုန်။ ၎င်းပြင် အသင်တို့သည် မည်သည့်အခါမျှ ၎င်းတို့၏ မည်သို့ သောသက်သေခံချက်ကိုမျှ လက်မခံကြကုန်လင့်။ စင်စစ်သော်ကား ထိုသူတို့သည်ပင်လျှင် စည်းကမ်းဖောက်ဖျက်သူများ ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

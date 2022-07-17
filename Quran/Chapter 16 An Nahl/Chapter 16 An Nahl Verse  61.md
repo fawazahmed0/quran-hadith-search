@@ -710,6 +710,12 @@ I ako Allakh nakazvashe khorata za tekhniya gnet, Toĭ ne bi ostavil na zemyata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၁။	အကယ်၍ အလ္လာဟ်အရှင်မြတ်သည် လူသားတို့အား ၎င်းတို့ပြုကျင့်မှုကြောင့် ချက်ခြင်းအပြစ်ဒဏ်ခတ်တော်မူ ပါလျှင် ဤကမ္ဘာမြေကြီးပေါ်တွင် သက်ရှိသတ္တဝါတစုံတယောက်မျှကျန်ရစ်မည်မဟုတ်ချေ။ သို့သော်အရှင်မြတ် သည် သူတို့အား ပြဋ္ဌာန်းထားတော်မူသည့်အချိန်ကာလတိုင်အောင် အချိန်ပေးတော်မူ၏။ အချိန်စေ့ရောက်ကာလ၊ သူတို့သည် ထိုအချိန်ကို တနာရီမျှမဆုတ်၊ မတိုးနိုင်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား အကယ်၍သာ အလ္လာဟ်အရှင်မြတ်သည် လူတို့အာ်း့၎င်းတို့၏ မတရားမှုကြောင့် (ရုတ်တရက်ချက်ချင်း)ဖမ်းဆီးကွပ်မျက်တော်မူပါလျှင်(ဤပထဝီမြေ)ပေါ်ဝယ် သွားလာလှုပ်ရှားသော သတ္တဝါတစ်စုံတစ်ခုကိုမျှ ချန်ထားတော်မူမည်မဟုတ်ပေ။ သို့ရာတွင် ထိုအရှင်မြတ်သည်၎င်းတို့အား သတ်မှတ်ပြဋ္ဌာန်းပြီးဖြစ်သော အချိန်ကာလတိုင်အောင် ရွှေ့ဆိုင်းတော်မူလေသည်။ တစ်ဖန် ၎င်းတို့၏အချိန်ကာလသည် ဆိုက်ရောက်လာသောအခါ၊ ၎င်းတို့သည် တစ်နာရီမျှပင် နောက်သို့ ဆုတ်နိုင်ကြမည်လည်း မဟုတ်ပေ။ ရှေ့သို့တိုးနိုင်ကြမည်လည်း မဟုတ်ပါပေတကား။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

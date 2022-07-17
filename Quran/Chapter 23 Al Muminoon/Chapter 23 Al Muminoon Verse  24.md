@@ -710,6 +710,12 @@ Znatnite ot negoviya narod, koito otrichakha, kazakha: “Tozi e samo edin chove
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၄။	သို့သော်သူ၏ အမျိုးသားတို့မှ အကြီးအကဲတို့သည် မိစ္ဆာဒိဌိဖြစ်ကြပြီးလျှင် ဤသို့ဆိုကြကုန်၏၊ သူသည် သင်တို့ကဲ့သို့ သေမျိုးသာဖြစ်၏၊ သူသည် သူ့ကိုယ်ကို သင်တို့ထက်သာလွန်မြင့်မြတ်သူဖြစ်လို၏၊ အကယ်၍ အလ္လာဟ်အရှင်မြတ်အလိုတော်ရှိပါလျှင် အရှင်မြတ်သည် ကောင်းကင်တမန်တော်များကို မုချဧကန်စေလွှတ်နိုင် တော်မူသည်၊ ငါတို့သည် မိမိတို့မိဘဘိုးဘွားလက်ထက်၌ ဤအရာကို မကြားဖူးချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ထိုနူဟ်၏အမျိုးသားတို့အနက် မယုံမကြည် သွေဖည်ငြင်းပယ်ကြကုန်သော အကြီးအကဲတို့က (အချင်းတို့၊) ဤနူဟ်သည် အသင်တို့ကဲ့သို့ပင် လူသားတစ်ဦးသာလျှင် ဖြစ်ပေသည်။ ၎င်းသည် အသင်တို့ထက် ကြီးကဲမြင့်မြတ်ရန် ကြံရွယ်နေခြင်းပင် ဖြစ်ချေသည်။ စင်စစ် အကယ်၍သာ အလ္လာဟ်အရှင်မြတ်သည် (ကျွန်ုပ်တို့အား တရားလမ်းမှန်သို့ ရောက်စေရန်) အလိုရှိတော်မူခဲ့ပါလျှင် ကောင်းကင်တမန်များကိုသာ စေ လွှတ်တော်မူခဲ့ပေမည်။ ကျွန်ုပ်တို့သည် ဤ (တစ်ဆူတည်းသော ကိုးကွယ်ရာ အရှင်ဟူသော)စကားကို မိမိတို့ ရှေးသူဟောင်းများဖြစ်သော ဘိုးဘေးတို့ထံမှ(တစ်ခါဘူးမျှပင်) မကြားခဲ့ဘူးကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ koito ot·sluzhvat molitvata i ot onova, koeto sme im dali, razdavat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃။	ဆွလာသ်ဝတ်ပြုသူများ၊ ငါအသျှင်မြတ်ပေးသနားတော်မူသော ဥစ္စာပစ္စည်းများမှ သုံးစွဲသောသူများ ဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတို့သည် ဆွလာတ် ဝတ်ပြုမှုကို အမြဲမပြတ် ဆောက်တည်ကြကုန်၏။ ထို့ပြင် ၎င်းတို့အား ငါအရှင်မြတ်ချီး မြှင့်ပေးသနားတော် မူသည်များအနက်မှ(လှူဒါန်း)သုံးစွဲကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

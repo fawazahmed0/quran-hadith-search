@@ -710,6 +710,12 @@ Reche: “Mir na teb! Shte molya da te oprosti moyat Gospod. Kŭm men Toĭ e bl
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၇။	ထိုအခါတမန်တော်အေဗရာဟမ်က အို-မွေးသဖခင်၊ ဖခင်အပေါ်သို့ အေးချမ်းသာယာခြင်းမင်္ဂလာတော်ကြီး သက်ရောက်ပါစေသော်ဝ်၊ အကျွနု်ပ်သည် မိမိ၏ အရှင်သခင်အား ဖခင်ကို အပြစ်လွှတ်ဖို့ရာ ဆုတောင်းပါမည်၊ မှတ်သားပါလော့၊ အရှင်မြတ်သည် အကျွနု်ပ်အား အမြဲဂရုဏာသက်တော်မူပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ထို(နဗီတမန်တော်)အအစ်ဗ်ရာဟီမ်က(မိမိဖခင်အာဇရ်အား ဤသို့)ပြောဆိုဖြေကြားခဲ့လေသည်။ (အိုဖခင်၊စလာမွန်အလိုက် ငြိမ်းချမ်း သာယာမှုသည် အသင့်အပေါ်၌ရှိပါစေ၊ (ကျွန်တော်လမ်းခွဲပါရစေ)၊ ယခုသော်ကားကျွန်ုပ်သည် အသင်(ဖခင်)အဖို့ မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်အထံတော်တွင် လွတ်ငြိမ်းချမ်းသာခွင့်ကို ပန်ကြားပါတော့မည်။ မလွဲဧကန် ထိုအရှင်မြတ်သည် ကျွန်ုပ်အပေါ်၌ အလွန်တရာကျေးဇူးပြုတော်မူသောအရှင်မြတ်ပင်ဖြစ်တော်မူပါသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

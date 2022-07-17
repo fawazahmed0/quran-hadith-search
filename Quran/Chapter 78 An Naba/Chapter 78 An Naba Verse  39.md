@@ -710,6 +710,12 @@ Tozi e Denyat na istinata. A koĭto pozhelae, da tŭrsi pristan pri svoya Gospo
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၉။ ထိုနေ့တော်ကြီးသည် နေ့စစ်နေ့မှန်ဖြစ်၏၊ ထို့ကြောင့်မည်သူမဆို မိမိအရှင်သခင်ကို အားကိုးအားထားပြုလိုလျှင်ပြုလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(ကိယာမတ်နေ့)သည်ကား မုချ ဆိုက်ရောက်မည့်နေ့ပင် ဖြစ်ပေသည်။ သို့ဖြစ်ပေရာ အလိုရှိသောသူသည် မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၏အထံတော်တွင် (မိမိအဖို့)ပြန်လည်ရာဌာနကို(အဆင်သင့်)ပြုလုပ်၍ ထားရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

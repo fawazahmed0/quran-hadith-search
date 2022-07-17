@@ -710,6 +710,12 @@ Oblegnati vŭrkhu kilimi s podplata ot brokat. I plodovete na dvete gradini shte
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၄။	နိဗ္ဗာန်သူနိဗ္ဗာန်သားတို့သည် ထူထဲသောပိုးဖဲထည်တို့ဖြင့် ခင်းကျင်းထားသောပလ္လင်းများပေါ်၌ လှဲလျောင်းစံစား နေကြလိမ့်မည်၊ ဥယျာဉ်တော်နှစ်ခုမှ သစ်သီးသစ်ဥများသည် သူတို့အနီးအနားတွင် ကိုင်းညွတ်လျက်ရှိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (၎င်းတို့သည်) ရွှေခြည်များဖြင့် ပန်းထိုးထားသော ပိုးဖဲအတွင်းခံထားသည့် မွေ့ရာများပေါ် (ထိုင်၍ မှီအုံးများကို)မှီလျက် ရှိကြပေမည်။ ၎င်းပြင် ဥယျာဉ်နှစ်ခုလုံး၏ အသီးများမှာလည်း နီးကပ်စွာပင် ရှိကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I za vsyaka obshtnost otredikhme zhertvoprinoshenie, za da spomenavat imeto na A
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၄။	ငါသည် လူသားတို့အား အစားအစာအဖို့ ပေးသနားတော်မူသောခြေလေးချောင်းတိရိစ္ဆာန်များအပေါ်၌ အရှင် မြတ်၏ နာမတော်ကို ရွတ်ဖတ်စေခြင်းငှာ ငါသည် လူမျိုးလူမျိုးတိုင်းအတွက် ကျင့်စဉ်တရားကို ပညတ်ထား တော်မူ၏၊ သင်တို့၏အလ္လာဟ်သည် တစ်ဆူတည်းသောအရှင်သခင်ဖြစ်တော်မူ၏၊ ထို့ကြောင့်အရှင်မြတ်အား ကျိုးနွံနာခံကြလော့၊ အို--တမန်တော်၊ နှိမ့်ချသူတို့အား ကောင်းသောသတင်းများကို ပေးလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ငါအရှင်မြတ်သည် သာသနာဝင်အုပ်စုတိုင်းအဖို့ ၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ်၏နာမတော် ထိုအရှင်မြတ်က မိမိတို့အား အစားအစာအဖြစ် ချီးမြှင့်ပေးသနားတော်မူခဲ့သော အခြေလေးချောင်း တိရစ္ဆာန်များအပေါ်၌ တသကြအံ့သောငှာ ကုရ်ဗာနီပြုခြင်းကို သတ်မှတ်ပြဌာန်းတော်မူခဲ့၏။ စင်စစ်သော်ကား အသင်တို့၏ ကိုးကွယ်ရာအရှင်သည် တစ်ဆူတည်းသော ကိုးကွယ်ရာအရှင်မြတ်ပင် ဖြစ်တော်မူ၏။သို့ဖြစ်ပေရာ အသင်တို့သည် ထိုအရှင်မြတ်၏ အမိန့်တော်ကိုသာ လိုက်နာကြလေကုန်။ ထို့ပြင်(အို-တမန်တော်)အသင်သည်ကျိုးနွံသောသူတို့အား ဝမ်းမြောက်ဖွယ်ရာ သတင်းကောင်းကို ပြောကြားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

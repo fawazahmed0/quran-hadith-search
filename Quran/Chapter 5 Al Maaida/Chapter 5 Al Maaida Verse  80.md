@@ -710,6 +710,12 @@ Vizhdash mnozina ot tyakh da se sblizhavat s nevernitsite. Kolko losho e onova, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈ဝ။	သူတို့အနက် အများအပြားတို့သည် မိစ္ဆာဒိဌိတို့နှင့် မိတ်ဖွဲ့ကြသည်ကို သင် သိမြင်ရ၏။ အမှန်မှာ သူတို့သည် မိမိတို့အတွက် အကျိုးဆုတ်ယုတ်စေသော မကောင်းမှုများကိုသာ တင်ကြိုပို့ထားနှင့် ကြ၏။ ထို့ကြောင့် အလ္လာဟ်အသျှင်မြတ်သည် သူတို့ကို အမျက်ရှတော်မူလိမ့်မည်။ သူတို့သည် ငရဲတွင် ခံစားကြရလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို- နဗီတမန်တော်) ၎င်းတို့အနက် ‘ကာဖိရ်’ သွေဖည်ငြင်းပယ်သောသူတို့အား အဆွေခင်ပွန်းများပြုလုပ်ကြသူ အမြောက်အမြားကို သင်သည် တွေ့မြင်ရပေအံ့။ အမှန်စင်စစ် ၎င်းတို့က မိမိတို့ကိုယ်တိုင် မိမိတို့အဖို့ တင်ကြို၍ပို့ထားနှင့်ကြကုန်သော အပြုအမူတို့သည် ယုတ်ညံ့သိမ်ဖျင်းလှပေသည်။ (ထို့အတွက်ကြောင့်ပင်) အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့အပေါ်ဝယ် အမျက်တော် ထားတော်မူခဲ့လေသည်။ ထို့ပြင် ၎င်းတို့သည် ထာဝစဉ် အပြစ်ဒဏ်၌ နေထိုင်ကြရမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

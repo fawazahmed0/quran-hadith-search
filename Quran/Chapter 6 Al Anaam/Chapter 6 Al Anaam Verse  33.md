@@ -710,6 +710,12 @@ Nie znaem, che te naskŭrbyava onova, koeto kazvat. No ne teb vzimat za lŭzhets
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။	သူတို့သည် သင့်အား အမှန်ပင် မငြင်းပယ်ကြသော်လည်း သူတို့၏အပြောအဆိုသည် သင်အား စိတ်ပူဆွေးစေသည်ကို ငါအသျှင်မြတ်သည် ကောင်းစွာသိတော်မူ၏။ သို့သော် ဒုစရိုက်မှု ကျူးလွန်သူ များသည် အလ္လာဟ်အသျှင်မြတ်၏ ဗျာဒိတ်တော်များကို ငြင်းပယ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်)၎င်းတို့ပြောဆိုသော စကားသည် ဧကန်စင်စစ် အသင့်အား စိတ်ဒုက္ခ ရောက်စေသည်ကိုငါအရှင်မြတ်သည်(ကောင်းစွာ) သိတော်မူသည်။ အမှန်စင်စစ် ယင်းသူတို့သည် အသင့်အား မဟုတ်မမှန်ဟူ၍ ငြင်းပယ်ကြသည် မဟုတ်ချေ။ သို့ရာတွင် မတော်မတရားပြုမူသောသူတို့သည် အလ္လာဟ်အရှင်မြတ်၏ သက်သေ လက္ခဏာတော်များကိုသာ ငြင်းပယ်နေကြသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

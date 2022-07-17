@@ -710,6 +710,12 @@ i zovyasht kŭm Allakh s Negovoto pozvolenie, i kato ozaryavasht svetilnik
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၆။	ထို့အပြင်အလ္လာဟ်အရှင်မြတ်၏ အလိုတော်အားဖြင့် လူသားတို့ကို အလ္လာဟ်အရှင်မြတ်ဘက်တော်သို့ ခေါ်သူ အဖြစ်ဖြင့်သော်လည်းကောင်း၊ အလင်းရောင်ပေးသောမီးရှုးမီးတိုင်ကြီးအဖြစ်ဖြင့်သော်လည်းကောင်း၊ စေလွှတ် တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အလ္လာဟ်အရှင်မြတ်ဘက်တော်သို့ထိုအရှင်မြတ်၏ အမိန့်တော်နှင့် ဖိတ်ခေါ်သူအဖြစ်လည်းကောင်း၊ လင်းဝင်းတောက်ပသော မီးရှုးမီးတိုင် (သူရိယ)အဖြစ်လည်းကောင်း၊(စေလွှတ်တော်မူ၏)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

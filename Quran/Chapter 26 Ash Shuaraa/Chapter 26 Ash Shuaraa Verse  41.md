@@ -710,6 +710,12 @@ I kogato mag’osnitsite doĭdokha, rekokha na Faraona: “Shte ima li za nas n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။	ထို့အပြင်ဝိဇ္ဇာဆရာတို့ရောက်လာကြသောအခါ သူတို့က ဖွာရောမင်းအား အကျွနု်ပ်တို့အောင်ပါလျှင် အကျွနု်ပ် တို့အား ဆုလာဘ်နှင့်အမှန်ချီးမြှင့်ပါမည်လောဟု လျှောက်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ပဉ္စလက်ဆရာတို့ ရောက်ရှိလာကြသောအခါ ၎င်းတို့က ဖစ်ရ်အောင်န်အား အကယ်၍ ကျွန်ုပ်တို့သည် အောင်နိုင်သူများဖြစ်ခဲ့ကြပါလျှင် ဧကန်အမှန် ကျွန်ုပ်တို့သည်(ကြီးကျယ်သော)ဆုလာဘ်ကို အမှန်ပင်ရရှိကြမည် မဟုတ်ပါလောဟု ဆိုခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

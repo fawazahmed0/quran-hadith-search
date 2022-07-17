@@ -710,6 +710,12 @@ Istinata e ot tvoya Gospod i ne bŭdi ot sŭmnyavashtite se
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄၇။	အို - တမန်တော် ကုရ်အာန်ကျမ်းတော်သည် သင်၏အရှင်သခင်အထံတော်မှ သစ္စာတရားတော် အစစ်ဖြစ်၏။ ထို့ကြောင့် သင်သည် ဒွိဟဖြစ်သောသူတို့ဘောင်တွင် အပါအဝင်မဖြစ်လင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) ဤ (ကစ်ဗ်လဟ် ပြောင်း လွှဲခြင်းနှင့် စပ်လျဉ်းသော) အမိန့်တော်သည် အသင့်ကို မွေးမြူတော်မူသော အရှင်မြတ်၏အထံတော်မှ ကျရောက်သည့် မှန်ကန်သော အမိန့်တော်ပင် ဖြစ်ချေသည်။ သို့ဖြစ် လေရာ အသင်သည် ဒွိဟ မကင်းသောသူတို့တွင် အပါအဝင် မဖြစ်ပါလေနှင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

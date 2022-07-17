@@ -710,6 +710,12 @@ nizposlan ot Vsemogŭshtiya, Milosŭrdniya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	ဤကျမ်းတော်မြတ်သည် အနန္တတန်ခိုးတော်အရှင်၊ မဟာဂရုဏာတော်သခင်ချပေးသနားတော်မူသည့် နှုတ် ကပတ်တော်ပေတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ဤကုရ်အာန်ကျမ်းတော်မြတ်သည်) တန်ခိုးအာနုဘော်ဖြင့် နိုင်နင်းလွှမ်းမိုးတော်မူသော၊ အလွန်တရာ သနားကြင်နာတော်မူသော၊ အရှင်မြတ်၏ အထံတော်မှ ချပေးတော်မူသော (ကျမ်းတော်)ဖြစ်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

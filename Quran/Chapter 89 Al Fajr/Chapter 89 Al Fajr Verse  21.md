@@ -710,6 +710,12 @@ Ala ne! Kogato zemyata bŭde strita na prakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။ ဤသို့မပြုကျင့်ထိုက်ချေ၊ ကမ္ဘာမြေကြီးကို ပြာမှုန့်အတိ ညက်ညက်ကြေအောင်ချေမှုံ့သောအခါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလျှင်းမဟုတ် (စင်စစ်မှာကား) ပထဝီမြေသည် ထုထောင်းလျက် တစ်ပြေးတည်းညီအောင် ပြုလုပ်ခြင်းကိုခံရသောအခါ၊ (တစ်နည်း) ညက်ညက်ကြေအောင် ထုထောင်းခြင်းကို ခံရသောအခါ၊
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

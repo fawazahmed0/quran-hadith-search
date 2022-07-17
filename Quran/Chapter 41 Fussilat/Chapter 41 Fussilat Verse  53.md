@@ -710,6 +710,12 @@ Shte im pokazhem Nashite znameniya po khorizontite i v tyakh samite, dodeto im s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။	ကုရ်အာန်ကျမ်းမြတ်သည် သစ္စာတရားကျမ်းတော်ဖြစ်ကြောင်း ထင်ရှားသည့်တိုင်အောင် ငါသည် ငါ၏သက်သေ သာဓကတော်များကို မိုးမြေမြေစပ်စက်ဝိုင်းများ၌သော်လည်းကောင်း၊ သူတို့၏ အတွင်းများ၌သော်လည်းကောင်း၊ အနှံ့အပြားပြသတော်မူမည်၊ အို-တမန်တော်၊ သင်၏ အရှင်သည် သင်တို့အဖို့ဖို့ လုံလောက်တော်မူသည်မဟုတ် လော၊ အရှင်မြတ်သည် အကြောင်းအရာအားလုံးကို အကြွင်းမဲ့သိတော်မူသောသက်သေတော်ကြီးဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မကြာမြင့်မီပင် ငါအရှင်မြတ်သည် ထိုသူတို့ အားမိုးကုပ်စက်ဝိုင်းများ၌လည်းကောင်း၊ ထိုသူတို့၏ ကိုယ်များ၌လည်းကောင်း၊ မိမိသက်သေလက္ခဏာတော်များကို ပြတော်မူမည်။ နောက်ဆုံးတွင် ၎င်းတို့၌ ဧကန်စင်စစ် ယင်း(ကုရ်အာန်ကျမ်းတော်မြတ်)မှန်ကန်ကြောင်း သိသာထင်ရှား၍လာပေမည်။ (အို-နဗီတမန်တော်၊)အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည်ပင် (အသင့်အဖို့) လုံလောက်တော်မူသည် မဟုတ်လော။ ဧကန်မလွဲ ထိုအရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို မြင်တော်မူ သော အသိသက်သေပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

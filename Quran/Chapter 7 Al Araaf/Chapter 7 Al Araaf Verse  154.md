@@ -710,6 +710,12 @@ I kogato gnevŭt stikhna u Musa, toĭ vze skrizhalite. Vpisano e v tyakh napŭt
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၄။	ထို့နောက် တမန်တော်မူဆာသည် အမျက်ပြေသောအခါ သူသည် ကျောက်ပြားငယ်များကို ပြန်ကောက်ယူ၏။ ထိုကျောက်ပြားများပေါ်ရှိ ကဗ္ဗည်းကျောက်စာများ၌ မိမိတို့၏အသျှင်သခင်ကို ကြောက်ရွံ့ရိုကျိုးသူတို့အဖို့ အဆုံးအမတော်နှင့် ကောင်းကြီးမင်္ဂလာတော်များ ပါရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထု့ိနောက်(နဗီတမန်တော်)မူစာ၏ဒေါသပြေငြိမ်းသွားလေသောအခါ ထိုတမန်တော်(မူစာ)သည် သင်ပုန်းကြီးကို ကောက်ယူလေသည်။ အမှန်သော်ကား[ထိုရေးသား၍ထားသောသင်ပုန်းများတွင်] မိမိတို့ကို ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အား ကြောက်ရွံ့ကြကုန်သောသူတို့အဖို့တရားဓမ္မ ညွှန်ကြားချက်သည်လည်းကောင်း၊ ကရုဏာတရားသည်လည်းကောင်း၊ ပါရှိခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

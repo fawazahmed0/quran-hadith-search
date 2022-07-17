@@ -710,6 +710,12 @@ I kazvat nevernitsite: “Ne si pratenik.” Kazhi: “Dostatŭchen e Allakh za 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။	မယုံကြည်သူတို့က အို-ရှင်မိုဟမ္မဒ်၊ သင်သည် အလ္လာဟ်အရှင်မြတ်၏ တမန်တော်မဟုတ်ဟု ဆိုကြ၏။ တမန်တော်ဟောကြားလော့။ အလ္လာဟ်အရှင်မြတ်နှင့် ကုရ်အာန်ကျမ်းတော်မြတ်ကို အမှန်သိနားလည်သူတို့သည် ငါနှင့်သင်တို့အလယ်ကြား၌ လုံလောက်သောသက်သေဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ကာဖိရ် သွေဖည် ငြင်းပယ်ကုန် သောသူတို့က အသင်သည် ရစူလ်တမန်တော်မဟုတ်ဟု ပြောဆိုကြပေသည်။ (အို-နဗီတမန်တော်) အသင်သည် (၎င်းတို့အား ဤသို့)ပြောဆို(ဖြေကြား)ပါလေ။ (အချင်းတို့)ငါနှင့် အသင်တို့၏စပ်ကြားဝယ် သက်သေအဖြစ် အလ္လာဟ်အရှင်မြတ်သည်လည်း ကောင်း၊ ဒေသနာတော် ကျမ်းဂန်၏ အသိပညာရှိသောသူတို့သည်လည်းကောင်း၊ လုံလောက်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

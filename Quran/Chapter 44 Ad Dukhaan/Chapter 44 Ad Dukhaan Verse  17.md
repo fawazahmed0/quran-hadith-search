@@ -710,6 +710,12 @@ Predi tyakh izpitakhme naroda na Faraona, kogato pri tyakh doĭde dostoen prate
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၇။	ငါသည် သူတို့ထက်ရှေးကျသောဖွာရော၏ အသင်းသားများကို စုံစမ်းတော်မူ၏၊ သူတို့ထံသို့ အလွန်မြင့်မြတ်သော တမန်တော်တစ်ပါးရောက်လာ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အမှန်စင်စစ် ငါအရှင်မြတ်သည် ၎င်းတို့အလျင် ဖစ်ရ်အောင်န်၏ အမျိုးသားတို့အား စမ်းသပ်တော်မူခဲ့၏။ ထို့ပြင် ၎င်းတို့ထံ မြင့်မြတ်သော ရစူလ်တမန်တော်တစ်ပါးသည် ရောက်ရှိ၍လာခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

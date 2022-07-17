@@ -710,6 +710,12 @@ Kušaj, ta ti si baš “moćan” i “poštovan”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	ထို့အပြင်၎င်းအား ဤသို့ပြောလော့၊ နင်သည် ဤအပြစ်ဒဏ်၏ အရသာကို မြိန်ရှက်စွာမြည်းလော့၊ စင်စစ်မှာ နင်သည် လောကတွင် တန်ခိုးဂုဏ်သိမ်မြင့်မြတ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ ၎င်းမှာ ဤသို့ပြောဆိုခြင်းကို ခံရပေမည်။) အသင်သည်(ဤပြစ်ဒဏ်၏ အရသာကို) မြည်းစမ်းလေ၊ မလွဲဧကန် အသင်သည် အလွန်မြင့်မြတ်သူ၊ ဂုဏ်မြင့်သူဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

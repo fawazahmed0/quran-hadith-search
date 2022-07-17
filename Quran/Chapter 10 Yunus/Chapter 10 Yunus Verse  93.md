@@ -710,6 +710,12 @@ I nastanikhme sinovete na Israil v obitel na pravdata, i im dadokhme prepitanie 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၃။	ငါအရှင်မြတ်သည် အမှန်ပင်အစ္စရာအီလ်အမျိုးသားတို့အား အတည်အမြဲနေရာထိုင်ခင်းနှင့် မင်္ဂလာရှိသောအရာ များကို ပေးသနားတော်မူ၏။ သူတို့ထံ၌ ပညာအလင်းရောင်ကြီးမရောက်မီ သူတို့အထဲ၌ ကွဲပြားခြင်းမရှိချေ။ မှတ်သားကြလော့။ သင်၏ ကျေးဇူးတော်သခင်သည် ရှင်ပြန်ထမြောက်ရသောနေ့တော်ကြီး၌ သူတို့အလယ်တွင် ၎င်းတို့၏ ကွဲပြားမှုကို စစ်ကြောစီရင်တော်မူလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး မုချဧကန် ငါအရှင်မြတ်သည်ပင်အစ္စရာအီလီမျိုးနွယ်ဝင်တို့အား အလွန်ကောင်းမွန်သင့်မြတ်သောနေရာတွင် နေရာချထားပေးတော်မူခဲ့လေသည်။ ထို့ပြင်ငါအရှင်မြတ်သည်ပင် ၎င်း တို့အား ကောင်းမွန်သန့်စင်သောစားနပ်ရိက္ခာများကို ချီးမြှင့်ပေးသနားတော်မူခဲ့လေသည်။ တစ်ဖန် ၎င်း တို့သည် မိမိတို့ထံ အသိပညာရောက်ရှိလာပြီးမှ သာလျှင် ကွဲလွဲခဲ့ကြပေသည်။ ဧကန်မလွဲ အသင်၏ အရှင်မြတ်သည် ၎င်း တို့၏စပ်ကြားတွင် ကိယာမတ် ရှင်ပြန်ထမည့်နေ့တွင် ၎င်း တို့ကွဲလွဲလျက် ရှိကြကုန်သောအရေး ကိစ္စများနှင့်စပ်လျဉ်း၍ စီရင်ဆုံးဖြတ်တော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

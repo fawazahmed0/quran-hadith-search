@@ -710,6 +710,12 @@ i za onezi, koito otklikvat na svoya Gospod i ot·sluzhvat molitvata, i po delat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	ထိုသူတို့သည် မိမိတို့၏ အသက်သခင်ကျေးဇူးရှင်ကြီး၏ ဗျာဒိတ်တော်ကို ရိုသေစွာနာယူကြ၏၊ ပညတ်တော် မူသောအရှင့်ဝတ်ကို အစဉ်မပြတ်ပြုကြ၏၊ မိမိတို့အမှုအခင်းများကို အချင်းချင်းတိုင်ပင်နှီးနှောပြီးလျှင် ဆောင်ရွက် ကြ၏၊ ငါအရှင်မြတ်ချပေးသနားတော်မူသောအရာဝထ္ထုများမှ အလှုပေးကမ်းကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အကြင်သူတို့အဖို့ဖြစ်၏။ ထိုသူတို့ သည်မိမိတို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်(၏ဖိတ်ခေါ်ချက်၊ အမိန့်တော်)ကို နာယူကြကုန်၏။ ထို့ပြင် ၎င်းတို့သည်ဆွလာတ် ဝတ်ပြုမှုကို ဆောက်တည်ကြကုန်၏။ ထိုမှတစ်ပါး၎င်းတို့၏ (အရေးကြီး သော) အမှုကိစ္စတို့မှာ မိမိတို့အချင်းချင်းညှိနှိုင်းတိုင်ပင် ၍ ဆောင်ရွက်ကြရကုန်၏။ ထိုမှတစ်ပါး ၎င်းတို့သည် ငါအရှင်မြတ် ၎င်းတို့အား ချီးမြှင့်ပေးသနားတော်မူ သောဥစ္စာပစ္စည်းများမှ သုံးစွဲလှူဒါန်းကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

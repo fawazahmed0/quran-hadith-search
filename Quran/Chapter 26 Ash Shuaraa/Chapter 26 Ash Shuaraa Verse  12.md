@@ -710,6 +710,12 @@ kaza: “Gospodi moĭ, strakhuvam se da ne me vzemat za lŭzhets
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	တမန်တော်မူစာက ဤသို့တင်လျှောက်၏၊ အို--အကျွနု်ပ်၏ အရှင်သခင် သူတို့သည် အကျွနု်ပ်အား မယုံကြည် ငြင်းဆန်မည်ကို ကြောက်ပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုအခါ) ထိုမူစာသည်(ဤသို့)လျှောက်ထားခဲ့လေ၏။ အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၊ ဧကန်စင်စစ် ကျွန်တော်မျိုးသည် ၎င်းတို့က ကျွန်တော်မျိုးအား မဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ်ကြမည်ကို စိုးရိမ်မိပါသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

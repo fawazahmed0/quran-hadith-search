@@ -710,6 +710,12 @@ i natezhali bananovi dŭrveta
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	ထို့အပြင်ခိုင်ကြီးခိုင်ငယ်အဖီးလှလှ တွဲလွဲကျလျက်နေသော ငှက်ပျောပင်များလည်း ပေါက်ရောက်သောနိဗ္ဗာန် ဥယျာဉ်တော်၌။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အခိုင်လိုက်သီးသော ငှက်ပျောပင်များရှိရာ၌ ရှိကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

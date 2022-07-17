@@ -710,6 +710,12 @@ I se nastanikhte v obitalishtata na onezi, koito ugnetyavakha sebe si, i vi se o
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	နင်တို့သည် နင်တို့အလျင် မိမိတို့ကိုယ်ကို မိမိတို့ပြစ်မှားမိသူ၊ ရှေးလူဟောင်းတို့နေရာထိုင်ခင်းတွင် နေခဲ့ကြသည် မဟုတ်လော။ ငါအရှင်မြတ်သည် ထိုလူဟောင်းများကို အဘယ်သို့စီရင်တော်မူကြောင်း၊ နင်တို့အတွက် အဘယ် သို့နမူနာပုံစံဖြစ်စေတော်မူကြောင်းများကို နင်တို့ထင်ရှားစွာမသိမမြင်ကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ်သော်ကား၊ သင်တို့သည် မိမိတို့ကိုယ်ကို မိမိတို့ နှိပ်စက်ကလူ ပြုမူခဲ့ကြကုန်သောသူတို့ နေထိုင်ရာအရပ်များ၌ပင် နေထိုင်ခဲ့ကြကုန်၏။ ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် ၎င်းတို့အား မည်သို့ ပြုလုပ်တော်မူခဲ့သည်မှာလည်းအသင်တို့ရှေ့၌ ထင်ရှားခဲ့လေပြီ။ ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် အသင်တို့ အကျိုးငှာ ဥပမာ ပုံဆောင်ချက်များကိုလည်းခိုင်းနှိုင်းပြတော်မူခဲ့လေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

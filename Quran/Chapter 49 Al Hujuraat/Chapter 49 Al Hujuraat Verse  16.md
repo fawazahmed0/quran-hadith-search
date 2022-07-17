@@ -710,6 +710,12 @@ Kazhi: “Nima Allakh izvestyavate vie za vashata religiya, sled kato Allakh zna
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆။	အို-မိုဟမ္မဒ်၊ သူတို့အား ဟောပြောလော့၊ ဟယ်-အချင်းတို့၊ အထက်မိုးကောင်းကင်နှင့် အောက်မဟာပထဝီ မြေကြီးပေါ်တွင် ရှိရှိသမျှအလုံးစုံကို သိတော်မူသောဉာာဏ်တော်ရှင် အလ္လာဟ်အရှင်မြတ်အား သင်တို့သည် မိမိတို့၏ ဘာသာအယူဝါဒကို သွန်သင်ကြမည်လော၊ အရှင်မြတ်သည် အကြွင်းမဲ့သိတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်)။ အသင်သည် ပြောကြားပါလေ။ (အချင်းတို့၊) အသင်တို့သည် မိမိတို့၏’ဒီန်’သာသနာကို အလ္လာဟ်အရှင်မြတ်အား အသိပေးကြ လေသလော။ စင်စစ်မှာမူကား အလ္လာဟ်အရှင်မြတ်သည် မိုးကောင်းကင်များ၌ ရှိသမျှတို့ကိုလည်းကောင်း၊ ပထဝီမြေများ၌ ရှိသမျှတို့ကိုလည်းကောင်း၊ ကောင်းစွာသိရှိတော်မူ၏။ ထိုမှတစ်ပါး အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကို အကြွင်းမဲ့သိရှိတော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

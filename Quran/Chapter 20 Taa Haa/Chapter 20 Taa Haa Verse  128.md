@@ -710,6 +710,12 @@ I ne im li se izyasni kolko predi tyakh pogubikhme ot pokoleniyata, iz chiito zh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၈။	ကျမ်းမြတ်ကုရ်အာန်သည် သူတို့အား ၎င်းတို့ထက်ရှေးကျသောလူမျိုးအဆက်များစွာကို သုတ်သင်ရှင်းလင်းပြီး လေကြောင်းကို ညွှန်ပြသောကျမ်းတော်မဟုတ်လော၊ သူတို့သည် ရှေးလူဟောင်းများ၏ မြို့ရွာနယ်ပယ်ကို ဖြတ်သန်းသွားလာနေကြ၏၊ မှတ်သားကြလော့၊ ဤအခြင်းအရာ၌ စဉ်းစားဆင်ခြင်တတ်သူတို့အဖို့အရာ နိမိတ် လက္ခဏာအ့ံဖွယ်တော်များပါရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသို့ပါနည်း၊ ငါအရှင်မြတ်သည် ၎င်းတို့ အလျင်များစွာသောရှေးလူဟောင်းတို့ကို ပျက်စီး စေတော်မူခဲ့ခြင်းသည်၎င်းတို့အား တရားလမ်းမှန်ကို မရစေခဲ့လေသလော။ ၎င်းတို့သည် ထိုရှေးလူဟောင်းများ၏ နေထိုင်ရာနေရာများတွင်သွားလာလှုပ်ရှားလျက် ရှိကြပေသည်။ ဧကန်စင်စစ် ဤသည်၌ ဆင်ခြင်တုံတရားရှိသူတို့အဖို့ အမှန်ပင် သက်သေလက္ခဏာများသည် ရှိကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

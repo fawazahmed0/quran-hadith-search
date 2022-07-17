@@ -710,6 +710,12 @@ I im izpratikhme potopa i skakaltsite, i vŭshkite, i zhabite, i krŭvta - ochev
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃၃။	ထို့ကြောင့် ငါအသျှင်မြတ်သည် သူတို့အပေါ်သို့ ရေလွှမ်းမိုးခြင်းဘေး၊ နှံကောင်ဘေး၊ ပိုးမွှားဘေး၊ ဖားဘေး စသည့် ထင်ရှားသောလက္ခဏာတော်တစ်ပါးပြီးတစ်ပါး ဆိုက်ရောက်စေတော်မူ၏။ သို့သော် သူတို့သည် မိမိကိုယ်ကိုမိမိ အထင်ကြီးပြီး အပြစ်ရှိသူများဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ ငါအရှင်မြတ်သည် ၎င်းတို့ အပေါ်၌ လေပြင်းမုန်တိုင်း ကိုလည်းကောင်း၊ ကျိုင်းကောင်များကိုလည်းကောင်း၊ ပိုးမွှားများ၊ သန်းကောင်များကိုလည်းကောင်း၊ဖားများ(ဖားများ)ကိုလည်းကောင်း၊ သွေးများကိုလည်းကောင်း၊အသီးသီးအသက ထင်ရှားသောသက်သေလက္ခဏာများ အဖြစ်ပို့တော်မူခဲ့လေသည်။ သို့ပါလျက် မထီမဲ့မြင် (ပြုမြဲ)ပြုလျက်ပင်ရှိခဲ့ကြလေသည်။ စင်စစ်သော်ကား ၎င်းတို့သည် ပြစ်မှုကျူးလွန်(လေ့ရှိ)သူများပင် ဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ gradinite na Adn, v koito shte vlyazat - sred tyakh reki tekat. Tam shte imat, k
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	သူတို့သည် နိဗ္ဗာန်ဥယျာဉ်တော်များကို ဝင်ရမည်။ ထိုဥယျာဉ်တော်အောက်တွင် စိမ့်စမ်း၊ မြစ်ချောင်းအသွယ်သွယ် စီးဆင်းလျက်ရှိ၏။ ထိုဥယျာဉ်တော်များ၌ သူတို့သည် မိမိတို့အလိုရှိသမျှတောင့်တသမျှအလုံးစုံကို ရရှိကြမည်။ အလ္လာဟ်အရှင်မြတ်သည် ဒုစရိုက်မှုကို ရှောင်ကြဉ်သူတို့အား ပြန်ဆပ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုနေအိမ်များမှာ) အမြဲထာဝရ နေထိုင်ကြရမည့် ဥယျာဉ်များပင်။ ထိုသူတော်စင်တို့သည် ယင်းဥယျာဉ်များတွင် ဝင်ရောက်ကြပေမည်။ ယင်းဥယျာဉ်များအောက်၌ မြစ်ချောင်းများသည် စီးတွေလျက်ရှိကြပေမည်။ ၎င်းတို့အဖို့ ယင်းဥယျာဉ်များတွင် ၎င်းတို့အလိုရှိသမျှတို့သည် ရှိချေမည်။အလ္လာဟ်အရှင်မြတ်သည် သူတော်စင်တို့အား ဤအတိုင်းပင်အစားပေးတော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

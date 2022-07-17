@@ -710,6 +710,12 @@ Dobri dumi i proshka sa za predpochitane pred milostinya, posledvana ot obida. A
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၆၃။	သူတစ်ပါးအပြစ်ကို ခွင့်လွှတ်၍ ကြင်နာသောစကားကို ဆိုလိုခြင်းသည် သူတစ်ပါးအား အလှူပေးပြီး လျှင် စိတ်နာစရာပြုသည်ထက် သာလွန်မွန်မြတ်၏။ အလ္လာဟ်အရှင်မြတ်သည် ဇာတိပကတိအားဖြင့် ကုံလုံပြည့်စုံတော်မူထသောအရှင်၊ ထောက်ထားညှာတာတော်မူသောအရှင် ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ပေးကမ်းလှူဒါန်းခြင်းမပြုနိုင်သော အချိန်အခါဝယ် သူဖုန်းစားသူဆင်းရဲတို့အား) ကောင်းမြတ်သောစကားတခွန်း ပြောဆိုခြင်းသည်လည်းကောင်း၊ (သူဖုန်းစားသူဆင်းရဲတို့၏ ဇွတ်တရွတ် မဖွယ်မရာ ပြောဆိုပြုလုပ်သည်များကို) ခွင့်လွှတ်ခြင်းသည် လည်းကောင်း(ဥစ္စာပစ္စည်း)ပေးကမ်းစွန့်ကြဲ လှူဒါန်းပြီးနောက် (ယင်းသူဆင်းရဲတို့အားအထင်အမြင်သေးခြင်း စသည်တို့ဖြင့်) စိတ်ဒုက္ခရောက်စေခြင်းထက် (အဆပေါင်းများစွာ) သာလွန်၍ ကောင်းမြတ်ပေသတည်း။ စင်စစ်တမူကား အလ္လာဟ်အရှင်မြတ်သည် အလွန်ြွကယ်ဝတော်မူသောအရှင်၊ ခမာဂုဏ်နှင့် အလွန်ပြည့်စုံတော်မူသောအရှင်မြတ် ဖြစ်တော်မူလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

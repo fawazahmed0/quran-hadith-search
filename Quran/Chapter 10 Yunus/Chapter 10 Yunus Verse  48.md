@@ -710,6 +710,12 @@ I kazvat: “Koga [shte se sbŭdne] tova obeshtanie, ako govorite istinata?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	ထို့အပြင်သူတို့က သင်တို့သည် သစ္စာဝါဒီများဖြစ်ကြလျှင် သင်တို့ပြောဆိုသောကတိတော်သည် မည်သည့်အခါ အတည်ပြုခြင်းခံရမည်နည်းဟု မေးကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်း တို့က အကယ်၍ အသင်တို့သည် မှန်ကန်စွာ ပြောဆိုသော သစ္စာဝါဒီများ ဖြစ်ကြပါလျှင်ဤ(ပြစ်ဒဏ်ကျရောက်ခြင်းနှင့်စပ်လျဉ်းသည့်) ကတိသည် မည်သည့်အခါ၌ အတည်ဖြစ်အံ့နည်းဟု ပြောဆိုကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

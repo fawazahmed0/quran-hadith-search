@@ -710,6 +710,12 @@ Nima iskate lŭzhlivi bogove vmesto Allakh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၆။	အလ္လာဟ်အရှင်မြတ်မှတပါး အခြားဘုရားတုဘုယောင်ကို ဝတ်ပြုသည့်မိစ္ဆာအယူဝါဒကို သင်တို့နှစ်သက်လိုလား ကြသလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အားစွန့်၍(မိမိတို့ကိုယ်တိုင်) ကြံဖန်ပြုလုပ်ထားသော ကိုးကွယ်ရာများကို(ဆည်းကပ်ကိုးကွယ်ရန်) လိုလားကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

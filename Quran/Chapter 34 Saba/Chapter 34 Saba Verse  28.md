@@ -710,6 +710,12 @@ I te izpratikhme Nie [o, Mukhammad] za vsichki khora samo kato blagovestitel i p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	အို-တမန်တော်မိုဟမ္မဒ်၊ ငါအရှင်မြတ်သည် သင့်အား လူသားအပေါင်းတို့ထံသို့ သတင်းကောင်းကို ဆောင်လာ သူ၊ သတင်းဆိုးနှင့်ငြိမ်းခြောက်သတိပေးသူအဖြစ်မှတပါး အခြားအဖြစ်ဖြင့် စေလွှတ်တော်မမူချေ၊ သို့သော်အရေ အတွက်များစွာသောလူသားတို့သည် မသိကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အမှန်သော်ကား ငါအရှင်မြတ်သည် အသင့်အား ခပ်သိမ်းကုန်သောလူတို့အဖို့ ဝမ်းမြောက်ဖွယ်ရာသတင်း ပြောကြားသူအဖြစ် လည်းကောင်း၊သတိပေးနှိုးဆော်သူအဖြစ်လည်းကောင်း၊ စေလွှတ်တော်မူခဲ့၏။သို့ရာတွင် များစွာသောသူတို့မှာ မသိနားမလည်ကြပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

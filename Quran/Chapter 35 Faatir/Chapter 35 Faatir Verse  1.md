@@ -710,6 +710,12 @@ Slava na Allakh, Tvoretsa na nebesata i na zemyata, Koĭto stori angelite prate
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁။	ချီးမွမ်းထောမနာအပေါင်းတို့သည် အလ္လာဟ်အရှင်မြတ်အဖို့သာလျှင်ဖြစ်၏၊ အရှင်မြတ်သည် မိုးနှင့်မြေကို ဖန်ဆင်းတော်မူ၏၊ ကောင်းကင်တမန်များကို အတောင်နှစ်ဖက်စီ၊ သုံးဖက်စီလေးဖက်စီပါဝင်သောစေတမန် တော်အရာ၌ ခန့်ထားတော်မူ၏၊ အလိုတော်ရှိရာများကို အရေအတွက်များလှစွာဖန်ဆင်းထားတော်မူ၏၊ မှတ်သား လော့၊ အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းကုန်တို့ကို ပြုစွမ်းနိုင်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ချီးမွမ်းထောပနာ အပေါင်းတို့သည် မိုးကောင်းကင်များကိုလည်းကောင်း၊ ပထဝီမြေကိုလည်းကောင်း၊တီထွင်ဖန်ဆင်းတော်မူသော၊ အတောင်ပံနှစ်ခုစီ၊ သုံးခုစီ၊လေးခုစီရှိသောမလာအိကဟ်ကောင်းကင်တမန်တို့အား စေတမန်များအဖြစ်ခန့်အပ်တော်မူသော အလ္လာဟ်အရှင်မြတ်နှင့်သာ ထိုက်သင့်၏။ ထိုအရှင်မြတ်သည် ဖန်ဆင်းမှု၌ မိမိအလိုရှိတော်မူသည့်အရာကို တိုးပွားများပြား ပိုမိုစေတော်မူ၏။ဧကန်အမှန် အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းတို့ကိုစွမ်းဆောင်နိုင်တော်မူသော အရှင်မြတ်ပင် ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

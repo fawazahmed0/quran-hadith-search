@@ -710,6 +710,12 @@ Nedostŭpno e za tyakh da go chuyat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁၂။	မှတ်သားကြလော့၊ သူတို့ကို တရားနာခြင်းမှ ဝေးစွာမောင်းနှင်ထား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် ထိုရှိုင်တွာန် မိစ္ဆာကောင်များသည်(ဝဟ်ယ်အမိန့်တော်)ကို ကြားနာခြင်းမှ အမှန်ပင် ပယ်ရှားခြင်းခံခဲ့ကြရပြီး ဖြစ်ကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

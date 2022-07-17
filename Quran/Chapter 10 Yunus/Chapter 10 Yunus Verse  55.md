@@ -710,6 +710,12 @@ Da, na Allakh e vsichko na nebesata i na zemyata. Da, obeshtanieto na Allakh e i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။	မှတ်သားကြလော့၊ မိုးကောင်းကင်နှင့်ကမ္ဘာမြေပေါ်တွင် ရှိရှိသမျှအပေါင်းတို့ကို အလ္လာဟ်အရှင်မြတ်သည် ပိုင်စိုးတော်မူ၏။ မှတ်သားကြလော့၊ အလ္လာဟ်အရှင်မြတ်၏ ကတိတော်သည် မုချဧကန်မှန်ကန်၏။ သို့သော် သူတို့အနက် လူအများအပြားမသိကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သတိပြုကြလေကုန်၊ ဧကန်စင်စစ် မိုးကောင်းကင်များ၌ရှိကုန်သော အရာဝတ္ထုအလုံးစုံတို့သည်လည်းကောင်း၊ ပထဝီမြေ၌ရှိကုန်သော အရာဝတ္ထု အလုံးစုံတို့သည်လည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ် ပိုင်ဆိုင်တော်မူသောအရာဝတ္ထုချည်းသာ ဖြစ်ကြပေသည်။ သတိပြုကြလေကုန်၊ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ် ထားရှိတော်မူသော ကတိတော်သည် မှန်ကန်သောကတိတော်ပင်ဖြစ်၏။ သို့ရာတွင်၎င်း တို့ အနက် အများစုသည် မသိနားမလည်ကြချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

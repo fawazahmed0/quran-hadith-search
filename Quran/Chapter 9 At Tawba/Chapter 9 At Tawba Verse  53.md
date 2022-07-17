@@ -710,6 +710,12 @@ Kazhi: “Razdavaĭte dobrovolno ili po prinuda! - Ne shte se prieme ot vas. Vi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။	ဟောကြားလော့။သင်တို့သည် စိတ်ပါ၍သော်လည်းကောင်း၊ စိတ်မပါပဲသော်လည်းကောင်း၊ ပေးကမ်းကြလော့၊ သင်တို့ပေးကမ်းသည်ကို လက်မခံမဟုတ်ပေ။သင်တို့သည် မနာခံကျူးလွန်သူများမုချဖြစ်ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် (၎င်းမုနာဖစ်က်တို့အား ဤသို့)ပြောကြားပါဦးလေ။ အသင် တို့သည်သဒ္ဓါကြည်ဖြူစွာဖြစ်စေ၊ သို့တည်းမဟုတ် သဒ္ဓါကြည်ဖြူခြင်းမရှိပဲလျက်ဖြစ်စေ၊ ပေးကမ်းသုံးစွဲ ကြလေကုန်။ (သို့ရာတွင်)ထိုသုံးစွဲမှုသည် (အလ္လာဟ်အရှင်မြတ်ထံတော်၌) အသင်တို့ထံမှသဘောတူတော်မူခြင်းကို အလျင်း ခံရလိမ့်မည်မဟုတ်ပေ။အကြောင်းသော်ကား အသင်တို့သည် (အမိန့်တော်ကို)သွေဖည်ငြင်းပယ်သောသူများ ဖြစ်ကြသောကြောင့်ပင်တည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

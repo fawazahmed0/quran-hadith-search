@@ -710,6 +710,12 @@ Nima posle, kogato se sluchi, shte povyarvate v Nego? [Togava shte vi se kazhe:]
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၁။	အပြစ်ဒဏ်တော်ဆိုက်ရောက်လာမှသာလျှင် သင်တို့သည် ယုံကြည်ကြမည်လော၊ မည်သို့နည်း၊ ယခုယုံကြည်ကြ လော့၊ ယခုတိုင်အောင်သင်တို့သည် မိစ္ဆာအယူဝါဒအားဖြင့် အပြစ်ဒဏ်တော်မြန်မြန်ဆိုက်ရောက်လာအောင် ပြုကျင့်နေကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အဘယ်သို့ပါနည်း၊ ထိုပြစ်ဒဏ် ကျရောက် လာသည့်နောက်မှသာ အသင်တို့သည် ယင်းပြစ်ဒဏ်ကို ယုံကြည်ကြမည်လော။ ယခုပင်(ယုံကြည်ကြလေသလော)။အမှန်စင်စစ်သော်ကား အသင်တို့သည် ထိုပြစ်ဒဏ်နှင့်စပ်လျဉ်း၍ ဧကန်မလွဲ အလျင်လိုခဲ့ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

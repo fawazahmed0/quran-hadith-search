@@ -710,6 +710,12 @@ Za onezi, koito kazvat: “Nashiyat Gospod e Allakh!”, posle sledvat praviya p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	မှတ်သားကြလော့၊ အကြင်သူတို့က အကျွနု်ပ်တို့၏အသက်သခင်ကျေးဇူးရှင်ကြီးသည် အလ္လာဟ်အရှင်မြတ် ဖြစ်တော်မူ၏ဟု ဝန်ခံ၍ လမ်းမှန်ကို လိုက်ကြအ့ံ၊ ထိုသူတို့စိုးရိမ်ကြောင့်ကျဝမ်းနည်းပူဆွေးစရာမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ကျွန်တော်မျိုးတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်မှာ အလ္လာဟ်အရှင်မြတ်ပင် ဖြစ်တော်မူသည်ဟု ပြောကြပြီးနောက် (ယင်းယုံကြည်ချက်ပေါ်ဝယ်)ကြံ့ခိုင်စွာ တည်ရှိကြကုန်သောသူတို့၌ မည်သည့်စိုးရိမ်မှုလည်း ရှိလိမ့်မည်မဟုတ်ပေ။ ထိုမှတစ်ပါး ၎င်းတို့သည် ပူပင်သောက ဖြစ်ကြရမည်လည်း မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

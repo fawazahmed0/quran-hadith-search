@@ -710,6 +710,12 @@ Eto domovete im - v ruini, zashtoto ugnetyavakha. V tova ima znamenie za khora z
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၂။	ကြည့်ရှုကြလော့၊ ထိုမှာ သူတို့၏အိုးအိမ်တိုက်တာများဟာလာဟင်းလင်းပျက်စီးယိုယွင်းလျက်ရှိ၏၊ အကြောင်း မူကား သူတို့သည် မကောင်းမှုကို ပြုကြသောကြောင့်တည်း၊ မှတ်သားကြလော့၊ ဤအဖြစ်အပျက်တွင် အသိအလိမ္မာရှိသူတို့အဖို့အရာ လက္ခဏာထူးတစ်ပါးပါရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသည် ၎င်းတို့၏သွေဖည်မှုကြောင့် ပျက်စီးလျက်ရှိကြသော ၎င်းတို့၏နေအိမ်များတည်း။ ဧကန်မလွဲ ဤသည့်(ဖြစ်ရပ်)၌ သိနားလည်ကြကုန်သောသူတို့အဖို့ (ကြီးကျယ်စွာသော) သက်သေလက္ခဏာသည် ရှိပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

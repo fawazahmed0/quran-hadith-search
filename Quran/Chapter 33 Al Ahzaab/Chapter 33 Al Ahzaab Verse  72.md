@@ -710,6 +710,12 @@ Nie predlozhikhme na nebesata i na zemyata, i na planinite otgovornostta, no te 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၂။	ငါအရှင်မြတ်သည် မိုးကောင်းကင်ကိုသော်လည်းကောင်း၊ ကမ္ဘာမြေကြီးကိုသော်လည်းကောင်း၊ တောင်များကို သော်လည်းကောင်း၊ အာဏာဝတ်တရားကို အပ်တော်မူ၏၊ သို့သော်၎င်းတို့သည် ထိုတာဝန်ကြီးကို အလွန် ကြောက်ရွံ့လှသောကြောင့် လက်မခံငြင်းဆန်ကြ၏၊ လူသားက ထိုကြီးလေးသောတာဝန်ကြီးကို လက်ခံရ၏၊ ကြည့်ကြလော့၊ သူသည် ညှင်းပန်းနှိပ်စက်တတ်သောအာဏာရှင်သူရူးသူနှမ်းတစ်ယောက်ဖြစ်လာ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ငါအရှင်မြတ်သည် အပ်နှံသော(ဤတာဝန်ကို မိုးကောင်းကင်များ ရှေ့ဝယ်လည်းကောင်း၊ပထဝီမြေ၏ရှေ့ဝယ်လည်းကောင်း၊ တောင်များ၏ရှေ့ဝယ်လည်းကောင်း၊ ဖော်ပြတော်မူခဲ့ရာ ၎င်းတို့သည် ယင်းတာဝန်ကိုငြင်းဆန်ခဲ့ကြကုန်၏။ ထို့ပြင် ယင်းတာဝန်ကို ထမ်းဆောင်ရန်ကြောက်ရွံ့စိုးရိမ်ခဲ့ ကြကုန်၏။ သို့ရာတွင် လူသားမှာမူကားယင်း တာဝန်ကို ထမ်းဆောင်ခဲ့၏။ ဧကန်အမှန် ထိုလူသားသည် လွန်စွာ ရက်စက်သူ၊ လွန်စွာ အသိတရားကင်းမဲ့သူပင်ဖြစ်ပေသည်။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

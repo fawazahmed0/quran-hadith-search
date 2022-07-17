@@ -710,6 +710,12 @@ Reche: “Vizhdate li onezi [idoli], na koito ste sluzhili
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၅၊၇၆။	သင်တို့နှင့် သင်တို့ဘိုးဘွားတို့ ကိုးကွယ်ရာကို ကြည့်ရှုကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အိဗ်ရာဟီမ်က အသင်တို့သည် မိမိတို့ ကိုးကွယ်ဆည်းကပ် လျက်ရှိကြသောအရာများ၏ (အခြေအနေ)ကို(လေ့လာသုံးသပ်)တွေ့မြင်ကြပြီလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

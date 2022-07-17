@@ -710,6 +710,12 @@ Zove toĭ onzi, chiyato vreda e po-blizo ot negovata polza. Kolko e losh za pok
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၃။	ထိုသူသည် ဘုရားတုကို ကိုးကွယ်၏၊ ထိုဘုရား၏ ဘေးဥပါဒ်သည် သူ၏အကျိုးကျေးဇူးထက် သာ၍နီးသည်၊ စင်စစ်အားဖြင့် ထိုဘုရားသည် မကောင်းသောကာကွယ်သူ၊ မကောင်းသောအဆွေခင်ပွန်းမုချဖြစ်သည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အမှန်စင်စစ်) ထိုသူသည် အကြင်အရာကို ဟစ်ခေါ်လျက်ရှိပေသည်။ ထိုအရာ၏ အကျိုးယုတ်စေမှုသည် ၎င်း၏ အကျိုးဖြစ်စေခြင်းထက် ပိုမို၍ပင်နီးကပ်လျက်ရှိပေသည်။စင်စစ်(ထိုသူဟစ်ခေါ်လျက်ရှိသောအရာမှာမူကား)အလွန်ယုတ်ညံ့သော ကြည့်ရှုထောက်မသူ၊ ၎င်းပြင် အလွန်ယုတ်ညံ့သောအဆွေခင်ပွန်းပင် ဖြစ်ပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

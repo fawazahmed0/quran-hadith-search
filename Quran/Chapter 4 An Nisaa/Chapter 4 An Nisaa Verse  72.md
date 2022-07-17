@@ -710,6 +710,12 @@ Sred vas vse nyakoĭ izostava i shtom vi spoleti beda, kazva: “Allakh me dari
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၂။	မှတ်သားကြလော့။ သင်တို့အနက် ဖင့်နွဲ့သူရှိ၏။ အကယ်၍ သင်တို့သည် စစ်ရေးရှုံးနိမ့်၍ အတိဒုက္ခ ခံစားကြလျှင် ထိုသူက အကျွနု်ပ်ပေါ်၌ အလ္လာဟ်အသျှင်မြတ်၏ ဂုဏ်ကျေးဇူးတော်ကြီးလှပေ၏။ ထို့ကြောင့် အကျွနု်ပ်သည် သူတို့နှင့်ပါမသွားဟု ပြောဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် မုချဧကန် အသင်တို့တွင် အကြင်ကဲ့သို့သောသူလည်းရှိ၏။ ထိုသူသည် (စစ် မြေပြင်သို့ လိုက်ပါသွားခြင်းမပြုဘဲ) ဖင့်နွဲ့ဆိုင်းတွ (ကျန်ရစ်) လေသည်။ တစ်ဖန် အကယ်၍ အသင်တို့၌ ဘေးအန္တရာယ် တစ်စုံတစ်ရာ ဆိုက်ရောက်ခဲ့မူ ထိုသူက “ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် ကျွန်ုပ်၏အပေါ်၌ ကျေးဇူးပြုတော်မူခဲ့လေပြီ။ ထို့အတွက်ကြောင့်ပင် ကျွန်ုပ်သည် ထိုသူတို့နှင့်အတူ (စစ်မြေပြင်သို့) လိုက်ပါသွားခြင်းမရှိခဲ့ပြီ” ဟု ပြောဆိုလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

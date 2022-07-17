@@ -710,6 +710,12 @@ Tvoyat Gospod naĭ-dobre znae vsichki na nebesata i na zemyata. I predpochetokh
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။	ထို့အပြင် သင်၏ ကျေးဇူးတော်သခင်သည် မိုးမြေပေါ်တွင် ရှိရှိသမျှအပေါင်းတို့ကို ကောင်းစွာသိတော်မူ၏။ ငါအရှင်မြတ်သည် အချို့သောတမန်တော်တို့ကို အခြားသောတမန်တော်များထက် သာလွန်ချီးမြှောက်တော်မူ၏။ တမန်တော်ဒါဝတ်အား ဇဘူရ်ကျမ်းတော်ကို ထုတ်ပြန်ပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် မိုးကောင်းကင်များ၌လည်း ကောင်း၊ပထဝီမြေ၌လည်းကောင်း၊ ရှိသူတို့အား ကောင်းမွန်စွာသိတော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူပေ၏။ ထိုမှတစ်ပါး မလွဲဧကန် ငါအရှင်မြတ်သည် အချို့သောနဗီတမန်တော်များအားအချို့(သောနဗီတမန်တော်တို့)ထက် သာစေတော်မူခဲ့လေ၏။ထို့ပြင် ငါအရှင်မြတ်သည် (နဗီတမန်တော်) ဒါဝူဒ်အား ဇဗူရ်ကျမ်းတော်ကို ချီးမြှင့်ပေးသနားတော်မူခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

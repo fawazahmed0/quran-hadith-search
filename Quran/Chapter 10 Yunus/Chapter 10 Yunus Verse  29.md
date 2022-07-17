@@ -710,6 +710,12 @@ Dostatŭchen e Allakh za svidetel mezhdu nas i vas. Byakhme v nevedenie za vashe
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၉။	အကျွနု်ပ်တို့သည် သင်တို့၏ ကိုးကွယ်ခြင်းကို မသိကြကြောင်းကို သင်တို့နှင့် အကျွနု်ပ်တို့၏ အလယ်ကြားတွင် အလ္လာဟ်အရှင်မြတ်သည် သက်သေအဖြစ်ဖြင့် လုံလောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ဖြစ်ပေရာ အသင်တို့၏ကိုးကွယ်မှုကို ငါတို့(အလျဉ်း)မသိခဲ့ကြောင်း အလ္လာဟ်အရှင်မြတ်သည်ပင် ငါတို့နှင့် အသင်တို့၏စပ်ကြားဝယ် သက်သေအဖြစ် လုံလောက်တော်မူပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

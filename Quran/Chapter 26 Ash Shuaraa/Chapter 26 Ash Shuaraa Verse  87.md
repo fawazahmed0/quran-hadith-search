@@ -710,6 +710,12 @@ I ne me opozoryavaĭ v Denya, kogato [tvarite] shte bŭdat vŭzkreseni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၇။	လူသားအပေါင်းတို့ တဖန်ရှင်ပြန်ထမြောက်ရသော နေ့တော်ကြီးတွင် အကျွနု်ပ်ကို အရှက်တကွဲရှုံ့ချတော် မမူပါလင့်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အရှင်မြတ်သည် (လူသတ္တဝါအပေါင်းတို့) ရှင်ပြန်ထကြရမည့်နေ့တွင် ကျွန်တော်မျိုးအား အရှက်တကွဲ ဖြစ်စေတော်မမူပါနှင့်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

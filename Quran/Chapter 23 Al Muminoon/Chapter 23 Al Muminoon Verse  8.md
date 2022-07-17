@@ -710,6 +710,12 @@ i koito poverenoto im i obetite si sŭblyudavat
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	ထိုယုံကြည်သူတို့သည် သူတပါးအပ်နှံချက်များနှင့် မိမိတို့၏ ဂတိသစ္စာများကို စောင့်ရှောက်ထိန်းသိမ်းကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထို("မုအ်မင်န်" သက်ဝင်ယုံကြည်) သူတို့သည် မိမိတို့ ယုံကြည်လွှဲအပ်ခြင်းခံရသော တာဝန်များကို လည်းကောင်း၊ မိမိတို့၏ ကတိဝန်ခံချက် များကိုလည်းကောင်း၊ စောင့်ထိန်းသူများလည်း ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I reche Ibrakhim: “Gospodi moĭ, stori tozi grad [Meka] zashtiten i predpazi 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	ထို့အပြင် တမန်တော်အေဗရာဟမ်က အို-အကျွနု်ပ်၏ ကျေးဇူးတော်သခင်၊ ဤအရပ်ဒေသကို ဘေးမဲ့ဖြစ်စေ တော်မူပါ။ အကျွနု်ပ်နှင့် အကျွနု်ပ်၏ သားမြေးအဆက်ဆက်တို့အား ဆင်းတုရုပ်ပွားကို ခဝပ်ကိုးကွယ်သည့် အယူဝါဒမှ ကာကွယ်စောင့်ရှောက်တော်မူပါ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင်(ပြန်လည်၍သတိရကြလေကုန်)။ တစ်ရံရောအခါဝယ်(နဗီတမန်တော်)အီဗ်ရာဟီမ်သည်(အလ္လာဟ်အရှင်မြတ်အထံတော်၌ ဤသို့)လျှောက်ထား ပန်ကြားခဲ့လေသည်။အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်၊အရှင်မြတ်သည် ဤမြို့ကို ငြိမ်းချမ်းသာယာသော မြို့အဖြစ်ပြုလုပ်ပေးသနားတော်မူပါ။ ထို့ပြင် အရှင်မြတ်သည် ကျွန်တော်မျိုးအားလည်းကောင်း၊ ကျွန်တော်မျိုး၏ သားများကိုလည်းကောင်း၊ ကျွန်တော်မျိုးတို့သည် ရုပ်ပွားဆင်းတုများကို မကိုးကွယ် မိကြရန် ကင်းဝေးစွာထားရှိတော်မူပါ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

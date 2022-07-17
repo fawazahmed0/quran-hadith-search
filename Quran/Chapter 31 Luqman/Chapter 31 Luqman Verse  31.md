@@ -710,6 +710,12 @@ Nima ne vizhdash, che korabite plavat po moreto s milostta na Allakh, za da vi p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။	အလ္လာဟ်အရှင်မြတ်သည် အ့ံဖွယ်သရဲတော်များကို သင်တို့အား ပြသတော်မူစိမ့်သောငှာ မိမိ၏ကောင်းကြီး မင်္ဂလာတော်အားဖြင့် သမုဒ္ဒရာပင်လယ်ကျောတွင် လှေသင်္ဘောများကို ကူးသန်းသွားလာစေတော်မူ၏၊ ဤအရာ ကို သင်တို့မမြင်ကြသလော၊ စင်စစ်အားဖြင့်၎င်းအချက်အရာများ၌ တည်ကြည်၍ ဂုဏ်ကျေးဇူးသိတတ်သူများ အတွက် သက်သေသာဓကတော်များပါရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်၏ ကျေးဇူးတော်နှင့် သမုဒ္ဒရာပင်လယ်၌ ရွက်သင်္ဘောများ သွားလာလှုပ်ရှားလျက်ရှိကြခြင်းမှာ ထိုအရှင်မြတ်သည် အသင်တို့အား မိမိ၏အချို့သက်သေသာဓကများကို ပြသတော်မူရန်ဖြစ်ကြောင်းအသင်သည် မမြင်ခဲ့လေသလော။ ဧကန်မလွဲ ဤသည်တွင်ကျေးဇူးသိတတ်သော သည်းခံခြင်းတရား ထားရှိသူတိုင်း၏အဖို့အမှန်ပင် သက်သေသာဓကများ ရှိကြပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

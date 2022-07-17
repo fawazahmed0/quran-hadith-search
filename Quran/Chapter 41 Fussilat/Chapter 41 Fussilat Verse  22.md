@@ -710,6 +710,12 @@ I ne se opasyavakhte, che i slukhŭt, i zrenieto, i kozhata vi shte svidetelstva
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၂။	မိမိတို့၏ နားမျက်စိအရေအသားကိုယ်အင်္ဂါအစိတ်အပိုင်းတို့က သင်တို့အပေါ်သက်သေမခံစေခြင်းငှာ သင်တို့ သည် လျှို့ဝှက်စွာမပြုကျင့်ကြချေ၊ သင်တို့သည် မိမိတို့ပြုလေ့ရှိသောအရာများကို အလ္လာဟ်အရှင်မြတ်သိမြင် တော်မမူဟု ထင်မှတ်ခဲ့ကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား မိမိတု့ိ၏ နားများသည်လည်းကောင်း၊ မိမိတို့၏မျက်စိများသည်လည်းကောင်း၊ မိမိတို့၏(အသား)အရေများသည်လည်းကောင်း၊ မိမိတို့နှင့်ဆန့်ကျင်၍သက်သေခံကြမည်ကို စိုးရိမ်ကာ သက်သေမခံနိုင်ကြရန် အသင်တို့ ဖုံးကွယ်နိုင်ကြ သည်မဟုတ်ပေ။ သို့ရာတွင် အသင်တို့သည်မိမိတို့ကျင့်မူကြသည်တို့အနက် များစွာတို့ကို အလ္လာဟ်အရှင်မြတ် သိတော်မူသည်မဟုတ်ဟု ထင်မှတ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

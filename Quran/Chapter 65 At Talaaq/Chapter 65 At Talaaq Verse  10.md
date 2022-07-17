@@ -710,6 +710,12 @@ Allakh prigotvi za tyakh surovo mŭchenie. Zatova se boĭte ot Allakh, o, razum
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၀။ အလ္လာဟ်အရှင်မြတ်သည် ထိုသူတို့အဖို့အရာ ပြင်းပြသောအပြစ်ဒဏ်ကို အသင့်ပြင်ဆင်ထားတော်မူပြီ၊ ထို့ကြောင့် အေ-အသိအလိမ္မာရှင်တို့၊ အေ-ယုံကြည်သူတို့၊ သင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား ပြုအပ်သောဝတ္တရားကို စောင့်ထိန်းကြလော့၊ ယခုအလ္လာဟ်အရှင်မြတ်သည် သင်တို့ထံသို့ သတိပေးကျမ်းတော်ကို ချပေးတော်မူပြီ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့နှင့်ပတ်သက်၍ ပြင်းထန်လှစွာသော ပြစ်ဒဏ်ကို အဆင်သင့်ပြုလုပ်၍ ထားရှိတော်မူ၏။ သို့ဖြစ်ပေရာ အို-သက်ဝင် ယုံကြည် ခဲ့ကြလေသောဉာဏ်ရှင်တို့၊ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား ကြောက်ရွံ့ကြလေကုန်၊ ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့ထံ "ဆုံးမစာ" (ကုရ်အာန်ကျမ်းတော်မြတ်)ကို ချပေးသနားတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

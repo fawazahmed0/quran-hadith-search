@@ -710,6 +710,12 @@ Izprashtame Nie kamilata kato izpitanie za tyakh. Nablyudavaĭ gi i tŭrpi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇။	မှတ်သားလော့၊ ငါသည် သူတို့ကို စုံစမ်းဖို့ငှာ သူတို့ထံသို့ ကုလားအုတ်မတစ်ကောင်ကို စေလွှတ်တော်မူ၏၊ ထို့ကြောင့်သူတို့ကို စောင့်ကြည့်လော၊ သည်းခံခြင်းတရားရှိလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် ငါအရှင်မြတ် ၎င်းတို့အား စမ်းသပ်တော်မူရန် ကုလားအုတ်မကို စေလွှတ်တော်မူအံ့၊ သို့ဖြစ်ပေရာ (အို-နဗီတမန်တော် ‘ဆွာလစ်ဟ်’၊) အသင်သည် ၎င်းတို့အားသည်းခံ၍ စောင့်စားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

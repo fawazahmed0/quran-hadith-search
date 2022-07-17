@@ -710,6 +710,12 @@ I izpŭlvaĭte myarkata, kogato merite, i preteglyaĭte s tochni vezni! Tova e
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	တင်းတောင်းစသည်တို့နှင့် ချိန်တွယ်သောအခါ အပြည့်အမှန်ချိန်တွယ်ကြလော့။ စည်းချိန်နှင့်ချိန်တွယ်သောအခါ အလေး၊ စည်းချိန်တို့ကို မှန်ကန်စေကြလော့။ ဤအပြုအမူသည် သင့်တင့်လျောက်ပတ်၍ အစွန်ဆုံးဘဝ၌ သာလွန်ကောင်းမြတ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်တို့သည် (မိမိတို့ရောင်းချသောဝတ္ထုပစ္စည်း တစ်စုံတစ်ရာကို) တောင်း၊ တင်း၊ ခွက် (စသည့်ပမာဏ(ဖြင့်) ခြင်တွယ်၍(ရောင်းချ) သောအခါဝယ် အပြည့်ခြင်တွယ်၍ပေးကြလေကုန်။ ထိုမှတစ်ပါး အသင်တို့သည်(အလေးချိန်ခွင်ဖြင့် ချိန်တွယ်၍ ရောင်းချသောအခါတွင်လည်း)မှန်ကန်သော (အလေး)ချိန်ခွင်ဖြင့် ချိန်တွယ်(၍ပေး)ကြလေကုန်။ ဤသည်ကား (အသင်တို့အဖို့ ဤပစ္စက္ခမျက်မှောက်ဘဝ၌လည်း)အမွန်မြတ်ဆုံးပင်ဖြစ်ပေသည်။ (နောင်တမလွန်ဘဝ၏) အကျိုးဆက်အားဖြင့်လည်း အကောင်းဆုံးပင် ဖြစ်ချေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

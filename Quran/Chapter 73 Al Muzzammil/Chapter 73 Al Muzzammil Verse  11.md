@@ -710,6 +710,12 @@ I ostavi na Men otrichashtite, koito zhiveyat v blagodenstvie, i im daĭ malka 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁။ ထို့အပြင် ငြင်းပယ်သောလောကီစည်းစိမ် ကြွယ်ဝသူတို့အား စီရင်ခြင်းကို ငါ့အား လွှဲလော့၊ သင်သည် သူတို့အား အချိန်အနည်းငယ်ပိုပေးလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်သည် ငါအရှင်မြတ်အားလည်းကောင်း၊ မဟုတ်မမှန်ဟူ၍ စွပ်စွဲငြင်းပယ်ကြကုန်သော စည်းစိမ်ရှင်တို့အားလည်းကောင်း၊ လွှတ်ထားပါလေ။ ထို့ပြင် အသင်သည် ၎င်းတို့အား အနည်းငယ် ရွှေ့ဆိုင်း၍ ထားပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

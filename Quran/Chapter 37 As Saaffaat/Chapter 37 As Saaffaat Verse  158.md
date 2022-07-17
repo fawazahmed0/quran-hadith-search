@@ -710,6 +710,12 @@ I izmislikha rodstvo mezhdu Nego i dzhinovete. A dzhinovete znayat, che shte bŭ
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅၈။	တဖန် ထိုမိစ္ဆာမိုက်တို့သည် အလ္လာဟ်အရှင်မြတ်နှင့် ဂျင်နတ်သားတို့သည် အဆွေအမျိုးတော်စပ်သည်ဟု အယူရှိကြ၏၊ စင်စစ်အားဖြင့်ဂျင်တို့သည် မိမိတို့အား တရားစီရင်တော်မူသောနေ့တော်ကြီး၌ အလ္လာဟ်အရှင် မြတ်အထံတော်သို့ ယူဆောင်ခြင်းခံရမည်ဟု ကောင်းစွာသိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့သည် (မိမိတို့၏စိတ်ကူးဖြင့်) ထိုအရှင်မြတ်နှင့် ဂျင်(န်)သတ္တဝါတို့၏ အကြားဝယ် ဆွေမျိုးတော်စပ်မှုကို ဖန်တီးခဲ့ကြကုန်၏။ အမှန်စင်စစ်သော်ကား ဂျင်(န်)သတ္တဝါတို့ကိုယ်တိုင် မိမိတို့မှာ (ပြစ်ဒဏ်၌)အမှန်ပင် အဆင်သင့် ရောက်ရှိစေခြင်း ခံကြရမည့်သူများဖြစ်ကြသည်ကို ကောင်းစွာသိရှိပြီး ဖြစ်ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

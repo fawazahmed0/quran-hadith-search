@@ -710,6 +710,12 @@ Ala Nie sŭzdadokhme pokoleniya i izminakha dŭlgi godini nad tyakh. I ne be ti 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၅။	သို့သော်ငါသည် လူသားအဆက်ဆက်ကို ဖန်ဆင်းတော်မူ၏၊ သူတို့သည် အသက်ရှည်စွာရှင်နေကြကုန်ရကုန်၏၊ ထို့အပြင်သင်တမန်တော်သည် မဒယန်မြို့သူမြို့သားတို့အား ငါ၏ဗျာဒိတ်တော်ကို ရွတ်ဖတ်ပြောဟော၍ သူတို့နှင့် အတူတကွနေခဲ့သူမဟုတ်ချေ၊ သို့သော်ငါသည် လူသားတို့ထံ တမန်တော်များကို ဆက်လက်၍ စေလွှတ် တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သို့ရာတွင် ငါအရှင်မြတ်သည် မြောက်မြားစွာသော မျိုးဆက်တို့ကို ပေါက်ပွားစေတော်မူခဲ့၏။ ၎င်းတို့အပေါ်၌ နှစ်ပရိစ္ဆေဒလည်း ကြာညောင်းခဲ့၏။ ထိုမှတစ်ပါး(အို-တမန်တော်၊) အသင်သည် မဒ်ယန်မြို့သားတို့တွင် နေထိုင်ကာ ၎င်းတို့ရှေ့ဝယ် ငါ အရှင်မြတ်၏ အာယတ်တော်များကို ဖတ်ကြားလျက် ရှိခဲ့ဖူးသည်လည်း မဟုတ်ပေ။ သို့ရာတွင် ငါအရှင်မြတ်သည် (အသင့်အား ရစူလ်တမန်တော်အဖြစ်) စေလွှတ်တော်မူမည့် အရှင်မြတ်ပင် ဖြစ်တော်မူသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

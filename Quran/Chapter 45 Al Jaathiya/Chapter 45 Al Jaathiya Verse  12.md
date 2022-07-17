@@ -710,6 +710,12 @@ Allakh e, Koĭto podchini za vas moreto, za da plavat tam korabite spored Negov
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	အရှင်မြတ်၏ အမိန့်တော်အားဖြင့် လှေသင်္ဘောစသည်တို့သည် ပင်လယ်သမုဒ္ဒရာများတွင် သွားလာရန်သော် လည်းကောင်း၊ သင်တို့သည် အရှင်မြတ်၏ ကျေးဇူးတော်ကို ရှာဖွေကြရန်သော်လည်းကောင်း၊ သင်တို့သည် အရှင်မြတ်ကျေးဇူးတော်ကို သိကောင်းသိရန်သော်လည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ်သည် ပင်လယ်သမုဒ္ဒရာ ကို သင်တို့အကျိုးရှိဖို့ရာ ဖန်ဆင်းတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်သည်ပင် ပင်လယ်သမုဒ္ဒရာကို ယင်းပင်လယ်သမုဒ္ဒရာ၌ သင်္ဘောများသည် ထိုအရှင်မြတ်၏ အမိန့်တော်နှင့် လှုပ်ရှားသွားလာအံ့သောငှာ လည်းကောင်း၊အသင်တို့သည် ထိုအရှင်မြတ်၏ ကျေးဇူးတော်တည်းဟူသော စားနပ်ရိက္ခာကို ဆည်းပူးရှာဖွေကြအံ့သော ငှာလည်းကောင်း၊အသင်တို့သည် ကျေးဇူးတင်ကြအံ့သော ငှာလည်းကောင်း၊အသင်တို့၏ လက်အောက်ခံ ဖြစ်စေတော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

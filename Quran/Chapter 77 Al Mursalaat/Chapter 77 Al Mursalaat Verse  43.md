@@ -710,6 +710,12 @@ KULU WE ESHREBU HENI’ÆN BIMA KUNTUM TA’MELUNE
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၃။ သူတို့အား ဤသို့မိန့်တော်မူလတံ့၊ အို-ကောင်းကြီး မင်္ဂလာတော်ရသူအပေါင်းတို့၊ ခြိုးခြံစွာကျင့်ခဲ့သောကုသိုလ် ကောင်းမှုကြောင့် ဤနိဗ္ဗာန်တော်တွင် သင်တို့ စိတ်ကျေနပ်အောင် စားကြ၊ သောက်ကြလော့၊ သင်တို့ကို ခုံမင်စွာ လက်ခံတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (၎င်း တို့သည် ဤသို့ပြောဆိုခြင်းကို ခံကြရပေမည်။) အသင်တို့သည် မိမိတို့ ကျင့်မူခဲ့ကြလေသော (ကောင်းမှု သုစရိုက်များကြောင့်) မြိန်ယှက်စွာ စားသုံးခြင်းကိုလည်းကောင်း၊ သောက်သုံးခြင်းကိုလည်းကောင်း၊ ပြုကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

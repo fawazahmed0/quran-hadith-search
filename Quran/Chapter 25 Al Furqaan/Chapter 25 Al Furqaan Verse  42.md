@@ -710,6 +710,12 @@ Toĭ shteshe da ni otkloni ot bozhestvata ni, ako ne postoyanstvakhme za tyakh.
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၂။	ငါတို့သည် မိမိတို့ဘုရားများကို သဒ္ဒါစိတ်အားကြီးစွာနှင့် မဆည်းကပ်မကိုးကွယ်ကြခဲ့ပါလျှင် ဤသူသည် ငါတို့အား မိမိတို့ဘုရားများမှ ဝေးစွာဖျားယောင်းယူဆောင်သွားလတ့ံဟု ဆက်လက်၍ ပြောဆိုကြ၏၊ သူတို့သည် အပြစ်ဒဏ်တော်ကို မျက်ဝါးထင်ထင်မြင်ရကြသောအခါ အဘယ်သူသည် တရားလမ်းမှ သာလွန်လွဲချော်သွား သည်ကို သိကြရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကယ်၍သာ ကျွန်ုပ်တို့သည် မိမိတို့၏ ကိုးကွယ်ရာဘုရားများ(အား ကြည်ညိုမြတ်နိုးရာ)၌ စွဲမြဲကြံ့ခိုင်စွာ မရှိခဲ့ကြပါလျှင် ဧကန်မလွဲ ၎င်းသည် ကျွန်ုပ်တို့အား ထိုကိုးကွယ်ရာဘုရားများမှ ဝေးအောင်ပြုခဲ့ပြီးသာ ဖြစ်ပေသည်။" စင်စစ်သော်ကား ၎င်းတို့သည် မကြာမြင့်မီ ပြစ်ဒဏ်ကို တွေ့မြင်ကြ သောအခါ မည်သူသည် လမ်းလွဲသူဖြစ်ကြောင်း သိရှိသွားကြပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

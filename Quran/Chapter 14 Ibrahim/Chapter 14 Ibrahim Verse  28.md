@@ -710,6 +710,12 @@ Ne vidya li ti onezi, koito podmenyat blagodatta na Allakh s neverie i zaselvat 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၈။	တမန်တော်၊ အလ္လာဟ်အရှင်မြတ်၏ ကောင်းကြီးမင်္ဂလာတော်ကို ကျေးဇူးကန်းခြင်းနှင့်လဲယူ၍ မိမိလူတို့ကို ပျက်စီးဆုံးရှုံးခြင်းဗိမာန်သို့ ဆွဲဆောင်သွားသောသူတို့ကို သင်မြင်သည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်၊) အသင်သည် အကြင်သူတို့အား မမြင်ခဲ့လေသလော။ ထိုသူတို့သည် အလ္လာဟ်အရှင်မြတ်၏ ကျေးဇူးတော်များကို သွေဖည်ငြင်းပယ်မှုနှင့် လဲလှယ်ခဲ့ကြကုန်သည်။ ၎င်းပြင် ထိုသူတို့သည် မိမိတု့ိ၏ အမျိုးသားတို့ကိုပျက်စီးရာဌာနသို့ဆွဲချ သက်ဆင်းစေခဲ့ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

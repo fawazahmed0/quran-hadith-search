@@ -710,6 +710,12 @@ Reche: “Ti ne shte mozhesh da tŭrpish zaedno s men
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၇။	ထိုသူက မှတ်သားလော့။ သင်သည် အကျွနု်ပ်ကို သည်းခံနိုင်မည်မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းက ဧကန်အမှန် အသင်သည် ကျွန်ုပ်နှင့်အတူ အလျင်းသည်းခံ(၍နေ)နိုင်မည် မဟုတ်ဟု ပြောဆိုဖြေကြားခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

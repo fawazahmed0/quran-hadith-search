@@ -710,6 +710,12 @@ A predi sedyakhme tam na mesta, za da podslushvame. A koĭto podslushva sega, d
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။ ငါတို့သည် ကောင်းကင်သတင်းကို ပုံးကွယ် ချောင်းမြောင်းနားထောင်လေ့ရှိကြ၏၊ သို့သော်ယခုမူကား ယင်းကဲ့သို့ နားထောင်ရန် ကောင်းကင်သို့ ချဉ်းကပ်လာသူတို့သည် လမ်းတွင် ပုံးစောင့်နေသောကြယ်ဥက္ကာ လက်နက်နှင့်သာတွေ့ကြံုကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ဧကန်အမှန် ကျွန်ုပ်တို့သည် ယင်းမိုးကောင်းကင်မှ (သတင်းများ)နားထောင်ရန် ထိုင်ရာနေရာများတွင် (သွား)ထိုင်လေ့ရှိခဲ့ကြကုန်၏။ ယခုသော် မည်သူမဆို(သွားရောက်)နားထောင်သည်ရှိသော် မီးကျီမီးခဲတစ်ခုကို မိမိအား အသင့် စောင့်လျက် (ကြိုနေသည်ကို) တွေ့ရှိရပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ JA ‘IBADI LA HAWFUN ‘ALEJKUMUL-JEWME WE LA ‘ENTUM TEHZENUNE
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၈။	အို-ငါ၏ ကျေးကျွန်အပေါင်းတို့၊ ထိုနေ့တော်ကြီး၌ သင်တို့အဖို့ကြောက်ရွံ့စရာမရှိချေ၊ သင်တို့သည် ဝမ်းနည်း ပူဆွေးရသူများမဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုရောကာလ အလ္လာဟ်အရှင်မြတ်အထံတော်မှ သူတော်စင်တို့နှင့် ပတ်သက်၍ ဤသို့အမိန့်တော် ထုတ်ပြန်တော်မူမည်၊) "အို-ငါအရှင်မြတ်၏ကျွန်တို့ ယနေ့သော်ကား အသင်တို့၌ မည်သည့် စိုးရိမ်မှုမျှမရှိပြီ။ ထိုမှတစ်ပါး အသင်တို့သည် စိတ်သောက ဖြစ်ရန်လည်း မရှိပြီ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

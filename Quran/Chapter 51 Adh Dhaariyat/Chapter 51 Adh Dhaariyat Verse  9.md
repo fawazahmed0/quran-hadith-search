@@ -710,6 +710,12 @@ Otklonyava se ot nego onzi, koĭto e bil otklonen
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	တရားတော်ကို မနှစ်သက်သူအား တရားတော်ကို ကျောပေးသွားစေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို(‘ကိယာမတ်’ ရှင်ပြန်ထမည့်နေ့ကို ယုံကြည်ခြင်း)မှ သွေဖည်သူသည်(ကောင်မြတ်ခြင်းအားလုံးမှ) သွေဖည်သူသာဖြစ်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

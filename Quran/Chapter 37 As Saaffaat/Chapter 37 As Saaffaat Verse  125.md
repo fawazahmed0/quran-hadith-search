@@ -710,6 +710,12 @@ Nima prizovavate Baal, a izostavyate Naĭ-prekrasniya Tvorets
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂၄၊၁၂၅၊၁၂၆။ ဤတမန်တော်သည် သူ၏ အမျိုးသားတို့အား ဟယ်-အချင်းတို့၊သင်တို့သည် မကောင်းမှုကို ကာဆီး တွန်းလှန်မည်မဟုတ်ကြသလော၊ သင်တို့သည် ဘအလခေါ် ဆင်းတုရုပ်ပွားကို ဆည်းကပ်ကိုးကွယ်ကြမည်လော၊ သင်တို့၏အရှင်သခင်၊ သင်တို့၏ မိဘဘိုးဘွားတို့၏ အရှင်သခင်၊ ဖန်ဆင်းသူများအနက် အကောင်းဆုံးသော ဖန်ဆင်းသူကို မယုံမကြည်စွန့်လွှတ်ကြမည်လောဟု ဟောကြား၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့သည် အကောင်းဆုံး ဖန်ဆင်းတော်မူသော အရှင်မြတ်အား စွန့်ထားကြ၍ "ဗအ်လ်" (ဟုမည်တွင်သော ဆင်းတု)ကို ဟစ်ခေါ်(တသ ကိုးကွယ်ဆည်းကပ်)ကြလေသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

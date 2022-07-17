@@ -710,6 +710,12 @@ koito shtom vzimat ot khorata, izpŭlvat myarkata
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။ သူတို့သည် သူတပါးထံမှ ချိန်တွယ်သောအခါ မှန်ကန်ပြည့်စုံစွာချိန်တွယ်တိုင်းထွာယူကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတို့သည် သူတစ်ပါးထံမှ ခြင်တွယ်၍ ယူကြရသောအခါ အပြည့်(ခြင်၍)ရယူကြလေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

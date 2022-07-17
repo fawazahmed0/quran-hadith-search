@@ -710,6 +710,12 @@ Da, Allakh e vashiyat Pokrovitel i Toĭ e Naĭ-dobriyat pomoshtnik
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၅ဝ။	သို့သော် အလ္လာဟ်အသျှင်မြတ်သည် သင်တို့ကို ကာကွယ်စောင့်ရှောက်တော်မူသောအသျှင် ဖြစ်တော်မူ၏။ အသျှင်မြတ်သည် ကူညီစောင်မသူအပေါင်းတို့တွင် အထွဋ်အခေါင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်အားဖြင့်(ယုံကြည်ခြင်းသဒ္ဓါတရား ကင်းမဲ့သောသူတို့သည် အသင်တို့အား စောင့်ရှောက်မည့်သူများ)အလျင်း မဟုတ်(ကြချေ။) အလ္လာဟ် အရှင်မြတ်သည်သာလျှင်အသင်တို့အား အထူးစောင့်ရှောက်တော်မူသောအရှင် ဖြစ်တော်မူသည်။ ၎င်းပြင် ထိုအရှင်မြတ်သည် စောင်မသူများတွင် အကောင်းဆုံး စောင်မတော်မူသောအရှင်မြတ်ပင်ဖြစ်တော်မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Za onezi, koito i v uedinenie se boyat ot svoya Gospod, naistina ima oproshtenie
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။ သို့သော် မိမိတို့၏အရှင်သခင်အား တိတ်တဆိတ်ကြောက်ရွံ့ရိုကျိုးသူတို့အဖို့မူကား အပြစ်လွှတ်ခြင်းနှင့် ကြီးမား သောဆုတော်တို့ရှိကြလိမ့်မည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ မိမိတို့ကို ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အား မမြင်ဘဲလျက် ကြောက်ရွံ့သော သူတို့အဖို့ အပြစ်မှ ချမ်းသာပေးခြင်းသည်လည်းကောင်း၊ ကြီးကျယ်လှစွာသော အကျိုးကျေးဇူးသည် လည်းကောင်း၊ ရှိ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

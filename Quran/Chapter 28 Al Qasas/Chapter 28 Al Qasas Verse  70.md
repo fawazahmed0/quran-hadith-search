@@ -710,6 +710,12 @@ Toĭ e Allakh. Nyama drug bog osven Nego. Slavata prinadlezhi Nemu i v zemniya 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇ဝ။	ထို့အပြင်အလ္လာဟ်အရှင်မြတ်သည် အရှင်သခင်ဖြစ်တော်မူ၏၊ အရှင်မြတ်မှတပါး အခြားအရှင်သခင်မရှိချေ၊ ဤဘဝ၊နောင်ဘဝတွင် ချီးမွမ်းခြင်းအပေါင်းတို့သည် အရှင်မြတ်၏ အရာသာလျှင်ဖြစ်၏၊ စိုးမုုိအုပ်ချုပ်ခြင်း တည်ရာသည် အရှင်မြတ်သာလျှင်ဖြစ်ပါ၏၊ သင်တို့အားလုံးသည် အရှင်မြတ်ထံသို့ ပြန်အပို့ခံရကြမည်သာတည်း။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်သော်ကား ထိုအရှင်မြတ်သည်ပင် (တစ်ဆူတည်း)သော ဆည်းကပ်ကိုးကွယ်ရာ အလ္လာဟ်အရှင်မြတ် ဖြစ်တော်မူ၏။ ထိုအရှင်မြတ် မှတစ်ပါး ဆည်းကပ်ကိုးကွယ်ရာဟူ၍ကား အလျှင်းမရှိပြီ။ ဤမျက်မှောက် လောကီဘဝ၌လည်းကောင်း၊ တမလွန်ဘဝ၌လည်းကောင်း၊ ထိုအရှင်မြတ်သည်သာလျှင် ချီးမွမ်းထောပနာအပေါင်းတို့ကို ခံယူထိုက်တော်မူ၏။ ၎င်းပြင် စိုးမိုးအုပ်ချုပ်မှုအာဏာသည်လည်း ထိုအရှင်မြတ်၌သာရှိ၏။ ထိုမှတစ်ပါး အသင်တို့သည် ထိုအရှင်မြတ်အထံတော်သို့သာလျှင် ပြန်လည်သွားကြရကုန် အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

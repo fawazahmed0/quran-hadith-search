@@ -710,6 +710,12 @@ koito osporvat znameniyata na Allakh, bez da sa poluchili dovod - ogromen e gnev
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	အကြင်သူတို့သည် သူတို့ထံ ရောက်လာသောအလ္လာဟ်အရှင်မြတ်၏ သက်သေသာဓကတော်များကို အကိုး အကားတစ်စုံတစ်ရာမရှိပဲ ငြင်းခုံကြ၏၊ ထိုငြင်းခုံမှုသည် အလ္လာဟ်အရှင်မြတ်ထံတော်၌လည်းကောင်း၊ ယုံကြည် သူတို့ထံ၌လည်းကောင်း၊ မနှစ်သက်စက်ဆုတ်ရွံရှာဖွယ်ရာဖြစ်၏၊ စင်စစ်အားဖြင့် အလ္လာဟ်အရှင်မြတ်သည် မာနကြီးသော၊ ခေါင်းမာသော၊ ရွံရှာဖွယ်ဖြစ်သောစိတ်နှလုံးကို ယင်းကဲ့သို့မာမြင်းအောင် တံဆိပ်ခတ်နှိပ်တော် မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင် (စည်းကမ်းကျူးလွန်သူ၊ ဒွိဟသံသယ၌ရှိနေ)သူတို့သည် မိမိတို့ထံ မည်သည့် သက်သေအထောက်အထား အကြောင်းပြချက် တစ်စုံတစ်ရာမျှပင် ရောက်လာခဲ့သည် မရှိဘဲလျက် အလ္လာဟ်အရှင်မြတ်၏ သက်သေလက္ခဏာတော်များနှင့် စပ်လျဉ်း၍ အငြင်းအခုန် ပြုကြကုန်၏။ (ဤသည်) အလ္လာဟ်အရှင်မြတ်အထံ၌လည်းကောင်း၊ ‘မုအ်မင်န်’သက်ဝင်ယုံကြည်သူတို့၏ထံတော်၌လည်းကောင်း၊ စက်ဆုပ်မှုအားဖြင့် လွန်စွာကြီးကျယ်လှ၏။ အလ္လာဟ်အရှင်မြတ်သည် ဤနည်းအတိုင်းပင် ဘဝင်မြင့်မာန်မာန ထောင်လွှားသူ၊ လွန်စွာဆိုးသွမ်းသူ၏ စိတ်နှလုံးတစ်ခုလုံးပေါ်ဝယ် တံဆိပ်ခတ်နှိပ်တော် မူပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

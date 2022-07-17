@@ -710,6 +710,12 @@ O, narode moĭ, tova e kamilata na Allakh - znamenie za vas. Ostavete ya da pas
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၄။	ဟယ်-အချင်းတို့၊ ဤကုလားအုတ်မသည် အလ္လာဟ်၏ ကုလားအုပ်တော်ဖြစ်၏။ သင်တို့အတွက် သက်သေ သာဓကတော်တပါးဖြစ်၏။ ထို့ကြောင့်သင်တို့သည် ဤကုလားအုပ်မအား အလ္လာဟ်အရှင်မြတ်၏ ပထဝီမြေပေါ် တွင် စားသောက်ခွင့်ပေးကြလော့။ သင်တို့ကို နီးကပ်နေသောအပြစ်ဒဏ်မဖမ်းဆီးစေရန် သင်တို့သည် ဤ ကုလားအုပ်မကို ဘေးအန္တရာယ်နှင့် မထိကြလင့်ဟု ပြော၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အို-ငါ၏အမျိုးသားတို့၊ အလ္လာဟ်အရှင်မြတ်၏ကုလားအုတ်မသည် အသင်တို့အဖို့ သက်သေလက္ခဏာတရပ်ပင်။ သို့ဖြစ်ပေရာ အသင် တို့သည် ထိုကုလားအုတ်မကိုအလ္လာဟ်အရှင်မြတ်၏ ပထဝီမြေ၌ စားသောက်နေထိုင်ရန်လွှတ်ထားကြလေကုန်။ ၎င်းပြင် အသင်တို့သည် ယင်းကုလားအုတ်မအား အကျိုးယုတ်စေသော ရည်ရွယ်ချက်ဖြင့် မထိကြကုန်လင့်။ ထိုသို့ပြုခဲ့ကြလျှင် ချက်ချင်း ဆိုက်ရောက်လာမည်ဖြစ်သောပြစ်ဒဏ်သည် အသင်တို့အား ဖမ်းဆီး (ကွပ်မျက်) အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

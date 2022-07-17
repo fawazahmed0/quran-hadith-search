@@ -710,6 +710,12 @@ I se srazhavaĭte po pŭtya na Allakh s onezi, koito se srazhavat s vas, i ne p
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉ဝ။	အလ္လာဟ်အရှင်မြတ်၏ သာသနာတော်ကြောင့် သင်တို့ကို စစ်မက်ပြိုင်ဆိုင်တိုက်ခိုက်သူတို့အား သင်တို့သည် တိုက်ခိုက်ကြလော့။ သို့သော် သင်တို့သည် စစ်ကိုစတင်၍ မတိုက်ခိုက်ကြလင့်။ ကြည့်ကြလော့။ အလ္လာဟ်အရှင်မြတ်သည်ကျူးလွန်သူတို့ကို နှစ်သက်တော်မမူပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်တဝ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ် ၏ လမ်းတော်၌ အသင်တို့ကို (စတင်) စစ်မက်ပြိုင်ဆိုင် တိုက်ခိုက်သူတို့နှင့် ပြိုင်ဆိုင်တိုက် ခိုက်ကြကုန်လော့။ သို့ရာတွင် (ဤသို့တိုက်ခိုက် ရာ၌) အသင်တို့သည် (မည်သည့်နည်းနှင့်မျှ) မကျူးလွန်ကြကုန်လင့်။ ဧကန်မုချ အလ္လာဟ်အရှင်မြတ် သည် ကျူးလွန်သူတို့ကို နှစ်သက်တော်မူသည် မဟုတ်ချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

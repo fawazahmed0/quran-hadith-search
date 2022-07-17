@@ -710,6 +710,12 @@ Rekokha: “Iskame da yadem ot neya i da se uspokoyat sŭrtsata ni, i da znaem, 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၃။	သူတို့က အို-အီဆာ အကျွနု်ပ်တို့သည် ထိုစားပွဲမှ အစားအစာကို မှီဝဲသုံးစွဲချင်လှကြ၏။ သို့မှသာလျှင် အကျွနု်ပ်တို့၏စိတ်များ ရှင်းသွားပြီးလျှင် သင်သည် အကျွနု်ပ်တို့အား မှန်သောစကားဆိုကြောင်းကို သိရပါမည်။ ဤအကြောင်းကို သက်သေလည်းခံနိုင်ပါမည်ဟု ပြောဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို (ဟဝါရီ) များက “ကျွန်တော်မျိုးတို့သည် ထို (စားပွဲတွင်ပါရှိလေသော) စားဖွယ်ကို (‘ဗရ်ကသ်’ မင်္ဂလာရှိစေခြင်းအားဖြင့်) စားသုံးခြင်းငှာလည်းကောင်း၊ ကျွန်တော်မျိုးတို့၏ စိတ်နှလုံးများ နှစ်သိမ့်ကျေနပ်ခြင်းငှာလည်းကောင်း၊ အသင် (တမန်တော်အီစာ) သည် ကျွန်တော်မျိုးတို့အား (မိမိ နဗီတမန်တော်ဖြစ်ကြောင်း) မှန်ကန်စွာပြောဆိုခဲ့သည်ကို (ကိုယ်တွေ့မျက်မြင်) ကောင်းမွန်စွာ ယုံကြည်ခြင်း ငှာလည်းကောင်း၊ ထို (တန်ခိုးပြာဋိဟာ) နှင့်စပ်လျဉ်း၍ ကျွန်တော်မျိုးတို့သည် အသိသက်သေဖြစ်ခြင်းငှာလည်းကောင်း ရည်စူးကြပါသည်” ဟု ပြန်ကြားကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

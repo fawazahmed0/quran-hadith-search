@@ -710,6 +710,12 @@ I opazi gi ot zlinite! I kogoto opazish ot zlinite v tozi Den, nego si pomilval.
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉။	သူတို့ကို မကောင်းမှုအပေါင်းတို့မှ ကာကွယ်စောင့်ရှောက်တော်မူပါ၊ အကြင်သူတို့အား အရှင်သည် ထိုနေ့တော် ကြီး၌ ဆင်းရဲဒုက္ခအပေါင်းတို့မှ ကယ်နှုတ်တော်မူအ့ံ၊ ထိုသူတို့အပေါ်၌ အရှင်သည် ကောင်းကြီးမင်္ဂလာမိုးတော် ကို သွန်းလောင်းတော်မူပါ၏၊ ထိုကယ်နှုတ်တော်မူခြင်းသည် အလွန်ကြီးကျယ်မြင့်မြတ်သောအောင်ဆုမင်္ဂလာ တော်ကြီး မုချဧကန်ဖြစ်ပါ၏၊ အရှင်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး အရှင်မြတ်သည် ၎င်းတို့အား ဘေးဒုက္ခတို့မှလည်း လွတ်ကင်းစေတော်မူပါ။ စင်စစ်သော်ကား အရှင်မြတ်သည် ထိုနေ့တွင် အကြင်သူအား ဘေးဒုက္ခတို့မှ ကင်းလွတ်စေတော်မူခဲ့ပါလျှင် အရှင်မြတ်သည် အမှန်စင်စစ် ထိုသူအား သနားကရုဏာပြုတော်မူခဲ့သည်သာ။ စင်စစ်သော်ကား ဤသည်သာလျှင် ကြီးကျယ်မြင့်မြတ်လှစွာသော အောင်မြင်မှုတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

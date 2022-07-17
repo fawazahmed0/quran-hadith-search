@@ -710,6 +710,12 @@ Pitaĭ gi koĭ ot tyakh e porŭchitel za tova
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၀။ အို-တမန်တော်၊ သူတို့အား သူတို့အနက် မည်သူသည် ထိုအချက်အလက်များမှန်ကန်ကြောင်း သက်သေခံမည် နည်းဟု မေးလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) အသင်သည် ၎င်းတို့အား ၎င်းတို့အနက် ယင်းသည့် ဝန်ခံချက်နှင့်စပ်လျဉ်း၍ တာဝန်ယူ အာမခံသောသူသည် မည်သူနည်းဟု မေးမြန်းပါလေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Vizh kak te upodobikha i se zabludikha, i veche sa nesposobni da nameryat pŭtya
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၈။	သူတို့သည် သင့်အတွက် အဘယ်ဥပမာများကို ဆောင်ကြသည်ကို ကြည့်ရှုလော့။ သူတို့သည် လမ်းမှားကြ၏။ လမ်းမှန်ကို မတွေ့နိုင်ကြချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) ၎င်းတို့သည် အသင်နှင့်ပတ်သက်၍ မည်သို့သောပုံဆောင်ချက်များကို ခိုင်းနှိုင်း ခဲ့ကြသည်ကို အသင်ရှုပါလေ။ ထို့ကြောင့်ပင် ၎င်းတို့သည် လမ်းလွဲခဲ့ကြချေပြီ။ သို့ဖြစ်ပေရာ ၎င်းတို့သည် မည်သည့်(ထွက်)လမ်းကိုမျှပင် တွေ့ရှိနိုင်ကြတော့မည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Shte bŭdat obsluzhvani s blyuda ot zlato i s chashi, i shte ima v tyakh, kakvot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၁။	စားသောက်ဖွယ်တို့ကို ရွှေပန်းကန်၊ ရွှေဖလား၊ ရွှေတကောင်းးတွင် ထည့်ပြီးလျှင် သူတို့အား ကျွေးမွေးကြလတ့ံ၊ ဝိညာဉ်တို့လိုလားသောအရာခပ်သိမ်းအားလုံးသည် ရှိကြ၏၊ မျက်စိသာယာခြင်းလည်း ရှိ၏၊ သင်တို့သည် ဥယျာဉ်တော်၌ ထာဝရစံမြန်းကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့၏ရှေ့ဝယ် ရွှေပန်းကန်ပြားများသည်လည်းကောင်း၊ သောက်ရေဖလားများသည်လည်းကောင်း၊လည်ပတ်လျက် ရှိကြပေမည်။ ထိုမှတစ်ပါး ယင်းသုခဘုံ၌ စိတ်အလိုဆန္ဒရှိသမျှတို့သည်လည်းကောင်း၊ မျက်စိအရသာခံစားအံ့သော အကြောင်းအရာတို့သည်လည်းကောင်း၊ ရှိကြပေမည်။၎င်းပြင် အသင်တို့သည် ယင်းသုခဘုံ၌ အမြဲထာဝရ နေထိုင်ကြမည်ပင် ဖြစ်ကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Rekokha: “Predchuvstvame zlochestie ot vas. Ako ne prestanete, shte vi prebiem
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	မြို့သားတို့က တဖန်ဆိုကြသည်မှာ ငါတို့ကား သင်တို့ထံမှ ဘေးဘယာကျရောက်မည့်နိမိတ်လက္ခဏာဆိုးကိုသာ မြင်ရ၏၊ သင်တို့သည် မိမိတို့တရားဟောပြောခြင်းကို မရပ်စဲပါလျှင် ငါတို့သည် သင်တို့အား မုချဧကန်ကျောက်ခဲ နှင့်ထုအ့ံ၊ အလွန်ပြင်းထန်သည့်ညှင်းပန်းမှုကို မချွတ်ဧကန်ပြုကြလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမြို့သူမြို့သားတို့က ပြောဆိုခဲ့ကြကုန်၏။ "အမှန်စင်စစ် ကျွန်ုပ်တို့သည် အသင်တို့အား အမင်္ဂလာဟု ယူဆကြကုန်၏။ (သို့ဖြစ်ပေရာ)အကယ်၍ အသင်တို့သည် (ဆုံးမဩဝါဒပေးခြင်းကို)ရပ်စဲခြင်း မပြုကြပါလျှင် မုချအမှန် ကျွန်ုပ်တို့သည် အသင်တို့အား ခဲများဖြင့်ပစ်ပေါက်၍ သတ်ကြပေမည်။ ထိုမှတစ်ပါး ကျွန်ုပ်တို့ထံမှ အသင်တို့၌ ပြင်းပြနာကျင်ဖွယ်ဖြစ်သော ပြစ်ဒဏ်သည်လည်း မလွဲဧကန် သက်ရောက်မည်ဖြစ်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

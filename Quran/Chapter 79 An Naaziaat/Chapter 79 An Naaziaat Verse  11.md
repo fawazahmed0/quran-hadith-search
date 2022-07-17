@@ -710,6 +710,12 @@ nima, sled kato byakhme prognili kosti?”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၀၊၁၁။ ယခုသူတို့ပြောကြသည်၊ အကျွနု်ပ်တို့သည် ဆွေးမြေ့ကြေမွသောအရိုးများဖြစ်ပြီးနောက် နဂိုရ်မူလအတိုင်းအမှန်ပင် ဖြစ်ရဥိးမည်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ကျွန်ုပ်တို့သည် ဆွေးမြည့်သော အရိုးများသာကျန်ရှိသောအခါ (မူလအတိုင်း ပြန်လည်ရှင်ကြရဦးမည်)လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

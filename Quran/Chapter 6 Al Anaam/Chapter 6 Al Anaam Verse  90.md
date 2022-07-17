@@ -710,6 +710,12 @@ Njih je Allah uputio, i zato slijedi njihov put. Reci: "Ja od vas ne tražim nag
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၀။	သူတို့သည် အလ္လာဟ်အသျှင်မြတ် လမ်းပြတော်မူခြင်းခံရသောသူတို့ ဖြစ်ကြ၏။ ထို့ကြောင့် သူတို့၏ လမ်းညွှန်ရှေ့ဆောင်ချက်ကို လိုက်နာကြလော့။ အို-မိုဟမ္မဒ် သင်သည် လူသားတို့အား ''ဟယ်-အချင်းတို့ အကျွနု်ပ်သည် သင်တို့ထံမှ တရားဟောခမတောင်းပေ'' မှတ်သားကြလော့။ ကုရ်အာန် ကျမ်းတော်သည် လူသားတို့အား သတိပေးတရားတော်မှတစ်ပါး တစ်စုံတစ်ရာမဟုတ်ပေဟု ဟောပြောကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဤသူများပင် အကြင်သူများတည်း။ အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့အား တရားလမ်းမှန်သို့ ပို့ဆောင်တော်မူပြီးဖြစ်၏။ သို့ဖြစ်ပေရာ အသင် သည်လည်း ၎င်းတို့၏လမ်းစဉ်ကို လိုက်ပါလေ။ (အို-နဗီတမန်တော်) အသင်သည်(၎င်းတို့အား ဤသို့)ပြောကြားပါလေ။ ငါသည် ဤသည့် (ကုရ်အာန်ကျမ်းလာဒေသနာတော်များကို ဟောကြားခြင်း)နှင့်စပ်လျဉ်း၍ အသင်တို့ထံ တစ်စုံတစ်ရာအခကို တောင်းဆိုသည်မဟုတ်။ ယင်း(ကုရ်အာန်ကျမ်းမြတ်)သည် စကြာဝဠာခပ်သိမ်း(ရှိဝေနေယျအပေါင်း)တို့အဖို့ ဆုံးမဩဝါဒပင်ဖြစ်ချေသတည်း။(ရကူ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Da, uchudikha se, che im se yavi predupreditel izmezhdu tyakh. I rekokha neverni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	ယင်းသို့မဟုတ်ချေ၊ မိစ္ဆာဒိဋ္ဌိတို့သည် မိမိတို့ထံသို့ သတိပေးဆုံးမဖို့ရာ သူတို့သားချင်းထဲမှ တမန်တော်တစ်ပါး ပွင့်လာသည်ကို အ့ံသြကြ၏၊ ဤအရာသည် အလွန်ထူးဆန်းပေစွဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်မှာကား ၎င်းတို့သည် မိမိတို့ထံ မိမိတို့အနက်မှပင် သတိပေးနှိုးဆော်သူတစ်ဦး ရောက်ရှိ၍ လာခဲ့သည်ကိုပင် အံ့ဩလျက်ရှိနေကြကုန်၏။ သို့ဖြစ် ပေရာ ‘ကာဖိရ်’သွေဖည်ငြင်းပယ်သောသူတို့က ပြောဆိုခဲ့ကြသည်မှာ ဤသည်လွန်စွာ အံ့ဖွယ်အကြောင်းပင် ဖြစ်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Taka Nie nizposlakhme Koran na arabski i povtorikhme zaplakhata v nego, za da se
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၁၃။	အို--တမန်တော်၊ ငါသည် ကုရ်အာန်ကျမ်းတော်မြတ်ကို အာရဗီဘာသာဓမ္မဒေသနာတော်ကြီးအဖြစ်ဖြင့် ထုတ် ပြန်ချပေးတော်မူ၏။ သူတို့သည် ဒုစရိုက်မကောင်းမှုကို ရှောင်ရှားစေခြင်းငှာသော်လည်းကောင်း၊ တရားကျစေ ခြင်းငှာသော်လည်းကောင်း၊ ထိုကျမ်းတော်ကြီး၌ လူသားတို့ကို အပြစ်ဒဏ်တော်အချို့နှင့် ခြိမ်းခြောက်ထားတော် မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ဤနည်းအတိုင်းပင် ငါအရှင်မြတ်သည်ယင်း(ကျမ်းဂန်)ကို စကားပြေပြစ် ကောင်းမွန်လှသော ကုရ်အာန်ကျမ်းတော်မြတ်အဖြစ် ချပေးသနားတော် မူခဲ့လေသည်။၎င်းပြင် ငါအရှင်မြတ်သည် ယင်း ကုရ်အာန်ကျမ်းတော်မြတ်တွင် ခြိမ်းခြောက်မှုများကို အနည်းနည်းအဖုံဖုံ မိန့်ကြားတော်မူခဲ့လေသည်။ သို့မှသာလျှင် ၎င်းတို့သည် ကြောက်ရွံ့ကြပေမည်။ သို့တည်းမဟုတ် ယင်းကုရ်အာန်ကျမ်းတော်မြတ်သည် ၎င်းတို့၌ (အသိတရား) သတိတရားကို ဖြစ်ပေါ်စေမည်ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

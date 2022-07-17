@@ -710,6 +710,12 @@ I ako vseki, koĭto e ugnetitel, pritezhavashe vsichko na zemyata, shteshe da s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၄။	ပြစ်မှုကျူးလွန်ခဲ့သည့်ဝိညာဉ်တိုင်းသည် ကမ္ဘာပေါ်ရှိ ဥစ္စာပစ္စည်းအားလုံးကို ပိုင်ဆိုင်လျှင်၊ ၎င်းသည် ထိုပစ္စည်း အားလုံးကို ပေး၍ မိမိကိုယ်ကို ရွေးယူလိုကြ၏။ သူတို့သည် အပြစ်ဒဏ်တော်ကို မြင်ရသောအခါ ဝိညာဉ်တို့သည် တရားသံဝေဂရလိမ့်မည်၊ သို့သော်သူတို့အလည်တွင် တရားသဖြင့်စီရင်ဆုံးဖြတ်ပြီး သူတို့ကို မတရားနှိပ်စက်သည် မဟုတ်ချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အကယ်၍ (မိမိတို့ကိုယ်ကိုမိမိတို့ပင်)နှိပ်စက်ကလူ ပြုကြကုန်သော(မုရှ်ရစ်က်ဘုရားများကိုးကွယ်)သူအသီးသီးတို့တွင် ကမ္ဘာအဝှန်းနှင့်အမျှ အရာအားလုံးပိုင်ခဲ့လျှင်ထိုအရာအားလုံးတို့ကို လျော်ကြေးအဖြစ်ပေး(၍ပြစ်ဒဏ်မှလွတ်မြောက်) လိုကြပေအံ့။ ၎င်း ပြင် ထိုသူတို့သည် ပြစ်ဒဏ်ကို(ဦးစွာပထမ) မြင်ကြရသောအခါတွင် (မိမိတို့) နောင်တရ(ဝမ်းနည်း)ကို လျှို့ဝှက်ကြကုန်အံ့။ ထို့ပြင် (ထိုနေ့တွင်)၎င်း တို့၏အကြားဝယ် တရားမျှတစွာ စီရင်ဆုံးဖြတ်ပြီးဖြစ်အံ့။ စင်စစ်သော်ကား ၎င်း တို့သည် မတရားပြုလုပ်ခြင်းကို အလျဉ်းခံကြရမည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

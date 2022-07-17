@@ -710,6 +710,12 @@ I povelikhme na choveka da se otnasya dobre s roditelite si. A ako te prinuzhdav
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။	ငါသည် လူသားအား မိမိ၏မိဘနှစ်းပါးကို သနားကြင်နာရမည်ဟု ပညတ်တော်မူ၏၊ သို့သော်သူတို့က သင့်အား မိမိမသိသောအရာတို့ကို ငါနှင့်တွဲဖက်ရှိခိုးပူဇော်ခိုင်းသော် သင်သည် သူတို့စကားကို နားမထောင်လင့်၊ သင်တို့ အားလုံးသည် ငါ့အထံတော်သို့ ပြန်လာကြရမည်သာတည်း၊ ထိုအခါသင်တို့အား သင်တို့ပြုကျင့်လေ့ရှိသော အရာများကို ငါမိန့်ကြားတော်မူလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အမှန်စင်စစ် ငါအရှင်မြတ်သည် လူသားအား(ဤသို့)အမိန့်ပေးတော်မူ၏။ အသင်သည် မိမိ၏ မိဘနှစ်ပါးတို့အား ကောင်းစွာပြုစုရမည်။ သို့ရာတွင် အကယ်၍ အသင်၌ အသိပညာ(သက်သေအထောက်အထား) မည်သည့်တစ်စုံတစ်ရာမျှ မရှိသောအရာကို အသင့်အား ငါအရှင်မြတ်နှင့် တွဲဖက်နှိုင်းယှဉ်ကိုးကွယ်ရန် ထိုမိဘနှစ်ပါးက ကြိုးပမ်းအားထုတ်ခဲ့ကြလျှင် အသင်သည်(ယင်းတွဲဖက် ကိုးကွယ်မှုနှင့်စပ်လျဉ်း၍) ထိုမိဘနှစ်ပါး၏ စကားကို မလိုက်နာလေနှင့်။ အသင်တို့အားလုံးသည် ငါအရှင်မြတ်အထံတော်သို့ ပြန်လာကြရပေမည်။ ထိုအခါ ငါအရှင်မြတ်သည် အသင်တို့အား အသင်တို့ ပြုမူလျက်ရှိခဲ့ကြကုန်သော အမှုကိစ္စ(အလုံးစုံ)တို့နှင့်စပ်လျဉ်း၍ အသိပေးတော်မူမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

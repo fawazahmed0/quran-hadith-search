@@ -710,6 +710,12 @@ Bogoboyazlivite shte bŭdat sred senki i izvori
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၁။ တာဝန်ဝတ္တရားကို ကျေပွန်သူတို့မှာမူကား အေးချမ်းသာယာသောအရိပ်အာဝါသများနှင့် စိမ့်စမ်းချောင်းမြောင်း အလယ်တွင် ခံစားနေကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ "မွတ္တကီ" သူတော်စင်တို့သည် အရိပ်အာဝါသများ၌လည်းကောင်း၊ စမ်းများ၌လည်းကောင်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

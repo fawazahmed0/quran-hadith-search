@@ -710,6 +710,12 @@ nebesata edva ne se raztsepvat otgore i angelite proslavyat s vŭzkhvala svoya G
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅။	ကောင်းကင်တမန်တော်များ၏ ရင့်ကျူးသံ၊ ဆုတောင်းသံများကြောင့် ကောင်းကင်ဘုံများသည် ပြိုကွဲလုဘနန်း ရှိကြသည်၊ ကောင်းကင်တမန်များသည် သူတို့၏အရှင်သခင်၏ ဂုဏ်ကျေးဇူးတော်တို့ကို ရင့်ကျုးကြ၏၊ ကမ္ဘာ မြေပေါ်ရှိ ဝေနေယျသတ္တဝါအပေါင်းတို့ အပြစ်ချမ်းသာရအောင် ဆုတောင်းကြ၏၊ မှတ်သားကြလော့၊ အရှင် မြတ်သည် အဖန်တလဲလဲအပြစ်လွှတ်တော်မူသောအရှင်၊ အနန္တကောင်းကြီးမင်္ဂလာတော်သခင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မိုးကောင်းကင်များသည် မိမိတို့အပေါ်မှ အက်ကွဲပြိုကျအံဆဲဆဲ ဖြစ်ကုန်၏။ ၎င်းပြင် မလာအိကဟ် ကောင်းကင်တမန်တို့သည် မိမိတို့ကို ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်အား ချီးမွမ်းထောပနာပြုခြင်းနှင့်တကွ (ထိုအရှင်မြတ်)စင်ကြယ်သန့်ရှင်းတော်မူကြောင်း မြွက်ဆိုလျက်ရှိကြသည့်ပြင် တို့သည် ကမ္ဘာမြေ၌ရှိသူတို့အဖို့ လွတ်ငြိမ်းချမ်းသာခွင့် ကိုလည်းပန်ကြားလျက်ရှိကြကုန်၏။ သတိပြုကြလေကုန်၊ ဧကန်အမှန်အလ္လာဟ်အရှင်မြတ်သည်ပင် အလွန်တရာခွင့်လွှတ်တော်မူသောအလွန်တရာသနားကြင်နာတော်မူသော အရှင်ဖြစ်တော်မူ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

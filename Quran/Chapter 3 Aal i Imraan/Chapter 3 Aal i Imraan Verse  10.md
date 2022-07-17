@@ -710,6 +710,12 @@ Onezi, koito ne vyarvat, s nishto ne shte gi izbavyat ot Allakh nito imotite, ni
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	ထိုနေ့တော်ကြီး၌ မိစ္ဆာဒိဋ္ဌိတို့၏ ဥစ္စာပစ္စည်းသော်လည်းကောင်း၊ သားသမီး အခြွေအရံတို့သော် လည်းကောင်း၊ အလ္လာဟ်အရှင်မြတ်၏ မျက်မှောက်ဝယ် ထိုသူတို့ကို အကျိုးမပြုစွမ်းနိုင်ပေ။ သူတို့သည် ငရဲမီးအတွက် ထင်းသာဖြစ်ကြရမည်။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် မယုံမကြည် သွေဖည်ငြင်းပယ်သောသူတို့၏ ပစ္စည်းဥစ္စာရတနာများသည် လည်းကောင်း၊ယင်းသူတို့၏ သားသမီးရတနာများသည် လည်းကောင်း၊ယင်းသူတို့အဖို့ (ရှင်ပြန်ထမည့်နေ့၌) အလ္လာဟ်အရှင်မြတ်၏ပြစ်ဒဏ်မှ (ကာကွယ်ရန်) စိုးစဉ်းမျှပင် အသုံးဝင်မည်မဟုတ်ချေ။ စင်စစ် သော်ကား ယင်းသူတို့သည် ဂျဟန္နမ် ငရဲမီး၏လောင်စာများသာ ဖြစ်ကြလတ္တံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

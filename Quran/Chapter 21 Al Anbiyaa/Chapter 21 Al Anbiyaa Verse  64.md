@@ -710,6 +710,12 @@ Togava te, kato doĭdokha na sebe si, rekokha: “Naistina vie ste ugnetitelite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၄။	ထိုအခါ သူတို့သည် အေဗရာဟမ်ထံမှ ခွဲခွာလျက် စည်းဝေးပြီးလျှင် မှတ်သားကြလော့၊ သင်တို့ပင်လျှင် အမှားပြုသူများဖြစ်ကြ၏ဟု ဆိုကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအခါ ယင်းအမျိုးသားတို့သည် မိမိတို့၏စိတ်ထဲတွင် တွေးတောစဉ်းစားခဲ့ကြလေသည်။ ထို့နောက် ၎င်းတို့သည် (မိမိတို့အချင်းချင်း) "အသင်တို့ သည်သာလျှင်အမှားကိုကျူးလွန်သူများဖြစ်ကြသည်" ဟု (ထုတ်ဖော်) ပြောဆိုခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

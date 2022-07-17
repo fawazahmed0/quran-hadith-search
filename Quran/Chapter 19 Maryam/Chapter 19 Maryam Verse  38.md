@@ -710,6 +710,12 @@ Kak shte chuvat i vizhdat v Denya, kogato doĭdat pri Nas! Ala ugnetitelite dne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၈။	ငါအရှင်မြတ်ထံတော်သို့ ဝင်ရသောနေ့တော်ကြီး၌ သူတို့ကို ကြည့်လော့၊ နားထောင်လော့၊ သို့သော်လည်း မကောင်းမှုကျူးလွန်သူတို့သည် ယနေ့မူကား ထင်ရှားစွာမှားယွင်းနေကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ငါအရှင်မြတ်ထံတော်သို့ လာကြသောနေ့တွင် အဘယ်မျှလောက် ကြားသူများ၊ အဘယ်မျှလောက် မြင်သူများ ဖြစ်သွားကြအံ့နည်း။ သို့ရာတွင် ယနေ့သော်ကား မတရားကျူးလွန်သူတို့သည် အလွန်ထင်ရှားစွာသောလမ်းမှားမှု၌ပင် ရှိနေကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

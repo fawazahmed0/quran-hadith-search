@@ -710,6 +710,12 @@ A kak ne vyarvate, kogato vi bivat cheteni znameniyata na Allakh i sred vas e Ne
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ၁။	အလ္လာဟ်၏ သက်သေသာဓကတော်များကို ရွတ်ပြပါလျှက် အသျှင်မြတ်၏တမန်တော်သည် သင်တို့အထဲ၌ရှိပါလျက် သင်တို့သည် အဘယ်ကြောင့် မယုံကြည်နိုင်သနည်း။ အကြင်သူသည် အလ္လာဟ်အား မြဲစွာဆည်းကပ်၏။ ထိုသူသည် လမ်းမှန်ကို ညွှန်ပြခြင်းခံရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အသင်တို့သည် မည်သည့်နည်းဖြင့်မယုံမကြည် သွေဖည် ငြင်းပယ်နိုင်ကြအံ့နည်း။ စင်စစ်တမူကား အလ္လာဟ်အရှင်မြတ်၏ အာယသ်တော်များလည်းအသင်တို့ရှေ့ဝယ် ဖတ်ကြားလျက်ရှိ၏။ ထိုမှတစ်ပါး ထို(အလ္လာဟ်)အရှင်မြတ်၏ ရစူလ် တမန်တော် [မုဟမ္မဒ်(ဆွ)]သည်လည်း အသင်တို့အတွင်း၌ ရှိနေလေပြီ။ စင်စစ်သော်ကားမည်သူမဆို အလ္လာဟ်အရှင်မြတ်ကို မြဲမြံစွာ ဖက်ကိုင်၍ ထားပါလျှင် ထိုသူသည် ဖြောင့်မတ်မှန်ကန်သောတရားလမ်းစဉ်သို့ဧကန်မလွဲ ညွှန်ကြားပြသခြင်း ခံရလတ္တံ့။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

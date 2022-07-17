@@ -710,6 +710,12 @@ Ustroĭva khramovete na Allakh samo onzi, koĭto vyarva v Allakh i v Setniya d
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	အကြင်သူသည် အလ္လာဟ်အရှင်မြတ်နှင့် နောက်ဆုံးနေ့တော်ကြီးကို ယုံကြည်၏။ဆွလဝတ်ပြု၏။ဇကတ်အလှု ကို လှု၏။အလ္လာဟ်အရှင်မြတ်မှတပါး မည်သူ့ကိုမျှ မကြောက်ရွံ့။ထိုသူသာလျှင် အရှင်မြတ်၏ ဘေးမဲ့ပလီ ဝတ်ကျောင်းတော်များ၏ ဂေါပကလူကြီးဖြစ်ရမည်။ဤလူမျိုးအစားသာလျှင် လမ်းမှန်ကို ညွှန်ပြခြင်းခံရသူတို့ ဘောင်၌ ပါဝင်နိုင်ရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အလ္လာဟ်အရှင်မြတ်၏ ဗလီကျောင်းတော်များကို အကြင်သူတို့သည်သာလျှင် စည်ကားသာယာအောင် ပြုနိုင်ကြပေသည်။ ထိုသူတို့သည် အလ္လာဟ်အရှင်မြတ်ကိုလည်းကောင်း၊ နောက်ဆုံးနေ့ကိုလည်း ကောင်း၊ ယုံကြည်ကြသည့်ပြင်ထိုသူတို့သည် စွဲမြဲစွာ ‘ဆွလာတ်’ ဝတ်ပြုမှုကိုလည်းကောင်း၊’ဇကာတ်’ တရားဝင်ဒါနကြေး ပေးဆောင်ခြင်းကိုလည်းကောင်း၊ပြုကြကုန်သည်။ ထိုမှတစ်ပါး အလ္လာဟ်အရှင်မြတ်အပြင် မည်သူတစ်ဦးတစ်ယောက်ကိုမျှ ကြောက်ရွံ့ကြသည်လည်း မရှိချေ။သို့ဖြစ်ပေရာ ၎င်းတို့သည် တရားလမ်းမှန် ရရှိမျှော်လင့်ကြရာပေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

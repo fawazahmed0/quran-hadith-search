@@ -710,6 +710,12 @@ V sŭtvoryavaneto na nebesata i na zemyata, i v promyanata na noshtta i denya im
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉ဝ။	မှတ်သားကြလော့။ မိုးကောင်းကင်နှင့် ကမ္ဘာမြေကြီးကို ဖန်ဆင်းတော်မူခြင်း၌သော်လည်းကောင်း၊ ညဉ့်နှင့်နေ့ကို ခြားနားတော်မူခြင်း၌သော်လည်းကောင်း၊ ဉာဏ်ပညာရှင်တို့အဖို့ရာ သက်သော သာဓကများပါရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် အာကာသကောင်းကင်ဘုံများနှင့်ကမ္ဘာမြေကို ဖန်ဆင်းတော်မူရာ၌လည်းကောင်း၊ နေ့နှင့်ညဉ့်တို့၏ ပြောင်းလဲမှု၌လည်းကောင်း နိသမ္မဉာဏ်ရှင်များအဖို့(တစ်ဆူတည်းဖြစ်တော် မူသောအလ္လာဟ်အရှင်မြတ်အားထင်ရှားသိစေနိုင်သော)သက်သေသာဓကများ မုချရှိပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

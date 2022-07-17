@@ -710,6 +710,12 @@ I ne sledvaĭ onova, koeto ne znaesh! I slukhŭt, i zrenieto, i sŭrtseto - za 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	အို-လူသား၊ သင်သည် မိမိမသိနားမလည်သောအရာတစုံတခုကို သိနားလည်သကဲ့သို့ မပြောမဆိုမပြုလုပ်လင့်။ မှတ်သားလော့။ နား၊ မျက်စိနှင့် စိတ်နှလုံးအားလုံးပင် စစ်ကြောမေးမြန်းခြင်းကို ခံရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်တစ်ဝအသင်သည်မိမိမသိသောအကြောင်းအရာ၏ နောက်သို့ မလိုက်လေနှင့်။ ဧကန်မလွဲ နား၊ မျက်စိ၊စိတ်နှလုံး ဤအသီးသီးတို့သည် ၎င်းအသီးသီးတို့နှင့် စပ်လျဉ်း၍စုံစမ်းမေးမြန်းခြင်းကို ခံရမည်သာတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

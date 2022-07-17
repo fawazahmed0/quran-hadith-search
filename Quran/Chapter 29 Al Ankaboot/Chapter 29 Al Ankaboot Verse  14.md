@@ -710,6 +710,12 @@ I izpratikhme Nukh pri negoviya narod, i toĭ prekara sred tyakh khilyada godin
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၄။	ငါသည် တမန်တော်နူဟိုအား သူ၏အမျိုးသားတို့ထံ ငါ၏ တမန်တော်အဖြစ်ဖြင့် မုချစေလွှတ်တော်မူ၏၊ သူ သည် ထိုသူများနှင့်အတူတကွ နှစ်ပေါင်းတစ်ထောင်တွင် ငါးဆယ်လျော့တိုင်အောင်နေ၏၊ ထို့နောက်သူတို့သည် အကုသိုလ်မကောင်းမှုကျူးလွန်သူများဖြစ်သောကြောင့် သူတို့ကို ရေမျို၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် မလွဲဧကန် ငါအရှင်မြတ်သည် ‘နူဟ်’အား ၎င်း၏အမျိုးသားတို့ထံ(ရစူလ်တမန်တော်အဖြစ်)စေလွှတ်တော်မူခဲ့ရာ ထိုနူဟ်သည် ၎င်းတို့တွင် နှစ်ပေါင်းကိုးရာငါးဆယ်တိုင်တိုင် နေထိုင်ခဲ့လေ၏။ ထို့နောက် ရေလွှမ်းမိုးခြင်း(ပြစ်ဒဏ်)သည် ၎င်းအမျိုးသားတို့အား ဖမ်းဆီးကွပ်မျက်ခဲ့လေ၏။ အမှန်သော်ကား ထိုအမျိုးသားတို့မှာ မတရားသောသူများပင် ဖြစ်ခဲ့ကြကုန်၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

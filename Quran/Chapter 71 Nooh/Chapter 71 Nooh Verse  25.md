@@ -710,6 +710,12 @@ Zaradi svoite grekhove te byakha izdaveni i vŭvedeni v Ogŭnya, i ne namerikha 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၅။ သူတို့သည် မိမိတို့အပြစ်များကြောင့် ရေတွင် နစ်မြုပ်သေဆုံးကြရ၏၊ ထို့နောက်အဝီစငရဲသို့ လားကြရ၏၊ ၄င်းအပြင်ထိုသူတို့သည် မိမိတို့မှာ အလ္လာဟ်အရှင်မြတ်အစား အခြားကူညီသူများမရှိကြောင်းသိကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် မိမိတို့၏ပြစ်မှုတို့ကြောင့်ပင် နစ်မြှုပ်စေခြင်းကို ခံခဲ့ကြရလေ၏။ တစ်ဖန် ၎င်းတို့သည် ငရဲမီးထဲသို့ ဝင်ရောက်စေခြင်းကို ခံခဲ့ကြရကုန်၏။ သို့ဖြစ်ပေရာ ၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ်နှင့် ယှဉ်ပြိုင်၍ ကူညီစောင်မအံ့သောသူများဟူ၍ တစ်ဦးတစ်ယောက်မျှပင် တွေ့ရှိခဲ့ကြသည်မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

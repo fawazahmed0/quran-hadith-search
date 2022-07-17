@@ -710,6 +710,12 @@ I kogato razdelikhme za vas moreto na dve i vi izbavikhme, i izdavikhme khorata 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅ဝ။	၎င်းပြင် သင်တို့အား ပင်လယ်ကို ဖြတ်ကျော်ယူဆောင်၍ ကယ်တင်တော်မူခြင်း၊ သင်တို့ မျက်မှောက် ၌ ဖာရောမင်း၏လူများကို ရေတွင်နစ်မြုပ်သေဆုံးစေတော်မူခြင်း စသည့် ငါ့ကျေးဇူးတော်များကို သင်တို့ သတိရကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-အစ္စရာအီလီမျိုးနွယ် အပေါင်းတို့၊ ပြန်လည်အောက်မေ့ သတိရကြကုန် ) တရံရောအခါ၊ ငါအရှင်သည်(အသင် တို့ကူးဖြတ် လျှောက်သွား နိုင်ကြရန်အလို့ငှာ) ပင်လယ်ကိုပင်ခွဲ၍ အသင်တို့အား ဖိရ်အောင်န်၏ အခြွေအရံတို့၏ဘေးမှ ကယ်တင်တော်မူခဲ့၏။ ထို့နောက် ဖိရ်အောင်န်၏အခြွေအရံများကို ငါအရှင်သည်(အသင့်တို့ မျက်မှောက်၌ပင်)နှစ်မြှုပ်တော်မူလိုက်သည်။ ထိုအချိန် အသင်တို့သည် မိမိတို့ကိုယ်တိုင် (ဤအချင်းအရာများကို) ကြည့်နေကြကုန်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

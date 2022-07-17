@@ -710,6 +710,12 @@ I slovata mu: “O, Gospodi moĭ, tezi sa khora nevyarvashti!...”
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၈။	အို-အကျွနု်ပ်၏ အသက်သခင်ကျေးဇူးရှင်၊ အစစ်အမှန်ဤသူများသည် မယုံကြည်သူမိစ္ဆာဒိဋ္ဌိများဖြစ်ကြပါ၏ဟု တမန်တော်သည် ငိုကြွေးတိုင်တန်း၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်၊ ဤအမျိုးသားတို့မှာ "အီမာန်"သက်ဝင်ယုံကြည်ခြင်း မရှိကြသော အမျိုးသားတို့ပင် ဖြစ်ကြပါသည်ဟူသော ရစူလ်တမန်တော် လျှောက်ထားချက်ကိုလည်း (ထိုအရှင်မြတ်သည် သိရှိတော်မူသည်)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

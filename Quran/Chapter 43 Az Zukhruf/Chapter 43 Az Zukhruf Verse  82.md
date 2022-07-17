@@ -710,6 +710,12 @@ Prechist e Gospodŭt na nebesata i na zemyata, Gospodŭt na Trona, ot onova, koe
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၂။	ကောင်းကင်များနှင့် ကမ္ဘာမြေကြီး၏ အရှင်သခင်၊ ရာဇပလ္လင်တော်၏ အရှင်သခင်သည် မိစ္ဆာဒိဋ္ဌိတို့တွဲဖက်သော အရာများမှ သန့်ရှင်းစုံလင်တော်မူသောအနန္တဂုဏ်တော်ရှင်ဖြစ်တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မိုးကောင်းကင်များကိုလည်းကောင်း၊ ကမ္ဘာမြေကိုလည်းကောင်း၊ ဖန်ဆင်းတော်မူသောအရှင်၊ "အရ်ရှ်" ပလ္လင်တော်ကိုလည်း ဖန်ဆင်းတော်မူသောအရှင် ဖြစ်တော်မူသည်။(မုရှ်ရစ်က်)တို့ ကြံဖန်(စွပ်စွဲ) ပြောဆိုကြသော စွပ်စွဲချက်တို့မှ(လုံးဝ)ကင်းရှင်း စင်ကြယ်တော်မူသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

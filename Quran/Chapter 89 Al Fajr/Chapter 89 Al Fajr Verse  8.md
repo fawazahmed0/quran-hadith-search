@@ -710,6 +710,12 @@ podobni na koito ne byakha sŭtvoreni po zemite
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈။ ထို(အေရမ်)မြို့ကဲ့သို့ ခမ်းနားကြီးကျယ်သောမြို့ကို မြေကြီးပေါ်၌ တဖန်ဖန်ဆင်းတော်မမူချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ကမ္ဘာပေါ်ရှိ) မြို့ရွာများတို့တွင် (မည်သူမျှ ပင်)၎င်းတို့ကဲ့သို့ ဖန်ဆင်းခြင်းခံခဲ့ရသည် မဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

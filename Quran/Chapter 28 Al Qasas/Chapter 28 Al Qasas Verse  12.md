@@ -710,6 +710,12 @@ Izpŭrvom povelikhme Nie da otkazva da suche. I reche tya: “Da vi posocha li s
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂။	ထိုအခါငါသည် အထက်က မူစာ၌ နို့တိုက်အမိမရှိအောင် စီရင်ထားတော်မူ၏၊ ထို့ကြောင့်သူ၏အစ်မရောက်သော အခါ သူမက သင်တို့အား သူ့ကို နို့တိုက်မွေးမြူမည့်သူကို ညွှန်ပြရမည်လောဟု မေး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ငါအရှင်မြတ်သည် မူလကပင် ထိုမူစာ၏အပေါ်၌ နို့ထိန်းသည်တို့၏နို့ရည်ကို (မစို့ရန်) တားမြစ်ထားတော်မူခဲ့၏။ သို့ဖြစ်ပေရာ ထို(မူစာ၏) အစ်မက ကျွန်ုပ်သည် အသင်တို့အား ထိုကလေးသူငယ်ကို အသင်တို့အဖို့ မွေးမြူစောင့်ရှောက်၍ ပေးကြမည့်ပြင်၊ ထိုကလေးသူငယ်၏ ကောင်းကျိုးကို လိုလားသူများဖြစ်ကြသော အိမ်ထောင်သားချင်းတို့ကို ညွှန်ပြရပါမည်လောဟု ဆိုခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

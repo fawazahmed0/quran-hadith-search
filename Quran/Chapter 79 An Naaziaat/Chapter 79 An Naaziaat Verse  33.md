@@ -710,6 +710,12 @@ za polzvane ot vas i ot vashiya dobitŭk
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၃။ ၄င်းအရာများသည် သင်တို့နှင့် သင်တို့၏အခြေလေးချောင်းတိရိစ္ဆာန်တို့အတွက် အစားအစာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့၏အကျိုးငှာလည်းကောင်း၊ အသင်တို့၏ကုလားအုတ်၊ ကျွဲ၊ နွားတိရစ္ဆာန်တို့၏အကျိုးငှာ လည်းကောင်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

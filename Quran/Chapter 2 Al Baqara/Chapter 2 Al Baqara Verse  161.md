@@ -710,6 +710,12 @@ A onezi, koito ne vyarvat i umirat nevernitsi, nad tyakh e proklyatieto na Allak
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၁။	ကြည့်ကြလော့။ အကြင်သူတို့သည် မယုံကြည်ကြ။ မယုံကြည်ပဲလျက် အသက်ကုန်ကြ၏။ ထိုသူတို့ အပေါ်၌ အလ္လာဟ်၊ ကောင်းကင်တမန်တော်များ၊ လူသားများအားလုံးတို့၏ ကျိန်ဆဲခြင်းစုပေါင်း ကျရောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်အမှန် အကြင်သူတို့သည် တရားဒေသနာတော်များကို မယုံမကြည်သွေဖည်ငြင်းဆန်၍ ကာဖစ်ရ် အဖြစ်နှင့်ပင်သေဆုံးကြ၏။ ယင်းသူတို့ အပေါ်၌ အလ္လာဟ် အရှင်မြတ်၏ ကျိန်ဆဲခြင်း၊ အပါးတော်စေတမန်များ (၏ ကျိန်ဆဲခြင်း၊) လူများ (၏ကျိန်ဆဲခြင်း၊) အားလုံးတို့ (၏ ကျိန်ဆဲ ခြင်းသည် ကျရောက်အံ့။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I rekokha [nevernitsite]: “Zashto ne mu byakha nizposlani i drugi znameniya ot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅ဝ။	ထို့အပြင်၎င်းမိစ္ဆာမိုက်တို့က သူ၏အရှင်သခင်သည် သူ့အား အဘယ်ကြောင့်နိမိတ်လက္ခဏာအ့ံဖွယ်တော်များကို ချပေးတော်မမူသနည်းဟု ဆိုကြ၏၊ တမန်တော် သင်ဟောကြားလော့၊ ဟယ်-အချင်းတို့၊ နိမိတ်လက္ခဏာအ့ံဖွယ် သရဲတော်များသည် အလ္လာဟ်အရှင်မြတ်၌သာ ရှိ၏၊ အကျွနု်ပ်မှာမူကား တရားဟောသတိပေးသူတမန်တော် ရိုးရိုးသာဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုမှတစ်ပါး ၎င်းတို့က "အဘယ်ကြောင့် ဤ(တမန်တော်)၏အပေါ်၌ သက်သေလက္ခဏာများ ကျရောက်လာခြင်း မရှိပါသနည်း"ဟု ပြောဆိုကြကုန်၏။ (အို-နဗီတမန်တော်) အသင်သည် (၎င်းတို့အား) ပြောကြားပါလေ။(အချင်းတို့) သက်သေလက္ခဏာများသည် အလ္လာဟ်အရှင်မြတ်၏ လက်တော်တွင်း၌သာရှိကုန်၏။ စင်စစ်မှာကား ငါသည် ထင်ရှားစွာ သတိပေးနှိုးဆော်သူ တစ်ဦးမျှသာ ဖြစ်ပေသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

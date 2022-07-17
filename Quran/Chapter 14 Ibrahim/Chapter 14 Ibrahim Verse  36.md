@@ -710,6 +710,12 @@ Gospodi moĭ, te zabludikha mnozina ot khorata. Koĭto me posledva, toĭ e s 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၆။	အို-အကျွနု်ပ်၏ အသက်သခင်ကျေးဇူးရှင်၊ သူတို့သည် များလှစွာသောလူသားတို့ကို လမ်းလွဲကို ညွှန်ပြကြပါပြီ။ သို့သော်အကြင်သူသည် အကျွနု်ပ်၏ နောက်သို့ လိုက်အ့ံ။ ထိုသူသည် အကျွနု်ပ်၏ တပည့်သားမြေးအမှန်ဖြစ်ပါ ၏။ ထို့အပြင်အကျွနု်ပ်၏ စကားကို နားမထောင်သူတို့၊ သို့ငြားသော်လည်း အရှင်မြတ်သည် အပြစ်လွှတ်တော်မူ ပါ၏။ ကောင်းကြီးမင်္ဂလာပေးသနားတော်မူပါ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အို-ကျွန်တော်မျိုးအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်။ ဧကန်မလွဲ ယင်းရုပ်ပွားဆင်းတုများသည်များစွာသောသူတို့အား လမ်းလွဲစေခဲ့ကြ ကုန်၏။ သို့ဖြစ်ပေရာမည်သူမဆို ကျွန်တော်မျိုး၏ စကားကိုနာခံခဲ့ပါလျှင် ဧကန်စင်စစ် ထိုသူသည် ကျွန်တော်မျိုး၏ အုပ်စုအနက်မှ ဖြစ်ပါသည်။သို့ရာတွင် မည်သူမဆို ကျွန်တော်မျိုး၏ အမိန့်ကိုဖီဆန်ခဲ့ပါမူ၊အမှန်စင်စစ် အရှင်မြတ်သည် အလွန်တရာ လွတ်ငြိမ်းချမ်းသာခွင့်ပေးသနားတော်မူသောအရှင်၊ အလွန်တရာသနားကြင်နာညှာတာတော်မူတော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူပါသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

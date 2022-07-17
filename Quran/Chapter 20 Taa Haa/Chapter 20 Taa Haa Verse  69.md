@@ -710,6 +710,12 @@ I metni tova, koeto e v desnitsata ti, shte pogŭlne to storenoto ot tyakh. Te n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၉။	သင်၏လက်ျာလက်တွင်းရှိသောအရာကို ပစ်ချလော့၊ ထိုအရာသည် သူတို့ဖန်တီးသမျှကို မျိုပစ်လိမ့်မည်၊ မှတ်သားလော့၊ သူတို့ဖန်တီးသောအရာသည် မှော်ဆရာတို့၏ ဥပါယ်တမည်သာဖြစ်သည်။ မှော်ဆရာသည် မိမိအတတ်ပညာတွင် မည်မျှပင်တတ်မြောက်ငြားသော်လည်း သူတို့သည် မအောင်မြင်နိုင်ချေဟု ဗျာဒိတ်ပေး တော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းအပြင် အသင်သည် မိမိလက်ယာလက်ထဲ၌ရှိသော(တောင်ဝှေး)ကို ပစ်ချပါလေ။ ယင်း(တောင်ဝှေး)သည်ထိုပဉ္စလက်ဆရာတို့ ကြံစည်ပြုလုပ်ထား သည်တို့ကိုဝါးမျိုလိမ့်မည်။ စင်စစ် ၎င်းတို့ကြံစည် ပြုလုပ်ခဲ့သမျှတို့သည် ပဉ္စလက်ဆရာ(တို့)၏ပရိယာယ် မျှသာဖြစ်ချေသည်။ အမှန်စင်စစ်ပဉ္စလက်ဆရာဟူ သည်မည်သည့်နေရာသို့ သွားခဲ့စေကာမူအောင်မြင် သည်ဟူ၍ကား မရှိချေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ WE MA MINNA ‘ILLA LEHU MEKAMUN MA’LUMUN
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၆၄။	ကောင်းကင်တမန်များက ဝန်ခံပြောဆိုကြသည်မှာ ငါတို့အနက် နေရာသီးခြားမရှိသူတစ်စုံတစ်ယောက်မျှမရှိချေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ကောင်းကင်တမန်များ)က စင်စစ်သော်ကား ကျွန်ုပ်တို့အနက် အသီးသီးအဖို့ အဆင့်အတန်း တစ်ခုစီ သတ်မှတ်ပြီး ဖြစ်သည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

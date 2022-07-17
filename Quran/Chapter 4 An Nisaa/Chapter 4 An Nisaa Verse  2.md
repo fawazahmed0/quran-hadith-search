@@ -710,6 +710,12 @@ I davaĭte na siratsite imotite im, i ne podmenyaĭte dobroto s losho, i ne po
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။	သင်တို့သည် မိဘမဲ့တို့အား သူတို့၏ဥစ္စာပစ္စည်းများကို ပေးကြလော့။ ဥစ္စာကောင်းကို မကောင်းသော ဥစ္စာနှင့် လဲလှယ်၍မယူကြလင့်။ သူတို့၏ပစ္စည်းများကို သင်တို့၏ ပစ္စည်းထဲတွင် မြုပ်ဝင်မသွားစေ ကြလင့်။ မှတ်သားကြလော့။ ယင်းသို့ပြုကျင့်မှုသည် ကြီးလေးသောအပြစ်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင်တဝ အသင်တို့သည် အဖမဲ့ကလေးတို့အား ထိုသူတို့၏ ဥစ္စာပစ္စည်းများကို (သစ္စာရှိစွာဖြင့်) ပြန်၍ ပေးကြကုန်လော့။ ၎င်းပြင် အသင်တို့သည် (မိမိတို့၏ပစ္စည်း) အညံ့ကို (အဖမဲ့တို့၏ပစ္စည်း) အကောင်းနှင့် လဲလှယ်ခြင်းမပြုကြကုန်လင့်။ ၎င်းပြင် အသင်တို့သည် ထိုအဖမဲ့ကလေးတို့၏ ဥစ္စာပစ္စည်းများကို မိမိတို့၏ ဥစ္စာပစ္စည်းများနှင့် ရောနှောစားသုံးခြင်းကိုလည်း မပြုကြကုန်လင့်။ ယင်းကဲ့သို့ပြုမူခြင်းသည် စင်စစ်ဧကန် ကြီးစွာသော အပြစ်ပင်ဖြစ်ချေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

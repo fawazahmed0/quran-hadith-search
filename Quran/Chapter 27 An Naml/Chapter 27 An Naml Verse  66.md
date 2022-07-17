@@ -710,6 +710,12 @@ Da, lipsva im znanie za otvŭdniya zhivot. Da, te se sŭmnyavat v nego i za nego
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၆။	အမှန်မသိကြချေ၊ သူတို့၏အသိဉာာဏ်သသည် နောင်တမလွန်ဘဝကို ထိုးဖောက်စူးရှသလော၊ ထိုသို့မစူးရှချေ၊ အကြောင်းမူကား သူတို့သည် နောင်ဘဝကို ယုံမှားသံသယရှိနေကြသောကြောင်ဖြစ်၏၊ တဖန်ထိုသို့မပြုနိုင်ချေ၊ အကြောင်းမူကား သူတို့သည် နောင်တမလွန်ဘဝကို မမြင်စွမ်းနိုင်သောကြောင့်ဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ်မှာကား "အာခိရတ်"တမလွန်ဘဝနှင့်စပ်လျဉ်း၍ ၎င်းတို့၏အသိပညာမှာ ပျောက်ပျက်၍သွားချေပြီ။ ထိုသို့အလျှင်းမဟုတ်။ စင်စစ်မှာကား ၎င်းတို့သည် ထို "အာခိရတ်" တမလွန်ဘဝနှင့်စပ်လျဉ်း၍ ဒွိဟသံသယ၌ပင် ရှိနေကြကုန်၏။ ထိုသို့ အလျှင်းမဟုတ်။ စင်စစ်မှာကား ၎င်းတို့သည်ယင်း "အာခိရတ်" တမလွန်ဘဝဘက်မှ မျက်စိကန်းနေသူများပင် ဖြစ်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

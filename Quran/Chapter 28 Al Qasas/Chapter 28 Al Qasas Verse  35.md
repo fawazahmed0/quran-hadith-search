@@ -710,6 +710,12 @@ Kaza Toĭ: “Shte te podkrepim s brat ti i shte vi otredim vlast, i ne shte vi
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၅။	အလ္လာဟ်အရှင်မြတ်က အို--မူစာ၊ ငါသည် သင့်အား သင်၏အစ်ကိုအားဖြင့် အားဖြည့်တင်းတော်မူမည်၊ ထို့အပြင်ငါသည် သင်တို့ညီနောင်တို့အား ဘုန်းတန်ခိုးပေးသနားတော်မူမည်၊ သင်၏နိမိတ်လက္ခဏာအ့ံဖွယ် တို့ကြောင့် သူတို့သည် သင်တို့အား ဥပါဒ်ပြုရန် သင်တို့အပါးသို့ ချဉ်းကပ်နိုင်ကြမည်မဟုတ်၊ သင်တို့နှစ်ဦး နှင့်တကွ သင်တို့၏နောက်လိုက်တို့သည် အောင်နိုင်သူများဖြစ်ကြလတ့ံဟု ဗျာဒိတ်ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုအရှင်မြတ်က ယခုပင် ငါအရှင်မြတ်သည် အသင်၏နောင်တော်ဖြင့် အသင်၏ လက်ရုံးကိုတိုး၍ အားရှိစေတော်မူမည်။ ထိုမှတစ်ပါး ငါအရှင်မြတ်သည် အသင်တို့နှစ်ဦးအား ဂုဏ်အရှိန်တစ်မျိုးကို ချီးမြှင့်ပေးသနားတော်မူ မည်ဖြစ်ရကား ၎င်းတို့သည် အသင်တို့နှစ်ဦးအား မည်သို့မျှ ထိပါးနိုင်ကြမည်မဟုတ်ပေ။ (အသင်တို့နှစ်ဦးသည်)ငါအရှင်မြတ်၏ သက်သေလက္ခဏာတော် များနှင့်တကွ (သွားကြလေကုန်)။ အသင်တို့နှစ်ဦးနှင့်တကွ အသင်တို့နှစ်ဦး၏ နောက်သို့လိုက်ကြသောသူတို့ပင် အောင်နိုင်သူများ ဖြစ်ကြကုန်အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ Nima [ti mozhesh da napŭtish] onzi, spryamo kogoto se sbŭdne Slovoto za mŭche
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၉။	အကြင်သူအား အပြစ်ဒဏ်ပေးတော်မူအ့ံ၊ ထိုသူသည် ကူညီထောက်ပ့ံခြင်းရမည်လော၊ ထို့အပြင် အို-မိုဟမ္မဒ်၊ အဝီစီငရဲမီးတွင် ခံစားနေရသူအား သင်သည် ကယ်နှုတ်နိုင်မည်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (အို-နဗီတမန်တော်) ပြစ်ဒဏ်စီရင်မှု အမိန့်တော် အတည်ဖြစ်ခဲ့သောသူအား(အသင်သည် အကျိုးပြုနိုင်ပါသလော)။ အသို့ပါနည်း၊ အသင်သည် ငရဲမီး၌ရှိသူအား လွတ်မြောက်စေနိုင်ပါသလော။ (တစ်နည်း) အကြင်သူသည် ထိုသူ၏အပေါ်၌ ပြစ်ဒဏ်စီရင်မှု အမိန့်တော်သည် အတည်ဖြစ်ခဲ့ချေပြီ၊ သို့ပါလျက် (အို-နဗီတမန်တော်၊) အသင်သည် ငရဲမီး၌ရှိသူအား လွတ်မြောက်စေနိုင်ပါသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

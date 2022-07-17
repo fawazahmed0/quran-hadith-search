@@ -710,6 +710,12 @@ Ne vi li sŭtvorikhme Nie ot nishtozhna voda
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၀။ အို-လူသားအပေါင်းတို့၊ ငါသည် သင်တို့အား သေးသိမ်ယုတ်ညံ့သောအရည်စက်မှ ဖန်ဆင်းတော်မူသည်မဟုတ် လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ငါအရှင်မြတ်သည် အသင်တို့အား ယုတ်ညံ့သောရေဖြင့် ဖန်ဆင်းတော်မူခဲ့သည် မဟုတ်လော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

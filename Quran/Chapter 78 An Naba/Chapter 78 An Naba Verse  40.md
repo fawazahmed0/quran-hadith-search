@@ -710,6 +710,12 @@ Predupredikhme vi za blizko mŭchenie v Denya, v koĭto vseki shte vidi kakvo e
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၀။ စင်စစ်အားဖြင့် ငါသည် သင်တို့အား အလွန်နီးကပ်သောဘေးဒဏ်အကြောင်းကို သတိပေတောမ် ူ၏၊ ထိုနေ့တော်ကြီး၌ လူသားသည် မိမိ တင်ကြိုပို့ထားနှင့်သော မိမိ လက်စွမ်းလက်ရာများကို မျက်ဝါးထင်ထင်မြင် ရလတံ့၊ ထိုအခါမယုံကြည်သူ မိစ္ဆာဒိဋ္ဌိက ယခုအခါအကျွနု်ပ်သည် မြေမှုန့်အတိဖြစ်သွားပါလျှင် တော်လေစွဟု ညည်းညူလတံ့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်မလွဲ ငါအရှင်မြတ်သည် အသင်တို့အား မကြာမီ (ဆိုက်ရောက်မည်ဖြစ်သော) ပြစ်ဒဏ်နှင့် စပ်လျဉ်း၍သတိပေး နှိုးဆော်တော်မူခဲ့ချေပြီ။ ထိုနေ့တွင် လူတိုင်းသည် မိမိလက်နှစ်ဘက်ဖြင့် ကြိုတင်ပို့နှင့်ခဲ့သော အပြုအမူတို့ကို တွေ့မြင်ကြပေမည်။ ထိုမှတစ်ပါး (ထိုနေ့တွင်) ကာဖိရ် မယုံမကြည်သွေဖည်ငြင်းပယ်သောသူက "ဪ-ငါသည် မြေကြီး ဖြစ်ခဲ့ရလျှင်၊ ဖြစ်နိုင်လျှင်၊ ကောင်းလေစွတကား၊" ဟု ပြောဆို(ညည်းညူ)အံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

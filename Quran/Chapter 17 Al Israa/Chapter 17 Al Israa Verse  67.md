@@ -710,6 +710,12 @@ I kogato vi zasegne beda v moreto, onezi, koito zovete, izchezvat, osven Nego. A
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၇။	သင်တို့သည် ပင်လယ်သမုဒ္ဒရာအလယ်တွင် ဘေးအန္တရာယ်တွေ့ကြံုကြသောအခါ အကူအညီအတွက် သင်တို့ ဆုတောင်းသောဘုရားများသည် သင်တို့ကို မကူညီမကယ်တင်နိုင်ချေ။ အရှင်မြတ်သာလျှင် ကယ်နှုတ်တော်မူ၏။ သို့သော်အရှင်မြတ်သည် သင်တို့အား မြေကြီးသို့ ချမ်းသာစွာယူဆောင်တော်မူသောအခါ သင်တို့သည် လှည့်သွား ကြ၏။ အကြောင်းမူကား လူသားသည် အမြဲပင်ကျေးဇူးကန်းကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် အသင်တို့တွင် သမုဒ္ဒရာပင်လယ်၌ ဘေးဒုက္ခသက်ရောက်ခဲ့သော် (အသင်တို့သည်)ထို အရှင်မြတ်မှတစ်ပါး အသင်တို့ဟစ်ခေါ်(ကိုးကွယ်)လျက် ရှိကြသူတို့သည် ပျောက်ကွယ်သွားကြလေသည်။ တစ်ဖန် ထိုအရှင်မြတ်သည် အသင်တို့အား ကုန်းပေါ်သို့ လွတ်မြောက်စေတော်မူခဲ့သောအခါ အသင်တို့သည် မျက်နှာလွှဲသွားခဲ့ကြပြန်၏။ စင်စစ်သော်ကား မနုဿလူသားသည် အလနွ တ် ရာ ကျေးဇူး ကန်း သပူ ငြ်ဖစေ် ချသတည်း ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

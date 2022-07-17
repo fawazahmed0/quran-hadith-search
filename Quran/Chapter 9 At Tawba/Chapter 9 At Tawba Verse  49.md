@@ -710,6 +710,12 @@ Sred tyakh nyakoĭ kazva: “Pozvoli mi [da ostana] i ne me vŭvlichaĭ v izku
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄၉။	သူတို့အနက် အို-တမန်တော်၊ အကျွနု်ပ်တို့အား အိမ်တွင် နေရစ်ခွင့်ပေးပါ။အကျွနု်ပ်တို့ကို မက်လုံးနှင့် မ ဖြားယောင်းပါနှင့်ဟု ဆိုသူလည်းရှိ၏။အမှန်မှာ သူတို့သည် ဖြားယောင်းလှည့်စားခြင်းအတွင်းသို့ ကျပေးပြီ။မှတ်ထားကြလော့။ငရဲသည် မိစ္ဆာဒိဋ္ဌိတို့၏ ပတ်လည်၌ ရှိ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ထို(ကျန်ရစ်ခဲ့)သူ (မုနာဖစ်က်)တို့ တွင်ကျွန်ုပ်အား (စစ်တလင်းသို့ မလိုက်ပါပဲ အိမ်တွင် နေရစ်ခဲ့ရန်)ခွင့်ပေးပါ၊ ထို့ပြင် အသင်သည် ကျွန်ုပ်အား မဖျက်ဆီးပါနှင့်ဟူ၍ ပြောဆိုသူလည်း ရှိပေသေး၏။ ၎င်းတို့သည် ပျက်စီးမှု၌ကျဆင်းခဲ့ပြီး ဖြစ်ကြသည်ကို (အသင်တို့သည်) ကောင်းစွာမှတ်ယူ ကြလေကုန်။ ထိုမှတစ်ပါး(နောင်တမလွန်ဘဝတွင်လည်း) ဂျဟန္နမ်ငရဲဘုံသည် ၎င်းတို့အား ဝန်းရံလျက် ရှိချေအံ့သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

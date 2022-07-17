@@ -710,6 +710,12 @@ v sŭkhranenata Kniga [-maĭka]
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၈။	ထိုကျမ်းတော်ကို လျှို့ဝှက်ဖုံးအုပ်ထားသောစာအုပ်ကြီးတွင် ရေးတင်မှတ်သားထားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မှတ်တမ်းစာအုပ်တစ်ခု၌ ထိန်းသိမ်း စောင့်ရှောက်၍ ထားရှိပြီးဖြစ်သော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

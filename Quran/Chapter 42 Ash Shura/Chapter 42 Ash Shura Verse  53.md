@@ -710,6 +710,12 @@ pŭtya na Allakh, Komuto prinadlezhi vsichko na nebesata i vsichko na zemyata. D
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၃။ သင်တမန်တော်သည် မိုးကောင်းကင်နှင့် ကောင်းကင်တန်ဆာကမ္ဘာမြေကြီးနှင့် မြေကြီးတန်ဆာအလုံးစုံကို စိုးပိုင်တော်မူသောအလ္လာဟ်အရှင်မြတ်၏ လမ်းတော်ကို ပြသ၏၊ နောက်ဆုံးစွန်၌ အရာခပ်သိမ်းကုန်အပေါင်း တို့သည် အလ္လာဟ်အရှင်မြတ်အထံတော်သို့ ရောက်ကြရမည်မဟုတ်လော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်အလ္လာဟ်အရှင်မြတ်၏ တရားလမ်းကို၊မိုးကောင်းကင်များ၌ ရှိသမျှတို့သည်လည်းကောင်း၊ ပထဝီမြေ၌ရှိသမျှတို့သည်လည်းကောင်း၊ ထိုအရှင်မြတ်သာလျှင် ပိုင်ဆိုင်တော်မူသောအရာများ ဖြစ်ကြကုန်၏။ သတိပြုကြလေကုန်။အရေးကိစ္စအလုံးစုံတို့သည် ထိုအရှင်မြတ် အထံတော်သို့သာလျှင် ပြန်လည်ရောက်ကြကုန်သတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

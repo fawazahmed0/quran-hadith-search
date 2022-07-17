@@ -710,6 +710,12 @@ i plod, i treva
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၃၁။ သီးမျိုးဥမျိုးတို့နှင့်တကွ မြက်သစ်ပင်အမျိုးမျိုးတို့ကို ပေါက်စေတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 သစ်သီးဝလံများကိုလည်းကောင်း၊ ကျွဲ၊ နွားတိရစ္ဆာန်အစာကိုလည်းကောင်း၊ (ပေါက်ရောက်စေတော်မူ၏)။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

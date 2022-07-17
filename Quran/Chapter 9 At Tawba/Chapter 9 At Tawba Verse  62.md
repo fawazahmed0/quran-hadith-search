@@ -710,6 +710,12 @@ Kŭlnat vi se v Allakh, za da vi ugodyat. No Allakh, a i Negoviyat Pratenik, nai
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၆၂။	သူတို့သည် သင်မွတ်စလင်(မ်)တို့အား နှစ်သိမ့်စေခြင်းငှာ အလ္လာဟ်အရှင်မြတ်အား တိုင်တည်ကျိန်ဆိုကြ၏။သို့သော်သူတို့သည် ယုံကြည်သူမျာဖြစ်ကြလျှင် အရှင်မြတ်နှင့် တမန်တော်အား နှစ်သိမ့်စေခြင်းသည် သူတို့ အတွက် ပိုမိုမှန်ကန်မှုဖြစ်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့သည် အသင်တို့အား နှစ်သိမ့်ကျေနပ်စေအံ့သောငှာ အလ္လာဟ်အရှင်မြတ်အားတိုင်တည်၍ ကျိန်ဆိုကြလေသည်။ စင်စစ်သော်ကား အကယ်၍သာ ထိုသူတို့သည်’မုအ်မင်န်’ သက်ဝင်ယုံကြည်သူများ ဖြစ်ကြပါလျှင် အလ္လာဟ်အရှင်မြတ်သည်လည်းကောင်း၊ ထိုအရှင်မြတ်၏ရစူလ်တမန်တော်မြတ်သည်လည်းကောင်း၊ ထိုသူတို့၏ ကျေနပ်စေခြင်းကိုပိုမို၍ပင် ခံထိုက်တော်မူပါပေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

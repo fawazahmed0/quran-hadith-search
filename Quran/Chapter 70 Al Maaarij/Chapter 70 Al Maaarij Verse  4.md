@@ -710,6 +710,12 @@ Shte se vŭzdignat kŭm Nego angelite i Dukhŭt [Dzhibril] v Den, kolkoto petdes
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၄။ ကောင်းကင်တမန်များနှင့်တကွ ကောင်းကင်တမန်မင်းကြီး ဂျီဗရာအီလ်သည် အရှင်မြတ်အထံတော်သို့ နေ့ချင်း ပေါက်တက်သွားကြ၏၊ ထိုနေ့၏ ပမာဏမူကား လောကီနှစ်ပေါင်းတစ်သောင်းနှင့်တူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မလာအိကဟ် ကောင်းကင်တမန်များသည်လည်းကောင်း၊ (ရုဟ်)အသက်ဇီဝိန်များသည်လည်းကောင်း၊ ထိုအရှင်မြတ်ထံတော်သို့ တက်ရောက်သွားကြပေသည်။ အကြင်နေ့တွင် ယင်းနေ့၏ အတိုင်းအတာသည် ဤပစ္စက္ခ၏ နှစ်ပေါင်းငါးသောင်းနှင့် ညီမျှသည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

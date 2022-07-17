@@ -710,6 +710,12 @@ Vŭzradva gi tekhniyat Gospod s vest za milosŭrdie ot Nego i za blagovolenie, i
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၁။	သူတို့၏ ကျေးဇူးတော်သခင်သည် သူတို့အား အထံတော်မှ ကောင်းချီးမင်္ဂလာတော်လက်ခံတော်မူခြင်း၊ သူတို့ ထာဝရပျော်ရွှင်မွေ့လျော်ရမည့်ဥယျာဉ်တော်ကြီးများအကြောင်းသတင်းကောင်းကို ဗျာဒိတ်ပေးတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူတို့ကား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည် ထိုသူတို့ကို မိမိအထံတော်မှ ကရုဏာတော်ကို ခံစားကြရမည်ကိုလည်းကောင်း၊ (ထိုအရှင်မြတ်၏)နှစ်သက်မှုကို ရရှိကြမည်ကိုလည်းကောင်း၊ ထိုသူတို့အဖို့ ထာဝရစည်းစိမ်နှင့် ပြည့်စုံသောဥယျာဉ်များ ရရှိကြမည်ကိုလည်းကောင်း၊ သတင်းကောင်း မိန့်ကြားတော်မူလေသတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

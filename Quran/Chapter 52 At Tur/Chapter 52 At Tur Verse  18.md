@@ -710,6 +710,12 @@ radostni s onova, koeto im e daril tekhniyat Gospod i gi e predpazil tekhniyat G
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	သူတို့၏ အရှင်သခင်သည် သူတို့အား အောင်ဆုမင်္ဂလာတော်ပေးသနားတော်မူ၏၊ ငရဲမီးညှင်းပန်းခြင်းဘေးမှ ကာဆီးထားတော်မူ၏၊ ထိုအကြောင်းများကြောင့် သူတို့သည် အားရဝမ်းသာရှိကြရ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းတို့သည် ၎င်းတို့ကို ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်က ၎င်းတို့အား ချီးမြှင့်ပေးသနားတော်မူခဲ့သော သစ်သီးဝလံများကို စားသုံးလျက်ရှိကြပေမည်။ (တစ်နည်း) [ချီးမြှင့်ပေးသနားတော်မူခဲ့သော စည်းစိမ်များကြောင့် ဝမ်းမြောက်ပျော်ရွှင် လျက်ရှိကြပေမည်။] ထိုမှတစ်ပါး ၎င်းတို့ကို ၎င်းတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်သည် အလျှံပြောင်ပြောင် တောက်လောင်လျက်ရှိသော ငရဲမီး ပြစ်ဒဏ်မှလည်း လွတ်ကင်းစေတော်မူပေမည်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

@@ -710,6 +710,12 @@ I kolko pokoleniya predi tyakh pogubikhme! Nima useshtash nyakogo ot tyakh ili c
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၉၈။	သူတို့ရှေးလျင်ဖြစ်ပေါ်လာသည့်များလှစွာသောအသင်းအပင်းတို့ကို ငါအရှင်မြတ်သည် သုတ်သင်ရှင်းလင်းခဲ့၏။ အို-မိုဟမ္မဒ်၊ သင်သည် ထိုလူဟောင်းတို့အနက် တစုံတယောကို မြင်နိုင်သလော၊ သို့မဟုတ်၊ သူတို့ထံမှ တစုံတခုသောအသံကို ကြားနိုင်သလော။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 စင်စစ် ငါအရှင်မြတ်သည် ၎င်းတို့အလျင် များစွာသောအုပ်စုများကိုပင် ကွပ်မျက်ဖျက်ဆီးတော်မူခဲ့ပေသည်။အသင်သည် ၎င်းတို့အနက် တစ်ဦးတစ်ယောက်ကိုပင် မြင်ပါသေးသလော။ သို့တည်းမဟုတ် အသင်သည် ၎င်းတို့၏သဲ့သဲ့အသံကိုပင် ကြားပါသေးသလော။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

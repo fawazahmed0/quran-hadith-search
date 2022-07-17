@@ -710,6 +710,12 @@ Sŭtvorikhme Nie choveka ot chastitsa sperma s primesi, za da go izpitame, i go 
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂။ အကယ်စင်စစ်ငါသည် လူသားကို စုံစမ်းဖို့ရာ ပျစ်သောအရည်တစ်စက်မှ ဖန်ဆင်းတော်မူ၏၊ ထို့ကြောင့်သူ့အားကြားခြင်း၊ မြင်ခြင်း၊ အရည်အချင်းတို့ကို ပေးသနားတော်မူ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ဧကန်စင်စစ် ငါအရှင်မြတ်သည် လူသားအား စမ်းသပ်လိုတော်မူသောအားဖြင့် ရောနှောပေါင်းစပ်သော ကလလရေကြည်ဖြင့်ဖန်ဆင်းတော်မူခဲ့၏။ သို့ဖြစ်ပေရာ ငါအရှင်မြတ်သည် ၎င်းအား ကြားသူ၊ မြင်သူ၊ ပြုလုပ်တော်မူခဲ့၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

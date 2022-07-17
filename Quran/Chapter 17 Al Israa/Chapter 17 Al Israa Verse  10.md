@@ -710,6 +710,12 @@ i che za onezi, koito ne vyarvat v otvŭdniya zhivot, sme prigotvili bolezneno m
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁ဝ။	ထို့အပြင် နောင်တမလွန်ဘဝ၌ မယုံကြည်သူတို့အား ငါသည် သူတို့အဖို့အရာ အလွန်ပြင်းပြနာကျင်ဖွယ်ကောင်း လှသောအပြစ်ဒဏ်ကို စီရင်ထားတော်မူကြောင်း သတင်းဆိုးကိုလည်း ပေး၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၎င်းပြင် ဧကန်စင်စစ် နောင်တမလွန်ဘဝကိုမယုံကြည်သော သူတို့အဖို့ ငါအရှင်မြတ်သည် ပြင်း ပြနာကျင်ဖွယ်ဖြစ်သောပြစ်ဒဏ်ကို အဆင့်သင့် ပြုလုပ်ထားတော်မူသည်(ကိုလည်းဤကုရ်အာန်ကျမ်းတော်မြတ်သည် သတင်းပေး လေသည်။)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

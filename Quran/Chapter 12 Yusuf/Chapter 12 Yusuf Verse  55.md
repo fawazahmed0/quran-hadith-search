@@ -710,6 +710,12 @@ Reche [Yusuf]: “Otredi mi sŭkrovishtnitsite na Zemyata [na Egipet]! Az sŭm z
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၅၅။	ယူစွတ်(ဖ်)သည် ဘုရင်မင်းမြတ်အား အို-အရှင်မင်းကြီး၊ အကျွနု်ပ်အား တိုင်းပြည်တော်၏ ရိက္ခာသိုလှောင် ထိန်းသိမ်းမှုးရာထူးတွင် ခန့်ထားတော်မူပါ။ အကျွနု်ပ်သည် ဥစ္စာပစ္စည်းထိန်းသိမ်းမှု၌ လိမ္မာကျွမ်းကျင်သူဖြစ်ပါ၏ ဟု လျှောက်၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ထိုရောအခါ) ယင်းယူစုဖ်က အသင်သည်ကျွန်ုပ်အား တိုင်းပြည်၏ ဘဏ္ဍာတော်များအပေါ်၌ (ကြီးကြပ်အုပ်ထိန်းသူအဖြစ်) ခန့်အပ်ပါလေ။ ဧကန်စင်စစ် ကျွန်ုပ်သည်ထိန်းသိမ်းနိုင်သူ၊ အသိပညာနှင့် ပြည့်စုံသူပင်ဖြစ်သည်ဟုပြောကြားခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

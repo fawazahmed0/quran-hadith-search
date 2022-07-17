@@ -710,6 +710,12 @@ Onezi, koito razdavat svoite imoti i noshtem, i denem, i skrito, i yavno, imat n
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၂၇၄။	အကြင်သူတို့သည် အလှူဒါကို ညဉ့်တွင်သော်လည်းကောင်း၊ နေ့၌သော်လည်းကောင်း၊ လျှို့ဝှက်စွာ သော်လည်းကောင်း၊ လူသိရှင်ကြားသော်လည်းကောင်းပေးကြ၏။ ထိုသူတို့၏ အောင်ဆုမင်္ဂလာတော် သည် သူတို့၏အရှင်သခင်အထံတော်၌ မုချဧကန်အသင့်ရှိ၏။ သူတို့သည် စိုးရိမ်ကြောင့်ကြရမည့် သူများလည်းမဟုတ်ချေ။ ပူပန်သောကရောက်ကြရမည့်သူများလည်းမဟုတ်ချေ။ သူတို့အပေါ်သို့ ကြောက်ရွံ့စရာကျရောက်မည်မဟုတ်ပေ။ ပူဆွေးရမည်လည်း မဟုတ်ပေ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင်သူတို့သည် မိမိတို့၏ ဥစ္စာပစ္စည်း များကိုနေ့ညဉ့်မရွေး(အခါခပ်သိမ်း) လျှို့ဝှက်စွာဖြင့်(တစ်မျိုး)ထင် ရှားစွာဖြင့်(တစ်ဖုံ) လှူဒါန်းသုံးစွဲကြကုန်၏။ သို့ဖြစ်လျှင် ယင်းသူတို့၏ ကုသိုလ်အကျိုးသည် ယင်းသူတို့အား မွေးမြူတော်မူသောအရှင်မြတ်၏ အထံတော်၌(အသင့်)ရှိပေသည်။ ထို့ပြင်တဝယင်းသူတို့အပေါ်ဝယ် မည်သည့်စိုးရိမ်ကြောင့်ကြခြင်း လည်းမရှိ၊ ယင်းသူတို့သည် ဝမ်းနည်းပူဆွေးကြမည်လည်းမဟုတ်ပေ။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

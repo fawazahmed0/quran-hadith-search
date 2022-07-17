@@ -710,6 +710,12 @@ No satanata mu podshushna, reche: “O, Adam, da ti pokazha li dŭrvoto na vechn
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၂ဝ။	သို့သော်ရှိုင်တွာန်မာရ်နတ်သည် သူ့အား အို--အာဒမ်၊ အကျွနု်ပ်သည် သင့်အား အမြဲမသေသော၊ မကုန်ခမ်းနိုင် သောတန်ခိုးရှိသောသစ်ပင်ကို ပြရမည်လောဟု မေးမြန်း၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ရှိုင်တွာန်မိစ္ဆာကောင်သည် အာဒမ်အား(သွေးဆောင်ဖြားယောင်း ခဲ့လေသည်)။ ၎င်းက (အာဒမ်အား) အို-အာဒမ်၊ ကျွန်ုပ်သည် အသင့်အား အစဉ်အမြဲ ရှင်နေသောသစ်ပင်ကိုလည်းကောင်း၊ ဟောင်းမြင်းဆွေးမြည့်ခြင်းမရှိသော စိုးမိုးအုပ်ချုပ်မှု(အာဏာ)ကိုလည်းကောင်း၊ ညွှန်ပြရမည်လော ဟု ပြောဆိုခဲ့လေ၏။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

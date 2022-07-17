@@ -710,6 +710,12 @@ Ima tam za vas mnogo plodove, ot koito shte yadete
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၇၃။	ထိုဥယျာဉ်တော်၌ သင်တို့မှီဝဲစားသောက်ဖို့ရာ အတိုင်းအထွာပမာဏမရှိသောသစ်ဥသစ်သီးအမျိုးမျိုးရှိကြ၏။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အသင်တို့အဖို့ ယင်းသုခဘုံ၌ မြောက်မြားစွာသော သစ်သီးဝလံများ ရှိကြပေသည်။ ယင်း သစ်သီးဝလံများမှ အသင်တို့သည် စားသုံးကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

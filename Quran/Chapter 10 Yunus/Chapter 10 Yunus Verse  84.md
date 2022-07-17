@@ -710,6 +710,12 @@ I kaza Musa: “O, narode moĭ, shtom vyarvate v Allakh, na Nego se upovavaĭt
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၈၄။	တမန်တော်မူစာသည် ဟောကြား၏၊ ဟယ်-အချင်းတို့၊ သင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား အမှန်ပင်ယုံကြည် ကျိုးနွံကြလျှင် အရှင်မြတ်အား ကိုးစားကြလော့။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် (နဗီတမန်တော်)မူစာသည် (မိမိအမျိုးသားတို့အားဤသို့)ပြောကြားခဲ့လေသည်။ အို-ငါ၏အမျိုးသားတို့ အကယ်၍ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား သက်ဝင်ယုံကြည်ကြပြီး အမှန်ပင် မုစ်လင်မ် အမိန့်တော်ကို နာခံသူများ ဖြစ်ကြပါလျှင် အသင်တို့သည် (မိမိတို့၏အရေးကိစ္စအဝဝတွင်) ထိုအရှင်မြတ်အပေါ်၌သာလျှင် ယုံကြည် အားထားကြလေကုန်။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>

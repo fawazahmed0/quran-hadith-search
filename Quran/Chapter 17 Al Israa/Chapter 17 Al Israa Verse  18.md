@@ -710,6 +710,12 @@ Koĭto vŭzzhelae prekhodnoto, v nego mu uskoryavame kakvoto pozhelaem za kogot
 
 
 <div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+၁၈။	အကြင်သူသည် ခေတ္တခဏမျှဖြစ်သောလောကီစည်းစိမ်ကို လိုချင်တပ်မက်မောအ့ံ။ ငါသည် အလိုတော်ရှိသူအား ငါပေးလိုသောစည်းစိမ်ကို ပေးသနားတော်မူ၏။ ထို့နောက်ထိုသူအတွက် ငါသည် အဝီစိငရဲကို သတ်မှတ်ထား တော်မူ၏။ သူသည် ငါအပြစ်ဒဏ်ခတ်၍ စွန့်ပစ်ထားသာသူအဖြစ်ဖြင့် ငရဲမီး၏ အပူဒဏ်ကို ခံစားရလတ့ံ။
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 မည်သူမဆို ဤလောက၏စည်းစိမ်ကို ရည်စူးခဲ့လျှင် ငါအရှင်မြတ်သည် ထိုသူအားဤလောက၌ပင် ငါအရှင်မြတ် အလိုရှိတော်မူသောအရာကို ငါအရှင်မြတ် အလိုရှိတော်မူသောသူအား အဆောတလျင် ပေးတော်မူ၏။ ထို့နောက်ထိုသူအဖို့ ဂျဟန္နမ်ငရဲဘုံကို (အဆင်သင့်) ပြုလုပ်၍ထားတော်မူ၏။ ထိုသူသည် ယင်းဂျဟန္နမ်ငရဲဘုံသို့ ပြစ်တင်ကဲ့ရဲ့ခြင်းခံရလျက်၊ နှင်ထုတ်ခြင်းခံရလျက် ဝင်ရောက်ရမည်သာတည်း။
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>
