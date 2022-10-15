@@ -1,7 +1,7 @@
 ## Quran Hadith Search
 
 ### Usage:
-Use the search bar available on top to search quran and hadiths.
+Use the search bar available on top (or under menu **☰** ) to search quran and hadiths.
 
 or
 
