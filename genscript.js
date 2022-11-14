@@ -94,7 +94,7 @@ async function test() {
         let data = dataArr.join('\n\n')
         // max file size for code search to work in github
         // https://docs.github.com/en/search-github/searching-on-github/searching-code#:~:text=only%20files%20smaller%20than%20384%20kb%20are%20searchable.
-        let ghFileLen = 384 * 1000  // 384 kb
+        let ghFileLen = 349 * 1000  // 349 kb
         fs.outputFileSync(pathToSave, data)
         // Save in wiki, if not searchable in github code search
         if(Buffer.byteLength(data, 'utf8') > ghFileLen - 2000)
