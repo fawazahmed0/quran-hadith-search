@@ -1,0 +1,30 @@
+name: Generate test docs
+
+on:
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    name: Generate test docs job
+    runs-on: macos-12
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18.x
+          cache: npm
+
+      - name: Install dependencies
+        run: npm i
+      - name: Build website
+        run: |
+          export NODE_OPTIONS="--max-old-space-size=27648"
+          npm run generatetestfiles
+      - name: Push test docs
+        run: |        
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add testdocs
+          git commit -m "testdocs generated"
+          git push
+

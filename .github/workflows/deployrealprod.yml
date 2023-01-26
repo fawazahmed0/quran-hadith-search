@@ -1,0 +1,75 @@
+name: Deploy real prod
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'  # every day at midnight
+
+  workflow_dispatch:
+ 
+
+jobs:
+  deploy:
+    name: Deploy real prod
+    runs-on: macos-12
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: main
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18.x
+          cache: npm
+
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          #  output to publish to the `gh-pages` branch:
+          publish_dir: ./ghpages
+          user_name: github-actions[bot]
+          user_email: 41898282+github-actions[bot]@users.noreply.github.com
+
+      - name: Setup wiki
+        run: |
+          REPO="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.wiki.git"
+          git clone $REPO wiki
+          find wiki -type f  -name '*.md' -print0 | xargs -0 rm -f --
+          echo "month=$(date +'%m')" >> $GITHUB_ENV
+
+      - name: Install dependencies
+        run: npm i
+      - name: Build website
+        run: |
+          export NODE_OPTIONS="--max-old-space-size=27648"
+          npm run build
+          
+      # Popular action to deploy to GitHub Pages:
+      # Docs: https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-docusaurus
+      - name: Deploy to GitHub Repo
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # docs output to publish to the `gh-pages` branch:
+          publish_dir: ./docs
+          publish_branch: docs
+          exclude_assets: ''
+          force_orphan: ${{ env.month == '01' && true || false }}
+          # The following lines assign commit authorship to the official
+          # GH-Actions bot for deploys to `gh-pages` branch:
+          # https://github.com/actions/checkout/issues/13#issuecomment-724415212
+          # The GH actions bot is used by default if you didn't specify the two fields.
+          # You can swap them out with your own user credentials.
+          user_name: github-actions[bot]
+          user_email: 41898282+github-actions[bot]@users.noreply.github.com
+
+      - name: deploy to wiki
+        shell: bash
+        run: |
+          git config --global user.email github-actions@github.com
+          git config --global user.name github-actions
+          cd wiki
+          git add -A
+          git commit -m 'Update'
+          git push
+
