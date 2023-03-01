@@ -73,9 +73,3 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kam
 ہم سے سلیمان بن حرب نے بیان کیا ‘ کہا کہ ہم سے شعبہ نے ‘ ان سے شیبانی نے اور ان سے شعبی نے بیان کیا کہ مجھے اس صحابی نے خبر دی تھی جو نبی کریم صلی اللہ علیہ وسلم کے ساتھ ایک الگ تھلگ قبر پر سے گزرا۔ وہ کہتا تھا کہ آپ صلی اللہ علیہ وسلم نے ہماری امامت کی اور ہم نے آپ صلی اللہ علیہ وسلم کے پیچھے صفیں بنا لیں۔ ہم نے پوچھا کہ ابوعمرو ( یہ شعبی کی کنیت ہے ) یہ آپ سے بیان کرنے والے کون صحابی ہیں؟ فرمایا کہ عبداللہ بن عباس رضی اللہ عنہما۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1322</td></tr><tr><td>Arabic No</td><td>1322</td></tr><tr><td>Reference</td><td>Book 23 Hadith 79</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ہم سے ابوالنعمان نے بیان کیا ‘ ان سے جریر بن حازم نے بیان کیا ‘ کہا کہ میں نے نافع سے سنا ‘ آپ نے بیان کیا کہ ابن عمر رضی اللہ عنہما نے بیان کیا کہ ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ جو دفن تک جنازہ کے ساتھ رہے اسے ایک قیراط کا ثواب ملے گا۔ ابن عمر رضی اللہ عنہما نے فرمایا کہ ابوہریرہ احادیث بہت زیادہ بیان کرتے ہیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1322.5</td></tr><tr><td>Arabic No</td><td>1322.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>

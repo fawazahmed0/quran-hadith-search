@@ -70,6 +70,6 @@ Enes (r.a.) Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmişt
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+ہم سے محمد بن عبداللہ بن حوشب نے بیان کیا، انہوں نے کہا کہ ہم سے عبدالوہاب ثقفی نے بیان کیا، انہوں نے کہا کہ مجھ سے حمید طویل نے انس بن مالک رضی اللہ عنہ سے بیان کیا، انہوں نے کہا کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا، اے بنو سلمہ والو! کیا تم اپنے قدموں کا ثواب نہیں چاہتے؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>655</td></tr><tr><td>Arabic No</td><td>655</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>

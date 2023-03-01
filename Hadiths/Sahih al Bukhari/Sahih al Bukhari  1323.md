@@ -70,6 +70,6 @@ Nafi' şöyle demiştir: İbn Ömer'e, Ebu Hureyre'nin: "Cenazeyi takip eden ki�
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-پھر ابوہریرہ رضی اللہ عنہ کی عائشہ رضی اللہ عنہا نے بھی تصدیق کی اور فرمایا کہ میں نے رسول اللہ صلی اللہ علیہ وسلم سے یہ ارشاد خود سنا ہے۔ اس پر ابن عمر رضی اللہ عنہما نے کہا کہ پھر تو ہم نے بہت سے قیراطوں کا نقصان اٹھایا۔ ( سورۃ الزمر میں جو لفظ ) «فرطت‏» آیا ہے اس کے یہی معنی ہیں میں نے ضائع کیا۔
+ہم سے ابوالنعمان نے بیان کیا ‘ ان سے جریر بن حازم نے بیان کیا ‘ کہا کہ میں نے نافع سے سنا ‘ آپ نے بیان کیا کہ ابن عمر رضی اللہ عنہما نے بیان کیا کہ ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ جو دفن تک جنازہ کے ساتھ رہے اسے ایک قیراط کا ثواب ملے گا۔ ابن عمر رضی اللہ عنہما نے فرمایا کہ ابوہریرہ احادیث بہت زیادہ بیان کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1323</td></tr><tr><td>Arabic No</td><td>1323</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>

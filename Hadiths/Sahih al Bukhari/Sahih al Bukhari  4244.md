@@ -54,15 +54,9 @@ Telah menceritakan kepada kami [Ismail], katanya; telah menceritakan kepadaku [M
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4244</td></tr><tr><td>Arabic No</td><td>4244</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
-
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அபூசயீத் அல்குத்ரீ (ரலி) அவர்களும் அபூஹுரைரா (ரலி) அவர்களும் கூறியதாவது: (கைபர் வெற்றிக்குப்பின்) அல்லாஹ் வின் தூதர் (ஸல்) அவர்கள் (சவாத் பின் ஃகஸிய்யா எனப்படும்) ஒருவரை கைபரின் அதிகாரியாக நியமனம்செய்தார்கள். அங்கிருந்து அவர் உயர் ரகப் பேரீச்சங்கனிகளை அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் கொண்டுவந்தார். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “கைபரின் பேரீச்சங்கனிகள் எல்லாமே இப்படி (உயர் ரகமானவையாக)த்தான் உள்ளனவா?” என்று கேட்டார்கள். அதற்கு அவர், “அல்லாஹ்வின் மீதாணையாக! இல்லை; அல்லாஹ்வின் தூதரே! மட்டமான பேரீச்சங்கனிகளில் இரண்டு “ஸாஉ'களுக்கு இந்த உயர் ரகப் பேரீச்சங்கனிகளில் ஒரு “ஸாஉ'வையும், மட்டமான பேரீச்சங்கனிகளில் மூன்று “ஸாஉ'களுக்கு இந்தப் பேரீச்சங்கனிகளில் இரண்டு “ஸாஉ'களையும் நாங்கள் வாங்கு வோம்” எனக் கூறினார். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “இவ்வாறு செய்யாதீர். மட்டமான பேரீச்சங்கனியை திர்ஹங்களுக்கு விற்று, அந்தத் திர்ஹங்களைக் கொண்டு உயர் ரகப் பேரீச்சங்கனியை வாங்குவீராக!” எனக் கூறினார்கள்.288 அத்தியாயம் :
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4244.5</td></tr><tr><td>Arabic No</td><td>4244.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4244</td></tr><tr><td>Arabic No</td><td>4244</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
 ## Turkish
 

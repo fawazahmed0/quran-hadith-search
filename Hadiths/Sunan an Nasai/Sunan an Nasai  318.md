@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Ismail bin Mas'ud] Telah memberitakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Yine İbn Abdurrahman b. Ebza (r.a), babasından nakledip şöyle diyor: Bir adam Ömer’e gelerek cünüp oldum su da bulamadım dedi. Ömer de: “Öyleyse namaz kılma” dedi. O zaman Ammar: “Hatırlamıyor musun Ey mü’minlerin emiri! Bir seriyyede beraberdik ve cünüp olmuştuk. Sen namaz kılmamıştın ben de toprakta yuvarlanıp namazlarımı kılmıştım. Rasûlullah (s.a.v)’e gelip yaptığımı söyleyince Rasûlullah (s.a.v) sana şu kadarı yeterdi diyerek ellerini toprağa vurdu. Ellerindeki toprağı üfürdü. Sonra bir eliyle diğerini ovuşturdu sonra iki eliyle yüzünü meshetti.” Bunun üzerine Ömer: “Öylemiydi, bir şey hatırlamıyorum” dedi. Bunun üzerine Ammar: “İstersen bu olaydan kimseye söz etmem” dedi. (Müslim, Hayz: 28; Buhârî, Teyemmüm: 4)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>318</td></tr><tr><td>Arabic No</td><td>318</td></tr><tr><td>Reference</td><td>Book 1 Hadith 319</td></tr></tbody></table></div>
 

@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Yahya bin Habib bin 'Araby] dia berkata; telah me
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Aişe (r.anha)’dan rivâyete göre, şöyle demiştir: Fatıma binti ebi Hubeyş hayız görmüştü. Rasûlullah (s.a.v)’e şu şekilde sordu: “Ey Allah’ın Rasûlü! Hayız oluyorum ve asla temizlenemiyorum, namazı bırakayım mı?” Rasûlullah (s.a.v)’de: “O damardan gelen bir kandır; hayız kanı değildir. Hayız günlerin geldiği zaman namazı bırak sona erdiğinde ise üzerine bulaşan kan izini yıka ve abdest al çünkü o damardan gelen bir kandır, hayız kanı değildir” buyurdu. Rasûlullah (s.a.v)’e: “Gusül gerekir mi?” diye soruldu. Nebi (s.a.v)’de: “Guslün gerektiği konusunda kimsenin şüphesi olmasın” buyurdular. (İbn Mâce, Tahara: 115; Buhârî, Hayz: 21)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>217</td></tr><tr><td>Arabic No</td><td>217</td></tr><tr><td>Reference</td><td>Book 1 Hadith 218</td></tr></tbody></table></div>
 

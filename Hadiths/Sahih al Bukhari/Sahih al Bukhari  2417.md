@@ -73,9 +73,3 @@ Râvî dedi ki: Eş'as ibn Kays el-Kindî şöyle dedi: Vallahi bu iş benim hak
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2417</td></tr><tr><td>Arabic No</td><td>2417</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ہم سے عبداللہ بن محمد نے بیان کیا، انہوں نے کہا کہ ہم سے عثمان بن عمر نے بیان کیا، انہوں نے کہا کہ ہم کو یونس نے خبر دی، انہیں زہری نے، انہیں عبداللہ بن کعب بن مالک رضی اللہ عنہ نے، انہوں نے کعب رضی اللہ عنہ سے روایت کیا کہ انہوں نے ابن ابی حدرد رضی اللہ عنہ سے مسجد میں اپنے قرض کا تقاضا کیا۔ اور دونوں کی آواز اتنی بلند ہو گئی کہ رسول اللہ صلی اللہ علیہ وسلم نے بھی گھر میں سن لی۔ آپ صلی اللہ علیہ وسلم نے حجرہ مبارک کا پردہ اٹھا کر پکارا اے کعب! انہوں نے عرض کیا، یا رسول اللہ میں حاضر ہوں۔ آپ صلی اللہ علیہ وسلم نے فرمایا کہ اپنے قرض میں سے اتنا کم کر دے اور آپ صلی اللہ علیہ وسلم نے آدھا قرض کم کر دینے کا اشارہ کیا۔ انہوں نے کہا کہ میں نے کم کر دیا۔ پھر آپ صلی اللہ علیہ وسلم نے ابن ابی حدرد رضی اللہ عنہ سے فرمایا کہ اٹھ اب قرض ادا کر دے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2417.5</td></tr><tr><td>Arabic No</td><td>2417.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>

@@ -58,12 +58,6 @@ Telah menceritakan kepada kami ['Abdullah bin Muhammad] berkata, telah mencerita
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1090</td></tr><tr><td>Arabic No</td><td>1090</td></tr><tr><td>Reference</td><td>Book 18 Hadith 11</td></tr></tbody></table></div>
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் அவசரமாகப் பயணம் புறப்படுவதாக இருந்தால், மஃக்ரிப் தொழுகையைத் தாமதப்படுத்தி மஃக்ரிபையும் இஷாவையும் சேர்த்து (மஃக்ரிபின் கடைசி நேரத்தில்) தொழுவார்கள். சாலிம் பின் அப்தில்லாஹ் (ரஹ்) அவர்கள் கூறுகிறார்கள்: (என் தந்தை) அப்துல்லாஹ் பின் உமர் (ரலி) அவர்களும் அவசரமாகப் பயணம் புறப்படுவதாக இருந்தால் இவ்வாறே செய்வார்கள். அத்தியாயம் : 18
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1090.5</td></tr><tr><td>Arabic No</td><td>1090.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
-
 ## Turkish
 
 
@@ -79,9 +73,3 @@ Aişe'nin şöyle dediği nakledilmektedir: "Namaz ilk farz kılındığında ik
 ہم سے عبداللہ بن محمد مسندی نے بیان کیا، کہا کہ ہم سے سفیان بن عیینہ نے زہری سے بیان کیا، ان سے عروہ نے اور ان سے عائشہ رضی اللہ عنہا نے کہا کہ پہلے نماز دو رکعت فرض ہوئی تھی بعد میں سفر کی نماز تو اپنی اسی حالت پر رہ گئی البتہ حضر کی نماز پوری ( چار رکعت ) کر دی گئی۔ زہری نے بیان کیا کہ میں نے عروہ سے پوچھا کہ پھر خود عائشہ رضی اللہ عنہا نے کیوں نماز پوری پڑھی تھی انہوں نے اس کا جواب یہ دیا کہ عثمان رضی اللہ عنہ نے اس کی جو تاویل کی تھی وہی انہوں نے بھی کی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1090</td></tr><tr><td>Arabic No</td><td>1090</td></tr><tr><td>Reference</td><td>Book 18 Hadith 11</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ہم سے ابوالیمان نے بیان کیا، انہوں نے کہا کہ ہمیں شعیب نے خبر دی، زہری سے انہوں نے کہا کہ مجھے سالم نے عبداللہ بن عمر رضی اللہ عنہما سے خبر دی آپ نے فرمایا کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو دیکھا جب سفر میں چلنے کی جلدی ہوتی تو آپ صلی اللہ علیہ وسلم مغرب کی نماز دیر سے پڑھتے یہاں تک کہ مغرب اور عشاء ایک ساتھ ملا کر پڑھتے۔ سالم نے کہا کہ عبداللہ بن عمر رضی اللہ عنہما کو بھی جب سفر میں جلدی ہوتی تو اس طرح کرتے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1090.5</td></tr><tr><td>Arabic No</td><td>1090.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>

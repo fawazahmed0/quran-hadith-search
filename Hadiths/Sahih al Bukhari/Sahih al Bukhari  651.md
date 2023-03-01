@@ -34,12 +34,6 @@
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>651</td></tr><tr><td>Arabic No</td><td>651</td></tr><tr><td>Reference</td><td>Book 10 Hadith 48</td></tr></tbody></table></div>
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ এক ব্যক্তি রাস্তা দিয়ে চলার সময় রাস্তায় একটি কাঁটাযুক্ত ডাল দেখতে পেয়ে তা সরিয়ে ফেলল। আল্লাহ তা‘আলা তার এ কাজ সাদরে কবুল করে তার গুনাহ মাফ করে দিলেন। (২৪৭২) (আধুনিক প্রকাশনীঃ ৬১৫ ইসলামিক ফাউন্ডেশনঃ ৬২২)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>651.5</td></tr><tr><td>Arabic No</td><td>651.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
-
 ## English
 
 

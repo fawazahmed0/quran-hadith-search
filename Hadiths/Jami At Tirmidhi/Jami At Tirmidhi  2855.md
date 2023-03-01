@@ -20,9 +20,21 @@
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2855.2</td></tr><tr><td>Arabic No</td><td>2855.2</td></tr><tr><td>Reference</td><td>Book 43 Hadith 131</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا محمود بن غيلان، حدثنا ابو احمد، حدثنا سفيان، عن الاعمش، عن ابي وايل، عن عبد الله، قال كان رسول الله صلى الله عليه وسلم يتخولنا بالموعظة في الايام مخافة السامة علينا . قال ابو عيسى هذا حديث حسن صحيح
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2855</td></tr><tr><td>Arabic No</td><td>2855</td></tr><tr><td>Reference</td><td>Book 43 Hadith 130</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2855.2</td></tr><tr><td>Arabic No</td><td>2855.2</td></tr><tr><td>Reference</td><td>Book 43 Hadith 131</td></tr></tbody></table></div>
 
 ## Bengali
 
@@ -31,6 +43,12 @@
 ২৮৫৫। আবদুল্লাহ (রাযিঃ) হতে বর্ণিত, তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সপ্তাহের দিনসমূহে আমাদেরকে ওয়াজ-নাসীহাতের ব্যাপারে আমাদের অবস্থার প্রতি লক্ষ্য রাখতেন, যাতে আমরা বিরক্ত হয়ে না যাই। সহীহঃ বুখারী ও মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ। মুহাম্মাদ ইবনু বাশশার-ইয়াহইয়া ইবনু সাঈদ হতে, তিনি সুফইয়ান হতে, তিনি আল-আমাশ হতে, তিনি শাকীক ইবনু সালামাহ হতে, তিনি আবদুল্লাহ ইবনু মাসউদ (রাযিঃ) হতে উপরোক্ত হাদীসের সমার্থবোধক হাদীস বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2855</td></tr><tr><td>Arabic No</td><td>2855</td></tr><tr><td>Reference</td><td>Book 43 Hadith 130</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2855.2</td></tr><tr><td>Arabic No</td><td>2855.2</td></tr><tr><td>Reference</td><td>Book 43 Hadith 131</td></tr></tbody></table></div>
 
 ## English
 
@@ -44,7 +62,7 @@ Narrated 'Abdullah:"The Messenger of Allah (ﷺ) used to take care of us by prea
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Another chain) with similar meaning
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2855.5</td></tr><tr><td>Arabic No</td><td>2855.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2855.2</td></tr><tr><td>Arabic No</td><td>2855.2</td></tr><tr><td>Reference</td><td>Book 43 Hadith 131</td></tr></tbody></table></div>
 
 ## Indonesian
 
@@ -54,6 +72,12 @@ Telah menceritakan kepada kami [Mahmud bin Ghailan] telah menceritakan kepada ka
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2855</td></tr><tr><td>Arabic No</td><td>2855</td></tr><tr><td>Reference</td><td>Book 43 Hadith 130</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2855.2</td></tr><tr><td>Arabic No</td><td>2855.2</td></tr><tr><td>Reference</td><td>Book 43 Hadith 131</td></tr></tbody></table></div>
+
 ## Turkish
 
 
@@ -62,6 +86,12 @@ Abdullah (r.a.)’den rivâyete göre: “Rasûlullah (s.a.v.), bize bıkkınlı
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2855</td></tr><tr><td>Arabic No</td><td>2855</td></tr><tr><td>Reference</td><td>Book 43 Hadith 130</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2855.2</td></tr><tr><td>Arabic No</td><td>2855.2</td></tr><tr><td>Reference</td><td>Book 43 Hadith 131</td></tr></tbody></table></div>
+
 ## Urdu
 
 
@@ -69,3 +99,9 @@ Abdullah (r.a.)’den rivâyete göre: “Rasûlullah (s.a.v.), bize bıkkınlı
 عبداللہ بن مسعود رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم ہم کو وعظ و نصیحت کا سلسلے میں اوقات کا خیال کیا کرتے تھے، اس ڈر سے کہ کہیں ہم پر اکتاہٹ طاری نہ ہو جائے ۱؎۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2855</td></tr><tr><td>Arabic No</td><td>2855</td></tr><tr><td>Reference</td><td>Book 43 Hadith 130</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2855.2</td></tr><tr><td>Arabic No</td><td>2855.2</td></tr><tr><td>Reference</td><td>Book 43 Hadith 131</td></tr></tbody></table></div>

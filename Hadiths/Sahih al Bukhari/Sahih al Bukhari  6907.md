@@ -73,9 +73,3 @@ Hişam'ın babasından nakline göre Hz. Ömer insanlara "Resulullah Sallallahu 
 ہم سے عبیداللہ بن موسیٰ نے بیان کیا، ان سے ہشام نے، ان سے ان کے والد نے کہ عمر رضی اللہ عنہ نے لوگوں سے قسم دے کر پوچھا کہ کس نے نبی کریم صلی اللہ علیہ وسلم سے حمل گرنے کے سلسلے میں فیصلہ سنا ہے؟ مغیرہ رضی اللہ عنہ نے کہا کہ میں نے نبی کریم صلی اللہ علیہ وسلم سے سنا ہے، آپ نے اس میں ایک غلام یا کنیز دینے کا فیصلہ کیا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6907</td></tr><tr><td>Arabic No</td><td>6907</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-عمر رضی اللہ عنہ نے کہا کہ اس پر اپنا کوئی گواہ لاؤ۔ چنانچہ محمد بن مسلمہ رضی اللہ عنہ نے کہا کہ میں گواہی دیتا ہوں کہ نبی کریم صلی اللہ علیہ وسلم نے یہ فیصلہ کیا تھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6907.5</td></tr><tr><td>Arabic No</td><td>6907.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>

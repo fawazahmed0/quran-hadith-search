@@ -73,9 +73,3 @@ Ebu Hureyre r.a.'in nakline göre Resulullah Sallallahu Aleyhi ve Sellem şöyle
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7223</td></tr><tr><td>Arabic No</td><td>7223</td></tr><tr><td>Reference</td><td>Book 93 Hadith 82</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ہم سے اسماعیل بن ابی اویس نے بیان کیا، کہا مجھ سے امام مالک نے بیان کیا، ان سے ابوالزناد نے، ان سے اعرج نے اور ان سے ابوہریرہ رضی اللہ عنہ نے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ”اس ذات کی قسم جس کے ہاتھ میں میری جان ہے! میرا ارادہ ہوا کہ میں لکڑیوں کے جمع کرنے کا حکم دوں، پھر نماز کے لیے اذان دینے کا، پھر کسی سے کہوں کہ وہ لوگوں کو نماز پڑھائے اور میں اس کے بجائے ان لوگوں کے پاس جاؤں ( جو جماعت میں شریک نہیں ہوتے ) اور انہیں ان کے گھروں سمیت جلا دوں۔ قسم ہے اس ذات کی جس کے ہاتھ میں میری جان ہے کہ تم سے کسی کو اگر یہ امید ہو کہ وہاں موٹی ہڈی یا دو «مرماة حسنتين» بکری کے کھر کے درمیان کا گوشت ملے گا تو وہ ضرور ( نماز ) عشاء میں شریک ہو۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7223.5</td></tr><tr><td>Arabic No</td><td>7223.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>

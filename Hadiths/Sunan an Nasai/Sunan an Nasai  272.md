@@ -52,7 +52,7 @@ A similar Hadith was narrated from Al-A'mash with the same chain
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Benzer bir hadis aynı zincirle El-A’meş'tan da rivayet edilmiştir
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>272</td></tr><tr><td>Arabic No</td><td>272</td></tr><tr><td>Reference</td><td>Book 1 Hadith 273</td></tr></tbody></table></div>
 

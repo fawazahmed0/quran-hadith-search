@@ -24,7 +24,7 @@
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدٌ، أَخْبَرَنَا إِسْمَاعِيلُ، عَنِ ابْنِ أَبِي نَجِيحٍ، بِهَذَا ‏ "‏ فِي كَيْلٍ مَعْلُومٍ وَوَزْنٍ مَعْلُومٍ ‏"‏‏.‏
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2239.2</td></tr><tr><td>Arabic No</td><td>2239.2</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2239.2</td></tr><tr><td>Arabic No</td><td>2239.2</td></tr><tr><td>Reference</td><td>Book 35 Hadith 2</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
@@ -36,7 +36,7 @@
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا محمد، اخبرنا اسماعيل، عن ابن ابي نجيح، بهذا " في كيل معلوم ووزن معلوم
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2239.2</td></tr><tr><td>Arabic No</td><td>2239.2</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2239.2</td></tr><tr><td>Arabic No</td><td>2239.2</td></tr><tr><td>Reference</td><td>Book 35 Hadith 2</td></tr></tbody></table></div>
 
 ## Bengali
 
@@ -45,6 +45,12 @@
 ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন মাদ্বীনায় আগমন করেন তখন লোকেরা এক বা দু’ বছরের বাকীতে [রাবী ইসমাঈল সন্দেহ করে বলেন, দু’ অথবা তিন বছরের (মেয়াদে) খেজুর সলম (পদ্ধতিতে) বেচা-কেনা করত। এতে তিনি বললেন,] যে ব্যক্তি খেজুরে সলম করতে চায় সে যেন নির্দিষ্ট মাপে এবং নির্দিষ্ট ওজনে সলম করে। (আধুনিক প্রকাশনীঃ ২০৮০, ইসলামিক ফাউন্ডেশনঃ ২০৯৭) মুহাম্মাদ (রহ.) .... ইবনু আবূ নাজীহ (রহ.) হতে নির্দিষ্ট মাপে এবং নির্দিষ্ট ওজনে (সলম করার কথা) বর্ণিত রয়েছে। (২২৪০, ২২৪১, ২২৫৩, মুসলিম ২২/২৫, হাঃ ১৬০৪, আহমাদ ২৪৫৮) (আধুনিক প্রকাশনীঃ ২০৮১, ইসলামিক ফাউন্ডেশনঃ ২০৯৮)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2239</td></tr><tr><td>Arabic No</td><td>2239</td></tr><tr><td>Reference</td><td>Book 35 Hadith 1</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2239.2</td></tr><tr><td>Arabic No</td><td>2239.2</td></tr><tr><td>Reference</td><td>Book 35 Hadith 2</td></tr></tbody></table></div>
 
 ## English
 
@@ -58,7 +64,7 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) came to Medina and the people used t
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ibn Abi Najih:as above, mentioning only specific measure
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2239.2</td></tr><tr><td>Arabic No</td><td>2239.2</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2239.2</td></tr><tr><td>Arabic No</td><td>2239.2</td></tr><tr><td>Reference</td><td>Book 35 Hadith 2</td></tr></tbody></table></div>
 
 ## Indonesian
 
@@ -68,6 +74,12 @@ Telah menceritakan kepada kami ['Amru bin Zurarah] telah mengabarkan kepada kami
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2239</td></tr><tr><td>Arabic No</td><td>2239</td></tr><tr><td>Reference</td><td>Book 35 Hadith 1</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2239.2</td></tr><tr><td>Arabic No</td><td>2239.2</td></tr><tr><td>Reference</td><td>Book 35 Hadith 2</td></tr></tbody></table></div>
+
 ## Tamil
 
 
@@ -75,6 +87,12 @@ Telah menceritakan kepada kami ['Amru bin Zurarah] telah mengabarkan kepada kami
 இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் மதீனாவுக்கு வந்தபோது, மக்கள் யிஓராண்டு அல்லது ஈராண்டுகளில்’ அல்லது யிஈராண்டு அல்லது மூன்றாண்டுகளில்’ பெற்றுக் கொள்வதாகக் கூறி, பேரீச்சம்பழத்திற்காக முன்பணம் கொடுத்துவந்தனர். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘ஒருவர், (இவ்வாறு) பின்னால் பெற்றுக்கொள்வதாகக் கூறி பேரீச்சம்பழத்திற்காக முன்பணம் கொடுப்பதானால், குறிப்பிட்ட எடைக்காக வும் குறிப்பிட்ட அளவுக்காகவும் கொடுக்கட்டும்!” என்று கூறினார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 35
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2239</td></tr><tr><td>Arabic No</td><td>2239</td></tr><tr><td>Reference</td><td>Book 35 Hadith 1</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2239.2</td></tr><tr><td>Arabic No</td><td>2239.2</td></tr><tr><td>Reference</td><td>Book 35 Hadith 2</td></tr></tbody></table></div>
 
 ## Turkish
 
@@ -84,6 +102,12 @@ Telah menceritakan kepada kami ['Amru bin Zurarah] telah mengabarkan kepada kami
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2239</td></tr><tr><td>Arabic No</td><td>2239</td></tr><tr><td>Reference</td><td>Book 35 Hadith 1</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2239.2</td></tr><tr><td>Arabic No</td><td>2239.2</td></tr><tr><td>Reference</td><td>Book 35 Hadith 2</td></tr></tbody></table></div>
+
 ## Urdu
 
 
@@ -91,3 +115,9 @@ Telah menceritakan kepada kami ['Amru bin Zurarah] telah mengabarkan kepada kami
 ہم سے عمرو بن زرارہ نے بیان کیا، کہا کہ ہم کو اسماعیل بن علیہ نے خبر دی، انہیں ابن ابی نجیح نے خبر دی، انہیں عبداللہ بن کثیر نے، انہیں ابومنہال نے اور ان سے ابن عباس رضی اللہ عنہما نے بیان کیا کہ جب نبی کریم صلی اللہ علیہ وسلم مدینہ تشریف لائے تو ( مدینہ کے ) لوگ پھلوں میں ایک سال یا دو سال کے لیے بیع سلم کرتے تھے۔ یا انہوں نے یہ کہا کہ دو سال اور تین سال ( کے لیے کرتے تھے ) شک اسماعیل کو ہوا تھا۔ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ جو شخص بھی کھجور میں بیع سلم کرے، اسے مقررہ پیمانے یا مقررہ وزن کے ساتھ کرنی چاہئیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2239</td></tr><tr><td>Arabic No</td><td>2239</td></tr><tr><td>Reference</td><td>Book 35 Hadith 1</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2239.2</td></tr><tr><td>Arabic No</td><td>2239.2</td></tr><tr><td>Reference</td><td>Book 35 Hadith 2</td></tr></tbody></table></div>

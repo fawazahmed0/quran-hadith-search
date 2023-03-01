@@ -48,12 +48,6 @@ Narrated Ya'la bin Umayyah:"I said to 'Umar [bin Al-Khattab]: 'Allah said: That 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3034</td></tr><tr><td>Arabic No</td><td>3034</td></tr><tr><td>Reference</td><td>Book 47 Hadith 86</td></tr></tbody></table></div>
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Al Laits bin Sa'd] dari [Ibnu Syihab] dari ['Urwah bin Zubair] menceritakan bahwa [Abdullah bin Zubair] bercerita kepadanya, bahwa seorang Anshar bersengketa dengan Zubair tentang aliran air untuk dipakai menyirami pohon kurma, orang Anshar itu berkata; "Biarkan air itu mengalir." Namun Zubair enggan (tidak menghiraukannya). Kemudian mereka mengadu kepada Rasulullah Shallallahu 'alahi wasallam, beliau bersabda kepada Zubair: "Wahai Zubair siramlah, dan alirkanlah air kepada tetanggamu." Orang Anshar itu marah dan berkata; "Wahai Rasulullah, apa dia sepupu anda?" (mendengar hal itu) berubahlah wajah beliau sambil bersabda: "Wahai Zubair, siramlah dan tahanlah air itu kembali ke kebun." Demi Allah aku menganggap ayat ini turun berkaitan dengan peristiwa itu, Maka demi Rabbmu, mereka (pada hakekatnya) tidak beriman hingga mereka menjadikan kamu hakim terhadap perkara yang mereka perselisihkan. QS An-Nisa': 65. Abu Isa berkata; "Aku mendengar Muhammad berkata; [Ibnu Wahab] meriwayatkan hadits ini dari [Al Laits bin Sa'd] dan [Yunus] dari [Az Zuhri] dari ['Urwah] dari [Abdullah bin Az Zubair] seperti hadits ini. [Syu'aib bin Abu Hamzah] meriwayatkan dari [Az Zuhri] dari ['Urwah] dari [Az Zubair] tanpa menyebut: "Dari Abdullah bin Az Zubair
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3034.5</td></tr><tr><td>Arabic No</td><td>3034.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
-
 ## Turkish
 
 

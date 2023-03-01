@@ -44,7 +44,7 @@
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Telah mengabarkan kepada kami [Qutaibah] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Ibrahim] dan [Sa'id bin Jubair] bahwa keduanya berpendapat tidak mengapa menyewa tanah kosong
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3934</td></tr><tr><td>Arabic No</td><td>3934</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

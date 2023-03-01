@@ -50,12 +50,6 @@ Telah menceritakan kepada kami [Amru bin Ali bin Bahr] telah menceritakan kepada
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6886</td></tr><tr><td>Arabic No</td><td>6886</td></tr><tr><td>Reference</td><td>Book 87 Hadith 25</td></tr></tbody></table></div>
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abul yaman] telah mengabarkan kepada kami [Syu'aib] telah menceritakan kepada kami [Abu Az Zanad], bahwasanya [Al A'raj] menceritakan kepadanya, bahwa [Abu Hurairah] berkata; dirinya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Kami adalah orang-orang terkemudian (generasi pungkasan) di dunia, namun menjadi orang-orang pemula (angkatan pemula) yang masuk surga di hari kiamat
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6886.1</td></tr><tr><td>Arabic No</td><td>6886.1</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
-
 ## Tamil
 
 
@@ -63,12 +57,6 @@ Telah menceritakan kepada kami [Abul yaman] telah mengabarkan kepada kami [Syu'a
 ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் நோய்வாய்ப்பட் டிருந்தபோது (மயக்கமடைந்தார்கள். அப்போது) அவர்களின் வாய் ஓரத்தில் நாங்கள் மருந்தூற்றினோம். உடனே அவர்கள், “எனது வாயில் மருந்தூற்றாதீர் கள்” என்று (சைகையால்) கூறினார்கள். அப்போது நாங்கள், “நோயாளி மருந்தை வெறுப்பதைப் போன்றுதான் (நபியவர்களும் வெறுக்கிறார்கள். ஊற்ற வேண்டாமெனத் தடை செய்யவில்லை)” என்று சொல்லிக்கொண்டோம். அவர்களின் மயக்கம் (முழுமையாகத்) தெளிந்தபோது, “(என் வாயில் மருந்தூற்ற வேண்டாம் என்று நான் தடுத்தும் நீங்கள் கேட்காததற்குப் பகரமாக) உங்களில் ஒருவர் பாக்கியில்லாமல் (இந்த வீட்டிலுள்ள) அனைவர் வாயிலும் மருந்தூற்றப்பட வேண்டும்” என்று கூறிவிட்டு, “ஆனால் அப்பாஸ் அவர்களைத் தவிர! ஏனெனில், மருந்தூற்றும்போது உங்களுடன் அவர் கலந்துகொள்ளவில்லை” என்று கூறினார்கள்.23 அத்தியாயம் : 87
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6886</td></tr><tr><td>Arabic No</td><td>6886</td></tr><tr><td>Reference</td><td>Book 87 Hadith 25</td></tr></tbody></table></div>
-
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நாமே (காலத்தால்) பிந்தியவர்களும் மறுமை நாளில் (தகுதியால்) முந்திய வர்களும் ஆவோம். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.25 அத்தியாயம் : 87
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6886.5</td></tr><tr><td>Arabic No</td><td>6886.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
 ## Turkish
 
@@ -85,9 +73,3 @@ Aişe r.anha şöyle anlatmıştır: Hastalığı esnasında Nebi Sallallahu Ale
 ہم سے عمر بن علی فلاس نے بیان کیا، کہا ہم سے یحییٰ بن سعید قطان نے بیان کیا، کہا ہم سے سفیان ثوری نے بیان کیا، ان سے موسیٰ بن ابی عائشہ نے بیان کیا، ان سے عبیداللہ بن عبداللہ نے اور ان سے عائشہ رضی اللہ عنہا نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم کے منہ میں ( مرض الوفات کے موقع پر ) آپ کی مرضی کے خلاف ہم نے دوا ڈالی۔ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ میرے حلق میں دوا نہ ڈالو لیکن ہم نے سمجھا کہ مریض ہونے کی وجہ سے دوا پینے سے نفرت کر رہے ہیں لیکن جب آپ کو ہوش ہوا تو فرمایا کہ تم جتنے لوگ گھر میں ہو سب کے حلق میں زبردستی دوا ڈالی جائے سوا عباس رضی اللہ عنہ کے کہ وہ اس وقت موجود نہیں تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6886</td></tr><tr><td>Arabic No</td><td>6886</td></tr><tr><td>Reference</td><td>Book 87 Hadith 25</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ہم سے ابوالیمان نے بیان کیا، کہا ہم کو شعیب نے خبر دی، کہا ہم سے ابوالزناد نے بیان کیا، ان سے اعرج نے بیان کیا، انہوں نے ابوہریرہ رضی اللہ عنہ سے سنا، بیان کیا کہ انہوں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا، نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ ہم آخری امت ہیں لیکن ( قیامت کے دن ) سب سے آگے رہنے والے ہیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6886.5</td></tr><tr><td>Arabic No</td><td>6886.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>

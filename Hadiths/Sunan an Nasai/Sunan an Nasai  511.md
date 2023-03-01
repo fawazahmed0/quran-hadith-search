@@ -48,12 +48,6 @@ Telah mengabarkan kepada kami [Ali bin Hujr bin Iyas bin Muqatil Musamrij bin Kh
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>511</td></tr><tr><td>Arabic No</td><td>511</td></tr><tr><td>Reference</td><td>Book 6 Hadith 18</td></tr></tbody></table></div>
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ishaq bin Ibrahim] dia berkata; Telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Salim] dari [Bapaknya] dari Rasulullah Shallallahu'alaihi wasallam beliau bersabda: "Orang yang kehilangan shalat Ashar seolah-olah dia kehilangan (dirampas) keluarga dan hartanya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>511.5</td></tr><tr><td>Arabic No</td><td>511.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
-
 ## Turkish
 
 

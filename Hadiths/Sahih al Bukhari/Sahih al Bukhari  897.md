@@ -70,6 +70,6 @@
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+اس کے بعد فرمایا کہ ہر مسلمان پر حق ہے ( اللہ تعالیٰ کا ) ہر سات دن میں ایک دن جمعہ میں غسل کرے جس میں اپنے سر اور بدن کو دھوئے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>897</td></tr><tr><td>Arabic No</td><td>897</td></tr><tr><td>Reference</td><td>Book 11 Hadith 21</td></tr></tbody></table></div>

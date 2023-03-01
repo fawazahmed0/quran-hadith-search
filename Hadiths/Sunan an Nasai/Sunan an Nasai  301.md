@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Muhammad bin Kamil Al Marwazi] Telah menceritakan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Yine Aişe (r.anha) şöyle diyor: “Rasûlullah (s.a.v)’in elbisesinde gördüğüm meni lekesini ovalayıp çitilemek sûretiyle yok ederdim.” (İbn Mâce, Tahara: 82; Ebû Davud, Tahara: 136)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>301</td></tr><tr><td>Arabic No</td><td>301</td></tr><tr><td>Reference</td><td>Book 1 Hadith 302</td></tr></tbody></table></div>
 

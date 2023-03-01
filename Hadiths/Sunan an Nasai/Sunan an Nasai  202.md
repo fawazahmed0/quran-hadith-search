@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Hisyam bin 'Ammar] dia berkata; Telah menceritaka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Aişe (r.anha)’dan rivâyete göre, Peygamber (s.a.v) şöyle buyurdu: “Hayız kanı başladığı zaman namazı bırak, kan kesildiği zaman guslet ve namaza başla.” (Buhârî, Hayz: 9)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>202</td></tr><tr><td>Arabic No</td><td>202</td></tr><tr><td>Reference</td><td>Book 1 Hadith 203</td></tr></tbody></table></div>
 

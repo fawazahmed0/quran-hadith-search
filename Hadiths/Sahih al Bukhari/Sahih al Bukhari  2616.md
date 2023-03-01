@@ -54,7 +54,7 @@
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: யிதூமத்துல் ஜந்தலி’ன் அரசர் உகைதிர், நபி (ஸல்) அவர்களுக்கு அன்பளிப்புகளை அனுப்பினார்.26 அத்தியாயம் : 51
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2616</td></tr><tr><td>Arabic No</td><td>2616</td></tr><tr><td>Reference</td><td>Book 51 Hadith 48</td></tr></tbody></table></div>
 
@@ -70,6 +70,6 @@ Ve Saîd ibnu Ebî Arûbe, Katâde ibnu Diâme'den; o da Enes'ten söyledi ki: D
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+اور سعید نے بیان کیا قتادہ سے اور ان سے انس رضی اللہ عنہ نے کہ دومہ ( تبوک کے قریب ایک مقام ) کے اکیدر ( نصرانی ) نے نبی کریم صلی اللہ علیہ وسلم کی خدمت میں ہدیہ بھیجا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2616</td></tr><tr><td>Arabic No</td><td>2616</td></tr><tr><td>Reference</td><td>Book 51 Hadith 48</td></tr></tbody></table></div>

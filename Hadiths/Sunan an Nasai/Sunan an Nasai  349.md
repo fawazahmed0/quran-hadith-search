@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami ['Imran bin Yazid] dia berkata; Telah menceritakan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Âişe (radıyallahü anha)’dan rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: görmeye başladığınız zaman namazı bırakın bitince gusledin.) (Buhârî, Hayz: 9; İbn Mâce, Tahara: 115)
+Urve (r.a)’den rivâyete göre, Kureyş kabilesinin Esed kolundan olan Fatıma binti Kays, Rasûlullah (s.a.v)’e gelerek: “Benden kan geliyor halbuki günüm değil” dedi. Bunun üzerine Rasûlullah (s.a.v): “O gördüğün damardan gelen bir kandır, sen normal hayız kanını gördüğünde namaz kılmayı bırak, kan kesilince guslet, üzerine bulaşan kan lekelerini temizle ve namazını kılmaya başla” buyurdular. (Buhârî, Hayz: 9; İbn Mâce, Tahara: 115)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>349</td></tr><tr><td>Arabic No</td><td>349</td></tr><tr><td>Reference</td><td>Book 3 Hadith 2</td></tr></tbody></table></div>
 

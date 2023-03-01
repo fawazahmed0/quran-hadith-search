@@ -22,7 +22,7 @@
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيُّ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا الأَوْزَاعِيُّ، عَنْ حَسَّانَ بْنِ عَطِيَّةَ، بِإِسْنَادِهِ نَحْوَهُ وَزَادَ فِيهِ فَيَجْتَمِعُونَ لِلْمَلْحَمَةِ فَيَأْتُونَ حِينَئِذٍ تَحْتَ ثَمَانِينَ غَايَةٍ تَحْتَ كُلِّ غَايَةٍ اثْنَا عَشَرَ أَلْفًا ‏.‏
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4089.2</td></tr><tr><td>Arabic No</td><td>4089.2</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4089.2</td></tr><tr><td>Arabic No</td><td>4089.2</td></tr><tr><td>Reference</td><td>Book 36 Hadith 165</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
@@ -34,7 +34,7 @@
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا عبد الرحمن بن ابراهيم الدمشقي، حدثنا الوليد بن مسلم، حدثنا الاوزاعي، عن حسان بن عطية، باسناده نحوه وزاد فيه فيجتمعون للملحمة فياتون حينيذ تحت ثمانين غاية تحت كل غاية اثنا عشر الفا
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4089.2</td></tr><tr><td>Arabic No</td><td>4089.2</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4089.2</td></tr><tr><td>Arabic No</td><td>4089.2</td></tr><tr><td>Reference</td><td>Book 36 Hadith 165</td></tr></tbody></table></div>
 
 ## Bengali
 
@@ -43,6 +43,12 @@
 ১/৪০৮৯। হাসান ইবনে আতিয়্যা (রাঃ) থেকে বর্ণিত। তিনি বলেন, মাকহূল, ইবনে যাকারিয়া এবং তাদের সাথে আমিও খালিদ ইবনে মাদান (রাঃ) এর নিকট গেলাম। তিনি জুবাইর ইবনে নূফাইর (রাঃ) -এর সূত্রে আমাদের নিকট হাদীস বর্ণনা করে বলেন, জুবাইর (রাঃ) আমাকে বলেন, তুমি আমাদের সাথে যু মিখমারের নিকট চলো। তিনি ছিলেন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সাহাবী। আমিও তাদের দু’জনের সাথে গেলাম। তিনি তাকে সন্ধি সম্পর্কে জিজ্ঞেস করেন। উত্তরে তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলতে শুনেছিঃ অচিরেই রোমকরা আমাদের সাথে শান্তি চুক্তি করবে। অতঃপর তোমরা (তাদের বিরুদ্ধে) যুদ্ধ করবে এবং তোমরা ও তারা (পরস্পরের) শত্রু হবে। এরপর তোমরা বিজয়ী হবে এবং গনীমতের মাল লাভ করবে। তোমরা নিরাপদ থাকবে এবং (যুদ্ধ থেকে) ফিরে আসবে। এমনকি তোমরা সবুজ-শ্যামল উচ্চ স্থানে অবতরণ করবে। তখন ক্রুশধারীদের মধ্যকার এক ব্যক্তি (ক্রুশ) উত্তোলন করে বলবে, সালীব (ক্রুশ) বিজয়ী হয়েছে। তখন এক মুসলিম ক্রোধান্বিত হয়ে ক্রুশের নিকট গিয়ে তা চূর্ণ-বিচূর্ণ করবে। তখন রোমকরা সন্ধি চুক্তি ভঙ্গ করবে এবং তাদের সকলে যুদ্ধের জন্য ঐক্যবদ্ধ হবে। ২/৪০৮৯(১)। আবদুর রহমান ইবনে ইবরাহীম আল-দিমাশকী-ওলীদ ইবনে মুসলিম-আওযাঈ-হাসসান ইবনে আতিয়্যা (রাঃ) তার সূত্রে উপরোক্ত হাদীসের অনুরূপ বর্ণনা করেছেন। তবে তার বর্ণনায় আরো আছেঃ তারা যুদ্ধের জন্য ঐক্যবদ্ধ হবে এবং আশিটি পতাকার অধীনে যুদ্ধক্ষেত্রে অবতীর্ণ হবে। প্রতিটি পতাকার অধীনে থাকবে বারো হাজার সৈন্য।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4089</td></tr><tr><td>Arabic No</td><td>4089</td></tr><tr><td>Reference</td><td>Book 36 Hadith 164</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4089.2</td></tr><tr><td>Arabic No</td><td>4089.2</td></tr><tr><td>Reference</td><td>Book 36 Hadith 165</td></tr></tbody></table></div>
 
 ## English
 
@@ -56,7 +62,7 @@ It was narrated that Jubair bin Nufair said:“Jubair said to me: ‘Let’s go 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Another chain with a similar report to which he added:"They will gather for the fierce battle, and at that time they will come with eighty banners, under each of which will be twelve thousand troops
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4089.2</td></tr><tr><td>Arabic No</td><td>4089.2</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4089.2</td></tr><tr><td>Arabic No</td><td>4089.2</td></tr><tr><td>Reference</td><td>Book 36 Hadith 165</td></tr></tbody></table></div>
 
 ## Indonesian
 
@@ -66,6 +72,12 @@ Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan ke
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4089</td></tr><tr><td>Arabic No</td><td>4089</td></tr><tr><td>Reference</td><td>Book 36 Hadith 164</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4089.2</td></tr><tr><td>Arabic No</td><td>4089.2</td></tr><tr><td>Reference</td><td>Book 36 Hadith 165</td></tr></tbody></table></div>
+
 ## Turkish
 
 
@@ -74,6 +86,12 @@ Hassan bin Atiyye (r.a.)'dan; Şöyle demiştir: Mekhul ve İbn-i Ebi Zekeriyya 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4089</td></tr><tr><td>Arabic No</td><td>4089</td></tr><tr><td>Reference</td><td>Book 36 Hadith 164</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4089.2</td></tr><tr><td>Arabic No</td><td>4089.2</td></tr><tr><td>Reference</td><td>Book 36 Hadith 165</td></tr></tbody></table></div>
+
 ## Urdu
 
 
@@ -81,3 +99,9 @@ Hassan bin Atiyye (r.a.)'dan; Şöyle demiştir: Mekhul ve İbn-i Ebi Zekeriyya 
 حسان بن عطیہ کہتے ہیں کہ مکحول اور ابن ابی زکریا، خالد بن معدان کی طرف مڑے، اور میں بھی ان کے ساتھ مڑا، خالد نے جبیر بن نفیر کے واسطہ سے بیان کیا کہ جبیر نے مجھ سے کہا کہ تم ہمارے ساتھ ذی مخمر رضی اللہ عنہ کے پاس چلو، جو نبی اکرم صلی اللہ علیہ وسلم کے صحابہ میں سے تھے، چنانچہ میں ان دونوں کے ہمراہ چلا، ان سے صلح کے متعلق سوال کیا تو انہوں نے کہا: میں نے نبی اکرم صلی اللہ علیہ وسلم کو فرماتے سنا ہے: عنقریب ہی روم والے تم سے ایک پر امن صلح کریں گے، اور تمہارے ساتھ مل کر دشمن سے لڑیں گے، پھر تم فتح حاصل کرو گے، اور بہت سا مال غنیمت ہاتھ آئے گا، اور تم لوگ سلامتی کے ساتھ جنگ سے لوٹو گے یہاں تک کہ تم ایک تروتازہ اور سرسبز مقام پر جہاں ٹیلے وغیرہ ہوں گے، اترو گے، وہاں صلیب والوں یعنی رومیوں میں سے ایک شخص صلیب بلند کرے گا، اور کہے گا: صلیب غالب آ گئی، مسلمانوں میں سے ایک شخص غصے میں آئے گا، اور اس کے پاس جا کر صلیب توڑ دے گا، اس وقت رومی عہد توڑ دیں گے، اور سب جنگ کے لیے جمع ہو جائیں گے ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4089</td></tr><tr><td>Arabic No</td><td>4089</td></tr><tr><td>Reference</td><td>Book 36 Hadith 164</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4089.2</td></tr><tr><td>Arabic No</td><td>4089.2</td></tr><tr><td>Reference</td><td>Book 36 Hadith 165</td></tr></tbody></table></div>

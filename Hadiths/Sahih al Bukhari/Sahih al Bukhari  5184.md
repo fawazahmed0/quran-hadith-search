@@ -34,12 +34,6 @@
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5184</td></tr><tr><td>Arabic No</td><td>5184</td></tr><tr><td>Reference</td><td>Book 67 Hadith 119</td></tr></tbody></table></div>
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামবলেন, যে আল্লাহ্ এবং আখিরাতের ওপর বিশ্বাস রাখে, সে যেন আপন প্রতিবেশীকে কষ্ট না দেয়। [৬০১৮, ৬১৩৬, ৬১৩৮, ৬৪৭৫] (আধুনিক প্রকাশনী- ৪৮০৪, ইসলামিক ফাউন্ডেশন- ৪৮০৭)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5184.5</td></tr><tr><td>Arabic No</td><td>5184.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
-
 ## English
 
 

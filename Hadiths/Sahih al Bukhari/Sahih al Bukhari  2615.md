@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: யிதூமத்துல் ஜந்தலி’ன் அரசர் உகைதிர், நபி (ஸல்) அவர்களுக்கு அன்பளிப்புகளை அனுப்பினார்.26 அத்தியாயம் : 51
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களுக்கு மெல்லிய பட்டாலான அங்கி ஒன்று அன்பளிப்பாகத் தரப்பட்டது. அவர்கள் பட்டுத் துணியை (அணிவதைத்) தடை செய்துவந்தார்கள். மக்களோ அந்த அங்கி(யின் தரம் மற்றும் மென்மை)யைக் கண்டு வியந்தார்கள். அப்போது நபி (ஸல்) அவர்கள், ‘‘முஹம்மதின் உயிர் யார் கையில் உள்ளதோ அ(ந்த இறை)வன்மீது சத்திய மாக! சொர்க்கத்தில் (தோழர்) சஅத் பின் முஆதுக்கு கிடைக்கவிருக்கும் கைக் குட்டைகள் இதைவிட அழகானவையாக இருக்கும்” என்று கூறினார்கள். அத்தியாயம் : 51
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2615</td></tr><tr><td>Arabic No</td><td>2615</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -70,6 +70,6 @@ Enes r.a.'den rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem'e saf ipekte
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-اور سعید نے بیان کیا قتادہ سے اور ان سے انس رضی اللہ عنہ نے کہ دومہ ( تبوک کے قریب ایک مقام ) کے اکیدر ( نصرانی ) نے نبی کریم صلی اللہ علیہ وسلم کی خدمت میں ہدیہ بھیجا تھا۔
+ہم سے عبداللہ بن محمد نے بیان کیا، کہا ہم سے یونس بن محمد نے بیان کیا، ان سے شیبان نے بیان کیا قتادہ سے اور ان سے انس رضی اللہ عنہ نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم کی خدمت میں دبیز قسم کے ریشم کا ایک جبہ ہدیہ کے طور پر پیش کیا گیا۔ آپ صلی اللہ علیہ وسلم اس کے استعمال سے ( مردوں کو ) منع فرماتے تھے۔ صحابہ کو بڑی حیرت ہوئی ( کہ کتنا عمدہ ریشم ہے ) آپ صلی اللہ علیہ وسلم نے فرمایا ( تمہیں اس پر حیرت ہے ) اس ذات کی قسم جس کے ہاتھ میں محمد صلی اللہ علیہ وسلم کی جان ہے، جنت میں سعد بن معاذ رضی اللہ عنہ کے رومال اس سے بھی زیادہ خوبصورت ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2615</td></tr><tr><td>Arabic No</td><td>2615</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>

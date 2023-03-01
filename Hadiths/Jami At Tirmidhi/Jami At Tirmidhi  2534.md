@@ -63,9 +63,3 @@ Telah menceritakan kepada kami [Sufyan bin Waki'] telah menceritakan kepada kami
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2534</td></tr><tr><td>Arabic No</td><td>2534</td></tr><tr><td>Reference</td><td>Book 38 Hadith 12</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ابو سعید خدری رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”قیامت کے دن جنت میں داخل ہونے والے پہلے گروہ کے چہرے کی روشنی چودہویں کے چاند کی روشنی کی طرح ہو گی اور دوسرا گروہ آسمان کے روشن اور سب سے خوبصورت ستارے کی طرح ہو گا، ان میں سے ہر آدمی کے لیے دو دو بیویاں ہوں گی اور ہر بیوی کے جسم پر ستر جوڑے کپڑے ہوں گے اور ان کے پنڈلی کا گودا ان کے کپڑوں کے باہر سے نظر آئے گا“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2534.5</td></tr><tr><td>Arabic No</td><td>2534.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>

@@ -34,12 +34,6 @@
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5771</td></tr><tr><td>Arabic No</td><td>5771</td></tr><tr><td>Reference</td><td>Book 76 Hadith 85</td></tr></tbody></table></div>
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ সংক্রমণ বলতে কিছু নেই। [৫৭০৭] (আধুনিক প্রকাশনী- ৫৩৫১, ইসলামিক ফাউন্ডেশন- ৫২৪৭)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5771.5</td></tr><tr><td>Arabic No</td><td>5771.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
-
 ## English
 
 

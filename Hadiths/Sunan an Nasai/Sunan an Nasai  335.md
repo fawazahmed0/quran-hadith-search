@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Ali bin Hujr] dia berkata; Telah memberitakan kep
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Ebû Hüreyre (r.a)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v) şöyle buyurdu: “Sizden birinizin kabına köpek banarsa ve yalarsa o kabın içindekini dökün ve kabı da yedi defa yıkayın.” (Buhârî, Vudu’: 35; Tirmizî, Tahara: 68)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>335</td></tr><tr><td>Arabic No</td><td>335</td></tr><tr><td>Reference</td><td>Book 2 Hadith 11</td></tr></tbody></table></div>
 

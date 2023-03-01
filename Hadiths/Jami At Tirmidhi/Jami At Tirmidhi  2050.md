@@ -48,12 +48,6 @@ Telah menceritakan kepada kami [Humaid bin Mas'adah], telah menceritakan kepada 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2050</td></tr><tr><td>Arabic No</td><td>2050</td></tr><tr><td>Reference</td><td>Book 28 Hadith 15</td></tr></tbody></table></div>
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Al Hasan bin Hirasy Al Baghdadi], telah menceritakan kepada kami [Syababah] dari [Syu'bah] dari [Al A'masy] dari [Abu Sufyan] dari [Jabir bin Abdullah] dari [Ubay bin Ka'ab] bahwasanya Nabi shallallahu 'alaihi wasallam pernah mengobatinya dengan menggunakan Kay. Abu Isa berkata; Ini adalah hadits hasan gharib. Hadits ini juga diriwayatkan oleh lebih dari satu perawi dari [Al A'masy] dari [Abu Sufyan] dari [Jabir] bahwasanya Nabi shallallahu 'alaihi wasallam mengobati Ubay bin Ka'ab dengan Kay
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2050.5</td></tr><tr><td>Arabic No</td><td>2050.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
-
 ## Turkish
 
 

@@ -22,7 +22,7 @@
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَرَوَى شُعْبَةُ، وَالثَّوْرِيُّ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْبَرَاءِ بْنِ عَازِبٍ، قَالَ رَأَيْتُ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم حُلَّةً حَمْرَاءَ ‏.‏ حَدَّثَنَا بِذَلِكَ مَحْمُودُ بْنُ غَيْلاَنَ حَدَّثَنَا وَكِيعٌ حَدَّثَنَا سُفْيَانُ عَنْ أَبِي إِسْحَاقَ وَحَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ حَدَّثَنَا مَحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ عَنْ أَبِي إِسْحَاقَ بِهَذَا ‏.‏ وَفِي الْحَدِيثِ كَلاَمٌ أَكْثَرُ مِنْ هَذَا ‏.‏ قَالَ سَأَلْتُ مُحَمَّدًا قُلْتُ لَهُ حَدِيثُ أَبِي إِسْحَاقَ عَنِ الْبَرَاءِ أَصَحُّ أَوْ حَدِيثُ جَابِرِ بْنِ سَمُرَةَ فَرَأَى كِلاَ الْحَدِيثَيْنِ صَحِيحًا ‏.‏ وَفِي الْبَابِ عَنِ الْبَرَاءِ وَأَبِي جُحَيْفَةَ ‏.‏
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2811.2</td></tr><tr><td>Arabic No</td><td>2811.2</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2811.2</td></tr><tr><td>Arabic No</td><td>2811.2</td></tr><tr><td>Reference</td><td>Book 43 Hadith 85</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
@@ -34,7 +34,7 @@
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وروى شعبة، والثوري، عن ابي اسحاق، عن البراء بن عازب، قال رايت على رسول الله صلى الله عليه وسلم حلة حمراء . حدثنا بذلك محمود بن غيلان حدثنا وكيع حدثنا سفيان عن ابي اسحاق وحدثنا محمد بن بشار حدثنا محمد بن جعفر حدثنا شعبة عن ابي اسحاق بهذا . وفي الحديث كلام اكثر من هذا . قال سالت محمدا قلت له حديث ابي اسحاق عن البراء اصح او حديث جابر بن سمرة فراى كلا الحديثين صحيحا . وفي الباب عن البراء وابي جحيفة
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2811.2</td></tr><tr><td>Arabic No</td><td>2811.2</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2811.2</td></tr><tr><td>Arabic No</td><td>2811.2</td></tr><tr><td>Reference</td><td>Book 43 Hadith 85</td></tr></tbody></table></div>
 
 ## Bengali
 
@@ -43,6 +43,12 @@
 ২৮১১। জাবির ইবনু সামুরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেনঃ এক জোছনা রাতে আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে তাকিয়ে দেখলাম। তার পরনে ছিল একজোড়া লাল রং-এর পোশাক। আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের দিকে এবং চাঁদের দিকে তাকাতে লাগলাম। তিনিই আমার কাছে চাঁদের চাইতে অধিক সুন্দর মনে হল। যঈফ, মুখতাসার শামায়িল (৮)। উহাকে সাহীহ বলা ভুল। আবূ ঈসা বলেনঃ এ হাদীসটি হাসান গারীব। আমরা শুধুমাত্র আশআসের রিওয়ায়াত হিসাবে এ হাদীস জেনেছি। শুবা ও সুফিয়ান সাওরী তারা উভয়েই আবূ ইসহাক হতে বারাআ ইবনু আযিব (রাঃ)-এর সূত্রে বর্ণনা করেছেন তিনি বলেনঃ “আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের পরনে একজোড়া লাল পোশাক দেখেছি"। সহীহ পূর্বে ১৭২৪ নং হাদীসটি বার্ণিত হয়েছে - মাহমূদ ইবনু গাইলান-ওয়াকী হতে তিনি সুফিয়ান হতে তিনি আবূ ইসহাক হতে তিনি মুহাম্মাদ ইবনু বাশশার হতে তিনি মুহাম্মাদ ইবনু জাফর হতে তিনি শুবা হতে তিনি আবূ ইসহাক হতে উপরোক্ত হাদীস বর্ণনা করেছেন। এ হাদীসে আরো অধিক কথা আছে। আমি মুহাম্মাদকে প্রশ্ন করলাম, আবূ ইসহাক-আল-বারাআ (রাঃ) সূত্রে বর্ণিত হাদীসটি বেশি সহীহ না জাবির ইবনু সামুরা (রাঃ)-এর সূত্রে বর্ণিত হাদীসটি? তিনি উভয় হাদীস সহীহ বলে মত দিয়েছেন। এ অনুচ্ছেদে বারাআ ও আবূ জুহাইফা (রাঃ) হতেও হাদীস বর্ণিত আছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2811</td></tr><tr><td>Arabic No</td><td>2811</td></tr><tr><td>Reference</td><td>Book 43 Hadith 84</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2811.2</td></tr><tr><td>Arabic No</td><td>2811.2</td></tr><tr><td>Reference</td><td>Book 43 Hadith 85</td></tr></tbody></table></div>
 
 ## English
 
@@ -56,7 +62,7 @@ Narrated Jabir Bin Samurah:"I saw the Prophet (ﷺ) on a clear night, so I looke
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Shu'bah and Ath-Thawri reported it from Abu Ishaq from Al-Bara bin 'Azib who said:"I saw a red Hullah on the Messenger of Allah." (Another chain of narration)
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2811.2</td></tr><tr><td>Arabic No</td><td>2811.2</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2811.2</td></tr><tr><td>Arabic No</td><td>2811.2</td></tr><tr><td>Reference</td><td>Book 43 Hadith 85</td></tr></tbody></table></div>
 
 ## Indonesian
 
@@ -70,7 +76,7 @@ Telah menceritakan kepada kami [Hannad] telah menceritakan kepada kami [Abtsar b
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syu'bah] dan [Ats Tsauri] dari [Abu Ishaq] dari [Al Bara' bin Azib] ia berkata; Aku melihat Rasulullah shallallahu 'alaihi wasallam mengenakan busana merah." Telah menceritakan kepada kami [Mahmud bin Ghailan] seperti itu, telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Sufyan] dari [Abu Ishaq] dan telah menceritakan kepada kami [Muhammad bin Basyr] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dengan hadits serupa. Dalam hadits tersebut, terdapat pembicaraan yang lebih banyak dari hadits ini. Perawi berkata; Aku bertanya kepada Muhammad, Aku berkata padanya: "Apakah hadits Abu Ishaq dari Al Barra' lebih shahih atau hadits Jabir bin Samurah?." Muhammad menilai kedua hadits itu shahih. Dalam hal ini, ada hadits serupa dari Al Barra' dan Abu Juhaifah
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2811.2</td></tr><tr><td>Arabic No</td><td>2811.2</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2811.2</td></tr><tr><td>Arabic No</td><td>2811.2</td></tr><tr><td>Reference</td><td>Book 43 Hadith 85</td></tr></tbody></table></div>
 
 ## Turkish
 
@@ -84,7 +90,7 @@ Câbir b. Semure (r.a.)’den rivâyete göre, şöyle demiştir: “Rasûlullah
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Tirmizî: Bu hadis hasen garibtir. Sadece Eş’as rivâyetiyle biliyoruz. Şu’be ve Sevrî, Ebû İshâk vasıtasıyla Berâ b. Âzib’den rivâyet ederek şöyle demiştir: “Rasûlullah (s.a.v.)’i üzerinde kırmızı bir elbise ile gördüm.” Aynı şekilde Mahmûd b. Gaylân, Vekî’ vasıtasıyla Sûfyân’dan, Ebû İshâk’tan bu hadisi rivâyet etmişlerdir. Muhammed b. Beşşâr, Muahmmed b. Cafer vasıtasıyla Şu’be’den, Ebû İshâk’tan bu şekilde rivâyet etmişlerdir. Bu hadis buradakinden daha uzundur. Muhammed’e sordum. Ebû İshâk’ın Berâ’dan rivâyeti mi yoksa Câbir b. Semure’nin rivâyeti mi daha sağlamdır? Bu iki hadisi de sağlam buldu. Bu konuda Berâ’dan ve Ebû Cuhayfe’den de hadis rivâyet edilmiştir
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2811.2</td></tr><tr><td>Arabic No</td><td>2811.2</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2811.2</td></tr><tr><td>Arabic No</td><td>2811.2</td></tr><tr><td>Reference</td><td>Book 43 Hadith 85</td></tr></tbody></table></div>
 
 ## Urdu
 
@@ -93,3 +99,9 @@ Tirmizî: Bu hadis hasen garibtir. Sadece Eş’as rivâyetiyle biliyoruz. Şu�
 جابر بن سمرہ رضی الله عنہ کہتے ہیں کہ میں نے ایک انتہائی روشن چاندنی رات میں رسول اللہ صلی اللہ علیہ وسلم کو دیکھا، پھر آپ کو دیکھنے لگا اور چاند کو بھی دیکھنے لگا ( کہ ان دونوں میں کون زیادہ خوبصورت ہے ) آپ اس وقت سرخ جوڑا پہنے ہوئے تھے ۱؎، اور آپ مجھے چاند سے بھی زیادہ حسین نظر آ رہے تھے۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن غریب ہے، ۲- ہم اسے صرف اشعث کی روایت سے جانتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2811</td></tr><tr><td>Arabic No</td><td>2811</td></tr><tr><td>Reference</td><td>Book 43 Hadith 84</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2811.2</td></tr><tr><td>Arabic No</td><td>2811.2</td></tr><tr><td>Reference</td><td>Book 43 Hadith 85</td></tr></tbody></table></div>

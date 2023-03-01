@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Abdullah bin Muhammad bin Tamim] dia berkata; tel
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Yine İbn Abdurrahman b. Ebza babasından naklederek diyor ki: Bir adam Ömer’e gelip “cünüp oldum su da bulamadım” dedi. Ömer de ona: “Öyleyse namaz kılma” dedi. O zaman Ammar, Ömer’e: “Hatırlamıyor musun? ey mü’minlerin emiri, birlikte bir seriyyede idik ve cünüp olmuştuk, su da bulamamıştık, sen namaz kılmamıştın, ben ise toprakta yuvarlanıp sonra da namazımı kılmıştım. (daha sonra) Rasûlullah (s.a.v)’e gelip durumu haber verince şöyle buyurdular: “Şöyle yapman yeterlidir, diyerek iki elini yere vurdu. Sonra ellerine bulaşan toprağı üfürdü, iki eliyle yüzünü ve ellerini meshetti.” Ebû Seleme bu konuda şüphe ederek şöyle dedi: “Dirseklerine kadar mı? Yoksa bileklerine kadar mı meshetti bilmiyorum.” Bunun üzerine Ömer şöyle dedi: “Bu zeka ve kabiliyetinden dolayı seni yetkili bir makama getireceğiz.” Şu’be diyor ki: “İki avucuyla yüzünü ve bileklerine kadar kollarını meshetti.” (İbn Mâce, Tahara: 91; Müslim, Hayz: 28)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>319</td></tr><tr><td>Arabic No</td><td>319</td></tr><tr><td>Reference</td><td>Book 1 Hadith 320</td></tr></tbody></table></div>
 

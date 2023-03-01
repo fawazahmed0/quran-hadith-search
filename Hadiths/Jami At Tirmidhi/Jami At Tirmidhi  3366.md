@@ -48,12 +48,6 @@ Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kep
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3366</td></tr><tr><td>Arabic No</td><td>3366</td></tr><tr><td>Reference</td><td>Book 47 Hadith 418</td></tr></tbody></table></div>
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Isma'il bin Abu Khalid] telah menceritakan kepadaku [Qais yaitu Ibnu Abu Hazim] dari ['Uqbah bin 'Amir Al Juhani] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: " Allah telah menurunkan beberapa ayat kepadaku, belum pernah terlihat yang semisalnya, yaitu; Qul a'uudzu birabbinnaas hingga akhir dan qul a'uudzu birabbil falaq hingga akhir surat." Abu Isa berkata; hadits ini adalah hadits hasan shahih
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3366.5</td></tr><tr><td>Arabic No</td><td>3366.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
-
 ## Turkish
 
 
@@ -69,9 +63,3 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada
 ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے چاند کی طرف دیکھ کر فرمایا: ”عائشہ! اس کے شر سے اللہ کی پناہ مانگو، کیونکہ یہ «غاسق» ہے جب یہ ڈوب جائے“ ۱؎۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3366</td></tr><tr><td>Arabic No</td><td>3366</td></tr><tr><td>Reference</td><td>Book 47 Hadith 418</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-عقبہ بن عامر جہنی رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”اللہ نے مجھ پر کچھ ایسی آیتیں نازل کی ہیں کہ ان جیسی آیتیں کہیں دیکھی نہ گئی ہیں، وہ ہیں «قل أعوذ برب الناس» آخر سورۃ تک اور «قل أعوذ برب الفلق» آخر سورۃ تک۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3366.5</td></tr><tr><td>Arabic No</td><td>3366.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>

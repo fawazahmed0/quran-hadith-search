@@ -34,12 +34,6 @@
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7494</td></tr><tr><td>Arabic No</td><td>7494</td></tr><tr><td>Reference</td><td>Book 97 Hadith 120</td></tr></tbody></table></div>
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেন। আমরা (পৃথিবীতে) সর্বশেষে আগমনকারী, তবে কিয়ামতের দিন অগ্রগামী। [২৩৮] (আধুনিক প্রকাশনী- ৬৯৭৭ প্রথমাংশ, ইসলামিক ফাউন্ডেশন- ৬৯৮৭ প্রথমাংশ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7494.5</td></tr><tr><td>Arabic No</td><td>7494.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
-
 ## English
 
 

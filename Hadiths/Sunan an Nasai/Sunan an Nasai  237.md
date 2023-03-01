@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Suwaid bin Nashr] dia berkata; telah menceritakan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Ümmü Seleme (r.a)’in kölesi Naim’den aktarıldığına göre: Ümmü Seleme’ye: “Kadın kocasıyla gusledebilir mi?” diye soruldu da; o da: “Evet, zeki ve iyi huylu olursa yıkanır” dedi. Rasûlullah (s.a.v) ile birlikte hamur leğeninde yıkandığımızı hatırlıyorum, önce ellerimize döküyor ellerimizi temizledikten sonra oradan avuçlarımızla su alarak vücudumuza döküyorduk. (Müslim, Hayz: 10; Tirmizî, Tahara: 46)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>237</td></tr><tr><td>Arabic No</td><td>237</td></tr><tr><td>Reference</td><td>Book 1 Hadith 238</td></tr></tbody></table></div>
 

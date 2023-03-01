@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Harun bin Ishaq Al Kufii] dia berkata; Telah menc
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Yine Âişe (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: sallallahü aleyhi ve sellem) bir müd su ile abdest alır bir sa’ ile de guslederdi.) (Buhârî, Vudu’’: 51; Tirmizî, Tahara: 42)
+Aişe (r.anha)’dan rivâyet edilmiştir: “Rasûlullah (s.a.v) bir müd su ile abdest alır bir sa’ kadar su ile de guslederdi.” (Buhârî, Vudu’: 51; Tirmizî, Tahara: 42)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>346</td></tr><tr><td>Arabic No</td><td>346</td></tr><tr><td>Reference</td><td>Book 2 Hadith 22</td></tr></tbody></table></div>
 

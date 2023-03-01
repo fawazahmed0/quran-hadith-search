@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Amr bin Ali] dia berkata; Telah menceritakan kepa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Aişe (r.anha)’dan rivâyete göre, şöyle demiştir: Aybaşı olduğum günlerden birinde et yiyordum. Rasûlullah (s.a.v)’de benim ısırdığım yerden yemek sûretiyle o etten yiyordu. Yine ben hayızlı iken içtiğim kabın aynı yerine ağzını getirmek sûretiyle içerdi. (İbn Mâce, Tahara: 125; Müslim, Hayz: 3)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>341</td></tr><tr><td>Arabic No</td><td>341</td></tr><tr><td>Reference</td><td>Book 2 Hadith 17</td></tr></tbody></table></div>
 

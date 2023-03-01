@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Qutaibah] dia berkata; Telah menceritakan kepada 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Yine Âişe (radıyallahü anha)’dan rivâyete göre, Ümmü Habibe Rasûlüllah (sallallahü aleyhi ve sellem)’e hayız kanı dışındaki gelen kanın hükmünü sordu. Âişe’de dedi ki: yıkandığı leğenin kandan dolayı kıpkırmızı olduğunu gördüm. Rasûlüllah (sallallahü aleyhi ve sellem) şöyle cevap verdi: hayız müddetin kadar bekle, o müddet dolunca guslet. (ve namazlarını kıl)) (İbn Mâce, Tahara: 116; Müslim, Hayz: 14)
+Yine Âişe (radıyallahü anha)’dan rivâyete göre, Ümmü Habibe Rasûlüllah (sallallahü aleyhi ve sellem)’e hayız kanı dışındaki gelen kanın hükmünü sordu. Âişe’de dedi ki: yıkandığı leğenin kandan dolayı kıpkırmızı olduğunu gördüm. Rasûlüllah (sallallahü aleyhi ve sellem) şöyle cevap verdi: hayız müddetin kadar bekle, o müddet dolunca guslet. (ve namazlarını kıl)) (Farklı bir hadis zinciri) (İbn Mâce, Tahara: 116; Müslim, Hayz: 14)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>207</td></tr><tr><td>Arabic No</td><td>207</td></tr><tr><td>Reference</td><td>Book 1 Hadith 208</td></tr></tbody></table></div>
 

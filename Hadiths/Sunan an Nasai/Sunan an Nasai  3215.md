@@ -48,12 +48,6 @@ Telah mengkhabarkan kepada kami [Yahya bin Musa], ia berkata; telah menceritakan
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3215</td></tr><tr><td>Arabic No</td><td>3215</td></tr><tr><td>Reference</td><td>Book 26 Hadith 20</td></tr></tbody></table></div>
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami ['Amru bin Zurarah] telah menceritakan kepada kami [Isma'il] dari [Ayyub] dari [Muhammad], dia berkata; "Aku tidak tahu bahwa [Syuraih] memutuskan mengenai seseorang yang melakukan mudharabah kecuali dengan dua keputusan, suatu ketika dia mengatakan kepada pelaksana mudharabah; "Berikanlah buktimu terhadap musibah yang dengannya engkau mendapatkan udzur", atau suatu ketika dia mengatakan kepada pemilik harta; "Berikan buktimu bahwa orang kepercayaanmu adalah orang yang berkhianat, jika tidak maka dia bersumpah dengan nama Allah bahwa dia tidak mengkhianatimu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3215.21875</td></tr><tr><td>Arabic No</td><td>3215.21875</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
-
 ## Turkish
 
 

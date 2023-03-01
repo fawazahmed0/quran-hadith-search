@@ -48,12 +48,6 @@
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1560</td></tr><tr><td>Arabic No</td><td>1560</td></tr><tr><td>Reference</td><td>Book 21 Hadith 16</td></tr></tbody></table></div>
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ali bin Isa Al Baghdadi] ia berkata; telah menceritakan kepada kami [Ubaidullah bin Muhammad Al Qurasyi Al Bashri] berkata, telah menceritakan kepada kami [Hammad bin Salamah] dari [Ayyub] dari [Qatadah] dari [Abu Qilabah] dari [Abu Asma Ar Rahabi] dari [Abu Tsa'labah Al Khusyani] ia berkata, "Wahai Rasulullah, kami berada di wilayah ahli kitab, lalu memasak dengan periuk mereka dan minum dengan bejana mereka?" maka Rasulullah shallallahu 'alaihi wasallam bersabda; "Jika kalian tidak mendapatkan yang lain maka cucilah perkakas tersebut dengan air." Abu Tsa'labah bertanya lagi, "Wahai Rasulullah, kami berada di wilayah yang biasa melakukan pemburuan, lalu apa yang harus kami lakukan?" beliau menjawab: "Jika kamu melepaskan anjing yang telah terlatih dan kamu sebut nama Allah (saat melepasnya) hingga dapat membunuh binatang buruan, maka makanlah. Namun Jika anjing itu tidak terlatih maka bersihkanlah (pada bagian yang digigit), lalu makanlah. Dan jika kamu melempar anak panahmu dan kamu sebut nama Allah hingga membunuhnya (buruan), maka makanlah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1560.5</td></tr><tr><td>Arabic No</td><td>1560.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
-
 ## Turkish
 
 

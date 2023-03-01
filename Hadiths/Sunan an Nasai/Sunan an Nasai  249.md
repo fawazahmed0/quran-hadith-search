@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Muhammad bin Abdullah bin Yazid] dia berkata; Tel
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Yine Aişe (r.anha)’dan rivâyete göre: “Rasûlullah (s.a.v) cünüplükten dolayı gusledeceği zaman saçlarının diplerine suyu ulaştırdıktan sonra başına üç sefer su dökerdi.” (Buhârî, Gusül: 1; Tirmizî, Tahara: 67)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>249</td></tr><tr><td>Arabic No</td><td>249</td></tr><tr><td>Reference</td><td>Book 1 Hadith 250</td></tr></tbody></table></div>
 

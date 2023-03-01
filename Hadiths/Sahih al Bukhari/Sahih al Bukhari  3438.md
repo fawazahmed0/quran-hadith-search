@@ -34,12 +34,6 @@
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3438</td></tr><tr><td>Arabic No</td><td>3438</td></tr><tr><td>Reference</td><td>Book 60 Hadith 109</td></tr></tbody></table></div>
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম লোকজনের সামনে মাসীহ দাজ্জাল সম্পর্কে আলোচনা করলেন। তিনি বললেন, আল্লাহ্ ট্যাঁরা নন। সাবধান! মাসীহ দাজ্জালের ডান চক্ষু ট্যাঁরা। তার চক্ষু যেন ফুলে যাওয়া আঙ্গুরের মত। (৩০৫৭) (ইসলামিক ফাউন্ডেশনঃ ৩১৯৪ প্রথমাংশ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3438.5</td></tr><tr><td>Arabic No</td><td>3438.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
-
 ## English
 
 

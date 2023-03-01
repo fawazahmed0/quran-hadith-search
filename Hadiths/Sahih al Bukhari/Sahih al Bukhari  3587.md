@@ -70,6 +70,6 @@ Ebu Hureyre r.a.'dan rivayete göre Nebi Sallallahu Aleyhi ve Sellem şöyle buy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+ہم سے ابوالیمان نے بیان کیا، کہا ہم کو شعیب نے خبر دی، کہا ہم سے ابوالزناد نے بیان کیا ان سے اعرج نے اور ان سے ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا ”قیامت اس وقت تک نہیں قائم ہو گی جب تک تم ایک ایسی قوم کے ساتھ جنگ نہ کر لو جن کے جوتے بال کے ہوں اور جب تک تم ترکوں سے جنگ نہ کر لو، جن کی آنکھیں چھوٹی ہوں گی، چہرے سرخ ہوں گے، ناک چھوٹی اور چپٹی ہو گی، چہرے ایسے ہوں گے جیسے تہ بہ تہ ڈھال ہوتی ہے۔“
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3587</td></tr><tr><td>Arabic No</td><td>3587</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>

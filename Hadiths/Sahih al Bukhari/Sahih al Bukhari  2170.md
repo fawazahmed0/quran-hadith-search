@@ -62,7 +62,7 @@ Telah menceritakan kepada saya [Abu Al Walid] telah menceritakan kepada kami [Al
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ömer r.a. Nebi Sallallahu Aleyhi ve Sellem'den şunu rivayet etmiştir: "Buğday'ın buğday ile satımı ribadır, ancak peşin olursa başka. Arpa'nın arpa ile satımı ribadır, ancak peşin olursa başka. Hurmanın hurma ile satımı ribadır, ancak peşin olursa başka." باب: بيع الزبيب بالزبيب والطعام بالطعام. 75. KURU ÜZÜMÜN KURU ÜZÜM KARŞILIĞINDA, HUBUBATIN HUBUBAT KARŞILIĞINDA SATIMI -------------------- Hububat diye tercüme ettiğimiz kelime aslen yiyecek anlamına gelen "ta'am" sözcüğüdür. Ancak klasik fıkıhta genellikle ta'am denilince hububat, özelde de buğday kastedilmektedir. Biz de tercümemizde bu durumu esas aldık. -----
+Ömer r.a. Nebi Sallallahu Aleyhi ve Sellem'den şunu rivayet etmiştir: "Buğday'ın buğday ile satımı ribadır, ancak peşin olursa başka. Arpa'nın arpa ile satımı ribadır, ancak peşin olursa başka. Hurmanın hurma ile satımı ribadır, ancak peşin olursa başka." باب: بيع الزبيب بالزبيب والطعام بالطعام. 75. KURU ÜZÜMÜN KURU ÜZÜM KARŞILIĞINDA, HUBUBATIN HUBUBAT KARŞILIĞINDA SATIMI -------------------- Hububat diye tercüme ettiğimiz kelime aslen yiyecek anlamına gelen "ta'am" sözcüğüdür. Ancak klasik fıkıhta genellikle ta'am denilince hububat, özelde de buğday kastedilmektedir. Biz de tercümemizde bu durumu esas aldık
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2170</td></tr><tr><td>Arabic No</td><td>2170</td></tr><tr><td>Reference</td><td>Book 34 Hadith 121</td></tr></tbody></table></div>
 

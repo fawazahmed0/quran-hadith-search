@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Muhammad bin Manshur] dari [Sufyan] dari [Manbudz
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Meymune (r.anha)’dan rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v), bizler hayızlı olduğumuz halde bize yaslanıp Kur’an okurdu. Yine bizler hayızlı olduğumuz halde mescide seccade sererdik. (Ebû Davud, Tahara: 104; Müslim, Hayz: 3)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>273</td></tr><tr><td>Arabic No</td><td>273</td></tr><tr><td>Reference</td><td>Book 1 Hadith 274</td></tr></tbody></table></div>
 

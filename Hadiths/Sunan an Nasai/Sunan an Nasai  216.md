@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kepa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Aişe (r.anha)’dan rivâyete göre, şöyle demiştir: Fatıma binti ebi Hubeyş hayız görmeye başlamıştı da, Rasûlullah (s.a.v) ona şöyle demişti: “Hayız kanı siyahımtırak olarak bilinir. Akan kan bu özellikte olursa namazı bırak. Bu özellikten başka bir kan olursa, abdest al ve namazını kıl.” (Müslim, Hayz: 14; İbn Mâce, Tahara: 115)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>216</td></tr><tr><td>Arabic No</td><td>216</td></tr><tr><td>Reference</td><td>Book 1 Hadith 217</td></tr></tbody></table></div>
 

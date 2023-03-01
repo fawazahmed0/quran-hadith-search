@@ -22,7 +22,7 @@
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا إِسْمَاعِيلُ بْنُ مُوسَى، وَعَلِيُّ بْنُ حُجْرٍ، قَالاَ حَدَّثَنَا ابْنُ أَبِي الزِّنَادِ، عَنْ أَبِيهِ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم مِثْلَهُ ‏.‏ وَفِي الْبَابِ عَنْ أَبِي هُرَيْرَةَ وَالْبَرَاءِ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ وَهُوَ حَدِيثُ ابْنِ أَبِي الزِّنَادِ ‏.‏
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2846.2</td></tr><tr><td>Arabic No</td><td>2846.2</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2846.2</td></tr><tr><td>Arabic No</td><td>2846.2</td></tr><tr><td>Reference</td><td>Book 43 Hadith 121</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
@@ -34,7 +34,7 @@
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا اسماعيل بن موسى، وعلي بن حجر، قالا حدثنا ابن ابي الزناد، عن ابيه، عن عروة، عن عايشة، عن النبي صلى الله عليه وسلم مثله . وفي الباب عن ابي هريرة والبراء . قال ابو عيسى هذا حديث حسن صحيح غريب وهو حديث ابن ابي الزناد
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2846.2</td></tr><tr><td>Arabic No</td><td>2846.2</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2846.2</td></tr><tr><td>Arabic No</td><td>2846.2</td></tr><tr><td>Reference</td><td>Book 43 Hadith 121</td></tr></tbody></table></div>
 
 ## Bengali
 
@@ -43,6 +43,12 @@
 ২৮৪৬। আয়িশাহ (রাযিঃ) হতে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (কবি) হাসসানের জন্য মসজিদে একটি মিম্বার রেখে দিতেন। তিনি তাতে দাঁড়িয়ে রাসূলুল্লাহ -এর গৌরবগাথা আবৃত্তি করতেন অথবা তিনি (আয়িশাহ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পক্ষ থেকে (কাফিরদের কটুক্তির) জবাব দিতেন। আর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলতেনঃ আল্লাহ তা'আলা রূহুল কুদুস জিবরীল এর মাধ্যমে হাসসানকে সহযোগিতা করেন যতক্ষণ তিনি গৌরবগাথা আবৃত্তি করেন অথবা রাসূলের পক্ষ থেকে (কাফিরদের তিরস্কারের) জবাব দেন। হাসানঃ সহীহাহ (১৬৫৭) ইসমাঈল ইবনু মূসা ও আলী ইবনু হুজর তারা উভয়ে ইবনু আবী যিনাদ হতে, তিনি তার বাবা হতে, তিনি উরওয়া হতে, তিনি আয়িশাহ (রাযিঃ) হতে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে এই সূত্রে একই রকম হাদীস বর্ণনা করেছেন। আবূ হুরাইরাহ ও আল-বারাআ (রাযিঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ গারীব। এটি ইবনু আবূয যিনাদের হাদীস।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2846</td></tr><tr><td>Arabic No</td><td>2846</td></tr><tr><td>Reference</td><td>Book 43 Hadith 120</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2846.2</td></tr><tr><td>Arabic No</td><td>2846.2</td></tr><tr><td>Reference</td><td>Book 43 Hadith 121</td></tr></tbody></table></div>
 
 ## English
 
@@ -56,7 +62,7 @@ Narrated 'Aishah:"The Messenger of Allah (ﷺ) had a Minbar placed in the Masjid
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Another chain) from 'Aishah with the same narration
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2846.2</td></tr><tr><td>Arabic No</td><td>2846.2</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2846.2</td></tr><tr><td>Arabic No</td><td>2846.2</td></tr><tr><td>Reference</td><td>Book 43 Hadith 121</td></tr></tbody></table></div>
 
 ## Indonesian
 
@@ -66,6 +72,12 @@ Telah menceritakan kepada kami [Isma'il bin Musa Al Fazari] dan [Ali bin Hujr] s
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2846</td></tr><tr><td>Arabic No</td><td>2846</td></tr><tr><td>Reference</td><td>Book 43 Hadith 120</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2846.2</td></tr><tr><td>Arabic No</td><td>2846.2</td></tr><tr><td>Reference</td><td>Book 43 Hadith 121</td></tr></tbody></table></div>
+
 ## Turkish
 
 
@@ -74,6 +86,12 @@ Telah menceritakan kepada kami [Isma'il bin Musa Al Fazari] dan [Ali bin Hujr] s
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2846</td></tr><tr><td>Arabic No</td><td>2846</td></tr><tr><td>Reference</td><td>Book 43 Hadith 120</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2846.2</td></tr><tr><td>Arabic No</td><td>2846.2</td></tr><tr><td>Reference</td><td>Book 43 Hadith 121</td></tr></tbody></table></div>
+
 ## Urdu
 
 
@@ -81,3 +99,9 @@ Telah menceritakan kepada kami [Isma'il bin Musa Al Fazari] dan [Ali bin Hujr] s
 ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم حسان رضی الله عنہ کے لیے مسجد میں منبر رکھتے تھے جس پر کھڑے ہو کر وہ رسول اللہ صلی اللہ علیہ وسلم کے لیے فخریہ اشعار پڑھتے تھے۔ یا وہ اپنی شاعری کے ذریعہ رسول اللہ صلی اللہ علیہ وسلم کا دفاع فرماتے تھے۔ اور رسول اللہ صلی اللہ علیہ وسلم فرماتے تھے: ”اللہ حسان کی مدد روح القدس ( جبرائیل ) کے ذریعہ فرماتا ہے جب تک وہ ( اپنے اشعار کے ذریعہ ) رسول اللہ صلی اللہ علیہ وسلم کی جانب سے فخر کرتے یا آپ کا دفاع کرتے ہیں“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح غریب ہے۔ اور یہ حدیث ابن ابی الزناد کی روایت سے ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2846</td></tr><tr><td>Arabic No</td><td>2846</td></tr><tr><td>Reference</td><td>Book 43 Hadith 120</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2846.2</td></tr><tr><td>Arabic No</td><td>2846.2</td></tr><tr><td>Reference</td><td>Book 43 Hadith 121</td></tr></tbody></table></div>

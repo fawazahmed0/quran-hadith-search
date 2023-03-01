@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Harun bin Abdullah] dia berkata; Telah menceritak
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+İbn Ömer (r.a)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v) zamanında erkekler ve kadınlar aynı kaptaki suyu kullanarak abdest alırlardı. (Buhârî, Vudu’: 46; İbn Mâce, Tahara: 36)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>342</td></tr><tr><td>Arabic No</td><td>342</td></tr><tr><td>Reference</td><td>Book 2 Hadith 18</td></tr></tbody></table></div>
 

@@ -73,9 +73,3 @@ Telah menceritakan kepada kami [Hibban bin Musa] berkata, telah mengabarkan kepa
 ہم سے حبان بن موسیٰ نے بیان کیا، کہا کہ ہمیں عبداللہ بن مبارک نے خبر دی، کہا کہ ہمیں معمر بن راشد نے زہری سے خبر دی، انہیں محمود بن ربیع انصاری نے انہیں عتبان بن مالک رضی اللہ عنہ نے آپ نے فرمایا کہ ہم نے رسول اللہ صلی اللہ علیہ وسلم کے ساتھ نماز پڑھی۔ پھر جب آپ صلی اللہ علیہ وسلم نے سلام پھیرا تو ہم نے بھی سلام پھیرا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>838</td></tr><tr><td>Arabic No</td><td>838</td></tr><tr><td>Reference</td><td>Book 10 Hadith 231</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ہم سے عبدان نے بیان کیا، کہا کہ ہمیں عبداللہ بن مبارک نے خبر دی کہا کہ ہمیں معمر نے زہری سے خبر دی کہا کہ مجھے محمود بن ربیع نے خبر دی، وہ کہتے تھے کہ مجھے رسول اللہ صلی اللہ علیہ وسلم پوری طرح یاد ہیں اور آپ صلی اللہ علیہ وسلم کا میرے گھر کے ڈول سے کلی کرنا بھی یاد ہے ( جو آپ صلی اللہ علیہ وسلم نے میرے منہ میں ڈالی تھی ) ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>838.5</td></tr><tr><td>Arabic No</td><td>838.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>

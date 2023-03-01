@@ -70,6 +70,6 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) was cupped while he was fasting
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+ہم سے ابومعمر نے بیان کیا، کہا ہم سے عبدالوارث نے بیان کیا، کہا ہم سے ایوب نے بیان کیا، ان سے عکرمہ نے اور ان سے ابن عباس رضی اللہ عنہما نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم نے ( ایک مرتبہ ) روزہ کی حالت میں پچھنا لگوایا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5694</td></tr><tr><td>Arabic No</td><td>5694</td></tr><tr><td>Reference</td><td>Book 76 Hadith 16</td></tr></tbody></table></div>

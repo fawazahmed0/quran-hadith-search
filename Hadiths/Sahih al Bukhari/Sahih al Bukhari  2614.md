@@ -58,12 +58,6 @@ Telah menceritakan kepada kami [Hajjaj bin Minhal] telah menceritakan kepada kam
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2614</td></tr><tr><td>Arabic No</td><td>2614</td></tr><tr><td>Reference</td><td>Book 51 Hadith 47</td></tr></tbody></table></div>
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களுக்கு மெல்லிய பட்டாலான அங்கி ஒன்று அன்பளிப்பாகத் தரப்பட்டது. அவர்கள் பட்டுத் துணியை (அணிவதைத்) தடை செய்துவந்தார்கள். மக்களோ அந்த அங்கி(யின் தரம் மற்றும் மென்மை)யைக் கண்டு வியந்தார்கள். அப்போது நபி (ஸல்) அவர்கள், ‘‘முஹம்மதின் உயிர் யார் கையில் உள்ளதோ அ(ந்த இறை)வன்மீது சத்திய மாக! சொர்க்கத்தில் (தோழர்) சஅத் பின் முஆதுக்கு கிடைக்கவிருக்கும் கைக் குட்டைகள் இதைவிட அழகானவையாக இருக்கும்” என்று கூறினார்கள். அத்தியாயம் : 51
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2614.5</td></tr><tr><td>Arabic No</td><td>2614.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
-
 ## Turkish
 
 
@@ -79,9 +73,3 @@ Ali r.a.'in şöyle dediği rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Selle
 ہم سے حجاج بن منہال نے بیان کیا، کہا ہم سے شعبہ نے بیان کیا کہ مجھے عبدالمالک بن میسرہ نے خبر دی، کہا کہ میں نے زید بن وہب سے سنا کہ علی رضی اللہ عنہ نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم نے مجھے ایک ریشمی حلہ ہدیہ میں دیا تو میں نے اسے پہن لیا۔ لیکن جب غصے کے آثار روئے مبارک پر دیکھے تو اسے اپنی عورتوں میں پھاڑ کر تقسیم کر دیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2614</td></tr><tr><td>Arabic No</td><td>2614</td></tr><tr><td>Reference</td><td>Book 51 Hadith 47</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ہم سے عبداللہ بن محمد نے بیان کیا، کہا ہم سے یونس بن محمد نے بیان کیا، ان سے شیبان نے بیان کیا قتادہ سے اور ان سے انس رضی اللہ عنہ نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم کی خدمت میں دبیز قسم کے ریشم کا ایک جبہ ہدیہ کے طور پر پیش کیا گیا۔ آپ صلی اللہ علیہ وسلم اس کے استعمال سے ( مردوں کو ) منع فرماتے تھے۔ صحابہ کو بڑی حیرت ہوئی ( کہ کتنا عمدہ ریشم ہے ) آپ صلی اللہ علیہ وسلم نے فرمایا ( تمہیں اس پر حیرت ہے ) اس ذات کی قسم جس کے ہاتھ میں محمد صلی اللہ علیہ وسلم کی جان ہے، جنت میں سعد بن معاذ رضی اللہ عنہ کے رومال اس سے بھی زیادہ خوبصورت ہیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2614.5</td></tr><tr><td>Arabic No</td><td>2614.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>

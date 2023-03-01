@@ -58,12 +58,6 @@ Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6174</td></tr><tr><td>Arabic No</td><td>6174</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: (ஒருமுறை) அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் மக்களிடையே எழுந்து நின்று அல்லாஹ்வை அவனுக்கே உரிய பெருமைகளால் புகழ்ந்தபிறகு, (மகா பொய்யன்) தஜ்ஜாலைப் பற்றிக் குறிப்பிட்டார்கள். அப்போது “அவனைக் குறித்து உங்களை நான் எச்சரிக்கிறேன். எந்த இறைத்தூதரும் அவனைக் குறித்து தம் சமூகத்தாரை எச்சரிக்காமலிருந்ததில்லை. (இறைத்தூதர்) நூஹ் அவர்கள் அவனைக் குறித்துத் தம் சமூகத்தாரை எச்சரித்திருக்கிறார்கள். அவனைப் பற்றி (இதுவரை) எந்த இறைத்தூதரும் தம் சமூகத்தாருக்குக் கூறாத ஓர் அடையாளத்தை உங்களுக்கு நான் கூறுகிறேன்: அவன் ஒற்றைக் கண்ணன். ஆனால், அல்லாஹ் ஒற்றைக் கண்ணன் அல்லன் என்பதை நீங்கள் அறிந்துகொள்ள வேண்டும்” என்று சொன்னார்கள்.196 அபூஅப்தில்லாஹ் (புகாரீ) கூறுகிறேன்: (‘விலகிப்போ’ எனும் பொருள் கொண்ட ‘இக்ஸஃ’ எனும் சொல்லின் இறந்தகால வினைச் சொல்லான) ‘கஸஃத்துல் கல்ப’ எனும் சொல்லுக்கு ‘நாயை தூர விரட்டினேன்’ என்பது பொருள். ‘காஸிஈன்’ என்பதற்கு ‘விரட்டப்பட்டவர்கள்’ என்பது பொருள். அத்தியாயம் : 78
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6174.5</td></tr><tr><td>Arabic No</td><td>6174.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
-
 ## Turkish
 
 

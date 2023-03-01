@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Muhammad bin Basyar] dia berkata; Telah mencerita
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+İbn Abdurrahman b. Ebza (r.a) babasından naklederek şöyle diyor: Bir adam Ömer’e gelerek: Cünüp oldum su da bulamadım dedi. Ömer de namaz kılma dedi. Bunun üzerine Ammar b. Yasir: Ey Mü’minlerin emiri! Hatırlamaz mısın? Sen ve biz bir seriyyede idik, cünüp olmuştuk ve su da bulamamıştık, o zaman sen namaz kılmıştın fakat ben her tarafıma toprağın değmesi için toprakta yuvarlanmış ve namazlarımı kılmıştım. Sonra Peygamber (s.a.v)’e gelip bu durumu söyleyince Rasûlullah (s.a.v): “Şöyle yapman yeterliydi” buyurarak: “Ellerini yere vurdu sonra iki eline üfledi ve yüzüyle iki elini meshetti.” Ravi, Seleme burada şüphe edip ellerini dirseklere kadar mı yoksa bileklere kadar mı olduğunu bilemiyor. Ammar’ın bu sözü üzerine Ömer: Seni layık olduğun göreve getiriyoruz diyor. (Müslim, Hayz: 28; Buhârî, Teyemmüm: 2)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>312</td></tr><tr><td>Arabic No</td><td>312</td></tr><tr><td>Reference</td><td>Book 1 Hadith 313</td></tr></tbody></table></div>
 

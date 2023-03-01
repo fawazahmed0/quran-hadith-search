@@ -44,7 +44,7 @@ It was narrated that Abu Salamah bin 'Abdur-Rahman said:"Abu Hurairah told me th
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Telah mengabarkan kepada kami [Muhammad bin 'Abdul A'la] dan [Muhammad bin Hisyam] dan [Abul Asy'ats] dan lafazh ini miliknya, mereka berkata; telah menceritakan kepada kami [Khalid] dia berkata; telah menceritakan kepada kami [Hisyam] dari [Yahya bin Abu Katsir] dari [Abu Salamah bin 'Abdurrahman] dia berkata; telah menceritakan kepadaku [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang berpuasa Ramadlan dengan penuh keimanan dan mengharap pahala, maka akan diampuni dari dosanya yang telah lalu. Dan, barangsiapa yang melakukan qiyamullail pada malam lailatul Qadar dengan penuh keimanan dan mengharap pahala, maka akan diampuni dari dosanya yang telah berlalu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2206</td></tr><tr><td>Arabic No</td><td>2206</td></tr><tr><td>Reference</td><td>Book 22 Hadith 117</td></tr></tbody></table></div>
 

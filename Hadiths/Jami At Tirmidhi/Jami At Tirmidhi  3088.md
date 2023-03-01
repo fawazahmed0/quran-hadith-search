@@ -44,15 +44,9 @@ Narrated 'Ali:"I asked the Messenger of Allah (ﷺ) about the day of Al-Hajj Al-
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3088</td></tr><tr><td>Arabic No</td><td>3088</td></tr><tr><td>Reference</td><td>Book 47 Hadith 140</td></tr></tbody></table></div>
-
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Warits bin Abdushshamad bin Abdulwarits] telah menceritakan kepada kami [ayahku] dari [ayahnya] dari [Muhammad bin Ishaq] dari [Abu Ishaq] dari [Al Harits] dari [Ali] berkata: Aku pernah bertanya kepada Rasulullah Shallallahu 'alaihi wa Salam tentang hari haji akbar lalu beliau menjawab: "Hari qurban
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3088.5</td></tr><tr><td>Arabic No</td><td>3088.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3088</td></tr><tr><td>Arabic No</td><td>3088</td></tr><tr><td>Reference</td><td>Book 47 Hadith 140</td></tr></tbody></table></div>
 
 ## Turkish
 

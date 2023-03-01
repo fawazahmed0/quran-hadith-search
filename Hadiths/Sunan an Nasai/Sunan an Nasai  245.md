@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Mahmud bin Ghailan] Telah memberitakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Ebû Seleme (r.a)’den rivâyete göre, şöyle demiştir: “Bir gün Aişe (r.anha)’nın yanına girmiştim ve Rasûlullah (s.a.v)’in cünüplükten dolayı nasıl yıkandığını sormuştum. O da şöyle dedi: “Rasûlullah (s.a.v)’e bir kap su getirilirdi; önce ellerine üç defa o kaptan dökerek yıkardı, sonra sağ eli ile sol eline su döker bacakları arasını temizlerdi, sonra ellerini tekrar yıkar ağzına ve burnuna su verirdi, sonra başına üç defa su döker, sonra da vücudunun diğer bölümlerini yıkardı.” (Buhârî, Gusül: 1; Ebû Davud, Tahara: 98)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>245</td></tr><tr><td>Arabic No</td><td>245</td></tr><tr><td>Reference</td><td>Book 1 Hadith 246</td></tr></tbody></table></div>
 

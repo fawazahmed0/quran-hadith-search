@@ -54,15 +54,9 @@ Telah bercerita kepada kami [Ahmad bin Waqid] telah bercerita kepada kami [Hamma
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3757</td></tr><tr><td>Arabic No</td><td>3757</td></tr><tr><td>Reference</td><td>Book 62 Hadith 103</td></tr></tbody></table></div>
-
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அனஸ் (ரலி) அவர்கள் கூறிய தாவது: ஸைத் (பின் ஹாரிஸா-ரலி) அவர்களும் ஜஅஃபர் (பின் அபீதாலிப்-ரலி) அவர்களும் (அப்துல்லாஹ்) இப்னு ரவாஹா (ரலி) அவர்களும் (மூத்தா போர்க் களத்தில்) உயிர்நீத்துவிட்ட செய்தியை, அது (மதீனாவிற்கு) வந்துசேர்வதற்கு முன்பே (இறைவனால் அறிவிக்கப்பெற்று மக்களுக்கு) நபி (ஸல்) அவர்கள் அறிவித்தார்கள். “(முதலில்) இஸ்லாமியச் சேனையின் கொடியை ஸைத் (தமது கையில்) எடுத்தார்; அவர் கொல்லப்பட்டுவிட்டார். பிறகு, ஜஅஃபர் (தமது கையில்) எடுத்தார். அவரும் கொல்லப்பட்டுவிட்டார். பிறகு இப்னு ரவாஹா (தம் கையில் கொடியை) எடுத்தார். அவரும் கொல்லப்பட்டுவிட்டார்” என்று நபி (ஸல்) அவர்கள் சொன்னார்கள். அப்போது நபி (ஸல்) அவர்களுடைய கண்கள் இரண்டும் கண்ணீரைச் சொரிந்துகொண்டிருந்தன. இறுதியில் அக்கொடியை அல்லாஹ்வின் வாட்களில் ஒரு வாள் (காலித் பின் அல்வலீத்) எடுத்தது. அல்லாஹ் (அவரது கரத்தில்) முஸ்லிம்களுக்கு வெற்றியை அளித்துவிட்டான்” என்று (போர்க்கள நிகழ்ச்சிகளை விவரித்துச்) சொன்னார்கள்.141 அத்தியாயம் : 62
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3757.1</td></tr><tr><td>Arabic No</td><td>3757.1</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3757</td></tr><tr><td>Arabic No</td><td>3757</td></tr><tr><td>Reference</td><td>Book 62 Hadith 103</td></tr></tbody></table></div>
 
 ## Turkish
 

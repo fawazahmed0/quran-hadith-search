@@ -60,12 +60,6 @@ Sehl b. Ebi Hasme el-Ensârî (r.a.)'den şöyle dediği rivayet olunmuştur: Ko
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari And Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1239</td></tr><tr><td>Arabic No</td><td>1239</td></tr><tr><td>Reference</td><td>Book 4 Hadith 42</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 صالح بن خوات انصاری کہتے ہیں کہ سہل بن ابی حثمہ انصاری رضی اللہ عنہ نے ان سے بیان کیا ہے کہ نماز خوف اس طرح ہو گی کہ امام ( نماز کے لیے ) کھڑا ہو گا اور اس کے ساتھیوں کی ایک جماعت اس کے ساتھ ہو گی اور دوسری جماعت دشمن کے سامنے کھڑی ہو گی، امام اور جو اس کے ساتھ ہوں گے رکوع اور سجدہ کریں گے پھر امام کھڑا ہو گا، جب پورے طور سے سیدھا کھڑا ہو جائے گا تو یونہی کھڑا رہے گا یہاں تک کہ لوگ اپنی باقی ( دوسری ) رکعت بھی ادا کر لیں گے، پھر وہ لوگ سلام پھیر کر واپس چلے جائیں گے اور امام کھڑا رہے گا، اب یہ دشمن کے سامنے ہوں گے اور جن لوگوں نے نماز نہیں پڑھی ہے، وہ آئیں گے اور امام کے پیچھے تکبیر ( تکبیر تحریمہ ) کہیں گے پھر وہ ان کے ساتھ رکوع اور سجدہ کر کے اپنی دوسری رکعت پوری کرے گا پھر سلام پھیر دے گا، اس کے بعد یہ لوگ کھڑے ہو کر اپنی باقی رکعت ادا کریں گے پھر سلام پھیریں گے۔ ابوداؤد کہتے ہیں: رہی قاسم سے مروی یحییٰ بن سعید کی روایت تو وہ یزید بن رومان کی روایت ہی کی طرح ہے سوائے اس کے کہ انہوں نے سلام میں اختلاف کیا ہے اور عبیداللہ کی روایت یحییٰ بن سعید کی روایت کی طرح ہے اس میں ہے کہ ( امام ) کھڑا رہے گا ۔
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1239.5</td></tr><tr><td>Arabic No</td><td>1239.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari And Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1239</td></tr><tr><td>Arabic No</td><td>1239</td></tr><tr><td>Reference</td><td>Book 4 Hadith 42</td></tr></tbody></table></div>

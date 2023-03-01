@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Ishaq bin Ibrahim] dia berkata; Telah mengabarkan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Aişe (r.anha)’dan rivâyete göre, şöyle demiştir: Fatıma binti Hubeyş Rasûlullah (s.a.v)’e gelerek: “Ben kendisinden devamlı kan gelen ve temizlenemeyen bir kadınım, namazı bırakayım mı?” diye sordu. Rasûlullah (s.a.v) şöyle buyurdu: “Hayır, bu damardan gelen bir kandır hayız kanı değildir. Hayız günlerinin sayısına göre kan gelmeye başladığı zaman namaz kılmayı bırak, hayız bittiği zaman ise üzerine bulaşan kanı yıka ve namazlarını kıl.” (Buhârî, Hayz: 20; İbn Mâce, Tahara: 117)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>212</td></tr><tr><td>Arabic No</td><td>212</td></tr><tr><td>Reference</td><td>Book 1 Hadith 213</td></tr></tbody></table></div>
 

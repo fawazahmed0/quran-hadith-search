@@ -34,12 +34,6 @@
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1184</td></tr><tr><td>Arabic No</td><td>1184</td></tr><tr><td>Reference</td><td>Book 19 Hadith 61</td></tr></tbody></table></div>
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ذَكَرَهُ أَنَسٌ وَعَائِشَةُ رَضِيَ اللهُ عَنْهُمَا عَنِ النَّبِيِّ صلى الله عليه وسلم. এ বিষয়ে আনাস ও ‘আয়িশাহ্ (রাযি.) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেছেন। ১১৮৫. ইবনু শিহাব (রহ.) হতে বর্ণিত। তিনি বলেন, মাহমূদ ইবনু রাবী‘ আনসারী (রাযি.) আমাকে জানিয়েছেন যে, (শিশুকালে তাঁর দেখা) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর কথা তাঁর ভাল স্মরণ আছে এবং নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁদের বাড়ির কুপ হতে (পানি মুখে নিয়ে বারাকাতের জন্য) তার মুখমন্ডলে যে ছিটিয়ে দিচ্ছিলেন সে কথাও তার ভাল মনে আছে। (৭৭) (আধুনিক প্রকাশনীঃ ১১০৯, ইসলামিক ফাউন্ডেশনঃ ১১১৪)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1184.5</td></tr><tr><td>Arabic No</td><td>1184.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
-
 ## English
 
 
@@ -79,9 +73,3 @@ Mersed İbn Abdullah el-Yezenî şöyle demiştir: Ukbe İbn Amir el-Cühenî'ni
 ہم سے عبداللہ بن یزید نے بیان کیا، کہا کہ ہم سے سعید بن ابی ایوب نے بیان کیا، کہا کہ مجھ سے یزید بن ابی حبیب نے بیان کیا، انہوں نے کہا کہ میں نے مرثد بن عبداللہ یزنی سے سنا کہ میں عقبہ بن عامر جہنی صحابی رضی اللہ عنہ کے پاس آیا اور عرض کیا آپ کو ابوتمیم عبداللہ بن مالک پر تعجب نہیں آیا کہ وہ مغرب کی نماز فرض سے پہلے دو رکعت نفل پڑھتے ہیں۔ اس پر عقبہ نے فرمایا کہ ہم بھی رسول اللہ صلی اللہ علیہ وسلم کے زمانہ میں اسے پڑھتے تھے۔ میں نے کہا پھر اب اس کے چھوڑنے کی کیا وجہ ہے؟ انہوں نے فرمایا کہ دنیا کے کاروبار مانع ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1184</td></tr><tr><td>Arabic No</td><td>1184</td></tr><tr><td>Reference</td><td>Book 19 Hadith 61</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ہم سے اسحاق بن راہویہ نے بیان کیا، کہا کہ ہم سے یعقوب بن ابراہیم نے بیان کیا، کہا کہ ہم سے ہمارے باپ ابراہیم بن سعد نے بیان کیا، ان سے ابن شہاب نے کہا کہ مجھے محمود بن ربیع انصاری رضی اللہ عنہ نے خبر دی کہ انہیں نبی کریم صلی اللہ علیہ وسلم یاد ہیں اور آپ صلی اللہ علیہ وسلم کی وہ کلی بھی یاد ہے جو آپ صلی اللہ علیہ وسلم نے ان کے گھر کے کنویں سے پانی لے کر ان کے منہ میں کی تھی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1184.5</td></tr><tr><td>Arabic No</td><td>1184.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>

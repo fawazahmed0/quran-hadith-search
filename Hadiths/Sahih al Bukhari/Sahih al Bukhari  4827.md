@@ -58,12 +58,6 @@ Telah menceritakan kepada kami [Musa bin Ismail] Telah menceritakan kepada kami 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4827</td></tr><tr><td>Arabic No</td><td>4827</td></tr><tr><td>Reference</td><td>Book 65 Hadith 349</td></tr></tbody></table></div>
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்களுடைய துணைவியாரான ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களை உள்நாக்குத் தெரியும் அளவுக்குச் சிரிப்பவர்களாகக் கண்ட தில்லை. அவர்கள் புன்னகைப்பவர்களா கவே இருந்தார்கள்.2 அத்தியாயம் : 65
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4827.5</td></tr><tr><td>Arabic No</td><td>4827.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
-
 ## Turkish
 
 
@@ -79,9 +73,3 @@ Yusuf İbn Mahek'in şöyle söylediği rivayet edilmiştir: Mervan, Hicaz bölg
 ہم سے موسیٰ بن اسماعیل نے بیان کیا، کہا ہم سے ابوعوانہ نے بیان کیا، ان سے ابوبشر نے، ان سے یوسف بن ماہک نے بیان کیا کہ مروان کو معاویہ رضی اللہ عنہ نے حجاز کا امیر ( گورنر ) بنایا تھا۔ اس نے ایک موقع پر خطبہ دیا اور خطبہ میں یزید بن معاویہ کا باربار ذکر کیا، تاکہ اس کے والد ( معاویہ رضی اللہ عنہ ) کے بعد اس سے لوگ بیعت کریں۔ اس پر عبدالرحمٰن بن ابی بکر رضی اللہ عنہما نے اعتراضاً کچھ فرمایا۔ مروان نے کہا اسے پکڑ لو۔ عبدالرحمٰن اپنی بہن عائشہ رضی اللہ عنہا کے گھر میں چلے گئے تو وہ لوگ پکڑ نہیں سکے۔ اس پر مروان بولا کہ اسی شخص کے بارے میں قرآن کی یہ آیت نازل ہوئی تھی «والذي قال لوالديه أف لكما أتعدانني‏» کہ ”اور جس شخص نے اپنے ماں باپ سے کہا کہ تف ہے تم پر کیا تم مجھے خبر دیتے ہو۔“ اس پر عائشہ رضی اللہ عنہا نے کہا کہ ہمارے ( آل ابی بکر کے ) بارے میں اللہ تعالیٰ نے کوئی آیت نازل نہیں کی بلکہ تہمت سے میری برات ضرور نازل کی تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4827</td></tr><tr><td>Arabic No</td><td>4827</td></tr><tr><td>Reference</td><td>Book 65 Hadith 349</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ہم سے احمد نے بیان کیا، کہا ہم سے ابن وہب نے بیان کیا، انہیں عمرو نے خبر دی، ان سے ابوالنضر نے بیان کیا، ان سے سلیمان بن یسار نے اور ان سے نبی کریم صلی اللہ علیہ وسلم کی زوجہ مطہرہ عائشہ رضی اللہ عنہا نے بیان کیا کہ میں نے نبی کریم صلی اللہ علیہ وسلم کو کبھی اس طرح ہنستے نہیں دیکھا کہ آپ کے حلق کا کوا نظر آ جائے بلکہ آپ تبسم فرمایا کرتے تھے، بیان کیا کہ جب بھی آپ بادل یا ہوا دیکھتے تو ( گھبراہٹ اور اللہ کا خوف ) آپ کے چہرہ مبارک سے پہچان لیا جاتا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4827.5</td></tr><tr><td>Arabic No</td><td>4827.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>

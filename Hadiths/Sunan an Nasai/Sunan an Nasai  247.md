@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Qutaibah] dari [Malik] dari [Hisyam bin Urwah] da
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Aişe (r.anha)’dan rivâyete göre, Peygamber (s.a.v) cünüplükten dolayı yıkanacağında: “Önce ellerini yıkar, sonra namaz abdesti gibi abdest alırdı. Sonra elini suya sokar parmak aralarını ovuşturur, saç diplerini de ovalayıp başına üç avuç su döker, sonra da tüm vücudunu su ile yıkardı.” (Buhârî, Gusül: 1; Tirmizî, Tahara: 76)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>247</td></tr><tr><td>Arabic No</td><td>247</td></tr><tr><td>Reference</td><td>Book 1 Hadith 248</td></tr></tbody></table></div>
 

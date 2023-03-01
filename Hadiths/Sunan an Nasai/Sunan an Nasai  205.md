@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Muhammad bin Salamah] dia berkata; Telah mencerit
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Aişe (r.anha)’dan rivâyete göre, Rasûlullah (s.a.v)’in baldızı ve Abdurrahman b. Avf’ın karısı Ümmü Habibe‘den hayız kanı dışında yedi sene özür kanı gelmişti bu konuda, Rasûlullah (s.a.v)‘e fetva için sordu; Rasûlullah (s.a.v): “Bu kan hayız kanı değildir, damardan gelen bir kandır. Guslet ve namazlarını kıl” buyurdular. (Buhârî, Hayz: 27; Tirmizî, Tahara: 96)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>205</td></tr><tr><td>Arabic No</td><td>205</td></tr><tr><td>Reference</td><td>Book 1 Hadith 206</td></tr></tbody></table></div>
 

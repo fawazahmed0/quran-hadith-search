@@ -34,12 +34,6 @@
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4871</td></tr><tr><td>Arabic No</td><td>4871</td></tr><tr><td>Reference</td><td>Book 65 Hadith 392</td></tr></tbody></table></div>
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-قَالَ مُجَاهِدٌ يَسَّرْنَا هَوَّنَّا قِرَاءَتَهُ. মুজাহিদ (রহ.) বলেন, يَسَّرْنَا আমি এর পঠন পদ্ধতি সহজ করে দিয়েছি। ৪৮৭০. ‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম فَهَلْ مِنْ مُدَّكِرٍ পড়তেন। [৩৩৪১] (আধুনিক প্রকাশনীঃ ৪৫০৩, ইসলামিক ফাউন্ডেশনঃ ৪৫০৬)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4871.5</td></tr><tr><td>Arabic No</td><td>4871.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
-
 ## English
 
 

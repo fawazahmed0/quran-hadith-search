@@ -24,7 +24,7 @@
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ شُعْبَةَ، عَنْ قَتَادَةَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم نَحْوَهُ‏.‏
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6895.2</td></tr><tr><td>Arabic No</td><td>6895.2</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6895.2</td></tr><tr><td>Arabic No</td><td>6895.2</td></tr><tr><td>Reference</td><td>Book 87 Hadith 34</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
@@ -36,7 +36,7 @@
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا محمد بن بشار، حدثنا ابن ابي عدي، عن شعبة، عن قتادة، عن عكرمة، عن ابن عباس، قال سمعت النبي صلى الله عليه وسلم نحوه
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6895.2</td></tr><tr><td>Arabic No</td><td>6895.2</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6895.2</td></tr><tr><td>Arabic No</td><td>6895.2</td></tr><tr><td>Reference</td><td>Book 87 Hadith 34</td></tr></tbody></table></div>
 
 ## Bengali
 
@@ -45,6 +45,12 @@
 ইবনু ‘আব্বাস (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেনঃ রক্তপণের ব্যাপারে) এটি এবং ওটি সমান। অর্থাৎ কনিষ্ঠাঙ্গুলি ও বৃদ্ধাঙ্গুলি। (আধুনিক প্রকাশনী- ৬৪০১৫, ইসলামিক ফাউন্ডেশন- ৬৪২৮) মুহাম্মাদ ইবনু বাশশার (রহ.) ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে ঐরূপই বলতে শুনেছি। (আধুনিক প্রকাশনী- ৬৪১৬, ইসলামিক ফাউন্ডেশন- ৬৪২৯)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6895</td></tr><tr><td>Arabic No</td><td>6895</td></tr><tr><td>Reference</td><td>Book 87 Hadith 33</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6895.2</td></tr><tr><td>Arabic No</td><td>6895.2</td></tr><tr><td>Reference</td><td>Book 87 Hadith 34</td></tr></tbody></table></div>
 
 ## English
 
@@ -58,7 +64,7 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "This and this are the same." He mea
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ibn 'Abbas:I heard the Prophet (saying the same as above Hadith 34)
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6895.2</td></tr><tr><td>Arabic No</td><td>6895.2</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6895.2</td></tr><tr><td>Arabic No</td><td>6895.2</td></tr><tr><td>Reference</td><td>Book 87 Hadith 34</td></tr></tbody></table></div>
 
 ## Indonesian
 
@@ -68,6 +74,12 @@ Telah menceritakan kepada kami [Adam] dari [Syu'bah] dari [Qatadah] dari [Ikrima
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6895</td></tr><tr><td>Arabic No</td><td>6895</td></tr><tr><td>Reference</td><td>Book 87 Hadith 33</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6895.2</td></tr><tr><td>Arabic No</td><td>6895.2</td></tr><tr><td>Reference</td><td>Book 87 Hadith 34</td></tr></tbody></table></div>
+
 ## Tamil
 
 
@@ -75,6 +87,12 @@ Telah menceritakan kepada kami [Adam] dari [Syu'bah] dari [Qatadah] dari [Ikrima
 நபி (ஸல்) அவர்கள் கூறினார்கள்: இதோ இந்த சுண்டு விரலும் கட்டை விரலும் (இழப்பீட்டில்) சமமானவையே. இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இதைப் போன்றே நபி (ஸல்) அவர்களிடம் தாம் செவியுற்றதாக இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவித்துள்ள ஒரு ஹதீஸ் மற்றோர் அறிவிப்பாளர்தொடரில் வந்துள்ளது. அத்தியாயம் : 87
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6895</td></tr><tr><td>Arabic No</td><td>6895</td></tr><tr><td>Reference</td><td>Book 87 Hadith 33</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6895.2</td></tr><tr><td>Arabic No</td><td>6895.2</td></tr><tr><td>Reference</td><td>Book 87 Hadith 34</td></tr></tbody></table></div>
 
 ## Turkish
 
@@ -84,6 +102,12 @@ Telah menceritakan kepada kami [Adam] dari [Syu'bah] dari [Qatadah] dari [Ikrima
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6895</td></tr><tr><td>Arabic No</td><td>6895</td></tr><tr><td>Reference</td><td>Book 87 Hadith 33</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6895.2</td></tr><tr><td>Arabic No</td><td>6895.2</td></tr><tr><td>Reference</td><td>Book 87 Hadith 34</td></tr></tbody></table></div>
+
 ## Urdu
 
 
@@ -91,3 +115,9 @@ Telah menceritakan kepada kami [Adam] dari [Syu'bah] dari [Qatadah] dari [Ikrima
 ہم سے آدم نے بیان کیا، کہا ہم سے شعبہ نے بیان کیا، ان سے قتادہ نے، ان سے عکرمہ نے اور ان سے ابن عباس رضی اللہ عنہما نے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا ”یہ اور یہ برابر یعنی چھنگلیا اور انگوٹھا دیت میں برابر ہیں۔“
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6895</td></tr><tr><td>Arabic No</td><td>6895</td></tr><tr><td>Reference</td><td>Book 87 Hadith 33</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6895.2</td></tr><tr><td>Arabic No</td><td>6895.2</td></tr><tr><td>Reference</td><td>Book 87 Hadith 34</td></tr></tbody></table></div>

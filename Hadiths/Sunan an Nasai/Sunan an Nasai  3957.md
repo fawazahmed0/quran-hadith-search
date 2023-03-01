@@ -48,12 +48,6 @@ Telah mengabarkan kepada kami [Muhammad bin Al Mutsanna] dari [Abdurrahman] dari
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3957</td></tr><tr><td>Arabic No</td><td>3957</td></tr><tr><td>Reference</td><td>Book 36 Hadith 19</td></tr></tbody></table></div>
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad] ia berkata; telah menceritakan kepada kami [Hibban] ia berkata; telah memberitakan kepada kami [Abdullah] dari [Ma'mar] dari [Hammad] dan [Qatadah] mengenai seorang laki-laki yang berkata kepada orang yang lain, 'Aku ingin menyewa kamu (untuk mengantar) menuju Makkah dengan upah sekian dan sekian, jika aku pergi selama sebulan. Atau sekian dan sekian -lalu ia menyebutkan lama waktunya-, maka kamu akan mendapatkan tambahan sekian dan sekian.' Mereka berdua memandang hal tersebut tidak mengapa, dan mereka tidak menyukai untuk mengatakan, 'Aku akan menyewa darimu dengan upah sekian dan sekian, jika aku berjalan lebih dari satu bulan maka aku akan mengurangi sewaanmu sekian dan sekian
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3957.375</td></tr><tr><td>Arabic No</td><td>3957.375</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
-
 ## Turkish
 
 

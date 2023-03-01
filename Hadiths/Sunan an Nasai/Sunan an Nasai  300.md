@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Qutaibah] dia berkata; Telah menceritakan kepada 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Yine Âişe (radıyallahü anha) şöyle diyor: sallallahü aleyhi ve sellem)’in elbisesinde gördüğüm meni lekesini ovalayıp çitilemek sûretiyle yok ederdim.) (İbn Mâce, Tahara: 82; Ebû Dâvûd, Tahara: 136)
+Yine Aişe (r.anha) şöyle demiştir: “Rasûlullah (s.a.v)’in elbisesinde gördüğüm meni lekesini ovalamak sûretiyle giderdim.” (İbn Mâce, Tahara: 82; Ebû Davud, Tahara: 136)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>300</td></tr><tr><td>Arabic No</td><td>300</td></tr><tr><td>Reference</td><td>Book 1 Hadith 301</td></tr></tbody></table></div>
 

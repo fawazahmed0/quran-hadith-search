@@ -24,7 +24,7 @@
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا ابْنُ أَبِي مَرْيَمَ، قَالَ أَخْبَرَنَا يَحْيَى بْنُ أَيُّوبَ، قَالَ حَدَّثَنِي حُمَيْدٌ، قَالَ سَمِعْتُ أَنَسًا، بِهَذَا‏.‏
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>402.2</td></tr><tr><td>Arabic No</td><td>402.2</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>402.2</td></tr><tr><td>Arabic No</td><td>402.2</td></tr><tr><td>Reference</td><td>Book 8 Hadith 54</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
@@ -36,7 +36,7 @@
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ابن ابي مريم، قال اخبرنا يحيى بن ايوب، قال حدثني حميد، قال سمعت انسا، بهذا
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>402.2</td></tr><tr><td>Arabic No</td><td>402.2</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>402.2</td></tr><tr><td>Arabic No</td><td>402.2</td></tr><tr><td>Reference</td><td>Book 8 Hadith 54</td></tr></tbody></table></div>
 
 ## Bengali
 
@@ -45,6 +45,12 @@
 وَقَدْ سَلَّمَ النَّبِيُّ صلى الله عليه وسلم فِي رَكْعَتَيْ الظُّهْرِ وَأَقْبَلَ عَلَى النَّاسِ بِوَجْهِهِ ثُمَّ أَتَمَّ مَا بَقِيَ. নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুহরের দু’রাক‘আত সালাত আদায় করে সালাম ফিরিয়ে মুসল্লীগণের দিকে মুখ করলেন। অতঃপর বাকী সালাত পূর্ণ করলেন। ৪০২. আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেন, ‘উমার (রাযি.) বলেছেনঃ তিনটি বিষয়ে আমার অভিমত আল্লাহর ওয়াহীর সাথে সামঞ্জস্যপূর্ণ হয়েছে। আমি বলেছিলাম, হে আল্লাহর রাসূল! আমরা যদি মাকামে ইব্রাহীমকে সালাতের স্থান বানাতে পারতাম! তখন এ আয়াত নাযিল হয়ঃ ‘‘তোমরা মাকামে ইব্রাহীমকে সালাতের স্থান বানাও’’- (সূরাহ্ আল-বাক্বারাহ ২/১২৫)। (দ্বিতীয়) পর্দার আয়াত, আমি বললামঃ হে আল্লাহর রাসূল! আপনি যদি আপনার সহধর্মিণীগণকে পর্দার আদেশ করতেন! কেননা, সৎ ও অসৎ সবাই তাঁদের সাথে কথা বলে। তখন পর্দার আয়াত নাযিল হয়। আর একবার নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সহধর্মিণীগণ অভিমান সহকারে একত্রে তাঁর নিকট উপস্থিত হন। তখন আমি তাঁদেরকে বললামঃ ‘‘আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যদি তোমাদের ত্বলাক (তালাক) দেন, তাহলে তাঁর রব তাঁকে তোমাদের পরিবর্তে তোমাদের চেয়ে উত্তম অনুগত স্ত্রী দান করবেন’’- (সূরাহ্ তাহরীম ৬৬/৫)। তখন এ আয়াত অবতীর্ণ হয়। (৪৪৮৩, ৪৭৯০, ৪৯১৬) অপর সনদে হুমায়দ বলেন, আমি আনাস (রাযি.) হতে অনুরূপ শুনেছি। (আধুনিক প্রকাশনীঃ ৩৮৭, ইসলামিক ফাউন্ডেশনঃ ৩৯৩)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>402</td></tr><tr><td>Arabic No</td><td>402</td></tr><tr><td>Reference</td><td>Book 8 Hadith 53</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>402.2</td></tr><tr><td>Arabic No</td><td>402.2</td></tr><tr><td>Reference</td><td>Book 8 Hadith 54</td></tr></tbody></table></div>
 
 ## English
 
@@ -58,7 +64,7 @@ Narrated 'Umar (bin Al-Khattab):My Lord agreed with me in three things: -1. I sa
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Anas:as above (395)
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>402.2</td></tr><tr><td>Arabic No</td><td>402.2</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>402.2</td></tr><tr><td>Arabic No</td><td>402.2</td></tr><tr><td>Reference</td><td>Book 8 Hadith 54</td></tr></tbody></table></div>
 
 ## Indonesian
 
@@ -68,6 +74,12 @@ Telah menceritakan kepada kami ['Amru bin 'Aun] berkata, telah menceritakan kepa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>402</td></tr><tr><td>Arabic No</td><td>402</td></tr><tr><td>Reference</td><td>Book 8 Hadith 53</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>402.2</td></tr><tr><td>Arabic No</td><td>402.2</td></tr><tr><td>Reference</td><td>Book 8 Hadith 54</td></tr></tbody></table></div>
+
 ## Tamil
 
 
@@ -75,6 +87,12 @@ Telah menceritakan kepada kami ['Amru bin 'Aun] berkata, telah menceritakan kepa
 உமர் (ரலி) அவர்கள் கூறியதாவது: மூன்று விஷயங்களில் நான் என் இறைவனுக்கு இசைவான கருத்து கொண்டேன்: 1. நான் (நபி (ஸல்) அவர்களிடம்), “அல்லாஹ்வின் தூதரே! இப்ராஹீம் (அலை) அவர்கள் நின்ற இடத்தைத் தொழுமிடமாக நாம் ஆக்கிக்கொள்ளலாமே!” என்று கேட்டேன். அப்போது, “இப்ராஹீம் நின்ற இடத்தைத் தொழும் இடமாக ஆக்கிக் கொள்ளுங்கள்” (2:125) எனும் இறை வசனம் அருளப்பெற்றது.29 2. பர்தா குறித்த இறைவசனமும் (என் கருத்துக்கு இசைவாகவே அருளப் பெற்றது.) : நான் (நபி (ஸல்) அவர்களிடம்), “அல்லாஹ்வின் தூதரே! தங்கள் துணைவி யரை பர்தா அணியும்படி தாங்கள் கட்டளையிடலாமே! ஏனெனில், அவர் களுடன் நல்லவரும் கெட்டவரும் (எல்லா வகை மனிதர்களும்) உரையாடலாம்” என்று சொன்னேன். அப்போது பர்தா குறித்த இறைவசனம் அருளப்பெற்றது. 3. (ஒருமுறை) நபி (ஸல்) அவர்களின் துணைவியர் அனைவரும் ஒன்று சேர்ந்து, நபி (ஸல்) அவர்களிடம் வைராக்கியமாக நடந்துகொண்டனர். அப்போது நான் அவர்களிடம், “இறைத் தூதர் உங்களை மணவிலக்குச் செய்து விட்டால், உங்களை விடச் சிறந்த துணைவியரை அவர்களுக்கு அல்லாஹ் வழங்கலாம்” என்று சொன்னேன். அப்போது (நான் கூறியவாறே) இந்த இறைவசனம் (66:5) அருளப்பெற்றது. இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 8
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>402</td></tr><tr><td>Arabic No</td><td>402</td></tr><tr><td>Reference</td><td>Book 8 Hadith 53</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>402.2</td></tr><tr><td>Arabic No</td><td>402.2</td></tr><tr><td>Reference</td><td>Book 8 Hadith 54</td></tr></tbody></table></div>
 
 ## Turkish
 
@@ -84,6 +102,12 @@ Humeyd, Enes İbn Mâlikten şöyle nakletmiştir: "Hz. Ömer şöyle dedi: Üç
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>402</td></tr><tr><td>Arabic No</td><td>402</td></tr><tr><td>Reference</td><td>Book 8 Hadith 53</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>402.2</td></tr><tr><td>Arabic No</td><td>402.2</td></tr><tr><td>Reference</td><td>Book 8 Hadith 54</td></tr></tbody></table></div>
+
 ## Urdu
 
 
@@ -91,3 +115,9 @@ Humeyd, Enes İbn Mâlikten şöyle nakletmiştir: "Hz. Ömer şöyle dedi: Üç
 ہم سے عمرو بن عون نے بیان کیا، کہا ہم سے ہشیم نے حمید کے واسطہ سے، انہوں نے انس بن مالک رضی اللہ عنہ کے واسطہ سے کہ عمر رضی اللہ عنہ نے فرمایا کہ میری تین باتوں میں جو میرے منہ سے نکلا میرے رب نے ویسا ہی حکم فرمایا۔ میں نے کہا تھا کہ یا رسول اللہ! اگر ہم مقام ابراہیم کو نماز پڑھنے کی جگہ بنا سکتے تو اچھا ہوتا۔ اس پر یہ آیت نازل ہوئی۔ ”اور تم مقام ابراہیم کو نماز پڑھنے کی جگہ بنا لو“ دوسری آیت پردہ کے بارے میں ہے۔ میں نے کہا تھا کہ یا رسول اللہ کاش! آپ اپنی عورتوں کو پردہ کا حکم دیتے، کیونکہ ان سے اچھے اور برے ہر طرح کے لوگ بات کرتے ہیں۔ اس پر پردہ کی آیت نازل ہوئی اور ایک مرتبہ نبی کریم صلی اللہ علیہ وسلم کی بیویاں جوش و خروش میں آپ کی خدمت میں اتفاق کر کے کچھ مطالبات لے کر حاضر ہوئیں۔ میں نے ان سے کہا کہ ہو سکتا ہے کہ اللہ پاک تمہیں طلاق دلا دیں اور تمہارے بدلے تم سے بہتر مسلمہ بیویاں اپنے رسول صلی اللہ علیہ وسلم کو عنایت کریں، تو یہ آیت نازل ہوئی «عسى ربه إن طلقكن أن يبدله أزواجا خيرا منكن‏» اور سعید ابن ابی مریم نے کہا کہ مجھے یحییٰ بن ایوب نے خبر دی، کہا کہ ہم سے حمید نے بیان کیا، کہا میں نے انس رضی اللہ عنہ سے یہ حدیث سنی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>402</td></tr><tr><td>Arabic No</td><td>402</td></tr><tr><td>Reference</td><td>Book 8 Hadith 53</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>402.2</td></tr><tr><td>Arabic No</td><td>402.2</td></tr><tr><td>Reference</td><td>Book 8 Hadith 54</td></tr></tbody></table></div>

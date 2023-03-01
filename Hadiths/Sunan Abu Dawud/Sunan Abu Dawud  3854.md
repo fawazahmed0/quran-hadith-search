@@ -32,12 +32,6 @@
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3854</td></tr><tr><td>Arabic No</td><td>3854</td></tr><tr><td>Reference</td><td>Book 28 Hadith 119</td></tr></tbody></table></div>
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন দাঊদ (রহঃ) ..... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ জাহিলী যুগের লোকেরা কোন কোন বস্তু খেত এবং কোন কোন বস্তুকে খারাপ মনে করে পরিহার করতো। তখন আল্লাহ্‌ তা'আলা তাঁর নবীকে প্রেরণ করেন এবং তাঁর কিতাব নাযিল করেন, আর তাঁর হালালকে হালাল এবং হারামকে হারাম নির্ধারণ করে দেন। ফলে তিনি যা হালাল করেন তা হালাল এবং যা হারাম করেন তা হারাম। আর তিনি যে সম্পর্কে চুপ থাকেন, তা ক্ষমার যোগ্য। এরপর তিনি এ আয়াত তিলাওয়াত করেনঃ (অর্থ) আপনি বলুন! আমার প্রতি যে প্রত্যাদেশ হয়েছে তাতে, লোকে যা আহার করে, তার মধ্যে আমি কিছুই নিষিদ্ধ পাই না। মরা, বহমান রক্ত ও শূকরের গোশত ব্যতীত। কেননা, এ অবশ্যই অপবিত্র অথবা যা অবৈধ, আল্লাহ্‌ ছাড়া অন্যের নামে উৎসর্গের কারণে; তবে কেউ অবাধ্য না হয়ে এবং সীমালংঘন না করে তা গ্রহণে নিরুপায় হলে, (সে আলাদা ব্যাপার)। নিশ্চয় তোমার রব ক্ষমাশীল, পরম দয়ালু।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3854.3</td></tr><tr><td>Arabic No</td><td>3854.3</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
-
 ## English
 
 

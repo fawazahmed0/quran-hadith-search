@@ -63,9 +63,3 @@ Telah mengabarkan kepada kami ['Amru bin Ali] berkata; telah menceritakan kepada
 زید بن ثابت رضی الله عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”عمریٰ وارث کا حق ہے“۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3721</td></tr><tr><td>Arabic No</td><td>3721</td></tr><tr><td>Reference</td><td>Book 34 Hadith 2</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-زید بن ثابت رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے عمریٰ کا فیصلہ وارث کے حق میں کیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3721.5</td></tr><tr><td>Arabic No</td><td>3721.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>

@@ -70,6 +70,6 @@ Bize Abdullah ibnu Mesleme tahdîs edip şöyle dedi: Ben İbnu Ebî Zi'b'in huz
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+پھر ابوہریرہ رضی اللہ عنہ کی عائشہ رضی اللہ عنہا نے بھی تصدیق کی اور فرمایا کہ میں نے رسول اللہ صلی اللہ علیہ وسلم سے یہ ارشاد خود سنا ہے۔ اس پر ابن عمر رضی اللہ عنہما نے کہا کہ پھر تو ہم نے بہت سے قیراطوں کا نقصان اٹھایا۔ ( سورۃ الزمر میں جو لفظ ) «فرطت‏» آیا ہے اس کے یہی معنی ہیں میں نے ضائع کیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1324</td></tr><tr><td>Arabic No</td><td>1324</td></tr><tr><td>Reference</td><td>Book 23 Hadith 80</td></tr></tbody></table></div>

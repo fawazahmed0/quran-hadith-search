@@ -73,9 +73,3 @@ Ebu Saîd el-Hudrî (Radiyallahu Anh) Resûlullah Sallallahu Aleyhi ve Sellem'in
 ہم سے عبداللہ بن مسلمہ قعنبی نے بیان کیا، ان سے امام مالک نے بیان کیا، ان سے صفوان بن سلیم نے، ان سے عطاء بن یسار نے، ان سے ابو سعید خدری رضی اللہ عنہ نے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ ہر بالغ کے اوپر جمعہ کے دن غسل واجب ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>895</td></tr><tr><td>Arabic No</td><td>895</td></tr><tr><td>Reference</td><td>Book 11 Hadith 20</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ہم سے مسلم بن ابراہیم نے بیان کیا، کہا کہ ہم سے وہیب بن خالد نے بیان کیا، کہا کہ ہم سے عبداللہ بن طاؤس نے بیان کیا، ان سے ان کے باپ طاؤس نے، ان سے ابوہریرہ رضی اللہ عنہ نے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ہم ( دنیا میں ) تو بعد میں آئے لیکن قیامت کے دن سب سے آگے ہوں گے، فرق صرف یہ ہے کہ یہود و نصاریٰ کو کتاب ہم سے پہلے دی گئی اور ہمیں بعد میں۔ تو یہ دن ( جمعہ ) وہ ہے جس کے بارے میں اہل کتاب نے اختلاف کیا، اللہ تعالیٰ نے ہمیں یہ دن بتلا دیا ( اس کے بعد ) دوسرا دن ( ہفتہ ) یہود کا دن ہے اور تیسرا دن ( اتوار ) نصاریٰ کا۔ آپ پھر خاموش ہو گئے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>895.5</td></tr><tr><td>Arabic No</td><td>895.5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
