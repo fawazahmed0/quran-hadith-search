@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes İbn Malik r.a. şöyle demiştir: Bir demirci, yemek hazırlayarak Nebii Sallallahu Aleyhi ve Sellem'İ yemeğe davet etti. Ben de Resulullah Sallallahu Aleyhi ve Sellem ile birlikte bu yemeğe gittim. Hz. Nebi'in Sallallahu Aleyhi ve Sellem önüne ekmek, kabak çorbası ve kurutulmuş et konuldu. Ben, Hz. Nebi'in tabağın içinde kabakları araştırdığını gördüm. O günden beri kabağı severim. Tekrar: 5379
+Enes İbn Malik r.a. şöyle demiştir: Bir demirci, yemek hazırlayarak Nebii Sallallahu Aleyhi ve Sellem'İ yemeğe davet etti. Ben de Resulullah Sallallahu Aleyhi ve Sellem ile birlikte bu yemeğe gittim. Hz. Nebi'in Sallallahu Aleyhi ve Sellem önüne ekmek, kabak çorbası ve kurutulmuş et konuldu. Ben, Hz. Nebi'in tabağın içinde kabakları araştırdığını gördüm. O günden beri kabağı severim. Tekrar: 5379, 5433, 5435, 5
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2092</td></tr><tr><td>Arabic No</td><td>2092</td></tr><tr><td>Reference</td><td>Book 34 Hadith 45</td></tr></tbody></table></div>
 

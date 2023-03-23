@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Mu'allaa bin Asad] berkata, telah menceritakan k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Malik İbn-i Huveyris'ten şöyle nakledilmiştir: Kabilemden bir grup insanla birlikte Nebi Sallallahu Aleyhi ve Sellem'in yanına geldim.Yirmi gün yanında kaldım. Çok merhametli ve yumuşak kalpli biriydi. Ailelerimize olan özlemimizi fark edince bize: 'Geri dönün, onların yanında olun, onlara dinlerini öğretin ve namaz kılın. Namaz vakti girince biriniz ezan okusun, en büyüğünüz de namaz kıldırsın' buyur­du. Tekrar: 630, 631, 6
+Malik İbn-i Huveyris'ten şöyle nakledilmiştir: Kabilemden bir grup insanla birlikte Nebi Sallallahu Aleyhi ve Sellem'in yanına geldim.Yirmi gün yanında kaldım. Çok merhametli ve yumuşak kalpli biriydi. Ailelerimize olan özlemimizi fark edince bize: 'Geri dönün, onların yanında olun, onlara dinlerini öğretin ve namaz kılın. Namaz vakti girince biriniz ezan okusun, en büyüğünüz de namaz kıldırsın' buyur­du. Tekrar: 630, 631, 658, 685, 819, 2
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>628</td></tr><tr><td>Arabic No</td><td>628</td></tr><tr><td>Reference</td><td>Book 10 Hadith 25</td></tr></tbody></table></div>
 

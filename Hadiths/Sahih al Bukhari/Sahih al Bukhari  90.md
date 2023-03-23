@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Katsir] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Mes'ud el-Ensarî şöyle demiştir: Bir adam Nebimize: Ey Allah'ın Resulü! Falanca bize namaz kıldırırken namazı uzattığından neredeyse cemaatle namaza yaklaşmıyorum (arasıra terk ediyorum)"demişti. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) o gün verdiği vaaz sırasındaki öfkeli halinden daha öfkeli olarak görmedim. şöyle buyurdu: "Ey insanlar! Sizler nefret ettiriyorsunuz, insanlara namaz kıldıran kişi (namazı) hafif tutsun. Çünkü namaz kılanların (cemaatin) içinde hasta, zayıf ve ihtiyaç sahibi olanlar vardır. Tekrar:
+Ebu Mes'ud el-Ensarî şöyle demiştir: Bir adam Nebimize: Ey Allah'ın Resulü! Falanca bize namaz kıldırırken namazı uzattığından neredeyse cemaatle namaza yaklaşmıyorum (arasıra terk ediyorum)"demişti. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) o gün verdiği vaaz sırasındaki öfkeli halinden daha öfkeli olarak görmedim. şöyle buyurdu: "Ey insanlar! Sizler nefret ettiriyorsunuz, insanlara namaz kıldıran kişi (namazı) hafif tutsun. Çünkü namaz kılanların (cemaatin) içinde hasta, zayıf ve ihtiyaç sahibi olanlar vardır. Tekrar: 702,
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>90</td></tr><tr><td>Arabic No</td><td>90</td></tr><tr><td>Reference</td><td>Book 3 Hadith 32</td></tr></tbody></table></div>
 

@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami [Ja
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Musa r.a.'ın naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Esirlerin bağlarını çözün, açları doyurun ve hastaları ziyaret edin!" Tekrar:
+Ebu Musa r.a.'ın naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Esirlerin bağlarını çözün, açları doyurun ve hastaları ziyaret edin!" Tekrar: 5174, 5
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3046</td></tr><tr><td>Arabic No</td><td>3046</td></tr><tr><td>Reference</td><td>Book 56 Hadith 252</td></tr></tbody></table></div>
 

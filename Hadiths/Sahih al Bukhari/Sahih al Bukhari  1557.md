@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Al Makkiy bin Ibrahim] dari [Ibnu Juraij], ['Ath
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cabir'den nakledildiğine göre, Nebi Sallallahu Aleyhi ve Sellem Ali (r.a.)'e ihramlı olarak kalmasını emretmiştir. Cabir burada, Süraka'nın sözüne de yer vermiştir. Tekrar: 1568, 1570, 1651
+Cabir'den nakledildiğine göre, Nebi Sallallahu Aleyhi ve Sellem Ali (r.a.)'e ihramlı olarak kalmasını emretmiştir. Cabir burada, Süraka'nın sözüne de yer vermiştir. Tekrar: 1568, 1570, 1651, 1785, 2506, 4
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1557</td></tr><tr><td>Arabic No</td><td>1557</td></tr><tr><td>Reference</td><td>Book 25 Hadith 43</td></tr></tbody></table></div>
 

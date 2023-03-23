@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Nafi Abdullah bin Ömer (r.a.)'den şöyle nakletmiştir: "Nebi Sallallahu Aleyhi ve Sellem yarışa hazırlanmış atlar arasında Hafyâ'dan Veda' tepesine kadar yarış yapmıştır. Yarışa hazırlanmamış atlar arasında Seniyye'den Zuraykoğulları camisine kadar yarışmıştır. Abdullah İbn Ömer de yarışanlar arasında idi. Tekrar:
+Nafi Abdullah bin Ömer (r.a.)'den şöyle nakletmiştir: "Nebi Sallallahu Aleyhi ve Sellem yarışa hazırlanmış atlar arasında Hafyâ'dan Veda' tepesine kadar yarış yapmıştır. Yarışa hazırlanmamış atlar arasında Seniyye'den Zuraykoğulları camisine kadar yarışmıştır. Abdullah İbn Ömer de yarışanlar arasında idi. Tekrar: 2868, 2
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>420</td></tr><tr><td>Arabic No</td><td>420</td></tr><tr><td>Reference</td><td>Book 8 Hadith 70</td></tr></tbody></table></div>
 

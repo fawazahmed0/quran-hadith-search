@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Amr İbn DInar'ın naklettiğine göre, Ömer r.a. (vakıf olarak) vermiş olduğu sadakalarla ilgili olarak, "Vakfın işlerini yürüten kişinin, söz konusu maldan yemesinde, mal biriktirme amacı bulunmadan arkadaşına yedirmesinde bir günah yoktur" demiştir. İbn Ömer, Hz. Ömer'in vakfına ait işleri yürütmüştür. O, konakladığı yerlerdeki Mekke ahalisine bu maldan hediye verirdi. Tekrar:
+Amr İbn DInar'ın naklettiğine göre, Ömer r.a. (vakıf olarak) vermiş olduğu sadakalarla ilgili olarak, "Vakfın işlerini yürüten kişinin, söz konusu maldan yemesinde, mal biriktirme amacı bulunmadan arkadaşına yedirmesinde bir günah yoktur" demiştir. İbn Ömer, Hz. Ömer'in vakfına ait işleri yürütmüştür. O, konakladığı yerlerdeki Mekke ahalisine bu maldan hediye verirdi. Tekrar: 2137, 2764, 2
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2313</td></tr><tr><td>Arabic No</td><td>2313</td></tr><tr><td>Reference</td><td>Book 40 Hadith 13</td></tr></tbody></table></div>
 

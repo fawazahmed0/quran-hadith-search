@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes r.a. şöyle demiştir: Nebiyy-i Muhterem sallallahu aleyhi ve sellem buyurdu ki: La İlahe İllallah deyib de kalbinde bir arpa tanesi kadar hayır (yani iman) bulunan kimse Cehennem'den çıkacaktır. La İlahe İllallah deyip te kalbinde bir buğday tanesi kadar hayır (yani iman) bulunan kimse Cehennem'den çıkacaktır. La İlahe İllallah deyip te kalbinde bir zerre kadar hayır (iman) bulunan kimse Cehennem'den çıkacaktır. Tekrar: 4476, 6565
+Enes r.a. şöyle demiştir: Nebiyy-i Muhterem sallallahu aleyhi ve sellem buyurdu ki: La İlahe İllallah deyib de kalbinde bir arpa tanesi kadar hayır (yani iman) bulunan kimse Cehennem'den çıkacaktır. La İlahe İllallah deyip te kalbinde bir buğday tanesi kadar hayır (yani iman) bulunan kimse Cehennem'den çıkacaktır. La İlahe İllallah deyip te kalbinde bir zerre kadar hayır (iman) bulunan kimse Cehennem'den çıkacaktır. Tekrar: 4476, 6565, 7410, 7440, 7
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>44</td></tr><tr><td>Arabic No</td><td>44</td></tr><tr><td>Reference</td><td>Book 2 Hadith 37</td></tr></tbody></table></div>
 

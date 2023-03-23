@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Ishaq bin Ibrahim] dia mendengar [Muhammad bin Fudh
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Mücaşi' şöyle demiştir: "Kardeşimle birlikte Resulullah Sallallahu Aleyhi ve Sellem'e geldik. Ben: "Hicret etmek üzere sana bey'at ediyoruz" dedim. Resul-i Ekrem Sallallahu Aleyhi ve Sellem: "Artık hicret bitti !" buyurdu. Ben: "Peki bizden hangi konuda bey'at alacaksınız?" deyince şöyle buyurdu: "İslam ve cihad konusunda ... " Tekrar:
+Mücaşi' şöyle demiştir: "Kardeşimle birlikte Resulullah Sallallahu Aleyhi ve Sellem'e geldik. Ben: "Hicret etmek üzere sana bey'at ediyoruz" dedim. Resul-i Ekrem Sallallahu Aleyhi ve Sellem: "Artık hicret bitti !" buyurdu. Ben: "Peki bizden hangi konuda bey'at alacaksınız?" deyince şöyle buyurdu: "İslam ve cihad konusunda ... " Tekrar: 3078, 30
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2962</td></tr><tr><td>Arabic No</td><td>2962</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

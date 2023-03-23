@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah mencerita
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Hz. Enes'den (rivayet edildiğine göre) Rasûllullah (s.a.v.) yatağına gir(mek üzere yatağının üzerine otur)duğu zaman,- "Bizi doyurup sulayan, bize yeten ve bizi sığındıran Allah'a hamdolsun! Nice kimseler vardır ki, onların ne işlerini üzerine alıp kendilerine yeten(ler)i vardır, ne de barındıranları vardır" demiştir. Tahric edenler: Müslim, zikr; Tirmizî daavat; Ahmed b. Hanbel, II
+Hz. Enes'den (rivayet edildiğine göre) Rasûllullah (s.a.v.) yatağına gir(mek üzere yatağının üzerine otur)duğu zaman,- "Bizi doyurup sulayan, bize yeten ve bizi sığındıran Allah'a hamdolsun! Nice kimseler vardır ki, onların ne işlerini üzerine alıp kendilerine yeten(ler)i vardır, ne de barındıranları vardır" demiştir. Tahric edenler: Müslim, zikr; Tirmizî daavat; Ahmed b. Hanbel, II, 17,11
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2715)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5053</td></tr><tr><td>Arabic No</td><td>5053</td></tr><tr><td>Reference</td><td>Book 43 Hadith 281</td></tr></tbody></table></div>
 

@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Ubaidullah bin Sa'id] telah menceritakan kepada
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Mes'ud şöyle anlatır: Sadakayı emreden ayet nazil olduğu zaman biz (sadaka verebilmek için) hammallık yapardık. Bu arada bir kişi geldi ve çok miktarda sadaka verdi. Etraftakiler, "Bu adam gösterişçidir" dediler. Başka bir kişi geldi ve bir sa' kadar sadaka verdi. Bu sefer de "Allah'ın bu bir sa' ya ihtiyacı yoktur" dediler. Bunun üzerine bu ayet nazil olmuştu: "Sadakalar hususunda, mu'minlerden gönüllü verenleri ve güçlerinin yettiğinden başkasını bulamayanları çekiştirip onlarla alay edenler var ya, Allah işte onları maskaraya çevirmiştir. Ve onlar için elem verici azap vardır.[Tevbe 79] Tekrar:
+İbn Mes'ud şöyle anlatır: Sadakayı emreden ayet nazil olduğu zaman biz (sadaka verebilmek için) hammallık yapardık. Bu arada bir kişi geldi ve çok miktarda sadaka verdi. Etraftakiler, "Bu adam gösterişçidir" dediler. Başka bir kişi geldi ve bir sa' kadar sadaka verdi. Bu sefer de "Allah'ın bu bir sa' ya ihtiyacı yoktur" dediler. Bunun üzerine bu ayet nazil olmuştu: "Sadakalar hususunda, mu'minlerden gönüllü verenleri ve güçlerinin yettiğinden başkasını bulamayanları çekiştirip onlarla alay edenler var ya, Allah işte onları maskaraya çevirmiştir. Ve onlar için elem verici azap vardır.[Tevbe 79] Tekrar: 1416, 2
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1415</td></tr><tr><td>Arabic No</td><td>1415</td></tr><tr><td>Reference</td><td>Book 24 Hadith 19</td></tr></tbody></table></div>
 

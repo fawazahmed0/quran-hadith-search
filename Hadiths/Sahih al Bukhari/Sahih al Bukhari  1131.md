@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Amr İbnü'l-As'tan nakledildiğine göre: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Allah'ın en çok sevdiği namaz Davud'un kıldığı namazdır. Allah'ın en fazla sevdiği oruç da Davud'un tuttuğu oruçtur. O gece yarısına kadar uyur, sonra kalkıp gecenin üçte birini ibadetle geçirir ve son altıda birlik vakitte de tekrar uyurdu. Orucu ise gün aşırı tutardı. Tekrar: 1152, 1153, 1974-1980, 3418-342
+Abdullah İbn Amr İbnü'l-As'tan nakledildiğine göre: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Allah'ın en çok sevdiği namaz Davud'un kıldığı namazdır. Allah'ın en fazla sevdiği oruç da Davud'un tuttuğu oruçtur. O gece yarısına kadar uyur, sonra kalkıp gecenin üçte birini ibadetle geçirir ve son altıda birlik vakitte de tekrar uyurdu. Orucu ise gün aşırı tutardı. Tekrar: 1152, 1153, 1974-1980, 3418-3420, 5052-5054, 5
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1131</td></tr><tr><td>Arabic No</td><td>1131</td></tr><tr><td>Reference</td><td>Book 19 Hadith 11</td></tr></tbody></table></div>
 

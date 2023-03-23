@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Mughirah 'Abdul Quddus bin Al Hajjaj] tel
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a. şöyle söyledi: Nebi Sallallahu Aleyhi ve Sellem Meymune ile ihramlı iken evlendi. Tekrar:
+İbn Abbas r.a. şöyle söyledi: Nebi Sallallahu Aleyhi ve Sellem Meymune ile ihramlı iken evlendi. Tekrar: 4
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1837</td></tr><tr><td>Arabic No</td><td>1837</td></tr><tr><td>Reference</td><td>Book 28 Hadith 17</td></tr></tbody></table></div>
 

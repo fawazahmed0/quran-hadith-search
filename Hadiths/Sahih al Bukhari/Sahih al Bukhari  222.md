@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Mu'minlerin annesi Âişe r.anha'nın şöyle dediği rivayet edilmiştir: Resulullah (Sallallahu aleyhi ve Sellem)'e bir erkek çocuk getirildi. Çocuk, onun (Sallallahu aleyhi ve Sellem) üzerine idrarını yaptı. Bunun üzerine Hz. Nebi su istedi, çocuğun idrarını yaptığı yere döktü. Tekrar:
+Mu'minlerin annesi Âişe r.anha'nın şöyle dediği rivayet edilmiştir: Resulullah (Sallallahu aleyhi ve Sellem)'e bir erkek çocuk getirildi. Çocuk, onun (Sallallahu aleyhi ve Sellem) üzerine idrarını yaptı. Bunun üzerine Hz. Nebi su istedi, çocuğun idrarını yaptığı yere döktü. Tekrar: 5
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>222</td></tr><tr><td>Arabic No</td><td>222</td></tr><tr><td>Reference</td><td>Book 4 Hadith 88</td></tr></tbody></table></div>
 

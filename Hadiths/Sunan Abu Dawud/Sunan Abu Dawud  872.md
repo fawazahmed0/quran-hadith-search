@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (r.anha)'den rivayet edilmiştir: Nebi (Sallallahu aleyhi ve Sellem)'in rüku ve sücudunda "sübbuhun, kuddusun, rabbu'l-melaiketi verruhi Münezzehsin! Mukaddessin! Meleklerle Ruhun rabbisin (Ey Allahım)" derdi. Diğer tahric: Müslim, salat; Tatbik; Ahmed b. Hanbel, VI, 35, 94, 115
+Aişe (r.anha)'den rivayet edilmiştir: Nebi (Sallallahu aleyhi ve Sellem)'in rüku ve sücudunda "sübbuhun, kuddusun, rabbu'l-melaiketi verruhi Münezzehsin! Mukaddessin! Meleklerle Ruhun rabbisin (Ey Allahım)" derdi. Diğer tahric: Müslim, salat; Tatbik; Ahmed b. Hanbel, VI, 35, 94, 115, 148, 149, 176
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (487)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>872</td></tr><tr><td>Arabic No</td><td>872</td></tr><tr><td>Reference</td><td>Book 2 Hadith 482</td></tr></tbody></table></div>
 

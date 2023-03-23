@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Malik bin Isma'il] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cabir r.a. şöyle demiştir: Abdullah İbn Ubey defnedildikten sonra Nebi Sallallahu Aleyhi ve Sellem o'nun kabrinin yanına geldi. Onu kabrinden çıkarttı. Mübarek tükürüğünden onun üzerine üfledi, gömleğini ona giydirdi. Tekrar:
+Cabir r.a. şöyle demiştir: Abdullah İbn Ubey defnedildikten sonra Nebi Sallallahu Aleyhi ve Sellem o'nun kabrinin yanına geldi. Onu kabrinden çıkarttı. Mübarek tükürüğünden onun üzerine üfledi, gömleğini ona giydirdi. Tekrar: 1
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1270</td></tr><tr><td>Arabic No</td><td>1270</td></tr><tr><td>Reference</td><td>Book 23 Hadith 31</td></tr></tbody></table></div>
 

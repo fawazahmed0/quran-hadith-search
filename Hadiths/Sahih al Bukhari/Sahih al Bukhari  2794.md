@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Qabishah] telah bercerita kepada kami [Sufyan] dari
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Sehl İbn Sa'd r.a.'dan nakledilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Allah yolunda sabah veya akşam yola çıkmak dünyadan ve dünyadaki her şeyden daha değerlidir." Tekrar:
+Sehl İbn Sa'd r.a.'dan nakledilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Allah yolunda sabah veya akşam yola çıkmak dünyadan ve dünyadaki her şeyden daha değerlidir." Tekrar: 2
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2794</td></tr><tr><td>Arabic No</td><td>2794</td></tr><tr><td>Reference</td><td>Book 56 Hadith 12</td></tr></tbody></table></div>
 

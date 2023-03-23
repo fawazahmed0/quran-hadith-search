@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah] berkata, telah mence
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Saîd el-Hudrî (r.a.) Nebi Sallallahu Aleyhi ve Sellem'in şöyle dediğini işittiğini nakletmiştir: "Güneş yükselinceye kadar sabah namazından sonra namaz kılınmaz! Güneş batıncaya kadar da, ikindi namazından sonra namazı kılınmaz! Tekrar:
+Ebu Saîd el-Hudrî (r.a.) Nebi Sallallahu Aleyhi ve Sellem'in şöyle dediğini işittiğini nakletmiştir: "Güneş yükselinceye kadar sabah namazından sonra namaz kılınmaz! Güneş batıncaya kadar da, ikindi namazından sonra namazı kılınmaz! Tekrar: 1188, 1197, 1
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>586</td></tr><tr><td>Arabic No</td><td>586</td></tr><tr><td>Reference</td><td>Book 9 Hadith 61</td></tr></tbody></table></div>
 

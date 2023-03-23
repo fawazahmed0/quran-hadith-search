@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] telah menceritakan kepa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe r.anha'dan nakledildiğine göre Resûl-İ Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Kadın, evin yiyeceğinden; aile huzurunu kaçırmadan ve israfa kaçmadan infak ettiği zaman kendisi, infak sevabını; kocası da o yiyeceği kazanmış olmanın sevabını alır. Malı koruyan kişi de aynı sevabı alır. Bir kişinin aldığı sevap diğerinin aldığını eksiltmez. Tekrar:
+Aişe r.anha'dan nakledildiğine göre Resûl-İ Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Kadın, evin yiyeceğinden; aile huzurunu kaçırmadan ve israfa kaçmadan infak ettiği zaman kendisi, infak sevabını; kocası da o yiyeceği kazanmış olmanın sevabını alır. Malı koruyan kişi de aynı sevabı alır. Bir kişinin aldığı sevap diğerinin aldığını eksiltmez. Tekrar: 1437, 1439, 1
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1425</td></tr><tr><td>Arabic No</td><td>1425</td></tr><tr><td>Reference</td><td>Book 24 Hadith 29</td></tr></tbody></table></div>
 

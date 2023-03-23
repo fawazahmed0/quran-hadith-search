@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij] berkata, telah me
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu'l-Minhal şöyle demiştir: Ben sarf işi ile uğraşırdım. Zeyd İbn Erkam'a bunu sordum. O, Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu dedi: (Diğer bir rivayet şöyledir) Ebu'l-Minhal şöyle demiştir: Bera İbn azib ve Zeyd İbn Erkam'a sarf işlemini sordum. İkisi şöyle dediler: Biz, Resulullah Sallallahu Aleyhi ve Sellem döneminde ticaretle uğraşırdık. Resulullah'a sarf işlemini sorduk, o şöyle buyurdu: "Peşin (elden ele) olursa bir sakınca yoktur. Vadeli olursa uygun olmaz" 2060. hadisin tekrarı: 2180, 2497, 3939 2061. hadisin tekrarı:
+Ebu'l-Minhal şöyle demiştir: Ben sarf işi ile uğraşırdım. Zeyd İbn Erkam'a bunu sordum. O, Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu dedi: (Diğer bir rivayet şöyledir) Ebu'l-Minhal şöyle demiştir: Bera İbn azib ve Zeyd İbn Erkam'a sarf işlemini sordum. İkisi şöyle dediler: Biz, Resulullah Sallallahu Aleyhi ve Sellem döneminde ticaretle uğraşırdık. Resulullah'a sarf işlemini sorduk, o şöyle buyurdu: "Peşin (elden ele) olursa bir sakınca yoktur. Vadeli olursa uygun olmaz" 2060. hadisin tekrarı: 2180, 2497, 3939 2061. hadisin tekrarı: 2
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2060</td></tr><tr><td>Arabic No</td><td>2060</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

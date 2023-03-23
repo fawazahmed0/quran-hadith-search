@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin 'Abdul Wahhab] berkata, telah menc
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ümmü Atiyye'den şöyle nakledilmiştir: "Bir ölü için üç günden fazla yas tutmamız yasaklandı. Ancak koca için dört ay on gün yas tutmamız emredildi. Yas tuttuğumuz süre içinde, sürme çekmez, koku sürünmez ve asab dışında boyalı elbise giymezdik. Adetimiz sona erip hayızdan dolayı gusül abdesti alınca azıcık küst-ı azfâr kullanmamıza izin verildi. Bizim cenazelerin ardından gitmemiz de yasaklandı. Tekrar:
+Ümmü Atiyye'den şöyle nakledilmiştir: "Bir ölü için üç günden fazla yas tutmamız yasaklandı. Ancak koca için dört ay on gün yas tutmamız emredildi. Yas tuttuğumuz süre içinde, sürme çekmez, koku sürünmez ve asab dışında boyalı elbise giymezdik. Adetimiz sona erip hayızdan dolayı gusül abdesti alınca azıcık küst-ı azfâr kullanmamıza izin verildi. Bizim cenazelerin ardından gitmemiz de yasaklandı. Tekrar: 1278, 5340, 5
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>313</td></tr><tr><td>Arabic No</td><td>313</td></tr><tr><td>Reference</td><td>Book 6 Hadith 18</td></tr></tbody></table></div>
 

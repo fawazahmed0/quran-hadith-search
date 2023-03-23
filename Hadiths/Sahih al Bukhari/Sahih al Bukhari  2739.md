@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Ibrahim bin Al Harits] telah bercerita kepada kami 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Allah Resulü'nün Sallallahu aleyhi ve sellem kayınbiraderi Cüveyriye bintü'lHaris'in erkek kardeşi Amr İbnü'l-Haris'ten nakledilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem vefat ettiğinde ne dirhem, ne dinar, ne köle, ne cariye, ne de herhangi bir mal bırakmadı. Geriye bıraktığı tek şey, beyaz katırı, silahı ve sadaka olarak bıraktığı bir tarlaydı. Tekrar:
+Allah Resulü'nün Sallallahu aleyhi ve sellem kayınbiraderi Cüveyriye bintü'lHaris'in erkek kardeşi Amr İbnü'l-Haris'ten nakledilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem vefat ettiğinde ne dirhem, ne dinar, ne köle, ne cariye, ne de herhangi bir mal bırakmadı. Geriye bıraktığı tek şey, beyaz katırı, silahı ve sadaka olarak bıraktığı bir tarlaydı. Tekrar: 2873, 2
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2739</td></tr><tr><td>Arabic No</td><td>2739</td></tr><tr><td>Reference</td><td>Book 55 Hadith 2</td></tr></tbody></table></div>
 

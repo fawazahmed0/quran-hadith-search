@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Musaddad bin Musarhd], telah menceritakan kepada
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (r.anha)'dan; demiştir ki: Resulullah sallallahu aleyhi ve sellem (şöyle) buyurdu: ''Bir defa ve iki defa süt emmek (evlenmeyi) haram kılmaz." Diğer tahric: Müslim, reda'; Tirmizî, reda; Nesaî, nikah; İbn Mace, nikah; Darimî, nikah; Ahmed b. Hanbel, IV
+Aişe (r.anha)'dan; demiştir ki: Resulullah sallallahu aleyhi ve sellem (şöyle) buyurdu: ''Bir defa ve iki defa süt emmek (evlenmeyi) haram kılmaz." Diğer tahric: Müslim, reda'; Tirmizî, reda; Nesaî, nikah; İbn Mace, nikah; Darimî, nikah; Ahmed b. Hanbel, IV, 4-6, 31, 96
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1450)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2063</td></tr><tr><td>Arabic No</td><td>2063</td></tr><tr><td>Reference</td><td>Book 12 Hadith 18</td></tr></tbody></table></div>
 

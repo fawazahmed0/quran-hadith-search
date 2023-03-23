@@ -62,7 +62,7 @@ Telah menceritakan kepada saya [Mahmud] telah menceritakan kepada kami ['Abdur R
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cabir r.a. şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem taksim edilmemiş bütün mallarda şuf'a hakkı bulunduğuna hükmetmiştir. Sınırlar belirlenip yollar ayrılınca artık şüf'a hakkı yoktur Tekrar:
+Cabir r.a. şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem taksim edilmemiş bütün mallarda şuf'a hakkı bulunduğuna hükmetmiştir. Sınırlar belirlenip yollar ayrılınca artık şüf'a hakkı yoktur Tekrar: 2214, 2257, 2
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2213</td></tr><tr><td>Arabic No</td><td>2213</td></tr><tr><td>Reference</td><td>Book 34 Hadith 159</td></tr></tbody></table></div>
 

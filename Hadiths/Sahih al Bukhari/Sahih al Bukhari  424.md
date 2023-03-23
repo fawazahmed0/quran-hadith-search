@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Maslamah] berkata, telah mencerita
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İtban İbn Mâlik'ten yapılan rivayete göre: Nebi Sallallahu Aleyhi ve Sellem o'nun evine gelmiş. Ona: 'Evinin neresinde sana namaz kıldırmamı istersin?' diye sormuş. İtban olayı anlatmaya şu şekilde devam etti: "Ona bir yer gösterdim. Rasulullah Sallallahu Aleyhi ve Sellem tekbir getirip namaz'a başladı. Biz de arkasında saf tuttuk. Bize, iki rek'at namaz kıldırdı. Tekrar: 425, 667, 686, 838, 840, 1186
+İtban İbn Mâlik'ten yapılan rivayete göre: Nebi Sallallahu Aleyhi ve Sellem o'nun evine gelmiş. Ona: 'Evinin neresinde sana namaz kıldırmamı istersin?' diye sormuş. İtban olayı anlatmaya şu şekilde devam etti: "Ona bir yer gösterdim. Rasulullah Sallallahu Aleyhi ve Sellem tekbir getirip namaz'a başladı. Biz de arkasında saf tuttuk. Bize, iki rek'at namaz kıldırdı. Tekrar: 425, 667, 686, 838, 840, 1186, 4009, 4010, 5
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>424</td></tr><tr><td>Arabic No</td><td>424</td></tr><tr><td>Reference</td><td>Book 8 Hadith 74</td></tr></tbody></table></div>
 

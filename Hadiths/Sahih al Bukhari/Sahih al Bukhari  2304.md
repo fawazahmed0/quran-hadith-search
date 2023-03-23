@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ishaq bin Ibrahim] dia mendengar [Al Mu'tamir] m
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ka'b İbn Malik r.a.'den şöyle nakledilmiştir: Ka’b'ın, Sel' dağında güdülen bir koyun sürüsü vardı. Cariyemiz, içlerinden bir koyunun ölmek üzere olduğunu görmüştü. Cariye, hemen bir taşı kırdı ve bununla koyunu kesti. Bunun üzerine Ka'b onlara, "Durumu Resulullah'a soruncaya -ya da sorması için birini gönderinceye kadar- sakın o koyunu yemeyin" dedi. Daha sonra durumu Resulullah'a sordu, Nebi Sallallahu Aleyhi ve Sellem de, koyundan yenilmesini emretti. Ravi Ubeydullah, "O çobanın bir cariye olması ve koyunu kesmesi hoşuma gitti" demiştir. Tekrar:
+Ka'b İbn Malik r.a.'den şöyle nakledilmiştir: Ka’b'ın, Sel' dağında güdülen bir koyun sürüsü vardı. Cariyemiz, içlerinden bir koyunun ölmek üzere olduğunu görmüştü. Cariye, hemen bir taşı kırdı ve bununla koyunu kesti. Bunun üzerine Ka'b onlara, "Durumu Resulullah'a soruncaya -ya da sorması için birini gönderinceye kadar- sakın o koyunu yemeyin" dedi. Daha sonra durumu Resulullah'a sordu, Nebi Sallallahu Aleyhi ve Sellem de, koyundan yenilmesini emretti. Ravi Ubeydullah, "O çobanın bir cariye olması ve koyunu kesmesi hoşuma gitti" demiştir. Tekrar: 5
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2304</td></tr><tr><td>Arabic No</td><td>2304</td></tr><tr><td>Reference</td><td>Book 40 Hadith 5</td></tr></tbody></table></div>
 

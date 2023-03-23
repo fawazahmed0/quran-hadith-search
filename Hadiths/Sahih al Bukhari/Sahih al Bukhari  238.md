@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Rivayet edildiğine göre Ebu Hureyre Nebi (Sallallahu aleyhi ve Sellem)'in şu sözünü duymuştur: "Biz (bu dünyada) son, (âhirette ise) öncüleriz. Tekrar: 876, 896, 6926
+Rivayet edildiğine göre Ebu Hureyre Nebi (Sallallahu aleyhi ve Sellem)'in şu sözünü duymuştur: "Biz (bu dünyada) son, (âhirette ise) öncüleriz. Tekrar: 876, 896, 6926, 3486, 6634, 6
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>238</td></tr><tr><td>Arabic No</td><td>238</td></tr><tr><td>Reference</td><td>Book 4 Hadith 104</td></tr></tbody></table></div>
 

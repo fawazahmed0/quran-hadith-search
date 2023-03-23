@@ -62,7 +62,7 @@ Telah bercerita kepada kami ['Abdullah bin Muhammad Al Ju'fiy] telah bercerita k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes bin Malik r.a.'in şöyle dediği nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem'e ipek bir cübbe hediye edilmişti. Resulullah Sallallahu Aleyhi ve Sellem ipeği daha önce yasaklamıştı. İnsanlar bu ipek cübbeye hayran kalmışlardı. Bunu fark eden Resul-i Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Muhammed'in canını elinde bulunduran Allah'a yemin ederim ki Sa'ad İbn Muaz'ın cennetteki mendil/eri bundan daha güzel, daha üstündür. " Tekrar:
+Enes bin Malik r.a.'in şöyle dediği nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem'e ipek bir cübbe hediye edilmişti. Resulullah Sallallahu Aleyhi ve Sellem ipeği daha önce yasaklamıştı. İnsanlar bu ipek cübbeye hayran kalmışlardı. Bunu fark eden Resul-i Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Muhammed'in canını elinde bulunduran Allah'a yemin ederim ki Sa'ad İbn Muaz'ın cennetteki mendil/eri bundan daha güzel, daha üstündür. " Tekrar: 3
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3248</td></tr><tr><td>Arabic No</td><td>3248</td></tr><tr><td>Reference</td><td>Book 59 Hadith 59</td></tr></tbody></table></div>
 

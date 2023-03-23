@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepad
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre'den; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "And olsun ki, namaz'ın kılınması, (ikametin yapılması) ve birinin geçip onlara namaz kıldırması için emir vermeyi, sonra da beraberlerinde odun bulunan bir kısım insanlarla gidip (cemaatle) namaza iştirak etmeyenlerin evlerini cayır cayır yakmayı arzu ettim" Diğer tahric: Müslim, mesacid; Tirmizi, salat; İbn Mace, mesacid; Ahmed b. Hanbel, II, 244
+Ebu Hureyre'den; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "And olsun ki, namaz'ın kılınması, (ikametin yapılması) ve birinin geçip onlara namaz kıldırması için emir vermeyi, sonra da beraberlerinde odun bulunan bir kısım insanlarla gidip (cemaatle) namaza iştirak etmeyenlerin evlerini cayır cayır yakmayı arzu ettim" Diğer tahric: Müslim, mesacid; Tirmizi, salat; İbn Mace, mesacid; Ahmed b. Hanbel, II, 244, 292, 314, 319
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (657) Sahih Muslim (651)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>548</td></tr><tr><td>Arabic No</td><td>548</td></tr><tr><td>Reference</td><td>Book 2 Hadith 158</td></tr></tbody></table></div>
 

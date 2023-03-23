@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ahmad bin 'Utsman] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu İshak şöyle dedi: Mesruk, Ata ve Mücahid'e (Nebi Sallallahu Aleyhi ve Sellem'in) umrelerini sordum. şöyle dediler: Resulullah Sallallahu Aleyhi ve Sellem hac yapmadan önce Zilkade ayında umre yaptı. Ebu İshak dediki: Bera bin A'zib r.a.'e sordum şöyle cevap verdi: Resulullah Sallallahu Aleyhi ve Sellem hac yapmadan önce Zilkade ayında iki kere umre yaptı. Yani haccın farz kılındığı hükmünün gelmesinden önceki yıllarda. Tekrar: 1844
+Ebu İshak şöyle dedi: Mesruk, Ata ve Mücahid'e (Nebi Sallallahu Aleyhi ve Sellem'in) umrelerini sordum. şöyle dediler: Resulullah Sallallahu Aleyhi ve Sellem hac yapmadan önce Zilkade ayında umre yaptı. Ebu İshak dediki: Bera bin A'zib r.a.'e sordum şöyle cevap verdi: Resulullah Sallallahu Aleyhi ve Sellem hac yapmadan önce Zilkade ayında iki kere umre yaptı. Yani haccın farz kılındığı hükmünün gelmesinden önceki yıllarda. Tekrar: 1844, 2698, 2699, 2
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1781</td></tr><tr><td>Arabic No</td><td>1781</td></tr><tr><td>Reference</td><td>Book 26 Hadith 8</td></tr></tbody></table></div>
 

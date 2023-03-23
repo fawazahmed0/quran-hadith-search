@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Amru bin 'Aun] berkata, telah menceritakan kepa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Bekre'nin şöyle dediği nakledilmiştir: "Biz Resul-i Ekrem Sallallahu Aleyhi ve Sellem'in yanında iken güneş tutulması oldu. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem omuzuna attığı ridasını sürüyerek mescide girdi ve biz de onu takip ederek mescid'e gittik. Bize orada güneş geri açılana kadar iki rekat namaz kıldırdı ve şöyle buyurdu; "Güneş ve ay hiç kimsenin ölümü dolayısıyla tutulmaz. Siz bunların tutulduğunu görürseniz tekrar açılana kadar namaz kılın ve dua edin! Tekrar:
+Ebu Bekre'nin şöyle dediği nakledilmiştir: "Biz Resul-i Ekrem Sallallahu Aleyhi ve Sellem'in yanında iken güneş tutulması oldu. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem omuzuna attığı ridasını sürüyerek mescide girdi ve biz de onu takip ederek mescid'e gittik. Bize orada güneş geri açılana kadar iki rekat namaz kıldırdı ve şöyle buyurdu; "Güneş ve ay hiç kimsenin ölümü dolayısıyla tutulmaz. Siz bunların tutulduğunu görürseniz tekrar açılana kadar namaz kılın ve dua edin! Tekrar: 1048, 1
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1040</td></tr><tr><td>Arabic No</td><td>1040</td></tr><tr><td>Reference</td><td>Book 16 Hadith 1</td></tr></tbody></table></div>
 

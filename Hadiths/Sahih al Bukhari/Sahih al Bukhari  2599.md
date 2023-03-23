@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Misver b. Mahreme r.a.'den rivayet edilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem birkaç kaftan dağıtmıştı ama Mahreme'ye bir şey vermemişti. Mahreme "Oğlum! Hadi Allah Resulü'nün yanına gidelim" dedi. Birlikte gittik. "İçeri gir de, Hz. Nebi'e dışarı çıkmasını arz et" dedi. Ben de Hz. Nebi'i babamın yanına çağırdım. Nebi Sallallahu Aleyhi ve Sellem üzerinde bir kaftanla dışarı çıkarak: "Bunu senin için sakladık" buyurdu. Mahreme kaftana baktı. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem "Mahreme memnun oldu mu?" buyurdu. Tekrar:
+Misver b. Mahreme r.a.'den rivayet edilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem birkaç kaftan dağıtmıştı ama Mahreme'ye bir şey vermemişti. Mahreme "Oğlum! Hadi Allah Resulü'nün yanına gidelim" dedi. Birlikte gittik. "İçeri gir de, Hz. Nebi'e dışarı çıkmasını arz et" dedi. Ben de Hz. Nebi'i babamın yanına çağırdım. Nebi Sallallahu Aleyhi ve Sellem üzerinde bir kaftanla dışarı çıkarak: "Bunu senin için sakladık" buyurdu. Mahreme kaftana baktı. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem "Mahreme memnun oldu mu?" buyurdu. Tekrar: 2657, 3127, 5
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2599</td></tr><tr><td>Arabic No</td><td>2599</td></tr><tr><td>Reference</td><td>Book 51 Hadith 33</td></tr></tbody></table></div>
 

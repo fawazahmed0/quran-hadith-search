@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Utsman bin Al Haitsam] telah mengabarkan kepada
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a. şöyle dedi; Zül mecaz ve Ukaz, cahiliye döneminde insanların ticaret yaptığı pazarlardı. İslam dininin gelmesinden sonra Müslümanlar bu pazarlarda alışveriş yapmayı çirkin bir iş olarak gördüler. Bu­nun üzerine şu ayet indirildi: "(Hac günlerinde) Rabbinizden bir lütuf aramanızda sizin için bir günah söz konusu değildir". Bakara 198 Tekrar:
+İbn Abbas r.a. şöyle dedi; Zül mecaz ve Ukaz, cahiliye döneminde insanların ticaret yaptığı pazarlardı. İslam dininin gelmesinden sonra Müslümanlar bu pazarlarda alışveriş yapmayı çirkin bir iş olarak gördüler. Bu­nun üzerine şu ayet indirildi: "(Hac günlerinde) Rabbinizden bir lütuf aramanızda sizin için bir günah söz konusu değildir". Bakara 198 Tekrar: 2
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1770</td></tr><tr><td>Arabic No</td><td>1770</td></tr><tr><td>Reference</td><td>Book 25 Hadith 246</td></tr></tbody></table></div>
 

@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a. şöyle anlatır: Resuılullah Sallallahu Aleyhi ve Sellem'e borcu bulunan bir cenaze getirildiği zaman "Borcu için (techiz masraflarını) aşan bir mal bıraktı mı?" diye sorardı. Eğer borcunu karşılayacak kadar mal bıraktığı söylenirse onun cenaze namazını kılardı. Aksi halde, müminlere, "Arkadaşınızın namazını kılın" buyururdu. Fetihler artıp (mallar çoğalınca), "Ben, mu'minlere kendi nefislerinden daha yakınım. Bir müslüman borçlu olarak ölürse borcunu ödemek bana aittir. Mal bıraktığı zaman ise malı mirasçılarınındır" buyurmuştur. Tekra: 2398
+Ebu Hureyre r.a. şöyle anlatır: Resuılullah Sallallahu Aleyhi ve Sellem'e borcu bulunan bir cenaze getirildiği zaman "Borcu için (techiz masraflarını) aşan bir mal bıraktı mı?" diye sorardı. Eğer borcunu karşılayacak kadar mal bıraktığı söylenirse onun cenaze namazını kılardı. Aksi halde, müminlere, "Arkadaşınızın namazını kılın" buyururdu. Fetihler artıp (mallar çoğalınca), "Ben, mu'minlere kendi nefislerinden daha yakınım. Bir müslüman borçlu olarak ölürse borcunu ödemek bana aittir. Mal bıraktığı zaman ise malı mirasçılarınındır" buyurmuştur. Tekra: 2398, 2399, 5371, 6
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2298</td></tr><tr><td>Arabic No</td><td>2298</td></tr><tr><td>Reference</td><td>Book 39 Hadith 9</td></tr></tbody></table></div>
 

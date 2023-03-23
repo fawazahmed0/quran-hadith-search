@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ibrahim bin Musa] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a. şöyle anlatır: "Resûlullah Sallallahu Aleyhi ve Sellem tavaf ederken, elini ip, kayış veya başka bir şey ile başkasının eline bağlayan bir kimseye rastlamıştı. Nebi Sallallahu Aleyhi ve Sellem o bağı eli ile kopardıktan sonra: "Onu, elinden tutarak götür" buyurmuştur. Tekrar:
+İbn Abbas r.a. şöyle anlatır: "Resûlullah Sallallahu Aleyhi ve Sellem tavaf ederken, elini ip, kayış veya başka bir şey ile başkasının eline bağlayan bir kimseye rastlamıştı. Nebi Sallallahu Aleyhi ve Sellem o bağı eli ile kopardıktan sonra: "Onu, elinden tutarak götür" buyurmuştur. Tekrar: 1
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1620</td></tr><tr><td>Arabic No</td><td>1620</td></tr><tr><td>Reference</td><td>Book 25 Hadith 105</td></tr></tbody></table></div>
 

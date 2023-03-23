@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Al Humaidiy] dan [Muhammad bin Al Mutsanna] kedu
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (r.anha), "Nebi Sallallahu Aleyhi ve Sellem Mekke'ye geldiği zaman en yüksek tepeden girer, en alçak tepeden de çıkardı" demiştir. Tekrar: 1578
+Aişe (r.anha), "Nebi Sallallahu Aleyhi ve Sellem Mekke'ye geldiği zaman en yüksek tepeden girer, en alçak tepeden de çıkardı" demiştir. Tekrar: 1578, 1579, 1580, 1
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1577</td></tr><tr><td>Arabic No</td><td>1577</td></tr><tr><td>Reference</td><td>Book 25 Hadith 63</td></tr></tbody></table></div>
 

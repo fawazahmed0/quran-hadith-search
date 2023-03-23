@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Ömer'den rivayet edildiğine göre Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur. "Ağaçlar arasında bir ağaç vardır ki yaprağı düşmez. Bu ağaç müslümana benzer. Bana bu ağacın ne olduğunu söyleyiniz". İnsanlar çöl ağaçlarını saymaya başladılar. (Abdullah b. Ömer diyor ki:) Aklıma onun hurma ağacı olduğu geldi. Ancak utandığımdan bunu söylemedim. Daha sonra ashab-ı kiram: "Ey Allah'ın Resulü onun ne olduğunu bize bildir" dediler. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem): O hurma ağacıdır" buyurdu. Tekrar: 62, 72, 131, 2209
+İbn Ömer'den rivayet edildiğine göre Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur. "Ağaçlar arasında bir ağaç vardır ki yaprağı düşmez. Bu ağaç müslümana benzer. Bana bu ağacın ne olduğunu söyleyiniz". İnsanlar çöl ağaçlarını saymaya başladılar. (Abdullah b. Ömer diyor ki:) Aklıma onun hurma ağacı olduğu geldi. Ancak utandığımdan bunu söylemedim. Daha sonra ashab-ı kiram: "Ey Allah'ın Resulü onun ne olduğunu bize bildir" dediler. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem): O hurma ağacıdır" buyurdu. Tekrar: 62, 72, 131, 2209, 4698, 5444, 5
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>61</td></tr><tr><td>Arabic No</td><td>61</td></tr><tr><td>Reference</td><td>Book 3 Hadith 3</td></tr></tbody></table></div>
 

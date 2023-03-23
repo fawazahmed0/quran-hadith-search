@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Hafsh bin 'Umar] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ebi Evfa şöyle anlatır: "Resulullah (Sallallahu Aleyhi ve Sellem) birileri zekatlarını getirdiği zaman onlara, "Allah'ım! Falan’ın ailesine merhamet et!" derdi. Babam zekatını getirdiği zaman ona, "Allahım! Ebu Evfa ailesine salat (merhamet) et" diye dua etti. Tekrarı:
+Abdullah İbn Ebi Evfa şöyle anlatır: "Resulullah (Sallallahu Aleyhi ve Sellem) birileri zekatlarını getirdiği zaman onlara, "Allah'ım! Falan’ın ailesine merhamet et!" derdi. Babam zekatını getirdiği zaman ona, "Allahım! Ebu Evfa ailesine salat (merhamet) et" diye dua etti. Tekrarı: 4
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1497</td></tr><tr><td>Arabic No</td><td>1497</td></tr><tr><td>Reference</td><td>Book 24 Hadith 97</td></tr></tbody></table></div>
 

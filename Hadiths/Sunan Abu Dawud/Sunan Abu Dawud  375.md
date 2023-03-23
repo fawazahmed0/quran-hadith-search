@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Musaddad bin Musarhad] dan [Ar Rabi' bin Nafi', 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Lubabe binti el-Haris (r.anha)'dan; demiştir ki; "Ali (r.a.)'ın oğlu Hüseyin, Resulullah (Sallallahu aleyhi ve Sellem)'in kucağında idi. Efendimizin üzerine bevletti. Bir elbise giy, izarını da bana ver yıkayayım, dedim. Resulullah (Sallallahu aleyhi ve Sellem); "Ancak kızın idrarından dolayı yıkanır oğlanın idrarından ise (üzerine) su dökülür," buyurdu. Diğer tahric: Buhari, vudu; İbn Mace, tahare; Ahmed b. Hanbel, VI
+Lubabe binti el-Haris (r.anha)'dan; demiştir ki; "Ali (r.a.)'ın oğlu Hüseyin, Resulullah (Sallallahu aleyhi ve Sellem)'in kucağında idi. Efendimizin üzerine bevletti. Bir elbise giy, izarını da bana ver yıkayayım, dedim. Resulullah (Sallallahu aleyhi ve Sellem); "Ancak kızın idrarından dolayı yıkanır oğlanın idrarından ise (üzerine) su dökülür," buyurdu. Diğer tahric: Buhari, vudu; İbn Mace, tahare; Ahmed b. Hanbel, VI, 239
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>375</td></tr><tr><td>Arabic No</td><td>375</td></tr><tr><td>Reference</td><td>Book 1 Hadith 375</td></tr></tbody></table></div>
 

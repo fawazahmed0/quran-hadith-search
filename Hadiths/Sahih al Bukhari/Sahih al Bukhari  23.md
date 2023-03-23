@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Ubaidillah] berkata, telah mencerit
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Said-i Hudri r.a. şöyle demiştir: Resulullah sallallahu aleyhi ve sellem buyurdu ki: Uyuduğum esnada gördüm ki halk bana arzolunuyordu. Üstlerinde gömlekler vardı. Bu gömleklerin kimi memelere varıyor, kimi daha kısa idi. Ömer bin el-Hattâb da bana arzolundu. Üstünde (eteklerini yerde) sürüdüğü bir gömlek vardı. "Ya Resûlâllâh, bunu ne ile te'vîl ettin?" diye sordular. "Dîn ile." cevâbını verdi. Tekrar:
+Ebu Said-i Hudri r.a. şöyle demiştir: Resulullah sallallahu aleyhi ve sellem buyurdu ki: Uyuduğum esnada gördüm ki halk bana arzolunuyordu. Üstlerinde gömlekler vardı. Bu gömleklerin kimi memelere varıyor, kimi daha kısa idi. Ömer bin el-Hattâb da bana arzolundu. Üstünde (eteklerini yerde) sürüdüğü bir gömlek vardı. "Ya Resûlâllâh, bunu ne ile te'vîl ettin?" diye sordular. "Dîn ile." cevâbını verdi. Tekrar: 3
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>23</td></tr><tr><td>Arabic No</td><td>23</td></tr><tr><td>Reference</td><td>Book 2 Hadith 16</td></tr></tbody></table></div>
 

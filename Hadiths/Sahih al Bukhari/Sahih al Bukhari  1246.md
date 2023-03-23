@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami ['Abd
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes İbn Malik (r.a.) Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu söyledi: "Sancağı Zeyd aldı. Zeyd şehid edildi. Sonra sancağı Ca'fer aldı, o da şehid edildi. Sonra onu Abdullah İbn Revaha aldı, o da şehid edildi. -Bu sırada Resulullah'ın gözlerinden yaşlar boşalıyordu- (Resulullah devam ederek şöyle dedi:) Sonra sancağı emir olmaksızın Halid İbnu'l-Velid aldı, sonra Allah onun önünü açtı. Tekrar:
+Enes İbn Malik (r.a.) Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu söyledi: "Sancağı Zeyd aldı. Zeyd şehid edildi. Sonra sancağı Ca'fer aldı, o da şehid edildi. Sonra onu Abdullah İbn Revaha aldı, o da şehid edildi. -Bu sırada Resulullah'ın gözlerinden yaşlar boşalıyordu- (Resulullah devam ederek şöyle dedi:) Sonra sancağı emir olmaksızın Halid İbnu'l-Velid aldı, sonra Allah onun önünü açtı. Tekrar: 2798, 3063, 3
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1246</td></tr><tr><td>Arabic No</td><td>1246</td></tr><tr><td>Reference</td><td>Book 23 Hadith 9</td></tr></tbody></table></div>
 

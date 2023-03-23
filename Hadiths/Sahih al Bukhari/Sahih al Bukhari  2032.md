@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Ömer r.a. şöyls demiştir: Ömer r.a. Nebi Sallallahu Aleyhi ve Sellem'e: "Ben cahiliye döneminde Mescid-i Haram'da bir gece itikaf yapmayı adamıştım" dedi. Nebi Sallallahu Aleyhi ve Sellem: "Adağını yerine getir" buyurdu. Tekrar:
+İbn Ömer r.a. şöyls demiştir: Ömer r.a. Nebi Sallallahu Aleyhi ve Sellem'e: "Ben cahiliye döneminde Mescid-i Haram'da bir gece itikaf yapmayı adamıştım" dedi. Nebi Sallallahu Aleyhi ve Sellem: "Adağını yerine getir" buyurdu. Tekrar: 2043, 3
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2032</td></tr><tr><td>Arabic No</td><td>2032</td></tr><tr><td>Reference</td><td>Book 33 Hadith 7</td></tr></tbody></table></div>
 

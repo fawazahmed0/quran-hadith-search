@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Adam] ia berkata; telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Saîd İbn Abdirrahman İbn Ebzâ babasının şöyle dediğini nakletmiştir: "Adamın biri Ömer (r.a.)'e gelip 'Ben cünüp oldum, ama su bulamıyorum1 dedi. Bunun üzerine Ammâr İbn Yâsir Ömer (r.a.)'e şöyle dedi: Hatırlar mısın, bir defasında seninle birlikte bir seferdeydik. Sen namaz kılmamıştın. Ben ise, toprak üstünde yuvarlanarak debelenip namaz kılmıştım. Sonra bu olayı Nebi (Sallallahu aleyhi ve Sellem)'e anlatmıştım. O da 'Şöyle yapman yeterliydi’ buyurmuştu ve ellerini yere vurduktan sonra onlara üflemişti. Daha sonra ise elinin iç kısmıyla yüzünü ve tüm elini meshetmişti. Tekrar: 339, 340
+Saîd İbn Abdirrahman İbn Ebzâ babasının şöyle dediğini nakletmiştir: "Adamın biri Ömer (r.a.)'e gelip 'Ben cünüp oldum, ama su bulamıyorum1 dedi. Bunun üzerine Ammâr İbn Yâsir Ömer (r.a.)'e şöyle dedi: Hatırlar mısın, bir defasında seninle birlikte bir seferdeydik. Sen namaz kılmamıştın. Ben ise, toprak üstünde yuvarlanarak debelenip namaz kılmıştım. Sonra bu olayı Nebi (Sallallahu aleyhi ve Sellem)'e anlatmıştım. O da 'Şöyle yapman yeterliydi’ buyurmuştu ve ellerini yere vurduktan sonra onlara üflemişti. Daha sonra ise elinin iç kısmıyla yüzünü ve tüm elini meshetmişti. Tekrar: 339, 340, 341, 342, 343
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>338</td></tr><tr><td>Arabic No</td><td>338</td></tr><tr><td>Reference</td><td>Book 7 Hadith 5</td></tr></tbody></table></div>
 

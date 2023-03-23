@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Humaid bin Mas'adah] bahwasanya [Yazid bin Zurai
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Bekre (r.a.)'in haber verdiğine göre kendisi (bir gün) Nebi (Sallallahu aleyhi ve Sellem) rüku'da iken mescide girdiğini söylemiş ve (sözlerine devam ederek şöyle) demiştir: "Hemen saffın gerisinde rüku'a vardım." Bunun Üzerine Nebi (Sallallahu aleyhi ve Sellem); "Allah (cemaate iştirak etme arzu ve) hırsını artırsın fakat bir daha (bunu) yapma!" buyurdu. Diğer tahric: Buharî, ezan; Nesaî, imame; Ahmed b. Hanbel, V
+Ebu Bekre (r.a.)'in haber verdiğine göre kendisi (bir gün) Nebi (Sallallahu aleyhi ve Sellem) rüku'da iken mescide girdiğini söylemiş ve (sözlerine devam ederek şöyle) demiştir: "Hemen saffın gerisinde rüku'a vardım." Bunun Üzerine Nebi (Sallallahu aleyhi ve Sellem); "Allah (cemaate iştirak etme arzu ve) hırsını artırsın fakat bir daha (bunu) yapma!" buyurdu. Diğer tahric: Buharî, ezan; Nesaî, imame; Ahmed b. Hanbel, V, 39,
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (783)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>683</td></tr><tr><td>Arabic No</td><td>683</td></tr><tr><td>Reference</td><td>Book 2 Hadith 293</td></tr></tbody></table></div>
 

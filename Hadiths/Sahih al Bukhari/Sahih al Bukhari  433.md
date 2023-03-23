@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Isma'il bin 'Abdullah] berkata, telah menceritak
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ömer Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: Azaba uğramış kavimlerin yurdundan ancak ağlayarak geçiniz! Eğer ağlamıyorsanız oradan geçmeyin ki, onların başına gelenler sizin de başınıza gelmesin. Tekrar:
+Abdullah İbn Ömer Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: Azaba uğramış kavimlerin yurdundan ancak ağlayarak geçiniz! Eğer ağlamıyorsanız oradan geçmeyin ki, onların başına gelenler sizin de başınıza gelmesin. Tekrar: 338, 3381, 4
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>433</td></tr><tr><td>Arabic No</td><td>433</td></tr><tr><td>Reference</td><td>Book 8 Hadith 83</td></tr></tbody></table></div>
 

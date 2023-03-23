@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya]
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Musa el-Eş'ari şöyle demiştir: Yanımda Eş'ariIerden iki adamla birlikte Resulullah Sallallahu Aleyhi ve Sellem'in yanına vardım ve "Bu iki kişi iş istiyorlar" dedim. Bunun üzerine Efendimiz Sallallahu Aleyhi ve Sellem, "Biz, işimizde, işe talib olanları istihdam etmeyiz" buyurdu. Tekrar: 3038, 4341, 4343, 4344, 6124
+Ebu Musa el-Eş'ari şöyle demiştir: Yanımda Eş'ariIerden iki adamla birlikte Resulullah Sallallahu Aleyhi ve Sellem'in yanına vardım ve "Bu iki kişi iş istiyorlar" dedim. Bunun üzerine Efendimiz Sallallahu Aleyhi ve Sellem, "Biz, işimizde, işe talib olanları istihdam etmeyiz" buyurdu. Tekrar: 3038, 4341, 4343, 4344, 6124, 6923, 7149, 7
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2261</td></tr><tr><td>Arabic No</td><td>2261</td></tr><tr><td>Reference</td><td>Book 37 Hadith 2</td></tr></tbody></table></div>
 

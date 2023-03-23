@@ -62,7 +62,7 @@ Narrated Abu Talha:I heard Allah's Messenger (ﷺ) saying; "Angels (of Mercy) do
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Abbas r.a.'in Ebu Talha'dan dinlediğine göre Ebu Talha, Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu duymuştur: "Melekler, içinde köpek ve suret / resim bulunan eve girmezler. " Tekrar:
+Abdullah İbn Abbas r.a.'in Ebu Talha'dan dinlediğine göre Ebu Talha, Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu duymuştur: "Melekler, içinde köpek ve suret / resim bulunan eve girmezler. " Tekrar: 3322, 4
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3225</td></tr><tr><td>Arabic No</td><td>3225</td></tr><tr><td>Reference</td><td>Book 59 Hadith 36</td></tr></tbody></table></div>
 

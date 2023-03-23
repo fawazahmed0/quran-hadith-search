@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Walid] berkata, telah menceritakan kepada
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah (İbn-i Mes’ud’dan) rivayet’e göre: "İman edenler ve imanlarına zulüm karıştırmayanlar var ya.[En'am, 82] ayeti indiri­lince Nebi (Sallallahu aleyhi ve Sellem)'e: "Hangimiz zulüm etmemiştir ki! dediler. Bunun üzerine Allah şu âyeti indirdi: "Şüphesiz ki şirk büyük bir zulümdür.[Lokman, 13] Tekrar: 3360
+Abdullah (İbn-i Mes’ud’dan) rivayet’e göre: "İman edenler ve imanlarına zulüm karıştırmayanlar var ya.[En'am, 82] ayeti indiri­lince Nebi (Sallallahu aleyhi ve Sellem)'e: "Hangimiz zulüm etmemiştir ki! dediler. Bunun üzerine Allah şu âyeti indirdi: "Şüphesiz ki şirk büyük bir zulümdür.[Lokman, 13] Tekrar: 3360, 3428, 4629, 4
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>32</td></tr><tr><td>Arabic No</td><td>32</td></tr><tr><td>Reference</td><td>Book 2 Hadith 25</td></tr></tbody></table></div>
 

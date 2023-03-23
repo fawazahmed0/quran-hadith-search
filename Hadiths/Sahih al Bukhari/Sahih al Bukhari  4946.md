@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Ali:While the Prophet (ﷺ) was in a funeral procession, he took a small stick and started scraping the earth with it and said, "There is none among you but has his place written for him, either in the Hell Fire or in Paradise." They (the people) said, "Allah's Messenger (ﷺ)! Shall we depend on this (and leave work)?" He replied. "Carry on doing (good deeds), for everybody will find easy (to do) such deeds as will lead him to his destined place." The Prophet (ﷺ) then recited:-- 'As for him who gives (in charity) and keeps his duty to Allah, and believes in the Best Reward
+Narrated 'Ali:While the Prophet (ﷺ) was in a funeral procession, he took a small stick and started scraping the earth with it and said, "There is none among you but has his place written for him, either in the Hell Fire or in Paradise." They (the people) said, "Allah's Messenger (ﷺ)! Shall we depend on this (and leave work)?" He replied. "Carry on doing (good deeds), for everybody will find easy (to do) such deeds as will lead him to his destined place." The Prophet (ﷺ) then recited:-- 'As for him who gives (in charity) and keeps his duty to Allah, and believes in the Best Reward.
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4946</td></tr><tr><td>Arabic No</td><td>4946</td></tr><tr><td>Reference</td><td>Book 65 Hadith 468</td></tr></tbody></table></div>
 

@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muhammad bin Ash Shabbah bin Sufyan] telah mence
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Meymune (r.anha)'dan; "Resulullah (Sallallahu aleyhi ve Sellem)'ın bir bölümü kendi üzerinde, diğer bölümü hayız halindeki bir hanımının üstünde olan bir elbise ile namaz kıldığı" rivayet edilmiştir. Diğer tahric: Müslim, salat; İbn Mace, tahare; Ahmed b. Hanbel, VI
+Meymune (r.anha)'dan; "Resulullah (Sallallahu aleyhi ve Sellem)'ın bir bölümü kendi üzerinde, diğer bölümü hayız halindeki bir hanımının üstünde olan bir elbise ile namaz kıldığı" rivayet edilmiştir. Diğer tahric: Müslim, salat; İbn Mace, tahare; Ahmed b. Hanbel, VI, 6
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>369</td></tr><tr><td>Arabic No</td><td>369</td></tr><tr><td>Reference</td><td>Book 1 Hadith 369</td></tr></tbody></table></div>
 

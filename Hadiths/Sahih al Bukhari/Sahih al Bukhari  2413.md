@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musa] telah menceritakan kepada kami [Hammam] da
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes r.a. şöyle anlatır: Bir yahudi iki taş arasında bir müslümanın başını ezmiş yaralamıştı. Ona, "Bunu sana kim yaptı, falan mı yoksa falan mı?" diye soruldu. En sonunda o yahudinin ismi geçince başıyla onun olduğunu ima etti. Sonra yahudi yaptığını itiraf etti. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem emretti, onun başı da iki taş arasında ezilip yaralandı. Tekrar: 2746, 5295
+Enes r.a. şöyle anlatır: Bir yahudi iki taş arasında bir müslümanın başını ezmiş yaralamıştı. Ona, "Bunu sana kim yaptı, falan mı yoksa falan mı?" diye soruldu. En sonunda o yahudinin ismi geçince başıyla onun olduğunu ima etti. Sonra yahudi yaptığını itiraf etti. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem emretti, onun başı da iki taş arasında ezilip yaralandı. Tekrar: 2746, 5295, 6876, 6877, 6
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2413</td></tr><tr><td>Arabic No</td><td>2413</td></tr><tr><td>Reference</td><td>Book 44 Hadith 4</td></tr></tbody></table></div>
 

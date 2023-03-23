@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes İbn Malik r.a. şöyle demiştir: Ebu Taybe (adındaki köle), Resulullah Sallallahu Aleyhi ve Sellem'in kan'ını aldı. Resulullah ona bir sa' hurma verilmesini emretti. Köle'nin sahiplerine de onun günlük haracını hafifletmelerini emretti. Tekrar:
+Enes İbn Malik r.a. şöyle demiştir: Ebu Taybe (adındaki köle), Resulullah Sallallahu Aleyhi ve Sellem'in kan'ını aldı. Resulullah ona bir sa' hurma verilmesini emretti. Köle'nin sahiplerine de onun günlük haracını hafifletmelerini emretti. Tekrar: 2210, 2277, 2
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2102</td></tr><tr><td>Arabic No</td><td>2102</td></tr><tr><td>Reference</td><td>Book 34 Hadith 55</td></tr></tbody></table></div>
 

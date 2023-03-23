@@ -52,7 +52,7 @@ Ibn ‘Abbas reported the Apostle of Allaah(ﷺ) as saying “A woman without a 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas (r.a.)'dan; demiştir ki: "Rasulullah (Sallallahu aleyhi ve Sellem) şöyle) buyurdu: "Dul, kendisine velisinden daha maliktir. Bekar’ın da kendisi hakkında izni alınır. Onun izni susmasıdır." Diğer tahric: Müslim, nikah; Tirmizî, nikah; İbn Mace, nikah (1870); Darimi, nikah; Muvatta, nikah; Ahmed b. Hanbel, I
+İbn Abbas (r.a.)'dan; demiştir ki: "Rasulullah (Sallallahu aleyhi ve Sellem) şöyle) buyurdu: "Dul, kendisine velisinden daha maliktir. Bekar’ın da kendisi hakkında izni alınır. Onun izni susmasıdır." Diğer tahric: Müslim, nikah; Tirmizî, nikah; İbn Mace, nikah (1870); Darimi, nikah; Muvatta, nikah; Ahmed b. Hanbel, I, 219, 242, 274
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1421)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2098</td></tr><tr><td>Arabic No</td><td>2098</td></tr><tr><td>Reference</td><td>Book 12 Hadith 53</td></tr></tbody></table></div>
 

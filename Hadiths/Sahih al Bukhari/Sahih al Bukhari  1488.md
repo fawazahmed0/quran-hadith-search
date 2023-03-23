@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Qutaibah] dari [Malik] dari [Humaid] dari [Anas 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes İbn Malik r.a. şöyle anlatir: "Resulullah Sallallahu Aleyhi ve Sellem serpilip büyüyene ve kızarana kadar meyvelerin satımını yasaklamıştır. Tekrar:
+Enes İbn Malik r.a. şöyle anlatir: "Resulullah Sallallahu Aleyhi ve Sellem serpilip büyüyene ve kızarana kadar meyvelerin satımını yasaklamıştır. Tekrar: 2195, 2
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1488</td></tr><tr><td>Arabic No</td><td>1488</td></tr><tr><td>Reference</td><td>Book 24 Hadith 88</td></tr></tbody></table></div>
 

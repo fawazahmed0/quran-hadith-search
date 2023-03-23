@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Hafsh bin 'Umar] berkata, telah menceritakan kep
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (r.anha) şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem) ayakkabı giymede, saçını-sakalını taramada, abdest almada, (hasılı) bütün İşlerde sağdan başlamayı severdi. Tekrar:
+Aişe (r.anha) şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem) ayakkabı giymede, saçını-sakalını taramada, abdest almada, (hasılı) bütün İşlerde sağdan başlamayı severdi. Tekrar: 426, 5
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>168</td></tr><tr><td>Arabic No</td><td>168</td></tr><tr><td>Reference</td><td>Book 4 Hadith 34</td></tr></tbody></table></div>
 

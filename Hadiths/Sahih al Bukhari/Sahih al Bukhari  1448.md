@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin 'Abdullah] berkata, telah mencerita
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Sümame'nin naklettiğine göre, Ebu Bekir, Enes İbn Malik'e yazdığı bir mektupta şöyle demiştir: Bir yaşını doldurmuş bir deveyi zekat olarak vermesi gereken kimsede bu deve bulunmayıp da iki yaşında bir dişi deve bulunursa, zekat olarak bu deve kabul edilir. Fakat o kişiye, ya yirmi dirhem ya da iki koyun geri verilir. Zekat mükellefinde, bir yaşında dişi deve bulunmayıp da iki yaşında bir erkek deve bulunuyorsa bu da kabul edilir. Fakat bu durumda ona geri bir şey verilmez. Tekrar: 1450, 1451, 1453, 1454
+Sümame'nin naklettiğine göre, Ebu Bekir, Enes İbn Malik'e yazdığı bir mektupta şöyle demiştir: Bir yaşını doldurmuş bir deveyi zekat olarak vermesi gereken kimsede bu deve bulunmayıp da iki yaşında bir dişi deve bulunursa, zekat olarak bu deve kabul edilir. Fakat o kişiye, ya yirmi dirhem ya da iki koyun geri verilir. Zekat mükellefinde, bir yaşında dişi deve bulunmayıp da iki yaşında bir erkek deve bulunuyorsa bu da kabul edilir. Fakat bu durumda ona geri bir şey verilmez. Tekrar: 1450, 1451, 1453, 1454, 1455, 2487, 3
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1448</td></tr><tr><td>Arabic No</td><td>1448</td></tr><tr><td>Reference</td><td>Book 24 Hadith 51</td></tr></tbody></table></div>
 

@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muslim] berkata, telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cündeb (r.a.)'den nakledilmiştir: "Resul-i Ekrem Sallallahu Aleyhi ve Sellem bir Kurban Bayramı günü namazı kıldırdı ve ardından cemaate hitap etti. Daha sonra da kurbanını kesip şöyle buyurdu: "Kim namazdan önce hayvanını kestiyse onun yerine başka bir kurban daha kessin. Kim de henüz kesmediyse kurbanı keserken Allah'ın adını ansın. Tekrar:
+Cündeb (r.a.)'den nakledilmiştir: "Resul-i Ekrem Sallallahu Aleyhi ve Sellem bir Kurban Bayramı günü namazı kıldırdı ve ardından cemaate hitap etti. Daha sonra da kurbanını kesip şöyle buyurdu: "Kim namazdan önce hayvanını kestiyse onun yerine başka bir kurban daha kessin. Kim de henüz kesmediyse kurbanı keserken Allah'ın adını ansın. Tekrar: 5500, 5
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>985</td></tr><tr><td>Arabic No</td><td>985</td></tr><tr><td>Reference</td><td>Book 13 Hadith 34</td></tr></tbody></table></div>
 

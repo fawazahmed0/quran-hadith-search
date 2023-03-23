@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [H
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn-i Abbas r.a. şöyle demiştir: Bir adam Arafat'ta vakfede iken bineğinden düştü. Deve de adam'ın boynunu kırdı (adam derhal öldü). Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: "O'nu su ve sidr ile yıkayın ve iki kat ihramı içinde kefenleyin. O'na koku sürmeyin, başını da örtmeyin. Çünkü o kıyamet gününde telbiye getirdiği halde diriltilecektir. Tekrar; 1266
+İbn-i Abbas r.a. şöyle demiştir: Bir adam Arafat'ta vakfede iken bineğinden düştü. Deve de adam'ın boynunu kırdı (adam derhal öldü). Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: "O'nu su ve sidr ile yıkayın ve iki kat ihramı içinde kefenleyin. O'na koku sürmeyin, başını da örtmeyin. Çünkü o kıyamet gününde telbiye getirdiği halde diriltilecektir. Tekrar; 1266, 1267, 1268, 1
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1265</td></tr><tr><td>Arabic No</td><td>1265</td></tr><tr><td>Reference</td><td>Book 23 Hadith 26</td></tr></tbody></table></div>
 

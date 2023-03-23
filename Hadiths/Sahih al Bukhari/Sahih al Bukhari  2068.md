@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Mu'alla bin Asad] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe r.anha'nın bildirdiğine göre Nebi Sallallahu Aleyhi ve Sellem bir Yahudi'den bedelini bir müddet sonra ödemek üzere yiyecek (buğday) satın aldı ve demirden yapılmış zırhını rehin olarak bıraktı. Tekrar: 2096, 2200, 2251, 2252
+Aişe r.anha'nın bildirdiğine göre Nebi Sallallahu Aleyhi ve Sellem bir Yahudi'den bedelini bir müddet sonra ödemek üzere yiyecek (buğday) satın aldı ve demirden yapılmış zırhını rehin olarak bıraktı. Tekrar: 2096, 2200, 2251, 2252, 2386, 2509, 2
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2068</td></tr><tr><td>Arabic No</td><td>2068</td></tr><tr><td>Reference</td><td>Book 34 Hadith 21</td></tr></tbody></table></div>
 

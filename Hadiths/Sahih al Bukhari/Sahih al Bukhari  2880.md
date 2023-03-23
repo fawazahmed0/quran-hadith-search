@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Abu Ma'mar] telah bercerita kepada kami ['Abdul War
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes İbn Malik'in şöyle dediği nakledilmiştir: "Uhud savaşında Müslümanlar bozguna uğramış ve Resulullah Sallallahu Aleyhi ve Sellem'in yanından uzaklaşıp dağılmışlardı. Ben Aişe r.anha ile Ümmü Süleym'i gördüm. Eteklerini toplamışlardı ve ayak bileklerindeki halhallar görünüyordu. Onlar seke seke omuzlarında kırbalarla su taşıyorlar ve mücahitlere su içiriyorlardı. Sonra dönüyor, kırbalarını doldurup tekrar mücahitlere su veriyorlardı. " Tekrar:
+Enes İbn Malik'in şöyle dediği nakledilmiştir: "Uhud savaşında Müslümanlar bozguna uğramış ve Resulullah Sallallahu Aleyhi ve Sellem'in yanından uzaklaşıp dağılmışlardı. Ben Aişe r.anha ile Ümmü Süleym'i gördüm. Eteklerini toplamışlardı ve ayak bileklerindeki halhallar görünüyordu. Onlar seke seke omuzlarında kırbalarla su taşıyorlar ve mücahitlere su içiriyorlardı. Sonra dönüyor, kırbalarını doldurup tekrar mücahitlere su veriyorlardı. " Tekrar: 2
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2880</td></tr><tr><td>Arabic No</td><td>2880</td></tr><tr><td>Reference</td><td>Book 56 Hadith 95</td></tr></tbody></table></div>
 

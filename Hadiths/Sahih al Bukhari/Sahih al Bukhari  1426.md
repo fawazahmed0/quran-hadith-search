@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdan] telah mengabarkan kepada kami ['Abdullah
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a.'den nakledildiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "En hayırlı sadaka, zengin iken verilenidir. Sadaka vermeye, geçimini sağladığın kimselerden başla. Tekrar:
+Ebu Hureyre r.a.'den nakledildiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "En hayırlı sadaka, zengin iken verilenidir. Sadaka vermeye, geçimini sağladığın kimselerden başla. Tekrar: 1
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1426</td></tr><tr><td>Arabic No</td><td>1426</td></tr><tr><td>Reference</td><td>Book 24 Hadith 30</td></tr></tbody></table></div>
 

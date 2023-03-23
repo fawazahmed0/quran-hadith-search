@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a., Nebi (Sallallahu aleyhi ve Sellem)'den şunu rivayet etmiştir: "Sizden biri eşi ile cinsel ilişkide bulunacağı zaman: Bismillah, Allahümme cennibne'ş-şeytâne ve cennibi'ş-şeytâne mâ razaktenâ (Bismillah, Allah'ım bizi şeytandan uzak tut, şeytanı da bize rızık olarak vereceğin (çocuktan) uzak tut) derse ve o İlişki sebebiyle bir çocuklarının olması takdir edilirse şeytan ona zarar veremez. Tekrar:
+İbn Abbas r.a., Nebi (Sallallahu aleyhi ve Sellem)'den şunu rivayet etmiştir: "Sizden biri eşi ile cinsel ilişkide bulunacağı zaman: Bismillah, Allahümme cennibne'ş-şeytâne ve cennibi'ş-şeytâne mâ razaktenâ (Bismillah, Allah'ım bizi şeytandan uzak tut, şeytanı da bize rızık olarak vereceğin (çocuktan) uzak tut) derse ve o İlişki sebebiyle bir çocuklarının olması takdir edilirse şeytan ona zarar veremez. Tekrar: 3271, 3233.
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>141</td></tr><tr><td>Arabic No</td><td>141</td></tr><tr><td>Reference</td><td>Book 4 Hadith 7</td></tr></tbody></table></div>
 

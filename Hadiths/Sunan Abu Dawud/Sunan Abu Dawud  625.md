@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Al-Qa'nabi'] dari [Malik] dari [Ibnu Syihab] dar
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre (r.a.)'den, rivayet edildiğine göre, Resulullah (Sallallahu aleyhi ve Sellem)'e bir tek elbise içinde namaz kılmanın hükmü sorulmuş da: "Herbirinizin ikişer elbisesi var mı ki?" cevabını vermiş. Diğer tahric: Buharî, salat; Müslim, salat; İbn Mace ikame; Muvatta' cemaa; Ahmed b. Hanbel, 230
+Ebu Hureyre (r.a.)'den, rivayet edildiğine göre, Resulullah (Sallallahu aleyhi ve Sellem)'e bir tek elbise içinde namaz kılmanın hükmü sorulmuş da: "Herbirinizin ikişer elbisesi var mı ki?" cevabını vermiş. Diğer tahric: Buharî, salat; Müslim, salat; İbn Mace ikame; Muvatta' cemaa; Ahmed b. Hanbel, 230, 239, 243, 255
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (358) Sahih Muslim (515)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>625</td></tr><tr><td>Arabic No</td><td>625</td></tr><tr><td>Reference</td><td>Book 2 Hadith 235</td></tr></tbody></table></div>
 

@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah b. Amr (r.a.) ResuluIIah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu rivayet etmiştir: "Öğlenin vakti, ikindi vakti girmedikçe; ikindininki güneş sararmadikça, akşamın vakti de şafağın kırmızılığı kaybolmadıkça (devam eder); yatsının vakti gece yarısına; sabah namazının vakti ise, güneş doğuncaya kadardır." Diğer tahric: MüsIim, mesacid; Nesai, mevakit; Ahmed b. Hanbel, II
+Abdullah b. Amr (r.a.) ResuluIIah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu rivayet etmiştir: "Öğlenin vakti, ikindi vakti girmedikçe; ikindininki güneş sararmadikça, akşamın vakti de şafağın kırmızılığı kaybolmadıkça (devam eder); yatsının vakti gece yarısına; sabah namazının vakti ise, güneş doğuncaya kadardır." Diğer tahric: MüsIim, mesacid; Nesai, mevakit; Ahmed b. Hanbel, II, 21
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (612)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>396</td></tr><tr><td>Arabic No</td><td>396</td></tr><tr><td>Reference</td><td>Book 2 Hadith 6</td></tr></tbody></table></div>
 

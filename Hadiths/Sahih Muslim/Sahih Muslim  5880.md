@@ -72,7 +72,7 @@ Dan telah menceritakan kepadaku [Abu Ath Thahir] dan [Harmalah] keduanya berkata
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bana Ebu't-Tahir ile Harmele rivayet ettiler. (Dedilerki): Bize İbni Vehb haber verdi. (Dediki): Bana Yunus, İbni Şihab'dan, o da Ebu Umame b. Sehl b. Huneyf'den, o da babasından naklen haber verdiki: Resulullah (Sallallahu Aleyhi ve Sellem) : Biriniz: Nefsim habis oldu, demesin! Nefsim lakis, desin! buyurmuşlar. Diğer tahric: Buharî Edeb; Nesaî sünen-i Kübra El-yevm vel-leyle; Ebu Davud, edeb; Ahmed b. Hanbel. VI
+Bana Ebu't-Tahir ile Harmele rivayet ettiler. (Dedilerki): Bize İbni Vehb haber verdi. (Dediki): Bana Yunus, İbni Şihab'dan, o da Ebu Umame b. Sehl b. Huneyf'den, o da babasından naklen haber verdiki: Resulullah (Sallallahu Aleyhi ve Sellem) : Biriniz: Nefsim habis oldu, demesin! Nefsim lakis, desin! buyurmuşlar. Diğer tahric: Buharî Edeb; Nesaî sünen-i Kübra El-yevm vel-leyle; Ebu Davud, edeb; Ahmed b. Hanbel. VI. 51.66
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5880</td></tr><tr><td>Arabic No</td><td>2251</td></tr><tr><td>Reference</td><td>Book 40 Hadith 19</td></tr></tbody></table></div>
 

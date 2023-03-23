@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada saya
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre ve Zeyd İbn Halid r.a. şunu rivayet etmişlerdir: Hz.Nebi'e, muhsan olmayan cariye zina ettiğinde ne yapılacağı soruldu. O Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Zina ettiğinde sopa vurun. Tekrar zina ederse yine sopa vurun. Tekrar zina ederse kıldan bir ip karşılığında bile olsa onu satın. " Tekrar
+Ebu Hureyre ve Zeyd İbn Halid r.a. şunu rivayet etmişlerdir: Hz.Nebi'e, muhsan olmayan cariye zina ettiğinde ne yapılacağı soruldu. O Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Zina ettiğinde sopa vurun. Tekrar zina ederse yine sopa vurun. Tekrar zina ederse kıldan bir ip karşılığında bile olsa onu satın. " Tekrar. 2
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2153</td></tr><tr><td>Arabic No</td><td>2153</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

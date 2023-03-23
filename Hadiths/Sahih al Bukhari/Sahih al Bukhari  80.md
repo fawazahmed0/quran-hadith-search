@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Imran bin Maisarah] berkata, telah menceritakan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes, Nebi (Sallallahu aleyhi ve Sellem)’in şöyle dediğini rivayet etmiştir: "ilmin kaldırılması, cehaletin yerleşmesi, içkinin içilmesi ve zinanın yaygınlaşması kıyamet alâmetlerindendir. Tekrar:
+Enes, Nebi (Sallallahu aleyhi ve Sellem)’in şöyle dediğini rivayet etmiştir: "ilmin kaldırılması, cehaletin yerleşmesi, içkinin içilmesi ve zinanın yaygınlaşması kıyamet alâmetlerindendir. Tekrar: 81, 5
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>80</td></tr><tr><td>Arabic No</td><td>80</td></tr><tr><td>Reference</td><td>Book 3 Hadith 22</td></tr></tbody></table></div>
 

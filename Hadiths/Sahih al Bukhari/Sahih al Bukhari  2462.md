@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Yahya bin Sulaiman] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ubeydullah İbn Abdullah İbn Utbe'den rivayet edilmiştir: Abdullah İbn Abbas r.a. ona Ömer r.a. hakkında şunu anlatmıştır: Allah, Resulü Sallallahu Aleyhi ve Sellem'i vefat ettirince ensar Saide oğullarının gölgeliğinde toplandı. Ben Ebu Bekir'e: "Haydi, biz de gidelim" dedim ve biz de Saide oğullarının gölgeliğine, onların yanına geldik. Tekrar:
+Ubeydullah İbn Abdullah İbn Utbe'den rivayet edilmiştir: Abdullah İbn Abbas r.a. ona Ömer r.a. hakkında şunu anlatmıştır: Allah, Resulü Sallallahu Aleyhi ve Sellem'i vefat ettirince ensar Saide oğullarının gölgeliğinde toplandı. Ben Ebu Bekir'e: "Haydi, biz de gidelim" dedim ve biz de Saide oğullarının gölgeliğine, onların yanına geldik. Tekrar: 3445, 4021, 6
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2462</td></tr><tr><td>Arabic No</td><td>2462</td></tr><tr><td>Reference</td><td>Book 46 Hadith 23</td></tr></tbody></table></div>
 

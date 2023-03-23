@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah menceritakan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre (r.a.)'den şöyle nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem Necd taraflarına bir süvari birliği gönderdi. Birlik, Beni Hanife’den olan, Sümâme bin Usal adında birini esir alarak döndü. Ashâb-ı kiram onu Mescid-i Nebevî'nin direklerinden birine bağladılar. Derken Allah Resulü Sallallahu Aleyhi ve Sellem mescid'e geldi ve: 'Sümâme'yi serbest bırakın dedi. Sümâme mescidin yakınlarındaki bir hurma ağacının yanına gidip gusül abdesti aldı. Daha sonra mescide geldi ve 'Allah'tan başka ilâh olmadığına ve Muhammed'in onun elçisi olduğuna şehadet ederim' dedi. Tekrar:
+Ebu Hureyre (r.a.)'den şöyle nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem Necd taraflarına bir süvari birliği gönderdi. Birlik, Beni Hanife’den olan, Sümâme bin Usal adında birini esir alarak döndü. Ashâb-ı kiram onu Mescid-i Nebevî'nin direklerinden birine bağladılar. Derken Allah Resulü Sallallahu Aleyhi ve Sellem mescid'e geldi ve: 'Sümâme'yi serbest bırakın dedi. Sümâme mescidin yakınlarındaki bir hurma ağacının yanına gidip gusül abdesti aldı. Daha sonra mescide geldi ve 'Allah'tan başka ilâh olmadığına ve Muhammed'in onun elçisi olduğuna şehadet ederim' dedi. Tekrar: 469, 2
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>462</td></tr><tr><td>Arabic No</td><td>462</td></tr><tr><td>Reference</td><td>Book 8 Hadith 110</td></tr></tbody></table></div>
 

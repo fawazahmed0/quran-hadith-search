@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Sa'id bin 'Uqair] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a. şöyle anlatır: Resulullah Sallallahu Aleyhi ve Sellem Meymûne'nin azadlı kölesine zekat malından verilmiş bir koyunun murdar bir şekilde ölmüş olduğunu görünce onlara, "Derisinden faydalansanız ya!" buyurmuştu. Onlar hayvanın "leş" olduğunu söyleyince ise, "Onun sadece yenilmesi haram kılınmıştır" buyurmuştur. Tekrar:
+İbn Abbas r.a. şöyle anlatır: Resulullah Sallallahu Aleyhi ve Sellem Meymûne'nin azadlı kölesine zekat malından verilmiş bir koyunun murdar bir şekilde ölmüş olduğunu görünce onlara, "Derisinden faydalansanız ya!" buyurmuştu. Onlar hayvanın "leş" olduğunu söyleyince ise, "Onun sadece yenilmesi haram kılınmıştır" buyurmuştur. Tekrar: 2
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1492</td></tr><tr><td>Arabic No</td><td>1492</td></tr><tr><td>Reference</td><td>Book 24 Hadith 92</td></tr></tbody></table></div>
 

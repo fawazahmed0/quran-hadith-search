@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ibnu Al Mutsanna] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İmran b. Husayn'dan rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) onlara Öğle namazını kıldırmış, (namazdan) çıkınca, "Sebbihis-me Rabbike'l-A'la diye başlayan (sure) yi hanginiz okudu?" deyince bir zat, "ben" cevabını vermiş. Bunun üzerine (Resul-i Ekrem): "Gerçekten anladım ki, biriniz onu benim ağzımdan aldı" buyurmuştur. Diğer tahric: Müslim, salat; Nesaî, iftitah, kıyamü'l-leyl; Ahmed b. Hanbel, IV
+İmran b. Husayn'dan rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) onlara Öğle namazını kıldırmış, (namazdan) çıkınca, "Sebbihis-me Rabbike'l-A'la diye başlayan (sure) yi hanginiz okudu?" deyince bir zat, "ben" cevabını vermiş. Bunun üzerine (Resul-i Ekrem): "Gerçekten anladım ki, biriniz onu benim ağzımdan aldı" buyurmuştur. Diğer tahric: Müslim, salat; Nesaî, iftitah, kıyamü'l-leyl; Ahmed b. Hanbel, IV, 426
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>829</td></tr><tr><td>Arabic No</td><td>829</td></tr><tr><td>Reference</td><td>Book 2 Hadith 439</td></tr></tbody></table></div>
 

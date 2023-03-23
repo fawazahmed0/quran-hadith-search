@@ -52,7 +52,7 @@ Telah menceritakan kepada Kami [Ahmad bin Hanbal], telah menceritakan kepada Kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas'dan rivayet edildiğine göre, Nebi Sallallahu Aleyhi ve Sellem ihramlı iken kan aldırmıştır. Diğer tahric: Buharî, cezau's-sayd, savm; Müslim, hac; Tirmm, hac, savmöO; Nesaî, hac; İbn Mace, siyanı, menasik; Darİmî, menasik; Muvatta', hac; Ahmed b. Hanbel, I, 215, 221, 222, 236, 244, 248, 249, 250, 258, 260, 280, 283, 286, 292, 299, 305, 306, 315, 333, 344, 346, 351, 372, 374; III
+İbn Abbas'dan rivayet edildiğine göre, Nebi Sallallahu Aleyhi ve Sellem ihramlı iken kan aldırmıştır. Diğer tahric: Buharî, cezau's-sayd, savm; Müslim, hac; Tirmm, hac, savmöO; Nesaî, hac; İbn Mace, siyanı, menasik; Darİmî, menasik; Muvatta', hac; Ahmed b. Hanbel, I, 215, 221, 222, 236, 244, 248, 249, 250, 258, 260, 280, 283, 286, 292, 299, 305, 306, 315, 333, 344, 346, 351, 372, 374; III, 164, 267,
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1835) Sahih Muslim (1202)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1835</td></tr><tr><td>Arabic No</td><td>1835</td></tr><tr><td>Reference</td><td>Book 11 Hadith 115</td></tr></tbody></table></div>
 

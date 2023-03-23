@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] ia berkata, Telah menceritakan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu rivayet etmiştir: "Allah Teala Nebi'in Kur'an'ı yüksek sesle güzel okuması konusunda izin verdiği gibi başka hiçbir konuda böyle teğanni ile okumaya müsaade etmemiştir." [İbn Şihab dediki: Ravi Ebu Seleme'nin] bir arkadaşı, Kur'an'ı güzel okumaktan maksadın, onu yüksek sesle okumak olduğunu söylemiştir. Tekrar:
+Ebu Hureyre Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu rivayet etmiştir: "Allah Teala Nebi'in Kur'an'ı yüksek sesle güzel okuması konusunda izin verdiği gibi başka hiçbir konuda böyle teğanni ile okumaya müsaade etmemiştir." [İbn Şihab dediki: Ravi Ebu Seleme'nin] bir arkadaşı, Kur'an'ı güzel okumaktan maksadın, onu yüksek sesle okumak olduğunu söylemiştir. Tekrar: 5
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5023</td></tr><tr><td>Arabic No</td><td>5023</td></tr><tr><td>Reference</td><td>Book 66 Hadith 45</td></tr></tbody></table></div>
 

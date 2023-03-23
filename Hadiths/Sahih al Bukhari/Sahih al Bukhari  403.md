@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ömer'den şöyle nakledilmiştir: "Müslümanlar Kubâ mescidinde sabah namazını kılarlarken ashab'dan birisi çıkagelip, onlara: 'Bu gece inen âyetle Allah Resulü (Sallallahu aleyhi ve Sellem)'e Ka'be'ye yönelmesi emredildi, siz de o tarafa yönelin' deyince, yüzleri Şam'a dönük olan cemaat, hemen o anda Kabe'ye doğru döndü. Tekrar: 4488
+Abdullah İbn Ömer'den şöyle nakledilmiştir: "Müslümanlar Kubâ mescidinde sabah namazını kılarlarken ashab'dan birisi çıkagelip, onlara: 'Bu gece inen âyetle Allah Resulü (Sallallahu aleyhi ve Sellem)'e Ka'be'ye yönelmesi emredildi, siz de o tarafa yönelin' deyince, yüzleri Şam'a dönük olan cemaat, hemen o anda Kabe'ye doğru döndü. Tekrar: 4488, 4490, 4491, 4
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>403</td></tr><tr><td>Arabic No</td><td>403</td></tr><tr><td>Reference</td><td>Book 8 Hadith 55</td></tr></tbody></table></div>
 

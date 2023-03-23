@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Sa'id bin Abi Maryam] telah menceritakan kepada 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Sehl İbn Sa'd r.a. şöyle anlatır: Resulullah Sallallahu Aleyhi ve Sellem'e bir bardak (su veya süt) getirilmiş ve Efendimiz Sallallahu Aleyhi ve Sellem ondan bir miktar içmişti. Hz. Nebi sağında bir genç, solunda ise ihtiyarlar bulunuyordu. Resul-i Ekrem Sallallahu Aleyhi ve Sellem genc'e, "Ey genç! İzin verirsen bunu yaşlılara ikram edeyim" buyurdu. Genç de, "Ey Allah'ın Resulü! Senin artığını içme şerefi konusunda hiçbir kimseyi kendime tercih edemem" dedi. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem bardağı o gence verdi. Tekrar:
+Sehl İbn Sa'd r.a. şöyle anlatır: Resulullah Sallallahu Aleyhi ve Sellem'e bir bardak (su veya süt) getirilmiş ve Efendimiz Sallallahu Aleyhi ve Sellem ondan bir miktar içmişti. Hz. Nebi sağında bir genç, solunda ise ihtiyarlar bulunuyordu. Resul-i Ekrem Sallallahu Aleyhi ve Sellem genc'e, "Ey genç! İzin verirsen bunu yaşlılara ikram edeyim" buyurdu. Genç de, "Ey Allah'ın Resulü! Senin artığını içme şerefi konusunda hiçbir kimseyi kendime tercih edemem" dedi. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem bardağı o gence verdi. Tekrar: 2366. 2451, 2
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2351</td></tr><tr><td>Arabic No</td><td>2351</td></tr><tr><td>Reference</td><td>Book 42 Hadith 1</td></tr></tbody></table></div>
 

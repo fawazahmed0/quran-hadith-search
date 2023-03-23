@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muslim] berkata, telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Abbas (r.a.)'den nakledilmiştir: "Saba rüzgarı bana ilahî bir yardım olarak verildi / ben saba rüzgarı ile desteklendim. Ad kavmi ise debur denen rüzgar ile helak oldu. Tekrar:
+Abdullah İbn Abbas (r.a.)'den nakledilmiştir: "Saba rüzgarı bana ilahî bir yardım olarak verildi / ben saba rüzgarı ile desteklendim. Ad kavmi ise debur denen rüzgar ile helak oldu. Tekrar: 3
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1035</td></tr><tr><td>Arabic No</td><td>1035</td></tr><tr><td>Reference</td><td>Book 15 Hadith 30</td></tr></tbody></table></div>
 

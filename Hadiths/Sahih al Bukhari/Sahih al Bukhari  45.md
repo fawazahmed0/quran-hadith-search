@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Al Hasan bin Ash Shabbah] bahwa dia mendengar [J
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ömer İbnü'l-Hattâb r.a.'den rivayet edildiğine göre Yahudilerden biri ona şöyle dedi: Ey muminlerin emiri ! Sizin kitabınızda okuduğunuz bir ayet biz Yahudiler topluluğuna inmiş olsaydı, o ayet'in indiği günü bayram edinirdik". Hz. Ömer sordu: "Hangi âyet?" Yahudi cevap verdi: "Bugün size dininizi kemale erdirdim, üzerinizdeki ni'metimi tamamladım ve sizin için din olarak İslâm'dan razı oldum.’’ [Mâide,3] Bunun üzerine Hz. Ömer şöyle dedi: Biz bu günü ve Nebi (Sallallahu aleyhi ve Sellem)'e bu âyet'in indirildiği yeri biliriz. Bu ayet Nebi (Sallallahu aleyhi ve Sellem) Arafat'ta ayakta beklerken Cum'a günü indirildi. Tekrar:
+Ömer İbnü'l-Hattâb r.a.'den rivayet edildiğine göre Yahudilerden biri ona şöyle dedi: Ey muminlerin emiri ! Sizin kitabınızda okuduğunuz bir ayet biz Yahudiler topluluğuna inmiş olsaydı, o ayet'in indiği günü bayram edinirdik". Hz. Ömer sordu: "Hangi âyet?" Yahudi cevap verdi: "Bugün size dininizi kemale erdirdim, üzerinizdeki ni'metimi tamamladım ve sizin için din olarak İslâm'dan razı oldum.’’ [Mâide,3] Bunun üzerine Hz. Ömer şöyle dedi: Biz bu günü ve Nebi (Sallallahu aleyhi ve Sellem)'e bu âyet'in indirildiği yeri biliriz. Bu ayet Nebi (Sallallahu aleyhi ve Sellem) Arafat'ta ayakta beklerken Cum'a günü indirildi. Tekrar: 4
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>45</td></tr><tr><td>Arabic No</td><td>45</td></tr><tr><td>Reference</td><td>Book 2 Hadith 38</td></tr></tbody></table></div>
 

@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Said el-Hudri r.a. şöyle anlatır: "Resulullah (Sallallahu aleyhi ve Sellem)'in yanında oturuyordum. "Ey Allah'ın Resulü' Bize (savaş) esirleri verildi. Onları satıp paralarını almak istiyoruz. Onlarla (cima da) azil yapmamız konusunda ne buyurursunuz?" diye sordum. Nebi Sallallahu Aleyhi ve Sellem, Böyle mi yapıyorsunuz! Böyle yapmanızda bir günah yok. Çünkü Allah'ın dünyaya gelmesini takdir ettiği her canlı mutlaka gelecektir" buyurdu. Tekrar:
+Ebu Said el-Hudri r.a. şöyle anlatır: "Resulullah (Sallallahu aleyhi ve Sellem)'in yanında oturuyordum. "Ey Allah'ın Resulü' Bize (savaş) esirleri verildi. Onları satıp paralarını almak istiyoruz. Onlarla (cima da) azil yapmamız konusunda ne buyurursunuz?" diye sordum. Nebi Sallallahu Aleyhi ve Sellem, Böyle mi yapıyorsunuz! Böyle yapmanızda bir günah yok. Çünkü Allah'ın dünyaya gelmesini takdir ettiği her canlı mutlaka gelecektir" buyurdu. Tekrar: 2542,4138
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2229</td></tr><tr><td>Arabic No</td><td>2229</td></tr><tr><td>Reference</td><td>Book 34 Hadith 176</td></tr></tbody></table></div>
 

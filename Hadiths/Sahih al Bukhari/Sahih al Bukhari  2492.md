@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Bisyir bin Muhammad] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a.'den rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Bir kimse kölesini kısmen azad ederse kendi malından köleyi özgürlüğüne kavuşturması gerekir. Malı yoksa köleye adil bir kişi tarafından değer biçilir, sonra zorlanmaksızın değerini ödeyinceye kadar çalıştırılır. " Tekrar:
+Ebu Hureyre r.a.'den rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Bir kimse kölesini kısmen azad ederse kendi malından köleyi özgürlüğüne kavuşturması gerekir. Malı yoksa köleye adil bir kişi tarafından değer biçilir, sonra zorlanmaksızın değerini ödeyinceye kadar çalıştırılır. " Tekrar: 2
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2492</td></tr><tr><td>Arabic No</td><td>2492</td></tr><tr><td>Reference</td><td>Book 47 Hadith 10</td></tr></tbody></table></div>
 

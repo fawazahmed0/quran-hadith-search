@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Zakaria bin Yahya] berkata, telah menceritakan k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Âişe (r.anha)'dan şöyle nakledilmiştir: "Hendek savaşında Sa'd İbn Muâz, kolundaki atar damardan yaralanmıştı. Allah Resulü Sallallahu Aleyhi ve Sellem o'nu yakından ziyaret edebilmek için Mescid-i Nebevî'de o'na mahsus bir çadır kurdurdu. O esnada Mescid'de Ğıfar-oğulları'nın bir çadırı vardı. Kendilerine doğru akan kandan korkup yan tarafta olan çadıra doğru: 'Ey çadırdaki komşular! Sizin tarafınızdan bize doğru bir şeyler akıyor?' diye seslendiler. İşte o akan şey, Sa'dın yarasından sızan kandı. Bir müddet sonra da Sa'd bu yaradan dolayı vefat etti. Tekrar:
+Âişe (r.anha)'dan şöyle nakledilmiştir: "Hendek savaşında Sa'd İbn Muâz, kolundaki atar damardan yaralanmıştı. Allah Resulü Sallallahu Aleyhi ve Sellem o'nu yakından ziyaret edebilmek için Mescid-i Nebevî'de o'na mahsus bir çadır kurdurdu. O esnada Mescid'de Ğıfar-oğulları'nın bir çadırı vardı. Kendilerine doğru akan kandan korkup yan tarafta olan çadıra doğru: 'Ey çadırdaki komşular! Sizin tarafınızdan bize doğru bir şeyler akıyor?' diye seslendiler. İşte o akan şey, Sa'dın yarasından sızan kandı. Bir müddet sonra da Sa'd bu yaradan dolayı vefat etti. Tekrar: 2813, 3
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>463</td></tr><tr><td>Arabic No</td><td>463</td></tr><tr><td>Reference</td><td>Book 8 Hadith 111</td></tr></tbody></table></div>
 

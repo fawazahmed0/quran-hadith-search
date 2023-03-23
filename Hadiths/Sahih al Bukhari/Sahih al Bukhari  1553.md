@@ -62,7 +62,7 @@ Narrated Nafi', 'Whenever Ibn 'Umar finished his morning Salat at Dhul-Hulaifa h
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Nafi’ şöyle demiştir: "İbn Ömer r.a. Zul-Huleyfe'de sabah namazını kılınca devesinin eğerinin bağlanmasını emrederdi. Eğeri bağlanınca, devesi onu doğrulttuğu zaman ayakta olduğu halde kıbleye yönelir ve Harem'e varana kadar telbiye getirirdi. Harem'e gelince telbiyeyi bırakırdı. Zû Tuva'ya gelince sabaha kadar orada kalırdı Sabah namazını kıldıktan sonra gusül abdesti alırdı. İbn Ömer, Nebi Sallallahu Aleyhi ve Sellem'în de böyle yaptığını söylerdi." Tekrar:
+Nafi’ şöyle demiştir: "İbn Ömer r.a. Zul-Huleyfe'de sabah namazını kılınca devesinin eğerinin bağlanmasını emrederdi. Eğeri bağlanınca, devesi onu doğrulttuğu zaman ayakta olduğu halde kıbleye yönelir ve Harem'e varana kadar telbiye getirirdi. Harem'e gelince telbiyeyi bırakırdı. Zû Tuva'ya gelince sabaha kadar orada kalırdı Sabah namazını kıldıktan sonra gusül abdesti alırdı. İbn Ömer, Nebi Sallallahu Aleyhi ve Sellem'în de böyle yaptığını söylerdi." Tekrar: 1
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1553</td></tr><tr><td>Arabic No</td><td>1553</td></tr><tr><td>Reference</td><td>Book 25 Hadith 39</td></tr></tbody></table></div>
 

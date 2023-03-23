@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] berkata, telah mencer
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-âbir b. Abdullah (r.a.)'den (rivayet edildiğine göre) Rasûllullah (s.a.v.) şöyle buyurmuştur: "Bir adam bir söz söyler de sonra (o sözün, orada bulunmayanlar tarafından işitmesini istemezmiş gibi) sağına soluna bakımrsa; o söz emânettir." Tahric edenler: Tirmizî birr; Ahmed b. Hanbel, III
+âbir b. Abdullah (r.a.)'den (rivayet edildiğine göre) Rasûllullah (s.a.v.) şöyle buyurmuştur: "Bir adam bir söz söyler de sonra (o sözün, orada bulunmayanlar tarafından işitmesini istemezmiş gibi) sağına soluna bakımrsa; o söz emânettir." Tahric edenler: Tirmizî birr; Ahmed b. Hanbel, III, 324
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4868</td></tr><tr><td>Arabic No</td><td>4868</td></tr><tr><td>Reference</td><td>Book 43 Hadith 96</td></tr></tbody></table></div>
 

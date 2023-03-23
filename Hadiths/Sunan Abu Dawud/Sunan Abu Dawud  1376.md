@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Nahsr bin Ali] dan [Daud bin Umayyah] bahwa [Suf
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Âişe (r.anhâ)'dan rivayet edildiğine göre; ramazanın son on günü girince Nebi (s.a.v.) geceleri ihya eder, (ibâdete koyulur) paçaları sıvar ve ailesini uyandırırmış. Ebü Dâvûd dedi ki; (bu hadisi rivayet eden) Ebû Ya'fûr'un ismi Abdurrahman b. Ubey b. Nistâs'tır. Diğer tahric: Buhari, leyletu'l-kadr; Müslim, i'tikâf; Nesaî, kıyamu'l-leyl İbn Mâce, siyam; Ahmed b. Hanbel, VI
+Âişe (r.anhâ)'dan rivayet edildiğine göre; ramazanın son on günü girince Nebi (s.a.v.) geceleri ihya eder, (ibâdete koyulur) paçaları sıvar ve ailesini uyandırırmış. Ebü Dâvûd dedi ki; (bu hadisi rivayet eden) Ebû Ya'fûr'un ismi Abdurrahman b. Ubey b. Nistâs'tır. Diğer tahric: Buhari, leyletu'l-kadr; Müslim, i'tikâf; Nesaî, kıyamu'l-leyl İbn Mâce, siyam; Ahmed b. Hanbel, VI,
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2024) Sahih Muslim (1174)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1376</td></tr><tr><td>Arabic No</td><td>1376</td></tr><tr><td>Reference</td><td>Book 6 Hadith 6</td></tr></tbody></table></div>
 

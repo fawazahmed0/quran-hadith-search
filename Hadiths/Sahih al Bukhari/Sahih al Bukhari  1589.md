@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a.'in rivayetine göre Nebi Sallallahu Aleyhi ve Sellem Mekke'ye gitmek istediği zaman şöyle demiştir: "Yarınki konaklama yerimiz, inşallah, Benî Kinane'nin küfür üzerine ahitleştikleri yer olacaktır. Tekrar:
+Ebu Hureyre r.a.'in rivayetine göre Nebi Sallallahu Aleyhi ve Sellem Mekke'ye gitmek istediği zaman şöyle demiştir: "Yarınki konaklama yerimiz, inşallah, Benî Kinane'nin küfür üzerine ahitleştikleri yer olacaktır. Tekrar: 1590, 3882, 4
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1589</td></tr><tr><td>Arabic No</td><td>1589</td></tr><tr><td>Reference</td><td>Book 25 Hadith 75</td></tr></tbody></table></div>
 

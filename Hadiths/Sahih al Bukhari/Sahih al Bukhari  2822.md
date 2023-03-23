@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami [Abu 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Amr İbn Meymun el-Evdi anlatıyor: "Sa'd, oğullarına şu sözleri bir öğretmenin öğrencisine okuma - yazmayı öğretmesi gibi öğretiyor ve Resulullah Sallallahu Aleyhi ve Sellem'in namazdan sonra bu şekilde Allah'a sığındığını söylüyordu: "Allahım, korkaklıktan sana sığınırım. Erzel-i ömürden (yani Hayatın en kötü ve çekilmez olduğu yaşlılıktan) sana sığınırım. Allahım, dünyanın fitne ve sınamasından ve kabir azabından da sana sığınırım." Ben bunu Mus'ab'a anlattım ve doğru olduğunu söyledi. " Tekrar:
+Amr İbn Meymun el-Evdi anlatıyor: "Sa'd, oğullarına şu sözleri bir öğretmenin öğrencisine okuma - yazmayı öğretmesi gibi öğretiyor ve Resulullah Sallallahu Aleyhi ve Sellem'in namazdan sonra bu şekilde Allah'a sığındığını söylüyordu: "Allahım, korkaklıktan sana sığınırım. Erzel-i ömürden (yani Hayatın en kötü ve çekilmez olduğu yaşlılıktan) sana sığınırım. Allahım, dünyanın fitne ve sınamasından ve kabir azabından da sana sığınırım." Ben bunu Mus'ab'a anlattım ve doğru olduğunu söyledi. " Tekrar: 6365, 6
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2822</td></tr><tr><td>Arabic No</td><td>2822</td></tr><tr><td>Reference</td><td>Book 56 Hadith 38</td></tr></tbody></table></div>
 

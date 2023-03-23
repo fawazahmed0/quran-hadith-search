@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yazid 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Sabit İbn Dahhak Nebi Sallallahu Aleyhi ve Sellem'den şunu rivayet etmiştir: "Bilerek yalan yere İslam'dan başka bir millet (din) üzerine yemin eden kişi dediği gibi olur. Keskin bir aletle kendisini öldüren kimse de cehennem ateşinde o aletle azap görür. Tekrar;
+Sabit İbn Dahhak Nebi Sallallahu Aleyhi ve Sellem'den şunu rivayet etmiştir: "Bilerek yalan yere İslam'dan başka bir millet (din) üzerine yemin eden kişi dediği gibi olur. Keskin bir aletle kendisini öldüren kimse de cehennem ateşinde o aletle azap görür. Tekrar; 4171, 4843, 6
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1363</td></tr><tr><td>Arabic No</td><td>1363</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

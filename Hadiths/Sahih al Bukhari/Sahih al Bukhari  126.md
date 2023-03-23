@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Musa] dari [Isra'il] dari [Abu Ish
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Esved şöyle demiştir: İbnü'z-Zübeyr bana şöyle dedi: "Aişe sana çokça gizli şeyler söylerdi. Kabe konusunda sana ne söyledi?" Ben dedim ki: "Bana Nebi (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu söyledi: "Ey Âişe! Kavmin küfürden daha yeni kurtulmuş olmasaydı, Kabe'yi yıkar ve ona insanların birinden girmesi, diğerinden çıkmast için iki kapı yapardım". Bunun üzerine Abdullah İbnü'z-Zübeyr böyle yaptı. Tekrar: 1583, 1584
+Esved şöyle demiştir: İbnü'z-Zübeyr bana şöyle dedi: "Aişe sana çokça gizli şeyler söylerdi. Kabe konusunda sana ne söyledi?" Ben dedim ki: "Bana Nebi (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu söyledi: "Ey Âişe! Kavmin küfürden daha yeni kurtulmuş olmasaydı, Kabe'yi yıkar ve ona insanların birinden girmesi, diğerinden çıkmast için iki kapı yapardım". Bunun üzerine Abdullah İbnü'z-Zübeyr böyle yaptı. Tekrar: 1583, 1584, 1585, 1586, 2
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>126</td></tr><tr><td>Arabic No</td><td>126</td></tr><tr><td>Reference</td><td>Book 3 Hadith 68</td></tr></tbody></table></div>
 

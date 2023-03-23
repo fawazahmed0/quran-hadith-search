@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Sa'id bin Abu Maryam] telah bercerita kepada kami [
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a. anlatıyor: "Biz bir defasında Nebi Sallallahu Aleyhi ve Sellem'in yanında iken bize şunları söylemişti: "Bir gün rüyamda kendimi cennette gördüm. Orada bir köşkün yanı başında duran çok güzel bir kadın vardı 'Bu köşk kime aittir?' diye sorduğumda: 'Ömer İbnü'l-Hattab'ındır' dediler. Ben de onun kıskançlığını bildiğim için hemen geriye döndüm." Bunun üzerine Ömer ağladı ve: "Senden neyi kıskanırım ki, ey Allah'ın Resulü!" dedi. Tekrar:
+Ebu Hureyre r.a. anlatıyor: "Biz bir defasında Nebi Sallallahu Aleyhi ve Sellem'in yanında iken bize şunları söylemişti: "Bir gün rüyamda kendimi cennette gördüm. Orada bir köşkün yanı başında duran çok güzel bir kadın vardı 'Bu köşk kime aittir?' diye sorduğumda: 'Ömer İbnü'l-Hattab'ındır' dediler. Ben de onun kıskançlığını bildiğim için hemen geriye döndüm." Bunun üzerine Ömer ağladı ve: "Senden neyi kıskanırım ki, ey Allah'ın Resulü!" dedi. Tekrar: 3680, 5
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3242</td></tr><tr><td>Arabic No</td><td>3242</td></tr><tr><td>Reference</td><td>Book 59 Hadith 53</td></tr></tbody></table></div>
 

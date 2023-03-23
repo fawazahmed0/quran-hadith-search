@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Biri bir başkasının elini ısırdı. Adam elini çekti, ısıran adamın dişi kırıldı. Nebi Sallallahu Aleyhi ve Sellem diyete hükmetmedi. Tekrar:
+Biri bir başkasının elini ısırdı. Adam elini çekti, ısıran adamın dişi kırıldı. Nebi Sallallahu Aleyhi ve Sellem diyete hükmetmedi. Tekrar: 2265, 2
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1849</td></tr><tr><td>Arabic No</td><td>1849</td></tr><tr><td>Reference</td><td>Book 28 Hadith 29</td></tr></tbody></table></div>
 

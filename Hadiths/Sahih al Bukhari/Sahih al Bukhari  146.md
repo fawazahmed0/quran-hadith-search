@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (radiyallahu anha validemiz)'den rivayet edilmiştir: Nebi (Sallallahu aleyhi ve Sellem)'in hanımları geceleyin tuvalet İhtiyaçlarını görmek üzere menâsı' denilen yere (ki burası geniş bir arazi idi) çıkardı. Ömer, Hz. Peygamber'e "Hanımlarını ört" diyordu. Resulullah (Sallallahu aleyhi ve Sellem) ise bunu yapmıyordu. Nihayet bir gece Hz. Peygamber'in hanımlarından Sevde binti Zem'a yatsı namazı vaktinde çıktı. Sevde uzun bir kadındı. Hz. Ömer örtü konusunda âyetin gelmesini şiddetle arzuladığı için ona "Ey Sevde biz seni tanıdık" dedi. Bunun üzerine Allah hicab (örtü) âyetini indirdi. Hicab ayeti: Ahzab suresi 53. ayettir. Tekrar:
+Aişe (radiyallahu anha validemiz)'den rivayet edilmiştir: Nebi (Sallallahu aleyhi ve Sellem)'in hanımları geceleyin tuvalet İhtiyaçlarını görmek üzere menâsı' denilen yere (ki burası geniş bir arazi idi) çıkardı. Ömer, Hz. Peygamber'e "Hanımlarını ört" diyordu. Resulullah (Sallallahu aleyhi ve Sellem) ise bunu yapmıyordu. Nihayet bir gece Hz. Peygamber'in hanımlarından Sevde binti Zem'a yatsı namazı vaktinde çıktı. Sevde uzun bir kadındı. Hz. Ömer örtü konusunda âyetin gelmesini şiddetle arzuladığı için ona "Ey Sevde biz seni tanıdık" dedi. Bunun üzerine Allah hicab (örtü) âyetini indirdi. Hicab ayeti: Ahzab suresi 53. ayettir. Tekrar: 147, 4
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>146</td></tr><tr><td>Arabic No</td><td>146</td></tr><tr><td>Reference</td><td>Book 4 Hadith 12</td></tr></tbody></table></div>
 

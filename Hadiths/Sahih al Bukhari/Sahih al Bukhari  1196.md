@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musaddad] dari [Yahya] dari ['Ubaidullah bin 'Um
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a.'den rivayet edildiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Evim ile minberim arası cennet bahçelerinden bir bahçedir. Minberim de havuzum üzerindedir. Tekrar:
+Ebu Hureyre r.a.'den rivayet edildiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Evim ile minberim arası cennet bahçelerinden bir bahçedir. Minberim de havuzum üzerindedir. Tekrar: 1
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1196</td></tr><tr><td>Arabic No</td><td>1196</td></tr><tr><td>Reference</td><td>Book 20 Hadith 8</td></tr></tbody></table></div>
 

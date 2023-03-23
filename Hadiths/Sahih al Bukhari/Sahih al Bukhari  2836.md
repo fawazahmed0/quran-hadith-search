@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami [Syu'bah]
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bera İbn Azib'in naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem hendek kazılırken bir taraftan çıkan toprakları taşıyor bir taraftan da: "Allahrm! Sen olmasaydın biz hidayet yolunu bulamazdık!" diyordu. Tekrar: 2837
+Bera İbn Azib'in naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem hendek kazılırken bir taraftan çıkan toprakları taşıyor bir taraftan da: "Allahrm! Sen olmasaydın biz hidayet yolunu bulamazdık!" diyordu. Tekrar: 2837, 3034, 4104, 4
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2836</td></tr><tr><td>Arabic No</td><td>2836</td></tr><tr><td>Reference</td><td>Book 56 Hadith 52</td></tr></tbody></table></div>
 

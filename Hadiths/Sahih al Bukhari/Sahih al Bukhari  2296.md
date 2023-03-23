@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cabir İbn Abdullah r.a.'ın naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem "Bahreynlin malları gelecek olursa sana şu kadar vereceğim" buyurmuştu. Fakat söz konusu mallar gelmeden önce Nebi Sallallahu Aleyhi ve Sellem ahirete göç etti. Bahreyn'in malları geldiği zaman Hz. Ebu Bekir r.a., "Resulullah'ın vaadte bulunduğu kimse varsa ya da ondan alacağı bulunan kimse varsa bize gelsin" şeklinde bir duyuru yaptırdı. Bunun üzerine ben ona gittim ve "Benim şu kadar alacağım var" dedim. Ebu Bekir r.a. bana o paradan bir miktar alıp verdi ve "say" dedi. Verdiği para, beşyüz adetti. Bana, "bunun iki katını daha al" dedi Tekrar:
+Cabir İbn Abdullah r.a.'ın naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem "Bahreynlin malları gelecek olursa sana şu kadar vereceğim" buyurmuştu. Fakat söz konusu mallar gelmeden önce Nebi Sallallahu Aleyhi ve Sellem ahirete göç etti. Bahreyn'in malları geldiği zaman Hz. Ebu Bekir r.a., "Resulullah'ın vaadte bulunduğu kimse varsa ya da ondan alacağı bulunan kimse varsa bize gelsin" şeklinde bir duyuru yaptırdı. Bunun üzerine ben ona gittim ve "Benim şu kadar alacağım var" dedim. Ebu Bekir r.a. bana o paradan bir miktar alıp verdi ve "say" dedi. Verdiği para, beşyüz adetti. Bana, "bunun iki katını daha al" dedi Tekrar: 2598, 2683, 3
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2296</td></tr><tr><td>Arabic No</td><td>2296</td></tr><tr><td>Reference</td><td>Book 39 Hadith 7</td></tr></tbody></table></div>
 

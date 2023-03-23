@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aîşe (r.anha)'dan şöyle nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem müezzin sabah ezanını bitirince fecir aydınlandıktan sonra farz'dan evvel kalkar, kısa olarak iki rekat namaz kılardı. Sonra müezzin kamet okumak için gelinceye kadar sağ tarafının üstüne yatardı. Tekrar:
+Aîşe (r.anha)'dan şöyle nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem müezzin sabah ezanını bitirince fecir aydınlandıktan sonra farz'dan evvel kalkar, kısa olarak iki rekat namaz kılardı. Sonra müezzin kamet okumak için gelinceye kadar sağ tarafının üstüne yatardı. Tekrar: 994, 1123, 1
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>626</td></tr><tr><td>Arabic No</td><td>626</td></tr><tr><td>Reference</td><td>Book 10 Hadith 23</td></tr></tbody></table></div>
 

@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Qabishah] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas (r.a.)'in şöyle dediği nakledilmiştir; "Resûlullah Sallallahu Aleyhi ve Sellem'e yedi azası üzerinde secde etmesi ve namazda iken elbisesiyle, saçıyla - başıyla uğraşmaması emredildi. Bu azalar şunlardır: Alın, iki el, iki diz ve iki ayak. Tekrar:
+İbn Abbas (r.a.)'in şöyle dediği nakledilmiştir; "Resûlullah Sallallahu Aleyhi ve Sellem'e yedi azası üzerinde secde etmesi ve namazda iken elbisesiyle, saçıyla - başıyla uğraşmaması emredildi. Bu azalar şunlardır: Alın, iki el, iki diz ve iki ayak. Tekrar: 810
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>809</td></tr><tr><td>Arabic No</td><td>809</td></tr><tr><td>Reference</td><td>Book 10 Hadith 204</td></tr></tbody></table></div>
 

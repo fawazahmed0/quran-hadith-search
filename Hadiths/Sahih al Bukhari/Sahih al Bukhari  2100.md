@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Yahya
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Katade r.a. şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem ile birlikte Huneyn savaşına çıktık. Ben zırhımı sattım, bununla Seleme oğulları diyarında bir bahçe satın aldım. Bu, Müslüman olduktan sonra elde ettiğim ilk mal idi. Tekrar:
+Ebu Katade r.a. şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem ile birlikte Huneyn savaşına çıktık. Ben zırhımı sattım, bununla Seleme oğulları diyarında bir bahçe satın aldım. Bu, Müslüman olduktan sonra elde ettiğim ilk mal idi. Tekrar: 3142, 4
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2100</td></tr><tr><td>Arabic No</td><td>2100</td></tr><tr><td>Reference</td><td>Book 34 Hadith 53</td></tr></tbody></table></div>
 

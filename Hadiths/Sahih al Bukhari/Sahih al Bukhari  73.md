@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Al Humaidi] berkata, telah menceritakan kepada k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Kays b. Ebu Hazim şöyle demiştir: Abdullah İbn Mes'ud'un şöyle dediğini duydum: Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: Gıpta etmek ancak iki şeyde söz konusudur: Bir kimseye Allah mal vermiş, bu malını da hak yolda harcamaya muvaffak kılmıştır. Bir kimseye Allah bilgi ve hikmet vermiş, o kişi de o hikmete göre hükmetmekte ve onu öğretmektedir. Tekrar:
+Kays b. Ebu Hazim şöyle demiştir: Abdullah İbn Mes'ud'un şöyle dediğini duydum: Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: Gıpta etmek ancak iki şeyde söz konusudur: Bir kimseye Allah mal vermiş, bu malını da hak yolda harcamaya muvaffak kılmıştır. Bir kimseye Allah bilgi ve hikmet vermiş, o kişi de o hikmete göre hükmetmekte ve onu öğretmektedir. Tekrar: 1
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>73</td></tr><tr><td>Arabic No</td><td>73</td></tr><tr><td>Reference</td><td>Book 3 Hadith 15</td></tr></tbody></table></div>
 

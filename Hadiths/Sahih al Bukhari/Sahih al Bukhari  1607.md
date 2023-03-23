@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ahmad bin Shalih] dan [Yahya bin Sulaiman] kedua
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a. şöyle demiştir: "Nebi Sallallahu Aleyhi ve Sellem veda haccında deve üzerinde tavaf etmiş, HacerüI Esved'i de ucu kıvrık bir değnek ile istilam etmiştir." Tekrar:
+İbn Abbas r.a. şöyle demiştir: "Nebi Sallallahu Aleyhi ve Sellem veda haccında deve üzerinde tavaf etmiş, HacerüI Esved'i de ucu kıvrık bir değnek ile istilam etmiştir." Tekrar: 1612, 1
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1607</td></tr><tr><td>Arabic No</td><td>1607</td></tr><tr><td>Reference</td><td>Book 25 Hadith 93</td></tr></tbody></table></div>
 

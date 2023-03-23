@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Saîd el-Hudrî şöyle anlatır: Bir bedevi gelerek hicret etme konusunda Resulullah Sallallahu Aleyhi ve Sellem'e danıştı. Nebi Sallallahu Aleyhi ve Sellem ona, "Sana yazık olur. Çünkü hicret çok zor ve meşakkatli bir iştir. Sadakasını vereceğin deven var mı?" buyurdu. Bedevi: "Evet" dedi. Bunun üzerine Efendimiz Sallallahu Aleyhi ve Sellem, "Denizler ardında bile olsan çalış. Çünkü Allah yaptığın hiçbir iyiliği mükafatsız bırakmaz" buyurdu. Tekrarı:
+Ebu Saîd el-Hudrî şöyle anlatır: Bir bedevi gelerek hicret etme konusunda Resulullah Sallallahu Aleyhi ve Sellem'e danıştı. Nebi Sallallahu Aleyhi ve Sellem ona, "Sana yazık olur. Çünkü hicret çok zor ve meşakkatli bir iştir. Sadakasını vereceğin deven var mı?" buyurdu. Bedevi: "Evet" dedi. Bunun üzerine Efendimiz Sallallahu Aleyhi ve Sellem, "Denizler ardında bile olsan çalış. Çünkü Allah yaptığın hiçbir iyiliği mükafatsız bırakmaz" buyurdu. Tekrarı: 2
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1452</td></tr><tr><td>Arabic No</td><td>1452</td></tr><tr><td>Reference</td><td>Book 24 Hadith 55</td></tr></tbody></table></div>
 

@@ -62,7 +62,7 @@ Dan (masih dari jalur periwayatan yang sama dengan hadits sebelumnya) [Salim] be
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Ömer r.a. şöyle demiştir: Sonra Resulullah Sallallahu Aleyhi ve Sellem ayağı kalkıp Allah Teala'yı layık olduğu vechile övdü, Deccal'i anlattı ve şöyle buyurdu: "Ben Deccal'e karşı sizi sıkı sıkı uyarıyorum. Şu ana kadar gelmiş geçmiş bütün Nebiler de kendi kavim/erini ona karşı uyarmışlardı. Nuh da kavmini Deccal fitnesine karşı uyarmıştır. Ancak ben Deccal hakkında daha önce hiçbir Nebiin söylemediği bir ayrıntıyı size haber vereceğim: Şunu iyi bilin ki Deccal tek gözlüdür; Allah ise kesinlikle tek gözlü değildir. " Tekrar: 3337, 3439
+İbn Ömer r.a. şöyle demiştir: Sonra Resulullah Sallallahu Aleyhi ve Sellem ayağı kalkıp Allah Teala'yı layık olduğu vechile övdü, Deccal'i anlattı ve şöyle buyurdu: "Ben Deccal'e karşı sizi sıkı sıkı uyarıyorum. Şu ana kadar gelmiş geçmiş bütün Nebiler de kendi kavim/erini ona karşı uyarmışlardı. Nuh da kavmini Deccal fitnesine karşı uyarmıştır. Ancak ben Deccal hakkında daha önce hiçbir Nebiin söylemediği bir ayrıntıyı size haber vereceğim: Şunu iyi bilin ki Deccal tek gözlüdür; Allah ise kesinlikle tek gözlü değildir. " Tekrar: 3337, 3439, 4402, 6175, 7
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3057</td></tr><tr><td>Arabic No</td><td>3057</td></tr><tr><td>Reference</td><td>Book 56 Hadith 262</td></tr></tbody></table></div>
 

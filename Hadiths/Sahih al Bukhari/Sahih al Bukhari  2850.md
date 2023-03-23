@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Hafsh bin 'Umar] telah bercerita kepada kami [Syu'b
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Urve İbnü'l-Ca'd Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu rivayet etmiştir: "Kıyamet gününe kadar hayır atların yelelerine düğümlenmiştir. " Tekrar:
+Urve İbnü'l-Ca'd Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu rivayet etmiştir: "Kıyamet gününe kadar hayır atların yelelerine düğümlenmiştir. " Tekrar: 2
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2850</td></tr><tr><td>Arabic No</td><td>2850</td></tr><tr><td>Reference</td><td>Book 56 Hadith 66</td></tr></tbody></table></div>
 

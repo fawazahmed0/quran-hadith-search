@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdan] telah mengabarkan kepada kami ['Abdullah
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Hüseyin İbn Alî, Ali'nin şöyle dediğini anlattı: "Ganimetten payıma bir deve düşmüştü. Nebi Sallallahu Aleyhi ve Sellem de humustan (ganimetin kendisine düşen beşte birinden) bana bir deve verdi. Ben Resulullah'ın kızı Fatıma ile evlenmek istediğimde Benî Kaynuka kabilesinden birisi ile birlikte çıkıp izhir otu toplamak konusunda anlaştım. Ben bu otu kuyumculara satarak velime yemeği için para kazanmak istemiştim". Tekrar:
+Hüseyin İbn Alî, Ali'nin şöyle dediğini anlattı: "Ganimetten payıma bir deve düşmüştü. Nebi Sallallahu Aleyhi ve Sellem de humustan (ganimetin kendisine düşen beşte birinden) bana bir deve verdi. Ben Resulullah'ın kızı Fatıma ile evlenmek istediğimde Benî Kaynuka kabilesinden birisi ile birlikte çıkıp izhir otu toplamak konusunda anlaştım. Ben bu otu kuyumculara satarak velime yemeği için para kazanmak istemiştim". Tekrar: 2375, 3
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2089</td></tr><tr><td>Arabic No</td><td>2089</td></tr><tr><td>Reference</td><td>Book 34 Hadith 42</td></tr></tbody></table></div>
 

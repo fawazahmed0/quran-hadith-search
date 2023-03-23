@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami ['Abd
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a. şöyle dedi: Nebi Sallallahu Aleyhi ve Sellem Medine'ye gelince Yahudilerin aşura günü oruç tuttuğunu gördü. Onlara: "Bu nedir?" diye sordu. Yahudiler: "Bu güzel bir gündür. Allah İsrailoğullarını düşmanlarından bu gün kurtardı, bu sebeple Musa bugün oruç tuttu" dediler. Bunun üzerine Hz. Nebi Sallallahu Aleyhi ve Sellem: "Ben Musa'ya (Musa'nın yaptığını yapmaya) sizden daha layığım" dedi. O gün oruç tuttu ve aşura gününde oruç tutulmasını emretti. Tekrar:
+İbn Abbas r.a. şöyle dedi: Nebi Sallallahu Aleyhi ve Sellem Medine'ye gelince Yahudilerin aşura günü oruç tuttuğunu gördü. Onlara: "Bu nedir?" diye sordu. Yahudiler: "Bu güzel bir gündür. Allah İsrailoğullarını düşmanlarından bu gün kurtardı, bu sebeple Musa bugün oruç tuttu" dediler. Bunun üzerine Hz. Nebi Sallallahu Aleyhi ve Sellem: "Ben Musa'ya (Musa'nın yaptığını yapmaya) sizden daha layığım" dedi. O gün oruç tuttu ve aşura gününde oruç tutulmasını emretti. Tekrar: 3397, 3
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2004</td></tr><tr><td>Arabic No</td><td>2004</td></tr><tr><td>Reference</td><td>Book 30 Hadith 109</td></tr></tbody></table></div>
 

@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Ubaid bin Isma'il] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Esma binti Ebi Bekir'den rivayet edilmiştir: Allah Resulü döneminde, annem müşrik olarak (henüz Müslüman değilken) yanıma geldi. Ben de Hz. Nebi'e: "Annem geldi, benim kendisine iyi davranmamı umuyor (kendisine sırt dönüp onu ortada bırakmamdan korkuyor). Ona iyilik edeyim mi?" diye danıştım. Nebi Sallallahu Aleyhi ve Sellem: "Evet, annene iyilik et" buyurdu. Tekrar:
+Esma binti Ebi Bekir'den rivayet edilmiştir: Allah Resulü döneminde, annem müşrik olarak (henüz Müslüman değilken) yanıma geldi. Ben de Hz. Nebi'e: "Annem geldi, benim kendisine iyi davranmamı umuyor (kendisine sırt dönüp onu ortada bırakmamdan korkuyor). Ona iyilik edeyim mi?" diye danıştım. Nebi Sallallahu Aleyhi ve Sellem: "Evet, annene iyilik et" buyurdu. Tekrar: 3
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2620</td></tr><tr><td>Arabic No</td><td>2620</td></tr><tr><td>Reference</td><td>Book 51 Hadith 52</td></tr></tbody></table></div>
 

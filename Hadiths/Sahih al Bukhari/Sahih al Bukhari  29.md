@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Zaid b
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah ibn-i Abbas r.a şöyle demiştir: Nebiyy-i Muhterem sallallahu aleyhi ve sellem buyurdu ki: "Bana afeş (cehennem) gösterildi. Cehennemliklerin çoğunluğunun kadınlar olduğunu gördüm. Zira onlar inkar edenlerdir". Nebi (Sallallahu aleyhi ve Sellem)'e soruldu: "Allah'ı mı inkar ederler?" Nebi sallallahu aleyhi ve selem şöyle buyurdu: Kocalarını(n hakkını) inkar ederler, iyiliği inkar ederler. Onlardan birine uzun zaman iyilikte bulunsan, sonra senden (sevmediği) bir şey görse hemen 'zaten senden hiçbir iyilik görmedim' der". Tekrar:
+Abdullah ibn-i Abbas r.a şöyle demiştir: Nebiyy-i Muhterem sallallahu aleyhi ve sellem buyurdu ki: "Bana afeş (cehennem) gösterildi. Cehennemliklerin çoğunluğunun kadınlar olduğunu gördüm. Zira onlar inkar edenlerdir". Nebi (Sallallahu aleyhi ve Sellem)'e soruldu: "Allah'ı mı inkar ederler?" Nebi sallallahu aleyhi ve selem şöyle buyurdu: Kocalarını(n hakkını) inkar ederler, iyiliği inkar ederler. Onlardan birine uzun zaman iyilikte bulunsan, sonra senden (sevmediği) bir şey görse hemen 'zaten senden hiçbir iyilik görmedim' der". Tekrar: 431, 748, 1
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>29</td></tr><tr><td>Arabic No</td><td>29</td></tr><tr><td>Reference</td><td>Book 2 Hadith 22</td></tr></tbody></table></div>
 

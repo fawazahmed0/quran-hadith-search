@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Amru bin 'Abbas] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cabir İbn Abdullah r.a. anlatıyor: "Bir gün bir bedevi Resûlullah Sallallahu Aleyhi ve Sellem'e gelerek Müslüman olmak üzere beyat etti. Fakat ertesi gün telaşlı bir halde adeta çıldırmış gibi geldi ve: "Sana verdiğim bey'atı boz!" dedi. Resûl-i Ekrem Sallallahu Aleyhi ve Sellem adam'ın bu talebini üç defa geri çevirdi ve şöyle buyurdu: "Medine körük gibidir; pis ve işe yaramaz olanları sürüp atar, temiz ve iyi olanları ise ortaya çıkarır." Tekrar:
+Cabir İbn Abdullah r.a. anlatıyor: "Bir gün bir bedevi Resûlullah Sallallahu Aleyhi ve Sellem'e gelerek Müslüman olmak üzere beyat etti. Fakat ertesi gün telaşlı bir halde adeta çıldırmış gibi geldi ve: "Sana verdiğim bey'atı boz!" dedi. Resûl-i Ekrem Sallallahu Aleyhi ve Sellem adam'ın bu talebini üç defa geri çevirdi ve şöyle buyurdu: "Medine körük gibidir; pis ve işe yaramaz olanları sürüp atar, temiz ve iyi olanları ise ortaya çıkarır." Tekrar: 7209, 7
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1883</td></tr><tr><td>Arabic No</td><td>1883</td></tr><tr><td>Reference</td><td>Book 29 Hadith 17</td></tr></tbody></table></div>
 

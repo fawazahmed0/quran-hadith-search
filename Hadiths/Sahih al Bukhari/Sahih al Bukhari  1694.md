@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ahmad bin Muhammad] telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Misver İbn Mahrame ve Mervan şöyle demişlerdir: " Nebi (Sallallahu aleyhi ve Sellem), Hudeybiye anlaşmasının yapıldığı yıl, bir kaç onluk yüzer kişilik on civarında sahabî grubu ile birlikte yola çıkmıştı. Zu'l-Huleyfe'ye geldikleri zaman Resulullah kurbanlık hayvana gerdanlık takmış, bellik koymuş sonra da ihrama girmişti." 1694’ün Geçtiği diğer yerler: 1694, 1811, 2712, 2731, 4158, 4178, 4181. 1695’in geçtiği diğer yerler:
+Misver İbn Mahrame ve Mervan şöyle demişlerdir: " Nebi (Sallallahu aleyhi ve Sellem), Hudeybiye anlaşmasının yapıldığı yıl, bir kaç onluk yüzer kişilik on civarında sahabî grubu ile birlikte yola çıkmıştı. Zu'l-Huleyfe'ye geldikleri zaman Resulullah kurbanlık hayvana gerdanlık takmış, bellik koymuş sonra da ihrama girmişti." 1694’ün Geçtiği diğer yerler: 1694, 1811, 2712, 2731, 4158, 4178, 4181. 1695’in geçtiği diğer yerler: 2711, 2732, 4
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1694</td></tr><tr><td>Arabic No</td><td>1694</td></tr><tr><td>Reference</td><td>Book 25 Hadith 173</td></tr></tbody></table></div>
 

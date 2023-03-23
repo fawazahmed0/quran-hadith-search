@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Hi
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a.'dan dedi ki: "Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: İsra'ya götürüldüğüm gece Musa'yı gördüm. Sanki Yemen'li Şenuelilerden bir adammış gibi (uzun boylu), balık etinde, saçlarını yağlamış olarak gördüm. İsa'yı da gördüm. O da orta boylu, kırmızıya yakın tenli, hamamdan çıkmış birisi gibi idi. Ben ise İbrahim aleyhisselam'ın soyundan gelenler arasında ona en çok benzeyen kişiyim. Daha sonra bana birisinde süt, diğerinde şarap bulunan iki kap getirildi. (Cibril bana:) İstediğin birisini iç, dedi. Ben de sütü alıp içtim. Fıtratı aldın, denildi ama eğer şarabı almış olsaydın, ümmetin azacaktı." Tekrar:
+Ebu Hureyre r.a.'dan dedi ki: "Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: İsra'ya götürüldüğüm gece Musa'yı gördüm. Sanki Yemen'li Şenuelilerden bir adammış gibi (uzun boylu), balık etinde, saçlarını yağlamış olarak gördüm. İsa'yı da gördüm. O da orta boylu, kırmızıya yakın tenli, hamamdan çıkmış birisi gibi idi. Ben ise İbrahim aleyhisselam'ın soyundan gelenler arasında ona en çok benzeyen kişiyim. Daha sonra bana birisinde süt, diğerinde şarap bulunan iki kap getirildi. (Cibril bana:) İstediğin birisini iç, dedi. Ben de sütü alıp içtim. Fıtratı aldın, denildi ama eğer şarabı almış olsaydın, ümmetin azacaktı." Tekrar: 3437, 4
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3394</td></tr><tr><td>Arabic No</td><td>3394</td></tr><tr><td>Reference</td><td>Book 60 Hadith 68</td></tr></tbody></table></div>
 

@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Abu Al Aswad] telah menceritakan k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Ömer r.a. şöyle demiştir: "Abbas İbn Abdülmuttalib, Mina gecelerinde, hacılara su verme hizmetinde bulunmak amacıyla Mekke'de gecelemek için Hz.Nebi'den izin istemiş, Efendimiz Sallallahu Aleyhi ve Sellem de ona bu konuda izin vermişti.” Tekrar:
+İbn Ömer r.a. şöyle demiştir: "Abbas İbn Abdülmuttalib, Mina gecelerinde, hacılara su verme hizmetinde bulunmak amacıyla Mekke'de gecelemek için Hz.Nebi'den izin istemiş, Efendimiz Sallallahu Aleyhi ve Sellem de ona bu konuda izin vermişti.” Tekrar: 1
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1634</td></tr><tr><td>Arabic No</td><td>1634</td></tr><tr><td>Reference</td><td>Book 25 Hadith 117</td></tr></tbody></table></div>
 

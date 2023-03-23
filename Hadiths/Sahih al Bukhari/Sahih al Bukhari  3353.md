@@ -62,7 +62,7 @@ Telah bercerita kepada kami ['Ali bin 'Abdullah] telah bercerita kepada kami [Ya
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a.'dan rivayete göre: "Ey Allah'ın Resulü insanların en kerimi kimdir diye soruldu. O: En takvalılarıdır, diye buyurdu. Bizim sana sorduğumuz bu değil, dediler. O halde Allah'ın Halilinin oğlu, Allah'ın Nebisinin oğlu, Allah'ın Nebisi Yusuftur, dedi. Yine: Bizim sana sorduğumuz bu değildir, dediler. Bu sefer: Siz bana Arapların madenleri (neseblerinin asılları) hakkında (mı) soruyorsunuz? Onların cahiliye döneminde hayırlı olanları, fıkhetmeleri (dini iyi bilmeleri) şartıyla İslamda da hayırlılarıdır, diye buyurdu." Tekrar:
+Ebu Hureyre r.a.'dan rivayete göre: "Ey Allah'ın Resulü insanların en kerimi kimdir diye soruldu. O: En takvalılarıdır, diye buyurdu. Bizim sana sorduğumuz bu değil, dediler. O halde Allah'ın Halilinin oğlu, Allah'ın Nebisinin oğlu, Allah'ın Nebisi Yusuftur, dedi. Yine: Bizim sana sorduğumuz bu değildir, dediler. Bu sefer: Siz bana Arapların madenleri (neseblerinin asılları) hakkında (mı) soruyorsunuz? Onların cahiliye döneminde hayırlı olanları, fıkhetmeleri (dini iyi bilmeleri) şartıyla İslamda da hayırlılarıdır, diye buyurdu." Tekrar: 3274, 3
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3353</td></tr><tr><td>Arabic No</td><td>3353</td></tr><tr><td>Reference</td><td>Book 60 Hadith 28</td></tr></tbody></table></div>
 

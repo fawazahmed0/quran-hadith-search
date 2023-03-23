@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cafer İbn Amr İbn Ümeyye babasından şunu rivayet etmiştir: Amr, Resulullah (Sallallahu aleyhi ve Sellem)'in koyun küreğinden et kesip yediğini görmüş, namaz için çağırıldığında bıçağı bırakıp namaz kıldığını, abdest almadığını söylemiştir. Tekrar:
+Cafer İbn Amr İbn Ümeyye babasından şunu rivayet etmiştir: Amr, Resulullah (Sallallahu aleyhi ve Sellem)'in koyun küreğinden et kesip yediğini görmüş, namaz için çağırıldığında bıçağı bırakıp namaz kıldığını, abdest almadığını söylemiştir. Tekrar: 675, 2923, 5
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>208</td></tr><tr><td>Arabic No</td><td>208</td></tr><tr><td>Reference</td><td>Book 4 Hadith 74</td></tr></tbody></table></div>
 

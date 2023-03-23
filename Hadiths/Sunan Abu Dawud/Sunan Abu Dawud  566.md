@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Ömer(r.a.)'den; demiştir ki; Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Allah'ın cariyelerini (kadın kullarını) Allah'ın mescidlerinden men etmeyiniz" Diğer tahric: Buharî, cum'a; Müslim, salat; Darimî, salat; Muvatta, kıble; Ahmed b. Hanbel, II
+İbn Ömer(r.a.)'den; demiştir ki; Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Allah'ın cariyelerini (kadın kullarını) Allah'ın mescidlerinden men etmeyiniz" Diğer tahric: Buharî, cum'a; Müslim, salat; Darimî, salat; Muvatta, kıble; Ahmed b. Hanbel, II, 16, 151
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (900) Sahih Muslim (442)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>566</td></tr><tr><td>Arabic No</td><td>566</td></tr><tr><td>Reference</td><td>Book 2 Hadith 176</td></tr></tbody></table></div>
 

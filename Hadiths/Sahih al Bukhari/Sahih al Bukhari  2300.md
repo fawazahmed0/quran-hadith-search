@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Amru bin Khalid] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ukbe İbn Amir'in naklettiğine göre, Resulullah Sallallahu Aleyhi ve Sellem ona, sahabilere dağıtması için bir miktar koyun vermişti. (Dağıttıktan sonra) geriye sadece güçlü bir küçük oğlak kalmıştı. Durumu Nebi Sallallahu Aleyhi ve Sellem'e arzedince, Ukbe'ye, "Onu da sen kes" buyurmuştur. Tekrar:
+Ukbe İbn Amir'in naklettiğine göre, Resulullah Sallallahu Aleyhi ve Sellem ona, sahabilere dağıtması için bir miktar koyun vermişti. (Dağıttıktan sonra) geriye sadece güçlü bir küçük oğlak kalmıştı. Durumu Nebi Sallallahu Aleyhi ve Sellem'e arzedince, Ukbe'ye, "Onu da sen kes" buyurmuştur. Tekrar: 2
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2300</td></tr><tr><td>Arabic No</td><td>2300</td></tr><tr><td>Reference</td><td>Book 40 Hadith 2</td></tr></tbody></table></div>
 

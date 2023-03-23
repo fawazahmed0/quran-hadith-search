@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Abbas r.a. şöyle demiştir: "Fadl, Resulullah Sallallahu Aleyhi ve Sellem'in terkisine binmişti. Bu sırada Has'am kabilesinden bir kadın geldi. Fadl kadına, kadın da Fadl'a bakmaya başladı. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem Fadl'in yüzünü diğer tarafa çevirdi. Kadın şöyle dedi: "Ey Allah'ın Resulü! Allah'ın, kulları üzerinde bir hac farîzası hakkı bulunmaktadır. Babam ise yaşlandı. Binek üzerinde duramaz haldedir. Ben onun yerine hac yapabilir miyim?" Resûlullah Sallallahu Aleyhi ve Sellem, "Evet" buyurdu. Bu olay veda haccı sırasında vuku bulmuştur. Tekrar:
+Abdullah İbn Abbas r.a. şöyle demiştir: "Fadl, Resulullah Sallallahu Aleyhi ve Sellem'in terkisine binmişti. Bu sırada Has'am kabilesinden bir kadın geldi. Fadl kadına, kadın da Fadl'a bakmaya başladı. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem Fadl'in yüzünü diğer tarafa çevirdi. Kadın şöyle dedi: "Ey Allah'ın Resulü! Allah'ın, kulları üzerinde bir hac farîzası hakkı bulunmaktadır. Babam ise yaşlandı. Binek üzerinde duramaz haldedir. Ben onun yerine hac yapabilir miyim?" Resûlullah Sallallahu Aleyhi ve Sellem, "Evet" buyurdu. Bu olay veda haccı sırasında vuku bulmuştur. Tekrar: 1854, 1
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1513</td></tr><tr><td>Arabic No</td><td>1513</td></tr><tr><td>Reference</td><td>Book 25 Hadith 1</td></tr></tbody></table></div>
 

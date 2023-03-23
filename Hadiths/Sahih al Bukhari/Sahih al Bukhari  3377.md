@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Al Humaidiy] telah bercerita kepada kami [Sufyan] t
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah b. Zem'a dedi ki: "Nebi Sallallahu Aleyhi ve Sellem'i -(Salih kavminin) dişi devesinin kesilmesini sözkonusu ederken- şöyle buyurduğunu dinledim: O dişi deveyi kesmeye kavmi arasında güçlü ve kendisine zarar verilemeyen Ebu Zem'a'ya benzeyen birisi kalkıştı. " Tekrar:
+Abdullah b. Zem'a dedi ki: "Nebi Sallallahu Aleyhi ve Sellem'i -(Salih kavminin) dişi devesinin kesilmesini sözkonusu ederken- şöyle buyurduğunu dinledim: O dişi deveyi kesmeye kavmi arasında güçlü ve kendisine zarar verilemeyen Ebu Zem'a'ya benzeyen birisi kalkıştı. " Tekrar: 4
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3377</td></tr><tr><td>Arabic No</td><td>3377</td></tr><tr><td>Reference</td><td>Book 60 Hadith 51</td></tr></tbody></table></div>
 

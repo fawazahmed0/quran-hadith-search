@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Abu Az Zinad] dar
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre (r.a.)'den, Nebi (Sallallahu aleyhi ve Sellem)'in şöyle buyurluğu rivayet edilmiştir: "Sizden biri, abdestini bozmadan ve yerinden kalkmadan namaz kıldığı yerde kaldığı müddetçe, melekler onun için; "Allahım onu bağışla, o'na rahmet et" diye dua ve istiğfar eder.” Diğer tahric: Buhari, ezan; buyu; Müslim, mesacid; Nesai, mesacid; Tirmizi, salat; ibn Mace.mesacid; Darimi, Salat; muvatta, sefer; Ahmed b. Hanbel
+Ebu Hureyre (r.a.)'den, Nebi (Sallallahu aleyhi ve Sellem)'in şöyle buyurluğu rivayet edilmiştir: "Sizden biri, abdestini bozmadan ve yerinden kalkmadan namaz kıldığı yerde kaldığı müddetçe, melekler onun için; "Allahım onu bağışla, o'na rahmet et" diye dua ve istiğfar eder.” Diğer tahric: Buhari, ezan; buyu; Müslim, mesacid; Nesai, mesacid; Tirmizi, salat; ibn Mace.mesacid; Darimi, Salat; muvatta, sefer; Ahmed b. Hanbel, 1
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (445)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>469</td></tr><tr><td>Arabic No</td><td>469</td></tr><tr><td>Reference</td><td>Book 2 Hadith 79</td></tr></tbody></table></div>
 

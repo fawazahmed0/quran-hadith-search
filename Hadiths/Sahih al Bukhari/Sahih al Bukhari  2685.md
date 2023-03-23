@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah b. Abbas r.a.'ın şöyle dediği rivayet edilmiştir: "Ey müslümanlar! Allah'ın Nebiine indirdiği Kitab'ı Allah'la ilgili haberlerin en yenisi iken ve Onu katışıksız (saf bir halde) okuyup dururken nasıl ehl-i kitaba soru sorabiliyorsunuz! Allah size ehl-i kitabın, Allah'ın yazdığını değiştirdiklerini ve Kitaplarını elleriyle tahrif ederek, az bir bedelle değiştirmek için "Bu Allah'ın katındandır" dediklerini bildirmedi mi? Size gelen ilim, onlara soru sormayı size yasaklamıyor mu? Vallahi! Biz bu güne değin, onlardan tek bir kişinin gelip de size ne indirildi diye sorduğunu görmedik" Tekrar:
+Abdullah b. Abbas r.a.'ın şöyle dediği rivayet edilmiştir: "Ey müslümanlar! Allah'ın Nebiine indirdiği Kitab'ı Allah'la ilgili haberlerin en yenisi iken ve Onu katışıksız (saf bir halde) okuyup dururken nasıl ehl-i kitaba soru sorabiliyorsunuz! Allah size ehl-i kitabın, Allah'ın yazdığını değiştirdiklerini ve Kitaplarını elleriyle tahrif ederek, az bir bedelle değiştirmek için "Bu Allah'ın katındandır" dediklerini bildirmedi mi? Size gelen ilim, onlara soru sormayı size yasaklamıyor mu? Vallahi! Biz bu güne değin, onlardan tek bir kişinin gelip de size ne indirildi diye sorduğunu görmedik" Tekrar: 7
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2685</td></tr><tr><td>Arabic No</td><td>2685</td></tr><tr><td>Reference</td><td>Book 52 Hadith 46</td></tr></tbody></table></div>
 

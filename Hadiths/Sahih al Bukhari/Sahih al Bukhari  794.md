@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Hafsh bin 'Umar] berkata, telah menceritakan kep
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (radiyallahu anha)'nın şöyle dediği nakledilmiştir: "Resûlullah Sallallahu Aleyhi ve Sellem. rükûlarında ve secdelerinde سبحانك اللهم ربنا وبحمدك، اللهم اغفر لي 'Sübhaneke Allahumme Rabbena ve bi hamdike Allahummağfirli’ diye dua ederdi. Tekrar:
+Aişe (radiyallahu anha)'nın şöyle dediği nakledilmiştir: "Resûlullah Sallallahu Aleyhi ve Sellem. rükûlarında ve secdelerinde سبحانك اللهم ربنا وبحمدك، اللهم اغفر لي 'Sübhaneke Allahumme Rabbena ve bi hamdike Allahummağfirli’ diye dua ederdi. Tekrar: 817, 4
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>794</td></tr><tr><td>Arabic No</td><td>794</td></tr><tr><td>Reference</td><td>Book 10 Hadith 189</td></tr></tbody></table></div>
 

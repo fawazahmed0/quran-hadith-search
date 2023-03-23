@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ubeydullah İbn Abdullah İbn Utbe Hz. Aişe ile İbn Abbas'ın şöyle dediğini nakletmiştir: "Resulullah (Sallallahu Aleyhi ve Sellem) son rahatsızlığı esnasında kendisine ait kadife bir örtü ile yüzünü örtmeye başladı. Örtüden bunaldıkça yüzünü açardı. Bu haldeyken şöyle buyurdu: Yahudi ve Hıristiyanlara Allah la'net etsin! Zira onlar Nebilerinin kabirlerini mescid edindiler. Böylece ümmetini onların yaptıklarından sakındırıyordu. Tekrar: 1330, 1390, 3453, 4441, 4443, 5815;
+Ubeydullah İbn Abdullah İbn Utbe Hz. Aişe ile İbn Abbas'ın şöyle dediğini nakletmiştir: "Resulullah (Sallallahu Aleyhi ve Sellem) son rahatsızlığı esnasında kendisine ait kadife bir örtü ile yüzünü örtmeye başladı. Örtüden bunaldıkça yüzünü açardı. Bu haldeyken şöyle buyurdu: Yahudi ve Hıristiyanlara Allah la'net etsin! Zira onlar Nebilerinin kabirlerini mescid edindiler. Böylece ümmetini onların yaptıklarından sakındırıyordu. Tekrar: 1330, 1390, 3453, 4441, 4443, 5815; 3
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>435</td></tr><tr><td>Arabic No</td><td>435</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

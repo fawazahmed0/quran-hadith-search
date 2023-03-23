@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abdus Salam bin Muthahhar] berkata, telah mencer
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a. dediki Nebiyy-i Muhterem sallallahu aleyhi ve sellem buyurdu ki: "Dîn kolaylıktır. Dini aşmak isteyen kimse, ona yenik düşer. O halde, orta yolu tutunuz, (elinizden gelenin) en iyisini yapmaya çalışınız, o zaman size müjdeler otsun; günün başlangıcından, sonundan ve bir miktar da geceden faydalanınız. Tekrar:
+Ebu Hureyre r.a. dediki Nebiyy-i Muhterem sallallahu aleyhi ve sellem buyurdu ki: "Dîn kolaylıktır. Dini aşmak isteyen kimse, ona yenik düşer. O halde, orta yolu tutunuz, (elinizden gelenin) en iyisini yapmaya çalışınız, o zaman size müjdeler otsun; günün başlangıcından, sonundan ve bir miktar da geceden faydalanınız. Tekrar: 5
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>39</td></tr><tr><td>Arabic No</td><td>39</td></tr><tr><td>Reference</td><td>Book 2 Hadith 32</td></tr></tbody></table></div>
 

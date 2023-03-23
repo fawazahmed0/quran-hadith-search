@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [H
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas (r.a.) şöyle dedİ: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Kadın ancak yanında mahremi ile yolculuk yapabilir, (Yabancı) bir erkek kadın'ın yanına ancak yanında mahremi varken girebilir." Bir adam: "Ey Allah'ın Resulü! Ben falanca orduya katılarak savaşa çıkmak istiyorum. Eşim ise hac yapmak istiyor" dedi. Nebi Sallallahu Aleyhi ve Sellem adama: "Sen de onunla birlikte git" buyurdu. Tekrar:
+İbn Abbas (r.a.) şöyle dedİ: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Kadın ancak yanında mahremi ile yolculuk yapabilir, (Yabancı) bir erkek kadın'ın yanına ancak yanında mahremi varken girebilir." Bir adam: "Ey Allah'ın Resulü! Ben falanca orduya katılarak savaşa çıkmak istiyorum. Eşim ise hac yapmak istiyor" dedi. Nebi Sallallahu Aleyhi ve Sellem adama: "Sen de onunla birlikte git" buyurdu. Tekrar: 3
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1862</td></tr><tr><td>Arabic No</td><td>1862</td></tr><tr><td>Reference</td><td>Book 28 Hadith 42</td></tr></tbody></table></div>
 

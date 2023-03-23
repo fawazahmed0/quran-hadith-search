@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ukbe İbn Amir r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem bir gün çıkarak (Uhud dağına gidip), Uhud şehitleri için cenaze namazı gibi namaz kıldı. Sonra (Medine'ye gelerek) minbere çıktı ve şöyle buyurdu: "Ben sizin öncünüzüm (ahirete sizden önce gideninizim). Ben sizin için şahidim. Vallahi ben şu an havuzuma bakıyorum. Bana yeryüzünün hazineleri (yahut anahtarları) verildi. Vallahi ben sizin benden sonra şirk'e düşeceğinizden korkmuyorum, ancak sizin (dünya için) birbiriniz ile rekabet etmenizden korkarım. Tekrar:
+Ukbe İbn Amir r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem bir gün çıkarak (Uhud dağına gidip), Uhud şehitleri için cenaze namazı gibi namaz kıldı. Sonra (Medine'ye gelerek) minbere çıktı ve şöyle buyurdu: "Ben sizin öncünüzüm (ahirete sizden önce gideninizim). Ben sizin için şahidim. Vallahi ben şu an havuzuma bakıyorum. Bana yeryüzünün hazineleri (yahut anahtarları) verildi. Vallahi ben sizin benden sonra şirk'e düşeceğinizden korkmuyorum, ancak sizin (dünya için) birbiriniz ile rekabet etmenizden korkarım. Tekrar: 3
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1344</td></tr><tr><td>Arabic No</td><td>1344</td></tr><tr><td>Reference</td><td>Book 23 Hadith 99</td></tr></tbody></table></div>
 

@@ -52,7 +52,7 @@ Telah menceritakan kepadaku [Yahya bin Musa Al Balkhi] telah menceritakan kepada
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Hureym b. Fâtik'den; dedi ki: Rasûlullah (s.a.v.), (bir gün) sabah namazını kıldı, (namazı) bitince ayağa kalkarak üç defa: "- Yalan şahitliği Allah'a şirk koşmaya denk tutulmuştur." buyurdu.Sonra, "Artık -siz Allah'ı birleyen ve O'na şirk koşmayan kimseler olarak -o pis putlardan ve yalan sözden kaçının"[Hacc 30] âyetini okudu. Diğer tahric: Tirmizî, şehadât; ibn Mâce, ahkâm; Ahmed b. Hanbel, IV
+Hureym b. Fâtik'den; dedi ki: Rasûlullah (s.a.v.), (bir gün) sabah namazını kıldı, (namazı) bitince ayağa kalkarak üç defa: "- Yalan şahitliği Allah'a şirk koşmaya denk tutulmuştur." buyurdu.Sonra, "Artık -siz Allah'ı birleyen ve O'na şirk koşmayan kimseler olarak -o pis putlardan ve yalan sözden kaçının"[Hacc 30] âyetini okudu. Diğer tahric: Tirmizî, şehadât; ibn Mâce, ahkâm; Ahmed b. Hanbel, IV, 178
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3599</td></tr><tr><td>Arabic No</td><td>3599</td></tr><tr><td>Reference</td><td>Book 25 Hadith 29</td></tr></tbody></table></div>
 

@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Adam bin Abu Iyas] berkata, telah menceritakan k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre (r.a.,) Nebi (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu söylemiştir: "Kişi mescidde namazı beklediğinde, hades vaki olmadığı sürece namazdaymış gibi sevap alır. Yabancı bir adam: "Hades nedir ey Ebu Hureyre?" dîye sordu. Ebu Hureyre de rediyallahu anh: "Sesli yellenmektir" dedi. Tekrar: 445, 477, 6
+Ebu Hureyre (r.a.,) Nebi (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu söylemiştir: "Kişi mescidde namazı beklediğinde, hades vaki olmadığı sürece namazdaymış gibi sevap alır. Yabancı bir adam: "Hades nedir ey Ebu Hureyre?" dîye sordu. Ebu Hureyre de rediyallahu anh: "Sesli yellenmektir" dedi. Tekrar: 445, 477, 647, 648, 659, 2
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>176</td></tr><tr><td>Arabic No</td><td>176</td></tr><tr><td>Reference</td><td>Book 4 Hadith 42</td></tr></tbody></table></div>
 

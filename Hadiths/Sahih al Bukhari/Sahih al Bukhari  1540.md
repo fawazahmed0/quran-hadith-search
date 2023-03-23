@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ashbagh] telah mengabarkan kepada kami [Ibnu Wah
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Salim, babasının şöyle dediğini nakletmiştir: "Ben Resûlullah Sallallahu Aleyhi ve Sellem'i dağılmaması için saçlarına yapışkan bir madde sürmüş halde telbiye getirirken işittim." Tekrar:
+Salim, babasının şöyle dediğini nakletmiştir: "Ben Resûlullah Sallallahu Aleyhi ve Sellem'i dağılmaması için saçlarına yapışkan bir madde sürmüş halde telbiye getirirken işittim." Tekrar: 1
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1540</td></tr><tr><td>Arabic No</td><td>1540</td></tr><tr><td>Reference</td><td>Book 25 Hadith 27</td></tr></tbody></table></div>
 

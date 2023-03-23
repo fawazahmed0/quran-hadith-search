@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muhammad bin Katsir] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu'ş-Şa'sa'dan; demiştir ki; Biz Ebu Hureyre ile beraber mescidde idik. İkindi ezanı okunduktan sonra birisi mescidden çıktı (gitti). Bunun üzerine Ebu Hureyre (r.a.); "Bu adam Ebu'l-Kasım (Sallallahu aleyhi ve sellem)'e isyan etti" dedi. Diğer tahric: Müslim, mesacid; Tirmizî, mevakît; Nesaî, salat; İbn Mace, ezan; Darimî, salat; Ahmed b. Hanbel
+Ebu'ş-Şa'sa'dan; demiştir ki; Biz Ebu Hureyre ile beraber mescidde idik. İkindi ezanı okunduktan sonra birisi mescidden çıktı (gitti). Bunun üzerine Ebu Hureyre (r.a.); "Bu adam Ebu'l-Kasım (Sallallahu aleyhi ve sellem)'e isyan etti" dedi. Diğer tahric: Müslim, mesacid; Tirmizî, mevakît; Nesaî, salat; İbn Mace, ezan; Darimî, salat; Ahmed b. Hanbel, 11,410, 416
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (655)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>536</td></tr><tr><td>Arabic No</td><td>536</td></tr><tr><td>Reference</td><td>Book 2 Hadith 146</td></tr></tbody></table></div>
 

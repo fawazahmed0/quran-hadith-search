@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Abbas (r.a.)'ın şöyle dediği nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem ve ashabı Zilhicce'nin dördüncü gününün sabahında geldiler ve hac için telbiye getirdiler. Fakat Nebi Sallallahu Aleyhi ve Sellem kurbanları (hedy) bulunanlar dışındakilerin hepsinin bunu umreye çevirmesini emretti. Tekrar:
+Abdullah İbn Abbas (r.a.)'ın şöyle dediği nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem ve ashabı Zilhicce'nin dördüncü gününün sabahında geldiler ve hac için telbiye getirdiler. Fakat Nebi Sallallahu Aleyhi ve Sellem kurbanları (hedy) bulunanlar dışındakilerin hepsinin bunu umreye çevirmesini emretti. Tekrar: 1
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1085</td></tr><tr><td>Arabic No</td><td>1085</td></tr><tr><td>Reference</td><td>Book 18 Hadith 6</td></tr></tbody></table></div>
 

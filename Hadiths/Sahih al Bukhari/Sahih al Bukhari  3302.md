@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Yahya] dari 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Mes'ud Ukbe İbn Amr'dan nakledildiğine göre Resul-i Ekrem Sallallahu Aleyhi ve Sellem eliyle Yemen tarafına işaret ederek: "İman işte orada Yemenlidir. Katı kalplilik ve kabalık ise Rebia ve Mudar kabilelerinden olup deve/erin kuyruklarına yapışan çığırtkan insanların bulunduğu yerde, şeytan işi çirkinliklerin çıktığı taraftadır. " Tekrar:
+Ebu Mes'ud Ukbe İbn Amr'dan nakledildiğine göre Resul-i Ekrem Sallallahu Aleyhi ve Sellem eliyle Yemen tarafına işaret ederek: "İman işte orada Yemenlidir. Katı kalplilik ve kabalık ise Rebia ve Mudar kabilelerinden olup deve/erin kuyruklarına yapışan çığırtkan insanların bulunduğu yerde, şeytan işi çirkinliklerin çıktığı taraftadır. " Tekrar: 3
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3302</td></tr><tr><td>Arabic No</td><td>3302</td></tr><tr><td>Reference</td><td>Book 59 Hadith 110</td></tr></tbody></table></div>
 

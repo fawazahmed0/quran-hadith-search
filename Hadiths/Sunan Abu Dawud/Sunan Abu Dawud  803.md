@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cabir b. Semure'den demiştir ki: Ömer (r.a.), Sa'd b. Ebî Vakkas'a; "Gerçekten halk senden namaza varıncaya kadar her konuda şikayet etmektedir, dedi. (O da): Ben (namazın) ilk iki rekatını uzatırım, son iki rekatini da kısa tutarım. Nebi (Sallallahu aleyhi ve Sellem)'in namazına uymakta kusur etmem diye cevap vecdi. (Hz. Ömer de): Senden beklenen de budur, dedi. Diğer tahric: Buhari, ezan; Müslim, salat; Nesai, Iftıtah; Ahmed b. Hanbel, I
+Cabir b. Semure'den demiştir ki: Ömer (r.a.), Sa'd b. Ebî Vakkas'a; "Gerçekten halk senden namaza varıncaya kadar her konuda şikayet etmektedir, dedi. (O da): Ben (namazın) ilk iki rekatını uzatırım, son iki rekatini da kısa tutarım. Nebi (Sallallahu aleyhi ve Sellem)'in namazına uymakta kusur etmem diye cevap vecdi. (Hz. Ömer de): Senden beklenen de budur, dedi. Diğer tahric: Buhari, ezan; Müslim, salat; Nesai, Iftıtah; Ahmed b. Hanbel, I, 175
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (770) Sahih Muslim (453)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>803</td></tr><tr><td>Arabic No</td><td>803</td></tr><tr><td>Reference</td><td>Book 2 Hadith 413</td></tr></tbody></table></div>
 
